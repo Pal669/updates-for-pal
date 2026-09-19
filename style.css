@@ -1,0 +1,71 @@
+:root {
+  --paper: #f6f1e7;
+  --card: #fbf8f1;
+  --ink: #1b1a17;
+  --muted: #6b665b;
+  --rule: #cfc7b5;
+  --accent: #8a1c1c;
+  --link: #14507a;
+  --chip: #ebe4d3;
+  --pib: #1f5f3a;
+  --rbi: #6a3d9a;
+  --sebi: #a35a00;
+  --serif: Georgia, "Times New Roman", "Noto Serif", serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #16150f; --card: #1d1c15; --ink: #ece7d8; --muted: #a29b88; --rule: #3a372b;
+    --accent: #e08a7d; --link: #8cc0ea; --chip: #2a281e; --pib: #6cc08e; --rbi: #b99be0; --sebi: #e6a95a;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--serif); line-height: 1.5; }
+a { color: var(--link); }
+
+.masthead { text-align: center; padding: 20px 16px 0; max-width: 960px; margin: 0 auto; }
+.dateline { display: flex; justify-content: space-between; gap: 12px; font: 12px/1.4 var(--sans); letter-spacing: .06em;
+  text-transform: uppercase; color: var(--muted); border-bottom: 1px solid var(--rule); padding-bottom: 8px; }
+h1 { font-family: var(--serif); font-weight: 700; font-size: clamp(38px, 9vw, 76px); letter-spacing: -.01em; margin: 14px 0 0; line-height: 1.05; }
+.tagline { margin: 6px 0 14px; color: var(--muted); font-style: italic; }
+.desks { display: flex; justify-content: center; gap: 4px; border-top: 3px double var(--ink); border-bottom: 1px solid var(--ink); padding: 8px 0; }
+.desk { font: 600 12px var(--sans); letter-spacing: .1em; text-transform: uppercase; padding: 4px 12px; color: var(--ink); text-decoration: none; }
+.desk.active { border-bottom: 2px solid var(--accent); color: var(--accent); }
+.desk.soon { color: var(--muted); font-weight: 400; }
+
+main { max-width: 960px; margin: 0 auto; padding: 0 16px 40px; }
+
+.lead { border-bottom: 1px solid var(--rule); padding: 22px 0; }
+.lead .kicker, .card .meta { font: 12px/1.4 var(--sans); letter-spacing: .05em; text-transform: uppercase; color: var(--muted); }
+.lead h2 { font-size: clamp(26px, 5vw, 40px); line-height: 1.15; margin: 6px 0 10px; }
+.lead h2 a { color: var(--ink); text-decoration: none; }
+.lead h2 a:hover { text-decoration: underline; }
+.lead p { font-size: 18px; margin: 0 0 12px; max-width: 70ch; }
+
+.controls { padding: 16px 0 4px; position: sticky; top: 0; background: var(--paper); z-index: 5; border-bottom: 1px solid var(--rule); }
+#q { width: 100%; font: 16px var(--sans); padding: 10px 12px; border: 1px solid var(--rule); border-radius: 6px; background: var(--card); color: var(--ink); }
+.row { margin-top: 10px; }
+.row.split { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 8px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { font: 13px var(--sans); border: 1px solid var(--rule); background: var(--chip); color: var(--ink); border-radius: 999px; padding: 4px 11px; cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.toggle { font: 13px var(--sans); color: var(--muted); }
+.count { font: 12px var(--sans); color: var(--muted); margin: 8px 0 6px; }
+
+.day { font: 700 13px var(--sans); letter-spacing: .12em; text-transform: uppercase; margin: 26px 0 0; padding-bottom: 6px; border-bottom: 2px solid var(--ink); }
+.card { padding: 16px 0; border-bottom: 1px solid var(--rule); }
+.card h3 { font-size: 20px; line-height: 1.25; margin: 4px 0 6px; }
+.card h3 a { color: var(--ink); text-decoration: none; }
+.card h3 a:hover { text-decoration: underline; }
+.card p { margin: 0 0 8px; color: var(--ink); opacity: .9; }
+.badge { display: inline-block; font: 700 11px var(--sans); letter-spacing: .08em; padding: 1px 7px; border-radius: 3px; color: #fff; margin-right: 6px; }
+.badge.PIB { background: var(--pib); } .badge.RBI { background: var(--rbi); } .badge.SEBI { background: var(--sebi); }
+.badge.major { background: var(--accent); }
+.read { font: 600 14px var(--sans); }
+.more { font: 13px var(--sans); color: var(--muted); }
+.more a { margin-right: 10px; }
+
+.empty { text-align: center; color: var(--muted); padding: 40px 0; }
+footer { max-width: 960px; margin: 0 auto; padding: 16px; border-top: 3px double var(--ink); font: 12px/1.5 var(--sans); color: var(--muted); text-align: center; }
+@media (max-width: 520px) { .dateline { flex-direction: column; align-items: center; gap: 2px; } .card h3 { font-size: 18px; } }

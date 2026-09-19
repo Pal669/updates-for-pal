@@ -1,0 +1,36 @@
+name: Refresh policy desk
+
+on:
+  schedule:
+    - cron: "30 2 * * *"    # 08:00 IST  - RBI / SEBI overnight, PIB late items
+    - cron: "30 16 * * *"   # 22:00 IST  - PIB lists only the current day, so this run captures the full day
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collect new policy items
+        run: python scripts/fetch_policies.py
+      - name: Commit if anything new
+        run: |
+          if [ -n "$(git status --porcelain data/items.json)" ]; then
+            git config user.name "updates-for-pal-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add data/items.json
+            git commit -m "Policy desk refresh $(date -u +%Y-%m-%d\ %H:%M) UTC"
+            git push
+          else
+            echo "No new items"
+          fi
