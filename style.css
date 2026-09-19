@@ -69,3 +69,18 @@ main { max-width: 960px; margin: 0 auto; padding: 0 16px 40px; }
 .empty { text-align: center; color: var(--muted); padding: 40px 0; }
 footer { max-width: 960px; margin: 0 auto; padding: 16px; border-top: 3px double var(--ink); font: 12px/1.5 var(--sans); color: var(--muted); text-align: center; }
 @media (max-width: 520px) { .dateline { flex-direction: column; align-items: center; gap: 2px; } .card h3 { font-size: 18px; } }
+
+/* Startup Desk */
+.badge.type { background: var(--ink); color: var(--paper); }
+.badge.src { background: var(--muted); }
+.deal { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 10px; }
+.deal span { font: 13px var(--sans); background: var(--chip); border: 1px solid var(--rule); border-radius: 4px; padding: 2px 8px; }
+.auto { font: 14px/1.5 var(--sans); color: var(--muted); margin: 0 0 8px; }
+.auto ul { margin: 4px 0 0; padding-left: 18px; }
+.file { border: 1px solid var(--rule); border-left: 4px solid var(--accent); background: var(--card); border-radius: 4px; padding: 8px 14px; margin: 8px 0 12px; }
+.file summary { cursor: pointer; font: 700 14px var(--sans); letter-spacing: .03em; }
+.file h4 { font: 700 11px var(--sans); letter-spacing: .12em; text-transform: uppercase; color: var(--accent); margin: 14px 0 4px; }
+.file p, .file li { font-size: 16px; margin: 0 0 6px; }
+.file ul { margin: 0; padding-left: 20px; }
+.file .fine { font: 12px var(--sans); color: var(--muted); margin-top: 12px; }
+.desk { cursor: pointer; }

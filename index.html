@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Updates for Pal</title>
-<meta name="description" content="A personal newspaper. Policy Desk: every new Government of India policy, summarised, with the original document one click away.">
+<meta name="description" content="A personal newspaper. Policy Desk and Startup Desk, each item linked to its original source.">
 <meta name="color-scheme" content="light dark">
 <link rel="stylesheet" href="style.css">
 </head>
@@ -14,8 +14,8 @@
   <h1>Updates for Pal</h1>
   <p class="tagline">What changed, who changed it, and where to read the original</p>
   <nav class="desks" aria-label="Desks">
-    <a class="desk active" href="#policy">Policy Desk</a>
-    <span class="desk soon" title="Coming next">More desks soon</span>
+    <a class="desk" data-desk="policy" href="#policy">Policy Desk</a>
+    <a class="desk" data-desk="startups" href="#startups">Startup Desk</a>
   </nav>
 </header>
 
@@ -23,13 +23,12 @@
   <section id="lead" class="lead" hidden></section>
 
   <section class="controls" aria-label="Filters">
-    <input id="q" type="search" placeholder="Search policies, ministries, schemes" aria-label="Search">
-    <div class="row">
-      <div id="sectors" class="chips" role="group" aria-label="Sector"></div>
-    </div>
+    <input id="q" type="search" placeholder="Search" aria-label="Search">
+    <div class="row"><div id="f1" class="chips" role="group" aria-label="Sector"></div></div>
+    <div class="row"><div id="f2" class="chips" role="group" aria-label="Type or source"></div></div>
     <div class="row split">
-      <div id="sources" class="chips" role="group" aria-label="Source"></div>
-      <label class="toggle"><input id="majorOnly" type="checkbox"> Major decisions only</label>
+      <div id="f3" class="chips" role="group" aria-label="Source"></div>
+      <label class="toggle"><input id="flag" type="checkbox"> <span id="flagLabel"></span></label>
     </div>
     <p id="count" class="count"></p>
   </section>
@@ -39,7 +38,7 @@
 </main>
 
 <footer>
-  <p>Sources: Press Information Bureau, Reserve Bank of India, SEBI. Summaries are the government's own opening lines, trimmed, never rewritten. Always open the original before acting on anything.</p>
+  <p id="sources"></p>
   <p id="updated"></p>
 </footer>
 <script src="app.js"></script>

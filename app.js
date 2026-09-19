@@ -1,30 +1,78 @@
-// Updates for Pal: renders data/items.json. No libraries, no external calls.
+// Updates for Pal: renders data/*.json, one desk per data file. No libraries, no external calls.
 (function () {
   const $ = (id) => document.getElementById(id);
-  const state = { items: [], sector: "All", source: "All", major: false, q: "" };
+  const esc = (s) => String(s == null ? "" : s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const day = (iso) => new Date(iso + "T00:00:00").toLocaleDateString("en-IN", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
+  const link = (u, t, cls) => `<a ${cls ? `class="${cls}" ` : ""}href="${esc(u)}" target="_blank" rel="noopener">${t}</a>`;
+  const list = (a) => (a && a.length ? `<ul>${a.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>` : "");
 
-  const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
-  const fmtDay = (iso) => new Date(iso + "T00:00:00").toLocaleDateString("en-IN", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
+  // ---------------------------------------------------------------- desks
+  const DESKS = {
+    policy: {
+      file: "data/items.json",
+      title: "Policy Desk",
+      sources: "Sources: Press Information Bureau, Reserve Bank of India, SEBI. Summaries are the government's own opening lines, trimmed, never rewritten. Always open the original before acting on anything.",
+      f1: { key: "sector" }, f2: null, f3: { key: "source", values: ["PIB", "RBI", "SEBI"] },
+      flag: { label: "Major decisions only", test: (i) => i.major },
+      search: (i) => `${i.title} ${i.summary} ${i.ministry} ${i.sector}`,
+      lead: (items) => items.find((i) => i.major) || items[0],
+      card(it, lead) {
+        const b = `<span class="badge ${esc(it.source)}">${esc(it.source)}</span>` + (it.major ? `<span class="badge major">MAJOR</span>` : "");
+        const extra = (it.links || []).length > 1
+          ? `<div class="more">Individual documents: ${it.links.map((l) => link(l.url, esc(l.label))).join("")}</div>` : "";
+        const meta = `${b}${esc(it.ministry)} &middot; ${esc(it.sector)}`;
+        return shell(lead, meta, it, `<p>${esc(it.summary)}</p>${extra}`, "Read the original");
+      },
+    },
+    startups: {
+      file: "data/startups.json",
+      title: "Startup Desk",
+      sources: "Sources: Inc42, YourStory, Startup Story, Economic Times Startups, TechCrunch, MediaNama. Feed cards are headline-level and machine-collected. A Startup File is written by hand from the linked article only; lines marked Inferred are reasoning, not reported fact.",
+      f1: { key: "sector" }, f2: { key: "type" }, f3: { key: "source" },
+      flag: { label: "With Startup File only", test: (i) => !!i.profile },
+      search: (i) => `${i.title} ${i.blurb} ${i.company || ""} ${i.sector} ${i.type} ${i.profile ? i.profile.company + " " + i.profile.what : ""}`,
+      lead: (items) => items.find((i) => i.profile) || items[0],
+      card(it, lead) {
+        const b = `<span class="badge ${esc(it.source.replace(/\s+/g, ""))} src">${esc(it.source)}</span><span class="badge type">${esc(it.type)}</span>`;
+        const deal = [it.amount && `Figure in headline: ${it.amount}`, it.stage && `Stage: ${it.stage}`, it.investors && `Investors: ${it.investors}`].filter(Boolean);
+        const dealHtml = deal.length ? `<div class="deal">${deal.map((d) => `<span>${esc(d)}</span>`).join("")}</div>` : "";
+        const also = (it.also || []).length ? `<div class="more">Also covered by: ${it.also.map((a) => link(a.url, esc(a.source))).join("")}</div>` : "";
+        const body = `<p>${esc(it.profile ? it.profile.tagline + ". " : "")}${esc(it.blurb)}</p>${dealHtml}${it.profile ? fileBox(it.profile) : autoBits(it)}${also}`;
+        return shell(lead, `${b}${esc(it.sector)} &middot; ${esc(it.region)}`, it, body, "Read the full story", lead);
+      },
+    },
+  };
 
-  function card(it, lead) {
-    const badges = `<span class="badge ${esc(it.source)}">${esc(it.source)}</span>` + (it.major ? `<span class="badge major">MAJOR</span>` : "");
-    const extra = (it.links || []).length > 1
-      ? `<div class="more">Individual documents: ${it.links.map((l) => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.label)}</a>`).join("")}</div>` : "";
-    const meta = `${badges}${esc(it.ministry)} &middot; ${esc(it.sector)}`;
-    if (lead) {
-      return `<div class="kicker">Lead story &middot; ${meta}</div>
-        <h2><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></h2>
-        <p>${esc(it.summary)}</p>${extra}
-        <a class="read" href="${esc(it.url)}" target="_blank" rel="noopener">Read the original document &rarr;</a>`;
-    }
-    return `<article class="card"><div class="meta">${meta}</div>
-      <h3><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></h3>
-      <p>${esc(it.summary)}</p>${extra}
-      <a class="read" href="${esc(it.url)}" target="_blank" rel="noopener">Read the original &rarr;</a></article>`;
+  function autoBits(it) {
+    const bits = [];
+    if (it.what) bits.push(`<div class="auto"><b>What it does (from the article):</b> ${esc(it.what)}</div>`);
+    if ((it.financials || []).length) bits.push(`<div class="auto"><b>Numbers mentioned:</b>${list(it.financials)}</div>`);
+    return bits.join("");
   }
 
+  function fileBox(p) {
+    return `<details class="file" open><summary>Startup File: ${esc(p.company)}</summary>
+      <h4>What they do</h4><p>${esc(p.what)}</p>
+      <h4>How they make money</h4>${list(p.how)}
+      <h4>Numbers</h4>${list(p.numbers)}
+      <h4>Watch</h4><p>${esc(p.watch)}</p>
+      <h4>Takeaway</h4><p>${esc(p.lesson)}</p>
+      <p class="fine">Written ${esc(p.written)} from: ${(p.sources || []).map((u, n) => link(u, `source ${n + 1}`)).join(", ")}</p></details>`;
+  }
+
+  function shell(lead, meta, it, body, cta) {
+    if (lead) {
+      return `<div class="kicker">Lead story &middot; ${meta}</div>
+        <h2>${link(it.url, esc(it.title))}</h2>${body}${link(it.url, cta + " &rarr;", "read")}`;
+    }
+    return `<article class="card"><div class="meta">${meta}</div><h3>${link(it.url, esc(it.title))}</h3>${body}${link(it.url, cta + " &rarr;", "read")}</article>`;
+  }
+
+  // ---------------------------------------------------------------- state / render
+  let desk, cfg, items, state, leadItem;
+
   function chips(el, values, key) {
-    el.innerHTML = values.map((v) => `<button class="chip" type="button" aria-pressed="${state[key] === v}" data-v="${esc(v)}">${esc(v)}</button>`).join("");
+    el.innerHTML = values.length ? ["All", ...values].map((v) => `<button class="chip" type="button" aria-pressed="${state[key] === v}" data-v="${esc(v)}">${esc(v)}</button>`).join("") : "";
     el.onclick = (e) => {
       const b = e.target.closest("button");
       if (!b) return;
@@ -33,48 +81,71 @@
       render();
     };
   }
+  const uniq = (key) => [...new Set(items.map((i) => i[key]))].filter(Boolean).sort();
 
   function visible() {
     const q = state.q.trim().toLowerCase();
-    return state.items.filter((i) =>
-      (state.sector === "All" || i.sector === state.sector) &&
-      (state.source === "All" || i.source === state.source) &&
-      (!state.major || i.major) &&
-      (!q || `${i.title} ${i.summary} ${i.ministry} ${i.sector}`.toLowerCase().includes(q)));
+    return items.filter((i) =>
+      (state.f1 === "All" || i[cfg.f1.key] === state.f1) &&
+      (!cfg.f2 || state.f2 === "All" || i[cfg.f2.key] === state.f2) &&
+      (!cfg.f3 || state.f3 === "All" || i[cfg.f3.key] === state.f3) &&
+      (!state.flag || cfg.flag.test(i)) &&
+      (!q || cfg.search(i).toLowerCase().includes(q)));
   }
 
   function render() {
-    const list = visible();
-    $("count").textContent = `${list.length} of ${state.items.length} items`;
-    $("empty").hidden = list.length > 0;
-    let html = "", day = "";
-    for (const it of list) {
-      if (it.date !== day) { day = it.date; html += `<h2 class="day">${fmtDay(day)}</h2>`; }
-      html += card(it, false);
+    const rows = visible();
+    $("count").textContent = `${rows.length} of ${items.length} items`;
+    $("empty").hidden = rows.length > 0;
+    let html = "", d = "";
+    const plain = !state.q && state.f1 === "All" && state.f2 === "All" && state.f3 === "All" && !state.flag;
+    for (const it of rows) {
+      if (plain && it === leadItem) continue; // already shown as the lead story
+      if (it.date !== d) { d = it.date; html += `<h2 class="day">${day(d)}</h2>`; }
+      html += cfg.card(it, false);
     }
     $("feed").innerHTML = html;
   }
 
-  function lead() {
-    const top = state.items.find((i) => i.major) || state.items[0];
-    if (!top) return;
-    $("lead").innerHTML = card(top, true);
-    $("lead").hidden = false;
+  async function load(name) {
+    desk = DESKS[name] ? name : "policy";
+    cfg = DESKS[desk];
+    document.querySelectorAll(".desk").forEach((a) => a.classList.toggle("active", a.dataset.desk === desk));
+    $("feed").innerHTML = '<p class="empty">Loading...</p>';
+    $("lead").hidden = true;
+    try {
+      const res = await fetch(cfg.file, { cache: "no-cache" });
+      const data = await res.json();
+      items = data.items;
+      if (desk === "startups") {
+        const pr = await fetch("data/profiles.json", { cache: "no-cache" }).then((r) => r.json()).catch(() => ({ profiles: [] }));
+        const byKey = Object.fromEntries(pr.profiles.map((p) => [p.key, p]));
+        items.forEach((i) => { i.profile = byKey[i.url] || null; });
+        // A Startup File whose story has aged out of the feed still appears, so nothing written is lost.
+        pr.profiles.filter((p) => !items.some((i) => i.url === p.key)).forEach((p) =>
+          items.push({ id: p.key, source: "Startup File", region: "", title: p.company, date: p.written, url: p.sources[0], company: p.company,
+            type: "Startup File", sector: p.sector, blurb: p.tagline, profile: p }));
+        items.sort((a, b) => (a.date < b.date ? 1 : -1));
+      }
+      state = { q: "", f1: "All", f2: "All", f3: "All", flag: false };
+      $("q").value = ""; $("flag").checked = false; $("flagLabel").textContent = cfg.flag.label;
+      chips($("f1"), uniq(cfg.f1.key), "f1");
+      chips($("f2"), cfg.f2 ? uniq(cfg.f2.key) : [], "f2");
+      chips($("f3"), cfg.f3 ? (cfg.f3.values || uniq(cfg.f3.key)) : [], "f3");
+      $("edition").textContent = `${cfg.title} · ${data.count} items on file`;
+      $("updated").textContent = `Last refreshed ${data.updated}`;
+      $("sources").textContent = cfg.sources;
+      const top = leadItem = cfg.lead(items);
+      if (top) { $("lead").innerHTML = cfg.card(top, true); $("lead").hidden = false; }
+      render();
+    } catch (e) {
+      $("feed").innerHTML = `<p class="empty">Could not load ${esc(cfg.file)}.</p>`;
+    }
   }
 
-  fetch("data/items.json", { cache: "no-cache" })
-    .then((r) => r.json())
-    .then((d) => {
-      state.items = d.items;
-      $("today").textContent = new Date().toLocaleDateString("en-IN", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
-      $("edition").textContent = `Policy Desk · ${d.count} items on file`;
-      $("updated").textContent = `Last refreshed ${d.updated}`;
-      chips($("sectors"), ["All", ...[...new Set(d.items.map((i) => i.sector))].sort()], "sector");
-      chips($("sources"), ["All", "PIB", "RBI", "SEBI"], "source");
-      $("q").oninput = (e) => { state.q = e.target.value; render(); };
-      $("majorOnly").onchange = (e) => { state.major = e.target.checked; render(); };
-      lead();
-      render();
-    })
-    .catch(() => { $("feed").innerHTML = '<p class="empty">Could not load data/items.json.</p>'; });
+  $("today").textContent = new Date().toLocaleDateString("en-IN", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
+  $("q").oninput = (e) => { state.q = e.target.value; render(); };
+  $("flag").onchange = (e) => { state.flag = e.target.checked; render(); };
+  window.addEventListener("hashchange", () => load(location.hash.slice(1)));
+  load(location.hash.slice(1));
 })();
