@@ -27,7 +27,11 @@
     startups: {
       file: "data/startups.json",
       title: "Startup Desk",
-      sources: "Sources: Inc42, YourStory, Startup Story, Economic Times Startups, TechCrunch, MediaNama. Feed cards are headline-level and machine-collected. A Startup File is written by hand from the linked article only; lines marked Inferred are reasoning, not reported fact.",
+      sources: "Sources: Inc42, YourStory, Startup Story, Economic Times Startups, MediaNama (India); TechCrunch, Sifted (Global). Feed cards are headline-level and machine-collected. A Startup File is written by hand from the linked article only; lines marked Inferred are reasoning, not reported fact.",
+      subs: [
+        { id: "india", label: "Indian Startups", test: (i) => i.region === "India" },
+        { id: "global", label: "Global Startups", test: (i) => i.region !== "India" },
+      ],
       f1: { key: "sector" }, f2: { key: "type" }, f3: { key: "source" },
       flag: { label: "With Startup File only", test: (i) => !!i.profile },
       search: (i) => `${i.title} ${i.blurb} ${i.company || ""} ${i.sector} ${i.type} ${i.profile ? i.profile.company + " " + i.profile.what : ""}`,
@@ -69,7 +73,7 @@
   }
 
   // ---------------------------------------------------------------- state / render
-  let desk, cfg, items, state, leadItem;
+  let desk, sub, cfg, items, state, leadItem;
 
   function chips(el, values, key) {
     el.innerHTML = values.length ? ["All", ...values].map((v) => `<button class="chip" type="button" aria-pressed="${state[key] === v}" data-v="${esc(v)}">${esc(v)}</button>`).join("") : "";
@@ -107,9 +111,11 @@
     $("feed").innerHTML = html;
   }
 
-  async function load(name) {
+  async function load(hash) {
+    const [name, subId] = hash.split("/");
     desk = DESKS[name] ? name : "policy";
     cfg = DESKS[desk];
+    sub = cfg.subs ? (cfg.subs.find((s) => s.id === subId) || cfg.subs[0]) : null;
     document.querySelectorAll(".desk").forEach((a) => a.classList.toggle("active", a.dataset.desk === desk));
     $("feed").innerHTML = '<p class="empty">Loading...</p>';
     $("lead").hidden = true;
@@ -124,15 +130,22 @@
         // A Startup File whose story has aged out of the feed still appears, so nothing written is lost.
         pr.profiles.filter((p) => !items.some((i) => i.url === p.key)).forEach((p) =>
           items.push({ id: p.key, source: "Startup File", region: "", title: p.company, date: p.written, url: p.sources[0], company: p.company,
-            type: "Startup File", sector: p.sector, blurb: p.tagline, profile: p }));
+            type: "Startup File", sector: p.sector, blurb: p.tagline, profile: p, region: p.region || "India" }));
         items.sort((a, b) => (a.date < b.date ? 1 : -1));
       }
+      const subNav = $("subs");
+      if (sub) {
+        const all = items;
+        subNav.innerHTML = cfg.subs.map((s) => `<a href="#${desk}/${s.id}" class="${s.id === sub.id ? "active" : ""}">${esc(s.label)}<small>${all.filter(s.test).length}</small></a>`).join("");
+        subNav.hidden = false;
+        items = all.filter(sub.test);
+      } else { subNav.hidden = true; }
       state = { q: "", f1: "All", f2: "All", f3: "All", flag: false };
       $("q").value = ""; $("flag").checked = false; $("flagLabel").textContent = cfg.flag.label;
       chips($("f1"), uniq(cfg.f1.key), "f1");
       chips($("f2"), cfg.f2 ? uniq(cfg.f2.key) : [], "f2");
       chips($("f3"), cfg.f3 ? (cfg.f3.values || uniq(cfg.f3.key)) : [], "f3");
-      $("edition").textContent = `${cfg.title} · ${data.count} items on file`;
+      $("edition").textContent = `${sub ? sub.label : cfg.title} · ${items.length} items on file`;
       $("updated").textContent = `Last refreshed ${data.updated}`;
       $("sources").textContent = cfg.sources;
       const top = leadItem = cfg.lead(items);

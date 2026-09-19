@@ -84,3 +84,9 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px; border-top: 3px double
 .file ul { margin: 0; padding-left: 20px; }
 .file .fine { font: 12px var(--sans); color: var(--muted); margin-top: 12px; }
 .desk { cursor: pointer; }
+
+/* sub-sections inside a desk */
+.subs { display: flex; justify-content: center; gap: 8px; padding: 10px 0 12px; }
+.subs a { font: 600 13px var(--sans); text-decoration: none; color: var(--ink); border: 1px solid var(--ink); border-radius: 999px; padding: 6px 16px; }
+.subs a.active { background: var(--ink); color: var(--paper); }
+.subs small { font-weight: 400; opacity: .7; margin-left: 4px; }

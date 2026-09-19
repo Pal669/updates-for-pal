@@ -30,6 +30,8 @@ FEEDS = [
     ("Startup Story", "India", "https://startupstorymedia.com/feed"),
     ("ET Startups", "India", "https://economictimes.indiatimes.com/tech/startups/rssfeeds/78570561.cms"),
     ("TechCrunch", "Global", "https://techcrunch.com/category/startups/feed/"),
+    ("TechCrunch Venture", "Global", "https://techcrunch.com/category/venture/feed/"),
+    ("Sifted", "Global", "https://sifted.eu/feed"),
     ("MediaNama", "India", "https://www.medianama.com/feed/"),
 ]
 
@@ -39,11 +41,15 @@ RELEVANT = re.compile(
     r"founder|co-founder|layoff|lays off|shuts? down|winds? up|insolven|profit|loss(es)?\b|revenue|\barr\b|\bgmv\b|"
     r"d2c|fintech|edtech|healthtech|agritech|saas|quick commerce|neobank|new-age|scale-?up|bootstrapped|pivot", re.I)
 DEDICATED = {"Inc42", "YourStory", "Startup Story"}
+INDIA_ONLY = {"Inc42", "YourStory", "Startup Story"}      # these outlets cover Indian startups by definition
+INDIA_MARK = re.compile(
+    r"\bindia\b|\bindian\b|₹|\brs\.? ?\d|\bcrore\b|\blakh\b|\bcr\b|bengaluru|bangalore|mumbai|delhi|gurugram|gurgaon|"
+    r"hyderabad|chennai|pune|kolkata|ahmedabad|jaipur|kochi|\bsebi\b|\brbi\b|\bupi\b|meity|dpiit|\bnse\b|\bbse\b", re.I)
 STRICT = re.compile(
     r"startups?\b|start-up|raises?\b|raised|series [a-h]\b|pre-seed|seed (?:round|funding)|valuation|unicorn|soonicorn|"
     r"\bipo\b|drhp|acquires?|acquired|acquisition|founders?\b|layoffs?|d2c|saas|fintech|edtech|healthtech|agritech|"
     r"cloud kitchens?|quick commerce|venture (?:capital|debt)|\bvcs?\b|funding round|fundrais", re.I)
-FINANCE = re.compile(r"fy ?2\d|ebitda|net (?:profit|loss)|profit|loss(?:es)?|revenue|new-age|market debut|shares|subscribed|anchor investors|listing|mdr|upi|unit economics", re.I)
+FINANCE = re.compile(r"fy ?2\d|ebitda|net (?:profit|loss)|profit|loss(?:es)?\b|revenue|new-age|market debut|shares|subscribed|anchor investors|listing|\bmdr\b|upi|unit economics", re.I)
 NOISE = re.compile(
     r"books? for|self-growth|horoscope|\bquiz\b|podcast|how to |tips for|things to|listicle|newsletter|webinar|"
     r"quotes? (?:to|for)|exhibit|disrupt 2026|final \d+ hours|days left|semicon|semiconductor|chip |women powering|daily roundup|weekly funding roundup|sponsored|partner content|advertorial|giveaway|photos?:", re.I)
@@ -290,13 +296,18 @@ def main():
                 body = fetch_page_body(link)
                 fetched += 1
             kind, sector = classify(title, blurb)
+            probe = f"{title} {blurb} {(body or '')[:1200]}"
+            if name in INDIA_ONLY:
+                region_of = "India"
+            else:  # mixed outlets: India only if the story itself is visibly about India
+                region_of = "India" if INDIA_MARK.search(probe) else "Global"
             facts = extract(title, blurb, body or "")
             if kind not in ("Funding", "IPO & Listing", "Acquisition"):
                 facts["amount"] = facts["stage"] = None      # a figure in a results/analysis headline is not a deal size
             if kind != "Funding":
                 facts["investors"] = None
             fresh.append({
-                "id": uid, "source": name, "region": region, "title": title, "date": date, "url": link,
+                "id": uid, "source": name, "region": region_of, "title": title, "date": date, "url": link,
                 "company": company_name(title), "type": kind, "sector": sector,
                 "blurb": clip(blurb, 300), **facts, "first_seen": now,
             })
