@@ -35,6 +35,8 @@ jobs:
         run: python scripts/fetch_startups.py
       - name: Collect immigration news
         run: python scripts/fetch_immigration.py
+      - name: Collect listed-company news (Nifty 100 and all other companies)
+        run: python scripts/fetch_listed.py
       - name: Build the Front Page
         run: python scripts/build_front_page.py
       - name: Write briefs for stories that have none (front page stories first)

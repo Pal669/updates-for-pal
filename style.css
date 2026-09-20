@@ -201,3 +201,6 @@ h2.sect { font: 700 13px var(--sans); letter-spacing: .14em; text-transform: upp
   .whybox { background: rgba(224, 138, 125, .08); }
 }
 .row-card .brief .what { font-size: 15px; color: var(--ink); }
+
+.morewrap { text-align: center; margin: 1.2rem 0; }
+.morewrap .chip { font-size: 14px; padding: 8px 18px; }

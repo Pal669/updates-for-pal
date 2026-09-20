@@ -9,6 +9,16 @@ Move it anywhere: copy this folder to any static host and any machine with Pytho
   budget items), RBI (directions, circulars, policy releases) and SEBI (circulars, regulations, consultation papers).
   Each card = official headline + the government's own opening lines + link to the original.
 
+- **Listed Universe** (India's Listed Market Universe): news on listed companies, in two sections. **Nifty 100** = the
+  100 companies in NSE's official list (refreshed each run into `data/nifty100.json`). **All Other Companies** = every other
+  NSE/BSE-listed company. Sources: NSE and BSE corporate announcements (the company's own filing, exchange one-line summary,
+  PDF link), press RSS (ET, Business Standard, Mint, BusinessLine, Moneycontrol) and one Google News search per Nifty 100
+  company. `scripts/fetch_listed.py` drops routine paperwork (AGM notices, trading window, ESOP, SAST stake disclosures) and
+  sorts the rest into Results, Deals & M&A, Orders, Capital Raising, Payouts, Management, Ratings, Legal & Regulatory,
+  Operations & Risk, Business Updates and Market Alerts. Tune `FILING_RULES`, `DROP_DESC`, `PRE_DROP`, `MATERIAL`
+  (filings), `PRESS_RULES`, `MARKET_NOISE`, `FOREIGN` (press) and `MANUAL` (how a Nifty 100 company is spotted in a
+  headline) at the top of the script. Keeps 30 days / 4,000 items. Not on the Front Page yet.
+
 ## How it works
 - `scripts/fetch_policies.py` reads the official feeds, keeps items whose title announces an action (see `ACTION` and
   `NOISE_TITLE` in the script), tags a sector, and merges them into `data/items.json`. Existing items are never lost.

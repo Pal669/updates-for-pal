@@ -89,6 +89,29 @@
     },
   };
 
+  // ---------------------------------------------------------------- Listed Market Universe Desk
+  DESKS.listed = {
+    file: "data/listed.json",
+    title: "India's Listed Market Universe",
+    sources: "Sources: NSE and BSE corporate announcements (the company's own filing, with the exchange's one-line summary and a link to the PDF), Economic Times, Business Standard, Mint, BusinessLine, Moneycontrol and Google News headlines. Routine filings (AGM notices, trading window, ESOP allotments, shareholding paperwork) are left out; nothing is rewritten by a model. Press headlines are matched to companies by name, so an occasional mismatch is possible. Not investment advice: open the filing before acting.",
+    subs: [
+      { id: "nifty100", label: "Nifty 100", test: (i) => i.universe === "nifty100" },
+      { id: "other", label: "All Other Companies", test: (i) => i.universe !== "nifty100" },
+    ],
+    f1: { key: "category" }, f2: { key: "industry" }, f3: { key: "kind", values: ["Exchange filing", "Press"] },
+    flag: { label: "Major events only", test: (i) => i.major },
+    search: (i) => `${i.title} ${i.summary} ${i.company} ${i.symbol} ${i.industry} ${i.category} ${i.source}`,
+    lead: (items) => items.find((i) => i.major && i.kind === "Exchange filing") || items.find((i) => i.major) || items[0],
+    card(it, lead) {
+      const b = `<span class="badge ${it.kind === "Press" ? "src" : "major"}">${it.kind === "Press" ? "PRESS" : esc(it.source)}</span><span class="badge type">${esc(it.category)}</span>` +
+        (it.major ? `<span class="badge major">MAJOR</span>` : "");
+      const who = [it.company, it.symbol && it.source === "NSE" ? it.symbol : "", it.industry, it.kind === "Press" ? it.source : ""].filter(Boolean).map(esc).join(" &middot; ");
+      const also = (it.also || []).length ? `<div class="more">Also mentioned: ${it.also.map(esc).join(", ")}</div>` : "";
+      const body = (it.summary ? `<p>${esc(it.summary)}</p>` : "") + (it.time ? `<div class="fine">${esc(it.date)} ${esc(it.time)} IST</div>` : "") + also;
+      return shell(lead, `${b}${who}`, it, body, it.kind === "Press" ? "Open the original" : "Open the filing");
+    },
+  };
+
   // ---------------------------------------------------------------- Front Page (top stories across all desks)
   DESKS.top = {
     file: "data/front.json",
@@ -283,6 +306,7 @@
       const b = e.target.closest("button");
       if (!b) return;
       state[key] = b.dataset.v;
+      state.limit = 150;
       chips(el, values, key);
       render();
     };
@@ -305,12 +329,16 @@
     $("empty").hidden = rows.length > 0;
     let html = "", d = "";
     const plain = !state.q && state.f1 === "All" && state.f2 === "All" && state.f3 === "All" && !state.flag;
-    for (const it of rows) {
+    const shown = rows.slice(0, state.limit);      // long desks (Listed Universe) draw in pages of 150
+    for (const it of shown) {
       if (plain && it === leadItem) continue; // already shown as the lead story
       if (it.date !== d) { d = it.date; html += `<h2 class="day">${day(d)}</h2>`; }
       html += cfg.card(it, false);
     }
+    if (rows.length > shown.length) html += `<p class="morewrap"><button type="button" id="showmore" class="chip">Show ${Math.min(150, rows.length - shown.length)} more (${rows.length - shown.length} not shown)</button></p>`;
     $("feed").innerHTML = html;
+    const more = $("showmore");
+    if (more) more.onclick = () => { state.limit += 150; render(); };
   }
 
   async function load(hash) {
@@ -338,7 +366,7 @@
         $("feed").innerHTML = frontView(data);
         interest = subId ? decodeURIComponent(subId) : "All";   // #top/Startups opens the page on that interest
         paintFront();
-        state = { q: "", f1: "All", f2: "All", f3: "All", flag: false };
+        state = { q: "", f1: "All", f2: "All", f3: "All", flag: false, limit: 150 };
         return;
       }
       if (desk === "startups") {
@@ -368,7 +396,7 @@
         subNav.hidden = false;
         items = all.filter(sub.test);
       } else { subNav.hidden = true; }
-      state = { q: "", f1: "All", f2: "All", f3: "All", flag: false };
+      state = { q: "", f1: "All", f2: "All", f3: "All", flag: false, limit: 150 };
       const special = !!(sub && sub.view);
       document.querySelector(".controls").classList.toggle("bare", special);
       if (special) {
@@ -411,8 +439,8 @@
   }
 
   $("today").textContent = new Date().toLocaleDateString("en-IN", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
-  $("q").oninput = (e) => { state.q = e.target.value; if (sub && sub.view) { window.__paint(); } else { render(); } };
-  $("flag").onchange = (e) => { state.flag = e.target.checked; render(); };
+  $("q").oninput = (e) => { state.q = e.target.value; state.limit = 150; if (sub && sub.view) { window.__paint(); } else { render(); } };
+  $("flag").onchange = (e) => { state.flag = e.target.checked; state.limit = 150; render(); };
   window.addEventListener("hashchange", () => load(location.hash.slice(1)));
   load(location.hash.slice(1));
 })();

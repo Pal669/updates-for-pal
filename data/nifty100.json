@@ -1,0 +1,605 @@
+{
+ "updated": "2026-09-20",
+ "companies": [
+  {
+   "name": "ABB India Ltd.",
+   "symbol": "ABB",
+   "industry": "Capital Goods",
+   "isin": "INE117A01022"
+  },
+  {
+   "name": "Adani Energy Solutions Ltd.",
+   "symbol": "ADANIENSOL",
+   "industry": "Power",
+   "isin": "INE931S01010"
+  },
+  {
+   "name": "Adani Enterprises Ltd.",
+   "symbol": "ADANIENT",
+   "industry": "Metals & Mining",
+   "isin": "INE423A01024"
+  },
+  {
+   "name": "Adani Green Energy Ltd.",
+   "symbol": "ADANIGREEN",
+   "industry": "Power",
+   "isin": "INE364U01010"
+  },
+  {
+   "name": "Adani Ports and Special Economic Zone Ltd.",
+   "symbol": "ADANIPORTS",
+   "industry": "Services",
+   "isin": "INE742F01042"
+  },
+  {
+   "name": "Adani Power Ltd.",
+   "symbol": "ADANIPOWER",
+   "industry": "Power",
+   "isin": "INE814H01029"
+  },
+  {
+   "name": "Ambuja Cements Ltd.",
+   "symbol": "AMBUJACEM",
+   "industry": "Construction Materials",
+   "isin": "INE079A01024"
+  },
+  {
+   "name": "Apollo Hospitals Enterprise Ltd.",
+   "symbol": "APOLLOHOSP",
+   "industry": "Healthcare",
+   "isin": "INE437A01024"
+  },
+  {
+   "name": "Asian Paints Ltd.",
+   "symbol": "ASIANPAINT",
+   "industry": "Consumer Durables",
+   "isin": "INE021A01026"
+  },
+  {
+   "name": "Avenue Supermarts Ltd.",
+   "symbol": "DMART",
+   "industry": "Consumer Services",
+   "isin": "INE192R01011"
+  },
+  {
+   "name": "Axis Bank Ltd.",
+   "symbol": "AXISBANK",
+   "industry": "Financial Services",
+   "isin": "INE238A01034"
+  },
+  {
+   "name": "Bajaj Auto Ltd.",
+   "symbol": "BAJAJ-AUTO",
+   "industry": "Automobile and Auto Components",
+   "isin": "INE917I01010"
+  },
+  {
+   "name": "Bajaj Finance Ltd.",
+   "symbol": "BAJFINANCE",
+   "industry": "Financial Services",
+   "isin": "INE296A01032"
+  },
+  {
+   "name": "Bajaj Finserv Ltd.",
+   "symbol": "BAJAJFINSV",
+   "industry": "Financial Services",
+   "isin": "INE918I01026"
+  },
+  {
+   "name": "Bajaj Holdings & Investment Ltd.",
+   "symbol": "BAJAJHLDNG",
+   "industry": "Financial Services",
+   "isin": "INE118A01012"
+  },
+  {
+   "name": "Bank of Baroda",
+   "symbol": "BANKBARODA",
+   "industry": "Financial Services",
+   "isin": "INE028A01039"
+  },
+  {
+   "name": "Bharat Electronics Ltd.",
+   "symbol": "BEL",
+   "industry": "Capital Goods",
+   "isin": "INE263A01024"
+  },
+  {
+   "name": "Bharat Petroleum Corporation Ltd.",
+   "symbol": "BPCL",
+   "industry": "Oil Gas & Consumable Fuels",
+   "isin": "INE029A01011"
+  },
+  {
+   "name": "Bharti Airtel Ltd.",
+   "symbol": "BHARTIARTL",
+   "industry": "Telecommunication",
+   "isin": "INE397D01024"
+  },
+  {
+   "name": "Bosch Ltd.",
+   "symbol": "BOSCHLTD",
+   "industry": "Automobile and Auto Components",
+   "isin": "INE323A01026"
+  },
+  {
+   "name": "Britannia Industries Ltd.",
+   "symbol": "BRITANNIA",
+   "industry": "Fast Moving Consumer Goods",
+   "isin": "INE216A01030"
+  },
+  {
+   "name": "CG Power and Industrial Solutions Ltd.",
+   "symbol": "CGPOWER",
+   "industry": "Capital Goods",
+   "isin": "INE067A01029"
+  },
+  {
+   "name": "Canara Bank",
+   "symbol": "CANBK",
+   "industry": "Financial Services",
+   "isin": "INE476A01022"
+  },
+  {
+   "name": "Cholamandalam Investment and Finance Company Ltd.",
+   "symbol": "CHOLAFIN",
+   "industry": "Financial Services",
+   "isin": "INE121A01024"
+  },
+  {
+   "name": "Cipla Ltd.",
+   "symbol": "CIPLA",
+   "industry": "Healthcare",
+   "isin": "INE059A01026"
+  },
+  {
+   "name": "Coal India Ltd.",
+   "symbol": "COALINDIA",
+   "industry": "Oil Gas & Consumable Fuels",
+   "isin": "INE522F01014"
+  },
+  {
+   "name": "Cummins India Ltd.",
+   "symbol": "CUMMINSIND",
+   "industry": "Capital Goods",
+   "isin": "INE298A01020"
+  },
+  {
+   "name": "DLF Ltd.",
+   "symbol": "DLF",
+   "industry": "Realty",
+   "isin": "INE271C01023"
+  },
+  {
+   "name": "Divi's Laboratories Ltd.",
+   "symbol": "DIVISLAB",
+   "industry": "Healthcare",
+   "isin": "INE361B01024"
+  },
+  {
+   "name": "Dr. Reddy's Laboratories Ltd.",
+   "symbol": "DRREDDY",
+   "industry": "Healthcare",
+   "isin": "INE089A01031"
+  },
+  {
+   "name": "Eicher Motors Ltd.",
+   "symbol": "EICHERMOT",
+   "industry": "Automobile and Auto Components",
+   "isin": "INE066A01021"
+  },
+  {
+   "name": "Eternal Ltd.",
+   "symbol": "ETERNAL",
+   "industry": "Consumer Services",
+   "isin": "INE758T01015"
+  },
+  {
+   "name": "GAIL (India) Ltd.",
+   "symbol": "GAIL",
+   "industry": "Oil Gas & Consumable Fuels",
+   "isin": "INE129A01019"
+  },
+  {
+   "name": "Godrej Consumer Products Ltd.",
+   "symbol": "GODREJCP",
+   "industry": "Fast Moving Consumer Goods",
+   "isin": "INE102D01028"
+  },
+  {
+   "name": "Grasim Industries Ltd.",
+   "symbol": "GRASIM",
+   "industry": "Construction Materials",
+   "isin": "INE047A01021"
+  },
+  {
+   "name": "HCL Technologies Ltd.",
+   "symbol": "HCLTECH",
+   "industry": "Information Technology",
+   "isin": "INE860A01027"
+  },
+  {
+   "name": "HDFC Asset Management Company Ltd.",
+   "symbol": "HDFCAMC",
+   "industry": "Financial Services",
+   "isin": "INE127D01025"
+  },
+  {
+   "name": "HDFC Bank Ltd.",
+   "symbol": "HDFCBANK",
+   "industry": "Financial Services",
+   "isin": "INE040A01034"
+  },
+  {
+   "name": "HDFC Life Insurance Company Ltd.",
+   "symbol": "HDFCLIFE",
+   "industry": "Financial Services",
+   "isin": "INE795G01014"
+  },
+  {
+   "name": "Hindalco Industries Ltd.",
+   "symbol": "HINDALCO",
+   "industry": "Metals & Mining",
+   "isin": "INE038A01020"
+  },
+  {
+   "name": "Hindustan Aeronautics Ltd.",
+   "symbol": "HAL",
+   "industry": "Capital Goods",
+   "isin": "INE066F01020"
+  },
+  {
+   "name": "Hindustan Unilever Ltd.",
+   "symbol": "HINDUNILVR",
+   "industry": "Fast Moving Consumer Goods",
+   "isin": "INE030A01027"
+  },
+  {
+   "name": "Hindustan Zinc Ltd.",
+   "symbol": "HINDZINC",
+   "industry": "Metals & Mining",
+   "isin": "INE267A01025"
+  },
+  {
+   "name": "Hyundai Motor India Ltd.",
+   "symbol": "HYUNDAI",
+   "industry": "Automobile and Auto Components",
+   "isin": "INE0V6F01027"
+  },
+  {
+   "name": "ICICI Bank Ltd.",
+   "symbol": "ICICIBANK",
+   "industry": "Financial Services",
+   "isin": "INE090A01021"
+  },
+  {
+   "name": "ITC Ltd.",
+   "symbol": "ITC",
+   "industry": "Fast Moving Consumer Goods",
+   "isin": "INE154A01025"
+  },
+  {
+   "name": "Indian Hotels Co. Ltd.",
+   "symbol": "INDHOTEL",
+   "industry": "Consumer Services",
+   "isin": "INE053A01029"
+  },
+  {
+   "name": "Indian Oil Corporation Ltd.",
+   "symbol": "IOC",
+   "industry": "Oil Gas & Consumable Fuels",
+   "isin": "INE242A01010"
+  },
+  {
+   "name": "Indian Railway Finance Corporation Ltd.",
+   "symbol": "IRFC",
+   "industry": "Financial Services",
+   "isin": "INE053F01010"
+  },
+  {
+   "name": "Infosys Ltd.",
+   "symbol": "INFY",
+   "industry": "Information Technology",
+   "isin": "INE009A01021"
+  },
+  {
+   "name": "InterGlobe Aviation Ltd.",
+   "symbol": "INDIGO",
+   "industry": "Services",
+   "isin": "INE646L01027"
+  },
+  {
+   "name": "JSW Steel Ltd.",
+   "symbol": "JSWSTEEL",
+   "industry": "Metals & Mining",
+   "isin": "INE019A01038"
+  },
+  {
+   "name": "Jindal Steel Ltd.",
+   "symbol": "JINDALSTEL",
+   "industry": "Metals & Mining",
+   "isin": "INE749A01030"
+  },
+  {
+   "name": "Jio Financial Services Ltd.",
+   "symbol": "JIOFIN",
+   "industry": "Financial Services",
+   "isin": "INE758E01017"
+  },
+  {
+   "name": "Kotak Mahindra Bank Ltd.",
+   "symbol": "KOTAKBANK",
+   "industry": "Financial Services",
+   "isin": "INE237A01036"
+  },
+  {
+   "name": "LTM Ltd.",
+   "symbol": "LTM",
+   "industry": "Information Technology",
+   "isin": "INE214T01019"
+  },
+  {
+   "name": "Larsen & Toubro Ltd.",
+   "symbol": "LT",
+   "industry": "Construction",
+   "isin": "INE018A01030"
+  },
+  {
+   "name": "Lodha Developers Ltd.",
+   "symbol": "LODHA",
+   "industry": "Realty",
+   "isin": "INE670K01029"
+  },
+  {
+   "name": "Mahindra & Mahindra Ltd.",
+   "symbol": "M&M",
+   "industry": "Automobile and Auto Components",
+   "isin": "INE101A01026"
+  },
+  {
+   "name": "Maruti Suzuki India Ltd.",
+   "symbol": "MARUTI",
+   "industry": "Automobile and Auto Components",
+   "isin": "INE585B01010"
+  },
+  {
+   "name": "Max Healthcare Institute Ltd.",
+   "symbol": "MAXHEALTH",
+   "industry": "Healthcare",
+   "isin": "INE027H01010"
+  },
+  {
+   "name": "Mazagoan Dock Shipbuilders Ltd.",
+   "symbol": "MAZDOCK",
+   "industry": "Capital Goods",
+   "isin": "INE249Z01020"
+  },
+  {
+   "name": "Muthoot Finance Ltd.",
+   "symbol": "MUTHOOTFIN",
+   "industry": "Financial Services",
+   "isin": "INE414G01012"
+  },
+  {
+   "name": "NTPC Ltd.",
+   "symbol": "NTPC",
+   "industry": "Power",
+   "isin": "INE733E01010"
+  },
+  {
+   "name": "Nestle India Ltd.",
+   "symbol": "NESTLEIND",
+   "industry": "Fast Moving Consumer Goods",
+   "isin": "INE239A01024"
+  },
+  {
+   "name": "Oil & Natural Gas Corporation Ltd.",
+   "symbol": "ONGC",
+   "industry": "Oil Gas & Consumable Fuels",
+   "isin": "INE213A01029"
+  },
+  {
+   "name": "Pidilite Industries Ltd.",
+   "symbol": "PIDILITIND",
+   "industry": "Chemicals",
+   "isin": "INE318A01026"
+  },
+  {
+   "name": "Power Finance Corporation Ltd.",
+   "symbol": "PFC",
+   "industry": "Financial Services",
+   "isin": "INE134E01011"
+  },
+  {
+   "name": "Power Grid Corporation of India Ltd.",
+   "symbol": "POWERGRID",
+   "industry": "Power",
+   "isin": "INE752E01010"
+  },
+  {
+   "name": "Punjab National Bank",
+   "symbol": "PNB",
+   "industry": "Financial Services",
+   "isin": "INE160A01022"
+  },
+  {
+   "name": "REC Ltd.",
+   "symbol": "RECLTD",
+   "industry": "Financial Services",
+   "isin": "INE020B01018"
+  },
+  {
+   "name": "Reliance Industries Ltd.",
+   "symbol": "RELIANCE",
+   "industry": "Oil Gas & Consumable Fuels",
+   "isin": "INE002A01018"
+  },
+  {
+   "name": "SBI Life Insurance Company Ltd.",
+   "symbol": "SBILIFE",
+   "industry": "Financial Services",
+   "isin": "INE123W01016"
+  },
+  {
+   "name": "Samvardhana Motherson International Ltd.",
+   "symbol": "MOTHERSON",
+   "industry": "Automobile and Auto Components",
+   "isin": "INE775A01035"
+  },
+  {
+   "name": "Shree Cement Ltd.",
+   "symbol": "SHREECEM",
+   "industry": "Construction Materials",
+   "isin": "INE070A01015"
+  },
+  {
+   "name": "Shriram Finance Ltd.",
+   "symbol": "SHRIRAMFIN",
+   "industry": "Financial Services",
+   "isin": "INE721A01047"
+  },
+  {
+   "name": "Siemens Energy India Ltd.",
+   "symbol": "ENRIN",
+   "industry": "Capital Goods",
+   "isin": "INE1NPP01017"
+  },
+  {
+   "name": "Siemens Ltd.",
+   "symbol": "SIEMENS",
+   "industry": "Capital Goods",
+   "isin": "INE003A01024"
+  },
+  {
+   "name": "Solar Industries India Ltd.",
+   "symbol": "SOLARINDS",
+   "industry": "Chemicals",
+   "isin": "INE343H01029"
+  },
+  {
+   "name": "State Bank of India",
+   "symbol": "SBIN",
+   "industry": "Financial Services",
+   "isin": "INE062A01020"
+  },
+  {
+   "name": "Sun Pharmaceutical Industries Ltd.",
+   "symbol": "SUNPHARMA",
+   "industry": "Healthcare",
+   "isin": "INE044A01036"
+  },
+  {
+   "name": "TVS Motor Company Ltd.",
+   "symbol": "TVSMOTOR",
+   "industry": "Automobile and Auto Components",
+   "isin": "INE494B01023"
+  },
+  {
+   "name": "Tata Capital Ltd.",
+   "symbol": "TATACAP",
+   "industry": "Financial Services",
+   "isin": "INE976I01016"
+  },
+  {
+   "name": "Tata Consultancy Services Ltd.",
+   "symbol": "TCS",
+   "industry": "Information Technology",
+   "isin": "INE467B01029"
+  },
+  {
+   "name": "Tata Consumer Products Ltd.",
+   "symbol": "TATACONSUM",
+   "industry": "Fast Moving Consumer Goods",
+   "isin": "INE192A01025"
+  },
+  {
+   "name": "Tata Motors Ltd.",
+   "symbol": "TMCV",
+   "industry": "Capital Goods",
+   "isin": "INE1TAE01010"
+  },
+  {
+   "name": "Tata Motors Passenger Vehicles Ltd.",
+   "symbol": "TMPV",
+   "industry": "Automobile and Auto Components",
+   "isin": "INE155A01022"
+  },
+  {
+   "name": "Tata Power Co. Ltd.",
+   "symbol": "TATAPOWER",
+   "industry": "Power",
+   "isin": "INE245A01021"
+  },
+  {
+   "name": "Tata Steel Ltd.",
+   "symbol": "TATASTEEL",
+   "industry": "Metals & Mining",
+   "isin": "INE081A01020"
+  },
+  {
+   "name": "Tech Mahindra Ltd.",
+   "symbol": "TECHM",
+   "industry": "Information Technology",
+   "isin": "INE669C01036"
+  },
+  {
+   "name": "Titan Company Ltd.",
+   "symbol": "TITAN",
+   "industry": "Consumer Durables",
+   "isin": "INE280A01028"
+  },
+  {
+   "name": "Torrent Pharmaceuticals Ltd.",
+   "symbol": "TORNTPHARM",
+   "industry": "Healthcare",
+   "isin": "INE685A01028"
+  },
+  {
+   "name": "Trent Ltd.",
+   "symbol": "TRENT",
+   "industry": "Consumer Services",
+   "isin": "INE849A01020"
+  },
+  {
+   "name": "UltraTech Cement Ltd.",
+   "symbol": "ULTRACEMCO",
+   "industry": "Construction Materials",
+   "isin": "INE481G01011"
+  },
+  {
+   "name": "Union Bank of India",
+   "symbol": "UNIONBANK",
+   "industry": "Financial Services",
+   "isin": "INE692A01016"
+  },
+  {
+   "name": "United Spirits Ltd.",
+   "symbol": "UNITDSPR",
+   "industry": "Fast Moving Consumer Goods",
+   "isin": "INE854D01024"
+  },
+  {
+   "name": "Varun Beverages Ltd.",
+   "symbol": "VBL",
+   "industry": "Fast Moving Consumer Goods",
+   "isin": "INE200M01039"
+  },
+  {
+   "name": "Vedanta Ltd.",
+   "symbol": "VEDL",
+   "industry": "Metals & Mining",
+   "isin": "INE205A01025"
+  },
+  {
+   "name": "Wipro Ltd.",
+   "symbol": "WIPRO",
+   "industry": "Information Technology",
+   "isin": "INE075A01022"
+  },
+  {
+   "name": "Zydus Lifesciences Ltd.",
+   "symbol": "ZYDUSLIFE",
+   "industry": "Healthcare",
+   "isin": "INE010B01027"
+  }
+ ]
+}
