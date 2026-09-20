@@ -25,12 +25,14 @@ jobs:
         run: python scripts/fetch_policies.py
       - name: Collect startup stories
         run: python scripts/fetch_startups.py
+      - name: Collect immigration news
+        run: python scripts/fetch_immigration.py
       - name: Commit if anything new
         run: |
-          if [ -n "$(git status --porcelain data/items.json data/startups.json)" ]; then
+          if [ -n "$(git status --porcelain data/items.json data/startups.json data/immigration.json)" ]; then
             git config user.name "updates-for-pal-bot"
             git config user.email "actions@users.noreply.github.com"
-            git add data/items.json data/startups.json
+            git add data/items.json data/startups.json data/immigration.json
             git commit -m "Desks refresh $(date -u +%Y-%m-%d\ %H:%M) UTC"
             git push
           else

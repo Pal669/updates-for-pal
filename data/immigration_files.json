@@ -1,0 +1,872 @@
+{
+  "note": "Country Files are hand-written from web research on 2026-09-20. 'Reported' facts come from the linked pages (mostly law-firm and immigration-adviser summaries, some official). Items marked (general knowledge) were NOT re-verified this session. Always confirm on the official immigration site before acting. Not legal advice.",
+  "checked": "2026-09-20",
+  "countries": [
+    {
+      "id": "germany",
+      "name": "Germany",
+      "trend": "Stable law, rising political risk",
+      "prSort": 1.75,
+      "citSort": 5,
+      "route": "EU Blue Card: minimum salary EUR 50,700 a year (EUR 45,934.20 for shortage occupations) in 2026. The Opportunity Card (Chancenkarte, from 2024) lets skilled people enter without a job offer. Blue Card spouses need no German for entry and usually get immediate work access.",
+      "pr": "Settlement permit after 27 months on a Blue Card with A1 German, or 21 months with B1 German.",
+      "citizenship": "5 years of lawful residence, roughly B1 German, financial independence. The 3-year fast track was abolished on 30 October 2025. Dual citizenship is permitted by Germany.",
+      "language": "B1 German for citizenship; A1/B1 for the fast PR. Most finance client-facing work needs German well beyond that (general knowledge).",
+      "finance": "Frankfurt is the main financial centre; large asset management, banking and insurance. English works in some firms but German is a strong advantage (general knowledge).",
+      "pros": [
+        "Fastest realistic settlement on this list for a Blue Card holder: 21 to 27 months.",
+        "5-year citizenship clock, dual nationality allowed on the German side.",
+        "Blue Card spouse gets easy entry and work rights.",
+        "India has an operational social security agreement with Germany (reported), which helps pension contributions.",
+        "Reported quota for Indian skilled workers raised from 20,000 to 90,000 a year (reported by consultancy sources; verify)."
+      ],
+      "cons": [
+        "Political risk: the AfD won 44% in Saxony-Anhalt (early September 2026) and polled around 37% ahead of the 20 September votes in Mecklenburg-Vorpommern and Berlin. Its manifesto calls for a points system with German-language criteria and quotas for non-EU skilled workers, and mass deportations.",
+        "Federal law today is still supportive, but the direction of the debate is restrictive.",
+        "German is close to essential for a career in wealth or advisory work.",
+        "Heavy bureaucracy and credential recognition steps (general knowledge)."
+      ],
+      "watch": [
+        "Outcome of the 20 September regional elections",
+        "Any change to Blue Card or naturalisation law by the federal government"
+      ],
+      "sources": [
+        {
+          "label": "Blue Card salary 2026",
+          "url": "https://www.jobbatical.com/blog/germany-latest-eu-blue-card-salaries-updated"
+        },
+        {
+          "label": "Fast-track citizenship repealed",
+          "url": "https://www.iamexpat.de/expat-info/germany-news/law-scrapping-route-german-citizenship-after-3-years-comes-effect"
+        },
+        {
+          "label": "AfD Saxony-Anhalt result (Al Jazeera)",
+          "url": "https://www.aljazeera.com/news/2026/9/4/germanys-far-right-eyes-election-breakthrough-as-afd-surges-in-saxony-anhalt"
+        },
+        {
+          "label": "AfD manifesto (CNN)",
+          "url": "https://www.cnn.com/2026/04/15/europe/alternative-for-deutschland-afd-germany-manifesto-intl"
+        }
+      ]
+    },
+    {
+      "id": "uk",
+      "name": "United Kingdom",
+      "trend": "Tightening",
+      "prSort": 5,
+      "citSort": 6,
+      "route": "Skilled Worker visa: general minimum salary GBP 41,700 (reduced GBP 33,400 for shortage-list roles, new entrants and relevant PhDs), job must be RQF level 6, and from January 2026 English at B2. Costs include the Immigration Health Surcharge (GBP 1,035 a year, reported) and the employer's Immigration Skills Charge (raised about 32% from 16 December 2025).",
+      "pr": "Indefinite leave to remain (ILR) is still 5 years for Skilled Workers today (B1 English, Life in the UK test, fee GBP 3,226). The government proposes an 'earned settlement' model with a 10-year baseline, reducible or extendable by contribution, integration and compliance. It is NOT yet in force; the government said it would legislate around autumn 2026. Consultation closed 12 February 2026.",
+      "citizenship": "Citizenship usually follows ILR by about a year (general knowledge). If the 10-year baseline arrives, the total clock could roughly double. The UK allows dual citizenship.",
+      "language": "English. No new language investment (fits your language-leverage logic: 'already unlocked').",
+      "finance": "London is the largest financial centre on this list: asset and wealth management, banking, insurance, fintech. Local regulator authorisation (FCA) is needed for advisory roles (general knowledge).",
+      "pros": [
+        "English-speaking, no language exam beyond visa English.",
+        "Deepest finance job market on this list (general knowledge).",
+        "5-year ILR path still exists under current rules.",
+        "Indians are the largest group of Skilled Worker visa recipients (reported), so the route is well-trodden.",
+        "India-UK trade deal and mobility provisions exist (reported; check details)."
+      ],
+      "cons": [
+        "Real chance the settlement clock moves from 5 to 10 years, and the government signalled it may apply to people already in the UK who are not yet settled.",
+        "High upfront costs: health surcharge, visa fee, employer charges.",
+        "Salary threshold and skill-level requirements were raised in 2025 and English to B2 in 2026.",
+        "High living costs, especially London housing."
+      ],
+      "watch": [
+        "Autumn 2026 legislation on earned settlement",
+        "Transitional protections for existing visa holders"
+      ],
+      "sources": [
+        {
+          "label": "House of Commons Library briefing",
+          "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10267/"
+        },
+        {
+          "label": "Earned settlement status",
+          "url": "https://www.seraphus.co.uk/knowledge-centre-article/have-the-new-earned-settlement-rules-come-into-force-may-2026-update/"
+        },
+        {
+          "label": "GOV.UK ILR for Skilled Workers",
+          "url": "https://www.gov.uk/indefinite-leave-to-remain-tier-2-t2-skilled-worker-visa"
+        },
+        {
+          "label": "Skilled Worker salary 2026",
+          "url": "https://www.jobbatical.com/blog/uk-skilled-worker-visa-rqf6-salary-threshold-occupation-changes"
+        }
+      ]
+    },
+    {
+      "id": "canada",
+      "name": "Canada",
+      "trend": "Tightening on temporary; PR volumes steady",
+      "prSort": 0,
+      "citSort": 3,
+      "route": "Express Entry (points-based, no employer needed) and provincial nominee programmes carry the largest allocations, with occupation-targeted draws. Temporary work and study permits are being cut sharply.",
+      "pr": "PR is granted on arrival through Express Entry or a provincial nomination (general knowledge). Levels plan 2026-2028: 380,000 new permanent residents a year; economic share rising to 64% in 2027-2028. A one-time measure fast-tracks PR for up to 33,000 temporary workers in 2026-2027.",
+      "citizenship": "About 3 years of physical presence within 5 years (general knowledge, not re-verified). Dual citizenship allowed.",
+      "language": "English or French (tested for points). No new language needed; French adds points.",
+      "finance": "Toronto is the main financial hub (banks, pensions, asset management). Regulated advisory roles need Canadian registration (general knowledge).",
+      "pros": [
+        "Only country on this list where you can apply for PR from outside without an employer.",
+        "Steady 380,000 a year PR target with rising economic share.",
+        "Short citizenship clock and dual citizenship.",
+        "English-speaking; French optional bonus."
+      ],
+      "cons": [
+        "New temporary arrivals cut to 385,000 in 2026 (study permits about 49% lower, worker permits about 37% lower); goal is temporary residents under 5% of population by end-2027.",
+        "Competitive CRS points; cut-offs move with each draw.",
+        "Credential recognition and licensing for regulated professions can be slow (general knowledge).",
+        "Housing costs and a tougher job market for newcomers (general knowledge)."
+      ],
+      "watch": [
+        "Express Entry draw scores and categories",
+        "Levels plan revisions",
+        "Provincial nominee changes"
+      ],
+      "sources": [
+        {
+          "label": "2026-2028 Levels Plan (IRCC)",
+          "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/corporate-initiatives/levels/supplementary-immigration-levels-2026-2028.html"
+        },
+        {
+          "label": "Levels plan explained",
+          "url": "https://immigration.ca/immigration-levels-plan/"
+        },
+        {
+          "label": "Express Entry impact",
+          "url": "https://moving2canada.com/news-and-features/news/immigration/express-entry-immigration-levels-plan-2026/"
+        }
+      ]
+    },
+    {
+      "id": "australia",
+      "name": "Australia",
+      "trend": "Tightening at the edges; employer-sponsored expanding",
+      "prSort": null,
+      "citSort": 4,
+      "route": "Skills in Demand visa (subclass 482) with employer sponsorship, then the Temporary Residence Transition stream of the employer-sponsored PR visa (subclass 186).",
+      "pr": "2026-27 permanent program: 185,000 places, 132,240 (over 70%) in the skill stream; about 129,590 places for people already in Australia. Employer-sponsored places rise from 44,000 to 58,040. Time to PR through 482 then 186 was not verified this session; check the Department of Home Affairs.",
+      "citizenship": "About 4 years of residence including 12 months as a permanent resident (general knowledge, not re-verified). Dual citizenship allowed.",
+      "language": "English. No new language investment.",
+      "finance": "Sydney and Melbourne have a large banking, asset management and superannuation industry. Financial advice is strictly licensed (general knowledge).",
+      "pros": [
+        "English-speaking; strong wages (general knowledge).",
+        "Employer-sponsored PR places rising by 14,040 in 2026-27.",
+        "Short citizenship clock and dual citizenship.",
+        "Large superannuation-driven investment sector (general knowledge)."
+      ],
+      "cons": [
+        "Priority goes to people already onshore, so applying from India is harder.",
+        "16-17 September 2026 announcements: students cannot bring partners or children (with some regional exceptions), a ballot for working-holiday extensions, and a 'no further stay' condition on visitor visas. These target students and backpackers, not skilled workers, but show political direction.",
+        "Net overseas migration fell from 518,000 (2023) to 306,000 (year to June 2025) and the government wants to keep pressure down.",
+        "Housing costs and distance from India and Europe."
+      ],
+      "watch": [
+        "Skills in Demand occupation lists",
+        "Any tightening of employer sponsorship",
+        "Federal election cycle rhetoric on migration"
+      ],
+      "sources": [
+        {
+          "label": "2026-27 planning levels",
+          "url": "https://www.workvisalawyers.com.au/news/all/australia-s-2026-27-permanent-migration-program-planning-levels-understanding-the-australian-visa-numbers-and-permanent-residency.html"
+        },
+        {
+          "label": "September 2026 curbs (US News/Reuters)",
+          "url": "https://www.usnews.com/news/world/articles/2026-09-16/australia-to-bar-foreign-students-from-bringing-partners-children-while-they-study"
+        }
+      ]
+    },
+    {
+      "id": "new-zealand",
+      "name": "New Zealand",
+      "trend": "Loosening (new pathways from 24 Aug 2026)",
+      "prSort": 2,
+      "citSort": 5,
+      "route": "Accredited Employer Work Visa, then Skilled Migrant Category residence. From 24 August 2026 two new residence pathways start.",
+      "pr": "Skilled Work Experience Pathway: skill level 1-3 role, 5 years relevant experience including 2 years in New Zealand at 1.1x the median wage. Trades and Technician Pathway: relevant Level 4+ qualification, 4 years experience including 18 months in NZ at or above the median wage. Applicants generally meet only one wage threshold, the one in force when they started accruing experience.",
+      "citizenship": "About 5 years as a resident (general knowledge, not re-verified). Dual citizenship allowed.",
+      "language": "English. No new language investment.",
+      "finance": "Small market (Auckland, Wellington): banks, KiwiSaver funds, insurers. Limited number of senior wealth roles (general knowledge).",
+      "pros": [
+        "Eligibility widened and wage rules simplified in the 2026 reform.",
+        "PR possible after roughly 2 years of NZ work under the new pathway.",
+        "English-speaking, stable, lifestyle (general knowledge)."
+      ],
+      "cons": [
+        "Small economy and job market; fewer senior finance roles (general knowledge).",
+        "You generally need a NZ job first (work-to-residence), and 5 years of relevant experience.",
+        "Salaries lower than Australia or Northern Europe (general knowledge).",
+        "Most distant from India and Europe."
+      ],
+      "watch": [
+        "How INZ implements the August 2026 changes",
+        "Median wage adjustments"
+      ],
+      "sources": [
+        {
+          "label": "Immigration NZ: final details",
+          "url": "https://www.immigration.govt.nz/about-us/news-centre/final-details-about-changes-to-the-skilled-migrant-category-resident-visa-and-work-to-residence-visa/"
+        },
+        {
+          "label": "Fragomen summary",
+          "url": "https://www.fragomen.com/insights/new-zealand-major-changes-announced-for-skilled-migrant-category-resident-visa.html"
+        }
+      ]
+    },
+    {
+      "id": "netherlands",
+      "name": "Netherlands",
+      "trend": "Tightening proposed (citizenship 5 to 10 years)",
+      "prSort": 5,
+      "citSort": 5,
+      "route": "Highly Skilled Migrant permit through a recognised sponsor. 2026 gross monthly minimums: EUR 5,942 (age 30+), EUR 4,357 (under 30), EUR 3,122 (Dutch graduates and some highly educated migrants).",
+      "pr": "Permanent residence or EU long-term residence after 5 years of continuous lawful residence.",
+      "citizenship": "Today: 5 years and A2 Dutch. The cabinet sent a bill to extend this to 10 years for consultation on 26 September 2025; it was aimed at parliament in Q3 2026. As of 14 September 2026 it is not law. The Netherlands generally requires giving up other citizenship (general knowledge), which India requires anyway.",
+      "language": "A2 Dutch today for citizenship; workplace English is widespread (general knowledge).",
+      "finance": "Amsterdam has asset management, pensions (very large pension funds), trading and fintech (general knowledge).",
+      "pros": [
+        "5-year PR clock.",
+        "English widely used at work (general knowledge).",
+        "Large pension and asset management industry (general knowledge).",
+        "India has an operational social security agreement with the Netherlands (reported)."
+      ],
+      "cons": [
+        "Real risk citizenship doubles to 10 years; timing and transition rules unknown.",
+        "Severe housing shortage (general knowledge).",
+        "High taxes; expat tax benefits have been reduced in recent years (general knowledge, verify).",
+        "Recognised-sponsor requirement ties you to employers."
+      ],
+      "watch": [
+        "Whether the 10-year naturalisation bill reaches parliament",
+        "Transitional rules for people already resident"
+      ],
+      "sources": [
+        {
+          "label": "HSM thresholds 2026 (KPMG)",
+          "url": "https://kpmg.com/xx/en/our-insights/gms-flash-alert/2026/flash-alert-2026-004.html"
+        },
+        {
+          "label": "Naturalisation 10-year bill (DutchNews)",
+          "url": "https://www.dutchnews.nl/2025/09/dutch-passport-10-years-naturalisation/"
+        },
+        {
+          "label": "IND: naturalisation",
+          "url": "https://ind.nl/en/dutch-citizenship/becoming-a-dutch-national-through-naturalisation"
+        }
+      ]
+    },
+    {
+      "id": "switzerland",
+      "name": "Switzerland",
+      "trend": "Stable (population-cap vote rejected 14 June 2026)",
+      "prSort": 10,
+      "citSort": 10,
+      "route": "Employer applies for a B (12+ months) or L (under 12 months) permit under annual quotas. For 2026 the non-EU quota is unchanged at 4,500 B and 4,000 L permits (about 8,500 third-country places within roughly 15,500 work-related permits, the rest ring-fenced for UK citizens and EU/EFTA service providers). Permits are employer-specific and canton-specific; the employer must show a suitable person could not be found in the EU/EFTA (general knowledge).",
+      "pr": "C permit after 10 years for most non-EU nationals. The 5-year fast track applies only to certain nationalities (reported: US, Canada, UK), not India.",
+      "citizenship": "Needs the C permit or eligibility for it, typically 10 years of residence, plus canton and municipality conditions (general knowledge). Switzerland allows dual citizenship (general knowledge).",
+      "language": "German, French or Italian depending on canton; strong local-language ability is expected for integration and client-facing roles (general knowledge).",
+      "finance": "Zurich and Geneva are global private banking and wealth management hubs. This is the industry closest to your work (general knowledge).",
+      "pros": [
+        "Highest pay levels and a global wealth-management centre (general knowledge).",
+        "Voters rejected the 10-million population cap on 14 June 2026 (45% for, about 55% against), so no new legal limits followed.",
+        "Political and economic stability."
+      ],
+      "cons": [
+        "Quota system: only about 8,500 third-country places a year across the whole country.",
+        "10-year PR clock for Indians, and no employer-independence until then.",
+        "Very high cost of living; local language needed.",
+        "Small country and hard to enter without a sponsoring employer (general knowledge)."
+      ],
+      "watch": [
+        "Annual quota announcements for 2027",
+        "Follow-up popular initiatives on immigration",
+        "InfoMigrants headline (18 September 2026): proposed changes to Swiss immigration law passed the Senate. Details not read; check what they change."
+      ],
+      "sources": [
+        {
+          "label": "Fragomen: 2026 quotas",
+          "url": "https://www.fragomen.com/insights/swiss-immigration-quotas-for-2026-what-employers-and-workers-need-to-know.html"
+        },
+        {
+          "label": "Permits guide 2026",
+          "url": "https://www.taxolution.ch/swiss-tax-guide/how-to-get-a-residence-permit-in-switzerland/"
+        },
+        {
+          "label": "Vote result (Library of Congress)",
+          "url": "https://www.loc.gov/item/global-legal-monitor/2026-06-18/switzerland-voters-reject-popular-initiative-to-limit-immigration/"
+        }
+      ]
+    },
+    {
+      "id": "sweden",
+      "name": "Sweden",
+      "trend": "Tightening",
+      "prSort": 4,
+      "citSort": 8,
+      "route": "Work permit with a salary floor: from 1 June 2026 at least 90% of the median (SEK 34,470 a month based on a median of SEK 38,300 from 16 June 2026); some occupations use a 75% floor. Extensions filed before 1 December 2026 stay under the old 80% rule.",
+      "pr": "Work-based PR after 4 years (44 months), with net income of at least SEK 29,680 a month for the previous 12 months.",
+      "citizenship": "Since 6 June 2026: 8 years of residence, higher income test, and mandatory Swedish language and civics tests (first sitting August 2026). Adult fee rose from SEK 1,500 to SEK 2,900.",
+      "language": "English works at many workplaces, but citizenship now needs Swedish and a civics test.",
+      "finance": "Stockholm is the Nordic fintech and banking centre; smaller wealth market than London or Zurich (general knowledge).",
+      "pros": [
+        "PR in 4 years.",
+        "English-friendly workplaces (general knowledge).",
+        "Strong social safety net and work-life balance (general knowledge).",
+        "India has an operational social security agreement with Sweden (reported)."
+      ],
+      "cons": [
+        "Citizenship clock stretched to 8 years with a language test.",
+        "Higher salary floor for new permits from June 2026.",
+        "High taxes; Stockholm housing is difficult (general knowledge).",
+        "Political climate on migration has hardened."
+      ],
+      "watch": [
+        "Further income thresholds",
+        "Transition rules on 1 December 2026",
+        "Press headlines from 18 September 2026 report a Swedish general election in which the centre-left edged ahead of the right and immigration faded as an issue. Headline-level only; check whether the new government keeps or reverses the June 2026 rules."
+      ],
+      "sources": [
+        {
+          "label": "Migrationsverket: salary requirements",
+          "url": "https://www.migrationsverket.se/en/word-explanations/salary-requirements-for-a-work-permit.html"
+        },
+        {
+          "label": "2026 reforms (Hudson McKenzie)",
+          "url": "https://www.hudsonmckenzie.com/insights/sweden-immigration-reforms-2026-work-permits-salary-thresholds"
+        },
+        {
+          "label": "Citizenship rules 2026",
+          "url": "https://civics.se/en/blog/whats-new-2026/"
+        }
+      ]
+    },
+    {
+      "id": "denmark",
+      "name": "Denmark",
+      "trend": "Tightening",
+      "prSort": 8,
+      "citSort": null,
+      "route": "Pay Limit Scheme: from 1 January 2026 the annual threshold is DKK 552,000 (ordinary) or DKK 446,000 (supplementary scheme). No occupation restriction, but at least 30 hours a week and Danish pay standards. Permit up to 4 years. Other routes: Positive List and Start-up Denmark.",
+      "pr": "8 years of legal residence in general; reducible to 4 years if you pass the Danish PD3 test, work full-time, are self-sufficient and meet active-citizenship conditions.",
+      "citizenship": "Granted by an Act of the Danish Parliament after conditions are met; the exact timeline was not verified this session. Denmark allows dual citizenship (general knowledge).",
+      "language": "Danish is central: PD3 shortens PR, and citizenship needs Danish ability (general knowledge).",
+      "finance": "Copenhagen has strong banking, pension and asset management sectors; Danish is important for client work (general knowledge).",
+      "pros": [
+        "High pay and strong work-life balance (general knowledge).",
+        "PR possible in 4 years for those who learn Danish and work continuously.",
+        "Threshold applies to any occupation, not just listed jobs."
+      ],
+      "cons": [
+        "One of the strictest immigration regimes in Europe (general knowledge).",
+        "Pay limits raised for 2026.",
+        "8-year default PR, and citizenship by parliamentary vote.",
+        "Danish is hard and non-transferable, which weakens your language-leverage logic."
+      ],
+      "watch": [
+        "Annual indexation of pay limits",
+        "Citizenship law changes"
+      ],
+      "sources": [
+        {
+          "label": "Danish Agency: Pay Limit Scheme",
+          "url": "https://nyidanmark.dk/de-DE/You-want-to-apply/Work/Pay-limit-scheme"
+        },
+        {
+          "label": "Bird & Bird: 2026 thresholds",
+          "url": "https://www.twobirds.com/en/insights/2026/denmark/udenlandsk-arbejdskraft---nye-bel%C3%B8bsgr%C3%A6nser-under-bel%C3%B8bsordningerne-og-opdateret-positivlister"
+        },
+        {
+          "label": "Residence permits guide",
+          "url": "https://commoner-law.com/en/denmark/immigration-rights/residence-permits"
+        }
+      ]
+    },
+    {
+      "id": "belgium",
+      "name": "Belgium",
+      "trend": "Tightening (citizenship conditions and fee)",
+      "prSort": 5,
+      "citSort": 5,
+      "route": "Single permit for highly qualified workers; the threshold is set by region. 2026 reported: Brussels about EUR 51,551 a year, Wallonia EUR 53,220, Flanders still on 2025 figures pending indexation. EU Blue Card 2026: Flanders EUR 63,586, Wallonia EUR 68,815, Brussels EUR 56,976.",
+      "pr": "Long-term residence after 5 years (general knowledge, not re-verified).",
+      "citizenship": "5 years of legal residence if you also show integration, including at least 468 days of work while under 10 years' residence; without strong integration ties the period extends to 10 years. A July 2025 law raised the fee from EUR 150 to EUR 1,000 (EUR 1,030 in 2026).",
+      "language": "French, Dutch or German depending on region; language proof is part of integration (general knowledge).",
+      "finance": "Brussels: banking, EU institutions, consultancy, asset management (general knowledge).",
+      "pros": [
+        "5-year citizenship route.",
+        "Multilingual, EU institutional hub, central location (general knowledge).",
+        "India has an operational social security agreement with Belgium (reported)."
+      ],
+      "cons": [
+        "Three regions with different thresholds and procedures.",
+        "Stricter citizenship conditions (468 working days) and a much higher fee.",
+        "High taxes and high labour costs (general knowledge).",
+        "French or Dutch needed for real integration."
+      ],
+      "watch": [
+        "2026 indexation in Flanders",
+        "Further nationality reforms"
+      ],
+      "sources": [
+        {
+          "label": "Belgium Blue Card and permit guide",
+          "url": "https://www.remofirst.com/visa-guide/belgium"
+        },
+        {
+          "label": "Citizenship rules and 2026 updates",
+          "url": "https://belgiumhandbook.com/becoming-a-belgian-citizen-naturalization-rules-and-2026-updates/"
+        }
+      ]
+    },
+    {
+      "id": "luxembourg",
+      "name": "Luxembourg",
+      "trend": "Stable",
+      "prSort": 2,
+      "citSort": 5,
+      "route": "EU Blue Card: minimum gross salary EUR 65,652 from 3 March 2026 (previously EUR 63,408); EUR 47,174 for shortage occupations (sources differ; verify). Degree or 5 years of specialised experience.",
+      "pr": "Blue Card time counts toward long-term residence: reported PR after 2 years for Blue Card holders versus 5 years for standard work permits. One source reports A2 spoken and B1 listening Luxembourgish for PR; verify on guichet.lu.",
+      "citizenship": "5 years of legal residence, a Luxembourgish language test at B1 spoken and listening, and a 'Living Together' course or exam. A Blue Card holder's fastest total is reported as about 7 years from arrival.",
+      "language": "Luxembourgish for citizenship; French, German and English are all used at work.",
+      "finance": "One of the world's largest investment-fund domiciles: fund administration, private banking, insurance and asset management (general knowledge). Highly relevant to your profile.",
+      "pros": [
+        "Very high salaries and a fund-industry centre closely matched to your career (general knowledge).",
+        "Fast PR for Blue Card holders and a 5-year citizenship residence clock.",
+        "Multilingual; English used at work (general knowledge).",
+        "India has an operational social security agreement with Luxembourg (reported)."
+      ],
+      "cons": [
+        "Very small country (about 0.66 million people, general knowledge): this touches your logged size criterion. It was on your 38-country watch list but not yet decided.",
+        "Very high housing costs (general knowledge).",
+        "Job market concentrated in finance, so a downturn hits hard.",
+        "Luxembourgish is a single-country language, though only needed at B1 level for citizenship."
+      ],
+      "watch": [
+        "Blue Card threshold indexation",
+        "Language-test changes"
+      ],
+      "sources": [
+        {
+          "label": "Blue Card threshold rise (Vialto)",
+          "url": "https://vialtopartners.com/regional-alerts/luxembourg-immigration-increase-of-salary-threshold-for-eu-blue-card"
+        },
+        {
+          "label": "Guichet.lu: naturalisation",
+          "url": "https://guichet.public.lu/en/citoyens/citoyennete/nationalite-luxembourgeoise/acquisition-recouvrement/naturalisation.html"
+        },
+        {
+          "label": "Blue Card Luxembourg 2026",
+          "url": "https://www.immigrate.lu/en/carte-bleue-luxembourg/"
+        }
+      ]
+    },
+    {
+      "id": "iceland",
+      "name": "Iceland",
+      "trend": "Stable (not verified in detail)",
+      "prSort": 4,
+      "citSort": 7,
+      "route": "Non-EEA citizens need a residence and work permit before arrival, applied for by the employer, who must show the work is necessary and the candidate the best fit.",
+      "pr": "Permanent residence generally after 4 years of continuous residence; often requires completing an Icelandic language course. An expedited route exists for doctorate holders with 3 years of expert-work permits.",
+      "citizenship": "Reported timeline of about 7 years; needs PR and the official Icelandic language test. Verify with the Directorate of Immigration.",
+      "language": "Icelandic is required for PR and citizenship and is spoken almost nowhere else.",
+      "finance": "Very small financial sector (general knowledge).",
+      "pros": [
+        "High living standards, safety and equality (general knowledge).",
+        "PR in 4 years.",
+        "High English proficiency in daily life (general knowledge)."
+      ],
+      "cons": [
+        "Tiny population (about 0.38 million, general knowledge): touches your size criterion.",
+        "Very thin finance job market for your profile.",
+        "Icelandic is single-country and hard, against your language-leverage logic.",
+        "Remote, high cost, harsh climate: touches your logistical-hassle criterion (you rejected Greenland on that basis)."
+      ],
+      "watch": [
+        "Any 2026 Aliens Act amendments (not checked)"
+      ],
+      "sources": [
+        {
+          "label": "Island.is: permanent residence",
+          "url": "https://island.is/en/permanent-residence-permit/requirements"
+        },
+        {
+          "label": "Iceland citizenship timeline",
+          "url": "https://movingtoiceland.com/icelandic-citizenship/"
+        }
+      ]
+    },
+    {
+      "id": "finland",
+      "name": "Finland",
+      "trend": "Tightening",
+      "prSort": 6,
+      "citSort": 8,
+      "route": "Residence permit for specialists or employed persons (details not verified this session).",
+      "pr": "Since 8 January 2026 you need 6 years of continuous residence (previously 4), satisfactory Finnish or Swedish, and 2 years of work experience in Finland. 4-year alternatives exist, including an EUR 40,000 taxable-income pathway and a Finnish higher-education route. Not applied to applications filed before 8 January 2026.",
+      "citizenship": "8 years of residence since 1 October 2024, plus language requirements.",
+      "language": "Finnish or Swedish is required at every settlement step; Finnish is not transferable to other countries.",
+      "finance": "Helsinki: banking, insurance and pensions on a small scale (general knowledge).",
+      "pros": [
+        "High quality of life, education and safety (general knowledge).",
+        "Alternative 4-year PR routes still exist for higher earners and graduates.",
+        "India has an operational social security agreement with Finland (reported)."
+      ],
+      "cons": [
+        "Tightening at every stage: PR 4 to 6 years, citizenship 8 years, language proficiency required.",
+        "Finnish is difficult and single-country.",
+        "Small job market; long dark winters (general knowledge).",
+        "Hard to build a wealth or advisory career without Finnish."
+      ],
+      "watch": [
+        "Implementation of the 2026 rules",
+        "Further government-programme migration measures"
+      ],
+      "sources": [
+        {
+          "label": "Migri: permanent residence 2026",
+          "url": "https://migri.fi/en/amendments-to-aliens-act-regarding-permanent-residence-permits-2026"
+        },
+        {
+          "label": "Finnish Government release",
+          "url": "https://valtioneuvosto.fi/en/-/1410869/stricter-conditions-for-permanent-residence-permits-as-of-8-january"
+        }
+      ]
+    },
+    {
+      "id": "austria",
+      "name": "Austria",
+      "trend": "Stable but strict",
+      "prSort": 5,
+      "citSort": 10,
+      "route": "Red-White-Red Card: points-based, valid 24 months. For 'other key workers' the 2026 minimum is EUR 3,465 gross a month. Blue Card is also available.",
+      "pr": "Red-White-Red Card Plus after about 21 months (no longer tied to one employer). EU permanent residence after 5 years of continuous legal residence.",
+      "citizenship": "10 years standard, 6 years for well-integrated applicants (B2 German, volunteering or professional achievement). Needs B2 German, self-sufficiency and, in general, renunciation of prior citizenship (sources conflict on exceptions; India requires renunciation anyway).",
+      "language": "German (B2 for citizenship).",
+      "finance": "Vienna is a banking hub for Central and Eastern Europe (general knowledge).",
+      "pros": [
+        "Card Plus after about 21 months removes employer dependence.",
+        "5-year EU permanent residence.",
+        "Very high quality of life (general knowledge)."
+      ],
+      "cons": [
+        "Citizenship takes 10 years (6 if well integrated) and needs B2 German.",
+        "Points-based system with limited quotas (general knowledge).",
+        "Smaller finance market than Germany or Switzerland.",
+        "German needed in most jobs."
+      ],
+      "watch": [
+        "Annual Red-White-Red quota",
+        "Naturalisation law changes"
+      ],
+      "sources": [
+        {
+          "label": "Work in Austria: Red-White-Red Card",
+          "url": "https://www.workinaustria.com/en/residence-employment/red-white-red-card"
+        },
+        {
+          "label": "RWR Card 2026 guide",
+          "url": "https://www.visasupdate.com/post/austria-red-white-red-card-2026-guide"
+        }
+      ]
+    },
+    {
+      "id": "norway",
+      "name": "Norway",
+      "trend": "Stable",
+      "prSort": 3,
+      "citSort": 7,
+      "route": "Skilled worker permit requires a concrete job offer. Salary floors since September 2025: NOK 599,200 for master's-level roles and NOK 522,600 for bachelor's-level roles.",
+      "pr": "Permanent residence after 3 years (fee NOK 4,000), requiring an oral Norwegian test at A2, a social studies test and self-support.",
+      "citizenship": "7 years of total residence (within the last 10), PR, Norwegian and social studies tests, clean record. Norway allows dual citizenship (general knowledge).",
+      "language": "Norwegian (A2 for PR), single-country.",
+      "finance": "Oslo has banking and asset management, and the sovereign wealth fund ecosystem (general knowledge).",
+      "pros": [
+        "Fastest PR among the Nordic countries here: 3 years.",
+        "High incomes, strong welfare, and stable policy.",
+        "India has an operational social security agreement with Norway (reported)."
+      ],
+      "cons": [
+        "Job offer required before applying; no job-seeker route.",
+        "High salary floors.",
+        "Norwegian required early and is single-country.",
+        "Very high living costs; small market (general knowledge)."
+      ],
+      "watch": [
+        "Salary-floor updates",
+        "Language and integration test changes"
+      ],
+      "sources": [
+        {
+          "label": "UDI: skilled workers",
+          "url": "https://www.udi.no/en/want-to-apply/work-immigration/skilled-workers/"
+        },
+        {
+          "label": "Norway work visa guide 2026",
+          "url": "https://workingwithnorwegians.com/norway-work-visa-guide"
+        }
+      ]
+    },
+    {
+      "id": "spain",
+      "name": "Spain",
+      "trend": "Mixed",
+      "prSort": 5,
+      "citSort": 10,
+      "route": "Highly Qualified Professional permit: income of at least EUR 55,000 (EUR 41,356.36 for academic or scientific roles) under Order PJC/44/2026. Digital nomad route: at least EUR 2,849 gross a month (about EUR 34,188 a year) for remote work for non-Spanish clients.",
+      "pr": "Long-term residence after 5 years of continuous legal residence.",
+      "citizenship": "10 years standard (2 years for Ibero-American nationals and a few others). Dual citizenship restricted for most nationalities (general knowledge); India requires renunciation anyway.",
+      "language": "Spanish. Fits your language-leverage strategy: it opens Latin America as well.",
+      "finance": "Madrid and Barcelona have banking and asset management, but smaller and lower-paying than Northern Europe (general knowledge).",
+      "pros": [
+        "Spanish is a global language, giving optionality beyond Europe.",
+        "Remote-work route lets you keep foreign income (verify tax treatment).",
+        "Lower cost of living than Northern Europe (general knowledge).",
+        "Quality of life and climate (general knowledge)."
+      ],
+      "cons": [
+        "10-year citizenship clock.",
+        "Lower wages and higher unemployment than Northern Europe (general knowledge).",
+        "Slow bureaucracy (general knowledge).",
+        "Remote-work visa income floor and tax residency rules need a specialist."
+      ],
+      "watch": [
+        "2026 immigration regulation changes",
+        "Digital nomad tax regime"
+      ],
+      "sources": [
+        {
+          "label": "HQP permit 2026",
+          "url": "https://www.jobbatical.com/blog/spain-highly-qualified-professionals-permit"
+        },
+        {
+          "label": "Digital nomad visa 2026",
+          "url": "https://movingtospain.com/spain-digital-nomad-visa/"
+        },
+        {
+          "label": "Spain immigration changes",
+          "url": "https://www.immigrationspain.es/en/changes-spanish-immigration-law/"
+        }
+      ]
+    },
+    {
+      "id": "france",
+      "name": "France",
+      "trend": "Tightening (language and civic tests)",
+      "prSort": 5,
+      "citSort": 5,
+      "route": "Talent Passport: Qualified Employee category at about EUR 39,582 gross a year; Blue Card category at about EUR 59,373 (2026). Standard validity is 4 years.",
+      "pr": "10-year resident card after 5 years of continuous lawful residence.",
+      "citizenship": "5 years of habitual residence, B2 French in speaking and writing since 1 January 2026 (was B1), a new civic exam (40 questions, 32 correct), stable French income and a clean record. Processing takes about 18 to 24 months.",
+      "language": "B2 French. French also opens Belgium, Switzerland, Luxembourg, Canada and parts of Africa, matching your one-language leverage strategy.",
+      "finance": "Paris is a major asset management, banking and insurance centre (general knowledge).",
+      "pros": [
+        "5-year citizenship clock.",
+        "French is a transferable language across several countries on your list.",
+        "Talent Passport salary thresholds are moderate.",
+        "India has an operational social security agreement with France (reported)."
+      ],
+      "cons": [
+        "B2 French and a civic exam are now mandatory for citizenship.",
+        "Long naturalisation processing (18 to 24 months).",
+        "French-language workplaces; English-only roles are limited (general knowledge).",
+        "Bureaucracy and political volatility (general knowledge)."
+      ],
+      "watch": [
+        "Further tightening of integration rules",
+        "Talent Passport salary indexation"
+      ],
+      "sources": [
+        {
+          "label": "Talent Passport thresholds (BAL)",
+          "url": "https://www.bal.com/immigration-news/france-updated-salary-thresholds-for-talent-residence-permits/"
+        },
+        {
+          "label": "B2 requirement (Erickson)",
+          "url": "https://eiglaw.com/france-changes-the-language-assessment-for-nationality-and-long-term-residence/"
+        },
+        {
+          "label": "Naturalisation 2026",
+          "url": "https://legalist.legal/en/french-naturalization-in-2026-the-new-conditions/"
+        }
+      ]
+    },
+    {
+      "id": "japan",
+      "name": "Japan",
+      "trend": "Mixed (fast PR, slower citizenship)",
+      "prSort": 1,
+      "citSort": 10,
+      "route": "Highly Skilled Professional (HSP) points system: 70 points gives a 5-year status; special 'J-Skip' route for top earners.",
+      "pr": "PR after 3 years at 70 points, or 1 year at 80 points. J-Skip: PR after 1 year with a master's or 10+ years of experience and annual income of at least JPY 20 million.",
+      "citizenship": "One source reports naturalisation now needs 10 years of residence from April 2026 (verify). Requires giving up the original nationality, adequate Japanese, and a clean tax and pension record.",
+      "language": "Japanese. Single-country language: this is the criterion on which you rejected Japan on 24 July 2026.",
+      "finance": "Tokyo is a major financial centre; local-language roles dominate (general knowledge).",
+      "pros": [
+        "Fastest PR on this list for high scorers: 1 to 3 years.",
+        "Safety, infrastructure and stability (general knowledge).",
+        "India has an operational social security agreement with Japan (reported)."
+      ],
+      "cons": [
+        "Citizenship reportedly 10 years plus renunciation.",
+        "Japanese is single-country and hard; limited English-only finance roles (general knowledge).",
+        "Conflicts with your logged language-leverage rejection of 24 July 2026.",
+        "Cultural integration difficulty was a stated reason for your earlier rejection."
+      ],
+      "watch": [
+        "Confirm the April 2026 naturalisation change",
+        "HSP point-table revisions"
+      ],
+      "sources": [
+        {
+          "label": "HSP and PR points",
+          "url": "https://english.visajapan.jp/koudo.html"
+        },
+        {
+          "label": "Immigration to Japan 2026",
+          "url": "https://japan-visa.com/immigration"
+        },
+        {
+          "label": "Japan PR 2026",
+          "url": "https://visashogun.com/en/pages/japan-pr"
+        }
+      ]
+    },
+    {
+      "id": "korea",
+      "name": "South Korea",
+      "trend": "Stable (not verified in detail)",
+      "prSort": 5,
+      "citSort": 8,
+      "route": "E-7 skilled worker visa; the E-7-4 track leads to F-5 in about 5 years. F-2-7 points-based visa: at least 1 year of residence and 80 of 170 points, no employment restriction.",
+      "pr": "F-5 permanent residence after 5 consecutive years on qualifying work or resident visas, or after 3+ years on F-2-7. Requires KIIP level 5 or a score of 60+ on the PR comprehensive evaluation.",
+      "citizenship": "Naturalisation after at least 3 years on F-5 (so 8 years or more overall); renunciation of original citizenship within 1 year is generally required.",
+      "language": "Korean. Single-country language: you rejected Korea on 24 July 2026 on this basis and again on 25 July for limited scope for foreigners.",
+      "finance": "Seoul is a large financial centre, but local-language roles dominate (general knowledge).",
+      "pros": [
+        "Clear points-based PR route.",
+        "Large advanced economy and finance sector (general knowledge).",
+        "India has an operational social security agreement with Korea (reported)."
+      ],
+      "cons": [
+        "Korean is single-country and hard.",
+        "Longest overall route to citizenship on the list (8 years or more, plus renunciation).",
+        "Conflicts with two of your logged rejections (language, limited scope for foreigners).",
+        "Cultural and workplace integration difficulty (your stated concern)."
+      ],
+      "watch": [
+        "Points-table changes",
+        "KIIP requirement changes"
+      ],
+      "sources": [
+        {
+          "label": "F-5 requirements",
+          "url": "https://migaku.com/blog/korean/f-5-permanent-residency-in-korea-requirements-and-application-process"
+        },
+        {
+          "label": "F-2-7 points visa",
+          "url": "https://www.visaskorea.com/en-blog-f2-7-points-visa/"
+        }
+      ]
+    }
+  ],
+  "india_side": [
+    {
+      "title": "Indian citizenship and OCI",
+      "points": [
+        "India does not allow dual citizenship. Acquiring another country's citizenship ends Indian citizenship (general knowledge: Citizenship Act 1955).",
+        "The Overseas Citizen of India (OCI) card is the usual fallback. It gives long-term visa-free entry and most economic rights but not voting rights or public office (general knowledge).",
+        "Several countries on your list allow dual citizenship (Germany, UK, Canada, Australia, and others), but that does not help you keep the Indian passport; India is the constraint."
+      ],
+      "sources": [],
+      "verified": false
+    },
+    {
+      "title": "NRI tax residency and foreign income",
+      "points": [
+        "You are a tax resident in India if you stay 182 days or more in a financial year; otherwise you may qualify as a non-resident (reported).",
+        "NRIs are generally taxed in India only on income earned or received in India, not on foreign salary (reported).",
+        "The Income Tax Act 2025, effective 1 April 2026, changes the residency tests for high-income NRIs and persons of Indian origin. Reported details vary by source (120-day tests, a resident-but-not-ordinarily-resident class). Get a chartered accountant to confirm your exact case."
+      ],
+      "sources": [
+        {
+          "label": "NRI residential status 2026",
+          "url": "https://sbnri.com/blog/nri-income-tax/nri-residential-status-india"
+        },
+        {
+          "label": "Changes from April 2026",
+          "url": "https://investmates.io/blog/nri-tax-residency-rule-changes"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "title": "India-EU trade agreement: mobility",
+      "points": [
+        "India and the EU concluded a free trade agreement on 27 January 2026.",
+        "Mobility commitments cover intra-corporate transferees, business visitors, contractual service suppliers (EU offered 37 sectors) and independent professionals (17 sectors), with entry and work rights for dependants of transferees.",
+        "Also a framework to engage on social security agreements over five years and on student mobility.",
+        "This is not a general work visa for individuals; it helps if you are sent by an Indian employer or contract as a professional, not if you seek a local job."
+      ],
+      "sources": [
+        {
+          "label": "Commerce Ministry summary",
+          "url": "https://www.commerce.gov.in/files/2026-02/India%E2%80%93EU%20Free%20Trade%20Agreement%20Concluded%20dated%2027.01.2026.pdf"
+        },
+        {
+          "label": "What the mobility deal means (The Local)",
+          "url": "https://www.thelocal.com/20260207/what-the-mobility-deal-between-the-eu-and-india-will-mean-for-skilled-workers"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "title": "Social security agreements and EPF",
+      "points": [
+        "India has operational social security agreements with many countries. Reported list includes Belgium, Denmark, Finland, France, Germany, Luxembourg, the Netherlands, Norway, Sweden, Switzerland, Australia, Japan, South Korea and Canada. The compilation is old; confirm on the EPFO site.",
+        "On the reported list, Austria, Spain, New Zealand, Iceland and the UK are absent. Check current status.",
+        "Agreements let you avoid paying pension contributions in both countries and count service across countries."
+      ],
+      "sources": [
+        {
+          "label": "EPFO: international workers",
+          "url": "https://www.epfindia.gov.in/site_en/International_workers.php"
+        },
+        {
+          "label": "Nishith Desai: SSAs",
+          "url": "https://www.nishithdesai.com/fileadmin/user_upload/pdfs/Research%20Articles/Social%20Security%20Agreements.pdf"
+        }
+      ],
+      "verified": true
+    },
+    {
+      "title": "Money: remittances, foreign assets, NRI investing",
+      "points": [
+        "Not verified this session. To research: LRS limit while you are still an Indian resident, foreign-asset disclosure in your Indian return, rules for keeping Indian mutual funds and PMS as an NRI (some funds restrict US and Canada residents), NRE and NRO account treatment, and repatriation limits.",
+        "I will research these properly if you confirm you want them in the section."
+      ],
+      "sources": [],
+      "verified": false
+    },
+    {
+      "title": "Your advisory practice and licences",
+      "points": [
+        "Not verified this session. To research: whether your SEBI registration and client book can continue while you are non-resident, and what each destination's regulator (FCA, ASIC, BaFin, FINMA, and others) requires before you can advise or work in finance.",
+        "NISM certifications and Indian RIA experience are unlikely to transfer automatically (general knowledge). Confirm per country."
+      ],
+      "sources": [],
+      "verified": false
+    },
+    {
+      "title": "Paperwork you will need everywhere",
+      "points": [
+        "Degree and transcript verification, credential evaluation where required, apostille of documents through the Ministry of External Affairs, police clearance certificate, medicals, and language test results (general knowledge).",
+        "Start early: these have fixed validity windows and can lapse before you apply."
+      ],
+      "sources": [],
+      "verified": false
+    }
+  ]
+}
