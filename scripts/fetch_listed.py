@@ -314,6 +314,62 @@ def build_matchers(cos):
     return out
 
 
+EQUITY_URL = "https://nsearchives.nseindia.com/content/equities/EQUITY_L.csv"
+EQUITY = ROOT / "data" / "nse_equity.json"
+NAME_STOP = {"global", "national", "century", "universal", "premier", "standard", "general", "imperial", "pioneer", "integra", "genesis",
+             "vision", "eastern", "western", "northern", "southern", "central", "electric", "capital", "finance", "industries", "limited",
+             "company", "indian", "bharat", "hindustan", "sundaram", "reliance", "digital", "network", "networks", "systems", "solutions",
+             "technologies", "enterprises", "international", "holdings", "investments", "trading", "ventures", "infra", "power", "energy",
+             "steel", "cement", "sugar", "textile", "textiles", "chemicals", "pharma", "foods", "motors", "media", "gujarat", "punjab"}
+NAME_IDX, NAME_OF = {}, {}     # lowercase company name -> NSE symbol (unambiguous only), symbol -> official name
+
+
+def load_equity(nifty_syms):
+    """Every NSE-listed company (NSE's own EQUITY_L list), so a headline can be tied to a company outside the Nifty 100."""
+    rows = None
+    try:
+        rows = [{"symbol": r["SYMBOL"].strip(), "name": r["NAME OF COMPANY"].strip(), "isin": r[" ISIN NUMBER"].strip()}
+                for r in csv.DictReader(io.StringIO(http_get(EQUITY_URL))) if r.get("SYMBOL")]
+        if len(rows) > 1500:
+            EQUITY.write_text(json.dumps({"updated": datetime.now(IST).strftime("%Y-%m-%d"), "companies": rows}, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        else:
+            rows = None
+    except Exception as e:  # noqa: BLE001
+        print(f"  equity list failed: {e}", file=sys.stderr)
+    if rows is None:
+        rows = json.loads(EQUITY.read_text(encoding="utf-8"))["companies"] if EQUITY.exists() else []
+    idx = {}
+    for r in rows:
+        if r["symbol"] in nifty_syms:
+            continue
+        NAME_OF[r["symbol"]] = r["name"]
+        toks = re.findall(r"[A-Za-z0-9&'.\-]+", re.sub(r"\((?:india|the)\)", "", r["name"], flags=re.I))
+        toks = [t for t in toks if t.lower().strip(".") not in ("ltd", "limited")]
+        forms = {" ".join(t.lower().strip(".'") for t in toks)}
+        if len(toks) >= 3 and toks[-1].lower() == "india":
+            forms.add(" ".join(t.lower().strip(".'") for t in toks[:-1]))
+        for f in forms:
+            if len(f.split()) >= 2 or (len(f) >= 6 and f not in NAME_STOP):
+                idx.setdefault(f, set()).add(r["symbol"])
+    NAME_IDX.clear()
+    NAME_IDX.update({k: next(iter(v)) for k, v in idx.items() if len(v) == 1})
+    print(f"{len(NAME_IDX)} company-name forms indexed from {len(rows)} NSE-listed companies")
+
+
+def find_listed(title):
+    """NSE symbol of a non-Nifty-100 company named in the headline (longest capitalised phrase that matches an official name), or None."""
+    toks = re.findall(r"[A-Za-z0-9&'.\-]+", title)
+    for n in range(min(5, len(toks)), 0, -1):
+        for i in range(len(toks) - n + 1):
+            span = toks[i:i + n]
+            if not (span[0][0].isupper() or span[0][0].isdigit()):
+                continue
+            key = " ".join(t.lower().strip(".'") for t in span)
+            if key in NAME_IDX:
+                return NAME_IDX[key]
+    return None
+
+
 def find_companies(text, matchers):
     """Symbols mentioned in text; a match inside a longer match of another company is ignored."""
     spans = []
@@ -457,9 +513,10 @@ def _press(outlet, title, blurb, link, dt, matchers, by_sym, google):
         n = by_sym[syms[0]]
         uni, company, sym, ind = "nifty100", n["name"].replace(" Ltd.", "").replace(" Ltd", ""), syms[0], n["industry"]
     else:
-        if google or not CORPORATE.search(title) or cat == "Company News" or FOREIGN.search(title):
+        s2 = find_listed(title)          # a listed company outside the Nifty 100; a headline about no listed company is not this desk's business
+        if google or not s2 or FOREIGN.search(title):
             return None
-        uni, company, sym, ind = "other", "", "", ""
+        uni, company, sym, ind = "other", NAME_OF.get(s2, s2), s2, ""
     return {"id": "pr-" + norm(title)[:80], "kind": "Press", "source": outlet, "universe": uni, "symbol": sym, "company": company,
             "industry": ind, "category": cat, "major": cat in PRESS_MAJOR, "title": title, "summary": trim(blurb, 320),
             "date": dt.strftime("%Y-%m-%d"), "time": dt.strftime("%H:%M"), "url": link,
@@ -529,8 +586,19 @@ def main():
     nifty_norms = {norm(c["name"]) for c in cos}
     matchers = build_matchers(cos)
     print(f"{len(cos)} Nifty 100 companies")
+    load_equity(set(by_sym))
 
     old = json.loads(OUT.read_text(encoding="utf-8")) if OUT.exists() else {"items": []}
+    # press items stored earlier without a company: tie them to one now, or drop them
+    kept = []
+    for i in old["items"]:
+        if i["kind"] == "Press" and i["universe"] == "other" and not i.get("symbol"):
+            s2 = find_listed(i["title"])
+            if not s2 or FOREIGN.search(i["title"]):
+                continue
+            i["symbol"], i["company"] = s2, NAME_OF.get(s2, s2)
+        kept.append(i)
+    old["items"] = kept
     known = {i["id"] for i in old["items"]}
     # a company can enter or leave the Nifty 100: re-tag stored items against today's list
     for i in old["items"]:

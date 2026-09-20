@@ -16,7 +16,7 @@ compared with the company's yearly revenue, market value or profit, and the leve
 thresholds written below. When no amount is stated the level is "Not stated" and the card says what to look for.
 Hand-written business notes live in data/company_notes.json (Nifty 100) and never come from this script.
 """
-import http.cookiejar, json, re, sys, time, urllib.parse, urllib.request
+import calendar, html, http.cookiejar, json, re, sys, time, urllib.error, urllib.parse, urllib.request
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -29,7 +29,10 @@ NIFTY_REFRESH_DAYS = 7
 OTHER_REFRESH_DAYS = 30
 CRORE = 1e7
 TS_TYPES = ["TotalRevenue", "NetIncome", "OperatingCashFlow", "FreeCashFlow", "TotalDebt"]
-DEFAULT_MAX = 120
+DEFAULT_MAX = 400
+MISSING_RETRY_DAYS = 7
+ALGO = "v2"                 # entries marked missing by an older version of this script are tried again
+SCREENER_BLOCKED = False
 
 
 # ---------------------------------------------------------------- Yahoo Finance
@@ -126,6 +129,130 @@ class Yahoo:
             "rev_growth": raw(fd, "revenueGrowth"), "earn_growth": raw(fd, "earningsGrowth"), "net_margin": raw(fd, "profitMargins"),
             "fetched": datetime.now(IST).strftime("%Y-%m-%d"),
         }
+
+
+# ---------------------------------------------------------------- Screener.in (fallback and the main source for BSE-only companies)
+def _txt(s):
+    return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", s or ""))).strip()
+
+
+def _num(s):
+    s = _txt(s).replace(",", "").replace("%", "").replace("₹", "").replace("Cr.", "").strip()
+    try:
+        return float(s)
+    except ValueError:
+        return None
+
+
+def _month_end(label):
+    """'Mar 2026' -> '2026-03-31'."""
+    try:
+        d = datetime.strptime(label, "%b %Y")
+        return f"{d.year}-{d.month:02d}-{calendar.monthrange(d.year, d.month)[1]:02d}"
+    except ValueError:
+        return None
+
+
+def _section(page, sec):
+    i = page.find(f'id="{sec}"')
+    if i < 0:
+        return ""
+    j = page.find("</section>", i)
+    return page[i:j if j > 0 else i + 20000]
+
+
+def _table(section):
+    """{row label: [values]} and the header labels, from one Screener statement section."""
+    rows = re.findall(r"<tr[^>]*>(.*?)</tr>", section, re.S)
+    header, data = [], {}
+    for r in rows:
+        cells = re.findall(r"<t[hd][^>]*>(.*?)</t[hd]>", r, re.S)
+        if not cells:
+            continue
+        label = _txt(cells[0]).replace("+", "").strip()
+        if not header and not label and len(cells) > 2:
+            header = [_txt(c) for c in cells[1:]]
+            continue
+        if label:
+            data[label] = [_num(c) for c in cells[1:]]
+    return header, data
+
+
+def screener_company(key):
+    """One company page from screener.in. Returns the same shape as Yahoo.company(), or None. 429 -> sets SCREENER_BLOCKED."""
+    global SCREENER_BLOCKED
+    url = f"https://www.screener.in/company/{urllib.parse.quote(key)}/consolidated/"
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html"})
+        with urllib.request.urlopen(req, timeout=40) as r:
+            page = r.read().decode("utf-8", "replace")
+    except urllib.error.HTTPError as e:
+        if e.code == 429:
+            SCREENER_BLOCKED = True
+            print("  screener rate limit (429): stopping screener fetches for this run", file=sys.stderr)
+        return None
+    except Exception:  # noqa: BLE001
+        return None
+    if 'id="top-ratios"' not in page:
+        return None
+    h1 = re.search(r"<h1[^>]*>(.*?)</h1>", page, re.S)
+    about = re.search(r'class="sub show-more-box about"[^>]*>(.*?)</div>', page, re.S)
+    sector = re.search(r'title="Sector">(.*?)</a>', page, re.S)
+    industry = re.search(r'title="Industry">(.*?)</a>', page, re.S) or re.search(r'title="Broad Industry">(.*?)</a>', page, re.S)
+    ratios = {}
+    tr = page[page.find('id="top-ratios"'):]
+    for li in re.findall(r"<li[^>]*>(.*?)</li>", tr[: tr.find("</ul>")], re.S):
+        nm = re.search(r'class="name"[^>]*>(.*?)</span>', li, re.S)
+        vv = re.search(r'class="number"[^>]*>(.*?)</span>', li, re.S)
+        if nm and vv:
+            ratios[_txt(nm.group(1))] = _num(vv.group(1))
+    ph, pl = _table(_section(page, "profit-loss"))
+    ch, cf = _table(_section(page, "cash-flow"))
+    bh, bs = _table(_section(page, "balance-sheet"))
+    qh, _q = _table(_section(page, "quarters"))
+
+    def pick(tbl, *prefixes):
+        for lab, vals in tbl.items():
+            if any(lab.lower().startswith(p) for p in prefixes):
+                return vals
+        return None
+
+    rev = pick(pl, "sales", "revenue")
+    npf = pick(pl, "net profit")
+    ocf = pick(cf, "cash from operating")
+    fcf = pick(cf, "free cash flow")
+    debt = pick(bs, "borrowing")
+    years = {}
+    for h, series in ((ph, {"revenue": rev, "net_income": npf}), (ch, {"ocf": ocf, "fcf": fcf}), (bh, {"debt": debt})):
+        for idx, lab in enumerate(h):
+            asof = _month_end(lab)
+            if not asof:
+                continue
+            for f, vals in series.items():
+                if vals and idx < len(vals) and vals[idx] is not None:
+                    years.setdefault(asof, {})[f] = vals[idx]
+    yl = [dict(asof=d, **years[d]) for d in sorted(years) if years[d].get("revenue") is not None or years[d].get("net_income") is not None][-3:]
+    ttm = {}
+    if "TTM" in ph:
+        i = ph.index("TTM")
+        for f, vals in (("revenue", rev), ("net_income", npf)):
+            if vals and i < len(vals) and vals[i] is not None:
+                ttm[f] = vals[i]
+        qd = _month_end(qh[-1]) if qh else None
+        if ttm and qd:
+            ttm["asof"] = qd
+    mc = ratios.get("Market Cap")
+    return {
+        "ysym": "", "source": "Screener.in", "name": _txt(h1.group(1)) if h1 else "", "sector": _txt(sector.group(1)) if sector else "",
+        "industry": _txt(industry.group(1)) if industry else "", "summary": _txt(about.group(1))[:900] if about else "", "website": "",
+        "currency": "INR", "mcap_cr": round(mc) if mc else None, "years": yl, "ttm": ttm, "rev_growth": None, "earn_growth": None, "net_margin": None,
+        "pe": ratios.get("Stock P/E"), "roce": ratios.get("ROCE"), "roe": ratios.get("ROE"), "book_value": ratios.get("Book Value"),
+        "div_yield": ratios.get("Dividend Yield"), "fetched": datetime.now(IST).strftime("%Y-%m-%d"),
+    }
+
+
+def has_data(c):
+    return bool(c and (c.get("years") or c.get("ttm") or c.get("summary")))
 
 
 def ysym_of(ckey):
@@ -298,34 +425,54 @@ def main():
     for i in sorted(items, key=lambda x: (not x["major"], x["date"]), reverse=False):
         if i["universe"] != "nifty100" and i["ckey"] and i["ckey"] not in others:
             others[i["ckey"]] = i
-    ordered = sorted(others, key=lambda k: (not others[k]["major"], ""), reverse=False)
-    ordered = [k for k in ordered if age(k) >= OTHER_REFRESH_DAYS and not cos.get(k, {}).get("missing_on") == str(today)]
+    def recently_missing(k):
+        c = cos.get(k, {})
+        m = c.get("missing_on")
+        return bool(m and c.get("algo") == ALGO and (today - datetime.strptime(m, "%Y-%m-%d").date()).days < MISSING_RETRY_DAYS)
+
+    ordered = sorted(others, key=lambda k: (k in cos, not others[k]["major"]))      # never-seen companies first
+    ordered = [k for k in ordered if age(k) >= OTHER_REFRESH_DAYS and not recently_missing(k)]
+    todo = [k for k in todo if not recently_missing(k)]
     todo += ordered[: max(0, limit - len(todo))]
     todo = todo[:limit]
 
     y = Yahoo()
     usd = 88.0
-    if todo and y.login():
+    yahoo_ok = y.login()
+    if yahoo_ok:
         usd = y.usd_inr()
-        print(f"fetching {len(todo)} companies (USD/INR {usd:.2f})")
-        got = 0
+    if todo:
+        print(f"fetching {len(todo)} companies (USD/INR {usd:.2f}; Yahoo {'on' if yahoo_ok else 'off'})")
+        got = {"Yahoo Finance": 0, "Screener.in": 0}
+        t0 = time.time()
         for k in todo:
-            if y.blocked:
+            if time.time() - t0 > 40 * 60:
+                print("  time budget reached; the rest continue next run")
                 break
-            c = y.company(ysym_of(k))
-            if c and (c["years"] or c["ttm"] or c["summary"]):
+            c = None
+            code = k[4:] if k.startswith("BSE:") else k
+            # NSE companies: Yahoo first, Screener as fallback. BSE-only companies: Screener first (Yahoo does not know BSE scrip codes well).
+            order = ("screener", "yahoo") if k.startswith("BSE:") else ("yahoo", "screener")
+            for src in order:
+                if src == "yahoo" and yahoo_ok and not y.blocked:
+                    c = y.company(ysym_of(k))
+                    if has_data(c):
+                        c["source"] = "Yahoo Finance"
+                    time.sleep(0.3)
+                elif src == "screener" and not SCREENER_BLOCKED:
+                    c = screener_company(code)
+                    time.sleep(1.0)
+                if has_data(c) and (c.get("years") or c.get("summary")):
+                    break
+                c = None
+            if c:
+                c["algo"] = ALGO
                 cos[k] = c
-                got += 1
-            else:
-                cos.setdefault(k, {"fetched": "2000-01-01"})["missing_on"] = str(today)   # no data on Yahoo: do not retry today
-            time.sleep(0.35)
-        print(f"  {got} snapshots stored")
-    elif todo:
-        print("  could not reach Yahoo Finance; keeping stored snapshots", file=sys.stderr)
-        try:
-            usd = y.usd_inr()
-        except Exception:  # noqa: BLE001
-            pass
+                got[c["source"]] += 1
+            elif not has_data(cos.get(k)):
+                cos[k] = {"fetched": "2000-01-01", "missing_on": str(today), "algo": ALGO}   # nothing anywhere: retry in a week
+            # (a refresh that failed keeps the older snapshot rather than wiping it)
+        print(f"  snapshots stored: {got}")
 
     notes = json.loads((ROOT / "data" / "company_notes.json").read_text(encoding="utf-8"))
     for it in items:

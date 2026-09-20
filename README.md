@@ -19,8 +19,8 @@ Move it anywhere: copy this folder to any static host and any machine with Pytho
   (filings), `PRESS_RULES`, `MARKET_NOISE`, `FOREIGN` (press) and `MANUAL` (how a Nifty 100 company is spotted in a
   headline) at the top of the script. Keeps 30 days / 4,000 items. Not on the Front Page yet.
   Every card also carries a **company snapshot** and an **impact check**. `scripts/company_intel.py` pulls each company's
-  revenue, net profit or loss, operating and free cash flow, debt and market value from Yahoo Finance into
-  `data/companies.json` (Nifty 100 weekly; other companies when first seen, 120 per run, re-read after 30 days).
+  revenue, net profit or loss, operating and free cash flow, debt and market value from Yahoo Finance (NSE companies) and Screener.in (BSE-only companies, and any company Yahoo lacks) into
+  `data/companies.json` (Nifty 100 weekly; every other company in the desk when first seen, up to 400 per run, re-read after 30 days; a company with no data anywhere is retried weekly). Press headlines are tied to any NSE-listed company by name using NSE's full list (`data/nse_equity.json`); headlines about no listed company are dropped.
   "What it does / how it makes money / kind of business" for the Nifty 100 is hand-written in `data/company_notes.json`;
   other companies use their public profile and a "typical for this kind of business" line (the `MODELS` table in `app.js`).
   Impact = the rupee amount in the filing or headline (when one is stated) compared with revenue, profit or market value by

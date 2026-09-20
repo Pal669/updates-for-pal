@@ -231,3 +231,5 @@ table.fin th:first-child, table.fin td:first-child { text-align: left; }
 table.fin td.neg { color: #b3261e; }
 @media (prefers-color-scheme: dark) { table.fin td.neg { color: #f28b82; } }
 @media (max-width: 560px) { .kv2 { grid-template-columns: 1fr; gap: 0; } }
+
+.snap.none { font-size: 14px; color: var(--muted); }

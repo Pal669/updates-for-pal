@@ -99,7 +99,7 @@
     [/software|information technology|it services/i, "Earns by billing clients for services or licences, usually per project, per hour or per subscription."],
     [/drug|pharma|biotech/i, "Earns by selling medicines and ingredients to hospitals, pharmacies, distributors and other drug companies."],
     [/auto|vehicle|motorcycle/i, "Earns by selling vehicles or parts to dealers and carmakers, at a margin over material and labour cost."],
-    [/steel|aluminum|copper|metal|mining|coal|zinc/i, "Earns the difference between the market price of the metal or mineral and the cost of digging and processing it; profit swings with commodity prices."],
+    [/steel|aluminum|copper|metal|mining|coal|zinc/i, "Earns the gap between what it sells metal or mineral products for and the cost of raw material, energy and processing; profit swings with commodity prices."],
     [/oil|gas|refining|petro/i, "Earns from the price of oil and gas products minus the cost of getting and processing them."],
     [/utilities|power|electric/i, "Earns by selling electricity, often under long-term contracts or regulated tariffs."],
     [/real estate|realty|developer/i, "Earns by selling homes or offices it builds and by collecting rent."],
@@ -127,7 +127,9 @@
     const co = it.ckey ? companies[it.ckey] : null;
     const n = notes[it.symbol] || null;
     const has = !!(co && ((co.years && co.years.length) || co.summary));
-    if (!has && !n) return "";
+    if (!has && !n) {
+      return it.ckey ? `<div class="snap none"><b>Company snapshot:</b> no financial statements or business profile were found for ${esc(it.company)} on Yahoo Finance or Screener.in. This usually means a very new or small (SME) listing that has not published a full year yet. It is retried every week.</div>` : "";
+    }
     const yrs = has ? (co.years || []) : [];
     const last = yrs[yrs.length - 1], prev = yrs[yrs.length - 2];
     const isLender = has && /bank|credit services|insurance|mortgage|capital markets|financial/i.test(`${co.industry} ${co.sector}`);
@@ -156,14 +158,17 @@
       ? `<div class="tablewrap"><table class="fin"><thead><tr><th></th>${colHead}</tr></thead><tbody>${row("Revenue", "revenue")}${row("Net profit / (loss)", "net_income")}${isLender ? "" : row("Cash from operations", "ocf")}${isLender ? "" : row("Free cash flow", "fcf")}${row("Total debt", "debt")}</tbody></table></div>` : "";
     const badge = last && last.net_income != null ? `<span class="badge ${last.net_income >= 0 ? "prof" : "loss"}">${last.net_income >= 0 ? "PROFITABLE" : "LOSS-MAKING"}</span>` : "";
     const head = `About ${scr(it, esc(has && co.name ? co.name.replace(/ Limited$/i, "") : it.company))}: ${esc(type || "business snapshot")}${last && last.revenue != null ? ` &middot; revenue ${esc(cr(last.revenue))}` : ""}`;
+    const ratioBits = has ? [["P/E", co.pe, ""], ["ROCE", co.roce, "%"], ["ROE", co.roe, "%"], ["Book value", co.book_value, ""], ["Dividend yield", co.div_yield, "%"]]
+      .filter((r) => r[1] != null).map((r) => `${r[0]} ${r[1]}${r[2]}`) : [];
+    const ratios = ratioBits.length ? `<div class="kv2"><b>Key ratios</b><span>${esc(ratioBits.join(" · "))}</span></div>` : "";
     const mcap = has && co.mcap_cr ? `<div class="kv2"><b>Market value</b><span>${esc(cr(co.mcap_cr))}</span></div>` : "";
     const drivers = n && n.drivers ? `<div class="kv2"><b>What moves its profit</b><span>${esc(n.drivers)}</span></div>` : "";
-    return `<details class="snap" ${open ? "open" : ""}><summary>${badge}${head}</summary>
+    return `<details class="snap" open><summary>${badge}${head}</summary>
       ${does ? `<div class="kv2"><b>What it does</b><span>${esc(does)}</span></div>` : ""}
       ${earns ? `<div class="kv2"><b>${earnsLabel}</b><span>${esc(earns)}</span></div>` : ""}
-      ${type ? `<div class="kv2"><b>Kind of business</b><span>${esc(type)}</span></div>` : ""}${drivers}${mcap}
-      ${plain}${table}
-      <p class="fine">${last ? `Financials: Yahoo Finance, fetched ${esc(co.fetched || "")}, in rupees, as reported; check the company's own results before relying on them.` : ""}${n ? " Business notes written by hand from general knowledge." : ""}${!n && does ? " Business description is the company's public profile." : ""}</p></details>`;
+      ${type ? `<div class="kv2"><b>Kind of business</b><span>${esc(type)}</span></div>` : ""}${drivers}${mcap}${ratios}
+      ${plain}${table}${has && !yrs.length ? `<p class="fine">No yearly financial statements are published yet for this company (typically a recent or SME listing), so revenue, profit and cash flow cannot be shown.</p>` : ""}
+      <p class="fine">${last ? `Financials: ${esc(co.source || "Yahoo Finance")}, fetched ${esc(co.fetched || "")}, in rupees, as reported; check the company's own results before relying on them.` : ""}${n ? " Business notes written by hand from general knowledge." : ""}${!n && does ? " Business description is the company's public profile." : ""}</p></details>`;
   }
 
   function impactHtml(it) {
@@ -178,7 +183,7 @@
   DESKS.listed = {
     file: "data/listed.json",
     title: "India's Listed Market Universe",
-    sources: "Sources: NSE and BSE corporate announcements (the company's own filing, with the exchange's one-line summary and a link to the PDF), Economic Times, Business Standard, Mint, BusinessLine, Moneycontrol and Google News headlines. Company financials: Yahoo Finance. Business notes for the Nifty 100 are written by hand; other companies use their public profile. Routine filings (AGM notices, trading window, ESOP allotments, shareholding paperwork) are left out; nothing is rewritten by a model. Press headlines are matched to companies by name, so an occasional mismatch is possible. The impact line compares an amount in the event with the company's revenue, profit or market value by fixed rules. Not investment advice: open the filing before acting.",
+    sources: "Sources: NSE and BSE corporate announcements (the company's own filing, with the exchange's one-line summary and a link to the PDF), Economic Times, Business Standard, Mint, BusinessLine, Moneycontrol and Google News headlines. Company financials: Yahoo Finance, with Screener.in for companies Yahoo does not cover. Business notes for the Nifty 100 are written by hand; other companies use their public profile. Routine filings (AGM notices, trading window, ESOP allotments, shareholding paperwork) are left out; nothing is rewritten by a model. Press headlines are matched to companies by name, so an occasional mismatch is possible. The impact line compares an amount in the event with the company's revenue, profit or market value by fixed rules. Not investment advice: open the filing before acting.",
     subs: [
       { id: "nifty100", label: "Nifty 100", test: (i) => i.universe === "nifty100" },
       { id: "other", label: "All Other Companies", test: (i) => i.universe !== "nifty100" },
