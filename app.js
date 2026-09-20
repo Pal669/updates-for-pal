@@ -105,7 +105,9 @@
     card(it, lead) {
       const b = `<span class="badge ${it.kind === "Press" ? "src" : "major"}">${it.kind === "Press" ? "PRESS" : esc(it.source)}</span><span class="badge type">${esc(it.category)}</span>` +
         (it.major ? `<span class="badge major">MAJOR</span>` : "");
-      const who = [it.company, it.symbol && it.source === "NSE" ? it.symbol : "", it.industry, it.kind === "Press" ? it.source : ""].filter(Boolean).map(esc).join(" &middot; ");
+      // Company name opens the company's page on screener.in (NSE symbol or BSE scrip code both work in the URL).
+      const co = it.company ? (it.symbol ? link(`https://www.screener.in/company/${encodeURIComponent(it.symbol)}/`, esc(it.company), "co-link") : esc(it.company)) : "";
+      const who = [co, esc(it.symbol && it.source === "NSE" ? it.symbol : ""), esc(it.industry), esc(it.kind === "Press" ? it.source : "")].filter(Boolean).join(" &middot; ");
       const also = (it.also || []).length ? `<div class="more">Also mentioned: ${it.also.map(esc).join(", ")}</div>` : "";
       const body = (it.summary ? `<p>${esc(it.summary)}</p>` : "") + (it.time ? `<div class="fine">${esc(it.date)} ${esc(it.time)} IST</div>` : "") + also;
       return shell(lead, `${b}${who}`, it, body, it.kind === "Press" ? "Open the original" : "Open the filing");
