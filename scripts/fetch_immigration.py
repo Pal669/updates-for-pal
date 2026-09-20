@@ -49,7 +49,7 @@ RELEVANT = re.compile(
     r"earned settlement|settlement (?:rules|route|scheme|period)|skilled (?:worker|migrat)|indefinite leave|\bILR\b|express entry|"
     r"talent passport|quota|salary threshold|points system|work(?:ing)? holiday|residency|foreign workers?|"
     r"foreign talent|migration (?:policy|rules|levels|cap|curb|plan)|net migration|levels plan", re.I)
-NOISE = re.compile(r"ratcliffe|man united|wheat|harvest|israel|palestin|west bank|gaza|hajj|ukrain|riot|clash|protest|rally|police|crime|arrest|killed|attack|"
+NOISE = re.compile(r"sahrawi|western sahara|ratcliffe|man united|wheat|harvest|israel|palestin|west bank|gaza|hajj|ukrain|riot|clash|protest|rally|police|crime|arrest|killed|attack|"
                    r"stabbing|pattaya|roman|archaeolog|meta faces|us student|us colleges|h-?1b|trump|asylum seekers?|refugee|deport|smuggl|border patrol|illegal migrants?|small boats|channel crossing|"
                    r"ice raid|detention|stateless|trafficking", re.I)
 BLOCK = re.compile(r"legit|ua\.news|yen news|jpost|pattaya|world socialist|sightmagazine|y-?axis|visa ?guide|visaverge|jobbatical|atozserwis|consilio|lottalingo|nordic life guide|"
@@ -167,6 +167,10 @@ def ircc(cutoff):
 
 def main():
     old = json.loads(OUT.read_text(encoding="utf-8")) if OUT.exists() else {"items": []}
+    # re-apply the current filters to what is already stored, so tightening a rule also cleans old items
+    old["items"] = [i for i in old["items"]
+                    if not NOISE.search(i["title"]) and not BLOCK.search(i["source"]) and RELEVANT.search(i["title"])
+                    and re.search(MENTION.get(i["country"], "."), i["title"], re.I)]
     known = {i["id"] for i in old["items"]}
     cutoff = (datetime.now(IST) - timedelta(days=KEEP_DAYS)).strftime("%Y-%m-%d")
     now = datetime.now(IST).strftime("%Y-%m-%d %H:%M IST")
@@ -194,8 +198,6 @@ def main():
             capped.append(it)
     fresh = capped
     print(f"{len(fresh)} new immigration items")
-    if not fresh:
-        return
     items = sorted(fresh + old["items"], key=lambda i: (i["date"], i["first_seen"]), reverse=True)[:MAX_ITEMS]
     OUT.write_text(json.dumps({"updated": now, "count": len(items), "items": items}, ensure_ascii=False, indent=1), encoding="utf-8")
 

@@ -68,6 +68,33 @@
     },
   };
 
+  // ---------------------------------------------------------------- Front Page (top stories across all desks)
+  DESKS.top = {
+    file: "data/front.json",
+    title: "Front Page",
+    front: true,
+    sources: "Front Page ranks stories from the three desks with a transparent point system (see scripts/build_front_page.py): Cabinet and regulator decisions, deal size, official immigration notices, coverage by many outlets, plus recency. The line under each headline lists the rules that put it here. Rebuilt every morning.",
+    flag: { label: "", test: () => true },
+  };
+
+  const DESK_LINK = { Policy: "#policy", Startups: "#startups", Immigration: "#immigration" };
+  function frontView(data) {
+    const built = new Date(data.built.replace(" IST", "").replace(" ", "T") + ":00+05:30");
+    const hours = (Date.now() - built.getTime()) / 36e5;
+    const stale = hours > 30
+      ? `<p class="stale">The last refresh was ${Math.round(hours)} hours ago (${esc(data.built)}). The scheduled run may have been missed; the stories below may be out of date.</p>` : "";
+    const counts = Object.entries(data.by_desk).map(([d, n]) => `${n} ${d}`).join(" &middot; ");
+    const card = (it) => `<article class="card front ${it.must_read ? "must" : ""}">
+      <div class="meta"><span class="rank">${it.rank}</span>
+        <span class="badge desk ${esc(it.desk)}">${esc(it.desk)}</span>${it.must_read ? '<span class="badge major">MUST READ</span>' : ""}
+        ${esc(it.label)} &middot; ${esc(it.source)} &middot; ${esc(it.date)}</div>
+      <h3>${link(it.url, esc(it.title))}</h3>
+      ${it.summary ? `<p>${esc(it.summary.length > 230 ? it.summary.slice(0, 230).replace(/\s+\S*$/, "") + " ..." : it.summary)}</p>` : ""}
+      <div class="why">Why it is here: ${it.why.map(esc).join(" &middot; ")}</div>
+      ${link(it.url, "Open the original &rarr;", "read")} <a class="more" href="${DESK_LINK[it.desk]}">More from the ${esc(it.desk)} Desk</a></article>`;
+    return `<div class="frontnote"><b>${data.count} stories to read today</b> &middot; ${counts} &middot; Edition of ${esc(data.edition)}, built ${esc(data.built)}</div>${stale}${data.items.map(card).join("")}`;
+  }
+
   const srcLinks = (a) => (a && a.length ? `<p class="fine">Sources: ${a.map((s) => link(s.url, esc(s.label))).join(" &middot; ")}</p>` : "");
 
   function countryCard(c) {
@@ -169,7 +196,7 @@
 
   async function load(hash) {
     const [name, subId] = hash.split("/");
-    desk = DESKS[name] ? name : "policy";
+    desk = DESKS[name] ? name : "top";
     cfg = DESKS[desk];
     sub = cfg.subs ? (cfg.subs.find((s) => s.id === subId) || cfg.subs[0]) : null;
     document.querySelectorAll(".desk").forEach((a) => a.classList.toggle("active", a.dataset.desk === desk));
@@ -179,6 +206,19 @@
       const res = await fetch(cfg.file, { cache: "no-cache" });
       const data = await res.json();
       items = data.items;
+      const controls = document.querySelector(".controls");
+      controls.hidden = !!cfg.front;
+      if (cfg.front) {
+        $("subs").hidden = true;
+        $("lead").hidden = true;
+        $("empty").hidden = true;
+        $("edition").textContent = `Front Page · ${data.count} stories`;
+        $("updated").textContent = `Last refreshed ${data.built}`;
+        $("sources").textContent = cfg.sources;
+        $("feed").innerHTML = frontView(data);
+        state = { q: "", f1: "All", f2: "All", f3: "All", flag: false };
+        return;
+      }
       if (desk === "startups") {
         const pr = await fetch("data/profiles.json", { cache: "no-cache" }).then((r) => r.json()).catch(() => ({ profiles: [] }));
         const byKey = Object.fromEntries(pr.profiles.map((p) => [p.key, p]));

@@ -28,3 +28,9 @@ Edit the regular expressions at the top of `scripts/fetch_policies.py`:
 ## Adding a desk
 Add a collector function in `scripts/` that writes its own `data/<desk>.json`, add a nav link in `index.html`, and a
 renderer in `app.js`. The policy desk is untouched by that.
+
+## Front Page and schedule
+`scripts/build_front_page.py` picks the 15-20 highest-priority stories across the three desks into `data/front.json`
+(rule-based points, listed on each card as "Why it is here"). The GitHub Actions workflow rebuilds everything at about
+05:17, 05:37 and 06:07 IST (three tries because GitHub's scheduler sometimes runs late or skips), plus 16:07 and 22:07 IST
+to catch PIB, which only lists the current day. The page shows a warning if the last refresh is more than 30 hours old.

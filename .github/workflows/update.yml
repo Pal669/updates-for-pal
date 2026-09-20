@@ -1,9 +1,17 @@
-name: Refresh desks
+name: Refresh desks and front page
 
+# GitHub's scheduler is best-effort: runs can start late or, rarely, be skipped (the 08:00 IST run of 20 Sep 2026 never
+# started). So the morning build is scheduled three times; repeating it is safe because the collectors only add what is new.
+# Times below are UTC.
+#   23:47 UTC = 05:17 IST   00:07 UTC = 05:37 IST   00:37 UTC = 06:07 IST   -> Front Page ready by about 6 AM IST
+# PIB lists only the current day's releases, so an afternoon and an evening run also collect it before it rolls over.
 on:
   schedule:
-    - cron: "30 2 * * *"    # 08:00 IST  - RBI / SEBI overnight, PIB late items
-    - cron: "30 16 * * *"   # 22:00 IST  - PIB lists only the current day, so this run captures the full day
+    - cron: "47 23 * * *"
+    - cron: "7 0 * * *"
+    - cron: "37 0 * * *"
+    - cron: "37 10 * * *"   # 16:07 IST
+    - cron: "37 16 * * *"   # 22:07 IST
   workflow_dispatch: {}
 
 permissions:
@@ -27,14 +35,17 @@ jobs:
         run: python scripts/fetch_startups.py
       - name: Collect immigration news
         run: python scripts/fetch_immigration.py
-      - name: Commit if anything new
+      - name: Build the Front Page
+        run: python scripts/build_front_page.py
+      - name: Commit if anything changed
         run: |
-          if [ -n "$(git status --porcelain data/items.json data/startups.json data/immigration.json)" ]; then
+          if [ -n "$(git status --porcelain data)" ]; then
             git config user.name "updates-for-pal-bot"
             git config user.email "actions@users.noreply.github.com"
-            git add data/items.json data/startups.json data/immigration.json
-            git commit -m "Desks refresh $(date -u +%Y-%m-%d\ %H:%M) UTC"
+            git add data
+            git commit -m "Refresh $(date -u +%Y-%m-%d\ %H:%M) UTC"
+            git pull --rebase -X theirs || true
             git push
           else
-            echo "No new items"
+            echo "No changes"
           fi

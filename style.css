@@ -113,3 +113,16 @@ table.cmp th button { all: unset; cursor: pointer; font-weight: 700; letter-spac
 .pc ul, .cfile > ul { margin: 0; padding-left: 20px; } .pc li, .cfile > ul li { margin-bottom: 6px; font-size: 15.5px; }
 .cfile .fine, .card .fine { font: 12px var(--sans); color: var(--muted); }
 @media (max-width: 640px) { .kv { grid-template-columns: 1fr; gap: 2px; } .pc { grid-template-columns: 1fr; } }
+
+/* Front Page */
+.frontnote { font: 13px/1.5 var(--sans); color: var(--muted); padding: 16px 0 6px; border-bottom: 2px solid var(--ink); }
+.frontnote b { color: var(--ink); }
+.stale { font: 14px var(--sans); background: #fff3cd; color: #5c4400; border: 1px solid #e0c46c; border-radius: 4px; padding: 8px 12px; margin: 12px 0; }
+@media (prefers-color-scheme: dark) { .stale { background: #3a3116; color: #f2dc8a; border-color: #6b5a1d; } }
+.card.front { padding: 16px 0 18px; }
+.card.front.must { background: linear-gradient(90deg, rgba(138,28,28,.06), transparent 30%); padding-left: 12px; margin-left: -12px; border-left: 4px solid var(--accent); }
+.card.front.must h3 { font-size: 24px; }
+.rank { display: inline-block; min-width: 26px; font: 700 15px var(--serif); color: var(--accent); }
+.badge.desk.Policy { background: var(--pib); } .badge.desk.Startups { background: #1d5a8a; } .badge.desk.Immigration { background: #7a4a12; }
+.why { font: 13px/1.5 var(--sans); color: var(--muted); margin: 2px 0 8px; }
+.card.front .more { margin-left: 12px; font: 13px var(--sans); }
