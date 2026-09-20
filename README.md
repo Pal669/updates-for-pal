@@ -18,6 +18,13 @@ Move it anywhere: copy this folder to any static host and any machine with Pytho
   Operations & Risk, Business Updates and Market Alerts. Tune `FILING_RULES`, `DROP_DESC`, `PRE_DROP`, `MATERIAL`
   (filings), `PRESS_RULES`, `MARKET_NOISE`, `FOREIGN` (press) and `MANUAL` (how a Nifty 100 company is spotted in a
   headline) at the top of the script. Keeps 30 days / 4,000 items. Not on the Front Page yet.
+  Every card also carries a **company snapshot** and an **impact check**. `scripts/company_intel.py` pulls each company's
+  revenue, net profit or loss, operating and free cash flow, debt and market value from Yahoo Finance into
+  `data/companies.json` (Nifty 100 weekly; other companies when first seen, 120 per run, re-read after 30 days).
+  "What it does / how it makes money / kind of business" for the Nifty 100 is hand-written in `data/company_notes.json`;
+  other companies use their public profile and a "typical for this kind of business" line (the `MODELS` table in `app.js`).
+  Impact = the rupee amount in the filing or headline (when one is stated) compared with revenue, profit or market value by
+  fixed thresholds in `assess()`; when no amount is stated it says so. It is a size check, not a forecast.
 
 ## How it works
 - `scripts/fetch_policies.py` reads the official feeds, keeps items whose title announces an action (see `ACTION` and

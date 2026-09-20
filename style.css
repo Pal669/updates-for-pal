@@ -206,3 +206,28 @@ h2.sect { font: 700 13px var(--sans); letter-spacing: .14em; text-transform: upp
 .morewrap .chip { font-size: 14px; padding: 8px 18px; }
 
 .co-link { color: var(--link); text-decoration: underline dotted; text-underline-offset: 2px; } .co-link:hover { text-decoration: underline; }
+
+/* Listed Universe: company snapshot and impact */
+.impact { border-left: 4px solid var(--muted); background: rgba(107, 102, 91, .07); padding: 6px 12px; margin: 8px 0; border-radius: 0 4px 4px 0; }
+.impact h6 { font: 700 11px var(--sans); letter-spacing: .1em; text-transform: uppercase; color: var(--muted); margin: 4px 0 2px; }
+.impact h6 b { font-size: 12px; letter-spacing: .06em; margin-left: 6px; color: var(--ink); }
+.impact ul { margin: 2px 0 4px; padding-left: 18px; } .impact li { font-size: 15px; margin-bottom: 3px; }
+.impact .fine { margin: 2px 0 4px; font: 12px var(--sans); color: var(--muted); }
+.impact.imp-High { border-left-color: #b3261e; background: rgba(179, 38, 30, .08); }
+.impact.imp-Medium { border-left-color: #b26a00; background: rgba(178, 106, 0, .08); }
+.impact.imp-Low { border-left-color: #1f5f3a; background: rgba(31, 95, 58, .07); }
+.badge.imp-High { background: #b3261e; } .badge.imp-Medium { background: #b26a00; }
+.badge.prof { background: #1f5f3a; } .badge.loss { background: #b3261e; }
+.snap { border: 1px solid var(--rule); border-radius: 4px; background: var(--card); padding: 6px 12px; margin: 8px 0; }
+.snap summary { cursor: pointer; font: 600 14px var(--sans); }
+.snap .fine { font: 12px var(--sans); color: var(--muted); }
+.kv2 { display: grid; grid-template-columns: 170px 1fr; gap: 8px; padding: 4px 0; border-top: 1px solid var(--rule); font-size: 15px; }
+.kv2 b { font: 700 11px var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); padding-top: 3px; }
+.snap .plain { margin: 8px 0 4px; font-size: 15px; }
+.snap .tablewrap { overflow-x: auto; }
+table.fin { border-collapse: collapse; width: 100%; font: 13px var(--sans); margin: 6px 0; }
+table.fin th, table.fin td { border-bottom: 1px solid var(--rule); padding: 4px 8px; text-align: right; white-space: nowrap; }
+table.fin th:first-child, table.fin td:first-child { text-align: left; }
+table.fin td.neg { color: #b3261e; }
+@media (prefers-color-scheme: dark) { table.fin td.neg { color: #f28b82; } }
+@media (max-width: 560px) { .kv2 { grid-template-columns: 1fr; gap: 0; } }

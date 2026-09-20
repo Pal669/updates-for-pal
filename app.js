@@ -90,26 +90,107 @@
   };
 
   // ---------------------------------------------------------------- Listed Market Universe Desk
+  let companies = {}, notes = {};     // data/companies.json (live financials) and data/company_notes.json (hand-written business notes)
+  // How a business of this Yahoo industry usually earns, used only when there is no hand-written note. Labelled as typical.
+  const MODELS = [
+    [/bank|credit services|mortgage finance|capital markets|financial conglomerates/i, "Lenders earn the gap between interest charged on loans and interest paid on deposits or borrowings, plus fees."],
+    [/insurance/i, "Insurers collect premiums, invest them, and pay claims later; profit comes from underwriting margin and investment income."],
+    [/asset management/i, "Asset managers earn a fee as a percentage of the money they manage."],
+    [/software|information technology|it services/i, "Earns by billing clients for services or licences, usually per project, per hour or per subscription."],
+    [/drug|pharma|biotech/i, "Earns by selling medicines and ingredients to hospitals, pharmacies, distributors and other drug companies."],
+    [/auto|vehicle|motorcycle/i, "Earns by selling vehicles or parts to dealers and carmakers, at a margin over material and labour cost."],
+    [/steel|aluminum|copper|metal|mining|coal|zinc/i, "Earns the difference between the market price of the metal or mineral and the cost of digging and processing it; profit swings with commodity prices."],
+    [/oil|gas|refining|petro/i, "Earns from the price of oil and gas products minus the cost of getting and processing them."],
+    [/utilities|power|electric/i, "Earns by selling electricity, often under long-term contracts or regulated tariffs."],
+    [/real estate|realty|developer/i, "Earns by selling homes or offices it builds and by collecting rent."],
+    [/cement|building materials|construction materials/i, "Earns the gap between the price of cement or building material and the cost of making and moving it."],
+    [/engineering|construction|infrastructure|machinery|electrical equipment/i, "Earns by executing contracts and selling equipment; revenue follows the order book."],
+    [/retail|stores|department|apparel|footwear|jewel/i, "Earns by selling goods to consumers at a margin over what it paid for them."],
+    [/beverage|food|packaged|household|personal products|tobacco|consumer/i, "Earns by selling branded goods through distributors and shops at a margin over raw material cost."],
+    [/chemical|fertili|agri/i, "Earns by selling chemicals or farm inputs; margins swing with raw material prices."],
+    [/textile|garment/i, "Earns by making and selling fabric or garments, mostly to brands and exporters."],
+    [/telecom|communication|media|broadcast/i, "Earns from subscriptions, advertising or connectivity fees."],
+    [/airline|shipping|transport|logistics|marine|railroad/i, "Earns by charging for moving people or goods; profit swings with fuel cost and traffic."],
+    [/hospital|healthcare|medical|diagnostic/i, "Earns from fees for treatment, tests or medical products."],
+  ];
+  const modelFor = (co) => { const m = MODELS.find(([rx]) => rx.test(`${co.industry || ""} ${co.sector || ""}`)); return m ? m[1] : ""; };
+  const firstSentences = (t, n) => { const parts = (t || "").replace(/\s+/g, " ").match(/[^.]+\.(?:\s|$)/g) || [t || ""]; return trimText(parts.slice(0, 2).join(" ").trim(), n); };
+  const cr = (v) => v == null ? "n/a" : (Math.abs(v) >= 100000 ? `₹${(v / 100000).toFixed(2)} lakh cr` : `₹${Math.round(v).toLocaleString("en-IN")} cr`);
+  const fyOf = (d) => { const t = new Date(d + "T00:00:00"), m = t.getMonth() + 1, y = t.getFullYear(); return `FY${String(m <= 6 ? y : y + 1).slice(2)} (${t.toLocaleDateString("en-IN", { month: "short", year: "numeric" })})`; };
+  const pctChange = (a, b) => (a != null && b != null && b > 0 ? ((a - b) / b) * 100 : null);
+
+  function snapshotHtml(it, open) {
+    const co = it.ckey ? companies[it.ckey] : null;
+    const n = notes[it.symbol] || null;
+    const has = !!(co && ((co.years && co.years.length) || co.summary));
+    if (!has && !n) return "";
+    const yrs = has ? (co.years || []) : [];
+    const last = yrs[yrs.length - 1], prev = yrs[yrs.length - 2];
+    const isLender = has && /bank|credit services|insurance|mortgage|capital markets|financial/i.test(`${co.industry} ${co.sector}`);
+    const type = (n && n.type) || (has ? [co.industry, co.sector].filter(Boolean).join(" · ") : "");
+    const does = (n && n.does) || (has && co.summary ? firstSentences(co.summary, 380) : "");
+    const earns = (n && n.earns) || (has ? modelFor(co) : "");
+    const earnsLabel = n && n.earns ? "How it makes money" : "How it makes money (typical for this kind of business)";
+    let plain = "";
+    if (last) {
+      const g = prev ? pctChange(last.net_income, prev.net_income) : null;
+      const pl = last.net_income == null ? "" : last.net_income >= 0
+        ? `In ${fyOf(last.asof)} it made a net profit of ${cr(last.net_income)}${g != null && prev.net_income > 0 ? `, ${g >= 0 ? "up" : "down"} ${Math.abs(g).toFixed(0)}% from the year before` : ""}.`
+        : `In ${fyOf(last.asof)} it made a net LOSS of ${cr(Math.abs(last.net_income))}${prev && prev.net_income != null ? (prev.net_income >= 0 ? ", after a profit the year before" : ", after a loss the year before") : ""}.`;
+      const cf = last.ocf == null ? "" : ` Its operations brought in ${cr(last.ocf)} of cash${last.fcf == null ? "." : `; after spending on plant and equipment, free cash flow was ${last.fcf >= 0 ? cr(last.fcf) : "negative " + cr(Math.abs(last.fcf))} (${last.fcf >= 0 ? "it funds its growth from its own cash" : "it spent more than its operations earned, so it borrowed or used savings"}).`}`;
+      plain = `<p class="plain">${esc(pl + (isLender ? " For banks and lenders the cash-flow lines are not a useful measure; look at profit and loan quality." : cf))}</p>`;
+    }
+    const hasTtm = has && co.ttm && co.ttm.asof;
+    const colHead = yrs.map((y) => `<th>${esc(fyOf(y.asof))}</th>`).join("") + (hasTtm ? `<th>Last 12 months (to ${esc(co.ttm.asof)})</th>` : "");
+    const row = (label, key) => {
+      const cells = yrs.map((y) => y[key]);
+      if (hasTtm) cells.push(co.ttm[key]);
+      if (cells.every((v) => v == null)) return "";
+      return `<tr><td>${label}</td>${cells.map((v) => `<td class="${v != null && v < 0 ? "neg" : ""}">${v == null ? "n/a" : v < 0 ? "(" + cr(Math.abs(v)) + ")" : cr(v)}</td>`).join("")}</tr>`;
+    };
+    const table = yrs.length
+      ? `<div class="tablewrap"><table class="fin"><thead><tr><th></th>${colHead}</tr></thead><tbody>${row("Revenue", "revenue")}${row("Net profit / (loss)", "net_income")}${isLender ? "" : row("Cash from operations", "ocf")}${isLender ? "" : row("Free cash flow", "fcf")}${row("Total debt", "debt")}</tbody></table></div>` : "";
+    const badge = last && last.net_income != null ? `<span class="badge ${last.net_income >= 0 ? "prof" : "loss"}">${last.net_income >= 0 ? "PROFITABLE" : "LOSS-MAKING"}</span>` : "";
+    const head = `About ${esc(has && co.name ? co.name.replace(/ Limited$/i, "") : it.company)}: ${esc(type || "business snapshot")}${last && last.revenue != null ? ` &middot; revenue ${esc(cr(last.revenue))}` : ""}`;
+    const mcap = has && co.mcap_cr ? `<div class="kv2"><b>Market value</b><span>${esc(cr(co.mcap_cr))}</span></div>` : "";
+    const drivers = n && n.drivers ? `<div class="kv2"><b>What moves its profit</b><span>${esc(n.drivers)}</span></div>` : "";
+    return `<details class="snap" ${open ? "open" : ""}><summary>${badge}${head}</summary>
+      ${does ? `<div class="kv2"><b>What it does</b><span>${esc(does)}</span></div>` : ""}
+      ${earns ? `<div class="kv2"><b>${earnsLabel}</b><span>${esc(earns)}</span></div>` : ""}
+      ${type ? `<div class="kv2"><b>Kind of business</b><span>${esc(type)}</span></div>` : ""}${drivers}${mcap}
+      ${plain}${table}
+      <p class="fine">${last ? `Financials: Yahoo Finance, fetched ${esc(co.fetched || "")}, in rupees, as reported; check the company's own results before relying on them.` : ""}${n ? " Business notes written by hand from general knowledge." : ""}${!n && does ? " Business description is the company's public profile." : ""}</p></details>`;
+  }
+
+  function impactHtml(it) {
+    const im = it.impact;
+    if (!im) return "";
+    const label = { High: "High", Medium: "Medium", Low: "Low", "Not stated": "Not stated in the text", "Check numbers": "Depends on the numbers" }[im.level] || im.level;
+    return `<div class="impact imp-${esc(im.level.replace(/\s+/g, ""))}"><h6>How much could this matter to the company? <b>${esc(label)}</b></h6>
+      <ul>${im.basis.map((b) => `<li>${esc(b)}</li>`).join("")}</ul>
+      <p class="fine">A size check against the company's own figures using fixed rules, not a forecast of the share price.</p></div>`;
+  }
+
   DESKS.listed = {
     file: "data/listed.json",
     title: "India's Listed Market Universe",
-    sources: "Sources: NSE and BSE corporate announcements (the company's own filing, with the exchange's one-line summary and a link to the PDF), Economic Times, Business Standard, Mint, BusinessLine, Moneycontrol and Google News headlines. Routine filings (AGM notices, trading window, ESOP allotments, shareholding paperwork) are left out; nothing is rewritten by a model. Press headlines are matched to companies by name, so an occasional mismatch is possible. Not investment advice: open the filing before acting.",
+    sources: "Sources: NSE and BSE corporate announcements (the company's own filing, with the exchange's one-line summary and a link to the PDF), Economic Times, Business Standard, Mint, BusinessLine, Moneycontrol and Google News headlines. Company financials: Yahoo Finance. Business notes for the Nifty 100 are written by hand; other companies use their public profile. Routine filings (AGM notices, trading window, ESOP allotments, shareholding paperwork) are left out; nothing is rewritten by a model. Press headlines are matched to companies by name, so an occasional mismatch is possible. The impact line compares an amount in the event with the company's revenue, profit or market value by fixed rules. Not investment advice: open the filing before acting.",
     subs: [
       { id: "nifty100", label: "Nifty 100", test: (i) => i.universe === "nifty100" },
       { id: "other", label: "All Other Companies", test: (i) => i.universe !== "nifty100" },
     ],
     f1: { key: "category" }, f2: { key: "industry" }, f3: { key: "kind", values: ["Exchange filing", "Press"] },
-    flag: { label: "Major events only", test: (i) => i.major },
-    search: (i) => `${i.title} ${i.summary} ${i.company} ${i.symbol} ${i.industry} ${i.category} ${i.source}`,
-    lead: (items) => items.find((i) => i.major && i.kind === "Exchange filing") || items.find((i) => i.major) || items[0],
+    flag: { label: "High or medium impact only", test: (i) => i.impact && (i.impact.level === "High" || i.impact.level === "Medium") },
+    search: (i) => `${i.title} ${i.summary} ${i.company} ${i.symbol} ${i.industry} ${i.category} ${i.source} ${(notes[i.symbol] || {}).type || ""}`,
+    lead: (items) => items.find((i) => i.impact && i.impact.level === "High" && i.kind === "Exchange filing") || items.find((i) => i.major && i.kind === "Exchange filing") || items.find((i) => i.major) || items[0],
     card(it, lead) {
+      const lvl = it.impact ? it.impact.level : "Not stated";
       const b = `<span class="badge ${it.kind === "Press" ? "src" : "major"}">${it.kind === "Press" ? "PRESS" : esc(it.source)}</span><span class="badge type">${esc(it.category)}</span>` +
-        (it.major ? `<span class="badge major">MAJOR</span>` : "");
-      // Company name opens the company's page on screener.in (NSE symbol or BSE scrip code both work in the URL).
-      const co = it.company ? (it.symbol ? link(`https://www.screener.in/company/${encodeURIComponent(it.symbol)}/`, esc(it.company), "co-link") : esc(it.company)) : "";
-      const who = [co, esc(it.symbol && it.source === "NSE" ? it.symbol : ""), esc(it.industry), esc(it.kind === "Press" ? it.source : "")].filter(Boolean).join(" &middot; ");
+        (lvl === "High" || lvl === "Medium" ? `<span class="badge imp-${lvl}">IMPACT: ${lvl.toUpperCase()}</span>` : "");
+      const who = [it.company, it.symbol && it.source === "NSE" ? it.symbol : "", it.industry, it.kind === "Press" ? it.source : ""].filter(Boolean).map(esc).join(" &middot; ");
       const also = (it.also || []).length ? `<div class="more">Also mentioned: ${it.also.map(esc).join(", ")}</div>` : "";
-      const body = (it.summary ? `<p>${esc(it.summary)}</p>` : "") + (it.time ? `<div class="fine">${esc(it.date)} ${esc(it.time)} IST</div>` : "") + also;
+      const body = (it.summary ? `<p>${esc(it.summary)}</p>` : "") + (it.time ? `<div class="fine">${esc(it.date)} ${esc(it.time)} IST</div>` : "") + also +
+        impactHtml(it) + snapshotHtml(it, lead);
       return shell(lead, `${b}${who}`, it, body, it.kind === "Press" ? "Open the original" : "Open the filing");
     },
   };
@@ -386,6 +467,13 @@
         files = await fetch("data/immigration_files.json", { cache: "no-cache" }).then((r) => r.json());
         const nm = Object.fromEntries(files.countries.map((c) => [c.id, c.name]));
         items.forEach((i) => { i.countryLabel = nm[i.country] || i.country; });
+      }
+      if (desk === "listed") {
+        const [cj, nj] = await Promise.all([
+          fetch("data/companies.json", { cache: "no-cache" }).then((r) => r.json()).catch(() => ({ companies: {} })),
+          fetch("data/company_notes.json", { cache: "no-cache" }).then((r) => r.json()).catch(() => ({})),
+        ]);
+        companies = cj.companies || {}; notes = nj || {};
       }
       const subNav = $("subs");
       if (desk === "immigration") {
