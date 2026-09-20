@@ -226,14 +226,74 @@ def top_of(desk, scored, quota, key_of):
     return out
 
 
+IMM_REAL = re.compile(r"visa|immigra|residen|permit|migrant|naturali|skilled|settle|passport|work(?:ing)? holiday|foreign (?:worker|national|student)", re.I)
+
+
+def tags_of(desk, it):
+    """Interest tags used by the page's chooser."""
+    if desk == "Policy":
+        return [it.get("sector", "Policy")]
+    if desk == "Startups":
+        return [t for t in (it.get("type"), it.get("sector")) if t and t not in ("Analysis", "Other")]
+    return [t for t in (it.get("topic"), it.get("countryLabel")) if t and t != "General"]
+
+
+MARKETS = [("Nifty 50", "%5ENSEI", 0), ("Sensex", "%5EBSESN", 0), ("USD/INR", "USDINR%3DX", 2),
+           ("Brent (USD)", "BZ%3DF", 2), ("Gold (USD/oz)", "GC%3DF", 0), ("US 10Y yield %", "%5ETNX", 2)]
+
+
+def fetch_markets():
+    """Last two daily closes from Yahoo Finance's public chart endpoint. Any failure just drops that tile."""
+    import urllib.request
+    out = []
+    for name, sym, dp in MARKETS:
+        try:
+            u = f"https://query1.finance.yahoo.com/v8/finance/chart/{sym}?range=5d&interval=1d"
+            d = json.loads(urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0"}), timeout=20).read())
+            r = d["chart"]["result"][0]
+            closes = [c for c in r["indicators"]["quote"][0]["close"] if c is not None]
+            if len(closes) < 2:
+                continue
+            last, prev = closes[-1], closes[-2]
+            when = datetime.fromtimestamp(r["meta"]["regularMarketTime"], IST).strftime("%d %b %H:%M IST")
+            out.append({"name": name, "dp": dp, "value": round(last, dp), "change_pct": round((last - prev) / prev * 100, 2), "asof": when})
+        except Exception:  # noqa: BLE001
+            continue
+    return out
+
+
+def features(today):
+    """A rotating Startup File and Country Spotlight so the page always has something new to read."""
+    n = today.toordinal()
+    feat = {}
+    profiles = load("profiles.json").get("profiles", [])
+    if profiles:
+        p = profiles[n % len(profiles)]
+        feat["startup_file"] = {"company": p["company"], "tagline": p["tagline"], "what": p["what"], "how": p["how"][:2],
+                                "watch": p["watch"], "sector": p["sector"], "region": p.get("region", "India"),
+                                "url": p["sources"][0]}
+    files = load("immigration_files.json").get("countries", [])
+    if files:
+        c = files[n % len(files)]
+        feat["country"] = {"id": c["id"], "name": c["name"], "trend": c["trend"], "pr": c["pr"], "citizenship": c["citizenship"],
+                           "pro": c["pros"][0], "con": c["cons"][0], "watch": (c.get("watch") or [""])[0]}
+    return feat
+
+
 def main():
+    import enrich as E
     today = datetime.now(IST).date()
     horizon = (today - timedelta(days=WINDOW_DAYS)).strftime("%Y-%m-%d")
 
     policy = [i for i in load("items.json")["items"] if i["date"] >= horizon]
     startups = [i for i in load("startups.json")["items"] if i["date"] >= horizon]
-    imm = [i for i in load("immigration.json")["items"] if i["date"] >= horizon]
-    off_topic = re.compile(r"sahrawi|western sahara|ratcliffe|man united", re.I)
+    imm_all = load("immigration.json")["items"]
+    fl = load("immigration_files.json")
+    names = {c["id"]: c["name"] for c in fl.get("countries", [])}
+    for i in imm_all:
+        i["countryLabel"] = names.get(i["country"], i["country"])
+    imm = [i for i in imm_all if i["date"] >= horizon]
+    off_topic = re.compile(r"sahrawi|western sahara|ratcliffe|man united|travel watch|planning a .{0,30} trip|tourist", re.I)
     policy, startups, imm = ([i for i in x if not off_topic.search(i["title"])] for x in (policy, startups, imm))
     profile_urls = {p["key"] for p in load("profiles.json").get("profiles", [])}
     counts = {}
@@ -245,53 +305,85 @@ def main():
         "Startups": [(*score_startup(i, today, profile_urls), i) for i in startups],
         "Immigration": [(*score_immigration(i, today, counts), i) for i in imm],
     }
-    keyfn = {
-        "Policy": lambda i: None,
-        "Startups": lambda i: (i.get("company") or i["title"][:18]).lower(),
-        "Immigration": lambda i: i["country"],
-    }
-    # per-desk 0-100 scale against that desk's best score in the window, so desks compare fairly
+    keyfn = {"Policy": lambda i: None, "Startups": lambda i: (i.get("company") or i["title"][:18]).lower(),
+             "Immigration": lambda i: i["country"]}
+    per_desk = {}
     picked = []
     for desk, pool in pools.items():
         top_score = max([p[0] for p in pool] + [1])
-        for sc, why, it in top_of(desk, dedupe(pool), QUOTA[desk] + 3, keyfn[desk]):
-            picked.append({"desk": desk, "score": sc, "scaled": round(100 * sc / top_score), "why": why, "item": it})
+        ranked = top_of(desk, dedupe(pool), QUOTA[desk] + 9, keyfn[desk])
+        per_desk[desk] = [{"desk": desk, "score": sc, "scaled": round(100 * sc / top_score), "why": why, "item": it} for sc, why, it in ranked]
+        picked += per_desk[desk]
 
-    # take each desk's quota first (best by score), then top up to MIN_TOTAL from the leftovers by scaled score
-    chosen, left = [], []
-    for desk in QUOTA:
-        mine = sorted([p for p in picked if p["desk"] == desk], key=lambda p: p["score"], reverse=True)
-        chosen += mine[: QUOTA[desk]]
-        left += mine[QUOTA[desk]:]
-    left.sort(key=lambda p: p["scaled"], reverse=True)
-    while len(chosen) < MIN_TOTAL and left:
-        chosen.append(left.pop(0))
-    chosen = [c for c in chosen if c["score"] > 0][:MAX_TOTAL]
-    chosen.sort(key=lambda p: (p["scaled"], p["item"]["date"]), reverse=True)
+    cache = E.load_cache()
+    budget = {"n": 80}
 
-    out = []
-    for rank, c in enumerate(chosen, 1):
+    def entry(c, rank=None):
         it = c["item"]
-        entry = {
-            "rank": rank, "desk": c["desk"], "must_read": rank <= 5, "score": c["score"], "priority": c["scaled"],
+        m = E.enrich(it["url"], cache, budget)
+        summary = it.get("summary") or it.get("blurb") or ""
+        snippet = m.get("desc") or summary
+        if c["desk"] == "Immigration" and not IMM_REAL.search(f"{it['title']} {snippet} {m.get('lead', '')}"):
+            return None      # headline matched on a keyword but the article is not about immigration rules (e.g. sport)
+        e = {
+            "desk": c["desk"], "score": c["score"], "priority": c["scaled"],
             "title": it["title"], "url": it["url"], "date": it["date"],
             "source": it.get("source") or it.get("ministry", ""),
             "label": it.get("sector") or it.get("countryLabel") or it.get("country", ""),
-            "summary": it.get("summary") or it.get("blurb") or "",
-            "why": c["why"][:4] or ["High on the desk's ranking"],
+            "snippet": snippet, "lead": m.get("lead", ""), "image": m.get("image"),
+            "why": c["why"][:4] or ["High on the desk's ranking"], "tags": tags_of(c["desk"], it),
         }
+        if rank:
+            e["rank"], e["must_read"] = rank, rank <= 5
         if c["desk"] == "Immigration":
-            entry["label"] = it["country"].replace("-", " ").title().replace("Uk", "United Kingdom")
+            e["label"] = it["countryLabel"]
         if c["desk"] == "Startups":
-            entry["label"] = f"{it['region']} · {it['sector']}"
-        out.append(entry)
+            e["label"] = f"{it['region']} · {it['sector']}"
+        return e
 
+    # Fill each desk's quota with the best stories that pass the article check; the rest feed "More from each desk".
+    chosen, spare, used = [], {}, set()
+    for desk in QUOTA:
+        mine = [c for c in sorted(per_desk[desk], key=lambda p: p["score"], reverse=True) if c["score"] > 0]
+        got, spare[desk] = [], []
+        for c in mine:
+            if len(got) < QUOTA[desk]:
+                if entry(c) is not None:
+                    got.append(c)
+            else:
+                spare[desk].append(c)
+        chosen += got
+    leftovers = sorted((c for d in QUOTA for c in spare[d]), key=lambda p: p["scaled"], reverse=True)
+    for c in leftovers:
+        if len(chosen) >= MIN_TOTAL:
+            break
+        if entry(c) is not None:
+            chosen.append(c)
+    chosen = chosen[:MAX_TOTAL]
+    chosen.sort(key=lambda p: (p["scaled"], p["item"]["date"]), reverse=True)
+    chosen_ids = {id(c["item"]) for c in chosen}
+    items = [entry(c, r) for r, c in enumerate(chosen, 1)]
+
+    # "More from each desk": the next-best stories not already on the front page
+    desks_out = {}
+    files = {"Policy": "items.json", "Startups": "startups.json", "Immigration": "immigration.json"}
+    for desk in QUOTA:
+        rest = [c for c in per_desk[desk] if id(c["item"]) not in chosen_ids][:6]
+        allitems = load(files[desk])["items"]
+        desks_out[desk] = {
+            "total": len(allitems), "new_today": sum(1 for i in allitems if i["date"] == today.strftime("%Y-%m-%d")),
+            "items": [e for e in (entry(c) for c in rest if c["score"] >= 2) if e][:4],
+        }
+
+    E.save_cache(cache)
     now = datetime.now(IST)
     (DATA / "front.json").write_text(json.dumps({
         "edition": now.strftime("%Y-%m-%d"), "built": now.strftime("%Y-%m-%d %H:%M IST"),
-        "count": len(out), "by_desk": {d: sum(1 for o in out if o["desk"] == d) for d in QUOTA},
-        "items": out}, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"front page: {len(out)} stories", {d: sum(1 for o in out if o['desk'] == d) for d in QUOTA})
+        "count": len(items), "by_desk": {d: sum(1 for o in items if o["desk"] == d) for d in QUOTA},
+        "markets": fetch_markets(), "features": features(today), "desks": desks_out, "items": items,
+    }, ensure_ascii=False, indent=1), encoding="utf-8")
+    with_img = sum(1 for o in items if o["image"])
+    print(f"front page: {len(items)} stories ({with_img} with pictures)", {d: sum(1 for o in items if o["desk"] == d) for d in QUOTA})
 
 
 if __name__ == "__main__":

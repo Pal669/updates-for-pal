@@ -34,3 +34,10 @@ renderer in `app.js`. The policy desk is untouched by that.
 (rule-based points, listed on each card as "Why it is here"). The GitHub Actions workflow rebuilds everything at about
 05:17, 05:37 and 06:07 IST (three tries because GitHub's scheduler sometimes runs late or skips), plus 16:07 and 22:07 IST
 to catch PIB, which only lists the current day. The page shows a warning if the last refresh is more than 30 hours old.
+
+## Front Page design
+Hero story with picture and a longer snippet, four feature cards, a rotating Startup File and Country Spotlight, a market
+snapshot (Nifty, Sensex, USD/INR, Brent, gold, US 10Y from Yahoo Finance), the remaining ranked headlines with thumbnails,
+and a snapshot column per desk. "Choose your interest" filters the whole page by desk or topic (`#top/Startups` opens on one).
+`scripts/enrich.py` fetches each story's own preview picture and opening lines (cached in `data/enrich_cache.json`); where a
+site offers no picture (PIB, RBI, SEBI) the page shows a coloured tile. Everything stays clickable and opens the original.

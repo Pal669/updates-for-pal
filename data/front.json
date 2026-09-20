@@ -1,17 +1,306 @@
 {
  "edition": "2026-09-20",
- "built": "2026-09-20 12:18 IST",
+ "built": "2026-09-20 13:10 IST",
  "count": 18,
  "by_desk": {
   "Policy": 7,
   "Startups": 6,
   "Immigration": 5
  },
+ "markets": [
+  {
+   "name": "Nifty 50",
+   "dp": 0,
+   "value": 23346.0,
+   "change_pct": 0.33,
+   "asof": "18 Sep 15:31 IST"
+  },
+  {
+   "name": "Sensex",
+   "dp": 0,
+   "value": 74295.0,
+   "change_pct": -0.03,
+   "asof": "18 Sep 15:32 IST"
+  },
+  {
+   "name": "USD/INR",
+   "dp": 2,
+   "value": 95.88,
+   "change_pct": 0.08,
+   "asof": "20 Sep 09:00 IST"
+  },
+  {
+   "name": "Brent (USD)",
+   "dp": 2,
+   "value": 99.29,
+   "change_pct": -5.28,
+   "asof": "19 Sep 02:28 IST"
+  },
+  {
+   "name": "Gold (USD/oz)",
+   "dp": 0,
+   "value": 4425.0,
+   "change_pct": 0.57,
+   "asof": "19 Sep 02:29 IST"
+  },
+  {
+   "name": "US 10Y yield %",
+   "dp": 2,
+   "value": 5.0,
+   "change_pct": 1.03,
+   "asof": "19 Sep 00:29 IST"
+  }
+ ],
+ "features": {
+  "startup_file": {
+   "company": "Innov8 Workspaces",
+   "tagline": "Premium flexible office space operator",
+   "what": "Runs premium flexible and managed workspace centres across India. It had 58 operating centres at the end of FY26 and 72 by July 2026.",
+   "how": [
+    "Rent from customers who use its centres: Rs 173.6 Cr of Rs 201.3 Cr operating revenue in FY26, about 86%.",
+    "Other operational income (ancillary services): Rs 27.6 Cr, up from Rs 5.4 Cr."
+   ],
+   "watch": "Profit quality: other income was Rs 38.9 Cr, including a Rs 36.7 Cr gain on terminating lease contracts. Without that gain the profit jump would look much smaller. The article gives growth drivers as more centres, higher occupancy and better pricing.",
+   "sector": "Real Estate & Workspaces",
+   "region": "India",
+   "url": "https://inc42.com/buzz/innov8s-fy26-profit-zooms-multifold-to-%e2%82%b913-7-cr-revenue-crosses-%e2%82%b9200-cr-mark/"
+  },
+  "country": {
+   "id": "germany",
+   "name": "Germany",
+   "trend": "Stable law, rising political risk",
+   "pr": "Settlement permit after 27 months on a Blue Card with A1 German, or 21 months with B1 German.",
+   "citizenship": "5 years of lawful residence, roughly B1 German, financial independence. The 3-year fast track was abolished on 30 October 2025. Dual citizenship is permitted by Germany.",
+   "pro": "Fastest realistic settlement on this list for a Blue Card holder: 21 to 27 months.",
+   "con": "Political risk: the AfD won 44% in Saxony-Anhalt (early September 2026) and polled around 37% ahead of the 20 September votes in Mecklenburg-Vorpommern and Berlin. Its manifesto calls for a points system with German-language criteria and quotas for non-EU skilled workers, and mass deportations.",
+   "watch": "Outcome of the 20 September regional elections"
+  }
+ },
+ "desks": {
+  "Policy": {
+   "total": 44,
+   "new_today": 0,
+   "items": [
+    {
+     "desk": "Policy",
+     "score": 4,
+     "priority": 29,
+     "title": "Indian Railways Approves ₹252 Crore for Kavach 4.0 on 607.7 Route Kilometres of Lucknow Division",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2312393",
+     "date": "2026-09-19",
+     "source": "PIB",
+     "label": "Infrastructure & Transport",
+     "snippet": "In a significant step towards strengthening railway safety through indigenous technology, Indian Rai",
+     "lead": "In a significant step towards strengthening railway safety through indigenous technology, Indian Railways has approved the provision of Kavach Version 4.0 on 607.7 Route Kilometres of the Lucknow Division of North Eastern Railway at a total cost of ₹252 crore. The approved project will extend Kavach 4.0 coverage across the identified balance sections of the division, strengthening the safety infrastructure available for train ...",
+     "image": null,
+     "why": [
+      "High on the desk's ranking"
+     ],
+     "tags": [
+      "Infrastructure & Transport"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 4,
+     "priority": 29,
+     "title": "Indian Railways Approves ₹209 Crore for Electronic Interlocking at 7 Stations in Solapur Division",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2312391",
+     "date": "2026-09-19",
+     "source": "PIB",
+     "label": "Infrastructure & Transport",
+     "snippet": "Indian Railways has approved the provision of Electronic Interlocking (EI) at seven stations of Sola",
+     "lead": "Indian Railways has approved the provision of Electronic Interlocking (EI) at seven stations of Solapur Division of Central Railway at a total cost of ₹209 crore. The approved work involves provision of Electronic Interlocking at Mohol, Mundhewadi, Bale, Solapur, Hotgi Junction-Hotgi A Cabin, Shahabad and Wadi Junction on the High Density Network (HDN) 7 route, where Kavach, Automatic Block Signalling (ABS) and Centralised Traffic ...",
+     "image": null,
+     "why": [
+      "High on the desk's ranking"
+     ],
+     "tags": [
+      "Infrastructure & Transport"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 3,
+     "priority": 21,
+     "title": "Government Eases RCMC Requirement for Export Consignments up to ₹3 Lakh",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2310798",
+     "date": "2026-09-16",
+     "source": "PIB",
+     "label": "Tax, Duties & Trade",
+     "snippet": "The Government has introduced a de minimis exemption from the requirement of Registration-cum-Member",
+     "lead": "The Government has introduced a de minimis exemption from the requirement of Registration-cum-Membership Certificate (RCMC) or Certificate of Registration for small-value export consignments up to ₹3 lakh. The measure is aimed at reducing the compliance burden for new and small exporters and facilitating exports through Postal, Courier and other emerging channels. The Directorate General of Foreign Trade (DGFT) has amended Para 2.57 of ...",
+     "image": null,
+     "why": [
+      "Rule change",
+      "Commerce"
+     ],
+     "tags": [
+      "Tax, Duties & Trade"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 2,
+     "priority": 14,
+     "title": "Semicon 2.0 to deepen India’s semiconductor ecosystem with focus on design, equipment, fabs, advanced packaging, R&D and talent",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2311630",
+     "date": "2026-09-17",
+     "source": "PIB",
+     "label": "Industry & Manufacturing",
+     "snippet": "Union Minister for Electronics and Information Technology, Shri Ashwini Vaishnaw, today outlined the",
+     "lead": "Union Minister for Electronics and Information Technology, Shri Ashwini Vaishnaw, today outlined the implementation approach and emerging investment momentum under Semicon 2.0, highlighting the Government’s focus on developing the complete semiconductor ecosystem in India. Addressing the media during SEMICON India 2026, Shri Vaishnaw said that while Semicon 1.0 focused on laying the foundation for India’s semiconductor industry , ...",
+     "image": null,
+     "why": [
+      "Strategic sector"
+     ],
+     "tags": [
+      "Industry & Manufacturing"
+     ]
+    }
+   ]
+  },
+  "Startups": {
+   "total": 60,
+   "new_today": 3,
+   "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 69,
+     "title": "Aakash Trims FY26 Loss By 16% To ₹186.5 Cr, Top Line Flat At ₹2,040 Cr",
+     "url": "https://inc42.com/buzz/aakash-trims-fy26-loss-by-16-to-%e2%82%b9186-5-cr-top-line-flat-at-%e2%82%b92040-cr/",
+     "date": "2026-09-17",
+     "source": "Inc42",
+     "label": "India · Edtech & Skills",
+     "snippet": "Aakash Educational Services Ltd managed to narrow its net loss for FY26 by 15.5% to ₹186.5 Cr from ₹220.8 Cr loss incurred in FY25",
+     "lead": "Aakash Educational Services Ltd managed to narrow its net loss for the financial year FY26 by 15.5% to ₹186.5 Cr from ₹220.8 Cr loss incurred in the previous fiscal Aakash is one of India's largest test-prep brands for engineering and medical entrance exams and has been operating under the ownership of BYJU’S parent Think & Learn Operating revenue rose marginally by 0.4% to ₹2,040.5 Cr in FY26 from ₹2,032.1 Cr in the previous year",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/aakash-layoffs-social-.jpeg",
+     "why": [
+      "Financials",
+      "Large deal (about $215M)",
+      "Startup File written (what they do, how they make money)"
+     ],
+     "tags": [
+      "Financials",
+      "Edtech & Skills"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 62,
+     "title": "DeepMind researcher’s new AI lab nears $4bn valuation, reports say",
+     "url": "https://sifted.eu/articles/deepmind-researchers-new-ai-lab-nears-4bn-valuation-reports-say/",
+     "date": "2026-09-17",
+     "source": "Sifted",
+     "label": "Global · AI & Deeptech",
+     "snippet": "A Google DeepMind researcher who led the company’s world models development, is reportedly nearing a $700m fundraise for a new London neolab.",
+     "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
+     "image": "https://images.sifted.eu/cdn-cgi/image/width=3200,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/12162039/jack-deepmind-1.png",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $4,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 56,
+     "title": "From Flam To VerifAIX — Indian Startups Raised About $59 Mn This Week",
+     "url": "https://inc42.com/buzz/from-flam-to-verifaix-indian-startups-raised-about-59-mn-this-week/",
+     "date": "2026-09-19",
+     "source": "Inc42",
+     "label": "India · Fintech",
+     "snippet": "Indian Startup Funding: This week, Indian startup funding stood at $59.7 Mn across 12 deals, down 82% from the preceding week",
+     "lead": "Twelve startups raised $58.9 Mn this week, down 82% from the $321.9 Mn from the preceding week. AJVC was the most active investor this week, backing MoroMaa and Slayd. The VC firm also saw PE firm Novastar Partners as a limited partner for its fund. Finvolve and Activate raised fresh capital for their funds, Asiana Fund and JC Capital partnered to launch a ₹1,000 Cr deeptech-focused fund.",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Social-100-60.jpg",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $59M)"
+     ],
+     "tags": [
+      "Funding",
+      "Fintech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 56,
+     "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+     "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+     "date": "2026-09-19",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+     "lead": "A startup that builds other startups raised $100M and is all-in on physical AI Kirsten Korosec 4:25 PM PDT · September 18, 2026 Four years ago, a startup lab launched that wasn’t quite an incubator, accelerator program, or venture firm. UP.Labs, as it was called then, built startups designed to solve problems for corporate customers such as Alaska Airlines and Porsche, as well as for the outside world. The firm still has the same ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781",
+     "why": [
+      "Funding",
+      "Large deal (about $100M)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    }
+   ]
+  },
+  "Immigration": {
+   "total": 269,
+   "new_today": 2,
+   "items": [
+    {
+     "desk": "Immigration",
+     "score": 4,
+     "priority": 44,
+     "title": "‘Korea became my home’: Iran-born scientist discusses research, naturalization and future",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONmN1X1pGMm84Q1p1cHdqQXF3NzVXc0JMLXpuallUS2c1WGNkcWdOZ09RNXNhVGFJaXZENWcwYUNhZ3RXdUE2RXhEZUN2TTl0LTBuVGZRMUtOZWZ0eUo0QnN2elJka3cwNW9HNlc4SndDay01Mkl4NVQzYzNuOVNEd09mQm1TUzZZbnV5VXBSbzRKUUd6b1Bid2tiV2NtVy1TMTd2SFNmZW9RbU1Sd3lKUFEtYTZETVdkWjR6NXh5eUsydzFUazJ1QldRaVl5QWc?oc=5",
+     "date": "2026-09-15",
+     "source": "Korea JoongAng Daily",
+     "label": "South Korea",
+     "snippet": "IBS laser-plasma researcher Mohammad Mirzaie discusses earning Korean citizenship through special naturalization, Korea’s research strengths and his goal to train future scientists.",
+     "lead": "IBS laser-plasma researcher Mohammad Mirzaie discusses earning Korean citizenship through special naturalization, Korea’s research strengths and his goal to train future scientists. YOON SEUNG-JIN YOON SEUNG-JIN K-CAMPUS REPORTER Published September 15, 2026 - 1:35 p.m. Modified September 15, 2026 - 3:43 p.m. Researcher Mohammad Mirzaie examines laser equipment at the Ultrashort Quantum Beam Facility on the campus of the Gwangju ...",
+     "image": "https://image.koreajoongangdaily.com/12875812.jpg?imageId=12875812&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+     "why": [
+      "Affects citizenship"
+     ],
+     "tags": [
+      "Citizenship",
+      "South Korea"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 4,
+     "priority": 44,
+     "title": "Six things Austria’s new migration report reveals about life for immigrants",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3huOWh2ZWdTa1ItZENodXlFa0xsTjUzc2R3Y1JEVlBybTB2d3ZkSGJiT2tmNTBrbWdnRG8ySUxramM4WHRCaEZmX3FiMjhNNGxMN05pRUg2UC1QR0JmempramFUdU9fNjlPYWpVbkNwZy1pVi1qb3ZNckhGWHN1SHBLV3N5RThKWndDZU1NeDdHdXliZEVPNjJtRVJBcGlPNXlwQU50ekJHRjA?oc=5",
+     "date": "2026-09-14",
+     "source": "The Local Austria",
+     "label": "Austria",
+     "snippet": "Austria’s migration-background population has grown to 2.55 million even as net migration slows. The latest official yearbook also offers a closer look at where people come from, how much German they use, their place in the labour market and how migrants themselves view life in Austria.",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source Austria’s migration-background population has grown to 2.55 million even as net migration slows. The latest official yearbook also offers a closer look at where people come from, how much German they use, their place in the labour ...",
+     "image": null,
+     "why": [
+      "Major story (9 headlines that day)"
+     ],
+     "tags": [
+      "Austria"
+     ]
+    }
+   ]
+  }
+ },
  "items": [
   {
-   "rank": 1,
    "desk": "Startups",
-   "must_read": true,
    "score": 16,
    "priority": 100,
    "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
@@ -19,18 +308,24 @@
    "date": "2026-09-19",
    "source": "TechCrunch",
    "label": "Global · Fintech",
-   "summary": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
+   "snippet": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
+   "lead": "These days, it’s rare to hear of a startup founded in 2019, or one not focused on AI agents, raising a hefty Series C. But health insurance startup Angle Health announced Friday that it raised a $200 million Series C, alongside a $400 million tender offer, at a $2.7 billion valuation. The round was led by Vitruvian Partners with participation from Town Hall Ventures, Blumberg Capital, Portage Ventures, PruVen Capital, and Y Combinator. ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
    "why": [
     "Funding",
     "Very large figure in headline (about $2,700M: round or valuation)",
     "Startup File written (what they do, how they make money)",
     "Valuation, listing or profitability signal"
-   ]
+   ],
+   "tags": [
+    "Funding",
+    "Fintech"
+   ],
+   "rank": 1,
+   "must_read": true
   },
   {
-   "rank": 2,
    "desk": "Immigration",
-   "must_read": true,
    "score": 9,
    "priority": 100,
    "title": "Australia tightens student visas: What changes for Indians?",
@@ -38,17 +333,23 @@
    "date": "2026-09-17",
    "source": "The Indian Express",
    "label": "Australia",
-   "summary": "",
+   "snippet": "The reforms target international students, working-holiday makers and people who use successive visa pathways to extend their stay in Australia.",
+   "lead": "In a speech titled “The Work of Managing the Migration Program: Who Arrives, Who Stays, Who Leaves”, Burke said immigration remained important to Australia, but the government needed greater control over the migration system. The reforms target international students, working-holiday makers and people who use successive visa pathways to extend their stay in Australia. The government is also tightening measures against visa overstayers. ...",
+   "image": "https://images.indianexpress.com/2026/09/australian-visa.jpg",
    "why": [
     "Announces a change",
     "Major story (16 headlines that day)",
     "Mentions India or Indians"
-   ]
+   ],
+   "tags": [
+    "Student / Graduate",
+    "Australia"
+   ],
+   "rank": 2,
+   "must_read": true
   },
   {
-   "rank": 3,
    "desk": "Policy",
-   "must_read": true,
    "score": 14,
    "priority": 100,
    "title": "Cabinet approves enhancement of EPFO wage ceiling from Rs.15,000 to Rs.25,000 per month",
@@ -56,17 +357,22 @@
    "date": "2026-09-16",
    "source": "PIB",
    "label": "Labour & Social",
-   "summary": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the proposal of the Ministry of Labour & Employment to enhance the wage ceiling for mandatory coverage under the Employees’ Provident Fund Organisation (EPFO) from Rs.15,000 to Rs.25,000 per month.",
+   "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the proposal of th",
+   "lead": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the proposal of the Ministry of Labour & Employment to enhance the wage ceiling for mandatory coverage under the Employees’ Provident Fund Organisation (EPFO) from Rs.15,000 to Rs.25,000 per month. The decision is expected to bring more than 51 lakh additional employees within the ambit of mandatory EPFO coverage, significantly widening social security ...",
+   "image": null,
    "why": [
     "Cabinet decision",
     "Labour and pension rule",
     "Cabinet"
-   ]
+   ],
+   "tags": [
+    "Labour & Social"
+   ],
+   "rank": 3,
+   "must_read": true
   },
   {
-   "rank": 4,
    "desk": "Startups",
-   "must_read": true,
    "score": 15,
    "priority": 94,
    "title": "SEBI Greenlights Kuku Technologies’ ₹3,500 Cr IPO",
@@ -74,18 +380,24 @@
    "date": "2026-09-17",
    "source": "Inc42",
    "label": "India · Media, Gaming & Creators",
-   "summary": "Markets regulator SEBI has greenlit the proposed listing of audio OTT startup Kuku Technologies months after it filed its draft…",
+   "snippet": "The audio OTT startup’s IPO’s size could be in the range of ₹2,500-3,500 Cr and could potentially value it at ₹15,000 Cr.",
+   "lead": "SEBI last week approved Kuku’s IPO after the startup filed its confidential DRHP in June The audio OTT startup’s IPO’s size could be in the range of ₹2,500-3,500 Cr and could potentially value it at ₹15,000 Cr The IPO will consist of a fresh issue of shares as well as an offer-for-sale component",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/12/Kuku-FM-1.jpg",
    "why": [
     "IPO & Listing",
     "Large deal (about $368M)",
     "Startup File written (what they do, how they make money)",
     "Valuation, listing or profitability signal"
-   ]
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Media, Gaming & Creators"
+   ],
+   "rank": 4,
+   "must_read": true
   },
   {
-   "rank": 5,
    "desk": "Startups",
-   "must_read": true,
    "score": 12,
    "priority": 75,
    "title": "From an IIT Bombay lab to a Rs 1,000 Cr IPO",
@@ -93,16 +405,22 @@
    "date": "2026-09-20",
    "source": "YourStory",
    "label": "India · AI & Deeptech",
-   "summary": "In this episode, Professor Shashikanth (IIT Bombay) shares his journey of building SEDEMAC, a deeptech startup that has crossed Rs 1,000 crore in annual revenue, Rs 1,087 crore IPO earlier this year and the stock growing over a 100% since.",
+   "snippet": "In this episode, Professor Shashikanth (IIT Bombay) shares his journey of building SEDEMAC, a deeptech startup that has crossed Rs 1,000 crore in annual revenue, Rs 1,087 crore IPO earlier this year and the stock growing over a 100% since.",
+   "lead": "From an IIT Bombay lab to a Rs 1,000 Cr IPO In this episode, Professor Shashikanth (IIT Bombay) shares his journey of building SEDEMAC, a deeptech startup that has crossed Rs 1,000 crore in annual revenue, Rs 1,087 crore IPO earlier this year and the stock growing over a 100% since. Jerome Manuel 58 Stories Sunday September 20, 2026 , 8 min Read India’s startup ecosystem has become very good at building companies at speed. Professor ...",
+   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/ThumbnailYTSEDEMACShashikanth-1789625604040.png",
    "why": [
     "IPO & Listing",
     "Large deal (about $105M)"
-   ]
+   ],
+   "tags": [
+    "IPO & Listing",
+    "AI & Deeptech"
+   ],
+   "rank": 5,
+   "must_read": true
   },
   {
-   "rank": 6,
    "desk": "Startups",
-   "must_read": false,
    "score": 12,
    "priority": 75,
    "title": "Innov8’s FY26 Profit Zooms Multifold To ₹13.7 Cr, Revenue Crosses ₹200 Cr Mark",
@@ -110,17 +428,23 @@
    "date": "2026-09-19",
    "source": "Inc42",
    "label": "India · AI & Deeptech",
-   "summary": "Premium flexible workspace operator Innov8 Workspaces sharply improved its profitability in the fiscal year FY26 while rapidly expanding the network…",
+   "snippet": "Innov8 Workspaces sharply improved its profitability in FY26 while rapidly expanding the network of centres it operates across the country",
+   "lead": "Innov8's net profit surged nearly 11.8X to ₹13.8 Cr in FY26 from ₹1.2 Cr in FY25, as per its annual report Innov8 Workspaces sharply improved its profitability in the fiscal year FY26 while rapidly expanding the network of centres it operates across the country Meanwhile, operating revenue rose 76% to ₹201.3 Cr from ₹114.5 Cr, while EBITDA net of lease increased 64.6% to ₹49.4 Cr from ₹30 Cr",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/soc-21-2.jpg",
    "why": [
     "Financials",
     "Startup File written (what they do, how they make money)",
     "Valuation, listing or profitability signal"
-   ]
+   ],
+   "tags": [
+    "Financials",
+    "AI & Deeptech"
+   ],
+   "rank": 6,
+   "must_read": false
   },
   {
-   "rank": 7,
    "desk": "Startups",
-   "must_read": false,
    "score": 12,
    "priority": 75,
    "title": "Kissht Gets Board Nod To Raise ₹832 Cr Via Preferential Issue",
@@ -128,17 +452,23 @@
    "date": "2026-09-18",
    "source": "Inc42",
    "label": "India · Fintech",
-   "summary": "Listed NBFC Kissht has secured board approval to raise up ₹832.2 Cr via a preferential issue of equity shares to…",
+   "snippet": "Listed NBFC Kissht has secured board approval to raise up ₹832.2 Cr via a preferential issue of equity shares to 34 investors and entities.",
+   "lead": "In a filing with the exchanges, the NBFC said that its board has approved the issuance of 2.6 Cr fully paid-up equity shares to the investors at an issue price of ₹314.11 apiece Kissht is raising the preferential issue right after its IPO, signalling strong institutional interest in its lending business. But there appears no clarity on how the funds will be utilised While Axis Mutual Fund will receive 63.7 Lakh shares worth nearly ₹200 ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/soc-3-2.jpg",
    "why": [
     "Funding",
     "Sizeable deal (about $88M)",
     "Startup File written (what they do, how they make money)"
-   ]
+   ],
+   "tags": [
+    "Funding",
+    "Fintech"
+   ],
+   "rank": 7,
+   "must_read": false
   },
   {
-   "rank": 8,
    "desk": "Startups",
-   "must_read": false,
    "score": 11,
    "priority": 69,
    "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
@@ -146,33 +476,22 @@
    "date": "2026-09-18",
    "source": "TechCrunch",
    "label": "Global · Other",
-   "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+   "snippet": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+   "lead": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops Ram Iyer 9:35 AM PDT · September 18, 2026 Chinese AI startup Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500 million at a $4 billion valuation now that it has resumed operations as an independent company, The Wall Street Journal reported , citing anonymous sources. Potential investors in the round include ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2278374931.jpg?w=1024",
    "why": [
     "Funding",
     "Very large figure in headline (about $4,000M: round or valuation)",
     "Valuation, listing or profitability signal"
-   ]
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 8,
+   "must_read": false
   },
   {
-   "rank": 9,
-   "desk": "Immigration",
-   "must_read": false,
-   "score": 6,
-   "priority": 67,
-   "title": "Dual citizenship means Germany now in competition for talent",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON0ZKV3Q4TmZqT3ppVmR6Rm1MaDNDa3o5N0pSMUpucTlxWTFDQkJZWWFPLUlvWFN6UW44OS1DREs0b19iVHlxWlNpeFV2aU1lcHUyVEZTRVlqeHBqUFpocE5lSGxPQWo3WFpEZktmclZ3bDVqQnFsMlByTDFjajRXa3dJSkY2QXBhTDlrdGVLV3ljUHhaWW5KYtIBmAFBVV95cUxON0ZKV3Q4TmZqT3ppVmR6Rm1MaDNDa3o5N0pSMUpucTlxWTFDQkJZWWFPLUlvWFN6UW44OS1DREs0b19iVHlxWlNpeFV2aU1lcHUyVEZTRVlqeHBqUFpocE5lSGxPQWo3WFpEZktmclZ3bDVqQnFsMlByTDFjajRXa3dJSkY2QXBhTDlrdGVLV3ljUHhaWW5KYg?oc=5",
-   "date": "2026-09-18",
-   "source": "DW.com",
-   "label": "Germany",
-   "summary": "",
-   "why": [
-    "Affects citizenship"
-   ]
-  },
-  {
-   "rank": 10,
    "desk": "Policy",
-   "must_read": false,
    "score": 9,
    "priority": 64,
    "title": "Reserve Bank of India (Commercial Banks – Know Your Customer) Amendment Directions, 2026",
@@ -180,17 +499,22 @@
    "date": "2026-09-18",
    "source": "RBI",
    "label": "Banking & Rates",
-   "summary": "Reserve Bank of India (Commercial Banks – Know Your Customer) Amendment Directions, 2026 Reserve Bank has issued Reserve Bank of India (Commercial Banks – Know Your Customer) Directions, 2025 dated November 28, 2025 (hereinafter referred to as the Directions) in compliance with the provisions of the Prevention of Money Laundering Act, 2002, and the Prevention of Money Laundering (Maintenance of Records) Rules, 2005.",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Reserve Bank of India (Commercial Banks – Know Your Customer) Amendment Directions, 2026 Reserve Bank has issued Reserve Bank of India (Commercial Banks – Know Your Customer) Directions, 2025 dated November 28, 2025 (hereinafter referred to as the Directions) in compliance with the provisions of the Prevention of Money Laundering Act, 2002, and the Prevention of Money Laundering (Maintenance of Records) Rules, 2005. The Directions in ...",
+   "image": null,
    "why": [
     "Regulator rulebook change",
     "Rule change",
     "Regulator: RBI"
-   ]
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 9,
+   "must_read": false
   },
   {
-   "rank": 11,
    "desk": "Policy",
-   "must_read": false,
    "score": 8,
    "priority": 57,
    "title": "Government Relaxes Sugar Stockholding Limit for Bulk Consumers from 15 to 30 Days, Additional stock to be sourced exclusively from imported sugar under Advance Authorization Scheme (AAS) and Tariff Rate Quota (TRQ)",
@@ -198,16 +522,21 @@
    "date": "2026-09-18",
    "source": "PIB",
    "label": "Tax, Duties & Trade",
-   "summary": "The Government has decided that the existing 15 days’ stockholding limit for bulk consumers is relaxed to 30 days, subject to the condition that the quantity of stock held beyond the existing 15 days’ limit, shall be sourced exclusively from sugar imported under Advance Authorisation Scheme (AAS) and Tariff Rate Quota (TRQ). The stockholding limit for purchase from the open market shall remain unchanged and will be restricted to 15 days’ consumption only.",
+   "snippet": "The Government has decided that the existing 15 days’ stockholding limit for bulk consumers is relax",
+   "lead": "The Government has decided that the existing 15 days’ stockholding limit for bulk consumers is relaxed to 30 days, subject to the condition that the quantity of stock held beyond the existing 15 days’ limit, shall be sourced exclusively from sugar imported under Advance Authorisation Scheme (AAS) and Tariff Rate Quota (TRQ). The stockholding limit for purchase from the open market shall remain unchanged and will be restricted to 15 ...",
+   "image": null,
    "why": [
     "Duty or tariff change",
     "Rule change"
-   ]
+   ],
+   "tags": [
+    "Tax, Duties & Trade"
+   ],
+   "rank": 10,
+   "must_read": false
   },
   {
-   "rank": 12,
    "desk": "Immigration",
-   "must_read": false,
    "score": 5,
    "priority": 56,
    "title": "India remains outside New Zealand’s visa-waiver circle",
@@ -215,15 +544,20 @@
    "date": "2026-09-20",
    "source": "Indian Newslink",
    "label": "New Zealand",
-   "summary": "",
+   "snippet": "India remains outside New Zealand’s visa-waiver circle",
+   "lead": "Closer travel links require responsibility, reciprocity and realistic reform India’s absence from New Zealand’s visa-waiver list deserves more attention than it has received. It is not a minor technical detail tucked away in an immigration website.",
+   "image": "https://admin.indiannewslink.co.nz/uploads/India_remains_Main_Banner_00f028f119.png",
    "why": [
     "Mentions India or Indians"
-   ]
+   ],
+   "tags": [
+    "New Zealand"
+   ],
+   "rank": 11,
+   "must_read": false
   },
   {
-   "rank": 13,
    "desk": "Immigration",
-   "must_read": false,
    "score": 5,
    "priority": 56,
    "title": "Canada invites 250 senior managers to apply for permanent residence",
@@ -231,31 +565,21 @@
    "date": "2026-09-16",
    "source": "CIC News",
    "label": "Canada",
-   "summary": "",
+   "snippet": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 250 ITAs in a draw for senior managers with Canadian work experience. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) scor",
+   "lead": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 250 ITAs in a draw for senior managers with Canadian work experience. Foreign nationals in Canada who have applied for permanent residence through Express Entry may be able to obtain a Bridging Open Work Permit (BOWP).",
+   "image": "https://www.cicnews.com/wp-content/uploads/2026/09/Express-Entry-Draw-56.jpg",
    "why": [
     "Affects permanent residence"
-   ]
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Canada"
+   ],
+   "rank": 12,
+   "must_read": false
   },
   {
-   "rank": 14,
-   "desk": "Immigration",
-   "must_read": false,
-   "score": 5,
-   "priority": 56,
-   "title": "Hundreds sign petition to resume Danish citizenship application process",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdmI1Zkp3TkxLakZMWU9LNUxJV0hqWFJJNEJ4ZDZ2U01wSXNad3NZcllTX2hTXzgzZlR2bzQ4UzlBZkxEVFVfV1I2SG56XzNZNTFqNm1ibkdaSEp4blBBS01UT1plNGhuRXdMbklmeWRFbmlRV2xkdU1BcVFGUlNLNU1XU3l4a042SU04R2p1UVJkX3NsUGI2SXA3YjFqMUY5NkNLcWtXVQ?oc=5",
-   "date": "2026-09-14",
-   "source": "The Local Denmark",
-   "label": "Denmark",
-   "summary": "",
-   "why": [
-    "Affects citizenship"
-   ]
-  },
-  {
-   "rank": 15,
    "desk": "Policy",
-   "must_read": false,
    "score": 7,
    "priority": 50,
    "title": "Samuhik Prativedan Manch- A Technology based common reporting mechanism extended to Members of Clearing Corporations",
@@ -263,16 +587,65 @@
    "date": "2026-09-17",
    "source": "SEBI",
    "label": "Markets & Regulation",
-   "summary": "Open the document for full details.",
+   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+   "lead": "",
+   "image": null,
    "why": [
     "Rates and liquidity",
     "Regulator: SEBI"
-   ]
+   ],
+   "tags": [
+    "Markets & Regulation"
+   ],
+   "rank": 13,
+   "must_read": false
   },
   {
-   "rank": 16,
+   "desk": "Immigration",
+   "score": 4,
+   "priority": 44,
+   "title": "BREAKING NEWS: Japan's immigration agency had 103 residence card printers go unused: audit",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KOXVHN0V5N3I1Q09hVkVlUmV5WnJTVWkzYmxEbHl3X090N183TUYtRXZNbkNXcDNhd1RZMjFYUjloYkN1VHBnUDQ0YzFOME50RmVmRE9XOVk0UQ?oc=5",
+   "date": "2026-09-17",
+   "source": "Japan Wire by Kyodo News",
+   "label": "Japan",
+   "snippet": "BREAKING NEWS: Japan",
+   "lead": "",
+   "image": "https://english-kyodo.ismcdn.jp/mwimgs/f/0/1200x/img_f04ab8cf4feb2039ac6638aa72ee6798451735.png",
+   "why": [
+    "Affects permanent residence"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Japan"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 4,
+   "priority": 44,
+   "title": "Could you benefit from Switzerland’s 'employer-sponsored' immigration?",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVEQ1LVFCYm5yZlRZejdFbDhsc1BlblhBNllKSHY2WERnMlh4aXZUOGJIQmdhR0lEbGtpXzF2S3hPTDN2eWZQbFUzTGxRdzE5OVhFX2FTUDRWdkM1SzBOZlBUeE5ab2pOWjhmY1JMU0V4VEJlZlJrTVA5SUprZFpfOGVBMHN0a0Uxa3hwallFVlQyT1pHb3hvN01sRGhic0hO?oc=5",
+   "date": "2026-09-16",
+   "source": "The Local Switzerland",
+   "label": "Switzerland",
+   "snippet": "The term \"employer sponsored\" immigration has appeared on some websites in Switzerland advising foreigners about ways to get a Swiss work permit. But is it a new way to get into Switzerland?",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source The term \"employer sponsored\" immigration has appeared on some websites in Switzerland advising foreigners about ways to get a Swiss work permit. But is it a new way to get into Switzerland? Though it sounds as if ...",
+   "image": null,
+   "why": [
+    "Affects work visas"
+   ],
+   "tags": [
+    "Work visa",
+    "Switzerland"
+   ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
    "desk": "Policy",
-   "must_read": false,
    "score": 6,
    "priority": 43,
    "title": "Biometric Aadhaar Authentication Mandatory for Subsidised Domestic LPG Refills from 1 October 2026",
@@ -280,15 +653,20 @@
    "date": "2026-09-19",
    "source": "PIB",
    "label": "Energy & Power",
-   "summary": "From 1 October 2026, domestic LPG consumers will need to have completed Biometric Aadhaar Authentication (BAA) to book refills at the regulated Retail Selling Price (RSP) with applicable subsidy. BAA ensures that subsidised LPG reaches only genuine and deserving households.",
+   "snippet": "From 1 October 2026, domestic LPG consumers will need to have completed Biometric Aadhaar Authentica",
+   "lead": "From 1 October 2026, domestic LPG consumers will need to have completed Biometric Aadhaar Authentication (BAA) to book refills at the regulated Retail Selling Price (RSP) with applicable subsidy. BAA ensures that subsidised LPG reaches only genuine and deserving households. Linking each connection to the Aadhaar-authenticated consumer helps prevent diversion of subsidised domestic cylinders for commercial and industrial use, removes ...",
+   "image": null,
    "why": [
     "Subsidy or incentive"
-   ]
+   ],
+   "tags": [
+    "Energy & Power"
+   ],
+   "rank": 16,
+   "must_read": false
   },
   {
-   "rank": 17,
    "desk": "Policy",
-   "must_read": false,
    "score": 5,
    "priority": 36,
    "title": "LAUNCHING OF NEGOTIATIONS FOR THE EXPANSION OF THE INDIA-MERCOSUR PREFERENTIAL TRADE AGREEMENT",
@@ -296,16 +674,21 @@
    "date": "2026-09-14",
    "source": "PIB",
    "label": "Tax, Duties & Trade",
-   "summary": "Union Minister of Commerce and Industry of India, Piyush Goyal and the Minister of Foreign Affairs of the Oriental Republic of Uruguay, Mario Lubetkin, in the exercise of the Pro Tempore Presidency of MERCOSUR announced the launch of negotiations for the expansion of the Preferential Trade Agreement between the Republic of India and MERCOSUR.",
+   "snippet": "Union Minister of Commerce and Industry of India, Piyush Goyal and the Minister of Foreign Affairs o",
+   "lead": "Union Minister of Commerce and Industry of India, Piyush Goyal and the Minister of Foreign Affairs of the Oriental Republic of Uruguay, Mario Lubetkin, in the exercise of the Pro Tempore Presidency of MERCOSUR announced the launch of negotiations for the expansion of the Preferential Trade Agreement between the Republic of India and MERCOSUR. Both sides agreed to expand the current Agreement to cover areas of mutual interest, with a ...",
+   "image": null,
    "why": [
     "Trade agreement",
     "Commerce"
-   ]
+   ],
+   "tags": [
+    "Tax, Duties & Trade"
+   ],
+   "rank": 17,
+   "must_read": false
   },
   {
-   "rank": 18,
    "desk": "Policy",
-   "must_read": false,
    "score": 5,
    "priority": 36,
    "title": "India and MERCOSUR Sign First Additional Protocol to Facilitate Electronic Certificates of Origin",
@@ -313,11 +696,18 @@
    "date": "2026-09-14",
    "source": "PIB",
    "label": "Tax, Duties & Trade",
-   "summary": "India and MERCOSUR signed the First Additional Protocol to the India–MERCOSUR Preferential Trade Agreement (PTA) to facilitate acceptance of electronic Certificates of Origin, marking an important step towards facilitating paperless trade and modernising customs procedures between India and the MERCOSUR countries. The Protocol was signed by Commerce Secretary, Government of India, Shri Rajesh Agarwal and Ambassador of Uruguay to India H.E.",
+   "snippet": "India and MERCOSUR signed the First Additional Protocol to the India–MERCOSUR Preferential Trade Agr",
+   "lead": "India and MERCOSUR signed the First Additional Protocol to the India–MERCOSUR Preferential Trade Agreement (PTA) to facilitate acceptance of electronic Certificates of Origin, marking an important step towards facilitating paperless trade and modernising customs procedures between India and the MERCOSUR countries. The Protocol was signed by Commerce Secretary, Government of India, Shri Rajesh Agarwal and Ambassador of Uruguay to India ...",
+   "image": null,
    "why": [
     "Trade agreement",
     "Commerce"
-   ]
+   ],
+   "tags": [
+    "Tax, Duties & Trade"
+   ],
+   "rank": 18,
+   "must_read": false
   }
  ]
 }

@@ -78,21 +78,119 @@
   };
 
   const DESK_LINK = { Policy: "#policy", Startups: "#startups", Immigration: "#immigration" };
+  const trimTo = (s, n) => {
+    s = (s || "").trim();
+    return s.length > n ? s.slice(0, n).replace(/\s+\S*$/, "") + " ..." : s;
+  };
+  const best = (it, n, hero) => {
+    const a = it.snippet || "", b = it.lead || "";
+    const pick = hero ? (b.length > a.length ? b : a) : (a.length >= 110 ? a : b.length > a.length ? b : a);
+    return trimTo(pick, n);
+  };
+  // A picture when the story has one, otherwise a coloured tile (the tile also shows if the picture fails to load).
+  const pic = (it, cls) => {
+    const big = it.desk === "Immigration" ? it.label : it.desk === "Startups" ? it.source : it.source;
+    const small = it.desk === "Policy" ? it.label : it.desk === "Startups" ? it.label.split("·").pop().trim() : it.source;
+    return `<a class="ph ${esc(it.desk)} ${cls || ""}" href="${esc(it.url)}" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">
+      <span class="tile"><b>${esc(big)}</b><i>${esc(small)}</i></span>${it.image ? `<img src="${esc(it.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}</a>`;
+  };
+  const deskBadge = (it) => `<span class="badge desk ${esc(it.desk)}">${esc(it.desk)}</span>${it.must_read ? '<span class="badge major">MUST READ</span>' : ""}`;
+  const metaLine = (it) => `${deskBadge(it)}${esc(it.label)} &middot; ${esc(it.source)} &middot; ${esc(it.date)}`;
+  const whyLine = (it) => `<div class="why">Why it is here: ${it.why.map(esc).join(" &middot; ")}</div>`;
+
+  function heroCard(it) {
+    return `<section class="hero">${pic(it, "big")}<div class="htext">
+      <div class="meta">${metaLine(it)}</div>
+      <h2>${link(it.url, esc(it.title))}</h2>
+      <p class="snip">${esc(best(it, 520, true))}</p>${whyLine(it)}
+      ${link(it.url, "Read the full story &rarr;", "read")} <a class="more" href="${DESK_LINK[it.desk]}">More from the ${esc(it.desk)} Desk</a></div></section>`;
+  }
+  function gridCard(it) {
+    return `<article class="gcard">${pic(it)}<div class="meta">${metaLine(it)}</div>
+      <h3>${link(it.url, esc(it.title))}</h3><p>${esc(best(it, 240))}</p>${whyLine(it)}${link(it.url, "Read more &rarr;", "read")}</article>`;
+  }
+  function rowCard(it, n) {
+    return `<article class="row-card">${pic(it, "sm")}<div><div class="meta">${n ? `<span class="rank">${n}</span>` : ""}${metaLine(it)}</div>
+      <h4>${link(it.url, esc(it.title))}</h4><p>${esc(best(it, 200))}</p></div></article>`;
+  }
+  function miniCard(it) {
+    return `<article class="mini">${pic(it, "xs")}<div><h5>${link(it.url, esc(trimTo(it.title, 110)))}</h5>
+      <div class="meta">${esc(it.label)} &middot; ${esc(it.source)} &middot; ${esc(it.date)}</div></div></article>`;
+  }
+
+  const fmtNum = (v, dp) => v.toLocaleString("en-IN", { minimumFractionDigits: dp || 0, maximumFractionDigits: dp || 0 });
+  function marketStrip(ms) {
+    if (!ms || !ms.length) return "";
+    return `<div class="markets" aria-label="Market snapshot">${ms.map((m) => `<div class="mk"><span class="mn">${esc(m.name)}</span>
+      <b>${fmtNum(m.value, m.dp)}</b><span class="${m.change_pct >= 0 ? "up" : "dn"}">${m.change_pct >= 0 ? "▲" : "▼"} ${Math.abs(m.change_pct).toFixed(2)}%</span></div>`).join("")}
+      <div class="mnote">Last close vs the close before it. Source: Yahoo Finance. Times are the last trade, IST.</div></div>`;
+  }
+
+  function startupFileBox(f) {
+    if (!f) return "";
+    const region = f.region === "Global" ? "global" : "india";
+    return `<section class="feat"><div class="fk">Startup File of the day</div><h3>${esc(f.company)}</h3><p class="tag">${esc(f.tagline)}</p>
+      <h6>What they do</h6><p>${esc(trimTo(f.what, 300))}</p><h6>How they make money</h6><p>${esc(trimTo(f.how[0] || "", 260))}</p>
+      <p><a class="read" href="#startups/${region}">Open the Startup Desk &rarr;</a> <a class="more" href="${esc(f.url)}" target="_blank" rel="noopener">Source article</a></p></section>`;
+  }
+  function countryBox(c) {
+    if (!c) return "";
+    return `<section class="feat"><div class="fk">Country spotlight</div><h3>${esc(c.name)}</h3><p class="tag">Direction: ${esc(c.trend)}</p>
+      <h6>Permanent residence</h6><p>${esc(trimTo(c.pr, 210))}</p><h6>Citizenship</h6><p>${esc(trimTo(c.citizenship, 210))}</p>
+      <div class="pc"><div class="pos"><h6>A positive</h6><p>${esc(trimTo(c.pro, 150))}</p></div><div class="neg"><h6>A negative</h6><p>${esc(trimTo(c.con, 150))}</p></div></div>
+      <p><a class="read" href="#immigration/files">Open all 19 Country Files &rarr;</a></p></section>`;
+  }
+
+  function deskColumn(desk, d) {
+    if (!d || !d.items.length) return "";
+    return `<section class="dcol"><h3><a href="${DESK_LINK[desk]}">${esc(desk)} Desk</a></h3>
+      <div class="dstat">${d.total} on file &middot; ${d.new_today} new today</div>${d.items.map(miniCard).join("")}
+      <a class="read" href="${DESK_LINK[desk]}">Open the ${esc(desk)} Desk &rarr;</a></section>`;
+  }
+
+  let frontData = null, interest = "All";
   function frontView(data) {
+    frontData = data;
     const built = new Date(data.built.replace(" IST", "").replace(" ", "T") + ":00+05:30");
     const hours = (Date.now() - built.getTime()) / 36e5;
     const stale = hours > 30
       ? `<p class="stale">The last refresh was ${Math.round(hours)} hours ago (${esc(data.built)}). The scheduled run may have been missed; the stories below may be out of date.</p>` : "";
     const counts = Object.entries(data.by_desk).map(([d, n]) => `${n} ${d}`).join(" &middot; ");
-    const card = (it) => `<article class="card front ${it.must_read ? "must" : ""}">
-      <div class="meta"><span class="rank">${it.rank}</span>
-        <span class="badge desk ${esc(it.desk)}">${esc(it.desk)}</span>${it.must_read ? '<span class="badge major">MUST READ</span>' : ""}
-        ${esc(it.label)} &middot; ${esc(it.source)} &middot; ${esc(it.date)}</div>
-      <h3>${link(it.url, esc(it.title))}</h3>
-      ${it.summary ? `<p>${esc(it.summary.length > 230 ? it.summary.slice(0, 230).replace(/\s+\S*$/, "") + " ..." : it.summary)}</p>` : ""}
-      <div class="why">Why it is here: ${it.why.map(esc).join(" &middot; ")}</div>
-      ${link(it.url, "Open the original &rarr;", "read")} <a class="more" href="${DESK_LINK[it.desk]}">More from the ${esc(it.desk)} Desk</a></article>`;
-    return `<div class="frontnote"><b>${data.count} stories to read today</b> &middot; ${counts} &middot; Edition of ${esc(data.edition)}, built ${esc(data.built)}</div>${stale}${data.items.map(card).join("")}`;
+    return `<div class="frontnote"><b>${data.count} stories to read today</b> &middot; ${counts} &middot; Edition of ${esc(data.edition)}, built ${esc(data.built)}</div>${stale}
+      ${marketStrip(data.markets)}<div class="choose"><span class="cl">Choose your interest</span><div id="interest" class="chips"></div></div><div id="frontbody"></div>`;
+  }
+
+  function paintFront() {
+    const d = frontData;
+    const extra = Object.values(d.desks).flatMap((x) => x.items);
+    const all = [...d.items, ...extra];
+    const tagCount = {};
+    all.forEach((i) => (i.tags || []).forEach((t) => (tagCount[t] = (tagCount[t] || 0) + 1)));
+    const tags = Object.entries(tagCount).filter(([t, n]) => n >= 2 && !DESK_LINK[t]).sort((a, b) => b[1] - a[1]).slice(0, 9).map(([t]) => t);
+    const opts = ["All", "Policy", "Startups", "Immigration", ...tags];
+    $("interest").innerHTML = opts.map((o) => `<button class="chip" type="button" aria-pressed="${interest === o}" data-v="${esc(o)}">${esc(o)}</button>`).join("");
+    $("interest").onclick = (e) => {
+      const b = e.target.closest("button");
+      if (b) { interest = b.dataset.v; paintFront(); }
+    };
+    let html;
+    if (interest === "All") {
+      const [hero, ...rest] = d.items;
+      html = heroCard(hero) + `<div class="gridcards">${rest.slice(0, 4).map(gridCard).join("")}</div>` +
+        `<div class="feats">${startupFileBox(d.features.startup_file)}${countryBox(d.features.country)}</div>` +
+        `<h2 class="sect">More headlines</h2>${rest.slice(4).map((it, i) => rowCard(it, i + 6)).join("")}` +
+        `<h2 class="sect">Snapshots from the desks</h2><div class="dcols">${["Policy", "Startups", "Immigration"].map((k) => deskColumn(k, d.desks[k])).join("")}</div>`;
+    } else {
+      const sel = all.filter((i) => i.desk === interest || (i.tags || []).includes(interest))
+        .sort((a, b) => b.priority - a.priority);
+      const [hero, ...rest] = sel;
+      html = hero
+        ? `<p class="frontnote"><b>${sel.length} stories</b> for "${esc(interest)}"</p>` + heroCard(hero) +
+          `<div class="gridcards">${rest.slice(0, 4).map(gridCard).join("")}</div>` +
+          (rest.length > 4 ? `<h2 class="sect">More on ${esc(interest)}</h2>${rest.slice(4).map((it) => rowCard(it)).join("")}` : "")
+        : '<p class="empty">Nothing on the front page for that interest today.</p>';
+    }
+    $("frontbody").innerHTML = html;
   }
 
   const srcLinks = (a) => (a && a.length ? `<p class="fine">Sources: ${a.map((s) => link(s.url, esc(s.label))).join(" &middot; ")}</p>` : "");
@@ -216,6 +314,8 @@
         $("updated").textContent = `Last refreshed ${data.built}`;
         $("sources").textContent = cfg.sources;
         $("feed").innerHTML = frontView(data);
+        interest = subId ? decodeURIComponent(subId) : "All";   // #top/Startups opens the page on that interest
+        paintFront();
         state = { q: "", f1: "All", f2: "All", f3: "All", flag: false };
         return;
       }
