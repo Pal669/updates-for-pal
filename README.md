@@ -41,3 +41,10 @@ snapshot (Nifty, Sensex, USD/INR, Brent, gold, US 10Y from Yahoo Finance), the r
 and a snapshot column per desk. "Choose your interest" filters the whole page by desk or topic (`#top/Startups` opens on one).
 `scripts/enrich.py` fetches each story's own preview picture and opening lines (cached in `data/enrich_cache.json`); where a
 site offers no picture (PIB, RBI, SEBI) the page shows a coloured tile. Everything stays clickable and opens the original.
+
+## Briefs
+`scripts/brief.py` reads each story's full text and writes a brief into `data/briefs.json`: what happened, key facts,
+why it affects you, what to watch, and whether the original is worth opening. Default mode is rule-based (it extracts the
+article's own sentences and maps the story onto the profile and the Country Files with the `IMPACT_*` tables in the script).
+To upgrade to real comprehension, add an AI provider key as the repository secret `BRIEF_LLM_KEY` (and variables
+`BRIEF_LLM_PROVIDER` = anthropic or openai, `BRIEF_LLM_MODEL`). Without a key nothing external is called.

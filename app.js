@@ -6,6 +6,27 @@
   const link = (u, t, cls) => `<a ${cls ? `class="${cls}" ` : ""}href="${esc(u)}" target="_blank" rel="noopener">${t}</a>`;
   const list = (a) => (a && a.length ? `<ul>${a.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>` : "");
 
+  const trimText = (s, n) => { s = (s || "").trim(); return s.length > n ? s.slice(0, n).replace(/\s+\S*$/, "") + " ..." : s; };
+  // ---------------------------------------------------------------- briefs (data/briefs.json, built by scripts/brief.py)
+  let briefs = {};
+  const briefsReady = fetch("data/briefs.json", { cache: "no-cache" }).then((r) => r.json()).then((j) => { briefs = j; }).catch(() => {});
+  const LEVEL = { skip: "You can skip the link", worth: "Worth opening", open: "Open the original" };
+  function briefHtml(it, mode) {
+    const b = briefs[it.url];
+    if (!b) return "";
+    const full = mode === "full";
+    const whys = full ? b.why : b.why.slice(0, 2);
+    const facts = b.facts.length ? `<h6>Key facts</h6><ul>${b.facts.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>` : "";
+    const watch = b.watch.length ? `<h6>Watch next</h6><ul>${b.watch.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>` : "";
+    const rest = b.why.length > whys.length ? `<h6>More on why it matters</h6><ul>${b.why.slice(whys.length).map((x) => `<li>${esc(x)}</li>`).join("")}</ul>` : "";
+    return `<div class="brief"><p class="what">${esc(full ? b.what : trimText(b.what, 420))}</p>
+      <div class="whybox"><h6>Why it affects you</h6><ul>${whys.map((x) => `<li>${esc(x)}</li>`).join("")}</ul></div>
+      <details class="fullbrief" ${full ? "open" : ""}><summary>Key facts, what to watch, and whether to open the link</summary>${rest}${facts}${watch}
+        <div class="verdict lvl-${esc(b.level)}">${esc(b.verdict)}${b.partial ? " (The article could not be read in full, so this brief is thin.)" : ""}</div></details></div>`;
+  }
+  // The brief when there is one, otherwise the old one-line text.
+  const bodyOf = (it, fallback, mode) => briefHtml(it, mode || "compact") || (fallback ? `<p>${esc(fallback)}</p>` : "");
+
   // ---------------------------------------------------------------- desks
   const DESKS = {
     policy: {
@@ -21,7 +42,7 @@
         const extra = (it.links || []).length > 1
           ? `<div class="more">Individual documents: ${it.links.map((l) => link(l.url, esc(l.label))).join("")}</div>` : "";
         const meta = `${b}${esc(it.ministry)} &middot; ${esc(it.sector)}`;
-        return shell(lead, meta, it, `<p>${esc(it.summary)}</p>${extra}`, "Read the original");
+        return shell(lead, meta, it, `${bodyOf(it, it.summary, lead ? "full" : "compact")}${extra}`, "Open the original");
       },
     },
     startups: {
@@ -41,7 +62,7 @@
         const deal = [it.amount && `Figure in headline: ${it.amount}`, it.stage && `Stage: ${it.stage}`, it.investors && `Investors: ${it.investors}`].filter(Boolean);
         const dealHtml = deal.length ? `<div class="deal">${deal.map((d) => `<span>${esc(d)}</span>`).join("")}</div>` : "";
         const also = (it.also || []).length ? `<div class="more">Also covered by: ${it.also.map((a) => link(a.url, esc(a.source))).join("")}</div>` : "";
-        const body = `<p>${esc(it.profile ? it.profile.tagline + ". " : "")}${esc(it.blurb)}</p>${dealHtml}${it.profile ? fileBox(it.profile) : autoBits(it)}${also}`;
+        const body = `${it.profile ? `<p>${esc(it.profile.tagline)}</p>` : ""}${bodyOf(it, it.blurb, lead ? "full" : "compact")}${dealHtml}${it.profile ? fileBox(it.profile) : briefs[it.url] ? "" : autoBits(it)}${also}`;
         return shell(lead, `${b}${esc(it.sector)} &middot; ${esc(it.region)}`, it, body, "Read the full story", lead);
       },
     },
@@ -64,7 +85,7 @@
     card(it, lead) {
       const b = `<span class="badge ${it.official ? "major" : "src"}">${it.official ? "OFFICIAL" : "PRESS"}</span><span class="badge type">${esc(it.topic)}</span>`;
       const meta = `${b}${esc(it.countryLabel)} &middot; ${esc(it.source)}`;
-      return shell(lead, meta, it, "", it.official ? "Read the official notice" : "Read the article");
+      return shell(lead, meta, it, bodyOf(it, "", lead ? "full" : "compact"), it.official ? "Open the official notice" : "Open the original");
     },
   };
 
@@ -102,16 +123,16 @@
     return `<section class="hero">${pic(it, "big")}<div class="htext">
       <div class="meta">${metaLine(it)}</div>
       <h2>${link(it.url, esc(it.title))}</h2>
-      <p class="snip">${esc(best(it, 520, true))}</p>${whyLine(it)}
+      ${briefHtml(it, "full") || `<p class="snip">${esc(best(it, 520, true))}</p>`}${whyLine(it)}
       ${link(it.url, "Read the full story &rarr;", "read")} <a class="more" href="${DESK_LINK[it.desk]}">More from the ${esc(it.desk)} Desk</a></div></section>`;
   }
   function gridCard(it) {
     return `<article class="gcard">${pic(it)}<div class="meta">${metaLine(it)}</div>
-      <h3>${link(it.url, esc(it.title))}</h3><p>${esc(best(it, 240))}</p>${whyLine(it)}${link(it.url, "Read more &rarr;", "read")}</article>`;
+      <h3>${link(it.url, esc(it.title))}</h3>${briefHtml(it, "compact") || `<p>${esc(best(it, 240))}</p>`}${whyLine(it)}${link(it.url, "Open the original &rarr;", "read")}</article>`;
   }
   function rowCard(it, n) {
     return `<article class="row-card">${pic(it, "sm")}<div><div class="meta">${n ? `<span class="rank">${n}</span>` : ""}${metaLine(it)}</div>
-      <h4>${link(it.url, esc(it.title))}</h4><p>${esc(best(it, 200))}</p></div></article>`;
+      <h4>${link(it.url, esc(it.title))}</h4>${briefHtml(it, "compact") || `<p>${esc(best(it, 200))}</p>`}</div></article>`;
   }
   function miniCard(it) {
     return `<article class="mini">${pic(it, "xs")}<div><h5>${link(it.url, esc(trimTo(it.title, 110)))}</h5>
@@ -301,6 +322,7 @@
     $("feed").innerHTML = '<p class="empty">Loading...</p>';
     $("lead").hidden = true;
     try {
+      await briefsReady;
       const res = await fetch(cfg.file, { cache: "no-cache" });
       const data = await res.json();
       items = data.items;

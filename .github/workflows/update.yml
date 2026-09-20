@@ -37,6 +37,13 @@ jobs:
         run: python scripts/fetch_immigration.py
       - name: Build the Front Page
         run: python scripts/build_front_page.py
+      - name: Write briefs for stories that have none (front page stories first)
+        run: python scripts/brief.py --budget 150
+        env:
+          # Optional: add BRIEF_LLM_KEY as a repository secret to switch the briefs to an AI model (see scripts/brief.py).
+          BRIEF_LLM_KEY: ${{ secrets.BRIEF_LLM_KEY }}
+          BRIEF_LLM_PROVIDER: ${{ vars.BRIEF_LLM_PROVIDER }}
+          BRIEF_LLM_MODEL: ${{ vars.BRIEF_LLM_MODEL }}
       - name: Commit if anything changed
         run: |
           if [ -n "$(git status --porcelain data)" ]; then

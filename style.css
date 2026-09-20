@@ -180,3 +180,24 @@ h2.sect { font: 700 13px var(--sans); letter-spacing: .14em; text-transform: upp
   .hero, .gridcards, .feats, .dcols { grid-template-columns: 1fr; }
   .row-card { grid-template-columns: 96px 1fr; }
 }
+
+/* Briefs */
+.brief { margin: 6px 0 8px; }
+.brief .what { font-size: 16.5px; margin: 0 0 8px; }
+.hero .brief .what { font-size: 18px; }
+.whybox { border-left: 3px solid var(--accent); background: rgba(138, 28, 28, .05); padding: 6px 12px; margin: 6px 0; border-radius: 0 4px 4px 0; }
+.whybox h6, .fullbrief h6 { font: 700 11px var(--sans); letter-spacing: .12em; text-transform: uppercase; color: var(--accent); margin: 4px 0 2px; }
+.whybox ul, .fullbrief ul { margin: 0 0 4px; padding-left: 18px; }
+.whybox li, .fullbrief li { font-size: 15px; margin-bottom: 3px; }
+.fullbrief { margin-top: 6px; }
+.fullbrief > summary { cursor: pointer; font: 600 13px var(--sans); color: var(--link); }
+.fullbrief[open] > summary { margin-bottom: 6px; }
+.verdict { font: 13.5px/1.5 var(--sans); padding: 6px 10px; border-radius: 4px; margin: 8px 0 2px; background: var(--chip); }
+.verdict.lvl-open { background: #fde8e6; color: #7a1c14; }
+.verdict.lvl-worth { background: #fff3cd; color: #5c4400; }
+@media (prefers-color-scheme: dark) {
+  .verdict.lvl-open { background: #4a1f1a; color: #f4b7ae; }
+  .verdict.lvl-worth { background: #3a3116; color: #f2dc8a; }
+  .whybox { background: rgba(224, 138, 125, .08); }
+}
+.row-card .brief .what { font-size: 15px; color: var(--ink); }
