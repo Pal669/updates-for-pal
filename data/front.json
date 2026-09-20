@@ -1,6 +1,6 @@
 {
- "edition": "2026-09-20",
- "built": "2026-09-20 19:51 IST",
+ "edition": "2026-09-21",
+ "built": "2026-09-21 00:05 IST",
  "count": 18,
  "by_desk": {
   "Policy": 7,
@@ -53,38 +53,57 @@
  ],
  "features": {
   "startup_file": {
-   "company": "Innov8 Workspaces",
-   "tagline": "Premium flexible office space operator",
-   "what": "Runs premium flexible and managed workspace centres across India. It had 58 operating centres at the end of FY26 and 72 by July 2026.",
+   "company": "Kissht",
+   "tagline": "Listed digital lender (NBFC)",
+   "what": "Lending-tech platform founded in 2015 by Ranvir Singh and Krishnan Vishwanathan. Offers digital personal and business loans up to Rs 5 lakh, health-related insurance products and secured loans against property. Got regulatory approval in July 2026 to distribute mutual funds through subsidiary Invincible Minds.",
    "how": [
-    "Rent from customers who use its centres: Rs 173.6 Cr of Rs 201.3 Cr operating revenue in FY26, about 86%.",
-    "Other operational income (ancillary services): Rs 27.6 Cr, up from Rs 5.4 Cr."
+    "The article does not give a revenue split.",
+    "Inferred, not from the article: as an NBFC, its core income is interest and fees on the loans it makes; insurance and mutual fund distribution would add commissions."
    ],
-   "watch": "Profit quality: other income was Rs 38.9 Cr, including a Rs 36.7 Cr gain on terminating lease contracts. Without that gain the profit jump would look much smaller. The article gives growth drivers as more centres, higher occupancy and better pricing.",
-   "sector": "Real Estate & Workspaces",
+   "watch": "The company did not say how it will use the money. Fresh capital for a lender usually funds loan growth, but that is inference.",
+   "sector": "Fintech",
    "region": "India",
-   "url": "https://inc42.com/buzz/innov8s-fy26-profit-zooms-multifold-to-%e2%82%b913-7-cr-revenue-crosses-%e2%82%b9200-cr-mark/"
+   "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/"
   },
   "country": {
-   "id": "germany",
-   "name": "Germany",
-   "trend": "Stable law, rising political risk",
-   "pr": "Settlement permit after 27 months on a Blue Card with A1 German, or 21 months with B1 German.",
-   "citizenship": "5 years of lawful residence, roughly B1 German, financial independence. The 3-year fast track was abolished on 30 October 2025. Dual citizenship is permitted by Germany.",
-   "pro": "Fastest realistic settlement on this list for a Blue Card holder: 21 to 27 months.",
-   "con": "Political risk: the AfD won 44% in Saxony-Anhalt (early September 2026) and polled around 37% ahead of the 20 September votes in Mecklenburg-Vorpommern and Berlin. Its manifesto calls for a points system with German-language criteria and quotas for non-EU skilled workers, and mass deportations.",
-   "watch": "Outcome of the 20 September regional elections"
+   "id": "uk",
+   "name": "United Kingdom",
+   "trend": "Tightening",
+   "pr": "Indefinite leave to remain (ILR) is still 5 years for Skilled Workers today (B1 English, Life in the UK test, fee GBP 3,226). The government proposes an 'earned settlement' model with a 10-year baseline, reducible or extendable by contribution, integration and compliance. It is NOT yet in force; the government said it would legislate around autumn 2026. Consultation closed 12 February 2026.",
+   "citizenship": "Citizenship usually follows ILR by about a year (general knowledge). If the 10-year baseline arrives, the total clock could roughly double. The UK allows dual citizenship.",
+   "pro": "English-speaking, no language exam beyond visa English.",
+   "con": "Real chance the settlement clock moves from 5 to 10 years, and the government signalled it may apply to people already in the UK who are not yet settled.",
+   "watch": "Autumn 2026 legislation on earned settlement"
   }
  },
  "desks": {
   "Policy": {
-   "total": 44,
+   "total": 45,
    "new_today": 0,
    "items": [
     {
      "desk": "Policy",
      "score": 4,
      "priority": 29,
+     "title": "IICA hosts important session on ‘IBC as an Evolving Law Through the Amendments’,.",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2312783",
+     "date": "2026-09-20",
+     "source": "PIB",
+     "label": "Tax, Duties & Trade",
+     "snippet": "Under the “Meet the Legend” programme, the Indian Institute of Corporate Affairs (IICA), Manesar, ho",
+     "lead": "Under the “Meet the Legend” programme, the Indian Institute of Corporate Affairs (IICA), Manesar, hosted an insightful session on “IBC as an Evolving Law Through the Amendments” featuring Dr. M. S. Sahoo , former Chairperson of the Insolvency and Bankruptcy Board of India (IBBI) and a well-known figure in the development and evolution of the Insolvency and Bankruptcy Code (IBC). The session commenced with a warm welcome and the setting ...",
+     "image": null,
+     "why": [
+      "Rule change"
+     ],
+     "tags": [
+      "Tax, Duties & Trade"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 3,
+     "priority": 21,
      "title": "Indian Railways Approves ₹252 Crore for Kavach 4.0 on 607.7 Route Kilometres of Lucknow Division",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2312393",
      "date": "2026-09-19",
@@ -102,8 +121,8 @@
     },
     {
      "desk": "Policy",
-     "score": 4,
-     "priority": 29,
+     "score": 3,
+     "priority": 21,
      "title": "Indian Railways Approves ₹209 Crore for Electronic Interlocking at 7 Stations in Solapur Division",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2312391",
      "date": "2026-09-19",
@@ -138,58 +157,38 @@
      "tags": [
       "Tax, Duties & Trade"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 2,
-     "priority": 14,
-     "title": "Semicon 2.0 to deepen India’s semiconductor ecosystem with focus on design, equipment, fabs, advanced packaging, R&D and talent",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2311630",
-     "date": "2026-09-17",
-     "source": "PIB",
-     "label": "Industry & Manufacturing",
-     "snippet": "Union Minister for Electronics and Information Technology, Shri Ashwini Vaishnaw, today outlined the",
-     "lead": "Union Minister for Electronics and Information Technology, Shri Ashwini Vaishnaw, today outlined the implementation approach and emerging investment momentum under Semicon 2.0, highlighting the Government’s focus on developing the complete semiconductor ecosystem in India. Addressing the media during SEMICON India 2026, Shri Vaishnaw said that while Semicon 1.0 focused on laying the foundation for India’s semiconductor industry , ...",
-     "image": null,
-     "why": [
-      "Strategic sector"
-     ],
-     "tags": [
-      "Industry & Manufacturing"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 61,
-   "new_today": 4,
+   "total": 63,
+   "new_today": 0,
    "items": [
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 69,
-     "title": "Aakash Trims FY26 Loss By 16% To ₹186.5 Cr, Top Line Flat At ₹2,040 Cr",
-     "url": "https://inc42.com/buzz/aakash-trims-fy26-loss-by-16-to-%e2%82%b9186-5-cr-top-line-flat-at-%e2%82%b92040-cr/",
-     "date": "2026-09-17",
-     "source": "Inc42",
-     "label": "India · Edtech & Skills",
-     "snippet": "Aakash Educational Services Ltd managed to narrow its net loss for FY26 by 15.5% to ₹186.5 Cr from ₹220.8 Cr loss incurred in FY25",
-     "lead": "Aakash Educational Services Ltd managed to narrow its net loss for the financial year FY26 by 15.5% to ₹186.5 Cr from ₹220.8 Cr loss incurred in the previous fiscal Aakash is one of India's largest test-prep brands for engineering and medical entrance exams and has been operating under the ownership of BYJU’S parent Think & Learn Operating revenue rose marginally by 0.4% to ₹2,040.5 Cr in FY26 from ₹2,032.1 Cr in the previous year",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/aakash-layoffs-social-.jpeg",
+     "score": 10,
+     "priority": 67,
+     "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+     "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+     "date": "2026-09-18",
+     "source": "TechCrunch",
+     "label": "Global · Other",
+     "snippet": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+     "lead": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops Ram Iyer 9:35 AM PDT · September 18, 2026 Chinese AI startup Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500 million at a $4 billion valuation now that it has resumed operations as an independent company, The Wall Street Journal reported , citing anonymous sources. Potential investors in the round include ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2278374931.jpg?w=1024",
      "why": [
-      "Financials",
-      "Large deal (about $215M)",
-      "Startup File written (what they do, how they make money)"
+      "Funding",
+      "Very large figure in headline (about $4,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
      ],
      "tags": [
-      "Financials",
-      "Edtech & Skills"
+      "Funding"
      ]
     },
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 62,
+     "priority": 67,
      "title": "DeepMind researcher’s new AI lab nears $4bn valuation, reports say",
      "url": "https://sifted.eu/articles/deepmind-researchers-new-ai-lab-nears-4bn-valuation-reports-say/",
      "date": "2026-09-17",
@@ -211,7 +210,29 @@
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 56,
+     "priority": 60,
+     "title": "Exein raises $270m to fight AI hackers, doubles valuation",
+     "url": "https://sifted.eu/articles/exein-funding-round-ai-hack-cybersecurity/",
+     "date": "2026-09-15",
+     "source": "Sifted",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Europe’s newest unicorn wins investor backing amid mounting fear over AI progress.",
+     "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
+     "image": "https://content.sifted.eu/wp-content/uploads/2026/09/15165803/Screenshot-2026-09-15-at-16.57.33-1024x677.png",
+     "why": [
+      "Funding",
+      "Large deal (about $270M)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 8,
+     "priority": 53,
      "title": "From Flam To VerifAIX — Indian Startups Raised About $59 Mn This Week",
      "url": "https://inc42.com/buzz/from-flam-to-verifaix-indian-startups-raised-about-59-mn-this-week/",
      "date": "2026-09-19",
@@ -228,33 +249,12 @@
       "Funding",
       "Fintech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 56,
-     "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-     "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-     "date": "2026-09-19",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-     "lead": "A startup that builds other startups raised $100M and is all-in on physical AI Kirsten Korosec 4:25 PM PDT · September 18, 2026 Four years ago, a startup lab launched that wasn’t quite an incubator, accelerator program, or venture firm. UP.Labs, as it was called then, built startups designed to solve problems for corporate customers such as Alaska Airlines and Porsche, as well as for the outside world. The firm still has the same ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781",
-     "why": [
-      "Funding",
-      "Large deal (about $100M)"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 287,
-   "new_today": 5,
+   "total": 292,
+   "new_today": 0,
    "items": [
     {
      "desk": "Immigration",
@@ -302,7 +302,7 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 16,
+   "score": 15,
    "priority": 100,
    "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
    "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
@@ -326,6 +326,31 @@
    "must_read": true
   },
   {
+   "desk": "Startups",
+   "score": 15,
+   "priority": 100,
+   "title": "SEBI Greenlights Kuku Technologies’ ₹3,500 Cr IPO",
+   "url": "https://inc42.com/buzz/sebi-greenlights-kuku-technologies-%e2%82%b93500-cr-ipo/",
+   "date": "2026-09-17",
+   "source": "Inc42",
+   "label": "India · Media, Gaming & Creators",
+   "snippet": "The audio OTT startup’s IPO’s size could be in the range of ₹2,500-3,500 Cr and could potentially value it at ₹15,000 Cr.",
+   "lead": "SEBI last week approved Kuku’s IPO after the startup filed its confidential DRHP in June The audio OTT startup’s IPO’s size could be in the range of ₹2,500-3,500 Cr and could potentially value it at ₹15,000 Cr The IPO will consist of a fresh issue of shares as well as an offer-for-sale component",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/12/Kuku-FM-1.jpg",
+   "why": [
+    "IPO & Listing",
+    "Large deal (about $368M)",
+    "Startup File written (what they do, how they make money)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Media, Gaming & Creators"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
    "desk": "Immigration",
    "score": 9,
    "priority": 100,
@@ -346,7 +371,7 @@
     "Student / Graduate",
     "Australia"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -369,38 +394,13 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 3,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 15,
-   "priority": 94,
-   "title": "SEBI Greenlights Kuku Technologies’ ₹3,500 Cr IPO",
-   "url": "https://inc42.com/buzz/sebi-greenlights-kuku-technologies-%e2%82%b93500-cr-ipo/",
-   "date": "2026-09-17",
-   "source": "Inc42",
-   "label": "India · Media, Gaming & Creators",
-   "snippet": "The audio OTT startup’s IPO’s size could be in the range of ₹2,500-3,500 Cr and could potentially value it at ₹15,000 Cr.",
-   "lead": "SEBI last week approved Kuku’s IPO after the startup filed its confidential DRHP in June The audio OTT startup’s IPO’s size could be in the range of ₹2,500-3,500 Cr and could potentially value it at ₹15,000 Cr The IPO will consist of a fresh issue of shares as well as an offer-for-sale component",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/12/Kuku-FM-1.jpg",
-   "why": [
-    "IPO & Listing",
-    "Large deal (about $368M)",
-    "Startup File written (what they do, how they make money)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Media, Gaming & Creators"
-   ],
    "rank": 4,
    "must_read": true
   },
   {
    "desk": "Startups",
-   "score": 12,
-   "priority": 75,
+   "score": 11,
+   "priority": 73,
    "title": "From an IIT Bombay lab to a Rs 1,000 Cr IPO",
    "url": "https://yourstory.com/2026/09/from-an-iit-bombay-lab-to-a-1000-crore-ipo",
    "date": "2026-09-20",
@@ -422,8 +422,8 @@
   },
   {
    "desk": "Startups",
-   "score": 12,
-   "priority": 75,
+   "score": 11,
+   "priority": 73,
    "title": "Innov8’s FY26 Profit Zooms Multifold To ₹13.7 Cr, Revenue Crosses ₹200 Cr Mark",
    "url": "https://inc42.com/buzz/innov8s-fy26-profit-zooms-multifold-to-%e2%82%b913-7-cr-revenue-crosses-%e2%82%b9200-cr-mark/",
    "date": "2026-09-19",
@@ -446,8 +446,8 @@
   },
   {
    "desk": "Startups",
-   "score": 12,
-   "priority": 75,
+   "score": 11,
+   "priority": 73,
    "title": "Kissht Gets Board Nod To Raise ₹832 Cr Via Preferential Issue",
    "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/",
    "date": "2026-09-18",
@@ -471,30 +471,31 @@
   {
    "desk": "Startups",
    "score": 11,
-   "priority": 69,
-   "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-   "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-   "date": "2026-09-18",
-   "source": "TechCrunch",
-   "label": "Global · Other",
-   "snippet": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
-   "lead": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops Ram Iyer 9:35 AM PDT · September 18, 2026 Chinese AI startup Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500 million at a $4 billion valuation now that it has resumed operations as an independent company, The Wall Street Journal reported , citing anonymous sources. Potential investors in the round include ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2278374931.jpg?w=1024",
+   "priority": 73,
+   "title": "Aakash Trims FY26 Loss By 16% To ₹186.5 Cr, Top Line Flat At ₹2,040 Cr",
+   "url": "https://inc42.com/buzz/aakash-trims-fy26-loss-by-16-to-%e2%82%b9186-5-cr-top-line-flat-at-%e2%82%b92040-cr/",
+   "date": "2026-09-17",
+   "source": "Inc42",
+   "label": "India · Edtech & Skills",
+   "snippet": "Aakash Educational Services Ltd managed to narrow its net loss for FY26 by 15.5% to ₹186.5 Cr from ₹220.8 Cr loss incurred in FY25",
+   "lead": "Aakash Educational Services Ltd managed to narrow its net loss for the financial year FY26 by 15.5% to ₹186.5 Cr from ₹220.8 Cr loss incurred in the previous fiscal Aakash is one of India's largest test-prep brands for engineering and medical entrance exams and has been operating under the ownership of BYJU’S parent Think & Learn Operating revenue rose marginally by 0.4% to ₹2,040.5 Cr in FY26 from ₹2,032.1 Cr in the previous year",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/aakash-layoffs-social-.jpeg",
    "why": [
-    "Funding",
-    "Very large figure in headline (about $4,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
+    "Financials",
+    "Large deal (about $215M)",
+    "Startup File written (what they do, how they make money)"
    ],
    "tags": [
-    "Funding"
+    "Financials",
+    "Edtech & Skills"
    ],
    "rank": 8,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 9,
-   "priority": 64,
+   "score": 8,
+   "priority": 57,
    "title": "Reserve Bank of India (Commercial Banks – Know Your Customer) Amendment Directions, 2026",
    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13699&Mode=0",
    "date": "2026-09-18",
@@ -512,71 +513,6 @@
     "Banking & Rates"
    ],
    "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 57,
-   "title": "Government Relaxes Sugar Stockholding Limit for Bulk Consumers from 15 to 30 Days, Additional stock to be sourced exclusively from imported sugar under Advance Authorization Scheme (AAS) and Tariff Rate Quota (TRQ)",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2311960",
-   "date": "2026-09-18",
-   "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "The Government has decided that the existing 15 days’ stockholding limit for bulk consumers is relax",
-   "lead": "The Government has decided that the existing 15 days’ stockholding limit for bulk consumers is relaxed to 30 days, subject to the condition that the quantity of stock held beyond the existing 15 days’ limit, shall be sourced exclusively from sugar imported under Advance Authorisation Scheme (AAS) and Tariff Rate Quota (TRQ). The stockholding limit for purchase from the open market shall remain unchanged and will be restricted to 15 ...",
-   "image": null,
-   "why": [
-    "Duty or tariff change",
-    "Rule change"
-   ],
-   "tags": [
-    "Tax, Duties & Trade"
-   ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 5,
-   "priority": 56,
-   "title": "India remains outside New Zealand’s visa-waiver circle",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb2tuei1VT2luVU1iYnVuYU9QRV9vTDhmNEpoNmZQM1lMY2Z1bFZtbGhkREY1NWZHazRvVmpaVGl2VkVjR254WlhmekFIeWRDb1F1a0V4NkwzRlNsTTBILUoyQkNkVnhNZW9PVjNhVDlnbXZxU0MwN2x2ZXpMQktOYnpZbTVPUVVDcEttb0Qtb28?oc=5",
-   "date": "2026-09-20",
-   "source": "Indian Newslink",
-   "label": "New Zealand",
-   "snippet": "India remains outside New Zealand’s visa-waiver circle",
-   "lead": "Closer travel links require responsibility, reciprocity and realistic reform India’s absence from New Zealand’s visa-waiver list deserves more attention than it has received. It is not a minor technical detail tucked away in an immigration website.",
-   "image": "https://admin.indiannewslink.co.nz/uploads/India_remains_Main_Banner_00f028f119.png",
-   "why": [
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "New Zealand"
-   ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 5,
-   "priority": 56,
-   "title": "Japan's immigration agency had 103 residence card printers go unused: audit",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aNXdEOV9qaEZlNno0bDZGOEVXZEVQdDRtLS1wQXZkWkU3cEdCV01INk9DMER3VWs4dkRSUGRJWDJ3UkRqY1RsZGNpRFBEWXEtbXhJUExoMWJveWF4X2pZMmM0UHlRTGRhOXFOcDJUUnFwUUU?oc=5",
-   "date": "2026-09-18",
-   "source": "毎日新聞",
-   "label": "Japan",
-   "snippet": "TOKYO (Kyodo) -- Japan",
-   "lead": "TOKYO (Kyodo) -- Japan's immigration agency had 103 IC card printers, worth about 56.5 million yen ($363,000), sitting unused at seven regional bureaus after deploying them to produce residence cards for foreign residents, the national audit board said Thursday. The Immigration Services Agency had not tracked their usage status, and some regional bureaus had even requested additional printers, according to the Board of Audit of Japan. ...",
-   "image": "https://cdn.mainichi.jp/vol1/2026/09/17/20260917p2g00m0na040000p/0c10.jpg?1",
-   "why": [
-    "Affects permanent residence"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Japan"
-   ],
-   "rank": 12,
    "must_read": false
   },
   {
@@ -598,7 +534,7 @@
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 13,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -621,7 +557,29 @@
     "Politics / Election",
     "Sweden"
    ],
-   "rank": 14,
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 7,
+   "priority": 50,
+   "title": "Government Relaxes Sugar Stockholding Limit for Bulk Consumers from 15 to 30 Days, Additional stock to be sourced exclusively from imported sugar under Advance Authorization Scheme (AAS) and Tariff Rate Quota (TRQ)",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2311960",
+   "date": "2026-09-18",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "The Government has decided that the existing 15 days’ stockholding limit for bulk consumers is relax",
+   "lead": "The Government has decided that the existing 15 days’ stockholding limit for bulk consumers is relaxed to 30 days, subject to the condition that the quantity of stock held beyond the existing 15 days’ limit, shall be sourced exclusively from sugar imported under Advance Authorisation Scheme (AAS) and Tariff Rate Quota (TRQ). The stockholding limit for purchase from the open market shall remain unchanged and will be restricted to 15 ...",
+   "image": null,
+   "why": [
+    "Duty or tariff change",
+    "Rule change"
+   ],
+   "tags": [
+    "Tax, Duties & Trade"
+   ],
+   "rank": 12,
    "must_read": false
   },
   {
@@ -643,13 +601,56 @@
    "tags": [
     "Markets & Regulation"
    ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 4,
+   "priority": 44,
+   "title": "India remains outside New Zealand’s visa-waiver circle",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb2tuei1VT2luVU1iYnVuYU9QRV9vTDhmNEpoNmZQM1lMY2Z1bFZtbGhkREY1NWZHazRvVmpaVGl2VkVjR254WlhmekFIeWRDb1F1a0V4NkwzRlNsTTBILUoyQkNkVnhNZW9PVjNhVDlnbXZxU0MwN2x2ZXpMQktOYnpZbTVPUVVDcEttb0Qtb28?oc=5",
+   "date": "2026-09-20",
+   "source": "Indian Newslink",
+   "label": "New Zealand",
+   "snippet": "India remains outside New Zealand’s visa-waiver circle",
+   "lead": "Closer travel links require responsibility, reciprocity and realistic reform India’s absence from New Zealand’s visa-waiver list deserves more attention than it has received. It is not a minor technical detail tucked away in an immigration website.",
+   "image": "https://admin.indiannewslink.co.nz/uploads/India_remains_Main_Banner_00f028f119.png",
+   "why": [
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "New Zealand"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 4,
+   "priority": 44,
+   "title": "Japan's immigration agency had 103 residence card printers go unused: audit",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aNXdEOV9qaEZlNno0bDZGOEVXZEVQdDRtLS1wQXZkWkU3cEdCV01INk9DMER3VWs4dkRSUGRJWDJ3UkRqY1RsZGNpRFBEWXEtbXhJUExoMWJveWF4X2pZMmM0UHlRTGRhOXFOcDJUUnFwUUU?oc=5",
+   "date": "2026-09-18",
+   "source": "毎日新聞",
+   "label": "Japan",
+   "snippet": "TOKYO (Kyodo) -- Japan",
+   "lead": "TOKYO (Kyodo) -- Japan's immigration agency had 103 IC card printers, worth about 56.5 million yen ($363,000), sitting unused at seven regional bureaus after deploying them to produce residence cards for foreign residents, the national audit board said Thursday. The Immigration Services Agency had not tracked their usage status, and some regional bureaus had even requested additional printers, according to the Board of Audit of Japan. ...",
+   "image": "https://cdn.mainichi.jp/vol1/2026/09/17/20260917p2g00m0na040000p/0c10.jpg?1",
+   "why": [
+    "Affects permanent residence"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Japan"
+   ],
    "rank": 15,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 6,
-   "priority": 43,
+   "score": 5,
+   "priority": 36,
    "title": "Biometric Aadhaar Authentication Mandatory for Subsidised Domestic LPG Refills from 1 October 2026",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2312532",
    "date": "2026-09-19",
