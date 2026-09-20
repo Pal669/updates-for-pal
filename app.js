@@ -119,6 +119,10 @@
   const fyOf = (d) => { const t = new Date(d + "T00:00:00"), m = t.getMonth() + 1, y = t.getFullYear(); return `FY${String(m <= 6 ? y : y + 1).slice(2)} (${t.toLocaleDateString("en-IN", { month: "short", year: "numeric" })})`; };
   const pctChange = (a, b) => (a != null && b != null && b > 0 ? ((a - b) / b) * 100 : null);
 
+  // Company name -> its page on screener.in (NSE symbol or BSE scrip code both work in the URL). Click must not toggle the <details>.
+  const scr = (it, nameHtml) => it.symbol
+    ? `<a class="co-link" href="https://www.screener.in/company/${encodeURIComponent(it.symbol)}/" target="_blank" rel="noopener" onclick="event.stopPropagation()">${nameHtml}</a>` : nameHtml;
+
   function snapshotHtml(it, open) {
     const co = it.ckey ? companies[it.ckey] : null;
     const n = notes[it.symbol] || null;
@@ -151,7 +155,7 @@
     const table = yrs.length
       ? `<div class="tablewrap"><table class="fin"><thead><tr><th></th>${colHead}</tr></thead><tbody>${row("Revenue", "revenue")}${row("Net profit / (loss)", "net_income")}${isLender ? "" : row("Cash from operations", "ocf")}${isLender ? "" : row("Free cash flow", "fcf")}${row("Total debt", "debt")}</tbody></table></div>` : "";
     const badge = last && last.net_income != null ? `<span class="badge ${last.net_income >= 0 ? "prof" : "loss"}">${last.net_income >= 0 ? "PROFITABLE" : "LOSS-MAKING"}</span>` : "";
-    const head = `About ${esc(has && co.name ? co.name.replace(/ Limited$/i, "") : it.company)}: ${esc(type || "business snapshot")}${last && last.revenue != null ? ` &middot; revenue ${esc(cr(last.revenue))}` : ""}`;
+    const head = `About ${scr(it, esc(has && co.name ? co.name.replace(/ Limited$/i, "") : it.company))}: ${esc(type || "business snapshot")}${last && last.revenue != null ? ` &middot; revenue ${esc(cr(last.revenue))}` : ""}`;
     const mcap = has && co.mcap_cr ? `<div class="kv2"><b>Market value</b><span>${esc(cr(co.mcap_cr))}</span></div>` : "";
     const drivers = n && n.drivers ? `<div class="kv2"><b>What moves its profit</b><span>${esc(n.drivers)}</span></div>` : "";
     return `<details class="snap" ${open ? "open" : ""}><summary>${badge}${head}</summary>
@@ -187,7 +191,7 @@
       const lvl = it.impact ? it.impact.level : "Not stated";
       const b = `<span class="badge ${it.kind === "Press" ? "src" : "major"}">${it.kind === "Press" ? "PRESS" : esc(it.source)}</span><span class="badge type">${esc(it.category)}</span>` +
         (lvl === "High" || lvl === "Medium" ? `<span class="badge imp-${lvl}">IMPACT: ${lvl.toUpperCase()}</span>` : "");
-      const who = [it.company, it.symbol && it.source === "NSE" ? it.symbol : "", it.industry, it.kind === "Press" ? it.source : ""].filter(Boolean).map(esc).join(" &middot; ");
+      const who = [it.company ? scr(it, esc(it.company)) : "", esc(it.symbol && it.source === "NSE" ? it.symbol : ""), esc(it.industry), esc(it.kind === "Press" ? it.source : "")].filter(Boolean).join(" &middot; ");
       const also = (it.also || []).length ? `<div class="more">Also mentioned: ${it.also.map(esc).join(", ")}</div>` : "";
       const body = (it.summary ? `<p>${esc(it.summary)}</p>` : "") + (it.time ? `<div class="fine">${esc(it.date)} ${esc(it.time)} IST</div>` : "") + also +
         impactHtml(it) + snapshotHtml(it, lead);
