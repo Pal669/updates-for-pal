@@ -1,6 +1,6 @@
 {
  "edition": "2026-09-21",
- "built": "2026-09-21 00:33 IST",
+ "built": "2026-09-21 07:15 IST",
  "count": 18,
  "by_desk": {
   "Policy": 7,
@@ -27,21 +27,21 @@
    "dp": 2,
    "value": 95.86,
    "change_pct": 0.07,
-   "asof": "21 Sep 00:32 IST"
+   "asof": "21 Sep 06:31 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 99.29,
-   "change_pct": -5.28,
-   "asof": "19 Sep 02:28 IST"
+   "value": 97.08,
+   "change_pct": -6.54,
+   "asof": "21 Sep 07:04 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4425.0,
-   "change_pct": 0.57,
-   "asof": "19 Sep 02:29 IST"
+   "value": 4416.0,
+   "change_pct": -0.19,
+   "asof": "21 Sep 07:05 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -161,8 +161,8 @@
    ]
   },
   "Startups": {
-   "total": 64,
-   "new_today": 0,
+   "total": 66,
+   "new_today": 2,
    "items": [
     {
      "desk": "Startups",
@@ -233,29 +233,48 @@
      "desk": "Startups",
      "score": 8,
      "priority": 53,
-     "title": "From Flam To VerifAIX — Indian Startups Raised About $59 Mn This Week",
-     "url": "https://inc42.com/buzz/from-flam-to-verifaix-indian-startups-raised-about-59-mn-this-week/",
-     "date": "2026-09-19",
+     "title": "Kissht, Ola Electric & More: Why Listed Startups Keep Going Back To The Well",
+     "url": "https://inc42.com/features/kissht-ola-electric-more-why-listed-startups-keep-going-back-to-the-well/",
+     "date": "2026-09-21",
      "source": "Inc42",
      "label": "India · Fintech",
-     "snippet": "Indian Startup Funding: This week, Indian startup funding stood at $59.7 Mn across 12 deals, down 82% from the preceding week",
-     "lead": "Twelve startups raised $58.9 Mn this week, down 82% from the $321.9 Mn from the preceding week. AJVC was the most active investor this week, backing MoroMaa and Slayd. The VC firm also saw PE firm Novastar Partners as a limited partner for its fund. Finvolve and Activate raised fresh capital for their funds, Asiana Fund and JC Capital partnered to launch a ₹1,000 Cr deeptech-focused fund.",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Social-100-60.jpg",
+     "snippet": "Kissht’s plan to raise ₹832 cr just four months after its IPO highlights how new age companies are increasingly returning to public markets for fresh capital, raising questions around dilution, capital deployment and investor appetite.",
+     "lead": "Kissht’s parent OnEMI Technology Solutions has received shareholder approval to raise up to ₹832 Cr through a preferential issue of equity shares. The proposed fundraise comes after the company raised around ₹926 Cr through its IPO, including a fresh issue of shares. Kissht intends to utilise 75% of the new proceeds to fund its lending arm Si Creva, with the money expected to support its loan-book growth. The rest for general corporate ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Post-Ipo-Inc42-Markets_SOC.jpg",
      "why": [
-      "Funding",
-      "Sizeable deal (about $59M)"
+      "IPO & Listing"
      ],
      "tags": [
-      "Funding",
+      "IPO & Listing",
       "Fintech"
      ]
     }
    ]
   },
   "Immigration": {
-   "total": 294,
-   "new_today": 0,
+   "total": 315,
+   "new_today": 1,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 4,
+     "priority": 44,
+     "title": "Japan's immigration agency had 103 residence card printers go unused: audit",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aNXdEOV9qaEZlNno0bDZGOEVXZEVQdDRtLS1wQXZkWkU3cEdCV01INk9DMER3VWs4dkRSUGRJWDJ3UkRqY1RsZGNpRFBEWXEtbXhJUExoMWJveWF4X2pZMmM0UHlRTGRhOXFOcDJUUnFwUUU?oc=5",
+     "date": "2026-09-18",
+     "source": "毎日新聞",
+     "label": "Japan",
+     "snippet": "TOKYO (Kyodo) -- Japan",
+     "lead": "TOKYO (Kyodo) -- Japan's immigration agency had 103 IC card printers, worth about 56.5 million yen ($363,000), sitting unused at seven regional bureaus after deploying them to produce residence cards for foreign residents, the national audit board said Thursday. The Immigration Services Agency had not tracked their usage status, and some regional bureaus had even requested additional printers, according to the Board of Audit of Japan. ...",
+     "image": "https://cdn.mainichi.jp/vol1/2026/09/17/20260917p2g00m0na040000p/0c10.jpg?1",
+     "why": [
+      "Affects permanent residence"
+     ],
+     "tags": [
+      "PR / Settlement",
+      "Japan"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 4,
@@ -274,26 +293,6 @@
      "tags": [
       "Work visa",
       "Switzerland"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 4,
-     "priority": 44,
-     "title": "‘Korea became my home’: Iran-born scientist discusses research, naturalization and future",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONmN1X1pGMm84Q1p1cHdqQXF3NzVXc0JMLXpuallUS2c1WGNkcWdOZ09RNXNhVGFJaXZENWcwYUNhZ3RXdUE2RXhEZUN2TTl0LTBuVGZRMUtOZWZ0eUo0QnN2elJka3cwNW9HNlc4SndDay01Mkl4NVQzYzNuOVNEd09mQm1TUzZZbnV5VXBSbzRKUUd6b1Bid2tiV2NtVy1TMTd2SFNmZW9RbU1Sd3lKUFEtYTZETVdkWjR6NXh5eUsydzFUazJ1QldRaVl5QWc?oc=5",
-     "date": "2026-09-15",
-     "source": "Korea JoongAng Daily",
-     "label": "South Korea",
-     "snippet": "IBS laser-plasma researcher Mohammad Mirzaie discusses earning Korean citizenship through special naturalization, Korea’s research strengths and his goal to train future scientists.",
-     "lead": "IBS laser-plasma researcher Mohammad Mirzaie discusses earning Korean citizenship through special naturalization, Korea’s research strengths and his goal to train future scientists. YOON SEUNG-JIN YOON SEUNG-JIN K-CAMPUS REPORTER Published September 15, 2026 - 1:35 p.m. Modified September 15, 2026 - 3:43 p.m. Researcher Mohammad Mirzaie examines laser equipment at the Ultrashort Quantum Beam Facility on the campus of the Gwangju ...",
-     "image": "https://image.koreajoongangdaily.com/12875812.jpg?imageId=12875812&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-     "why": [
-      "Affects citizenship"
-     ],
-     "tags": [
-      "Citizenship",
-      "South Korea"
      ]
     }
    ]
@@ -398,6 +397,28 @@
    "must_read": true
   },
   {
+   "desk": "Immigration",
+   "score": 8,
+   "priority": 89,
+   "title": "Guidance: India: tuberculosis test clinics for a UK visa",
+   "url": "https://www.gov.uk/government/publications/india-tuberculosis-test-clinics-for-a-uk-visa",
+   "date": "2026-09-20",
+   "source": "GOV.UK (UK Visas and Immigration)",
+   "label": "United Kingdom",
+   "snippet": "Where to get tested for tuberculosis (TB) in India for your UK visa application.",
+   "lead": "Navigation menu Menu Menu Services and information Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions ...",
+   "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+   "why": [
+    "Official government notice",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "United Kingdom"
+   ],
+   "rank": 5,
+   "must_read": true
+  },
+  {
    "desk": "Startups",
    "score": 11,
    "priority": 73,
@@ -417,8 +438,8 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Startups",
@@ -441,7 +462,7 @@
     "Financials",
     "AI & Deeptech"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -465,7 +486,7 @@
     "Funding",
     "Fintech"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -489,7 +510,7 @@
     "Financials",
     "Edtech & Skills"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -512,7 +533,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -534,7 +555,7 @@
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -551,13 +572,13 @@
    "image": null,
    "why": [
     "Political signal on immigration",
-    "Major story (8 headlines that day)"
+    "Major story (9 headlines that day)"
    ],
    "tags": [
     "Politics / Election",
     "Sweden"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -579,7 +600,7 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 12,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -601,27 +622,6 @@
    "tags": [
     "Markets & Regulation"
    ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 4,
-   "priority": 44,
-   "title": "India remains outside New Zealand’s visa-waiver circle",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb2tuei1VT2luVU1iYnVuYU9QRV9vTDhmNEpoNmZQM1lMY2Z1bFZtbGhkREY1NWZHazRvVmpaVGl2VkVjR254WlhmekFIeWRDb1F1a0V4NkwzRlNsTTBILUoyQkNkVnhNZW9PVjNhVDlnbXZxU0MwN2x2ZXpMQktOYnpZbTVPUVVDcEttb0Qtb28?oc=5",
-   "date": "2026-09-20",
-   "source": "Indian Newslink",
-   "label": "New Zealand",
-   "snippet": "India remains outside New Zealand’s visa-waiver circle",
-   "lead": "Closer travel links require responsibility, reciprocity and realistic reform India’s absence from New Zealand’s visa-waiver list deserves more attention than it has received. It is not a minor technical detail tucked away in an immigration website.",
-   "image": "https://admin.indiannewslink.co.nz/uploads/India_remains_Main_Banner_00f028f119.png",
-   "why": [
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "New Zealand"
-   ],
    "rank": 14,
    "must_read": false
   },
@@ -629,20 +629,20 @@
    "desk": "Immigration",
    "score": 4,
    "priority": 44,
-   "title": "Japan's immigration agency had 103 residence card printers go unused: audit",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aNXdEOV9qaEZlNno0bDZGOEVXZEVQdDRtLS1wQXZkWkU3cEdCV01INk9DMER3VWs4dkRSUGRJWDJ3UkRqY1RsZGNpRFBEWXEtbXhJUExoMWJveWF4X2pZMmM0UHlRTGRhOXFOcDJUUnFwUUU?oc=5",
-   "date": "2026-09-18",
-   "source": "毎日新聞",
-   "label": "Japan",
-   "snippet": "TOKYO (Kyodo) -- Japan",
-   "lead": "TOKYO (Kyodo) -- Japan's immigration agency had 103 IC card printers, worth about 56.5 million yen ($363,000), sitting unused at seven regional bureaus after deploying them to produce residence cards for foreign residents, the national audit board said Thursday. The Immigration Services Agency had not tracked their usage status, and some regional bureaus had even requested additional printers, according to the Board of Audit of Japan. ...",
-   "image": "https://cdn.mainichi.jp/vol1/2026/09/17/20260917p2g00m0na040000p/0c10.jpg?1",
+   "title": "They paid thousands and moved to NZ. Their student visa applications hadn’t been lodged",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2puUDRwRkxVR3NQVVhMR0tsczZYTFM1dUNrdFV2Q0NOR2xlZ3pqZk9TRjRKb1U1SkwwS3RDcHpKX1Y2UTFPWm9iWDJwa3FBTjhhRVlncVBGMjhUT2V1NlFpeFdVRDBaay1peUhUVW50T3FialJqczM2NXE3NWRYS1RwcFY0c0RGOVpibHRlWHRNZVE5UnhHR0ZrSi1vaUZjMGpVRUYzUkZyTUxHb1AwVTJJZFMyMlRtYjZiUUdhYlRlZw?oc=5",
+   "date": "2026-09-21",
+   "source": "Stuff",
+   "label": "New Zealand",
+   "snippet": "Four families paid tens of thousands of dollars for study and immigration packages before arriving in New Zealand and discovering many of their student visa applications had not been lodged.",
+   "lead": "",
+   "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYbVh8XBoSI4c5IgklaljT731r4AsJTB9KrwWM6fG5DWt8UfMoZMqImrtOw5C45vmYpDKuSqx3LzWVfTtDI%2FJbIkMDCj29WNe9UdILClNAJFT8AdJsNKQUQ+FQu2xxm7ffQ==",
    "why": [
-    "Affects permanent residence"
+    "High on the desk's ranking"
    ],
    "tags": [
-    "PR / Settlement",
-    "Japan"
+    "Student / Graduate",
+    "New Zealand"
    ],
    "rank": 15,
    "must_read": false
