@@ -1,0 +1,47 @@
+name: Refresh Investment Advisory desk
+
+# Once a day, after the Indian market close. 13:00 UTC = 18:30 IST (NSE closes 15:30 IST; the FII/DII figures are out by then).
+# Runs every day including weekends: the news and PMS/AIF pages still move, and the numbers simply repeat the last close.
+# GitHub's scheduler can start late or skip a run, so a second run at 14:15 UTC (19:45 IST) repeats it; collectors only add what is new.
+# The Front Page (built by update.yml around 6 AM IST) picks up this desk's data.
+# Not automated here: scripts/apmi_aum.py and scripts/aif_cat3.py read PDFs and need `pip install pypdf`; run them by hand monthly.
+on:
+  schedule:
+    - cron: "0 13 * * *"
+    - cron: "15 14 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  advisory:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Market numbers (indices, sectors, flows, global, rates, commodities, REITs/InvITs)
+        run: python scripts/advisory_market.py
+      - name: PMS and AIF strategies (stalest pages first)
+        run: python scripts/fetch_pms_aif.py --budget 90
+      - name: Advisory news
+        run: python scripts/fetch_advisory.py
+      - name: Commit if anything changed
+        run: |
+          if [ -n "$(git status --porcelain data)" ]; then
+            git config user.name "updates-for-pal-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add data
+            git commit -m "Advisory refresh $(date -u +%Y-%m-%d\ %H:%M) UTC"
+            git pull --rebase -X theirs || true
+            git push
+          else
+            echo "No changes"
+          fi

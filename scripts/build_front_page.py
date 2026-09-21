@@ -19,8 +19,8 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 IST = timezone(timedelta(hours=5, minutes=30))
 INR_PER_USD = 95.0          # approximate; only used to compare deal sizes
-QUOTA = {"Policy": 7, "Startups": 6, "Immigration": 5}     # 18 stories
-MIN_TOTAL, MAX_TOTAL = 15, 20
+QUOTA = {"Policy": 7, "Startups": 6, "Immigration": 5, "Advisory": 5}     # 23 stories
+MIN_TOTAL, MAX_TOTAL = 15, 24
 WINDOW_DAYS = 7
 
 
@@ -187,6 +187,50 @@ def score_immigration(it, today, counts):
     return pts, why
 
 
+# ---------------------------------------------------------------- investment advisory rules
+ADV_CATEGORY = {"PMS": (4, "PMS news"), "AIF": (4, "AIF news"), "Debt & Bonds": (2, None), "REITs & InvITs": (3, "REIT / InvIT news"),
+                "Gold & Silver": (2, None), "Mutual Funds": (2, None), "Regulatory": (2, None), "Global": (1, None), "Equity Markets": (1, None)}
+ADV_RULES = [
+    (R(r"\bSEBI\b|\bRBI\b|reserve bank"), 3, "Regulator: SEBI or RBI"),
+    (R(r"circular|master (?:direction|circular)|consultation paper|board (?:meeting|approves)|new rules?|norms|framework"), 2, "Rule or framework change"),
+    (R(r"repo rate|rate (?:hike|cut)|monetary policy|\bMPC\b|\bCRR\b"), 3, "Interest-rate decision"),
+    (R(r"\bNCD\b|public issue|opens? (?:for )?subscription|coupon"), 2, "New debt issue"),
+    (R(r"downgrade|default|rating (?:upgrade|action)|upgrades? .{0,30}rating"), 3, "Credit rating change or default"),
+    (R(r"g-?sec|bond yield|10-year|yield (?:rises|falls|crosses|jumps|eases)|bond auction"), 2, "Government bond yields"),
+    (R(r"\bgold\b|\bsilver\b"), 1, "Precious metals"),
+    (R(r"fed\b|federal reserve|\bECB\b|opec|brent|crude|tariff"), 2, "Global macro driver"),
+    (R(r"record high|all-time high|crash|plunge|surge|slump|biggest (?:fall|gain)|sell-?off|rally"), 2, "Sharp market move"),
+    (R(r"sector|sectors|outperform|underperform|fii|\bdii\b|breadth"), 1, "Sector or flows signal"),
+    (R(r"launch|launches|raises|closes|first close|maiden|new fund|nfo"), 1, "New product or fund"),
+    (R(r"^what |^how |explained|explainer|best .{0,25}to invest|review 20"), -3, "Explainer or listicle"),
+    (R(r"\bLIVE\b|(?:gold|silver) (?:price|rate)s? today|rate today|price today|stocks to watch|trade setup"), -6, "Daily price ticker"),
+]
+
+
+def score_advisory(it, today):
+    pts, why = 0, []
+    cp = ADV_CATEGORY.get(it.get("category"), (0, None))
+    pts += cp[0]
+    if cp[1]:
+        why.append(cp[1])
+    for rx, p, reason in ADV_RULES:
+        if rx.search(it["title"]):
+            pts += p
+            if p > 0 and reason not in why:
+                why.append(reason)
+    if it.get("kind") == "Official":
+        pts += 3
+        why.append("Official notice")
+        if it.get("major"):
+            pts += 2
+    n = len(it.get("also") or [])
+    if n:
+        pts += min(n, 3)
+        why.append(f"Also covered by {n} other outlet(s)")
+    pts += recency(age_days(it["date"], today))
+    return pts, why
+
+
 # ---------------------------------------------------------------- selection
 STOP = set("the a an of to in on for and or as at by with from is are be its it this that new how what why will after over "
            "amid says say rs cr crore lakh india indian government govt ministry minister".split())
@@ -214,7 +258,7 @@ def top_of(desk, scored, quota, key_of):
     """scored: list of (score, why, item). Returns the best `quota` with at most 1 story per key (country / company)."""
     scored.sort(key=lambda x: (x[0], x[2]["date"]), reverse=True)
     out, used = [], {}
-    limit = 1 if desk in ("Immigration", "Startups") else 99
+    limit = {"Immigration": 1, "Startups": 1, "Advisory": 2}.get(desk, 99)
     for sc, why, it in scored:
         k = key_of(it)
         if k and used.get(k, 0) >= limit:
@@ -235,6 +279,8 @@ def tags_of(desk, it):
         return [it.get("sector", "Policy")]
     if desk == "Startups":
         return [t for t in (it.get("type"), it.get("sector")) if t and t not in ("Analysis", "Other")]
+    if desk == "Advisory":
+        return [t for t in (it.get("category"), it.get("sector")) if t]
     return [t for t in (it.get("topic"), it.get("countryLabel")) if t and t != "General"]
 
 
@@ -293,6 +339,7 @@ def main():
     for i in imm_all:
         i["countryLabel"] = names.get(i["country"], i["country"])
     imm = [i for i in imm_all if i["date"] >= horizon]
+    advisory = [i for i in load("advisory.json")["items"] if i["date"] >= horizon]
     off_topic = re.compile(r"sahrawi|western sahara|ratcliffe|man united|travel watch|planning a .{0,30} trip|tourist", re.I)
     policy, startups, imm = ([i for i in x if not off_topic.search(i["title"])] for x in (policy, startups, imm))
     profile_urls = {p["key"] for p in load("profiles.json").get("profiles", [])}
@@ -304,9 +351,10 @@ def main():
         "Policy": [(*score_policy(i, today), i) for i in policy],
         "Startups": [(*score_startup(i, today, profile_urls), i) for i in startups],
         "Immigration": [(*score_immigration(i, today, counts), i) for i in imm],
+        "Advisory": [(*score_advisory(i, today), i) for i in advisory],
     }
     keyfn = {"Policy": lambda i: None, "Startups": lambda i: (i.get("company") or i["title"][:18]).lower(),
-             "Immigration": lambda i: i["country"]}
+             "Immigration": lambda i: i["country"], "Advisory": lambda i: i.get("category")}
     per_desk = {}
     picked = []
     for desk, pool in pools.items():
@@ -339,6 +387,8 @@ def main():
             e["label"] = it["countryLabel"]
         if c["desk"] == "Startups":
             e["label"] = f"{it['region']} · {it['sector']}"
+        if c["desk"] == "Advisory":
+            e["label"] = it["category"]
         return e
 
     # Fill each desk's quota with the best stories that pass the article check; the rest feed "More from each desk".
@@ -366,7 +416,7 @@ def main():
 
     # "More from each desk": the next-best stories not already on the front page
     desks_out = {}
-    files = {"Policy": "items.json", "Startups": "startups.json", "Immigration": "immigration.json"}
+    files = {"Policy": "items.json", "Startups": "startups.json", "Immigration": "immigration.json", "Advisory": "advisory.json"}
     for desk in QUOTA:
         rest = [c for c in per_desk[desk] if id(c["item"]) not in chosen_ids][:6]
         allitems = load(files[desk])["items"]

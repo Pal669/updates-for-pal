@@ -31,6 +31,8 @@ This repo is self-contained: it works from any machine with git and Python 3. No
 6. To refresh data by hand: `python3 scripts/fetch_listed.py` etc., or run the "update" workflow from the GitHub Actions tab.
 
 ## Current features worth knowing
+- Investment Advisory Universe desk: see README. No commentary, ever (Ashish's rule): figures, headlines, links. PMS/AIF cards
+  must show source and "as of". Monthly by-hand steps: `python scripts/apmi_aum.py` and `python scripts/aif_cat3.py` (need pypdf).
 - Listed Universe desk: every company name (card top row and the "About <company>" line) links to
   https://www.screener.in/company/<NSE symbol or BSE code>/ via the scr() helper in app.js. Keep that when editing card().
 - Front Page ranks stories by transparent points (scripts/build_front_page.py).

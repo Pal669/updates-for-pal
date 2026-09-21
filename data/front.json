@@ -1,54 +1,55 @@
 {
  "edition": "2026-09-21",
- "built": "2026-09-21 11:41 IST",
- "count": 18,
+ "built": "2026-09-21 20:37 IST",
+ "count": 23,
  "by_desk": {
   "Policy": 7,
   "Startups": 6,
-  "Immigration": 5
+  "Immigration": 5,
+  "Advisory": 5
  },
  "markets": [
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23403.0,
-   "change_pct": 0.24,
-   "asof": "21 Sep 11:41 IST"
+   "value": 23414.0,
+   "change_pct": 0.29,
+   "asof": "21 Sep 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74737.0,
-   "change_pct": 0.6,
-   "asof": "21 Sep 11:26 IST"
+   "value": 74859.0,
+   "change_pct": 0.76,
+   "asof": "21 Sep 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.79,
-   "change_pct": -0.01,
-   "asof": "21 Sep 11:41 IST"
+   "value": 95.81,
+   "change_pct": 0.01,
+   "asof": "21 Sep 20:32 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 98.15,
-   "change_pct": -5.51,
-   "asof": "21 Sep 11:28 IST"
+   "value": 100.22,
+   "change_pct": -3.51,
+   "asof": "21 Sep 20:27 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4390.0,
-   "change_pct": -0.78,
-   "asof": "21 Sep 11:31 IST"
+   "value": 4376.0,
+   "change_pct": -1.09,
+   "asof": "21 Sep 20:27 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.0,
-   "change_pct": 1.03,
-   "asof": "19 Sep 00:29 IST"
+   "value": 4.96,
+   "change_pct": -0.74,
+   "asof": "21 Sep 20:22 IST"
   }
  ],
  "features": {
@@ -318,9 +319,122 @@
      ]
     }
    ]
+  },
+  "Advisory": {
+   "total": 1401,
+   "new_today": 307,
+   "items": [
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 83,
+     "title": "US Fed, Bank of Japan and others impact on Indian stock markets: Global rate hike cycle begins - Sensex, Nifty outlook",
+     "url": "https://www.livemint.com/market/stock-market-news/us-fed-bank-of-japan-and-others-impact-on-indian-stock-markets-global-rate-hike-cycle-begins-sensex-nifty-outlook-11789995507694.html",
+     "date": "2026-09-21",
+     "source": "Mint",
+     "label": "Global",
+     "snippet": "The challenging landscape of 2026 for Dalal Street includes rising inflation and global rate hikes, which may compel the RBI to raise interest rates. This could further impact market conditions, particularly affecting sectors sensitive to borrowing costs.",
+     "lead": "US Fed, Bank of Japan and others impact on Indian stock markets: Global rate hike cycle begins - Sensex, Nifty outlook ( AI generated image for representational purposes only ) AI Quick Read The year 2026 has so far been a challenging one for Dalal Street bulls, with markets navigating multiple headwinds, including elevated crude oil prices, persistent selling by overseas investors, a record-low rupee, limited exposure to AI, and ...",
+     "image": null,
+     "why": [
+      "Interest-rate decision",
+      "Global macro driver",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "Global",
+      "Banks & Financials"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 83,
+     "title": "AIF commitments rise 24% to ₹17.53 trillion as of June 2026: Sebi data",
+     "url": "https://www.business-standard.com/markets/news/aif-commitments-rise-24-to-17-53-trillion-as-of-june-2026-sebi-data-126092100990_1.html",
+     "date": "2026-09-21",
+     "source": "Business Standard",
+     "label": "AIF",
+     "snippet": "AIF commitments rose nearly 3.5 per cent from March and 23.6 per cent year-on-year, while total investments crossed Rs 7 trillion for the first time",
+     "lead": "On a year-on-year basis, commitments surged nearly 23.6 per cent for this segment catering to sophisticated investors | Image: ANI Don't miss the most important news and views of the day. Get them on our Telegram channel",
+     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/21/thumb/fitandfill/1200X628/1789994880-106.jpg",
+     "why": [
+      "AIF news",
+      "Regulator: SEBI or RBI"
+     ],
+     "tags": [
+      "AIF"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 83,
+     "title": "Gold eases on inflation woes, rate hike fears",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNako1eEg1bC1UaWRBZzdudnFYbThUQ1JtRHBXZDUwZnU4NzhsVzlDSkxPcnY0QWt6Zlc2b0hQTFJWZGhIM2d5RWt5SDMyR2o3ODMyNlZSN3NfS0NjTzZqdllQeDFPT0h0NFdmS1EzOE0ybXNXanRtdHIwcmVnTmxwRl9FeF9fc1BLRFhzbTZTZF96eHFicjl6QmQtcGFKM2pFeXfSAacBQVVfeXFMT0dUYnBTaVo2TTgxeHJ5SEpiVmtDZm00NE16MlkyZ1Y0UDRYRUo0aDF5N2dMQWc4emFEQXFmMDlnMTFmLXpQT0Y4RTdsSUlVa0d5MWQ5UXhSMnQ4MFFfOEplMktUSElYZGNjT0hfYk9qR3dqNUFTYjk2bjVrWFNhczBDRWVFMThIMFNHaUtnamwtMUFWQUo5VTFKM2dOYmx6TmRRVjVVYk0?oc=5",
+     "date": "2026-09-21",
+     "source": "cfo.economictimes.indiatimes.com",
+     "label": "Gold & Silver",
+     "snippet": "Gold prices have decreased in early trading due to inflation worries and expectations of rising interest rates, influenced by recent Middle East tensions. Discover the latest trends in gold and precious metals.",
+     "lead": "Read and get insights from specially curated unique stories from editorial Join leaders & experts for roundtables, conferences, panels and discussions We have various options to advertise with us including Events, Advertorials, Banners, Mailers, etc.",
+     "image": "https://etimg.etb2bimg.com/thumb/msid-134383350,imgsize-105562,width-1200,height=627,overlay-etcfo,resizemode-75/news/gold-eases-on-inflation-woes-rate-hike-fears.jpg",
+     "why": [
+      "Interest-rate decision",
+      "Precious metals",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "Gold & Silver"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 83,
+     "title": "US Fed rate hike: where are risks and opportunities for debt mutual fund investors ?",
+     "url": "https://www.livemint.com/money/personal-finance/bond-yields-india-rising-g-sec-fed-rate-hike-investor-strategy-11789923990412.html",
+     "date": "2026-09-21",
+     "source": "Mint",
+     "label": "Mutual Funds",
+     "snippet": "Rate-hiking phases are rarely comfortable for bond investors—they bring volatility, but the same rise in yields also opens up entry points.",
+     "lead": "The US Federal Reserve delivered a 25-basis-point rate hike on 16 September. The US 10-year Treasury yield touched about 5.02% that day. The yield eased to about 4.93% the next day but climbed back to almost 5% by 18 September. A year ago, the yield hovered at about 4.09%, meaning it has risen close to 90 basis points since then. Back home, the benchmark 10-year government security (G-Sec) yield crossed the 7% mark, quoting at ...",
+     "image": null,
+     "why": [
+      "Interest-rate decision",
+      "Global macro driver"
+     ],
+     "tags": [
+      "Mutual Funds"
+     ]
+    }
+   ]
   }
  },
  "items": [
+  {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 100,
+   "title": "Sebi may take up PMS regulation overhaul at September 24 board meeting",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQmlNYUduZjhnQUFRMWhDMGdMS2k1ZWtxRXJndThCQS1Jby1aUzEzaWUxeHNZc2wtQlhPb2VlMHpaanZ1by1ZMUlQZWhxTmQ0UjdEUXpoUlNHX3BibGtQc2hjUmtDVFlTUHIzX1MxS2RKMUFtbVVHVXVBeHpGY0VHMFZQWC0zaVlxQklvdXBENUpSd0g3S0U2N3c4cE5yU1Bjd2R6OW9xY3dJZUpWdlhuajE5Qlk2TG1zeVl1Nkd5WjB2cTNCdzVCNmxDNGxGaGtUWk1wR3R1bloyank2aEdGXzNlNNIB4wFBVV95cUxNQmlNYUduZjhnQUFRMWhDMGdMS2k1ZWtxRXJndThCQS1Jby1aUzEzaWUxeHNZc2wtQlhPb2VlMHpaanZ1by1ZMUlQZWhxTmQ0UjdEUXpoUlNHX3BibGtQc2hjUmtDVFlTUHIzX1MxS2RKMUFtbVVHVXVBeHpGY0VHMFZQWC0zaVlxQklvdXBENUpSd0g3S0U2N3c4cE5yU1Bjd2R6OW9xY3dJZUpWdlhuajE5Qlk2TG1zeVl1Nkd5WjB2cTNCdzVCNmxDNGxGaGtUWk1wR3R1bloyank2aEdGXzNlNA?oc=5",
+   "date": "2026-09-20",
+   "source": "Business Standard",
+   "label": "PMS",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "PMS news",
+    "Regulator: SEBI or RBI",
+    "Rule or framework change",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "PMS"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
   {
    "desk": "Startups",
    "score": 15,
@@ -343,7 +457,7 @@
     "Funding",
     "Fintech"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -368,7 +482,7 @@
     "IPO & Listing",
     "Media, Gaming & Creators"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -392,7 +506,7 @@
     "Student / Graduate",
     "Australia"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -415,8 +529,77 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 92,
+   "title": "RBI issues norms on capital requirements for market risk under Basel III for banks",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-issues-norms-on-capital-requirements-for-market-risk-under-basel-iii-for-banks/articleshow/134391520.cms",
+   "date": "2026-09-21",
+   "source": "Economic Times",
+   "label": "Regulatory",
+   "snippet": "As of April 1, 2027, banks are prohibited from reclassifying instruments to achieve lower capital requirements under the new market risk guidelines that align with the updated Basel III framework. This transition will see banks adopting a simplified standardized approach for determining risk-weighted assets, along with revisions to intere",
+   "lead": "Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Has the US Fed and AI created a costlier world? And has the queue got longer for India?",
+   "image": "https://img.etimg.com/thumb/msid-134391589,width-1200,height-630,imgsize-73074,overlay-etmarkets/articleshow.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Rule or framework change",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "Regulatory",
+    "Banks & Financials"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 92,
+   "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+   "date": "2026-09-21",
+   "source": "News On AIR",
+   "label": "Regulatory",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 92,
+   "title": "India bonds calm as oil dip counters US selloff, RBI sales",
+   "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-calm-as-oil-dip-counters-us-selloff-rbi-sales/articleshow/134381830.cms",
+   "date": "2026-09-21",
+   "source": "Economic Times",
+   "label": "Debt & Bonds",
+   "snippet": "Indian government bonds held their ground on Monday, buoyed by a decline in oil prices that helped mitigate domestic supply issues arising from the RBI",
+   "lead": "NaBFID is set to initiate the raising of $500 million via a 10-year overseas bond, while simultaneously negotiating a $1 billion MIGA-backed bond with a longer 15-year maturity. This financial strategy aims to secure essential long-term funding for infrastructure developments. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending ...",
+   "image": "https://img.etimg.com/thumb/msid-134381847,width-1200,height-630,imgsize-55576,overlay-etmarkets/articleshow.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Sharp market move",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 8,
+   "must_read": false
   },
   {
    "desk": "Immigration",
@@ -437,8 +620,30 @@
    "tags": [
     "United Kingdom"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 83,
+   "title": "RBI sells ₹25K cr G-Secs in second OMO tranche to drain surplus liquidity",
+   "url": "https://www.business-standard.com/finance/news/rbi-sells-25k-cr-g-secs-in-second-omo-tranche-to-drain-surplus-liquidity-126092100986_1.html",
+   "date": "2026-09-21",
+   "source": "Business Standard",
+   "label": "Debt & Bonds",
+   "snippet": "RBI on Monday accepted bids worth Rs 25,000 crore in the second tranche of its OMO sale of government securities, as it stepped up efforts to absorb surplus liquidity from the banking system.",
+   "lead": "The Reserve Bank of India (RBI) on Monday accepted bids worth Rs 25,000 crore in the second tranche of its open market operation (OMO) sale of government securities, as it stepped up efforts to absorb surplus liquidity from the banking system. The RBI accepted Rs 11,512 crore of the 6.10 per cent GS 2031, Rs 8,758 crore of the 7.95 per cent GS 2032, Rs 2,300 crore of the 6.75 per cent GS 2029, Rs 2,250 crore of the 7.17 per cent GS ...",
+   "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/05/thumb/fitandfill/1200X628/1785915606-3327.JPG",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Government bond yields"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 10,
+   "must_read": false
   },
   {
    "desk": "Startups",
@@ -460,7 +665,7 @@
     "IPO & Listing",
     "Fintech"
    ],
-   "rank": 6,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -483,7 +688,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 7,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -506,7 +711,7 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 8,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -530,7 +735,7 @@
     "Financials",
     "AI & Deeptech"
    ],
-   "rank": 9,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -553,7 +758,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 10,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -575,7 +780,7 @@
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 11,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -598,7 +803,7 @@
     "Politics / Election",
     "Sweden"
    ],
-   "rank": 12,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -620,7 +825,7 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 13,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -642,7 +847,7 @@
    "tags": [
     "Markets & Regulation"
    ],
-   "rank": 14,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -664,7 +869,7 @@
     "Student / Graduate",
     "New Zealand"
    ],
-   "rank": 15,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -685,7 +890,7 @@
    "tags": [
     "Energy & Power"
    ],
-   "rank": 16,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -707,7 +912,7 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 17,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -729,7 +934,7 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 18,
+   "rank": 23,
    "must_read": false
   }
  ]

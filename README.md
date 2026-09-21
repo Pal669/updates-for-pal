@@ -26,6 +26,25 @@ Move it anywhere: copy this folder to any static host and any machine with Pytho
   Impact = the rupee amount in the filing or headline (when one is stated) compared with revenue, profit or market value by
   fixed thresholds in `assess()`; when no amount is stated it says so. It is a size check, not a forecast.
 
+## Investment Advisory Universe desk
+Built for an investment advisor: numbers first, then PMS, AIF, debt and regulation, all with sources. No commentary.
+Sections (sub-nav): Market Pulse, PMS, AIF, Debt & Bonds, Gold Silver & REITs, Mutual Funds, Regulatory, Global, All News.
+- `scripts/advisory_market.py` -> `data/advisory_market.json`. NSE index feed (indices, sector indices, P/E, breadth, FII/DII),
+  Yahoo Finance (global markets, US yields, dollar, gold, silver, crude, USD/INR, REIT/InvIT prices on BSE tickers), RBI
+  homepage (policy rates), TradingView (India 10Y, best effort). Futures rows are continuous front-month: a 1D change can be a roll.
+- `scripts/fetch_pms_aif.py` -> `data/pms_aif.json`. One public PMS AIF World page per strategy (list from their sitemap):
+  manager, corpus, category, benchmark, trailing returns, "as of" date. Refreshes the stalest 90 pages a run (`--all` for all).
+  A returns table that names a different strategy from the page title is flagged "check source". PMS Bazaar's public
+  top-performers leaderboard is kept alongside as a second source.
+- `scripts/fetch_advisory.py` -> `data/advisory.json`. News: RSS from ET, Mint, Business Standard, BusinessLine, CNBC-TV18, CNBC,
+  BBC, MarketWatch + Google News searches, sorted into one category by the regex tables at the top; SEBI/RBI/finance-ministry
+  items are copied from `data/items.json`. Nothing is summarised.
+- Monthly, by hand (need `pip install pypdf`, so NOT in Actions): `scripts/apmi_aum.py` -> `data/pms_aum_official.json`
+  (official PMS AUM and clients by portfolio manager, APMI/SEBI; suspicious rows are flagged, not hidden) and
+  `scripts/aif_cat3.py` -> `data/aif_cat3.json` (Category III AIF performance table; the return basis marker per fund is shown).
+- Refresh: `.github/workflows/advisory.yml`, once a day at 18:30 IST after the close (plus a 19:45 backup). Front Page takes up to
+  5 Advisory stories (`score_advisory` in `build_front_page.py`).
+
 ## How it works
 - `scripts/fetch_policies.py` reads the official feeds, keeps items whose title announces an action (see `ACTION` and
   `NOISE_TITLE` in the script), tags a sector, and merges them into `data/items.json`. Existing items are never lost.

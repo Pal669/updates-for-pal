@@ -204,16 +204,317 @@
     },
   };
 
+  // ---------------------------------------------------------------- Investment Advisory Universe Desk
+  // Numbers come from data/advisory_market.json, PMS/AIF strategies from data/pms_aif.json, official PMS AUM from
+  // data/pms_aum_official.json, headlines from data/advisory.json. No commentary anywhere: figures and links only.
+  let advMarket = null, advPms = null, advAum = null, advCat3 = null;
+  const jget = (f) => fetch(f, { cache: "no-cache" }).then((r) => r.json()).catch(() => null);
+  async function advisoryPrep() {
+    [advMarket, advPms, advAum, advCat3] = await Promise.all([jget("data/advisory_market.json"), jget("data/pms_aif.json"), jget("data/pms_aum_official.json"), jget("data/aif_cat3.json")]);
+  }
+  const dp = (v, d) => (v == null || isNaN(v) ? "–" : Number(v).toLocaleString("en-IN", { minimumFractionDigits: d, maximumFractionDigits: d }));
+  const sgn = (v, d, suf) => (v == null || isNaN(v) ? '<span class="na">–</span>'
+    : `<span class="${v > 0 ? "up" : v < 0 ? "dn" : "fl"}">${v > 0 ? "+" : ""}${dp(v, d)}${suf}</span>`);
+  const heat = (v, s) => (v == null ? "" : ` style="background:rgba(${v >= 0 ? "31,122,63" : "179,38,30"},${(Math.min(Math.abs(v) / s, 1) * 0.34).toFixed(2)})"`);
+  const PERIOD_KEYS = [["d1", "1D"], ["w1", "1W"], ["m1", "1M"], ["y1", "1Y"]];
+  const srcOf = (rows) => [...new Set(rows.map((r) => r.source).filter(Boolean))].join(", ");
+  const asofOf = (rows) => (rows.map((r) => r.asof).filter(Boolean).sort().slice(-1)[0] || "");
+
+  function mkTable(title, rows, opts) {
+    if (!rows || !rows.length) return "";
+    opts = opts || {};
+    const bp = (r) => r.unit === "bp";
+    const body = rows.map((r) => `<tr><td>${esc(r.name)}${r.kind ? ` <small class="k">${esc(r.kind)}</small>` : ""}</td><td class="n">${dp(r.value, r.dp == null ? 2 : r.dp)}</td>` +
+      PERIOD_KEYS.map(([k]) => `<td class="n">${sgn(r[k], bp(r) ? 1 : 2, bp(r) ? " bp" : "%")}</td>`).join("") +
+      (opts.pe ? `<td class="n">${dp(r.pe, 1)}</td>` : "") + "</tr>").join("");
+    return `<h3 class="nh">${esc(title)}</h3><div class="tablewrap"><table class="nt"><thead><tr><th>Name</th><th class="n">Level</th>${PERIOD_KEYS.map(([, l]) => `<th class="n">${l}</th>`).join("")}${opts.pe ? '<th class="n">P/E</th>' : ""}</tr></thead><tbody>${body}</tbody></table></div>
+      <p class="fine">Source: ${esc(srcOf(rows))}${asofOf(rows) ? `; last price ${esc(asofOf(rows))}` : ""}.${opts.note ? " " + esc(opts.note) : ""}</p>`;
+  }
+
+  let secKey = "d1";
+  function sectorBoard() {
+    const m = advMarket;
+    if (!m.sectors || !m.sectors.length) return "";
+    const rows = m.sectors.slice().sort((a, b) => (b[secKey] == null ? -1e9 : b[secKey]) - (a[secKey] == null ? -1e9 : a[secKey]));
+    const scale = { d1: 2, w1: 4, m1: 8, y1: 30 };
+    const buttons = PERIOD_KEYS.map(([k, l]) => `<button type="button" class="chip" data-sec="${k}" aria-pressed="${secKey === k}">Rank by ${l}</button>`).join("");
+    const body = rows.map((r) => `<tr><td>${esc(r.name)}</td><td class="n">${dp(r.value, 2)}</td>` +
+      PERIOD_KEYS.map(([k]) => `<td class="n"${heat(r[k], scale[k])}>${sgn(r[k], 2, "%")}</td>`).join("") + `<td class="n">${dp(r.pe, 1)}</td></tr>`).join("");
+    const lists = ["w1", "m1"].map((k) => {
+      const ok = m.sectors.filter((r) => r[k] != null).sort((a, b) => b[k] - a[k]);
+      const li = (r) => `<li>${esc(r.name)} ${sgn(r[k], 2, "%")}</li>`;
+      return `<div class="hc"><h4>${k === "w1" ? "1 week" : "1 month"}: leading</h4><ol>${ok.slice(0, 3).map(li).join("")}</ol>
+        <h4>${k === "w1" ? "1 week" : "1 month"}: lagging</h4><ol>${ok.slice(-3).reverse().map(li).join("")}</ol></div>`;
+    }).join("");
+    return `<h3 class="nh">Sector board: what is hot and what is not</h3><div class="chips secbtn">${buttons}</div>
+      <div class="hotcold">${lists}</div>
+      <div class="tablewrap"><table class="nt"><thead><tr><th>Sector index</th><th class="n">Level</th>${PERIOD_KEYS.map(([, l]) => `<th class="n">${l}</th>`).join("")}<th class="n">P/E</th></tr></thead><tbody>${body}</tbody></table></div>
+      <p class="fine">Source: ${esc(srcOf(m.sectors))}. Colour depth shows the size of the move. Ranking is arithmetic on published index levels, not a view. P/E is the index's own published figure.</p>`;
+  }
+
+  function statStrip() {
+    const m = advMarket;
+    const stats = [];
+    const nifty = (m.indices || []).find((r) => r.name === "Nifty 50"), n500 = (m.indices || []).find((r) => r.name === "Nifty 500"), vix = (m.indices || []).find((r) => r.name === "India VIX");
+    if (m.flows && m.flows.fii) {
+      const f = m.flows;
+      stats.push(["FII/FPI net (cash, " + f.date + ")", `${sgn(f.fii.net, 0, "")} <small>Rs Cr</small>`], ["DII net (cash, " + f.date + ")", `${sgn(f.dii.net, 0, "")} <small>Rs Cr</small>`]);
+    }
+    if (nifty && nifty.adv != null) stats.push(["Nifty 50 breadth", `${nifty.adv} up / ${nifty.dec} down`]);
+    if (n500 && n500.adv != null) stats.push(["Nifty 500 breadth", `${n500.adv} up / ${n500.dec} down`]);
+    if (nifty && nifty.pe) stats.push(["Nifty 50 P/E", dp(nifty.pe, 2)]);
+    if (vix) stats.push(["India VIX", `${dp(vix.value, 2)} ${sgn(vix.d1, 2, "%")}`]);
+    if (m.gsec10y) stats.push(["India 10Y G-Sec", `${dp(m.gsec10y.value, 3)}%`]);
+    if (m.gold_silver_ratio) stats.push(["Gold / silver ratio", dp(m.gold_silver_ratio, 2)]);
+    return stats.length ? `<div class="statrow">${stats.map(([k, v]) => `<div class="stat"><span>${esc(k)}</span><b>${v}</b></div>`).join("")}</div>` : "";
+  }
+
+  function policyRates() {
+    const r = advMarket.policy_rates || [];
+    if (!r.length) return "";
+    return `<h3 class="nh">RBI policy rates and reserve ratios</h3><div class="tablewrap"><table class="nt"><tbody>${r.map((x) => `<tr><td>${esc(x.name)}</td><td class="n">${dp(x.value, 2)}%</td></tr>`).join("")}</tbody></table></div>
+      <p class="fine">Source: Reserve Bank of India homepage (official), read at ${esc(advMarket.updated)}.</p>`;
+  }
+
+  function marketBlock(id) {
+    const m = advMarket;
+    const stale = m.updated && (Date.now() - new Date(m.updated.replace(" IST", "").replace(" ", "T") + ":00+05:30").getTime()) / 36e5 > 36
+      ? `<p class="stale">The numbers were last refreshed ${esc(m.updated)}. The daily run may have been missed, so the figures below may be out of date.</p>` : "";
+    const head = `<p class="note">Numbers refreshed once a day after the market close (last: ${esc(m.updated)}). Green is up, red is down; for yields, VIX and crude that says nothing about good or bad. ${(m.notes || []).map(esc).join(" ")}</p>${stale}`;
+    const commodityNote = "Gold, silver, crude and copper are continuous front-month futures on Yahoo Finance: a one-day change can include a contract roll.";
+    const idx = mkTable("Indices", m.indices, { pe: true });
+    const glob = mkTable("Global markets", m.global);
+    const fx = mkTable("Rates and currencies", [...(m.gsec10y ? [{ ...m.gsec10y, d1: null, w1: null, m1: null, y1: null }] : []), ...(m.rates_fx || [])]);
+    const com = mkTable("Gold, silver, crude and metals", m.commodities, { note: commodityNote });
+    const reit = mkTable("REITs and InvITs (prices)", m.reits);
+    switch (id) {
+      case "pulse": return head + statStrip() + idx + sectorBoard() + glob;
+      case "debt": return head + statStrip() + policyRates() + fx;
+      case "real": return head + com + reit;
+      case "reg": return head + policyRates();
+      case "global": return head + glob + fx + com;
+      default: return "";
+    }
+  }
+
+  // ---- PMS / AIF strategy tables
+  const pmsState = { sort: "1y", dir: -1, cat: "All", q: "", track: "any", limit: 40, open: null };
+  const aifState = { sort: "1y", dir: -1, section: "All", basis: "All", track: "any", q: "", limit: 40, dq: "", dlimit: 25 };
+  let aumState = { q: "", limit: 25 };
+  const pv = (s, k) => (s.ret ? s.ret[k] : null);
+  const excess = (s, k) => (pv(s, k) != null && s.bench_ret && s.bench_ret[k] != null ? +(pv(s, k) - s.bench_ret[k]).toFixed(2) : null);
+  const stratLink = (s) => `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name || s.title)}</a>`;
+  const firm = (s) => (s.label ? "" : "");
+  const RET_COLS = [["1m", "1M"], ["3m", "3M"], ["6m", "6M"], ["1y", "1Y"], ["3y", "3Y"], ["5y", "5Y"], ["si", "Since start"]];
+
+  function pmsRows() {
+    const all = Object.values((advPms && advPms.strategies) || {}).filter((s) => s.title && /^PMS/.test(s.kind || ""));
+    return all;
+  }
+  function detailRow(s, cols) {
+    const br = s.bench_ret || {};
+    const ret = RET_COLS.map(([k, l]) => `<td class="n">${sgn(pv(s, k), 2, "%")}</td><td class="n dim">${sgn(br[k], 2, "%")}</td>`).join("");
+    const head = RET_COLS.map(([, l]) => `<th colspan="2">${l}</th>`).join("");
+    const sub = RET_COLS.map(() => "<th>Fund</th><th>Bench</th>").join("");
+    const facts = [["Portfolio manager", s.manager], ["Manager experience", s.experience], ["Inception", s.inception_text], ["Age", s.age],
+      ["Corpus (approx.)", s.corpus_cr != null ? `Rs ${dp(s.corpus_cr, 2)} Cr` : null], ["Benchmark", s.bench], ["Stocks held", s.stocks != null ? s.stocks : s.stocks_text],
+      ["Std deviation (1Y)", s.sd_1y != null ? dp(s.sd_1y, 2) + "%" : null], ["Positive months", s.pos_months != null ? dp(s.pos_months, 2) + "%" : null],
+      ["Minimum ticket", s.ticket], ["Structure", s.structure], ["Type", s.fund_type]].filter((x) => x[1]);
+    return `<tr class="drow"><td colspan="${cols}"><div class="dbox">
+      ${s.label_mismatch ? `<p class="warn">The source page is titled "${esc(s.title)}" but its returns table is labelled "${esc(s.label)}". The figures are shown under the returns table's name. Check the source before relying on them.</p>` : ""}
+      ${(s.ret && Object.keys(s.ret).length) ? `<div class="tablewrap"><table class="nt sm"><thead><tr>${head}</tr><tr>${sub}</tr></thead><tbody><tr>${ret}</tr></tbody></table></div>` : `<p class="fine">No returns are published for this one.</p>`}
+      <div class="facts">${facts.map(([k, v]) => `<div><b>${esc(k)}</b><span>${esc(v)}</span></div>`).join("")}</div>
+      <p class="fine">Source: ${link(s.url, "PMS AIF World page")} (fetched ${esc(s.fetched || "")}, returns as of ${esc(s.as_of || "not stated")}). Up to 1 year absolute, beyond 1 year CAGR. Not audited here; not investment advice.</p></div></td></tr>`;
+  }
+
+  function pmsTable() {
+    const st = pmsState;
+    let rows = pmsRows();
+    const q = st.q.trim().toLowerCase();
+    const groups = {};
+    rows.forEach((s) => { if (s.category && pv(s, "1y") != null) (groups[s.category] = groups[s.category] || []).push(s); });
+    Object.values(groups).forEach((g) => g.sort((a, b) => pv(b, "1y") - pv(a, "1y")));
+    const catRank = (s) => { const g = groups[s.category]; if (!g || g.length < 5 || pv(s, "1y") == null) return ""; return `${g.indexOf(s) + 1} of ${g.length}`; };
+    rows = rows.filter((s) => (st.cat === "All" || s.category === st.cat) &&
+      (st.track === "any" || pv(s, st.track) != null) &&
+      (!q || `${s.name} ${s.title} ${s.manager || ""} ${s.category || ""}`.toLowerCase().includes(q)));
+    const key = st.sort;
+    const val = (s) => (key === "name" ? (s.name || "").toLowerCase() : key === "corpus" ? s.corpus_cr : key === "ex1y" ? excess(s, "1y") : key === "inception" ? s.inception : pv(s, key));
+    rows.sort((a, b) => { const x = val(a), y = val(b); if (x == null && y == null) return 0; if (x == null) return 1; if (y == null) return -1; return (x > y ? 1 : x < y ? -1 : 0) * st.dir; });
+    const shown = rows.slice(0, st.limit);
+    const th = (k, l) => `<th><button type="button" data-psort="${k}">${l}${st.sort === k ? (st.dir > 0 ? " ▲" : " ▼") : ""}</button></th>`;
+    const cols = 12;
+    const body = shown.map((s, i) => `<tr class="prow" data-slug="${esc(s.slug)}"><td class="n dim">${i + 1}</td><td><a class="sname" href="#" data-open="${esc(s.slug)}">${esc(s.name || s.title)}</a>${s.label_mismatch ? ' <span class="tagw">check source</span>' : ""}<br><small class="k">${esc(s.manager || "manager not stated")}</small></td>
+      <td>${esc(s.category || "–")}</td><td class="n">${s.corpus_cr != null ? dp(s.corpus_cr, 0) : "–"}</td>
+      ${["1m", "3m", "1y", "3y", "5y", "si"].map((k) => `<td class="n"${heat(pv(s, k), k === "1m" ? 6 : k === "3m" ? 12 : 30)}>${sgn(pv(s, k), 1, "%")}</td>`).join("")}
+      <td class="n">${sgn(excess(s, "1y"), 1, "")}</td><td class="n dim">${catRank(s)}</td></tr>${st.open === s.slug ? detailRow(s, cols) : ""}`).join("");
+    return `<div class="tablewrap"><table class="nt pms"><thead><tr><th>#</th>${th("name", "Strategy and manager")}<th>Category</th>${th("corpus", "Corpus Rs Cr")}${th("1m", "1M")}${th("3m", "3M")}${th("1y", "1Y")}${th("3y", "3Y")}${th("5y", "5Y")}${th("si", "Since start")}${th("ex1y", "1Y vs bench (pts)")}<th>Rank in category (1Y)</th></tr></thead><tbody>${body || `<tr><td colspan="${cols}" class="empty">Nothing matches.</td></tr>`}</tbody></table></div>
+      ${rows.length > shown.length ? `<p class="morewrap"><button type="button" class="chip" data-pmore="1">Show ${Math.min(40, rows.length - shown.length)} more (${rows.length - shown.length} not shown)</button></p>` : ""}
+      <p class="fine">${rows.length} strategies match. Click a strategy for benchmark returns, manager background and the source link.</p>`;
+  }
+
+  function bazaarBox() {
+    const b = (advPms && advPms.bazaar_top) || [];
+    if (!b.length) return "";
+    const lists = ["1M", "1Y", "3Y", "5Y"].map((p) => {
+      const rows = b.filter((x) => x.period === p);
+      return rows.length ? `<div class="hc"><h4>Top performers, ${p}</h4><ol>${rows.map((x) => `<li>${link(x.url, esc(x.name))} <small class="k">${esc(x.category || "")}</small> ${sgn(x.ret, 2, "%")}</li>`).join("")}</ol></div>` : "";
+    }).join("");
+    return `<h3 class="nh">Second source: PMS Bazaar's own top performers</h3><div class="hotcold wide">${lists}</div>
+      <p class="fine">Source: PMS Bazaar public leaderboard, fetched ${esc(advPms.bazaar_fetched || "")}. The leaderboard states no as-of date, so treat it as the latest month PMS Bazaar has published. Small and new strategies can top a one-month list; use the 3Y and 5Y lists and the track-record filter below for a fairer read.</p>`;
+  }
+
+  function aumBox() {
+    const a = advAum;
+    if (!a) return "";
+    const q = aumState.q.trim().toLowerCase();
+    const clean = a.firms.filter((f) => !f.flag), flagged = a.firms.filter((f) => f.flag);
+    const rows = clean.filter((f) => !q || f.name.toLowerCase().includes(q));
+    const shown = rows.slice(0, aumState.limit);
+    const totalClean = clean.reduce((s, f) => s + f.aum_cr, 0), clients = clean.reduce((s, f) => s + f.clients, 0);
+    return `<h3 class="nh">Official PMS AUM by portfolio manager (as on ${esc(a.as_on)})</h3>
+      <div class="statrow"><div class="stat"><span>Portfolio managers listed</span><b>${a.count}</b></div><div class="stat"><span>AUM, rows not flagged</span><b>Rs ${dp(totalClean / 100000, 2)} lakh Cr</b></div><div class="stat"><span>Clients, rows not flagged</span><b>${dp(clients, 0)}</b></div></div>
+      <input id="aumq" class="tsearch" type="search" placeholder="Find a portfolio manager" value="${esc(aumState.q)}">
+      <div class="tablewrap" id="aumTable"><table class="nt"><thead><tr><th>#</th><th>Portfolio manager</th><th>Clients</th><th>AUM Rs Cr</th><th>Avg per client Rs Cr</th></tr></thead><tbody>
+      ${shown.map((f, i) => `<tr><td class="n dim">${clean.indexOf(f) + 1}</td><td>${esc(f.name)}</td><td class="n">${dp(f.clients, 0)}</td><td class="n">${dp(f.aum_cr, 2)}</td><td class="n dim">${f.clients ? dp(f.aum_cr / f.clients, 2) : "–"}</td></tr>`).join("")}</tbody></table></div>
+      ${rows.length > shown.length ? `<p class="morewrap"><button type="button" class="chip" data-amore="1">Show 25 more (${rows.length - shown.length} not shown)</button></p>` : ""}
+      ${flagged.length ? `<details class="snap"><summary>${flagged.length} rows set aside because the figures look unreliable or unusual</summary>
+        <div class="tablewrap"><table class="nt"><thead><tr><th>Portfolio manager</th><th>Clients</th><th>AUM Rs Cr</th><th>Why set aside</th></tr></thead><tbody>${flagged.map((f) => `<tr><td>${esc(f.name)}</td><td class="n">${dp(f.clients, 0)}</td><td class="n">${dp(f.aum_cr, 2)}</td><td>${esc(f.flag)}</td></tr>`).join("")}</tbody></table></div></details>` : ""}
+      <p class="fine">Source: APMI, compiled from SEBI's monthly report (${link(a.source_url, "official PDF")}), fetched ${esc(a.fetched)}. Official and firm-level, published with a lag. Some large managers hold institutional (EPFO / provident fund) mandates, which is why a few AUMs dwarf the rest. The PDF is read by scripts/apmi_aum.py, run monthly by hand.</p>`;
+  }
+
+  function pmsBlock() {
+    const st = pmsState, rows = pmsRows();
+    const cats = [...new Set(rows.map((s) => s.category).filter(Boolean))].sort();
+    const asof = advPms && advPms.returns_as_of;
+    const withRet = rows.filter((s) => pv(s, "1y") != null).length;
+    return `<p class="note">Strategy data is copied from PMS AIF World's public pages (link on every strategy). PMS returns are published monthly, so this table changes once a month, not daily; the latest month on file is <b>${esc(asof || "unknown")}</b>. Up to 1 year the return is absolute, beyond 1 year it is a yearly compound rate (CAGR). ${rows.length} PMS strategies on file, ${withRet} with a 1-year return.</p>
+      <div class="pmsctl"><input id="pq" class="tsearch" type="search" placeholder="Search strategy, manager or category" value="${esc(st.q)}">
+        <label>Category <select id="pcat"><option>All</option>${cats.map((c) => `<option ${c === st.cat ? "selected" : ""}>${esc(c)}</option>`).join("")}</select></label>
+        <label>Track record <select id="ptrack">${[["any", "Any"], ["1y", "At least 1 year"], ["3y", "At least 3 years"], ["5y", "At least 5 years"]].map(([v, l]) => `<option value="${v}" ${v === st.track ? "selected" : ""}>${l}</option>`).join("")}</select></label>
+        <button type="button" class="chip" id="pdir">${st.dir < 0 ? "Best first" : "Weakest first"} (tap to flip)</button></div>
+      <div id="pmsTable">${pmsTable()}</div>${bazaarBox()}${aumBox()}`;
+  }
+
+  const AIF_COLS = [["1m", "1M"], ["3m", "3M"], ["6m", "6M"], ["1y", "1Y"], ["3y", "3Y"], ["5y", "5Y"], ["si", "Since start"]];
+  const cat3Rows = () => (advCat3 && advCat3.funds) || [];
+  function aifTable() {
+    const st = aifState, q = st.q.trim().toLowerCase();
+    let rows = cat3Rows().filter((f) => (st.section === "All" || f.section === st.section) && (st.basis === "All" || f.basis === st.basis) &&
+      (st.track === "any" || f.ret[st.track] != null) && (!q || f.name.toLowerCase().includes(q)));
+    const val = (f) => (st.sort === "name" ? f.name.toLowerCase() : st.sort === "aum" ? f.aum_cr : st.sort === "inception" ? new Date("1 " + f.inception).getTime() : f.ret[st.sort]);
+    rows.sort((a, b) => { const x = val(a), y = val(b); if (x == null && y == null) return 0; if (x == null) return 1; if (y == null) return -1; return (x > y ? 1 : x < y ? -1 : 0) * st.dir; });
+    const shown = rows.slice(0, st.limit);
+    const th = (k, l) => `<th><button type="button" data-asort="${k}">${l}${st.sort === k ? (st.dir > 0 ? " ▲" : " ▼") : ""}</button></th>`;
+    const body = shown.map((f, i) => `<tr><td class="n dim">${i + 1}</td><td>${esc(f.name)} <b class="bm" title="Return basis (see legend above)">${esc(f.basis || "")}</b><br><small class="k">${esc(f.section)}</small></td><td class="n">${esc(f.inception)}</td><td class="n">${f.aum_cr != null ? dp(f.aum_cr, 1) : "–"}</td>
+      ${AIF_COLS.map(([k]) => `<td class="n"${heat(f.ret[k], k === "1m" ? 6 : k === "3m" ? 12 : 30)}>${sgn(f.ret[k], 1, "%")}</td>`).join("")}<td class="n"><b>${esc(f.basis || "")}</b></td></tr>`).join("");
+    return `<div class="tablewrap"><table class="nt pms"><thead><tr><th>#</th>${th("name", "Fund (firm name first)")}${th("inception", "Started")}${th("aum", "AUM Rs Cr")}${AIF_COLS.map(([k, l]) => th(k, l)).join("")}<th>Basis</th></tr></thead><tbody>${body || '<tr><td colspan="12" class="empty">Nothing matches.</td></tr>'}</tbody></table></div>
+      ${rows.length > shown.length ? `<p class="morewrap"><button type="button" class="chip" data-amoreaif="1">Show ${Math.min(40, rows.length - shown.length)} more (${rows.length - shown.length} not shown)</button></p>` : ""}
+      <p class="fine">${rows.length} funds match.</p>`;
+  }
+  function aifDirRows() { return Object.values((advPms && advPms.strategies) || {}).filter((s) => s.title && /^AIF/.test(s.kind || "")); }
+  function aifDirTable() {
+    const q = aifState.dq.trim().toLowerCase();
+    const rows = aifDirRows().filter((s) => !q || `${s.name} ${s.title} ${s.manager || ""} ${s.kind}`.toLowerCase().includes(q)).sort((a, b) => (a.name || "").localeCompare(b.name || ""));
+    const shown = rows.slice(0, aifState.dlimit);
+    return `<div class="tablewrap"><table class="nt"><thead><tr><th>Fund</th><th>Manager</th><th>Category</th><th>Structure and type</th><th>Min. ticket</th></tr></thead><tbody>
+      ${shown.map((s) => `<tr><td>${stratLink(s)}${s.label_mismatch ? ' <span class="tagw">check source</span>' : ""}</td><td>${esc(s.manager || "not stated")}</td><td>${esc(s.kind)}</td><td>${esc([s.structure, s.fund_type].filter(Boolean).join(" · ") || "–")}</td><td>${esc(s.ticket || "–")}</td></tr>`).join("")}</tbody></table></div>
+      ${rows.length > shown.length ? `<p class="morewrap"><button type="button" class="chip" data-adirmore="1">Show 25 more (${rows.length - shown.length} not shown)</button></p>` : ""}<p class="fine">${rows.length} funds listed.</p>`;
+  }
+  function aifBlock() {
+    const st = aifState, c = advCat3;
+    const dir = aifDirRows();
+    const bases = [...new Set(cat3Rows().map((f) => f.basis).filter(Boolean))].sort();
+    const board = c ? `<p class="note">Category III AIF performance is copied from PMS AIF World's monthly Cat III newsletter (${link(c.pdf_url, "PDF")}, ${link(c.page_url, "page")}), returns as of <b>${esc(c.as_of)}</b> (${esc(c.edition)} edition). ${cat3Rows().length} funds. <b>Read the Basis column:</b> each fund reports returns on a different basis, so the funds are not strictly comparable. Legend from the source: ${esc(c.legend)}. ${esc(c.basis_note)} Category III funds can use leverage and shorting; Long Only ones behave like a concentrated equity portfolio, Long Short ones aim at steadier returns.</p>
+      <div class="pmsctl"><input id="aq" class="tsearch" type="search" placeholder="Search fund or firm" value="${esc(st.q)}">
+        <label>Style <select id="asec">${["All", "Long Only", "Long Short"].map((x) => `<option ${x === st.section ? "selected" : ""}>${x}</option>`).join("")}</select></label>
+        <label>Basis <select id="abasis"><option>All</option>${bases.map((x) => `<option ${x === st.basis ? "selected" : ""}>${esc(x)}</option>`).join("")}</select></label>
+        <label>Track record <select id="atrack">${[["any", "Any"], ["1y", "At least 1 year"], ["3y", "At least 3 years"], ["5y", "At least 5 years"]].map(([v, l]) => `<option value="${v}" ${v === st.track ? "selected" : ""}>${l}</option>`).join("")}</select></label>
+        <button type="button" class="chip" id="adir">${st.dir < 0 ? "Best first" : "Weakest first"} (tap to flip)</button></div>
+      <div id="aifTable">${aifTable()}</div>` : `<p class="note">The Cat III AIF performance file could not be loaded.</p>`;
+    return `<h3 class="nh">Category III AIF performance</h3>${board}
+      <h3 class="nh">AIF directory: managers, categories and structures (${dir.length} funds)</h3>
+      <p class="note">AIFs of Category I and II (private equity, venture, infrastructure, real estate, credit) are unlisted and disclose returns rarely; their pages carry the manager, structure and minimum ticket only. Category I invests in socially or economically useful areas (start-ups, infrastructure); Category II is mostly private equity and debt funds. Source: PMS AIF World public pages, each linked.</p>
+      <input id="dq" class="tsearch" type="search" placeholder="Search the directory by fund, manager or category" value="${esc(st.dq)}">
+      <div id="aifDir">${aifDirTable()}</div>`;
+  }
+
+  function bindAdvisory(id) {
+    const nb = $("numbers");
+    nb.onclick = (e) => {
+      const sb = e.target.closest("[data-sec]");
+      if (sb) { secKey = sb.dataset.sec; nb.innerHTML = cfg.numbers(id); return; }
+      const ps = e.target.closest("[data-psort]");
+      if (ps) { const k = ps.dataset.psort; if (pmsState.sort === k) pmsState.dir = -pmsState.dir; else { pmsState.sort = k; pmsState.dir = k === "name" ? 1 : -1; } $("pmsTable").innerHTML = pmsTable(); return; }
+      const op = e.target.closest("[data-open]");
+      if (op) { e.preventDefault(); pmsState.open = pmsState.open === op.dataset.open ? null : op.dataset.open; $("pmsTable").innerHTML = pmsTable(); return; }
+      if (e.target.closest("[data-pmore]")) { pmsState.limit += 40; $("pmsTable").innerHTML = pmsTable(); return; }
+      const as = e.target.closest("[data-asort]");
+      if (as) { const k = as.dataset.asort; if (aifState.sort === k) aifState.dir = -aifState.dir; else { aifState.sort = k; aifState.dir = k === "name" ? 1 : -1; } $("aifTable").innerHTML = aifTable(); return; }
+      if (e.target.closest("[data-amoreaif]")) { aifState.limit += 40; $("aifTable").innerHTML = aifTable(); return; }
+      if (e.target.closest("[data-adirmore]")) { aifState.dlimit += 25; $("aifDir").innerHTML = aifDirTable(); return; }
+      if (e.target.closest("[data-amore]")) { aumState.limit += 25; nb.innerHTML = cfg.numbers(id); return; }
+      if (e.target.id === "pdir") { pmsState.dir = -pmsState.dir; e.target.textContent = `${pmsState.dir < 0 ? "Best first" : "Weakest first"} (tap to flip)`; $("pmsTable").innerHTML = pmsTable(); }
+      if (e.target.id === "adir") { aifState.dir = -aifState.dir; e.target.textContent = `${aifState.dir < 0 ? "Best first" : "Weakest first"} (tap to flip)`; $("aifTable").innerHTML = aifTable(); }
+    };
+    nb.oninput = (e) => {
+      if (e.target.id === "pq") { pmsState.q = e.target.value; pmsState.limit = 40; $("pmsTable").innerHTML = pmsTable(); }
+      if (e.target.id === "aq") { aifState.q = e.target.value; aifState.limit = 40; $("aifTable").innerHTML = aifTable(); }
+      if (e.target.id === "dq") { aifState.dq = e.target.value; aifState.dlimit = 25; $("aifDir").innerHTML = aifDirTable(); }
+      if (e.target.id === "aumq") { aumState.q = e.target.value; const pos = e.target.selectionStart; nb.innerHTML = cfg.numbers(id); const el = $("aumq"); el.focus(); el.setSelectionRange(pos, pos); }
+    };
+    nb.onchange = (e) => {
+      if (e.target.id === "pcat") { pmsState.cat = e.target.value; pmsState.limit = 40; $("pmsTable").innerHTML = pmsTable(); }
+      if (e.target.id === "ptrack") { pmsState.track = e.target.value; pmsState.limit = 40; $("pmsTable").innerHTML = pmsTable(); }
+      if (e.target.id === "asec") { aifState.section = e.target.value; aifState.limit = 40; $("aifTable").innerHTML = aifTable(); }
+      if (e.target.id === "abasis") { aifState.basis = e.target.value; aifState.limit = 40; $("aifTable").innerHTML = aifTable(); }
+      if (e.target.id === "atrack") { aifState.track = e.target.value; aifState.limit = 40; $("aifTable").innerHTML = aifTable(); }
+    };
+  }
+
+  DESKS.advisory = {
+    file: "data/advisory.json",
+    title: "Investment Advisory Universe",
+    sources: "Numbers: NSE (indices, sector indices, index P/E, breadth, FII/DII), Yahoo Finance (global markets, US yields, dollar, gold, silver, crude, USD/INR, REIT and InvIT prices), Reserve Bank of India (policy rates), TradingView (India 10-year yield, best effort). PMS and AIF strategy data: PMS AIF World public pages and PMS Bazaar's public leaderboard, each strategy linked to its source page. Official PMS AUM: APMI, compiled from SEBI's monthly report. News: Economic Times, Mint, Business Standard, BusinessLine, CNBC-TV18, CNBC, BBC, MarketWatch and Google News headlines, SEBI, RBI and finance-ministry releases. There is no commentary in this desk: figures, headlines and links only. Aggregator figures are as reported by the aggregator and not audited here. Not investment advice: open the source before acting.",
+    subs: [
+      { id: "pulse", label: "Market Pulse", nums: "pulse", test: (i) => i.category === "Equity Markets" },
+      { id: "pms", label: "PMS", nums: "pms", test: (i) => i.category === "PMS" },
+      { id: "aif", label: "AIF", nums: "aif", test: (i) => i.category === "AIF" },
+      { id: "debt", label: "Debt & Bonds", nums: "debt", test: (i) => i.category === "Debt & Bonds" },
+      { id: "real", label: "Gold, Silver & REITs", nums: "real", test: (i) => i.category === "Gold & Silver" || i.category === "REITs & InvITs" },
+      { id: "mf", label: "Mutual Funds", test: (i) => i.category === "Mutual Funds" },
+      { id: "reg", label: "Regulatory", nums: "reg", test: (i) => i.category === "Regulatory" },
+      { id: "global", label: "Global", nums: "global", test: (i) => i.category === "Global" },
+      { id: "news", label: "All News", test: () => true },
+    ],
+    f1: { key: "category" }, f2: { key: "sector" }, f3: { key: "kind", values: ["News", "Official"] },
+    flag: { label: "Official notices only", test: (i) => i.kind === "Official" },
+    search: (i) => `${i.title} ${i.summary} ${i.source} ${i.category} ${i.sector || ""}`,
+    lead: () => null,
+    numbers(id) {
+      if (id === "pms") return pmsBlock();
+      if (id === "aif") return aifBlock();
+      return advMarket ? marketBlock(id) : `<p class="note">The numbers file could not be loaded.</p>`;
+    },
+    card(it) {
+      const official = it.kind === "Official";
+      const b = `<span class="badge ${official ? "major" : "src"}">${official ? esc(it.source) : "NEWS"}</span><span class="badge type">${esc(it.category)}</span>`;
+      const meta = `${b}${official ? esc(it.ministry || "") : esc(it.source)}${it.sector ? " &middot; " + esc(it.sector) : ""}${it.time ? ` &middot; ${esc(it.time)} IST` : ""}`;
+      const also = (it.also || []).length ? `<div class="more">Also covered by: ${it.also.map((a) => link(a.url, esc(a.source))).join("")}</div>` : "";
+      return shell(false, meta, it, `${bodyOf(it, it.summary, "compact")}${also}`, "Open the original");
+    },
+  };
+
   // ---------------------------------------------------------------- Front Page (top stories across all desks)
   DESKS.top = {
     file: "data/front.json",
     title: "Front Page",
     front: true,
-    sources: "Front Page ranks stories from the three desks with a transparent point system (see scripts/build_front_page.py): Cabinet and regulator decisions, deal size, official immigration notices, coverage by many outlets, plus recency. The line under each headline lists the rules that put it here. Rebuilt every morning.",
+    sources: "Front Page ranks stories from the Policy, Startup, Immigration and Investment Advisory desks with a transparent point system (see scripts/build_front_page.py): Cabinet and regulator decisions, deal size, official immigration notices, coverage by many outlets, plus recency. The line under each headline lists the rules that put it here. Rebuilt every morning.",
     flag: { label: "", test: () => true },
   };
 
-  const DESK_LINK = { Policy: "#policy", Startups: "#startups", Immigration: "#immigration" };
+  const DESK_LINK = { Policy: "#policy", Startups: "#startups", Immigration: "#immigration", Advisory: "#advisory" };
   const trimTo = (s, n) => {
     s = (s || "").trim();
     return s.length > n ? s.slice(0, n).replace(/\s+\S*$/, "") + " ..." : s;
@@ -225,7 +526,7 @@
   };
   // A picture when the story has one, otherwise a coloured tile (the tile also shows if the picture fails to load).
   const pic = (it, cls) => {
-    const big = it.desk === "Immigration" ? it.label : it.desk === "Startups" ? it.source : it.source;
+    const big = it.desk === "Immigration" || it.desk === "Advisory" ? it.label : it.source;
     const small = it.desk === "Policy" ? it.label : it.desk === "Startups" ? it.label.split("·").pop().trim() : it.source;
     return `<a class="ph ${esc(it.desk)} ${cls || ""}" href="${esc(it.url)}" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">
       <span class="tile"><b>${esc(big)}</b><i>${esc(small)}</i></span>${it.image ? `<img src="${esc(it.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}</a>`;
@@ -303,7 +604,7 @@
     const tagCount = {};
     all.forEach((i) => (i.tags || []).forEach((t) => (tagCount[t] = (tagCount[t] || 0) + 1)));
     const tags = Object.entries(tagCount).filter(([t, n]) => n >= 2 && !DESK_LINK[t]).sort((a, b) => b[1] - a[1]).slice(0, 9).map(([t]) => t);
-    const opts = ["All", "Policy", "Startups", "Immigration", ...tags];
+    const opts = ["All", "Policy", "Startups", "Immigration", "Advisory", ...tags];
     $("interest").innerHTML = opts.map((o) => `<button class="chip" type="button" aria-pressed="${interest === o}" data-v="${esc(o)}">${esc(o)}</button>`).join("");
     $("interest").onclick = (e) => {
       const b = e.target.closest("button");
@@ -315,7 +616,7 @@
       html = heroCard(hero) + `<div class="gridcards">${rest.slice(0, 4).map(gridCard).join("")}</div>` +
         `<div class="feats">${startupFileBox(d.features.startup_file)}${countryBox(d.features.country)}</div>` +
         `<h2 class="sect">More headlines</h2>${rest.slice(4).map((it, i) => rowCard(it, i + 6)).join("")}` +
-        `<h2 class="sect">Snapshots from the desks</h2><div class="dcols">${["Policy", "Startups", "Immigration"].map((k) => deskColumn(k, d.desks[k])).join("")}</div>`;
+        `<h2 class="sect">Snapshots from the desks</h2><div class="dcols">${["Policy", "Startups", "Immigration", "Advisory"].map((k) => deskColumn(k, d.desks[k])).join("")}</div>`;
     } else {
       const sel = all.filter((i) => i.desk === interest || (i.tags || []).includes(interest))
         .sort((a, b) => b.priority - a.priority);
@@ -441,6 +742,7 @@
     document.querySelectorAll(".desk").forEach((a) => a.classList.toggle("active", a.dataset.desk === desk));
     $("feed").innerHTML = '<p class="empty">Loading...</p>';
     $("lead").hidden = true;
+    $("numbers").hidden = true;
     try {
       await briefsReady;
       const res = await fetch(cfg.file, { cache: "no-cache" });
@@ -484,6 +786,7 @@
         ]);
         companies = cj.companies || {}; notes = nj || {};
       }
+      if (desk === "advisory") await advisoryPrep();
       const subNav = $("subs");
       if (desk === "immigration") {
         const counts = { news: items.length, files: files.countries.length, india: files.india_side.length };
@@ -496,6 +799,8 @@
         items = all.filter(sub.test);
       } else { subNav.hidden = true; }
       state = { q: "", f1: "All", f2: "All", f3: "All", flag: false, limit: 150 };
+      const nb = $("numbers");
+      if (desk === "advisory" && sub && sub.nums) { nb.innerHTML = cfg.numbers(sub.nums); nb.hidden = false; bindAdvisory(sub.nums); } else { nb.hidden = true; nb.innerHTML = ""; }
       const special = !!(sub && sub.view);
       document.querySelector(".controls").classList.toggle("bare", special);
       if (special) {
