@@ -274,3 +274,34 @@ table.nt.pms td:nth-child(3) { white-space: normal; min-width: 110px; }
 
 table.nt.pms th, table.nt.pms td { padding: 5px 6px; font-size: 13px; }
 .bm { color: var(--accent); }
+
+/* Phones: the filter block must not stay pinned (it filled the screen and blocked scrolling), and chip rows swipe sideways
+   instead of wrapping into many lines. */
+@media (max-width: 760px) {
+  .controls { position: static; padding: 10px 0 2px; }
+  .controls .row { margin-top: 8px; }
+  .chips { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; padding-bottom: 4px; }
+  .chips::-webkit-scrollbar { display: none; }
+  .chip { flex: 0 0 auto; white-space: nowrap; }
+  .row.split { flex-wrap: wrap; }
+  .desks { flex-wrap: nowrap; overflow-x: auto; justify-content: flex-start; scrollbar-width: none; }
+  .desks::-webkit-scrollbar { display: none; }
+  .desk { flex: 0 0 auto; white-space: nowrap; padding: 6px 10px; }
+  .subs { flex-wrap: nowrap; overflow-x: auto; justify-content: flex-start; scrollbar-width: none; padding: 8px 0; }
+  .subs::-webkit-scrollbar { display: none; }
+  .subs a { flex: 0 0 auto; white-space: nowrap; }
+  main, .masthead { padding-left: 12px; padding-right: 12px; }
+  .lead h2 { font-size: 24px; }
+  .card h3 { font-size: 18px; }
+  .kv2 { grid-template-columns: 1fr; gap: 0; }
+  .hero { gap: 14px; }
+  table.nt th, table.nt td { padding: 5px 6px; font-size: 12.5px; }
+  .tsearch { min-width: 0; width: 100%; }
+  .pmsctl { gap: 8px; }
+  .stat { min-width: 132px; flex: 1 1 132px; }
+}
+
+/* Long unbreakable strings (web addresses, long tokens) must wrap instead of stretching the page past the phone screen. */
+body, p, li, h1, h2, h3, h4, h5, h6, a, span, div, td, th { overflow-wrap: anywhere; }
+table.nt td, table.nt th, table.cmp td, table.cmp th, table.fin td, table.fin th, .chip, .desk, .subs a { overflow-wrap: normal; }
+img, video, svg { max-width: 100%; height: auto; }
