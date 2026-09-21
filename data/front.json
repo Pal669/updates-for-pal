@@ -1,6 +1,6 @@
 {
  "edition": "2026-09-21",
- "built": "2026-09-21 07:15 IST",
+ "built": "2026-09-21 10:16 IST",
  "count": 18,
  "by_desk": {
   "Policy": 7,
@@ -11,37 +11,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23346.0,
-   "change_pct": 0.33,
-   "asof": "18 Sep 15:31 IST"
+   "value": 23373.0,
+   "change_pct": 0.11,
+   "asof": "21 Sep 10:16 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74295.0,
-   "change_pct": -0.03,
-   "asof": "18 Sep 15:32 IST"
+   "value": 74733.0,
+   "change_pct": 0.59,
+   "asof": "21 Sep 10:01 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.86,
-   "change_pct": 0.07,
-   "asof": "21 Sep 06:31 IST"
+   "value": 95.79,
+   "change_pct": -0.01,
+   "asof": "21 Sep 10:16 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 97.08,
-   "change_pct": -6.54,
-   "asof": "21 Sep 07:04 IST"
+   "value": 97.45,
+   "change_pct": -6.18,
+   "asof": "21 Sep 10:02 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4416.0,
-   "change_pct": -0.19,
-   "asof": "21 Sep 07:05 IST"
+   "value": 4399.0,
+   "change_pct": -0.59,
+   "asof": "21 Sep 10:06 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -161,9 +161,31 @@
    ]
   },
   "Startups": {
-   "total": 66,
-   "new_today": 2,
+   "total": 69,
+   "new_today": 5,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 73,
+     "title": "Aakash Trims FY26 Loss By 16% To ₹186.5 Cr, Top Line Flat At ₹2,040 Cr",
+     "url": "https://inc42.com/buzz/aakash-trims-fy26-loss-by-16-to-%e2%82%b9186-5-cr-top-line-flat-at-%e2%82%b92040-cr/",
+     "date": "2026-09-17",
+     "source": "Inc42",
+     "label": "India · Edtech & Skills",
+     "snippet": "Aakash Educational Services Ltd managed to narrow its net loss for FY26 by 15.5% to ₹186.5 Cr from ₹220.8 Cr loss incurred in FY25",
+     "lead": "Aakash Educational Services Ltd managed to narrow its net loss for the financial year FY26 by 15.5% to ₹186.5 Cr from ₹220.8 Cr loss incurred in the previous fiscal Aakash is one of India's largest test-prep brands for engineering and medical entrance exams and has been operating under the ownership of BYJU’S parent Think & Learn Operating revenue rose marginally by 0.4% to ₹2,040.5 Cr in FY26 from ₹2,032.1 Cr in the previous year",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/aakash-layoffs-social-.jpeg",
+     "why": [
+      "Financials",
+      "Large deal (about $215M)",
+      "Startup File written (what they do, how they make money)"
+     ],
+     "tags": [
+      "Financials",
+      "Edtech & Skills"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -228,32 +250,12 @@
       "Funding",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 8,
-     "priority": 53,
-     "title": "Kissht, Ola Electric & More: Why Listed Startups Keep Going Back To The Well",
-     "url": "https://inc42.com/features/kissht-ola-electric-more-why-listed-startups-keep-going-back-to-the-well/",
-     "date": "2026-09-21",
-     "source": "Inc42",
-     "label": "India · Fintech",
-     "snippet": "Kissht’s plan to raise ₹832 cr just four months after its IPO highlights how new age companies are increasingly returning to public markets for fresh capital, raising questions around dilution, capital deployment and investor appetite.",
-     "lead": "Kissht’s parent OnEMI Technology Solutions has received shareholder approval to raise up to ₹832 Cr through a preferential issue of equity shares. The proposed fundraise comes after the company raised around ₹926 Cr through its IPO, including a fresh issue of shares. Kissht intends to utilise 75% of the new proceeds to fund its lending arm Si Creva, with the money expected to support its loan-book growth. The rest for general corporate ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Post-Ipo-Inc42-Markets_SOC.jpg",
-     "why": [
-      "IPO & Listing"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "Fintech"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 315,
-   "new_today": 1,
+   "total": 318,
+   "new_today": 2,
    "items": [
     {
      "desk": "Immigration",
@@ -273,6 +275,26 @@
      "tags": [
       "PR / Settlement",
       "Japan"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 4,
+     "priority": 44,
+     "title": "Anna Blinkova Switches to French Citizenship: WTA Top 100 Gains a New French Player",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdkY5UUpXa0doeWJ2YWpoSlptcnp4TWV6MHl1ckVUWC11QzhMVDVfYjN2RXp2TkVKbl9QTExBZmRRQnI0aVhuZHNuRm05aVd1eHNLTEFJV19fb1Q2SjJ6bVFENUdOUTNOLWNEUllTcG9KOXQwU0h4SEN0U1JQQklRWHQzMnh6XzRoYU9MbEdadw?oc=5",
+     "date": "2026-09-17",
+     "source": "TennisTemple",
+     "label": "France",
+     "snippet": "French tennis has a new face on the WTA Tour. At 28, Anna Blinkova has chosen to continue her career under the French flag, after representing Russia throughout her career.",
+     "lead": "French tennis has a new face on the WTA Tour. At 28, Anna Blinkova has chosen to continue her career under the French flag, after representing Russia throughout her career. To everyone's surprise, the French contingent has just grown with the arrival of Anna Blinkova, who was recently naturalized. According to information reported by RMC Sport this Thursday, the Moscow-born 28-year-old has changed nationality after representing Russia ...",
+     "image": "https://cdn1.tennistemple.com/4/260/1789663518351.webp",
+     "why": [
+      "Affects citizenship"
+     ],
+     "tags": [
+      "Citizenship",
+      "France"
      ]
     },
     {
@@ -422,6 +444,29 @@
    "desk": "Startups",
    "score": 11,
    "priority": 73,
+   "title": "Weekly VC funding falls below $100M again; How Ottonomy is building robots for real-world logistics",
+   "url": "https://yourstory.com/2026/09/weekly-vc-funding-falls-ottonomy-is-building-robots-for-logistics",
+   "date": "2026-09-21",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "This is the seventh time in the year that VC funding on a weekly basis has fallen below $100 million, revealing the challenges the Indian startup ecosystem faces in raising large amounts of capital.",
+   "lead": "Weekly VC funding falls below $100M again; How Ottonomy is building robots for real-world logistics This is the seventh time in the year that VC funding on a weekly basis has fallen below $100 million, revealing the challenges the Indian startup ecosystem faces in raising large amounts of capital. Team YS 17206 Stories Monday September 21, 2026 , 4 min Read It’s a wrap for SEMICON India 2026, which drew investment commitments of around ...",
+   "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/CopyofNewPPTTemplates54-1787491817747.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $100M)"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 73,
    "title": "From an IIT Bombay lab to a Rs 1,000 Cr IPO",
    "url": "https://yourstory.com/2026/09/from-an-iit-bombay-lab-to-a-1000-crore-ipo",
    "date": "2026-09-20",
@@ -438,7 +483,7 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -462,7 +507,7 @@
     "Financials",
     "AI & Deeptech"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -485,30 +530,6 @@
    "tags": [
     "Funding",
     "Fintech"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 73,
-   "title": "Aakash Trims FY26 Loss By 16% To ₹186.5 Cr, Top Line Flat At ₹2,040 Cr",
-   "url": "https://inc42.com/buzz/aakash-trims-fy26-loss-by-16-to-%e2%82%b9186-5-cr-top-line-flat-at-%e2%82%b92040-cr/",
-   "date": "2026-09-17",
-   "source": "Inc42",
-   "label": "India · Edtech & Skills",
-   "snippet": "Aakash Educational Services Ltd managed to narrow its net loss for FY26 by 15.5% to ₹186.5 Cr from ₹220.8 Cr loss incurred in FY25",
-   "lead": "Aakash Educational Services Ltd managed to narrow its net loss for the financial year FY26 by 15.5% to ₹186.5 Cr from ₹220.8 Cr loss incurred in the previous fiscal Aakash is one of India's largest test-prep brands for engineering and medical entrance exams and has been operating under the ownership of BYJU’S parent Think & Learn Operating revenue rose marginally by 0.4% to ₹2,040.5 Cr in FY26 from ₹2,032.1 Cr in the previous year",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/aakash-layoffs-social-.jpeg",
-   "why": [
-    "Financials",
-    "Large deal (about $215M)",
-    "Startup File written (what they do, how they make money)"
-   ],
-   "tags": [
-    "Financials",
-    "Edtech & Skills"
    ],
    "rank": 9,
    "must_read": false
