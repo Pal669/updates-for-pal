@@ -1,6 +1,6 @@
 {
  "edition": "2026-09-21",
- "built": "2026-09-21 20:37 IST",
+ "built": "2026-09-21 22:09 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -28,28 +28,28 @@
    "dp": 2,
    "value": 95.81,
    "change_pct": 0.01,
-   "asof": "21 Sep 20:32 IST"
+   "asof": "21 Sep 20:56 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 100.22,
-   "change_pct": -3.51,
-   "asof": "21 Sep 20:27 IST"
+   "value": 95.52,
+   "change_pct": -8.04,
+   "asof": "21 Sep 21:59 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4376.0,
-   "change_pct": -1.09,
-   "asof": "21 Sep 20:27 IST"
+   "value": 4390.0,
+   "change_pct": -0.8,
+   "asof": "21 Sep 21:59 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
    "value": 4.96,
-   "change_pct": -0.74,
-   "asof": "21 Sep 20:22 IST"
+   "change_pct": -0.82,
+   "asof": "21 Sep 21:54 IST"
   }
  ],
  "features": {
@@ -79,111 +79,109 @@
  },
  "desks": {
   "Policy": {
-   "total": 45,
-   "new_today": 0,
+   "total": 53,
+   "new_today": 8,
    "items": [
     {
      "desk": "Policy",
-     "score": 4,
-     "priority": 29,
-     "title": "IICA hosts important session on ‘IBC as an Evolving Law Through the Amendments’,.",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2312783",
-     "date": "2026-09-20",
+     "score": 5,
+     "priority": 36,
+     "title": "NSC Approves ₹320 Crore under PM-SETU for Kurukshetra ITI Cluster in Haryana; Jindal Naveen Avsar Limited to Partner in Transformation of Seven ITIs",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2312980",
+     "date": "2026-09-21",
      "source": "PIB",
-     "label": "Tax, Duties & Trade",
-     "snippet": "Under the “Meet the Legend” programme, the Indian Institute of Corporate Affairs (IICA), Manesar, ho",
-     "lead": "Under the “Meet the Legend” programme, the Indian Institute of Corporate Affairs (IICA), Manesar, hosted an insightful session on “IBC as an Evolving Law Through the Amendments” featuring Dr. M. S. Sahoo , former Chairperson of the Insolvency and Bankruptcy Board of India (IBBI) and a well-known figure in the development and evolution of the Insolvency and Bankruptcy Code (IBC). The session commenced with a warm welcome and the setting ...",
-     "image": null,
-     "why": [
-      "Rule change"
-     ],
-     "tags": [
-      "Tax, Duties & Trade"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 3,
-     "priority": 21,
-     "title": "Indian Railways Approves ₹252 Crore for Kavach 4.0 on 607.7 Route Kilometres of Lucknow Division",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2312393",
-     "date": "2026-09-19",
-     "source": "PIB",
-     "label": "Infrastructure & Transport",
-     "snippet": "In a significant step towards strengthening railway safety through indigenous technology, Indian Rai",
-     "lead": "In a significant step towards strengthening railway safety through indigenous technology, Indian Railways has approved the provision of Kavach Version 4.0 on 607.7 Route Kilometres of the Lucknow Division of North Eastern Railway at a total cost of ₹252 crore. The approved project will extend Kavach 4.0 coverage across the identified balance sections of the division, strengthening the safety infrastructure available for train ...",
+     "label": "Labour & Social",
+     "snippet": "The National Steering Committee (NSC) of the Ministry of Skill Development and Entrepreneurship (MSD",
+     "lead": "The National Steering Committee (NSC) of the Ministry of Skill Development and Entrepreneurship (MSDE) has approved a Strategic Investment Plan (SIP) worth ₹320 crore for the Kurukshetra ITI Cluster in Haryana under the Pradhan Mantri Skilling and Employability Transformation through Upgraded ITIs (PM-SETU) scheme. Jindal Naveen Avsar Limited will partner with the Government of Haryana as the Anchor Industry Partner for the cluster. ...",
      "image": null,
      "why": [
       "High on the desk's ranking"
      ],
      "tags": [
-      "Infrastructure & Transport"
+      "Labour & Social"
      ]
     },
     {
      "desk": "Policy",
-     "score": 3,
-     "priority": 21,
-     "title": "Indian Railways Approves ₹209 Crore for Electronic Interlocking at 7 Stations in Solapur Division",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2312391",
+     "score": 5,
+     "priority": 36,
+     "title": "Reserve Bank of India (Commercial Banks - Minimum Capital Requirements for Market Risk) Directions, 2026",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13705&Mode=0",
+     "date": "2026-09-21",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Notifications - Reserve Bank of India",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 36,
+     "title": "Data on Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63638",
+     "date": "2026-09-21",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "RBI had introduced a special USD-INR Forex Swap facility covering FCNR(B) deposits, ECB and OFCB inflows on June 08, 2026. As announced vide Press Release dated August 14, 2026 , the Scheme was open till August 31, 2026 for FCNR(B) deposits, and will be open up to December 31, 2026 for ECBs and OFCBs. The position of forex inflows reported by Authorised Dealer Banks till September 18, 2026, under the above facility is given below.",
+     "image": null,
+     "why": [
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 36,
+     "title": "Biometric Aadhaar Authentication Mandatory for Subsidised Domestic LPG Refills from 1 October 2026",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2312532",
      "date": "2026-09-19",
      "source": "PIB",
-     "label": "Infrastructure & Transport",
-     "snippet": "Indian Railways has approved the provision of Electronic Interlocking (EI) at seven stations of Sola",
-     "lead": "Indian Railways has approved the provision of Electronic Interlocking (EI) at seven stations of Solapur Division of Central Railway at a total cost of ₹209 crore. The approved work involves provision of Electronic Interlocking at Mohol, Mundhewadi, Bale, Solapur, Hotgi Junction-Hotgi A Cabin, Shahabad and Wadi Junction on the High Density Network (HDN) 7 route, where Kavach, Automatic Block Signalling (ABS) and Centralised Traffic ...",
+     "label": "Energy & Power",
+     "snippet": "From 1 October 2026, domestic LPG consumers will need to have completed Biometric Aadhaar Authentica",
+     "lead": "From 1 October 2026, domestic LPG consumers will need to have completed Biometric Aadhaar Authentication (BAA) to book refills at the regulated Retail Selling Price (RSP) with applicable subsidy. BAA ensures that subsidised LPG reaches only genuine and deserving households. Linking each connection to the Aadhaar-authenticated consumer helps prevent diversion of subsidised domestic cylinders for commercial and industrial use, removes ...",
      "image": null,
      "why": [
-      "High on the desk's ranking"
+      "Subsidy or incentive"
      ],
      "tags": [
-      "Infrastructure & Transport"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 3,
-     "priority": 21,
-     "title": "Government Eases RCMC Requirement for Export Consignments up to ₹3 Lakh",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2310798",
-     "date": "2026-09-16",
-     "source": "PIB",
-     "label": "Tax, Duties & Trade",
-     "snippet": "The Government has introduced a de minimis exemption from the requirement of Registration-cum-Member",
-     "lead": "The Government has introduced a de minimis exemption from the requirement of Registration-cum-Membership Certificate (RCMC) or Certificate of Registration for small-value export consignments up to ₹3 lakh. The measure is aimed at reducing the compliance burden for new and small exporters and facilitating exports through Postal, Courier and other emerging channels. The Directorate General of Foreign Trade (DGFT) has amended Para 2.57 of ...",
-     "image": null,
-     "why": [
-      "Rule change",
-      "Commerce"
-     ],
-     "tags": [
-      "Tax, Duties & Trade"
+      "Energy & Power"
      ]
     }
    ]
   },
   "Startups": {
-   "total": 70,
-   "new_today": 6,
+   "total": 88,
+   "new_today": 24,
    "items": [
     {
      "desk": "Startups",
      "score": 11,
      "priority": 73,
-     "title": "Kissht Gets Board Nod To Raise ₹832 Cr Via Preferential Issue",
-     "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/",
-     "date": "2026-09-18",
-     "source": "Inc42",
+     "title": "Snapdeal parent AceVector files red herring prospectus; cuts IPO size",
+     "url": "https://economictimes.indiatimes.com/tech/technology/snapdeal-parent-acevector-files-red-herring-prospectus-cuts-ipo-size/articleshow/134393243.cms",
+     "date": "2026-09-21",
+     "source": "ET Startups",
      "label": "India · Fintech",
-     "snippet": "Listed NBFC Kissht has secured board approval to raise up ₹832.2 Cr via a preferential issue of equity shares to 34 investors and entities.",
-     "lead": "In a filing with the exchanges, the NBFC said that its board has approved the issuance of 2.6 Cr fully paid-up equity shares to the investors at an issue price of ₹314.11 apiece Kissht is raising the preferential issue right after its IPO, signalling strong institutional interest in its lending business. But there appears no clarity on how the funds will be utilised While Axis Mutual Fund will receive 63.7 Lakh shares worth nearly ₹200 ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/soc-3-2.jpg",
+     "snippet": "The company is expected to announce its price band on September 22. AceVector now plans to raise Rs 287 crore in fresh capital against Rs 300 crore earlier. The size of its offer-for-sale component, which will see investors including SoftBank, Nexus Venture Partners, Foxconn and others trim their holdings, is also being reduced by 35%.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-36046,resizemode-75,msid-134393243/tech/technology/snapdeal-parent-acevector-files-red-herring-prospectus-cuts-ipo-size.jpg",
      "why": [
-      "Funding",
-      "Sizeable deal (about $88M)",
-      "Startup File written (what they do, how they make money)"
+      "IPO & Listing",
+      "Sizeable deal (about $30M)"
      ],
      "tags": [
-      "Funding",
+      "IPO & Listing",
       "Fintech"
      ]
     },
@@ -191,91 +189,130 @@
      "desk": "Startups",
      "score": 11,
      "priority": 73,
-     "title": "Aakash Trims FY26 Loss By 16% To ₹186.5 Cr, Top Line Flat At ₹2,040 Cr",
-     "url": "https://inc42.com/buzz/aakash-trims-fy26-loss-by-16-to-%e2%82%b9186-5-cr-top-line-flat-at-%e2%82%b92040-cr/",
-     "date": "2026-09-17",
+     "title": "Weekly VC funding falls below $100M again; How Ottonomy is building robots for real-world logistics",
+     "url": "https://yourstory.com/2026/09/weekly-vc-funding-falls-ottonomy-is-building-robots-for-logistics",
+     "date": "2026-09-21",
+     "source": "YourStory",
+     "label": "India · AI & Deeptech",
+     "snippet": "This is the seventh time in the year that VC funding on a weekly basis has fallen below $100 million, revealing the challenges the Indian startup ecosystem faces in raising large amounts of capital.",
+     "lead": "Weekly VC funding falls below $100M again; How Ottonomy is building robots for real-world logistics This is the seventh time in the year that VC funding on a weekly basis has fallen below $100 million, revealing the challenges the Indian startup ecosystem faces in raising large amounts of capital. Team YS 17206 Stories Monday September 21, 2026 , 4 min Read It’s a wrap for SEMICON India 2026, which drew investment commitments of around ...",
+     "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/CopyofNewPPTTemplates54-1787491817747.jpg",
+     "why": [
+      "Funding",
+      "Large deal (about $100M)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 73,
+     "title": "From an IIT Bombay lab to a Rs 1,000 Cr IPO",
+     "url": "https://yourstory.com/2026/09/from-an-iit-bombay-lab-to-a-1000-crore-ipo",
+     "date": "2026-09-20",
+     "source": "YourStory",
+     "label": "India · AI & Deeptech",
+     "snippet": "In this episode, Professor Shashikanth (IIT Bombay) shares his journey of building SEDEMAC, a deeptech startup that has crossed Rs 1,000 crore in annual revenue, Rs 1,087 crore IPO earlier this year and the stock growing over a 100% since.",
+     "lead": "From an IIT Bombay lab to a Rs 1,000 Cr IPO In this episode, Professor Shashikanth (IIT Bombay) shares his journey of building SEDEMAC, a deeptech startup that has crossed Rs 1,000 crore in annual revenue, Rs 1,087 crore IPO earlier this year and the stock growing over a 100% since. Jerome Manuel 58 Stories Sunday September 20, 2026 , 8 min Read India’s startup ecosystem has become very good at building companies at speed. Professor ...",
+     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/ThumbnailYTSEDEMACShashikanth-1789625604040.png",
+     "why": [
+      "IPO & Listing",
+      "Large deal (about $105M)"
+     ],
+     "tags": [
+      "IPO & Listing",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 73,
+     "title": "Innov8’s FY26 Profit Zooms Multifold To ₹13.7 Cr, Revenue Crosses ₹200 Cr Mark",
+     "url": "https://inc42.com/buzz/innov8s-fy26-profit-zooms-multifold-to-%e2%82%b913-7-cr-revenue-crosses-%e2%82%b9200-cr-mark/",
+     "date": "2026-09-19",
      "source": "Inc42",
-     "label": "India · Edtech & Skills",
-     "snippet": "Aakash Educational Services Ltd managed to narrow its net loss for FY26 by 15.5% to ₹186.5 Cr from ₹220.8 Cr loss incurred in FY25",
-     "lead": "Aakash Educational Services Ltd managed to narrow its net loss for the financial year FY26 by 15.5% to ₹186.5 Cr from ₹220.8 Cr loss incurred in the previous fiscal Aakash is one of India's largest test-prep brands for engineering and medical entrance exams and has been operating under the ownership of BYJU’S parent Think & Learn Operating revenue rose marginally by 0.4% to ₹2,040.5 Cr in FY26 from ₹2,032.1 Cr in the previous year",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/aakash-layoffs-social-.jpeg",
+     "label": "India · AI & Deeptech",
+     "snippet": "Innov8 Workspaces sharply improved its profitability in FY26 while rapidly expanding the network of centres it operates across the country",
+     "lead": "Innov8's net profit surged nearly 11.8X to ₹13.8 Cr in FY26 from ₹1.2 Cr in FY25, as per its annual report Innov8 Workspaces sharply improved its profitability in the fiscal year FY26 while rapidly expanding the network of centres it operates across the country Meanwhile, operating revenue rose 76% to ₹201.3 Cr from ₹114.5 Cr, while EBITDA net of lease increased 64.6% to ₹49.4 Cr from ₹30 Cr",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/soc-21-2.jpg",
      "why": [
       "Financials",
-      "Large deal (about $215M)",
-      "Startup File written (what they do, how they make money)"
-     ],
-     "tags": [
-      "Financials",
-      "Edtech & Skills"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 67,
-     "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-     "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-     "date": "2026-09-18",
-     "source": "TechCrunch",
-     "label": "Global · Other",
-     "snippet": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
-     "lead": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops Ram Iyer 9:35 AM PDT · September 18, 2026 Chinese AI startup Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500 million at a $4 billion valuation now that it has resumed operations as an independent company, The Wall Street Journal reported , citing anonymous sources. Potential investors in the round include ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2278374931.jpg?w=1024",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $4,000M: round or valuation)",
+      "Startup File written (what they do, how they make money)",
       "Valuation, listing or profitability signal"
      ],
      "tags": [
-      "Funding"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 67,
-     "title": "DeepMind researcher’s new AI lab nears $4bn valuation, reports say",
-     "url": "https://sifted.eu/articles/deepmind-researchers-new-ai-lab-nears-4bn-valuation-reports-say/",
-     "date": "2026-09-17",
-     "source": "Sifted",
-     "label": "Global · AI & Deeptech",
-     "snippet": "A Google DeepMind researcher who led the company’s world models development, is reportedly nearing a $700m fundraise for a new London neolab.",
-     "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
-     "image": "https://images.sifted.eu/cdn-cgi/image/width=3200,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/12162039/jack-deepmind-1.png",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $4,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
+      "Financials",
       "AI & Deeptech"
      ]
     }
    ]
   },
   "Immigration": {
-   "total": 320,
-   "new_today": 3,
+   "total": 334,
+   "new_today": 9,
    "items": [
     {
      "desk": "Immigration",
-     "score": 4,
-     "priority": 44,
-     "title": "Japan's immigration agency had 103 residence card printers go unused: audit",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aNXdEOV9qaEZlNno0bDZGOEVXZEVQdDRtLS1wQXZkWkU3cEdCV01INk9DMER3VWs4dkRSUGRJWDJ3UkRqY1RsZGNpRFBEWXEtbXhJUExoMWJveWF4X2pZMmM0UHlRTGRhOXFOcDJUUnFwUUU?oc=5",
-     "date": "2026-09-18",
-     "source": "毎日新聞",
+     "score": 5,
+     "priority": 56,
+     "title": "Japan raises the bar on residency. Cue the outrage.",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTl9PdG1hTXdNalZ5dVR4MWtCeXVwU2NqZ2J4eVZ4UEhONUtsOVNLcjFOd0JsQjZ3N2tELU9ILWZUS3pIS0wwc0Nfblc1M0hULWxoQmVsTkc5U0t2YUJTQWxHNElLMW5TR3E2cENQbThDWTNSU00zczUzWmEzQzVRZ1gzVFRUWFRCUFFsRw?oc=5",
+     "date": "2026-09-21",
+     "source": "The Japan Times",
      "label": "Japan",
-     "snippet": "TOKYO (Kyodo) -- Japan",
-     "lead": "TOKYO (Kyodo) -- Japan's immigration agency had 103 IC card printers, worth about 56.5 million yen ($363,000), sitting unused at seven regional bureaus after deploying them to produce residence cards for foreign residents, the national audit board said Thursday. The Immigration Services Agency had not tracked their usage status, and some regional bureaus had even requested additional printers, according to the Board of Audit of Japan. ...",
-     "image": "https://cdn.mainichi.jp/vol1/2026/09/17/20260917p2g00m0na040000p/0c10.jpg?1",
+     "snippet": "Critics, and some residents, are up in arms at the suggested changes.",
+     "lead": "",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/563769.jpg?v=3.1",
+     "why": [
+      "Announces a change"
+     ],
+     "tags": [
+      "Japan"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 56,
+     "title": "Canada invites 250 senior managers to apply for permanent residence",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVldLbk1VbURsREUxQ0lXRXNWLUVLb3lsRUZLYVUyTUh1bDVobWJMb2YwS3ZqcGdOR0N4VnNxTlRBSjE2WDViRDlZY0hBMmE2TUFWY0ZxY1VYQW1xWHRiMFhrOTNYeFgwZ1FPVUhqM2JZVVNDWFROQ1NwRkg2azN1SV8tZU9tdUN0azBnSmNMb0Vick5PeTJxVXB1WmhPMHRFQUJtdFhDZW5VbmZlWTJMNWJn0gG3AUFVX3lxTFA2RTFGLXZVNU5BbGttWmFOcU1taHlQNHhhU1l0NDVZcm5ZSTZPZDZXY2tnOWpSOW1GUnFuU1N2VkJvaUd2Zlc4T2Q5b182cnFsS0pGcHp4STdmRjM1bkU1bUNxMmU5cG0xLThJLUlrMkJOMlhHU1ZTSW5aXzFrSHZmcmpWcm1pNmI0X1liNXpFS19vV1M0SHZwOWFsbjJDVnFZNlY2MHlTaDJBN3JzekhZbUQ0WF9uUQ?oc=5",
+     "date": "2026-09-16",
+     "source": "CIC News",
+     "label": "Canada",
+     "snippet": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 250 ITAs in a draw for senior managers with Canadian work experience. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) scor",
+     "lead": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 250 ITAs in a draw for senior managers with Canadian work experience. Foreign nationals in Canada who have applied for permanent residence through Express Entry may be able to obtain a Bridging Open Work Permit (BOWP).",
+     "image": "https://www.cicnews.com/wp-content/uploads/2026/09/Express-Entry-Draw-56.jpg",
      "why": [
       "Affects permanent residence"
      ],
      "tags": [
       "PR / Settlement",
-      "Japan"
+      "Canada"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 56,
+     "title": "Top Sweden Democrat blames election setback on refusal to block new immigrant voters",
+     "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOd25iOG9OMkE2Q1gzNFN2VkMzX1ktNnBMSGhmT3FvU3VFX3NqZUNFRDNrUlVLY19IX2FEOWExYmpMMllHWVdpOThfNVk2QjFGQ09PaFpycTRLNmJYdVQ3QTVxZGlGUlhUZVdRRkVickhNNzJ5WEgzNzRVUWN1MXlZNGo3RWZSTVhkM3IwTVYwTjk0dDEyVFJLdHVJNkdFM19Lang0TEpfSWl1UEtISDE0UWVScTJ6c0M0N214a1FqTFpUOG5QeGhQNXByTFpqY1JTd2Zqckw0aGpPRGpNX1ZwYzY5eFZIRnZtdkJicW5KSFdma282RmJsQ1pCdUQ3c0hZQmFLR3NiWGtjN24tVnlyclZ2dWVaVThxUWhUb3NjSGpsTjV3azFQVFp0d1hOOHFKbzE1Q3hLV041eklyaUxzU2NMaFplQ0Zud3YwdW96TjhHOHU3X2tMdWUwUEZxVndHYlRtazluOWR5X3h6NUw1Mzd5UnJyTTVSWW9vcW9pRGdtTHpkTGx2X0YtTVhSRXZ6cnp6LTRRSTZ3d0N5OUFPWHc0Q3FGVG9HOC1wTm4waHVjYXVKLU5XbQ?oc=5",
+     "date": "2026-09-14",
+     "source": "The Local Sweden",
+     "label": "Sweden",
+     "snippet": "",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Political signal on immigration",
+      "Major story (9 headlines that day)"
+     ],
+     "tags": [
+      "Politics / Election",
+      "Sweden"
      ]
     },
     {
@@ -296,26 +333,6 @@
      "tags": [
       "Citizenship",
       "France"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 4,
-     "priority": 44,
-     "title": "Could you benefit from Switzerland’s 'employer-sponsored' immigration?",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVEQ1LVFCYm5yZlRZejdFbDhsc1BlblhBNllKSHY2WERnMlh4aXZUOGJIQmdhR0lEbGtpXzF2S3hPTDN2eWZQbFUzTGxRdzE5OVhFX2FTUDRWdkM1SzBOZlBUeE5ab2pOWjhmY1JMU0V4VEJlZlJrTVA5SUprZFpfOGVBMHN0a0Uxa3hwallFVlQyT1pHb3hvN01sRGhic0hO?oc=5",
-     "date": "2026-09-16",
-     "source": "The Local Switzerland",
-     "label": "Switzerland",
-     "snippet": "The term \"employer sponsored\" immigration has appeared on some websites in Switzerland advising foreigners about ways to get a Swiss work permit. But is it a new way to get into Switzerland?",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source The term \"employer sponsored\" immigration has appeared on some websites in Switzerland advising foreigners about ways to get a Swiss work permit. But is it a new way to get into Switzerland? Though it sounds as if ...",
-     "image": null,
-     "why": [
-      "Affects work visas"
-     ],
-     "tags": [
-      "Work visa",
-      "Switzerland"
      ]
     }
    ]
@@ -533,6 +550,30 @@
    "must_read": true
   },
   {
+   "desk": "Startups",
+   "score": 14,
+   "priority": 93,
+   "title": "Indian diaspora founders account for $560 billion of overseas unicorn value: Report",
+   "url": "https://economictimes.indiatimes.com/tech/technology/indian-diaspora-founders-account-for-560-billion-of-overseas-unicorn-value-report/articleshow/134393009.cms",
+   "date": "2026-09-21",
+   "source": "ET Startups",
+   "label": "India · Fintech",
+   "snippet": "The figure was calculated by dividing each company’s value equally among its founders and adding only the share of those who grew up in India. If one of four founders of a $10-billion company met that definition, $2.5 billion was counted. It does not represent actual shareholdings or personal wealth. The 205 companies had a total valuatio",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-19820,resizemode-75,msid-134393009/tech/technology/indian-diaspora-founders-account-for-560-billion-of-overseas-unicorn-value-report.jpg",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $560,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "Fintech"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
    "desk": "Advisory",
    "score": 11,
    "priority": 92,
@@ -553,7 +594,7 @@
     "Regulatory",
     "Banks & Financials"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -575,7 +616,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -598,7 +639,52 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 8,
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 8,
+   "priority": 89,
+   "title": "Why has a TV presenter who has lived in Austria for over 50 years been denied citizenship?",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWkza3l3bW9jRVRJVFhNSDA1eDN6TGhkejJJV2dqd1lwWkxESGxNOWx2X1drcG8yZ1JQbHY0Wk9QX0FUY3d2T2hVS0hLc3dMUjduWEw4cjlaeEZ1MEowM2RPU1FlOEtYd1R0T3U4T0NnMlAwZmZEejJXUzNEQldhVmh1SC0zR0VqZHlFQmJicTYtYkxmYW1ycDh2OXF0Mlo5aUc2RnRlMjZxUE4xRU9mNGJHMEJVNTdOd3JOVjJBdw?oc=5",
+   "date": "2026-09-21",
+   "source": "The Local Austria",
+   "label": "Austria",
+   "snippet": "Vienna’s immigration authority, MA 35, has refused to grant citizenship to a journalist who has lived in Austria for more than 50 years and works for the state broadcaster ORF. What's going on?",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source Vienna’s immigration authority, MA 35, has refused to grant citizenship to a journalist who has lived in Austria for more than 50 years and works for the state broadcaster ORF. What's going on? Ani Gülgün-Mayr, 56, was born in ...",
+   "image": null,
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "Austria"
+   ],
+   "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 8,
+   "priority": 89,
+   "title": "US visa delay: France and Germany Are Emerging as Preferred Choices for Indian Students",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQY21NZGVLZmRsVWgxOXVhMDlUTXZCQzBwWDRxRVZ2Qk9oNVRFUDdzTXhRNVlvUk92T0pseU9vS1FyUGJ5SFloMEo5UHZydDBTSlNtbkJ5bGl3Rkg2bzVTQnF6bk5PRl9jVllwRlFvYm9zSFd6WGJDc3RqZFhQemhuLXYtb0FjZVk4SmhKemNQT2RyUzVpTG1panhXYm9xTzNvSmUwdThrYkdla0pmV1ZxSVAtYVRCR2ZmUkMzVlYwVTZ0cmUzYjl3VlFDOEo0a1NSSXAtWkpQU2VZNjBWcGYtdGVzblNwX25NTHVPQ192UU9sc3fSAfgBQVVfeXFMT1hnTHNETTR6dDNiOG9tdGQzTzdNNURlMkxGTUtoQ3Z0OWR1SHJhSjR3R3dmQUVvVFRpVkpOdVQyckw4dml6b1hlRWx1WFlsc3ZiNlFkQWxZMGg3Q2VVMWpWY3VNOUVoMFFuZXV2bEJXbFdaVnRiOUlyeEVNRnoxYVNuVUh1UXpWLWdReUdweXllc0ZtYngxQlVNSGtnc2NWVUR6UWJvRDRRbTRfVm1mcHozS3FQQ0pGOGc0ZTZTQ2E2dS1fWVZoQ3NJWmJwTFB6WFBkbzhWdDY3cDlPb0V4T0xreHRIR2RzREowaXhCN01yOVk4X09YM3g?oc=5",
+   "date": "2026-09-20",
+   "source": "The Times of India",
+   "label": "Germany",
+   "snippet": "Amid uncertainty over visa processing delays in the US, France and Germany are emerging as preferred choices for Indian students.",
+   "lead": "Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
+   "image": "https://static.toiimg.com/thumb/msid-134374102,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "why": [
+    "Announces a change",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Student / Graduate",
+    "Germany"
+   ],
+   "rank": 11,
    "must_read": false
   },
   {
@@ -620,7 +706,7 @@
    "tags": [
     "United Kingdom"
    ],
-   "rank": 9,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -642,7 +728,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 10,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -665,77 +751,96 @@
     "IPO & Listing",
     "Fintech"
    ],
-   "rank": 11,
+   "rank": 14,
    "must_read": false
   },
   {
    "desk": "Startups",
    "score": 11,
    "priority": 73,
-   "title": "Weekly VC funding falls below $100M again; How Ottonomy is building robots for real-world logistics",
-   "url": "https://yourstory.com/2026/09/weekly-vc-funding-falls-ottonomy-is-building-robots-for-logistics",
+   "title": "ADIA Sells Lenskart Shares Worth ₹2,390.6 Cr",
+   "url": "https://inc42.com/buzz/adia-sells-lenskart-shares-worth-%e2%82%b92390-6-cr/",
    "date": "2026-09-21",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "This is the seventh time in the year that VC funding on a weekly basis has fallen below $100 million, revealing the challenges the Indian startup ecosystem faces in raising large amounts of capital.",
-   "lead": "Weekly VC funding falls below $100M again; How Ottonomy is building robots for real-world logistics This is the seventh time in the year that VC funding on a weekly basis has fallen below $100 million, revealing the challenges the Indian startup ecosystem faces in raising large amounts of capital. Team YS 17206 Stories Monday September 21, 2026 , 4 min Read It’s a wrap for SEMICON India 2026, which drew investment commitments of around ...",
-   "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/CopyofNewPPTTemplates54-1787491817747.jpg",
-   "why": [
-    "Funding",
-    "Large deal (about $100M)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 73,
-   "title": "From an IIT Bombay lab to a Rs 1,000 Cr IPO",
-   "url": "https://yourstory.com/2026/09/from-an-iit-bombay-lab-to-a-1000-crore-ipo",
-   "date": "2026-09-20",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "In this episode, Professor Shashikanth (IIT Bombay) shares his journey of building SEDEMAC, a deeptech startup that has crossed Rs 1,000 crore in annual revenue, Rs 1,087 crore IPO earlier this year and the stock growing over a 100% since.",
-   "lead": "From an IIT Bombay lab to a Rs 1,000 Cr IPO In this episode, Professor Shashikanth (IIT Bombay) shares his journey of building SEDEMAC, a deeptech startup that has crossed Rs 1,000 crore in annual revenue, Rs 1,087 crore IPO earlier this year and the stock growing over a 100% since. Jerome Manuel 58 Stories Sunday September 20, 2026 , 8 min Read India’s startup ecosystem has become very good at building companies at speed. Professor ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/ThumbnailYTSEDEMACShashikanth-1789625604040.png",
-   "why": [
-    "IPO & Listing",
-    "Large deal (about $105M)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "AI & Deeptech"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 73,
-   "title": "Innov8’s FY26 Profit Zooms Multifold To ₹13.7 Cr, Revenue Crosses ₹200 Cr Mark",
-   "url": "https://inc42.com/buzz/innov8s-fy26-profit-zooms-multifold-to-%e2%82%b913-7-cr-revenue-crosses-%e2%82%b9200-cr-mark/",
-   "date": "2026-09-19",
    "source": "Inc42",
-   "label": "India · AI & Deeptech",
-   "snippet": "Innov8 Workspaces sharply improved its profitability in FY26 while rapidly expanding the network of centres it operates across the country",
-   "lead": "Innov8's net profit surged nearly 11.8X to ₹13.8 Cr in FY26 from ₹1.2 Cr in FY25, as per its annual report Innov8 Workspaces sharply improved its profitability in the fiscal year FY26 while rapidly expanding the network of centres it operates across the country Meanwhile, operating revenue rose 76% to ₹201.3 Cr from ₹114.5 Cr, while EBITDA net of lease increased 64.6% to ₹49.4 Cr from ₹30 Cr",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/soc-21-2.jpg",
+   "label": "India · Other",
+   "snippet": "ADIA held held 16.98 Cr shares or 9.77% stake in Lenskart as of June 30, 2026, implying today’s deal represents a 20% reduction in its stake.",
+   "lead": "Abu Dhabi Investment Authority (ADIA) offloaded 3.5 Cr shares of Lenskart in a bulk deal at ₹683.02 apiece, minting ₹2,390.6 Cr Lenskart’s shares have rallied significantly. When ADIA earlier sold 4 Cr shares in June, the trade price was ₹490 apiece, 40% lower than today’s closing price ADIA held held 16.98 Cr shares or 9.77% stake in Lenskart as of June 30, 2026, implying today’s deal represents a 20% reduction in its stake",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/lenskart-social-1-1-1.jpg",
    "why": [
-    "Financials",
-    "Startup File written (what they do, how they make money)",
+    "Funding",
+    "Large deal (about $252M)"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 73,
+   "title": "IPO-Bound Moneyview’s Q1 Profit Jumps 2.6X YoY To ₹173.8 Cr",
+   "url": "https://inc42.com/buzz/ipo-bound-moneyviews-q1-profit-jumps-2-6x-yoy-to-%e2%82%b9173-8-cr/",
+   "date": "2026-09-21",
+   "source": "Inc42",
+   "label": "India · Fintech",
+   "snippet": "Moneyview reported a 158.8% jump in its consolidated profit to ₹173.8 Cr in Q1 FY27 from ₹67.2 Cr in the year-ago quarter",
+   "lead": "Moneyview’s consolidated profit jumped 158.8% YoY to ₹173.8 Cr in Q1 FY27, while its operating revenue rose 50.2% to ₹1,041.1 Cr. Fee and commission income grew faster than interest income, while overall expenses rose at a slower pace than revenue. Moneyview’s loan disbursals rose 40.3% YoY to ₹7,152 Cr during the quarter, while its managed AUM increased 27.2% to ₹22,520 Cr.",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/soc_moneyview.jpg",
+   "why": [
+    "IPO & Listing",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Financials",
-    "AI & Deeptech"
+    "IPO & Listing",
+    "Fintech"
    ],
-   "rank": 14,
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 71,
+   "title": "India-New Zealand FTA to Enter into Force from 20 October 2026",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313143",
+   "date": "2026-09-21",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "In a defining step forward for trade and economic partnership, the India–New Zealand Free Trade Agre",
+   "lead": "In a defining step forward for trade and economic partnership, the India–New Zealand Free Trade Agreement, is going to enter into force on 20 th October 2026. The FTA was signed on 27th April 2026 at Bharat Mandapam, New Delhi, by Union Minister of Commerce and Industry Shri Piyush Goyal and New Zealand’s Minister for Trade and Investment Hon. Todd McClay. Today, the Union Minister of Commerce and Industry Shri Piyush Goyal and New ...",
+   "image": null,
+   "why": [
+    "Trade agreement",
+    "Commerce"
+   ],
+   "tags": [
+    "Tax, Duties & Trade"
+   ],
+   "rank": 17,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 8,
+   "priority": 57,
+   "title": "Detailed Result: OMO Sale Auction held on Sep 21, 2026 and Settlement on Sep 22, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63635",
+   "date": "2026-09-21",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator: RBI",
+    "Large outlay (Rs 10,000 Cr or more)"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 18,
    "must_read": false
   },
   {
@@ -758,52 +863,28 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 15,
+   "rank": 19,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 5,
    "priority": 56,
-   "title": "Canada invites 250 senior managers to apply for permanent residence",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVldLbk1VbURsREUxQ0lXRXNWLUVLb3lsRUZLYVUyTUh1bDVobWJMb2YwS3ZqcGdOR0N4VnNxTlRBSjE2WDViRDlZY0hBMmE2TUFWY0ZxY1VYQW1xWHRiMFhrOTNYeFgwZ1FPVUhqM2JZVVNDWFROQ1NwRkg2azN1SV8tZU9tdUN0azBnSmNMb0Vick5PeTJxVXB1WmhPMHRFQUJtdFhDZW5VbmZlWTJMNWJn0gG3AUFVX3lxTFA2RTFGLXZVNU5BbGttWmFOcU1taHlQNHhhU1l0NDVZcm5ZSTZPZDZXY2tnOWpSOW1GUnFuU1N2VkJvaUd2Zlc4T2Q5b182cnFsS0pGcHp4STdmRjM1bkU1bUNxMmU5cG0xLThJLUlrMkJOMlhHU1ZTSW5aXzFrSHZmcmpWcm1pNmI0X1liNXpFS19vV1M0SHZwOWFsbjJDVnFZNlY2MHlTaDJBN3JzekhZbUQ0WF9uUQ?oc=5",
-   "date": "2026-09-16",
-   "source": "CIC News",
-   "label": "Canada",
-   "snippet": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 250 ITAs in a draw for senior managers with Canadian work experience. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) scor",
-   "lead": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 250 ITAs in a draw for senior managers with Canadian work experience. Foreign nationals in Canada who have applied for permanent residence through Express Entry may be able to obtain a Bridging Open Work Permit (BOWP).",
-   "image": "https://www.cicnews.com/wp-content/uploads/2026/09/Express-Entry-Draw-56.jpg",
+   "title": "India–New Zealand FTA Explained: Zero Duty, 5,000 Visas & No Dairy - The Economic Times Video | ET Tv",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSnlCaTlVY0lmUVJQN1JyNlJOdHMxQTFZM1dOTU94eGhwaVNWMFduQU5LdFpnZVRQZ015TFlqUlZBTHFnX2dlZ1FwMFlDMWJSTGd5Ym9NQ1locWlsWTlWckpLQ0pZOWYtZm85VHI2cUhBSlFaUmVqS1d1WGJ3QWNuV0w5WkY2WXhSMnp0U0RKdHlhM2NoclRrMWh5MVdZV3pTWkhaZGE4QTNzSmdUUjkyYi1fXzNrREl3a1p1N1lMb3R1aUc5SV8ycG5VRl9aZw?oc=5",
+   "date": "2026-09-21",
+   "source": "The Economic Times",
+   "label": "New Zealand",
+   "snippet": "India and New Zealand",
+   "lead": "Choose your reason below and click on the Report button. This will alert our moderators to take action",
+   "image": "https://img.etimg.com/thumb/msid-134391743,width-1200,height-900,overlay-economictimes/news/videos/indianew-zealand-fta-explained-zero-duty-5000-visas-no-dairy.jpg",
    "why": [
-    "Affects permanent residence"
+    "Mentions India or Indians"
    ],
    "tags": [
-    "PR / Settlement",
-    "Canada"
+    "New Zealand"
    ],
-   "rank": 16,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 5,
-   "priority": 56,
-   "title": "Top Sweden Democrat blames election setback on refusal to block new immigrant voters",
-   "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOd25iOG9OMkE2Q1gzNFN2VkMzX1ktNnBMSGhmT3FvU3VFX3NqZUNFRDNrUlVLY19IX2FEOWExYmpMMllHWVdpOThfNVk2QjFGQ09PaFpycTRLNmJYdVQ3QTVxZGlGUlhUZVdRRkVickhNNzJ5WEgzNzRVUWN1MXlZNGo3RWZSTVhkM3IwTVYwTjk0dDEyVFJLdHVJNkdFM19Lang0TEpfSWl1UEtISDE0UWVScTJ6c0M0N214a1FqTFpUOG5QeGhQNXByTFpqY1JTd2Zqckw0aGpPRGpNX1ZwYzY5eFZIRnZtdkJicW5KSFdma282RmJsQ1pCdUQ3c0hZQmFLR3NiWGtjN24tVnlyclZ2dWVaVThxUWhUb3NjSGpsTjV3azFQVFp0d1hOOHFKbzE1Q3hLV041eklyaUxzU2NMaFplQ0Zud3YwdW96TjhHOHU3X2tMdWUwUEZxVndHYlRtazluOWR5X3h6NUw1Mzd5UnJyTTVSWW9vcW9pRGdtTHpkTGx2X0YtTVhSRXZ6cnp6LTRRSTZ3d0N5OUFPWHc0Q3FGVG9HOC1wTm4waHVjYXVKLU5XbQ?oc=5",
-   "date": "2026-09-14",
-   "source": "The Local Sweden",
-   "label": "Sweden",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Political signal on immigration",
-    "Major story (9 headlines that day)"
-   ],
-   "tags": [
-    "Politics / Election",
-    "Sweden"
-   ],
-   "rank": 17,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -825,7 +906,7 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 18,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -847,71 +928,6 @@
    "tags": [
     "Markets & Regulation"
    ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 4,
-   "priority": 44,
-   "title": "They paid thousands and moved to NZ. Their student visa applications hadn’t been lodged",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd2puUDRwRkxVR3NQVVhMR0tsczZYTFM1dUNrdFV2Q0NOR2xlZ3pqZk9TRjRKb1U1SkwwS3RDcHpKX1Y2UTFPWm9iWDJwa3FBTjhhRVlncVBGMjhUT2V1NlFpeFdVRDBaay1peUhUVW50T3FialJqczM2NXE3NWRYS1RwcFY0c0RGOVpibHRlWHRNZVE5UnhHR0ZrSi1vaUZjMGpVRUYzUkZyTUxHb1AwVTJJZFMyMlRtYjZiUUdhYlRlZw?oc=5",
-   "date": "2026-09-21",
-   "source": "Stuff",
-   "label": "New Zealand",
-   "snippet": "Four families paid tens of thousands of dollars for study and immigration packages before arriving in New Zealand and discovering many of their student visa applications had not been lodged.",
-   "lead": "",
-   "image": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DZ3Ef+IdbOiYlvIROR5vlqUeRrexTocZGobKRJ9od%2Fgnk3B%2FCeKTmTAsIjj6Q0YaYbVh8XBoSI4c5IgklaljT731r4AsJTB9KrwWM6fG5DWt8UfMoZMqImrtOw5C45vmYpDKuSqx3LzWVfTtDI%2FJbIkMDCj29WNe9UdILClNAJFT8AdJsNKQUQ+FQu2xxm7ffQ==",
-   "why": [
-    "High on the desk's ranking"
-   ],
-   "tags": [
-    "Student / Graduate",
-    "New Zealand"
-   ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 5,
-   "priority": 36,
-   "title": "Biometric Aadhaar Authentication Mandatory for Subsidised Domestic LPG Refills from 1 October 2026",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2312532",
-   "date": "2026-09-19",
-   "source": "PIB",
-   "label": "Energy & Power",
-   "snippet": "From 1 October 2026, domestic LPG consumers will need to have completed Biometric Aadhaar Authentica",
-   "lead": "From 1 October 2026, domestic LPG consumers will need to have completed Biometric Aadhaar Authentication (BAA) to book refills at the regulated Retail Selling Price (RSP) with applicable subsidy. BAA ensures that subsidised LPG reaches only genuine and deserving households. Linking each connection to the Aadhaar-authenticated consumer helps prevent diversion of subsidised domestic cylinders for commercial and industrial use, removes ...",
-   "image": null,
-   "why": [
-    "Subsidy or incentive"
-   ],
-   "tags": [
-    "Energy & Power"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 5,
-   "priority": 36,
-   "title": "LAUNCHING OF NEGOTIATIONS FOR THE EXPANSION OF THE INDIA-MERCOSUR PREFERENTIAL TRADE AGREEMENT",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2310166",
-   "date": "2026-09-14",
-   "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "Union Minister of Commerce and Industry of India, Piyush Goyal and the Minister of Foreign Affairs o",
-   "lead": "Union Minister of Commerce and Industry of India, Piyush Goyal and the Minister of Foreign Affairs of the Oriental Republic of Uruguay, Mario Lubetkin, in the exercise of the Pro Tempore Presidency of MERCOSUR announced the launch of negotiations for the expansion of the Preferential Trade Agreement between the Republic of India and MERCOSUR. Both sides agreed to expand the current Agreement to cover areas of mutual interest, with a ...",
-   "image": null,
-   "why": [
-    "Trade agreement",
-    "Commerce"
-   ],
-   "tags": [
-    "Tax, Duties & Trade"
-   ],
    "rank": 22,
    "must_read": false
   },
@@ -919,20 +935,19 @@
    "desk": "Policy",
    "score": 5,
    "priority": 36,
-   "title": "India and MERCOSUR Sign First Additional Protocol to Facilitate Electronic Certificates of Origin",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2310083",
-   "date": "2026-09-14",
+   "title": "NHAI Introduces New Guidelines for Design and Development of Access-Controlled High-Speed National Highways",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313032",
+   "date": "2026-09-21",
    "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "India and MERCOSUR signed the First Additional Protocol to the India–MERCOSUR Preferential Trade Agr",
-   "lead": "India and MERCOSUR signed the First Additional Protocol to the India–MERCOSUR Preferential Trade Agreement (PTA) to facilitate acceptance of electronic Certificates of Origin, marking an important step towards facilitating paperless trade and modernising customs procedures between India and the MERCOSUR countries. The Protocol was signed by Commerce Secretary, Government of India, Shri Rajesh Agarwal and Ambassador of Uruguay to India ...",
+   "label": "Infrastructure & Transport",
+   "snippet": "In line with the Government of India’s vision of Viksit Bharat 2047 and long-term objective of devel",
+   "lead": "In line with the Government of India’s vision of Viksit Bharat 2047 and long-term objective of developing a world-class National Highway network, NHAI has released comprehensive guidelines for the planning and designing of High-Speed Access controlled National Highways, other than Expressways. The guidelines seek to bring uniformity in standards for preparation of Detailed Project Reports (DPRs) of high-speed National Highway corridors ...",
    "image": null,
    "why": [
-    "Trade agreement",
-    "Commerce"
+    "Rule change"
    ],
    "tags": [
-    "Tax, Duties & Trade"
+    "Infrastructure & Transport"
    ],
    "rank": 23,
    "must_read": false
