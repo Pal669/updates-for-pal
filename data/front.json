@@ -1,6 +1,6 @@
 {
- "edition": "2026-09-21",
- "built": "2026-09-21 22:09 IST",
+ "edition": "2026-09-22",
+ "built": "2026-09-22 02:05 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,80 +12,80 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23414.0,
-   "change_pct": 0.29,
+   "value": 23346.0,
+   "change_pct": 0.33,
    "asof": "21 Sep 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74859.0,
-   "change_pct": 0.76,
+   "value": 74295.0,
+   "change_pct": -0.03,
    "asof": "21 Sep 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
    "value": 95.81,
-   "change_pct": 0.01,
-   "asof": "21 Sep 20:56 IST"
+   "change_pct": -0.22,
+   "asof": "22 Sep 01:18 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 95.52,
-   "change_pct": -8.04,
-   "asof": "21 Sep 21:59 IST"
+   "value": 95.87,
+   "change_pct": -7.7,
+   "asof": "22 Sep 01:54 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4390.0,
-   "change_pct": -0.8,
-   "asof": "21 Sep 21:59 IST"
+   "value": 4379.0,
+   "change_pct": -1.04,
+   "asof": "22 Sep 01:55 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
    "value": 4.96,
-   "change_pct": -0.82,
-   "asof": "21 Sep 21:54 IST"
+   "change_pct": -0.7,
+   "asof": "22 Sep 00:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "Kissht",
-   "tagline": "Listed digital lender (NBFC)",
-   "what": "Lending-tech platform founded in 2015 by Ranvir Singh and Krishnan Vishwanathan. Offers digital personal and business loans up to Rs 5 lakh, health-related insurance products and secured loans against property. Got regulatory approval in July 2026 to distribute mutual funds through subsidiary Invincible Minds.",
+   "company": "Kuku Technologies (Kuku FM)",
+   "tagline": "Audio and microdrama OTT, IPO cleared by SEBI",
+   "what": "Founded in 2018 by Lal Chand Bisu, Vikas Goyal and Vinod Meena. Offers audiobooks, podcasts and original audio shows under Kuku FM, plus microdrama platform Kuku TV and microlearning platform Guru. Content library of 20,000+ titles in seven languages; it claims 1 Cr+ listeners and creators and 400 Mn app downloads across its portfolio.",
    "how": [
-    "The article does not give a revenue split.",
-    "Inferred, not from the article: as an NBFC, its core income is interest and fees on the loans it makes; insurance and mutual fund distribution would add commissions."
+    "The article does not explain the revenue model.",
+    "Not stated: whether income comes from subscriptions, pay-per-content or ads. Check the DRHP when it becomes public."
    ],
-   "watch": "The company did not say how it will use the money. Fresh capital for a lender usually funds loan growth, but that is inference.",
-   "sector": "Fintech",
+   "watch": "Fresh-issue money is planned for tech, AI infrastructure, content production and geographic expansion. Competitors named: Pocket FM, Flick TV, ReelSaga, Miniplix and OTT majors (Amazon, JioHotstar, Zee5).",
+   "sector": "Media, Gaming & Creators",
    "region": "India",
-   "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/"
+   "url": "https://inc42.com/buzz/sebi-greenlights-kuku-technologies-%e2%82%b93500-cr-ipo/"
   },
   "country": {
-   "id": "uk",
-   "name": "United Kingdom",
-   "trend": "Tightening",
-   "pr": "Indefinite leave to remain (ILR) is still 5 years for Skilled Workers today (B1 English, Life in the UK test, fee GBP 3,226). The government proposes an 'earned settlement' model with a 10-year baseline, reducible or extendable by contribution, integration and compliance. It is NOT yet in force; the government said it would legislate around autumn 2026. Consultation closed 12 February 2026.",
-   "citizenship": "Citizenship usually follows ILR by about a year (general knowledge). If the 10-year baseline arrives, the total clock could roughly double. The UK allows dual citizenship.",
-   "pro": "English-speaking, no language exam beyond visa English.",
-   "con": "Real chance the settlement clock moves from 5 to 10 years, and the government signalled it may apply to people already in the UK who are not yet settled.",
-   "watch": "Autumn 2026 legislation on earned settlement"
+   "id": "canada",
+   "name": "Canada",
+   "trend": "Tightening on temporary; PR volumes steady",
+   "pr": "PR is granted on arrival through Express Entry or a provincial nomination (general knowledge). Levels plan 2026-2028: 380,000 new permanent residents a year; economic share rising to 64% in 2027-2028. A one-time measure fast-tracks PR for up to 33,000 temporary workers in 2026-2027.",
+   "citizenship": "About 3 years of physical presence within 5 years (general knowledge, not re-verified). Dual citizenship allowed.",
+   "pro": "Only country on this list where you can apply for PR from outside without an employer.",
+   "con": "New temporary arrivals cut to 385,000 in 2026 (study permits about 49% lower, worker permits about 37% lower); goal is temporary residents under 5% of population by end-2027.",
+   "watch": "Express Entry draw scores and categories"
   }
  },
  "desks": {
   "Policy": {
    "total": 53,
-   "new_today": 8,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
-     "score": 5,
-     "priority": 36,
+     "score": 4,
+     "priority": 29,
      "title": "NSC Approves ₹320 Crore under PM-SETU for Kurukshetra ITI Cluster in Haryana; Jindal Naveen Avsar Limited to Partner in Transformation of Seven ITIs",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2312980",
      "date": "2026-09-21",
@@ -103,8 +103,8 @@
     },
     {
      "desk": "Policy",
-     "score": 5,
-     "priority": 36,
+     "score": 4,
+     "priority": 29,
      "title": "Reserve Bank of India (Commercial Banks - Minimum Capital Requirements for Market Risk) Directions, 2026",
      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13705&Mode=0",
      "date": "2026-09-21",
@@ -122,8 +122,8 @@
     },
     {
      "desk": "Policy",
-     "score": 5,
-     "priority": 36,
+     "score": 4,
+     "priority": 29,
      "title": "Data on Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",
      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63638",
      "date": "2026-09-21",
@@ -141,8 +141,8 @@
     },
     {
      "desk": "Policy",
-     "score": 5,
-     "priority": 36,
+     "score": 4,
+     "priority": 29,
      "title": "Biometric Aadhaar Authentication Mandatory for Subsidised Domestic LPG Refills from 1 October 2026",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2312532",
      "date": "2026-09-19",
@@ -161,13 +161,76 @@
    ]
   },
   "Startups": {
-   "total": 88,
-   "new_today": 24,
+   "total": 90,
+   "new_today": 0,
    "items": [
     {
      "desk": "Startups",
      "score": 11,
      "priority": 73,
+     "title": "Aakash Trims FY26 Loss By 16% To ₹186.5 Cr, Top Line Flat At ₹2,040 Cr",
+     "url": "https://inc42.com/buzz/aakash-trims-fy26-loss-by-16-to-%e2%82%b9186-5-cr-top-line-flat-at-%e2%82%b92040-cr/",
+     "date": "2026-09-17",
+     "source": "Inc42",
+     "label": "India · Edtech & Skills",
+     "snippet": "Aakash Educational Services Ltd managed to narrow its net loss for FY26 by 15.5% to ₹186.5 Cr from ₹220.8 Cr loss incurred in FY25",
+     "lead": "Aakash Educational Services Ltd managed to narrow its net loss for the financial year FY26 by 15.5% to ₹186.5 Cr from ₹220.8 Cr loss incurred in the previous fiscal Aakash is one of India's largest test-prep brands for engineering and medical entrance exams and has been operating under the ownership of BYJU’S parent Think & Learn Operating revenue rose marginally by 0.4% to ₹2,040.5 Cr in FY26 from ₹2,032.1 Cr in the previous year",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/aakash-layoffs-social-.jpeg",
+     "why": [
+      "Financials",
+      "Large deal (about $215M)",
+      "Startup File written (what they do, how they make money)"
+     ],
+     "tags": [
+      "Financials",
+      "Edtech & Skills"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 67,
+     "title": "ADIA Sells Lenskart Shares Worth ₹2,390.6 Cr",
+     "url": "https://inc42.com/buzz/adia-sells-lenskart-shares-worth-%e2%82%b92390-6-cr/",
+     "date": "2026-09-21",
+     "source": "Inc42",
+     "label": "India · Other",
+     "snippet": "ADIA held held 16.98 Cr shares or 9.77% stake in Lenskart as of June 30, 2026, implying today’s deal represents a 20% reduction in its stake.",
+     "lead": "Abu Dhabi Investment Authority (ADIA) offloaded 3.5 Cr shares of Lenskart in a bulk deal at ₹683.02 apiece, minting ₹2,390.6 Cr Lenskart’s shares have rallied significantly. When ADIA earlier sold 4 Cr shares in June, the trade price was ₹490 apiece, 40% lower than today’s closing price ADIA held held 16.98 Cr shares or 9.77% stake in Lenskart as of June 30, 2026, implying today’s deal represents a 20% reduction in its stake",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/lenskart-social-1-1-1.jpg",
+     "why": [
+      "Funding",
+      "Large deal (about $252M)"
+     ],
+     "tags": [
+      "Funding"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 67,
+     "title": "IPO-Bound Moneyview’s Q1 Profit Jumps 2.6X YoY To ₹173.8 Cr",
+     "url": "https://inc42.com/buzz/ipo-bound-moneyviews-q1-profit-jumps-2-6x-yoy-to-%e2%82%b9173-8-cr/",
+     "date": "2026-09-21",
+     "source": "Inc42",
+     "label": "India · Fintech",
+     "snippet": "Moneyview reported a 158.8% jump in its consolidated profit to ₹173.8 Cr in Q1 FY27 from ₹67.2 Cr in the year-ago quarter",
+     "lead": "Moneyview’s consolidated profit jumped 158.8% YoY to ₹173.8 Cr in Q1 FY27, while its operating revenue rose 50.2% to ₹1,041.1 Cr. Fee and commission income grew faster than interest income, while overall expenses rose at a slower pace than revenue. Moneyview’s loan disbursals rose 40.3% YoY to ₹7,152 Cr during the quarter, while its managed AUM increased 27.2% to ₹22,520 Cr.",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/soc_moneyview.jpg",
+     "why": [
+      "IPO & Listing",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "IPO & Listing",
+      "Fintech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 67,
      "title": "Snapdeal parent AceVector files red herring prospectus; cuts IPO size",
      "url": "https://economictimes.indiatimes.com/tech/technology/snapdeal-parent-acevector-files-red-herring-prospectus-cuts-ipo-size/articleshow/134393243.cms",
      "date": "2026-09-21",
@@ -184,81 +247,36 @@
       "IPO & Listing",
       "Fintech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 73,
-     "title": "Weekly VC funding falls below $100M again; How Ottonomy is building robots for real-world logistics",
-     "url": "https://yourstory.com/2026/09/weekly-vc-funding-falls-ottonomy-is-building-robots-for-logistics",
-     "date": "2026-09-21",
-     "source": "YourStory",
-     "label": "India · AI & Deeptech",
-     "snippet": "This is the seventh time in the year that VC funding on a weekly basis has fallen below $100 million, revealing the challenges the Indian startup ecosystem faces in raising large amounts of capital.",
-     "lead": "Weekly VC funding falls below $100M again; How Ottonomy is building robots for real-world logistics This is the seventh time in the year that VC funding on a weekly basis has fallen below $100 million, revealing the challenges the Indian startup ecosystem faces in raising large amounts of capital. Team YS 17206 Stories Monday September 21, 2026 , 4 min Read It’s a wrap for SEMICON India 2026, which drew investment commitments of around ...",
-     "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/CopyofNewPPTTemplates54-1787491817747.jpg",
-     "why": [
-      "Funding",
-      "Large deal (about $100M)"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 73,
-     "title": "From an IIT Bombay lab to a Rs 1,000 Cr IPO",
-     "url": "https://yourstory.com/2026/09/from-an-iit-bombay-lab-to-a-1000-crore-ipo",
-     "date": "2026-09-20",
-     "source": "YourStory",
-     "label": "India · AI & Deeptech",
-     "snippet": "In this episode, Professor Shashikanth (IIT Bombay) shares his journey of building SEDEMAC, a deeptech startup that has crossed Rs 1,000 crore in annual revenue, Rs 1,087 crore IPO earlier this year and the stock growing over a 100% since.",
-     "lead": "From an IIT Bombay lab to a Rs 1,000 Cr IPO In this episode, Professor Shashikanth (IIT Bombay) shares his journey of building SEDEMAC, a deeptech startup that has crossed Rs 1,000 crore in annual revenue, Rs 1,087 crore IPO earlier this year and the stock growing over a 100% since. Jerome Manuel 58 Stories Sunday September 20, 2026 , 8 min Read India’s startup ecosystem has become very good at building companies at speed. Professor ...",
-     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/ThumbnailYTSEDEMACShashikanth-1789625604040.png",
-     "why": [
-      "IPO & Listing",
-      "Large deal (about $105M)"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 73,
-     "title": "Innov8’s FY26 Profit Zooms Multifold To ₹13.7 Cr, Revenue Crosses ₹200 Cr Mark",
-     "url": "https://inc42.com/buzz/innov8s-fy26-profit-zooms-multifold-to-%e2%82%b913-7-cr-revenue-crosses-%e2%82%b9200-cr-mark/",
-     "date": "2026-09-19",
-     "source": "Inc42",
-     "label": "India · AI & Deeptech",
-     "snippet": "Innov8 Workspaces sharply improved its profitability in FY26 while rapidly expanding the network of centres it operates across the country",
-     "lead": "Innov8's net profit surged nearly 11.8X to ₹13.8 Cr in FY26 from ₹1.2 Cr in FY25, as per its annual report Innov8 Workspaces sharply improved its profitability in the fiscal year FY26 while rapidly expanding the network of centres it operates across the country Meanwhile, operating revenue rose 76% to ₹201.3 Cr from ₹114.5 Cr, while EBITDA net of lease increased 64.6% to ₹49.4 Cr from ₹30 Cr",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/soc-21-2.jpg",
-     "why": [
-      "Financials",
-      "Startup File written (what they do, how they make money)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Financials",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 334,
-   "new_today": 9,
+   "total": 340,
+   "new_today": 2,
    "items": [
     {
      "desk": "Immigration",
-     "score": 5,
-     "priority": 56,
+     "score": 4,
+     "priority": 44,
+     "title": "India–New Zealand FTA Explained: Zero Duty, 5,000 Visas & No Dairy - The Economic Times Video | ET Tv",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSnlCaTlVY0lmUVJQN1JyNlJOdHMxQTFZM1dOTU94eGhwaVNWMFduQU5LdFpnZVRQZ015TFlqUlZBTHFnX2dlZ1FwMFlDMWJSTGd5Ym9NQ1locWlsWTlWckpLQ0pZOWYtZm85VHI2cUhBSlFaUmVqS1d1WGJ3QWNuV0w5WkY2WXhSMnp0U0RKdHlhM2NoclRrMWh5MVdZV3pTWkhaZGE4QTNzSmdUUjkyYi1fXzNrREl3a1p1N1lMb3R1aUc5SV8ycG5VRl9aZw?oc=5",
+     "date": "2026-09-21",
+     "source": "The Economic Times",
+     "label": "New Zealand",
+     "snippet": "India and New Zealand",
+     "lead": "Choose your reason below and click on the Report button. This will alert our moderators to take action",
+     "image": "https://img.etimg.com/thumb/msid-134391743,width-1200,height-900,overlay-economictimes/news/videos/indianew-zealand-fta-explained-zero-duty-5000-visas-no-dairy.jpg",
+     "why": [
+      "Mentions India or Indians"
+     ],
+     "tags": [
+      "New Zealand"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 4,
+     "priority": 44,
      "title": "Japan raises the bar on residency. Cue the outrage.",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTl9PdG1hTXdNalZ5dVR4MWtCeXVwU2NqZ2J4eVZ4UEhONUtsOVNLcjFOd0JsQjZ3N2tELU9ILWZUS3pIS0wwc0Nfblc1M0hULWxoQmVsTkc5U0t2YUJTQWxHNElLMW5TR3E2cENQbThDWTNSU00zczUzWmEzQzVRZ1gzVFRUWFRCUFFsRw?oc=5",
      "date": "2026-09-21",
@@ -276,75 +294,34 @@
     },
     {
      "desk": "Immigration",
-     "score": 5,
-     "priority": 56,
-     "title": "Canada invites 250 senior managers to apply for permanent residence",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVldLbk1VbURsREUxQ0lXRXNWLUVLb3lsRUZLYVUyTUh1bDVobWJMb2YwS3ZqcGdOR0N4VnNxTlRBSjE2WDViRDlZY0hBMmE2TUFWY0ZxY1VYQW1xWHRiMFhrOTNYeFgwZ1FPVUhqM2JZVVNDWFROQ1NwRkg2azN1SV8tZU9tdUN0azBnSmNMb0Vick5PeTJxVXB1WmhPMHRFQUJtdFhDZW5VbmZlWTJMNWJn0gG3AUFVX3lxTFA2RTFGLXZVNU5BbGttWmFOcU1taHlQNHhhU1l0NDVZcm5ZSTZPZDZXY2tnOWpSOW1GUnFuU1N2VkJvaUd2Zlc4T2Q5b182cnFsS0pGcHp4STdmRjM1bkU1bUNxMmU5cG0xLThJLUlrMkJOMlhHU1ZTSW5aXzFrSHZmcmpWcm1pNmI0X1liNXpFS19vV1M0SHZwOWFsbjJDVnFZNlY2MHlTaDJBN3JzekhZbUQ0WF9uUQ?oc=5",
-     "date": "2026-09-16",
-     "source": "CIC News",
-     "label": "Canada",
-     "snippet": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 250 ITAs in a draw for senior managers with Canadian work experience. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) scor",
-     "lead": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 250 ITAs in a draw for senior managers with Canadian work experience. Foreign nationals in Canada who have applied for permanent residence through Express Entry may be able to obtain a Bridging Open Work Permit (BOWP).",
-     "image": "https://www.cicnews.com/wp-content/uploads/2026/09/Express-Entry-Draw-56.jpg",
-     "why": [
-      "Affects permanent residence"
-     ],
-     "tags": [
-      "PR / Settlement",
-      "Canada"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 56,
-     "title": "Top Sweden Democrat blames election setback on refusal to block new immigrant voters",
-     "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOd25iOG9OMkE2Q1gzNFN2VkMzX1ktNnBMSGhmT3FvU3VFX3NqZUNFRDNrUlVLY19IX2FEOWExYmpMMllHWVdpOThfNVk2QjFGQ09PaFpycTRLNmJYdVQ3QTVxZGlGUlhUZVdRRkVickhNNzJ5WEgzNzRVUWN1MXlZNGo3RWZSTVhkM3IwTVYwTjk0dDEyVFJLdHVJNkdFM19Lang0TEpfSWl1UEtISDE0UWVScTJ6c0M0N214a1FqTFpUOG5QeGhQNXByTFpqY1JTd2Zqckw0aGpPRGpNX1ZwYzY5eFZIRnZtdkJicW5KSFdma282RmJsQ1pCdUQ3c0hZQmFLR3NiWGtjN24tVnlyclZ2dWVaVThxUWhUb3NjSGpsTjV3azFQVFp0d1hOOHFKbzE1Q3hLV041eklyaUxzU2NMaFplQ0Zud3YwdW96TjhHOHU3X2tMdWUwUEZxVndHYlRtazluOWR5X3h6NUw1Mzd5UnJyTTVSWW9vcW9pRGdtTHpkTGx2X0YtTVhSRXZ6cnp6LTRRSTZ3d0N5OUFPWHc0Q3FGVG9HOC1wTm4waHVjYXVKLU5XbQ?oc=5",
-     "date": "2026-09-14",
-     "source": "The Local Sweden",
-     "label": "Sweden",
-     "snippet": "",
-     "lead": "",
-     "image": null,
-     "why": [
-      "Political signal on immigration",
-      "Major story (9 headlines that day)"
-     ],
-     "tags": [
-      "Politics / Election",
-      "Sweden"
-     ]
-    },
-    {
-     "desk": "Immigration",
      "score": 4,
      "priority": 44,
-     "title": "Anna Blinkova Switches to French Citizenship: WTA Top 100 Gains a New French Player",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdkY5UUpXa0doeWJ2YWpoSlptcnp4TWV6MHl1ckVUWC11QzhMVDVfYjN2RXp2TkVKbl9QTExBZmRRQnI0aVhuZHNuRm05aVd1eHNLTEFJV19fb1Q2SjJ6bVFENUdOUTNOLWNEUllTcG9KOXQwU0h4SEN0U1JQQklRWHQzMnh6XzRoYU9MbEdadw?oc=5",
-     "date": "2026-09-17",
-     "source": "TennisTemple",
-     "label": "France",
-     "snippet": "French tennis has a new face on the WTA Tour. At 28, Anna Blinkova has chosen to continue her career under the French flag, after representing Russia throughout her career.",
-     "lead": "French tennis has a new face on the WTA Tour. At 28, Anna Blinkova has chosen to continue her career under the French flag, after representing Russia throughout her career. To everyone's surprise, the French contingent has just grown with the arrival of Anna Blinkova, who was recently naturalized. According to information reported by RMC Sport this Thursday, the Moscow-born 28-year-old has changed nationality after representing Russia ...",
-     "image": "https://cdn1.tennistemple.com/4/260/1789663518351.webp",
+     "title": "Could you benefit from Switzerland’s 'employer-sponsored' immigration?",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVEQ1LVFCYm5yZlRZejdFbDhsc1BlblhBNllKSHY2WERnMlh4aXZUOGJIQmdhR0lEbGtpXzF2S3hPTDN2eWZQbFUzTGxRdzE5OVhFX2FTUDRWdkM1SzBOZlBUeE5ab2pOWjhmY1JMU0V4VEJlZlJrTVA5SUprZFpfOGVBMHN0a0Uxa3hwallFVlQyT1pHb3hvN01sRGhic0hO?oc=5",
+     "date": "2026-09-16",
+     "source": "The Local Switzerland",
+     "label": "Switzerland",
+     "snippet": "The term \"employer sponsored\" immigration has appeared on some websites in Switzerland advising foreigners about ways to get a Swiss work permit. But is it a new way to get into Switzerland?",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source The term \"employer sponsored\" immigration has appeared on some websites in Switzerland advising foreigners about ways to get a Swiss work permit. But is it a new way to get into Switzerland? Though it sounds as if ...",
+     "image": null,
      "why": [
-      "Affects citizenship"
+      "Affects work visas"
      ],
      "tags": [
-      "Citizenship",
-      "France"
+      "Work visa",
+      "Switzerland"
      ]
     }
    ]
   },
   "Advisory": {
    "total": 1401,
-   "new_today": 307,
+   "new_today": 0,
    "items": [
     {
      "desk": "Advisory",
-     "score": 10,
-     "priority": 83,
+     "score": 9,
+     "priority": 82,
      "title": "US Fed, Bank of Japan and others impact on Indian stock markets: Global rate hike cycle begins - Sensex, Nifty outlook",
      "url": "https://www.livemint.com/market/stock-market-news/us-fed-bank-of-japan-and-others-impact-on-indian-stock-markets-global-rate-hike-cycle-begins-sensex-nifty-outlook-11789995507694.html",
      "date": "2026-09-21",
@@ -365,8 +342,8 @@
     },
     {
      "desk": "Advisory",
-     "score": 10,
-     "priority": 83,
+     "score": 9,
+     "priority": 82,
      "title": "AIF commitments rise 24% to ₹17.53 trillion as of June 2026: Sebi data",
      "url": "https://www.business-standard.com/markets/news/aif-commitments-rise-24-to-17-53-trillion-as-of-june-2026-sebi-data-126092100990_1.html",
      "date": "2026-09-21",
@@ -385,8 +362,8 @@
     },
     {
      "desk": "Advisory",
-     "score": 10,
-     "priority": 83,
+     "score": 9,
+     "priority": 82,
      "title": "Gold eases on inflation woes, rate hike fears",
      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNako1eEg1bC1UaWRBZzdudnFYbThUQ1JtRHBXZDUwZnU4NzhsVzlDSkxPcnY0QWt6Zlc2b0hQTFJWZGhIM2d5RWt5SDMyR2o3ODMyNlZSN3NfS0NjTzZqdllQeDFPT0h0NFdmS1EzOE0ybXNXanRtdHIwcmVnTmxwRl9FeF9fc1BLRFhzbTZTZF96eHFicjl6QmQtcGFKM2pFeXfSAacBQVVfeXFMT0dUYnBTaVo2TTgxeHJ5SEpiVmtDZm00NE16MlkyZ1Y0UDRYRUo0aDF5N2dMQWc4emFEQXFmMDlnMTFmLXpQT0Y4RTdsSUlVa0d5MWQ5UXhSMnQ4MFFfOEplMktUSElYZGNjT0hfYk9qR3dqNUFTYjk2bjVrWFNhczBDRWVFMThIMFNHaUtnamwtMUFWQUo5VTFKM2dOYmx6TmRRVjVVYk0?oc=5",
      "date": "2026-09-21",
@@ -406,8 +383,8 @@
     },
     {
      "desk": "Advisory",
-     "score": 10,
-     "priority": 83,
+     "score": 9,
+     "priority": 82,
      "title": "US Fed rate hike: where are risks and opportunities for debt mutual fund investors ?",
      "url": "https://www.livemint.com/money/personal-finance/bond-yields-india-rising-g-sec-fed-rate-hike-investor-strategy-11789923990412.html",
      "date": "2026-09-21",
@@ -430,7 +407,7 @@
  "items": [
   {
    "desk": "Advisory",
-   "score": 12,
+   "score": 11,
    "priority": 100,
    "title": "Sebi may take up PMS regulation overhaul at September 24 board meeting",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQmlNYUduZjhnQUFRMWhDMGdMS2k1ZWtxRXJndThCQS1Jby1aUzEzaWUxeHNZc2wtQlhPb2VlMHpaanZ1by1ZMUlQZWhxTmQ0UjdEUXpoUlNHX3BibGtQc2hjUmtDVFlTUHIzX1MxS2RKMUFtbVVHVXVBeHpGY0VHMFZQWC0zaVlxQklvdXBENUpSd0g3S0U2N3c4cE5yU1Bjd2R6OW9xY3dJZUpWdlhuajE5Qlk2TG1zeVl1Nkd5WjB2cTNCdzVCNmxDNGxGaGtUWk1wR3R1bloyank2aEdGXzNlNNIB4wFBVV95cUxNQmlNYUduZjhnQUFRMWhDMGdMS2k1ZWtxRXJndThCQS1Jby1aUzEzaWUxeHNZc2wtQlhPb2VlMHpaanZ1by1ZMUlQZWhxTmQ0UjdEUXpoUlNHX3BibGtQc2hjUmtDVFlTUHIzX1MxS2RKMUFtbVVHVXVBeHpGY0VHMFZQWC0zaVlxQklvdXBENUpSd0g3S0U2N3c4cE5yU1Bjd2R6OW9xY3dJZUpWdlhuajE5Qlk2TG1zeVl1Nkd5WjB2cTNCdzVCNmxDNGxGaGtUWk1wR3R1bloyank2aEdGXzNlNA?oc=5",
@@ -453,26 +430,24 @@
    "must_read": true
   },
   {
-   "desk": "Startups",
-   "score": 15,
+   "desk": "Advisory",
+   "score": 11,
    "priority": 100,
-   "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
-   "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
-   "date": "2026-09-19",
-   "source": "TechCrunch",
-   "label": "Global · Fintech",
-   "snippet": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
-   "lead": "These days, it’s rare to hear of a startup founded in 2019, or one not focused on AI agents, raising a hefty Series C. But health insurance startup Angle Health announced Friday that it raised a $200 million Series C, alongside a $400 million tender offer, at a $2.7 billion valuation. The round was led by Vitruvian Partners with participation from Town Hall Ventures, Blumberg Capital, Portage Ventures, PruVen Capital, and Y Combinator. ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
+   "title": "Reserve Bank of India (Commercial Banks – Know Your Customer) Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13699&Mode=0",
+   "date": "2026-09-18",
+   "source": "RBI",
+   "label": "Regulatory",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Reserve Bank of India (Commercial Banks – Know Your Customer) Amendment Directions, 2026 Reserve Bank has issued Reserve Bank of India (Commercial Banks – Know Your Customer) Directions, 2025 dated November 28, 2025 (hereinafter referred to as the Directions) in compliance with the provisions of the Prevention of Money Laundering Act, 2002, and the Prevention of Money Laundering (Maintenance of Records) Rules, 2005. The Directions in ...",
+   "image": null,
    "why": [
-    "Funding",
-    "Very large figure in headline (about $2,700M: round or valuation)",
-    "Startup File written (what they do, how they make money)",
-    "Valuation, listing or profitability signal"
+    "Regulator: SEBI or RBI",
+    "Official notice",
+    "Also covered by 5 other outlet(s)"
    ],
    "tags": [
-    "Funding",
-    "Fintech"
+    "Regulatory"
    ],
    "rank": 2,
    "must_read": true
@@ -527,6 +502,30 @@
    "must_read": true
   },
   {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 100,
+   "title": "Inflation Bites as Fed Raises Rates by 25 bps; RBI Seen Hiking Repo Rate to 5.75% by FY27",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwU2E2WXFLQnppQm1JVmJTZms3eXM4bXN0Mi1ZUmdtenY1Q2ZSR3JhU1FKeHNIZDM5d0JyQk9KZmJNNXVxTmJfWXdTdldLaUxGY1JSMEowZDk2Z2FKMm1ROEVRRU41ZTk2bEl1SWs3SE53QWZiWE5tZzg2bw?oc=5",
+   "date": "2026-09-17",
+   "source": "NiftyTrader",
+   "label": "Regulatory",
+   "snippet": "Inflation Bites as Fed Raises Rates by 25 bps rate hike, high crude prices and rupee weakness could increase pressure on the RBI ahead.",
+   "lead": "Inflation Bites as Fed Raises Rates by 25 bps; RBI Seen Hiking Repo Rate to 5.75% by FY27 The US Federal Reserve has raised its policy rate by 25 basis points , bringing India’s October monetary policy decision into sharper focus. With crude oil above $100 a barrel, the rupee under pressure and inflation risks rising, markets are now watching whether the RBI could begin a shallow rate-hike cycle. The Fed’s September 16 decision was its ...",
+   "image": "https://trending.niftytrader.in/wp-content/uploads/2026/09/Inflation-Bites-as-Fed-Raises-Rates-by-25-bps-RBI-Seen-Hiking-Repo-Rate-to-5.75-by-FY27.jpeg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Global macro driver",
+    "New product or fund"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 5,
+   "must_read": true
+  },
+  {
    "desk": "Policy",
    "score": 14,
    "priority": 100,
@@ -546,13 +545,61 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Startups",
    "score": 14,
    "priority": 93,
+   "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
+   "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
+   "date": "2026-09-19",
+   "source": "TechCrunch",
+   "label": "Global · Fintech",
+   "snippet": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
+   "lead": "These days, it’s rare to hear of a startup founded in 2019, or one not focused on AI agents, raising a hefty Series C. But health insurance startup Angle Health announced Friday that it raised a $200 million Series C, alongside a $400 million tender offer, at a $2.7 billion valuation. The round was led by Vitruvian Partners with participation from Town Hall Ventures, Blumberg Capital, Portage Ventures, PruVen Capital, and Y Combinator. ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $2,700M: round or valuation)",
+    "Startup File written (what they do, how they make money)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "Fintech"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 91,
+   "title": "India bonds calm as oil dip counters US selloff, RBI sales",
+   "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-calm-as-oil-dip-counters-us-selloff-rbi-sales/articleshow/134381830.cms",
+   "date": "2026-09-21",
+   "source": "Economic Times",
+   "label": "Debt & Bonds",
+   "snippet": "Indian government bonds held their ground on Monday, buoyed by a decline in oil prices that helped mitigate domestic supply issues arising from the RBI",
+   "lead": "NaBFID is set to initiate the raising of $500 million via a 10-year overseas bond, while simultaneously negotiating a $1 billion MIGA-backed bond with a longer 15-year maturity. This financial strategy aims to secure essential long-term funding for infrastructure developments. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending ...",
+   "image": "https://img.etimg.com/thumb/msid-134381847,width-1200,height-630,imgsize-55576,overlay-etmarkets/articleshow.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Sharp market move",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 13,
+   "priority": 87,
    "title": "Indian diaspora founders account for $560 billion of overseas unicorn value: Report",
    "url": "https://economictimes.indiatimes.com/tech/technology/indian-diaspora-founders-account-for-560-billion-of-overseas-unicorn-value-report/articleshow/134393009.cms",
    "date": "2026-09-21",
@@ -570,149 +617,13 @@
     "Funding",
     "Fintech"
    ],
-   "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "RBI issues norms on capital requirements for market risk under Basel III for banks",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-issues-norms-on-capital-requirements-for-market-risk-under-basel-iii-for-banks/articleshow/134391520.cms",
-   "date": "2026-09-21",
-   "source": "Economic Times",
-   "label": "Regulatory",
-   "snippet": "As of April 1, 2027, banks are prohibited from reclassifying instruments to achieve lower capital requirements under the new market risk guidelines that align with the updated Basel III framework. This transition will see banks adopting a simplified standardized approach for determining risk-weighted assets, along with revisions to intere",
-   "lead": "Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Has the US Fed and AI created a costlier world? And has the queue got longer for India?",
-   "image": "https://img.etimg.com/thumb/msid-134391589,width-1200,height-630,imgsize-73074,overlay-etmarkets/articleshow.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Rule or framework change",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Regulatory",
-    "Banks & Financials"
-   ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
-   "date": "2026-09-21",
-   "source": "News On AIR",
-   "label": "Regulatory",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "India bonds calm as oil dip counters US selloff, RBI sales",
-   "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-calm-as-oil-dip-counters-us-selloff-rbi-sales/articleshow/134381830.cms",
-   "date": "2026-09-21",
-   "source": "Economic Times",
-   "label": "Debt & Bonds",
-   "snippet": "Indian government bonds held their ground on Monday, buoyed by a decline in oil prices that helped mitigate domestic supply issues arising from the RBI",
-   "lead": "NaBFID is set to initiate the raising of $500 million via a 10-year overseas bond, while simultaneously negotiating a $1 billion MIGA-backed bond with a longer 15-year maturity. This financial strategy aims to secure essential long-term funding for infrastructure developments. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending ...",
-   "image": "https://img.etimg.com/thumb/msid-134381847,width-1200,height-630,imgsize-55576,overlay-etmarkets/articleshow.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Sharp market move",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Debt & Bonds"
-   ],
    "rank": 9,
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 8,
-   "priority": 89,
-   "title": "Why has a TV presenter who has lived in Austria for over 50 years been denied citizenship?",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWkza3l3bW9jRVRJVFhNSDA1eDN6TGhkejJJV2dqd1lwWkxESGxNOWx2X1drcG8yZ1JQbHY0Wk9QX0FUY3d2T2hVS0hLc3dMUjduWEw4cjlaeEZ1MEowM2RPU1FlOEtYd1R0T3U4T0NnMlAwZmZEejJXUzNEQldhVmh1SC0zR0VqZHlFQmJicTYtYkxmYW1ycDh2OXF0Mlo5aUc2RnRlMjZxUE4xRU9mNGJHMEJVNTdOd3JOVjJBdw?oc=5",
-   "date": "2026-09-21",
-   "source": "The Local Austria",
-   "label": "Austria",
-   "snippet": "Vienna’s immigration authority, MA 35, has refused to grant citizenship to a journalist who has lived in Austria for more than 50 years and works for the state broadcaster ORF. What's going on?",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source Vienna’s immigration authority, MA 35, has refused to grant citizenship to a journalist who has lived in Austria for more than 50 years and works for the state broadcaster ORF. What's going on? Ani Gülgün-Mayr, 56, was born in ...",
-   "image": null,
-   "why": [
-    "Affects citizenship"
-   ],
-   "tags": [
-    "Citizenship",
-    "Austria"
-   ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 8,
-   "priority": 89,
-   "title": "US visa delay: France and Germany Are Emerging as Preferred Choices for Indian Students",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQY21NZGVLZmRsVWgxOXVhMDlUTXZCQzBwWDRxRVZ2Qk9oNVRFUDdzTXhRNVlvUk92T0pseU9vS1FyUGJ5SFloMEo5UHZydDBTSlNtbkJ5bGl3Rkg2bzVTQnF6bk5PRl9jVllwRlFvYm9zSFd6WGJDc3RqZFhQemhuLXYtb0FjZVk4SmhKemNQT2RyUzVpTG1panhXYm9xTzNvSmUwdThrYkdla0pmV1ZxSVAtYVRCR2ZmUkMzVlYwVTZ0cmUzYjl3VlFDOEo0a1NSSXAtWkpQU2VZNjBWcGYtdGVzblNwX25NTHVPQ192UU9sc3fSAfgBQVVfeXFMT1hnTHNETTR6dDNiOG9tdGQzTzdNNURlMkxGTUtoQ3Z0OWR1SHJhSjR3R3dmQUVvVFRpVkpOdVQyckw4dml6b1hlRWx1WFlsc3ZiNlFkQWxZMGg3Q2VVMWpWY3VNOUVoMFFuZXV2bEJXbFdaVnRiOUlyeEVNRnoxYVNuVUh1UXpWLWdReUdweXllc0ZtYngxQlVNSGtnc2NWVUR6UWJvRDRRbTRfVm1mcHozS3FQQ0pGOGc0ZTZTQ2E2dS1fWVZoQ3NJWmJwTFB6WFBkbzhWdDY3cDlPb0V4T0xreHRIR2RzREowaXhCN01yOVk4X09YM3g?oc=5",
-   "date": "2026-09-20",
-   "source": "The Times of India",
-   "label": "Germany",
-   "snippet": "Amid uncertainty over visa processing delays in the US, France and Germany are emerging as preferred choices for Indian students.",
-   "lead": "Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
-   "image": "https://static.toiimg.com/thumb/msid-134374102,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "why": [
-    "Announces a change",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Student / Graduate",
-    "Germany"
-   ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 8,
-   "priority": 89,
-   "title": "Guidance: India: tuberculosis test clinics for a UK visa",
-   "url": "https://www.gov.uk/government/publications/india-tuberculosis-test-clinics-for-a-uk-visa",
-   "date": "2026-09-20",
-   "source": "GOV.UK (UK Visas and Immigration)",
-   "label": "United Kingdom",
-   "snippet": "Where to get tested for tuberculosis (TB) in India for your UK visa application.",
-   "lead": "Navigation menu Menu Menu Services and information Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions ...",
-   "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-   "why": [
-    "Official government notice",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "United Kingdom"
-   ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
    "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
+   "score": 9,
+   "priority": 82,
    "title": "RBI sells ₹25K cr G-Secs in second OMO tranche to drain surplus liquidity",
    "url": "https://www.business-standard.com/finance/news/rbi-sells-25k-cr-g-secs-in-second-omo-tranche-to-drain-surplus-liquidity-126092100986_1.html",
    "date": "2026-09-21",
@@ -728,13 +639,102 @@
    "tags": [
     "Debt & Bonds"
    ],
+   "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 78,
+   "title": "Why has a TV presenter who has lived in Austria for over 50 years been denied citizenship?",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWkza3l3bW9jRVRJVFhNSDA1eDN6TGhkejJJV2dqd1lwWkxESGxNOWx2X1drcG8yZ1JQbHY0Wk9QX0FUY3d2T2hVS0hLc3dMUjduWEw4cjlaeEZ1MEowM2RPU1FlOEtYd1R0T3U4T0NnMlAwZmZEejJXUzNEQldhVmh1SC0zR0VqZHlFQmJicTYtYkxmYW1ycDh2OXF0Mlo5aUc2RnRlMjZxUE4xRU9mNGJHMEJVNTdOd3JOVjJBdw?oc=5",
+   "date": "2026-09-21",
+   "source": "The Local Austria",
+   "label": "Austria",
+   "snippet": "Vienna’s immigration authority, MA 35, has refused to grant citizenship to a journalist who has lived in Austria for more than 50 years and works for the state broadcaster ORF. What's going on?",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source Vienna’s immigration authority, MA 35, has refused to grant citizenship to a journalist who has lived in Austria for more than 50 years and works for the state broadcaster ORF. What's going on? Ani Gülgün-Mayr, 56, was born in ...",
+   "image": null,
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "Austria"
+   ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 78,
+   "title": "US visa delay: France and Germany Are Emerging as Preferred Choices for Indian Students",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQY21NZGVLZmRsVWgxOXVhMDlUTXZCQzBwWDRxRVZ2Qk9oNVRFUDdzTXhRNVlvUk92T0pseU9vS1FyUGJ5SFloMEo5UHZydDBTSlNtbkJ5bGl3Rkg2bzVTQnF6bk5PRl9jVllwRlFvYm9zSFd6WGJDc3RqZFhQemhuLXYtb0FjZVk4SmhKemNQT2RyUzVpTG1panhXYm9xTzNvSmUwdThrYkdla0pmV1ZxSVAtYVRCR2ZmUkMzVlYwVTZ0cmUzYjl3VlFDOEo0a1NSSXAtWkpQU2VZNjBWcGYtdGVzblNwX25NTHVPQ192UU9sc3fSAfgBQVVfeXFMT1hnTHNETTR6dDNiOG9tdGQzTzdNNURlMkxGTUtoQ3Z0OWR1SHJhSjR3R3dmQUVvVFRpVkpOdVQyckw4dml6b1hlRWx1WFlsc3ZiNlFkQWxZMGg3Q2VVMWpWY3VNOUVoMFFuZXV2bEJXbFdaVnRiOUlyeEVNRnoxYVNuVUh1UXpWLWdReUdweXllc0ZtYngxQlVNSGtnc2NWVUR6UWJvRDRRbTRfVm1mcHozS3FQQ0pGOGc0ZTZTQ2E2dS1fWVZoQ3NJWmJwTFB6WFBkbzhWdDY3cDlPb0V4T0xreHRIR2RzREowaXhCN01yOVk4X09YM3g?oc=5",
+   "date": "2026-09-20",
+   "source": "The Times of India",
+   "label": "France",
+   "snippet": "Amid uncertainty over visa processing delays in the US, France and Germany are emerging as preferred choices for Indian students.",
+   "lead": "Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
+   "image": "https://static.toiimg.com/thumb/msid-134374102,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "why": [
+    "Announces a change",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Student / Graduate",
+    "France"
+   ],
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 78,
+   "title": "Guidance: India: tuberculosis test clinics for a UK visa",
+   "url": "https://www.gov.uk/government/publications/india-tuberculosis-test-clinics-for-a-uk-visa",
+   "date": "2026-09-20",
+   "source": "GOV.UK (UK Visas and Immigration)",
+   "label": "United Kingdom",
+   "snippet": "Where to get tested for tuberculosis (TB) in India for your UK visa application.",
+   "lead": "Navigation menu Menu Menu Services and information Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions ...",
+   "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+   "why": [
+    "Official government notice",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "United Kingdom"
+   ],
    "rank": 13,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
-   "priority": 80,
+   "score": 11,
+   "priority": 73,
+   "title": "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
+   "url": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
+   "date": "2026-09-21",
+   "source": "TechCrunch Venture",
+   "label": "Global · Other",
+   "snippet": "Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing.",
+   "lead": "Oura’s $2.2B IPO is mostly a payday for existing shareholders Ram Iyer 9:45 AM PDT · September 21, 2026 Smart ring maker Oura is looking to raise as much as $2.2 billion in its upcoming IPO, but it looks like its current investors will be the ones making money in the process. According to the company’s updated IPO filing, Oura and its shareholders are together offering 50 million shares at a price range of $40 to $44 each. But most of ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $2,200M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 73,
    "title": "Moneyview Sets ₹32-₹34 Price Band For ₹1,092 Cr IPO",
    "url": "https://inc42.com/buzz/moneyview-sets-%e2%82%b932-%e2%82%b934-price-band-for-%e2%82%b91092-cr-ipo/",
    "date": "2026-09-21",
@@ -751,28 +751,6 @@
     "IPO & Listing",
     "Fintech"
    ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 73,
-   "title": "ADIA Sells Lenskart Shares Worth ₹2,390.6 Cr",
-   "url": "https://inc42.com/buzz/adia-sells-lenskart-shares-worth-%e2%82%b92390-6-cr/",
-   "date": "2026-09-21",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "ADIA held held 16.98 Cr shares or 9.77% stake in Lenskart as of June 30, 2026, implying today’s deal represents a 20% reduction in its stake.",
-   "lead": "Abu Dhabi Investment Authority (ADIA) offloaded 3.5 Cr shares of Lenskart in a bulk deal at ₹683.02 apiece, minting ₹2,390.6 Cr Lenskart’s shares have rallied significantly. When ADIA earlier sold 4 Cr shares in June, the trade price was ₹490 apiece, 40% lower than today’s closing price ADIA held held 16.98 Cr shares or 9.77% stake in Lenskart as of June 30, 2026, implying today’s deal represents a 20% reduction in its stake",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/lenskart-social-1-1-1.jpg",
-   "why": [
-    "Funding",
-    "Large deal (about $252M)"
-   ],
-   "tags": [
-    "Funding"
-   ],
    "rank": 15,
    "must_read": false
   },
@@ -780,20 +758,21 @@
    "desk": "Startups",
    "score": 11,
    "priority": 73,
-   "title": "IPO-Bound Moneyview’s Q1 Profit Jumps 2.6X YoY To ₹173.8 Cr",
-   "url": "https://inc42.com/buzz/ipo-bound-moneyviews-q1-profit-jumps-2-6x-yoy-to-%e2%82%b9173-8-cr/",
-   "date": "2026-09-21",
+   "title": "Kissht Gets Board Nod To Raise ₹832 Cr Via Preferential Issue",
+   "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/",
+   "date": "2026-09-18",
    "source": "Inc42",
    "label": "India · Fintech",
-   "snippet": "Moneyview reported a 158.8% jump in its consolidated profit to ₹173.8 Cr in Q1 FY27 from ₹67.2 Cr in the year-ago quarter",
-   "lead": "Moneyview’s consolidated profit jumped 158.8% YoY to ₹173.8 Cr in Q1 FY27, while its operating revenue rose 50.2% to ₹1,041.1 Cr. Fee and commission income grew faster than interest income, while overall expenses rose at a slower pace than revenue. Moneyview’s loan disbursals rose 40.3% YoY to ₹7,152 Cr during the quarter, while its managed AUM increased 27.2% to ₹22,520 Cr.",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/soc_moneyview.jpg",
+   "snippet": "Listed NBFC Kissht has secured board approval to raise up ₹832.2 Cr via a preferential issue of equity shares to 34 investors and entities.",
+   "lead": "In a filing with the exchanges, the NBFC said that its board has approved the issuance of 2.6 Cr fully paid-up equity shares to the investors at an issue price of ₹314.11 apiece Kissht is raising the preferential issue right after its IPO, signalling strong institutional interest in its lending business. But there appears no clarity on how the funds will be utilised While Axis Mutual Fund will receive 63.7 Lakh shares worth nearly ₹200 ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/soc-3-2.jpg",
    "why": [
-    "IPO & Listing",
-    "Valuation, listing or profitability signal"
+    "Funding",
+    "Sizeable deal (about $88M)",
+    "Startup File written (what they do, how they make money)"
    ],
    "tags": [
-    "IPO & Listing",
+    "Funding",
     "Fintech"
    ],
    "rank": 16,
@@ -801,8 +780,8 @@
   },
   {
    "desk": "Policy",
-   "score": 10,
-   "priority": 71,
+   "score": 9,
+   "priority": 64,
    "title": "India-New Zealand FTA to Enter into Force from 20 October 2026",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313143",
    "date": "2026-09-21",
@@ -825,28 +804,6 @@
    "desk": "Policy",
    "score": 8,
    "priority": 57,
-   "title": "Detailed Result: OMO Sale Auction held on Sep 21, 2026 and Settlement on Sep 22, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63635",
-   "date": "2026-09-21",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Regulator: RBI",
-    "Large outlay (Rs 10,000 Cr or more)"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 18,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 57,
    "title": "Reserve Bank of India (Commercial Banks – Know Your Customer) Amendment Directions, 2026",
    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13699&Mode=0",
    "date": "2026-09-18",
@@ -863,26 +820,49 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 19,
+   "rank": 18,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 5,
    "priority": 56,
-   "title": "India–New Zealand FTA Explained: Zero Duty, 5,000 Visas & No Dairy - The Economic Times Video | ET Tv",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSnlCaTlVY0lmUVJQN1JyNlJOdHMxQTFZM1dOTU94eGhwaVNWMFduQU5LdFpnZVRQZ015TFlqUlZBTHFnX2dlZ1FwMFlDMWJSTGd5Ym9NQ1locWlsWTlWckpLQ0pZOWYtZm85VHI2cUhBSlFaUmVqS1d1WGJ3QWNuV0w5WkY2WXhSMnp0U0RKdHlhM2NoclRrMWh5MVdZV3pTWkhaZGE4QTNzSmdUUjkyYi1fXzNrREl3a1p1N1lMb3R1aUc5SV8ycG5VRl9aZw?oc=5",
-   "date": "2026-09-21",
-   "source": "The Economic Times",
-   "label": "New Zealand",
-   "snippet": "India and New Zealand",
-   "lead": "Choose your reason below and click on the Report button. This will alert our moderators to take action",
-   "image": "https://img.etimg.com/thumb/msid-134391743,width-1200,height-900,overlay-economictimes/news/videos/indianew-zealand-fta-explained-zero-duty-5000-visas-no-dairy.jpg",
+   "title": "Canada invites 250 senior managers to apply for permanent residence",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVldLbk1VbURsREUxQ0lXRXNWLUVLb3lsRUZLYVUyTUh1bDVobWJMb2YwS3ZqcGdOR0N4VnNxTlRBSjE2WDViRDlZY0hBMmE2TUFWY0ZxY1VYQW1xWHRiMFhrOTNYeFgwZ1FPVUhqM2JZVVNDWFROQ1NwRkg2azN1SV8tZU9tdUN0azBnSmNMb0Vick5PeTJxVXB1WmhPMHRFQUJtdFhDZW5VbmZlWTJMNWJn0gG3AUFVX3lxTFA2RTFGLXZVNU5BbGttWmFOcU1taHlQNHhhU1l0NDVZcm5ZSTZPZDZXY2tnOWpSOW1GUnFuU1N2VkJvaUd2Zlc4T2Q5b182cnFsS0pGcHp4STdmRjM1bkU1bUNxMmU5cG0xLThJLUlrMkJOMlhHU1ZTSW5aXzFrSHZmcmpWcm1pNmI0X1liNXpFS19vV1M0SHZwOWFsbjJDVnFZNlY2MHlTaDJBN3JzekhZbUQ0WF9uUQ?oc=5",
+   "date": "2026-09-16",
+   "source": "CIC News",
+   "label": "Canada",
+   "snippet": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 250 ITAs in a draw for senior managers with Canadian work experience. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) scor",
+   "lead": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 250 ITAs in a draw for senior managers with Canadian work experience. Foreign nationals in Canada who have applied for permanent residence through Express Entry may be able to obtain a Bridging Open Work Permit (BOWP).",
+   "image": "https://www.cicnews.com/wp-content/uploads/2026/09/Express-Entry-Draw-56.jpg",
    "why": [
-    "Mentions India or Indians"
+    "Affects permanent residence"
    ],
    "tags": [
-    "New Zealand"
+    "PR / Settlement",
+    "Canada"
+   ],
+   "rank": 19,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 7,
+   "priority": 50,
+   "title": "Detailed Result: OMO Sale Auction held on Sep 21, 2026 and Settlement on Sep 22, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63635",
+   "date": "2026-09-21",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator: RBI",
+    "Large outlay (Rs 10,000 Cr or more)"
+   ],
+   "tags": [
+    "Banking & Rates"
    ],
    "rank": 20,
    "must_read": false
@@ -933,8 +913,8 @@
   },
   {
    "desk": "Policy",
-   "score": 5,
-   "priority": 36,
+   "score": 4,
+   "priority": 29,
    "title": "NHAI Introduces New Guidelines for Design and Development of Access-Controlled High-Speed National Highways",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313032",
    "date": "2026-09-21",
