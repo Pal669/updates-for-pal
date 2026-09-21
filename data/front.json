@@ -1,6 +1,6 @@
 {
  "edition": "2026-09-21",
- "built": "2026-09-21 11:34 IST",
+ "built": "2026-09-21 11:41 IST",
  "count": 18,
  "by_desk": {
   "Policy": 7,
@@ -11,37 +11,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23407.0,
-   "change_pct": 0.26,
-   "asof": "21 Sep 11:34 IST"
+   "value": 23403.0,
+   "change_pct": 0.24,
+   "asof": "21 Sep 11:41 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74716.0,
-   "change_pct": 0.57,
-   "asof": "21 Sep 11:19 IST"
+   "value": 74737.0,
+   "change_pct": 0.6,
+   "asof": "21 Sep 11:26 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.76,
-   "change_pct": -0.04,
-   "asof": "21 Sep 11:34 IST"
+   "value": 95.79,
+   "change_pct": -0.01,
+   "asof": "21 Sep 11:41 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 98.13,
-   "change_pct": -5.53,
-   "asof": "21 Sep 11:23 IST"
+   "value": 98.15,
+   "change_pct": -5.51,
+   "asof": "21 Sep 11:28 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4392.0,
-   "change_pct": -0.73,
-   "asof": "21 Sep 11:24 IST"
+   "value": 4390.0,
+   "change_pct": -0.78,
+   "asof": "21 Sep 11:31 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -161,9 +161,31 @@
    ]
   },
   "Startups": {
-   "total": 69,
-   "new_today": 5,
+   "total": 70,
+   "new_today": 6,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 73,
+     "title": "Kissht Gets Board Nod To Raise ₹832 Cr Via Preferential Issue",
+     "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/",
+     "date": "2026-09-18",
+     "source": "Inc42",
+     "label": "India · Fintech",
+     "snippet": "Listed NBFC Kissht has secured board approval to raise up ₹832.2 Cr via a preferential issue of equity shares to 34 investors and entities.",
+     "lead": "In a filing with the exchanges, the NBFC said that its board has approved the issuance of 2.6 Cr fully paid-up equity shares to the investors at an issue price of ₹314.11 apiece Kissht is raising the preferential issue right after its IPO, signalling strong institutional interest in its lending business. But there appears no clarity on how the funds will be utilised While Axis Mutual Fund will receive 63.7 Lakh shares worth nearly ₹200 ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/soc-3-2.jpg",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $88M)",
+      "Startup File written (what they do, how they make money)"
+     ],
+     "tags": [
+      "Funding",
+      "Fintech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 11,
@@ -228,34 +250,12 @@
       "Funding",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 60,
-     "title": "Exein raises $270m to fight AI hackers, doubles valuation",
-     "url": "https://sifted.eu/articles/exein-funding-round-ai-hack-cybersecurity/",
-     "date": "2026-09-15",
-     "source": "Sifted",
-     "label": "Global · AI & Deeptech",
-     "snippet": "Europe’s newest unicorn wins investor backing amid mounting fear over AI progress.",
-     "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
-     "image": "https://content.sifted.eu/wp-content/uploads/2026/09/15165803/Screenshot-2026-09-15-at-16.57.33-1024x677.png",
-     "why": [
-      "Funding",
-      "Large deal (about $270M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 318,
-   "new_today": 2,
+   "total": 320,
+   "new_today": 3,
    "items": [
     {
      "desk": "Immigration",
@@ -442,6 +442,29 @@
   },
   {
    "desk": "Startups",
+   "score": 12,
+   "priority": 80,
+   "title": "Moneyview Sets ₹32-₹34 Price Band For ₹1,092 Cr IPO",
+   "url": "https://inc42.com/buzz/moneyview-sets-%e2%82%b932-%e2%82%b934-price-band-for-%e2%82%b91092-cr-ipo/",
+   "date": "2026-09-21",
+   "source": "Inc42",
+   "label": "India · Fintech",
+   "snippet": "Moneyview has set a ₹32–₹34 share price band for its ₹1,092 Cr IPO, valuing the fintech unicorn at up to ₹5,985 Cr.",
+   "lead": "Moneyview has set a price band of ₹32-₹34 per share for its IPO, which will open on September 24 and close on September 28. At the upper end of the price band, Moneyview is eyeing a valuation of around ₹5,985 Cr, significantly below its $1 Bn+ valuation when it became a unicorn in 2024. The IPO comprises a ₹750 Cr fresh issue and an OFS of 10.05 Cr shares worth about ₹342 Cr at the upper price band, taking the total issue size to ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/11/Moneyview-Soc-1.jpg",
+   "why": [
+    "IPO & Listing",
+    "Large deal (about $115M)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Fintech"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
    "score": 11,
    "priority": 73,
    "title": "Weekly VC funding falls below $100M again; How Ottonomy is building robots for real-world logistics",
@@ -460,7 +483,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -483,7 +506,7 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -506,30 +529,6 @@
    "tags": [
     "Financials",
     "AI & Deeptech"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 73,
-   "title": "Kissht Gets Board Nod To Raise ₹832 Cr Via Preferential Issue",
-   "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/",
-   "date": "2026-09-18",
-   "source": "Inc42",
-   "label": "India · Fintech",
-   "snippet": "Listed NBFC Kissht has secured board approval to raise up ₹832.2 Cr via a preferential issue of equity shares to 34 investors and entities.",
-   "lead": "In a filing with the exchanges, the NBFC said that its board has approved the issuance of 2.6 Cr fully paid-up equity shares to the investors at an issue price of ₹314.11 apiece Kissht is raising the preferential issue right after its IPO, signalling strong institutional interest in its lending business. But there appears no clarity on how the funds will be utilised While Axis Mutual Fund will receive 63.7 Lakh shares worth nearly ₹200 ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/soc-3-2.jpg",
-   "why": [
-    "Funding",
-    "Sizeable deal (about $88M)",
-    "Startup File written (what they do, how they make money)"
-   ],
-   "tags": [
-    "Funding",
-    "Fintech"
    ],
    "rank": 9,
    "must_read": false
