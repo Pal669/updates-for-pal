@@ -68,10 +68,10 @@
     },
   };
 
-  // ---------------------------------------------------------------- Immigration Desk
+  // ---------------------------------------------------------------- Migration Desk (internal key: immigration)
   DESKS.immigration = {
     file: "data/immigration.json",
-    title: "Immigration Desk",
+    title: "Migration Desk",
     sources: "Rule Changes: GOV.UK and IRCC official feeds where available, otherwise press headlines found via Google News (agency marketing sites filtered out). Country Files and India-Side are hand-written from web research on the date shown; items marked (general knowledge) were not re-verified. Not legal advice: confirm on the official immigration site.",
     subs: [
       { id: "news", label: "Rule Changes" },
@@ -510,10 +510,11 @@
     file: "data/front.json",
     title: "Front Page",
     front: true,
-    sources: "Front Page ranks stories from the Policy, Startup, Immigration and Investment Advisory desks with a transparent point system (see scripts/build_front_page.py): Cabinet and regulator decisions, deal size, official immigration notices, coverage by many outlets, plus recency. The line under each headline lists the rules that put it here. Rebuilt every morning.",
+    sources: "Front Page ranks stories from the Policy, Startup, Migration and Investment Advisory desks with a transparent point system (see scripts/build_front_page.py): Cabinet and regulator decisions, deal size, official immigration notices, coverage by many outlets, plus recency. The line under each headline lists the rules that put it here. Rebuilt every morning.",
     flag: { label: "", test: () => true },
   };
 
+  const deskName = (d) => (d === "Immigration" ? "Migration" : d);
   const DESK_LINK = { Policy: "#policy", Startups: "#startups", Immigration: "#immigration", Advisory: "#advisory" };
   const trimTo = (s, n) => {
     s = (s || "").trim();
@@ -531,7 +532,7 @@
     return `<a class="ph ${esc(it.desk)} ${cls || ""}" href="${esc(it.url)}" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">
       <span class="tile"><b>${esc(big)}</b><i>${esc(small)}</i></span>${it.image ? `<img src="${esc(it.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">` : ""}</a>`;
   };
-  const deskBadge = (it) => `<span class="badge desk ${esc(it.desk)}">${esc(it.desk)}</span>${it.must_read ? '<span class="badge major">MUST READ</span>' : ""}`;
+  const deskBadge = (it) => `<span class="badge desk ${esc(it.desk)}">${esc(deskName(it.desk))}</span>${it.must_read ? '<span class="badge major">MUST READ</span>' : ""}`;
   const metaLine = (it) => `${deskBadge(it)}${esc(it.label)} &middot; ${esc(it.source)} &middot; ${esc(it.date)}`;
   const whyLine = (it) => `<div class="why">Why it is here: ${it.why.map(esc).join(" &middot; ")}</div>`;
 
@@ -540,7 +541,7 @@
       <div class="meta">${metaLine(it)}</div>
       <h2>${link(it.url, esc(it.title))}</h2>
       ${briefHtml(it, "full") || `<p class="snip">${esc(best(it, 520, true))}</p>`}${whyLine(it)}
-      ${link(it.url, "Read the full story &rarr;", "read")} <a class="more" href="${DESK_LINK[it.desk]}">More from the ${esc(it.desk)} Desk</a></div></section>`;
+      ${link(it.url, "Read the full story &rarr;", "read")} <a class="more" href="${DESK_LINK[it.desk]}">More from the ${esc(deskName(it.desk))} Desk</a></div></section>`;
   }
   function gridCard(it) {
     return `<article class="gcard">${pic(it)}<div class="meta">${metaLine(it)}</div>
@@ -580,9 +581,9 @@
 
   function deskColumn(desk, d) {
     if (!d || !d.items.length) return "";
-    return `<section class="dcol"><h3><a href="${DESK_LINK[desk]}">${esc(desk)} Desk</a></h3>
+    return `<section class="dcol"><h3><a href="${DESK_LINK[desk]}">${esc(deskName(desk))} Desk</a></h3>
       <div class="dstat">${d.total} on file &middot; ${d.new_today} new today</div>${d.items.map(miniCard).join("")}
-      <a class="read" href="${DESK_LINK[desk]}">Open the ${esc(desk)} Desk &rarr;</a></section>`;
+      <a class="read" href="${DESK_LINK[desk]}">Open the ${esc(deskName(desk))} Desk &rarr;</a></section>`;
   }
 
   let frontData = null, interest = "All";
@@ -592,7 +593,7 @@
     const hours = (Date.now() - built.getTime()) / 36e5;
     const stale = hours > 30
       ? `<p class="stale">The last refresh was ${Math.round(hours)} hours ago (${esc(data.built)}). The scheduled run may have been missed; the stories below may be out of date.</p>` : "";
-    const counts = Object.entries(data.by_desk).map(([d, n]) => `${n} ${d}`).join(" &middot; ");
+    const counts = Object.entries(data.by_desk).map(([d, n]) => `${n} ${deskName(d)}`).join(" &middot; ");
     return `<div class="frontnote"><b>${data.count} stories to read today</b> &middot; ${counts} &middot; Edition of ${esc(data.edition)}, built ${esc(data.built)}</div>${stale}
       ${marketStrip(data.markets)}<div class="choose"><span class="cl">Choose your interest</span><div id="interest" class="chips"></div></div><div id="frontbody"></div>`;
   }
@@ -605,7 +606,7 @@
     all.forEach((i) => (i.tags || []).forEach((t) => (tagCount[t] = (tagCount[t] || 0) + 1)));
     const tags = Object.entries(tagCount).filter(([t, n]) => n >= 2 && !DESK_LINK[t]).sort((a, b) => b[1] - a[1]).slice(0, 9).map(([t]) => t);
     const opts = ["All", "Policy", "Startups", "Immigration", "Advisory", ...tags];
-    $("interest").innerHTML = opts.map((o) => `<button class="chip" type="button" aria-pressed="${interest === o}" data-v="${esc(o)}">${esc(o)}</button>`).join("");
+    $("interest").innerHTML = opts.map((o) => `<button class="chip" type="button" aria-pressed="${interest === o}" data-v="${esc(o)}">${esc(deskName(o))}</button>`).join("");
     $("interest").onclick = (e) => {
       const b = e.target.closest("button");
       if (b) { interest = b.dataset.v; paintFront(); }
