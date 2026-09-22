@@ -1,6 +1,6 @@
 {
  "edition": "2026-09-22",
- "built": "2026-09-22 10:12 IST",
+ "built": "2026-09-22 10:51 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23462.0,
-   "change_pct": 0.2,
-   "asof": "22 Sep 10:12 IST"
+   "value": 23368.0,
+   "change_pct": -0.2,
+   "asof": "22 Sep 10:51 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74964.0,
-   "change_pct": 0.14,
-   "asof": "22 Sep 09:57 IST"
+   "value": 74819.0,
+   "change_pct": -0.05,
+   "asof": "22 Sep 10:36 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.77,
-   "change_pct": -0.25,
-   "asof": "22 Sep 10:12 IST"
+   "value": 95.76,
+   "change_pct": -0.26,
+   "asof": "22 Sep 10:51 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 97.33,
-   "change_pct": -3.0,
-   "asof": "22 Sep 10:01 IST"
+   "value": 97.49,
+   "change_pct": -2.84,
+   "asof": "22 Sep 10:40 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4374.0,
-   "change_pct": -0.22,
-   "asof": "22 Sep 10:02 IST"
+   "value": 4384.0,
+   "change_pct": -0.0,
+   "asof": "22 Sep 10:41 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -251,7 +251,7 @@
    ]
   },
   "Immigration": {
-   "total": 351,
+   "total": 352,
    "new_today": 9,
    "items": [
     {
