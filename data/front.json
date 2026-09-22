@@ -1,6 +1,6 @@
 {
  "edition": "2026-09-22",
- "built": "2026-09-22 10:51 IST",
+ "built": "2026-09-22 20:48 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,44 +12,44 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23368.0,
-   "change_pct": -0.2,
-   "asof": "22 Sep 10:51 IST"
+   "value": 23329.0,
+   "change_pct": -0.36,
+   "asof": "22 Sep 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74819.0,
-   "change_pct": -0.05,
-   "asof": "22 Sep 10:36 IST"
+   "value": 74529.0,
+   "change_pct": -0.44,
+   "asof": "22 Sep 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.76,
-   "change_pct": -0.26,
-   "asof": "22 Sep 10:51 IST"
+   "value": 95.58,
+   "change_pct": -0.45,
+   "asof": "22 Sep 19:44 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 97.49,
-   "change_pct": -2.84,
-   "asof": "22 Sep 10:40 IST"
+   "value": 100.06,
+   "change_pct": -0.28,
+   "asof": "22 Sep 20:38 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4384.0,
-   "change_pct": -0.0,
-   "asof": "22 Sep 10:41 IST"
+   "value": 4373.0,
+   "change_pct": -0.25,
+   "asof": "22 Sep 20:38 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
    "value": 4.96,
-   "change_pct": -0.7,
-   "asof": "22 Sep 00:29 IST"
+   "change_pct": -0.08,
+   "asof": "22 Sep 20:33 IST"
   }
  ],
  "features": {
@@ -79,9 +79,67 @@
  },
  "desks": {
   "Policy": {
-   "total": 53,
-   "new_today": 0,
+   "total": 58,
+   "new_today": 5,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 7,
+     "priority": 50,
+     "title": "Samuhik Prativedan Manch- A Technology based common reporting mechanism extended to Members of Clearing Corporations",
+     "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/sep-2026/samuhik-prativedan-manch-a-technology-based-common-reporting-mechanism-extended-to-members-of-clearing-corporations_104568.html",
+     "date": "2026-09-17",
+     "source": "SEBI",
+     "label": "Markets & Regulation",
+     "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Rates and liquidity",
+      "Regulator: SEBI"
+     ],
+     "tags": [
+      "Markets & Regulation"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 36,
+     "title": "Novation of OTC Derivative Contracts",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13706&Mode=0",
+     "date": "2026-09-22",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Notifications - Reserve Bank of India",
+     "lead": "Please refer to the draft Reserve Bank of India (Novation of OTC Derivative Contracts) Directions, 2025, issued vide press release dated July 09, 2025 . 2. Based on the feedback received, the instructions related to the OTC derivative contracts have been finalised. Statement on the major feedback received is provided in the Annex . 3. With a view to consolidate circulars/instructions, the instructions have been inserted in the ...",
+     "image": null,
+     "why": [
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 4,
+     "priority": 29,
+     "title": "NHAI Introduces New Guidelines for Design and Development of Access-Controlled High-Speed National Highways",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313032",
+     "date": "2026-09-21",
+     "source": "PIB",
+     "label": "Infrastructure & Transport",
+     "snippet": "In line with the Government of India’s vision of Viksit Bharat 2047 and long-term objective of devel",
+     "lead": "In line with the Government of India’s vision of Viksit Bharat 2047 and long-term objective of developing a world-class National Highway network, NHAI has released comprehensive guidelines for the planning and designing of High-Speed Access controlled National Highways, other than Expressways. The guidelines seek to bring uniformity in standards for preparation of Detailed Project Reports (DPRs) of high-speed National Highway corridors ...",
+     "image": null,
+     "why": [
+      "Rule change"
+     ],
+     "tags": [
+      "Infrastructure & Transport"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 4,
@@ -100,192 +158,133 @@
      "tags": [
       "Labour & Social"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 4,
-     "priority": 29,
-     "title": "Reserve Bank of India (Commercial Banks - Minimum Capital Requirements for Market Risk) Directions, 2026",
-     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13705&Mode=0",
-     "date": "2026-09-21",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Notifications - Reserve Bank of India",
-     "lead": "",
-     "image": null,
-     "why": [
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 4,
-     "priority": 29,
-     "title": "Data on Forex inflows via FCNR(B) Deposits, External Commercial Borrowings (ECBs) and Overseas Foreign Currency Borrowings (OFCBs) under Reserve Bank’s Swap facility",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63638",
-     "date": "2026-09-21",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "RBI had introduced a special USD-INR Forex Swap facility covering FCNR(B) deposits, ECB and OFCB inflows on June 08, 2026. As announced vide Press Release dated August 14, 2026 , the Scheme was open till August 31, 2026 for FCNR(B) deposits, and will be open up to December 31, 2026 for ECBs and OFCBs. The position of forex inflows reported by Authorised Dealer Banks till September 18, 2026, under the above facility is given below.",
-     "image": null,
-     "why": [
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 4,
-     "priority": 29,
-     "title": "Biometric Aadhaar Authentication Mandatory for Subsidised Domestic LPG Refills from 1 October 2026",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2312532",
-     "date": "2026-09-19",
-     "source": "PIB",
-     "label": "Energy & Power",
-     "snippet": "From 1 October 2026, domestic LPG consumers will need to have completed Biometric Aadhaar Authentica",
-     "lead": "From 1 October 2026, domestic LPG consumers will need to have completed Biometric Aadhaar Authentication (BAA) to book refills at the regulated Retail Selling Price (RSP) with applicable subsidy. BAA ensures that subsidised LPG reaches only genuine and deserving households. Linking each connection to the Aadhaar-authenticated consumer helps prevent diversion of subsidised domestic cylinders for commercial and industrial use, removes ...",
-     "image": null,
-     "why": [
-      "Subsidy or incentive"
-     ],
-     "tags": [
-      "Energy & Power"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 94,
-   "new_today": 4,
+   "total": 116,
+   "new_today": 26,
    "items": [
     {
      "desk": "Startups",
      "score": 11,
      "priority": 73,
-     "title": "Aakash Trims FY26 Loss By 16% To ₹186.5 Cr, Top Line Flat At ₹2,040 Cr",
-     "url": "https://inc42.com/buzz/aakash-trims-fy26-loss-by-16-to-%e2%82%b9186-5-cr-top-line-flat-at-%e2%82%b92040-cr/",
-     "date": "2026-09-17",
+     "title": "Snapdeal Parent AceVector Sets ₹30-₹32 Price Band For ₹420 Cr IPO",
+     "url": "https://inc42.com/buzz/snapdeal-parent-acevector-sets-%e2%82%b930-%e2%82%b932-price-band-for-%e2%82%b9420-cr-ipo/",
+     "date": "2026-09-22",
      "source": "Inc42",
-     "label": "India · Edtech & Skills",
-     "snippet": "Aakash Educational Services Ltd managed to narrow its net loss for FY26 by 15.5% to ₹186.5 Cr from ₹220.8 Cr loss incurred in FY25",
-     "lead": "Aakash Educational Services Ltd managed to narrow its net loss for the financial year FY26 by 15.5% to ₹186.5 Cr from ₹220.8 Cr loss incurred in the previous fiscal Aakash is one of India's largest test-prep brands for engineering and medical entrance exams and has been operating under the ownership of BYJU’S parent Think & Learn Operating revenue rose marginally by 0.4% to ₹2,040.5 Cr in FY26 from ₹2,032.1 Cr in the previous year",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/aakash-layoffs-social-.jpeg",
+     "label": "India · Other",
+     "snippet": "AceVector reduced the fresh issue by ₹13 Cr from the ₹300 Cr proposed in its UDRHP after raising the same amount through a pre-IPO placement",
+     "lead": "Snapdeal parent AceVector has set a price band of ₹30-₹32 per share for its ₹420 Cr IPO, valuing the company at ₹1,741 Cr (about $182 Mn). The public issue marks AceVector’s second attempt to list after it shelved its ₹1,250 Cr IPO plan in 2022 amid market volatility. The IPO comprises a fresh issue of up to ₹287 Cr and an offer for sale of up to 4.16 Cr by investors like SoftBank, Nexus Ventures, among others.",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/SOC-ACEVECTR.jpg",
      "why": [
-      "Financials",
-      "Large deal (about $215M)",
+      "IPO & Listing",
+      "Sizeable deal (about $44M)"
+     ],
+     "tags": [
+      "IPO & Listing"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 73,
+     "title": "Snapdeal parent firm AceVector's IPO to open on September 25",
+     "url": "https://yourstory.com/2026/09/ipo-of-snapdeals-parent-firm-acevector-to-open-on-sept-25",
+     "date": "2026-09-22",
+     "source": "YourStory",
+     "label": "India · Other",
+     "snippet": "AceVector plans to raise Rs 420 crore through the IPO and has priced its shares in the range of Rs 30-32.",
+     "lead": "Snapdeal parent firm AceVector's IPO to open on September 25 AceVector plans to raise Rs 420 crore through the IPO and has priced its shares in the range of Rs 30-32. Team YS 17218 Stories Tuesday September 22, 2026 , 2 min Read AceVector, the parent company of ecommerce firm Snapdeal, will launch its initial public offering (IPO) on September 25. The IPO will be a combination of fresh issue of shares and offer for sale as the company ...",
+     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imageq2wc-1759136869668.jpg",
+     "why": [
+      "IPO & Listing",
+      "Sizeable deal (about $44M)"
+     ],
+     "tags": [
+      "IPO & Listing"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 73,
+     "title": "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
+     "url": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
+     "date": "2026-09-21",
+     "source": "TechCrunch Venture",
+     "label": "Global · Other",
+     "snippet": "Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing.",
+     "lead": "Oura’s $2.2B IPO is mostly a payday for existing shareholders Ram Iyer 9:45 AM PDT · September 21, 2026 Smart ring maker Oura is looking to raise as much as $2.2 billion in its upcoming IPO, but it looks like its current investors will be the ones making money in the process. According to the company’s updated IPO filing, Oura and its shareholders are together offering 50 million shares at a price range of $40 to $44 each. But most of ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
+     "why": [
+      "IPO & Listing",
+      "Very large figure in headline (about $2,200M: round or valuation)"
+     ],
+     "tags": [
+      "IPO & Listing"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 73,
+     "title": "Kissht Gets Board Nod To Raise ₹832 Cr Via Preferential Issue",
+     "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/",
+     "date": "2026-09-18",
+     "source": "Inc42",
+     "label": "India · Fintech",
+     "snippet": "Listed NBFC Kissht has secured board approval to raise up ₹832.2 Cr via a preferential issue of equity shares to 34 investors and entities.",
+     "lead": "In a filing with the exchanges, the NBFC said that its board has approved the issuance of 2.6 Cr fully paid-up equity shares to the investors at an issue price of ₹314.11 apiece Kissht is raising the preferential issue right after its IPO, signalling strong institutional interest in its lending business. But there appears no clarity on how the funds will be utilised While Axis Mutual Fund will receive 63.7 Lakh shares worth nearly ₹200 ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/soc-3-2.jpg",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $88M)",
       "Startup File written (what they do, how they make money)"
      ],
      "tags": [
-      "Financials",
-      "Edtech & Skills"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 67,
-     "title": "ADIA Sells Lenskart Shares Worth ₹2,390.6 Cr",
-     "url": "https://inc42.com/buzz/adia-sells-lenskart-shares-worth-%e2%82%b92390-6-cr/",
-     "date": "2026-09-21",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "ADIA held held 16.98 Cr shares or 9.77% stake in Lenskart as of June 30, 2026, implying today’s deal represents a 20% reduction in its stake.",
-     "lead": "Abu Dhabi Investment Authority (ADIA) offloaded 3.5 Cr shares of Lenskart in a bulk deal at ₹683.02 apiece, minting ₹2,390.6 Cr Lenskart’s shares have rallied significantly. When ADIA earlier sold 4 Cr shares in June, the trade price was ₹490 apiece, 40% lower than today’s closing price ADIA held held 16.98 Cr shares or 9.77% stake in Lenskart as of June 30, 2026, implying today’s deal represents a 20% reduction in its stake",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/lenskart-social-1-1-1.jpg",
-     "why": [
       "Funding",
-      "Large deal (about $252M)"
-     ],
-     "tags": [
-      "Funding"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 67,
-     "title": "IPO-Bound Moneyview’s Q1 Profit Jumps 2.6X YoY To ₹173.8 Cr",
-     "url": "https://inc42.com/buzz/ipo-bound-moneyviews-q1-profit-jumps-2-6x-yoy-to-%e2%82%b9173-8-cr/",
-     "date": "2026-09-21",
-     "source": "Inc42",
-     "label": "India · Fintech",
-     "snippet": "Moneyview reported a 158.8% jump in its consolidated profit to ₹173.8 Cr in Q1 FY27 from ₹67.2 Cr in the year-ago quarter",
-     "lead": "Moneyview’s consolidated profit jumped 158.8% YoY to ₹173.8 Cr in Q1 FY27, while its operating revenue rose 50.2% to ₹1,041.1 Cr. Fee and commission income grew faster than interest income, while overall expenses rose at a slower pace than revenue. Moneyview’s loan disbursals rose 40.3% YoY to ₹7,152 Cr during the quarter, while its managed AUM increased 27.2% to ₹22,520 Cr.",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/soc_moneyview.jpg",
-     "why": [
-      "IPO & Listing",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "Fintech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 67,
-     "title": "Snapdeal parent AceVector files red herring prospectus; cuts IPO size",
-     "url": "https://economictimes.indiatimes.com/tech/technology/snapdeal-parent-acevector-files-red-herring-prospectus-cuts-ipo-size/articleshow/134393243.cms",
-     "date": "2026-09-21",
-     "source": "ET Startups",
-     "label": "India · Fintech",
-     "snippet": "The company is expected to announce its price band on September 22. AceVector now plans to raise Rs 287 crore in fresh capital against Rs 300 crore earlier. The size of its offer-for-sale component, which will see investors including SoftBank, Nexus Venture Partners, Foxconn and others trim their holdings, is also being reduced by 35%.",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-36046,resizemode-75,msid-134393243/tech/technology/snapdeal-parent-acevector-files-red-herring-prospectus-cuts-ipo-size.jpg",
-     "why": [
-      "IPO & Listing",
-      "Sizeable deal (about $30M)"
-     ],
-     "tags": [
-      "IPO & Listing",
       "Fintech"
      ]
     }
    ]
   },
   "Immigration": {
-   "total": 352,
-   "new_today": 9,
+   "total": 376,
+   "new_today": 27,
    "items": [
     {
      "desk": "Immigration",
      "score": 5,
-     "priority": 56,
-     "title": "Canada invites 250 senior managers to apply for permanent residence",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVldLbk1VbURsREUxQ0lXRXNWLUVLb3lsRUZLYVUyTUh1bDVobWJMb2YwS3ZqcGdOR0N4VnNxTlRBSjE2WDViRDlZY0hBMmE2TUFWY0ZxY1VYQW1xWHRiMFhrOTNYeFgwZ1FPVUhqM2JZVVNDWFROQ1NwRkg2azN1SV8tZU9tdUN0azBnSmNMb0Vick5PeTJxVXB1WmhPMHRFQUJtdFhDZW5VbmZlWTJMNWJn0gG3AUFVX3lxTFA2RTFGLXZVNU5BbGttWmFOcU1taHlQNHhhU1l0NDVZcm5ZSTZPZDZXY2tnOWpSOW1GUnFuU1N2VkJvaUd2Zlc4T2Q5b182cnFsS0pGcHp4STdmRjM1bkU1bUNxMmU5cG0xLThJLUlrMkJOMlhHU1ZTSW5aXzFrSHZmcmpWcm1pNmI0X1liNXpFS19vV1M0SHZwOWFsbjJDVnFZNlY2MHlTaDJBN3JzekhZbUQ0WF9uUQ?oc=5",
-     "date": "2026-09-16",
-     "source": "CIC News",
-     "label": "Canada",
-     "snippet": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 250 ITAs in a draw for senior managers with Canadian work experience. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) scor",
-     "lead": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 250 ITAs in a draw for senior managers with Canadian work experience. Foreign nationals in Canada who have applied for permanent residence through Express Entry may be able to obtain a Bridging Open Work Permit (BOWP).",
-     "image": "https://www.cicnews.com/wp-content/uploads/2026/09/Express-Entry-Draw-56.jpg",
+     "priority": 50,
+     "title": "‘Hope’ rises in Berlin immigrant communities as Left wins amid AfD gains",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOclFYSkktYlAtOE1kWGdWSjhpdjlNWk1GTDBOMTgwMmlwcERMUEowTWR6OC0tU3dpbEExWV93dUExeGJ2UE9PZjBJOVJlRG9aVGI5dHp3ZDhmN0F4Yzd3dS03Y3dkaUNmd29nN3BBWlk2aWdZNndqNTdOVlFpTUl4eFNEUWx0ZnZob2tsME0yRW5McFFtQi05eE5Wek1lbW5oZEJEaEZXN3oxZ1o2Z3RRbtIBtgFBVV95cUxPU2tyY1Jld01mcDAyM2FMRkdkbXhIUll1X0E1VTM5UUdDSDktMUVGWGZXVkIwRENkRlJnWlJDTGFIUEd0cmg3MDNnYVdfRXBaVlNjUjZfWEhGUG9zSXRtcnRWaWg2eE9salpEc0g2akZnRWNnYTh4VVMya1hBSUEwNmdtTmdOdExHRlExc0RhTXJSYWVaNjZERzBNZURBM0xob0syX1d1NnVyOXRJRjUyWTczZ0Y3Zw?oc=5",
+     "date": "2026-09-22",
+     "source": "Al Jazeera",
+     "label": "Germany",
+     "snippet": "The Left party, led by Turkish-origin Elif Eralp, won Berlin, offering a contrast to the far right's wins in the east.",
+     "lead": "x whatsapp-stroke copylink google Add Al Jazeera on Google info By Shola Lawal Published On 22 Sep 2026 22 Sep 2026 Berlin, Germany – The morning after Berlin’s historic vote was chilly and overcast, but for Sumeja Skeva, an 18-year-old student in the bustling Neukolln district, the city’s prospects could not be brighter. On Sunday, Berliners delivered an unprecedented victory to The Left (Die Linke in German) party, a camp long seen ...",
+     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/GettyImages-2236513292-1790062105.jpg?resize=1920%2C1440",
      "why": [
-      "Affects permanent residence"
+      "Political signal on immigration"
      ],
      "tags": [
-      "PR / Settlement",
-      "Canada"
+      "Politics / Election",
+      "Germany"
      ]
     },
     {
      "desk": "Immigration",
-     "score": 4,
-     "priority": 44,
-     "title": "India–New Zealand FTA Explained: Zero Duty, 5,000 Visas & No Dairy - The Economic Times Video | ET Tv",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSnlCaTlVY0lmUVJQN1JyNlJOdHMxQTFZM1dOTU94eGhwaVNWMFduQU5LdFpnZVRQZ015TFlqUlZBTHFnX2dlZ1FwMFlDMWJSTGd5Ym9NQ1locWlsWTlWckpLQ0pZOWYtZm85VHI2cUhBSlFaUmVqS1d1WGJ3QWNuV0w5WkY2WXhSMnp0U0RKdHlhM2NoclRrMWh5MVdZV3pTWkhaZGE4QTNzSmdUUjkyYi1fXzNrREl3a1p1N1lMb3R1aUc5SV8ycG5VRl9aZw?oc=5",
-     "date": "2026-09-21",
-     "source": "The Economic Times",
+     "score": 5,
+     "priority": 50,
+     "title": "STUDY IN NZ: Ahead of new visa rules, over 50% of Indian MBA aspirants target PR in New Zealand: Survey",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbExrWmR1bVI4T2VWOWpqMW1oOWRUVG9PZC1Bandnd2VOWEd2Qk9PRnFiT0FnbmdQZkRHYVUzelZHNE5EN1BFNld0U0VJeDl2SnItTms2TWQtR21PbUlRUVktVGZraHEyRHNkM1N0b0tpQ2JadU1PR2hiMlNxWEJvX1UxY2V6TXcydEQ5amhKdmNQR1BzQVdYNmFXVURZeVc3NFlLaVR1UmJWUHN5MUFiRllNby1pLVg2dVJfa2FCa1owRzZ2N01oVGdUV09jbkNHM3ZibFlXeVRDUFdhQXJ2YzgzWUs0QWdlaEN4VFc0UU9lVk0?oc=5",
+     "date": "2026-09-22",
+     "source": "Education Times",
      "label": "New Zealand",
-     "snippet": "India and New Zealand",
-     "lead": "Choose your reason below and click on the Report button. This will alert our moderators to take action",
-     "image": "https://img.etimg.com/thumb/msid-134391743,width-1200,height-900,overlay-economictimes/news/videos/indianew-zealand-fta-explained-zero-duty-5000-visas-no-dairy.jpg",
+     "snippet": "News News: More than half of MBA aspirants in India eyeing New Zealand are actively factoring Permanent Residency (PR) into their study-abroad plans, placing lon.",
+     "lead": "More than half of MBA aspirants in India eyeing New Zealand are actively factoring Permanent Residency (PR) into their study-abroad plans, placing long-term settlement on par with career outcomes and ahead of starting salaries. Permanent residency cropped up in 53% of candidate discussions regarding New Zealand MBA courses, outpacing interest in traditional study destinations such as Germany (38%), the UK (35%), the UAE (29%), and ...",
+     "image": "https://static.toiimg.com/thumb/msid-134408506,width-1280,height-720,imgsize-346262,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
      "why": [
       "Mentions India or Indians"
      ],
@@ -296,7 +295,7 @@
     {
      "desk": "Immigration",
      "score": 4,
-     "priority": 44,
+     "priority": 40,
      "title": "Japan raises the bar on residency. Cue the outrage.",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTl9PdG1hTXdNalZ5dVR4MWtCeXVwU2NqZ2J4eVZ4UEhONUtsOVNLcjFOd0JsQjZ3N2tELU9ILWZUS3pIS0wwc0Nfblc1M0hULWxoQmVsTkc5U0t2YUJTQWxHNElLMW5TR3E2cENQbThDWTNSU00zczUzWmEzQzVRZ1gzVFRUWFRCUFFsRw?oc=5",
      "date": "2026-09-21",
@@ -310,26 +309,6 @@
      ],
      "tags": [
       "Japan"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 4,
-     "priority": 44,
-     "title": "Could you benefit from Switzerland’s 'employer-sponsored' immigration?",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVEQ1LVFCYm5yZlRZejdFbDhsc1BlblhBNllKSHY2WERnMlh4aXZUOGJIQmdhR0lEbGtpXzF2S3hPTDN2eWZQbFUzTGxRdzE5OVhFX2FTUDRWdkM1SzBOZlBUeE5ab2pOWjhmY1JMU0V4VEJlZlJrTVA5SUprZFpfOGVBMHN0a0Uxa3hwallFVlQyT1pHb3hvN01sRGhic0hO?oc=5",
-     "date": "2026-09-16",
-     "source": "The Local Switzerland",
-     "label": "Switzerland",
-     "snippet": "The term \"employer sponsored\" immigration has appeared on some websites in Switzerland advising foreigners about ways to get a Swiss work permit. But is it a new way to get into Switzerland?",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source The term \"employer sponsored\" immigration has appeared on some websites in Switzerland advising foreigners about ways to get a Swiss work permit. But is it a new way to get into Switzerland? Though it sounds as if ...",
-     "image": null,
-     "why": [
-      "Affects work visas"
-     ],
-     "tags": [
-      "Work visa",
-      "Switzerland"
      ]
     }
    ]
@@ -426,6 +405,53 @@
  },
  "items": [
   {
+   "desk": "Startups",
+   "score": 15,
+   "priority": 100,
+   "title": "Furlenco Eyes ₹1,200 Cr IPO At ₹7,000 Cr Valuation: Report",
+   "url": "https://inc42.com/buzz/furlenco-eyes-%e2%82%b91200-cr-ipo-at-%e2%82%b97000-cr-valuation-report/",
+   "date": "2026-09-22",
+   "source": "Inc42",
+   "label": "India · Real Estate & Workspaces",
+   "snippet": "Furlenco is reportedly planning a ₹1,200 Cr IPO at a ₹7,000 Cr valuation, following rival RentoMojo’s recent public-market debut",
+   "lead": "Furlenco is planning to raise ₹1,000-1,200 Cr through an IPO in FY28 and is seeking a valuation of around ₹7,000 Cr. The proposed issue would make Furlenco the second furniture rental startup to tap the public markets after rival RentoMojo’s strong listing earlier this month. The startup is expected to appoint ICICI Securities as an advisor for the IPO, while the final valuation will depend on market conditions and investor feedback.",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/12/Furlenco-social.jpg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $737M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Real Estate & Workspaces"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 100,
+   "title": "Spain's 2-year citizenship shortcut for Latin Americans: myth vs. reality in 2026",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEVTcS14XzY3UkhXbE5nMkRtWmRpNWJoZFNHZzFvbEdZTUJ0NHhVU2xadXVLUE5nbkJKQlVzREtnaXV0d3RKU3JvRkpEZUNGYnNpanIzNzJvUWloejlqRlJQd1ZId1M4LU44M0s5N1dlWVRKdWFVVUZHRDB1Q2tMdkFFSHpLV3RTay1ITld1T1pRby1MbjNtVjNLNFl1VEFEckdTQzNLd2VCNDZ5bkZR?oc=5",
+   "date": "2026-09-22",
+   "source": "Latin Times",
+   "label": "Spain",
+   "snippet": "Latin Americans can seek Spanish citizenship after two years without giving up their passport. What's true, what's new, and what's driving 2026's surge.",
+   "lead": "A picture taken in Moscow on July 31, 2014, shows Russian, US, Spanish and British passports laying together with visa application forms. A new law requiring Russians to declare to the authorities if they have the citizenship of another country was set to go into effect that week. Photo credit should read -/AFP via Getty Images The Briefing: Citizens of Latin American countries can apply for Spanish nationality after just two years of ...",
+   "image": "https://d.latintimes.com/en/full/591832/passports-visa-application-forms.jpg",
+   "why": [
+    "Affects citizenship",
+    "Announces a change"
+   ],
+   "tags": [
+    "Citizenship",
+    "Spain"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
    "desk": "Advisory",
    "score": 11,
    "priority": 100,
@@ -446,7 +472,7 @@
    "tags": [
     "PMS"
    ],
-   "rank": 1,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -469,7 +495,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 2,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -494,31 +520,7 @@
     "IPO & Listing",
     "Media, Gaming & Creators"
    ],
-   "rank": 3,
-   "must_read": true
-  },
-  {
-   "desk": "Immigration",
-   "score": 9,
-   "priority": 100,
-   "title": "Australia tightens student visas: What changes for Indians?",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdjNXcXJXUjNWM0h1SnhNUGtqb1VkcXY3dHhHcHFvZWtQMzFjZkZ4SGU5cGoweW5NOHZIdWlWVTRoZ3dWM1ZFOGNOYUpaRExLbVRBdkpYaGMxc2pseUNlRmhoY19wdzFzb0xqWEFLUmdMb0U5YmRWZVI5RHp5M250Z0VUQzhaTjVOZ09STTlQVURYRDlySG1xRC1hcDhoVVUzc1ljZTVrQm1BSnZlVmZxcVhSeGxRaXhBXzNacHROMlMyYmhPb1k4Q1JWRzZ5Z9IB1AFBVV95cUxPTHJsVWlUbEo3aEI3aXF6d2NBX0lSaU9wdWtrcUVTOEtsMFVBZ3FTWmpxZWVIcU9xSHZvQlRxTVRjREg3S2ZuWjZPazVxSnVfcGhDLUhQMEpmME10eWFrOG42ckhzZHlJd0ZlcjJSa192dUpRc3RPUnlKWUR6Z2NsRHd5ZmFCRFRVRnVMeTM0WHpjNnpKY1FXcUcyNFRoVUhYbHpCOHk0NGFBMW5NdmVlQjd4dnhMeTd5dmNqTDZnX2V0LWd0N3R5Z1RRczVWRGVoQXVUMg?oc=5",
-   "date": "2026-09-17",
-   "source": "The Indian Express",
-   "label": "Australia",
-   "snippet": "The reforms target international students, working-holiday makers and people who use successive visa pathways to extend their stay in Australia.",
-   "lead": "In a speech titled “The Work of Managing the Migration Program: Who Arrives, Who Stays, Who Leaves”, Burke said immigration remained important to Australia, but the government needed greater control over the migration system. The reforms target international students, working-holiday makers and people who use successive visa pathways to extend their stay in Australia. The government is also tightening measures against visa overstayers. ...",
-   "image": "https://images.indianexpress.com/2026/09/australian-visa.jpg",
-   "why": [
-    "Announces a change",
-    "Major story (18 headlines that day)",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Student / Graduate",
-    "Australia"
-   ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -542,8 +544,8 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Policy",
@@ -565,7 +567,30 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 6,
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 14,
+   "priority": 93,
+   "title": "Indian founders account for $560B unicorn valuation overseas: report",
+   "url": "https://yourstory.com/2026/09/indian-founders-account-for-560-billion-unicorn-valuation-overseas-report",
+   "date": "2026-09-22",
+   "source": "YourStory",
+   "label": "India · Other",
+   "snippet": "The Diaspora Index by Prosus and Dealroom reveals the deep inroads by Indians founding companies overseas",
+   "lead": "Indian founders account for $560B unicorn valuation overseas: report The Diaspora Index by Prosus and Dealroom reveals the deep inroads by Indians founding companies overseas Press Trust of India 11162 Stories Tuesday September 22, 2026 , 2 min Read Founders who grew up in India account for $560 billion of founder-share-attributed company value in current and former unicorns abroad, according to the new Indian Diaspora Index from ...",
+   "image": "https://images.yourstory.com/cs/2/77e43870d62911eaa8e9879653a67226/Unicorn1560412396832-1614344784053.png",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $560,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 8,
    "must_read": false
   },
   {
@@ -590,7 +615,7 @@
     "Funding",
     "Fintech"
    ],
-   "rank": 7,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -613,31 +638,30 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 8,
+   "rank": 10,
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 13,
-   "priority": 87,
-   "title": "Indian diaspora founders account for $560 billion of overseas unicorn value: Report",
-   "url": "https://economictimes.indiatimes.com/tech/technology/indian-diaspora-founders-account-for-560-billion-of-overseas-unicorn-value-report/articleshow/134393009.cms",
-   "date": "2026-09-21",
-   "source": "ET Startups",
-   "label": "India · Fintech",
-   "snippet": "The figure was calculated by dividing each company’s value equally among its founders and adding only the share of those who grew up in India. If one of four founders of a $10-billion company met that definition, $2.5 billion was counted. It does not represent actual shareholdings or personal wealth. The 205 companies had a total valuatio",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-19820,resizemode-75,msid-134393009/tech/technology/indian-diaspora-founders-account-for-560-billion-of-overseas-unicorn-value-report.jpg",
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 90,
+   "title": "Australia changes visa rules: New curbs for students, visitors and working holidaymakers - CNBC TV18",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWEpDYkR3TE5hRF9sc3AxWGw3bFN3TXd2dWwwVWdkSXdPOXY5aGpaQV9UZnNfd2ZIYks3cTFESTVFVUNrZGF4alV3X1IwcEhSNzVrdkd3ZDBibU5LU0dweWZXWGF5NmE3bXJQQVJNM3lTS3c3LUhsd3NON0VudnBkMVVreUNZRkhVMTdKYm1RSkQ3azQyMHdkMGppX1p4amlXYUVwNFZEQTFIbVlfRllYNEZGS1B1M3RR?oc=5",
+   "date": "2026-09-22",
+   "source": "LinkedIn",
+   "label": "Australia",
+   "snippet": "Australia is tightening visa rules across student, visitor, skilled and Working Holiday Maker categories.\n\n📋 The changes are aimed at maintaining migration system integrity while meeting the government’s Budget forecasts.\n\n✍️ Anshul Majumdar breaks down the latest changes and what they mean for visa applicants.\n\nhttps://lnkd.in/dN-NxyMt\n\n",
+   "lead": "Australia is tightening visa rules across student, visitor, skilled and Working Holiday Maker categories. 📋 The changes are aimed at maintaining migration system integrity while meeting the government’s Budget forecasts. ✍️ Anshul Majumdar breaks down the latest changes and what they mean for visa applicants. https://lnkd.in/dN-NxyMt #Australia #VisaRules #Immigration #Travel",
+   "image": "https://media.licdn.com/dms/image/sync/v2/D4D27AQHXZqVn_Iew3Q/articleshare-shrink_1280_800/B4DaDH5_oHKUAg-/0/1790060264264?e=2147483647&v=beta&t=5iHrRqmXu40fWp9q3I623CzM4pZT5Zdh9Tmor_d3jVE",
    "why": [
-    "Funding",
-    "Very large figure in headline (about $560,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
+    "Announces a change",
+    "Major story (8 headlines that day)"
    ],
    "tags": [
-    "Funding",
-    "Fintech"
+    "Student / Graduate",
+    "Australia"
    ],
-   "rank": 9,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -659,35 +683,126 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 10,
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 80,
+   "title": "Spinny Confidentially Files IPO Papers, Eyes Up To ₹3,000 Cr Issue",
+   "url": "https://inc42.com/buzz/spinny-confidentially-files-ipo-papers-eyes-up-to-%e2%82%b93000-cr-issue/",
+   "date": "2026-09-22",
+   "source": "Inc42",
+   "label": "India · Commerce & D2C",
+   "snippet": "Used-car marketplace Spinny has reportedly filed confidential IPO papers with SEBI to raise up to ₹3,000 Cr through a fresh issue and OFS.",
+   "lead": "Spinny has confidentially filed IPO papers with SEBI and is looking to raise ₹2,500 Cr to ₹3,000 Cr through a fresh issue and OFS. The filing formally kicks off Spinny’s listing process and could test public market appetite for its inventory-heavy used-car retail model. Spinny is targeting a 2027 listing. Its operating revenue stood at around $6,000 Cr in FY26 and expects 25-30% growth in FY27.",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/SOC-13.jpg",
+   "why": [
+    "IPO & Listing",
+    "Large deal (about $316M)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Commerce & D2C"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 11,
+   "priority": 79,
+   "title": "TRAI releases Telecom Consumer Protection (Thirteenth Amendment) Regulations, 2026",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313349",
+   "date": "2026-09-22",
+   "source": "PIB",
+   "label": "Technology & Telecom",
+   "snippet": "The Telecom Regulatory Authority of India (TRAI) today released the Telecom Consumer Protection (Thi",
+   "lead": "The Telecom Regulatory Authority of India (TRAI) today released the Telecom Consumer Protection (Thirteenth Amendment) Regulation, 2026. TRAI had released the draft Telecom Consumer Protection (Thirteenth Amendment) Regulations (TCPR), 2026 for consultation on its website on 07.04.2026. Since the implementation of TCPR (Twelfth Amendment), 2024, the Authority observed the limitation in the availability of Voice-and-SMS-only Special ...",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change"
+   ],
+   "tags": [
+    "Technology & Telecom"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 11,
+   "priority": 79,
+   "title": "Reserve Bank of India (All India Financial Institutions - Classification, Valuation, and Operation of Investment Portfolio) Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13711&Mode=0",
+   "date": "2026-09-22",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Reserve Bank of India (All India Financial Institutions - Classification, Valuation, and Operation of Investment Portfolio) Amendment Directions, 2026 Please refer to Chapter – VI of Reserve Bank of India (All India Financial Institutions - Classification, Valuation, and Operation of Investment Portfolio) Directions, 2025, dated November 28, 2025 , on market value of investments. In order to ensure clarity and uniform practices in the ...",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 73,
+   "title": "Captain Fresh’s Revenue Jumps 52% To ₹5,169 Cr In FY26",
+   "url": "https://inc42.com/buzz/captain-freshs-revenue-jumps-52-to-%e2%82%b95169-cr-in-fy26/",
+   "date": "2026-09-22",
+   "source": "Inc42",
+   "label": "India · SaaS & Enterprise",
+   "snippet": "Captain Fresh's adjusted EBITDA surged nearly 3X to ₹371 Cr as the seafood startup targets ₹10,000 Cr revenue in FY27.",
+   "lead": "Captain Fresh’s consolidated net revenue rose 52% YoY to ₹5,169 Cr in FY26, while its adjusted EBITDA jumped 2.7X to ₹371 Cr. The improved financial performance could bolster Captain Fresh’s efforts to revive its IPO plans after it withdrew its confidential filing in December 2025. The seafood company ended FY26 with ₹2,300 Cr of debt and a debt-to-equity ratio of 1.6. It is targeting ₹10,000 Cr in revenue in FY27.",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Captain-Fresh-social.jpg",
+   "why": [
+    "Financials",
+    "Very large figure in headline (about $544M: round or valuation)"
+   ],
+   "tags": [
+    "Financials",
+    "SaaS & Enterprise"
+   ],
+   "rank": 16,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 7,
-   "priority": 78,
-   "title": "Why has a TV presenter who has lived in Austria for over 50 years been denied citizenship?",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaWkza3l3bW9jRVRJVFhNSDA1eDN6TGhkejJJV2dqd1lwWkxESGxNOWx2X1drcG8yZ1JQbHY0Wk9QX0FUY3d2T2hVS0hLc3dMUjduWEw4cjlaeEZ1MEowM2RPU1FlOEtYd1R0T3U4T0NnMlAwZmZEejJXUzNEQldhVmh1SC0zR0VqZHlFQmJicTYtYkxmYW1ycDh2OXF0Mlo5aUc2RnRlMjZxUE4xRU9mNGJHMEJVNTdOd3JOVjJBdw?oc=5",
-   "date": "2026-09-21",
-   "source": "The Local Austria",
-   "label": "Austria",
-   "snippet": "Vienna’s immigration authority, MA 35, has refused to grant citizenship to a journalist who has lived in Austria for more than 50 years and works for the state broadcaster ORF. What's going on?",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source Vienna’s immigration authority, MA 35, has refused to grant citizenship to a journalist who has lived in Austria for more than 50 years and works for the state broadcaster ORF. What's going on? Ani Gülgün-Mayr, 56, was born in ...",
+   "priority": 70,
+   "title": "Swiss passport does not guarantee visa-free entry everywhere",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOMUd5YW8tMkNrYUE4dGhVeXBVZUJ6dldvN3FSVHBYeEZ5LUxXeVlqLWdQdHp2UUdOREMwbzJwdnlZRHlrS3dBaERPRUhSVDdDei1YdzBwSktuemFTTjlwZUNYb2ctXzdsLUJHNDQ3SUg1NmdseXU2VlR0RDVnSEY1bklwNmJUVFFYMmliOFUtbmZVQzhfNFUxcGluV05EUFpCZlFWMW5JRGJWN2VReEI2RlVDYzZ6LVhGeVZyRmFMSm9jS3R6NUp5LXFEQm9TZEstb3ZueEZ5aUoxWjNtWElGR1BHWi1DOEpwcEZDTVMwdnI2RWtid0ZEN2tTOGR3S0Nta3BvZ3kwR2dCVXpaODF0ZTJGMjF3MUtWUmllMEF1bmNLeVk?oc=5",
+   "date": "2026-09-22",
+   "source": "SWI swissinfo.ch",
+   "label": "Switzerland",
+   "snippet": "",
+   "lead": "",
    "image": null,
    "why": [
     "Affects citizenship"
    ],
    "tags": [
     "Citizenship",
-    "Austria"
+    "Switzerland"
    ],
-   "rank": 11,
+   "rank": 17,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 7,
-   "priority": 78,
+   "priority": 70,
    "title": "US visa delay: France and Germany Are Emerging as Preferred Choices for Indian Students",
    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQY21NZGVLZmRsVWgxOXVhMDlUTXZCQzBwWDRxRVZ2Qk9oNVRFUDdzTXhRNVlvUk92T0pseU9vS1FyUGJ5SFloMEo5UHZydDBTSlNtbkJ5bGl3Rkg2bzVTQnF6bk5PRl9jVllwRlFvYm9zSFd6WGJDc3RqZFhQemhuLXYtb0FjZVk4SmhKemNQT2RyUzVpTG1panhXYm9xTzNvSmUwdThrYkdla0pmV1ZxSVAtYVRCR2ZmUkMzVlYwVTZ0cmUzYjl3VlFDOEo0a1NSSXAtWkpQU2VZNjBWcGYtdGVzblNwX25NTHVPQ192UU9sc3fSAfgBQVVfeXFMT1hnTHNETTR6dDNiOG9tdGQzTzdNNURlMkxGTUtoQ3Z0OWR1SHJhSjR3R3dmQUVvVFRpVkpOdVQyckw4dml6b1hlRWx1WFlsc3ZiNlFkQWxZMGg3Q2VVMWpWY3VNOUVoMFFuZXV2bEJXbFdaVnRiOUlyeEVNRnoxYVNuVUh1UXpWLWdReUdweXllc0ZtYngxQlVNSGtnc2NWVUR6UWJvRDRRbTRfVm1mcHozS3FQQ0pGOGc0ZTZTQ2E2dS1fWVZoQ3NJWmJwTFB6WFBkbzhWdDY3cDlPb0V4T0xreHRIR2RzREowaXhCN01yOVk4X09YM3g?oc=5",
    "date": "2026-09-20",
@@ -704,13 +819,13 @@
     "Student / Graduate",
     "France"
    ],
-   "rank": 12,
+   "rank": 18,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 7,
-   "priority": 78,
+   "priority": 70,
    "title": "Guidance: India: tuberculosis test clinics for a UK visa",
    "url": "https://www.gov.uk/government/publications/india-tuberculosis-test-clinics-for-a-uk-visa",
    "date": "2026-09-20",
@@ -726,76 +841,7 @@
    "tags": [
     "United Kingdom"
    ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 73,
-   "title": "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
-   "url": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
-   "date": "2026-09-21",
-   "source": "TechCrunch Venture",
-   "label": "Global · Other",
-   "snippet": "Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing.",
-   "lead": "Oura’s $2.2B IPO is mostly a payday for existing shareholders Ram Iyer 9:45 AM PDT · September 21, 2026 Smart ring maker Oura is looking to raise as much as $2.2 billion in its upcoming IPO, but it looks like its current investors will be the ones making money in the process. According to the company’s updated IPO filing, Oura and its shareholders are together offering 50 million shares at a price range of $40 to $44 each. But most of ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $2,200M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 73,
-   "title": "Moneyview Sets ₹32-₹34 Price Band For ₹1,092 Cr IPO",
-   "url": "https://inc42.com/buzz/moneyview-sets-%e2%82%b932-%e2%82%b934-price-band-for-%e2%82%b91092-cr-ipo/",
-   "date": "2026-09-21",
-   "source": "Inc42",
-   "label": "India · Fintech",
-   "snippet": "Moneyview has set a ₹32–₹34 share price band for its ₹1,092 Cr IPO, valuing the fintech unicorn at up to ₹5,985 Cr.",
-   "lead": "Moneyview has set a price band of ₹32-₹34 per share for its IPO, which will open on September 24 and close on September 28. At the upper end of the price band, Moneyview is eyeing a valuation of around ₹5,985 Cr, significantly below its $1 Bn+ valuation when it became a unicorn in 2024. The IPO comprises a ₹750 Cr fresh issue and an OFS of 10.05 Cr shares worth about ₹342 Cr at the upper price band, taking the total issue size to ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/11/Moneyview-Soc-1.jpg",
-   "why": [
-    "IPO & Listing",
-    "Large deal (about $115M)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Fintech"
-   ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 73,
-   "title": "Kissht Gets Board Nod To Raise ₹832 Cr Via Preferential Issue",
-   "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/",
-   "date": "2026-09-18",
-   "source": "Inc42",
-   "label": "India · Fintech",
-   "snippet": "Listed NBFC Kissht has secured board approval to raise up ₹832.2 Cr via a preferential issue of equity shares to 34 investors and entities.",
-   "lead": "In a filing with the exchanges, the NBFC said that its board has approved the issuance of 2.6 Cr fully paid-up equity shares to the investors at an issue price of ₹314.11 apiece Kissht is raising the preferential issue right after its IPO, signalling strong institutional interest in its lending business. But there appears no clarity on how the funds will be utilised While Axis Mutual Fund will receive 63.7 Lakh shares worth nearly ₹200 ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/soc-3-2.jpg",
-   "why": [
-    "Funding",
-    "Sizeable deal (about $88M)",
-    "Startup File written (what they do, how they make money)"
-   ],
-   "tags": [
-    "Funding",
-    "Fintech"
-   ],
-   "rank": 16,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -817,7 +863,7 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 17,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -840,28 +886,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 18,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 5,
-   "priority": 56,
-   "title": "Spain Introduces New Visa Appointment System in Cuba: Service Begins in October",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpYjlIMHlOd3RoSFA2b1BOX3Nuc1o3SGdmMmtsal81R0tUcWpZaWNaSVJKdlRkSWtnd3NsR3ZaVENwMm1Dcno5X1pLbkhrSDY5dFhqSUY4VG4?oc=5",
-   "date": "2026-09-22",
-   "source": "CubaHeadlines",
-   "label": "Spain",
-   "snippet": "Starting October 5th, Spain will launch a revamped system for managing visa applications in Cuba, with appointments gradually becoming available throu...",
-   "lead": "Starting October 5th, Spain will launch a revamped system for managing visa applications in Cuba, with appointments gradually becoming available through a dedicated center located in Havana. The Spanish Consulate General in Havana announced on Monday that the new Visa Application Center for Spain in Cuba will be operational at 31st Avenue, between 18 and 14, house 1419, in the Miramar-Playa area. This facility will handle the receipt ...",
-   "image": null,
-   "why": [
-    "Announces a change"
-   ],
-   "tags": [
-    "Spain"
-   ],
-   "rank": 19,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -883,7 +908,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 20,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -904,49 +929,6 @@
    ],
    "tags": [
     "Tax, Duties & Trade"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 7,
-   "priority": 50,
-   "title": "Samuhik Prativedan Manch- A Technology based common reporting mechanism extended to Members of Clearing Corporations",
-   "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/sep-2026/samuhik-prativedan-manch-a-technology-based-common-reporting-mechanism-extended-to-members-of-clearing-corporations_104568.html",
-   "date": "2026-09-17",
-   "source": "SEBI",
-   "label": "Markets & Regulation",
-   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Rates and liquidity",
-    "Regulator: SEBI"
-   ],
-   "tags": [
-    "Markets & Regulation"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 4,
-   "priority": 29,
-   "title": "NHAI Introduces New Guidelines for Design and Development of Access-Controlled High-Speed National Highways",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313032",
-   "date": "2026-09-21",
-   "source": "PIB",
-   "label": "Infrastructure & Transport",
-   "snippet": "In line with the Government of India’s vision of Viksit Bharat 2047 and long-term objective of devel",
-   "lead": "In line with the Government of India’s vision of Viksit Bharat 2047 and long-term objective of developing a world-class National Highway network, NHAI has released comprehensive guidelines for the planning and designing of High-Speed Access controlled National Highways, other than Expressways. The guidelines seek to bring uniformity in standards for preparation of Detailed Project Reports (DPRs) of high-speed National Highway corridors ...",
-   "image": null,
-   "why": [
-    "Rule change"
-   ],
-   "tags": [
-    "Infrastructure & Transport"
    ],
    "rank": 23,
    "must_read": false
