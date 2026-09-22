@@ -1,6 +1,6 @@
 {
  "edition": "2026-09-22",
- "built": "2026-09-22 02:05 IST",
+ "built": "2026-09-22 07:26 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,15 +12,15 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23346.0,
-   "change_pct": 0.33,
+   "value": 23414.0,
+   "change_pct": 0.29,
    "asof": "21 Sep 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74295.0,
-   "change_pct": -0.03,
+   "value": 74859.0,
+   "change_pct": 0.76,
    "asof": "21 Sep 15:32 IST"
   },
   {
@@ -28,21 +28,21 @@
    "dp": 2,
    "value": 95.81,
    "change_pct": -0.22,
-   "asof": "22 Sep 01:18 IST"
+   "asof": "22 Sep 07:22 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 95.87,
-   "change_pct": -7.7,
-   "asof": "22 Sep 01:54 IST"
+   "value": 96.92,
+   "change_pct": -6.69,
+   "asof": "22 Sep 07:15 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4379.0,
-   "change_pct": -1.04,
-   "asof": "22 Sep 01:55 IST"
+   "value": 4385.0,
+   "change_pct": -0.89,
+   "asof": "22 Sep 07:16 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -161,8 +161,8 @@
    ]
   },
   "Startups": {
-   "total": 90,
-   "new_today": 0,
+   "total": 91,
+   "new_today": 1,
    "items": [
     {
      "desk": "Startups",
@@ -251,9 +251,29 @@
    ]
   },
   "Immigration": {
-   "total": 340,
-   "new_today": 2,
+   "total": 345,
+   "new_today": 5,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 56,
+     "title": "Canada invites 250 senior managers to apply for permanent residence",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVldLbk1VbURsREUxQ0lXRXNWLUVLb3lsRUZLYVUyTUh1bDVobWJMb2YwS3ZqcGdOR0N4VnNxTlRBSjE2WDViRDlZY0hBMmE2TUFWY0ZxY1VYQW1xWHRiMFhrOTNYeFgwZ1FPVUhqM2JZVVNDWFROQ1NwRkg2azN1SV8tZU9tdUN0azBnSmNMb0Vick5PeTJxVXB1WmhPMHRFQUJtdFhDZW5VbmZlWTJMNWJn0gG3AUFVX3lxTFA2RTFGLXZVNU5BbGttWmFOcU1taHlQNHhhU1l0NDVZcm5ZSTZPZDZXY2tnOWpSOW1GUnFuU1N2VkJvaUd2Zlc4T2Q5b182cnFsS0pGcHp4STdmRjM1bkU1bUNxMmU5cG0xLThJLUlrMkJOMlhHU1ZTSW5aXzFrSHZmcmpWcm1pNmI0X1liNXpFS19vV1M0SHZwOWFsbjJDVnFZNlY2MHlTaDJBN3JzekhZbUQ0WF9uUQ?oc=5",
+     "date": "2026-09-16",
+     "source": "CIC News",
+     "label": "Canada",
+     "snippet": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 250 ITAs in a draw for senior managers with Canadian work experience. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) scor",
+     "lead": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 250 ITAs in a draw for senior managers with Canadian work experience. Foreign nationals in Canada who have applied for permanent residence through Express Entry may be able to obtain a Bridging Open Work Permit (BOWP).",
+     "image": "https://www.cicnews.com/wp-content/uploads/2026/09/Express-Entry-Draw-56.jpg",
+     "why": [
+      "Affects permanent residence"
+     ],
+     "tags": [
+      "PR / Settlement",
+      "Canada"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 4,
@@ -491,7 +511,7 @@
    "image": "https://images.indianexpress.com/2026/09/australian-visa.jpg",
    "why": [
     "Announces a change",
-    "Major story (17 headlines that day)",
+    "Major story (18 headlines that day)",
     "Mentions India or Indians"
    ],
    "tags": [
@@ -827,20 +847,19 @@
    "desk": "Immigration",
    "score": 5,
    "priority": 56,
-   "title": "Canada invites 250 senior managers to apply for permanent residence",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVldLbk1VbURsREUxQ0lXRXNWLUVLb3lsRUZLYVUyTUh1bDVobWJMb2YwS3ZqcGdOR0N4VnNxTlRBSjE2WDViRDlZY0hBMmE2TUFWY0ZxY1VYQW1xWHRiMFhrOTNYeFgwZ1FPVUhqM2JZVVNDWFROQ1NwRkg2azN1SV8tZU9tdUN0azBnSmNMb0Vick5PeTJxVXB1WmhPMHRFQUJtdFhDZW5VbmZlWTJMNWJn0gG3AUFVX3lxTFA2RTFGLXZVNU5BbGttWmFOcU1taHlQNHhhU1l0NDVZcm5ZSTZPZDZXY2tnOWpSOW1GUnFuU1N2VkJvaUd2Zlc4T2Q5b182cnFsS0pGcHp4STdmRjM1bkU1bUNxMmU5cG0xLThJLUlrMkJOMlhHU1ZTSW5aXzFrSHZmcmpWcm1pNmI0X1liNXpFS19vV1M0SHZwOWFsbjJDVnFZNlY2MHlTaDJBN3JzekhZbUQ0WF9uUQ?oc=5",
-   "date": "2026-09-16",
-   "source": "CIC News",
-   "label": "Canada",
-   "snippet": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 250 ITAs in a draw for senior managers with Canadian work experience. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) scor",
-   "lead": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 250 ITAs in a draw for senior managers with Canadian work experience. Foreign nationals in Canada who have applied for permanent residence through Express Entry may be able to obtain a Bridging Open Work Permit (BOWP).",
-   "image": "https://www.cicnews.com/wp-content/uploads/2026/09/Express-Entry-Draw-56.jpg",
+   "title": "Spain Introduces New Visa Appointment System in Cuba: Service Begins in October",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpYjlIMHlOd3RoSFA2b1BOX3Nuc1o3SGdmMmtsal81R0tUcWpZaWNaSVJKdlRkSWtnd3NsR3ZaVENwMm1Dcno5X1pLbkhrSDY5dFhqSUY4VG4?oc=5",
+   "date": "2026-09-22",
+   "source": "CubaHeadlines",
+   "label": "Spain",
+   "snippet": "Starting October 5th, Spain will launch a revamped system for managing visa applications in Cuba, with appointments gradually becoming available throu...",
+   "lead": "Starting October 5th, Spain will launch a revamped system for managing visa applications in Cuba, with appointments gradually becoming available through a dedicated center located in Havana. The Spanish Consulate General in Havana announced on Monday that the new Visa Application Center for Spain in Cuba will be operational at 31st Avenue, between 18 and 14, house 1419, in the Miramar-Playa area. This facility will handle the receipt ...",
+   "image": null,
    "why": [
-    "Affects permanent residence"
+    "Announces a change"
    ],
    "tags": [
-    "PR / Settlement",
-    "Canada"
+    "Spain"
    ],
    "rank": 19,
    "must_read": false
