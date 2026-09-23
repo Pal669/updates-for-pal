@@ -1,6 +1,6 @@
 {
- "edition": "2026-09-23",
- "built": "2026-09-23 10:39 IST",
+ "edition": "2026-09-24",
+ "built": "2026-09-24 01:21 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,80 +12,100 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23411.0,
-   "change_pct": -0.01,
-   "asof": "23 Sep 10:39 IST"
+   "value": 23414.0,
+   "change_pct": 0.29,
+   "asof": "23 Sep 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74739.0,
-   "change_pct": -0.16,
-   "asof": "23 Sep 10:24 IST"
+   "value": 74859.0,
+   "change_pct": 0.76,
+   "asof": "23 Sep 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.66,
-   "change_pct": -0.06,
-   "asof": "23 Sep 10:38 IST"
+   "value": 95.73,
+   "change_pct": 0.02,
+   "asof": "24 Sep 00:16 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 98.07,
-   "change_pct": -1.19,
-   "asof": "23 Sep 10:28 IST"
+   "value": 98.55,
+   "change_pct": -0.71,
+   "asof": "24 Sep 01:11 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4382.0,
-   "change_pct": 0.13,
-   "asof": "23 Sep 10:28 IST"
+   "value": 4321.0,
+   "change_pct": -1.26,
+   "asof": "24 Sep 01:11 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 4.96,
-   "change_pct": -0.7,
-   "asof": "23 Sep 00:29 IST"
+   "value": 5.11,
+   "change_pct": 3.04,
+   "asof": "24 Sep 00:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "DheyaTech",
-   "tagline": "Bengaluru aerospace propulsion startup",
-   "what": "Founded in 2018 by aerospace engineers Gurushankara KC, Abhinav Alva and Chetan Kumar. Develops small gas turbine engines (20 kgf to 400 kgf thrust) for aerial platforms and energy systems, with the design, assembly and testing pipeline and its engine control unit built in-house. Expanding into hydrogen-based technology and distributed power generation, including a 60 kW turbogenerator with a hydrogen flexi-fuel combustor developed with IISc.",
+   "company": "Aakash Educational Services",
+   "tagline": "Test-prep coaching chain owned by BYJU'S parent",
+   "what": "Gurugram-based test-prep brand for engineering and medical entrance exams, owned by BYJU'S parent Think & Learn since its 2021 acquisition.",
    "how": [
-    "Sells engines to OEMs: the company says it already has orders from Indian and global OEMs but did not disclose names or values.",
-    "Inferred: revenue is hardware sales; the article gives no pricing or revenue figures."
+    "Coaching fees: Rs 1,956.2 Cr of Rs 2,040.5 Cr operating revenue in FY26 (about 96%, computed).",
+    "Franchisee revenue: Rs 84.4 Cr, up 4% (about 4%, computed)."
    ],
-   "watch": "Pre-revenue-scale hardware: certification timelines and first commercial deliveries are the milestones to track. Article also notes rising investor interest in aerospace and spacetech (D-Propulse Rs 25 Cr in January; InspeCity Rs 100 Cr in August).",
-   "sector": "AI & Deeptech",
+   "watch": "The smaller loss came from one-off accounting gains, not from the business growing: revenue is flat. Ownership is entangled in the BYJU'S group's disputes: Byju Raveendran proposed relinquishing his claimed interest in 17.89 Mn Aakash shares to settle Qatar Holding's arbitration claim of over $235 Mn; lenders (Global TLB lenders via GLAS Trust) are reportedly in advanced talks for a 30% stake valuing Aakash at about $2 Bn.",
+   "sector": "Edtech & Skills",
    "region": "India",
-   "url": "https://inc42.com/buzz/dheyatech-bags-%e2%82%b943-cr-to-scale-indigenous-gas-turbine-engines/"
+   "url": "https://inc42.com/buzz/aakash-trims-fy26-loss-by-16-to-%e2%82%b9186-5-cr-top-line-flat-at-%e2%82%b92040-cr/"
   },
   "country": {
-   "id": "australia",
-   "name": "Australia",
-   "trend": "Tightening at the edges; employer-sponsored expanding",
-   "pr": "2026-27 permanent program: 185,000 places, 132,240 (over 70%) in the skill stream; about 129,590 places for people already in Australia. Employer-sponsored places rise from 44,000 to 58,040. Time to PR through 482 then 186 was not verified this session; check the Department of Home Affairs.",
-   "citizenship": "About 4 years of residence including 12 months as a permanent resident (general knowledge, not re-verified). Dual citizenship allowed.",
-   "pro": "English-speaking; strong wages (general knowledge).",
-   "con": "Priority goes to people already onshore, so applying from India is harder.",
-   "watch": "Skills in Demand occupation lists"
+   "id": "new-zealand",
+   "name": "New Zealand",
+   "trend": "Loosening (new pathways from 24 Aug 2026)",
+   "pr": "Skilled Work Experience Pathway: skill level 1-3 role, 5 years relevant experience including 2 years in New Zealand at 1.1x the median wage. Trades and Technician Pathway: relevant Level 4+ qualification, 4 years experience including 18 months in NZ at or above the median wage. Applicants generally meet only one wage threshold, the one in force when they started accruing experience.",
+   "citizenship": "About 5 years as a resident (general knowledge, not re-verified). Dual citizenship allowed.",
+   "pro": "Eligibility widened and wage rules simplified in the 2026 reform.",
+   "con": "Small economy and job market; fewer senior finance roles (general knowledge).",
+   "watch": "How INZ implements the August 2026 changes"
   }
  },
  "desks": {
   "Policy": {
-   "total": 60,
+   "total": 62,
    "new_today": 0,
    "items": [
     {
      "desk": "Policy",
-     "score": 6,
-     "priority": 43,
+     "score": 7,
+     "priority": 78,
+     "title": "Samuhik Prativedan Manch- A Technology based common reporting mechanism extended to Members of Clearing Corporations",
+     "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/sep-2026/samuhik-prativedan-manch-a-technology-based-common-reporting-mechanism-extended-to-members-of-clearing-corporations_104568.html",
+     "date": "2026-09-17",
+     "source": "SEBI",
+     "label": "Markets & Regulation",
+     "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Rates and liquidity",
+      "Regulator: SEBI"
+     ],
+     "tags": [
+      "Markets & Regulation"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 56,
      "title": "Detailed Result: OMO Sale Auction held on Sep 21, 2026 and Settlement on Sep 22, 2026",
      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63635",
      "date": "2026-09-21",
@@ -105,26 +125,7 @@
     {
      "desk": "Policy",
      "score": 4,
-     "priority": 29,
-     "title": "Novation of OTC Derivative Contracts",
-     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13706&Mode=0",
-     "date": "2026-09-22",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Notifications - Reserve Bank of India",
-     "lead": "Please refer to the draft Reserve Bank of India (Novation of OTC Derivative Contracts) Directions, 2025, issued vide press release dated July 09, 2025 . 2. Based on the feedback received, the instructions related to the OTC derivative contracts have been finalised. Statement on the major feedback received is provided in the Annex . 3. With a view to consolidate circulars/instructions, the instructions have been inserted in the ...",
-     "image": null,
-     "why": [
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 4,
-     "priority": 29,
+     "priority": 44,
      "title": "Biometric Aadhaar Authentication Mandatory for Subsidised Domestic LPG Refills from 1 October 2026",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2312532",
      "date": "2026-09-19",
@@ -143,28 +144,70 @@
     {
      "desk": "Policy",
      "score": 3,
-     "priority": 21,
-     "title": "NHAI Introduces New Guidelines for Design and Development of Access-Controlled High-Speed National Highways",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313032",
-     "date": "2026-09-21",
-     "source": "PIB",
-     "label": "Infrastructure & Transport",
-     "snippet": "In line with the Government of India’s vision of Viksit Bharat 2047 and long-term objective of devel",
-     "lead": "In line with the Government of India’s vision of Viksit Bharat 2047 and long-term objective of developing a world-class National Highway network, NHAI has released comprehensive guidelines for the planning and designing of High-Speed Access controlled National Highways, other than Expressways. The guidelines seek to bring uniformity in standards for preparation of Detailed Project Reports (DPRs) of high-speed National Highway corridors ...",
+     "priority": 33,
+     "title": "Novation of OTC Derivative Contracts",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13706&Mode=0",
+     "date": "2026-09-22",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Notifications - Reserve Bank of India",
+     "lead": "Please refer to the draft Reserve Bank of India (Novation of OTC Derivative Contracts) Directions, 2025, issued vide press release dated July 09, 2025 . 2. Based on the feedback received, the instructions related to the OTC derivative contracts have been finalised. Statement on the major feedback received is provided in the Annex . 3. With a view to consolidate circulars/instructions, the instructions have been inserted in the ...",
      "image": null,
      "why": [
-      "Rule change"
+      "Regulator: RBI"
      ],
      "tags": [
-      "Infrastructure & Transport"
+      "Banking & Rates"
      ]
     }
    ]
   },
   "Startups": {
-   "total": 130,
-   "new_today": 11,
+   "total": 160,
+   "new_today": 2,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 73,
+     "title": "DMI Finance secures Rs 1,455 Cr via listed NCDs to drive lending growth",
+     "url": "https://yourstory.com/2026/09/dmi-finance-secures-rs-1455-cr-via-listed-ncds-to-drive-lending-growth",
+     "date": "2026-09-23",
+     "source": "YourStory",
+     "label": "India · Fintech",
+     "snippet": "DMI Finance has raised Rs 1,455 crore through an oversubscribed, secured NCD issuance to support its lending portfolio expansion and strengthen its debt capital base. The transaction saw broad participation from institutional investors and family offices.",
+     "lead": "Delhi-headquartered NBFC DMI Finance has raised Rs 1,455 crore by issuing secured, listed Non-Convertible Debentures (NCDs) on a private placement basis. The issuance received aggregate bids of Rs 1,630 crore and saw participation from a diverse set of investors, including mutual funds, alternative investment funds (AIFs), primary dealers, corporates and family offices, according to a statement. The NCDs are rated AA by ICRA and have a ...",
+     "image": "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/Not-To-DoList7-1745865985520.png",
+     "why": [
+      "IPO & Listing",
+      "Large deal (about $153M)"
+     ],
+     "tags": [
+      "IPO & Listing",
+      "Fintech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 73,
+     "title": "China chipmaker CanSemi seeks to raise up to $918.5 million in Shenzhen listing",
+     "url": "https://economictimes.indiatimes.com/tech/technology/china-chipmaker-cansemi-seeks-to-raise-up-to-918-5-million-in-shenzhen-listing/articleshow/134435931.cms",
+     "date": "2026-09-23",
+     "source": "ET Startups",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Chinese chipmaker CanSemi Technology is seeking to raise 6.16 billion yuan ($918.5 million) in a Shenzhen listing after pricing its shares at 12.01 yuan each, a company filing showed on Wednesday.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-110200,resizemode-75,msid-134435931/tech/technology/china-chipmaker-cansemi-seeks-to-raise-up-to-918-5-million-in-shenzhen-listing.jpg",
+     "why": [
+      "IPO & Listing",
+      "Very large figure in headline (about $918M: round or valuation)"
+     ],
+     "tags": [
+      "IPO & Listing",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 11,
@@ -208,181 +251,121 @@
       "Financials",
       "Edtech & Skills"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 67,
-     "title": "Meet Nuvr, the bootstrapped startup managing Rs 1,200 Cr of ecommerce sales for brands",
-     "url": "https://yourstory.com/2026/09/nuvr-bootstrapped-startup-managing-rs-1200-cr-ecommerce-sales-brands",
-     "date": "2026-09-23",
-     "source": "YourStory",
-     "label": "India · Commerce & D2C",
-     "snippet": "The Bengaluru-based venture runs online P&Ls for brands such as Medimix, Nilon’s and Origami, using its own technology and a performance-linked revenue model.",
-     "lead": "Meet Nuvr, the bootstrapped startup managing Rs 1,200 Cr of ecommerce sales for brands The Bengaluru-based startup runs online P&Ls for brands such as Medimix, Nilon’s, and Origami, using its own technology and a performance-linked revenue model. Team YS 17222 Stories Wednesday September 23, 2026 , 5 min Read In 2023, Pulkit Chhabra was pitching an ecommerce analytics product to a consumer brand founder when the conversation took an ...",
-     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/NuvrOption21600x900-1790081570149.jpg",
-     "why": [
-      "Financials",
-      "Large deal (about $126M)"
-     ],
-     "tags": [
-      "Financials",
-      "Commerce & D2C"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 67,
-     "title": "Cloud startup Verda raises $189m in funding round led by Emergence Capital",
-     "url": "https://sifted.eu/articles/verda-datacrunch-funding-round-emergence-ventures/",
-     "date": "2026-09-22",
-     "source": "Sifted",
-     "label": "Global · SaaS & Enterprise",
-     "snippet": "Formerly known as DataCrunch, Verda's offering spans data centres, hardware and cloud infrastructure",
-     "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
-     "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/04/23163735/Verda_Ruben_Bryon_2026-3-1-scaled-e1776958720935.jpg",
-     "why": [
-      "Acquisition",
-      "Large deal (about $189M)"
-     ],
-     "tags": [
-      "Acquisition",
-      "SaaS & Enterprise"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 392,
-   "new_today": 1,
+   "total": 402,
+   "new_today": 0,
    "items": [
     {
      "desk": "Immigration",
      "score": 5,
-     "priority": 50,
-     "title": "New Zealand to introduce new 6-month graduate work visa from this year: Check eligibility",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdUZHeG5rNU9jU2E4Wm8xZDdENlg3LXBSTnRVUHRLVy0zMURzOXYzcFRNNUh0ZUJOMEtHN19NUnRWa09ITmpFaW1DNndTWUsybU85N0x0X3IxUTk3M0NlZUVhejNZZnh3aEw5bnBDOC15eTdOaXdEc0VfY3JsWU04ZkR0dDQ0amdySl9IMVZLeVhld09zaFk1bXVubW9LTm1TdEdGbGtBTndFZGpVUk1NTllUWnh0cXNMUDZvRU9RUmNvNE5sSkRhZ082bldCOV940gHXAUFVX3lxTE1pY0puN19SWlAzUjBoNXpCYUpsbUdzd2ZpYVlLQzZRTHNpMlB0N0VwLWswSDhtbEZhTXBKTGtpbVg2TjFYYkRqUUlENlExN2t0eC1kZFUzLUtRRlUwRFd6WGtDcVNjd1RCV1YxaVB2N0JpeUhDVXFmUXR5dkVySy1mRGdSUnZNZ29BRF9fZ1h4bGFGU3lVbHRJNk9pOWJtbG9jRnd5Tzd2N2Zrdk9zcVg0QWxRcy1ROHpIUENsTzB1UjNScENpbl9uamY5NEF4YkI4MTB5MGhJ?oc=5",
-     "date": "2026-09-16",
-     "source": "The Indian Express",
-     "label": "New Zealand",
+     "priority": 56,
+     "title": "Swiss passport does not guarantee visa-free entry everywhere",
+     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOMUd5YW8tMkNrYUE4dGhVeXBVZUJ6dldvN3FSVHBYeEZ5LUxXeVlqLWdQdHp2UUdOREMwbzJwdnlZRHlrS3dBaERPRUhSVDdDei1YdzBwSktuemFTTjlwZUNYb2ctXzdsLUJHNDQ3SUg1NmdseXU2VlR0RDVnSEY1bklwNmJUVFFYMmliOFUtbmZVQzhfNFUxcGluV05EUFpCZlFWMW5JRGJWN2VReEI2RlVDYzZ6LVhGeVZyRmFMSm9jS3R6NUp5LXFEQm9TZEstb3ZueEZ5aUoxWjNtWElGR1BHWi1DOEpwcEZDTVMwdnI2RWtid0ZEN2tTOGR3S0Nta3BvZ3kwR2dCVXpaODF0ZTJGMjF3MUtWUmllMEF1bmNLeVk?oc=5",
+     "date": "2026-09-22",
+     "source": "SWI swissinfo.ch",
+     "label": "Switzerland",
      "snippet": "",
      "lead": "",
      "image": null,
      "why": [
-      "Announces a change"
+      "Affects citizenship"
      ],
      "tags": [
-      "Student / Graduate",
-      "New Zealand"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 4,
-     "priority": 40,
-     "title": "Dutch Woman Detained After Disturbances at Hotel and Immigration Office in Bali",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMlY0MHFpbXZTZExXSXFzb3J2Tzh3ODZscW5sZ29mMGlUMkNuaXctOVFwMGZCdDZ3T19XY2FWNkRMd3VLeFFzZktuSFRuQVh4anhnVkxrbUxxdGI3ZFdCVVJLdUIyZkxFQzFnY2t0akxOOFJaT29YRi1pUnB6R1FKeklwelpYTGJqR3lnQk1xNFNhR2dBU05WRHdmbWllS1RacDJHN2Jaa0FSYkJxclVxOUZ2SkhpNzg?oc=5",
-     "date": "2026-09-22",
-     "source": "The Bali Times",
-     "label": "Netherlands",
-     "snippet": "A Dutch woman was detained after allegedly causing disturbances at a hotel and later at the Denpasar Immigration Office in Bali.",
-     "lead": "A 67-year-old Dutch woman, identified by her initials FMMM, at the Denpasar Immigration Office on Monday, Sept. 21, 2026. (Photo: Denpasar Immigration Detention Centre) DENPASAR — A Dutch woman was detained by immigration authorities after allegedly causing disturbances at a hotel and later at the Denpasar Immigration Office in Bali, officials said Tuesday. The 67-year-old woman, identified by her initials FMMM, was initially reported ...",
-     "image": "https://thebalitimes.com/wp-content/uploads/2026/09/13308280157.jpg",
-     "why": [
-      "Announces a change"
-     ],
-     "tags": [
-      "Netherlands"
+      "Citizenship",
+      "Switzerland"
      ]
     }
    ]
   },
   "Advisory": {
-   "total": 2025,
+   "total": 2521,
    "new_today": 0,
    "items": [
     {
      "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
-     "title": "Purple Finance board approves ₹15 crore NCD issue and loan portfolio sale",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdmk4ME0tejhIT1dycnNFUDdhVlBsQ19MUW9aMXVJdG94Sm12NDhObXJDclpLdHB2cWdMcm9mUmt5VDdoQlRnVzNmUjZ6cFRKX3IzVzdKZm9ZT1lSLUd1VkhSM1RfSmFVLW0zQUVmRll2QXYxSkplelNraFZpQ0tod3F1NmFSb1BiUXlLc3g0Q2d5V09HN3loY2R1ZGg3cmd4RzFxTy1fWi13ZzYwUXM5VGhn?oc=5",
-     "date": "2026-09-22",
-     "source": "scanx.trade",
-     "label": "Debt & Bonds",
-     "snippet": "Finance Committee approved issuance of up to ₹15 crore in NCDs at 11.90% interest. Approved sale of loan portfolio worth up to ₹20 crore via Direct Assignment route. Revised previous portfolio sale approval from ₹8.74 crore to ₹12 crore. NCDs have a tenure of 30 months 8 days with monthly interest payments. Purple Finance retains servicin",
-     "lead": "Purple Finance Limited's Finance Committee approved the issuance of up to ₹15 crore in Non-Convertible Debentures and the sale of loan portfolios aggregating up to ₹32 crore during its meeting on September 22, 2026. The board authorised the private placement of up to 15,000 Senior, Secured, Rated, Listed, Redeemable, Transferable, INR Denominated NCDs with a face value of ₹10,000 each. These instruments carry an interest rate of 11.90% ...",
-     "image": "https://news-images.dhan.co/purple-finance-board-meets-sep-22-consider-fund-raising.jpg",
+     "score": 10,
+     "priority": 77,
+     "title": "Gold falls as Fed rate hike bets lift US Dollar to two-month high",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUW5VUzJpek03TUg1MFR2WUI2RWd4VzVFNnJXRDRuSUFMRHBBN0phVkdibVB0OWJsR0VKNVFmSjY4TVU2Y1cyUzJsX01CeDd4eEhPM3pOMHAwLUQ1c3BWOExyak8zd0F0ZDFqUGQ0QUV0MzVnQ2ttN3RZR25ST0d1U2pPYldsT3p6VnN2NTFqWk5fdUFrbUdJVDNQQVVkYk9GRDlTSjlDblBQeFRBS0lGZFp4SW5GQnBpc3RwVFdvblhmOTFMZHVUcFBycw?oc=5",
+     "date": "2026-09-23",
+     "source": "tmgm.com",
+     "label": "Gold & Silver",
+     "snippet": "Gold (XAU/USD) trades on the back foot on Wednesday as expectations of further Federal Reserve (Fed) rate hikes lift the US Dollar (USD) and weigh on the non-yielding metal. At the time of writing, XAU/USD trades around $4,315, down 1.0% on the day.",
+     "lead": "Impostaci come preferiti su Google Gold loses ground as the US Dollar extends its gains following last week’s Fed rate hike. Lower Oil prices offer little relief as inflation concerns keep US Treasury yields elevated. XAU/USD tests the lower Bollinger Band near $4,305, with $4,350 as initial resistance. Gold (XAU/USD) trades on the back foot on Wednesday as expectations of further Federal Reserve (Fed) rate hikes lift the US Dollar ...",
+     "image": "https://editorial.fxsstatic.com/images/i/discover-50_Large.png",
      "why": [
+      "Interest-rate decision",
+      "Precious metals",
+      "Global macro driver"
+     ],
+     "tags": [
+      "Gold & Silver"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 77,
+     "title": "RBI revises InvIT, REIT valuation norms for all-India financial institutions; check new rules",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQclhQVTlFWWJ5cWl3SzBXM3puRWp0MVdjYXQ4aU5sWDl1cXZqZDd6R1p1QVVfNThPWC1Cd0lCdHk2V0lrbUQ0VEVieGhGNUJzVWlxVF9VOWtjQnNOMHVlM1cySGI1Rk1zdGVLbkRhYm9aVnM0cmFvQ1Z1TEFqQUFXUzMwUjEtRW03X2xueXQ3YXIxcXgxbkhrenE2OWxrN05rSzMwYUg4QnNtckQ5MGdPTjZkWW13QXlOWHNBVW9ucVhONEZaWHNVR0N6ZVJZVXdSdXZaUG5RSFVwNkl5SEl1bVN6aURGM2lKeHlTWtIB8gFBVV95cUxNMUhzbmZsSC1CVXFUbHFvaXU3VzJYZ3JHUDQzcmdzQ3phQ3VDZVpqWm1KS0ZxU2lkN0VhTHJjYjFTczJDVmg4ajdNbjJVdnl4d2R6a1J1dWQyRlVUdHF5bjFEVThEbkctcy1FcjF0WncyeV9PTjlrMFp0OVNsWGtaY2tuWU53YXRtUmdnWlduLTRwS1AxYkR3WGRmWmhFTTBtWnhNd29Pcy1vUGUyelFzZk9SVHVvMDM1S3pIQTZNeTAyd1FHNkpXVHpaM2t1cjNtaWtneWhIWHNqeXZYcDk3QUFGUVB0QmRqZ2FUQ01WQzNSQQ?oc=5",
+     "date": "2026-09-22",
+     "source": "Business Today",
+     "label": "REITs & InvITs",
+     "snippet": "RBI has revised valuation rules for REIT and InvIT units held by all-India financial institutions, aiming to bring greater clarity and uniformity to valuation practices. The new framework sets out separate rules for quoted and unquoted units, including a ₹1 valuation in specified cases",
+     "lead": "Business Today Desk Updated Sep 22, 2026 8:59 PM IST Under the revised framework, quoted securities and InvIT/REIT units will be valued in line with existing RBI instructions for quoted securities. The Reserve Bank of India (RBI) has revised valuation norms for Infrastructure Investment Trust (InvIT) and Real Estate Investment Trust (REIT) units held by all-India financial institutions (AIFIs), introducing separate and standardised ...",
+     "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab29bd6cf49b-under-the-revised-framework--quoted-securities-and-invitreit-units-will-be-valued-in-line-with-exis-221637943-16x9.png",
+     "why": [
+      "REIT / InvIT news",
+      "Regulator: SEBI or RBI",
       "Rule or framework change",
-      "New debt issue",
       "Also covered by 1 other outlet(s)"
      ],
      "tags": [
-      "Debt & Bonds"
+      "REITs & InvITs"
      ]
     },
     {
      "desk": "Advisory",
      "score": 9,
-     "priority": 75,
-     "title": "Gold Defies Fed Rate Hike to Break Out; Deutsche Bank Identifies Central Banks as the Mystery Buyers",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00eGN6Z1Y5T1hhd21WR0xKNHQyMUk2bEMtWS14UFhEdTdEMjZTUkFVR1ZmNXZVWFh5OU1YMTlHanQ2SXJ1LWVFNzVxNGI1T1drdnNEQnR5ZXpVd2czdzJ2NjRZY210T2daV1NwN0VidG5aT2l5T3c?oc=5",
-     "date": "2026-09-21",
-     "source": "finance.biggo.com",
-     "label": "Gold & Silver",
-     "snippet": "Gold prices broke above the downtrend line that had been in place since the Jackson Hole symposium, defying the Federal Reserve's rate hike. Deutsche…",
-     "lead": "Ask Agent Real-time News Market Earnings Call Event Calendar Watchlist Podcast Earnings Call Event Calendar Watchlist Podcast More Pricing Ask Agent Real-time News Watchlist Market Earnings Call Event Calendar Podcast Gold Defies Fed Rate Hike to Break Out; Deutsche Bank Identifies Central Banks as the Mystery Buyers Add preferred source Gold prices broke above the downtrend line that had been in place since the Jackson Hole symposium, ...",
-     "image": "https://img.biggo.com/dNZmOPD_q5utwNS3PJmJVfWcnREbrrzu4WQWaUdD32k/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5LzcyMjUxMWJhLTE4NDItNDFkNS1hYjY5LTY3YjJiNWVjMzIxMF8xNzkwMDE4MTk4X2RlZmF1bHQuanBn.jpg",
-     "why": [
-      "Interest-rate decision",
-      "Precious metals",
-      "Global macro driver"
-     ],
-     "tags": [
-      "Gold & Silver"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
-     "title": "Gold eases on inflation woes, rate hike fears",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNako1eEg1bC1UaWRBZzdudnFYbThUQ1JtRHBXZDUwZnU4NzhsVzlDSkxPcnY0QWt6Zlc2b0hQTFJWZGhIM2d5RWt5SDMyR2o3ODMyNlZSN3NfS0NjTzZqdllQeDFPT0h0NFdmS1EzOE0ybXNXanRtdHIwcmVnTmxwRl9FeF9fc1BLRFhzbTZTZF96eHFicjl6QmQtcGFKM2pFeXc?oc=5",
-     "date": "2026-09-21",
-     "source": "cfo.economictimes.indiatimes.com",
-     "label": "Gold & Silver",
-     "snippet": "Gold prices have decreased in early trading due to inflation worries and expectations of rising interest rates, influenced by recent Middle East tensions. Discover the latest trends in gold and precious metals.",
-     "lead": "Read and get insights from specially curated unique stories from editorial Join leaders & experts for roundtables, conferences, panels and discussions We have various options to advertise with us including Events, Advertorials, Banners, Mailers, etc.",
-     "image": "https://etimg.etb2bimg.com/thumb/msid-134383350,imgsize-105562,width-1200,height=627,overlay-etcfo,resizemode-75/news/gold-eases-on-inflation-woes-rate-hike-fears.jpg",
-     "why": [
-      "Interest-rate decision",
-      "Precious metals",
-      "Also covered by 2 other outlet(s)"
-     ],
-     "tags": [
-      "Gold & Silver"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 8,
-     "priority": 67,
-     "title": "In the News: Tyler Schipper on the Federal Reserve’s Interest Rate Hike",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeFFmX05fSEIxd2JSSm0zbTk3Y0FkUktQM2M4RkRzYjNYZVYyR3RhU1ByWDNaVnFERWZ0WlJmOE1JRTB0X2JSZWUtRE4tclAzZVZtQmgxakpBMGZSaWxwb3d0cXJtWHVkX3J2ZnNfZTRZOVlYOEhmUmdUYzJjNFVpSmFFdVF2UDF2Mzl2MXFKRzFnMHBsQ0k1SUVqaHQ?oc=5",
+     "priority": 69,
+     "title": "RBI issues valuation norms for unquoted InvIT, REIT units",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTnkyOHlvX0tZNkdkQmk5TWs0LUp0WGxXYWJLb1pWT1BZcTdrMGxXSkJiUENLNHdQUzdNZjd0M3hZTXpjaGZ1Nm9ydXlPZ3Ewd3NhWkdlSUVvcDJCWjI3QzVFMzdHRWItc25MU2FUdWhUSC12eEJWZjE4bC1ZSVczbVhDMnozR1ZtSEdnckhGRmxqWW1Pc1poR2NPZVRxVm1wa1F0cXo0NVjSAa8BQVVfeXFMTzIxRnduTlo5d0VqNEw3RDYteGFaUXppV0UzSEU1ZktvdDFwakF4Rm05eXBTemFibC11SGdqQ3V3WEdSUEo2emVKTHQ5Yjg4SkJDWjVqaU13bGVLYmFjUzhkZlNwMHBUWm1BaTQtZGlIaEhzU19rZDlRU1U5U1dSWGc5SE9qOXpERXpFWFhKdGlMeXExem9HbVZsRjN6YjZHOFVVWDctNzZQa3BycUVmMA?oc=5",
      "date": "2026-09-22",
-     "source": "news.stthomas.edu",
-     "label": "Global",
-     "snippet": "Tyler Schipper spoke with KARE 11 and WCCO Radio about the Federal Reserve’s latest interest rate hike and what it could mean for consumers and the economy.",
-     "lead": "Tyler Schipper, an associate professor of economics and data analytics at the University of St. Thomas, discussed the Federal Reserve’s decision to raise interest rates for the first time since 2023 with KARE 11 and WCCO Radio . Schipper explained the factors behind the quarter-point increase and what the move could mean for consumers and the broader economy. Rena Sarigianopoulos: It is the job of the Federal Reserve to kind of keep ...",
-     "image": "https://news.stthomas.edu/wp-content/uploads/2026/07/Tyler_Schipper_Envio.jpg",
+     "source": "financialexpress.com",
+     "label": "REITs & InvITs",
+     "snippet": "",
+     "lead": "",
+     "image": null,
      "why": [
-      "Interest-rate decision",
-      "Global macro driver"
+      "REIT / InvIT news",
+      "Regulator: SEBI or RBI",
+      "Rule or framework change"
      ],
      "tags": [
-      "Global"
+      "REITs & InvITs"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 69,
+     "title": "Indian bonds steady as RBI rate hike expectations strengthen",
+     "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-steady-as-rbi-rate-hike-expectations-strengthen/articleshow/134404667.cms",
+     "date": "2026-09-22",
+     "source": "Economic Times",
+     "label": "Debt & Bonds",
+     "snippet": "Bond yields for Indian government securities showed little fluctuation as markets brace for ongoing liquidity withdrawals. Specifically, the yield for the benchmark 2036 bond settled at about 7.05% during early trading on Tuesday. With retail inflation rising to 4.82% in August, expectations mount for a rate hike from the Reserve Bank of ",
+     "lead": "Sagarmala Finance Corporation plans its maiden blue bond issuance on September 28. The company aims to raise six billion rupees for maritime sector projects. These funds will support port development and coastal road networks. SBI Capital Markets is arranging the issue, which is rated AA+ by Icra and Care. Investors will submit coupon and commitment bids on Monday. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC ...",
+     "image": "https://img.etimg.com/thumb/msid-134404696,width-1200,height-630,imgsize-111102,overlay-etmarkets/articleshow.jpg",
+     "why": [
+      "Regulator: SEBI or RBI",
+      "Interest-rate decision"
+     ],
+     "tags": [
+      "Debt & Bonds"
      ]
     }
    ]
@@ -391,25 +374,71 @@
  "items": [
   {
    "desk": "Advisory",
-   "score": 12,
+   "score": 13,
    "priority": 100,
-   "title": "Reserve Bank of India (All India Financial Institutions - Classification, Valuation, and Operation of Investment Portfolio) Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13711&Mode=0",
-   "date": "2026-09-22",
-   "source": "RBI",
-   "label": "Regulatory",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (All India Financial Institutions - Classification, Valuation, and Operation of Investment Portfolio) Amendment Directions, 2026 Please refer to Chapter – VI of Reserve Bank of India (All India Financial Institutions - Classification, Valuation, and Operation of Investment Portfolio) Directions, 2025, dated November 28, 2025 , on market value of investments. In order to ensure clarity and uniform practices in the ...",
+   "title": "Bond yields surge as Wall Street fears more potential Federal Reserve rate hikes",
+   "url": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
+   "date": "2026-09-23",
+   "source": "MarketWatch",
+   "label": "Debt & Bonds",
+   "snippet": "Stocks fall, with the Nasdaq and S&P 500 retreating from record territory as bond yields suddenly jump.",
+   "lead": "",
    "image": null,
    "why": [
-    "Regulator: SEBI or RBI",
-    "Official notice",
-    "Also covered by 2 other outlet(s)"
+    "Interest-rate decision",
+    "Government bond yields",
+    "Global macro driver",
+    "Sharp market move"
    ],
    "tags": [
-    "Regulatory"
+    "Debt & Bonds"
    ],
    "rank": 1,
+   "must_read": true
+  },
+  {
+   "desk": "Policy",
+   "score": 9,
+   "priority": 100,
+   "title": "Reserve Bank of India (Local Area Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13708&Mode=0",
+   "date": "2026-09-22",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Reserve Bank of India (Local Area Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026 Please refer to Chapter – IX of Reserve Bank of India (Local Area Banks - Classification, Valuation, and Operation of Investment Portfolio) Directions, 2025, dated November 28, 2025 , on fair valuation of investments. In order to ensure clarity and uniform practices in the valuation of units of ...",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
+   "desk": "Policy",
+   "score": 9,
+   "priority": 100,
+   "title": "TRAI releases Telecom Consumer Protection (Thirteenth Amendment) Regulations, 2026",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313349",
+   "date": "2026-09-22",
+   "source": "PIB",
+   "label": "Technology & Telecom",
+   "snippet": "The Telecom Regulatory Authority of India (TRAI) today released the Telecom Consumer Protection (Thi",
+   "lead": "The Telecom Regulatory Authority of India (TRAI) today released the Telecom Consumer Protection (Thirteenth Amendment) Regulation, 2026. TRAI had released the draft Telecom Consumer Protection (Thirteenth Amendment) Regulations (TCPR), 2026 for consultation on its website on 07.04.2026. Since the implementation of TCPR (Twelfth Amendment), 2024, the Authority observed the limitation in the availability of Voice-and-SMS-only Special ...",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change"
+   ],
+   "tags": [
+    "Technology & Telecom"
+   ],
+   "rank": 3,
    "must_read": true
   },
   {
@@ -434,54 +463,31 @@
     "IPO & Listing",
     "Media, Gaming & Creators"
    ],
-   "rank": 2,
-   "must_read": true
-  },
-  {
-   "desk": "Policy",
-   "score": 14,
-   "priority": 100,
-   "title": "Cabinet approves enhancement of EPFO wage ceiling from Rs.15,000 to Rs.25,000 per month",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2310811",
-   "date": "2026-09-16",
-   "source": "PIB",
-   "label": "Labour & Social",
-   "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the proposal of th",
-   "lead": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the proposal of the Ministry of Labour & Employment to enhance the wage ceiling for mandatory coverage under the Employees’ Provident Fund Organisation (EPFO) from Rs.15,000 to Rs.25,000 per month. The decision is expected to bring more than 51 lakh additional employees within the ambit of mandatory EPFO coverage, significantly widening social security ...",
-   "image": null,
-   "why": [
-    "Cabinet decision",
-    "Labour and pension rule",
-    "Cabinet"
-   ],
-   "tags": [
-    "Labour & Social"
-   ],
-   "rank": 3,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 14,
-   "priority": 93,
-   "title": "Furlenco Eyes ₹1,200 Cr IPO At ₹7,000 Cr Valuation: Report",
-   "url": "https://inc42.com/buzz/furlenco-eyes-%e2%82%b91200-cr-ipo-at-%e2%82%b97000-cr-valuation-report/",
-   "date": "2026-09-22",
-   "source": "Inc42",
-   "label": "India · Real Estate & Workspaces",
-   "snippet": "Furlenco is reportedly planning a ₹1,200 Cr IPO at a ₹7,000 Cr valuation, following rival RentoMojo’s recent public-market debut",
-   "lead": "Furlenco is planning to raise ₹1,000-1,200 Cr through an IPO in FY28 and is seeking a valuation of around ₹7,000 Cr. The proposed issue would make Furlenco the second furniture rental startup to tap the public markets after rival RentoMojo’s strong listing earlier this month. The startup is expected to appoint ICICI Securities as an advisor for the IPO, while the final valuation will depend on market conditions and investor feedback.",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/12/Furlenco-social.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $737M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Real Estate & Workspaces"
-   ],
    "rank": 4,
+   "must_read": true
+  },
+  {
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 100,
+   "title": "Australia tightens student visas: What changes for Indians?",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdjNXcXJXUjNWM0h1SnhNUGtqb1VkcXY3dHhHcHFvZWtQMzFjZkZ4SGU5cGoweW5NOHZIdWlWVTRoZ3dWM1ZFOGNOYUpaRExLbVRBdkpYaGMxc2pseUNlRmhoY19wdzFzb0xqWEFLUmdMb0U5YmRWZVI5RHp5M250Z0VUQzhaTjVOZ09STTlQVURYRDlySG1xRC1hcDhoVVUzc1ljZTVrQm1BSnZlVmZxcVhSeGxRaXhBXzNacHROMlMyYmhPb1k4Q1JWRzZ5Z9IB1AFBVV95cUxPTHJsVWlUbEo3aEI3aXF6d2NBX0lSaU9wdWtrcUVTOEtsMFVBZ3FTWmpxZWVIcU9xSHZvQlRxTVRjREg3S2ZuWjZPazVxSnVfcGhDLUhQMEpmME10eWFrOG42ckhzZHlJd0ZlcjJSa192dUpRc3RPUnlKWUR6Z2NsRHd5ZmFCRFRVRnVMeTM0WHpjNnpKY1FXcUcyNFRoVUhYbHpCOHk0NGFBMW5NdmVlQjd4dnhMeTd5dmNqTDZnX2V0LWd0N3R5Z1RRczVWRGVoQXVUMg?oc=5",
+   "date": "2026-09-17",
+   "source": "The Indian Express",
+   "label": "Australia",
+   "snippet": "The reforms target international students, working-holiday makers and people who use successive visa pathways to extend their stay in Australia.",
+   "lead": "In a speech titled “The Work of Managing the Migration Program: Who Arrives, Who Stays, Who Leaves”, Burke said immigration remained important to Australia, but the government needed greater control over the migration system. The reforms target international students, working-holiday makers and people who use successive visa pathways to extend their stay in Australia. The government is also tightening measures against visa overstayers. ...",
+   "image": "https://images.indianexpress.com/2026/09/australian-visa.jpg",
+   "why": [
+    "Announces a change",
+    "Major story (18 headlines that day)",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Student / Graduate",
+    "Australia"
+   ],
+   "rank": 5,
    "must_read": true
   },
   {
@@ -506,60 +512,83 @@
     "Funding",
     "Fintech"
    ],
-   "rank": 5,
-   "must_read": true
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "RBI revises InvIT, REIT valuation norms for all-India financial institutions; check new rules",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQclhQVTlFWWJ5cWl3SzBXM3puRWp0MVdjYXQ4aU5sWDl1cXZqZDd6R1p1QVVfNThPWC1Cd0lCdHk2V0lrbUQ0VEVieGhGNUJzVWlxVF9VOWtjQnNOMHVlM1cySGI1Rk1zdGVLbkRhYm9aVnM0cmFvQ1Z1TEFqQUFXUzMwUjEtRW03X2xueXQ3YXIxcXgxbkhrenE2OWxrN05rSzMwYUg4QnNtckQ5MGdPTjZkWW13QXlOWHNBVW9ucVhONEZaWHNVR0N6ZVJZVXdSdXZaUG5RSFVwNkl5SEl1bVN6aURGM2lKeHlTWtIB8gFBVV95cUxNMUhzbmZsSC1CVXFUbHFvaXU3VzJYZ3JHUDQzcmdzQ3phQ3VDZVpqWm1KS0ZxU2lkN0VhTHJjYjFTczJDVmg4ajdNbjJVdnl4d2R6a1J1dWQyRlVUdHF5bjFEVThEbkctcy1FcjF0WncyeV9PTjlrMFp0OVNsWGtaY2tuWU53YXRtUmdnWlduLTRwS1AxYkR3WGRmWmhFTTBtWnhNd29Pcy1vUGUyelFzZk9SVHVvMDM1S3pIQTZNeTAyd1FHNkpXVHpaM2t1cjNtaWtneWhIWHNqeXZYcDk3QUFGUVB0QmRqZ2FUQ01WQzNSQQ?oc=5",
-   "date": "2026-09-22",
-   "source": "Business Today",
-   "label": "REITs & InvITs",
-   "snippet": "RBI has revised valuation rules for REIT and InvIT units held by all-India financial institutions, aiming to bring greater clarity and uniformity to valuation practices. The new framework sets out separate rules for quoted and unquoted units, including a ₹1 valuation in specified cases",
-   "lead": "Business Today Desk Updated Sep 22, 2026 8:59 PM IST Under the revised framework, quoted securities and InvIT/REIT units will be valued in line with existing RBI instructions for quoted securities. The Reserve Bank of India (RBI) has revised valuation norms for Infrastructure Investment Trust (InvIT) and Real Estate Investment Trust (REIT) units held by all-India financial institutions (AIFIs), introducing separate and standardised ...",
-   "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab29bd6cf49b-under-the-revised-framework--quoted-securities-and-invitreit-units-will-be-valued-in-line-with-exis-221637943-16x9.png",
-   "why": [
-    "REIT / InvIT news",
-    "Regulator: SEBI or RBI",
-    "Rule or framework change",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "REITs & InvITs"
-   ],
    "rank": 6,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 11,
+   "score": 12,
    "priority": 92,
-   "title": "Reserve Bank of India (Know Your Customer) Amendment Directions, 2026: issued for 3 bank categories",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13701&Mode=0",
-   "date": "2026-09-18",
-   "source": "RBI",
+   "title": "Fed Rate Hike Impact on India: Why Oil and RBI Matter in October",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQmktVkVIQlZvX3dDa3JHcjQwZVcxTzNaOU1Zd0tJYUpLa1JZenp2MF9hNXNrd3R6MDNkWEdLRGN0Y0JJVkctUUEzclFBandraE1CTFRjNUpUaGxGVFZWYWdzZnpRaC10UnFnSklqc0hIMVY2Q0lva2N1RUFmbFNvcmNLZw?oc=5",
+   "date": "2026-09-23",
+   "source": "NiftyTrader",
    "label": "Regulatory",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Local Area Banks – Know Your Customer) Amendment Directions, 2026 Reserve Bank has issued Reserve Bank of India (Local Area Banks – Know Your Customer) Directions, 2025 dated November 28, 2025 (hereinafter referred to as the Directions) in compliance with the provisions of the Prevention of Money Laundering Act, 2002, and the Prevention of Money Laundering (Maintenance of Records) Rules, 2005. The Directions in ...",
-   "image": null,
+   "snippet": "Fed rate hike impact on India is shifting from the Fed to oil, the rupee, inflation and the RBI's October 5–7 policy decision.",
+   "lead": "Somewhere off the coast of Iran, a shipping lane most Indians have never had reason to think about is quietly doing more to your fuel bill than the US Federal Reserve ever could. Here’s what most coverage is still getting wrong this week: the Fed’s rate decision isn’t breaking news anymore. It happened seven days ago, on September 16, and markets absorbed it within a single trading session. What’s actually been moving the rupee, ...",
+   "image": "https://trending.niftytrader.in/wp-content/uploads/2026/09/Fed-Rate-Hike-Impact-on-India-Why-Oil-and-RBI-Matter-in-October.jpg",
    "why": [
     "Regulator: SEBI or RBI",
-    "Official notice",
-    "Also covered by 3 other outlet(s)"
+    "Interest-rate decision",
+    "Global macro driver"
    ],
    "tags": [
-    "Regulatory"
+    "Regulatory",
+    "Energy & Power"
    ],
    "rank": 7,
    "must_read": false
   },
   {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 92,
+   "title": "S&P Raises India's FY27 GDP Growth to 7%, RBI Rate Hike Seen",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR21hbEpTZXRGNFJKQlNlVVBhdThZdFRvNDMyTGlBTFplZk96M1o3S1l2SkZqRWstUVAxcTlpZHVyNmswSE9mSzFmMF9sR3pvZU45TFg1ZWZINVdXand5X2NaYlN3WFlvV2xPZ2R6S3c1TUMwX3hKYzN2dTdwTG9mNVBxczdwb3k1UnNPWFdyRFpROEJ2TEI2cWFBMGRCc2R3Q3VBY2RvbmZnY3FqSU8yMzlqdjPSAbQBQVVfeXFMTUdtYWxKU2V0RjRSSkJTZVVQYXU4WXRUbzQzMkxpQUxaZWZPejNaN0tZdkpGakVrLVFQMXE5aWR1cjZrMEhPZksxZjBfbEd6b2VOOUxYNWVmSDVXV2p3eV9jWmJTd1hZb1dsT2dkekt3NU1DMF94SmMzdnU3cExvZjVQcXM3cG95NVJzT1hXckRaUThCdkxCNnFhQTBkQnNkd0N1QWNkb25mZ2NxaklPMjM5anYz?oc=5",
+   "date": "2026-09-23",
+   "source": "Rediff MoneyWiz",
+   "label": "Regulatory",
+   "snippet": "S&P Global Ratings upgrades India",
+   "lead": "RBI Policy: No Rate Hike in FY27, Benign Inflation Outlook Aug 5, 2026 18:45 ADB Raises India's GDP Growth Forecast to 7% for FY27 Sep 23, 2026 12:41 RBI Expected to Hike Rates by 25 Bps in Oct, Dec Meetings Sep 15, 2026 15:55",
+   "image": "https://im.rediff.com/1200-900/money/2018/aug/03rbi.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "New product or fund",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 8,
+   "priority": 89,
+   "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63649",
+   "date": "2026-09-23",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "",
+   "image": null,
+   "why": [
+    "New law or act",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 9,
+   "must_read": false
+  },
+  {
    "desk": "Immigration",
-   "score": 9,
-   "priority": 90,
+   "score": 8,
+   "priority": 89,
    "title": "Spain's 2-year citizenship shortcut for Latin Americans: myth vs. reality in 2026",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEVTcS14XzY3UkhXbE5nMkRtWmRpNWJoZFNHZzFvbEdZTUJ0NHhVU2xadXVLUE5nbkJKQlVzREtnaXV0d3RKU3JvRkpEZUNGYnNpanIzNzJvUWloejlqRlJQd1ZId1M4LU44M0s5N1dlWVRKdWFVVUZHRDB1Q2tMdkFFSHpLV3RTay1ITld1T1pRby1MbjNtVjNLNFl1VEFEckdTQzNLd2VCNDZ5bkZR?oc=5",
    "date": "2026-09-22",
@@ -576,37 +605,83 @@
     "Citizenship",
     "Spain"
    ],
-   "rank": 8,
+   "rank": 10,
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 9,
-   "priority": 90,
-   "title": "Australia tightens student visas: What changes for Indians?",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdjNXcXJXUjNWM0h1SnhNUGtqb1VkcXY3dHhHcHFvZWtQMzFjZkZ4SGU5cGoweW5NOHZIdWlWVTRoZ3dWM1ZFOGNOYUpaRExLbVRBdkpYaGMxc2pseUNlRmhoY19wdzFzb0xqWEFLUmdMb0U5YmRWZVI5RHp5M250Z0VUQzhaTjVOZ09STTlQVURYRDlySG1xRC1hcDhoVVUzc1ljZTVrQm1BSnZlVmZxcVhSeGxRaXhBXzNacHROMlMyYmhPb1k4Q1JWRzZ5Z9IB1AFBVV95cUxPTHJsVWlUbEo3aEI3aXF6d2NBX0lSaU9wdWtrcUVTOEtsMFVBZ3FTWmpxZWVIcU9xSHZvQlRxTVRjREg3S2ZuWjZPazVxSnVfcGhDLUhQMEpmME10eWFrOG42ckhzZHlJd0ZlcjJSa192dUpRc3RPUnlKWUR6Z2NsRHd5ZmFCRFRVRnVMeTM0WHpjNnpKY1FXcUcyNFRoVUhYbHpCOHk0NGFBMW5NdmVlQjd4dnhMeTd5dmNqTDZnX2V0LWd0N3R5Z1RRczVWRGVoQXVUMg?oc=5",
-   "date": "2026-09-17",
-   "source": "The Indian Express",
-   "label": "Australia",
-   "snippet": "The reforms target international students, working-holiday makers and people who use successive visa pathways to extend their stay in Australia.",
-   "lead": "In a speech titled “The Work of Managing the Migration Program: Who Arrives, Who Stays, Who Leaves”, Burke said immigration remained important to Australia, but the government needed greater control over the migration system. The reforms target international students, working-holiday makers and people who use successive visa pathways to extend their stay in Australia. The government is also tightening measures against visa overstayers. ...",
-   "image": "https://images.indianexpress.com/2026/09/australian-visa.jpg",
+   "desk": "Policy",
+   "score": 8,
+   "priority": 89,
+   "title": "Reserve Bank of India (Commercial Banks – Know Your Customer) Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13699&Mode=0",
+   "date": "2026-09-18",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Reserve Bank of India (Commercial Banks – Know Your Customer) Amendment Directions, 2026 Reserve Bank has issued Reserve Bank of India (Commercial Banks – Know Your Customer) Directions, 2025 dated November 28, 2025 (hereinafter referred to as the Directions) in compliance with the provisions of the Prevention of Money Laundering Act, 2002, and the Prevention of Money Laundering (Maintenance of Records) Rules, 2005. The Directions in ...",
+   "image": null,
    "why": [
-    "Announces a change",
-    "Major story (18 headlines that day)",
-    "Mentions India or Indians"
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: RBI"
    ],
    "tags": [
-    "Student / Graduate",
-    "Australia"
+    "Banking & Rates"
    ],
-   "rank": 9,
+   "rank": 11,
    "must_read": false
   },
   {
    "desk": "Startups",
    "score": 13,
    "priority": 87,
+   "title": "Furlenco Eyes ₹1,200 Cr IPO At ₹7,000 Cr Valuation: Report",
+   "url": "https://inc42.com/buzz/furlenco-eyes-%e2%82%b91200-cr-ipo-at-%e2%82%b97000-cr-valuation-report/",
+   "date": "2026-09-22",
+   "source": "Inc42",
+   "label": "India · Real Estate & Workspaces",
+   "snippet": "Furlenco is reportedly planning a ₹1,200 Cr IPO at a ₹7,000 Cr valuation, following rival RentoMojo’s recent public-market debut",
+   "lead": "Furlenco is planning to raise ₹1,000-1,200 Cr through an IPO in FY28 and is seeking a valuation of around ₹7,000 Cr. The proposed issue would make Furlenco the second furniture rental startup to tap the public markets after rival RentoMojo’s strong listing earlier this month. The startup is expected to appoint ICICI Securities as an advisor for the IPO, while the final valuation will depend on market conditions and investor feedback.",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/12/Furlenco-social.jpg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $737M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Real Estate & Workspaces"
+   ],
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 85,
+   "title": "SEBI Board Meeting: Advertising Code, PMS Reforms and REIT Fundraising Rules on Table",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObDcyamljYXlnZ2lfNnF3b3AtM3ctTUl2Z3BXZ0duaEIxbTNSeS1GZU9fRXRxVFZlUWU1WXNvODZ0RjRILTZJcHFsLWRjRGhIa0NsWnRYR3A1bHpFUkNvR0xnYk1yUEd1SzQ0LU56eVR2dDFyTm5zbGd1cUdueWNncA?oc=5",
+   "date": "2026-09-23",
+   "source": "NiftyTrader",
+   "label": "PMS",
+   "snippet": "SEBI board meeting on September 24 may consider PMS, FPI, AIF, REIT, InvIT, settlement and advertising reforms.",
+   "lead": "SEBI Board Meeting: Advertising Code, PMS Reforms and REIT Fundraising Rules on Table The Securities and Exchange Board of India (SEBI) is preparing for a closely watched board meeting on Thursday, with a broad set of reforms that could reshape how investors, portfolio managers, foreign investors and market intermediaries operate. The agenda reportedly includes PMS regulations, FPI access to commodity derivatives, settlement rules, ...",
+   "image": "https://trending.niftytrader.in/wp-content/uploads/2026/09/SEBI-Board-Meeting-Advertising-Code-PMS-Reforms-and-REIT-Fundraising-Rules-on-Table.jpeg",
+   "why": [
+    "PMS news",
+    "Regulator: SEBI or RBI",
+    "Rule or framework change"
+   ],
+   "tags": [
+    "PMS"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 80,
    "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
    "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
    "date": "2026-09-23",
@@ -624,13 +699,13 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 10,
+   "rank": 14,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 13,
-   "priority": 87,
+   "score": 12,
+   "priority": 80,
    "title": "Indian founders account for $560B unicorn valuation overseas: report",
    "url": "https://yourstory.com/2026/09/indian-founders-account-for-560-billion-unicorn-valuation-overseas-report",
    "date": "2026-09-22",
@@ -647,132 +722,129 @@
    "tags": [
     "Funding"
    ],
-   "rank": 11,
+   "rank": 15,
    "must_read": false
   },
   {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "Indian bonds steady as RBI rate hike expectations strengthen",
-   "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-steady-as-rbi-rate-hike-expectations-strengthen/articleshow/134404667.cms",
-   "date": "2026-09-22",
-   "source": "Economic Times",
-   "label": "Debt & Bonds",
-   "snippet": "Bond yields for Indian government securities showed little fluctuation as markets brace for ongoing liquidity withdrawals. Specifically, the yield for the benchmark 2036 bond settled at about 7.05% during early trading on Tuesday. With retail inflation rising to 4.82% in August, expectations mount for a rate hike from the Reserve Bank of ",
-   "lead": "Sagarmala Finance Corporation plans its maiden blue bond issuance on September 28. The company aims to raise six billion rupees for maritime sector projects. These funds will support port development and coastal road networks. SBI Capital Markets is arranging the issue, which is rated AA+ by Icra and Care. Investors will submit coupon and commitment bids on Monday. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC ...",
-   "image": "https://img.etimg.com/thumb/msid-134404696,width-1200,height-630,imgsize-111102,overlay-etmarkets/articleshow.jpg",
+   "desk": "Policy",
+   "score": 7,
+   "priority": 78,
+   "title": "Exim Bank’s GOI-supported Line of Credit (LOC) for ₹ 4,850 crores the Government of Maldives, for financing various developmental projects in Maldives",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13712&Mode=0",
+   "date": "2026-09-23",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Exim Bank’s GOI-supported Line of Credit (LOC) for ₹ 4,850 crores the Government of Maldives, for financing various developmental projects in Maldives Export-Import Bank of India (Exim Bank) has entered into an agreement dated July 25, 2025, with the Government of the Republic of Maldives, for making available to the latter, Government of India supported Line of Credit (LoC) of ₹ 4,850 crores (Rupees Four Thousand Eight Hundred and ...",
+   "image": null,
    "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision"
+    "Touches financial markets",
+    "Regulator: RBI"
    ],
    "tags": [
-    "Debt & Bonds"
+    "Banking & Rates"
    ],
-   "rank": 12,
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 7,
+   "priority": 78,
+   "title": "India-New Zealand FTA to Enter into Force from 20 October 2026",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313143",
+   "date": "2026-09-21",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "In a defining step forward for trade and economic partnership, the India–New Zealand Free Trade Agre",
+   "lead": "In a defining step forward for trade and economic partnership, the India–New Zealand Free Trade Agreement, is going to enter into force on 20 th October 2026. The FTA was signed on 27th April 2026 at Bharat Mandapam, New Delhi, by Union Minister of Commerce and Industry Shri Piyush Goyal and New Zealand’s Minister for Trade and Investment Hon. Todd McClay. Today, the Union Minister of Commerce and Industry Shri Piyush Goyal and New ...",
+   "image": null,
+   "why": [
+    "Trade agreement",
+    "Commerce"
+   ],
+   "tags": [
+    "Tax, Duties & Trade"
+   ],
+   "rank": 17,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 7,
+   "priority": 78,
+   "title": "Government Relaxes Sugar Stockholding Limit for Bulk Consumers from 15 to 30 Days, Additional stock to be sourced exclusively from imported sugar under Advance Authorization Scheme (AAS) and Tariff Rate Quota (TRQ)",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2311960",
+   "date": "2026-09-18",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "The Government has decided that the existing 15 days’ stockholding limit for bulk consumers is relax",
+   "lead": "The Government has decided that the existing 15 days’ stockholding limit for bulk consumers is relaxed to 30 days, subject to the condition that the quantity of stock held beyond the existing 15 days’ limit, shall be sourced exclusively from sugar imported under Advance Authorisation Scheme (AAS) and Tariff Rate Quota (TRQ). The stockholding limit for purchase from the open market shall remain unchanged and will be restricted to 15 ...",
+   "image": null,
+   "why": [
+    "Duty or tariff change",
+    "Rule change"
+   ],
+   "tags": [
+    "Tax, Duties & Trade"
+   ],
+   "rank": 18,
    "must_read": false
   },
   {
    "desk": "Advisory",
    "score": 10,
-   "priority": 83,
-   "title": "Sebi may take up PMS regulation overhaul at September 24 board meeting",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQmlNYUduZjhnQUFRMWhDMGdMS2k1ZWtxRXJndThCQS1Jby1aUzEzaWUxeHNZc2wtQlhPb2VlMHpaanZ1by1ZMUlQZWhxTmQ0UjdEUXpoUlNHX3BibGtQc2hjUmtDVFlTUHIzX1MxS2RKMUFtbVVHVXVBeHpGY0VHMFZQWC0zaVlxQklvdXBENUpSd0g3S0U2N3c4cE5yU1Bjd2R6OW9xY3dJZUpWdlhuajE5Qlk2TG1zeVl1Nkd5WjB2cTNCdzVCNmxDNGxGaGtUWk1wR3R1bloyank2aEdGXzNlNNIB4wFBVV95cUxNQmlNYUduZjhnQUFRMWhDMGdMS2k1ZWtxRXJndThCQS1Jby1aUzEzaWUxeHNZc2wtQlhPb2VlMHpaanZ1by1ZMUlQZWhxTmQ0UjdEUXpoUlNHX3BibGtQc2hjUmtDVFlTUHIzX1MxS2RKMUFtbVVHVXVBeHpGY0VHMFZQWC0zaVlxQklvdXBENUpSd0g3S0U2N3c4cE5yU1Bjd2R6OW9xY3dJZUpWdlhuajE5Qlk2TG1zeVl1Nkd5WjB2cTNCdzVCNmxDNGxGaGtUWk1wR3R1bloyank2aEdGXzNlNA?oc=5",
-   "date": "2026-09-20",
-   "source": "Business Standard",
+   "priority": 77,
+   "title": "SEBI board meet likely to consider PMS revamp, broader FPI access",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOemVGOUNBYW9PNXVLeWVIRWpYTDItNk9zS0U0LV9aTHdLSmdrQnBEMDRCSEs3RlJoZkNRUjRKendfSGRfeDYySjkzVnpXcFBZT3hrdXlFUFliUGFUc2kzNkxFUmlMMXZwaDZ6S3ZoMi1uaHFIQW9PYzdpQTVPOUhUT2k1SHdqVXhHMmtydEZJZ2IyRmE4RlhGUFRXcm1fV3c4UUwtaGl2VkZyNm80MUxkaW1vMA?oc=5",
+   "date": "2026-09-23",
+   "source": "Investment Guru India",
    "label": "PMS",
-   "snippet": "",
-   "lead": "",
+   "snippet": "SEBI board meet likely to consider PMS revamp, broader FPI access",
+   "lead": "Sensex, Nifty rebound as oil prices stabilise; metal stocks lead gains Gujarat State Fertilizers & Chemicals soars on launching seven new products Samvardhana Motherson International rises on incorporating indirect subsidiary in USA",
    "image": null,
    "why": [
     "PMS news",
     "Regulator: SEBI or RBI",
-    "Rule or framework change",
     "Also covered by 1 other outlet(s)"
    ],
    "tags": [
     "PMS"
    ],
-   "rank": 13,
+   "rank": 19,
    "must_read": false
   },
   {
    "desk": "Startups",
    "score": 11,
    "priority": 73,
-   "title": "Spinny Confidentially Files IPO Papers, Eyes Up To ₹3,000 Cr Issue",
-   "url": "https://inc42.com/buzz/spinny-confidentially-files-ipo-papers-eyes-up-to-%e2%82%b93000-cr-issue/",
-   "date": "2026-09-22",
+   "title": "[Update] Ola Electric To Seek Board Nod For Proposed Rights Issue",
+   "url": "https://inc42.com/buzz/ola-electric-board-approves-fresh-%e2%82%b91500-cr-fundraise-after-%e2%82%b9780-cr-qip/",
+   "date": "2026-09-24",
    "source": "Inc42",
-   "label": "India · Commerce & D2C",
-   "snippet": "Used-car marketplace Spinny has reportedly filed confidential IPO papers with SEBI to raise up to ₹3,000 Cr through a fresh issue and OFS.",
-   "lead": "Spinny has confidentially filed IPO papers with SEBI and is looking to raise ₹2,500 Cr to ₹3,000 Cr through a fresh issue and OFS. The filing formally kicks off Spinny’s listing process and could test public market appetite for its inventory-heavy used-car retail model. Spinny is targeting a 2027 listing. Its operating revenue stood at around $6,000 Cr in FY26 and expects 25-30% growth in FY27.",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/SOC-13.jpg",
+   "label": "India · Other",
+   "snippet": "Listed EV maker Ola Electric has now said that it plans to seek the approval of the board for a proposed rights issue of equity shares.",
+   "lead": "The listed EV maker will now seek the approval at the upcoming meeting of its board of directors on September 28 With this, Ola Electric has chosen the rights issue as the route for its capital raise. The board will also decide how much of the proposed fundraise will be raised via rights issue This comes weeks after Ola Electric’s board approved a fresh fundraise of up to ₹1,500 Cr via one or more routes",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/ola-electric-ebike-social-1.jpg",
    "why": [
-    "IPO & Listing",
-    "Large deal (about $316M)"
+    "Funding",
+    "Large deal (about $158M)"
    ],
    "tags": [
-    "IPO & Listing",
-    "Commerce & D2C"
+    "Funding"
    ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 71,
-   "title": "Reserve Bank of India (Local Area Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13708&Mode=0",
-   "date": "2026-09-22",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Local Area Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026 Please refer to Chapter – IX of Reserve Bank of India (Local Area Banks - Classification, Valuation, and Operation of Investment Portfolio) Directions, 2025, dated November 28, 2025 , on fair valuation of investments. In order to ensure clarity and uniform practices in the valuation of units of ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 71,
-   "title": "TRAI releases Telecom Consumer Protection (Thirteenth Amendment) Regulations, 2026",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313349",
-   "date": "2026-09-22",
-   "source": "PIB",
-   "label": "Technology & Telecom",
-   "snippet": "The Telecom Regulatory Authority of India (TRAI) today released the Telecom Consumer Protection (Thi",
-   "lead": "The Telecom Regulatory Authority of India (TRAI) today released the Telecom Consumer Protection (Thirteenth Amendment) Regulation, 2026. TRAI had released the draft Telecom Consumer Protection (Thirteenth Amendment) Regulations (TCPR), 2026 for consultation on its website on 07.04.2026. Since the implementation of TCPR (Twelfth Amendment), 2024, the Authority observed the limitation in the availability of Voice-and-SMS-only Special ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change"
-   ],
-   "tags": [
-    "Technology & Telecom"
-   ],
-   "rank": 16,
+   "rank": 20,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 6,
-   "priority": 60,
-   "title": "Swiss passport does not guarantee visa-free entry everywhere",
-   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOMUd5YW8tMkNrYUE4dGhVeXBVZUJ6dldvN3FSVHBYeEZ5LUxXeVlqLWdQdHp2UUdOREMwbzJwdnlZRHlrS3dBaERPRUhSVDdDei1YdzBwSktuemFTTjlwZUNYb2ctXzdsLUJHNDQ3SUg1NmdseXU2VlR0RDVnSEY1bklwNmJUVFFYMmliOFUtbmZVQzhfNFUxcGluV05EUFpCZlFWMW5JRGJWN2VReEI2RlVDYzZ6LVhGeVZyRmFMSm9jS3R6NUp5LXFEQm9TZEstb3ZueEZ5aUoxWjNtWElGR1BHWi1DOEpwcEZDTVMwdnI2RWtid0ZEN2tTOGR3S0Nta3BvZ3kwR2dCVXpaODF0ZTJGMjF3MUtWUmllMEF1bmNLeVk?oc=5",
-   "date": "2026-09-22",
-   "source": "SWI swissinfo.ch",
-   "label": "Switzerland",
+   "priority": 67,
+   "title": "Belgian passport drops two spots in global ranking for visa-free destinations",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPODRNRkcxbkhUOWVZNW1tcVk3OFZMemozZU5JQ0lKd19ldHlXazk5eVlCX01vR3BjbEI5REVfRGlYZHEtYmZFVklaMS1iTHNKWjEtSk95VDFsUmJfckhpX2FDOERVYVVoTHl6eS1XdzJSMFFWcGt1MDdRR3BYa3ZNOVlwM1pjOVpZVWd0cG84WGNuUDlwQlJ0ejBfaXJMZmt4TTVoY3FPdmdFOEJseTNWYkh1Nm5mSHpQMmt3R0N6WG4?oc=5",
+   "date": "2026-09-23",
+   "source": "The Brussels Times",
+   "label": "Belgium",
    "snippet": "",
    "lead": "",
    "image": null,
@@ -781,15 +853,15 @@
    ],
    "tags": [
     "Citizenship",
-    "Switzerland"
+    "Belgium"
    ],
-   "rank": 17,
+   "rank": 21,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 6,
-   "priority": 60,
+   "priority": 67,
    "title": "US visa delay: France and Germany Are Emerging as Preferred Choices for Indian Students",
    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQY21NZGVLZmRsVWgxOXVhMDlUTXZCQzBwWDRxRVZ2Qk9oNVRFUDdzTXhRNVlvUk92T0pseU9vS1FyUGJ5SFloMEo5UHZydDBTSlNtbkJ5bGl3Rkg2bzVTQnF6bk5PRl9jVllwRlFvYm9zSFd6WGJDc3RqZFhQemhuLXYtb0FjZVk4SmhKemNQT2RyUzVpTG1panhXYm9xTzNvSmUwdThrYkdla0pmV1ZxSVAtYVRCR2ZmUkMzVlYwVTZ0cmUzYjl3VlFDOEo0a1NSSXAtWkpQU2VZNjBWcGYtdGVzblNwX25NTHVPQ192UU9sc3fSAfgBQVVfeXFMT1hnTHNETTR6dDNiOG9tdGQzTzdNNURlMkxGTUtoQ3Z0OWR1SHJhSjR3R3dmQUVvVFRpVkpOdVQyckw4dml6b1hlRWx1WFlsc3ZiNlFkQWxZMGg3Q2VVMWpWY3VNOUVoMFFuZXV2bEJXbFdaVnRiOUlyeEVNRnoxYVNuVUh1UXpWLWdReUdweXllc0ZtYngxQlVNSGtnc2NWVUR6UWJvRDRRbTRfVm1mcHozS3FQQ0pGOGc0ZTZTQ2E2dS1fWVZoQ3NJWmJwTFB6WFBkbzhWdDY3cDlPb0V4T0xreHRIR2RzREowaXhCN01yOVk4X09YM3g?oc=5",
    "date": "2026-09-20",
@@ -806,13 +878,13 @@
     "Student / Graduate",
     "France"
    ],
-   "rank": 18,
+   "rank": 22,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 6,
-   "priority": 60,
+   "priority": 67,
    "title": "Guidance: India: tuberculosis test clinics for a UK visa",
    "url": "https://www.gov.uk/government/publications/india-tuberculosis-test-clinics-for-a-uk-visa",
    "date": "2026-09-20",
@@ -827,95 +899,6 @@
    ],
    "tags": [
     "United Kingdom"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 57,
-   "title": "India-New Zealand FTA to Enter into Force from 20 October 2026",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313143",
-   "date": "2026-09-21",
-   "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "In a defining step forward for trade and economic partnership, the India–New Zealand Free Trade Agre",
-   "lead": "In a defining step forward for trade and economic partnership, the India–New Zealand Free Trade Agreement, is going to enter into force on 20 th October 2026. The FTA was signed on 27th April 2026 at Bharat Mandapam, New Delhi, by Union Minister of Commerce and Industry Shri Piyush Goyal and New Zealand’s Minister for Trade and Investment Hon. Todd McClay. Today, the Union Minister of Commerce and Industry Shri Piyush Goyal and New ...",
-   "image": null,
-   "why": [
-    "Trade agreement",
-    "Commerce"
-   ],
-   "tags": [
-    "Tax, Duties & Trade"
-   ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 57,
-   "title": "Reserve Bank of India (Commercial Banks – Know Your Customer) Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13699&Mode=0",
-   "date": "2026-09-18",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Commercial Banks – Know Your Customer) Amendment Directions, 2026 Reserve Bank has issued Reserve Bank of India (Commercial Banks – Know Your Customer) Directions, 2025 dated November 28, 2025 (hereinafter referred to as the Directions) in compliance with the provisions of the Prevention of Money Laundering Act, 2002, and the Prevention of Money Laundering (Maintenance of Records) Rules, 2005. The Directions in ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 7,
-   "priority": 50,
-   "title": "Government Relaxes Sugar Stockholding Limit for Bulk Consumers from 15 to 30 Days, Additional stock to be sourced exclusively from imported sugar under Advance Authorization Scheme (AAS) and Tariff Rate Quota (TRQ)",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2311960",
-   "date": "2026-09-18",
-   "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "The Government has decided that the existing 15 days’ stockholding limit for bulk consumers is relax",
-   "lead": "The Government has decided that the existing 15 days’ stockholding limit for bulk consumers is relaxed to 30 days, subject to the condition that the quantity of stock held beyond the existing 15 days’ limit, shall be sourced exclusively from sugar imported under Advance Authorisation Scheme (AAS) and Tariff Rate Quota (TRQ). The stockholding limit for purchase from the open market shall remain unchanged and will be restricted to 15 ...",
-   "image": null,
-   "why": [
-    "Duty or tariff change",
-    "Rule change"
-   ],
-   "tags": [
-    "Tax, Duties & Trade"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 7,
-   "priority": 50,
-   "title": "Samuhik Prativedan Manch- A Technology based common reporting mechanism extended to Members of Clearing Corporations",
-   "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/sep-2026/samuhik-prativedan-manch-a-technology-based-common-reporting-mechanism-extended-to-members-of-clearing-corporations_104568.html",
-   "date": "2026-09-17",
-   "source": "SEBI",
-   "label": "Markets & Regulation",
-   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Rates and liquidity",
-    "Regulator: SEBI"
-   ],
-   "tags": [
-    "Markets & Regulation"
    ],
    "rank": 23,
    "must_read": false
