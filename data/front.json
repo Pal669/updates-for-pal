@@ -1,6 +1,6 @@
 {
  "edition": "2026-09-23",
- "built": "2026-09-23 10:07 IST",
+ "built": "2026-09-23 10:39 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,43 +12,43 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23374.0,
-   "change_pct": -0.17,
-   "asof": "23 Sep 10:07 IST"
+   "value": 23411.0,
+   "change_pct": -0.01,
+   "asof": "23 Sep 10:39 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74638.0,
-   "change_pct": -0.3,
-   "asof": "23 Sep 09:52 IST"
+   "value": 74739.0,
+   "change_pct": -0.16,
+   "asof": "23 Sep 10:24 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.62,
-   "change_pct": -0.09,
-   "asof": "23 Sep 10:07 IST"
+   "value": 95.66,
+   "change_pct": -0.06,
+   "asof": "23 Sep 10:38 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 98.13,
-   "change_pct": -1.13,
-   "asof": "23 Sep 09:57 IST"
+   "value": 98.07,
+   "change_pct": -1.19,
+   "asof": "23 Sep 10:28 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
    "value": 4382.0,
    "change_pct": 0.13,
-   "asof": "23 Sep 09:57 IST"
+   "asof": "23 Sep 10:28 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 4.97,
-   "change_pct": 0.1,
+   "value": 4.96,
+   "change_pct": -0.7,
    "asof": "23 Sep 00:29 IST"
   }
  ],
@@ -254,9 +254,29 @@
    ]
   },
   "Immigration": {
-   "total": 390,
+   "total": 392,
    "new_today": 1,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 50,
+     "title": "New Zealand to introduce new 6-month graduate work visa from this year: Check eligibility",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdUZHeG5rNU9jU2E4Wm8xZDdENlg3LXBSTnRVUHRLVy0zMURzOXYzcFRNNUh0ZUJOMEtHN19NUnRWa09ITmpFaW1DNndTWUsybU85N0x0X3IxUTk3M0NlZUVhejNZZnh3aEw5bnBDOC15eTdOaXdEc0VfY3JsWU04ZkR0dDQ0amdySl9IMVZLeVhld09zaFk1bXVubW9LTm1TdEdGbGtBTndFZGpVUk1NTllUWnh0cXNMUDZvRU9RUmNvNE5sSkRhZ082bldCOV940gHXAUFVX3lxTE1pY0puN19SWlAzUjBoNXpCYUpsbUdzd2ZpYVlLQzZRTHNpMlB0N0VwLWswSDhtbEZhTXBKTGtpbVg2TjFYYkRqUUlENlExN2t0eC1kZFUzLUtRRlUwRFd6WGtDcVNjd1RCV1YxaVB2N0JpeUhDVXFmUXR5dkVySy1mRGdSUnZNZ29BRF9fZ1h4bGFGU3lVbHRJNk9pOWJtbG9jRnd5Tzd2N2Zrdk9zcVg0QWxRcy1ROHpIUENsTzB1UjNScENpbl9uamY5NEF4YkI4MTB5MGhJ?oc=5",
+     "date": "2026-09-16",
+     "source": "The Indian Express",
+     "label": "New Zealand",
+     "snippet": "",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Announces a change"
+     ],
+     "tags": [
+      "Student / Graduate",
+      "New Zealand"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 4,
@@ -274,25 +294,6 @@
      ],
      "tags": [
       "Netherlands"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 4,
-     "priority": 40,
-     "title": "STUDY IN NZ: Ahead of new visa rules, over 50% of Indian MBA aspirants target PR in New Zealand: Survey",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbExrWmR1bVI4T2VWOWpqMW1oOWRUVG9PZC1Bandnd2VOWEd2Qk9PRnFiT0FnbmdQZkRHYVUzelZHNE5EN1BFNld0U0VJeDl2SnItTms2TWQtR21PbUlRUVktVGZraHEyRHNkM1N0b0tpQ2JadU1PR2hiMlNxWEJvX1UxY2V6TXcydEQ5amhKdmNQR1BzQVdYNmFXVURZeVc3NFlLaVR1UmJWUHN5MUFiRllNby1pLVg2dVJfa2FCa1owRzZ2N01oVGdUV09jbkNHM3ZibFlXeVRDUFdhQXJ2YzgzWUs0QWdlaEN4VFc0UU9lVk0?oc=5",
-     "date": "2026-09-22",
-     "source": "Education Times",
-     "label": "New Zealand",
-     "snippet": "News News: More than half of MBA aspirants in India eyeing New Zealand are actively factoring Permanent Residency (PR) into their study-abroad plans, placing lon.",
-     "lead": "More than half of MBA aspirants in India eyeing New Zealand are actively factoring Permanent Residency (PR) into their study-abroad plans, placing long-term settlement on par with career outcomes and ahead of starting salaries. Permanent residency cropped up in 53% of candidate discussions regarding New Zealand MBA courses, outpacing interest in traditional study destinations such as Germany (38%), the UK (35%), the UAE (29%), and ...",
-     "image": "https://static.toiimg.com/thumb/msid-134408506,width-1280,height-720,imgsize-346262,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-     "why": [
-      "Mentions India or Indians"
-     ],
-     "tags": [
-      "New Zealand"
      ]
     }
    ]
