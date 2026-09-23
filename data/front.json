@@ -1,6 +1,6 @@
 {
  "edition": "2026-09-23",
- "built": "2026-09-23 07:24 IST",
+ "built": "2026-09-23 10:07 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23414.0,
-   "change_pct": 0.29,
-   "asof": "22 Sep 15:31 IST"
+   "value": 23374.0,
+   "change_pct": -0.17,
+   "asof": "23 Sep 10:07 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74859.0,
-   "change_pct": 0.76,
-   "asof": "22 Sep 15:32 IST"
+   "value": 74638.0,
+   "change_pct": -0.3,
+   "asof": "23 Sep 09:52 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.58,
-   "change_pct": -0.14,
-   "asof": "23 Sep 06:33 IST"
+   "value": 95.62,
+   "change_pct": -0.09,
+   "asof": "23 Sep 10:07 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 99.21,
+   "value": 98.13,
    "change_pct": -1.13,
-   "asof": "23 Sep 07:14 IST"
+   "asof": "23 Sep 09:57 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
    "value": 4382.0,
-   "change_pct": -0.05,
-   "asof": "23 Sep 07:14 IST"
+   "change_pct": 0.13,
+   "asof": "23 Sep 09:57 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -162,8 +162,8 @@
    ]
   },
   "Startups": {
-   "total": 121,
-   "new_today": 2,
+   "total": 130,
+   "new_today": 11,
    "items": [
     {
      "desk": "Startups",
@@ -213,6 +213,27 @@
      "desk": "Startups",
      "score": 10,
      "priority": 67,
+     "title": "Meet Nuvr, the bootstrapped startup managing Rs 1,200 Cr of ecommerce sales for brands",
+     "url": "https://yourstory.com/2026/09/nuvr-bootstrapped-startup-managing-rs-1200-cr-ecommerce-sales-brands",
+     "date": "2026-09-23",
+     "source": "YourStory",
+     "label": "India · Commerce & D2C",
+     "snippet": "The Bengaluru-based venture runs online P&Ls for brands such as Medimix, Nilon’s and Origami, using its own technology and a performance-linked revenue model.",
+     "lead": "Meet Nuvr, the bootstrapped startup managing Rs 1,200 Cr of ecommerce sales for brands The Bengaluru-based startup runs online P&Ls for brands such as Medimix, Nilon’s, and Origami, using its own technology and a performance-linked revenue model. Team YS 17222 Stories Wednesday September 23, 2026 , 5 min Read In 2023, Pulkit Chhabra was pitching an ecommerce analytics product to a consumer brand founder when the conversation took an ...",
+     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/NuvrOption21600x900-1790081570149.jpg",
+     "why": [
+      "Financials",
+      "Large deal (about $126M)"
+     ],
+     "tags": [
+      "Financials",
+      "Commerce & D2C"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 67,
      "title": "Cloud startup Verda raises $189m in funding round led by Emergence Capital",
      "url": "https://sifted.eu/articles/verda-datacrunch-funding-round-emergence-ventures/",
      "date": "2026-09-22",
@@ -229,33 +250,12 @@
       "Acquisition",
       "SaaS & Enterprise"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 67,
-     "title": "Captain Fresh’s Revenue Jumps 52% To ₹5,169 Cr In FY26",
-     "url": "https://inc42.com/buzz/captain-freshs-revenue-jumps-52-to-%e2%82%b95169-cr-in-fy26/",
-     "date": "2026-09-22",
-     "source": "Inc42",
-     "label": "India · SaaS & Enterprise",
-     "snippet": "Captain Fresh's adjusted EBITDA surged nearly 3X to ₹371 Cr as the seafood startup targets ₹10,000 Cr revenue in FY27.",
-     "lead": "Captain Fresh’s consolidated net revenue rose 52% YoY to ₹5,169 Cr in FY26, while its adjusted EBITDA jumped 2.7X to ₹371 Cr. The improved financial performance could bolster Captain Fresh’s efforts to revive its IPO plans after it withdrew its confidential filing in December 2025. The seafood company ended FY26 with ₹2,300 Cr of debt and a debt-to-equity ratio of 1.6. It is targeting ₹10,000 Cr in revenue in FY27.",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Captain-Fresh-social.jpg",
-     "why": [
-      "Financials",
-      "Very large figure in headline (about $544M: round or valuation)"
-     ],
-     "tags": [
-      "Financials",
-      "SaaS & Enterprise"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 386,
-   "new_today": 0,
+   "total": 390,
+   "new_today": 1,
    "items": [
     {
      "desk": "Immigration",
