@@ -512,18 +512,18 @@
             ]
           },
           {
-            "label": "Fire station",
-            "value": "STILL NOT VERIFIED. Delhi Fire Service publishes a station list, but the file on its own site is a scanned image with no readable text, so the station covering 110009 could not be confirmed today. Emergency number 101.",
-            "why": "For a non-emergency (NOC, fire safety certificate) you need the covering station, not the headquarters.",
+            "label": "Fire stations near this PIN",
+            "value": "The Delhi Fire Service's own station list names no station called Model Town or Mukherjee Nagar. The closest listed by name are Roop Nagar (011-23842505), Wazirpur (011-27372621) and Jahangir Puri (011-27636006). Fire control room: dial 101; DFS headquarters 011-23412222. The control room decides which station is sent, so always call 101 rather than a station.",
+            "why": "Tells you which station numbers exist, but the emergency route is always 101.",
+            "tag": "LIKELY",
             "as_of": "2026-09-24",
-            "tag": "UNVERIFIED",
             "sources": [
               {
-                "label": "Delhi Fire Service: fire stations",
-                "url": "https://dfs.delhi.gov.in/dfs/fire-stations"
+                "label": "Delhi Fire Service: fire stations and telephone numbers (Annex-I)",
+                "url": "https://dfs.delhi.gov.in/sites/default/files/fire_stationa_nd_tele._no.pdf"
               },
               {
-                "label": "Delhi Fire Service: contact",
+                "label": "Delhi Fire Service: contact us",
                 "url": "https://dfs.delhi.gov.in/dfs/contact-us"
               }
             ]
@@ -1935,6 +1935,82 @@
             "url": "https://health.delhi.gov.in/"
           }
         ]
+      },
+      {
+        "label": "Aruna Asaf Ali Government Hospital, 5 Rajpur Road, Civil Lines (110054)",
+        "value": "Delhi government multispecialty hospital, listed as 100 beds. OPD in General Medicine, General Surgery, Orthopaedics, Gynaecology, ENT, Ophthalmology and Dental; special TB and Homeopathy clinics and a Family Welfare programme. 24x7 emergency. Phones 011-23965532, 011-23964910; casualty 011-23831524.",
+        "why": "The closest Delhi-government (not MCD) hospital on the Civil Lines side; the one to try before Lok Nayak or GTB for an ordinary emergency.",
+        "tag": "LIKELY",
+        "as_of": "2026-09-24",
+        "sources": [
+          {
+            "label": "Aruna Asaf Ali Govt Hospital: contact us",
+            "url": "https://aaagh.delhi.gov.in/aaagh/contact-us"
+          },
+          {
+            "label": "Aruna Asaf Ali Govt Hospital: OPD",
+            "url": "https://aaagh.delhi.gov.in/aaagh/opd"
+          },
+          {
+            "label": "National Health Portal: Aruna Asaf Ali Government Hospital",
+            "url": "https://www.nhp.gov.in/hospital/aruna-asaf-ali-government-hospital-north-delhi"
+          }
+        ]
+      },
+      {
+        "label": "Babu Jagjivan Ram Memorial Hospital, E-block, Jahangir Puri (110033)",
+        "value": "Delhi government secondary-level hospital, 150 beds: 139 in general wards, 11 in the emergency ward and 3 observation beds. Opened in 1992-93. Sits on the western side of the Outer Ring Road beside the ITI.",
+        "why": "The larger government option toward the north-west; reachable via the Outer Ring Road.",
+        "tag": "VERIFIED",
+        "as_of": "2026-09-24",
+        "sources": [
+          {
+            "label": "Babu Jagjivan Ram Memorial Hospital: about",
+            "url": "https://bjrmh.delhi.gov.in/bjrmh/welcome-babu-jagjivan-ram-memorial-hospital"
+          },
+          {
+            "label": "BJRM Hospital services",
+            "url": "https://bjrmh.delhi.gov.in/bjrmh/services"
+          }
+        ]
+      },
+      {
+        "label": "Deep Chand Bandhu Hospital, Ashok Vihar Phase IV, Kokiwala Bagh (110052)",
+        "value": "Delhi government hospital, 200 beds, in North West Delhi. Named after Deep Chand Bandhu, former MLA of Wazirpur.",
+        "why": "The largest of the three Delhi-government hospitals nearest the north-west side of this PIN.",
+        "tag": "VERIFIED",
+        "as_of": "2026-09-24",
+        "sources": [
+          {
+            "label": "Deep Chand Bandhu Hospital: welcome",
+            "url": "https://dcbh.delhi.gov.in/dcbh/welcome-deep-chand-bandhu-hospital"
+          },
+          {
+            "label": "Deep Chand Bandhu Hospital citizen charter",
+            "url": "https://dcbh.delhi.gov.in/dcbh/citizen-charter"
+          }
+        ]
+      },
+      {
+        "label": "Jan Aushadhi Kendra (government generic-medicine shop) in GTB Nagar",
+        "value": "A Pradhan Mantri Jan Aushadhi Kendra is listed at 1723, Outram Lines Road, GTB Nagar, Delhi 110009. Another is listed in Model Town 3. These are third-party listings; the official store locator on janaushadhi.gov.in is the confirmation.",
+        "why": "Generic medicines at government-set prices, well below branded prices, close to home.",
+        "tag": "LIKELY",
+        "as_of": "2026-09-24",
+        "sources": [
+          {
+            "label": "Justdial: Jan Aushadhi Kendra, GTB Nagar",
+            "url": "https://www.justdial.com/Delhi/Jan-Aushadhi-Kendra-in-Gtb-Nagar/nct-12066529"
+          },
+          {
+            "label": "Justdial: Jan Aushadhi Kendra, Model Town 3",
+            "url": "https://www.justdial.com/Delhi/Jan-Aushadhi-Kendra-in-Model-Town-3/nct-12066529/page-2"
+          },
+          {
+            "label": "Official store locator",
+            "url": "https://janaushadhi.gov.in/"
+          }
+        ]
       }
     ]
   },
@@ -2110,6 +2186,27 @@
           {
             "label": "Directorate of Education, Delhi",
             "url": "https://www.edudel.nic.in/"
+          }
+        ]
+      },
+      {
+        "label": "Govt. Sarvodaya Vidyalaya, Dr. Mukherjee Nagar, near Batra Cinema (Tagore Park side)",
+        "value": "Directorate of Education co-educational school, classes 1 to 12, UDISE code 07010101101, PIN 110009, in DoE zone 015-N (Mukherjee Nagar). Started 1980. Aggregator listing shows 1,386 students and 64 teachers. Also on this side: Govt. Sarvodaya Bal Vidyalaya, Timarpur (boys, CBSE, established 1905).",
+        "why": "If you live on the Tagore Park side, this is the government senior secondary school that serves your ward, not the Model Town schools listed above.",
+        "tag": "LIKELY",
+        "as_of": "2026-09-24",
+        "sources": [
+          {
+            "label": "Stack Schools: Govt. Sarvodaya Vidyalaya, Dr. Mukherjee Nagar (UDISE 07010101101)",
+            "url": "https://stackschools.com/schools/07010101101/govt-sarvodaya-vidyalayadr-mukherjee-nagar-near-batra-cinem%E2%80%A6"
+          },
+          {
+            "label": "Govt Sarvodaya Bal Vidyalaya, Timarpur",
+            "url": "https://school.careers360.com/schools/government-sarvodaya-bal-vidyalaya-timarpur-new-delhi"
+          },
+          {
+            "label": "Directorate of Education, Delhi",
+            "url": "https://edudel.nic.in/"
           }
         ]
       }
