@@ -729,14 +729,16 @@
     return `<p class="note">${esc(area.note)} <b>Checked ${esc(area.checked)}.</b></p>${secs || `<p class="empty">Nothing matches that search.</p>`}`;
   }
 
-  // "Leaders": one profile card per office holder, with how they got there and who held it before.
+  // "Leaders": a directory of tiles (photo, name, exact designation) grouped by who they serve. Clicking a tile
+  // opens that person's full profile (background, affidavit, record, elections, predecessors, sources) in a pop-up.
+  let leaderCards = {};
   function leadersView(pr, q) {
     if (!pr) return `<p class="empty">No profiles on file for this PIN yet.</p>`;
     q = (q || "").toLowerCase();
     const rows = (a) => (a && a.length ? `<div class="tablewrap"><table class="fin"><tbody>${a.map(([k, v]) =>
       `<tr><td>${esc(k)}</td><td>${esc(v)}</td></tr>`).join("")}</tbody></table></div>` : "");
     const block = (title, a) => (a && a.length ? `<h4>${esc(title)}</h4>${rows(a)}` : "");
-    const card = (m) => `<article class="card kfact person"><div class="meta">${tagBadge(m.tag)}As of ${esc(m.as_of || pr.checked)}</div>
+    const card = (m) => `<article class="kfact person"><div class="meta">${tagBadge(m.tag)}As of ${esc(m.as_of || pr.checked)}</div>
       <h3>${portrait(m.name, m.photo)}<span>${esc(m.name)}</span></h3>
       <p><strong>${esc(m.post)}</strong><br>${esc(m.since)}${m.affil ? ` &middot; ${esc(m.affil)}` : ""}</p>
       ${m.why ? `<div class="whybox"><h6>Why it matters to me</h6><p>${esc(m.why)}</p></div>` : ""}
@@ -747,11 +749,43 @@
       ${m.before && m.before.length ? `<h4>Who held this post before</h4>${list(m.before)}` : ""}
       ${photoLine(m.name, m.photo, m.photo_source, m.photo_credit)}
       ${srcLinks(m.sources)}</article>`;
-    const hay = (m) => `${m.name} ${m.post} ${m.affil || ""} ${m.since} ${(m.facts || []).join(" ")} ${(m.elections || []).join(" ")} ${(m.before || []).join(" ")}`.toLowerCase();
+    const short = (a) => (a || "").replace("Bharatiya Janata Party", "BJP").replace("Aam Aadmi Party", "AAP").replace("Indian National Congress", "INC");
+    const tile = (m) => `<button type="button" class="ptile" data-person="${esc(m.id)}" aria-label="Open profile of ${esc(m.name)}">
+      ${portrait(m.name, m.photo)}<span class="pt-name">${esc(m.name)}</span>
+      <span class="pt-title">${esc(m.title || m.post)}</span>
+      <span class="pt-area">${esc(m.area || "")}${m.affil ? ` &middot; ${esc(short(m.affil))}` : ""}</span>
+      ${m.tag === "UNVERIFIED" ? `<span class="badge unverified">NAME NOT PUBLISHED</span>` : ""}</button>`;
+    const hay = (m) => `${m.name} ${m.post} ${m.title || ""} ${m.area || ""} ${m.affil || ""} ${m.since} ${(m.facts || []).join(" ")} ${(m.elections || []).join(" ")} ${(m.before || []).join(" ")}`.toLowerCase();
     const people = (pr.people || []).filter((m) => !q || hay(m).includes(q));
-    return `<p class="note">${esc(pr.note)} <b>Checked ${esc(pr.checked)}.</b></p>` +
-      (people.length ? people.map(card).join("") : `<p class="empty">Nothing matches that search.</p>`);
+    leaderCards = {};
+    (pr.people || []).forEach((m) => { leaderCards[m.id] = card(m); });
+    const groups = pr.groups || [...new Set(people.map((m) => m.group || "Others"))];
+    const body = groups.map((g) => {
+      const ms = people.filter((m) => (m.group || "Others") === g).sort((x, y) => (x.order || 99) - (y.order || 99));
+      return ms.length ? `<h2 class="day">${esc(g)}</h2><div class="pgrid">${ms.map(tile).join("")}</div>` : "";
+    }).join("");
+    return `<p class="note">${esc(pr.note)} <b>Checked ${esc(pr.checked)}.</b> Tap a name to open the full profile.</p>` +
+      (people.length ? body : `<p class="empty">Nothing matches that search.</p>`);
   }
+  // One pop-up for every profile; a single delegated listener, so re-rendering the feed never breaks it.
+  function closePerson() { const m = document.getElementById("pmodal"); if (m) { m.hidden = true; document.body.classList.remove("pm-open"); } }
+  document.addEventListener("click", (e) => {
+    const t = e.target.closest && e.target.closest(".ptile");
+    if (t && leaderCards[t.dataset.person]) {
+      let m = document.getElementById("pmodal");
+      if (!m) {
+        m = document.createElement("div"); m.id = "pmodal"; m.className = "pmodal"; m.hidden = true;
+        m.innerHTML = `<div class="pmodal-box" role="dialog" aria-modal="true" aria-label="Profile"><button type="button" class="pm-close" aria-label="Close profile">&times;</button><div id="pmbody"></div></div>`;
+        document.body.appendChild(m);
+      }
+      document.getElementById("pmbody").innerHTML = leaderCards[t.dataset.person];
+      m.hidden = false; document.body.classList.add("pm-open"); m.scrollTop = 0;
+      m.querySelector(".pm-close").focus();
+      return;
+    }
+    if (e.target.closest && (e.target.closest(".pm-close") || e.target.id === "pmodal")) closePerson();
+  });
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape") closePerson(); });
 
   // "Area Profile": history, census numbers, health, schools and services, each block a list of sourced facts.
   function profileView(data, q) {

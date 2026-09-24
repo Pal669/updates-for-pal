@@ -916,7 +916,11 @@
             "url": "https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward_13_mukherjee_nagar_5.pdf"
           }
         ],
-        "as_of": "2026-09-24"
+        "as_of": "2026-09-24",
+        "group": "Tagore Park / Mukherjee Nagar side",
+        "order": 3,
+        "title": "Municipal Councillor",
+        "area": "Ward 13 Mukherjee Nagar, MCD"
       },
       {
         "id": "mla_timarpur",
@@ -995,7 +999,11 @@
             "url": "https://en.wikipedia.org/wiki/Timarpur_Assembly_constituency"
           }
         ],
-        "as_of": "2026-09-24"
+        "as_of": "2026-09-24",
+        "group": "Tagore Park / Mukherjee Nagar side",
+        "order": 2,
+        "title": "Member of Legislative Assembly (MLA)",
+        "area": "Timarpur, Delhi Assembly"
       },
       {
         "id": "mp_ne",
@@ -1088,12 +1096,19 @@
             "url": "https://prsindia.org/mptrack/18-lok-sabha/manoj-tiwari"
           }
         ],
-        "as_of": "2026-09-24"
+        "as_of": "2026-09-24",
+        "group": "Tagore Park / Mukherjee Nagar side",
+        "order": 1,
+        "title": "Member of Parliament (MP)",
+        "area": "North East Delhi, Lok Sabha",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Manoj_Tiwari_profile.jpg/250px-Manoj_Tiwari_profile.jpg",
+        "photo_source": "https://commons.wikimedia.org/wiki/File:Manoj_Tiwari_profile.jpg",
+        "photo_credit": "Wikimedia Commons, CC BY-SA 4.0 (user Ishutyagi7121); it is the lead image of his Wikipedia article"
       },
       {
         "id": "mp",
         "name": "Praveen Khandelwal",
-        "post": "Member of Parliament, Chandni Chowk (Lok Sabha) (Model Town side)",
+        "post": "Member of Parliament, Chandni Chowk (Lok Sabha)",
         "since": "Term began 9 June 2024; first term",
         "affil": "Bharatiya Janata Party",
         "tag": "VERIFIED",
@@ -1203,12 +1218,16 @@
             "url": "https://sansad.in/ls/members"
           }
         ],
-        "as_of": "2026-09-24"
+        "as_of": "2026-09-24",
+        "group": "Model Town side",
+        "order": 1,
+        "title": "Member of Parliament (MP)",
+        "area": "Chandni Chowk, Lok Sabha"
       },
       {
         "id": "mla",
         "name": "Ashok Goel",
-        "post": "MLA, Model Town (Delhi Legislative Assembly) (Model Town side)",
+        "post": "MLA, Model Town (Delhi Legislative Assembly)",
         "since": "8 February 2025",
         "affil": "Bharatiya Janata Party",
         "tag": "VERIFIED",
@@ -1290,12 +1309,16 @@
             "url": "https://results.eci.gov.in/ResultAcGenFeb2025/candidateswise-U0518.htm"
           }
         ],
-        "as_of": "2026-09-24"
+        "as_of": "2026-09-24",
+        "group": "Model Town side",
+        "order": 2,
+        "title": "Member of Legislative Assembly (MLA)",
+        "area": "Model Town, Delhi Assembly"
       },
       {
         "id": "councillor",
         "name": "Vikesh Sethi",
-        "post": "Councillor, Ward 68 Model Town (MCD, Civil Lines Zone) (Model Town side)",
+        "post": "Councillor, Ward 68 Model Town (MCD, Civil Lines Zone)",
         "since": "December 2022",
         "affil": "Bharatiya Janata Party",
         "tag": "LIKELY",
@@ -1342,7 +1365,11 @@
             "url": "https://www.myneta.info/Delhi2022/"
           }
         ],
-        "as_of": "2026-09-24"
+        "as_of": "2026-09-24",
+        "group": "Model Town side",
+        "order": 3,
+        "title": "Municipal Councillor",
+        "area": "Ward 68 Model Town, MCD"
       },
       {
         "id": "mayor",
@@ -1372,7 +1399,11 @@
             "url": "https://mcdonline.nic.in/"
           }
         ],
-        "as_of": "2026-09-24"
+        "as_of": "2026-09-24",
+        "group": "City, district and police",
+        "order": 1,
+        "title": "Mayor of Delhi",
+        "area": "Municipal Corporation of Delhi"
       },
       {
         "id": "commissioner",
@@ -1406,7 +1437,11 @@
             "url": "https://mcdonline.nic.in/"
           }
         ],
-        "as_of": "2026-09-24"
+        "as_of": "2026-09-24",
+        "group": "City, district and police",
+        "order": 2,
+        "title": "Municipal Commissioner",
+        "area": "Municipal Corporation of Delhi"
       },
       {
         "id": "dm",
@@ -1444,7 +1479,11 @@
             "url": "https://apacnewsnetwork.com/2025/09/delhi-govt-transfers-seven-ias-officers-ias-shailendra-singh-parihar-made-dc-revenue-department/"
           }
         ],
-        "as_of": "2026-09-24"
+        "as_of": "2026-09-24",
+        "group": "City, district and police",
+        "order": 3,
+        "title": "District Magistrate (DM) / Deputy Commissioner",
+        "area": "Central North district"
       },
       {
         "id": "sdm",
@@ -1474,7 +1513,11 @@
             "url": "https://dmcentralnorth.delhi.gov.in/whos-who/"
           }
         ],
-        "as_of": "2026-09-24"
+        "as_of": "2026-09-24",
+        "group": "City, district and police",
+        "order": 5,
+        "title": "Sub-Divisional Magistrate (SDM)",
+        "area": "Model Town sub-division"
       },
       {
         "id": "tehsildar",
@@ -1508,7 +1551,11 @@
             "url": "https://revenue.delhi.gov.in/revenue/list-sr-revenue-department"
           }
         ],
-        "as_of": "2026-09-24"
+        "as_of": "2026-09-24",
+        "group": "City, district and police",
+        "order": 6,
+        "title": "Tehsildar",
+        "area": "Model Town tehsil"
       },
       {
         "id": "dcp",
@@ -1542,7 +1589,11 @@
             "url": "https://delhipolice.gov.in/RTImanualFiles/55127_Manual-16.pdf"
           }
         ],
-        "as_of": "2026-09-24"
+        "as_of": "2026-09-24",
+        "group": "City, district and police",
+        "order": 7,
+        "title": "Deputy Commissioner of Police (DCP)",
+        "area": "North West district, Delhi Police"
       },
       {
         "id": "cm",
@@ -1583,7 +1634,11 @@
             "url": "https://en.wikipedia.org/wiki/Rekha_Gupta"
           }
         ],
-        "as_of": "2026-09-24"
+        "as_of": "2026-09-24",
+        "group": "City, district and police",
+        "order": 10,
+        "title": "Chief Minister of Delhi",
+        "area": "Government of NCT of Delhi"
       },
       {
         "id": "lg",
@@ -1620,8 +1675,115 @@
             "url": "https://newsable.asianetnews.com/india/vinai-saxena-is-new-ladakh-lg-taranjit-sandhu-appointed-delhi-lg-articleshow-gl3zyrp"
           }
         ],
-        "as_of": "2026-09-24"
+        "as_of": "2026-09-24",
+        "group": "City, district and police",
+        "order": 11,
+        "title": "Lieutenant Governor of Delhi",
+        "area": "Administrator, NCT of Delhi"
+      },
+      {
+        "id": "adm",
+        "name": "Rajiv Ranjan",
+        "post": "Additional District Magistrate (ADM), Central North district",
+        "since": "Listed on the district's directory (updated September 2026)",
+        "affil": "Delhi government, Revenue Department",
+        "tag": "VERIFIED",
+        "why": "Second in the district's revenue administration; handles matters the DM delegates, such as land, certificates and law-and-order coordination.",
+        "facts": [
+          [
+            "Office",
+            "DC Office Complex, Old Middle School Building, Lawrence Road, Rampura, Delhi 110035"
+          ],
+          [
+            "Phone",
+            "011-20872682"
+          ],
+          [
+            "Email",
+            "adm-centralnorth[at]delhi[dot]gov[dot]in"
+          ],
+          [
+            "Career history",
+            "NOT VERIFIED. The district site gives the post and contact only; the Revenue Department's officer list is the place to check."
+          ]
+        ],
+        "sources": [
+          {
+            "label": "District Central North: directory",
+            "url": "https://dmcentralnorth.delhi.gov.in/directory/"
+          }
+        ],
+        "as_of": "2026-09-24",
+        "group": "City, district and police",
+        "order": 4,
+        "title": "Additional District Magistrate (ADM)",
+        "area": "Central North district"
+      },
+      {
+        "id": "sho_mn",
+        "name": "Name not published",
+        "post": "Station House Officer (SHO), PS Mukherjee Nagar",
+        "since": "NOT VERIFIED",
+        "affil": "Delhi Police",
+        "tag": "UNVERIFIED",
+        "why": "The first police officer to approach for a complaint on the Tagore Park, Mukherjee Nagar and GTB Nagar side.",
+        "facts": [
+          [
+            "Current SHO",
+            "NOT VERIFIED. Delhi Police does not list SHOs in its public directory, and only third-party lists came up. Ask at the station, or use the Know Your Police Station page on delhipolice.gov.in."
+          ],
+          [
+            "Senior officers above the station",
+            "ACP and DCP North West Bhisham Singh IPS: see the Know your area tab for phone numbers"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Delhi Police",
+            "url": "https://delhipolice.gov.in/"
+          }
+        ],
+        "as_of": "2026-09-24",
+        "group": "City, district and police",
+        "order": 8,
+        "title": "Station House Officer (SHO)",
+        "area": "PS Mukherjee Nagar"
+      },
+      {
+        "id": "sho_mt",
+        "name": "Name not published",
+        "post": "Station House Officer (SHO), PS Model Town",
+        "since": "NOT VERIFIED",
+        "affil": "Delhi Police",
+        "tag": "UNVERIFIED",
+        "why": "The first police officer to approach for a complaint on the Model Town side; the station is on Ring Road, Model Town.",
+        "facts": [
+          [
+            "Current SHO",
+            "NOT VERIFIED. Delhi Police does not list SHOs in its public directory, and only third-party lists came up. Ask at the station, or use the Know Your Police Station page on delhipolice.gov.in."
+          ],
+          [
+            "Senior officers above the station",
+            "ACP and DCP North West Bhisham Singh IPS: see the Know your area tab for phone numbers"
+          ]
+        ],
+        "sources": [
+          {
+            "label": "Delhi Police",
+            "url": "https://delhipolice.gov.in/"
+          }
+        ],
+        "as_of": "2026-09-24",
+        "group": "City, district and police",
+        "order": 9,
+        "title": "Station House Officer (SHO)",
+        "area": "PS Model Town"
       }
+    ],
+    "groups": [
+      "Tagore Park / Mukherjee Nagar side",
+      "Model Town side",
+      "City, district and police"
     ]
   },
   "history": {
