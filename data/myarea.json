@@ -11,6 +11,31 @@
         "title": "Who represents you",
         "facts": [
           {
+            "label": "Which constituency is your address in? Tagore Park side vs Model Town side",
+            "value": "PIN 110009 is split. Tagore Park, Mukherjee Nagar and GTB Nagar side: ward 13 Mukherjee Nagar (councillor Raja Iqbal Singh, BJP), Timarpur assembly (MLA Surya Prakash Khatri, BJP), North East Delhi Lok Sabha (MP Manoj Tiwari, BJP). Model Town blocks, Gujranwala Town, Kingsway Camp side: ward 68 Model Town (councillor Vikesh Sethi, BJP), Model Town assembly (MLA Ashok Goel, BJP), Chandni Chowk Lok Sabha (MP Praveen Khandelwal, BJP).",
+            "why": "Complaints, funds and asks go to a different person depending on the side. Both sets of profiles are on the Leaders tab.",
+            "as_of": "2026-09-24",
+            "tag": "LIKELY",
+            "sources": [
+              {
+                "label": "State Election Commission: ward 13 Mukherjee Nagar map (2022 delimitation; TAGORE PARK is a label inside it)",
+                "url": "https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward_13_mukherjee_nagar_5.pdf"
+              },
+              {
+                "label": "State Election Commission: ward 68 Model Town map",
+                "url": "https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward_68_model_town.pdf"
+              },
+              {
+                "label": "CEO Delhi: Model Town constituency polling parts (no Tagore Park or Mukherjee Nagar in its 164 parts)",
+                "url": "https://www.ceodelhi.gov.in/PartDetailsEng.aspx?num=uxP5+9Qk+vgO4QsxnIWSgg%3D%3D&ii=e"
+              },
+              {
+                "label": "CEO Delhi: Timarpur constituency polling parts (lists Tagore Park A to Q, Tagore Park Extension)",
+                "url": "https://www.ceodelhi.gov.in/PartDetailsEng.aspx?num=JavvZnjgfF5Q626R1/5xOA%3D%3D&ii=e"
+              }
+            ]
+          },
+          {
             "label": "Member of Parliament (Lok Sabha)",
             "person": "Praveen Khandelwal",
             "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Praveen_Khandelwal.jpg/330px-Praveen_Khandelwal.jpg",
@@ -836,12 +861,239 @@
   ],
   "profiles": {
     "checked": "2026-09-24",
-    "note": "Who holds each office over this PIN, how they got there, and who held it before them. Election numbers are as declared by the Election Commission; assets, liabilities and criminal cases are as declared by the person in their own election affidavit (via ADR/MyNeta), never an assessment. Family details, home addresses and personal phone numbers are left out on purpose even where a government page publishes them. Where something could not be confirmed it says NOT VERIFIED and names where to check.",
+    "note": "PIN 110009 is split between two sets of representatives. The Tagore Park / Mukherjee Nagar / GTB Nagar side (ward 13, Timarpur assembly, North East Delhi Lok Sabha) and the Model Town blocks / Gujranwala Town / Kingsway Camp side (ward 68, Model Town assembly, Chandni Chowk Lok Sabha). Both sets are shown; use your voter ID part number to confirm yours. Who holds each office over this PIN, how they got there, and who held it before them. Election numbers are as declared by the Election Commission; assets, liabilities and criminal cases are as declared by the person in their own election affidavit (via ADR/MyNeta), never an assessment. Family details, home addresses and personal phone numbers are left out on purpose even where a government page publishes them. Where something could not be confirmed it says NOT VERIFIED and names where to check.",
     "people": [
+      {
+        "id": "councillor13",
+        "name": "Raja Iqbal Singh",
+        "post": "Councillor, Ward 13 Mukherjee Nagar (MCD), the Tagore Park side; former Mayor of Delhi",
+        "since": "Elected 2017 (GTB Nagar ward) and re-elected December 2022 from ward 13",
+        "affil": "Bharatiya Janata Party",
+        "tag": "LIKELY",
+        "why": "If you live in Tagore Park, garbage lifting, street lights, ward roads and parks are his ground. He also held the top civic office until April 2026, so he knows the MCD machinery.",
+        "facts": [
+          [
+            "Education",
+            "BSc, SGTB Khalsa College, University of Delhi; LLB, Chaudhary Charan Singh University, Meerut"
+          ],
+          [
+            "Mayor, North Delhi Municipal Corporation",
+            "2021 to 2022, before the three corporations were merged"
+          ],
+          [
+            "Mayor of Delhi (unified MCD)",
+            "25 April 2025 to 29 April 2026; succeeded Mahesh Kumar Khichi, followed by Pravesh Wahi"
+          ],
+          [
+            "Assets and cases",
+            "NOT VERIFIED. 2022 municipal affidavits are filed with the State Election Commission; the MyNeta Delhi 2022 ward list is the place to check."
+          ]
+        ],
+        "elections": [
+          [
+            "2022",
+            "Raja Iqbal Singh (BJP) 14,422 beat Antul Kohli (AAP) 13,845. Margin 577."
+          ],
+          [
+            "2017",
+            "Elected from GTB Nagar ward (his first election). The ward was redrawn in 2022, so not comparable."
+          ]
+        ],
+        "before": [
+          "Ward 13 as drawn today is new from 2022; before it he represented the old GTB Nagar ward"
+        ],
+        "sources": [
+          {
+            "label": "Raja Iqbal Singh",
+            "url": "https://en.wikipedia.org/wiki/Raja_Iqbal_Singh"
+          },
+          {
+            "label": "2022 Delhi MCD election: ward results",
+            "url": "https://en.wikipedia.org/wiki/2022_Delhi_Municipal_Corporation_election"
+          },
+          {
+            "label": "State Election Commission: ward 13 Mukherjee Nagar map (2022 delimitation; TAGORE PARK is a label inside it)",
+            "url": "https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward_13_mukherjee_nagar_5.pdf"
+          }
+        ],
+        "as_of": "2026-09-24"
+      },
+      {
+        "id": "mla_timarpur",
+        "name": "Surya Prakash Khatri",
+        "post": "MLA, Timarpur (Delhi Legislative Assembly), the Tagore Park and Mukherjee Nagar side",
+        "since": "February 2025; first term",
+        "affil": "Bharatiya Janata Party",
+        "tag": "LIKELY",
+        "why": "If your address is on the Tagore Park side, he is your MLA for roads, water, schools and hospitals run by the Delhi government and for the assembly's local area fund.",
+        "facts": [
+          [
+            "Age and profession",
+            "62; advocate"
+          ],
+          [
+            "Education",
+            "LLB, Campus Law Centre, Faculty of Law, University of Delhi (1990); BA, Hansraj College, University of Delhi (1985)"
+          ],
+          [
+            "Predecessor",
+            "Dilip Pandey (AAP), MLA before him"
+          ]
+        ],
+        "declared": [
+          [
+            "Assets declared (2025)",
+            "Rs 26,91,50,712"
+          ],
+          [
+            "Liabilities declared (2025)",
+            "Rs 2,88,31,481"
+          ],
+          [
+            "Criminal cases declared (2025)",
+            "None"
+          ]
+        ],
+        "record": [
+          [
+            "Attendance",
+            "91.7% (Delhi assembly average 82.4%)"
+          ],
+          [
+            "Questions asked",
+            "0 (average 6.2)"
+          ],
+          [
+            "Debates participated in",
+            "10 (average 4.7)"
+          ],
+          [
+            "Period covered",
+            "20 Feb 2025 to 2 Apr 2025 only, as published by PRS; too short to judge"
+          ]
+        ],
+        "elections": [
+          [
+            "2025",
+            "Surya Prakash Khatri (BJP) 55,941 (about 46%) beat Surinder Pal Singh 'Bittoo' (AAP) 54,773 (45.27%). Margin 1,168, one of the closest in Delhi."
+          ]
+        ],
+        "before": [
+          "Dilip Pandey (AAP), Timarpur MLA before 2025"
+        ],
+        "sources": [
+          {
+            "label": "MyNeta / ADR: 2025 affidavit, Surya Prakash Khatri",
+            "url": "https://www.myneta.info/Delhi2025/candidate.php?candidate_id=120"
+          },
+          {
+            "label": "PRS: MLA track, Surya Prakash Khatri",
+            "url": "https://prsindia.org/mlatrack/surya-prakash-khatri"
+          },
+          {
+            "label": "Timarpur Assembly constituency",
+            "url": "https://en.wikipedia.org/wiki/Timarpur_Assembly_constituency"
+          }
+        ],
+        "as_of": "2026-09-24"
+      },
+      {
+        "id": "mp_ne",
+        "name": "Manoj Tiwari",
+        "post": "Member of Parliament, North East Delhi (Lok Sabha), the Tagore Park side",
+        "since": "MP since 16 May 2014; third term from June 2024",
+        "affil": "Bharatiya Janata Party",
+        "tag": "LIKELY",
+        "why": "If your address is on the Tagore Park side, MPLAD money (an MP's local area grant) and central-scheme follow-ups come through his office, not the Chandni Chowk MP's.",
+        "facts": [
+          [
+            "Born",
+            "1 February 1971, Varanasi, Uttar Pradesh"
+          ],
+          [
+            "Education",
+            "M.P.Ed., Banaras Hindu University"
+          ],
+          [
+            "Before politics",
+            "Bhojpuri film actor and singer"
+          ],
+          [
+            "Party history",
+            "Samajwadi Party until 2011; BJP since 2014"
+          ],
+          [
+            "Party post",
+            "Delhi BJP president, 30 November 2016 to 2 June 2020"
+          ],
+          [
+            "Assets and cases",
+            "NOT VERIFIED here. Check the 2024 affidavit on MyNeta / ADR."
+          ]
+        ],
+        "record": [
+          [
+            "Attendance",
+            "90% (national average 85%, Delhi average 96%)"
+          ],
+          [
+            "Questions asked",
+            "276 (national 120, Delhi 172)"
+          ],
+          [
+            "Debates participated in",
+            "21 (national 21.5, Delhi 20.2)"
+          ],
+          [
+            "Private member's bills",
+            "3 (national 0.4, Delhi 0.5)"
+          ],
+          [
+            "Period covered",
+            "24 June 2024 to 13 August 2026, as published by PRS"
+          ],
+          [
+            "MPLAD utilisation",
+            "NOT VERIFIED. Citizen Matters reported under-use of his MPLADS funds in the previous term; check the MP-wise page on mplads.gov.in."
+          ]
+        ],
+        "elections": [
+          [
+            "2024",
+            "Manoj Tiwari (BJP) 8,24,451 (53.10%) beat Kanhaiya Kumar (INC) 6,85,673 (44.16%). Margin 1,38,778."
+          ],
+          [
+            "2019",
+            "Manoj Tiwari (BJP) 7,87,799 (53.90%) beat Sheila Dikshit (INC) 4,21,697 (28.85%). Margin 3,66,102."
+          ],
+          [
+            "2014",
+            "Manoj Tiwari (BJP) 5,96,125 (45.23%) beat Anand Kumar (AAP) 4,52,041 (34.30%). Margin 1,44,084."
+          ]
+        ],
+        "before": [
+          "Jai Prakash Agarwal (INC), MP for North East Delhi 2009 to 2014"
+        ],
+        "sources": [
+          {
+            "label": "North East Delhi Lok Sabha constituency",
+            "url": "https://en.wikipedia.org/wiki/North_East_Delhi_Lok_Sabha_constituency"
+          },
+          {
+            "label": "Manoj Tiwari (Delhi politician)",
+            "url": "https://en.wikipedia.org/wiki/Manoj_Tiwari_(Delhi_politician)"
+          },
+          {
+            "label": "PRS: MP track, Manoj Tiwari, 18th Lok Sabha",
+            "url": "https://prsindia.org/mptrack/18-lok-sabha/manoj-tiwari"
+          }
+        ],
+        "as_of": "2026-09-24"
+      },
       {
         "id": "mp",
         "name": "Praveen Khandelwal",
-        "post": "Member of Parliament, Chandni Chowk (Lok Sabha)",
+        "post": "Member of Parliament, Chandni Chowk (Lok Sabha) (Model Town side)",
         "since": "Term began 9 June 2024; first term",
         "affil": "Bharatiya Janata Party",
         "tag": "VERIFIED",
@@ -956,7 +1208,7 @@
       {
         "id": "mla",
         "name": "Ashok Goel",
-        "post": "MLA, Model Town (Delhi Legislative Assembly)",
+        "post": "MLA, Model Town (Delhi Legislative Assembly) (Model Town side)",
         "since": "8 February 2025",
         "affil": "Bharatiya Janata Party",
         "tag": "VERIFIED",
@@ -1043,7 +1295,7 @@
       {
         "id": "councillor",
         "name": "Vikesh Sethi",
-        "post": "Councillor, Ward 68 Model Town (MCD, Civil Lines Zone)",
+        "post": "Councillor, Ward 68 Model Town (MCD, Civil Lines Zone) (Model Town side)",
         "since": "December 2022",
         "affil": "Bharatiya Janata Party",
         "tag": "LIKELY",
@@ -1412,23 +1664,31 @@
         ]
       },
       {
-        "label": "Tagore Park is not labelled inside ward 68",
-        "value": "Tagore Park does not appear on the ward 68 map's own label list. It sits on the Model Town and GTB Nagar side and may fall in a neighbouring ward, most likely ward 13 Mukherjee Nagar or ward 12 Malka Ganj, both of which border ward 68. NOT VERIFIED which ward it is in: the individual ward maps for 12 and 13 were not available at the same file path.",
-        "why": "If Tagore Park is in ward 13, complaints belong to a different councillor, even though the PIN and police station are shared.",
-        "tag": "UNVERIFIED",
+        "label": "Tagore Park is in ward 13 Mukherjee Nagar, not ward 68",
+        "value": "The State Election Commission's ward 13 (Mukherjee Nagar) map carries TAGORE PARK as a label, next to Mukherjee Nagar, Old Gupta Colony, Vijay Nagar, Malikpur, MCD Colony and Outram Lines; it is not on the ward 68 map. The Election Commission's Model Town constituency list (164 polling parts) contains no Tagore Park or Mukherjee Nagar, while the Timarpur constituency list does, and the ward 13 polling station file is filed under 'AC 03 Timarpur'. So a Tagore Park address falls under ward 13, Timarpur assembly and North East Delhi Lok Sabha, not ward 68, Model Town assembly and Chandni Chowk. Blocks of Model Town proper, Gujranwala Town and Kingsway Camp remain in ward 68 and Model Town assembly. Confirm your own part with your voter ID (EPIC) on the voters portal, since a street on the boundary can go either way.",
+        "why": "This decides who your councillor, MLA and MP are. The Leaders tab now shows both sets; use the one for your colony.",
+        "tag": "LIKELY",
         "as_of": "2026-09-24",
         "sources": [
+          {
+            "label": "State Election Commission: ward 13 Mukherjee Nagar map (2022 delimitation; TAGORE PARK is a label inside it)",
+            "url": "https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward_13_mukherjee_nagar_5.pdf"
+          },
           {
             "label": "State Election Commission: ward 68 Model Town map",
             "url": "https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward_68_model_town.pdf"
           },
           {
-            "label": "State Election Commission: delimitation order 2022",
-            "url": "https://sec.delhi.gov.in/sec/delimitation-order-2022"
+            "label": "CEO Delhi: Model Town constituency polling parts (no Tagore Park or Mukherjee Nagar in its 164 parts)",
+            "url": "https://www.ceodelhi.gov.in/PartDetailsEng.aspx?num=uxP5+9Qk+vgO4QsxnIWSgg%3D%3D&ii=e"
           },
           {
-            "label": "State Election Commission: elected councillors 2022",
-            "url": "https://sec.delhi.gov.in/sec/list-elected-councilors-2022"
+            "label": "CEO Delhi: Timarpur constituency polling parts (lists Tagore Park A to Q, Tagore Park Extension)",
+            "url": "https://www.ceodelhi.gov.in/PartDetailsEng.aspx?num=JavvZnjgfF5Q626R1/5xOA%3D%3D&ii=e"
+          },
+          {
+            "label": "State Election Commission: ward 13 polling station list, filed under Rationalizations AC 03 Timarpur",
+            "url": "https://sec.delhi.gov.in/sites/default/files/SEC/basic/polling_station_draft/Ward13_6175_710_WARD%2013%20(MUKHERJEE%20NAGAR)%20SINGED.pdf"
           }
         ]
       },
@@ -1469,6 +1729,23 @@
     "title": "The numbers, each with its year",
     "note": "Every figure here is stamped with the year and the boundary it belongs to. Delhi's districts were redrawn on 1 January 2026, so a 2011 district figure is not a figure for today's Central North district.",
     "facts": [
+      {
+        "label": "Ward populations under the 2022 delimitation (Census 2011 base)",
+        "value": "Ward 13 Mukherjee Nagar: total population 79,914, of whom Scheduled Caste 7,337. Ward 68 Model Town: total population 65,907, of whom Scheduled Caste 7,141. Both printed on the State Election Commission's own ward maps (map print date 13 Oct 2022).",
+        "why": "Ward size decides how thin one councillor's attention and MCD funds are spread; ward 13 is about 21% larger than ward 68.",
+        "tag": "VERIFIED",
+        "as_of": "2026-09-24",
+        "sources": [
+          {
+            "label": "State Election Commission: ward 13 Mukherjee Nagar map (2022 delimitation; TAGORE PARK is a label inside it)",
+            "url": "https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward_13_mukherjee_nagar_5.pdf"
+          },
+          {
+            "label": "State Election Commission: ward 68 Model Town map",
+            "url": "https://sec.delhi.gov.in/sites/default/files/SEC/universal-tab/ward_68_model_town.pdf"
+          }
+        ]
+      },
       {
         "label": "Census 2011: the old North Delhi district (which then contained Model Town)",
         "value": "Population 8,87,978 (4,75,002 male, 4,12,976 female), up 13.62% from 7,81,525 in 2001. Area 61 sq km, density 14,557 per sq km, which was 5.29% of Delhi's population. Sex ratio 869 women per 1,000 men; child sex ratio (0-6) 873. Literacy 86.85% overall, 90.89% male, 82.20% female. Children aged 0-6: 1,03,304, or 11.63% of the district. 5,071 families were recorded as living without a roof.",
