@@ -80,6 +80,12 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px; border-top: 3px double
 .portrait { width: 48px; height: 48px; flex: 0 0 48px; border-radius: 50%; object-fit: cover; object-position: top center; background: var(--paper); border: 1px solid rgba(0,0,0,.15); }
 .portrait.ini { display: inline-flex; align-items: center; justify-content: center; background: var(--muted); color: #fff; font: 700 16px/1 var(--sans); letter-spacing: .04em; border: 0; }
 .portrait.gone { display: none; }
+/* Leaders / Area Profile cards: sub-headings and the two-column fact tables inside a profile */
+.kfact h4 { font: 700 13px/1.4 var(--sans); letter-spacing: .04em; text-transform: uppercase; color: var(--muted); margin: 14px 0 4px; }
+.kfact .fin td:first-child { width: 38%; font-weight: 600; }
+.kfact .fin td { vertical-align: top; }
+.kfact ul { margin: 4px 0 0; padding-left: 18px; }
+@media (max-width: 560px) { .kfact .fin td:first-child { width: 42%; } .portrait, .portrait.ini { width: 42px; height: 42px; flex-basis: 42px; } }
 .deal { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 10px; }
 .deal span { font: 13px var(--sans); background: var(--chip); border: 1px solid var(--rule); border-radius: 4px; padding: 2px 8px; }
 .auto { font: 14px/1.5 var(--sans); color: var(--muted); margin: 0 0 8px; }

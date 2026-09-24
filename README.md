@@ -40,7 +40,17 @@ Hand-written, hand-verified. `data/myarea.json` holds two things and is never tr
   mcdonline.nic.in, delhipolice.gov.in, Wikipedia/Wikimedia Commons). Images are hotlinked, never downloaded, and the
   URL must return HTTP 200 with an `image/*` type and be the right person by name on the source page. No verified
   photo means neutral initials, and the card says so. Never a photo of a private person.
-Sub-tabs in `app.js` (`DESKS.myarea`): Local Updates, Know your area (`knowView`), Archive.
+- `profiles`: one card per office holder (MP, MLA, councillor, Mayor, MCD Commissioner, DM, SDM, Tehsildar, DCP, plus the
+  Delhi CM and LG as context) with `facts`, `declared`, `record`, `elections` (all `[label, value]` pairs), `before`
+  (previous holders) and `sources`. Election numbers come from the Election Commission; assets, liabilities and criminal
+  cases are quoted exactly as declared in the person's own affidavit (ADR/MyNeta) and are never assessed or commented on.
+  Family details, home addresses and personal phone numbers stay out even when a government page prints them.
+- `history`, `census`, `health`, `schools`, `civic`: each `{title, note, checked, facts[]}`, same fact shape as
+  `know_your_area`. Census figures are stamped with their year AND the boundary they belong to (Delhi's districts were
+  redrawn on 1 Jan 2026), and derived numbers say they are derived.
+Sub-tabs in `app.js` (`DESKS.myarea`): Local Updates, Know your area (`knowView`), Leaders (`leadersView`),
+Area Profile (`profileView`, composes the five blocks above), Archive. All three reference views share `factHtml`,
+`portrait` and `photoLine`, and the desk search box filters each of them.
 
 ## Investment Advisory Universe desk
 Built for an investment advisor: numbers first, then PMS, AIF, debt and regulation, all with sources. No commentary.

@@ -93,10 +93,12 @@
   DESKS.myarea = {
     file: "data/myarea.json",
     title: "My Area",
-    sources: "Live web search: .gov.in portals (official priority), then credible news. Every story is tagged VERIFIED (official source or two independent credible sources), LIKELY (one credible source) or UNVERIFIED (not confirmed; published only as a reference fact with the place to check named). Nothing here is guessed: where a name, number or office could not be confirmed, it says so. Expired items are kept under Archive, never deleted.",
+    sources: "Five sections. Local Updates is dated news; Know your area is the standing reference on who runs what; Leaders is one profile per office holder, with election numbers from the Election Commission and assets, liabilities and criminal cases exactly as the person declared them in their own affidavit (via ADR/MyNeta), never an assessment; Area Profile is the history, the census numbers, health, schools and services; Archive holds expired items, which are never deleted. Every fact carries its own source, its 'as of' date and a tag: VERIFIED (official source or two independent credible sources), LIKELY (one credible source), UNVERIFIED (not confirmed, published only as a reference with the place to check named). Family details, home addresses and personal phone numbers are left out even where a government page prints them.",
     subs: [
       { id: "news", label: "Local Updates", test: (i) => !i.archived },
       { id: "know", label: "Know your area", view: "know" },
+      { id: "leaders", label: "Leaders", view: "leaders" },
+      { id: "profile", label: "Area Profile", view: "profile" },
       { id: "archive", label: "Archive", test: (i) => !!i.archived },
     ],
     f1: { key: "category" },
@@ -690,33 +692,79 @@
         <h3>${esc(s.title)}</h3>${list(s.points)}${srcLinks(s.sources)}</article>`).join("");
   }
 
-  // "Know your area": the permanent facts for the My Area PIN. Every fact carries its own sources and an "as of" date.
+  // ---- My Area reference views (Know your area, Leaders, Area Profile) share these helpers ----
+  // Portrait: hotlinked from the source that names the person. No photo, or a photo that fails to load, falls back
+  // to neutral initials, so a post with no verified picture never shows a stranger's face.
+  const initials = (n) => (n || "").split(/\s+/).filter(Boolean).slice(0, 2).map((w) => w[0].toUpperCase()).join("");
+  function portrait(name, photo) {
+    if (!name) return "";
+    const ini = `<span class="portrait ini${photo ? " gone" : ""}" aria-hidden="true">${esc(initials(name))}</span>`;
+    const img = photo
+      ? `<img class="portrait" src="${esc(photo)}" alt="Photograph of ${esc(name)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.classList.add('gone');this.nextElementSibling.classList.remove('gone')">`
+      : "";
+    return `${img}${ini}`;
+  }
+  const photoLine = (name, photo, src, credit) => photo
+    ? `<p class="fine">Photograph of ${esc(name)}: ${link(src, "source page")}${credit ? ` &middot; ${esc(credit)}` : ""}</p>`
+    : name ? `<p class="fine">No photograph from an official or established public source, so the initials are shown instead.</p>` : "";
+  const tagBadge = (t) => `<span class="badge ${esc((t || "").toLowerCase())}">${esc(t || "")}</span>`;
+
+  // One reference fact: label, value, why it matters, its own sources and "as of" date.
+  const factHtml = (f, checked) => `<article class="card kfact"><div class="meta">${tagBadge(f.tag)}As of ${esc(f.as_of || checked)}</div>
+      <h3>${portrait(f.person, f.photo)}<span>${esc(f.label)}</span></h3><p>${esc(f.value)}</p>
+      ${f.why ? `<div class="whybox"><h6>Why it matters to me</h6><p>${esc(f.why)}</p></div>` : ""}
+      ${photoLine(f.person, f.photo, f.photo_source, f.photo_credit)}
+      ${srcLinks(f.sources)}</article>`;
+
+  const factMatch = (f, q) => !q || `${f.label} ${f.person || ""} ${f.value} ${f.why || ""} ${f.tag}`.toLowerCase().includes(q);
+
+  // "Know your area": the permanent facts for the My Area PIN.
   function knowView(area, q) {
     if (!area) return `<p class="empty">No reference facts on file for this PIN yet.</p>`;
     q = (q || "").toLowerCase();
-    const hit = (f) => !q || `${f.label} ${f.person || ""} ${f.value} ${f.why || ""} ${f.tag}`.toLowerCase().includes(q);
-    // Portrait: hotlinked from the source that names the person. No photo, or a photo that fails to load, falls back
-    // to neutral initials, so a post with no verified picture never shows a stranger's face.
-    const initials = (n) => (n || "").split(/\s+/).filter(Boolean).slice(0, 2).map((w) => w[0].toUpperCase()).join("");
-    const portrait = (f) => {
-      if (!f.person) return "";
-      const ini = `<span class="portrait ini${f.photo ? " gone" : ""}" aria-hidden="true">${esc(initials(f.person))}</span>`;
-      const img = f.photo
-        ? `<img class="portrait" src="${esc(f.photo)}" alt="Photograph of ${esc(f.person)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.classList.add('gone');this.nextElementSibling.classList.remove('gone')">`
-        : "";
-      return `${img}${ini}`;
-    };
-    const factHtml = (f) => `<article class="card kfact"><div class="meta"><span class="badge ${esc((f.tag || "").toLowerCase())}">${esc(f.tag || "")}</span>As of ${esc(f.as_of || area.checked)}</div>
-      <h3>${portrait(f)}<span>${esc(f.label)}</span></h3><p>${esc(f.value)}</p>
-      ${f.why ? `<div class="whybox"><h6>Why it matters to me</h6><p>${esc(f.why)}</p></div>` : ""}
-      ${f.photo ? `<p class="fine">Photograph of ${esc(f.person)}: ${link(f.photo_source, "source page")}${f.photo_credit ? ` &middot; ${esc(f.photo_credit)}` : ""}</p>`
-        : f.person ? `<p class="fine">No photograph from an official or established public source, so the initials are shown instead.</p>` : ""}
-      ${srcLinks(f.sources)}</article>`;
     const secs = (area.sections || []).map((s) => {
-      const fs = (s.facts || []).filter(hit);
-      return fs.length ? `<h2 class="day">${esc(s.title)}</h2>${fs.map(factHtml).join("")}` : "";
+      const fs = (s.facts || []).filter((f) => factMatch(f, q));
+      return fs.length ? `<h2 class="day">${esc(s.title)}</h2>${fs.map((f) => factHtml(f, area.checked)).join("")}` : "";
     }).join("");
     return `<p class="note">${esc(area.note)} <b>Checked ${esc(area.checked)}.</b></p>${secs || `<p class="empty">Nothing matches that search.</p>`}`;
+  }
+
+  // "Leaders": one profile card per office holder, with how they got there and who held it before.
+  function leadersView(pr, q) {
+    if (!pr) return `<p class="empty">No profiles on file for this PIN yet.</p>`;
+    q = (q || "").toLowerCase();
+    const rows = (a) => (a && a.length ? `<div class="tablewrap"><table class="fin"><tbody>${a.map(([k, v]) =>
+      `<tr><td>${esc(k)}</td><td>${esc(v)}</td></tr>`).join("")}</tbody></table></div>` : "");
+    const block = (title, a) => (a && a.length ? `<h4>${esc(title)}</h4>${rows(a)}` : "");
+    const card = (m) => `<article class="card kfact person"><div class="meta">${tagBadge(m.tag)}As of ${esc(m.as_of || pr.checked)}</div>
+      <h3>${portrait(m.name, m.photo)}<span>${esc(m.name)}</span></h3>
+      <p><strong>${esc(m.post)}</strong><br>${esc(m.since)}${m.affil ? ` &middot; ${esc(m.affil)}` : ""}</p>
+      ${m.why ? `<div class="whybox"><h6>Why it matters to me</h6><p>${esc(m.why)}</p></div>` : ""}
+      ${block("Background", m.facts)}
+      ${block("Declared in their own election affidavit", m.declared)}
+      ${block("Record in office", m.record)}
+      ${block("Election history", m.elections)}
+      ${m.before && m.before.length ? `<h4>Who held this post before</h4>${list(m.before)}` : ""}
+      ${photoLine(m.name, m.photo, m.photo_source, m.photo_credit)}
+      ${srcLinks(m.sources)}</article>`;
+    const hay = (m) => `${m.name} ${m.post} ${m.affil || ""} ${m.since} ${(m.facts || []).join(" ")} ${(m.elections || []).join(" ")} ${(m.before || []).join(" ")}`.toLowerCase();
+    const people = (pr.people || []).filter((m) => !q || hay(m).includes(q));
+    return `<p class="note">${esc(pr.note)} <b>Checked ${esc(pr.checked)}.</b></p>` +
+      (people.length ? people.map(card).join("") : `<p class="empty">Nothing matches that search.</p>`);
+  }
+
+  // "Area Profile": history, census numbers, health, schools and services, each block a list of sourced facts.
+  function profileView(data, q) {
+    q = (q || "").toLowerCase();
+    const blocks = ["history", "census", "health", "schools", "civic"].map((k) => data[k]).filter(Boolean);
+    if (!blocks.length) return `<p class="empty">No area profile on file for this PIN yet.</p>`;
+    const out = blocks.map((b) => {
+      const fs = (b.facts || []).filter((f) => factMatch(f, q));
+      return fs.length
+        ? `<h2 class="day">${esc(b.title)}</h2><p class="note">${esc(b.note)} <b>Checked ${esc(b.checked)}.</b></p>${fs.map((f) => factHtml(f, b.checked)).join("")}`
+        : "";
+    }).join("");
+    return out || `<p class="empty">Nothing matches that search.</p>`;
   }
 
   function autoBits(it) {
@@ -745,7 +793,7 @@
   }
 
   // ---------------------------------------------------------------- state / render
-  let desk, sub, cfg, items, state, leadItem, area = null;
+  let desk, sub, cfg, items, state, leadItem, area = null, areaData = null;
 
   function chips(el, values, key) {
     el.innerHTML = values.length ? ["All", ...values].map((v) => `<button class="chip" type="button" aria-pressed="${state[key] === v}" data-v="${esc(v)}">${esc(v)}</button>`).join("") : "";
@@ -841,13 +889,15 @@
         companies = cj.companies || {}; notes = nj || {};
       }
       if (desk === "advisory") await advisoryPrep();
-      if (desk === "myarea") area = data.know_your_area || null;
+      if (desk === "myarea") { area = data.know_your_area || null; areaData = data; }
       const subNav = $("subs");
       if (desk === "myarea") {
         const all = items;
         const counts = {
           news: all.filter((i) => !i.archived).length,
           know: area ? (area.sections || []).reduce((n, s) => n + (s.facts || []).length, 0) : 0,
+          leaders: data.profiles ? (data.profiles.people || []).length : 0,
+          profile: ["history", "census", "health", "schools", "civic"].reduce((n, k) => n + (data[k] ? (data[k].facts || []).length : 0), 0),
           archive: all.filter((i) => i.archived).length,
         };
         subNav.innerHTML = cfg.subs.map((s) => `<a href="#${desk}/${s.id}" class="${s.id === sub.id ? "active" : ""}">${esc(s.label)}<small>${counts[s.id]}</small></a>`).join("");
@@ -877,7 +927,10 @@
         $("sources").textContent = cfg.sources;
         $("q").value = "";
         const paint = () => {
-          $("feed").innerHTML = sub.view === "know" ? knowView(area, state.q) : sub.view === "files" ? filesView(files, state.q) : indiaView(files, state.q);
+          $("feed").innerHTML = sub.view === "know" ? knowView(area, state.q)
+            : sub.view === "leaders" ? leadersView(areaData && areaData.profiles, state.q)
+            : sub.view === "profile" ? profileView(areaData || {}, state.q)
+            : sub.view === "files" ? filesView(files, state.q) : indiaView(files, state.q);
           $("feed").querySelectorAll("[data-sort]").forEach((b) => (b.onclick = () => {
             const k = b.dataset.sort; sortDir = sortKey === k ? -sortDir : 1; sortKey = k; paint();
           }));
