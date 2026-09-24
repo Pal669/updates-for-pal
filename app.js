@@ -89,6 +89,26 @@
     },
   };
 
+  // ---------------------------------------------------------------- My Area Desk (hyperlocal)
+  DESKS.myarea = {
+    file: "data/myarea.json",
+    title: "My Area",
+    sources: "Live web search: .gov.in portals (official priority), then credible news (48-hour window). Every story verified as VERIFIED (official or 2+ sources), LIKELY (1 credible source), or UNVERIFIED (social-only, not published).",
+    subs: [],
+    f1: { key: "category" },
+    f2: { key: "tag", values: ["VERIFIED", "LIKELY", "UNVERIFIED"] },
+    f3: null,
+    flag: { label: "Verified only", test: (i) => i.tag === "VERIFIED" },
+    search: (i) => `${i.pincode} ${i.locality} ${i.title} ${i.category} ${i.what_happened}`,
+    lead: (items) => items[0],
+    card(it, lead) {
+      const tags = `<span class="badge ${esc(it.tag.toLowerCase())}">${esc(it.tag)}</span><span class="badge type">${esc(it.category)}</span>`;
+      const meta = `${tags}${esc(it.pincode)} &middot; ${esc(it.locality)} &middot; ${esc(it.source)}`;
+      const body = `<p><strong>${esc(it.what_happened)}</strong></p><div class="whybox"><h6>Why it matters</h6><p>${esc(it.why_matters)}</p></div><div class="more">Action: ${esc(it.action)}</div>`;
+      return shell(lead, meta, it, body, "View source");
+    },
+  };
+
   // ---------------------------------------------------------------- Listed Market Universe Desk
   let companies = {}, notes = {};     // data/companies.json (live financials) and data/company_notes.json (hand-written business notes)
   // How a business of this Yahoo industry usually earns, used only when there is no hand-written note. Labelled as typical.
