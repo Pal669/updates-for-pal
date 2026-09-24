@@ -101,11 +101,11 @@
       { id: "profile", label: "Area Profile", view: "profile" },
       { id: "archive", label: "Archive", test: (i) => !!i.archived },
     ],
-    f1: { key: "category" },
+    f1: { key: "locality" },
     f2: { key: "tag", values: ["VERIFIED", "LIKELY", "UNVERIFIED"] },
-    f3: null,
+    f3: { key: "category" },
     flag: { label: "Verified only", test: (i) => i.tag === "VERIFIED" },
-    search: (i) => `${i.pincode} ${i.locality} ${i.title} ${i.category} ${i.what_happened}`,
+    search: (i) => `${i.pincode} ${i.locality} ${i.title} ${i.category} ${i.what_happened} ${i.why_matters || ""}`,
     lead: (items) => items[0],
     card(it, lead) {
       const tags = `<span class="badge ${esc(it.tag.toLowerCase())}">${esc(it.tag)}</span><span class="badge type">${esc(it.category)}</span>`;
@@ -692,6 +692,13 @@
         <h3>${esc(s.title)}</h3>${list(s.points)}${srcLinks(s.sources)}</article>`).join("");
   }
 
+  // Address banner shown above every My Area view: the village or colony, ward, assembly and Lok Sabha seat.
+  function addressBar(a) {
+    if (!a) return "";
+    const part = (k, v) => `<span class="ab-item"><small>${esc(k)}</small>${esc(v)}</span>`;
+    return `<div class="areabar"><div class="ab-main"><small>Your address</small><b>${esc(a.village)}</b>${a.near ? ` <span>near ${esc(a.near)}</span>` : ""}<span>Delhi ${esc(a.pin)}</span></div>
+      <div class="ab-row">${part("MCD ward", a.ward)}${part("Assembly", a.assembly)}${part("Lok Sabha", a.lok_sabha)}${part("District", a.district)}${part("Police", a.police)}</div></div>`;
+  }
   // ---- My Area reference views (Know your area, Leaders, Area Profile) share these helpers ----
   // Portrait: hotlinked from the source that names the person. No photo, or a photo that fails to load, falls back
   // to neutral initials, so a post with no verified picture never shows a stranger's face.
@@ -949,7 +956,7 @@
       } else { subNav.hidden = true; }
       state = { q: "", f1: "All", f2: "All", f3: "All", flag: false, limit: 150 };
       const nb = $("numbers");
-      if (desk === "advisory" && sub && sub.nums) { nb.innerHTML = cfg.numbers(sub.nums); nb.hidden = false; bindAdvisory(sub.nums); } else { nb.hidden = true; nb.innerHTML = ""; }
+      if (desk === "advisory" && sub && sub.nums) { nb.innerHTML = cfg.numbers(sub.nums); nb.hidden = false; bindAdvisory(sub.nums); } else if (desk === "myarea" && data.address) { nb.innerHTML = addressBar(data.address); nb.hidden = false; } else { nb.hidden = true; nb.innerHTML = ""; }
       const special = !!(sub && sub.view);
       document.querySelector(".controls").classList.toggle("bare", special);
       if (special) {
