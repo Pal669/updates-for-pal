@@ -73,6 +73,13 @@ footer { max-width: 960px; margin: 0 auto; padding: 16px; border-top: 3px double
 /* Startup Desk */
 .badge.type { background: var(--ink); color: var(--paper); }
 .badge.src { background: var(--muted); }
+/* My Area verification tags */
+.badge.verified { background: #1f5f3a; } .badge.likely { background: #b26a00; } .badge.unverified { background: var(--muted); }
+/* My Area "Know your area": office holder portrait, with neutral initials when there is no verified photo */
+.kfact h3 { display: flex; align-items: center; gap: 10px; }
+.portrait { width: 48px; height: 48px; flex: 0 0 48px; border-radius: 50%; object-fit: cover; object-position: top center; background: var(--paper); border: 1px solid rgba(0,0,0,.15); }
+.portrait.ini { display: inline-flex; align-items: center; justify-content: center; background: var(--muted); color: #fff; font: 700 16px/1 var(--sans); letter-spacing: .04em; border: 0; }
+.portrait.gone { display: none; }
 .deal { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 10px; }
 .deal span { font: 13px var(--sans); background: var(--chip); border: 1px solid var(--rule); border-radius: 4px; padding: 2px 8px; }
 .auto { font: 14px/1.5 var(--sans); color: var(--muted); margin: 0 0 8px; }

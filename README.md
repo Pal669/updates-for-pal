@@ -26,6 +26,22 @@ Move it anywhere: copy this folder to any static host and any machine with Pytho
   Impact = the rupee amount in the filing or headline (when one is stated) compared with revenue, profit or market value by
   fixed thresholds in `assess()`; when no amount is stated it says so. It is a size check, not a forecast.
 
+## My Area desk (hyperlocal, PIN 110009)
+Hand-written, hand-verified. `data/myarea.json` holds two things and is never trimmed:
+- `items`: dated local updates (id, pincode, locality, category, title, what_happened, why_matters, action, source, url,
+  date, tag). `tag` is VERIFIED (official source or two independent credible sources), LIKELY (one credible source) or
+  UNVERIFIED. An item that has expired gets `"archived": true` and moves to the Archive tab; nothing is ever deleted.
+- `know_your_area`: the permanent reference facts for the PIN (representatives, district administration, police,
+  municipal body and utilities, hospitals, schools, offices, and the portals that decide the area). Every fact carries
+  its own `as_of` date, a "why it matters to me" line and its own source links. Where a name or office could not be
+  confirmed the value says "NOT VERIFIED" and names the portal or office to check. Never guess a name, number or amount.
+  A fact about a named office holder also carries `person`, and `photo` + `photo_source` (+ optional `photo_credit`)
+  when a portrait exists on an official or established public source (sansad.in, delhiassembly.delhi.gov.in,
+  mcdonline.nic.in, delhipolice.gov.in, Wikipedia/Wikimedia Commons). Images are hotlinked, never downloaded, and the
+  URL must return HTTP 200 with an `image/*` type and be the right person by name on the source page. No verified
+  photo means neutral initials, and the card says so. Never a photo of a private person.
+Sub-tabs in `app.js` (`DESKS.myarea`): Local Updates, Know your area (`knowView`), Archive.
+
 ## Investment Advisory Universe desk
 Built for an investment advisor: numbers first, then PMS, AIF, debt and regulation, all with sources. No commentary.
 Sections (sub-nav): Market Pulse, PMS, AIF, Debt & Bonds, Gold Silver & REITs, Mutual Funds, Regulatory, Global, All News.

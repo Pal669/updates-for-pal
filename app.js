@@ -93,8 +93,12 @@
   DESKS.myarea = {
     file: "data/myarea.json",
     title: "My Area",
-    sources: "Live web search: .gov.in portals (official priority), then credible news (48-hour window). Every story verified as VERIFIED (official or 2+ sources), LIKELY (1 credible source), or UNVERIFIED (social-only, not published).",
-    subs: [],
+    sources: "Live web search: .gov.in portals (official priority), then credible news. Every story is tagged VERIFIED (official source or two independent credible sources), LIKELY (one credible source) or UNVERIFIED (not confirmed; published only as a reference fact with the place to check named). Nothing here is guessed: where a name, number or office could not be confirmed, it says so. Expired items are kept under Archive, never deleted.",
+    subs: [
+      { id: "news", label: "Local Updates", test: (i) => !i.archived },
+      { id: "know", label: "Know your area", view: "know" },
+      { id: "archive", label: "Archive", test: (i) => !!i.archived },
+    ],
     f1: { key: "category" },
     f2: { key: "tag", values: ["VERIFIED", "LIKELY", "UNVERIFIED"] },
     f3: null,
@@ -686,6 +690,35 @@
         <h3>${esc(s.title)}</h3>${list(s.points)}${srcLinks(s.sources)}</article>`).join("");
   }
 
+  // "Know your area": the permanent facts for the My Area PIN. Every fact carries its own sources and an "as of" date.
+  function knowView(area, q) {
+    if (!area) return `<p class="empty">No reference facts on file for this PIN yet.</p>`;
+    q = (q || "").toLowerCase();
+    const hit = (f) => !q || `${f.label} ${f.person || ""} ${f.value} ${f.why || ""} ${f.tag}`.toLowerCase().includes(q);
+    // Portrait: hotlinked from the source that names the person. No photo, or a photo that fails to load, falls back
+    // to neutral initials, so a post with no verified picture never shows a stranger's face.
+    const initials = (n) => (n || "").split(/\s+/).filter(Boolean).slice(0, 2).map((w) => w[0].toUpperCase()).join("");
+    const portrait = (f) => {
+      if (!f.person) return "";
+      const ini = `<span class="portrait ini${f.photo ? " gone" : ""}" aria-hidden="true">${esc(initials(f.person))}</span>`;
+      const img = f.photo
+        ? `<img class="portrait" src="${esc(f.photo)}" alt="Photograph of ${esc(f.person)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.classList.add('gone');this.nextElementSibling.classList.remove('gone')">`
+        : "";
+      return `${img}${ini}`;
+    };
+    const factHtml = (f) => `<article class="card kfact"><div class="meta"><span class="badge ${esc((f.tag || "").toLowerCase())}">${esc(f.tag || "")}</span>As of ${esc(f.as_of || area.checked)}</div>
+      <h3>${portrait(f)}<span>${esc(f.label)}</span></h3><p>${esc(f.value)}</p>
+      ${f.why ? `<div class="whybox"><h6>Why it matters to me</h6><p>${esc(f.why)}</p></div>` : ""}
+      ${f.photo ? `<p class="fine">Photograph of ${esc(f.person)}: ${link(f.photo_source, "source page")}${f.photo_credit ? ` &middot; ${esc(f.photo_credit)}` : ""}</p>`
+        : f.person ? `<p class="fine">No photograph from an official or established public source, so the initials are shown instead.</p>` : ""}
+      ${srcLinks(f.sources)}</article>`;
+    const secs = (area.sections || []).map((s) => {
+      const fs = (s.facts || []).filter(hit);
+      return fs.length ? `<h2 class="day">${esc(s.title)}</h2>${fs.map(factHtml).join("")}` : "";
+    }).join("");
+    return `<p class="note">${esc(area.note)} <b>Checked ${esc(area.checked)}.</b></p>${secs || `<p class="empty">Nothing matches that search.</p>`}`;
+  }
+
   function autoBits(it) {
     const bits = [];
     if (it.what) bits.push(`<div class="auto"><b>What it does (from the article):</b> ${esc(it.what)}</div>`);
@@ -712,7 +745,7 @@
   }
 
   // ---------------------------------------------------------------- state / render
-  let desk, sub, cfg, items, state, leadItem;
+  let desk, sub, cfg, items, state, leadItem, area = null;
 
   function chips(el, values, key) {
     el.innerHTML = values.length ? ["All", ...values].map((v) => `<button class="chip" type="button" aria-pressed="${state[key] === v}" data-v="${esc(v)}">${esc(v)}</button>`).join("") : "";
@@ -808,8 +841,19 @@
         companies = cj.companies || {}; notes = nj || {};
       }
       if (desk === "advisory") await advisoryPrep();
+      if (desk === "myarea") area = data.know_your_area || null;
       const subNav = $("subs");
-      if (desk === "immigration") {
+      if (desk === "myarea") {
+        const all = items;
+        const counts = {
+          news: all.filter((i) => !i.archived).length,
+          know: area ? (area.sections || []).reduce((n, s) => n + (s.facts || []).length, 0) : 0,
+          archive: all.filter((i) => i.archived).length,
+        };
+        subNav.innerHTML = cfg.subs.map((s) => `<a href="#${desk}/${s.id}" class="${s.id === sub.id ? "active" : ""}">${esc(s.label)}<small>${counts[s.id]}</small></a>`).join("");
+        subNav.hidden = false;
+        if (sub.test) items = all.filter(sub.test);
+      } else if (desk === "immigration") {
         const counts = { news: items.length, files: files.countries.length, india: files.india_side.length };
         subNav.innerHTML = cfg.subs.map((s) => `<a href="#${desk}/${s.id}" class="${s.id === sub.id ? "active" : ""}">${esc(s.label)}<small>${counts[s.id]}</small></a>`).join("");
         subNav.hidden = false;
@@ -829,15 +873,15 @@
         $("count").textContent = "";
         $("empty").hidden = true;
         $("edition").textContent = `${cfg.title} · ${sub.label}`;
-        $("updated").textContent = `Research date ${files.checked}`;
+        $("updated").textContent = `Research date ${files ? files.checked : area ? area.checked : data.updated}`;
         $("sources").textContent = cfg.sources;
         $("q").value = "";
         const paint = () => {
-          $("feed").innerHTML = sub.view === "files" ? filesView(files, state.q) : indiaView(files, state.q);
+          $("feed").innerHTML = sub.view === "know" ? knowView(area, state.q) : sub.view === "files" ? filesView(files, state.q) : indiaView(files, state.q);
           $("feed").querySelectorAll("[data-sort]").forEach((b) => (b.onclick = () => {
             const k = b.dataset.sort; sortDir = sortKey === k ? -sortDir : 1; sortKey = k; paint();
           }));
-          $("feed").querySelectorAll("[data-open]").forEach((a) => (a.onclick = (e) => {
+          if (files) $("feed").querySelectorAll("[data-open]").forEach((a) => (a.onclick = (e) => {
             e.preventDefault();
             const c = files.countries.find((x) => x.id === a.dataset.open);
             const d = [...document.querySelectorAll(".cfile")].find((x) => x.dataset.name === c.name.toLowerCase());
