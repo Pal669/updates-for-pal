@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24 22:30 IST",
+  "updated": "2026-09-24 23:55 IST",
   "pincode": "110009",
   "locality": "Tagore Park, Model Town",
   "know_your_area": {
@@ -140,54 +140,61 @@
           },
           {
             "label": "SDM office (Model Town sub-division)",
-            "value": "Old Middle School Building, Lawrence Road, Rampura, Delhi 110035. Listed phone 011-27681530, email modelsdm[at]nic[dot]in. The officer's name was not verified today.",
+            "value": "SDM (Model Town) is Kuldeep Singh Dhama, phone 011-20872674, modeltownsdm[at]gmail[dot]com. He sits at the same DC Office Complex, Old Middle School Building, Lawrence Road, Rampura Main Road, Delhi 110035. The district's other two sub-divisions are Shalimar Bagh and Shakur Basti.",
             "why": "This is the counter for certificates, affidavits, and most revenue-side grievances for 110009.",
             "as_of": "2026-09-24",
-            "tag": "LIKELY",
+            "tag": "VERIFIED",
             "sources": [
+              {
+                "label": "Central North district Who's Who (official)",
+                "url": "https://dmcentralnorth.delhi.gov.in/whos-who/"
+              },
               {
                 "label": "e-District Delhi: sub-division contact details",
                 "url": "https://edistrict.delhigovt.nic.in/Public/ContactSubDivDetail?q=sfdtu2QBQjJs7vCjSi1Fhg%3D%3D"
-              },
-              {
-                "label": "Department of Revenue, Delhi",
-                "url": "https://revenue.delhi.gov.in/"
               }
-            ]
+            ],
+            "person": "Kuldeep Singh Dhama"
           },
           {
             "label": "District Magistrate / Deputy Commissioner",
-            "value": "NOT VERIFIED for Central North district. The North district site names Saloni Rai, IAS as District Magistrate, but Model Town now sits in Central North, so that name may not apply to this PIN.",
+            "value": "Shailendra Singh Parihar is District Magistrate, Central North. Additional District Magistrate: Rajiv Ranjan. Office: DC Office Complex, Old Middle School Building, Lawrence Road, Rampura Main Road, Rampura, Delhi 110035. DM 011-20872666, dc-centralnorth[at]delhi[dot]gov[dot]in; ADM 011-20872682. The district was created on 25 December 2025.",
             "why": "The DM signs prohibitory orders (Section 163 BNSS), disaster arrangements and election work for your district.",
             "as_of": "2026-09-24",
-            "tag": "UNVERIFIED",
+            "tag": "VERIFIED",
             "sources": [
               {
-                "label": "North district, Delhi (DM listed there)",
-                "url": "https://dmnorth.delhi.gov.in/"
+                "label": "Central North district Who's Who (official)",
+                "url": "https://dmcentralnorth.delhi.gov.in/whos-who/"
               },
               {
-                "label": "Check in person or online: Deputy Commissioners of Delhi",
-                "url": "https://delhi.gov.in/page/deputy-commissioners-delhi"
+                "label": "District Central North, Delhi (official site)",
+                "url": "https://dmcentralnorth.delhi.gov.in/"
               }
-            ]
+            ],
+            "person": "Shailendra Singh Parihar"
           },
           {
-            "label": "Tehsildar / Sub-Registrar",
-            "value": "NOT VERIFIED. Each sub-division has a Tehsildar and a Sub-Registrar, and the reorganisation raised sub-divisions and sub-registrar offices from 22 to 39, so the office for Model Town may have changed.",
-            "why": "Property registration, mutation and land records for 110009 are done at the Sub-Registrar office with jurisdiction over this sub-division.",
+            "label": "Tehsildar and Sub-Registrar (Model Town)",
+            "value": "Tehsildar (Model Town) is Devender Kumar, tehsildarmt-cn[at]delhi[dot]gov[dot]in, at the DC Office Complex, Lawrence Road, Rampura. Sub-Registrar (Model Town), district Central North, is Sandeep Sindhu, per the Revenue Department's own list of Sub-Registrars, page last updated 23 September 2026. The reorganisation raised Delhi's sub-divisions and sub-registrar offices from 22 to 39.",
+            "why": "Land records, mutation and property registration for 110009 are signed off by these two officers.",
             "as_of": "2026-09-24",
-            "tag": "UNVERIFIED",
+            "tag": "VERIFIED",
             "sources": [
+              {
+                "label": "Central North district Who's Who (official)",
+                "url": "https://dmcentralnorth.delhi.gov.in/whos-who/"
+              },
+              {
+                "label": "Revenue Dept: list of Sub-Registrars",
+                "url": "https://revenue.delhi.gov.in/revenue/list-sr-revenue-department"
+              },
               {
                 "label": "Revenue Dept: jurisdiction of Sub-Registrar offices",
                 "url": "https://revenue.delhi.gov.in/revenue/jurisdiction-sub-registrar-offices"
-              },
-              {
-                "label": "Revenue Dept: Sub-Registrar offices",
-                "url": "https://revenue.delhi.gov.in/revenue/sub-registar-offices"
               }
-            ]
+            ],
+            "person": "Devender Kumar"
           }
         ]
       },
@@ -214,32 +221,36 @@
           },
           {
             "label": "Police station with jurisdiction",
-            "value": "PS Model Town, Ring Road, Model Town, Delhi 110009, for the Model Town and Tagore Park side. PS Mukherjee Nagar (Banda Bahadur Marg, Hakikat Nagar, GTB Nagar) covers the Mukherjee Nagar and GTB Nagar side of the same PIN. The ACP Model Town office number in the public Delhi Police directory is 011-27459201. Current SHO names were NOT VERIFIED today.",
+            "value": "PS Model Town, Ring Road, Model Town, Delhi 110009, for the Model Town and Tagore Park side. PS Mukherjee Nagar (Banda Bahadur Marg, Hakikat Nagar, GTB Nagar) covers the Mukherjee Nagar and GTB Nagar side of the same PIN. The 8th Battalion of the Delhi Armed Police is also inside this PIN, at Model Town-II, Delhi 110009. SHO names for both stations are NOT VERIFIED: Delhi Police does not publish them in its RTI directory, and the Know Your Police Station tool needs an address lookup that cannot be read automatically.",
             "why": "One PIN, two police stations. Filing at the wrong one wastes a day.",
             "as_of": "2026-09-24",
             "tag": "LIKELY",
             "sources": [
               {
-                "label": "Delhi Police: RTI Manual-16, list of PIOs by district (Jan 2026)",
+                "label": "Delhi Police RTI Manual-16, list of PIOs and FAAs (27.01.2026)",
                 "url": "https://delhipolice.gov.in/RTImanualFiles/55127_Manual-16.pdf"
               },
               {
-                "label": "Check the mapped station: Delhi Police 'know your police station'",
-                "url": "https://delhipolice.gov.in/"
+                "label": "Delhi Police: Know Your Police Station",
+                "url": "https://delhipolice.gov.in/kyps"
               }
             ]
           },
           {
             "label": "DCP (North West district)",
             "person": "Bhisham Singh",
-            "value": "Bhisham Singh, IPS, is listed as DCP cum First Appellate Authority for North West district in the Delhi Police RTI Manual-16 dated January 2026. Not re-verified since; IPS postings change often.",
-            "why": "The DCP is the first senior officer to escalate to if a police station does not act.",
+            "value": "Bhisham Singh, IPS is DCP cum First Appellate Authority, North West district, office Ashok Vihar, Delhi 110052, 011-27229835, dcp-northwest-dl[at]nic[dot]in. Around him: Additional DCP-I Sikandar Singh (011-27454825), who is the PIO for RTI; ACP/HQ Hansraj (011-27416686), Assistant PIO; and Joint CP, Northern Range, covering North West, Rohini and Outer North districts (011-23048007, jtcp-nr-dl[at]nic[dot]in). From the Delhi Police directory dated 27 January 2026.",
+            "why": "This is the escalation ladder in writing when a police station does not act, and it names the PIO an RTI on a police matter goes to.",
             "as_of": "2026-09-24",
-            "tag": "LIKELY",
+            "tag": "VERIFIED",
             "sources": [
               {
-                "label": "Delhi Police RTI Manual-16 (27.01.2026)",
+                "label": "Delhi Police RTI Manual-16, list of PIOs and FAAs (27.01.2026)",
                 "url": "https://delhipolice.gov.in/RTImanualFiles/55127_Manual-16.pdf"
+              },
+              {
+                "label": "Delhi Police: important contacts",
+                "url": "https://delhipolice.gov.in/ImportantContact.aspx"
               }
             ]
           },
@@ -268,7 +279,7 @@
         "facts": [
           {
             "label": "Municipal body and zone",
-            "value": "Municipal Corporation of Delhi (MCD), Civil Lines Zone, Ward 68 Model Town. MCD is the unified corporation since 2022; there is no separate North MCD any more.",
+            "value": "Municipal Corporation of Delhi (MCD), Civil Lines Zone, Ward 68 Model Town. MCD is the unified corporation since 2022; there is no separate North MCD any more. Watch the name: in April 2026 the MCD Standing Committee cleared a proposal to rename the zones to match revenue districts, under which Civil Lines Zone becomes 'North'. Whether that has been implemented was not confirmed today.",
             "why": "Garbage, ward roads, street lights, parks, licences, property tax and dengue action all sit with MCD Civil Lines Zone.",
             "as_of": "2026-09-24",
             "tag": "VERIFIED",
@@ -280,6 +291,10 @@
               {
                 "label": "MCD zone and ward map",
                 "url": "https://mcdonline.nic.in/portal/downloadFile/mcd_map_full_zone_image_cd_23030712390030_230322122342342.pdf"
+              },
+              {
+                "label": "Daily Pioneer: standing committee clears zone renaming",
+                "url": "https://dailypioneer.com/news/mcd-standing-committee-clears-plan-to-rename-civic-zones"
               }
             ]
           },
@@ -364,18 +379,22 @@
           },
           {
             "label": "Neighbourhood clinics",
-            "value": "The former Aam Aadmi Mohalla Clinics are being rebranded and expanded as Ayushman Arogya Mandirs under the present Delhi government, with about 250 running by November 2025 and a target above 1,000. The specific centres inside PIN 110009 were NOT VERIFIED today.",
-            "why": "These handle everyday consultations, basic tests and free common medicines without a hospital queue.",
+            "value": "There is an Ayushman Arogya Mandir (urban health centre, the rebranded Mohalla Clinic network) inside this PIN: Guru Teg Bahadur Polyclinic, Hudson Lane, GTB Nagar, Delhi 110009, run by MCD and listed at serial 106, district North, in the Delhi health department's own list. On 25 November 2025 the Chief Minister inaugurated 70 more centres from Shakti Nagar, inside the Model Town assembly constituency, with the local MLA present; Delhi had about 235 centres then, against a target above 1,000.",
+            "why": "Everyday consultations, basic tests and free common medicines without a hospital queue, walking distance from the GTB Nagar side of this PIN.",
             "as_of": "2026-09-24",
-            "tag": "UNVERIFIED",
+            "tag": "VERIFIED",
             "sources": [
               {
-                "label": "All India Radio News: 70 Ayushman Arogya Mandirs inaugurated (Nov 2025)",
-                "url": "https://www.newsonair.gov.in/delhi-cm-rekha-gupta-inaugurates-70-ayushman-arogya-mandirs"
+                "label": "Delhi DGHS: list of Ayushman Arogya Mandirs (PDF)",
+                "url": "https://dgehs.delhi.gov.in/sites/default/files/DGHS/generic_multiple_files/aaym.pdf"
               },
               {
-                "label": "Delhi Health Department",
-                "url": "https://health.delhi.gov.in/"
+                "label": "Delhi DGHS: Ayushman Arogya Mandir list, NCT of Delhi (PDF)",
+                "url": "https://dgehs.delhi.gov.in/sites/default/files/DGHS/generic_multiple_files/ayushman_arogya_mandir_s_list_nct_delhi.pdf"
+              },
+              {
+                "label": "ETV Bharat: 70 centres inaugurated, total 235",
+                "url": "https://www.etvbharat.com/en/state/delhi-cm-rekha-gupta-inaugurates-70-new-ayushman-arogya-mandirs-total-reaches-235-enn25112504417"
               }
             ]
           }
@@ -387,18 +406,22 @@
         "facts": [
           {
             "label": "Government schools in and around 110009",
-            "value": "NOT VERIFIED by name today. Delhi government schools (Sarvodaya Vidyalaya / Rajkiya Pratibha Vikas Vidyalaya) and MCD primary schools serve this PIN. The authoritative list, with school ID and address, is the Directorate of Education school directory.",
+            "value": "STILL NOT VERIFIED by name. The Directorate of Education's School Information page is the authoritative directory, but it lists schools by DoE district and zone with no PIN search, and the list does not load without using the on-page selector, so no school for 110009 could be confirmed today. The new district's own Schools page has not been populated yet. Ask for the school ID, not the popular name, when you get there.",
             "why": "Admission, EWS seats and transfer certificates all key off the official school ID, not the popular name.",
             "as_of": "2026-09-24",
             "tag": "UNVERIFIED",
             "sources": [
               {
+                "label": "Directorate of Education: School Information directory",
+                "url": "https://www.edudel.nic.in/mis/schoolplant/frmDistrictAndSchoolInformation.aspx"
+              },
+              {
                 "label": "Directorate of Education, Delhi",
                 "url": "https://www.edudel.nic.in/"
               },
               {
-                "label": "Delhi school admission portal",
-                "url": "https://edudel.nic.in/mis/EduAdmn/"
+                "label": "Central North district: Schools page (empty as of today)",
+                "url": "https://dmcentralnorth.delhi.gov.in/public-utility-category/schools/"
               }
             ]
           }
@@ -443,25 +466,29 @@
             ]
           },
           {
-            "label": "Courts",
-            "value": "NOT FULLY VERIFIED. Cases from North West district police stations are generally heard at Rohini Courts; revenue and civil matters for north Delhi have historically gone to Tis Hazari. Confirm the mapped court for PS Model Town before filing.",
-            "why": "Filing or appearing at the wrong complex costs a full hearing date.",
+            "label": "Courts (which magistrate hears your police station)",
+            "value": "The judicial district is North Delhi, sitting at the Rohini Courts Complex. Per the court's own list dated August 2026: cases from PS Model Town go to Judicial Magistrate First Class-03, Sh. Aakash Sharma, Room 213, who also takes MCD challans; cases from PS Mukherjee Nagar go to the Additional Chief Judicial Magistrate, Ms. Tapasya Agarwal, Room 117; the Mahila Court-02 (Ms. Disha Singh, Room 104) covers both stations. Neither station appears on the North-West district magistrate list, so a case from here is a North district matter.",
+            "why": "If you have to appear, chase a challan or track an FIR, this is the exact court and room rather than a guess at the complex.",
             "as_of": "2026-09-24",
-            "tag": "UNVERIFIED",
+            "tag": "VERIFIED",
             "sources": [
               {
-                "label": "Delhi District Courts",
-                "url": "https://delhidistrictcourts.nic.in/"
+                "label": "North Delhi District Court: police-station-wise magistrate",
+                "url": "https://northdelhi.dcourts.gov.in/police-station-wise-magistrate/"
               },
               {
-                "label": "Delhi State Legal Services Authority (free legal aid)",
-                "url": "https://dslsa.org/"
+                "label": "North Delhi District Court (Rohini Courts Complex)",
+                "url": "https://northdelhi.dcourts.gov.in/"
+              },
+              {
+                "label": "North West district magistrate list, for comparison",
+                "url": "https://rohini.dcourts.gov.in/police-station-wise-magistrate/"
               }
             ]
           },
           {
             "label": "Fire station",
-            "value": "NOT VERIFIED. Delhi Fire Service runs about 66 to 71 stations; the station covering 110009 was not confirmed today. Emergency number 101.",
+            "value": "STILL NOT VERIFIED. Delhi Fire Service publishes a station list, but the file on its own site is a scanned image with no readable text, so the station covering 110009 could not be confirmed today. Emergency number 101.",
             "why": "For a non-emergency (NOC, fire safety certificate) you need the covering station, not the headquarters.",
             "as_of": "2026-09-24",
             "tag": "UNVERIFIED",
@@ -477,15 +504,15 @@
             ]
           },
           {
-            "label": "Ration / food supply",
-            "value": "NOT VERIFIED which food and supply circle office serves 110009. Ration card work, e-ration cards and fair price shop details are handled online by the Department of Food, Supplies and Consumer Affairs.",
+            "label": "Ration / food supply circle",
+            "value": "Circle 18, Model Town, of the Department of Food, Supplies and Consumer Affairs. Circle office: Rain Basera, Sarai Pipal Thala, Adarsh Nagar, phone 011-27671539. Circle 17 next door is Wazirpur, at the CSC, Ashok Vihar Phase IV. Delhi runs 70 circle offices; ration card and National Food Security applications are filed at the circle office.",
             "why": "Fair price shop complaints go to the circle office; the portal shows which shop your card is tagged to.",
             "as_of": "2026-09-24",
-            "tag": "UNVERIFIED",
+            "tag": "VERIFIED",
             "sources": [
               {
-                "label": "Delhi Food and Supplies Department (e-ration)",
-                "url": "https://edistrict.delhigovt.nic.in/"
+                "label": "Food and Supplies Dept: circle offices",
+                "url": "https://fsd.delhi.gov.in/fs/circle-offices"
               },
               {
                 "label": "Department of Food, Supplies and Consumer Affairs",
@@ -531,7 +558,7 @@
         "facts": [
           {
             "label": "Tenders and contracts",
-            "value": "Delhi government e-tendering (govtprocurement.delhi.gov.in) and the central CPP portal (eprocure.gov.in) list works tendered and awarded, with contractor name and value. Both need a captcha to search, so they cannot be read automatically here; search by organisation MCD / PWD / DJB and by 'Civil Lines' or 'Model Town'.",
+            "value": "What works today: on both the Delhi e-tendering portal and the central CPP portal, the 'Tenders by Organisation' pages open a department's full live tender list (PWD, DJB, DDA and so on) without a captcha, and each tender's own page gives the work, the tender value, the period of work and the reference number. What does not work: 'Results of Tenders', which is where the winning contractor and the awarded amount sit, is captcha-gated, so contractor names cannot be read from here. MCD publishes on neither portal and its own tender pages did not load today. Search by organisation, then look for 'Model Town', 'Civil Lines' or 'North Zone'.",
             "why": "The contractor name, contract value and defect-liability period are the only way to hold anyone to a badly built road.",
             "as_of": "2026-09-24",
             "tag": "VERIFIED",
@@ -594,45 +621,17 @@
   },
   "items": [
     {
-      "id": "sir",
+      "id": "officials-central-north",
       "pincode": "110009",
       "locality": "Tagore Park, Model Town",
-      "category": "Deadlines",
-      "title": "UPDATE: six days left to get your name back on the voter roll",
-      "what_happened": "Delhi's draft roll after the Special Intensive Revision was published on 31 August 2026 and left out about 47.7 lakh of 1.45 crore names. Claims and objections close on 30 September 2026; notices are to be disposed of by 29 October and the final roll is published on 4 November 2026. On 23 September the Delhi Chief Electoral Officer said no name will be deleted without due process and a hearing.",
-      "why_matters": "If your name is missing and you do nothing by 30 September, you stay off the roll until the next revision.",
-      "action": "Check your name at voters.eci.gov.in or on the ECINET app. If missing, file Form 6 with documents online, or with the BLO/ERO for Model Town constituency. ECI helpline 1950.",
-      "source": "Chief Electoral Officer Delhi (SIR FAQ) and ANI, 23 September 2026",
-      "url": "https://www.aninews.in/news/national/general-news/delhi-ceo-clarifies-draft-electoral-roll-process-says-no-name-to-be-deleted-without-due-process20260923061114/",
-      "date": "2026-09-23",
-      "tag": "VERIFIED"
-    },
-    {
-      "id": "sir-sc",
-      "pincode": "110009",
-      "locality": "Tagore Park, Model Town",
-      "category": "Courts",
-      "title": "Supreme Court issues notice to Election Commission on Delhi SIR",
-      "what_happened": "On 22 September 2026 the Supreme Court issued notice to the Election Commission on a plea challenging the Delhi Special Intensive Revision process, and suggested that Booth Level Officers give more help to affected voters.",
-      "why_matters": "The deadline has not moved. Until a court says otherwise, 30 September still applies to you.",
-      "action": "Do not wait for the case. File Form 6 now and keep the acknowledgement.",
-      "source": "Social News XYZ / IANS report of Supreme Court proceedings, 22 September 2026",
-      "url": "https://www.socialnews.xyz/2026/09/22/sc-issues-notice-to-eci-on-plea-challenging-delhi-sir-process-suggests-greater-blo-assistance-to-affected-voters/",
-      "date": "2026-09-22",
-      "tag": "LIKELY"
-    },
-    {
-      "id": "dengue",
-      "pincode": "110009",
-      "locality": "Tagore Park, Model Town",
-      "category": "Safety",
-      "title": "Dengue peak: 121 cases in September, 432 in Delhi this year",
-      "what_happened": "MCD's weekly vector-borne disease report up to 12 September 2026 records 121 dengue cases in September alone, more than a quarter of the year's 432, and 71 in the preceding week. MCD says it has inspected over 2.79 crore houses this year, found larvae in 1.47 lakh of them and issued more than 1.10 lakh legal notices.",
-      "why_matters": "September and October are peak breeding months here. Coolers, overhead tanks, sumps and terrace junk in Model Town's older plots are the usual sources, and a legal notice to a household is a real possibility.",
-      "action": "Empty and dry coolers once a week. Report standing water or a missed fogging round on the MCD 311 app and keep the complaint number.",
-      "source": "MCD weekly vector-borne report, reported by Millennium Post and The Patriot, September 2026",
-      "url": "https://www.millenniumpost.in/delhi/delhi-records-highest-dengue-malaria-cases-in-september-676188",
-      "date": "2026-09-12",
+      "category": "Transfers",
+      "title": "Names on file: the officers who now handle this PIN",
+      "what_happened": "The Central North district website's Who's Who, updated 24 September 2026, names Shailendra Singh Parihar as District Magistrate, Rajiv Ranjan as ADM, Kuldeep Singh Dhama as SDM (Model Town) on 011-20872674, and Devender Kumar as Tehsildar (Model Town). The Revenue Department's own list, updated 23 September 2026, names Sandeep Sindhu as Sub-Registrar (Model Town). On the police side, the Delhi Police directory dated 27 January 2026 names Bhisham Singh, IPS as DCP North West on 011-27229835, with Additional DCP-I Sikandar Singh as PIO.",
+      "why_matters": "Certificates, land records and police escalations all need a named officer and a number; guessing the office sends your letter nowhere.",
+      "action": "Address written complaints to the named officer at the DC Office Complex, Lawrence Road, Rampura, Delhi 110035. Keep a copy: it is what an RTI attaches to.",
+      "source": "District Central North Who's Who and Delhi Revenue Department list of Sub-Registrars, both official, September 2026",
+      "url": "https://dmcentralnorth.delhi.gov.in/whos-who/",
+      "date": "2026-09-24",
       "tag": "VERIFIED"
     },
     {
@@ -692,6 +691,62 @@
       "tag": "LIKELY"
     },
     {
+      "id": "sir",
+      "pincode": "110009",
+      "locality": "Tagore Park, Model Town",
+      "category": "Deadlines",
+      "title": "UPDATE: six days left to get your name back on the voter roll",
+      "what_happened": "Delhi's draft roll after the Special Intensive Revision was published on 31 August 2026 and left out about 47.7 lakh of 1.45 crore names. Claims and objections close on 30 September 2026; notices are to be disposed of by 29 October and the final roll is published on 4 November 2026. On 23 September the Delhi Chief Electoral Officer said no name will be deleted without due process and a hearing.",
+      "why_matters": "If your name is missing and you do nothing by 30 September, you stay off the roll until the next revision.",
+      "action": "Check your name at voters.eci.gov.in or on the ECINET app. If missing, file Form 6 with documents online, or with the BLO/ERO for Model Town constituency. ECI helpline 1950.",
+      "source": "Chief Electoral Officer Delhi (SIR FAQ) and ANI, 23 September 2026",
+      "url": "https://www.aninews.in/news/national/general-news/delhi-ceo-clarifies-draft-electoral-roll-process-says-no-name-to-be-deleted-without-due-process20260923061114/",
+      "date": "2026-09-23",
+      "tag": "VERIFIED"
+    },
+    {
+      "id": "tender-pwd-roadsafety",
+      "pincode": "110009",
+      "locality": "Tagore Park, Model Town",
+      "category": "Tenders & Contracts",
+      "title": "Rs 4.35 crore road safety audit tendered for the whole PWD North Zone",
+      "what_happened": "PWD published tender 2026_PWD_298789_1 on 22 September 2026 for consultancy services for a traffic simulation model and a road safety audit of PWD North Zone, which includes the roads around this PIN. Tender value Rs 4,35,00,000, period of work 730 days, location recorded as North Delhi. Reference 26/EE/NR/PWD/26-27/Delhi. Bids close 13 October 2026; the pre-bid meeting is at the Office of the Chief Engineer, North Zone, 5th floor, MSO Building.",
+      "why_matters": "A road safety audit is the document that later decides where signals, footpaths and crossings go on North Delhi roads, for the next two years.",
+      "action": "Search tender ID 2026_PWD_298789_1 on the Delhi e-tendering portal. Residents' associations can send junction and blackspot complaints to the Chief Engineer, PWD North Zone, before the consultant starts.",
+      "source": "Delhi government e-tendering portal (Public Works Department listing), tender published 22 September 2026",
+      "url": "https://govtprocurement.delhi.gov.in/nicgep/app?page=FrontEndTendersByOrganisation&service=page",
+      "date": "2026-09-22",
+      "tag": "VERIFIED"
+    },
+    {
+      "id": "sir-sc",
+      "pincode": "110009",
+      "locality": "Tagore Park, Model Town",
+      "category": "Courts",
+      "title": "Supreme Court issues notice to Election Commission on Delhi SIR",
+      "what_happened": "On 22 September 2026 the Supreme Court issued notice to the Election Commission on a plea challenging the Delhi Special Intensive Revision process, and suggested that Booth Level Officers give more help to affected voters.",
+      "why_matters": "The deadline has not moved. Until a court says otherwise, 30 September still applies to you.",
+      "action": "Do not wait for the case. File Form 6 now and keep the acknowledgement.",
+      "source": "Social News XYZ / IANS report of Supreme Court proceedings, 22 September 2026",
+      "url": "https://www.socialnews.xyz/2026/09/22/sc-issues-notice-to-eci-on-plea-challenging-delhi-sir-process-suggests-greater-blo-assistance-to-affected-voters/",
+      "date": "2026-09-22",
+      "tag": "LIKELY"
+    },
+    {
+      "id": "tender-pwd-lighting",
+      "pincode": "110009",
+      "locality": "Tagore Park, Model Town",
+      "category": "Tenders & Contracts",
+      "title": "Rs 85.2 lakh PWD tender covers festive lighting from Model Town-I metro station",
+      "what_happened": "PWD's North Electrical Division floated tender 2026_PWD_298491_1 on 16 September 2026: maintenance and electricity consumption charges for street lighting on PWD roads under the division, with a sub-head for temporary beautification lighting on Independence Day, Republic Day and Diwali starting from Model Town-I metro station. Tender value Rs 85,20,000. Reference 22/EE(E)/NED/PWD/M-352/2026-27. Period of work 365 days. Bids close and open on 26 September 2026 at the NED office, Dr BSA Hospital. The portal records the division's own PIN (110085) and gives the work location as 'as per NIT', so the exact stretch is in the tender document, not the listing. The winning contractor is not published yet.",
+      "why_matters": "This is the money behind the street lights on your own stretch of Ring Road, and the festival lighting starts at the Model Town metro station.",
+      "action": "Search tender ID 2026_PWD_298491_1 on the Delhi e-tendering portal to read the NIT and the road list. For a dark street, complain to PWD North Electrical Division and quote this tender.",
+      "source": "Delhi government e-tendering portal (Public Works Department listing), tender published 16 September 2026",
+      "url": "https://govtprocurement.delhi.gov.in/nicgep/app?page=FrontEndTendersByOrganisation&service=page",
+      "date": "2026-09-16",
+      "tag": "VERIFIED"
+    },
+    {
       "id": "snatch-sep",
       "pincode": "110009",
       "locality": "Tagore Park, Model Town",
@@ -703,6 +758,34 @@
       "source": "Delhi Police statements reported by Punjab Kesari and other outlets, 16 September 2026",
       "url": "https://english.punjabkesari.com/india/two-snatchers-arrested-in-delhi-three-stolen-mobile-phones-and-motorcycle-recovered",
       "date": "2026-09-16",
+      "tag": "LIKELY"
+    },
+    {
+      "id": "dengue",
+      "pincode": "110009",
+      "locality": "Tagore Park, Model Town",
+      "category": "Safety",
+      "title": "Dengue peak: 121 cases in September, 432 in Delhi this year",
+      "what_happened": "MCD's weekly vector-borne disease report up to 12 September 2026 records 121 dengue cases in September alone, more than a quarter of the year's 432, and 71 in the preceding week. MCD says it has inspected over 2.79 crore houses this year, found larvae in 1.47 lakh of them and issued more than 1.10 lakh legal notices.",
+      "why_matters": "September and October are peak breeding months here. Coolers, overhead tanks, sumps and terrace junk in Model Town's older plots are the usual sources, and a legal notice to a household is a real possibility.",
+      "action": "Empty and dry coolers once a week. Report standing water or a missed fogging round on the MCD 311 app and keep the complaint number.",
+      "source": "MCD weekly vector-borne report, reported by Millennium Post and The Patriot, September 2026",
+      "url": "https://www.millenniumpost.in/delhi/delhi-records-highest-dengue-malaria-cases-in-september-676188",
+      "date": "2026-09-12",
+      "tag": "VERIFIED"
+    },
+    {
+      "id": "mcd-zone-rename",
+      "pincode": "110009",
+      "locality": "Tagore Park, Model Town",
+      "category": "Orders & Closures",
+      "title": "Your MCD zone is set to be renamed from Civil Lines to North",
+      "what_happened": "The MCD Standing Committee, chaired by Satya Sharma, cleared a proposal in April 2026 to rename the civic zones so they match Delhi's revenue districts. Under it Civil Lines Zone becomes North, Narela becomes Outer North, Rohini becomes North West and Keshavpuram becomes North Central; South and West keep their names. Whether the renaming has been notified and implemented could not be confirmed today.",
+      "why_matters": "Ward 68 sits in Civil Lines Zone. If the label changes, complaint forms, zone offices and old addresses stop matching what staff use.",
+      "action": "When filing anything with MCD, quote Ward 68 Model Town as well as the zone name, so a rename cannot misroute it.",
+      "source": "Daily Pioneer and The Tribune reports on the Standing Committee decision, April 2026",
+      "url": "https://dailypioneer.com/news/mcd-standing-committee-clears-plan-to-rename-civic-zones",
+      "date": "2026-04-09",
       "tag": "LIKELY"
     },
     {
@@ -721,21 +804,6 @@
       "archived": true
     },
     {
-      "id": "water-may",
-      "pincode": "110009",
-      "locality": "Tagore Park, Model Town",
-      "category": "Works",
-      "title": "ARCHIVED: May 2026 water crisis hit Model Town directly",
-      "what_happened": "In late May 2026 the Wazirabad and Chandrawal treatment plants ran far below capacity as the Yamuna ran low. Model Town and Mukherjee Nagar were named among the worst affected areas. DJB diverted raw water from the Munak canal through Haiderpur to bring the plants back to about 70 to 80 per cent.",
-      "why_matters": "This PIN sits at the end of the Wazirabad and Chandrawal supply, so any raw-water shortfall shows up here first. Background for the next summer.",
-      "action": "Keep the DJB complaint number 1916 and book tankers through the DJB portal, not through private numbers.",
-      "source": "India TV report on the May 2026 supply shortfall, 28 May 2026",
-      "url": "https://www.indiatvnews.com/delhi/delhi-water-crisis-wazirabad-chandrawal-plants-run-low-yamuna-runs-dry-as-people-struggle-amid-heatwave-2026-05-28-1042846",
-      "date": "2026-05-28",
-      "tag": "LIKELY",
-      "archived": true
-    },
-    {
       "id": "proptax-2627",
       "pincode": "110009",
       "locality": "Tagore Park, Model Town",
@@ -747,6 +815,21 @@
       "source": "Delhi press reports on MCD rebate and amnesty deadlines, 2026",
       "url": "https://mcdonline.nic.in/",
       "date": "2026-07-31",
+      "tag": "LIKELY",
+      "archived": true
+    },
+    {
+      "id": "water-may",
+      "pincode": "110009",
+      "locality": "Tagore Park, Model Town",
+      "category": "Works",
+      "title": "ARCHIVED: May 2026 water crisis hit Model Town directly",
+      "what_happened": "In late May 2026 the Wazirabad and Chandrawal treatment plants ran far below capacity as the Yamuna ran low. Model Town and Mukherjee Nagar were named among the worst affected areas. DJB diverted raw water from the Munak canal through Haiderpur to bring the plants back to about 70 to 80 per cent.",
+      "why_matters": "This PIN sits at the end of the Wazirabad and Chandrawal supply, so any raw-water shortfall shows up here first. Background for the next summer.",
+      "action": "Keep the DJB complaint number 1916 and book tankers through the DJB portal, not through private numbers.",
+      "source": "India TV report on the May 2026 supply shortfall, 28 May 2026",
+      "url": "https://www.indiatvnews.com/delhi/delhi-water-crisis-wazirabad-chandrawal-plants-run-low-yamuna-runs-dry-as-people-struggle-amid-heatwave-2026-05-28-1042846",
+      "date": "2026-05-28",
       "tag": "LIKELY",
       "archived": true
     }
