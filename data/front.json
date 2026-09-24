@@ -1,6 +1,6 @@
 {
  "edition": "2026-09-24",
- "built": "2026-09-24 07:12 IST",
+ "built": "2026-09-24 10:05 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23447.0,
-   "change_pct": 0.14,
-   "asof": "23 Sep 15:31 IST"
+   "value": 23229.0,
+   "change_pct": -0.93,
+   "asof": "24 Sep 10:05 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74828.0,
-   "change_pct": -0.04,
-   "asof": "23 Sep 15:32 IST"
+   "value": 74181.0,
+   "change_pct": -0.87,
+   "asof": "24 Sep 09:50 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.73,
-   "change_pct": 0.04,
-   "asof": "24 Sep 05:42 IST"
+   "value": 95.89,
+   "change_pct": 0.21,
+   "asof": "24 Sep 10:05 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 97.26,
-   "change_pct": -2.01,
-   "asof": "24 Sep 07:02 IST"
+   "value": 97.41,
+   "change_pct": -5.5,
+   "asof": "24 Sep 09:50 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4334.0,
-   "change_pct": 0.35,
-   "asof": "24 Sep 07:02 IST"
+   "value": 4319.0,
+   "change_pct": 0.02,
+   "asof": "24 Sep 09:55 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -163,9 +163,30 @@
    ]
   },
   "Startups": {
-   "total": 161,
-   "new_today": 3,
+   "total": 166,
+   "new_today": 8,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 73,
+     "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+     "url": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+     "date": "2026-09-24",
+     "source": "TechCrunch Venture",
+     "label": "Global · AI & Deeptech",
+     "snippet": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
+     "lead": "Bessemer Venture Partners announced on Wednesday that it has raised $5.75 billion across two new funds to accelerate its investment across all parts of the AI stack. The firm, which has backed companies such as Anthropic, Cognition, Legora, Perplexity, Ramp, Shopify, and Waymo, dedicated $1.75 billion for seed and early-stage investing and the remaining $4 billion for growth startups. Bessemer has been well-known as a leading VC in the ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $5,750M: round or valuation)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 11,
@@ -227,33 +248,11 @@
       "IPO & Listing",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 73,
-     "title": "Kissht Gets Board Nod To Raise ₹832 Cr Via Preferential Issue",
-     "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/",
-     "date": "2026-09-18",
-     "source": "Inc42",
-     "label": "India · Fintech",
-     "snippet": "Listed NBFC Kissht has secured board approval to raise up ₹832.2 Cr via a preferential issue of equity shares to 34 investors and entities.",
-     "lead": "In a filing with the exchanges, the NBFC said that its board has approved the issuance of 2.6 Cr fully paid-up equity shares to the investors at an issue price of ₹314.11 apiece Kissht is raising the preferential issue right after its IPO, signalling strong institutional interest in its lending business. But there appears no clarity on how the funds will be utilised While Axis Mutual Fund will receive 63.7 Lakh shares worth nearly ₹200 ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/soc-3-2.jpg",
-     "why": [
-      "Funding",
-      "Sizeable deal (about $88M)",
-      "Startup File written (what they do, how they make money)"
-     ],
-     "tags": [
-      "Funding",
-      "Fintech"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 405,
+   "total": 406,
    "new_today": 1,
    "items": [
     {
@@ -816,17 +815,17 @@
    "desk": "Startups",
    "score": 11,
    "priority": 73,
-   "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
-   "url": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+   "title": "Space investment more than doubled to $23 billion in year to June, report says",
+   "url": "https://economictimes.indiatimes.com/tech/technology/space-investment-more-than-doubled-to-23-billion-in-year-to-june-report-says/articleshow/134450652.cms",
    "date": "2026-09-24",
-   "source": "TechCrunch Venture",
+   "source": "ET Startups",
    "label": "Global · AI & Deeptech",
-   "snippet": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
-   "lead": "Bessemer Venture Partners announced on Wednesday that it has raised $5.75 billion across two new funds to accelerate its investment across all parts of the AI stack. The firm, which has backed companies such as Anthropic, Cognition, Legora, Perplexity, Ramp, Shopify, and Waymo, dedicated $1.75 billion for seed and early-stage investing and the remaining $4 billion for growth startups. Bessemer has been well-known as a leading VC in the ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+   "snippet": "SpaceX's June IPO has reshaped the funding landscape for the sector, drawing in new investors as venture firms look for the next space company capable of a similar payoff.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-77615,resizemode-75,msid-134450652/tech/technology/space-investment-more-than-doubled-to-23-billion-in-year-to-june-report-says.jpg",
    "why": [
     "Funding",
-    "Very large figure in headline (about $5,750M: round or valuation)"
+    "Very large figure in headline (about $23,000M: round or valuation)"
    ],
    "tags": [
     "Funding",
