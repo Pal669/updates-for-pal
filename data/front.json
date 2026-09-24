@@ -1,6 +1,6 @@
 {
  "edition": "2026-09-24",
- "built": "2026-09-24 01:21 IST",
+ "built": "2026-09-24 07:12 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23414.0,
-   "change_pct": 0.29,
+   "value": 23447.0,
+   "change_pct": 0.14,
    "asof": "23 Sep 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74859.0,
-   "change_pct": 0.76,
+   "value": 74828.0,
+   "change_pct": -0.04,
    "asof": "23 Sep 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
    "value": 95.73,
-   "change_pct": 0.02,
-   "asof": "24 Sep 00:16 IST"
+   "change_pct": 0.04,
+   "asof": "24 Sep 05:42 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 98.55,
-   "change_pct": -0.71,
-   "asof": "24 Sep 01:11 IST"
+   "value": 97.26,
+   "change_pct": -2.01,
+   "asof": "24 Sep 07:02 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4321.0,
-   "change_pct": -1.26,
-   "asof": "24 Sep 01:11 IST"
+   "value": 4334.0,
+   "change_pct": 0.35,
+   "asof": "24 Sep 07:02 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -163,9 +163,29 @@
    ]
   },
   "Startups": {
-   "total": 160,
-   "new_today": 2,
+   "total": 161,
+   "new_today": 3,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 73,
+     "title": "[Update] Ola Electric To Seek Board Nod For Proposed Rights Issue",
+     "url": "https://inc42.com/buzz/ola-electric-board-approves-fresh-%e2%82%b91500-cr-fundraise-after-%e2%82%b9780-cr-qip/",
+     "date": "2026-09-24",
+     "source": "Inc42",
+     "label": "India · Other",
+     "snippet": "Listed EV maker Ola Electric has now said that it plans to seek the approval of the board for a proposed rights issue of equity shares.",
+     "lead": "The listed EV maker will now seek the approval at the upcoming meeting of its board of directors on September 28 With this, Ola Electric has chosen the rights issue as the route for its capital raise. The board will also decide how much of the proposed fundraise will be raised via rights issue This comes weeks after Ola Electric’s board approved a fresh fundraise of up to ₹1,500 Cr via one or more routes",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/ola-electric-ebike-social-1.jpg",
+     "why": [
+      "Funding",
+      "Large deal (about $158M)"
+     ],
+     "tags": [
+      "Funding"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 11,
@@ -229,34 +249,12 @@
       "Funding",
       "Fintech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 73,
-     "title": "Aakash Trims FY26 Loss By 16% To ₹186.5 Cr, Top Line Flat At ₹2,040 Cr",
-     "url": "https://inc42.com/buzz/aakash-trims-fy26-loss-by-16-to-%e2%82%b9186-5-cr-top-line-flat-at-%e2%82%b92040-cr/",
-     "date": "2026-09-17",
-     "source": "Inc42",
-     "label": "India · Edtech & Skills",
-     "snippet": "Aakash Educational Services Ltd managed to narrow its net loss for FY26 by 15.5% to ₹186.5 Cr from ₹220.8 Cr loss incurred in FY25",
-     "lead": "Aakash Educational Services Ltd managed to narrow its net loss for the financial year FY26 by 15.5% to ₹186.5 Cr from ₹220.8 Cr loss incurred in the previous fiscal Aakash is one of India's largest test-prep brands for engineering and medical entrance exams and has been operating under the ownership of BYJU’S parent Think & Learn Operating revenue rose marginally by 0.4% to ₹2,040.5 Cr in FY26 from ₹2,032.1 Cr in the previous year",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/aakash-layoffs-social-.jpeg",
-     "why": [
-      "Financials",
-      "Large deal (about $215M)",
-      "Startup File written (what they do, how they make money)"
-     ],
-     "tags": [
-      "Financials",
-      "Edtech & Skills"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 402,
-   "new_today": 0,
+   "total": 405,
+   "new_today": 1,
    "items": [
     {
      "desk": "Immigration",
@@ -818,20 +816,21 @@
    "desk": "Startups",
    "score": 11,
    "priority": 73,
-   "title": "[Update] Ola Electric To Seek Board Nod For Proposed Rights Issue",
-   "url": "https://inc42.com/buzz/ola-electric-board-approves-fresh-%e2%82%b91500-cr-fundraise-after-%e2%82%b9780-cr-qip/",
+   "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+   "url": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
    "date": "2026-09-24",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Listed EV maker Ola Electric has now said that it plans to seek the approval of the board for a proposed rights issue of equity shares.",
-   "lead": "The listed EV maker will now seek the approval at the upcoming meeting of its board of directors on September 28 With this, Ola Electric has chosen the rights issue as the route for its capital raise. The board will also decide how much of the proposed fundraise will be raised via rights issue This comes weeks after Ola Electric’s board approved a fresh fundraise of up to ₹1,500 Cr via one or more routes",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/ola-electric-ebike-social-1.jpg",
+   "source": "TechCrunch Venture",
+   "label": "Global · AI & Deeptech",
+   "snippet": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
+   "lead": "Bessemer Venture Partners announced on Wednesday that it has raised $5.75 billion across two new funds to accelerate its investment across all parts of the AI stack. The firm, which has backed companies such as Anthropic, Cognition, Legora, Perplexity, Ramp, Shopify, and Waymo, dedicated $1.75 billion for seed and early-stage investing and the remaining $4 billion for growth startups. Bessemer has been well-known as a leading VC in the ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
    "why": [
     "Funding",
-    "Large deal (about $158M)"
+    "Very large figure in headline (about $5,750M: round or valuation)"
    ],
    "tags": [
-    "Funding"
+    "Funding",
+    "AI & Deeptech"
    ],
    "rank": 20,
    "must_read": false
@@ -862,6 +861,29 @@
    "desk": "Immigration",
    "score": 6,
    "priority": 67,
+   "title": "Changes to UK visa and settlement rules after the 2025 immigration white paper",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXb3hZSG02UTNOZXFvbVV6aHdkZ1FBcTI5QmlrYnFCX0ZnQ0MyOGFULTlkZ2N1UGloZHd3N0xkT3J6VE1KRFdfN3RxLVV5Q3BEbmhwTVJ2Zld6M2owTTNuZDZnQVZ3cXp5X0ktakVGUEJna29h?oc=5",
+   "date": "2026-09-21",
+   "source": "The House of Commons Library",
+   "label": "United Kingdom",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Affects permanent residence",
+    "Announces a change"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "United Kingdom"
+   ],
+   "rank": 22,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 6,
+   "priority": 67,
    "title": "US visa delay: France and Germany Are Emerging as Preferred Choices for Indian Students",
    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQY21NZGVLZmRsVWgxOXVhMDlUTXZCQzBwWDRxRVZ2Qk9oNVRFUDdzTXhRNVlvUk92T0pseU9vS1FyUGJ5SFloMEo5UHZydDBTSlNtbkJ5bGl3Rkg2bzVTQnF6bk5PRl9jVllwRlFvYm9zSFd6WGJDc3RqZFhQemhuLXYtb0FjZVk4SmhKemNQT2RyUzVpTG1panhXYm9xTzNvSmUwdThrYkdla0pmV1ZxSVAtYVRCR2ZmUkMzVlYwVTZ0cmUzYjl3VlFDOEo0a1NSSXAtWkpQU2VZNjBWcGYtdGVzblNwX25NTHVPQ192UU9sc3fSAfgBQVVfeXFMT1hnTHNETTR6dDNiOG9tdGQzTzdNNURlMkxGTUtoQ3Z0OWR1SHJhSjR3R3dmQUVvVFRpVkpOdVQyckw4dml6b1hlRWx1WFlsc3ZiNlFkQWxZMGg3Q2VVMWpWY3VNOUVoMFFuZXV2bEJXbFdaVnRiOUlyeEVNRnoxYVNuVUh1UXpWLWdReUdweXllc0ZtYngxQlVNSGtnc2NWVUR6UWJvRDRRbTRfVm1mcHozS3FQQ0pGOGc0ZTZTQ2E2dS1fWVZoQ3NJWmJwTFB6WFBkbzhWdDY3cDlPb0V4T0xreHRIR2RzREowaXhCN01yOVk4X09YM3g?oc=5",
    "date": "2026-09-20",
@@ -877,28 +899,6 @@
    "tags": [
     "Student / Graduate",
     "France"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 67,
-   "title": "Guidance: India: tuberculosis test clinics for a UK visa",
-   "url": "https://www.gov.uk/government/publications/india-tuberculosis-test-clinics-for-a-uk-visa",
-   "date": "2026-09-20",
-   "source": "GOV.UK (UK Visas and Immigration)",
-   "label": "United Kingdom",
-   "snippet": "Where to get tested for tuberculosis (TB) in India for your UK visa application.",
-   "lead": "Navigation menu Menu Menu Services and information Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions ...",
-   "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-   "why": [
-    "Official government notice",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "United Kingdom"
    ],
    "rank": 23,
    "must_read": false
