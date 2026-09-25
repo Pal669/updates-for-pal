@@ -1,6 +1,6 @@
 {
  "edition": "2026-09-25",
- "built": "2026-09-25 01:39 IST",
+ "built": "2026-09-25 07:28 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,15 +12,15 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23447.0,
-   "change_pct": 0.14,
+   "value": 23063.0,
+   "change_pct": -1.64,
    "asof": "24 Sep 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74828.0,
-   "change_pct": -0.04,
+   "value": 73581.0,
+   "change_pct": -1.67,
    "asof": "24 Sep 15:32 IST"
   },
   {
@@ -28,21 +28,21 @@
    "dp": 2,
    "value": 95.94,
    "change_pct": 0.21,
-   "asof": "25 Sep 01:25 IST"
+   "asof": "25 Sep 07:22 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 107.39,
-   "change_pct": 4.18,
-   "asof": "25 Sep 01:29 IST"
+   "value": 105.7,
+   "change_pct": 2.54,
+   "asof": "25 Sep 07:14 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4308.0,
-   "change_pct": -0.24,
-   "asof": "25 Sep 01:29 IST"
+   "value": 4325.0,
+   "change_pct": 0.62,
+   "asof": "25 Sep 07:18 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -163,9 +163,30 @@
    ]
   },
   "Startups": {
-   "total": 193,
-   "new_today": 1,
+   "total": 197,
+   "new_today": 5,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 79,
+     "title": "Amazon to bet $3 billion on India's fast-delivery boom, sources say",
+     "url": "https://economictimes.indiatimes.com/tech/technology/amazon-bets-3-billion-on-indias-fast-delivery-boom-sources-say/articleshow/134460672.cms",
+     "date": "2026-09-24",
+     "source": "ET Startups",
+     "label": "India · Commerce & D2C",
+     "snippet": "Amazon has announced plans to invest $3 billion in its quick commerce business in India by 2030. This investment aims to expand its network of small neighborhood warehouses to improve delivery efficiency. Amazon is focusing on daily essentials rather than one-off purchases in this sector. Current competitors have established loyalty among",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-120938,resizemode-75,msid-134460672/tech/technology/amazon-bets-3-billion-on-indias-fast-delivery-boom-sources-say.jpg",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $3,000M: round or valuation)"
+     ],
+     "tags": [
+      "Funding",
+      "Commerce & D2C"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 11,
@@ -230,32 +251,11 @@
       "Funding",
       "Fintech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 71,
-     "title": "IPO-Bound Navi’s FY26 Loss More Than Triples To ₹466 Cr",
-     "url": "https://inc42.com/buzz/ipo-bound-navis-fy26-loss-more-than-triples-to-%e2%82%b9466-cr/",
-     "date": "2026-09-24",
-     "source": "Inc42",
-     "label": "India · Fintech",
-     "snippet": "The company said it broke even on a PBT basis in Q4 FY26 and earned ₹104 Cr in PBT in Q1 FY27.",
-     "lead": "Navi’s consolidated net loss increased by 268.7% to ₹465.99 from ₹126.4 Cr in FY25 The company said it broke even on a PBT basis in Q4 FY26 and earned ₹104 Cr in PBT in Q1 FY27 In FY26, the fintech’s topline grew 16.2% to ₹2,981.7 Cr from ₹2,565 Cr while total expenses surged 28.8% YoY to ₹3,514.4 Cr from ₹2,729.1 Cr",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2024/10/Navi-Finserve-02.png",
-     "why": [
-      "IPO & Listing",
-      "Sizeable deal (about $49M)"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "Fintech"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 428,
+   "total": 429,
    "new_today": 0,
    "items": [
     {
@@ -334,9 +334,9 @@
      "date": "2026-09-24",
      "source": "Moneycontrol.com",
      "label": "AIF",
-     "snippet": "",
-     "lead": "",
-     "image": null,
+     "snippet": "The move is aimed at bringing greater uniformity to the approval process for key decisions taken by AIFs",
+     "lead": "The SEBI Board approved amendments to the SEBI (Alternative Investment Funds) Regulations, 2012, under which fund managers and their officers will not be able to use the assets of an AIF to meet their own losses, damages or expenses, including costs arising from the resolution of investor disputes. The protection was earlier applicable to AIFs constituted as trusts. The amendment extends the same safeguard to all forms of AIFs, ...",
+     "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260924130823_sebi3.jpg",
      "why": [
       "AIF news",
       "Regulator: SEBI or RBI",
@@ -588,9 +588,9 @@
    "date": "2026-09-24",
    "source": "Moneycontrol.com",
    "label": "REITs & InvITs",
-   "snippet": "",
-   "lead": "",
-   "image": null,
+   "snippet": "Move to facilitate foreign capital flows into REITs and InvITs; detailed framework to be notified separately",
+   "lead": "The Securities and Exchange Board of India (SEBI) has approved a framework to enable issuance of depository receipts (DRs) against units of real estate investment trusts (REITs) and infrastructure investment trusts (InvITs), allowing foreign investors, including NRIs, to access these instruments through India's International Financial Services Centre (IFSC). The regulator's Board approved amendments to the REIT and InvIT regulations to ...",
+   "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260805041827_SEBI2.jpg",
    "why": [
     "REIT / InvIT news",
     "Regulator: SEBI or RBI",
@@ -743,6 +743,29 @@
    "desk": "Startups",
    "score": 12,
    "priority": 86,
+   "title": "Amazon India To Invest $3 Bn In Quick Commerce Arm By 2030: Report",
+   "url": "https://inc42.com/buzz/amazon-india-to-invest-3-bn-in-quick-commerce-arm-by-2030-report/",
+   "date": "2026-09-25",
+   "source": "Inc42",
+   "label": "India · Commerce & D2C",
+   "snippet": "Amazon India plans to invest $3 Bn to expand its quick commerce business, Amazon Now, over the course of next four years.",
+   "lead": "Sources said that the ecommerce giant will invest $1 Bn in the quick commerce vertical by the 2027-end, and an additional $2 Bn by 2030 Amazon is committing billions of dollars to build a large quick commerce network in India as it is trying to catch up with established players like Blinkit, Zepto and Instamart Amazon plans to use the capital to add new dark stores, strengthen its tech stack, deploy AI tools and expand product mix. It ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Amazon-Now-social.jpg",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $3,000M: round or valuation)"
+   ],
+   "tags": [
+    "Funding",
+    "Commerce & D2C"
+   ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 86,
    "title": "Furlenco Eyes ₹1,200 Cr IPO At ₹7,000 Cr Valuation: Report",
    "url": "https://inc42.com/buzz/furlenco-eyes-%e2%82%b91200-cr-ipo-at-%e2%82%b97000-cr-valuation-report/",
    "date": "2026-09-22",
@@ -760,7 +783,7 @@
     "IPO & Listing",
     "Real Estate & Workspaces"
    ],
-   "rank": 15,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -784,7 +807,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -806,7 +829,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -828,7 +851,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -849,29 +872,6 @@
    ],
    "tags": [
     "Funding"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 79,
-   "title": "Amazon to bet $3 billion on India's fast-delivery boom, sources say",
-   "url": "https://economictimes.indiatimes.com/tech/technology/amazon-bets-3-billion-on-indias-fast-delivery-boom-sources-say/articleshow/134460672.cms",
-   "date": "2026-09-24",
-   "source": "ET Startups",
-   "label": "India · Commerce & D2C",
-   "snippet": "Amazon has announced plans to invest $3 billion in its quick commerce business in India by 2030. This investment aims to expand its network of small neighborhood warehouses to improve delivery efficiency. Amazon is focusing on daily essentials rather than one-off purchases in this sector. Current competitors have established loyalty among",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-120938,resizemode-75,msid-134460672/tech/technology/amazon-bets-3-billion-on-indias-fast-delivery-boom-sources-say.jpg",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $3,000M: round or valuation)"
-   ],
-   "tags": [
-    "Funding",
-    "Commerce & D2C"
    ],
    "rank": 20,
    "must_read": false
