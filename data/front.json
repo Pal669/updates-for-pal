@@ -1,6 +1,6 @@
 {
  "edition": "2026-09-26",
- "built": "2026-09-26 07:35 IST",
+ "built": "2026-09-26 10:18 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -26,22 +26,22 @@
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.8,
-   "change_pct": -0.37,
-   "asof": "26 Sep 04:29 IST"
+   "value": 95.82,
+   "change_pct": -0.35,
+   "asof": "26 Sep 09:00 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 97.47,
-   "change_pct": -8.56,
+   "value": 104.32,
+   "change_pct": -2.14,
    "asof": "26 Sep 02:29 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4320.0,
-   "change_pct": 0.52,
+   "value": 4321.0,
+   "change_pct": 0.54,
    "asof": "26 Sep 02:29 IST"
   },
   {
@@ -164,9 +164,30 @@
    ]
   },
   "Startups": {
-   "total": 219,
-   "new_today": 1,
+   "total": 220,
+   "new_today": 2,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 79,
+     "title": "Amazon India To Invest $3 Bn In Quick Commerce Arm By 2030: Report",
+     "url": "https://inc42.com/buzz/amazon-india-to-invest-3-bn-in-quick-commerce-arm-by-2030-report/",
+     "date": "2026-09-25",
+     "source": "Inc42",
+     "label": "India · Commerce & D2C",
+     "snippet": "Amazon India plans to invest $3 Bn to expand its quick commerce business, Amazon Now, over the course of next four years.",
+     "lead": "Sources said that the ecommerce giant will invest $1 Bn in the quick commerce vertical by the 2027-end, and an additional $2 Bn by 2030 Amazon is committing billions of dollars to build a large quick commerce network in India as it is trying to catch up with established players like Blinkit, Zepto and Instamart Amazon plans to use the capital to add new dark stores, strengthen its tech stack, deploy AI tools and expand product mix. It ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Amazon-Now-social.jpg",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $3,000M: round or valuation)"
+     ],
+     "tags": [
+      "Funding",
+      "Commerce & D2C"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 11,
@@ -228,31 +249,11 @@
      "tags": [
       "IPO & Listing"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 71,
-     "title": "[Update] Moneyview IPO Subscribed 1.44X At End Of Day 1",
-     "url": "https://inc42.com/buzz/moneyview-ipo-subscribed-65-on-day-1-so-far-retail-portion-at-93/",
-     "date": "2026-09-24",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "Moneyview’s ₹1,092 Cr IPO was subscribed 65% by 12:48 IST on the first day of bidding today with retail investors leading the demand",
-     "lead": "Retail investors led the demand, placing bids for 10.89 Cr shares against the 11.72 Cr shares reserved for them. This translated into a subscription of 93%. The qualified institutional buyers (QIBs) portion received bids for only 41,895 shares against the 6.51 Cr shares reserved for the category. Moneyview has fixed the IPO price band at ₹32-₹34 per share . At the upper end of the price band, the IPO values the company at around ₹5,985 ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Moneyview-social.jpg",
-     "why": [
-      "IPO & Listing",
-      "Large deal (about $115M)"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 450,
+   "total": 451,
    "new_today": 0,
    "items": [
     {
@@ -679,6 +680,29 @@
    "desk": "Startups",
    "score": 11,
    "priority": 79,
+   "title": "From Ultraviolette Automotive To GalaxEye — Indian Startups Raised Over $203 Mn This Week",
+   "url": "https://inc42.com/buzz/from-ultraviolette-automotive-to-galaxeye-indian-startups-raised-over-203-mn-this-week/",
+   "date": "2026-09-26",
+   "source": "Inc42",
+   "label": "India · Mobility & EV",
+   "snippet": "Indian Startup Funding: Indian startups raised a combined $203.4 Mn across 21 deals between September 21 and September 25",
+   "lead": "Indian startups raised a combined $203.4 Mn across 21 deals between September 21 and September 25 AI emerged as the most funded sector this week, with five AI startups raising a cumulative $89.3 Mn Early stage funding activity remained strong this week as seed-stage startups raised $20.3 Mn across five deals",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Social-100-4.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $203M)"
+   ],
+   "tags": [
+    "Funding",
+    "Mobility & EV"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 79,
    "title": "SK Hynix's Solidigm weighs IPO that could value the unit at up to $150 billion: Report",
    "url": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-solidigm-weighs-ipo-that-could-value-the-unit-at-up-to-150-billion-report/articleshow/134489719.cms",
    "date": "2026-09-25",
@@ -695,7 +719,7 @@
     "IPO & Listing",
     "Fintech"
    ],
-   "rank": 13,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -718,29 +742,6 @@
    "tags": [
     "Funding",
     "AI & Deeptech"
-   ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 79,
-   "title": "Amazon India To Invest $3 Bn In Quick Commerce Arm By 2030: Report",
-   "url": "https://inc42.com/buzz/amazon-india-to-invest-3-bn-in-quick-commerce-arm-by-2030-report/",
-   "date": "2026-09-25",
-   "source": "Inc42",
-   "label": "India · Commerce & D2C",
-   "snippet": "Amazon India plans to invest $3 Bn to expand its quick commerce business, Amazon Now, over the course of next four years.",
-   "lead": "Sources said that the ecommerce giant will invest $1 Bn in the quick commerce vertical by the 2027-end, and an additional $2 Bn by 2030 Amazon is committing billions of dollars to build a large quick commerce network in India as it is trying to catch up with established players like Blinkit, Zepto and Instamart Amazon plans to use the capital to add new dark stores, strengthen its tech stack, deploy AI tools and expand product mix. It ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Amazon-Now-social.jpg",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $3,000M: round or valuation)"
-   ],
-   "tags": [
-    "Funding",
-    "Commerce & D2C"
    ],
    "rank": 15,
    "must_read": false
