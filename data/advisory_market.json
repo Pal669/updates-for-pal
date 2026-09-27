@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26 23:16 IST",
+ "updated": "2026-09-27 22:53 IST",
  "notes": [],
  "nse_stamp": "25-Sep-2026 15:30",
  "indices": [
@@ -445,8 +445,8 @@
  "periods": {
   "previousDay": "25-Sep-2026",
   "oneWeekAgo": "18-Sep-2026",
-  "oneMonthAgo": "26-Aug-2026",
-  "oneYearAgo": "25-Sep-2025"
+  "oneMonthAgo": "27-Aug-2026",
+  "oneYearAgo": "26-Sep-2025"
  },
  "flows": {
   "date": "25-Sep-2026",
@@ -590,13 +590,13 @@
   },
   {
    "name": "USD/INR",
-   "value": 95.82,
+   "value": 95.8,
    "dp": 2,
-   "d1": -0.35,
-   "w1": 0.02,
-   "m1": 0.41,
-   "y1": 7.94,
-   "asof": "26 Sep 2026 09:00 IST",
+   "d1": -0.37,
+   "w1": 0.0,
+   "m1": 0.35,
+   "y1": 7.92,
+   "asof": "27 Sep 2026 19:24 IST",
    "source": "Yahoo Finance"
   },
   {
@@ -607,7 +607,7 @@
    "w1": -0.82,
    "m1": -1.81,
    "y1": 5.49,
-   "asof": "26 Sep 2026 09:00 IST",
+   "asof": "27 Sep 2026 09:00 IST",
    "source": "Yahoo Finance"
   }
  ],
@@ -669,23 +669,23 @@
   },
   {
    "name": "Gold BeES (NSE ETF, Rs)",
-   "value": 124.43,
+   "value": 124.4,
    "dp": 2,
-   "d1": 0.81,
-   "w1": -1.62,
-   "m1": -6.0,
-   "y1": 31.77,
+   "d1": 0.79,
+   "w1": -1.64,
+   "m1": -6.02,
+   "y1": 31.74,
    "asof": "25 Sep 2026 15:30 IST",
    "source": "Yahoo Finance"
   },
   {
    "name": "Silver BeES (NSE ETF, Rs)",
-   "value": 218.8,
+   "value": 218.94,
    "dp": 2,
-   "d1": 1.32,
-   "w1": -2.35,
-   "m1": -4.92,
-   "y1": 65.29,
+   "d1": 1.38,
+   "w1": -2.29,
+   "m1": -4.86,
+   "y1": 65.4,
    "asof": "25 Sep 2026 15:30 IST",
    "source": "Yahoo Finance"
   }
@@ -694,24 +694,24 @@
  "reits": [
   {
    "name": "Embassy Office Parks REIT",
-   "value": 437.59,
+   "value": 436.6,
    "dp": 2,
-   "d1": -0.45,
-   "w1": -1.2,
-   "m1": -0.59,
-   "y1": 5.92,
+   "d1": -0.68,
+   "w1": -1.42,
+   "m1": -0.82,
+   "y1": 5.68,
    "asof": "25 Sep 2026 15:28 IST",
    "kind": "REIT",
    "source": "Yahoo Finance (BSE ticker)"
   },
   {
    "name": "Mindspace Business Parks REIT",
-   "value": 508.9,
+   "value": 508.23,
    "dp": 2,
-   "d1": 0.86,
-   "w1": 0.61,
-   "m1": 4.28,
-   "y1": 13.04,
+   "d1": 0.73,
+   "w1": 0.48,
+   "m1": 4.15,
+   "y1": 12.89,
    "asof": "25 Sep 2026 15:18 IST",
    "kind": "REIT",
    "source": "Yahoo Finance (BSE ticker)"
@@ -742,12 +742,12 @@
   },
   {
    "name": "IndiGrid InvIT",
-   "value": 172.78,
+   "value": 172.9,
    "dp": 2,
-   "d1": 0.37,
-   "w1": -0.41,
-   "m1": -0.88,
-   "y1": 3.12,
+   "d1": 0.44,
+   "w1": -0.34,
+   "m1": -0.81,
+   "y1": 3.19,
    "asof": "25 Sep 2026 15:28 IST",
    "kind": "InvIT",
    "source": "Yahoo Finance (BSE ticker)"
@@ -766,24 +766,24 @@
   },
   {
    "name": "IRB InvIT Fund",
-   "value": 64.69,
+   "value": 64.57,
    "dp": 2,
-   "d1": -0.31,
-   "w1": -0.48,
-   "m1": 1.83,
-   "y1": 3.21,
+   "d1": -0.49,
+   "w1": -0.66,
+   "m1": 1.64,
+   "y1": 3.02,
    "asof": "25 Sep 2026 15:29 IST",
    "kind": "InvIT",
    "source": "Yahoo Finance (BSE ticker)"
   },
   {
    "name": "Cube Highways Trust",
-   "value": 156.0,
+   "value": 155.85,
    "dp": 2,
-   "d1": 0.01,
-   "w1": -0.17,
-   "m1": -0.1,
-   "y1": 17.29,
+   "d1": -0.09,
+   "w1": -0.26,
+   "m1": -0.2,
+   "y1": 17.18,
    "asof": "25 Sep 2026 15:29 IST",
    "kind": "InvIT",
    "source": "Yahoo Finance (BSE ticker)"
