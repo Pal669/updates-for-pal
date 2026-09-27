@@ -1,6 +1,6 @@
 {
- "edition": "2026-09-27",
- "built": "2026-09-27 20:49 IST",
+ "edition": "2026-09-28",
+ "built": "2026-09-28 01:24 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -28,7 +28,7 @@
    "dp": 2,
    "value": 95.8,
    "change_pct": -0.37,
-   "asof": "27 Sep 19:24 IST"
+   "asof": "28 Sep 00:44 IST"
   },
   {
    "name": "Brent (USD)",
@@ -54,38 +54,57 @@
  ],
  "features": {
   "startup_file": {
-   "company": "Innov8 Workspaces",
-   "tagline": "Premium flexible office space operator",
-   "what": "Runs premium flexible and managed workspace centres across India. It had 58 operating centres at the end of FY26 and 72 by July 2026.",
+   "company": "Kissht",
+   "tagline": "Listed digital lender (NBFC)",
+   "what": "Lending-tech platform founded in 2015 by Ranvir Singh and Krishnan Vishwanathan. Offers digital personal and business loans up to Rs 5 lakh, health-related insurance products and secured loans against property. Got regulatory approval in July 2026 to distribute mutual funds through subsidiary Invincible Minds.",
    "how": [
-    "Rent from customers who use its centres: Rs 173.6 Cr of Rs 201.3 Cr operating revenue in FY26, about 86%.",
-    "Other operational income (ancillary services): Rs 27.6 Cr, up from Rs 5.4 Cr."
+    "The article does not give a revenue split.",
+    "Inferred, not from the article: as an NBFC, its core income is interest and fees on the loans it makes; insurance and mutual fund distribution would add commissions."
    ],
-   "watch": "Profit quality: other income was Rs 38.9 Cr, including a Rs 36.7 Cr gain on terminating lease contracts. Without that gain the profit jump would look much smaller. The article gives growth drivers as more centres, higher occupancy and better pricing.",
-   "sector": "Real Estate & Workspaces",
+   "watch": "The company did not say how it will use the money. Fresh capital for a lender usually funds loan growth, but that is inference.",
+   "sector": "Fintech",
    "region": "India",
-   "url": "https://inc42.com/buzz/innov8s-fy26-profit-zooms-multifold-to-%e2%82%b913-7-cr-revenue-crosses-%e2%82%b9200-cr-mark/"
+   "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/"
   },
   "country": {
-   "id": "sweden",
-   "name": "Sweden",
+   "id": "denmark",
+   "name": "Denmark",
    "trend": "Tightening",
-   "pr": "Work-based PR after 4 years (44 months), with net income of at least SEK 29,680 a month for the previous 12 months.",
-   "citizenship": "Since 6 June 2026: 8 years of residence, higher income test, and mandatory Swedish language and civics tests (first sitting August 2026). Adult fee rose from SEK 1,500 to SEK 2,900.",
-   "pro": "PR in 4 years.",
-   "con": "Citizenship clock stretched to 8 years with a language test.",
-   "watch": "Further income thresholds"
+   "pr": "8 years of legal residence in general; reducible to 4 years if you pass the Danish PD3 test, work full-time, are self-sufficient and meet active-citizenship conditions.",
+   "citizenship": "Granted by an Act of the Danish Parliament after conditions are met; the exact timeline was not verified this session. Denmark allows dual citizenship (general knowledge).",
+   "pro": "High pay and strong work-life balance (general knowledge).",
+   "con": "One of the strictest immigration regimes in Europe (general knowledge).",
+   "watch": "Annual indexation of pay limits"
   }
  },
  "desks": {
   "Policy": {
    "total": 74,
-   "new_today": 1,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
-     "score": 6,
-     "priority": 55,
+     "score": 5,
+     "priority": 50,
+     "title": "Flash Report on Central Sector Infrastructure Projects worth ₹150 crore and above",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2314852",
+     "date": "2026-09-25",
+     "source": "PIB",
+     "label": "Banking & Rates",
+     "snippet": "The Ministry of Statistics and Programme Implementation (MoSPI) continues to strengthen monitoring o",
+     "lead": "The Ministry of Statistics and Programme Implementation (MoSPI) continues to strengthen monitoring of Central Sector infrastructure projects through its PAIMANA platform, enabling improved tracking, timely reviews, and data-driven decision-making across Ministries. The portal tracks 1,731 Infrastructure Projects worth of ₹33.60 lakh crore as of August 2026. 3. Sector-wise (as per DEA’s Harmonized Master List of Infrastructure) Progress ...",
+     "image": null,
+     "why": [
+      "Rates and liquidity"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 50,
      "title": "WMA Limit for Government of India for October 2026 – March 2027",
      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63670",
      "date": "2026-09-25",
@@ -104,19 +123,19 @@
     },
     {
      "desk": "Policy",
-     "score": 6,
-     "priority": 55,
-     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63649",
-     "date": "2026-09-23",
+     "score": 5,
+     "priority": 50,
+     "title": "Underwriting Auction for sale of Government Security for ₹34,000 crore on September 25, 2026",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63655",
+     "date": "2026-09-24",
      "source": "RBI",
      "label": "Banking & Rates",
      "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "",
+     "lead": "Government of India has announced the sale (re-issue) of Government Security, as detailed below, through auction to be held on September 25, 2026 (Friday) . As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
      "image": null,
      "why": [
-      "New law or act",
-      "Regulator: RBI"
+      "Regulator: RBI",
+      "Large outlay (Rs 10,000 Cr or more)"
      ],
      "tags": [
       "Banking & Rates"
@@ -125,51 +144,54 @@
     {
      "desk": "Policy",
      "score": 5,
-     "priority": 45,
-     "title": "Union Minister Shri Rajiv Ranjan Singh alias Lalan Singh to Launch Livestock Insurance Portal in New Delhi on 28 September 2026",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2315538",
-     "date": "2026-09-27",
-     "source": "PIB",
-     "label": "Markets & Regulation",
-     "snippet": "The Department of Animal Husbandry & Dairying (DAHD), Government of India, will launch the Livestock",
-     "lead": "The Department of Animal Husbandry & Dairying (DAHD), Government of India, will launch the Livestock Insurance Portal on 28 th September, 2026 in New Delhi, marking an important milestone in the digital transformation of livestock insurance services in the country. The Portal will be launched by Shri Rajiv Ranjan Singh alias Lalan Singh, Hon’ble Union Minister for Fisheries, Animal Husbandry & Dairying and Panchayati Raj, Government of ...",
+     "priority": 50,
+     "title": "Exim Bank’s GOI-supported Line of Credit (LOC) for ₹ 4,850 crores the Government of Maldives, for financing various developmental projects in Maldives",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13712&Mode=0",
+     "date": "2026-09-23",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Notifications - Reserve Bank of India",
+     "lead": "Exim Bank’s GOI-supported Line of Credit (LOC) for ₹ 4,850 crores the Government of Maldives, for financing various developmental projects in Maldives Export-Import Bank of India (Exim Bank) has entered into an agreement dated July 25, 2025, with the Government of the Republic of Maldives, for making available to the latter, Government of India supported Line of Credit (LoC) of ₹ 4,850 crores (Rupees Four Thousand Eight Hundred and ...",
      "image": null,
      "why": [
-      "Touches financial markets"
+      "Touches financial markets",
+      "Regulator: RBI"
      ],
      "tags": [
-      "Markets & Regulation"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 5,
-     "priority": 45,
-     "title": "Production Linked Incentive Schemes have Strengthened India’s Pharmaceutical, Bulk Drugs and Medical Devices Manufacturing Ecosystem",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2314746",
-     "date": "2026-09-25",
-     "source": "PIB",
-     "label": "Agriculture & Food",
-     "snippet": "The Government of India has made a wide range of efforts to increase investment in the pharmaceu",
-     "lead": "Companies such as Sun Pharmaceutical Industries Limited, AurobindoPharma Limited, Dr. Reddy’s Laboratories Limited, Lupin Limited, Cipla Limited, Intas Pharmaceuticals Limited, Torrent Pharmaceuticals Limited have expanded their capacities to manufacture complex generics, biosimilars, auto-immune medicines and other high value pharmaceuticals Companies such as Sun Pharmaceutical Industries Limited, AurobindoPharma Limited, Dr. Reddy’s ...",
-     "image": null,
-     "why": [
-      "Subsidy or incentive"
-     ],
-     "tags": [
-      "Agriculture & Food"
+      "Banking & Rates"
      ]
     }
    ]
   },
   "Startups": {
    "total": 231,
-   "new_today": 5,
+   "new_today": 0,
    "items": [
     {
      "desk": "Startups",
-     "score": 10,
-     "priority": 83,
+     "score": 9,
+     "priority": 75,
+     "title": "From Ultraviolette Automotive To GalaxEye — Indian Startups Raised Over $203 Mn This Week",
+     "url": "https://inc42.com/buzz/from-ultraviolette-automotive-to-galaxeye-indian-startups-raised-over-203-mn-this-week/",
+     "date": "2026-09-26",
+     "source": "Inc42",
+     "label": "India · Mobility & EV",
+     "snippet": "Indian Startup Funding: Indian startups raised a combined $203.4 Mn across 21 deals between September 21 and September 25",
+     "lead": "Indian startups raised a combined $203.4 Mn across 21 deals between September 21 and September 25 AI emerged as the most funded sector this week, with five AI startups raising a cumulative $89.3 Mn Early stage funding activity remained strong this week as seed-stage startups raised $20.3 Mn across five deals",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Social-100-4.jpg",
+     "why": [
+      "Funding",
+      "Large deal (about $203M)"
+     ],
+     "tags": [
+      "Funding",
+      "Mobility & EV"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 75,
      "title": "SK Hynix's Solidigm weighs IPO that could value the unit at up to $150 billion: Report",
      "url": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-solidigm-weighs-ipo-that-could-value-the-unit-at-up-to-150-billion-report/articleshow/134489719.cms",
      "date": "2026-09-25",
@@ -189,8 +211,8 @@
     },
     {
      "desk": "Startups",
-     "score": 10,
-     "priority": 83,
+     "score": 9,
+     "priority": 75,
      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
      "date": "2026-09-25",
@@ -211,8 +233,8 @@
     },
     {
      "desk": "Startups",
-     "score": 10,
-     "priority": 83,
+     "score": 9,
+     "priority": 75,
      "title": "Amazon India To Invest $3 Bn In Quick Commerce Arm By 2030: Report",
      "url": "https://inc42.com/buzz/amazon-india-to-invest-3-bn-in-quick-commerce-arm-by-2030-report/",
      "date": "2026-09-25",
@@ -229,39 +251,17 @@
       "Funding",
       "Commerce & D2C"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-     "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-     "date": "2026-09-23",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-     "lead": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms Marina Temkin 2:56 PM PDT · September 22, 2026 Snorkel AI, a startup that helps AI labs and corporations build training datasets and simulated environments, has raised a $350 million Series E at a $3.5 billion valuation. The new round, which was led by Insight Partners and S32, valued the seven-year-old startup at nearly triple the $1.3 billion valuation it ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $3,500M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 473,
-   "new_today": 13,
+   "total": 478,
+   "new_today": 0,
    "items": [
     {
      "desk": "Immigration",
-     "score": 4,
-     "priority": 50,
+     "score": 3,
+     "priority": 33,
      "title": "Southeast Asia manufacturing, Japan immigration costs, Vietnam GDP",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTmhPbUw5UWc1V2RkV1ZmTkhaVXlJLTRDdE1aT2hJUnNmcUREX0oxb2xTZWRkUUI0NkNuRnBfVl9nOGJzTlF1MThRTEg2WHQ2QWxTZkJ0TzBhMzVxUWpGRmd5dkpWcDZlNDNjR2NPUWE2VkV0SV9yZ1hHcEM5NHN6R21OVkpPajFvNUFzVzZwSnFQSGR6X1NBdGNSRjN1dmU3NFFkRGp2WXJoVnYwN3RPSTE5amRIQ3M?oc=5",
      "date": "2026-09-27",
@@ -285,42 +285,42 @@
    "items": [
     {
      "desk": "Advisory",
-     "score": 11,
-     "priority": 92,
-     "title": "Bond yields surge as Wall Street fears more potential Federal Reserve rate hikes",
-     "url": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
-     "date": "2026-09-23",
-     "source": "MarketWatch",
-     "label": "Debt & Bonds",
-     "snippet": "Stocks fall, with the Nasdaq and S&P 500 retreating from record territory as bond yields suddenly jump.",
-     "lead": "",
-     "image": null,
+     "score": 10,
+     "priority": 91,
+     "title": "US Jobs and Consumer Spending Stay Strong, Odds of Fed Rate Hike in October Surge Past 70%",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lS0U4VGRJTGdSZ3J3SFVvNk5TRFItWVhEdUhtZUw2WEZpd2pzNi1LLXBwdm9EdzhxQUFiY3VGbzFDVzdLOXFzUVBCclVqZTQ4ZVFzOFhqaVdtZ2d2R3kyejN5NkhtZXA2VXJ2TElRRVlxdDBaQmc?oc=5",
+     "date": "2026-09-27",
+     "source": "finance.biggo.com",
+     "label": "Global",
+     "snippet": "The U.S. labor market continued to expand in September, with Bloomberg and Reuters surveys projecting nonfarm payroll gains of 90,000 and 100,000…",
+     "lead": "Ask AI Real-time News Market Earnings Call Event Calendar Watchlist Podcast Earnings Call Event Calendar Watchlist Podcast More Ask AI Real-time News Watchlist Market Earnings Call Event Calendar Podcast US Jobs and Consumer Spending Stay Strong, Odds of Fed Rate Hike in October Surge Past 70% Add preferred source The U.S. labor market continued to expand in September, with Bloomberg and Reuters surveys projecting nonfarm payroll gains ...",
+     "image": "https://img.biggo.com/eV2a7o5ssAbrNY0TW5meHwE9wKsvb7hGHli9lzfhmZI/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL3N0b2NrX2xpYnJhcnlfY292ZXJzLzIwMjYtMDkvNDhhZTBiYmUtOTJmZS00MTcyLThkNWUtMDcxZmEyODFlNGUyXzE3OTA1MDAwODBfZGVmYXVsdC53ZWJw.jpg",
      "why": [
       "Interest-rate decision",
-      "Government bond yields",
       "Global macro driver",
       "Sharp market move"
      ],
      "tags": [
-      "Debt & Bonds"
+      "Global",
+      "FMCG & Consumption"
      ]
     },
     {
      "desk": "Advisory",
      "score": 10,
-     "priority": 83,
-     "title": "Nomi Prins: Fed Rate Hike Doesn’t Change Gold’s Long-Term Outlook",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUUw4djFGYkVSbWdzZ3RXNHVidzUxaTE1REhRNVVBTzIxdW0wQnNLYlBaemNBeHVsVjNLN2ZBX3lOYmZNZ2ljM3RBVE5XcjlmWlpFS3VtNzUzaVlVVXdrLVdqOHA5Z1FFN28yU1Bza0tTMDdmSXl0djMyTUF3VUwxLXdodzFHX2FyYUhCM3FtYmdfeTJ1bWo1M25JY3dpdjgtLVdrWlZhY2txeXBxY3pya1N2bVhvdw?oc=5",
+     "priority": 91,
+     "title": "Why The RBI MPC Decision Could Be A Turning Point For Gold Loan Borrowers & NBFCs?",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdnpVcXlxS1BDTTNjVTRjRk5XZHVuaElfWFZQcjdxNnMtVGt2WlRQYnVUeERqakdRazRuZVJqdi12cmRPd0xWb3cxdklqY2FfSU1hMkxZWVl2VnNMSU8yV1Z0YWR3QU5hV2pjR2xRZEExVDJ3dWRPMmZDd2NWQmZRdk1vYkx3TTM0dzFUYzhtcWNDR3pra2xSbk1rckVIUFBqUV9LamtLN29mUnZqMGRGZjRpMHQ0Y3Vxb0pkR3dhOFo0LWxQTjQtb0VKSDBNTDY3TEtRRkJzazZFYWpreWN0ZA?oc=5",
      "date": "2026-09-26",
-     "source": "Medium",
+     "source": "Goodreturns",
      "label": "Gold & Silver",
-     "snippet": "",
-     "lead": "",
-     "image": null,
+     "snippet": "For gold loan clients and non-banking financial institutions (NBFCs), the Reserve Bank of Indias decision to maintain the repo rate at 5.50% on August 6 marks a significant turning point.",
+     "lead": "Today's neutral stance balances price stability with growth support for gold loan portfolios to expand, NBFC balance sheets to strengthen, and financial inclusion to rise—benefits that flow directly to borrowers and the wider economy. After cutting rates by 100 basis points since February 2025, today's pause lets lenders fully pass on lower borrowing costs, which is crucial for NBFCs that source nearly 40% of funding from wholesale ...",
+     "image": "https://images.goodreturns.in/img/2025/08/adobeexpress-file-2025-08-06t160702-329-1754477381.jpg",
      "why": [
+      "Regulator: SEBI or RBI",
       "Interest-rate decision",
-      "Precious metals",
-      "Global macro driver"
+      "Precious metals"
      ],
      "tags": [
       "Gold & Silver"
@@ -329,19 +329,20 @@
     {
      "desk": "Advisory",
      "score": 10,
-     "priority": 83,
-     "title": "SEBI Approves DR Framework for REITs, InvITs, Opens Route for Foreign Investors",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLXJkY2VhcUdfOEpjRVZ4ZUpRS3JVMGV2OFlkN2JTNnNFZG90ZE5DN0wtMlJUTzU2bHlybko0QkVFSDlLaDg3UF9kbkN0OHg4WEd1SlZUQ05QbGd6MGFfU19mZlIwSzRjSkZxY2lfQS11bnMwb3ZRRlFpeE9td0xCZjhKem12MERnbzhHSnRoR3FRcDAyckNsaDZaQ0drMnBJcHhOcWNwbVJBTjltMGxsUkhDTHZtWnpBVDFTY3kzX25DSF9ERlc2Uw?oc=5",
-     "date": "2026-09-26",
-     "source": "Realty Plus Magazine",
+     "priority": 91,
+     "title": "Sebi approves depository receipts for REITs, InvITs; eases norms for analysts, vault managers",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaHRfTUFuNFdyNDFXSUlrV19HMUp3WGxPQWxPRHNGVjBud04tSVAxMVNuZEhtQ0ZfeWhFOUhNMGtvRVh1ZFk3d0QtQ2xhMlV4RndQMHpfN19vVFk4M3draHEtMWdoRVA4NTQyb1dMUDFpNVVGVWNSaVRNdlBKWEhFTHVZeEVrVDNPMkxmY0xfdHhxUUpSOWdyTEN4aXN1UEhwX0xUOVJNcWZJOTV3R3dSdW11WENUaTlaMkhYcVg1V3lGNG12dElETnZkRFJjc291Mnd5Ty1CYnN5SUdJX2JxdGJFSkw3ZElGZFFJ0gHrAUFVX3lxTE5odF9NQW40V3I0MVdJSWtXX0cxSndYbE9BbE9Ec0ZWMG53Ti1JUDExU25kSG1DRl95aEU5SE0wa29FWHVkWTd3RC1DbGEyVXhGd1Awel83X29UWTgzd2tocS0xZ2hFUDg1NDJvV0xQMWk1VUZVY1JpVE12UEpYSEVMdVl4RWtUM08yTGZjTF90eHFRSlI5Z3JMQ3hpc3VQSHBfTFQ5Uk1xZkk5NXdHd1J1bXVYQ1RpOVoySFhxWDVXeUY0bXZ0SUROdmREUmNzb3Uyd3lPLUJic3lJR0lfYnF0YkVKTDdkSUZkUUk?oc=5",
+     "date": "2026-09-25",
+     "source": "bfsi.economictimes.indiatimes.com",
      "label": "REITs & InvITs",
-     "snippet": "",
-     "lead": "",
-     "image": null,
+     "snippet": "Real Estate Investment Trusts: Sebi",
+     "lead": "We encourage you to review our Terms of Service , and Privacy Policy . By continuing, you agree to the Terms listed here. In case you want to opt out, please click \"Do Not Sell or Share My Personal Information\" link in the footer of this page. We won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or shared ...",
+     "image": "https://etimg.etb2bimg.com/thumb/msid-134475655,imgsize-141830,width-1200,height=627,overlay-etbfsi,resizemode-75/articles/sebi-approves-depository-receipts-for-reits-invits-eases-norms-for-analysts-vault-managers.jpg",
      "why": [
       "REIT / InvIT news",
       "Regulator: SEBI or RBI",
-      "Rule or framework change"
+      "Rule or framework change",
+      "Also covered by 2 other outlet(s)"
      ],
      "tags": [
       "REITs & InvITs"
@@ -349,20 +350,20 @@
     },
     {
      "desk": "Advisory",
-     "score": 10,
-     "priority": 83,
-     "title": "Gold price outlook: MCX gold slips for the week as US Fed rate hike bets rise; what’s next for the yellow metal?",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRTZqUnFXbk5UUkhNYk1scFBUWkR5MFI3UVJIU1hWZlZmSDNNTFpDWHdjdXdWT2hJZk9HN1FIcS1HZUU2cU84RXpQaU1KMGY5MGJVTHRteWdpNTFIdldnTk5LTFRQYVV3dGZrSmZ2cTJ4LTJiSVVTdVEtTC1fQlJVLUNTbWlvTURyNTFYT3Rvb0RRSUNXQ0FNNDljeUYtS1Zldm84Vk5GMlZpQ2NLU2ZySEtzZHotRXZXN3BRRmtFeld2ekNvX3Vtcll3TElYRk1HVnhZaTN3N1QtaVRB?oc=5",
-     "date": "2026-09-26",
-     "source": "IndiaIPO",
+     "score": 9,
+     "priority": 82,
+     "title": "Your gold or silver ETF holds physical bullion: Here's what SEBI's new vault rules mean for investors",
+     "url": "https://www.livemint.com/money/personal-finance/your-gold-or-silver-etf-holds-physical-bullion-heres-what-sebis-new-vault-rules-mean-for-investors-11790518596044.html",
+     "date": "2026-09-27",
+     "source": "Mint",
      "label": "Gold & Silver",
-     "snippet": "MCX gold prices declined, losing ₹3,351 per 10 grams as traders reacted to higher US Treasury yields and Fed signals. September's gains turned into losses due to concerns over inflation and interest rate hikes, with October delivery gold closing at ₹1,51,000.",
-     "lead": "info@indiaipo.in | +91-96506-37280 IPO From Education to Execution Expert IPO Consultant | A A A | Check IPO Eligibility Home News Gold price outlook: MCX gold slips for the week as US Fed rate hike bets rise; what’s next for the yellow metal? Back to all updates Gold price outlook: MCX gold slips for the week as US Fed rate hike bets rise; what’s next for the yellow metal? September 25, 2026 Share Article Copy Link M CX gold prices ...",
+     "snippet": "SEBI has approved changes to its vault manager rules, bringing physical bullion underlying gold and silver ETFs under a common framework. The move strengthens requirements around how this bullion is stored, secured, segregated and accounted for.",
+     "lead": "Your gold or silver ETF holds physical bullion: Here's what SEBI's new vault rules mean for investors. (AI-generated image for representational purposes only) AI Quick Read Gold and silver ETF investors hold units in their demat accounts, while the physical bullion backing these units is stored in vaults. The Securities and Exchange Board of India ( SEBI ) has approved changes to its vault manager regulations to bring the storage of ...",
      "image": null,
      "why": [
-      "Interest-rate decision",
+      "Regulator: SEBI or RBI",
       "Precious metals",
-      "Global macro driver"
+      "Also covered by 1 other outlet(s)"
      ],
      "tags": [
       "Gold & Silver"
@@ -373,30 +374,31 @@
  },
  "items": [
   {
-   "desk": "Startups",
-   "score": 12,
+   "desk": "Immigration",
+   "score": 9,
    "priority": 100,
-   "title": "IIT Madras targets 1,000 startups by 2032, eyes one IPO every month",
-   "url": "https://yourstory.com/2026/09/iit-madras-1000-startups-2032-one-ipo-every-month",
-   "date": "2026-09-26",
-   "source": "YourStory",
-   "label": "India · Other",
-   "snippet": "IIT Madras aims to have around 1,000 startups under its fold by 2032, with at least one expected to go public every month, Director Prof V Kamakoti said. The institute has already incubated 583 startups with a combined valuation of Rs 83,000 crore.",
-   "lead": "IIT Madras targets 1,000 startups by 2032, eyes one IPO every month IIT Madras aims to have around 1,000 startups under its fold by 2032, with at least one expected to go public every month, Director Prof V Kamakoti said. The institute has already incubated 583 startups with a combined valuation of Rs 83,000 crore. Team YS 17243 Stories Saturday September 26, 2026 , 2 min Read IIT Madras aims to have around 1,000 startups under its ...",
-   "image": "https://images.yourstory.com/cs/2/a0bc5020250711f09884fb7189395d75/ArtificialintelligencetoEnhanceLanguageSkillsPresentationinBlueandPurple3DModernStyle-3-1746512587127.png",
+   "title": "Spain announces 2-year fast-track citizenship route for citizens of 23 countries",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmp4cEdnWW9iaU9ER25YazZyck9OWDRyTnBwLU45SG9PTGJvVU9iaFNKN2NFa3dZMGNtXzhsSmVnR3BhWUZLMGhXYmRDaDNEeEd3SGFYYlhYYkhUS3dWYkdLSFY2N3NPMnpZVDAxTUhod3RFQlUzMU91Z2hteXVUandKWUdnb3dwNGdzMnlTMGZ4aVJFdnhTYzQyTjVjYXFEOXZPT3RQLUk?oc=5",
+   "date": "2026-09-27",
+   "source": "Yen.com.gh",
+   "label": "Spain",
+   "snippet": "Spain confirms 23 countries qualify for citizenship after two years’ legal residency, offering eligible nationals an advantage over the standard ten-year wait.",
+   "lead": "PAY ATTENTION: Mark YEN.com.gh as a preferred source, and our content will appear higher in your Google feed! Spain has opened a significantly shorter route to citizenship for nationals of 23 specific countries, requiring just two years of legal residency instead of the standard ten years that applies to most foreign nationals. Spain mentions 23 countries eligible for shorter residency route. Photo source: @sanchezcastejon, @magnific ...",
+   "image": "https://cdn.yen.com.gh/images/1200x675/021ad5279c637ed7.jpeg?v=1",
    "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $8,737M: round or valuation)"
+    "Affects citizenship",
+    "Announces a change"
    ],
    "tags": [
-    "IPO & Listing"
+    "Citizenship",
+    "Spain"
    ],
    "rank": 1,
    "must_read": true
   },
   {
    "desk": "Advisory",
-   "score": 12,
+   "score": 11,
    "priority": 100,
    "title": "ETMarkets Smart Talk | Rate-cut cycle over, RBI may be at cusp of rate hikes; yields could inch higher: Puneet Pal",
    "url": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-rate-cut-cycle-over-rbi-may-be-at-cusp-of-rate-hikes-yields-could-inch-higher-puneet-pal/articleshow/134499579.cms",
@@ -419,7 +421,7 @@
   },
   {
    "desk": "Advisory",
-   "score": 12,
+   "score": 11,
    "priority": 100,
    "title": "SEBI’s new PMS framework could potentially double industry size over time: APMI Chairman Vikas Khemani",
    "url": "https://economictimes.indiatimes.com/markets/aif-pms/sebis-new-pms-framework-could-potentially-double-industry-size-over-time-apmi-chairman-vikas-khemani/articleshow/134499050.cms",
@@ -443,7 +445,7 @@
   },
   {
    "desk": "Policy",
-   "score": 11,
+   "score": 10,
    "priority": 100,
    "title": "Foreign Exchange Management (Export and Import of Goods and Services) (Amendment) Regulations, 2026",
    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13714&Mode=0",
@@ -463,6 +465,54 @@
    ],
    "rank": 4,
    "must_read": true
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 100,
+   "title": "Gold rises despite Fed rate hike as real-yield link weakens, central-bank buying accelerates: Monarch PMS",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZGdkNG52TGctOWloZW5KV1FNQndCLVVkenBhd1ZLQWZlcGVZbHpZeUpsdzhua09kTURBZ2M1VHNlbXZhdHZQT21KN2tsVmtzUnhwTUJnT2xJR2NVY3d3OXdpWlo5dnJKZWhfOTI4dF9KbjN3VW80VE4wTFlpRkgxY2t3Q3BNMGZWMlpUY2FOWGh6eHFUNjVrY2t3THM3elU4cm1oUG5IcjdZMUxxY0tKRGpmZl9VU2VvUEgxUWFxTkZwRUhNQWloY3FCaFRBV1ZUWXMzNlFvblNQMnYybWk5c2Nub0NCN3dyQ3JDWHRoVmxnQzNCR1VrNHNlVm5XTThnOGfSAYICQVVfeXFMTmRnZDRudkxnLTlpaGVuSldRTUJ3Qi1VZHpwYXdWS0FmZXBlWWx6WXlKbHc4bmtPZE1EQWdjNVRzZW12YXR2UE9tSjdrbFZrc1J4cE1CZ09sSUdjVWN3dzl3aVpaOXZySmVoXzkyOHRfSm4zd1VvNFROMExZaUZIMWNrd0NwTTBmVjJaVGNhTlhoenhxVDY1a2Nrd0xzN3pVOHJtaFBuSHI3WTFMcWNLSkRqZmZfVVNlb1BIMVFhcU5GcEVITUFpaGNxQmhUQVdWVFlzMzZRb25TUDJ2Mm1pOXNjbm9DQjd3ckNyQ1h0aFZsZ0MzQkdVazRzZVZuV004Zzhn?oc=5",
+   "date": "2026-09-24",
+   "source": "economictimes.com",
+   "label": "PMS",
+   "snippet": "Gold continues to strengthen despite higher US real yields and a Federal Reserve rate hike, with central-bank buying, inflation risks and energy uncertainty supporting demand for the precious metal.",
+   "lead": "",
+   "image": "https://m.economictimes.com/thumb/width-1280,height-720,imgsize-222902,msid-134454333/gold-rises-despite-fed-rate-hike-as-real-yield-link-weakens-central-bank-buying-accelerates-monarch-pmsbr.jpg",
+   "why": [
+    "PMS news",
+    "Interest-rate decision",
+    "Precious metals",
+    "Global macro driver"
+   ],
+   "tags": [
+    "PMS"
+   ],
+   "rank": 5,
+   "must_read": true
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 100,
+   "title": "Bond yields surge as Wall Street fears more potential Federal Reserve rate hikes",
+   "url": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
+   "date": "2026-09-23",
+   "source": "MarketWatch",
+   "label": "Debt & Bonds",
+   "snippet": "Stocks fall, with the Nasdaq and S&P 500 retreating from record territory as bond yields suddenly jump.",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Interest-rate decision",
+    "Government bond yields",
+    "Global macro driver",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Startups",
@@ -485,101 +535,29 @@
     "IPO & Listing",
     "Real Estate & Workspaces"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 7,
+   "must_read": false
   },
   {
    "desk": "Startups",
    "score": 11,
    "priority": 92,
-   "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-   "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+   "title": "IIT Madras targets 1,000 startups by 2032, eyes one IPO every month",
+   "url": "https://yourstory.com/2026/09/iit-madras-1000-startups-2032-one-ipo-every-month",
    "date": "2026-09-26",
-   "source": "TechCrunch Venture",
-   "label": "Global · AI & Deeptech",
-   "snippet": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
-   "lead": "Nscale , a British neocloud, has secured $3.36 billion in financing ahead of its IPO later this year, the company announced on Friday. Structured as a convertible note, the massive funding round underscores the staggering capital required to build out AI data centers. Led by hedge fund Third Point, the new investment includes $2.36 billion available to the company immediately and an additional $1 billion coming from existing investor ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
+   "source": "YourStory",
+   "label": "India · Other",
+   "snippet": "IIT Madras aims to have around 1,000 startups under its fold by 2032, with at least one expected to go public every month, Director Prof V Kamakoti said. The institute has already incubated 583 startups with a combined valuation of Rs 83,000 crore.",
+   "lead": "IIT Madras targets 1,000 startups by 2032, eyes one IPO every month IIT Madras aims to have around 1,000 startups under its fold by 2032, with at least one expected to go public every month, Director Prof V Kamakoti said. The institute has already incubated 583 startups with a combined valuation of Rs 83,000 crore. Team YS 17243 Stories Saturday September 26, 2026 , 2 min Read IIT Madras aims to have around 1,000 startups under its ...",
+   "image": "https://images.yourstory.com/cs/2/a0bc5020250711f09884fb7189395d75/ArtificialintelligencetoEnhanceLanguageSkillsPresentationinBlueandPurple3DModernStyle-3-1746512587127.png",
    "why": [
     "IPO & Listing",
-    "Very large figure in headline (about $3,360M: round or valuation)"
+    "Very large figure in headline (about $8,737M: round or valuation)"
    ],
    "tags": [
-    "IPO & Listing",
-    "AI & Deeptech"
-   ],
-   "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "SEBI PMS Rules Expand Investment Options, Ease REIT Norms",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdWVZZUFKYVhHZUJkRUR6bS1IazVGX19zYnlWOGxfd0pUVkdhQTU3RTlVYkUzMEtia1ZrMmFHTkh3dmxPWDczMDlvRkxYb0xkU1M4T25IV1dTNzBya3JqaGJIRWtzWm9yRU04bzlhcG9tdEt1ak5lN3phb09KTHJxdHcxT0NyZDR2Tmc?oc=5",
-   "date": "2026-09-25",
-   "source": "urbanacres.in",
-   "label": "PMS",
-   "snippet": "SEBI PMS rules expand portfolio managers’ investment options and ease regulations for REITs, InvITs, FPIs and market settlements.",
-   "lead": "SEBI has approved new rules that widen the investment options available to portfolio managers while easing selected regulations for REITs, InvITs, foreign portfolio investors and market settlements. The changes could expand how professionally managed capital reaches listed securities, real-estate trusts and infrastructure assets, subject to the regulator’s prescribed limits and conditions. The Securities and Exchange Board of India has ...",
-   "image": "https://urbanacres.in/wp-content/uploads/2026/09/urban-acres-news-200122.png",
-   "why": [
-    "PMS news",
-    "Regulator: SEBI or RBI",
-    "Rule or framework change",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "PMS"
-   ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "MPC Poll | RBI seen raising rates by 25 bps, tracking Fed move",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSlR0QjBySmtDa1VQTnI3NURFVkU5UlRvbkhSY0M3OWtDSTYtRkxsVmdqRFhFYzA0QTJkUTBnMGVDbmxpTlN3N0dpLXZQbl9QSzdLY0VneEZ1TnUxT21sYmFkbHBLOFFGcndVUDl2UWxiRk1aVHg5SXYtTndzQnhsOGtQTFA0VG83N2lDdmJNMTNhU1ByTm1hTnFhRW9vbG5paWNIc2tnZU14U2Z1cHkyRy1icXdkeEdQenl4QXdmd3ZsQdIBxwFBVV95cUxOWDRuZHVmUnhhLWpBX1BYekhQdFdRR2ZfRllDWFVWeVQ1VVZ5NzVDR3YzQWk0YVEzd3NuMEpXa2dObmtZaUdIRFRQRXhhejZkcm1YaUhMRmpSUllWTHhqYUpTa3U3SXhwazNvUTFidTFreXBsZEg5YVRtaDA2NDR3QXVldE9kOTRfVHhKZU9rWVVrZlBYWXZkTVFLQ3MzcncwN0lnRE9sNUxxNGI1RzQ4MFozRGhXRm14YUpOZXBrMC01MFlVOW80?oc=5",
-   "date": "2026-09-25",
-   "source": "Moneycontrol.com",
-   "label": "Regulatory",
-   "snippet": "A Moneycontrol poll of 13 economists, treasury heads and fixed-income experts shows that the majority expect the MPC to hike the repo rate by 25 basis points to 5.5% while retaining inflation and growth estimates",
-   "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
-   "image": "https://images.moneycontrol.com/static-mcnews/2025/02/20250207043608_sanjay-malhotra4.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Global macro driver"
-   ],
-   "tags": [
-    "Regulatory"
+    "IPO & Listing"
    ],
    "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "Sebi approves depository receipts for REITs, InvITs; eases norms for analysts, vault managers",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaHRfTUFuNFdyNDFXSUlrV19HMUp3WGxPQWxPRHNGVjBud04tSVAxMVNuZEhtQ0ZfeWhFOUhNMGtvRVh1ZFk3d0QtQ2xhMlV4RndQMHpfN19vVFk4M3draHEtMWdoRVA4NTQyb1dMUDFpNVVGVWNSaVRNdlBKWEhFTHVZeEVrVDNPMkxmY0xfdHhxUUpSOWdyTEN4aXN1UEhwX0xUOVJNcWZJOTV3R3dSdW11WENUaTlaMkhYcVg1V3lGNG12dElETnZkRFJjc291Mnd5Ty1CYnN5SUdJX2JxdGJFSkw3ZElGZFFJ0gHrAUFVX3lxTE5odF9NQW40V3I0MVdJSWtXX0cxSndYbE9BbE9Ec0ZWMG53Ti1JUDExU25kSG1DRl95aEU5SE0wa29FWHVkWTd3RC1DbGEyVXhGd1Awel83X29UWTgzd2tocS0xZ2hFUDg1NDJvV0xQMWk1VUZVY1JpVE12UEpYSEVMdVl4RWtUM08yTGZjTF90eHFRSlI5Z3JMQ3hpc3VQSHBfTFQ5Uk1xZkk5NXdHd1J1bXVYQ1RpOVoySFhxWDVXeUY0bXZ0SUROdmREUmNzb3Uyd3lPLUJic3lJR0lfYnF0YkVKTDdkSUZkUUk?oc=5",
-   "date": "2026-09-25",
-   "source": "bfsi.economictimes.indiatimes.com",
-   "label": "REITs & InvITs",
-   "snippet": "Real Estate Investment Trusts: Sebi",
-   "lead": "We encourage you to review our Terms of Service , and Privacy Policy . By continuing, you agree to the Terms listed here. In case you want to opt out, please click \"Do Not Sell or Share My Personal Information\" link in the footer of this page. We won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or shared ...",
-   "image": "https://etimg.etb2bimg.com/thumb/msid-134475655,imgsize-141830,width-1200,height=627,overlay-etbfsi,resizemode-75/articles/sebi-approves-depository-receipts-for-reits-invits-eases-norms-for-analysts-vault-managers.jpg",
-   "why": [
-    "REIT / InvIT news",
-    "Regulator: SEBI or RBI",
-    "Rule or framework change",
-    "Also covered by 2 other outlet(s)"
-   ],
-   "tags": [
-    "REITs & InvITs"
-   ],
-   "rank": 9,
    "must_read": false
   },
   {
@@ -602,13 +580,127 @@
    "tags": [
     "Funding"
    ],
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 91,
+   "title": "RBI Seen RAISING Repo Rate By 25 Basis Points In October Policy Meet",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFM4LWcxZkpkVC1IZm1uTXd4c2xsQXR1Qnl1YXZWdU9xRXNBY01ZLWJOYVJDMkFJVjgwTW9CNTBhOHdObWlwOWZLRFRpd05VVU1iNE5RRE9xT2oxZWNXaGRDb0kxaFJBTk9Vbk4zY1FVYnhKSFpBSUwzUEttM0VsZGpoT2RTSmFnRV9iNTBqWkRrYm5ncVVwYnR6NkwzQXRETWFXUmVfTFp2ZlZHSzQ1bEU5RTA3QdIBuwFBVV95cUxNcEp2amxZaHZQSkNnSnpldm43Um1ueWk5V1o0NzlINndWTTU2QzZ1R3JsTUtEcFdKOVFYbkJvUFF0VWFBc1o0NDV2Z3g2MXc3c0czNlI5dFRCVkZ1VUVPcG96WDJ4Um95RkE2VnE4R3Ywc2FncHNKYkpCdHI3ekFvVFlDcjlUU3N0TXJSVHhSb3VQQ2x5enpLeFZHd1hfUXczLWVXQnBZM05jc3hDZVZMRWdEZlFVTTBKRGUw?oc=5",
+   "date": "2026-09-27",
+   "source": "Deccan Chronicle",
+   "label": "Regulatory",
+   "snippet": "According to SBI Research study till August 2026, the process of inflation getting generalized has already started: Reports",
+   "lead": "As Preferred Source MUMBAI: Rising inflation, spike in global crude oil prices, and rate tightening by global central banks have tilted the balance toward a rate hike by the RBI's Monetary Policy Committee (MPC) during its bi-monthly policy review from October 5 to 7. However, economists expect the rate hike cycle to be shallow with a total 50-75 basis points rate hike during the two October and December monetary policy meetings. At ...",
+   "image": "https://www.deccanchronicle.com/h-upload/2026/05/12/2040175-1888543-rbi-1.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
    "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 83,
+   "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+   "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+   "date": "2026-09-26",
+   "source": "TechCrunch Venture",
+   "label": "Global · AI & Deeptech",
+   "snippet": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+   "lead": "Nscale , a British neocloud, has secured $3.36 billion in financing ahead of its IPO later this year, the company announced on Friday. Structured as a convertible note, the massive funding round underscores the staggering capital required to build out AI data centers. Led by hedge fund Third Point, the new investment includes $2.36 billion available to the company immediately and an additional $1 billion coming from existing investor ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $3,360M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "AI & Deeptech"
+   ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 83,
+   "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+   "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+   "date": "2026-09-23",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+   "lead": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms Marina Temkin 2:56 PM PDT · September 22, 2026 Snorkel AI, a startup that helps AI labs and corporations build training datasets and simulated environments, has raised a $350 million Series E at a $3.5 billion valuation. The new round, which was led by Insight Partners and S32, valued the seven-year-old startup at nearly triple the $1.3 billion valuation it ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $3,500M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 8,
+   "priority": 80,
+   "title": "Reserve Bank of India (Local Area Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13708&Mode=0",
+   "date": "2026-09-22",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Reserve Bank of India (Local Area Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026 Please refer to Chapter – IX of Reserve Bank of India (Local Area Banks - Classification, Valuation, and Operation of Investment Portfolio) Directions, 2025, dated November 28, 2025 , on fair valuation of investments. In order to ensure clarity and uniform practices in the valuation of units of ...",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 8,
+   "priority": 80,
+   "title": "TRAI releases Telecom Consumer Protection (Thirteenth Amendment) Regulations, 2026",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313349",
+   "date": "2026-09-22",
+   "source": "PIB",
+   "label": "Technology & Telecom",
+   "snippet": "The Telecom Regulatory Authority of India (TRAI) today released the Telecom Consumer Protection (Thi",
+   "lead": "The Telecom Regulatory Authority of India (TRAI) today released the Telecom Consumer Protection (Thirteenth Amendment) Regulation, 2026. TRAI had released the draft Telecom Consumer Protection (Thirteenth Amendment) Regulations (TCPR), 2026 for consultation on its website on 07.04.2026. Since the implementation of TCPR (Twelfth Amendment), 2024, the Authority observed the limitation in the availability of Voice-and-SMS-only Special ...",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change"
+   ],
+   "tags": [
+    "Technology & Telecom"
+   ],
+   "rank": 14,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 7,
-   "priority": 88,
+   "priority": 78,
    "title": "Denmark to Introduce Work Permit Route for Indians",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DeDdRUVlFcWZsRGtlT1lkQmt3aG5FZGsyT2NEdGpCMEJRYmNPM1dxY1owNHhqQkNfNGlGTXMxSmwyUnZwd3ducElGQV9CWmI5TjBpR3lkcG9HeGxYRTZxc1R4ZDRrQ1MwZm9aakE3aVBqU2p1Ukl2cWVvb1hiT0k?oc=5",
    "date": "2026-09-24",
@@ -626,36 +718,13 @@
     "Work visa",
     "Denmark"
    ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 88,
-   "title": "Spain's 2-year citizenship shortcut for Latin Americans: myth vs. reality in 2026",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEVTcS14XzY3UkhXbE5nMkRtWmRpNWJoZFNHZzFvbEdZTUJ0NHhVU2xadXVLUE5nbkJKQlVzREtnaXV0d3RKU3JvRkpEZUNGYnNpanIzNzJvUWloejlqRlJQd1ZId1M4LU44M0s5N1dlWVRKdWFVVUZHRDB1Q2tMdkFFSHpLV3RTay1ITld1T1pRby1MbjNtVjNLNFl1VEFEckdTQzNLd2VCNDZ5bkZR?oc=5",
-   "date": "2026-09-22",
-   "source": "Latin Times",
-   "label": "Spain",
-   "snippet": "Latin Americans can seek Spanish citizenship after two years without giving up their passport. What's true, what's new, and what's driving 2026's surge.",
-   "lead": "A picture taken in Moscow on July 31, 2014, shows Russian, US, Spanish and British passports laying together with visa application forms. A new law requiring Russians to declare to the authorities if they have the citizenship of another country was set to go into effect that week. Photo credit should read -/AFP via Getty Images The Briefing: Citizens of Latin American countries can apply for Spanish nationality after just two years of ...",
-   "image": "https://d.latintimes.com/en/full/591832/passports-visa-application-forms.jpg",
-   "why": [
-    "Affects citizenship",
-    "Announces a change"
-   ],
-   "tags": [
-    "Citizenship",
-    "Spain"
-   ],
-   "rank": 12,
+   "rank": 15,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 10,
-   "priority": 83,
+   "score": 9,
+   "priority": 75,
    "title": "Cars24 expects to be eligible to file DRHP by Apr: CFO",
    "url": "https://yourstory.com/2026/09/cars24-expects-to-be-eligible-to-file-drhp-by-apr-cfo",
    "date": "2026-09-27",
@@ -671,58 +740,35 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 13,
+   "rank": 16,
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "From Ultraviolette Automotive To GalaxEye — Indian Startups Raised Over $203 Mn This Week",
-   "url": "https://inc42.com/buzz/from-ultraviolette-automotive-to-galaxeye-indian-startups-raised-over-203-mn-this-week/",
-   "date": "2026-09-26",
-   "source": "Inc42",
-   "label": "India · Mobility & EV",
-   "snippet": "Indian Startup Funding: Indian startups raised a combined $203.4 Mn across 21 deals between September 21 and September 25",
-   "lead": "Indian startups raised a combined $203.4 Mn across 21 deals between September 21 and September 25 AI emerged as the most funded sector this week, with five AI startups raising a cumulative $89.3 Mn Early stage funding activity remained strong this week as seed-stage startups raised $20.3 Mn across five deals",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Social-100-4.jpg",
-   "why": [
-    "Funding",
-    "Large deal (about $203M)"
-   ],
-   "tags": [
-    "Funding",
-    "Mobility & EV"
-   ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 75,
-   "title": "UPDATE: Swiss parliament rejects move for simplified citizenship process",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQem5lbkpfNnR4dHNTNXZLcVFjMDB5RVdEVDdLY0QwQjlLWWxGdTRUVUlWLTlHMUhjc3hsX3pMZVNIdVlLcTZHcGdXTkRFOEUtaXhrbTJzSzEycmE1RnVYa25MRDQtUjc0SGprbG9PYk9ZV0VYRndGblA5dGVaLVVzOW94ckh3OUFQemF2ZXZmcXU0eVhFbUVWdGFuQkhUdHdEWVBveDVPaw?oc=5",
-   "date": "2026-09-25",
-   "source": "The Local Switzerland",
-   "label": "Switzerland",
-   "snippet": "Switzerland's parliament this week rejected a proposal for a simplified naturalisation procedure that argued the Swiss naturalisation period is too long compared to other states.",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source Switzerland's parliament this week rejected a proposal for a simplified naturalisation procedure that argued the Swiss naturalisation period is too long compared to other states. The Council of States vote, which ...",
+   "desk": "Policy",
+   "score": 7,
+   "priority": 70,
+   "title": "India-New Zealand FTA to Enter into Force from 20 October 2026",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313143",
+   "date": "2026-09-21",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "In a defining step forward for trade and economic partnership, the India–New Zealand Free Trade Agre",
+   "lead": "In a defining step forward for trade and economic partnership, the India–New Zealand Free Trade Agreement, is going to enter into force on 20 th October 2026. The FTA was signed on 27th April 2026 at Bharat Mandapam, New Delhi, by Union Minister of Commerce and Industry Shri Piyush Goyal and New Zealand’s Minister for Trade and Investment Hon. Todd McClay. Today, the Union Minister of Commerce and Industry Shri Piyush Goyal and New ...",
    "image": null,
    "why": [
-    "Affects citizenship"
+    "Trade agreement",
+    "Commerce"
    ],
    "tags": [
-    "Citizenship",
-    "Switzerland"
+    "Tax, Duties & Trade"
    ],
-   "rank": 15,
+   "rank": 17,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 6,
-   "priority": 75,
+   "priority": 67,
    "title": "Australia changes visa rules: New curbs for students, visitors and working holidaymakers - CNBC TV18",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWEpDYkR3TE5hRF9sc3AxWGw3bFN3TXd2dWwwVWdkSXdPOXY5aGpaQV9UZnNfd2ZIYks3cTFESTVFVUNrZGF4alV3X1IwcEhSNzVrdkd3ZDBibU5LU0dweWZXWGF5NmE3bXJQQVJNM3lTS3c3LUhsd3NON0VudnBkMVVreUNZRkhVMTdKYm1RSkQ3azQyMHdkMGppX1p4amlXYUVwNFZEQTFIbVlfRllYNEZGS1B1M3RR?oc=5",
    "date": "2026-09-22",
@@ -739,81 +785,13 @@
     "Student / Graduate",
     "Australia"
    ],
-   "rank": 16,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 75,
-   "title": "US visa delay: France and Germany Are Emerging as Preferred Choices for Indian Students",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQY21NZGVLZmRsVWgxOXVhMDlUTXZCQzBwWDRxRVZ2Qk9oNVRFUDdzTXhRNVlvUk92T0pseU9vS1FyUGJ5SFloMEo5UHZydDBTSlNtbkJ5bGl3Rkg2bzVTQnF6bk5PRl9jVllwRlFvYm9zSFd6WGJDc3RqZFhQemhuLXYtb0FjZVk4SmhKemNQT2RyUzVpTG1panhXYm9xTzNvSmUwdThrYkdla0pmV1ZxSVAtYVRCR2ZmUkMzVlYwVTZ0cmUzYjl3VlFDOEo0a1NSSXAtWkpQU2VZNjBWcGYtdGVzblNwX25NTHVPQ192UU9sc3fSAfgBQVVfeXFMT1hnTHNETTR6dDNiOG9tdGQzTzdNNURlMkxGTUtoQ3Z0OWR1SHJhSjR3R3dmQUVvVFRpVkpOdVQyckw4dml6b1hlRWx1WFlsc3ZiNlFkQWxZMGg3Q2VVMWpWY3VNOUVoMFFuZXV2bEJXbFdaVnRiOUlyeEVNRnoxYVNuVUh1UXpWLWdReUdweXllc0ZtYngxQlVNSGtnc2NWVUR6UWJvRDRRbTRfVm1mcHozS3FQQ0pGOGc0ZTZTQ2E2dS1fWVZoQ3NJWmJwTFB6WFBkbzhWdDY3cDlPb0V4T0xreHRIR2RzREowaXhCN01yOVk4X09YM3g?oc=5",
-   "date": "2026-09-20",
-   "source": "The Times of India",
-   "label": "France",
-   "snippet": "Amid uncertainty over visa processing delays in the US, France and Germany are emerging as preferred choices for Indian students.",
-   "lead": "Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
-   "image": "https://static.toiimg.com/thumb/msid-134374102,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "why": [
-    "Announces a change",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Student / Graduate",
-    "France"
-   ],
-   "rank": 17,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 73,
-   "title": "Reserve Bank of India (Local Area Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13708&Mode=0",
-   "date": "2026-09-22",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Local Area Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026 Please refer to Chapter – IX of Reserve Bank of India (Local Area Banks - Classification, Valuation, and Operation of Investment Portfolio) Directions, 2025, dated November 28, 2025 , on fair valuation of investments. In order to ensure clarity and uniform practices in the valuation of units of ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
    "rank": 18,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 8,
-   "priority": 73,
-   "title": "TRAI releases Telecom Consumer Protection (Thirteenth Amendment) Regulations, 2026",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313349",
-   "date": "2026-09-22",
-   "source": "PIB",
-   "label": "Technology & Telecom",
-   "snippet": "The Telecom Regulatory Authority of India (TRAI) today released the Telecom Consumer Protection (Thi",
-   "lead": "The Telecom Regulatory Authority of India (TRAI) today released the Telecom Consumer Protection (Thirteenth Amendment) Regulation, 2026. TRAI had released the draft Telecom Consumer Protection (Thirteenth Amendment) Regulations (TCPR), 2026 for consultation on its website on 07.04.2026. Since the implementation of TCPR (Twelfth Amendment), 2024, the Authority observed the limitation in the availability of Voice-and-SMS-only Special ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change"
-   ],
-   "tags": [
-    "Technology & Telecom"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 7,
-   "priority": 64,
+   "score": 6,
+   "priority": 60,
    "title": "PLI Scheme for Bulk Drugs for Resilient Pharmaceutical Supply Chain",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2314891",
    "date": "2026-09-25",
@@ -828,35 +806,57 @@
    "tags": [
     "Agriculture & Food"
    ],
-   "rank": 20,
+   "rank": 19,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 7,
-   "priority": 64,
-   "title": "India-New Zealand FTA to Enter into Force from 20 October 2026",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313143",
-   "date": "2026-09-21",
-   "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "In a defining step forward for trade and economic partnership, the India–New Zealand Free Trade Agre",
-   "lead": "In a defining step forward for trade and economic partnership, the India–New Zealand Free Trade Agreement, is going to enter into force on 20 th October 2026. The FTA was signed on 27th April 2026 at Bharat Mandapam, New Delhi, by Union Minister of Commerce and Industry Shri Piyush Goyal and New Zealand’s Minister for Trade and Investment Hon. Todd McClay. Today, the Union Minister of Commerce and Industry Shri Piyush Goyal and New ...",
+   "score": 6,
+   "priority": 60,
+   "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63649",
+   "date": "2026-09-23",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "",
    "image": null,
    "why": [
-    "Trade agreement",
-    "Commerce"
+    "New law or act",
+    "Regulator: RBI"
    ],
    "tags": [
-    "Tax, Duties & Trade"
+    "Banking & Rates"
+   ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 5,
+   "priority": 56,
+   "title": "UPDATE: Swiss parliament rejects move for simplified citizenship process",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQem5lbkpfNnR4dHNTNXZLcVFjMDB5RVdEVDdLY0QwQjlLWWxGdTRUVUlWLTlHMUhjc3hsX3pMZVNIdVlLcTZHcGdXTkRFOEUtaXhrbTJzSzEycmE1RnVYa25MRDQtUjc0SGprbG9PYk9ZV0VYRndGblA5dGVaLVVzOW94ckh3OUFQemF2ZXZmcXU0eVhFbUVWdGFuQkhUdHdEWVBveDVPaw?oc=5",
+   "date": "2026-09-25",
+   "source": "The Local Switzerland",
+   "label": "Switzerland",
+   "snippet": "Switzerland's parliament this week rejected a proposal for a simplified naturalisation procedure that argued the Swiss naturalisation period is too long compared to other states.",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source Switzerland's parliament this week rejected a proposal for a simplified naturalisation procedure that argued the Swiss naturalisation period is too long compared to other states. The Council of States vote, which ...",
+   "image": null,
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "Switzerland"
    ],
    "rank": 21,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 6,
-   "priority": 55,
+   "score": 5,
+   "priority": 50,
    "title": "Government’s Borrowing Plan for the second half of FY 2026-27",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2315024",
    "date": "2026-09-25",
@@ -876,22 +876,23 @@
    "must_read": false
   },
   {
-   "desk": "Policy",
-   "score": 6,
-   "priority": 55,
-   "title": "Flash Report on Central Sector Infrastructure Projects worth ₹150 crore and above",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2314852",
-   "date": "2026-09-25",
-   "source": "PIB",
-   "label": "Banking & Rates",
-   "snippet": "The Ministry of Statistics and Programme Implementation (MoSPI) continues to strengthen monitoring o",
-   "lead": "The Ministry of Statistics and Programme Implementation (MoSPI) continues to strengthen monitoring of Central Sector infrastructure projects through its PAIMANA platform, enabling improved tracking, timely reviews, and data-driven decision-making across Ministries. The portal tracks 1,731 Infrastructure Projects worth of ₹33.60 lakh crore as of August 2026. 3. Sector-wise (as per DEA’s Harmonized Master List of Infrastructure) Progress ...",
+   "desk": "Immigration",
+   "score": 4,
+   "priority": 44,
+   "title": "Belgian passport drops two spots in global ranking for visa-free destinations",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPODRNRkcxbkhUOWVZNW1tcVk3OFZMemozZU5JQ0lKd19ldHlXazk5eVlCX01vR3BjbEI5REVfRGlYZHEtYmZFVklaMS1iTHNKWjEtSk95VDFsUmJfckhpX2FDOERVYVVoTHl6eS1XdzJSMFFWcGt1MDdRR3BYa3ZNOVlwM1pjOVpZVWd0cG84WGNuUDlwQlJ0ejBfaXJMZmt4TTVoY3FPdmdFOEJseTNWYkh1Nm5mSHpQMmt3R0N6WG4?oc=5",
+   "date": "2026-09-23",
+   "source": "The Brussels Times",
+   "label": "Belgium",
+   "snippet": "",
+   "lead": "",
    "image": null,
    "why": [
-    "Rates and liquidity"
+    "Affects citizenship"
    ],
    "tags": [
-    "Banking & Rates"
+    "Citizenship",
+    "Belgium"
    ],
    "rank": 23,
    "must_read": false
