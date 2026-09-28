@@ -1,6 +1,6 @@
 {
  "edition": "2026-09-28",
- "built": "2026-09-28 11:19 IST",
+ "built": "2026-09-28 23:48 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,44 +12,44 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22817.0,
-   "change_pct": -1.4,
-   "asof": "28 Sep 11:19 IST"
+   "value": 22780.0,
+   "change_pct": -1.56,
+   "asof": "28 Sep 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72898.0,
-   "change_pct": -1.35,
-   "asof": "28 Sep 11:04 IST"
+   "value": 72772.0,
+   "change_pct": -1.52,
+   "asof": "28 Sep 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.96,
-   "change_pct": -0.21,
-   "asof": "28 Sep 11:19 IST"
+   "value": 95.97,
+   "change_pct": -0.2,
+   "asof": "28 Sep 23:22 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 99.24,
-   "change_pct": -4.87,
-   "asof": "28 Sep 11:09 IST"
+   "value": 97.61,
+   "change_pct": -6.43,
+   "asof": "28 Sep 23:38 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4217.0,
-   "change_pct": -2.42,
-   "asof": "28 Sep 11:09 IST"
+   "value": 4168.0,
+   "change_pct": -3.53,
+   "asof": "28 Sep 23:38 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.18,
-   "change_pct": 0.43,
-   "asof": "26 Sep 00:29 IST"
+   "value": 5.23,
+   "change_pct": 0.81,
+   "asof": "28 Sep 23:33 IST"
   }
  ],
  "features": {
@@ -79,185 +79,203 @@
  },
  "desks": {
   "Policy": {
-   "total": 74,
-   "new_today": 0,
+   "total": 81,
+   "new_today": 7,
    "items": [
     {
      "desk": "Policy",
-     "score": 5,
-     "priority": 50,
-     "title": "Flash Report on Central Sector Infrastructure Projects worth ₹150 crore and above",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2314852",
-     "date": "2026-09-25",
-     "source": "PIB",
-     "label": "Banking & Rates",
-     "snippet": "The Ministry of Statistics and Programme Implementation (MoSPI) continues to strengthen monitoring o",
-     "lead": "The Ministry of Statistics and Programme Implementation (MoSPI) continues to strengthen monitoring of Central Sector infrastructure projects through its PAIMANA platform, enabling improved tracking, timely reviews, and data-driven decision-making across Ministries. The portal tracks 1,731 Infrastructure Projects worth of ₹33.60 lakh crore as of August 2026. 3. Sector-wise (as per DEA’s Harmonized Master List of Infrastructure) Progress ...",
-     "image": null,
-     "why": [
-      "Rates and liquidity"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 5,
-     "priority": 50,
-     "title": "WMA Limit for Government of India for October 2026 – March 2027",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63670",
-     "date": "2026-09-25",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "The Reserve Bank of India, in consultation with the Government of India, has decided that the limit for Ways and Means Advances (WMA) for the second half of the financial year 2026-27 (October 2026 to March 2027) will be ₹50,000 crore. The Reserve Bank of India may trigger fresh floatation of market loans when the Government of India utilises 75 per cent of the WMA limit. The Reserve Bank of India, in consultation with the Government ...",
-     "image": null,
-     "why": [
-      "Regulator: RBI",
-      "Large outlay (Rs 10,000 Cr or more)"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 5,
-     "priority": 50,
-     "title": "Underwriting Auction for sale of Government Security for ₹34,000 crore on September 25, 2026",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63655",
-     "date": "2026-09-24",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "Government of India has announced the sale (re-issue) of Government Security, as detailed below, through auction to be held on September 25, 2026 (Friday) . As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
-     "image": null,
-     "why": [
-      "Regulator: RBI",
-      "Large outlay (Rs 10,000 Cr or more)"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 5,
-     "priority": 50,
-     "title": "Exim Bank’s GOI-supported Line of Credit (LOC) for ₹ 4,850 crores the Government of Maldives, for financing various developmental projects in Maldives",
-     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13712&Mode=0",
+     "score": 6,
+     "priority": 60,
+     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63649",
      "date": "2026-09-23",
      "source": "RBI",
      "label": "Banking & Rates",
-     "snippet": "Notifications - Reserve Bank of India",
-     "lead": "Exim Bank’s GOI-supported Line of Credit (LOC) for ₹ 4,850 crores the Government of Maldives, for financing various developmental projects in Maldives Export-Import Bank of India (Exim Bank) has entered into an agreement dated July 25, 2025, with the Government of the Republic of Maldives, for making available to the latter, Government of India supported Line of Credit (LoC) of ₹ 4,850 crores (Rupees Four Thousand Eight Hundred and ...",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "",
      "image": null,
      "why": [
-      "Touches financial markets",
+      "New law or act",
       "Regulator: RBI"
      ],
      "tags": [
       "Banking & Rates"
      ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 50,
+     "title": "Honble Union Minister for Fisheries Animal Husbandry and Dairying & Panchayatiraj Shri Rajiv Ranjan Singh alias Lalan Singh launched Live Stock insurance portal",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316242",
+     "date": "2026-09-28",
+     "source": "PIB",
+     "label": "Markets & Regulation",
+     "snippet": "The Department of Animal Husbandry & Dairying (DAHD), Ministry of Fisheries, Animal Husbandry & Dair",
+     "lead": "The Department of Animal Husbandry & Dairying (DAHD), Ministry of Fisheries, Animal Husbandry & Dairying, Government of India, today launched the Livestock Insurance Portal ( https://rashtriyapashubima.dahd.gov.in ) , a comprehensive digital platform aimed at transforming livestock insurance delivery across the country under the Livestock Insurance activity of National Livestock Mission (NLM). The Portal was launched by Shri Rajiv ...",
+     "image": null,
+     "why": [
+      "Touches financial markets"
+     ],
+     "tags": [
+      "Markets & Regulation"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 50,
+     "title": "Indian Railways Approves ₹223 Crore for Kavach 4.0 on 614.75 Route Kilometres of Varanasi Division",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316065",
+     "date": "2026-09-28",
+     "source": "PIB",
+     "label": "Infrastructure & Transport",
+     "snippet": "In a significant step towards strengthening railway safety through indigenous technology, Indian Rai",
+     "lead": "In a significant step towards strengthening railway safety through indigenous technology, Indian Railways has approved the provision of Kavach Version 4.0 on 614.75 Route Kilometres of Varanasi (BSB) Division of North Eastern Railway at a total cost of ₹223 crore. The approved project will extend Kavach 4.0 coverage across the identified balance sections of Varanasi Division, strengthening the safety infrastructure available for train ...",
+     "image": null,
+     "why": [
+      "High on the desk's ranking"
+     ],
+     "tags": [
+      "Infrastructure & Transport"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 50,
+     "title": "Government’s Borrowing Plan for the second half of FY 2026-27",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2315024",
+     "date": "2026-09-25",
+     "source": "PIB",
+     "label": "Budget & Fiscal",
+     "snippet": "The Government of India, in consultation with the Reserve Bank of India (RBI), has decided to borrow",
+     "lead": "The Government of India, in consultation with the Reserve Bank of India (RBI), has decided to borrow ₹7,86,000 crore in the second half (H2) of FY 2026-27. This includes Sovereign Green Bonds (SGrBs) issuance of ₹15,000 crore During FY 2026-27, Government of India is expected to have Market Borrowing of ₹15,99,506 crore through dated securities, as compared to Budget Estimates of ₹17,20,000 crore for FY 2026-27. The gross market ...",
+     "image": null,
+     "why": [
+      "Ministry of Finance",
+      "Large outlay (Rs 10,000 Cr or more)"
+     ],
+     "tags": [
+      "Budget & Fiscal"
+     ]
     }
    ]
   },
   "Startups": {
-   "total": 236,
-   "new_today": 5,
+   "total": 264,
+   "new_today": 33,
    "items": [
     {
      "desk": "Startups",
-     "score": 9,
-     "priority": 75,
-     "title": "From Ultraviolette Automotive To GalaxEye — Indian Startups Raised Over $203 Mn This Week",
-     "url": "https://inc42.com/buzz/from-ultraviolette-automotive-to-galaxeye-indian-startups-raised-over-203-mn-this-week/",
-     "date": "2026-09-26",
-     "source": "Inc42",
-     "label": "India · Mobility & EV",
-     "snippet": "Indian Startup Funding: Indian startups raised a combined $203.4 Mn across 21 deals between September 21 and September 25",
-     "lead": "Indian startups raised a combined $203.4 Mn across 21 deals between September 21 and September 25 AI emerged as the most funded sector this week, with five AI startups raising a cumulative $89.3 Mn Early stage funding activity remained strong this week as seed-stage startups raised $20.3 Mn across five deals",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Social-100-4.jpg",
+     "score": 11,
+     "priority": 92,
+     "title": "Indian founders account for $560B unicorn valuation overseas: report",
+     "url": "https://yourstory.com/2026/09/indian-founders-account-for-560-billion-unicorn-valuation-overseas-report",
+     "date": "2026-09-22",
+     "source": "YourStory",
+     "label": "India · Other",
+     "snippet": "The Diaspora Index by Prosus and Dealroom reveals the deep inroads by Indians founding companies overseas",
+     "lead": "Indian founders account for $560B unicorn valuation overseas: report The Diaspora Index by Prosus and Dealroom reveals the deep inroads by Indians founding companies overseas Press Trust of India 11162 Stories Tuesday September 22, 2026 , 2 min Read Founders who grew up in India account for $560 billion of founder-share-attributed company value in current and former unicorns abroad, according to the new Indian Diaspora Index from ...",
+     "image": "https://images.yourstory.com/cs/2/77e43870d62911eaa8e9879653a67226/Unicorn1560412396832-1614344784053.png",
      "why": [
       "Funding",
-      "Large deal (about $203M)"
+      "Very large figure in headline (about $560,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
      ],
      "tags": [
-      "Funding",
-      "Mobility & EV"
+      "Funding"
      ]
     },
     {
      "desk": "Startups",
-     "score": 9,
-     "priority": 75,
-     "title": "SK Hynix's Solidigm weighs IPO that could value the unit at up to $150 billion: Report",
-     "url": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-solidigm-weighs-ipo-that-could-value-the-unit-at-up-to-150-billion-report/articleshow/134489719.cms",
-     "date": "2026-09-25",
-     "source": "ET Startups",
-     "label": "Global · Fintech",
-     "snippet": "Solidigm held pitch meetings this week with investment banks competing for roles on the IPO, in a process known as a \"bake-off,\" one of the people and a fourth person said, marking a concrete step toward what could become the largest-ever US semiconductor listing.",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-130480,resizemode-75,msid-134489719/tech/technology/sk-hynixs-solidigm-weighs-ipo-that-could-value-the-unit-at-up-to-150-billion-report.jpg",
+     "score": 10,
+     "priority": 83,
+     "title": "Tonbo Imaging gets SEBI approval for IPO",
+     "url": "https://yourstory.com/2026/09/tonbo-imaging-gets-sebi-approval-for-ipo",
+     "date": "2026-09-28",
+     "source": "YourStory",
+     "label": "India · Policy & Regulation",
+     "snippet": "The defence electronics maker has received SEBI approval for an IPO comprising an OFS of up to 18.09 million shares.",
+     "lead": "Tonbo Imaging gets SEBI approval for IPO The defence electronics maker has received SEBI approval for an IPO comprising an OFS of up to 18.09 million shares. Team YS 17252 Stories Monday September 28, 2026 , 2 min Read Tonbo Imaging India, a defence electronics manufacturer, has received the approval from SEBI l for its initial public offering (IPO). The IPO will comprise of an offer for sale (OFS) of up to 18,085,246 equity shares of ...",
+     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imageq2wc-1759136869668.jpg",
      "why": [
       "IPO & Listing",
-      "Very large figure in headline (about $150,000M: round or valuation)"
+      "Valuation, listing or profitability signal"
      ],
      "tags": [
       "IPO & Listing",
-      "Fintech"
+      "Policy & Regulation"
      ]
     },
     {
      "desk": "Startups",
-     "score": 9,
-     "priority": 75,
-     "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-     "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-     "date": "2026-09-25",
+     "score": 10,
+     "priority": 83,
+     "title": "Maritime intelligence startup Quartermaster raises another $140M",
+     "url": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/",
+     "date": "2026-09-28",
      "source": "TechCrunch",
-     "label": "India · AI & Deeptech",
-     "snippet": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-     "lead": "Lightspeed targets $250M for new India fund, focusing on early-stage AI Jagmeet Singh 10:00 PM PDT · September 24, 2026 Lightspeed is sharpening its India strategy around AI, targeting $250 million for a new early-stage fund as the venture firm bets the technology will drive the next wave of startups in one of the world’s largest markets. The Silicon Valley venture firm is already a major investor in AI companies including Anthropic , ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200",
+     "label": "Global · Other",
+     "snippet": "The tech enables real-time awareness for what Quartermaster calls the “largest blind spot on Earth.”",
+     "lead": "Maritime intelligence startup Quartermaster raises another $140M Sean O'Kane 6:00 AM PDT · September 28, 2026 Arlington, Virginia-based startup Quartermaster in May closed a $43 million Series A around its idea of using weather-hardened sensors to capture data and generate insights about maritime activity. That idea has proven popular, because Quartermaster has already closed a much larger Series B, bringing in $140 million this time. ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/09/quartermaster-smartmast-2.jpg?resize=1200,715",
      "why": [
       "Funding",
-      "Large deal (about $250M)",
-      "Also covered by 1 other outlet(s)"
+      "Large deal (about $140M)"
      ],
      "tags": [
-      "Funding",
-      "AI & Deeptech"
+      "Funding"
      ]
     },
     {
      "desk": "Startups",
-     "score": 9,
-     "priority": 75,
-     "title": "Amazon India To Invest $3 Bn In Quick Commerce Arm By 2030: Report",
-     "url": "https://inc42.com/buzz/amazon-india-to-invest-3-bn-in-quick-commerce-arm-by-2030-report/",
-     "date": "2026-09-25",
-     "source": "Inc42",
-     "label": "India · Commerce & D2C",
-     "snippet": "Amazon India plans to invest $3 Bn to expand its quick commerce business, Amazon Now, over the course of next four years.",
-     "lead": "Sources said that the ecommerce giant will invest $1 Bn in the quick commerce vertical by the 2027-end, and an additional $2 Bn by 2030 Amazon is committing billions of dollars to build a large quick commerce network in India as it is trying to catch up with established players like Blinkit, Zepto and Instamart Amazon plans to use the capital to add new dark stores, strengthen its tech stack, deploy AI tools and expand product mix. It ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Amazon-Now-social.jpg",
+     "score": 10,
+     "priority": 83,
+     "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+     "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+     "date": "2026-09-26",
+     "source": "TechCrunch Venture",
+     "label": "Global · AI & Deeptech",
+     "snippet": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+     "lead": "Nscale , a British neocloud, has secured $3.36 billion in financing ahead of its IPO later this year, the company announced on Friday. Structured as a convertible note, the massive funding round underscores the staggering capital required to build out AI data centers. Led by hedge fund Third Point, the new investment includes $2.36 billion available to the company immediately and an additional $1 billion coming from existing investor ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
      "why": [
-      "Funding",
-      "Very large figure in headline (about $3,000M: round or valuation)"
+      "IPO & Listing",
+      "Very large figure in headline (about $3,360M: round or valuation)"
      ],
      "tags": [
-      "Funding",
-      "Commerce & D2C"
+      "IPO & Listing",
+      "AI & Deeptech"
      ]
     }
    ]
   },
   "Immigration": {
-   "total": 486,
-   "new_today": 3,
-   "items": []
+   "total": 495,
+   "new_today": 9,
+   "items": [
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 50,
+     "title": "UPDATE: Swiss parliament rejects move for simplified citizenship process",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQem5lbkpfNnR4dHNTNXZLcVFjMDB5RVdEVDdLY0QwQjlLWWxGdTRUVUlWLTlHMUhjc3hsX3pMZVNIdVlLcTZHcGdXTkRFOEUtaXhrbTJzSzEycmE1RnVYa25MRDQtUjc0SGprbG9PYk9ZV0VYRndGblA5dGVaLVVzOW94ckh3OUFQemF2ZXZmcXU0eVhFbUVWdGFuQkhUdHdEWVBveDVPaw?oc=5",
+     "date": "2026-09-25",
+     "source": "The Local Switzerland",
+     "label": "Switzerland",
+     "snippet": "Switzerland's parliament this week rejected a proposal for a simplified naturalisation procedure that argued the Swiss naturalisation period is too long compared to other states.",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source Switzerland's parliament this week rejected a proposal for a simplified naturalisation procedure that argued the Swiss naturalisation period is too long compared to other states. The Council of States vote, which ...",
+     "image": null,
+     "why": [
+      "Affects citizenship"
+     ],
+     "tags": [
+      "Citizenship",
+      "Switzerland"
+     ]
+    }
+   ]
   },
   "Advisory": {
    "total": 3000,
@@ -354,26 +372,72 @@
  },
  "items": [
   {
-   "desk": "Immigration",
-   "score": 9,
+   "desk": "Startups",
+   "score": 12,
    "priority": 100,
-   "title": "Spain announces 2-year fast-track citizenship route for citizens of 23 countries",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmp4cEdnWW9iaU9ER25YazZyck9OWDRyTnBwLU45SG9PTGJvVU9iaFNKN2NFa3dZMGNtXzhsSmVnR3BhWUZLMGhXYmRDaDNEeEd3SGFYYlhYYkhUS3dWYkdLSFY2N3NPMnpZVDAxTUhod3RFQlUzMU91Z2hteXVUandKWUdnb3dwNGdzMnlTMGZ4aVJFdnhTYzQyTjVjYXFEOXZPT3RQLUk?oc=5",
-   "date": "2026-09-27",
-   "source": "Yen.com.gh",
-   "label": "Spain",
-   "snippet": "Spain confirms 23 countries qualify for citizenship after two years’ legal residency, offering eligible nationals an advantage over the standard ten-year wait.",
-   "lead": "PAY ATTENTION: Mark YEN.com.gh as a preferred source, and our content will appear higher in your Google feed! Spain has opened a significantly shorter route to citizenship for nationals of 23 specific countries, requiring just two years of legal residency instead of the standard ten years that applies to most foreign nationals. Spain mentions 23 countries eligible for shorter residency route. Photo source: @sanchezcastejon, @magnific ...",
-   "image": "https://cdn.yen.com.gh/images/1200x675/021ad5279c637ed7.jpeg?v=1",
+   "title": "[Update] Moneyview IPO Closes With 98.46X Oversubscription",
+   "url": "https://inc42.com/buzz/moneyview-ipo-oversubscribed-31-41x-on-day-3-so-far/",
+   "date": "2026-09-28",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Moneyview’s ₹1,092 Cr IPO closed today with an oversubscription of 98.46X. Investors across categories placed bids for 2,289.52 Cr shares",
+   "lead": "Moneyview’s ₹1,092 Cr IPO closed today with an oversubscription of 98.46X. Investors across categories cumulatively placed bids for 2,289.52 Cr shares against 23.25 Cr shares on offer Qualified institutional buyers’ (QIBs) category picked up pace on the third day, with these investors oversubscribing the portion by 227.45X Moneyview’s ₹1,092 Cr IPO closed today with an oversubscription of 98.46X. Investors across categories ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Money-View-social-1.jpg",
    "why": [
-    "Affects citizenship",
+    "IPO & Listing",
+    "Large deal (about $115M)"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 100,
+   "title": "Edtech startup Arivihan raising Rs 96 Cr at Rs 570 Cr valuation",
+   "url": "https://startupstorymedia.com/edtech-startup-arivihan-raising-rs-96-cr-at-rs-570-cr-valuation/",
+   "date": "2026-09-28",
+   "source": "Startup Story",
+   "label": "India · AI & Deeptech",
+   "snippet": "AI Edtech startup Arivihan is set to raise Rs 95.86 crore or $10 million in a Series A round co-led by existing investors Accel and Prosus. This will be the",
+   "lead": "Meteor Venture | promoting potential startups to reach their zenith of success Nexus backed Blueshift raises $30M in Series C round led by Fort Ross Ventures, Avatar Growth Capital Edtech startup Doubtnut raises Rs 224 Cr in Series B round led by SIG, Lupa Systems",
+   "image": "https://startupstorymedia.com/wp-content/uploads/2026/09/Artboard-5-100-12.jpg",
+   "why": [
+    "Funding",
+    "Sizeable deal (about $60M)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 100,
+   "title": "UK to restart resettlement scheme, Shabana Mahmood tells Labour conference",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFhmRkhGamNjZnNyVDN4MFk2dE5UQ09rTnhiTHhFZW1MeExoVWhXNF9OS1ZBcE5KRi1velFSOVFYZ1lZZ1lvVUd2VER0YkJLazJ2bGRzbHFJMmNobzJhNE1lWndDaWlRemljeWpJM2p5bzIxb2pEZ2NrNlBSTUMyZ2w5WHA?oc=5",
+   "date": "2026-09-28",
+   "source": "Financial Times",
+   "label": "United Kingdom",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Affects permanent residence",
     "Announces a change"
    ],
    "tags": [
-    "Citizenship",
-    "Spain"
+    "PR / Settlement",
+    "United Kingdom"
    ],
-   "rank": 1,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -396,7 +460,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 2,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -420,7 +484,7 @@
    "tags": [
     "PMS"
    ],
-   "rank": 3,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -443,8 +507,8 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 4,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -467,8 +531,8 @@
    "tags": [
     "PMS"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 7,
+   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -491,7 +555,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 6,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -515,7 +579,52 @@
     "IPO & Listing",
     "Real Estate & Workspaces"
    ],
-   "rank": 7,
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 92,
+   "title": "Amazon India FY26 Report Card: Loss Balloons 48% YoY, Revenue Inches Closer To ₹40,000 Cr",
+   "url": "https://inc42.com/buzz/amazon-india-fy26-report-card-loss-balloons-48-yoy-revenue-inches-closer-to-%e2%82%b940000-cr/",
+   "date": "2026-09-28",
+   "source": "Inc42",
+   "label": "India · Commerce & D2C",
+   "snippet": "Amazon’s India seller services, retail and pay businesses' revenue continued to scale, cumulative losses magnified in the fiscal",
+   "lead": "Amazon’s India businesses delivered a mixed performance in FY26. While revenues of its seller services, retail and pay businesses continued to scale, cumulative losses magnified in the fiscal Amazon Retail’s loss weighed down the most, where it posted a 2.9X annual increase to ₹1,158.3 Cr in the year under review The company’s losses across all its business verticals in the fiscal year stood at ₹2,792.8 Cr, up 47.9% from ₹1,888.8 Cr ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/amazon-exports-social-1.png",
+   "why": [
+    "Financials",
+    "Very large figure in headline (about $4,211M: round or valuation)"
+   ],
+   "tags": [
+    "Financials",
+    "Commerce & D2C"
+   ],
+   "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 92,
+   "title": "[Update] AceVector IPO: Issue Subscribed 1.15X On Day 2",
+   "url": "https://inc42.com/buzz/snapdeal-parent-acevectors-ipo-subscribed-96-on-day-2-so-far/",
+   "date": "2026-09-28",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Till now, retail investors have been most bullish on the public float, oversubscribing their quota 1.11X",
+   "lead": "QIBs bid for 4.12 Cr shares, NIIs for 2.57 Cr and retail investors for 1.87 Cr; the IPO’s final demand data will be updated until 7 PM on the last day AceVector’s ₹420 Cr IPO ended the second day of bidding with full subscription. TIll now, investors have placed bids for 8.56 Cr shares against the 7.42 Cr shares on offer, translating to an oversubscription of 1.15X. Retail investors have shown the highest interest till date, ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/AceVector-SM.png",
+   "why": [
+    "IPO & Listing",
+    "Sizeable deal (about $44M)"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 11,
    "must_read": false
   },
   {
@@ -537,30 +646,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "Indian founders account for $560B unicorn valuation overseas: report",
-   "url": "https://yourstory.com/2026/09/indian-founders-account-for-560-billion-unicorn-valuation-overseas-report",
-   "date": "2026-09-22",
-   "source": "YourStory",
-   "label": "India · Other",
-   "snippet": "The Diaspora Index by Prosus and Dealroom reveals the deep inroads by Indians founding companies overseas",
-   "lead": "Indian founders account for $560B unicorn valuation overseas: report The Diaspora Index by Prosus and Dealroom reveals the deep inroads by Indians founding companies overseas Press Trust of India 11162 Stories Tuesday September 22, 2026 , 2 min Read Founders who grew up in India account for $560 billion of founder-share-attributed company value in current and former unicorns abroad, according to the new Indian Diaspora Index from ...",
-   "image": "https://images.yourstory.com/cs/2/77e43870d62911eaa8e9879653a67226/Unicorn1560412396832-1614344784053.png",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $560,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding"
-   ],
-   "rank": 9,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -582,54 +668,52 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 10,
+   "rank": 13,
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-   "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-   "date": "2026-09-26",
-   "source": "TechCrunch Venture",
-   "label": "Global · AI & Deeptech",
-   "snippet": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
-   "lead": "Nscale , a British neocloud, has secured $3.36 billion in financing ahead of its IPO later this year, the company announced on Friday. Structured as a convertible note, the massive funding round underscores the staggering capital required to build out AI data centers. Led by hedge fund Third Point, the new investment includes $2.36 billion available to the company immediately and an additional $1 billion coming from existing investor ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 90,
+   "title": "Spain announces 2-year fast-track citizenship route for citizens of 23 countries",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmp4cEdnWW9iaU9ER25YazZyck9OWDRyTnBwLU45SG9PTGJvVU9iaFNKN2NFa3dZMGNtXzhsSmVnR3BhWUZLMGhXYmRDaDNEeEd3SGFYYlhYYkhUS3dWYkdLSFY2N3NPMnpZVDAxTUhod3RFQlUzMU91Z2hteXVUandKWUdnb3dwNGdzMnlTMGZ4aVJFdnhTYzQyTjVjYXFEOXZPT3RQLUk?oc=5",
+   "date": "2026-09-27",
+   "source": "Yen.com.gh",
+   "label": "Spain",
+   "snippet": "Spain confirms 23 countries qualify for citizenship after two years’ legal residency, offering eligible nationals an advantage over the standard ten-year wait.",
+   "lead": "PAY ATTENTION: Mark YEN.com.gh as a preferred source, and our content will appear higher in your Google feed! Spain has opened a significantly shorter route to citizenship for nationals of 23 specific countries, requiring just two years of legal residency instead of the standard ten years that applies to most foreign nationals. Spain mentions 23 countries eligible for shorter residency route. Photo source: @sanchezcastejon, @magnific ...",
+   "image": "https://cdn.yen.com.gh/images/1200x675/021ad5279c637ed7.jpeg?v=1",
    "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $3,360M: round or valuation)"
+    "Affects citizenship",
+    "Announces a change"
    ],
    "tags": [
-    "IPO & Listing",
-    "AI & Deeptech"
+    "Citizenship",
+    "Spain"
    ],
-   "rank": 11,
+   "rank": 14,
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-   "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-   "date": "2026-09-23",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-   "lead": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms Marina Temkin 2:56 PM PDT · September 22, 2026 Snorkel AI, a startup that helps AI labs and corporations build training datasets and simulated environments, has raised a $350 million Series E at a $3.5 billion valuation. The new round, which was led by Insight Partners and S32, valued the seven-year-old startup at nearly triple the $1.3 billion valuation it ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686",
+   "desk": "Policy",
+   "score": 8,
+   "priority": 80,
+   "title": "Detailed Result: OMO Sale Auction held on Sep 28, 2026 and Settlement on Sep 29, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63680",
+   "date": "2026-09-28",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "",
+   "image": null,
    "why": [
-    "Funding",
-    "Very large figure in headline (about $3,500M: round or valuation)",
-    "Valuation, listing or profitability signal"
+    "Regulator: RBI",
+    "Large outlay (Rs 10,000 Cr or more)"
    ],
    "tags": [
-    "Funding",
-    "AI & Deeptech"
+    "Banking & Rates"
    ],
-   "rank": 12,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -652,7 +736,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 13,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -674,13 +758,35 @@
    "tags": [
     "Technology & Telecom"
    ],
-   "rank": 14,
+   "rank": 17,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 7,
+   "priority": 70,
+   "title": "CBDT extends due date for furnishing Return of Income for AY 2026-27 from 31st October, 2026 to 21st November, 2026 in respect of persons subject to audit under the Income-tax Act, 1961",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316050",
+   "date": "2026-09-28",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "The due date for furnishing Return of Income for Assessment Year 2026-27 is 31st October, 2026 in th",
+   "lead": "The due date for furnishing Return of Income for Assessment Year 2026-27 is 31 st October, 2026 in the case of persons mentioned at Serial No. 2 in the Table below Explanation 2 to sub-section (1) of section 139 of the Income-tax Act, 1961. The Central Board of Direct Taxes (CBDT) has extended the aforesaid due date of furnishing of Return of Income from 31 st October, 2026 to 21 st November, 2026 . Accordingly, the 'specified date' ...",
+   "image": null,
+   "why": [
+    "Rule change",
+    "Ministry of Finance"
+   ],
+   "tags": [
+    "Tax, Duties & Trade"
+   ],
+   "rank": 18,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 7,
-   "priority": 78,
+   "priority": 70,
    "title": "Denmark to Introduce Work Permit Route for Indians",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DeDdRUVlFcWZsRGtlT1lkQmt3aG5FZGsyT2NEdGpCMEJRYmNPM1dxY1owNHhqQkNfNGlGTXMxSmwyUnZwd3ducElGQV9CWmI5TjBpR3lkcG9HeGxYRTZxc1R4ZDRrQ1MwZm9aakE3aVBqU2p1Ukl2cWVvb1hiT0k?oc=5",
    "date": "2026-09-24",
@@ -698,29 +804,7 @@
     "Work visa",
     "Denmark"
    ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 9,
-   "priority": 75,
-   "title": "Cars24 expects to be eligible to file DRHP by Apr: CFO",
-   "url": "https://yourstory.com/2026/09/cars24-expects-to-be-eligible-to-file-drhp-by-apr-cfo",
-   "date": "2026-09-27",
-   "source": "YourStory",
-   "label": "India · Other",
-   "snippet": "Cars24's last funding round was in 2022 at a $3.3 billion post-money valuation. CFO said the company has not raised fresh capital since then as it has not required additional funding.",
-   "lead": "Cars24 expects to be eligible to file DRHP by Apr: CFO Cars24's last funding round was in 2022 at a $3.3 billion post-money valuation. CFO said the company has not raised fresh capital since then as it has not required additional funding. Press Trust of India 11174 Stories Sunday September 27, 2026 , 4 min Read Cars24 expects to be eligible to file its draft red herring prospectus (DRHP) by April after completing its reverse flip from ...",
-   "image": "https://images.yourstory.com/cs/286/07f6d7f0ed8e11ed819979969b4b51e2/AINews5-1786438473173.jpg",
-   "why": [
-    "IPO & Listing",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 16,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -742,30 +826,28 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 17,
+   "rank": 20,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 6,
-   "priority": 67,
-   "title": "Australia changes visa rules: New curbs for students, visitors and working holidaymakers - CNBC TV18",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWEpDYkR3TE5hRF9sc3AxWGw3bFN3TXd2dWwwVWdkSXdPOXY5aGpaQV9UZnNfd2ZIYks3cTFESTVFVUNrZGF4alV3X1IwcEhSNzVrdkd3ZDBibU5LU0dweWZXWGF5NmE3bXJQQVJNM3lTS3c3LUhsd3NON0VudnBkMVVreUNZRkhVMTdKYm1RSkQ3azQyMHdkMGppX1p4amlXYUVwNFZEQTFIbVlfRllYNEZGS1B1M3RR?oc=5",
-   "date": "2026-09-22",
-   "source": "LinkedIn",
-   "label": "Australia",
-   "snippet": "Australia is tightening visa rules across student, visitor, skilled and Working Holiday Maker categories.\n\n📋 The changes are aimed at maintaining migration system integrity while meeting the government’s Budget forecasts.\n\n✍️ Anshul Majumdar breaks down the latest changes and what they mean for visa applicants.\n\nhttps://lnkd.in/dN-NxyMt\n\n",
-   "lead": "Australia is tightening visa rules across student, visitor, skilled and Working Holiday Maker categories. 📋 The changes are aimed at maintaining migration system integrity while meeting the government’s Budget forecasts. ✍️ Anshul Majumdar breaks down the latest changes and what they mean for visa applicants. https://lnkd.in/dN-NxyMt #Australia #VisaRules #Immigration #Travel",
-   "image": "https://media.licdn.com/dms/image/sync/v2/D4D27AQHXZqVn_Iew3Q/articleshare-shrink_1280_800/B4DaDH5_oHKUAg-/0/1790060264264?e=2147483647&v=beta&t=5iHrRqmXu40fWp9q3I623CzM4pZT5Zdh9Tmor_d3jVE",
+   "priority": 60,
+   "title": "Japan’s Takaichi Touts Sweeping Changes in Immigration Rules",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3FIRThJUDh5eXd2bFJvLUtiZE8xLU1pMGdrN1I1VHJBMi0xejJSYzZlWW03My13MHZrb0dtTTU1YmpjSXU1eTVTU2dsTWRMVFZvd004LXR0ZS1xNDAteFk3cVRPTDIzc3NrNEw4U0NqWGxJU3pFb0F0Wl9kemVTZ3ZrVEVWaXJ6QXZyMVVMV0x2ZnZOTlI1N3ZEZmREcVVySldETG5TRjNuTGcwbmdSNQ?oc=5",
+   "date": "2026-09-28",
+   "source": "Bloomberg.com",
+   "label": "Japan",
+   "snippet": "",
+   "lead": "",
+   "image": null,
    "why": [
-    "Announces a change",
-    "Major story (11 headlines that day)"
+    "Announces a change"
    ],
    "tags": [
-    "Student / Graduate",
-    "Australia"
+    "Japan"
    ],
-   "rank": 18,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -786,93 +868,28 @@
    "tags": [
     "Agriculture & Food"
    ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 6,
-   "priority": 60,
-   "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63649",
-   "date": "2026-09-23",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "",
-   "image": null,
-   "why": [
-    "New law or act",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 5,
-   "priority": 56,
-   "title": "UPDATE: Swiss parliament rejects move for simplified citizenship process",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQem5lbkpfNnR4dHNTNXZLcVFjMDB5RVdEVDdLY0QwQjlLWWxGdTRUVUlWLTlHMUhjc3hsX3pMZVNIdVlLcTZHcGdXTkRFOEUtaXhrbTJzSzEycmE1RnVYa25MRDQtUjc0SGprbG9PYk9ZV0VYRndGblA5dGVaLVVzOW94ckh3OUFQemF2ZXZmcXU0eVhFbUVWdGFuQkhUdHdEWVBveDVPaw?oc=5",
-   "date": "2026-09-25",
-   "source": "The Local Switzerland",
-   "label": "Switzerland",
-   "snippet": "Switzerland's parliament this week rejected a proposal for a simplified naturalisation procedure that argued the Swiss naturalisation period is too long compared to other states.",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source Switzerland's parliament this week rejected a proposal for a simplified naturalisation procedure that argued the Swiss naturalisation period is too long compared to other states. The Council of States vote, which ...",
-   "image": null,
-   "why": [
-    "Affects citizenship"
-   ],
-   "tags": [
-    "Citizenship",
-    "Switzerland"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 5,
-   "priority": 50,
-   "title": "Government’s Borrowing Plan for the second half of FY 2026-27",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2315024",
-   "date": "2026-09-25",
-   "source": "PIB",
-   "label": "Budget & Fiscal",
-   "snippet": "The Government of India, in consultation with the Reserve Bank of India (RBI), has decided to borrow",
-   "lead": "The Government of India, in consultation with the Reserve Bank of India (RBI), has decided to borrow ₹7,86,000 crore in the second half (H2) of FY 2026-27. This includes Sovereign Green Bonds (SGrBs) issuance of ₹15,000 crore During FY 2026-27, Government of India is expected to have Market Borrowing of ₹15,99,506 crore through dated securities, as compared to Budget Estimates of ₹17,20,000 crore for FY 2026-27. The gross market ...",
-   "image": null,
-   "why": [
-    "Ministry of Finance",
-    "Large outlay (Rs 10,000 Cr or more)"
-   ],
-   "tags": [
-    "Budget & Fiscal"
-   ],
    "rank": 22,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 4,
-   "priority": 44,
-   "title": "Belgian passport drops two spots in global ranking for visa-free destinations",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPODRNRkcxbkhUOWVZNW1tcVk3OFZMemozZU5JQ0lKd19ldHlXazk5eVlCX01vR3BjbEI5REVfRGlYZHEtYmZFVklaMS1iTHNKWjEtSk95VDFsUmJfckhpX2FDOERVYVVoTHl6eS1XdzJSMFFWcGt1MDdRR3BYa3ZNOVlwM1pjOVpZVWd0cG84WGNuUDlwQlJ0ejBfaXJMZmt4TTVoY3FPdmdFOEJseTNWYkh1Nm5mSHpQMmt3R0N6WG4?oc=5",
-   "date": "2026-09-23",
-   "source": "The Brussels Times",
-   "label": "Belgium",
-   "snippet": "",
-   "lead": "",
-   "image": null,
+   "score": 6,
+   "priority": 60,
+   "title": "Australia changes visa rules: New curbs for students, visitors and working holidaymakers - CNBC TV18",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWEpDYkR3TE5hRF9sc3AxWGw3bFN3TXd2dWwwVWdkSXdPOXY5aGpaQV9UZnNfd2ZIYks3cTFESTVFVUNrZGF4alV3X1IwcEhSNzVrdkd3ZDBibU5LU0dweWZXWGF5NmE3bXJQQVJNM3lTS3c3LUhsd3NON0VudnBkMVVreUNZRkhVMTdKYm1RSkQ3azQyMHdkMGppX1p4amlXYUVwNFZEQTFIbVlfRllYNEZGS1B1M3RR?oc=5",
+   "date": "2026-09-22",
+   "source": "LinkedIn",
+   "label": "Australia",
+   "snippet": "Australia is tightening visa rules across student, visitor, skilled and Working Holiday Maker categories.\n\n📋 The changes are aimed at maintaining migration system integrity while meeting the government’s Budget forecasts.\n\n✍️ Anshul Majumdar breaks down the latest changes and what they mean for visa applicants.\n\nhttps://lnkd.in/dN-NxyMt\n\n",
+   "lead": "Australia is tightening visa rules across student, visitor, skilled and Working Holiday Maker categories. 📋 The changes are aimed at maintaining migration system integrity while meeting the government’s Budget forecasts. ✍️ Anshul Majumdar breaks down the latest changes and what they mean for visa applicants. https://lnkd.in/dN-NxyMt #Australia #VisaRules #Immigration #Travel",
+   "image": "https://media.licdn.com/dms/image/sync/v2/D4D27AQHXZqVn_Iew3Q/articleshare-shrink_1280_800/B4DaDH5_oHKUAg-/0/1790060264264?e=2147483647&v=beta&t=5iHrRqmXu40fWp9q3I623CzM4pZT5Zdh9Tmor_d3jVE",
    "why": [
-    "Affects citizenship"
+    "Announces a change",
+    "Major story (11 headlines that day)"
    ],
    "tags": [
-    "Citizenship",
-    "Belgium"
+    "Student / Graduate",
+    "Australia"
    ],
    "rank": 23,
    "must_read": false
