@@ -1,6 +1,6 @@
 {
  "edition": "2026-09-29",
- "built": "2026-09-29 08:17 IST",
+ "built": "2026-09-29 11:06 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22780.0,
-   "change_pct": -1.56,
-   "asof": "28 Sep 15:31 IST"
+   "value": 22594.0,
+   "change_pct": -0.82,
+   "asof": "29 Sep 11:06 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72772.0,
-   "change_pct": -1.52,
-   "asof": "28 Sep 15:32 IST"
+   "value": 72173.0,
+   "change_pct": -0.82,
+   "asof": "29 Sep 10:51 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.97,
-   "change_pct": 0.19,
-   "asof": "29 Sep 08:04 IST"
+   "value": 96.08,
+   "change_pct": 0.3,
+   "asof": "29 Sep 11:05 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 99.16,
-   "change_pct": -4.95,
-   "asof": "29 Sep 08:05 IST"
+   "value": 99.86,
+   "change_pct": -5.15,
+   "asof": "29 Sep 10:52 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4166.0,
-   "change_pct": -0.06,
-   "asof": "29 Sep 08:07 IST"
+   "value": 4162.0,
+   "change_pct": -0.14,
+   "asof": "29 Sep 10:56 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -164,9 +164,29 @@
    ]
   },
   "Startups": {
-   "total": 267,
-   "new_today": 3,
+   "total": 270,
+   "new_today": 6,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
+     "title": "[Update] AceVector IPO: Issue Subscribed 1.15X On Day 2",
+     "url": "https://inc42.com/buzz/snapdeal-parent-acevectors-ipo-subscribed-96-on-day-2-so-far/",
+     "date": "2026-09-28",
+     "source": "Inc42",
+     "label": "India · Other",
+     "snippet": "Till now, retail investors have been most bullish on the public float, oversubscribing their quota 1.11X",
+     "lead": "QIBs bid for 4.12 Cr shares, NIIs for 2.57 Cr and retail investors for 1.87 Cr; the IPO’s final demand data will be updated until 7 PM on the last day AceVector’s ₹420 Cr IPO ended the second day of bidding with full subscription. TIll now, investors have placed bids for 8.56 Cr shares against the 7.42 Cr shares on offer, translating to an oversubscription of 1.15X. Retail investors have shown the highest interest till date, ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/AceVector-SM.png",
+     "why": [
+      "IPO & Listing",
+      "Sizeable deal (about $44M)"
+     ],
+     "tags": [
+      "IPO & Listing"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -228,32 +248,11 @@
      "tags": [
       "Funding"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 75,
-     "title": "Tonbo Imaging gets SEBI approval for IPO",
-     "url": "https://yourstory.com/2026/09/tonbo-imaging-gets-sebi-approval-for-ipo",
-     "date": "2026-09-28",
-     "source": "YourStory",
-     "label": "India · Policy & Regulation",
-     "snippet": "The defence electronics maker has received SEBI approval for an IPO comprising an OFS of up to 18.09 million shares.",
-     "lead": "Tonbo Imaging gets SEBI approval for IPO The defence electronics maker has received SEBI approval for an IPO comprising an OFS of up to 18.09 million shares. Team YS 17252 Stories Monday September 28, 2026 , 2 min Read Tonbo Imaging India, a defence electronics manufacturer, has received the approval from SEBI l for its initial public offering (IPO). The IPO will comprise of an offer for sale (OFS) of up to 18,085,246 equity shares of ...",
-     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imageq2wc-1759136869668.jpg",
-     "why": [
-      "IPO & Listing",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "Policy & Regulation"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 497,
+   "total": 500,
    "new_today": 0,
    "items": [
     {
@@ -471,6 +470,29 @@
    "desk": "Startups",
    "score": 11,
    "priority": 92,
+   "title": "Physical AI startup SiMa.ai raises $150M in Series C",
+   "url": "https://yourstory.com/2026/09/physical-ai-startup-simaai-raises-150-million-series-c",
+   "date": "2026-09-29",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "SiMa.ai said it will use the funding for scaling its agentic AI platform and to build hardware products.",
+   "lead": "Physical AI startup SiMa.ai raises $150M in Series C SiMa.ai said it will use the funding for scaling its agentic AI platform and to build hardware products. Team YS 17255 Stories Tuesday September 29, 2026 , 2 min Read SiMa.ai, a physical AI startup founded by Krishna Rangasayee, has raised $150 million in a Series C round co-led by Fidelity Management & Research Company and Amplify, with participation from Alter Venture Partners and ...",
+   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imagearak-1658749095270.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $150M)"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 5,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 92,
    "title": "[Update] Moneyview IPO Closes With 98.46X Oversubscription",
    "url": "https://inc42.com/buzz/moneyview-ipo-oversubscribed-31-41x-on-day-3-so-far/",
    "date": "2026-09-28",
@@ -486,8 +508,8 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Startups",
@@ -510,7 +532,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -533,7 +555,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -556,7 +578,7 @@
    "tags": [
     "Funding"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -579,7 +601,7 @@
     "Citizenship",
     "Spain"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -602,7 +624,7 @@
    "tags": [
     "PMS"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -626,7 +648,7 @@
    "tags": [
     "PMS"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -650,7 +672,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 12,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -672,28 +694,6 @@
    "tags": [
     "Financials",
     "Commerce & D2C"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "[Update] AceVector IPO: Issue Subscribed 1.15X On Day 2",
-   "url": "https://inc42.com/buzz/snapdeal-parent-acevectors-ipo-subscribed-96-on-day-2-so-far/",
-   "date": "2026-09-28",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Till now, retail investors have been most bullish on the public float, oversubscribing their quota 1.11X",
-   "lead": "QIBs bid for 4.12 Cr shares, NIIs for 2.57 Cr and retail investors for 1.87 Cr; the IPO’s final demand data will be updated until 7 PM on the last day AceVector’s ₹420 Cr IPO ended the second day of bidding with full subscription. TIll now, investors have placed bids for 8.56 Cr shares against the 7.42 Cr shares on offer, translating to an oversubscription of 1.15X. Retail investors have shown the highest interest till date, ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/AceVector-SM.png",
-   "why": [
-    "IPO & Listing",
-    "Sizeable deal (about $44M)"
-   ],
-   "tags": [
-    "IPO & Listing"
    ],
    "rank": 14,
    "must_read": false
