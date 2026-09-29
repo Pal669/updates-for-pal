@@ -1,6 +1,6 @@
 {
  "edition": "2026-09-29",
- "built": "2026-09-29 03:48 IST",
+ "built": "2026-09-29 08:17 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,15 +12,15 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23140.0,
-   "change_pct": 0.34,
+   "value": 22780.0,
+   "change_pct": -1.56,
    "asof": "28 Sep 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73896.0,
-   "change_pct": 0.43,
+   "value": 72772.0,
+   "change_pct": -1.52,
    "asof": "28 Sep 15:32 IST"
   },
   {
@@ -28,21 +28,21 @@
    "dp": 2,
    "value": 95.97,
    "change_pct": 0.19,
-   "asof": "29 Sep 03:07 IST"
+   "asof": "29 Sep 08:04 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 98.61,
-   "change_pct": -5.47,
-   "asof": "29 Sep 03:37 IST"
+   "value": 99.16,
+   "change_pct": -4.95,
+   "asof": "29 Sep 08:05 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4155.0,
-   "change_pct": -3.86,
-   "asof": "29 Sep 03:38 IST"
+   "value": 4166.0,
+   "change_pct": -0.06,
+   "asof": "29 Sep 08:07 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -164,8 +164,8 @@
    ]
   },
   "Startups": {
-   "total": 264,
-   "new_today": 0,
+   "total": 267,
+   "new_today": 3,
    "items": [
     {
      "desk": "Startups",
@@ -213,6 +213,26 @@
      "desk": "Startups",
      "score": 9,
      "priority": 75,
+     "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+     "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+     "date": "2026-09-29",
+     "source": "TechCrunch",
+     "label": "India · Other",
+     "snippet": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+     "lead": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort Jagmeet Singh 5:30 PM PDT · September 28, 2026 Peak XV Partners, one of the largest venture capital firms investing in markets including India and Southeast Asia with more than $10 billion in assets under management, has increased how much it invests per startup through Surge, its seed-stage investing platform, as it unveils a new cohort of 18 companies. At ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/09/rajan-anandan.jpg?resize=1200,800",
+     "why": [
+      "Funding",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "Funding"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 75,
      "title": "Tonbo Imaging gets SEBI approval for IPO",
      "url": "https://yourstory.com/2026/09/tonbo-imaging-gets-sebi-approval-for-ipo",
      "date": "2026-09-28",
@@ -228,26 +248,6 @@
      "tags": [
       "IPO & Listing",
       "Policy & Regulation"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 75,
-     "title": "Maritime intelligence startup Quartermaster raises another $140M",
-     "url": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m/",
-     "date": "2026-09-28",
-     "source": "TechCrunch",
-     "label": "Global · Other",
-     "snippet": "The tech enables real-time awareness for what Quartermaster calls the “largest blind spot on Earth.”",
-     "lead": "Maritime intelligence startup Quartermaster raises another $140M Sean O'Kane 6:00 AM PDT · September 28, 2026 Arlington, Virginia-based startup Quartermaster in May closed a $43 million Series A around its idea of using weather-hardened sensors to capture data and generate insights about maritime activity. That idea has proven popular, because Quartermaster has already closed a much larger Series B, bringing in $140 million this time. ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/09/quartermaster-smartmast-2.jpg?resize=1200,715",
-     "why": [
-      "Funding",
-      "Large deal (about $140M)"
-     ],
-     "tags": [
-      "Funding"
      ]
     }
    ]
