@@ -1,6 +1,6 @@
 {
- "edition": "2026-09-29",
- "built": "2026-09-29 22:10 IST",
+ "edition": "2026-09-30",
+ "built": "2026-09-30 02:33 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,135 +12,76 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22716.0,
-   "change_pct": -0.28,
+   "value": 22780.0,
+   "change_pct": -1.56,
    "asof": "29 Sep 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72529.0,
-   "change_pct": -0.33,
+   "value": 72772.0,
+   "change_pct": -1.52,
    "asof": "29 Sep 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
    "value": 95.97,
-   "change_pct": 0.19,
-   "asof": "29 Sep 20:04 IST"
+   "change_pct": -0.01,
+   "asof": "30 Sep 02:08 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 96.88,
-   "change_pct": -7.98,
-   "asof": "29 Sep 22:00 IST"
+   "value": 95.7,
+   "change_pct": -9.1,
+   "asof": "30 Sep 02:22 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4186.0,
-   "change_pct": -3.14,
-   "asof": "29 Sep 22:00 IST"
+   "value": 4213.0,
+   "change_pct": -2.51,
+   "asof": "30 Sep 02:23 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.28,
-   "change_pct": 0.69,
-   "asof": "29 Sep 21:55 IST"
+   "value": 5.26,
+   "change_pct": 0.29,
+   "asof": "30 Sep 00:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "Kuku Technologies (Kuku FM)",
-   "tagline": "Audio and microdrama OTT, IPO cleared by SEBI",
-   "what": "Founded in 2018 by Lal Chand Bisu, Vikas Goyal and Vinod Meena. Offers audiobooks, podcasts and original audio shows under Kuku FM, plus microdrama platform Kuku TV and microlearning platform Guru. Content library of 20,000+ titles in seven languages; it claims 1 Cr+ listeners and creators and 400 Mn app downloads across its portfolio.",
+   "company": "DheyaTech",
+   "tagline": "Bengaluru aerospace propulsion startup",
+   "what": "Founded in 2018 by aerospace engineers Gurushankara KC, Abhinav Alva and Chetan Kumar. Develops small gas turbine engines (20 kgf to 400 kgf thrust) for aerial platforms and energy systems, with the design, assembly and testing pipeline and its engine control unit built in-house. Expanding into hydrogen-based technology and distributed power generation, including a 60 kW turbogenerator with a hydrogen flexi-fuel combustor developed with IISc.",
    "how": [
-    "The article does not explain the revenue model.",
-    "Not stated: whether income comes from subscriptions, pay-per-content or ads. Check the DRHP when it becomes public."
+    "Sells engines to OEMs: the company says it already has orders from Indian and global OEMs but did not disclose names or values.",
+    "Inferred: revenue is hardware sales; the article gives no pricing or revenue figures."
    ],
-   "watch": "Fresh-issue money is planned for tech, AI infrastructure, content production and geographic expansion. Competitors named: Pocket FM, Flick TV, ReelSaga, Miniplix and OTT majors (Amazon, JioHotstar, Zee5).",
-   "sector": "Media, Gaming & Creators",
+   "watch": "Pre-revenue-scale hardware: certification timelines and first commercial deliveries are the milestones to track. Article also notes rising investor interest in aerospace and spacetech (D-Propulse Rs 25 Cr in January; InspeCity Rs 100 Cr in August).",
+   "sector": "AI & Deeptech",
    "region": "India",
-   "url": "https://inc42.com/buzz/sebi-greenlights-kuku-technologies-%e2%82%b93500-cr-ipo/"
+   "url": "https://inc42.com/buzz/dheyatech-bags-%e2%82%b943-cr-to-scale-indigenous-gas-turbine-engines/"
   },
   "country": {
-   "id": "belgium",
-   "name": "Belgium",
-   "trend": "Tightening (citizenship conditions and fee)",
-   "pr": "Long-term residence after 5 years (general knowledge, not re-verified).",
-   "citizenship": "5 years of legal residence if you also show integration, including at least 468 days of work while under 10 years' residence; without strong integration ties the period extends to 10 years. A July 2025 law raised the fee from EUR 150 to EUR 1,000 (EUR 1,030 in 2026).",
-   "pro": "5-year citizenship route.",
-   "con": "Three regions with different thresholds and procedures.",
-   "watch": "2026 indexation in Flanders"
+   "id": "luxembourg",
+   "name": "Luxembourg",
+   "trend": "Stable",
+   "pr": "Blue Card time counts toward long-term residence: reported PR after 2 years for Blue Card holders versus 5 years for standard work permits. One source reports A2 spoken and B1 listening Luxembourgish for PR; verify on guichet.lu.",
+   "citizenship": "5 years of legal residence, a Luxembourgish language test at B1 spoken and listening, and a 'Living Together' course or exam. A Blue Card holder's fastest total is reported as about 7 years from arrival.",
+   "pro": "Very high salaries and a fund-industry centre closely matched to your career (general knowledge).",
+   "con": "Very small country (about 0.66 million people, general knowledge): this touches your logged size criterion. It was on your 38-country watch list but not yet decided.",
+   "watch": "Blue Card threshold indexation"
   }
  },
  "desks": {
   "Policy": {
    "total": 87,
-   "new_today": 6,
+   "new_today": 0,
    "items": [
-    {
-     "desk": "Policy",
-     "score": 6,
-     "priority": 60,
-     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63649",
-     "date": "2026-09-23",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "",
-     "image": null,
-     "why": [
-      "New law or act",
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 5,
-     "priority": 50,
-     "title": "Principal Controller of Communication Accounts releases schedule for Telecom Pensioners Jeevan Praman Camps across Delhi NCR for the month of October",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316460",
-     "date": "2026-09-29",
-     "source": "PIB",
-     "label": "Technology & Telecom",
-     "snippet": "Principal Controller of Communication Accounts, Department of Telecom (DoT) is organizing Telecom Pe",
-     "lead": "Principal Controller of Communication Accounts, Department of Telecom (DoT) is organizing Telecom Pensioners Jeevan Praman Camps during the month of October, 2026 in the premises O/o Pr. CCA Delhi, Delhi Sanchar Lekha Bhawan, Prasad Nagar, New Delhi-110005, Extn. Counter at Eastern Court Janpath, New Delhi and premises of MTNL at various locations across Delhi NCR for the convenience of Pensioners. Pensioners are requested to attend ...",
-     "image": null,
-     "why": [
-      "Rule change"
-     ],
-     "tags": [
-      "Technology & Telecom"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 5,
-     "priority": 50,
-     "title": "Government’s Borrowing Plan for the second half of FY 2026-27",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2315024",
-     "date": "2026-09-25",
-     "source": "PIB",
-     "label": "Budget & Fiscal",
-     "snippet": "The Government of India, in consultation with the Reserve Bank of India (RBI), has decided to borrow",
-     "lead": "The Government of India, in consultation with the Reserve Bank of India (RBI), has decided to borrow ₹7,86,000 crore in the second half (H2) of FY 2026-27. This includes Sovereign Green Bonds (SGrBs) issuance of ₹15,000 crore During FY 2026-27, Government of India is expected to have Market Borrowing of ₹15,99,506 crore through dated securities, as compared to Budget Estimates of ₹17,20,000 crore for FY 2026-27. The gross market ...",
-     "image": null,
-     "why": [
-      "Ministry of Finance",
-      "Large outlay (Rs 10,000 Cr or more)"
-     ],
-     "tags": [
-      "Budget & Fiscal"
-     ]
-    },
     {
      "desk": "Policy",
      "score": 5,
@@ -159,17 +100,77 @@
      "tags": [
       "Banking & Rates"
      ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 50,
+     "title": "WMA Limit for Government of India for October 2026 – March 2027",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63670",
+     "date": "2026-09-25",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "The Reserve Bank of India, in consultation with the Government of India, has decided that the limit for Ways and Means Advances (WMA) for the second half of the financial year 2026-27 (October 2026 to March 2027) will be ₹50,000 crore. The Reserve Bank of India may trigger fresh floatation of market loans when the Government of India utilises 75 per cent of the WMA limit. The Reserve Bank of India, in consultation with the Government ...",
+     "image": null,
+     "why": [
+      "Regulator: RBI",
+      "Large outlay (Rs 10,000 Cr or more)"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 50,
+     "title": "Underwriting Auction for sale of Government Security for ₹34,000 crore on September 25, 2026",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63655",
+     "date": "2026-09-24",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "Government of India has announced the sale (re-issue) of Government Security, as detailed below, through auction to be held on September 25, 2026 (Friday) . As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
+     "image": null,
+     "why": [
+      "Regulator: RBI",
+      "Large outlay (Rs 10,000 Cr or more)"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 50,
+     "title": "Exim Bank’s GOI-supported Line of Credit (LOC) for ₹ 4,850 crores the Government of Maldives, for financing various developmental projects in Maldives",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13712&Mode=0",
+     "date": "2026-09-23",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Notifications - Reserve Bank of India",
+     "lead": "Exim Bank’s GOI-supported Line of Credit (LOC) for ₹ 4,850 crores the Government of Maldives, for financing various developmental projects in Maldives Export-Import Bank of India (Exim Bank) has entered into an agreement dated July 25, 2025, with the Government of the Republic of Maldives, for making available to the latter, Government of India supported Line of Credit (LoC) of ₹ 4,850 crores (Rupees Four Thousand Eight Hundred and ...",
+     "image": null,
+     "why": [
+      "Touches financial markets",
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
     }
    ]
   },
   "Startups": {
-   "total": 295,
-   "new_today": 31,
+   "total": 297,
+   "new_today": 1,
    "items": [
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 92,
+     "score": 10,
+     "priority": 91,
      "title": "Edtech startup Arivihan raising Rs 96 Cr at Rs 570 Cr valuation",
      "url": "https://startupstorymedia.com/edtech-startup-arivihan-raising-rs-96-cr-at-rs-570-cr-valuation/",
      "date": "2026-09-28",
@@ -190,29 +191,50 @@
     },
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 92,
-     "title": "Indian founders account for $560B unicorn valuation overseas: report",
-     "url": "https://yourstory.com/2026/09/indian-founders-account-for-560-billion-unicorn-valuation-overseas-report",
-     "date": "2026-09-22",
+     "score": 10,
+     "priority": 91,
+     "title": "IIT Madras targets 1,000 startups by 2032, eyes one IPO every month",
+     "url": "https://yourstory.com/2026/09/iit-madras-1000-startups-2032-one-ipo-every-month",
+     "date": "2026-09-26",
      "source": "YourStory",
      "label": "India · Other",
-     "snippet": "The Diaspora Index by Prosus and Dealroom reveals the deep inroads by Indians founding companies overseas",
-     "lead": "Indian founders account for $560B unicorn valuation overseas: report The Diaspora Index by Prosus and Dealroom reveals the deep inroads by Indians founding companies overseas Press Trust of India 11162 Stories Tuesday September 22, 2026 , 2 min Read Founders who grew up in India account for $560 billion of founder-share-attributed company value in current and former unicorns abroad, according to the new Indian Diaspora Index from ...",
-     "image": "https://images.yourstory.com/cs/2/77e43870d62911eaa8e9879653a67226/Unicorn1560412396832-1614344784053.png",
+     "snippet": "IIT Madras aims to have around 1,000 startups under its fold by 2032, with at least one expected to go public every month, Director Prof V Kamakoti said. The institute has already incubated 583 startups with a combined valuation of Rs 83,000 crore.",
+     "lead": "IIT Madras targets 1,000 startups by 2032, eyes one IPO every month IIT Madras aims to have around 1,000 startups under its fold by 2032, with at least one expected to go public every month, Director Prof V Kamakoti said. The institute has already incubated 583 startups with a combined valuation of Rs 83,000 crore. Team YS 17243 Stories Saturday September 26, 2026 , 2 min Read IIT Madras aims to have around 1,000 startups under its ...",
+     "image": "https://images.yourstory.com/cs/2/a0bc5020250711f09884fb7189395d75/ArtificialintelligencetoEnhanceLanguageSkillsPresentationinBlueandPurple3DModernStyle-3-1746512587127.png",
      "why": [
-      "Funding",
-      "Very large figure in headline (about $560,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
+      "IPO & Listing",
+      "Very large figure in headline (about $8,737M: round or valuation)"
      ],
      "tags": [
-      "Funding"
+      "IPO & Listing"
      ]
     },
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 83,
+     "priority": 91,
+     "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+     "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+     "date": "2026-09-23",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+     "lead": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms Marina Temkin 2:56 PM PDT · September 22, 2026 Snorkel AI, a startup that helps AI labs and corporations build training datasets and simulated environments, has raised a $350 million Series E at a $3.5 billion valuation. The new round, which was led by Insight Partners and S32, valued the seven-year-old startup at nearly triple the $1.3 billion valuation it ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $3,500M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 82,
      "title": "WEH Ventures Announces First Close Of ₹250 Cr Fund III",
      "url": "https://inc42.com/buzz/weh-ventures-announces-first-close-of-%e2%82%b9250-cr-fund-iii/",
      "date": "2026-09-29",
@@ -228,38 +250,37 @@
      "tags": [
       "Funding"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Amazon India FY26 Report Card: Loss Balloons 48% YoY, Revenue Inches Closer To ₹40,000 Cr",
-     "url": "https://inc42.com/buzz/amazon-india-fy26-report-card-loss-balloons-48-yoy-revenue-inches-closer-to-%e2%82%b940000-cr/",
-     "date": "2026-09-28",
-     "source": "Inc42",
-     "label": "India · Commerce & D2C",
-     "snippet": "Amazon’s India seller services, retail and pay businesses' revenue continued to scale, cumulative losses magnified in the fiscal",
-     "lead": "Amazon’s India businesses delivered a mixed performance in FY26. While revenues of its seller services, retail and pay businesses continued to scale, cumulative losses magnified in the fiscal Amazon Retail’s loss weighed down the most, where it posted a 2.9X annual increase to ₹1,158.3 Cr in the year under review The company’s losses across all its business verticals in the fiscal year stood at ₹2,792.8 Cr, up 47.9% from ₹1,888.8 Cr ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/amazon-exports-social-1.png",
-     "why": [
-      "Financials",
-      "Very large figure in headline (about $4,211M: round or valuation)"
-     ],
-     "tags": [
-      "Financials",
-      "Commerce & D2C"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 517,
-   "new_today": 12,
+   "total": 529,
+   "new_today": 2,
    "items": [
     {
      "desk": "Immigration",
-     "score": 5,
-     "priority": 50,
+     "score": 4,
+     "priority": 44,
+     "title": "Beyond the Visa: Why Korea’s Global Talent Strategy Depends on Better Hiring Systems",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0Jkc0ctcWlLSkhFeVRJVGM5VUc4dVUwNlBuanlUQ2plcmJOV1AyNExHUDRneEJGNElDa09zdkhGUnRqT3J5UjVKMUd4UXBkTTBNWnNxOU83aU5rRWtMTnBsWTJHXzZ4QWdoVk1NamhzN2kxSTcta3dHNFpSZ0tOYWU5cmY3Snk4dmpSVkx0UTlBOU5TX1ItNXowcTBFcHBsRVNDbHhJc0V6RzI1WVE?oc=5",
+     "date": "2026-09-28",
+     "source": "AsiaTechDaily",
+     "label": "South Korea",
+     "snippet": "South Korea is accelerating efforts to attract international talent as demographic change and demand for advanced skills reshape its labor market. The country's economically active population is projected to begin declining from 2030, while people aged 65 and older are expected to account for 31.7% of the population by 2034. At the same t",
+     "lead": "South Korea is accelerating efforts to attract international talent as demographic change and demand for advanced skills reshape its labor market. The country’s economically active population is projected to begin declining from 2030, while people aged 65 and older are expected to account for 31.7% of the population by 2034. At the same time, demand is expected to grow in research and development, computer programming, engineering and ...",
+     "image": "https://asiatechdaily.com/wp-content/uploads/2026/09/Beyond-the-Visa-Why-Koreas-Global-Talent-Strategy-Depends-on-Better-Hiring-Systems.jpg",
+     "why": [
+      "Affects work visas"
+     ],
+     "tags": [
+      "Work visa",
+      "South Korea"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 4,
+     "priority": 44,
      "title": "Japan’s Takaichi Touts Sweeping Changes in Immigration Rules",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3FIRThJUDh5eXd2bFJvLUtiZE8xLU1pMGdrN1I1VHJBMi0xejJSYzZlWW03My13MHZrb0dtTTU1YmpjSXU1eTVTU2dsTWRMVFZvd004LXR0ZS1xNDAteFk3cVRPTDIzc3NrNEw4U0NqWGxJU3pFb0F0Wl9kemVTZ3ZrVEVWaXJ6QXZyMVVMV0x2ZnZOTlI1N3ZEZmREcVVySldETG5TRjNuTGcwbmdSNQ?oc=5",
      "date": "2026-09-28",
@@ -279,33 +300,55 @@
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 24,
+   "new_today": 3,
    "items": [
     {
      "desk": "Advisory",
      "score": 10,
-     "priority": 77,
-     "title": "G-Sec yields surge to 2.5-year high on crude spike; rupee nears 96/$",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOM1JaRGkteWVJeFpTY2VmZElJVmNxYURZYWNQWXV3SFlXdS1La3ZNdVBwcm1DRGtzNE9FTkxJaHhjelRZMGMtZlNodkRoeUZDYUZwa1VkVzdPeXItMU5TRTllNDAxejFRXzlFcmphNks5YnBZRHZ2SnJVUUhzdUg1M0EwM01SclVlV3RKa1lFZld0R09kRlY2T0g0aWlWZ3dxalhXTm5BTllsZDdfWUtkZm5QVkVzbHZpRDJod3gtMnJWWC1JaVlIMW9uNzNWUXFGWnVNSVhfTldERzB0b0JFUNIB5gFBVV95cUxNZlNGbkp1cEJObkFoWmY5ZmJOTkRXN0tYNG41SkR2T2ljdkczVUZVbENHYmI2alJzZkRqZ2lReHpIdk9FWjI0VzViUUlsWk9mNnd1WUNwYVNURDd5Rm9KV0t0dkltdXZQOTdGMjVPRXZPVFYyekhMZkltRFVJRXJ1RTdrc0ZaZmdBVEJ5djlWRDJDbTNDN1ZXUUxqV1hSWjdqUEZOSVp4c1VVZG5HV1RvZWlXeFNvdmRTUjcwR1hVZE1UNmw4R0haVHB2UE5GOTJuZnpCQno5NFl1X19kME1jOGdrVVdFUQ?oc=5",
-     "date": "2026-09-28",
-     "source": "Business Standard",
-     "label": "Debt & Bonds",
-     "snippet": "Benchmark 10-year government bond yield rises 6 basis points to 7.19 per cent as higher crude prices and a weaker rupee intensify pressure on the bond market",
-     "lead": "Don't miss the most important news and views of the day. Get them on our Telegram channel",
-     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/10/thumb/fitandfill/1200X628/1786382345-0314.jpg",
+     "priority": 83,
+     "title": "Talent crunch may hamper Sebi’s PMS revamp",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa0Z4amNEZTZfUXBIZ21ZWEowRGUyQm15YTY0aExRYlpEdnRTOHVpN1Z4bW02QVhsbWFCSjZ3R09nZ3J0Y1BjbF9SOWFHWFJJT2xnZWM0TEhIbHdmRVpXTHJobnBULTlySWtPMGVGYTh1M2hSVUJCR3B1MHNZUmZhdDU3ZUprUk9mU1VzVURxN0tfX25ucGMwTlB3?oc=5",
+     "date": "2026-09-29",
+     "source": "Livemint",
+     "label": "PMS",
+     "snippet": "Demand for diversification beyond Indian markets is rising, but building teams with the expertise to invest across geographies, currencies and regulatory regimes will take time, as few Indian funds currently invest overseas.",
+     "lead": "The Securities and Exchange Board of India’s (Sebi’s) decision to allow portfolio management services (PMS) companies to invest in foreign securities could unlock a new growth lever for the industry, provided they can find professionals with expertise in managing global portfolios. Demand for diversification beyond Indian markets is rising, but building teams with the expertise to invest across geographies, currencies and regulatory ...",
+     "image": null,
      "why": [
-      "Government bond yields",
-      "Global macro driver",
-      "Sharp market move"
+      "PMS news",
+      "Regulator: SEBI or RBI",
+      "Also covered by 1 other outlet(s)"
      ],
      "tags": [
-      "Debt & Bonds"
+      "PMS"
      ]
     },
     {
      "desk": "Advisory",
      "score": 10,
-     "priority": 77,
+     "priority": 83,
+     "title": "Sebi approves depository receipts for REITs, InvITs; eases norms for analysts, vault managers",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaHRfTUFuNFdyNDFXSUlrV19HMUp3WGxPQWxPRHNGVjBud04tSVAxMVNuZEhtQ0ZfeWhFOUhNMGtvRVh1ZFk3d0QtQ2xhMlV4RndQMHpfN19vVFk4M3draHEtMWdoRVA4NTQyb1dMUDFpNVVGVWNSaVRNdlBKWEhFTHVZeEVrVDNPMkxmY0xfdHhxUUpSOWdyTEN4aXN1UEhwX0xUOVJNcWZJOTV3R3dSdW11WENUaTlaMkhYcVg1V3lGNG12dElETnZkRFJjc291Mnd5Ty1CYnN5SUdJX2JxdGJFSkw3ZElGZFFJ0gHrAUFVX3lxTE5odF9NQW40V3I0MVdJSWtXX0cxSndYbE9BbE9Ec0ZWMG53Ti1JUDExU25kSG1DRl95aEU5SE0wa29FWHVkWTd3RC1DbGEyVXhGd1Awel83X29UWTgzd2tocS0xZ2hFUDg1NDJvV0xQMWk1VUZVY1JpVE12UEpYSEVMdVl4RWtUM08yTGZjTF90eHFRSlI5Z3JMQ3hpc3VQSHBfTFQ5Uk1xZkk5NXdHd1J1bXVYQ1RpOVoySFhxWDVXeUY0bXZ0SUROdmREUmNzb3Uyd3lPLUJic3lJR0lfYnF0YkVKTDdkSUZkUUk?oc=5",
+     "date": "2026-09-25",
+     "source": "bfsi.economictimes.indiatimes.com",
+     "label": "REITs & InvITs",
+     "snippet": "Real Estate Investment Trusts: Sebi",
+     "lead": "We encourage you to review our Terms of Service , and Privacy Policy . By continuing, you agree to the Terms listed here. In case you want to opt out, please click \"Do Not Sell or Share My Personal Information\" link in the footer of this page. We won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or shared ...",
+     "image": "https://etimg.etb2bimg.com/thumb/msid-134475655,imgsize-141830,width-1200,height=627,overlay-etbfsi,resizemode-75/articles/sebi-approves-depository-receipts-for-reits-invits-eases-norms-for-analysts-vault-managers.jpg",
+     "why": [
+      "REIT / InvIT news",
+      "Regulator: SEBI or RBI",
+      "Rule or framework change",
+      "Also covered by 2 other outlet(s)"
+     ],
+     "tags": [
+      "REITs & InvITs"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 75,
      "title": "Greenback near two-month high as US-Iran stalemate bolsters oil, Fed rate hike bets",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeFMteXFrclFhRHR4ZEdIUHVzeHQtaXlHSGp5dVFWc3N1NWVIQkwwb2ZlRnExc3BlV3d3UlJUMWZKNTRrdV80TjBHYXhOTVBEbUVuRWlyYXpFZ2MwR0UwUVRoV0swN1NoSndsU0VaV0ZjSTh6cThPaFhma0cwand6RW1vTFZxVGN4dnkwRTdCXzN2UXNTOVhoQWpnaU9vX1lnclROT3liRE5uVG1PTnJOZTRGelZ5V1FaX3ZNRFFydC1hT3h3aXBKLWl6Y2k2VnVwd0IzN3ZWbWJpSUhJNjVn?oc=5",
      "date": "2026-09-28",
@@ -326,8 +369,8 @@
     },
     {
      "desk": "Advisory",
-     "score": 10,
-     "priority": 77,
+     "score": 9,
+     "priority": 75,
      "title": "Gold hits seven-week low as oil surge fuels rate hike bets",
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenE0aVBHOTNMeURZcVZjN3J0S1RMZ2kzakFJYklBMXhZckhuTGxLVnVaa2pmZjg0MzJHMU1fOGwwY3pfWjBXYmZUcGYtUjMzOFB4UW9ydUdKZDNOU2JrTHotMk9qa1ZGNkZXdGs3b0NKcGhveU11cmZGOC0wbzM1WWVJSzk3bDAxLWs3QUxVSy02QQ?oc=5",
      "date": "2026-09-28",
@@ -344,28 +387,6 @@
      "tags": [
       "Gold & Silver"
      ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 10,
-     "priority": 77,
-     "title": "Sebi approves depository receipts for REITs, InvITs; eases norms for analysts, vault managers",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaHRfTUFuNFdyNDFXSUlrV19HMUp3WGxPQWxPRHNGVjBud04tSVAxMVNuZEhtQ0ZfeWhFOUhNMGtvRVh1ZFk3d0QtQ2xhMlV4RndQMHpfN19vVFk4M3draHEtMWdoRVA4NTQyb1dMUDFpNVVGVWNSaVRNdlBKWEhFTHVZeEVrVDNPMkxmY0xfdHhxUUpSOWdyTEN4aXN1UEhwX0xUOVJNcWZJOTV3R3dSdW11WENUaTlaMkhYcVg1V3lGNG12dElETnZkRFJjc291Mnd5Ty1CYnN5SUdJX2JxdGJFSkw3ZElGZFFJ0gHrAUFVX3lxTE5odF9NQW40V3I0MVdJSWtXX0cxSndYbE9BbE9Ec0ZWMG53Ti1JUDExU25kSG1DRl95aEU5SE0wa29FWHVkWTd3RC1DbGEyVXhGd1Awel83X29UWTgzd2tocS0xZ2hFUDg1NDJvV0xQMWk1VUZVY1JpVE12UEpYSEVMdVl4RWtUM08yTGZjTF90eHFRSlI5Z3JMQ3hpc3VQSHBfTFQ5Uk1xZkk5NXdHd1J1bXVYQ1RpOVoySFhxWDVXeUY0bXZ0SUROdmREUmNzb3Uyd3lPLUJic3lJR0lfYnF0YkVKTDdkSUZkUUk?oc=5",
-     "date": "2026-09-25",
-     "source": "bfsi.economictimes.indiatimes.com",
-     "label": "REITs & InvITs",
-     "snippet": "Real Estate Investment Trusts: Sebi",
-     "lead": "We encourage you to review our Terms of Service , and Privacy Policy . By continuing, you agree to the Terms listed here. In case you want to opt out, please click \"Do Not Sell or Share My Personal Information\" link in the footer of this page. We won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or shared ...",
-     "image": "https://etimg.etb2bimg.com/thumb/msid-134475655,imgsize-141830,width-1200,height=627,overlay-etbfsi,resizemode-75/articles/sebi-approves-depository-receipts-for-reits-invits-eases-norms-for-analysts-vault-managers.jpg",
-     "why": [
-      "REIT / InvIT news",
-      "Regulator: SEBI or RBI",
-      "Rule or framework change",
-      "Also covered by 2 other outlet(s)"
-     ],
-     "tags": [
-      "REITs & InvITs"
-     ]
     }
    ]
   }
@@ -373,7 +394,7 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 100,
    "title": "StockGro Confidentially Files IPO Papers, Eyes Up To ₹2,500 Cr Issue",
    "url": "https://inc42.com/buzz/stockgro-confidentially-files-ipo-papers-eyes-up-to-%e2%82%b92500-cr-issue/",
@@ -395,7 +416,7 @@
   },
   {
    "desk": "Advisory",
-   "score": 13,
+   "score": 12,
    "priority": 100,
    "title": "Case for 25 bps RBI rate hike increases amid higher crude, weaker rupee and tighter global financial conditi..",
    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxObl94WTZkWW9XWjVBaTRjRTllbW9yNXlNa09JcE4wa0tVTFgxVjFHWldIOVlyU2hlTWhSMmRJaU9MU3Y5aDhqdUU2UjBNWDNIeXV0R0lZYjZQcGh2QlM2TFRoRUJta3VQVnlXUnVVWjRTdVhmRVJfY1BBMjk3eEN3aFB2a0JPUFJFeDNlbGtHYTBHb0F1dHpvZmtJSnpObWZuM0NFc1J2bnVQcFVJbDBRVWxzQmZ1Ni1sdEN6X3Y5czkxcHhpS1NlR19NUWttZmdWR3BSaDJON2ZBOG5QSWxtUFBSNXBSeXQ0Q0pGR0lINVNRUldoNVpMTExoOWh1LVpYSHhaSmhRS0dhcVVCdlIyVERzdmN0WElV0gGYAkFVX3lxTE5uX3hZNmRZb1daNUFpNGNFOWVtb3I1eU1rT0lwTjBrS1VMWDFWMUdaV0g5WXJTaGVNaFIyZElpT0xTdjloOGp1RTZSME1YM0h5dXRHSVliNlBwaHZCUzZMVGhFQm1rdVBWeVdSdVVaNFN1WGZFUl9jUEEyOTd4Q3doUHZrQk9QUkV4M2Vsa0dhMEdvQXV0em9ma0lKek5tZm4zQ0VzUnZudVBwVUlsMFFVbHNCZnU2LWx0Q3pfdjlzOTFweGlLU2VHX01Ra21mZ1ZHcFJoMk43ZkE4blBJbG1QUFI1cFJ5dDRDSkZHSUg1U1FSV2g1WkxMTGg5aHUtWlhIeFpKaFFLR2FxVUJ2UjJURHN2Y3RYSVU?oc=5",
@@ -442,122 +463,8 @@
    "must_read": true
   },
   {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 100,
-   "title": "Furlenco Eyes ₹1,200 Cr IPO At ₹7,000 Cr Valuation: Report",
-   "url": "https://inc42.com/buzz/furlenco-eyes-%e2%82%b91200-cr-ipo-at-%e2%82%b97000-cr-valuation-report/",
-   "date": "2026-09-22",
-   "source": "Inc42",
-   "label": "India · Real Estate & Workspaces",
-   "snippet": "Furlenco is reportedly planning a ₹1,200 Cr IPO at a ₹7,000 Cr valuation, following rival RentoMojo’s recent public-market debut",
-   "lead": "Furlenco is planning to raise ₹1,000-1,200 Cr through an IPO in FY28 and is seeking a valuation of around ₹7,000 Cr. The proposed issue would make Furlenco the second furniture rental startup to tap the public markets after rival RentoMojo’s strong listing earlier this month. The startup is expected to appoint ICICI Securities as an advisor for the IPO, while the final valuation will depend on market conditions and investor feedback.",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/12/Furlenco-social.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $737M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Real Estate & Workspaces"
-   ],
-   "rank": 4,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "[Update] AceVector IPO Closes With 4.93X Oversubscription",
-   "url": "https://inc42.com/buzz/acevector-ipo-oversubscribed-2-59x-on-day-3-so-far/",
-   "date": "2026-09-29",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Snapdeal parent AceVector’s ₹420 Cr IPO was oversubscribed 4.93X at the end of the final day of bidding today",
-   "lead": "Following the close of bidding by today, AceVector’s shares are set to make their public market debut on the BSE and NSE tentatively on October 5 Retail investors bid for 6.33 Cr shares against the 1.37 Cr shares reserved for them, translating to an oversubscription of 4.62X. The highest number of bids have come from non institutional investors (NIIs) till now, who have placed bids for 8.46 Cr shares against the 2.06 Cr shares ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/AceVector-SM-1.png",
-   "why": [
-    "IPO & Listing",
-    "Sizeable deal (about $44M)"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 5,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "ITC Completes Yoga Bar Acquisition For ₹645 Cr",
-   "url": "https://inc42.com/buzz/itc-completes-yoga-bar-acquisition-for-%e2%82%b9645-cr/",
-   "date": "2026-09-29",
-   "source": "Inc42",
-   "label": "India · Commerce & D2C",
-   "snippet": "ITC has completed the acquisition of 100% of Sproutlife Foods, the parent of healthy snacking brand Yoga Bar",
-   "lead": "ITC has completed the acquisition of 100% of Sproutlife Foods, the parent of healthy snacking brand Yoga Bar The latest acquisition is in line with ITC’s strategy of building a “future-ready” portfolio in the foods segment In the latest transaction, ITC bought the remaining 52.5% stake in Yoga Bar for around ₹645 Cr",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/ITC-Yoga-Bar-social-.png",
-   "why": [
-    "Acquisition",
-    "Sizeable deal (about $68M)"
-   ],
-   "tags": [
-    "Acquisition",
-    "Commerce & D2C"
-   ],
-   "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
-   "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
-   "date": "2026-09-29",
-   "source": "TechCrunch Venture",
-   "label": "Global · Other",
-   "snippet": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
-   "lead": "Protego Ventures closes debut $125 million fund for Israeli defense tech Anna Heim 3:00 AM PDT · September 29, 2026 Defense and venture capital used to rarely overlap, but that’s no longer the case. Defense tech VC dealmaking set a record in Q1 2026 , and new VC firms have emerged around the world to invest solely in defense startups. One of these is two-year-old Protego Ventures , which presents itself as the first and largest ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/PROTEGO-VENTURES.jpg?resize=1200,801",
-   "why": [
-    "IPO & Listing",
-    "Large deal (about $125M)"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "Physical AI startup SiMa.ai raises $150M in Series C",
-   "url": "https://yourstory.com/2026/09/physical-ai-startup-simaai-raises-150-million-series-c",
-   "date": "2026-09-29",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "SiMa.ai said it will use the funding for scaling its agentic AI platform and to build hardware products.",
-   "lead": "Physical AI startup SiMa.ai raises $150M in Series C SiMa.ai said it will use the funding for scaling its agentic AI platform and to build hardware products. Team YS 17255 Stories Tuesday September 29, 2026 , 2 min Read SiMa.ai, a physical AI startup founded by Krishna Rangasayee, has raised $150 million in a Series C round co-led by Fidelity Management & Research Company and Amplify, with participation from Alter Venture Partners and ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imagearak-1658749095270.jpg",
-   "why": [
-    "Funding",
-    "Large deal (about $150M)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
    "desk": "Advisory",
-   "score": 12,
+   "score": 11,
    "priority": 92,
    "title": "RBI October MPC: Repo Rate Hike Expectations Rise Amid Crude, Rupee Pressure",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSDY5S0xKM1hGX3RQQzlZd3AyTEdraTFtQ29CWXcxakRQbks1cVV3MHM1VEZJZUdDZkxUY3lXRTZpZWp3ZG1qNHdUbEh6WTRmSV96T2t3UTdWdWdXNW9BRy1NZVQwMldrdzQ2Q1dMY2dNZ1E4cTNfMFAwczdxZS15RWVYQjJnY012a1NfYXRWVThHSW5pa0IxU0tvZlJJVnM1bmhLMlFQRGxBUEZMdW56UkVfTTRwb1lkUUhYTFU4M1V3cm0zbVhLVnBEbTJCZWowakdLTzR6aGFURjJabFNn0gHkAUFVX3lxTFAxQ0xFR2NBazBSXzFIaGZlbTgyVTktblRTUkpCUGhLMGNzVFo5U0JNanVFMG1nWmVCMTJVSzFITjNPeXZOWFJHeHA5THJnNkxBNDAtVEZ5aUJPTjVjVmtBSmxJcGtkOTFoVXh0UjRFVlpKdlJfWUhRVlh5Q0NyVUNDT0NkT1pZS2pVRmhyOXR4QmJCM3NzejZ1MzhvTGxLQy1maldzYXN3VHg0aVZid2t5cGgxcjBhME45VDJfeW5QaXpfRkg3MUZNSkRMYTJPVU5iSVQwRUszU0FkektaZlRoUjFzSQ?oc=5",
@@ -575,59 +482,13 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 9,
-   "priority": 90,
-   "title": "UK to restart resettlement scheme, Shabana Mahmood tells Labour conference",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFhmRkhGamNjZnNyVDN4MFk2dE5UQ09rTnhiTHhFZW1MeExoVWhXNF9OS1ZBcE5KRi1velFSOVFYZ1lZZ1lvVUd2VER0YkJLazJ2bGRzbHFJMmNobzJhNE1lWndDaWlRemljeWpJM2p5bzIxb2pEZ2NrNlBSTUMyZ2w5WHA?oc=5",
-   "date": "2026-09-28",
-   "source": "Financial Times",
-   "label": "United Kingdom",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Affects permanent residence",
-    "Announces a change"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "United Kingdom"
-   ],
-   "rank": 10,
-   "must_read": false
+   "rank": 4,
+   "must_read": true
   },
   {
    "desk": "Advisory",
    "score": 11,
-   "priority": 85,
-   "title": "Sebi's PRIM route: Portfolio managers can invest ₹25 lakh-plus client money in mutual funds",
-   "url": "https://economictimes.indiatimes.com/mf/analysis/sebis-prim-route-portfolio-managers-can-invest-25-lakh-plus-client-money-in-mutual-funds/articleshow/134531712.cms",
-   "date": "2026-09-28",
-   "source": "Economic Times",
-   "label": "PMS",
-   "snippet": "The Securities and Exchange Board of India has launched the Portfolio Managers Route for Investing in Mutual Fund units (PRIM), enabling portfolio managers to handle clients",
-   "lead": "Looking for the best mutual funds to invest? Here are our recommendations. Can Fly91’s flightpath for India’s smallest airline defy the doomy past? Smugglonomics: Geckos, dry dates, human hair – what makes something worth smuggling?",
-   "image": "https://img.etimg.com/thumb/msid-134496526,width-1200,height-630,imgsize-115883,overlay-etwealthmutualfunds/articleshow.jpg",
-   "why": [
-    "PMS news",
-    "Regulator: SEBI or RBI",
-    "Also covered by 2 other outlet(s)"
-   ],
-   "tags": [
-    "PMS"
-   ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 85,
+   "priority": 92,
    "title": "Gold rises despite Fed rate hike as real-yield link weakens, central-bank buying accelerates: Monarch PMS",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOZGdkNG52TGctOWloZW5KV1FNQndCLVVkenBhd1ZLQWZlcGVZbHpZeUpsdzhua09kTURBZ2M1VHNlbXZhdHZQT21KN2tsVmtzUnhwTUJnT2xJR2NVY3d3OXdpWlo5dnJKZWhfOTI4dF9KbjN3VW80VE4wTFlpRkgxY2t3Q3BNMGZWMlpUY2FOWGh6eHFUNjVrY2t3THM3elU4cm1oUG5IcjdZMUxxY0tKRGpmZl9VU2VvUEgxUWFxTkZwRUhNQWloY3FCaFRBV1ZUWXMzNlFvblNQMnYybWk5c2Nub0NCN3dyQ3JDWHRoVmxnQzNCR1VrNHNlVm5XTThnOGfSAYICQVVfeXFMTmRnZDRudkxnLTlpaGVuSldRTUJ3Qi1VZHpwYXdWS0FmZXBlWWx6WXlKbHc4bmtPZE1EQWdjNVRzZW12YXR2UE9tSjdrbFZrc1J4cE1CZ09sSUdjVWN3dzl3aVpaOXZySmVoXzkyOHRfSm4zd1VvNFROMExZaUZIMWNrd0NwTTBmVjJaVGNhTlhoenhxVDY1a2Nrd0xzN3pVOHJtaFBuSHI3WTFMcWNLSkRqZmZfVVNlb1BIMVFhcU5GcEVITUFpaGNxQmhUQVdWVFlzMzZRb25TUDJ2Mm1pOXNjbm9DQjd3ckNyQ1h0aFZsZ0MzQkdVazRzZVZuV004Zzhn?oc=5",
    "date": "2026-09-24",
@@ -645,13 +506,13 @@
    "tags": [
     "PMS"
    ],
-   "rank": 12,
-   "must_read": false
+   "rank": 5,
+   "must_read": true
   },
   {
    "desk": "Advisory",
    "score": 11,
-   "priority": 85,
+   "priority": 92,
    "title": "Bond yields surge as Wall Street fears more potential Federal Reserve rate hikes",
    "url": "https://www.marketwatch.com/story/bond-yields-surge-as-wall-street-fears-more-potential-federal-reserve-rate-hikes-eabcd3da?mod=mw_rss_topstories",
    "date": "2026-09-23",
@@ -669,35 +530,171 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 13,
+   "rank": 6,
    "must_read": false
   },
   {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 80,
-   "title": "Report of the Advisory Committee on Ways and Means Advances to State Governments",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63689",
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "Tiger Global, Dragoneer in talks to invest in Kalshi's new $1 billion fundraise",
+   "url": "https://economictimes.indiatimes.com/tech/technology/tiger-global-dragoneer-in-talks-to-invest-in-kalshis-new-1-billion-fundraise/articleshow/134571743.cms",
    "date": "2026-09-29",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The Reserve Bank of India has today placed on its website the Report of the Advisory Committee on Ways and Means Advances (WMA) to State Governments . The Reserve Bank had constituted an Advisory Committee, under the Chairmanship of Shri I S N Prasad, former Additional Chief Secretary, Government of Karnataka. The terms of reference of the Advisory Committee included, inter alia, review of State-wise WMA limits and other financial ...",
-   "image": null,
+   "source": "ET Startups",
+   "label": "Global · Other",
+   "snippet": "The fresh capital raise is expected to be finalised in the coming weeks and will value Kalshi at about $40 billion, the sources said, requesting anonymity as the discussions are confidential. It comes on the heels of a $1 billion fundraise in May that valued the firm at $22 billion.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1205068,resizemode-75,msid-134571743/tech/technology/tiger-global-dragoneer-in-talks-to-invest-in-kalshis-new-1-billion-fundraise.jpg",
    "why": [
-    "Rates and liquidity",
-    "Regulator: RBI"
+    "Funding",
+    "Very large figure in headline (about $1,000M: round or valuation)"
    ],
    "tags": [
-    "Banking & Rates"
+    "Funding"
    ],
-   "rank": 14,
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "[Update] AceVector IPO Closes With 4.93X Oversubscription",
+   "url": "https://inc42.com/buzz/acevector-ipo-oversubscribed-2-59x-on-day-3-so-far/",
+   "date": "2026-09-29",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Snapdeal parent AceVector’s ₹420 Cr IPO was oversubscribed 4.93X at the end of the final day of bidding today",
+   "lead": "Following the close of bidding by today, AceVector’s shares are set to make their public market debut on the BSE and NSE tentatively on October 5 Retail investors bid for 6.33 Cr shares against the 1.37 Cr shares reserved for them, translating to an oversubscription of 4.62X. The highest number of bids have come from non institutional investors (NIIs) till now, who have placed bids for 8.46 Cr shares against the 2.06 Cr shares ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/AceVector-SM-1.png",
+   "why": [
+    "IPO & Listing",
+    "Sizeable deal (about $44M)"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "ITC Completes Yoga Bar Acquisition For ₹645 Cr",
+   "url": "https://inc42.com/buzz/itc-completes-yoga-bar-acquisition-for-%e2%82%b9645-cr/",
+   "date": "2026-09-29",
+   "source": "Inc42",
+   "label": "India · Commerce & D2C",
+   "snippet": "ITC has completed the acquisition of 100% of Sproutlife Foods, the parent of healthy snacking brand Yoga Bar",
+   "lead": "ITC has completed the acquisition of 100% of Sproutlife Foods, the parent of healthy snacking brand Yoga Bar The latest acquisition is in line with ITC’s strategy of building a “future-ready” portfolio in the foods segment In the latest transaction, ITC bought the remaining 52.5% stake in Yoga Bar for around ₹645 Cr",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/ITC-Yoga-Bar-social-.png",
+   "why": [
+    "Acquisition",
+    "Sizeable deal (about $68M)"
+   ],
+   "tags": [
+    "Acquisition",
+    "Commerce & D2C"
+   ],
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
+   "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
+   "date": "2026-09-29",
+   "source": "TechCrunch Venture",
+   "label": "Global · Other",
+   "snippet": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
+   "lead": "Protego Ventures closes debut $125 million fund for Israeli defense tech Anna Heim 3:00 AM PDT · September 29, 2026 Defense and venture capital used to rarely overlap, but that’s no longer the case. Defense tech VC dealmaking set a record in Q1 2026 , and new VC firms have emerged around the world to invest solely in defense startups. One of these is two-year-old Protego Ventures , which presents itself as the first and largest ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/PROTEGO-VENTURES.jpg?resize=1200,801",
+   "why": [
+    "IPO & Listing",
+    "Large deal (about $125M)"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "Physical AI startup SiMa.ai raises $150M in Series C",
+   "url": "https://yourstory.com/2026/09/physical-ai-startup-simaai-raises-150-million-series-c",
+   "date": "2026-09-29",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "SiMa.ai said it will use the funding for scaling its agentic AI platform and to build hardware products.",
+   "lead": "Physical AI startup SiMa.ai raises $150M in Series C SiMa.ai said it will use the funding for scaling its agentic AI platform and to build hardware products. Team YS 17255 Stories Tuesday September 29, 2026 , 2 min Read SiMa.ai, a physical AI startup founded by Krishna Rangasayee, has raised $150 million in a Series C round co-led by Fidelity Management & Research Company and Amplify, with participation from Alter Venture Partners and ...",
+   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imagearak-1658749095270.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $150M)"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 11,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 8,
-   "priority": 80,
+   "priority": 89,
+   "title": "UK to restart resettlement scheme, Shabana Mahmood tells Labour conference",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFhmRkhGamNjZnNyVDN4MFk2dE5UQ09rTnhiTHhFZW1MeExoVWhXNF9OS1ZBcE5KRi1velFSOVFYZ1lZZ1lvVUd2VER0YkJLazJ2bGRzbHFJMmNobzJhNE1lWndDaWlRemljeWpJM2p5bzIxb2pEZ2NrNlBSTUMyZ2w5WHA?oc=5",
+   "date": "2026-09-28",
+   "source": "Financial Times",
+   "label": "United Kingdom",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Affects permanent residence",
+    "Announces a change"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "United Kingdom"
+   ],
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 83,
+   "title": "India's 10-Year G-Sec Yield Surges To 7.179%; Near 2-Year High Level As Crude Hits $107",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQk9ZNE9xTExWelVxVnFHUkZxTVZsbFhVV0xGU25CWmlRcDN4MDgtY21LbjBybFVBX21uZE5fdGxGVUMybHZxUTAyc2ZIVm45WDdKSTFnQkZZd01zbjFXMGZlZDhjblpQVWRzb0pOczQtWXdoOTVkYy1FV092SWJJWXd5MkM4OUdadl9kcTVUZnRnSnFualE3T2g5VnVGOEF2S084WDEzMDl5M055Nk8tVGhDaExHb2w0RW9qWThoYk9TSDIzVEY0cEIyZlpXdVdVRG80aXgyQjc4QdIB3wFBVV95cUxOeUlLaW9lTGcxZ2d0S2FybHBmcS1NM2dOSEpFdGJDTEtDTFVDbzltU3NvZXFPUWV0U1hCTWx3dkVjNEUzZ0hXVXRJTmxmR1dZUzZ4SkhwVzVmY2JrNWZheFFIYUF3SkpKUHJORW13cGpfM0pOdGJNMjBXVWtNa3d1VUs4WG9uamRRY0QwMC1SV0RSZmg0NWdjdGFfbWd0WWtnekwweHNpQW1wdnpkZ1hyTDctNFliZ1JUWkdsWFRxSXBoMFNyMDRhcWYwLW1CdXBpdXJPX2VqTTc3V0x1Mlow?oc=5",
+   "date": "2026-09-29",
+   "source": "News18",
+   "label": "Debt & Bonds",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Government bond yields",
+    "Global macro driver",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 78,
    "title": "Spain announces 2-year fast-track citizenship route for citizens of 23 countries",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmp4cEdnWW9iaU9ER25YazZyck9OWDRyTnBwLU45SG9PTGJvVU9iaFNKN2NFa3dZMGNtXzhsSmVnR3BhWUZLMGhXYmRDaDNEeEd3SGFYYlhYYkhUS3dWYkdLSFY2N3NPMnpZVDAxTUhod3RFQlUzMU91Z2hteXVUandKWUdnb3dwNGdzMnlTMGZ4aVJFdnhTYzQyTjVjYXFEOXZPT3RQLUk?oc=5",
    "date": "2026-09-27",
@@ -714,80 +711,13 @@
     "Citizenship",
     "Spain"
    ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 80,
-   "title": "Reserve Bank of India (Local Area Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13708&Mode=0",
-   "date": "2026-09-22",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Local Area Banks - Classification, Valuation, and Operation of Investment Portfolio) Second Amendment Directions, 2026 Please refer to Chapter – IX of Reserve Bank of India (Local Area Banks - Classification, Valuation, and Operation of Investment Portfolio) Directions, 2025, dated November 28, 2025 , on fair valuation of investments. In order to ensure clarity and uniform practices in the valuation of units of ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 16,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 80,
-   "title": "TRAI releases Telecom Consumer Protection (Thirteenth Amendment) Regulations, 2026",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2313349",
-   "date": "2026-09-22",
-   "source": "PIB",
-   "label": "Technology & Telecom",
-   "snippet": "The Telecom Regulatory Authority of India (TRAI) today released the Telecom Consumer Protection (Thi",
-   "lead": "The Telecom Regulatory Authority of India (TRAI) today released the Telecom Consumer Protection (Thirteenth Amendment) Regulation, 2026. TRAI had released the draft Telecom Consumer Protection (Thirteenth Amendment) Regulations (TCPR), 2026 for consultation on its website on 07.04.2026. Since the implementation of TCPR (Twelfth Amendment), 2024, the Authority observed the limitation in the availability of Voice-and-SMS-only Special ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change"
-   ],
-   "tags": [
-    "Technology & Telecom"
-   ],
-   "rank": 17,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 7,
-   "priority": 70,
-   "title": "Detailed Result: OMO Sale Auction held on Sep 28, 2026 and Settlement on Sep 29, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63680",
-   "date": "2026-09-28",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Regulator: RBI",
-    "Large outlay (Rs 10,000 Cr or more)"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 18,
+   "rank": 14,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 7,
-   "priority": 70,
+   "priority": 78,
    "title": "Denmark to Introduce Work Permit Route for Indians",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DeDdRUVlFcWZsRGtlT1lkQmt3aG5FZGsyT2NEdGpCMEJRYmNPM1dxY1owNHhqQkNfNGlGTXMxSmwyUnZwd3ducElGQV9CWmI5TjBpR3lkcG9HeGxYRTZxc1R4ZDRrQ1MwZm9aakE3aVBqU2p1Ukl2cWVvb1hiT0k?oc=5",
    "date": "2026-09-24",
@@ -805,29 +735,51 @@
     "Work visa",
     "Denmark"
    ],
-   "rank": 19,
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 7,
+   "priority": 70,
+   "title": "Report of the Advisory Committee on Ways and Means Advances to State Governments",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63689",
+   "date": "2026-09-29",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "The Reserve Bank of India has today placed on its website the Report of the Advisory Committee on Ways and Means Advances (WMA) to State Governments . The Reserve Bank had constituted an Advisory Committee, under the Chairmanship of Shri I S N Prasad, former Additional Chief Secretary, Government of Karnataka. The terms of reference of the Advisory Committee included, inter alia, review of State-wise WMA limits and other financial ...",
+   "image": null,
+   "why": [
+    "Rates and liquidity",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 16,
    "must_read": false
   },
   {
    "desk": "Policy",
    "score": 6,
    "priority": 60,
-   "title": "CBDT extends due date for furnishing Return of Income for AY 2026-27 from 31st October, 2026 to 21st November, 2026 in respect of persons subject to audit under the Income-tax Act, 1961",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316050",
+   "title": "Detailed Result: OMO Sale Auction held on Sep 28, 2026 and Settlement on Sep 29, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63680",
    "date": "2026-09-28",
-   "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "The due date for furnishing Return of Income for Assessment Year 2026-27 is 31st October, 2026 in th",
-   "lead": "The due date for furnishing Return of Income for Assessment Year 2026-27 is 31 st October, 2026 in the case of persons mentioned at Serial No. 2 in the Table below Explanation 2 to sub-section (1) of section 139 of the Income-tax Act, 1961. The Central Board of Direct Taxes (CBDT) has extended the aforesaid due date of furnishing of Return of Income from 31 st October, 2026 to 21 st November, 2026 . Accordingly, the 'specified date' ...",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "",
    "image": null,
    "why": [
-    "Rule change",
-    "Ministry of Finance"
+    "Regulator: RBI",
+    "Large outlay (Rs 10,000 Cr or more)"
    ],
    "tags": [
-    "Tax, Duties & Trade"
+    "Banking & Rates"
    ],
-   "rank": 20,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -848,49 +800,114 @@
    "tags": [
     "Agriculture & Food"
    ],
-   "rank": 21,
+   "rank": 18,
    "must_read": false
   },
   {
-   "desk": "Immigration",
+   "desk": "Policy",
    "score": 6,
    "priority": 60,
-   "title": "Australia changes visa rules: New curbs for students, visitors and working holidaymakers - CNBC TV18",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWEpDYkR3TE5hRF9sc3AxWGw3bFN3TXd2dWwwVWdkSXdPOXY5aGpaQV9UZnNfd2ZIYks3cTFESTVFVUNrZGF4alV3X1IwcEhSNzVrdkd3ZDBibU5LU0dweWZXWGF5NmE3bXJQQVJNM3lTS3c3LUhsd3NON0VudnBkMVVreUNZRkhVMTdKYm1RSkQ3azQyMHdkMGppX1p4amlXYUVwNFZEQTFIbVlfRllYNEZGS1B1M3RR?oc=5",
-   "date": "2026-09-22",
-   "source": "LinkedIn",
-   "label": "Australia",
-   "snippet": "Australia is tightening visa rules across student, visitor, skilled and Working Holiday Maker categories.\n\n📋 The changes are aimed at maintaining migration system integrity while meeting the government’s Budget forecasts.\n\n✍️ Anshul Majumdar breaks down the latest changes and what they mean for visa applicants.\n\nhttps://lnkd.in/dN-NxyMt\n\n",
-   "lead": "Australia is tightening visa rules across student, visitor, skilled and Working Holiday Maker categories. 📋 The changes are aimed at maintaining migration system integrity while meeting the government’s Budget forecasts. ✍️ Anshul Majumdar breaks down the latest changes and what they mean for visa applicants. https://lnkd.in/dN-NxyMt #Australia #VisaRules #Immigration #Travel",
-   "image": "https://media.licdn.com/dms/image/sync/v2/D4D27AQHXZqVn_Iew3Q/articleshare-shrink_1280_800/B4DaDH5_oHKUAg-/0/1790060264264?e=2147483647&v=beta&t=5iHrRqmXu40fWp9q3I623CzM4pZT5Zdh9Tmor_d3jVE",
+   "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63649",
+   "date": "2026-09-23",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "",
+   "image": null,
    "why": [
-    "Announces a change",
-    "Major story (11 headlines that day)"
+    "New law or act",
+    "Regulator: RBI"
    ],
    "tags": [
-    "Student / Graduate",
-    "Australia"
+    "Banking & Rates"
    ],
-   "rank": 22,
+   "rank": 19,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 5,
-   "priority": 50,
-   "title": "Swiss Senate introduces new immigration tax",
-   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQUDNWYXZnUzFTWW9UdVJWMi1CQWNGNk5pRGo5UXBCYlNpSWNrVFpZRm83bUFpNzFYN01xOFlYRDRHalJLZXI4cVZrUTdzMkdEdlpjbmpYZGFieTlQRzBVQ0tzSzlPSWpuWHUtUzRGV1lJR3l0YlV4aUhDYk1ERlNscUFDY2V3X3d6aFczUC1yYW9OMmVSb1VBYjRaZnNJLWdlTjc4dHZ4YnVBZ3BISi10QVBxbjBfRnJxVWN4SzYxS2dMLTRZSFVvM2tjWER3SGZKdzlCVXJSdUNmZFQtZHlMMUtsS0ZxOWpRRk1Dc2VVX0JWc21XenJkUm5zMUF6NEpHaHZYQ1VySGJmcjZ4Q0F6ME02SkNPeFE0d3BJUGZoWjRsQQ?oc=5",
-   "date": "2026-09-29",
-   "source": "SWI swissinfo.ch",
-   "label": "Switzerland",
-   "snippet": "",
-   "lead": "",
-   "image": null,
+   "priority": 56,
+   "title": "Immigration NZ software approved visas without human checks",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUExiSlZuR19INUlsMjhWQk94ejc3SHpzcUZwVkg1QjZCV093RVFtQUxTaUJqU1NfbU9xX05qUXVnWWR6b08tZGR5NGI3UXZxWTlMaUdCNXF4MF9WQkk0MWpXMm9aVWdPelpEZnVWWnN0OHNpOFhvNlhDZThfVUt1WHg4RUtLRGNwcGtkWHgzVTVyMWk5d0N3cmViU21wTnRTbm83WVhJYw?oc=5",
+   "date": "2026-09-30",
+   "source": "newswire.co.nz",
+   "label": "New Zealand",
+   "snippet": "Faults in Immigration New Zealand's ADEPT system approved 32 visitor visas and 23 job checks with no officer assessment, and missed TB checks for 364 applicants.",
+   "lead": "Software faults in Immigration New Zealand’s online visa system let 32 visitor visas and 23 Job Check applications be approved without an immigration officer ever assessing them, according to official briefings to Immigration Minister Erica Stanford reported by RNZ on Wednesday 30 September . The approvals were made by ADEPT, the online visa processing platform Immigration New Zealand launched in 2022. It is the backbone of Our Future ...",
+   "image": "https://newswire.co.nz/wp-content/uploads/2024/01/AUCKLAND-AIRPORT-NEW-ZEALAND-MARCH-6-2016-Airliner-of-Air-New-Zealand-at-Auckland-Airport-taking-off-in-the-background-ground-handling-of-another-aircraft-in-the-foreground.jpeg",
    "why": [
     "Announces a change"
    ],
    "tags": [
+    "New Zealand"
+   ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 5,
+   "priority": 56,
+   "title": "UPDATE: Swiss parliament rejects move for simplified citizenship process",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQem5lbkpfNnR4dHNTNXZLcVFjMDB5RVdEVDdLY0QwQjlLWWxGdTRUVUlWLTlHMUhjc3hsX3pMZVNIdVlLcTZHcGdXTkRFOEUtaXhrbTJzSzEycmE1RnVYa25MRDQtUjc0SGprbG9PYk9ZV0VYRndGblA5dGVaLVVzOW94ckh3OUFQemF2ZXZmcXU0eVhFbUVWdGFuQkhUdHdEWVBveDVPaw?oc=5",
+   "date": "2026-09-25",
+   "source": "The Local Switzerland",
+   "label": "Switzerland",
+   "snippet": "Switzerland's parliament this week rejected a proposal for a simplified naturalisation procedure that argued the Swiss naturalisation period is too long compared to other states.",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source Switzerland's parliament this week rejected a proposal for a simplified naturalisation procedure that argued the Swiss naturalisation period is too long compared to other states. The Council of States vote, which ...",
+   "image": null,
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
     "Switzerland"
+   ],
+   "rank": 21,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 5,
+   "priority": 50,
+   "title": "CBDT extends due date for furnishing Return of Income for AY 2026-27 from 31st October, 2026 to 21st November, 2026 in respect of persons subject to audit under the Income-tax Act, 1961",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316050",
+   "date": "2026-09-28",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "The due date for furnishing Return of Income for Assessment Year 2026-27 is 31st October, 2026 in th",
+   "lead": "The due date for furnishing Return of Income for Assessment Year 2026-27 is 31 st October, 2026 in the case of persons mentioned at Serial No. 2 in the Table below Explanation 2 to sub-section (1) of section 139 of the Income-tax Act, 1961. The Central Board of Direct Taxes (CBDT) has extended the aforesaid due date of furnishing of Return of Income from 31 st October, 2026 to 21 st November, 2026 . Accordingly, the 'specified date' ...",
+   "image": null,
+   "why": [
+    "Rule change",
+    "Ministry of Finance"
+   ],
+   "tags": [
+    "Tax, Duties & Trade"
+   ],
+   "rank": 22,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 5,
+   "priority": 50,
+   "title": "Government’s Borrowing Plan for the second half of FY 2026-27",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2315024",
+   "date": "2026-09-25",
+   "source": "PIB",
+   "label": "Budget & Fiscal",
+   "snippet": "The Government of India, in consultation with the Reserve Bank of India (RBI), has decided to borrow",
+   "lead": "The Government of India, in consultation with the Reserve Bank of India (RBI), has decided to borrow ₹7,86,000 crore in the second half (H2) of FY 2026-27. This includes Sovereign Green Bonds (SGrBs) issuance of ₹15,000 crore During FY 2026-27, Government of India is expected to have Market Borrowing of ₹15,99,506 crore through dated securities, as compared to Budget Estimates of ₹17,20,000 crore for FY 2026-27. The gross market ...",
+   "image": null,
+   "why": [
+    "Ministry of Finance",
+    "Large outlay (Rs 10,000 Cr or more)"
+   ],
+   "tags": [
+    "Budget & Fiscal"
    ],
    "rank": 23,
    "must_read": false
