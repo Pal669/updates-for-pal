@@ -1,6 +1,6 @@
 {
  "edition": "2026-09-30",
- "built": "2026-09-30 02:33 IST",
+ "built": "2026-09-30 07:58 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,15 +12,15 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22780.0,
-   "change_pct": -1.56,
+   "value": 22716.0,
+   "change_pct": -0.28,
    "asof": "29 Sep 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72772.0,
-   "change_pct": -1.52,
+   "value": 72529.0,
+   "change_pct": -0.33,
    "asof": "29 Sep 15:32 IST"
   },
   {
@@ -28,21 +28,21 @@
    "dp": 2,
    "value": 95.97,
    "change_pct": -0.01,
-   "asof": "30 Sep 02:08 IST"
+   "asof": "30 Sep 07:55 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 95.7,
-   "change_pct": -9.1,
-   "asof": "30 Sep 02:22 IST"
+   "value": 96.0,
+   "change_pct": -6.42,
+   "asof": "30 Sep 07:48 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4213.0,
-   "change_pct": -2.51,
-   "asof": "30 Sep 02:23 IST"
+   "value": 4210.0,
+   "change_pct": 0.72,
+   "asof": "30 Sep 07:48 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -164,13 +164,34 @@
    ]
   },
   "Startups": {
-   "total": 297,
-   "new_today": 1,
+   "total": 300,
+   "new_today": 4,
    "items": [
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 91,
+     "priority": 71,
+     "title": "Physical AI startup SiMa.ai raises $150M in Series C",
+     "url": "https://yourstory.com/2026/09/physical-ai-startup-simaai-raises-150-million-series-c",
+     "date": "2026-09-29",
+     "source": "YourStory",
+     "label": "India · AI & Deeptech",
+     "snippet": "SiMa.ai said it will use the funding for scaling its agentic AI platform and to build hardware products.",
+     "lead": "Physical AI startup SiMa.ai raises $150M in Series C SiMa.ai said it will use the funding for scaling its agentic AI platform and to build hardware products. Team YS 17255 Stories Tuesday September 29, 2026 , 2 min Read SiMa.ai, a physical AI startup founded by Krishna Rangasayee, has raised $150 million in a Series C round co-led by Fidelity Management & Research Company and Amplify, with participation from Alter Venture Partners and ...",
+     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imagearak-1658749095270.jpg",
+     "why": [
+      "Funding",
+      "Large deal (about $150M)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 71,
      "title": "Edtech startup Arivihan raising Rs 96 Cr at Rs 570 Cr valuation",
      "url": "https://startupstorymedia.com/edtech-startup-arivihan-raising-rs-96-cr-at-rs-570-cr-valuation/",
      "date": "2026-09-28",
@@ -192,7 +213,7 @@
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 91,
+     "priority": 71,
      "title": "IIT Madras targets 1,000 startups by 2032, eyes one IPO every month",
      "url": "https://yourstory.com/2026/09/iit-madras-1000-startups-2032-one-ipo-every-month",
      "date": "2026-09-26",
@@ -212,7 +233,7 @@
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 91,
+     "priority": 71,
      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
      "date": "2026-09-23",
@@ -230,33 +251,32 @@
       "Funding",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 82,
-     "title": "WEH Ventures Announces First Close Of ₹250 Cr Fund III",
-     "url": "https://inc42.com/buzz/weh-ventures-announces-first-close-of-%e2%82%b9250-cr-fund-iii/",
-     "date": "2026-09-29",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "WEH Ventures has announced the first close of Fund III, targeting a ₹250 Cr corpus to back 20–25 early-stage startups across emerging sectors",
-     "lead": "Seed-stage VC firm WEH Ventures has announced the first close of its third fund, targeting a corpus of ₹250 Cr to invest in 20–25 early-stage Indian startups The firm is looking beyond its earlier software-heavy portfolio towards opportunities in the physical economy, including advanced manufacturing, agriculture, robotics and energy transition WEH Ventures has already committed to eight investments from Fund III across advanced ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/neogeo-funding-social-.png",
-     "why": [
-      "Funding",
-      "Sizeable deal (about $26M)"
-     ],
-     "tags": [
-      "Funding"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 529,
-   "new_today": 2,
+   "total": 534,
+   "new_today": 5,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 4,
+     "priority": 44,
+     "title": "The political battle over Australian immigration is really a story of what kind of nation we want to be | Peter Lewis",
+     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdzVNNmV1b3A3WUlHay1XNEs3VFZpSXZTUFNVLUp4V0E3NEJteXM1ZXhrU05ZZHFuYUVKYnJyV2x4dHdFUmRCd0lpWHI1LW5WZW5NR0lLSWZIdVZyc1R4dHNWYkpZMXV3bjBENDVyZkpFdkxVTS1GaW9UclJtd2pEQmxYRzN3dVN2TjhDd2dXbV8yMlpaNlJEdThpQjZBRjJDY1dsQnFmUjEwemltNHBhWG1fQXR0WURfUG8tb3JyLXNjekUxeXN1MlJMQ3FDeWxEa0NaVHZTOHVscWFnb0luaUZVc1piOWlLNTBKdmItY3VHR3ZWdGpzaU1faUR1RFpENnc?oc=5",
+     "date": "2026-09-30",
+     "source": "The Guardian",
+     "label": "Australia",
+     "snippet": "One Nation may have changed the outlines of the debate, but a majority of Australians still support immigration",
+     "lead": "One method of investing in a ‘working-class liberalism’, as advocated by the economist Daron Acemoglu, is by helping immigrants become citizens instead of being treated as short-term guest workers. Photograph: Tracey Nearmy/Getty Images View image in fullscreen One method of investing in a ‘working-class liberalism’, as advocated by the economist Daron Acemoglu, is by helping immigrants become citizens instead of being treated as ...",
+     "image": "https://i.guim.co.uk/img/media/afe100e95b5ae6b8d274b365bc58ee639ac5f44b/794_0_6564_5254/master/6564.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=ed0a3f0993611c1590c4202865573d4c",
+     "why": [
+      "High on the desk's ranking"
+     ],
+     "tags": [
+      "Australia"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 4,
@@ -275,25 +295,6 @@
      "tags": [
       "Work visa",
       "South Korea"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 4,
-     "priority": 44,
-     "title": "Japan’s Takaichi Touts Sweeping Changes in Immigration Rules",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU3FIRThJUDh5eXd2bFJvLUtiZE8xLU1pMGdrN1I1VHJBMi0xejJSYzZlWW03My13MHZrb0dtTTU1YmpjSXU1eTVTU2dsTWRMVFZvd004LXR0ZS1xNDAteFk3cVRPTDIzc3NrNEw4U0NqWGxJU3pFb0F0Wl9kemVTZ3ZrVEVWaXJ6QXZyMVVMV0x2ZnZOTlI1N3ZEZmREcVVySldETG5TRjNuTGcwbmdSNQ?oc=5",
-     "date": "2026-09-28",
-     "source": "Bloomberg.com",
-     "label": "Japan",
-     "snippet": "",
-     "lead": "",
-     "image": null,
-     "why": [
-      "Announces a change"
-     ],
-     "tags": [
-      "Japan"
      ]
     }
    ]
@@ -394,22 +395,24 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 11,
+   "score": 14,
    "priority": 100,
-   "title": "StockGro Confidentially Files IPO Papers, Eyes Up To ₹2,500 Cr Issue",
-   "url": "https://inc42.com/buzz/stockgro-confidentially-files-ipo-papers-eyes-up-to-%e2%82%b92500-cr-issue/",
-   "date": "2026-09-29",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "StockGro’s parent AssetGro Fintech Ltd announced that it has pre-filed DRHP with SEBI, BSE and NSE under the confidential pre-filing route on September 26",
-   "lead": "StockGro’s parent AssetGro Fintech Ltd announced that it has pre-filed DRHP with SEBI, BSE and NSE under the confidential pre-filing route on September 26 StockGro adds to the growing list of startups taking the confidential route to go public including companies like Kuku, Razorpay and MakeMyTrip StockGro is looking to raise up to ₹2,000 Cr-₹2,500 Cr via the IPO, which could include a fresh issue of around ₹800 Cr and an offer for ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Untitled-Design-8.png",
+   "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+   "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+   "date": "2026-09-30",
+   "source": "TechCrunch",
+   "label": "Global · Other",
+   "snippet": "EliseAI raises $350M, doubles valuation in a year.",
+   "lead": "AI startup EliseAI announced on Tuesday that it has raised $350 million at a $4 billion valuation, double what it was worth when it raised its Series E last August. This latest round was co-led by Andreessen Horowitz and Bessemer Ventures. EliseAI, founded in 2017, automates administrative and operational work for housing and healthcare companies. It said its software is used by 1 in 6 apartments across the country and announced this ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1469304638.jpg?resize=1200,669",
    "why": [
-    "IPO & Listing",
-    "Large deal (about $263M)"
+    "Funding",
+    "Very large figure in headline (about $4,000M: round or valuation)",
+    "Valuation, listing or profitability signal",
+    "Also covered by 1 other outlet(s)"
    ],
    "tags": [
-    "IPO & Listing"
+    "Funding"
    ],
    "rank": 1,
    "must_read": true
@@ -534,118 +537,6 @@
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "Tiger Global, Dragoneer in talks to invest in Kalshi's new $1 billion fundraise",
-   "url": "https://economictimes.indiatimes.com/tech/technology/tiger-global-dragoneer-in-talks-to-invest-in-kalshis-new-1-billion-fundraise/articleshow/134571743.cms",
-   "date": "2026-09-29",
-   "source": "ET Startups",
-   "label": "Global · Other",
-   "snippet": "The fresh capital raise is expected to be finalised in the coming weeks and will value Kalshi at about $40 billion, the sources said, requesting anonymity as the discussions are confidential. It comes on the heels of a $1 billion fundraise in May that valued the firm at $22 billion.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1205068,resizemode-75,msid-134571743/tech/technology/tiger-global-dragoneer-in-talks-to-invest-in-kalshis-new-1-billion-fundraise.jpg",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $1,000M: round or valuation)"
-   ],
-   "tags": [
-    "Funding"
-   ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "[Update] AceVector IPO Closes With 4.93X Oversubscription",
-   "url": "https://inc42.com/buzz/acevector-ipo-oversubscribed-2-59x-on-day-3-so-far/",
-   "date": "2026-09-29",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Snapdeal parent AceVector’s ₹420 Cr IPO was oversubscribed 4.93X at the end of the final day of bidding today",
-   "lead": "Following the close of bidding by today, AceVector’s shares are set to make their public market debut on the BSE and NSE tentatively on October 5 Retail investors bid for 6.33 Cr shares against the 1.37 Cr shares reserved for them, translating to an oversubscription of 4.62X. The highest number of bids have come from non institutional investors (NIIs) till now, who have placed bids for 8.46 Cr shares against the 2.06 Cr shares ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/AceVector-SM-1.png",
-   "why": [
-    "IPO & Listing",
-    "Sizeable deal (about $44M)"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "ITC Completes Yoga Bar Acquisition For ₹645 Cr",
-   "url": "https://inc42.com/buzz/itc-completes-yoga-bar-acquisition-for-%e2%82%b9645-cr/",
-   "date": "2026-09-29",
-   "source": "Inc42",
-   "label": "India · Commerce & D2C",
-   "snippet": "ITC has completed the acquisition of 100% of Sproutlife Foods, the parent of healthy snacking brand Yoga Bar",
-   "lead": "ITC has completed the acquisition of 100% of Sproutlife Foods, the parent of healthy snacking brand Yoga Bar The latest acquisition is in line with ITC’s strategy of building a “future-ready” portfolio in the foods segment In the latest transaction, ITC bought the remaining 52.5% stake in Yoga Bar for around ₹645 Cr",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/ITC-Yoga-Bar-social-.png",
-   "why": [
-    "Acquisition",
-    "Sizeable deal (about $68M)"
-   ],
-   "tags": [
-    "Acquisition",
-    "Commerce & D2C"
-   ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
-   "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
-   "date": "2026-09-29",
-   "source": "TechCrunch Venture",
-   "label": "Global · Other",
-   "snippet": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
-   "lead": "Protego Ventures closes debut $125 million fund for Israeli defense tech Anna Heim 3:00 AM PDT · September 29, 2026 Defense and venture capital used to rarely overlap, but that’s no longer the case. Defense tech VC dealmaking set a record in Q1 2026 , and new VC firms have emerged around the world to invest solely in defense startups. One of these is two-year-old Protego Ventures , which presents itself as the first and largest ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/PROTEGO-VENTURES.jpg?resize=1200,801",
-   "why": [
-    "IPO & Listing",
-    "Large deal (about $125M)"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "Physical AI startup SiMa.ai raises $150M in Series C",
-   "url": "https://yourstory.com/2026/09/physical-ai-startup-simaai-raises-150-million-series-c",
-   "date": "2026-09-29",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "SiMa.ai said it will use the funding for scaling its agentic AI platform and to build hardware products.",
-   "lead": "Physical AI startup SiMa.ai raises $150M in Series C SiMa.ai said it will use the funding for scaling its agentic AI platform and to build hardware products. Team YS 17255 Stories Tuesday September 29, 2026 , 2 min Read SiMa.ai, a physical AI startup founded by Krishna Rangasayee, has raised $150 million in a Series C round co-led by Fidelity Management & Research Company and Amplify, with participation from Alter Venture Partners and ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imagearak-1658749095270.jpg",
-   "why": [
-    "Funding",
-    "Large deal (about $150M)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
    "desk": "Immigration",
    "score": 8,
    "priority": 89,
@@ -665,7 +556,7 @@
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 12,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -688,7 +579,29 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 13,
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 79,
+   "title": "StockGro Confidentially Files IPO Papers, Eyes Up To ₹2,500 Cr Issue",
+   "url": "https://inc42.com/buzz/stockgro-confidentially-files-ipo-papers-eyes-up-to-%e2%82%b92500-cr-issue/",
+   "date": "2026-09-29",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "StockGro’s parent AssetGro Fintech Ltd announced that it has pre-filed DRHP with SEBI, BSE and NSE under the confidential pre-filing route on September 26",
+   "lead": "StockGro’s parent AssetGro Fintech Ltd announced that it has pre-filed DRHP with SEBI, BSE and NSE under the confidential pre-filing route on September 26 StockGro adds to the growing list of startups taking the confidential route to go public including companies like Kuku, Razorpay and MakeMyTrip StockGro is looking to raise up to ₹2,000 Cr-₹2,500 Cr via the IPO, which could include a fresh issue of around ₹800 Cr and an offer for ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Untitled-Design-8.png",
+   "why": [
+    "IPO & Listing",
+    "Large deal (about $263M)"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 9,
    "must_read": false
   },
   {
@@ -711,7 +624,7 @@
     "Citizenship",
     "Spain"
    ],
-   "rank": 14,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -734,6 +647,95 @@
    "tags": [
     "Work visa",
     "Denmark"
+   ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 71,
+   "title": "Tiger Global, Dragoneer in talks to invest in Kalshi's new $1 billion fundraise",
+   "url": "https://economictimes.indiatimes.com/tech/technology/tiger-global-dragoneer-in-talks-to-invest-in-kalshis-new-1-billion-fundraise/articleshow/134571743.cms",
+   "date": "2026-09-29",
+   "source": "ET Startups",
+   "label": "Global · Other",
+   "snippet": "The fresh capital raise is expected to be finalised in the coming weeks and will value Kalshi at about $40 billion, the sources said, requesting anonymity as the discussions are confidential. It comes on the heels of a $1 billion fundraise in May that valued the firm at $22 billion.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1205068,resizemode-75,msid-134571743/tech/technology/tiger-global-dragoneer-in-talks-to-invest-in-kalshis-new-1-billion-fundraise.jpg",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $1,000M: round or valuation)"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 71,
+   "title": "[Update] AceVector IPO Closes With 4.93X Oversubscription",
+   "url": "https://inc42.com/buzz/acevector-ipo-oversubscribed-2-59x-on-day-3-so-far/",
+   "date": "2026-09-29",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Snapdeal parent AceVector’s ₹420 Cr IPO was oversubscribed 4.93X at the end of the final day of bidding today",
+   "lead": "Following the close of bidding by today, AceVector’s shares are set to make their public market debut on the BSE and NSE tentatively on October 5 Retail investors bid for 6.33 Cr shares against the 1.37 Cr shares reserved for them, translating to an oversubscription of 4.62X. The highest number of bids have come from non institutional investors (NIIs) till now, who have placed bids for 8.46 Cr shares against the 2.06 Cr shares ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/AceVector-SM-1.png",
+   "why": [
+    "IPO & Listing",
+    "Sizeable deal (about $44M)"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 71,
+   "title": "ITC Completes Yoga Bar Acquisition For ₹645 Cr",
+   "url": "https://inc42.com/buzz/itc-completes-yoga-bar-acquisition-for-%e2%82%b9645-cr/",
+   "date": "2026-09-29",
+   "source": "Inc42",
+   "label": "India · Commerce & D2C",
+   "snippet": "ITC has completed the acquisition of 100% of Sproutlife Foods, the parent of healthy snacking brand Yoga Bar",
+   "lead": "ITC has completed the acquisition of 100% of Sproutlife Foods, the parent of healthy snacking brand Yoga Bar The latest acquisition is in line with ITC’s strategy of building a “future-ready” portfolio in the foods segment In the latest transaction, ITC bought the remaining 52.5% stake in Yoga Bar for around ₹645 Cr",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/ITC-Yoga-Bar-social-.png",
+   "why": [
+    "Acquisition",
+    "Sizeable deal (about $68M)"
+   ],
+   "tags": [
+    "Acquisition",
+    "Commerce & D2C"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 71,
+   "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
+   "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
+   "date": "2026-09-29",
+   "source": "TechCrunch Venture",
+   "label": "Global · Other",
+   "snippet": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
+   "lead": "Protego Ventures closes debut $125 million fund for Israeli defense tech Anna Heim 3:00 AM PDT · September 29, 2026 Defense and venture capital used to rarely overlap, but that’s no longer the case. Defense tech VC dealmaking set a record in Q1 2026 , and new VC firms have emerged around the world to invest solely in defense startups. One of these is two-year-old Protego Ventures , which presents itself as the first and largest ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/PROTEGO-VENTURES.jpg?resize=1200,801",
+   "why": [
+    "IPO & Listing",
+    "Large deal (about $125M)"
+   ],
+   "tags": [
+    "IPO & Listing"
    ],
    "rank": 15,
    "must_read": false
@@ -829,7 +831,7 @@
    "desk": "Immigration",
    "score": 5,
    "priority": 56,
-   "title": "Immigration NZ software approved visas without human checks",
+   "title": "Immigration New Zealand software approved 32 visitor visas and 23 job checks without any human assessment",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUExiSlZuR19INUlsMjhWQk94ejc3SHpzcUZwVkg1QjZCV093RVFtQUxTaUJqU1NfbU9xX05qUXVnWWR6b08tZGR5NGI3UXZxWTlMaUdCNXF4MF9WQkk0MWpXMm9aVWdPelpEZnVWWnN0OHNpOFhvNlhDZThfVUt1WHg4RUtLRGNwcGtkWHgzVTVyMWk5d0N3cmViU21wTnRTbm83WVhJYw?oc=5",
    "date": "2026-09-30",
    "source": "newswire.co.nz",
