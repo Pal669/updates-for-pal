@@ -68,6 +68,12 @@
    "isin": "INE238A01034"
   },
   {
+   "name": "BSE Ltd.",
+   "symbol": "BSE",
+   "industry": "Financial Services",
+   "isin": "INE118H01025"
+  },
+  {
    "name": "Bajaj Auto Ltd.",
    "symbol": "BAJAJ-AUTO",
    "industry": "Automobile and Auto Components",
@@ -260,6 +266,12 @@
    "isin": "INE267A01025"
   },
   {
+   "name": "Hitachi Energy India Ltd.",
+   "symbol": "POWERINDIA",
+   "industry": "Capital Goods",
+   "isin": "INE07Y701011"
+  },
+  {
    "name": "Hyundai Motor India Ltd.",
    "symbol": "HYUNDAI",
    "industry": "Automobile and Auto Components",
@@ -276,12 +288,6 @@
    "symbol": "ITC",
    "industry": "Fast Moving Consumer Goods",
    "isin": "INE154A01025"
-  },
-  {
-   "name": "Indian Hotels Co. Ltd.",
-   "symbol": "INDHOTEL",
-   "industry": "Consumer Services",
-   "isin": "INE053A01029"
   },
   {
    "name": "Indian Oil Corporation Ltd.",
@@ -344,12 +350,6 @@
    "isin": "INE018A01030"
   },
   {
-   "name": "Lodha Developers Ltd.",
-   "symbol": "LODHA",
-   "industry": "Realty",
-   "isin": "INE670K01029"
-  },
-  {
    "name": "Mahindra & Mahindra Ltd.",
    "symbol": "M&M",
    "industry": "Automobile and Auto Components",
@@ -404,6 +404,12 @@
    "isin": "INE318A01026"
   },
   {
+   "name": "Polycab India Ltd.",
+   "symbol": "POLYCAB",
+   "industry": "Capital Goods",
+   "isin": "INE455K01017"
+  },
+  {
    "name": "Power Finance Corporation Ltd.",
    "symbol": "PFC",
    "industry": "Financial Services",
@@ -422,12 +428,6 @@
    "isin": "INE160A01022"
   },
   {
-   "name": "REC Ltd.",
-   "symbol": "RECLTD",
-   "industry": "Financial Services",
-   "isin": "INE020B01018"
-  },
-  {
    "name": "Reliance Industries Ltd.",
    "symbol": "RELIANCE",
    "industry": "Oil Gas & Consumable Fuels",
@@ -444,12 +444,6 @@
    "symbol": "MOTHERSON",
    "industry": "Automobile and Auto Components",
    "isin": "INE775A01035"
-  },
-  {
-   "name": "Shree Cement Ltd.",
-   "symbol": "SHREECEM",
-   "industry": "Construction Materials",
-   "isin": "INE070A01015"
   },
   {
    "name": "Shriram Finance Ltd.",
@@ -572,22 +566,28 @@
    "isin": "INE692A01016"
   },
   {
-   "name": "United Spirits Ltd.",
-   "symbol": "UNITDSPR",
-   "industry": "Fast Moving Consumer Goods",
-   "isin": "INE854D01024"
-  },
-  {
    "name": "Varun Beverages Ltd.",
    "symbol": "VBL",
    "industry": "Fast Moving Consumer Goods",
    "isin": "INE200M01039"
   },
   {
+   "name": "Vedanta Aluminium Metal Ltd.",
+   "symbol": "VAML",
+   "industry": "Metals & Mining",
+   "isin": "INE1CDF01017"
+  },
+  {
    "name": "Vedanta Ltd.",
    "symbol": "VEDL",
    "industry": "Metals & Mining",
    "isin": "INE205A01025"
+  },
+  {
+   "name": "Vodafone Idea Ltd.",
+   "symbol": "IDEA",
+   "industry": "Telecommunication",
+   "isin": "INE669E01016"
   },
   {
    "name": "Wipro Ltd.",
