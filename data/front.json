@@ -1,6 +1,6 @@
 {
  "edition": "2026-09-30",
- "built": "2026-09-30 11:26 IST",
+ "built": "2026-09-30 22:04 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,44 +12,44 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22684.0,
-   "change_pct": -0.14,
-   "asof": "30 Sep 11:26 IST"
+   "value": 22620.0,
+   "change_pct": -0.42,
+   "asof": "30 Sep 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72726.0,
-   "change_pct": 0.27,
-   "asof": "30 Sep 11:11 IST"
+   "value": 72480.0,
+   "change_pct": -0.07,
+   "asof": "30 Sep 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.97,
-   "change_pct": -0.01,
-   "asof": "30 Sep 11:26 IST"
+   "value": 95.82,
+   "change_pct": -0.17,
+   "asof": "30 Sep 21:48 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 96.24,
-   "change_pct": -6.19,
-   "asof": "30 Sep 11:16 IST"
+   "value": 98.78,
+   "change_pct": -3.71,
+   "asof": "30 Sep 21:54 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4209.0,
-   "change_pct": 0.7,
-   "asof": "30 Sep 11:16 IST"
+   "value": 4193.0,
+   "change_pct": 0.31,
+   "asof": "30 Sep 21:54 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.26,
-   "change_pct": 0.29,
-   "asof": "30 Sep 00:29 IST"
+   "value": 5.28,
+   "change_pct": 0.57,
+   "asof": "30 Sep 21:49 IST"
   }
  ],
  "features": {
@@ -79,59 +79,20 @@
  },
  "desks": {
   "Policy": {
-   "total": 88,
-   "new_today": 1,
+   "total": 102,
+   "new_today": 15,
    "items": [
     {
      "desk": "Policy",
-     "score": 5,
-     "priority": 50,
-     "title": "Government’s Borrowing Plan for the second half of FY 2026-27",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2315024",
-     "date": "2026-09-25",
-     "source": "PIB",
-     "label": "Budget & Fiscal",
-     "snippet": "The Government of India, in consultation with the Reserve Bank of India (RBI), has decided to borrow",
-     "lead": "The Government of India, in consultation with the Reserve Bank of India (RBI), has decided to borrow ₹7,86,000 crore in the second half (H2) of FY 2026-27. This includes Sovereign Green Bonds (SGrBs) issuance of ₹15,000 crore During FY 2026-27, Government of India is expected to have Market Borrowing of ₹15,99,506 crore through dated securities, as compared to Budget Estimates of ₹17,20,000 crore for FY 2026-27. The gross market ...",
-     "image": null,
-     "why": [
-      "Ministry of Finance",
-      "Large outlay (Rs 10,000 Cr or more)"
-     ],
-     "tags": [
-      "Budget & Fiscal"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 5,
-     "priority": 50,
-     "title": "Flash Report on Central Sector Infrastructure Projects worth ₹150 crore and above",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2314852",
-     "date": "2026-09-25",
-     "source": "PIB",
-     "label": "Banking & Rates",
-     "snippet": "The Ministry of Statistics and Programme Implementation (MoSPI) continues to strengthen monitoring o",
-     "lead": "The Ministry of Statistics and Programme Implementation (MoSPI) continues to strengthen monitoring of Central Sector infrastructure projects through its PAIMANA platform, enabling improved tracking, timely reviews, and data-driven decision-making across Ministries. The portal tracks 1,731 Infrastructure Projects worth of ₹33.60 lakh crore as of August 2026. 3. Sector-wise (as per DEA’s Harmonized Master List of Infrastructure) Progress ...",
-     "image": null,
-     "why": [
-      "Rates and liquidity"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 5,
-     "priority": 50,
-     "title": "WMA Limit for Government of India for October 2026 – March 2027",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63670",
-     "date": "2026-09-25",
+     "score": 8,
+     "priority": 47,
+     "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on October 01, 2026",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63695",
+     "date": "2026-09-30",
      "source": "RBI",
      "label": "Banking & Rates",
      "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "The Reserve Bank of India, in consultation with the Government of India, has decided that the limit for Ways and Means Advances (WMA) for the second half of the financial year 2026-27 (October 2026 to March 2027) will be ₹50,000 crore. The Reserve Bank of India may trigger fresh floatation of market loans when the Government of India utilises 75 per cent of the WMA limit. The Reserve Bank of India, in consultation with the Government ...",
+     "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on October 01, 2026 (Thursday) . As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as ...",
      "image": null,
      "why": [
       "Regulator: RBI",
@@ -143,30 +104,130 @@
     },
     {
      "desk": "Policy",
-     "score": 5,
-     "priority": 50,
-     "title": "Underwriting Auction for sale of Government Security for ₹34,000 crore on September 25, 2026",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63655",
-     "date": "2026-09-24",
+     "score": 7,
+     "priority": 41,
+     "title": "Lending and Deposit Rates of Scheduled Commercial Banks – September 2026",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63702",
+     "date": "2026-09-30",
      "source": "RBI",
      "label": "Banking & Rates",
      "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "Government of India has announced the sale (re-issue) of Government Security, as detailed below, through auction to be held on September 25, 2026 (Friday) . As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
+     "lead": "Data on lending and deposit rates of scheduled commercial banks (SCBs) (excluding regional rural banks and small finance banks) received during September 2026 are set out in Tables 1 to 9. The weighted average lending rate (WALR) on outstanding rupee loans of SCBs declined marginally to 8.96 per cent in August 2026 from 8.97 per cent in July 2026. The WALR on fresh rupee loans of SCBs stood at 8.61 per cent in August 2026 (8.52 per ...",
      "image": null,
      "why": [
-      "Regulator: RBI",
-      "Large outlay (Rs 10,000 Cr or more)"
+      "Touches financial markets",
+      "Regulator: RBI"
      ],
      "tags": [
       "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 7,
+     "priority": 41,
+     "title": "Report of the Advisory Committee on Ways and Means Advances to State Governments",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63689",
+     "date": "2026-09-29",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "The Reserve Bank of India has today placed on its website the Report of the Advisory Committee on Ways and Means Advances (WMA) to State Governments . The Reserve Bank had constituted an Advisory Committee, under the Chairmanship of Shri I S N Prasad, former Additional Chief Secretary, Government of Karnataka. The terms of reference of the Advisory Committee included, inter alia, review of State-wise WMA limits and other financial ...",
+     "image": null,
+     "why": [
+      "Rates and liquidity",
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 6,
+     "priority": 35,
+     "title": "Shri Chouhan Approves ₹5,547.99 Crore Procurement of Pulses and Oilseeds Under PSS for Kharif 2026-27",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316939",
+     "date": "2026-09-30",
+     "source": "PIB",
+     "label": "Energy & Power",
+     "snippet": "Union Minister for Agriculture and Farmers’ Welfare and Rural Development Shri Shivraj Singh Chouhan",
+     "lead": "Union Minister for Agriculture and Farmers’ Welfare and Rural Development Shri Shivraj Singh Chouhan has approved procurement worth ₹5,547.99 crore at Minimum Support Price (MSP) under the Price Support Scheme (PSS) for the Kharif Marketing Season 2026-27 in Uttar Pradesh, Telangana and Karnataka. The decision is aimed at protecting farmers from a decline in market prices and ensuring remunerative returns for their produce, ...",
+     "image": null,
+     "why": [
+      "High on the desk's ranking"
+     ],
+     "tags": [
+      "Energy & Power"
      ]
     }
    ]
   },
   "Startups": {
-   "total": 306,
-   "new_today": 10,
+   "total": 325,
+   "new_today": 29,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 71,
+     "title": "Linux Laboratories raises $70M from ChrysCapital and Tata Capital Healthcare Fund",
+     "url": "https://yourstory.com/2026/09/linux-laboratories-70-million-chryscapital-tata-capital-healthcare-fund",
+     "date": "2026-09-30",
+     "source": "YourStory",
+     "label": "India · Health & Wellness",
+     "snippet": "Linux Laboratories will use the funding to support growth initiatives, including deepening its presence in core specialties, entering new therapeutic areas, and expanding its manufacturing facilities.",
+     "lead": "Linux Laboratories raises $70M from ChrysCapital and Tata Capital Healthcare Fund Linux Laboratories will use the funding to support growth initiatives, including deepening its presence in core specialties, entering new therapeutic areas, and expanding its manufacturing facilities. Team YS 17270 Stories Wednesday September 30, 2026 , 2 min Read Chennai-headquartered pharmaceutical formulations company Linux Laboratories has raised $70 ...",
+     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Image4uze-1628144908028-1631094743679-1749187924112.jpg",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $70M)"
+     ],
+     "tags": [
+      "Funding",
+      "Health & Wellness"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 71,
+     "title": "Tiger Global, Dragoneer in talks to invest in Kalshi's new $1 billion fundraise",
+     "url": "https://economictimes.indiatimes.com/tech/technology/tiger-global-dragoneer-in-talks-to-invest-in-kalshis-new-1-billion-fundraise/articleshow/134571743.cms",
+     "date": "2026-09-29",
+     "source": "ET Startups",
+     "label": "Global · Other",
+     "snippet": "The fresh capital raise is expected to be finalised in the coming weeks and will value Kalshi at about $40 billion, the sources said, requesting anonymity as the discussions are confidential. It comes on the heels of a $1 billion fundraise in May that valued the firm at $22 billion.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1205068,resizemode-75,msid-134571743/tech/technology/tiger-global-dragoneer-in-talks-to-invest-in-kalshis-new-1-billion-fundraise.jpg",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $1,000M: round or valuation)"
+     ],
+     "tags": [
+      "Funding"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 71,
+     "title": "[Update] AceVector IPO Closes With 4.93X Oversubscription",
+     "url": "https://inc42.com/buzz/acevector-ipo-oversubscribed-2-59x-on-day-3-so-far/",
+     "date": "2026-09-29",
+     "source": "Inc42",
+     "label": "India · Other",
+     "snippet": "Snapdeal parent AceVector’s ₹420 Cr IPO was oversubscribed 4.93X at the end of the final day of bidding today",
+     "lead": "Following the close of bidding by today, AceVector’s shares are set to make their public market debut on the BSE and NSE tentatively on October 5 Retail investors bid for 6.33 Cr shares against the 1.37 Cr shares reserved for them, translating to an oversubscription of 4.62X. The highest number of bids have come from non institutional investors (NIIs) till now, who have placed bids for 8.46 Cr shares against the 2.06 Cr shares ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/AceVector-SM-1.png",
+     "why": [
+      "IPO & Listing",
+      "Sizeable deal (about $44M)"
+     ],
+     "tags": [
+      "IPO & Listing"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -187,113 +248,51 @@
       "Acquisition",
       "Commerce & D2C"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 71,
-     "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
-     "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
-     "date": "2026-09-29",
-     "source": "TechCrunch Venture",
-     "label": "Global · Other",
-     "snippet": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
-     "lead": "Protego Ventures closes debut $125 million fund for Israeli defense tech Anna Heim 3:00 AM PDT · September 29, 2026 Defense and venture capital used to rarely overlap, but that’s no longer the case. Defense tech VC dealmaking set a record in Q1 2026 , and new VC firms have emerged around the world to invest solely in defense startups. One of these is two-year-old Protego Ventures , which presents itself as the first and largest ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/09/PROTEGO-VENTURES.jpg?resize=1200,801",
-     "why": [
-      "IPO & Listing",
-      "Large deal (about $125M)"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 71,
-     "title": "Physical AI startup SiMa.ai raises $150M in Series C",
-     "url": "https://yourstory.com/2026/09/physical-ai-startup-simaai-raises-150-million-series-c",
-     "date": "2026-09-29",
-     "source": "YourStory",
-     "label": "India · AI & Deeptech",
-     "snippet": "SiMa.ai said it will use the funding for scaling its agentic AI platform and to build hardware products.",
-     "lead": "Physical AI startup SiMa.ai raises $150M in Series C SiMa.ai said it will use the funding for scaling its agentic AI platform and to build hardware products. Team YS 17255 Stories Tuesday September 29, 2026 , 2 min Read SiMa.ai, a physical AI startup founded by Krishna Rangasayee, has raised $150 million in a Series C round co-led by Fidelity Management & Research Company and Amplify, with participation from Alter Venture Partners and ...",
-     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imagearak-1658749095270.jpg",
-     "why": [
-      "Funding",
-      "Large deal (about $150M)"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 71,
-     "title": "Edtech startup Arivihan raising Rs 96 Cr at Rs 570 Cr valuation",
-     "url": "https://startupstorymedia.com/edtech-startup-arivihan-raising-rs-96-cr-at-rs-570-cr-valuation/",
-     "date": "2026-09-28",
-     "source": "Startup Story",
-     "label": "India · AI & Deeptech",
-     "snippet": "AI Edtech startup Arivihan is set to raise Rs 95.86 crore or $10 million in a Series A round co-led by existing investors Accel and Prosus. This will be the",
-     "lead": "Meteor Venture | promoting potential startups to reach their zenith of success Nexus backed Blueshift raises $30M in Series C round led by Fort Ross Ventures, Avatar Growth Capital Edtech startup Doubtnut raises Rs 224 Cr in Series B round led by SIG, Lupa Systems",
-     "image": "https://startupstorymedia.com/wp-content/uploads/2026/09/Artboard-5-100-12.jpg",
-     "why": [
-      "Funding",
-      "Sizeable deal (about $60M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 537,
-   "new_today": 7,
+   "total": 550,
+   "new_today": 16,
    "items": [
     {
      "desk": "Immigration",
-     "score": 4,
-     "priority": 44,
-     "title": "The political battle over Australian immigration is really a story of what kind of nation we want to be | Peter Lewis",
-     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdzVNNmV1b3A3WUlHay1XNEs3VFZpSXZTUFNVLUp4V0E3NEJteXM1ZXhrU05ZZHFuYUVKYnJyV2x4dHdFUmRCd0lpWHI1LW5WZW5NR0lLSWZIdVZyc1R4dHNWYkpZMXV3bjBENDVyZkpFdkxVTS1GaW9UclJtd2pEQmxYRzN3dVN2TjhDd2dXbV8yMlpaNlJEdThpQjZBRjJDY1dsQnFmUjEwemltNHBhWG1fQXR0WURfUG8tb3JyLXNjekUxeXN1MlJMQ3FDeWxEa0NaVHZTOHVscWFnb0luaUZVc1piOWlLNTBKdmItY3VHR3ZWdGpzaU1faUR1RFpENnc?oc=5",
-     "date": "2026-09-30",
-     "source": "The Guardian",
-     "label": "Australia",
-     "snippet": "One Nation may have changed the outlines of the debate, but a majority of Australians still support immigration",
-     "lead": "One method of investing in a ‘working-class liberalism’, as advocated by the economist Daron Acemoglu, is by helping immigrants become citizens instead of being treated as short-term guest workers. Photograph: Tracey Nearmy/Getty Images View image in fullscreen One method of investing in a ‘working-class liberalism’, as advocated by the economist Daron Acemoglu, is by helping immigrants become citizens instead of being treated as ...",
-     "image": "https://i.guim.co.uk/img/media/afe100e95b5ae6b8d274b365bc58ee639ac5f44b/794_0_6564_5254/master/6564.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=ed0a3f0993611c1590c4202865573d4c",
+     "score": 5,
+     "priority": 56,
+     "title": "Italians increasingly acquire Belgian citizenship amid administrative and social shifts",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPXzhtZTVzUFF5aWZyRjJpdHhFS2Y5REdRQTJ4NnRXV0J2MHVSeW05aUZLcDFWbmtWOFY3NWRhWmdHZzBiRzF3d2pBWWE5WUs0ZnZra2dtWHRBNkRwRV9RWTZIRXZ5SFA3b0ZqTzVUM3BielNGMERaY0lSWXBzUkhZNW1RTWxBRkhVUVBaa3RmbC1VTW9kVEZkb1VjSXpwQ0NRZGpXSzZ5NkVOZXExajVHU2FvXzBrSEQ4cGF3cXBn?oc=5",
+     "date": "2026-09-28",
+     "source": "streamlinefeed.co.ke",
+     "label": "Belgium",
+     "snippet": "Despite holding EU passports, thousands of Italians are acquiring Belgian citizenship, driven by administrative hurdles, conservative shifts at home, and a...",
+     "lead": "Back to News / Diaspora Diaspora Italians increasingly acquire Belgian citizenship amid administrative and social shifts Despite holding EU passports, thousands of Italians are acquiring Belgian citizenship, driven by administrative hurdles, conservative shifts at home, and a desire for civic participation. Verified Sep 30, 2026 Updated Sep 30, 2026 4 min read Report article Follow on Google News Try asking Give me the 30-second brief ...",
+     "image": null,
      "why": [
-      "High on the desk's ranking"
+      "Affects citizenship"
      ],
      "tags": [
-      "Australia"
+      "Citizenship",
+      "Belgium"
      ]
     },
     {
      "desk": "Immigration",
-     "score": 4,
-     "priority": 44,
-     "title": "Beyond the Visa: Why Korea’s Global Talent Strategy Depends on Better Hiring Systems",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0Jkc0ctcWlLSkhFeVRJVGM5VUc4dVUwNlBuanlUQ2plcmJOV1AyNExHUDRneEJGNElDa09zdkhGUnRqT3J5UjVKMUd4UXBkTTBNWnNxOU83aU5rRWtMTnBsWTJHXzZ4QWdoVk1NamhzN2kxSTcta3dHNFpSZ0tOYWU5cmY3Snk4dmpSVkx0UTlBOU5TX1ItNXowcTBFcHBsRVNDbHhJc0V6RzI1WVE?oc=5",
-     "date": "2026-09-28",
-     "source": "AsiaTechDaily",
-     "label": "South Korea",
-     "snippet": "South Korea is accelerating efforts to attract international talent as demographic change and demand for advanced skills reshape its labor market. The country's economically active population is projected to begin declining from 2030, while people aged 65 and older are expected to account for 31.7% of the population by 2034. At the same t",
-     "lead": "South Korea is accelerating efforts to attract international talent as demographic change and demand for advanced skills reshape its labor market. The country’s economically active population is projected to begin declining from 2030, while people aged 65 and older are expected to account for 31.7% of the population by 2034. At the same time, demand is expected to grow in research and development, computer programming, engineering and ...",
-     "image": "https://asiatechdaily.com/wp-content/uploads/2026/09/Beyond-the-Visa-Why-Koreas-Global-Talent-Strategy-Depends-on-Better-Hiring-Systems.jpg",
+     "score": 5,
+     "priority": 56,
+     "title": "UPDATE: Swiss parliament rejects move for simplified citizenship process",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQem5lbkpfNnR4dHNTNXZLcVFjMDB5RVdEVDdLY0QwQjlLWWxGdTRUVUlWLTlHMUhjc3hsX3pMZVNIdVlLcTZHcGdXTkRFOEUtaXhrbTJzSzEycmE1RnVYa25MRDQtUjc0SGprbG9PYk9ZV0VYRndGblA5dGVaLVVzOW94ckh3OUFQemF2ZXZmcXU0eVhFbUVWdGFuQkhUdHdEWVBveDVPaw?oc=5",
+     "date": "2026-09-25",
+     "source": "The Local Switzerland",
+     "label": "Switzerland",
+     "snippet": "Switzerland's parliament this week rejected a proposal for a simplified naturalisation procedure that argued the Swiss naturalisation period is too long compared to other states.",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source Switzerland's parliament this week rejected a proposal for a simplified naturalisation procedure that argued the Swiss naturalisation period is too long compared to other states. The Council of States vote, which ...",
+     "image": null,
      "why": [
-      "Affects work visas"
+      "Affects citizenship"
      ],
      "tags": [
-      "Work visa",
-      "South Korea"
+      "Citizenship",
+      "Switzerland"
      ]
     }
    ]
@@ -393,6 +392,29 @@
  },
  "items": [
   {
+   "desk": "Policy",
+   "score": 17,
+   "priority": 100,
+   "title": "Cabinet approves Minimum Support Prices (MSP) for Rabi Crops for Marketing Season 2027-28",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316941",
+   "date": "2026-09-30",
+   "source": "PIB",
+   "label": "Agriculture & Food",
+   "snippet": "The Cabinet Committee on Economic Affairs (CCEA), chaired by the  Prime Minister Shri Narendra Modi,",
+   "lead": "The Cabinet Committee on Economic Affairs (CCEA), chaired by the Prime Minister Shri Narendra Modi, has approved the increase in the Minimum Support Prices (MSP) for all mandated Rabi Crops for Marketing Season 2027-28. Government has increased the Minimum Support Prices (MSP) of Rabi Crops for Marketing Season 2027-28, to ensure remunerative prices to the growers for their produce. The absolute highest increase in MSP has been ...",
+   "image": null,
+   "why": [
+    "Cabinet decision",
+    "Subsidy or incentive",
+    "Cabinet"
+   ],
+   "tags": [
+    "Agriculture & Food"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
    "desk": "Startups",
    "score": 14,
    "priority": 100,
@@ -413,7 +435,7 @@
    "tags": [
     "Funding"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -438,30 +460,30 @@
     "Regulatory",
     "Banks & Financials"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 100,
-   "title": "Foreign Exchange Management (Export and Import of Goods and Services) (Amendment) Regulations, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13714&Mode=0",
-   "date": "2026-09-25",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "RESERVE BANK OF INDIA FOREIGN EXCHANGE DEPARTMENT CENTRAL OFFICE Mumbai 400 001 Foreign Exchange Management (Export and Import of Goods and Services) (Amendment) Regulations, 2026 In exercise of the powers conferred by Section 7, Section 8, sub-section (6) of Section 10 and sub-section (2) of Section 47 of the Foreign Exchange Management Act, 1999 (42 of 1999), the Reserve Bank of India makes the following amendments to the Foreign ...",
-   "image": null,
+   "desk": "Startups",
+   "score": 13,
+   "priority": 93,
+   "title": "ElevenLabs doubles valuation to $22bn with tender offer",
+   "url": "https://sifted.eu/articles/elevenlabs-doubles-valuation-to-22bn-with-tender-offer/",
+   "date": "2026-09-30",
+   "source": "Sifted",
+   "label": "Global · Other",
+   "snippet": "New price tag comes little over six months since AI voice startup was valued at $11bn.",
+   "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
+   "image": "https://content.sifted.eu/wp-content/uploads/2026/03/30170822/Eleven-Labs-scaled-e1774886998162.webp",
    "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Regulator: RBI"
+    "Funding",
+    "Very large figure in headline (about $22,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Banking & Rates"
+    "Funding"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -484,7 +506,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -508,8 +530,8 @@
    "tags": [
     "PMS"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -532,7 +554,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -555,7 +577,29 @@
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 7,
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 86,
+   "title": "Startup Funding Crawls Up 5% YoY To $2.2 Bn In Q3 As Investors Get Picky",
+   "url": "https://inc42.com/buzz/startup-funding-crawls-up-5-yoy-to-2-2-bn-in-q3-2026-as-investors-get-picky/",
+   "date": "2026-09-30",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Homegrown new-age tech ventures raised $2.2 Bn between July and September, up 5% from the $2.1 Bn raised in the year-ago quarter",
+   "lead": "Indian startups raised $2.2 Bn in Q3 2026, up 5% YoY, even as deal count and active investors declined Growth stage funding rose 38% YoY, while AI, deeptech and cleantech attracted strong investor interest M&A activity rose 69% YoY, six new age tech companies went public, and investors increasingly looked towards secondary buyouts for liquidity",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Q3-Funding-social.jpg",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $2,200M: round or valuation)"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 9,
    "must_read": false
   },
   {
@@ -578,7 +622,7 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 8,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -601,7 +645,51 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 9,
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 14,
+   "priority": 82,
+   "title": "Cabinet approves One Network, Smarter Traffic: Delhi Moves to Real-Time Traffic Management",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316953",
+   "date": "2026-09-30",
+   "source": "PIB",
+   "label": "Other Policy",
+   "snippet": "The Cabinet Committee on Economic Affairs (CCEA), chaired by the  Prime Minister Shri Narendra Modi,",
+   "lead": "The Cabinet Committee on Economic Affairs (CCEA), chaired by the Prime Minister Shri Narendra Modi, has approved implementation of the ITMS Project by Delhi Police at an estimated cost of Rs.1,789.52 crore, inclusive of taxes. The project will cover 42 identified traffic corridors and will be implemented in three phases over 24 months, followed by five years of operation and maintenance. As part of the wider efforts of the Central ...",
+   "image": null,
+   "why": [
+    "Cabinet decision",
+    "Cabinet"
+   ],
+   "tags": [
+    "Other Policy"
+   ],
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 79,
+   "title": "Simple Energy Raises $180 Mn To Unlock Next Growth Phase",
+   "url": "https://inc42.com/buzz/simple-energy-raises-180-mn-to-unlock-next-growth-phase/",
+   "date": "2026-09-30",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "E2W manufacturer Simple Energy has raised $180 Mn (₹1,750 Cr) in its Series C funding round led by Dr. Arokiaswamy Velumani Family Office",
+   "lead": "Simple Energy has raised ₹1,750 Cr in Series C funding, taking its total equity capital raised to $264 Mn The fresh capital will help Simple support its next phase of growth by fueling key functions like marketing, supply chain, R&D and hiring The startup currently operates 80 sales outlets across 60 Indian cities and claims to be commanding a production capacity of 10,000 units per month",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Simple-Engry-social.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $180M)"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 13,
    "must_read": false
   },
   {
@@ -623,7 +711,29 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 10,
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 78,
+   "title": "New Zealand: Location Requirements for Accredited Employer Work Visa Holders Clarified",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYUVTT2V5bzlSd1ZQMEV0NFRkV2tCeld2c0NWS0FwSS05Q0xrSFViYnUzVFhHTUxEYjV0RUhQVFpqeVR5aW5kNlBESUFuMmtIOTlIR1dzeHJkbFhYaDZKbTN5RlUyVHFIOElDVGlSOWl2NDBnRjEyUXJ5dFg2WFhPSExSX1p1TkxfTFVDX1pTLVRVSkF6SkVPaGxDcmtxLTJ6ZV8zcmMyU2tVZ1pmVkxDWjhFYldUUk9JcDdzZVJjNERUQQ?oc=5",
+   "date": "2026-09-30",
+   "source": "Fragomen",
+   "label": "New Zealand",
+   "snippet": "Immigration New Zealand (INZ) has published updated guidance clarifying the location requirements for workers holding an Accredited Employer Work Visa (AEWV). When submitting a job check application, employers must specify the location or region where the role will be based. If a role regularly requires work across multiple locations, eac",
+   "lead": "Immigration New Zealand (INZ) has published updated guidance clarifying the location requirements for workers holding an Accredited Employer Work Visa (AEWV). When submitting a job check application, employers must specify the location or region where the role will be based. If a role regularly requires work across multiple locations, each location must be included in the job check and employers must provide evidence that the position ...",
+   "image": "https://www.fragomen.com/a/web/6neDND2DvH5cq9pLmAp2Ht/9PCium/open-graph-main-2025.jpg",
+   "why": [
+    "Affects work visas"
+   ],
+   "tags": [
+    "Work visa",
+    "New Zealand"
+   ],
+   "rank": 15,
    "must_read": false
   },
   {
@@ -646,7 +756,7 @@
     "Citizenship",
     "Spain"
    ],
-   "rank": 11,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -670,155 +780,46 @@
     "Work visa",
     "Denmark"
    ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 71,
-   "title": "Linux Laboratories raises $70M from ChrysCapital and Tata Capital Healthcare Fund",
-   "url": "https://yourstory.com/2026/09/linux-laboratories-70-million-chryscapital-tata-capital-healthcare-fund",
-   "date": "2026-09-30",
-   "source": "YourStory",
-   "label": "India · Health & Wellness",
-   "snippet": "Linux Laboratories will use the funding to support growth initiatives, including deepening its presence in core specialties, entering new therapeutic areas, and expanding its manufacturing facilities.",
-   "lead": "Linux Laboratories raises $70M from ChrysCapital and Tata Capital Healthcare Fund Linux Laboratories will use the funding to support growth initiatives, including deepening its presence in core specialties, entering new therapeutic areas, and expanding its manufacturing facilities. Team YS 17270 Stories Wednesday September 30, 2026 , 2 min Read Chennai-headquartered pharmaceutical formulations company Linux Laboratories has raised $70 ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Image4uze-1628144908028-1631094743679-1749187924112.jpg",
-   "why": [
-    "Funding",
-    "Sizeable deal (about $70M)"
-   ],
-   "tags": [
-    "Funding",
-    "Health & Wellness"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 71,
-   "title": "Tiger Global, Dragoneer in talks to invest in Kalshi's new $1 billion fundraise",
-   "url": "https://economictimes.indiatimes.com/tech/technology/tiger-global-dragoneer-in-talks-to-invest-in-kalshis-new-1-billion-fundraise/articleshow/134571743.cms",
-   "date": "2026-09-29",
-   "source": "ET Startups",
-   "label": "Global · Other",
-   "snippet": "The fresh capital raise is expected to be finalised in the coming weeks and will value Kalshi at about $40 billion, the sources said, requesting anonymity as the discussions are confidential. It comes on the heels of a $1 billion fundraise in May that valued the firm at $22 billion.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1205068,resizemode-75,msid-134571743/tech/technology/tiger-global-dragoneer-in-talks-to-invest-in-kalshis-new-1-billion-fundraise.jpg",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $1,000M: round or valuation)"
-   ],
-   "tags": [
-    "Funding"
-   ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 71,
-   "title": "[Update] AceVector IPO Closes With 4.93X Oversubscription",
-   "url": "https://inc42.com/buzz/acevector-ipo-oversubscribed-2-59x-on-day-3-so-far/",
-   "date": "2026-09-29",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Snapdeal parent AceVector’s ₹420 Cr IPO was oversubscribed 4.93X at the end of the final day of bidding today",
-   "lead": "Following the close of bidding by today, AceVector’s shares are set to make their public market debut on the BSE and NSE tentatively on October 5 Retail investors bid for 6.33 Cr shares against the 1.37 Cr shares reserved for them, translating to an oversubscription of 4.62X. The highest number of bids have come from non institutional investors (NIIs) till now, who have placed bids for 8.46 Cr shares against the 2.06 Cr shares ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/AceVector-SM-1.png",
-   "why": [
-    "IPO & Listing",
-    "Sizeable deal (about $44M)"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 7,
-   "priority": 70,
-   "title": "Report of the Advisory Committee on Ways and Means Advances to State Governments",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63689",
-   "date": "2026-09-29",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The Reserve Bank of India has today placed on its website the Report of the Advisory Committee on Ways and Means Advances (WMA) to State Governments . The Reserve Bank had constituted an Advisory Committee, under the Chairmanship of Shri I S N Prasad, former Additional Chief Secretary, Government of Karnataka. The terms of reference of the Advisory Committee included, inter alia, review of State-wise WMA limits and other financial ...",
-   "image": null,
-   "why": [
-    "Rates and liquidity",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 16,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 6,
-   "priority": 60,
-   "title": "Detailed Result: OMO Sale Auction held on Sep 28, 2026 and Settlement on Sep 29, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63680",
-   "date": "2026-09-28",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Regulator: RBI",
-    "Large outlay (Rs 10,000 Cr or more)"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
    "rank": 17,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 6,
-   "priority": 60,
-   "title": "PLI Scheme for Bulk Drugs for Resilient Pharmaceutical Supply Chain",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2314891",
-   "date": "2026-09-25",
+   "score": 13,
+   "priority": 76,
+   "title": "Cabinet approves Green Energy Corridor Phase-III scheme for Development of Intra-State Transmission System with Battery Energy Storage Systems",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316948",
+   "date": "2026-09-30",
    "source": "PIB",
-   "label": "Agriculture & Food",
-   "snippet": "The Production Linked Incentive (PLI) Scheme for Bulk Drugs is strengthening India’s domestic capabi",
-   "lead": "The Production Linked Incentive (PLI) Scheme for Bulk Drugs is strengthening India’s domestic capabilities in manufacturing critical Key Starting Materials (KSMs), Drug Intermediates (DIs) and Active Pharmaceutical Ingredients (APIs), reducing import dependence and enhancing resilience across the pharmaceutical supply chain. Five Greenfield projects that have commissioned manufacturing facilities under the Scheme demonstrate the ...",
+   "label": "Infrastructure & Transport",
+   "snippet": "The Union Cabinet chaired by the Prime Minister Shri Narendra Modi has approved the Green Energy Cor",
+   "lead": "The Union Cabinet chaired by the Prime Minister Shri Narendra Modi has approved the Green Energy Corridor Phase-III (GEC-III) scheme. This historic initiative will strengthen India’s Intra-State Transmission System (InSTS) to enable evacuation of up to 135 Gigawatt (GW) of renewable energy across States/ Union Territories. The scheme also provides for deployment of 50 GWh of Battery Energy Storage Systems (BESS) at the Renewable Energy ...",
    "image": null,
    "why": [
-    "Subsidy or incentive"
+    "Cabinet decision",
+    "Cabinet"
    ],
    "tags": [
-    "Agriculture & Food"
+    "Infrastructure & Transport"
    ],
    "rank": 18,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 6,
-   "priority": 60,
-   "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63649",
-   "date": "2026-09-23",
+   "score": 10,
+   "priority": 59,
+   "title": "Foreign Exchange Management (Export and Import of Goods and Services) (Amendment) Regulations, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13714&Mode=0",
+   "date": "2026-09-25",
    "source": "RBI",
    "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "RESERVE BANK OF INDIA FOREIGN EXCHANGE DEPARTMENT CENTRAL OFFICE Mumbai 400 001 Foreign Exchange Management (Export and Import of Goods and Services) (Amendment) Regulations, 2026 In exercise of the powers conferred by Section 7, Section 8, sub-section (6) of Section 10 and sub-section (2) of Section 47 of the Foreign Exchange Management Act, 1999 (42 of 1999), the Reserve Bank of India makes the following amendments to the Foreign ...",
    "image": null,
    "why": [
-    "New law or act",
+    "Regulator rulebook change",
+    "Rule change",
     "Regulator: RBI"
    ],
    "tags": [
@@ -831,84 +832,84 @@
    "desk": "Immigration",
    "score": 5,
    "priority": 56,
-   "title": "Immigration New Zealand software approved 32 visitor visas and 23 job checks without any human assessment",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUExiSlZuR19INUlsMjhWQk94ejc3SHpzcUZwVkg1QjZCV093RVFtQUxTaUJqU1NfbU9xX05qUXVnWWR6b08tZGR5NGI3UXZxWTlMaUdCNXF4MF9WQkk0MWpXMm9aVWdPelpEZnVWWnN0OHNpOFhvNlhDZThfVUt1WHg4RUtLRGNwcGtkWHgzVTVyMWk5d0N3cmViU21wTnRTbm83WVhJYw?oc=5",
+   "title": "Germany: Cuts to immigration budget likely to affect free asylum consultation services",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSHpEa2FsOFVGMGt4NnJPaU5DZkw0UE5JVGZaNlY0ZjNXZG1VVG0xSmhfeUNjYWJ4VlU0Q1h1dUQ2MFUzcWZvdzBxS2psanFDQjFiaEs0dzJOa3pEazJ3SmF1c2VIUTJHbnJORzZJVDVYdTdPbEt0LWZjdTZYWm9kYzV0SmRjdW1sNTJQUVJMVEh6bEU5d1Z6Ty1JakgxTFR5Wm05UlBVNVVwdWNUME1pUWU4dnkzSDVDUUxYekFjZ3QwUjA1bGNZ?oc=5",
    "date": "2026-09-30",
-   "source": "newswire.co.nz",
-   "label": "New Zealand",
-   "snippet": "Faults in Immigration New Zealand's ADEPT system approved 32 visitor visas and 23 job checks with no officer assessment, and missed TB checks for 364 applicants.",
-   "lead": "Software faults in Immigration New Zealand’s online visa system let 32 visitor visas and 23 Job Check applications be approved without an immigration officer ever assessing them, according to official briefings to Immigration Minister Erica Stanford reported by RNZ on Wednesday 30 September . The approvals were made by ADEPT, the online visa processing platform Immigration New Zealand launched in 2022. It is the backbone of Our Future ...",
-   "image": "https://newswire.co.nz/wp-content/uploads/2024/01/AUCKLAND-AIRPORT-NEW-ZEALAND-MARCH-6-2016-Airliner-of-Air-New-Zealand-at-Auckland-Airport-taking-off-in-the-background-ground-handling-of-another-aircraft-in-the-foreground.jpeg",
+   "source": "InfoMigrants",
+   "label": "Germany",
+   "snippet": "",
+   "lead": "",
+   "image": null,
    "why": [
     "Announces a change"
    ],
    "tags": [
-    "New Zealand"
+    "Germany"
    ],
    "rank": 20,
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 5,
-   "priority": 56,
-   "title": "UPDATE: Swiss parliament rejects move for simplified citizenship process",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQem5lbkpfNnR4dHNTNXZLcVFjMDB5RVdEVDdLY0QwQjlLWWxGdTRUVUlWLTlHMUhjc3hsX3pMZVNIdVlLcTZHcGdXTkRFOEUtaXhrbTJzSzEycmE1RnVYa25MRDQtUjc0SGprbG9PYk9ZV0VYRndGblA5dGVaLVVzOW94ckh3OUFQemF2ZXZmcXU0eVhFbUVWdGFuQkhUdHdEWVBveDVPaw?oc=5",
-   "date": "2026-09-25",
-   "source": "The Local Switzerland",
-   "label": "Switzerland",
-   "snippet": "Switzerland's parliament this week rejected a proposal for a simplified naturalisation procedure that argued the Swiss naturalisation period is too long compared to other states.",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source Switzerland's parliament this week rejected a proposal for a simplified naturalisation procedure that argued the Swiss naturalisation period is too long compared to other states. The Council of States vote, which ...",
+   "desk": "Policy",
+   "score": 9,
+   "priority": 53,
+   "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63694",
+   "date": "2026-09-30",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "T-Bill 91-Day 182-Day 364-Day I. Total Face Value Notified ₹9,000 Crore ₹8,000 Crore ₹7,000 Crore II. Cut-off Price (₹) and Implicit Yield at Cut-Off Price 98.6425 (YTM: 5.5199%) 97.1139 (YTM: 5.9601%) 94.1949 (YTM: 6.1798%) III. Total Face Value Accepted ₹9,000 Crore ₹8,000 Crore ₹7,000 Crore Ajit Prasad Deputy General Manager (Communications) Press Release: 2026-2027/1216",
+   "lead": "",
    "image": null,
    "why": [
-    "Affects citizenship"
+    "New law or act",
+    "Regulator: RBI"
    ],
    "tags": [
-    "Citizenship",
-    "Switzerland"
+    "Banking & Rates"
    ],
    "rank": 21,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 5,
-   "priority": 50,
-   "title": "NEW CORPORATE AVERAGE FUEL ECONOMY (CAFE) NORMS NOTIFIED",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316792",
+   "score": 8,
+   "priority": 47,
+   "title": "India’s indigenous technology push gains momentum as HD Kumaraswamy unveils MHI Industry Accelerator Impact Report at Navigyaan 2026",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316863",
    "date": "2026-09-30",
    "source": "PIB",
-   "label": "Energy & Power",
-   "snippet": "The Ministry of Power, Government of India has notified the new Corporate Average Fuel Economy (CAFE",
-   "lead": "The Ministry of Power, Government of India has notified the new Corporate Average Fuel Economy (CAFE) Norms for passenger vehicles, which will come into effect from 1 April 2027 and remain applicable up to 31 March 2032. The new norms will apply to new passenger vehicles manufactured or imported for sale in India. The new CAFE framework will drive progressive improvements in fuel economy through year-on-year tightening of targets ...",
+   "label": "Banking & Rates",
+   "snippet": "Union Minister for Heavy Industries and Steel, H. D. Kumaraswamy on Wednesday unveiled and digitally",
+   "lead": "Union Minister for Heavy Industries and Steel, H. D. Kumaraswamy on Wednesday unveiled and digitally launched the Impact Report of the Ministry of Heavy Industries (MHI) Industry Accelerator Project at Navigyaan 2026 in New Delhi, marking an important milestone in the development and advancement of indigenous technologies for India’s mobility and manufacturing sectors. Addressing the gathering, H.D. Kumaraswamy said the event marked ...",
    "image": null,
    "why": [
-    "Rule change"
+    "Rates and liquidity"
    ],
    "tags": [
-    "Energy & Power"
+    "Banking & Rates"
    ],
    "rank": 22,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 5,
-   "priority": 50,
-   "title": "CBDT extends due date for furnishing Return of Income for AY 2026-27 from 31st October, 2026 to 21st November, 2026 in respect of persons subject to audit under the Income-tax Act, 1961",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316050",
-   "date": "2026-09-28",
+   "score": 8,
+   "priority": 47,
+   "title": "Draft Petroleum (Amendment) Bill, 2026 Released for Stakeholder and Public Consultation",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316851",
+   "date": "2026-09-30",
    "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "The due date for furnishing Return of Income for Assessment Year 2026-27 is 31st October, 2026 in th",
-   "lead": "The due date for furnishing Return of Income for Assessment Year 2026-27 is 31 st October, 2026 in the case of persons mentioned at Serial No. 2 in the Table below Explanation 2 to sub-section (1) of section 139 of the Income-tax Act, 1961. The Central Board of Direct Taxes (CBDT) has extended the aforesaid due date of furnishing of Return of Income from 31 st October, 2026 to 21 st November, 2026 . Accordingly, the 'specified date' ...",
+   "label": "Energy & Power",
+   "snippet": "The draft Petroleum (Amendment) Bill, 2026, along with an explanatory note providing a brief overvie",
+   "lead": "The draft Petroleum (Amendment) Bill, 2026, along with an explanatory note providing a brief overview of the amendments, has been hosted on the website of the Ministry of Petroleum and Natural Gas on 30 th September, 2026, to invite comments and suggestions from all stakeholders as part of pre-legislative consultation, and the same may be accessed at https://mopng.gov.in/files/Whatsnew/Draft-Amendment-to-the-Petroleum-Act.pdf All ...",
    "image": null,
    "why": [
-    "Rule change",
-    "Ministry of Finance"
+    "New law or act",
+    "Rule change"
    ],
    "tags": [
-    "Tax, Duties & Trade"
+    "Energy & Power"
    ],
    "rank": 23,
    "must_read": false
