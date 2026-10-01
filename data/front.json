@@ -1,6 +1,6 @@
 {
- "edition": "2026-10-01",
- "built": "2026-10-01 22:41 IST",
+ "edition": "2026-10-02",
+ "built": "2026-10-02 02:50 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,80 +12,80 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22422.0,
-   "change_pct": -0.88,
+   "value": 22620.0,
+   "change_pct": -0.42,
    "asof": "01 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 71910.0,
-   "change_pct": -0.79,
+   "value": 72480.0,
+   "change_pct": -0.07,
    "asof": "01 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
    "value": 96.31,
-   "change_pct": 0.26,
-   "asof": "01 Oct 20:28 IST"
+   "change_pct": 0.4,
+   "asof": "02 Oct 02:12 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 101.29,
-   "change_pct": -2.16,
-   "asof": "01 Oct 22:31 IST"
+   "value": 102.21,
+   "change_pct": -1.27,
+   "asof": "02 Oct 02:29 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4193.0,
-   "change_pct": 0.14,
-   "asof": "01 Oct 22:31 IST"
+   "value": 4208.0,
+   "change_pct": 0.5,
+   "asof": "02 Oct 02:29 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.23,
-   "change_pct": -1.11,
-   "asof": "01 Oct 22:26 IST"
+   "value": 5.24,
+   "change_pct": -1.06,
+   "asof": "02 Oct 00:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "Aakash Educational Services",
-   "tagline": "Test-prep coaching chain owned by BYJU'S parent",
-   "what": "Gurugram-based test-prep brand for engineering and medical entrance exams, owned by BYJU'S parent Think & Learn since its 2021 acquisition.",
+   "company": "Curefoods and Rebel Foods",
+   "tagline": "Cloud-kitchen and restaurant-brand operators",
+   "what": "Curefoods runs brands such as EatFit, Nomad Pizza, Sharief Bhai Biryani, CakeZone, Frozen Bottle and Krispy Kreme (India rights acquired last year), with 500+ kitchens in 70 cities. Rebel Foods runs Faasos, Behrouz Biryani, Oven Story, Sweet Truth and 20+ other brands across 10 countries.",
    "how": [
-    "Coaching fees: Rs 1,956.2 Cr of Rs 2,040.5 Cr operating revenue in FY26 (about 96%, computed).",
-    "Franchisee revenue: Rs 84.4 Cr, up 4% (about 4%, computed)."
+    "Both report 'operating revenue' from operating cloud kitchens and restaurant chains, i.e. selling food under their own brands.",
+    "The article gives no split between delivery, dine-in or other channels."
    ],
-   "watch": "The smaller loss came from one-off accounting gains, not from the business growing: revenue is flat. Ownership is entangled in the BYJU'S group's disputes: Byju Raveendran proposed relinquishing his claimed interest in 17.89 Mn Aakash shares to settle Qatar Holding's arbitration claim of over $235 Mn; lenders (Global TLB lenders via GLAS Trust) are reportedly in advanced talks for a 30% stake valuing Aakash at about $2 Bn.",
-   "sector": "Edtech & Skills",
+   "watch": "Growth is above 20% but both still lose money. Rebel is narrowing losses; Curefoods' loss grew in absolute terms.",
+   "sector": "Commerce & D2C",
    "region": "India",
-   "url": "https://inc42.com/buzz/aakash-trims-fy26-loss-by-16-to-%e2%82%b9186-5-cr-top-line-flat-at-%e2%82%b92040-cr/"
+   "url": "https://economictimes.indiatimes.com/tech/technology/curefoods-revenue-grows-23-yoy-rebel-foods-revenue-up-20/articleshow/134338278.cms"
   },
   "country": {
-   "id": "iceland",
-   "name": "Iceland",
-   "trend": "Stable (not verified in detail)",
-   "pr": "Permanent residence generally after 4 years of continuous residence; often requires completing an Icelandic language course. An expedited route exists for doctorate holders with 3 years of expert-work permits.",
-   "citizenship": "Reported timeline of about 7 years; needs PR and the official Icelandic language test. Verify with the Directorate of Immigration.",
-   "pro": "High living standards, safety and equality (general knowledge).",
-   "con": "Tiny population (about 0.38 million, general knowledge): touches your size criterion.",
-   "watch": "Any 2026 Aliens Act amendments (not checked)"
+   "id": "finland",
+   "name": "Finland",
+   "trend": "Tightening",
+   "pr": "Since 8 January 2026 you need 6 years of continuous residence (previously 4), satisfactory Finnish or Swedish, and 2 years of work experience in Finland. 4-year alternatives exist, including an EUR 40,000 taxable-income pathway and a Finnish higher-education route. Not applied to applications filed before 8 January 2026.",
+   "citizenship": "8 years of residence since 1 October 2024, plus language requirements.",
+   "pro": "High quality of life, education and safety (general knowledge).",
+   "con": "Tightening at every stage: PR 4 to 6 years, citizenship 8 years, language proficiency required.",
+   "watch": "Implementation of the 2026 rules"
   }
  },
  "desks": {
   "Policy": {
-   "total": 118,
-   "new_today": 16,
+   "total": 119,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
      "score": 10,
-     "priority": 62,
+     "priority": 67,
      "title": "Foreign Exchange Management (Export and Import of Goods and Services) (Amendment) Regulations, 2026",
      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13714&Mode=0",
      "date": "2026-09-25",
@@ -105,8 +105,8 @@
     },
     {
      "desk": "Policy",
-     "score": 8,
-     "priority": 50,
+     "score": 7,
+     "priority": 47,
      "title": "Union Minister of Petroleum and Natural Gas Shri Hardeep Singh Puri launches GOBARdhan Scheme to accelerate development of India’s Compressed Biogas sector",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2317937",
      "date": "2026-10-01",
@@ -124,8 +124,8 @@
     },
     {
      "desk": "Policy",
-     "score": 8,
-     "priority": 50,
+     "score": 7,
+     "priority": 47,
      "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63694",
      "date": "2026-09-30",
@@ -144,8 +144,8 @@
     },
     {
      "desk": "Policy",
-     "score": 7,
-     "priority": 44,
+     "score": 6,
+     "priority": 40,
      "title": "India’s indigenous technology push gains momentum as HD Kumaraswamy unveils MHI Industry Accelerator Impact Report at Navigyaan 2026",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316863",
      "date": "2026-09-30",
@@ -164,13 +164,35 @@
    ]
   },
   "Startups": {
-   "total": 358,
-   "new_today": 30,
+   "total": 360,
+   "new_today": 2,
    "items": [
     {
      "desk": "Startups",
-     "score": 12,
-     "priority": 86,
+     "score": 11,
+     "priority": 85,
+     "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+     "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+     "date": "2026-09-30",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+     "lead": "Voice AI startup ElevenLabs announced today that it’s allowing employees to cash out a portion of their vested equity at a $22 billion valuation, doubling the $11 billion valuation the company hit when it raised $500 million in February. The recent $300 million tender offer gave employees an opportunity to sell their shares to investors. The transaction was co-led by Wellington and T. Rowe Price, large institutional investors that back ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $22,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
      "title": "ElevenLabs doubles valuation to $22bn with tender offer",
      "url": "https://sifted.eu/articles/elevenlabs-doubles-valuation-to-22bn-with-tender-offer/",
      "date": "2026-09-30",
@@ -190,8 +212,8 @@
     },
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 79,
+     "score": 10,
+     "priority": 77,
      "title": "SBI Mutual Fund Doubles Down On Swiggy, Buys Stock Worth ₹300 Cr",
      "url": "https://inc42.com/buzz/sbi-mutual-fund-doubles-down-on-swiggy-buys-stock-worth-%e2%82%b9300-cr/",
      "date": "2026-10-01",
@@ -211,8 +233,8 @@
     },
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 79,
+     "score": 10,
+     "priority": 77,
      "title": "Simple Energy bets Rs 1,750 Cr fundraise on clearing delivery backlog, scaling across India",
      "url": "https://yourstory.com/2026/09/shreshth-mishra-simple-energy-rs-1750-cr-pivot-scale-across-india",
      "date": "2026-10-01",
@@ -229,98 +251,79 @@
       "Funding",
       "Logistics & Supply Chain"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 79,
-     "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
-     "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
-     "date": "2026-10-01",
-     "source": "TechCrunch",
-     "label": "Global · Health & Wellness",
-     "snippet": "Watch as Neko Health Investor Farooq Abbasi joins Equity to explain the bet on preventative healthcare, competition and what comes next.",
-     "lead": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America Theresa Loconsolo 1:20 PM PDT · September 30, 2026 30 min Loading the player… Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner , while Function Health ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2023/02/neko-founders.jpeg?resize=1200,800",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $700M: round or valuation)"
-     ],
-     "tags": [
-      "Funding",
-      "Health & Wellness"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 604,
-   "new_today": 31,
+   "total": 610,
+   "new_today": 1,
    "items": [
     {
      "desk": "Immigration",
      "score": 5,
-     "priority": 38,
-     "title": "Germany: Cuts to immigration budget likely to affect free asylum consultation services",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSHpEa2FsOFVGMGt4NnJPaU5DZkw0UE5JVGZaNlY0ZjNXZG1VVG0xSmhfeUNjYWJ4VlU0Q1h1dUQ2MFUzcWZvdzBxS2psanFDQjFiaEs0dzJOa3pEazJ3SmF1c2VIUTJHbnJORzZJVDVYdTdPbEt0LWZjdTZYWm9kYzV0SmRjdW1sNTJQUVJMVEh6bEU5d1Z6Ty1JakgxTFR5Wm05UlBVNVVwdWNUME1pUWU4dnkzSDVDUUxYekFjZ3QwUjA1bGNZ?oc=5",
-     "date": "2026-09-30",
-     "source": "InfoMigrants",
-     "label": "Germany",
-     "snippet": "",
-     "lead": "",
+     "priority": 42,
+     "title": "UPDATE: Swiss parliament rejects move for simplified citizenship process",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQem5lbkpfNnR4dHNTNXZLcVFjMDB5RVdEVDdLY0QwQjlLWWxGdTRUVUlWLTlHMUhjc3hsX3pMZVNIdVlLcTZHcGdXTkRFOEUtaXhrbTJzSzEycmE1RnVYa25MRDQtUjc0SGprbG9PYk9ZV0VYRndGblA5dGVaLVVzOW94ckh3OUFQemF2ZXZmcXU0eVhFbUVWdGFuQkhUdHdEWVBveDVPaw?oc=5",
+     "date": "2026-09-25",
+     "source": "The Local Switzerland",
+     "label": "Switzerland",
+     "snippet": "Switzerland's parliament this week rejected a proposal for a simplified naturalisation procedure that argued the Swiss naturalisation period is too long compared to other states.",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source Switzerland's parliament this week rejected a proposal for a simplified naturalisation procedure that argued the Swiss naturalisation period is too long compared to other states. The Council of States vote, which ...",
      "image": null,
      "why": [
-      "Announces a change"
+      "Affects citizenship"
      ],
      "tags": [
-      "Germany"
+      "Citizenship",
+      "Switzerland"
      ]
     }
    ]
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 10,
+   "new_today": 8,
    "items": [
     {
      "desk": "Advisory",
-     "score": 11,
-     "priority": 79,
-     "title": "‘Indian markets not vulnerable’: SEBI overhauls portfolio manager norms, widens investment options, says Tuhin Kanta Pandey",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVEg4dkl6QU4zVlRERnlDeVU2b0FlR2NUcmNjWjBGeXdHeTk2eWpCeUtKMHdNcWMyZzlFTTdxQ1o3TFdfeWg1UTBQZlZnUlFwaVA1aE9CNXpwaE9USFpiYVk5QzUxem1nY3pmTzMyLVdiRHFBMDU4NzU3b0JEZlhrWnVxTVNqMzRnYWxQclpFbUxjOXhQZ3RQQjZtbHc2RkEzLUxLeTJXS2VVRDVZYUFsZDJqV1NjRmtKMlVROUJtdUJreFJmcXFMRjBDbkNxZnhHdVV2bGdNU0Vtdk1LMmVQbVZVYl9yOWJkT1dwRTBTV1hia3FBczJzU0NBYXpvSEnSAYQCQVVfeXFMT3REQXZzQzdwdmtIRG1zbGI5d2w2by0yUHZWVkluZkZKTWVTbGZzVjVENy1jM0pOb3ZlSjJiR1RiTVpCV2hZc1hyWDBqckN1WjVVZXdQX3ZBbXBqejZGV2hwanc3UDdFdXBxRy12WFBOYWhkb01Hc3hMM1FxRlBnQzhuYnVHaUFCX1IzeF9BZU9XRlRBd2gzSTZBemZ4Z2Rob195Z09RMndRMUh5VjBLdXpqQ0hMd3hLWUdHTDZKdTh1cjJvS2RRYWxNR2F5N0ZDZWhyS2hGVjVNQTVNZEVoQ2hYYk9fa3g5b0U4TTVGd3hTYUhKeHpLMWhsY1ByQnZXUTVEY1M?oc=5",
-     "date": "2026-09-30",
-     "source": "ET Now",
-     "label": "PMS",
+     "score": 10,
+     "priority": 71,
+     "title": "Gold holds steady as firm dollar, yields counter easing Fed rate hike bets",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRjFDcnNwNW1uWWdUaW5iaWRNLV8wbnl4QlBGWHFjN0twMDlINnBTclUwYnRGN1pTVTJYbE94MFEyRk5yQ0FUcXlQLXNkYkdPQXQ3eFlDUko4cXF1Vkc5TUg2LXZKSTAzc3hnOGJrT1hoNl92bG1mY1lSM2MwR3lBcGVQS2NmNDVEWUdURERqcDVkYUhpVTVXZDZqUEF6c1RCMjFFeWpOZWNKVzdGS3dFNzQ3VQ?oc=5",
+     "date": "2026-10-01",
+     "source": "Reuters",
+     "label": "Gold & Silver",
      "snippet": "",
      "lead": "",
      "image": null,
      "why": [
-      "PMS news",
-      "Regulator: SEBI or RBI",
-      "Rule or framework change"
+      "Interest-rate decision",
+      "Precious metals",
+      "Global macro driver"
      ],
      "tags": [
-      "PMS"
+      "Gold & Silver"
      ]
     },
     {
      "desk": "Advisory",
      "score": 10,
      "priority": 71,
-     "title": "RBI Rate Hike: CRISIL Says 50 bps Increase Unlikely to Hurt Indian Industry or Rural Demand",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUm5TMFRTWkZVakhIcWo5SHI3N0JqdklYd3Ewc1BsU0ZxQjJ4U2xldHA4VnFVV2pOWVhhQmJBTjBXTEZNQ01VRVNtYlcyelNGMlpGQUFGOUxCdEg2QmpTdGtOeFQ0dlBjMi01VnV6M2gzc0k4UTVJSVlXN2NXa1UwbExzSjBEMVdGSWd2b0V1WTJmSHdpOFp5cHlZdFJlV0hudWVkOHRhN0hnbU1OMUc5T3dzeXgwOHJod0VDV2IyMlRTTDNWS2pqdzNfb3ZqZ9IBzgFBVV95cUxNUm5TMFRTWkZVakhIcWo5SHI3N0JqdklYd3Ewc1BsU0ZxQjJ4U2xldHA4VnFVV2pOWVhhQmJBTjBXTEZNQ01VRVNtYlcyelNGMlpGQUFGOUxCdEg2QmpTdGtOeFQ0dlBjMi01VnV6M2gzc0k4UTVJSVlXN2NXa1UwbExzSjBEMVdGSWd2b0V1WTJmSHdpOFp5cHlZdFJlV0hudWVkOHRhN0hnbU1OMUc5T3dzeXgwOHJod0VDV2IyMlRTTDNWS2pqdzNfb3ZqZw?oc=5",
+     "title": "Marcellus Investment Managers receives final SEBI approval to launch Mutual Fund Business",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSWZFb0h2WUxjaXNTZGNGSjRnQzA2VjFkMVBTSExxUHVlaDJxRWN6MTJ4RV85TldhUFNyZUVGbTg1RmR1UjM1TWpOQVBhTkhHNDZ5S2MwNmxXSHdwdEJuTUF0N1IwY0t6ZHFXZEM5blpFakk2YUhhUXpVaExjaGtMMnZHYU9OTkJPbGFkcEhSYkVkQ2xYTjBOWXZqVk5zMzgyVl9tTEd3TVVwRXlqSEIyTHBlT0hLbEhNQzdQUDZha29scWFZV3IxN0ZFWdIBywFBVV95cUxPSWZFb0h2WUxjaXNTZGNGSjRnQzA2VjFkMVBTSExxUHVlaDJxRWN6MTJ4RV85TldhUFNyZUVGbTg1RmR1UjM1TWpOQVBhTkhHNDZ5S2MwNmxXSHdwdEJuTUF0N1IwY0t6ZHFXZEM5blpFakk2YUhhUXpVaExjaGtMMnZHYU9OTkJPbGFkcEhSYkVkQ2xYTjBOWXZqVk5zMzgyVl9tTEd3TVVwRXlqSEIyTHBlT0hLbEhNQzdQUDZha29scWFZV3IxN0ZFWQ?oc=5",
      "date": "2026-09-30",
-     "source": "Sangri Today",
-     "label": "Debt & Bonds",
-     "snippet": "Repo Rate: CRISIL stated that Indian industry can withstand a 50 basis point interest rate hike and the impact of El Niño. Rural demand will not be impacted. Other rating agencies also reported improved credit quality. Let's explore this in detail.",
-     "lead": "The anticipated interest rate increase of 0.50 percentage point by the Reserve Bank of India will have no effect on the Indian industry. The domestic credit rating agency CRISIL made this statement on Wednesday. It also added that El Nino-led deficient rainfall would have no impact on rural demand. A stable outlook has been given by CRISIL Ratings for the future credit. It was revealed by the agency that even the geopolitical turmoil ...",
-     "image": "https://www.sangritoday.com/uploads/images/2023/04/image_750x500_642bd50fc448d.jpg",
+     "source": "SMEStreet",
+     "label": "Mutual Funds",
+     "snippet": "Marcellus’ Mutual Fund to extend the firm",
+     "lead": "The final approval marks the next phase in the firm's evolution since its establishment in 2018. The mutual fund platform will allow Marcellus to participate in India's rapidly expanding mutual fund ecosystem and address a much larger pool of household savings through a regulated and accessible investment structure. The move comes as Indian households increasingly participate in financial markets through mutual funds and systematic ...",
+     "image": "https://img-cdn.publive.online/fit-in/1200x675/smstreet/media/media_files/2024/12/19/i49lJkNN3yTKDQqveE7Z.png",
      "why": [
       "Regulator: SEBI or RBI",
-      "Interest-rate decision"
+      "New product or fund",
+      "Also covered by 5 other outlet(s)"
      ],
      "tags": [
-      "Debt & Bonds"
+      "Mutual Funds"
      ]
     },
     {
@@ -349,20 +352,21 @@
      "desk": "Advisory",
      "score": 9,
      "priority": 64,
-     "title": "Wall Street up on pared Fed rate hike bets, bucks September trend with slight gain",
-     "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-drift-higher-as-yields-pause-oil-prices-slide-4923936",
+     "title": "Another stock market crash: Nifty, Sensex tank - FII selling, high bond yields, among 5 reasons behind big plunge",
+     "url": "https://www.livemint.com/market/another-stock-market-crash-nifty-sensex-tanks-fii-selling-high-bond-yields-among-5-reasons-behind-big-plunge-11790839846015.html",
      "date": "2026-10-01",
-     "source": "Investing.com",
-     "label": "Global",
-     "snippet": "",
-     "lead": "",
-     "image": null,
+     "source": "Mint",
+     "label": "Debt & Bonds",
+     "snippet": "Indian equity markets extended losses for the fourth session amid persistent FII selling, high bond yields, a weak rupee, and rising crude oil prices. Nifty and Sensex headed towards a potential eighth consecutive weekly decline, a first since 2001, amid tightening monetary policy concerns.",
+     "lead": "Stock market crash (AI-generated image for representational purposes) AI Quick Read Indian equity benchmarks extended their losing streak for the fourth consecutive session on Thursday, with investors grappling with a combination of persistent foreign institutional investor (FII) selling, elevated bond yields, a weakening rupee and high crude oil prices. The pressure was broad-based, with the Nifty 50 and Sensex opening lower and ...",
+     "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/Sensex_Nifty_Crash_1790840992400_8F3k_1790841024530_mPvu_46a81d1e-f7fa-4fcd-871b-a243881d12e3_MCbV.png",
      "why": [
-      "Interest-rate decision",
-      "Global macro driver"
+      "Government bond yields",
+      "Sharp market move",
+      "Sector or flows signal"
      ],
      "tags": [
-      "Global"
+      "Debt & Bonds"
      ]
     }
    ]
@@ -371,7 +375,7 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 14,
+   "score": 13,
    "priority": 100,
    "title": "IPO-bound Kuku turns profitable as FY26 revenue jumps sixfold to Rs 1,484 crore",
    "url": "https://economictimes.indiatimes.com/tech/technology/ipo-bound-kuku-turns-profitable-as-fy26-revenue-jumps-sixfold-to-rs-1484-crore/articleshow/134622598.cms",
@@ -394,7 +398,7 @@
   },
   {
    "desk": "Immigration",
-   "score": 13,
+   "score": 12,
    "priority": 100,
    "title": "Japan Substantially Raises Residency Fees: Permanent Residence Permit Now 200,000 Yen Starting Today",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BMlNGY0Z5WnN2MENLUVVNSnluZXg1TDNhNXloWm9SdTRWVl9fQ3dxSXVNQkpNMDdKd3JFZm8xeGplU2YtbEZPdmR0UWVhS1hualJPYm40UnBPTkZPTTZSTXBaTkc0c1NWcS1uUF9n?oc=5",
@@ -407,7 +411,7 @@
    "why": [
     "Affects permanent residence",
     "Announces a change",
-    "Major story (17 headlines that day)"
+    "Major story (18 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
@@ -417,8 +421,32 @@
    "must_read": true
   },
   {
+   "desk": "Advisory",
+   "score": 14,
+   "priority": 100,
+   "title": "RBI MPC Preview: BofA sees 25 bps rate hike as US yields and crude surge",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM3NGNGZEQl9mMnE3cUdWM2YxRlp4OG9GZks1ZVFpRm5OMkVFWGhfVGoxa2RBcmh1MnUyYUVWb1Q4dVYwcUhGTm5Sa2ZEaFBEanhUcDJCLWozcl9KbTk5dVF1N2lVQm1BanZJSU5LNl93Y2tIOGNjdWt2dEtoSlZnZUo0cTFualNlei1nZi1rQWs1VVltYUVDOWlFYW45TzZxYldZY0ZERzJObmVuSV8zQ0NVQktadVRYQWEtMG1WTDFfbTk4bmfSAcwBQVVfeXFMTTgwdmFmQk0xaEJUS1dXYTQ3aVpBUG1QSzN4Nmcyb0tvd3JUMWJfQjh5b0xzWFFhblZmYmZaVll3VzRJcDhkOU0tV04tREdnMkhQWG9lbnVCMlBNSHM0ZjNCVEE3QmZpQkxQY3Y2a2NuWlhBV2hhN3BYTWMtQWFSaTNZZ0REblpzTWtvSDBSTktkVU1GUS1rc2ZPUXNQUnFmUWplR09McTZIN1NfeDdJMkU1U2ZTVUJDXzdMVms3czdHc3VtejdOa1NRZXF0?oc=5",
+   "date": "2026-10-01",
+   "source": "financialexpress.com",
+   "label": "Regulatory",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Global macro driver",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 3,
+   "must_read": true
+  },
+  {
    "desk": "Policy",
-   "score": 16,
+   "score": 15,
    "priority": 100,
    "title": "Cabinet approves Minimum Support Prices (MSP) for Rabi Crops for Marketing Season 2027-28",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316941",
@@ -436,13 +464,13 @@
    "tags": [
     "Agriculture & Food"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
    "desk": "Advisory",
-   "score": 14,
-   "priority": 100,
+   "score": 13,
+   "priority": 93,
    "title": "Indian bond yields ease as oil cools, Fed rate hike bets tumble ahead of RBI policy",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWElfT1JtQTRYd1RwRDZEUS1kc2gxQVVXZjJ3RThMZVRKZWtxbzFsWVp1WVk0RGhzcXBKa2dzSnpfRUREd2wxZEtVeFhFWUMzOWVDYl9NRG5ZbWF2X3paeWctV0xoNXkzZncySTZ4NW9LLU4yVGVzTlNLUzg0SDJfTkFPdjVsZTJ6WVkwdUllMkViZUNybGtCdGo3N2pqQkxfS05GR18zZUphNTVwNXlPc216YWdDcFpybk45Y2VxeGR5dERUNzk4MEhjTGxyQnVXaHJrb0dDRUg5YUJUdXfSAeMBQVVfeXFMT200ZkdKVU15MGpVQjc0RHppTWlHa2MtWlktelI2bHZSVHh5ZHNoN3B1ZzZveVZxVk1HdWpMVmdzOGFZb0dTb28taW9IV2U0ZjBVLWVjeU4xSkgtQ2t4N3RhSm9FNzJzc2FpQ2pSX2RVb25rcFdKVHM0Nkg5RTdLNDR3NGNlR2Y0MFdGN05heTVaclVZVHlGM09QaVZZcmc3QldhSGJZYWhJaEIzUGxlMWJHSlVYU1p4cTlVX2RhU00wLXpjdHk5UzU5c3paUERvNGxKTGVrMDNWR1gta3hydWFubVU?oc=5",
    "date": "2026-09-30",
@@ -460,13 +488,13 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
    "desk": "Startups",
-   "score": 13,
-   "priority": 93,
+   "score": 12,
+   "priority": 92,
    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
    "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
    "date": "2026-10-01",
@@ -484,13 +512,13 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 13,
-   "priority": 93,
+   "score": 12,
+   "priority": 92,
    "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
    "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
    "date": "2026-09-30",
@@ -508,13 +536,13 @@
    "tags": [
     "Funding"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 13,
-   "priority": 93,
+   "score": 12,
+   "priority": 86,
    "title": "RBI may raise repo rate by 100 bps through H1 2027: BofA Securities",
    "url": "https://www.thehindubusinessline.com/money-and-banking/rbi-may-raise-repo-rate-by-100-bps-through-h1-2027-bofa-securities/article71526951.ece",
    "date": "2026-09-30",
@@ -531,13 +559,36 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
-   "priority": 86,
+   "score": 11,
+   "priority": 85,
+   "title": "SoftBank completes final phase of $30 billion investment in OpenAI",
+   "url": "https://economictimes.indiatimes.com/tech/technology/softbank-completes-final-phase-of-30-billion-investment-in-openai/articleshow/134626238.cms",
+   "date": "2026-10-02",
+   "source": "ET Startups",
+   "label": "Global · Fintech",
+   "snippet": "SoftBank Group said on Thursday it has completed its $30 billion investment in OpenAI as part of its commitment to the ChatGPT maker's last fundraising round. Here are some other",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-13808,resizemode-75,msid-134626238/tech/technology/softbank-completes-final-phase-of-30-billion-investment-in-openai.jpg",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $30,000M: round or valuation)"
+   ],
+   "tags": [
+    "Funding",
+    "Fintech"
+   ],
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
    "title": "Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says",
    "url": "https://economictimes.indiatimes.com/tech/technology/broadcom-to-lend-anthropic-up-to-42-billion-to-lease-its-chips-filing-says/articleshow/134615299.cms",
    "date": "2026-10-01",
@@ -554,13 +605,13 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 8,
+   "rank": 10,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
-   "priority": 86,
+   "score": 11,
+   "priority": 85,
    "title": "The investor behind Neko Health’s $700M bet on scanning your whole body",
    "url": "https://techcrunch.com/podcast/the-investor-behind-neko-healths-700m-bet-on-scanning-your-whole-body/",
    "date": "2026-10-01",
@@ -578,84 +629,13 @@
     "Funding",
     "Health & Wellness"
    ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 86,
-   "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-   "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-   "date": "2026-09-30",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-   "lead": "Voice AI startup ElevenLabs announced today that it’s allowing employees to cash out a portion of their vested equity at a $22 billion valuation, doubling the $11 billion valuation the company hit when it raised $500 million in February. The recent $300 million tender offer gave employees an opportunity to sell their shares to investors. The transaction was co-led by Wellington and T. Rowe Price, large institutional investors that back ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $22,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 12,
-   "priority": 86,
-   "title": "PMS Has Potential To Grow Over 20 Pc CAGR As Investment Participation Deepens: SEBI Chairman",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazdDX0tQSEdMSXU5d3RaS3FmTEdaVVR1SVRaQ1owQjBOMFdnTWEtdHBhcF9sM2VLNjNaUDZQck8wbEZzckk2MGZ4ZlJkLWtreTVSUVNuVmlDMDZhazJjdlNaaTZrRE01X3Fsc2haTENuZy1BSEJvaWJIVUp2dzl2U2NKMjZkRFJmNVp6NFVJU2UybWNUNmVjZE9BM0NHX2k1UnNxS3gyUWxPOHpFeGZfU0NUQmVXV2FCZ0hmVmdqU2JiQ1E1dUUyVw?oc=5",
-   "date": "2026-09-30",
-   "source": "Ommcom News",
-   "label": "PMS",
-   "snippet": "New Delhi: As India's investment universe expands, portfolio management services (PMS) could potentially grow at more than 20 per cent annually,",
-   "lead": "",
-   "image": "https://ommcomnews.com/wp-content/uploads/2026/01/New-Project-6-3.jpg",
-   "why": [
-    "PMS news",
-    "Regulator: SEBI or RBI",
-    "Also covered by 3 other outlet(s)"
-   ],
-   "tags": [
-    "PMS"
-   ],
    "rank": 11,
    "must_read": false
   },
   {
-   "desk": "Advisory",
-   "score": 12,
-   "priority": 86,
-   "title": "Will RBI rate hikes intensify selloff in bank stocks? Analysts explain why fears may be overdone",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-rbi-rate-hikes-intensify-selloff-in-bank-stocks-analysts-explain-why-fears-may-be-overdone/articleshow/134584665.cms",
-   "date": "2026-09-30",
-   "source": "Economic Times",
-   "label": "Regulatory",
-   "snippet": "Bank shares have endured steep declines as investors brace for imminent interest rate hikes from the RBI. Some analysts suggest that the recent selloff may be excessive, presenting an opportunity to pick up quality stocks at lower prices. The forthcoming Monetary Policy Committee meeting will clarify the scope of any rate changes. Althoug",
-   "lead": "Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Gold paradox: Why India, a refining giant, is not a big bullion exporter",
-   "image": "https://img.etimg.com/thumb/msid-134584806,width-1200,height-630,imgsize-2260841,overlay-etmarkets/articleshow.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Regulatory",
-    "Banks & Financials"
-   ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
    "desk": "Policy",
-   "score": 13,
-   "priority": 81,
+   "score": 12,
+   "priority": 80,
    "title": "RBI issues Amendment Directions on ‘Simplified approval process for subsequent acquisitions of major shareholding in a banking company by mutual funds, insurance companies and pension funds’",
    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63711",
    "date": "2026-10-01",
@@ -673,13 +653,13 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 13,
+   "rank": 12,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 13,
-   "priority": 81,
+   "score": 12,
+   "priority": 80,
    "title": "Cabinet approves One Network, Smarter Traffic: Delhi Moves to Real-Time Traffic Management",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316953",
    "date": "2026-09-30",
@@ -695,36 +675,36 @@
    "tags": [
     "Other Policy"
    ],
-   "rank": 14,
+   "rank": 13,
    "must_read": false
   },
   {
    "desk": "Advisory",
    "score": 11,
    "priority": 79,
-   "title": "Marcellus Investment Managers receives final SEBI approval to launch Mutual Fund Business",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSWZFb0h2WUxjaXNTZGNGSjRnQzA2VjFkMVBTSExxUHVlaDJxRWN6MTJ4RV85TldhUFNyZUVGbTg1RmR1UjM1TWpOQVBhTkhHNDZ5S2MwNmxXSHdwdEJuTUF0N1IwY0t6ZHFXZEM5blpFakk2YUhhUXpVaExjaGtMMnZHYU9OTkJPbGFkcEhSYkVkQ2xYTjBOWXZqVk5zMzgyVl9tTEd3TVVwRXlqSEIyTHBlT0hLbEhNQzdQUDZha29scWFZV3IxN0ZFWdIBywFBVV95cUxPSWZFb0h2WUxjaXNTZGNGSjRnQzA2VjFkMVBTSExxUHVlaDJxRWN6MTJ4RV85TldhUFNyZUVGbTg1RmR1UjM1TWpOQVBhTkhHNDZ5S2MwNmxXSHdwdEJuTUF0N1IwY0t6ZHFXZEM5blpFakk2YUhhUXpVaExjaGtMMnZHYU9OTkJPbGFkcEhSYkVkQ2xYTjBOWXZqVk5zMzgyVl9tTEd3TVVwRXlqSEIyTHBlT0hLbEhNQzdQUDZha29scWFZV3IxN0ZFWQ?oc=5",
+   "title": "PMS Has Potential To Grow Over 20 Pc CAGR As Investment Participation Deepens: SEBI Chairman",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazdDX0tQSEdMSXU5d3RaS3FmTEdaVVR1SVRaQ1owQjBOMFdnTWEtdHBhcF9sM2VLNjNaUDZQck8wbEZzckk2MGZ4ZlJkLWtreTVSUVNuVmlDMDZhazJjdlNaaTZrRE01X3Fsc2haTENuZy1BSEJvaWJIVUp2dzl2U2NKMjZkRFJmNVp6NFVJU2UybWNUNmVjZE9BM0NHX2k1UnNxS3gyUWxPOHpFeGZfU0NUQmVXV2FCZ0hmVmdqU2JiQ1E1dUUyVw?oc=5",
    "date": "2026-09-30",
-   "source": "SMEStreet",
-   "label": "Mutual Funds",
-   "snippet": "Marcellus’ Mutual Fund to extend the firm",
-   "lead": "The final approval marks the next phase in the firm's evolution since its establishment in 2018. The mutual fund platform will allow Marcellus to participate in India's rapidly expanding mutual fund ecosystem and address a much larger pool of household savings through a regulated and accessible investment structure. The move comes as Indian households increasingly participate in financial markets through mutual funds and systematic ...",
-   "image": "https://img-cdn.publive.online/fit-in/1200x675/smstreet/media/media_files/2024/12/19/i49lJkNN3yTKDQqveE7Z.png",
+   "source": "Ommcom News",
+   "label": "PMS",
+   "snippet": "New Delhi: As India's investment universe expands, portfolio management services (PMS) could potentially grow at more than 20 per cent annually,",
+   "lead": "",
+   "image": "https://ommcomnews.com/wp-content/uploads/2026/01/New-Project-6-3.jpg",
    "why": [
+    "PMS news",
     "Regulator: SEBI or RBI",
-    "New product or fund",
-    "Also covered by 5 other outlet(s)"
+    "Also covered by 3 other outlet(s)"
    ],
    "tags": [
-    "Mutual Funds"
+    "PMS"
    ],
-   "rank": 15,
+   "rank": 14,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 12,
-   "priority": 75,
+   "score": 11,
+   "priority": 73,
    "title": "Cabinet approves Green Energy Corridor Phase-III scheme for Development of Intra-State Transmission System with Battery Energy Storage Systems",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316948",
    "date": "2026-09-30",
@@ -740,20 +720,43 @@
    "tags": [
     "Infrastructure & Transport"
    ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 71,
+   "title": "KFintech and APMI Launch InPro, an Industry Wide AML Platform for India’s PMS Industry",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWm81cTIzazBJMkQweUx2U3dVMm9LUHF2bXZ4aVdNQXQxMmpGVWZhOHNJNVplNVNLRmpUWUlKSGJXMG5taDNBVVdQSjlXSmFTbHR4NFl1dFlYcVQwMkhkTmJVLWE4MHNOWXk0VWpJZHdiNlVvblBFb0ZGdnJEUlZzcEx0a3ZadXh5ZnVoOGM2ellWVlFqRDZZWnAxOHBYZnJXN3ZoZnQtWDZBVjlScERCbTYtWWhUd0E?oc=5",
+   "date": "2026-10-01",
+   "source": "Pune Prahar",
+   "label": "PMS",
+   "snippet": "Mumbai, October 01, 2026: KFin Technologies Limited (KFintech) and the Association of Portfolio Managers in India (APMI) today announced the launch of InPro, an intelligent Anti Money Laundering (AML) and compliance operations platform designed to strengthen AML screening and ongoing monitoring across India’s Portfolio Management Services",
+   "lead": "The platform was launched by Shri Tuhin Kanta Pandey, Chairman, Securities and Exchange Board of India (SEBI) , at APMI’s 3rd Annual Conference at the Jio World Convention Centre, Mumbai. AML compliance is increasingly moving beyond point in time onboarding checks, as investor profiles and risk indicators can change throughout the customer lifecycle. A new sanctions listing, a change in customer information, a politically exposed ...",
+   "image": "https://puneprahar.com/wp-content/uploads/2026/10/6695360b-e0b0-4d8b-8785-96d683ade939-e1790871184574.png",
+   "why": [
+    "PMS news",
+    "New product or fund",
+    "Also covered by 4 other outlet(s)"
+   ],
+   "tags": [
+    "PMS"
+   ],
    "rank": 16,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 11,
-   "priority": 69,
-   "title": "Reserve Bank of India (Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026: issued for 4 bank categories",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13722&Mode=0",
+   "score": 10,
+   "priority": 67,
+   "title": "Reserve Bank of India (Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026: issued for 3 bank categories",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13721&Mode=0",
    "date": "2026-10-01",
    "source": "RBI",
    "label": "Banking & Rates",
    "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Local Area Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026 The Reserve Bank had issued the Reserve Bank of India (Local Area Banks – Acquisition and Holding of Shares or Voting Rights) Directions, 2025 (hereinafter referred as the ‘Master Direction’), on November 28, 2025, which mandates that any person seeking to make an initial acquisition of major shareholding in a ...",
+   "lead": "Reserve Bank of India (Payments Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026 The Reserve Bank had issued the Reserve Bank of India (Payments Banks – Acquisition and Holding of Shares or Voting Rights) Directions, 2025 (hereinafter referred as the ‘Master Direction’), on November 28, 2025, which mandates that any person seeking to make an initial acquisition of major shareholding in a banking ...",
    "image": null,
    "why": [
     "Regulator rulebook change",
@@ -768,8 +771,8 @@
   },
   {
    "desk": "Policy",
-   "score": 11,
-   "priority": 69,
+   "score": 10,
+   "priority": 67,
    "title": "Consolidation/ Review of instructions issued on currency management matters – Withdrawal of Circulars/ Guidelines",
    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13718&Mode=0",
    "date": "2026-10-01",
@@ -791,8 +794,8 @@
   },
   {
    "desk": "Policy",
-   "score": 11,
-   "priority": 69,
+   "score": 10,
+   "priority": 67,
    "title": "Master Circular - Credit Facilities to Scheduled Castes (SCs) & Scheduled Tribes (STs)",
    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13716&Mode=0",
    "date": "2026-10-01",
@@ -814,8 +817,8 @@
   },
   {
    "desk": "Immigration",
-   "score": 9,
-   "priority": 69,
+   "score": 8,
+   "priority": 67,
    "title": "ILPA highlights 20 things you might not know about Home Office’s earned settlement proposals",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFczeExkaDZKWXdXXzNnb1ZFVXpmbmpkRUdsa0w1c1hKNHZvQkFhdF9fV1FVRlFhM0J2VEJnN3puNlNJbFI0QUJHcVVxYXRSbF9Cb01MM1ZKRF9ZQmRIbldOOVZiTVFnMEJOV1pWajNGeWhRcjJOZFYzdkFkRm9semJnaFdwOFJxMTBBMWYybmtVNm9tbnhxWk5FeksxdUxkdWpRODdYVDhUOEs0VDJoOHdZRTF1T3pWdW5B?oc=5",
    "date": "2026-10-01",
@@ -838,7 +841,7 @@
   {
    "desk": "Immigration",
    "score": 7,
-   "priority": 54,
+   "priority": 58,
    "title": "Spain announces 2-year fast-track citizenship route for citizens of 23 countries",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmp4cEdnWW9iaU9ER25YazZyck9OWDRyTnBwLU45SG9PTGJvVU9iaFNKN2NFa3dZMGNtXzhsSmVnR3BhWUZLMGhXYmRDaDNEeEd3SGFYYlhYYkhUS3dWYkdLSFY2N3NPMnpZVDAxTUhod3RFQlUzMU91Z2hteXVUandKWUdnb3dwNGdzMnlTMGZ4aVJFdnhTYzQyTjVjYXFEOXZPT3RQLUk?oc=5",
    "date": "2026-09-27",
@@ -860,32 +863,30 @@
   },
   {
    "desk": "Immigration",
-   "score": 7,
-   "priority": 54,
-   "title": "Denmark to Introduce Work Permit Route for Indians",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DeDdRUVlFcWZsRGtlT1lkQmt3aG5FZGsyT2NEdGpCMEJRYmNPM1dxY1owNHhqQkNfNGlGTXMxSmwyUnZwd3ducElGQV9CWmI5TjBpR3lkcG9HeGxYRTZxc1R4ZDRrQ1MwZm9aakE3aVBqU2p1Ukl2cWVvb1hiT0k?oc=5",
-   "date": "2026-09-24",
-   "source": "GK Today",
-   "label": "Denmark",
-   "snippet": "Denmark’s Parliament passed legislation on 4 September 2026 to create a new work permit route called the Collective Agreement-Based Business Scheme. The scheme is schedul",
-   "lead": "Denmark ’s Parliament passed legislation on 4 September 2026 to create a new work permit route called the Collective Agreement-Based Business Scheme. The scheme is scheduled to begin on 1 January 2027 and will allow eligible employers in Denmark to recruit foreign workers under a simplified immigration pathway. Indian nationals will be among the citizens of 16 eligible countries who can apply under this route. The Collective ...",
-   "image": null,
+   "score": 6,
+   "priority": 50,
+   "title": "Canada invites 3,500 tradespeople to apply for permanent residence",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdk5MS1lvQmRydnpVYjNvNHBPX08tb3M5UzJKdE01RXUwbHZxZkdrYnZuX3BwNVBBM1V6WkFOU3VfRzZiTW9KM0VjTGg0QVNBN1BRRlBSNWhUOFV0R2FyQjNMNnNhYTFHR2FpSUF0cnFRYWVxN3VidmlHeXdvbVZtSmtmLTMzampkQ1k2a1RaRXdoSndIdDlGMTVvaVlua1FqY3phd09xREl6aDVSMlhB0gGUAkFVX3lxTE4zak0xb2dKUzFSQzVNblNQSndXY1dVSzZCaDBIamlteXBtYU81VnVRbGZyTFl1OUR6a2JBRllONGxqRG05VmRlelJ5Vk5HZ0psa25aTXQ5WmFCUUlCa09lZTVKWXo2aGJoXzlodlB5a2g1RjJvRUVBcGxVQ3ByN1BvUks3NEl3MHRwUVozdjdRUENkajhmS0ZnMzRrcWxrbndRMTJuWGcycUpHb0VkZFFIQ0ZTV3QtRThlaVZNRXUxZFhwMHpycnd0bUN1cVdJckRueFlicUh5Y0JxeGpZRE54OGRSaS1kNy03NDh6T2xkQ0dRT0llSjFjNVdiZUE4TFlXRTNZYXM4M0IwNE12Z3kwX1RxSw?oc=5",
+   "date": "2026-10-01",
+   "source": "CIC News",
+   "label": "Canada",
+   "snippet": "Immigration, Refugees and Citizenship Canada (IRCC) has invited 3,500 tradespeople to apply for permanent residence through Express Entry. To be considered in this draw, candidates needed to meet the minimum work experience for the Trades category, and have A minimum Comprehensive Ranking System (CRS) score of 476; and Created an Express ",
+   "lead": "Immigration, Refugees and Citizenship Canada (IRCC) has invited 3,500 tradespeople to apply for permanent residence through Express Entry. To be considered in this draw, candidates needed to meet the minimum work experience for the Trades category, and have For candidates with a CRS score of 476, they had to have created their profile on or before May 28, 2026 at 16:55:23 UTC.",
+   "image": "https://www.cicnews.com/wp-content/uploads/2026/09/EXPRESS-ENTRY-DRAW-59.jpg",
    "why": [
-    "Affects work visas",
-    "Announces a change",
-    "Mentions India or Indians"
+    "Affects permanent residence"
    ],
    "tags": [
-    "Work visa",
-    "Denmark"
+    "PR / Settlement",
+    "Canada"
    ],
    "rank": 22,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 6,
-   "priority": 46,
+   "score": 5,
+   "priority": 42,
    "title": "New Zealand: Location Requirements for Accredited Employer Work Visa Holders Clarified",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYUVTT2V5bzlSd1ZQMEV0NFRkV2tCeld2c0NWS0FwSS05Q0xrSFViYnUzVFhHTUxEYjV0RUhQVFpqeVR5aW5kNlBESUFuMmtIOTlIR1dzeHJkbFhYaDZKbTN5RlUyVHFIOElDVGlSOWl2NDBnRjEyUXJ5dFg2WFhPSExSX1p1TkxfTFVDX1pTLVRVSkF6SkVPaGxDcmtxLTJ6ZV8zcmMyU2tVZ1pmVkxDWjhFYldUUk9JcDdzZVJjNERUQQ?oc=5",
    "date": "2026-09-30",
