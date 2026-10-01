@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-01",
- "built": "2026-10-01 08:00 IST",
+ "built": "2026-10-01 11:09 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22620.0,
-   "change_pct": -0.42,
-   "asof": "30 Sep 15:31 IST"
+   "value": 22534.0,
+   "change_pct": -0.38,
+   "asof": "01 Oct 11:09 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72480.0,
+   "value": 72433.0,
    "change_pct": -0.07,
-   "asof": "30 Sep 15:32 IST"
+   "asof": "01 Oct 10:54 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.82,
-   "change_pct": -0.24,
-   "asof": "01 Oct 07:57 IST"
+   "value": 95.96,
+   "change_pct": -0.09,
+   "asof": "01 Oct 11:09 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 97.98,
-   "change_pct": -5.36,
-   "asof": "01 Oct 07:50 IST"
+   "value": 96.61,
+   "change_pct": -6.68,
+   "asof": "01 Oct 10:59 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4182.0,
-   "change_pct": -0.12,
-   "asof": "01 Oct 07:50 IST"
+   "value": 4217.0,
+   "change_pct": 0.72,
+   "asof": "01 Oct 10:59 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,9 +79,48 @@
  },
  "desks": {
   "Policy": {
-   "total": 102,
-   "new_today": 0,
+   "total": 105,
+   "new_today": 3,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 7,
+     "priority": 44,
+     "title": "India’s indigenous technology push gains momentum as HD Kumaraswamy unveils MHI Industry Accelerator Impact Report at Navigyaan 2026",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316863",
+     "date": "2026-09-30",
+     "source": "PIB",
+     "label": "Banking & Rates",
+     "snippet": "Union Minister for Heavy Industries and Steel, H. D. Kumaraswamy on Wednesday unveiled and digitally",
+     "lead": "Union Minister for Heavy Industries and Steel, H. D. Kumaraswamy on Wednesday unveiled and digitally launched the Impact Report of the Ministry of Heavy Industries (MHI) Industry Accelerator Project at Navigyaan 2026 in New Delhi, marking an important milestone in the development and advancement of indigenous technologies for India’s mobility and manufacturing sectors. Addressing the gathering, H.D. Kumaraswamy said the event marked ...",
+     "image": null,
+     "why": [
+      "Rates and liquidity"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 7,
+     "priority": 44,
+     "title": "Draft Petroleum (Amendment) Bill, 2026 Released for Stakeholder and Public Consultation",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316851",
+     "date": "2026-09-30",
+     "source": "PIB",
+     "label": "Energy & Power",
+     "snippet": "The draft Petroleum (Amendment) Bill, 2026, along with an explanatory note providing a brief overvie",
+     "lead": "The draft Petroleum (Amendment) Bill, 2026, along with an explanatory note providing a brief overview of the amendments, has been hosted on the website of the Ministry of Petroleum and Natural Gas on 30 th September, 2026, to invite comments and suggestions from all stakeholders as part of pre-legislative consultation, and the same may be accessed at https://mopng.gov.in/files/Whatsnew/Draft-Amendment-to-the-Petroleum-Act.pdf All ...",
+     "image": null,
+     "why": [
+      "New law or act",
+      "Rule change"
+     ],
+     "tags": [
+      "Energy & Power"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 7,
@@ -121,52 +160,34 @@
      "tags": [
       "Banking & Rates"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 6,
-     "priority": 38,
-     "title": "Report of the Advisory Committee on Ways and Means Advances to State Governments",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63689",
-     "date": "2026-09-29",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "The Reserve Bank of India has today placed on its website the Report of the Advisory Committee on Ways and Means Advances (WMA) to State Governments . The Reserve Bank had constituted an Advisory Committee, under the Chairmanship of Shri I S N Prasad, former Additional Chief Secretary, Government of Karnataka. The terms of reference of the Advisory Committee included, inter alia, review of State-wise WMA limits and other financial ...",
-     "image": null,
-     "why": [
-      "Rates and liquidity",
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 6,
-     "priority": 38,
-     "title": "PLI Scheme for Bulk Drugs for Resilient Pharmaceutical Supply Chain",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2314891",
-     "date": "2026-09-25",
-     "source": "PIB",
-     "label": "Agriculture & Food",
-     "snippet": "The Production Linked Incentive (PLI) Scheme for Bulk Drugs is strengthening India’s domestic capabi",
-     "lead": "The Production Linked Incentive (PLI) Scheme for Bulk Drugs is strengthening India’s domestic capabilities in manufacturing critical Key Starting Materials (KSMs), Drug Intermediates (DIs) and Active Pharmaceutical Ingredients (APIs), reducing import dependence and enhancing resilience across the pharmaceutical supply chain. Five Greenfield projects that have commissioned manufacturing facilities under the Scheme demonstrate the ...",
-     "image": null,
-     "why": [
-      "Subsidy or incentive"
-     ],
-     "tags": [
-      "Agriculture & Food"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 337,
-   "new_today": 9,
+   "total": 342,
+   "new_today": 14,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+     "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+     "date": "2026-10-01",
+     "source": "TechCrunch",
+     "label": "Global · Health & Wellness",
+     "snippet": "Watch as Neko Health Investor Farooq Abbasi joins Equity to explain the bet on preventative healthcare, competition and what comes next.",
+     "lead": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America Theresa Loconsolo 1:20 PM PDT · September 30, 2026 30 min Loading the player… Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner , while Function Health ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2023/02/neko-founders.jpeg?resize=1200,800",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $700M: round or valuation)"
+     ],
+     "tags": [
+      "Funding",
+      "Health & Wellness"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 11,
@@ -212,52 +233,33 @@
      "desk": "Startups",
      "score": 10,
      "priority": 77,
-     "title": "Snapdeal Ready For D-Street, Soulfull Cofounder’s New Venture & More",
-     "url": "https://inc42.com/buzz/snapdeal-ready-for-d-street-soulfull-cofounders-new-venture-more/",
-     "date": "2026-09-30",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "With a 6% grey market premium, the market seems somewhat optimistic for AceVector's listing slated for next week.",
-     "lead": "The IPO Deck: AceVector’s issue comprises a fresh issue of shares worth ₹287 Cr and an OFS component of up to 4.16 Cr shares. Priced at ₹30-32 per share, the IPO values the company at up to ₹1,741 Cr. The public issue also saw broad-based investor interest, with NIIs subscribing their quota 8.2X, while retail investors and QIBs clocked 4.6X and 3.4X oversubscription, respectively. Shares of the company will now list on the exchanges on ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Social-Daily-Brief-15.png",
-     "why": [
-      "IPO & Listing",
-      "Sizeable deal (about $44M)"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Simple Energy Raises $180 Mn To Unlock Next Growth Phase",
-     "url": "https://inc42.com/buzz/simple-energy-raises-180-mn-to-unlock-next-growth-phase/",
-     "date": "2026-09-30",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "E2W manufacturer Simple Energy has raised $180 Mn (₹1,750 Cr) in its Series C funding round led by Dr. Arokiaswamy Velumani Family Office",
-     "lead": "Simple Energy has raised ₹1,750 Cr in Series C funding, taking its total equity capital raised to $264 Mn The fresh capital will help Simple support its next phase of growth by fueling key functions like marketing, supply chain, R&D and hiring The startup currently operates 80 sales outlets across 60 Indian cities and claims to be commanding a production capacity of 10,000 units per month",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Simple-Engry-social.jpg",
+     "title": "Exclusive: Dig Ventures raises $120m to back Europe’s AI infrastructure startups",
+     "url": "https://sifted.eu/articles/dig-ventures-fund-europe-ai-infrastructure/",
+     "date": "2026-10-01",
+     "source": "Sifted",
+     "label": "Global · AI & Deeptech",
+     "snippet": "The firm plans to back around 30 European pre-seed and seed companies.",
+     "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
+     "image": "https://images.sifted.eu/cdn-cgi/image/width=1632,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/30161522/The-DIG-Ventures-GPs-L-R-Rytis-Vitkauskas-Melissa-Klinger-Ross-Mason-1-scaled-e1790781352161.jpg",
      "why": [
       "Funding",
-      "Large deal (about $180M)"
+      "Large deal (about $120M)"
      ],
      "tags": [
-      "Funding"
+      "Funding",
+      "AI & Deeptech"
      ]
     }
    ]
   },
   "Immigration": {
-   "total": 570,
-   "new_today": 6,
+   "total": 579,
+   "new_today": 13,
    "items": [
     {
      "desk": "Immigration",
      "score": 5,
-     "priority": 45,
+     "priority": 38,
      "title": "UPDATE: Swiss parliament rejects move for simplified citizenship process",
      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQem5lbkpfNnR4dHNTNXZLcVFjMDB5RVdEVDdLY0QwQjlLWWxGdTRUVUlWLTlHMUhjc3hsX3pMZVNIdVlLcTZHcGdXTkRFOEUtaXhrbTJzSzEycmE1RnVYa25MRDQtUjc0SGprbG9PYk9ZV0VYRndGblA5dGVaLVVzOW94ckh3OUFQemF2ZXZmcXU0eVhFbUVWdGFuQkhUdHdEWVBveDVPaw?oc=5",
      "date": "2026-09-25",
@@ -393,7 +395,7 @@
   },
   {
    "desk": "Immigration",
-   "score": 11,
+   "score": 13,
    "priority": 100,
    "title": "Japan raises permanent residency fees for foreign nationals by twenty-fold",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXUHdHb2kyQkloYlhrZkd2Y05GU1dBa0RpQ1k5bl9FVmFJbDdHaWZBZzl3Zi1yeTU2eDIxbGk5SnFTM0FjNVFCVS16TG1lY2ZjX2dhQW5XSDZZVDA?oc=5",
@@ -405,7 +407,8 @@
    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/af9c/live/57203f40-bd3a-11f1-aef6-5bc01a554344.jpg",
    "why": [
     "Affects permanent residence",
-    "Announces a change"
+    "Announces a change",
+    "Major story (9 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
@@ -630,21 +633,21 @@
    "desk": "Startups",
    "score": 11,
    "priority": 85,
-   "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
-   "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+   "title": "Simple Energy bets Rs 1,750 Cr fundraise on clearing delivery backlog, scaling across India",
+   "url": "https://yourstory.com/2026/09/shreshth-mishra-simple-energy-rs-1750-cr-pivot-scale-across-india",
    "date": "2026-10-01",
-   "source": "TechCrunch",
-   "label": "Global · Health & Wellness",
-   "snippet": "Watch as Neko Health Investor Farooq Abbasi joins Equity to explain the bet on preventative healthcare, competition and what comes next.",
-   "lead": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America Theresa Loconsolo 1:20 PM PDT · September 30, 2026 30 min Loading the player… Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner , while Function Health ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/02/neko-founders.jpeg?resize=1200,800",
+   "source": "YourStory",
+   "label": "India · Logistics & Supply Chain",
+   "snippet": "Shreshth Mishra, Co-founder of Simple Energy, an electric two-wheeler maker, explains how the company’s recent Rs 1,750 crore Series C funding will help address past delivery delays and working capital bottlenecks.",
+   "lead": "Simple Energy bets Rs 1,750 Cr fundraise on clearing delivery backlog, scaling across India Shreshth Mishra, Co-founder of Simple Energy, an electric two-wheeler maker, explains how the company’s recent Rs 1,750 crore Series C funding will help address past delivery delays and working capital bottlenecks. Rajkamal Narayanan 6 Stories Thursday October 01, 2026 , 3 min Read Electric two-wheeler maker Simple Energy on Wednesday raised Rs ...",
+   "image": "https://images.yourstory.com/cs/2/f4c8dc30b73511f197be7d10bec6c83f/SimpleEnergyFunding1600x900-1790782573733.jpg",
    "why": [
     "Funding",
-    "Very large figure in headline (about $700M: round or valuation)"
+    "Large deal (about $184M)"
    ],
    "tags": [
     "Funding",
-    "Health & Wellness"
+    "Logistics & Supply Chain"
    ],
    "rank": 12,
    "must_read": false
@@ -717,73 +720,49 @@
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 64,
-   "title": "UK to restart resettlement scheme, Shabana Mahmood tells Labour conference",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFhmRkhGamNjZnNyVDN4MFk2dE5UQ09rTnhiTHhFZW1MeExoVWhXNF9OS1ZBcE5KRi1velFSOVFYZ1lZZ1lvVUd2VER0YkJLazJ2bGRzbHFJMmNobzJhNE1lWndDaWlRemljeWpJM2p5bzIxb2pEZ2NrNlBSTUMyZ2w5WHA?oc=5",
-   "date": "2026-09-28",
-   "source": "Financial Times",
-   "label": "United Kingdom",
-   "snippet": "",
-   "lead": "",
+   "desk": "Policy",
+   "score": 11,
+   "priority": 69,
+   "title": "Consolidation/ Review of instructions issued on currency management matters – Withdrawal of Circulars/ Guidelines",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13718&Mode=0",
+   "date": "2026-10-01",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Consolidation/ Review of instructions issued on currency management matters – Withdrawal of Circulars/ Guidelines In pursuance of the Reserve Bank’s ongoing initiative to rationalise the regulatory framework, a review of instructions issued on currency management related matters has been undertaken. The exercise involved consolidation of extant circulars/ guidelines into function-wise Master Directions (MDs) and subject-specific ...",
    "image": null,
    "why": [
-    "Affects permanent residence",
-    "Announces a change"
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: RBI"
    ],
    "tags": [
-    "PR / Settlement",
-    "United Kingdom"
+    "Banking & Rates"
    ],
    "rank": 16,
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 64,
-   "title": "Spain announces 2-year fast-track citizenship route for citizens of 23 countries",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmp4cEdnWW9iaU9ER25YazZyck9OWDRyTnBwLU45SG9PTGJvVU9iaFNKN2NFa3dZMGNtXzhsSmVnR3BhWUZLMGhXYmRDaDNEeEd3SGFYYlhYYkhUS3dWYkdLSFY2N3NPMnpZVDAxTUhod3RFQlUzMU91Z2hteXVUandKWUdnb3dwNGdzMnlTMGZ4aVJFdnhTYzQyTjVjYXFEOXZPT3RQLUk?oc=5",
-   "date": "2026-09-27",
-   "source": "Yen.com.gh",
-   "label": "Spain",
-   "snippet": "Spain confirms 23 countries qualify for citizenship after two years’ legal residency, offering eligible nationals an advantage over the standard ten-year wait.",
-   "lead": "PAY ATTENTION: Mark YEN.com.gh as a preferred source, and our content will appear higher in your Google feed! Spain has opened a significantly shorter route to citizenship for nationals of 23 specific countries, requiring just two years of legal residency instead of the standard ten years that applies to most foreign nationals. Spain mentions 23 countries eligible for shorter residency route. Photo source: @sanchezcastejon, @magnific ...",
-   "image": "https://cdn.yen.com.gh/images/1200x675/021ad5279c637ed7.jpeg?v=1",
-   "why": [
-    "Affects citizenship",
-    "Announces a change"
-   ],
-   "tags": [
-    "Citizenship",
-    "Spain"
-   ],
-   "rank": 17,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 64,
-   "title": "Denmark to Introduce Work Permit Route for Indians",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DeDdRUVlFcWZsRGtlT1lkQmt3aG5FZGsyT2NEdGpCMEJRYmNPM1dxY1owNHhqQkNfNGlGTXMxSmwyUnZwd3ducElGQV9CWmI5TjBpR3lkcG9HeGxYRTZxc1R4ZDRrQ1MwZm9aakE3aVBqU2p1Ukl2cWVvb1hiT0k?oc=5",
-   "date": "2026-09-24",
-   "source": "GK Today",
-   "label": "Denmark",
-   "snippet": "Denmark’s Parliament passed legislation on 4 September 2026 to create a new work permit route called the Collective Agreement-Based Business Scheme. The scheme is schedul",
-   "lead": "Denmark ’s Parliament passed legislation on 4 September 2026 to create a new work permit route called the Collective Agreement-Based Business Scheme. The scheme is scheduled to begin on 1 January 2027 and will allow eligible employers in Denmark to recruit foreign workers under a simplified immigration pathway. Indian nationals will be among the citizens of 16 eligible countries who can apply under this route. The Collective ...",
+   "desk": "Policy",
+   "score": 11,
+   "priority": 69,
+   "title": "Master Circular - Credit Facilities to Scheduled Castes (SCs) & Scheduled Tribes (STs)",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13716&Mode=0",
+   "date": "2026-10-01",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "The Chairman/ Managing Director / Chief Executive Officer All Scheduled Commercial Banks (including Small Finance Banks) Master Circular - Credit facilities to Scheduled Castes (SCs) & Scheduled Tribes (STs) The Reserve Bank of India has, from time to time, issued a number of guidelines/instructions to banks on credit facilities to Scheduled Castes (SCs) & Scheduled Tribes (STs). The enclosed Master Circular consolidates the circulars ...",
    "image": null,
    "why": [
-    "Affects work visas",
-    "Announces a change",
-    "Mentions India or Indians"
+    "Regulator rulebook change",
+    "Touches financial markets",
+    "Regulator: RBI"
    ],
    "tags": [
-    "Work visa",
-    "Denmark"
+    "Banking & Rates"
    ],
-   "rank": 18,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -806,29 +785,77 @@
    "tags": [
     "Banking & Rates"
    ],
+   "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 54,
+   "title": "UK to restart resettlement scheme, Shabana Mahmood tells Labour conference",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFhmRkhGamNjZnNyVDN4MFk2dE5UQ09rTnhiTHhFZW1MeExoVWhXNF9OS1ZBcE5KRi1velFSOVFYZ1lZZ1lvVUd2VER0YkJLazJ2bGRzbHFJMmNobzJhNE1lWndDaWlRemljeWpJM2p5bzIxb2pEZ2NrNlBSTUMyZ2w5WHA?oc=5",
+   "date": "2026-09-28",
+   "source": "Financial Times",
+   "label": "United Kingdom",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Affects permanent residence",
+    "Announces a change"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "United Kingdom"
+   ],
    "rank": 19,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 6,
-   "priority": 55,
-   "title": "New Zealand: Location Requirements for Accredited Employer Work Visa Holders Clarified",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYUVTT2V5bzlSd1ZQMEV0NFRkV2tCeld2c0NWS0FwSS05Q0xrSFViYnUzVFhHTUxEYjV0RUhQVFpqeVR5aW5kNlBESUFuMmtIOTlIR1dzeHJkbFhYaDZKbTN5RlUyVHFIOElDVGlSOWl2NDBnRjEyUXJ5dFg2WFhPSExSX1p1TkxfTFVDX1pTLVRVSkF6SkVPaGxDcmtxLTJ6ZV8zcmMyU2tVZ1pmVkxDWjhFYldUUk9JcDdzZVJjNERUQQ?oc=5",
-   "date": "2026-09-30",
-   "source": "Fragomen",
-   "label": "New Zealand",
-   "snippet": "Immigration New Zealand (INZ) has published updated guidance clarifying the location requirements for workers holding an Accredited Employer Work Visa (AEWV). When submitting a job check application, employers must specify the location or region where the role will be based. If a role regularly requires work across multiple locations, eac",
-   "lead": "Immigration New Zealand (INZ) has published updated guidance clarifying the location requirements for workers holding an Accredited Employer Work Visa (AEWV). When submitting a job check application, employers must specify the location or region where the role will be based. If a role regularly requires work across multiple locations, each location must be included in the job check and employers must provide evidence that the position ...",
-   "image": "https://www.fragomen.com/a/web/6neDND2DvH5cq9pLmAp2Ht/9PCium/open-graph-main-2025.jpg",
+   "score": 7,
+   "priority": 54,
+   "title": "Spain announces 2-year fast-track citizenship route for citizens of 23 countries",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmp4cEdnWW9iaU9ER25YazZyck9OWDRyTnBwLU45SG9PTGJvVU9iaFNKN2NFa3dZMGNtXzhsSmVnR3BhWUZLMGhXYmRDaDNEeEd3SGFYYlhYYkhUS3dWYkdLSFY2N3NPMnpZVDAxTUhod3RFQlUzMU91Z2hteXVUandKWUdnb3dwNGdzMnlTMGZ4aVJFdnhTYzQyTjVjYXFEOXZPT3RQLUk?oc=5",
+   "date": "2026-09-27",
+   "source": "Yen.com.gh",
+   "label": "Spain",
+   "snippet": "Spain confirms 23 countries qualify for citizenship after two years’ legal residency, offering eligible nationals an advantage over the standard ten-year wait.",
+   "lead": "PAY ATTENTION: Mark YEN.com.gh as a preferred source, and our content will appear higher in your Google feed! Spain has opened a significantly shorter route to citizenship for nationals of 23 specific countries, requiring just two years of legal residency instead of the standard ten years that applies to most foreign nationals. Spain mentions 23 countries eligible for shorter residency route. Photo source: @sanchezcastejon, @magnific ...",
+   "image": "https://cdn.yen.com.gh/images/1200x675/021ad5279c637ed7.jpeg?v=1",
    "why": [
-    "Affects work visas"
+    "Affects citizenship",
+    "Announces a change"
+   ],
+   "tags": [
+    "Citizenship",
+    "Spain"
+   ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 54,
+   "title": "Denmark to Introduce Work Permit Route for Indians",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DeDdRUVlFcWZsRGtlT1lkQmt3aG5FZGsyT2NEdGpCMEJRYmNPM1dxY1owNHhqQkNfNGlGTXMxSmwyUnZwd3ducElGQV9CWmI5TjBpR3lkcG9HeGxYRTZxc1R4ZDRrQ1MwZm9aakE3aVBqU2p1Ukl2cWVvb1hiT0k?oc=5",
+   "date": "2026-09-24",
+   "source": "GK Today",
+   "label": "Denmark",
+   "snippet": "Denmark’s Parliament passed legislation on 4 September 2026 to create a new work permit route called the Collective Agreement-Based Business Scheme. The scheme is schedul",
+   "lead": "Denmark ’s Parliament passed legislation on 4 September 2026 to create a new work permit route called the Collective Agreement-Based Business Scheme. The scheme is scheduled to begin on 1 January 2027 and will allow eligible employers in Denmark to recruit foreign workers under a simplified immigration pathway. Indian nationals will be among the citizens of 16 eligible countries who can apply under this route. The Collective ...",
+   "image": null,
+   "why": [
+    "Affects work visas",
+    "Announces a change",
+    "Mentions India or Indians"
    ],
    "tags": [
     "Work visa",
-    "New Zealand"
+    "Denmark"
    ],
-   "rank": 20,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -850,48 +877,27 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 7,
-   "priority": 44,
-   "title": "India’s indigenous technology push gains momentum as HD Kumaraswamy unveils MHI Industry Accelerator Impact Report at Navigyaan 2026",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316863",
-   "date": "2026-09-30",
-   "source": "PIB",
-   "label": "Banking & Rates",
-   "snippet": "Union Minister for Heavy Industries and Steel, H. D. Kumaraswamy on Wednesday unveiled and digitally",
-   "lead": "Union Minister for Heavy Industries and Steel, H. D. Kumaraswamy on Wednesday unveiled and digitally launched the Impact Report of the Ministry of Heavy Industries (MHI) Industry Accelerator Project at Navigyaan 2026 in New Delhi, marking an important milestone in the development and advancement of indigenous technologies for India’s mobility and manufacturing sectors. Addressing the gathering, H.D. Kumaraswamy said the event marked ...",
-   "image": null,
-   "why": [
-    "Rates and liquidity"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
    "rank": 22,
    "must_read": false
   },
   {
-   "desk": "Policy",
-   "score": 7,
-   "priority": 44,
-   "title": "Draft Petroleum (Amendment) Bill, 2026 Released for Stakeholder and Public Consultation",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316851",
+   "desk": "Immigration",
+   "score": 6,
+   "priority": 46,
+   "title": "New Zealand: Location Requirements for Accredited Employer Work Visa Holders Clarified",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYUVTT2V5bzlSd1ZQMEV0NFRkV2tCeld2c0NWS0FwSS05Q0xrSFViYnUzVFhHTUxEYjV0RUhQVFpqeVR5aW5kNlBESUFuMmtIOTlIR1dzeHJkbFhYaDZKbTN5RlUyVHFIOElDVGlSOWl2NDBnRjEyUXJ5dFg2WFhPSExSX1p1TkxfTFVDX1pTLVRVSkF6SkVPaGxDcmtxLTJ6ZV8zcmMyU2tVZ1pmVkxDWjhFYldUUk9JcDdzZVJjNERUQQ?oc=5",
    "date": "2026-09-30",
-   "source": "PIB",
-   "label": "Energy & Power",
-   "snippet": "The draft Petroleum (Amendment) Bill, 2026, along with an explanatory note providing a brief overvie",
-   "lead": "The draft Petroleum (Amendment) Bill, 2026, along with an explanatory note providing a brief overview of the amendments, has been hosted on the website of the Ministry of Petroleum and Natural Gas on 30 th September, 2026, to invite comments and suggestions from all stakeholders as part of pre-legislative consultation, and the same may be accessed at https://mopng.gov.in/files/Whatsnew/Draft-Amendment-to-the-Petroleum-Act.pdf All ...",
-   "image": null,
+   "source": "Fragomen",
+   "label": "New Zealand",
+   "snippet": "Immigration New Zealand (INZ) has published updated guidance clarifying the location requirements for workers holding an Accredited Employer Work Visa (AEWV). When submitting a job check application, employers must specify the location or region where the role will be based. If a role regularly requires work across multiple locations, eac",
+   "lead": "Immigration New Zealand (INZ) has published updated guidance clarifying the location requirements for workers holding an Accredited Employer Work Visa (AEWV). When submitting a job check application, employers must specify the location or region where the role will be based. If a role regularly requires work across multiple locations, each location must be included in the job check and employers must provide evidence that the position ...",
+   "image": "https://www.fragomen.com/a/web/6neDND2DvH5cq9pLmAp2Ht/9PCium/open-graph-main-2025.jpg",
    "why": [
-    "New law or act",
-    "Rule change"
+    "Affects work visas"
    ],
    "tags": [
-    "Energy & Power"
+    "Work visa",
+    "New Zealand"
    ],
    "rank": 23,
    "must_read": false
