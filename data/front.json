@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-01",
- "built": "2026-10-01 02:31 IST",
+ "built": "2026-10-01 08:00 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,15 +12,15 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22716.0,
-   "change_pct": -0.28,
+   "value": 22620.0,
+   "change_pct": -0.42,
    "asof": "30 Sep 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72529.0,
-   "change_pct": -0.33,
+   "value": 72480.0,
+   "change_pct": -0.07,
    "asof": "30 Sep 15:32 IST"
   },
   {
@@ -28,21 +28,21 @@
    "dp": 2,
    "value": 95.82,
    "change_pct": -0.24,
-   "asof": "30 Sep 22:13 IST"
+   "asof": "01 Oct 07:57 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 97.92,
-   "change_pct": -4.55,
-   "asof": "01 Oct 02:21 IST"
+   "value": 97.98,
+   "change_pct": -5.36,
+   "asof": "01 Oct 07:50 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4190.0,
-   "change_pct": 0.24,
-   "asof": "01 Oct 02:21 IST"
+   "value": 4182.0,
+   "change_pct": -0.12,
+   "asof": "01 Oct 07:50 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -164,9 +164,29 @@
    ]
   },
   "Startups": {
-   "total": 332,
-   "new_today": 5,
+   "total": 337,
+   "new_today": 9,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "Startup Funding Crawls Up 5% YoY To $2.2 Bn In Q3 As Investors Get Picky",
+     "url": "https://inc42.com/buzz/startup-funding-crawls-up-5-yoy-to-2-2-bn-in-q3-2026-as-investors-get-picky/",
+     "date": "2026-09-30",
+     "source": "Inc42",
+     "label": "India · Other",
+     "snippet": "Homegrown new-age tech ventures raised $2.2 Bn between July and September, up 5% from the $2.1 Bn raised in the year-ago quarter",
+     "lead": "Indian startups raised $2.2 Bn in Q3 2026, up 5% YoY, even as deal count and active investors declined Growth stage funding rose 38% YoY, while AI, deeptech and cleantech attracted strong investor interest M&A activity rose 69% YoY, six new age tech companies went public, and investors increasingly looked towards secondary buyouts for liquidity",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Q3-Funding-social.jpg",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $2,200M: round or valuation)"
+     ],
+     "tags": [
+      "Funding"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 11,
@@ -192,6 +212,26 @@
      "desk": "Startups",
      "score": 10,
      "priority": 77,
+     "title": "Snapdeal Ready For D-Street, Soulfull Cofounder’s New Venture & More",
+     "url": "https://inc42.com/buzz/snapdeal-ready-for-d-street-soulfull-cofounders-new-venture-more/",
+     "date": "2026-09-30",
+     "source": "Inc42",
+     "label": "India · Other",
+     "snippet": "With a 6% grey market premium, the market seems somewhat optimistic for AceVector's listing slated for next week.",
+     "lead": "The IPO Deck: AceVector’s issue comprises a fresh issue of shares worth ₹287 Cr and an OFS component of up to 4.16 Cr shares. Priced at ₹30-32 per share, the IPO values the company at up to ₹1,741 Cr. The public issue also saw broad-based investor interest, with NIIs subscribing their quota 8.2X, while retail investors and QIBs clocked 4.6X and 3.4X oversubscription, respectively. Shares of the company will now list on the exchanges on ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Social-Daily-Brief-15.png",
+     "why": [
+      "IPO & Listing",
+      "Sizeable deal (about $44M)"
+     ],
+     "tags": [
+      "IPO & Listing"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
      "title": "Simple Energy Raises $180 Mn To Unlock Next Growth Phase",
      "url": "https://inc42.com/buzz/simple-energy-raises-180-mn-to-unlock-next-growth-phase/",
      "date": "2026-09-30",
@@ -207,71 +247,31 @@
      "tags": [
       "Funding"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "StockGro Confidentially Files IPO Papers, Eyes Up To ₹2,500 Cr Issue",
-     "url": "https://inc42.com/buzz/stockgro-confidentially-files-ipo-papers-eyes-up-to-%e2%82%b92500-cr-issue/",
-     "date": "2026-09-29",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "StockGro’s parent AssetGro Fintech Ltd announced that it has pre-filed DRHP with SEBI, BSE and NSE under the confidential pre-filing route on September 26",
-     "lead": "StockGro’s parent AssetGro Fintech Ltd announced that it has pre-filed DRHP with SEBI, BSE and NSE under the confidential pre-filing route on September 26 StockGro adds to the growing list of startups taking the confidential route to go public including companies like Kuku, Razorpay and MakeMyTrip StockGro is looking to raise up to ₹2,000 Cr-₹2,500 Cr via the IPO, which could include a fresh issue of around ₹800 Cr and an offer for ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Untitled-Design-8.png",
-     "why": [
-      "IPO & Listing",
-      "Large deal (about $263M)"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "IIT Madras targets 1,000 startups by 2032, eyes one IPO every month",
-     "url": "https://yourstory.com/2026/09/iit-madras-1000-startups-2032-one-ipo-every-month",
-     "date": "2026-09-26",
-     "source": "YourStory",
-     "label": "India · Other",
-     "snippet": "IIT Madras aims to have around 1,000 startups under its fold by 2032, with at least one expected to go public every month, Director Prof V Kamakoti said. The institute has already incubated 583 startups with a combined valuation of Rs 83,000 crore.",
-     "lead": "IIT Madras targets 1,000 startups by 2032, eyes one IPO every month IIT Madras aims to have around 1,000 startups under its fold by 2032, with at least one expected to go public every month, Director Prof V Kamakoti said. The institute has already incubated 583 startups with a combined valuation of Rs 83,000 crore. Team YS 17243 Stories Saturday September 26, 2026 , 2 min Read IIT Madras aims to have around 1,000 startups under its ...",
-     "image": "https://images.yourstory.com/cs/2/a0bc5020250711f09884fb7189395d75/ArtificialintelligencetoEnhanceLanguageSkillsPresentationinBlueandPurple3DModernStyle-3-1746512587127.png",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $8,737M: round or valuation)"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 562,
-   "new_today": 2,
+   "total": 570,
+   "new_today": 6,
    "items": [
     {
      "desk": "Immigration",
-     "score": 4,
-     "priority": 50,
-     "title": "Australian colleges warned ‘do not try to game’ student visas after last-minute enrolments for cancelled diploma soar",
-     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZlpQM2NVTjhncWVGOHZycmYzRDN6bXdkSmY3VngwOUVVc2Vyblh0QS1HTE1SRjF0S2xOeDMzaXhGc05RZkJXX25KNHZIM0ZQNkNjaG11bjd6UU5BQWtwaWk4WHE4alpqeXUtbUZscklPMjBVZnlHRjZZYUZjR3BjNHhRbC16dHZ0enNNbkNDdGNfTWQtODRtTXpoSkczYmk2c3E0MFR5ZThkSUNQLUZkbjIxYWpnQWdoXzZ5R1BNdTFYZHZtRmgwU2lET0t6SVhXTmdBTml3?oc=5",
-     "date": "2026-09-30",
-     "source": "The Guardian",
-     "label": "Australia",
-     "snippet": "Julian Hill says educational providers are being closely watched by government after course attracted non-genuine students",
-     "lead": "Julian Hill says students should be wary of anyone pressuring them to start another course while they are still completing their existing studies. Photograph: Mick Tsikas/AAP View image in fullscreen Julian Hill says students should be wary of anyone pressuring them to start another course while they are still completing their existing studies. Photograph: Mick Tsikas/AAP Colleges warned ‘do not try to game’ student visas after ...",
-     "image": "https://i.guim.co.uk/img/media/7e0e45f0ac7c40e3115f7dac44e606017e4d46a9/584_0_6880_5504/master/6880.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7afdd884d6c17e3763ebc7212ccdc2b",
+     "score": 5,
+     "priority": 45,
+     "title": "UPDATE: Swiss parliament rejects move for simplified citizenship process",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQem5lbkpfNnR4dHNTNXZLcVFjMDB5RVdEVDdLY0QwQjlLWWxGdTRUVUlWLTlHMUhjc3hsX3pMZVNIdVlLcTZHcGdXTkRFOEUtaXhrbTJzSzEycmE1RnVYa25MRDQtUjc0SGprbG9PYk9ZV0VYRndGblA5dGVaLVVzOW94ckh3OUFQemF2ZXZmcXU0eVhFbUVWdGFuQkhUdHdEWVBveDVPaw?oc=5",
+     "date": "2026-09-25",
+     "source": "The Local Switzerland",
+     "label": "Switzerland",
+     "snippet": "Switzerland's parliament this week rejected a proposal for a simplified naturalisation procedure that argued the Swiss naturalisation period is too long compared to other states.",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source Switzerland's parliament this week rejected a proposal for a simplified naturalisation procedure that argued the Swiss naturalisation period is too long compared to other states. The Council of States vote, which ...",
+     "image": null,
      "why": [
-      "High on the desk's ranking"
+      "Affects citizenship"
      ],
      "tags": [
-      "Student / Graduate",
-      "Australia"
+      "Citizenship",
+      "Switzerland"
      ]
     }
    ]
@@ -368,6 +368,53 @@
  },
  "items": [
   {
+   "desk": "Startups",
+   "score": 13,
+   "priority": 100,
+   "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+   "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+   "date": "2026-10-01",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+   "lead": "Flow Engineering , a startup that offers AI tools for hardware design, has raised a $50 million Series B round at a $750 million valuation from some big-name investors, the company announced on Wednesday. The round was co-led by Antonio Gracias of Valar Equity Partners ( best known for its investments in Elon Musk’s companies, particularly SpaceX) and Gavin Baker of Atreides Management (a hedge fund that has also backed Musk’s ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $750M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
+   "desk": "Immigration",
+   "score": 11,
+   "priority": 100,
+   "title": "Japan raises permanent residency fees for foreign nationals by twenty-fold",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXUHdHb2kyQkloYlhrZkd2Y05GU1dBa0RpQ1k5bl9FVmFJbDdHaWZBZzl3Zi1yeTU2eDIxbGk5SnFTM0FjNVFCVS16TG1lY2ZjX2dhQW5XSDZZVDA?oc=5",
+   "date": "2026-10-01",
+   "source": "BBC",
+   "label": "Japan",
+   "snippet": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
+   "lead": "Share Save Add as preferred on Google Kelly Ng Japan has raised fees for foreigners looking to reside in the country, with the cost of permanent residency going up 20 times to 200,000 yen ($1,270; £955). Those seeking permanent residency must now also meet new income, pension and Japanese-language requirements. Long lines formed outside immigration offices earlier this week as applicants sought to beat the fee hikes, with Tokyo's main ...",
+   "image": "https://ichef.bbci.co.uk/news/1024/branded_news/af9c/live/57203f40-bd3a-11f1-aef6-5bc01a554344.jpg",
+   "why": [
+    "Affects permanent residence",
+    "Announces a change"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Japan"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
    "desk": "Policy",
    "score": 16,
    "priority": 100,
@@ -387,7 +434,7 @@
    "tags": [
     "Agriculture & Food"
    ],
-   "rank": 1,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -411,7 +458,7 @@
    "tags": [
     "Funding"
    ],
-   "rank": 2,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -423,9 +470,9 @@
    "date": "2026-09-30",
    "source": "Moneycontrol.com",
    "label": "Debt & Bonds",
-   "snippet": "",
-   "lead": "",
-   "image": null,
+   "snippet": "The benchmark 10-year bond yield was trading at 7.1482 percent",
+   "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
+   "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260622142629_RBIRTR1.png",
    "why": [
     "Regulator: SEBI or RBI",
     "Interest-rate decision",
@@ -435,7 +482,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 3,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -458,8 +505,8 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 4,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Startups",
@@ -482,8 +529,8 @@
     "Funding",
     "Health & Wellness"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 7,
+   "must_read": false
   },
   {
    "desk": "Startups",
@@ -506,7 +553,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 6,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -529,77 +576,7 @@
    "tags": [
     "Funding"
    ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 88,
-   "title": "UK to restart resettlement scheme, Shabana Mahmood tells Labour conference",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFhmRkhGamNjZnNyVDN4MFk2dE5UQ09rTnhiTHhFZW1MeExoVWhXNF9OS1ZBcE5KRi1velFSOVFYZ1lZZ1lvVUd2VER0YkJLazJ2bGRzbHFJMmNobzJhNE1lWndDaWlRemljeWpJM2p5bzIxb2pEZ2NrNlBSTUMyZ2w5WHA?oc=5",
-   "date": "2026-09-28",
-   "source": "Financial Times",
-   "label": "United Kingdom",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Affects permanent residence",
-    "Announces a change"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "United Kingdom"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 88,
-   "title": "Spain announces 2-year fast-track citizenship route for citizens of 23 countries",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmp4cEdnWW9iaU9ER25YazZyck9OWDRyTnBwLU45SG9PTGJvVU9iaFNKN2NFa3dZMGNtXzhsSmVnR3BhWUZLMGhXYmRDaDNEeEd3SGFYYlhYYkhUS3dWYkdLSFY2N3NPMnpZVDAxTUhod3RFQlUzMU91Z2hteXVUandKWUdnb3dwNGdzMnlTMGZ4aVJFdnhTYzQyTjVjYXFEOXZPT3RQLUk?oc=5",
-   "date": "2026-09-27",
-   "source": "Yen.com.gh",
-   "label": "Spain",
-   "snippet": "Spain confirms 23 countries qualify for citizenship after two years’ legal residency, offering eligible nationals an advantage over the standard ten-year wait.",
-   "lead": "PAY ATTENTION: Mark YEN.com.gh as a preferred source, and our content will appear higher in your Google feed! Spain has opened a significantly shorter route to citizenship for nationals of 23 specific countries, requiring just two years of legal residency instead of the standard ten years that applies to most foreign nationals. Spain mentions 23 countries eligible for shorter residency route. Photo source: @sanchezcastejon, @magnific ...",
-   "image": "https://cdn.yen.com.gh/images/1200x675/021ad5279c637ed7.jpeg?v=1",
-   "why": [
-    "Affects citizenship",
-    "Announces a change"
-   ],
-   "tags": [
-    "Citizenship",
-    "Spain"
-   ],
    "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 88,
-   "title": "Denmark to Introduce Work Permit Route for Indians",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DeDdRUVlFcWZsRGtlT1lkQmt3aG5FZGsyT2NEdGpCMEJRYmNPM1dxY1owNHhqQkNfNGlGTXMxSmwyUnZwd3ducElGQV9CWmI5TjBpR3lkcG9HeGxYRTZxc1R4ZDRrQ1MwZm9aakE3aVBqU2p1Ukl2cWVvb1hiT0k?oc=5",
-   "date": "2026-09-24",
-   "source": "GK Today",
-   "label": "Denmark",
-   "snippet": "Denmark’s Parliament passed legislation on 4 September 2026 to create a new work permit route called the Collective Agreement-Based Business Scheme. The scheme is schedul",
-   "lead": "Denmark ’s Parliament passed legislation on 4 September 2026 to create a new work permit route called the Collective Agreement-Based Business Scheme. The scheme is scheduled to begin on 1 January 2027 and will allow eligible employers in Denmark to recruit foreign workers under a simplified immigration pathway. Indian nationals will be among the citizens of 16 eligible countries who can apply under this route. The Collective ...",
-   "image": null,
-   "why": [
-    "Affects work visas",
-    "Announces a change",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Work visa",
-    "Denmark"
-   ],
-   "rank": 10,
    "must_read": false
   },
   {
@@ -622,7 +599,7 @@
    "tags": [
     "PMS"
    ],
-   "rank": 11,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -646,7 +623,7 @@
     "Regulatory",
     "Banks & Financials"
    ],
-   "rank": 12,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -669,29 +646,7 @@
     "Funding",
     "Health & Wellness"
    ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "Startup Funding Crawls Up 5% YoY To $2.2 Bn In Q3 As Investors Get Picky",
-   "url": "https://inc42.com/buzz/startup-funding-crawls-up-5-yoy-to-2-2-bn-in-q3-2026-as-investors-get-picky/",
-   "date": "2026-09-30",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Homegrown new-age tech ventures raised $2.2 Bn between July and September, up 5% from the $2.1 Bn raised in the year-ago quarter",
-   "lead": "Indian startups raised $2.2 Bn in Q3 2026, up 5% YoY, even as deal count and active investors declined Growth stage funding rose 38% YoY, while AI, deeptech and cleantech attracted strong investor interest M&A activity rose 69% YoY, six new age tech companies went public, and investors increasingly looked towards secondary buyouts for liquidity",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Q3-Funding-social.jpg",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $2,200M: round or valuation)"
-   ],
-   "tags": [
-    "Funding"
-   ],
-   "rank": 14,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -713,7 +668,7 @@
    "tags": [
     "Other Policy"
    ],
-   "rank": 15,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -736,7 +691,7 @@
    "tags": [
     "Mutual Funds"
    ],
-   "rank": 16,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -758,27 +713,75 @@
    "tags": [
     "Infrastructure & Transport"
    ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 64,
+   "title": "UK to restart resettlement scheme, Shabana Mahmood tells Labour conference",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVFhmRkhGamNjZnNyVDN4MFk2dE5UQ09rTnhiTHhFZW1MeExoVWhXNF9OS1ZBcE5KRi1velFSOVFYZ1lZZ1lvVUd2VER0YkJLazJ2bGRzbHFJMmNobzJhNE1lWndDaWlRemljeWpJM2p5bzIxb2pEZ2NrNlBSTUMyZ2w5WHA?oc=5",
+   "date": "2026-09-28",
+   "source": "Financial Times",
+   "label": "United Kingdom",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Affects permanent residence",
+    "Announces a change"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "United Kingdom"
+   ],
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 64,
+   "title": "Spain announces 2-year fast-track citizenship route for citizens of 23 countries",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmp4cEdnWW9iaU9ER25YazZyck9OWDRyTnBwLU45SG9PTGJvVU9iaFNKN2NFa3dZMGNtXzhsSmVnR3BhWUZLMGhXYmRDaDNEeEd3SGFYYlhYYkhUS3dWYkdLSFY2N3NPMnpZVDAxTUhod3RFQlUzMU91Z2hteXVUandKWUdnb3dwNGdzMnlTMGZ4aVJFdnhTYzQyTjVjYXFEOXZPT3RQLUk?oc=5",
+   "date": "2026-09-27",
+   "source": "Yen.com.gh",
+   "label": "Spain",
+   "snippet": "Spain confirms 23 countries qualify for citizenship after two years’ legal residency, offering eligible nationals an advantage over the standard ten-year wait.",
+   "lead": "PAY ATTENTION: Mark YEN.com.gh as a preferred source, and our content will appear higher in your Google feed! Spain has opened a significantly shorter route to citizenship for nationals of 23 specific countries, requiring just two years of legal residency instead of the standard ten years that applies to most foreign nationals. Spain mentions 23 countries eligible for shorter residency route. Photo source: @sanchezcastejon, @magnific ...",
+   "image": "https://cdn.yen.com.gh/images/1200x675/021ad5279c637ed7.jpeg?v=1",
+   "why": [
+    "Affects citizenship",
+    "Announces a change"
+   ],
+   "tags": [
+    "Citizenship",
+    "Spain"
+   ],
    "rank": 17,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 6,
-   "priority": 75,
-   "title": "New Zealand: Location Requirements for Accredited Employer Work Visa Holders Clarified",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYUVTT2V5bzlSd1ZQMEV0NFRkV2tCeld2c0NWS0FwSS05Q0xrSFViYnUzVFhHTUxEYjV0RUhQVFpqeVR5aW5kNlBESUFuMmtIOTlIR1dzeHJkbFhYaDZKbTN5RlUyVHFIOElDVGlSOWl2NDBnRjEyUXJ5dFg2WFhPSExSX1p1TkxfTFVDX1pTLVRVSkF6SkVPaGxDcmtxLTJ6ZV8zcmMyU2tVZ1pmVkxDWjhFYldUUk9JcDdzZVJjNERUQQ?oc=5",
-   "date": "2026-09-30",
-   "source": "Fragomen",
-   "label": "New Zealand",
-   "snippet": "Immigration New Zealand (INZ) has published updated guidance clarifying the location requirements for workers holding an Accredited Employer Work Visa (AEWV). When submitting a job check application, employers must specify the location or region where the role will be based. If a role regularly requires work across multiple locations, eac",
-   "lead": "Immigration New Zealand (INZ) has published updated guidance clarifying the location requirements for workers holding an Accredited Employer Work Visa (AEWV). When submitting a job check application, employers must specify the location or region where the role will be based. If a role regularly requires work across multiple locations, each location must be included in the job check and employers must provide evidence that the position ...",
-   "image": "https://www.fragomen.com/a/web/6neDND2DvH5cq9pLmAp2Ht/9PCium/open-graph-main-2025.jpg",
+   "score": 7,
+   "priority": 64,
+   "title": "Denmark to Introduce Work Permit Route for Indians",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DeDdRUVlFcWZsRGtlT1lkQmt3aG5FZGsyT2NEdGpCMEJRYmNPM1dxY1owNHhqQkNfNGlGTXMxSmwyUnZwd3ducElGQV9CWmI5TjBpR3lkcG9HeGxYRTZxc1R4ZDRrQ1MwZm9aakE3aVBqU2p1Ukl2cWVvb1hiT0k?oc=5",
+   "date": "2026-09-24",
+   "source": "GK Today",
+   "label": "Denmark",
+   "snippet": "Denmark’s Parliament passed legislation on 4 September 2026 to create a new work permit route called the Collective Agreement-Based Business Scheme. The scheme is schedul",
+   "lead": "Denmark ’s Parliament passed legislation on 4 September 2026 to create a new work permit route called the Collective Agreement-Based Business Scheme. The scheme is scheduled to begin on 1 January 2027 and will allow eligible employers in Denmark to recruit foreign workers under a simplified immigration pathway. Indian nationals will be among the citizens of 16 eligible countries who can apply under this route. The Collective ...",
+   "image": null,
    "why": [
-    "Affects work visas"
+    "Affects work visas",
+    "Announces a change",
+    "Mentions India or Indians"
    ],
    "tags": [
     "Work visa",
-    "New Zealand"
+    "Denmark"
    ],
    "rank": 18,
    "must_read": false
@@ -808,22 +811,22 @@
   },
   {
    "desk": "Immigration",
-   "score": 5,
-   "priority": 62,
-   "title": "UPDATE: Swiss parliament rejects move for simplified citizenship process",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQem5lbkpfNnR4dHNTNXZLcVFjMDB5RVdEVDdLY0QwQjlLWWxGdTRUVUlWLTlHMUhjc3hsX3pMZVNIdVlLcTZHcGdXTkRFOEUtaXhrbTJzSzEycmE1RnVYa25MRDQtUjc0SGprbG9PYk9ZV0VYRndGblA5dGVaLVVzOW94ckh3OUFQemF2ZXZmcXU0eVhFbUVWdGFuQkhUdHdEWVBveDVPaw?oc=5",
-   "date": "2026-09-25",
-   "source": "The Local Switzerland",
-   "label": "Switzerland",
-   "snippet": "Switzerland's parliament this week rejected a proposal for a simplified naturalisation procedure that argued the Swiss naturalisation period is too long compared to other states.",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source Switzerland's parliament this week rejected a proposal for a simplified naturalisation procedure that argued the Swiss naturalisation period is too long compared to other states. The Council of States vote, which ...",
-   "image": null,
+   "score": 6,
+   "priority": 55,
+   "title": "New Zealand: Location Requirements for Accredited Employer Work Visa Holders Clarified",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYUVTT2V5bzlSd1ZQMEV0NFRkV2tCeld2c0NWS0FwSS05Q0xrSFViYnUzVFhHTUxEYjV0RUhQVFpqeVR5aW5kNlBESUFuMmtIOTlIR1dzeHJkbFhYaDZKbTN5RlUyVHFIOElDVGlSOWl2NDBnRjEyUXJ5dFg2WFhPSExSX1p1TkxfTFVDX1pTLVRVSkF6SkVPaGxDcmtxLTJ6ZV8zcmMyU2tVZ1pmVkxDWjhFYldUUk9JcDdzZVJjNERUQQ?oc=5",
+   "date": "2026-09-30",
+   "source": "Fragomen",
+   "label": "New Zealand",
+   "snippet": "Immigration New Zealand (INZ) has published updated guidance clarifying the location requirements for workers holding an Accredited Employer Work Visa (AEWV). When submitting a job check application, employers must specify the location or region where the role will be based. If a role regularly requires work across multiple locations, eac",
+   "lead": "Immigration New Zealand (INZ) has published updated guidance clarifying the location requirements for workers holding an Accredited Employer Work Visa (AEWV). When submitting a job check application, employers must specify the location or region where the role will be based. If a role regularly requires work across multiple locations, each location must be included in the job check and employers must provide evidence that the position ...",
+   "image": "https://www.fragomen.com/a/web/6neDND2DvH5cq9pLmAp2Ht/9PCium/open-graph-main-2025.jpg",
    "why": [
-    "Affects citizenship"
+    "Affects work visas"
    ],
    "tags": [
-    "Citizenship",
-    "Switzerland"
+    "Work visa",
+    "New Zealand"
    ],
    "rank": 20,
    "must_read": false
@@ -837,7 +840,7 @@
    "date": "2026-09-30",
    "source": "RBI",
    "label": "Banking & Rates",
-   "snippet": "T-Bill 91-Day 182-Day 364-Day I. Total Face Value Notified ₹9,000 Crore ₹8,000 Crore ₹7,000 Crore II. Cut-off Price (₹) and Implicit Yield at Cut-Off Price 98.6425 (YTM: 5.5199%) 97.1139 (YTM: 5.9601%) 94.1949 (YTM: 6.1798%) III. Total Face Value Accepted ₹9,000 Crore ₹8,000 Crore ₹7,000 Crore Ajit Prasad Deputy General Manager (Communications) Press Release: 2026-2027/1216",
+   "snippet": "Press Releases - Reserve Bank of India",
    "lead": "",
    "image": null,
    "why": [
