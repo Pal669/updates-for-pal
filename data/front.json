@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-02",
- "built": "2026-10-02 08:48 IST",
+ "built": "2026-10-02 10:56 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -14,7 +14,7 @@
    "dp": 0,
    "value": 22422.0,
    "change_pct": -0.88,
-   "asof": "01 Oct 15:30 IST"
+   "asof": "01 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
@@ -28,21 +28,21 @@
    "dp": 2,
    "value": 96.3,
    "change_pct": 0.39,
-   "asof": "02 Oct 07:58 IST"
+   "asof": "02 Oct 09:15 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 102.17,
-   "change_pct": -0.14,
-   "asof": "02 Oct 08:36 IST"
+   "value": 101.85,
+   "change_pct": -0.45,
+   "asof": "02 Oct 10:45 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4199.0,
-   "change_pct": -0.08,
-   "asof": "02 Oct 08:38 IST"
+   "value": 4217.0,
+   "change_pct": 0.34,
+   "asof": "02 Oct 10:46 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,7 +79,7 @@
  },
  "desks": {
   "Policy": {
-   "total": 120,
+   "total": 121,
    "new_today": 0,
    "items": [
     {
@@ -164,8 +164,8 @@
    ]
   },
   "Startups": {
-   "total": 362,
-   "new_today": 4,
+   "total": 363,
+   "new_today": 5,
    "items": [
     {
      "desk": "Startups",
@@ -256,8 +256,8 @@
    ]
   },
   "Immigration": {
-   "total": 610,
-   "new_today": 1,
+   "total": 619,
+   "new_today": 4,
    "items": [
     {
      "desk": "Immigration",
@@ -436,7 +436,7 @@
    "why": [
     "Affects permanent residence",
     "Announces a change",
-    "Major story (18 headlines that day)"
+    "Major story (19 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
@@ -703,6 +703,29 @@
    "must_read": false
   },
   {
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 75,
+   "title": "ILPA highlights 20 things you might not know about Home Office’s earned settlement proposals",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFczeExkaDZKWXdXXzNnb1ZFVXpmbmpkRUdsa0w1c1hKNHZvQkFhdF9fV1FVRlFhM0J2VEJnN3puNlNJbFI0QUJHcVVxYXRSbF9Cb01MM1ZKRF9ZQmRIbldOOVZiTVFnMEJOV1pWajNGeWhRcjJOZFYzdkFkRm9semJnaFdwOFJxMTBBMWYybmtVNm9tbnhxWk5FeksxdUxkdWpRODdYVDhUOEs0VDJoOHdZRTF1T3pWdW5B?oc=5",
+   "date": "2026-10-01",
+   "source": "Electronic Immigration Network",
+   "label": "United Kingdom",
+   "snippet": "Briefing paper points out that headline 10-year qualifying period for ILR will not apply to majority of applicants",
+   "lead": "Briefing paper points out that headline 10-year qualifying period for ILR will not apply to majority of applicants The Immigration Law Practitioners' Association (ILPA) last which published a briefing outlining 20 points you might not know about the Government's proposed \"earned settlement\" reforms, which would change how migrants qualify for indefinite leave to remain (ILR). ILPA highlights that while the reforms are widely understood ...",
+   "image": null,
+   "why": [
+    "Affects permanent residence",
+    "Announces a change"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "United Kingdom"
+   ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
    "desk": "Policy",
    "score": 11,
    "priority": 73,
@@ -721,7 +744,7 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 15,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -744,20 +767,20 @@
    "tags": [
     "PMS"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
    "desk": "Policy",
    "score": 10,
    "priority": 67,
-   "title": "Reserve Bank of India (Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026: issued for 2 bank categories",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13720&Mode=0",
+   "title": "Reserve Bank of India (Commercial Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13719&Mode=0",
    "date": "2026-10-01",
    "source": "RBI",
    "label": "Banking & Rates",
    "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Small Finance Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026 The Reserve Bank had issued the Reserve Bank of India (Small Finance Banks – Acquisition and Holding of Shares or Voting Rights) Directions, 2025 (hereinafter referred as the ‘Master Direction’), on November 28, 2025, which mandates that any person seeking to make an initial acquisition of major shareholding in a ...",
+   "lead": "Reserve Bank of India (Commercial Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026 The Reserve Bank had issued the Reserve Bank of India (Commercial Banks – Acquisition and Holding of Shares or Voting Rights) Directions, 2025 (hereinafter referred as the ‘Master Direction’), on November 28, 2025, which mandates that any person seeking to make an initial acquisition of major shareholding in a ...",
    "image": null,
    "why": [
     "Regulator rulebook change",
@@ -767,7 +790,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -790,7 +813,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -812,29 +835,6 @@
    ],
    "tags": [
     "Banking & Rates"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 8,
-   "priority": 67,
-   "title": "ILPA highlights 20 things you might not know about Home Office’s earned settlement proposals",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFczeExkaDZKWXdXXzNnb1ZFVXpmbmpkRUdsa0w1c1hKNHZvQkFhdF9fV1FVRlFhM0J2VEJnN3puNlNJbFI0QUJHcVVxYXRSbF9Cb01MM1ZKRF9ZQmRIbldOOVZiTVFnMEJOV1pWajNGeWhRcjJOZFYzdkFkRm9semJnaFdwOFJxMTBBMWYybmtVNm9tbnhxWk5FeksxdUxkdWpRODdYVDhUOEs0VDJoOHdZRTF1T3pWdW5B?oc=5",
-   "date": "2026-10-01",
-   "source": "Electronic Immigration Network",
-   "label": "United Kingdom",
-   "snippet": "Briefing paper points out that headline 10-year qualifying period for ILR will not apply to majority of applicants",
-   "lead": "Briefing paper points out that headline 10-year qualifying period for ILR will not apply to majority of applicants The Immigration Law Practitioners' Association (ILPA) last which published a briefing outlining 20 points you might not know about the Government's proposed \"earned settlement\" reforms, which would change how migrants qualify for indefinite leave to remain (ILR). ILPA highlights that while the reforms are widely understood ...",
-   "image": null,
-   "why": [
-    "Affects permanent residence",
-    "Announces a change"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "United Kingdom"
    ],
    "rank": 20,
    "must_read": false
@@ -866,20 +866,20 @@
    "desk": "Immigration",
    "score": 6,
    "priority": 50,
-   "title": "Canada invites 3,500 tradespeople to apply for permanent residence",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdk5MS1lvQmRydnpVYjNvNHBPX08tb3M5UzJKdE01RXUwbHZxZkdrYnZuX3BwNVBBM1V6WkFOU3VfRzZiTW9KM0VjTGg0QVNBN1BRRlBSNWhUOFV0R2FyQjNMNnNhYTFHR2FpSUF0cnFRYWVxN3VidmlHeXdvbVZtSmtmLTMzampkQ1k2a1RaRXdoSndIdDlGMTVvaVlua1FqY3phd09xREl6aDVSMlhB0gGUAkFVX3lxTE4zak0xb2dKUzFSQzVNblNQSndXY1dVSzZCaDBIamlteXBtYU81VnVRbGZyTFl1OUR6a2JBRllONGxqRG05VmRlelJ5Vk5HZ0psa25aTXQ5WmFCUUlCa09lZTVKWXo2aGJoXzlodlB5a2g1RjJvRUVBcGxVQ3ByN1BvUks3NEl3MHRwUVozdjdRUENkajhmS0ZnMzRrcWxrbndRMTJuWGcycUpHb0VkZFFIQ0ZTV3QtRThlaVZNRXUxZFhwMHpycnd0bUN1cVdJckRueFlicUh5Y0JxeGpZRE54OGRSaS1kNy03NDh6T2xkQ0dRT0llSjFjNVdiZUE4TFlXRTNZYXM4M0IwNE12Z3kwX1RxSw?oc=5",
+   "title": "Germany eases permanent residency rules for foreign specialists",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWhUblhuU19nb09aNzMza1QtejhUWWV1Y2J1dUJOVFhScXBwLVBJdjRvUkdqdVkzWjBDcU4zSUZZaVV6aUU4SnFYaktWZGRfcWhzTGxrNmhfRFRKMzRLakdfM0FqNkZkUXJVYUdnbUNNU2wzUUR3bkZnSktacEpZbVpiSzZ0Z2xYb3NWbUljdE1aay05YW1sQXVobGtvRmZ0RDRGUmkybXQwVXNscnVIdm5uNTBkQQ?oc=5",
    "date": "2026-10-01",
-   "source": "CIC News",
-   "label": "Canada",
-   "snippet": "Immigration, Refugees and Citizenship Canada (IRCC) has invited 3,500 tradespeople to apply for permanent residence through Express Entry. To be considered in this draw, candidates needed to meet the minimum work experience for the Trades category, and have A minimum Comprehensive Ranking System (CRS) score of 476; and Created an Express ",
-   "lead": "Immigration, Refugees and Citizenship Canada (IRCC) has invited 3,500 tradespeople to apply for permanent residence through Express Entry. To be considered in this draw, candidates needed to meet the minimum work experience for the Trades category, and have For candidates with a CRS score of 476, they had to have created their profile on or before May 28, 2026 at 16:55:23 UTC.",
-   "image": "https://www.cicnews.com/wp-content/uploads/2026/09/EXPRESS-ENTRY-DRAW-59.jpg",
+   "source": "logos-pres.md",
+   "label": "Germany",
+   "snippet": "Foreign graduates in Germany can qualify for permanent residency after two years of skilled work, while others face a three-year period.",
+   "lead": "Continue with Google By continuing, you confirm that you have read Privacy Policy and Terms of Use . Germany has simplified the conditions for foreign specialists to obtain legal status Foreign professionals who have completed a university degree or vocational training in Germany can obtain a permanent residence permit after two years of working in their field. For other qualified professionals, this period is three years. These rules ...",
+   "image": null,
    "why": [
     "Affects permanent residence"
    ],
    "tags": [
     "PR / Settlement",
-    "Canada"
+    "Germany"
    ],
    "rank": 22,
    "must_read": false
