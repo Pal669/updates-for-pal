@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-02",
- "built": "2026-10-02 11:38 IST",
+ "built": "2026-10-02 21:54 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -28,28 +28,28 @@
    "dp": 2,
    "value": 96.3,
    "change_pct": 0.39,
-   "asof": "02 Oct 09:15 IST"
+   "asof": "02 Oct 21:14 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 102.12,
-   "change_pct": -0.19,
-   "asof": "02 Oct 11:28 IST"
+   "value": 101.32,
+   "change_pct": -0.97,
+   "asof": "02 Oct 21:43 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4214.0,
-   "change_pct": 0.29,
-   "asof": "02 Oct 11:27 IST"
+   "value": 4165.0,
+   "change_pct": -0.88,
+   "asof": "02 Oct 21:44 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.24,
-   "change_pct": -1.06,
-   "asof": "02 Oct 00:29 IST"
+   "value": 5.26,
+   "change_pct": 0.44,
+   "asof": "02 Oct 21:39 IST"
   }
  ],
  "features": {
@@ -79,8 +79,8 @@
  },
  "desks": {
   "Policy": {
-   "total": 124,
-   "new_today": 3,
+   "total": 128,
+   "new_today": 5,
    "items": [
     {
      "desk": "Policy",
@@ -166,8 +166,8 @@
    ]
   },
   "Startups": {
-   "total": 364,
-   "new_today": 5,
+   "total": 367,
+   "new_today": 8,
    "items": [
     {
      "desk": "Startups",
@@ -258,27 +258,46 @@
    ]
   },
   "Immigration": {
-   "total": 621,
-   "new_today": 4,
+   "total": 636,
+   "new_today": 11,
    "items": [
     {
      "desk": "Immigration",
      "score": 5,
      "priority": 42,
-     "title": "UPDATE: Swiss parliament rejects move for simplified citizenship process",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQem5lbkpfNnR4dHNTNXZLcVFjMDB5RVdEVDdLY0QwQjlLWWxGdTRUVUlWLTlHMUhjc3hsX3pMZVNIdVlLcTZHcGdXTkRFOEUtaXhrbTJzSzEycmE1RnVYa25MRDQtUjc0SGprbG9PYk9ZV0VYRndGblA5dGVaLVVzOW94ckh3OUFQemF2ZXZmcXU0eVhFbUVWdGFuQkhUdHdEWVBveDVPaw?oc=5",
-     "date": "2026-09-25",
-     "source": "The Local Switzerland",
-     "label": "Switzerland",
-     "snippet": "Switzerland's parliament this week rejected a proposal for a simplified naturalisation procedure that argued the Swiss naturalisation period is too long compared to other states.",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source Switzerland's parliament this week rejected a proposal for a simplified naturalisation procedure that argued the Swiss naturalisation period is too long compared to other states. The Council of States vote, which ...",
+     "title": "Australia enacts bans on dependants and onshore visa applications",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMnZ1a0F4NzVBNGJ4dmlDSXI2Sngzem1yVTU4bTRKZHlxWXRaY1B6V2RuMnoybkdEeTQ5UTlFakpkbWw4VWJndEJKanFucDRSY01maUVQZVQwaGI3R2d3dFlzRVdIc0RTS0I0OUtrajBKeXdVRHJ2cEhBazVoeWhjaTlUV3lUYXZFVUJxQzJtRGxtNHJ3b3JGSU00WUtvTzhJZTJmUDFoYw?oc=5",
+     "date": "2026-10-02",
+     "source": "Times Higher Education",
+     "label": "Australia",
+     "snippet": "Canberra accused of ‘policy whack-a-mole’ as it details latest rule changes to an industry already in ‘dire straits’",
+     "lead": "Ban on dependants looks all but meaningless as primary applicants struggle for admission",
      "image": null,
      "why": [
-      "Affects citizenship"
+      "Announces a change"
      ],
      "tags": [
-      "Citizenship",
-      "Switzerland"
+      "Australia"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 42,
+     "title": "New Zealand: Location Requirements for Accredited Employer Work Visa Holders Clarified",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYUVTT2V5bzlSd1ZQMEV0NFRkV2tCeld2c0NWS0FwSS05Q0xrSFViYnUzVFhHTUxEYjV0RUhQVFpqeVR5aW5kNlBESUFuMmtIOTlIR1dzeHJkbFhYaDZKbTN5RlUyVHFIOElDVGlSOWl2NDBnRjEyUXJ5dFg2WFhPSExSX1p1TkxfTFVDX1pTLVRVSkF6SkVPaGxDcmtxLTJ6ZV8zcmMyU2tVZ1pmVkxDWjhFYldUUk9JcDdzZVJjNERUQQ?oc=5",
+     "date": "2026-09-30",
+     "source": "Fragomen",
+     "label": "New Zealand",
+     "snippet": "Immigration New Zealand (INZ) has published updated guidance clarifying the location requirements for workers holding an Accredited Employer Work Visa (AEWV). When submitting a job check application, employers must specify the location or region where the role will be based. If a role regularly requires work across multiple locations, eac",
+     "lead": "Immigration New Zealand (INZ) has published updated guidance clarifying the location requirements for workers holding an Accredited Employer Work Visa (AEWV). When submitting a job check application, employers must specify the location or region where the role will be based. If a role regularly requires work across multiple locations, each location must be included in the job check and employers must provide evidence that the position ...",
+     "image": "https://www.fragomen.com/a/web/6neDND2DvH5cq9pLmAp2Ht/9PCium/open-graph-main-2025.jpg",
+     "why": [
+      "Affects work visas"
+     ],
+     "tags": [
+      "Work visa",
+      "New Zealand"
      ]
     }
    ]
@@ -844,6 +863,28 @@
    "desk": "Immigration",
    "score": 7,
    "priority": 58,
+   "title": "Iceland Proposes Six-Year Wait for Permanent Residence",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaUp5dXFzRFhGU1pZQlJ3LUw0eGtzcnRBRk1lNG5OWVJYZkg0a1JVeE5RNWxTNFNfbG1BTWlqd3RVU3hRaTZYN08yVUlHdE1FbE5DNHA0M2p6ckhkZEh2OVNERi1keTA5WldKRDAwUktvVjcwakx6OWh2SlE5ck1XMUV4OHhjQmd5Wk51TklSQVg?oc=5",
+   "date": "2026-10-02",
+   "source": "Iceland Review",
+   "label": "Iceland",
+   "snippet": "Iceland’s proposed residence rules would extend the permanent-permit qualifying period to six years. The changes are under consultation, not yet law.",
+   "lead": "Iceland’s Justice Ministry has proposed extending the residence period required for a permanent permit from four years to six. The draft bill, published for public consultation on October 1, mainly concerns people from outside the European Economic Area. Justice Minister Þorbjörg S. Gunnlaugsdóttir says the changes would bring Iceland’s rules closer to those in other Nordic countries. The proposals have not become law. The ministry ...",
+   "image": "https://www.icelandreview.com/wp-content/uploads/2023/12/DSF33521-1024x683.jpg",
+   "why": [
+    "Affects permanent residence"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Iceland"
+   ],
+   "rank": 21,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 58,
    "title": "Spain announces 2-year fast-track citizenship route for citizens of 23 countries",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmp4cEdnWW9iaU9ER25YazZyck9OWDRyTnBwLU45SG9PTGJvVU9iaFNKN2NFa3dZMGNtXzhsSmVnR3BhWUZLMGhXYmRDaDNEeEd3SGFYYlhYYkhUS3dWYkdLSFY2N3NPMnpZVDAxTUhod3RFQlUzMU91Z2hteXVUandKWUdnb3dwNGdzMnlTMGZ4aVJFdnhTYzQyTjVjYXFEOXZPT3RQLUk?oc=5",
    "date": "2026-09-27",
@@ -860,7 +901,7 @@
     "Citizenship",
     "Spain"
    ],
-   "rank": 21,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -881,28 +922,6 @@
    "tags": [
     "PR / Settlement",
     "Germany"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 5,
-   "priority": 42,
-   "title": "New Zealand: Location Requirements for Accredited Employer Work Visa Holders Clarified",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYUVTT2V5bzlSd1ZQMEV0NFRkV2tCeld2c0NWS0FwSS05Q0xrSFViYnUzVFhHTUxEYjV0RUhQVFpqeVR5aW5kNlBESUFuMmtIOTlIR1dzeHJkbFhYaDZKbTN5RlUyVHFIOElDVGlSOWl2NDBnRjEyUXJ5dFg2WFhPSExSX1p1TkxfTFVDX1pTLVRVSkF6SkVPaGxDcmtxLTJ6ZV8zcmMyU2tVZ1pmVkxDWjhFYldUUk9JcDdzZVJjNERUQQ?oc=5",
-   "date": "2026-09-30",
-   "source": "Fragomen",
-   "label": "New Zealand",
-   "snippet": "Immigration New Zealand (INZ) has published updated guidance clarifying the location requirements for workers holding an Accredited Employer Work Visa (AEWV). When submitting a job check application, employers must specify the location or region where the role will be based. If a role regularly requires work across multiple locations, eac",
-   "lead": "Immigration New Zealand (INZ) has published updated guidance clarifying the location requirements for workers holding an Accredited Employer Work Visa (AEWV). When submitting a job check application, employers must specify the location or region where the role will be based. If a role regularly requires work across multiple locations, each location must be included in the job check and employers must provide evidence that the position ...",
-   "image": "https://www.fragomen.com/a/web/6neDND2DvH5cq9pLmAp2Ht/9PCium/open-graph-main-2025.jpg",
-   "why": [
-    "Affects work visas"
-   ],
-   "tags": [
-    "Work visa",
-    "New Zealand"
    ],
    "rank": 23,
    "must_read": false
