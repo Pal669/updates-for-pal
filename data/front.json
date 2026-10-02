@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-02",
- "built": "2026-10-02 02:50 IST",
+ "built": "2026-10-02 08:48 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22620.0,
-   "change_pct": -0.42,
-   "asof": "01 Oct 15:31 IST"
+   "value": 22422.0,
+   "change_pct": -0.88,
+   "asof": "01 Oct 15:30 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72480.0,
-   "change_pct": -0.07,
+   "value": 71910.0,
+   "change_pct": -0.79,
    "asof": "01 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 96.31,
-   "change_pct": 0.4,
-   "asof": "02 Oct 02:12 IST"
+   "value": 96.3,
+   "change_pct": 0.39,
+   "asof": "02 Oct 07:58 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 102.21,
-   "change_pct": -1.27,
-   "asof": "02 Oct 02:29 IST"
+   "value": 102.17,
+   "change_pct": -0.14,
+   "asof": "02 Oct 08:36 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4208.0,
-   "change_pct": 0.5,
-   "asof": "02 Oct 02:29 IST"
+   "value": 4199.0,
+   "change_pct": -0.08,
+   "asof": "02 Oct 08:38 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,7 +79,7 @@
  },
  "desks": {
   "Policy": {
-   "total": 119,
+   "total": 120,
    "new_today": 0,
    "items": [
     {
@@ -164,9 +164,31 @@
    ]
   },
   "Startups": {
-   "total": 360,
-   "new_today": 2,
+   "total": 362,
+   "new_today": 4,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "The investor behind Neko Health’s $700M bet on scanning your whole body",
+     "url": "https://techcrunch.com/podcast/the-investor-behind-neko-healths-700m-bet-on-scanning-your-whole-body/",
+     "date": "2026-10-01",
+     "source": "TechCrunch",
+     "label": "Global · Health & Wellness",
+     "snippet": "Daniel Ek’s Neko Health raised $700M to bring body scanning to the U.S. Investor Farooq Abbasi joins Equity to explain the bet on preventative healthcare, competition and what comes next.",
+     "lead": "Listen on Apple Podcasts Listen on Spotify Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner , while Function Health has also raised significant capital to build out its preventative-health platform. Why are investors betting so big on this ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2023/07/NekoScan.png?resize=1200,900",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $700M: round or valuation)",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "Funding",
+      "Health & Wellness"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 11,
@@ -229,27 +251,6 @@
      "tags": [
       "Acquisition",
       "Fintech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Simple Energy bets Rs 1,750 Cr fundraise on clearing delivery backlog, scaling across India",
-     "url": "https://yourstory.com/2026/09/shreshth-mishra-simple-energy-rs-1750-cr-pivot-scale-across-india",
-     "date": "2026-10-01",
-     "source": "YourStory",
-     "label": "India · Logistics & Supply Chain",
-     "snippet": "Shreshth Mishra, Co-founder of Simple Energy, an electric two-wheeler maker, explains how the company’s recent Rs 1,750 crore Series C funding will help address past delivery delays and working capital bottlenecks.",
-     "lead": "Simple Energy bets Rs 1,750 Cr fundraise on clearing delivery backlog, scaling across India Shreshth Mishra, Co-founder of Simple Energy, an electric two-wheeler maker, explains how the company’s recent Rs 1,750 crore Series C funding will help address past delivery delays and working capital bottlenecks. Rajkamal Narayanan 6 Stories Thursday October 01, 2026 , 3 min Read Electric two-wheeler maker Simple Energy on Wednesday raised Rs ...",
-     "image": "https://images.yourstory.com/cs/2/f4c8dc30b73511f197be7d10bec6c83f/SimpleEnergyFunding1600x900-1790782573733.jpg",
-     "why": [
-      "Funding",
-      "Large deal (about $184M)"
-     ],
-     "tags": [
-      "Funding",
-      "Logistics & Supply Chain"
      ]
     }
    ]
@@ -377,6 +378,30 @@
    "desk": "Startups",
    "score": 13,
    "priority": 100,
+   "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+   "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+   "date": "2026-10-02",
+   "source": "TechCrunch",
+   "label": "Global · SaaS & Enterprise",
+   "snippet": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+   "lead": "Kevin Mandia, best known as the founder of cybersecurity startup Mandiant, which sold to Google for $5.4 billion in 2022 , has raised $255.5 million for his latest startup, Armadin, at a valuation of more than $2.5 billion, the company announced on Thursday. The Series B round was led by Andreessen Horowitz and Accel, with Bain Capital Ventures, Redpoint, 8VC, Ballistic Ventures, Google Ventures, In-Q-Tel, Kleiner Perkins, and Menlo ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $2,500M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "SaaS & Enterprise"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 13,
+   "priority": 100,
    "title": "IPO-bound Kuku turns profitable as FY26 revenue jumps sixfold to Rs 1,484 crore",
    "url": "https://economictimes.indiatimes.com/tech/technology/ipo-bound-kuku-turns-profitable-as-fy26-revenue-jumps-sixfold-to-rs-1484-crore/articleshow/134622598.cms",
    "date": "2026-10-01",
@@ -393,7 +418,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -417,7 +442,7 @@
     "PR / Settlement",
     "Japan"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -441,7 +466,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -464,7 +489,7 @@
    "tags": [
     "Agriculture & Food"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -488,8 +513,8 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Startups",
@@ -512,7 +537,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -536,7 +561,7 @@
    "tags": [
     "Funding"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -559,7 +584,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -582,7 +607,7 @@
     "Funding",
     "Fintech"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -604,30 +629,6 @@
    "tags": [
     "IPO & Listing",
     "AI & Deeptech"
-   ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "The investor behind Neko Health’s $700M bet on scanning your whole body",
-   "url": "https://techcrunch.com/podcast/the-investor-behind-neko-healths-700m-bet-on-scanning-your-whole-body/",
-   "date": "2026-10-01",
-   "source": "TechCrunch",
-   "label": "Global · Health & Wellness",
-   "snippet": "Daniel Ek’s Neko Health raised $700M to bring body scanning to the U.S. Investor Farooq Abbasi joins Equity to explain the bet on preventative healthcare, competition and what comes next.",
-   "lead": "Listen on Apple Podcasts Listen on Spotify Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner , while Function Health has also raised significant capital to build out its preventative-health platform. Why are investors betting so big on this ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/07/NekoScan.png?resize=1200,900",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $700M: round or valuation)",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Funding",
-    "Health & Wellness"
    ],
    "rank": 11,
    "must_read": false
@@ -750,13 +751,13 @@
    "desk": "Policy",
    "score": 10,
    "priority": 67,
-   "title": "Reserve Bank of India (Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026: issued for 3 bank categories",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13721&Mode=0",
+   "title": "Reserve Bank of India (Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026: issued for 2 bank categories",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13720&Mode=0",
    "date": "2026-10-01",
    "source": "RBI",
    "label": "Banking & Rates",
    "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Payments Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026 The Reserve Bank had issued the Reserve Bank of India (Payments Banks – Acquisition and Holding of Shares or Voting Rights) Directions, 2025 (hereinafter referred as the ‘Master Direction’), on November 28, 2025, which mandates that any person seeking to make an initial acquisition of major shareholding in a banking ...",
+   "lead": "Reserve Bank of India (Small Finance Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026 The Reserve Bank had issued the Reserve Bank of India (Small Finance Banks – Acquisition and Holding of Shares or Voting Rights) Directions, 2025 (hereinafter referred as the ‘Master Direction’), on November 28, 2025, which mandates that any person seeking to make an initial acquisition of major shareholding in a ...",
    "image": null,
    "why": [
     "Regulator rulebook change",
