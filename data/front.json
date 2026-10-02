@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-02",
- "built": "2026-10-02 10:56 IST",
+ "built": "2026-10-02 11:38 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -33,16 +33,16 @@
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 101.85,
-   "change_pct": -0.45,
-   "asof": "02 Oct 10:45 IST"
+   "value": 102.12,
+   "change_pct": -0.19,
+   "asof": "02 Oct 11:28 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4217.0,
-   "change_pct": 0.34,
-   "asof": "02 Oct 10:46 IST"
+   "value": 4214.0,
+   "change_pct": 0.29,
+   "asof": "02 Oct 11:27 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,9 +79,30 @@
  },
  "desks": {
   "Policy": {
-   "total": 121,
-   "new_today": 0,
+   "total": 124,
+   "new_today": 3,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 10,
+     "priority": 67,
+     "title": "Master Circular - Credit Facilities to Scheduled Castes (SCs) & Scheduled Tribes (STs)",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13716&Mode=0",
+     "date": "2026-10-01",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Notifications - Reserve Bank of India",
+     "lead": "The Chairman/ Managing Director / Chief Executive Officer All Scheduled Commercial Banks (including Small Finance Banks) Master Circular - Credit facilities to Scheduled Castes (SCs) & Scheduled Tribes (STs) The Reserve Bank of India has, from time to time, issued a number of guidelines/instructions to banks on credit facilities to Scheduled Castes (SCs) & Scheduled Tribes (STs). The enclosed Master Circular consolidates the circulars ...",
+     "image": null,
+     "why": [
+      "Regulator rulebook change",
+      "Touches financial markets",
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 10,
@@ -141,30 +162,11 @@
      "tags": [
       "Banking & Rates"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 6,
-     "priority": 40,
-     "title": "India’s indigenous technology push gains momentum as HD Kumaraswamy unveils MHI Industry Accelerator Impact Report at Navigyaan 2026",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316863",
-     "date": "2026-09-30",
-     "source": "PIB",
-     "label": "Banking & Rates",
-     "snippet": "Union Minister for Heavy Industries and Steel, H. D. Kumaraswamy on Wednesday unveiled and digitally",
-     "lead": "Union Minister for Heavy Industries and Steel, H. D. Kumaraswamy on Wednesday unveiled and digitally launched the Impact Report of the Ministry of Heavy Industries (MHI) Industry Accelerator Project at Navigyaan 2026 in New Delhi, marking an important milestone in the development and advancement of indigenous technologies for India’s mobility and manufacturing sectors. Addressing the gathering, H.D. Kumaraswamy said the event marked ...",
-     "image": null,
-     "why": [
-      "Rates and liquidity"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 363,
+   "total": 364,
    "new_today": 5,
    "items": [
     {
@@ -256,7 +258,7 @@
    ]
   },
   "Immigration": {
-   "total": 619,
+   "total": 621,
    "new_today": 4,
    "items": [
     {
@@ -436,7 +438,7 @@
    "why": [
     "Affects permanent residence",
     "Announces a change",
-    "Major story (19 headlines that day)"
+    "Major story (20 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
@@ -729,6 +731,28 @@
    "desk": "Policy",
    "score": 11,
    "priority": 73,
+   "title": "Master Direction on Note Sorting Machines",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13723&Mode=0",
+   "date": "2026-10-02",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 11,
+   "priority": 73,
    "title": "Cabinet approves Green Energy Corridor Phase-III scheme for Development of Intra-State Transmission System with Battery Energy Storage Systems",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316948",
    "date": "2026-09-30",
@@ -744,7 +768,7 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -767,7 +791,7 @@
    "tags": [
     "PMS"
    ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -790,7 +814,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -808,29 +832,6 @@
    "why": [
     "Regulator rulebook change",
     "Rule change",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 67,
-   "title": "Master Circular - Credit Facilities to Scheduled Castes (SCs) & Scheduled Tribes (STs)",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13716&Mode=0",
-   "date": "2026-10-01",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "The Chairman/ Managing Director / Chief Executive Officer All Scheduled Commercial Banks (including Small Finance Banks) Master Circular - Credit facilities to Scheduled Castes (SCs) & Scheduled Tribes (STs) The Reserve Bank of India has, from time to time, issued a number of guidelines/instructions to banks on credit facilities to Scheduled Castes (SCs) & Scheduled Tribes (STs). The enclosed Master Circular consolidates the circulars ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Touches financial markets",
     "Regulator: RBI"
    ],
    "tags": [
