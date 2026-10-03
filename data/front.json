@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-03",
- "built": "2026-10-03 07:53 IST",
+ "built": "2026-10-03 10:39 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -28,20 +28,20 @@
    "dp": 2,
    "value": 96.3,
    "change_pct": 0.08,
-   "asof": "03 Oct 02:48 IST"
+   "asof": "03 Oct 09:00 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 102.7,
-   "change_pct": 0.38,
+   "value": 102.25,
+   "change_pct": -0.06,
    "asof": "03 Oct 02:29 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4172.0,
-   "change_pct": -0.72,
+   "value": 4162.0,
+   "change_pct": -0.95,
    "asof": "03 Oct 02:29 IST"
   },
   {
@@ -165,9 +165,30 @@
    ]
   },
   "Startups": {
-   "total": 369,
-   "new_today": 1,
+   "total": 370,
+   "new_today": 2,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
+     "title": "Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says",
+     "url": "https://economictimes.indiatimes.com/tech/technology/broadcom-to-lend-anthropic-up-to-42-billion-to-lease-its-chips-filing-says/articleshow/134615299.cms",
+     "date": "2026-10-01",
+     "source": "ET Startups",
+     "label": "Global · AI & Deeptech",
+     "snippet": "As part of that complex relationship, revealed in the IPO filing, Broadcom has agreed to lend Anthropic up to $42 billion to finance infrastructure spending.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-746608,resizemode-75,msid-134615299/tech/technology/broadcom-to-lend-anthropic-up-to-42-billion-to-lease-its-chips-filing-says.jpg",
+     "why": [
+      "IPO & Listing",
+      "Very large figure in headline (about $42,000M: round or valuation)"
+     ],
+     "tags": [
+      "IPO & Listing",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -232,32 +253,12 @@
      "tags": [
       "Funding"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "IIT Madras targets 1,000 startups by 2032, eyes one IPO every month",
-     "url": "https://yourstory.com/2026/09/iit-madras-1000-startups-2032-one-ipo-every-month",
-     "date": "2026-09-26",
-     "source": "YourStory",
-     "label": "India · Other",
-     "snippet": "IIT Madras aims to have around 1,000 startups under its fold by 2032, with at least one expected to go public every month, Director Prof V Kamakoti said. The institute has already incubated 583 startups with a combined valuation of Rs 83,000 crore.",
-     "lead": "IIT Madras targets 1,000 startups by 2032, eyes one IPO every month IIT Madras aims to have around 1,000 startups under its fold by 2032, with at least one expected to go public every month, Director Prof V Kamakoti said. The institute has already incubated 583 startups with a combined valuation of Rs 83,000 crore. Team YS 17243 Stories Saturday September 26, 2026 , 2 min Read IIT Madras aims to have around 1,000 startups under its ...",
-     "image": "https://images.yourstory.com/cs/2/a0bc5020250711f09884fb7189395d75/ArtificialintelligencetoEnhanceLanguageSkillsPresentationinBlueandPurple3DModernStyle-3-1746512587127.png",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $8,737M: round or valuation)"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 649,
-   "new_today": 2,
+   "total": 653,
+   "new_today": 3,
    "items": [
     {
      "desk": "Immigration",
@@ -455,7 +456,7 @@
    "why": [
     "Affects permanent residence",
     "Announces a change",
-    "Major story (20 headlines that day)"
+    "Major story (21 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
@@ -512,6 +513,28 @@
    "must_read": true
   },
   {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 92,
+   "title": "From Simple Energy To Arivihan — Indian Startups Raised Over $233 Mn This Week",
+   "url": "https://inc42.com/buzz/from-simple-energy-to-arivihan-indian-startups-raised-over-233-mn-this-week/",
+   "date": "2026-10-03",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Indian startups raised $233.6 Mn across 16 deals between September 28 and October 2, up 14.9% from $203 Mn in the previous week",
+   "lead": "Indian startups raised $233.6 Mn across 16 deals between September 28 and October 2, up 14.9% from $203 Mn in the previous week Clean tech topped the funding charts this week, powered by electric two-wheeler (E2W) maker Simple Energy’s $180 Mn Series C round Alteria Capital emerged as the most active investor, backing three startups",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Social-100-7.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $233M)"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
    "desk": "Advisory",
    "score": 12,
    "priority": 92,
@@ -531,7 +554,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -555,7 +578,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -579,7 +602,7 @@
    "tags": [
     "Funding"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -603,7 +626,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -626,7 +649,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -648,29 +671,6 @@
    "tags": [
     "Funding",
     "Fintech"
-   ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says",
-   "url": "https://economictimes.indiatimes.com/tech/technology/broadcom-to-lend-anthropic-up-to-42-billion-to-lease-its-chips-filing-says/articleshow/134615299.cms",
-   "date": "2026-10-01",
-   "source": "ET Startups",
-   "label": "Global · AI & Deeptech",
-   "snippet": "As part of that complex relationship, revealed in the IPO filing, Broadcom has agreed to lend Anthropic up to $42 billion to finance infrastructure spending.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-746608,resizemode-75,msid-134615299/tech/technology/broadcom-to-lend-anthropic-up-to-42-billion-to-lease-its-chips-filing-says.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $42,000M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "AI & Deeptech"
    ],
    "rank": 12,
    "must_read": false
@@ -812,6 +812,28 @@
    "must_read": false
   },
   {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 64,
+   "title": "When to use each passport if you're a dual national with Spanish citizenship",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd0lpNnZSVkdvV1MyLUphbTNsbkZuSHZLMGxjTGNoc21NckpZZ2RSckpJOXo4UHo3SFRiUnU1RDM5elNGcmlMUE5rQjJUVEtLbUhZYXJXZWZ2NnVtb0p4NHhDeERrcDhwSWd0SkJMbGtaUVBDY2tNblFkNWNIMm9xVG94TUZHZXhYN2lPUTZOT1R0UXlqNHlSLWNqMHJYQ1NxajJhaDlad2tYQUl3?oc=5",
+   "date": "2026-10-02",
+   "source": "The Local Spain",
+   "label": "Spain",
+   "snippet": "Do you have dual nationality with Spain and your country of birth? If so, travelling can become confusing. Here are the rules on which passport you should use and when.",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source Do you have dual nationality with Spain and your country of birth? If so, travelling can become confusing. Here are the rules on which passport you should use and when. If you’re lucky enough to have acquired Spanish citizenship ...",
+   "image": null,
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "Spain"
+   ],
+   "rank": 19,
+   "must_read": false
+  },
+  {
    "desk": "Policy",
    "score": 9,
    "priority": 64,
@@ -831,7 +853,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 19,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -853,29 +875,6 @@
    ],
    "tags": [
     "Banking & Rates"
-   ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 64,
-   "title": "Spain announces 2-year fast-track citizenship route for citizens of 23 countries",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmp4cEdnWW9iaU9ER25YazZyck9OWDRyTnBwLU45SG9PTGJvVU9iaFNKN2NFa3dZMGNtXzhsSmVnR3BhWUZLMGhXYmRDaDNEeEd3SGFYYlhYYkhUS3dWYkdLSFY2N3NPMnpZVDAxTUhod3RFQlUzMU91Z2hteXVUandKWUdnb3dwNGdzMnlTMGZ4aVJFdnhTYzQyTjVjYXFEOXZPT3RQLUk?oc=5",
-   "date": "2026-09-27",
-   "source": "Yen.com.gh",
-   "label": "Spain",
-   "snippet": "Spain confirms 23 countries qualify for citizenship after two years’ legal residency, offering eligible nationals an advantage over the standard ten-year wait.",
-   "lead": "PAY ATTENTION: Mark YEN.com.gh as a preferred source, and our content will appear higher in your Google feed! Spain has opened a significantly shorter route to citizenship for nationals of 23 specific countries, requiring just two years of legal residency instead of the standard ten years that applies to most foreign nationals. Spain mentions 23 countries eligible for shorter residency route. Photo source: @sanchezcastejon, @magnific ...",
-   "image": "https://cdn.yen.com.gh/images/1200x675/021ad5279c637ed7.jpeg?v=1",
-   "why": [
-    "Affects citizenship",
-    "Announces a change"
-   ],
-   "tags": [
-    "Citizenship",
-    "Spain"
    ],
    "rank": 21,
    "must_read": false
