@@ -1,6 +1,6 @@
 {
- "edition": "2026-10-03",
- "built": "2026-10-03 20:24 IST",
+ "edition": "2026-10-04",
+ "built": "2026-10-04 00:55 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -54,38 +54,38 @@
  ],
  "features": {
   "startup_file": {
-   "company": "Angle Health",
-   "tagline": "US health-insurance startup for small businesses (YC winter 2020)",
-   "what": "AI-powered platform that helps small businesses choose and manage 'level-funded' health plans, integrating with payroll and HR systems. Level-funded sits between fully insured (carrier bears all risk, higher and predictable cost) and self-funded (employer bears cost, unpredictable): the business makes predictable payments, is insured against unusually high costs, and may get a share of the surplus back if claims stay low.",
+   "company": "Innov8 Workspaces",
+   "tagline": "Premium flexible office space operator",
+   "what": "Runs premium flexible and managed workspace centres across India. It had 58 operating centres at the end of FY26 and 72 by July 2026.",
    "how": [
-    "The article does not say how Angle itself earns its revenue.",
-    "It says the startup serves 5,000+ businesses and is profitable."
+    "Rent from customers who use its centres: Rs 173.6 Cr of Rs 201.3 Cr operating revenue in FY26, about 86%.",
+    "Other operational income (ancillary services): Rs 27.6 Cr, up from Rs 5.4 Cr."
    ],
-   "watch": "A profitable, non-'AI agent' company raising a large Series C is unusual per TechCrunch. The tender offer is liquidity for staff, not money into the company.",
-   "sector": "Fintech",
-   "region": "Global",
-   "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/"
+   "watch": "Profit quality: other income was Rs 38.9 Cr, including a Rs 36.7 Cr gain on terminating lease contracts. Without that gain the profit jump would look much smaller. The article gives growth drivers as more centres, higher occupancy and better pricing.",
+   "sector": "Real Estate & Workspaces",
+   "region": "India",
+   "url": "https://inc42.com/buzz/innov8s-fy26-profit-zooms-multifold-to-%e2%82%b913-7-cr-revenue-crosses-%e2%82%b9200-cr-mark/"
   },
   "country": {
-   "id": "austria",
-   "name": "Austria",
-   "trend": "Stable but strict",
-   "pr": "Red-White-Red Card Plus after about 21 months (no longer tied to one employer). EU permanent residence after 5 years of continuous legal residence.",
-   "citizenship": "10 years standard, 6 years for well-integrated applicants (B2 German, volunteering or professional achievement). Needs B2 German, self-sufficiency and, in general, renunciation of prior citizenship (sources conflict on exceptions; India requires renunciation anyway).",
-   "pro": "Card Plus after about 21 months removes employer dependence.",
-   "con": "Citizenship takes 10 years (6 if well integrated) and needs B2 German.",
-   "watch": "Annual Red-White-Red quota"
+   "id": "norway",
+   "name": "Norway",
+   "trend": "Stable",
+   "pr": "Permanent residence after 3 years (fee NOK 4,000), requiring an oral Norwegian test at A2, a social studies test and self-support.",
+   "citizenship": "7 years of total residence (within the last 10), PR, Norwegian and social studies tests, clean record. Norway allows dual citizenship (general knowledge).",
+   "pro": "Fastest PR among the Nordic countries here: 3 years.",
+   "con": "Job offer required before applying; no job-seeker route.",
+   "watch": "Salary-floor updates"
   }
  },
  "desks": {
   "Policy": {
    "total": 130,
-   "new_today": 2,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
-     "score": 9,
-     "priority": 64,
+     "score": 8,
+     "priority": 57,
      "title": "Master Circular - Credit Facilities to Scheduled Castes (SCs) & Scheduled Tribes (STs)",
      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13716&Mode=0",
      "date": "2026-10-01",
@@ -101,25 +101,6 @@
      ],
      "tags": [
       "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 6,
-     "priority": 43,
-     "title": "Union Minister of Petroleum and Natural Gas Shri Hardeep Singh Puri launches GOBARdhan Scheme to accelerate development of India’s Compressed Biogas sector",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2317937",
-     "date": "2026-10-01",
-     "source": "PIB",
-     "label": "Energy & Power",
-     "snippet": "The Union Minister of Petroleum and Natural Gas, Shri Hardeep Singh Puri, today launched GOBARdhan,",
-     "lead": "Ministry of Petroleum & Natural Gas Union Minister of Petroleum and Natural Gas Shri Hardeep Singh Puri launches GOBARdhan Scheme to accelerate development of India’s Compressed Biogas sector Integrated Central Sector Scheme brings assured offtake, stable pricing, capital assistance, pipeline connectivity, credit support and ecosystem development under a unified framework GOBARdhan Handbook unveiled and Unified GOBARdhan Portal ...",
-     "image": null,
-     "why": [
-      "Large outlay (Rs 10,000 Cr or more)"
-     ],
-     "tags": [
-      "Energy & Power"
      ]
     },
     {
@@ -146,31 +127,92 @@
      "desk": "Policy",
      "score": 5,
      "priority": 36,
-     "title": "NABKISAN Lists India’s First WASH-Focused Social Bond, Raises ₹180 Crore",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2318568",
-     "date": "2026-10-03",
+     "title": "Union Minister of Petroleum and Natural Gas Shri Hardeep Singh Puri launches GOBARdhan Scheme to accelerate development of India’s Compressed Biogas sector",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2317937",
+     "date": "2026-10-01",
      "source": "PIB",
-     "label": "Budget & Fiscal",
-     "snippet": "Mumbai, 3 October 2026\r\n\r\nNABKISAN Finance Limited, a subsidiary of the National Bank for Agric",
-     "lead": "Ministry of Finance NABKISAN Lists India’s First WASH-Focused Social Bond, Raises ₹180 Crore Posted On: 03 OCT 2026 12:01PM by PIB Mumbai",
+     "label": "Energy & Power",
+     "snippet": "The Union Minister of Petroleum and Natural Gas, Shri Hardeep Singh Puri, today launched GOBARdhan,",
+     "lead": "Ministry of Petroleum & Natural Gas Union Minister of Petroleum and Natural Gas Shri Hardeep Singh Puri launches GOBARdhan Scheme to accelerate development of India’s Compressed Biogas sector Integrated Central Sector Scheme brings assured offtake, stable pricing, capital assistance, pipeline connectivity, credit support and ecosystem development under a unified framework GOBARdhan Handbook unveiled and Unified GOBARdhan Portal ...",
      "image": null,
      "why": [
-      "Ministry of Finance"
+      "Large outlay (Rs 10,000 Cr or more)"
      ],
      "tags": [
-      "Budget & Fiscal"
+      "Energy & Power"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 36,
+     "title": "India’s indigenous technology push gains momentum as HD Kumaraswamy unveils MHI Industry Accelerator Impact Report at Navigyaan 2026",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316863",
+     "date": "2026-09-30",
+     "source": "PIB",
+     "label": "Banking & Rates",
+     "snippet": "Union Minister for Heavy Industries and Steel, H. D. Kumaraswamy on Wednesday unveiled and digitally",
+     "lead": "Union Minister for Heavy Industries and Steel, H. D. Kumaraswamy on Wednesday unveiled and digitally launched the Impact Report of the Ministry of Heavy Industries (MHI) Industry Accelerator Project at Navigyaan 2026 in New Delhi, marking an important milestone in the development and advancement of indigenous technologies for India’s mobility and manufacturing sectors. Addressing the gathering, H.D. Kumaraswamy said the event marked ...",
+     "image": null,
+     "why": [
+      "Rates and liquidity"
+     ],
+     "tags": [
+      "Banking & Rates"
      ]
     }
    ]
   },
   "Startups": {
-   "total": 376,
-   "new_today": 8,
+   "total": 379,
+   "new_today": 0,
    "items": [
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 83,
+     "priority": 77,
+     "title": "ElevenLabs doubles valuation to $22bn with tender offer",
+     "url": "https://sifted.eu/articles/elevenlabs-doubles-valuation-to-22bn-with-tender-offer/",
+     "date": "2026-09-30",
+     "source": "Sifted",
+     "label": "Global · Other",
+     "snippet": "New price tag comes little over six months since AI voice startup was valued at $11bn.",
+     "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
+     "image": "https://content.sifted.eu/wp-content/uploads/2026/03/30170822/Eleven-Labs-scaled-e1774886998162.webp",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $22,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 69,
+     "title": "Skin In The Game: Why Banks Are Taking Stakes In AI Labs",
+     "url": "https://inc42.com/features/skin-in-the-game-why-banks-are-taking-stakes-in-ai-labs/",
+     "date": "2026-10-03",
+     "source": "Inc42",
+     "label": "India · Fintech",
+     "snippet": "Banks are moving beyond buying AI tools, becoming investors, strategic partners and co-builders with AI startups, particularly with an eye on creating AI-powered experiences for their customers",
+     "lead": "Banks are moving beyond buying AI tools, becoming investors, strategic partners and co-builders with AI startups, particularly with an eye on creating AI-powered experiences for their customers As AI moves deeper into critical banking workflows, institutions want greater control, customisation and influence over the technology they depend on After a wave of global banks backing AI labs in the West, India is also beginning to see this ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Banks-and-AI-Startups-social.jpg",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $30M)"
+     ],
+     "tags": [
+      "Funding",
+      "Fintech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 69,
      "title": "SoftBank completes final phase of $30 billion investment in OpenAI",
      "url": "https://economictimes.indiatimes.com/tech/technology/softbank-completes-final-phase-of-30-billion-investment-in-openai/articleshow/134626238.cms",
      "date": "2026-10-02",
@@ -190,8 +232,8 @@
     },
     {
      "desk": "Startups",
-     "score": 10,
-     "priority": 83,
+     "score": 9,
+     "priority": 69,
      "title": "Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says",
      "url": "https://economictimes.indiatimes.com/tech/technology/broadcom-to-lend-anthropic-up-to-42-billion-to-lease-its-chips-filing-says/articleshow/134615299.cms",
      "date": "2026-10-01",
@@ -208,81 +250,17 @@
       "IPO & Listing",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "The investor behind Neko Health’s $700M bet on scanning your whole body",
-     "url": "https://techcrunch.com/podcast/the-investor-behind-neko-healths-700m-bet-on-scanning-your-whole-body/",
-     "date": "2026-10-01",
-     "source": "TechCrunch",
-     "label": "Global · Health & Wellness",
-     "snippet": "Daniel Ek’s Neko Health raised $700M to bring body scanning to the U.S. Investor Farooq Abbasi joins Equity to explain the bet on preventative healthcare, competition and what comes next.",
-     "lead": "Listen on Apple Podcasts Listen on Spotify Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner , while Function Health has also raised significant capital to build out its preventative-health platform. Why are investors betting so big on this ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2023/07/NekoScan.png?resize=1200,900",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $700M: round or valuation)",
-      "Also covered by 1 other outlet(s)"
-     ],
-     "tags": [
-      "Funding",
-      "Health & Wellness"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-     "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-     "date": "2026-09-30",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-     "lead": "Voice AI startup ElevenLabs announced today that it’s allowing employees to cash out a portion of their vested equity at a $22 billion valuation, doubling the $11 billion valuation the company hit when it raised $500 million in February. The recent $300 million tender offer gave employees an opportunity to sell their shares to investors. The transaction was co-led by Wellington and T. Rowe Price, large institutional investors that back ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $22,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 663,
-   "new_today": 7,
+   "total": 664,
+   "new_today": 0,
    "items": [
     {
      "desk": "Immigration",
      "score": 4,
-     "priority": 36,
-     "title": "New visa rules in Australia from October 2: No more visa hopping for international students, agents selli",
-     "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQNFlGY0dvRnJlcElXVXlod1dzOGJ2c0plTEREYnJEU1Q4OGhoanRlanJCcW00aExyVXl6a3B5Q2FIa3FoRU00RjVmYy12ZDd1UzFCT3N4NHFWNFd0VHhENzl2T1R4Tzg2Ylc0S1p0Wnp3WmpqajNuNDgtOXp3Nm9rbmpuX0dXRDdSQzRpMUc5eExOemlzeFZvVlp6VjdGbVIwcDV0NXpzMklDRUFybm9VbXRsOXRkMVpwSlFxMVRPSFhSUnNxdXVTX1hBT3FtaEEwMWlkODg1QXJ6RGtjQWJfcG1OS0FOdkdTV3N1LUxPUTlxYnExUXZqMm9LdUtDdzRYUEhsOElOZDNlQ3p5OXdnNUpDNWp6bUQ5VFpaRTdEXzdadzR1U0JHVTFBYzV6UURGVFRsdUI0YVPSAb4CQVVfeXFMTjYtVDNhWFVkTVJDc0ZhS2xhT1A2MFc3SEFRbUtrTVktY1BIa0lXajRPWVdwLS1xMDdEZWJMLWVyTWRJT19OdHlOY1V1WXQtd1FRbThDZlA4UlBNVXNYNm9pQkZxS3R6Rkc0eDFIUGtMQy1nOUxNT1B3ZlJ3dVpVYlNmdEZVTkZ6cGhOOF9CTHU1Nk1DUnJUR0Y0QzlPTU0tai1ZdDdENmNOdlJMczJ6M0dtSzNXOFJCYXhId3hkNmliSUhjcEhGMHVhcWViNG9qRkJWbDdiTGx5MUgzdW9BZzRrSFZuZ1pvVzhvZUZXbGxiYURSZTFKaHRIYVFsUERRXzNycUgxOE44Q1ROSy1QRkdXV2lOdE4xQmxlTmJROEIxVXhnRFY2WThnNGRFTTZlcUUwS1NDaEVld2I5V2R3?oc=5",
-     "date": "2026-10-02",
-     "source": "The Times of India",
-     "label": "Australia",
-     "snippet": "Australia unveiled its new visa rules effective from October 2, 2026 which will put a stop to \"permanently temporary migration\" and will also crack down on visa agents and immigration lawyers who are selling \"false hope\" to foreigners about how they can continue to live in Australia. International students can't keep on studying in Austra",
-     "lead": "Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
-     "image": "https://static.toiimg.com/thumb/msid-134644320,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-     "why": [
-      "High on the desk's ranking"
-     ],
-     "tags": [
-      "Student / Graduate",
-      "Australia"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 4,
-     "priority": 36,
+     "priority": 40,
      "title": "New Zealand: Location Requirements for Accredited Employer Work Visa Holders Clarified",
      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYUVTT2V5bzlSd1ZQMEV0NFRkV2tCeld2c0NWS0FwSS05Q0xrSFViYnUzVFhHTUxEYjV0RUhQVFpqeVR5aW5kNlBESUFuMmtIOTlIR1dzeHJkbFhYaDZKbTN5RlUyVHFIOElDVGlSOWl2NDBnRjEyUXJ5dFg2WFhPSExSX1p1TkxfTFVDX1pTLVRVSkF6SkVPaGxDcmtxLTJ6ZV8zcmMyU2tVZ1pmVkxDWjhFYldUUk9JcDdzZVJjNERUQQ?oc=5",
      "date": "2026-09-30",
@@ -303,46 +281,24 @@
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 3,
+   "new_today": 0,
    "items": [
     {
      "desk": "Advisory",
-     "score": 10,
-     "priority": 77,
-     "title": "PMS Has Potential To Grow Over 20 Pc CAGR As Investment Participation Deepens: SEBI Chairman",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazdDX0tQSEdMSXU5d3RaS3FmTEdaVVR1SVRaQ1owQjBOMFdnTWEtdHBhcF9sM2VLNjNaUDZQck8wbEZzckk2MGZ4ZlJkLWtreTVSUVNuVmlDMDZhazJjdlNaaTZrRE01X3Fsc2haTENuZy1BSEJvaWJIVUp2dzl2U2NKMjZkRFJmNVp6NFVJU2UybWNUNmVjZE9BM0NHX2k1UnNxS3gyUWxPOHpFeGZfU0NUQmVXV2FCZ0hmVmdqU2JiQ1E1dUUyVw?oc=5",
-     "date": "2026-09-30",
-     "source": "Ommcom News",
+     "score": 9,
+     "priority": 75,
+     "title": "APMI launches single registration framework for PMS distributors",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVl9xUTBWRHNsOHowREM4aXRGM3BVa2lQX1U5QjNZOG8tVzlLb3Rsd0RfZFQyaDhkSFZXQzZTVENramNwdENLcVlNcGh2MF9DNXNvMEJycUNUTTZBNDNxQ2MzVHZuVnM4ODQweHRwYXpHOW9kTWRxd000ZEMwdGdHZzc3RXp0d1EyblRkN2paSmxrT0VyZ19zRGw3MG9oanJqa1R1OS1BZ3lVOHc?oc=5",
+     "date": "2026-10-03",
+     "source": "Cafemutual",
      "label": "PMS",
-     "snippet": "New Delhi: As India's investment universe expands, portfolio management services (PMS) could potentially grow at more than 20 per cent annually,",
-     "lead": "",
-     "image": "https://ommcomnews.com/wp-content/uploads/2026/01/New-Project-6-3.jpg",
+     "snippet": "PMS industry leaders discuss regulation, product innovation and investor protection at APMI’s 3rd Annual Conference.",
+     "lead": "Tuhin Kanta Pandey, Chairman, Securities and Exchange Board of India (SEBI), was the chief guest at the conference, which was themed ‘The future of India’s PMS landscape’. The SRF is aimed at creating a single industry-level registration mechanism for distributors and making the PMS distribution ecosystem more efficient, transparent and scalable. Vikas Khemani, Chairman, APMI, said that the new regulatory framework creates scope for ...",
+     "image": "https://cafemutual.com/img/og-image.JPG",
      "why": [
       "PMS news",
-      "Regulator: SEBI or RBI",
-      "Also covered by 3 other outlet(s)"
-     ],
-     "tags": [
-      "PMS"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 10,
-     "priority": 77,
-     "title": "SEBI’s new PMS framework could potentially double industry size over time: APMI Chairman Vikas Khemani",
-     "url": "https://economictimes.indiatimes.com/markets/aif-pms/sebis-new-pms-framework-could-potentially-double-industry-size-over-time-apmi-chairman-vikas-khemani/articleshow/134499050.cms",
-     "date": "2026-09-26",
-     "source": "Economic Times",
-     "label": "PMS",
-     "snippet": "SEBIs revised PMS framework introduces PRIM, expands investment options and lowers the entry threshold to ₹25 lakh. Industry leaders expect these changes to broaden PMS adoption, while global diversification, derivatives, independent fund managers and risk-adjusted performance gain importance for investors.",
-     "lead": "SEBI’s PMS reforms could widen investor access and reshape portfolio management through PRIM, broader investment options, global diversification and greater focus on risk-adjusted returns. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share ...",
-     "image": "https://img.etimg.com/thumb/msid-134499111,width-1200,height-630,imgsize-4157624,overlay-etmarkets/articleshow.jpg",
-     "why": [
-      "PMS news",
-      "Regulator: SEBI or RBI",
       "Rule or framework change",
-      "Also covered by 1 other outlet(s)"
+      "New product or fund"
      ],
      "tags": [
       "PMS"
@@ -351,7 +307,49 @@
     {
      "desk": "Advisory",
      "score": 9,
-     "priority": 69,
+     "priority": 75,
+     "title": "Fed officials give hints on rate decision as markets cut October rate hike odds",
+     "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-officials-give-hints-on-rate-decision-as-markets-cut-october-rate-hike-odds/articleshow/134645153.cms",
+     "date": "2026-10-03",
+     "source": "Economic Times",
+     "label": "Global",
+     "snippet": "Fed officials tempered expectations for an October rate hike after Philip Jefferson and John Williams stressed patience and data dependence. Markets sharply reduced hike odds, though persistent inflation and upcoming consumer price data could shape the Federal Reserves policy decision.",
+     "lead": "Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Gold paradox: Why India, a refining giant, is not a big bullion exporter",
+     "image": "https://img.etimg.com/thumb/msid-134645249,width-1200,height-900,imgsize-97980,overlay-etmarkets/articleshow.jpg",
+     "why": [
+      "Interest-rate decision",
+      "Global macro driver",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "Global"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 75,
+     "title": "Marcellus Investment Managers receives final SEBI approval to launch Mutual Fund Business",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSWZFb0h2WUxjaXNTZGNGSjRnQzA2VjFkMVBTSExxUHVlaDJxRWN6MTJ4RV85TldhUFNyZUVGbTg1RmR1UjM1TWpOQVBhTkhHNDZ5S2MwNmxXSHdwdEJuTUF0N1IwY0t6ZHFXZEM5blpFakk2YUhhUXpVaExjaGtMMnZHYU9OTkJPbGFkcEhSYkVkQ2xYTjBOWXZqVk5zMzgyVl9tTEd3TVVwRXlqSEIyTHBlT0hLbEhNQzdQUDZha29scWFZV3IxN0ZFWdIBywFBVV95cUxPSWZFb0h2WUxjaXNTZGNGSjRnQzA2VjFkMVBTSExxUHVlaDJxRWN6MTJ4RV85TldhUFNyZUVGbTg1RmR1UjM1TWpOQVBhTkhHNDZ5S2MwNmxXSHdwdEJuTUF0N1IwY0t6ZHFXZEM5blpFakk2YUhhUXpVaExjaGtMMnZHYU9OTkJPbGFkcEhSYkVkQ2xYTjBOWXZqVk5zMzgyVl9tTEd3TVVwRXlqSEIyTHBlT0hLbEhNQzdQUDZha29scWFZV3IxN0ZFWQ?oc=5",
+     "date": "2026-09-30",
+     "source": "SMEStreet",
+     "label": "Mutual Funds",
+     "snippet": "Marcellus’ Mutual Fund to extend the firm",
+     "lead": "The final approval marks the next phase in the firm's evolution since its establishment in 2018. The mutual fund platform will allow Marcellus to participate in India's rapidly expanding mutual fund ecosystem and address a much larger pool of household savings through a regulated and accessible investment structure. The move comes as Indian households increasingly participate in financial markets through mutual funds and systematic ...",
+     "image": "https://img-cdn.publive.online/fit-in/1200x675/smstreet/media/media_files/2024/12/19/i49lJkNN3yTKDQqveE7Z.png",
+     "why": [
+      "Regulator: SEBI or RBI",
+      "New product or fund",
+      "Also covered by 5 other outlet(s)"
+     ],
+     "tags": [
+      "Mutual Funds"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 8,
+     "priority": 67,
      "title": "Saroj Poddar Group, Keventer launch real estate-focussed AIF, target ₹400 crore corpus",
      "url": "https://www.thehindubusinessline.com/markets/saroj-poddar-group-keventer-launch-real-estate-focussed-aif-target-400-crore-corpus/article71537578.ece",
      "date": "2026-10-02",
@@ -368,26 +366,6 @@
      "tags": [
       "AIF"
      ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 69,
-     "title": "Vibrant Global Capital Subsidiary Secures SEBI Registration for Category III Alternative Investment Fund",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kWFNWSnZwZmZqVHJFXzFkLXZ5Q3FCR3dCeWxoU1ZmM0lyRzZVSGRnTV9WcDZPVHB1UDI3N0xGeUVGOWlYcDhMai1tQkNuc19yNkRwWVpJN2RxaGVNcG80?oc=5",
-     "date": "2026-10-02",
-     "source": "EquityBulls",
-     "label": "AIF",
-     "snippet": "",
-     "lead": "",
-     "image": null,
-     "why": [
-      "AIF news",
-      "Regulator: SEBI or RBI"
-     ],
-     "tags": [
-      "AIF"
-     ]
     }
    ]
   }
@@ -395,54 +373,54 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 13,
    "priority": 100,
-   "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
-   "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
-   "date": "2026-10-02",
-   "source": "TechCrunch",
-   "label": "Global · SaaS & Enterprise",
-   "snippet": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
-   "lead": "Kevin Mandia, best known as the founder of cybersecurity startup Mandiant, which sold to Google for $5.4 billion in 2022 , has raised $255.5 million for his latest startup, Armadin, at a valuation of more than $2.5 billion, the company announced on Thursday. The Series B round was led by Andreessen Horowitz and Accel, with Bain Capital Ventures, Redpoint, 8VC, Ballistic Ventures, Google Ventures, In-Q-Tel, Kleiner Perkins, and Menlo ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $2,500M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "SaaS & Enterprise"
-   ],
-   "rank": 1,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 100,
-   "title": "IPO-bound Kuku turns profitable as FY26 revenue jumps sixfold to Rs 1,484 crore",
-   "url": "https://economictimes.indiatimes.com/tech/technology/ipo-bound-kuku-turns-profitable-as-fy26-revenue-jumps-sixfold-to-rs-1484-crore/articleshow/134622598.cms",
-   "date": "2026-10-01",
-   "source": "ET Startups",
-   "label": "India · Other",
-   "snippet": "The company reported revenue from operations of Rs 1,484.2 crore, up 514% from Rs 241.6 crore a year earlier, per its audited financial statements. Net profit stood at Rs 182.7 crore compared with a loss of Rs 152.6 crore in FY25.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-77586,resizemode-75,msid-134622598/tech/technology/ipo-bound-kuku-turns-profitable-as-fy26-revenue-jumps-sixfold-to-rs-1484-crore.jpg",
+   "title": "IPO-Bound Kuku Technologies Turns Profitable In FY26, Revenue Surges 6X To ₹1,484 Cr",
+   "url": "https://inc42.com/buzz/ipo-bound-kuku-technologies-turns-profitable-in-fy26-revenue-surges-6x-to-%e2%82%b91484-cr/",
+   "date": "2026-10-03",
+   "source": "Inc42",
+   "label": "India · Media, Gaming & Creators",
+   "snippet": "Kuku Technologies Limited swung into the black in FY26, reporting a net profit of ₹182.7 Cr against a net loss of ₹152.6 Cr inurred in FY25",
+   "lead": "Kuku Technologies Limited swung into the black in the fiscal year FY26, reporting a net profit of ₹182.7 Cr against a net loss of ₹152.6 Cr incurred in FY25 This comes at a time when the markets regulator Securities and Exchange Board of India (SEBI) approved the public listing of Kuku Technologies, earlier in September The IPO-bound startup saw its operating revenue for the fiscal year zoom more than sixfold to ₹1,484.2 Cr in FY26 ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/soc-copy.jpg",
    "why": [
     "IPO & Listing",
     "Large deal (about $156M)",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "IPO & Listing"
+    "IPO & Listing",
+    "Media, Gaming & Creators"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 100,
+   "title": "Sebi to soon issue framework on Closing Auction Session; receives over 3,500 comments",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-soon-issue-framework-on-closing-auction-session-receives-over-3500-comments/articleshow/134655426.cms",
+   "date": "2026-10-03",
+   "source": "Economic Times",
+   "label": "Regulatory",
+   "snippet": "Securities and Exchange Board of India will release a framework regarding changes to the Closing Auction Session mechanism. The regulator reviewed comments on its consultation paper about market timings and settlement methodology. Sebi intends to address specific issues related to derivatives settlement prices after consultations. Regulat",
+   "lead": "Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price A for apple, Y for yak and, for the first time, a price next to it. Will this change the non-agri part of the rural economy?",
+   "image": "https://img.etimg.com/thumb/msid-134655502,width-1200,height-900,imgsize-2170095,overlay-etmarkets/articleshow.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Rule or framework change",
+    "Also covered by 3 other outlet(s)"
+   ],
+   "tags": [
+    "Regulatory"
    ],
    "rank": 2,
    "must_read": true
   },
   {
    "desk": "Immigration",
-   "score": 11,
+   "score": 10,
    "priority": 100,
    "title": "Japan raises permanent residency fee by 20 times",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DeGNjMUhVQ3NQX29PYWxjeU9mdEYxLUJUQ2hIcnZjdXVJYmw2TE1MVUQtYzVsLTh5cWd1VV9aTkJvUzZkeHBxVTZiSEFKWEw3aEVaTHZmUHpTdzRxa2c?oc=5",
@@ -466,7 +444,7 @@
   },
   {
    "desk": "Advisory",
-   "score": 13,
+   "score": 12,
    "priority": 100,
    "title": "RBI MPC Preview: BofA sees 25 bps rate hike as US yields and crude surge",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM3NGNGZEQl9mMnE3cUdWM2YxRlp4OG9GZks1ZVFpRm5OMkVFWGhfVGoxa2RBcmh1MnUyYUVWb1Q4dVYwcUhGTm5Sa2ZEaFBEanhUcDJCLWozcl9KbTk5dVF1N2lVQm1BanZJSU5LNl93Y2tIOGNjdWt2dEtoSlZnZUo0cTFualNlei1nZi1rQWs1VVltYUVDOWlFYW45TzZxYldZY0ZERzJObmVuSV8zQ0NVQktadVRYQWEtMG1WTDFfbTk4bmfSAcwBQVVfeXFMTTgwdmFmQk0xaEJUS1dXYTQ3aVpBUG1QSzN4Nmcyb0tvd3JUMWJfQjh5b0xzWFFhblZmYmZaVll3VzRJcDhkOU0tV04tREdnMkhQWG9lbnVCMlBNSHM0ZjNCVEE3QmZpQkxQY3Y2a2NuWlhBV2hhN3BYTWMtQWFSaTNZZ0REblpzTWtvSDBSTktkVU1GUS1rc2ZPUXNQUnFmUWplR09McTZIN1NfeDdJMkU1U2ZTVUJDXzdMVms3czdHc3VtejdOa1NRZXF0?oc=5",
@@ -512,46 +490,48 @@
    "must_read": true
   },
   {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "From Simple Energy To Arivihan — Indian Startups Raised Over $233 Mn This Week",
-   "url": "https://inc42.com/buzz/from-simple-energy-to-arivihan-indian-startups-raised-over-233-mn-this-week/",
-   "date": "2026-10-03",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Indian startups raised $233.6 Mn across 16 deals between September 28 and October 2, up 14.9% from $203 Mn in the previous week",
-   "lead": "Indian startups raised $233.6 Mn across 16 deals between September 28 and October 2, up 14.9% from $203 Mn in the previous week Clean tech topped the funding charts this week, powered by electric two-wheeler (E2W) maker Simple Energy’s $180 Mn Series C round Alteria Capital emerged as the most active investor, backing three startups",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Social-100-7.jpg",
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 100,
+   "title": "Indian bond yields ease as oil cools, Fed rate hike bets tumble ahead of RBI policy",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWElfT1JtQTRYd1RwRDZEUS1kc2gxQVVXZjJ3RThMZVRKZWtxbzFsWVp1WVk0RGhzcXBKa2dzSnpfRUREd2wxZEtVeFhFWUMzOWVDYl9NRG5ZbWF2X3paeWctV0xoNXkzZncySTZ4NW9LLU4yVGVzTlNLUzg0SDJfTkFPdjVsZTJ6WVkwdUllMkViZUNybGtCdGo3N2pqQkxfS05GR18zZUphNTVwNXlPc216YWdDcFpybk45Y2VxeGR5dERUNzk4MEhjTGxyQnVXaHJrb0dDRUg5YUJUdXc?oc=5",
+   "date": "2026-09-30",
+   "source": "Moneycontrol.com",
+   "label": "Debt & Bonds",
+   "snippet": "The benchmark 10-year bond yield was trading at 7.1482 percent",
+   "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
+   "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260622142629_RBIRTR1.png",
    "why": [
-    "Funding",
-    "Large deal (about $233M)"
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Government bond yields",
+    "Global macro driver"
    ],
    "tags": [
-    "Funding"
+    "Debt & Bonds"
    ],
    "rank": 6,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 12,
+   "score": 11,
    "priority": 92,
-   "title": "RBI MPC may hike repo rate next week: Experts share the equity-debt strategy investors should consider",
-   "url": "https://www.livemint.com/market/stock-market-news/rbi-mpc-may-hike-repo-rate-next-week-experts-share-the-equity-debt-strategy-investors-should-consider-11790937827085.html",
-   "date": "2026-10-02",
+   "title": "After Sept, bond yields to peak in Oct too? Experts decode future of Indian bond market; RBI's next move holds key",
+   "url": "https://www.livemint.com/market/bonds/after-sept-bond-yields-to-peak-in-oct-too-experts-decode-future-of-indian-bond-market-rbis-next-move-holds-key-11790928652341.html",
+   "date": "2026-10-03",
    "source": "Mint",
-   "label": "Regulatory",
-   "snippet": "As retail inflation surges and global monetary tightening escalates, experts predict a likely 25 bps hike from the RBI. With equities showing resilience, now may be the time for investors to reassess strategies, particularly in sectors poised for growth amidst these changes.",
-   "lead": "The RBI MPC may hike the repo rate next week as inflation risk has intensified due to higher oil prices. ( an AI-generated image for representational purposes ) AI Quick Read Major global central banks have embarked on a path of monetary tightening, and the Reserve Bank of India (RBI) now looks set to follow suit. After interest rate hikes by the US Federal Reserve, the Bank of Japan (BoJ), and the European Central Bank (ECB), the RBI, ...",
+   "label": "Debt & Bonds",
+   "snippet": "Shorter-tenure corporate bonds may offer better risk-reward opportunities, while dynamic bond funds provide flexibility for various risk profiles. RBI is expected to raise the repo rate by 50-75 basis points amid inflation risks, driven by higher food and oil prices.",
+   "lead": "Bond yields on a rise (AI-generated image for representational purposes) AI Quick Read India’s bond market is entering October with the comfort of strong domestic growth but the discomfort of rising inflationary pressures, elevated global yields and tighter liquidity conditions. The sharp rise in the domestic 10-year benchmark yield in September has changed the complexion of the fixed-income market, with investors now having to ...",
    "image": null,
    "why": [
     "Regulator: SEBI or RBI",
-    "Interest-rate decision",
+    "Government bond yields",
     "Also covered by 2 other outlet(s)"
    ],
    "tags": [
-    "Regulatory"
+    "Debt & Bonds"
    ],
    "rank": 7,
    "must_read": false
@@ -559,23 +539,23 @@
   {
    "desk": "Startups",
    "score": 11,
-   "priority": 92,
-   "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-   "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-   "date": "2026-10-01",
+   "priority": 85,
+   "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+   "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+   "date": "2026-10-02",
    "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-   "lead": "Flow Engineering , a startup that offers AI tools for hardware design, has raised a $50 million Series B round at a $750 million valuation from some big-name investors, the company announced on Wednesday. The round was co-led by Antonio Gracias of Valar Equity Partners ( best known for its investments in Elon Musk’s companies, particularly SpaceX) and Gavin Baker of Atreides Management (a hedge fund that has also backed Musk’s ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
+   "label": "Global · SaaS & Enterprise",
+   "snippet": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+   "lead": "Kevin Mandia, best known as the founder of cybersecurity startup Mandiant, which sold to Google for $5.4 billion in 2022 , has raised $255.5 million for his latest startup, Armadin, at a valuation of more than $2.5 billion, the company announced on Thursday. The Series B round was led by Andreessen Horowitz and Accel, with Bain Capital Ventures, Redpoint, 8VC, Ballistic Ventures, Google Ventures, In-Q-Tel, Kleiner Perkins, and Menlo ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
    "why": [
     "Funding",
-    "Very large figure in headline (about $750M: round or valuation)",
+    "Very large figure in headline (about $2,500M: round or valuation)",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
     "Funding",
-    "AI & Deeptech"
+    "SaaS & Enterprise"
    ],
    "rank": 8,
    "must_read": false
@@ -583,7 +563,7 @@
   {
    "desk": "Startups",
    "score": 11,
-   "priority": 92,
+   "priority": 85,
    "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
    "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
    "date": "2026-09-30",
@@ -606,96 +586,25 @@
   },
   {
    "desk": "Advisory",
-   "score": 12,
-   "priority": 92,
-   "title": "Indian bond yields ease as oil cools, Fed rate hike bets tumble ahead of RBI policy",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWElfT1JtQTRYd1RwRDZEUS1kc2gxQVVXZjJ3RThMZVRKZWtxbzFsWVp1WVk0RGhzcXBKa2dzSnpfRUREd2wxZEtVeFhFWUMzOWVDYl9NRG5ZbWF2X3paeWctV0xoNXkzZncySTZ4NW9LLU4yVGVzTlNLUzg0SDJfTkFPdjVsZTJ6WVkwdUllMkViZUNybGtCdGo3N2pqQkxfS05GR18zZUphNTVwNXlPc216YWdDcFpybk45Y2VxeGR5dERUNzk4MEhjTGxyQnVXaHJrb0dDRUg5YUJUdXc?oc=5",
-   "date": "2026-09-30",
-   "source": "Moneycontrol.com",
-   "label": "Debt & Bonds",
-   "snippet": "The benchmark 10-year bond yield was trading at 7.1482 percent",
-   "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
-   "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260622142629_RBIRTR1.png",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Government bond yields",
-    "Global macro driver"
-   ],
-   "tags": [
-    "Debt & Bonds"
-   ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 85,
-   "title": "Why is US Stock Market Up Today? Dow Jones Gains 400 Points, S&P 500 Rises 0.99%, Nasdaq Climbs 1.56% as Oil Surges, Bond Selloff & Fed Rate Hike Bets Wall Street — Check What Investors Should Know",
-   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQaEk1aUpacmQzZVdvT3VGWktJOG40a3FkNk9USHRURF80UTVDNHloTFF3RDlYYXpBeHVrY1I0V1VhUjRBeTNUWWUwUUFnWlQyOHBfYThpcXl3cDNKTkpQUnFoYnduYkhpUkI4UmFqUmRpb3NDZzBRaURnZDRiM1l5cTdUT0NzbjZ1Tll4SUNobEZ4ekdxMjVZWmpac185c3o0Q19vOXlwY1d1Y2c2bWJNTldzYzBUSlNmWm5JSWkyclczVHI2b3NyWTR0SHdTOTJIUVdHQktRb3BBZXBwU21IWTd0WkhCYmFxcDBScUdkNEVlQW9yUG5TR2t1QTJKcl9KT01hQzloV2xSNk5kNEpZMnpJSVhzMU9XVjcyWVhHX19XYU5yNHU4OGM3T00wekptbFkzYVlqZUpCS1hRaXUwa19MQ3c0S0lsLTBmZzRYdGdkZ9IB1wJBVV95cUxNRm4xcjh4aGJOcWJhN0xzckxuY3NscXZkSFhmVmFWUEIyNWpzWVJkMV9jM3dCUHJiT0tqcFBDbi1BOWhlOFEzSUdDU3NLLUpjektoN29ZaXBUTXU4c25wcFB0OHZvNklINDBtTHRCTDNwOHdRcmtIT3lvN1NZdnp6aW1vbFo4SnlPSzNaOFk1Y0UyWTd0QmxVZU10UDExa1pTX3JlR2VsVGctT2wzSjhQZUp6UEM4SWh5eFhsbk1mVGF2NUxFb2RTX0I0Z05OQkxHbjdCQkRyYUQzeTNhWEQ1UDFGcEd1WVJSUWlZNHUzZ2RYSFB6ckY3T3gtc19Bak45dXItT2g0MTlLQWJ3VVIxUG00YnFOVGh4WUQxRFBpWlFZTGIwcW96Nk9rSDRzUHg3Ui1uQlRRbHRaTXRUdVZSaVVaM24zUElkbnZEU0RtbTBFd3kzZVow?oc=5",
-   "date": "2026-10-02",
-   "source": "The Sunday Guardian",
-   "label": "Debt & Bonds",
-   "snippet": "US stocks rise as falling Treasury yields and weaker jobs data lift the Dow Jones, Nasdaq and S&P 500, while investors assess Fed rate expectations.",
-   "lead": "Is the US Stock Market Up Today: On October 2, the US equities indices traded upwards due to lower bond yields, poor jobs numbers and renewed demand for tech-related companies. The Dow Jones Industrial Average, Nasdaq Composite and S&P 500 traded upwards as investors considered the Fed interest rate stance prior to the Fed October meeting. Non-farm payroll in September went up by only 29,000, significantly lower than 84,000-90,000 ...",
-   "image": "https://sundayguardianlive.com/wp-content/uploads/2026/08/us-stock-market-today_6.png",
-   "why": [
-    "Interest-rate decision",
-    "Global macro driver",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Debt & Bonds"
-   ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
    "score": 10,
    "priority": 83,
-   "title": "Skin In The Game: Why Banks Are Taking Stakes In AI Labs",
-   "url": "https://inc42.com/features/skin-in-the-game-why-banks-are-taking-stakes-in-ai-labs/",
-   "date": "2026-10-03",
-   "source": "Inc42",
-   "label": "India · Fintech",
-   "snippet": "Banks are moving beyond buying AI tools, becoming investors, strategic partners and co-builders with AI startups, particularly with an eye on creating AI-powered experiences for their customers",
-   "lead": "Banks are moving beyond buying AI tools, becoming investors, strategic partners and co-builders with AI startups, particularly with an eye on creating AI-powered experiences for their customers As AI moves deeper into critical banking workflows, institutions want greater control, customisation and influence over the technology they depend on After a wave of global banks backing AI labs in the West, India is also beginning to see this ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Banks-and-AI-Startups-social.jpg",
+   "title": "PMS Has Potential To Grow Over 20 Pc CAGR As Investment Participation Deepens: SEBI Chairman",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazdDX0tQSEdMSXU5d3RaS3FmTEdaVVR1SVRaQ1owQjBOMFdnTWEtdHBhcF9sM2VLNjNaUDZQck8wbEZzckk2MGZ4ZlJkLWtreTVSUVNuVmlDMDZhazJjdlNaaTZrRE01X3Fsc2haTENuZy1BSEJvaWJIVUp2dzl2U2NKMjZkRFJmNVp6NFVJU2UybWNUNmVjZE9BM0NHX2k1UnNxS3gyUWxPOHpFeGZfU0NUQmVXV2FCZ0hmVmdqU2JiQ1E1dUUyVw?oc=5",
+   "date": "2026-09-30",
+   "source": "Ommcom News",
+   "label": "PMS",
+   "snippet": "New Delhi: As India's investment universe expands, portfolio management services (PMS) could potentially grow at more than 20 per cent annually,",
+   "lead": "",
+   "image": "https://ommcomnews.com/wp-content/uploads/2026/01/New-Project-6-3.jpg",
    "why": [
-    "Funding",
-    "Sizeable deal (about $30M)"
+    "PMS news",
+    "Regulator: SEBI or RBI",
+    "Also covered by 3 other outlet(s)"
    ],
    "tags": [
-    "Funding",
-    "Fintech"
+    "PMS"
    ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 11,
-   "priority": 79,
-   "title": "RBI issues Amendment Directions on ‘Simplified approval process for subsequent acquisitions of major shareholding in a banking company by mutual funds, insurance companies and pension funds’",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63711",
-   "date": "2026-10-01",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The Reserve Bank, vide Press Release dated July 14, 2026 , had issued the draft \"Reserve Bank of India (Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026” , seeking comments / feedback from the regulated entities and members of public / other stakeholders on or before August 4, 2026. The draft Amendment Directions proposed to simplify approval process for subsequent acquisitions of major shareholding in a ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Touches financial markets",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 13,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -717,75 +626,101 @@
    "tags": [
     "Other Policy"
    ],
-   "rank": 14,
+   "rank": 11,
    "must_read": false
   },
   {
-   "desk": "Advisory",
+   "desk": "Startups",
    "score": 10,
    "priority": 77,
-   "title": "Fed officials give hints on rate decision as markets cut October rate hike odds",
-   "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-officials-give-hints-on-rate-decision-as-markets-cut-october-rate-hike-odds/articleshow/134645153.cms",
+   "title": "From Simple Energy To Arivihan — Indian Startups Raised Over $233 Mn This Week",
+   "url": "https://inc42.com/buzz/from-simple-energy-to-arivihan-indian-startups-raised-over-233-mn-this-week/",
    "date": "2026-10-03",
-   "source": "Economic Times",
-   "label": "Global",
-   "snippet": "Fed officials tempered expectations for an October rate hike after Philip Jefferson and John Williams stressed patience and data dependence. Markets sharply reduced hike odds, though persistent inflation and upcoming consumer price data could shape the Federal Reserves policy decision.",
-   "lead": "Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Gold paradox: Why India, a refining giant, is not a big bullion exporter",
-   "image": "https://img.etimg.com/thumb/msid-134645249,width-1200,height-900,imgsize-97980,overlay-etmarkets/articleshow.jpg",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Indian startups raised $233.6 Mn across 16 deals between September 28 and October 2, up 14.9% from $203 Mn in the previous week",
+   "lead": "Indian startups raised $233.6 Mn across 16 deals between September 28 and October 2, up 14.9% from $203 Mn in the previous week Clean tech topped the funding charts this week, powered by electric two-wheeler (E2W) maker Simple Energy’s $180 Mn Series C round Alteria Capital emerged as the most active investor, backing three startups",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Social-100-7.jpg",
    "why": [
-    "Interest-rate decision",
-    "Global macro driver",
-    "Also covered by 1 other outlet(s)"
+    "Funding",
+    "Large deal (about $233M)"
    ],
    "tags": [
-    "Global"
+    "Funding"
    ],
-   "rank": 15,
+   "rank": 12,
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 8,
-   "priority": 73,
-   "title": "ILPA highlights 20 things you might not know about Home Office’s earned settlement proposals",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFczeExkaDZKWXdXXzNnb1ZFVXpmbmpkRUdsa0w1c1hKNHZvQkFhdF9fV1FVRlFhM0J2VEJnN3puNlNJbFI0QUJHcVVxYXRSbF9Cb01MM1ZKRF9ZQmRIbldOOVZiTVFnMEJOV1pWajNGeWhRcjJOZFYzdkFkRm9semJnaFdwOFJxMTBBMWYybmtVNm9tbnhxWk5FeksxdUxkdWpRODdYVDhUOEs0VDJoOHdZRTF1T3pWdW5B?oc=5",
+   "desk": "Startups",
+   "score": 10,
+   "priority": 77,
+   "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+   "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
    "date": "2026-10-01",
-   "source": "Electronic Immigration Network",
-   "label": "United Kingdom",
-   "snippet": "Briefing paper points out that headline 10-year qualifying period for ILR will not apply to majority of applicants",
-   "lead": "Briefing paper points out that headline 10-year qualifying period for ILR will not apply to majority of applicants The Immigration Law Practitioners' Association (ILPA) last which published a briefing outlining 20 points you might not know about the Government's proposed \"earned settlement\" reforms, which would change how migrants qualify for indefinite leave to remain (ILR). ILPA highlights that while the reforms are widely understood ...",
-   "image": null,
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+   "lead": "Flow Engineering , a startup that offers AI tools for hardware design, has raised a $50 million Series B round at a $750 million valuation from some big-name investors, the company announced on Wednesday. The round was co-led by Antonio Gracias of Valar Equity Partners ( best known for its investments in Elon Musk’s companies, particularly SpaceX) and Gavin Baker of Atreides Management (a hedge fund that has also backed Musk’s ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
    "why": [
-    "Affects permanent residence",
-    "Announces a change"
+    "Funding",
+    "Very large figure in headline (about $750M: round or valuation)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "PR / Settlement",
-    "United Kingdom"
+    "Funding",
+    "AI & Deeptech"
    ],
-   "rank": 16,
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 77,
+   "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+   "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+   "date": "2026-09-30",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+   "lead": "Voice AI startup ElevenLabs announced today that it’s allowing employees to cash out a portion of their vested equity at a $22 billion valuation, doubling the $11 billion valuation the company hit when it raised $500 million in February. The recent $300 million tender offer gave employees an opportunity to sell their shares to investors. The transaction was co-led by Wellington and T. Rowe Price, large institutional investors that back ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $22,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 14,
    "must_read": false
   },
   {
    "desk": "Policy",
    "score": 10,
    "priority": 71,
-   "title": "Master Direction on Note Sorting Machines",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13723&Mode=0",
-   "date": "2026-10-02",
+   "title": "RBI issues Amendment Directions on ‘Simplified approval process for subsequent acquisitions of major shareholding in a banking company by mutual funds, insurance companies and pension funds’",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63711",
+   "date": "2026-10-01",
    "source": "RBI",
    "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "The Reserve Bank, vide Press Release dated July 14, 2026 , had issued the draft \"Reserve Bank of India (Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026” , seeking comments / feedback from the regulated entities and members of public / other stakeholders on or before August 4, 2026. The draft Amendment Directions proposed to simplify approval process for subsequent acquisitions of major shareholding in a ...",
    "image": null,
    "why": [
     "Regulator rulebook change",
+    "Rule change",
+    "Touches financial markets",
     "Regulator: RBI"
    ],
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 17,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -807,35 +742,81 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 18,
+   "rank": 16,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 7,
-   "priority": 64,
-   "title": "When to use each passport if you're a dual national with Spanish citizenship",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd0lpNnZSVkdvV1MyLUphbTNsbkZuSHZLMGxjTGNoc21NckpZZ2RSckpJOXo4UHo3SFRiUnU1RDM5elNGcmlMUE5rQjJUVEtLbUhZYXJXZWZ2NnVtb0p4NHhDeERrcDhwSWd0SkJMbGtaUVBDY2tNblFkNWNIMm9xVG94TUZHZXhYN2lPUTZOT1R0UXlqNHlSLWNqMHJYQ1NxajJhaDlad2tYQUl3?oc=5",
-   "date": "2026-10-02",
-   "source": "The Local Spain",
-   "label": "Spain",
-   "snippet": "Do you have dual nationality with Spain and your country of birth? If so, travelling can become confusing. Here are the rules on which passport you should use and when.",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source Do you have dual nationality with Spain and your country of birth? If so, travelling can become confusing. Here are the rules on which passport you should use and when. If you’re lucky enough to have acquired Spanish citizenship ...",
+   "priority": 70,
+   "title": "ILPA highlights 20 things you might not know about Home Office’s earned settlement proposals",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFczeExkaDZKWXdXXzNnb1ZFVXpmbmpkRUdsa0w1c1hKNHZvQkFhdF9fV1FVRlFhM0J2VEJnN3puNlNJbFI0QUJHcVVxYXRSbF9Cb01MM1ZKRF9ZQmRIbldOOVZiTVFnMEJOV1pWajNGeWhRcjJOZFYzdkFkRm9semJnaFdwOFJxMTBBMWYybmtVNm9tbnhxWk5FeksxdUxkdWpRODdYVDhUOEs0VDJoOHdZRTF1T3pWdW5B?oc=5",
+   "date": "2026-10-01",
+   "source": "Electronic Immigration Network",
+   "label": "United Kingdom",
+   "snippet": "Briefing paper points out that headline 10-year qualifying period for ILR will not apply to majority of applicants",
+   "lead": "Briefing paper points out that headline 10-year qualifying period for ILR will not apply to majority of applicants The Immigration Law Practitioners' Association (ILPA) last which published a briefing outlining 20 points you might not know about the Government's proposed \"earned settlement\" reforms, which would change how migrants qualify for indefinite leave to remain (ILR). ILPA highlights that while the reforms are widely understood ...",
    "image": null,
    "why": [
-    "Affects citizenship"
+    "Affects permanent residence",
+    "Announces a change"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "United Kingdom"
+   ],
+   "rank": 17,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 70,
+   "title": "Spain announces 2-year fast-track citizenship route for citizens of 23 countries",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmp4cEdnWW9iaU9ER25YazZyck9OWDRyTnBwLU45SG9PTGJvVU9iaFNKN2NFa3dZMGNtXzhsSmVnR3BhWUZLMGhXYmRDaDNEeEd3SGFYYlhYYkhUS3dWYkdLSFY2N3NPMnpZVDAxTUhod3RFQlUzMU91Z2hteXVUandKWUdnb3dwNGdzMnlTMGZ4aVJFdnhTYzQyTjVjYXFEOXZPT3RQLUk?oc=5",
+   "date": "2026-09-27",
+   "source": "Yen.com.gh",
+   "label": "Spain",
+   "snippet": "Spain confirms 23 countries qualify for citizenship after two years’ legal residency, offering eligible nationals an advantage over the standard ten-year wait.",
+   "lead": "PAY ATTENTION: Mark YEN.com.gh as a preferred source, and our content will appear higher in your Google feed! Spain has opened a significantly shorter route to citizenship for nationals of 23 specific countries, requiring just two years of legal residency instead of the standard ten years that applies to most foreign nationals. Spain mentions 23 countries eligible for shorter residency route. Photo source: @sanchezcastejon, @magnific ...",
+   "image": "https://cdn.yen.com.gh/images/1200x675/021ad5279c637ed7.jpeg?v=1",
+   "why": [
+    "Affects citizenship",
+    "Announces a change"
    ],
    "tags": [
     "Citizenship",
     "Spain"
    ],
-   "rank": 19,
+   "rank": 18,
    "must_read": false
   },
   {
    "desk": "Policy",
    "score": 9,
    "priority": 64,
+   "title": "Master Direction on Note Sorting Machines",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13723&Mode=0",
+   "date": "2026-10-02",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 19,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 8,
+   "priority": 57,
    "title": "Reserve Bank of India (Commercial Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026",
    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13719&Mode=0",
    "date": "2026-10-01",
@@ -857,8 +838,8 @@
   },
   {
    "desk": "Policy",
-   "score": 9,
-   "priority": 64,
+   "score": 8,
+   "priority": 57,
    "title": "Consolidation/ Review of instructions issued on currency management matters – Withdrawal of Circulars/ Guidelines",
    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13718&Mode=0",
    "date": "2026-10-01",
@@ -880,8 +861,8 @@
   },
   {
    "desk": "Immigration",
-   "score": 6,
-   "priority": 55,
+   "score": 5,
+   "priority": 50,
    "title": "Iceland Proposes Six-Year Wait for Permanent Residence",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaUp5dXFzRFhGU1pZQlJ3LUw0eGtzcnRBRk1lNG5OWVJYZkg0a1JVeE5RNWxTNFNfbG1BTWlqd3RVU3hRaTZYN08yVUlHdE1FbE5DNHA0M2p6ckhkZEh2OVNERi1keTA5WldKRDAwUktvVjcwakx6OWh2SlE5ck1XMUV4OHhjQmd5Wk51TklSQVg?oc=5",
    "date": "2026-10-02",
@@ -902,8 +883,8 @@
   },
   {
    "desk": "Immigration",
-   "score": 5,
-   "priority": 45,
+   "score": 4,
+   "priority": 40,
    "title": "Germany has an Indian (visit duration) problem, and Indians have a German (visa) problem!",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZFVMWjhSRXk5NTlFMFZJUlFIRGxULTF0RzlTdU9TbGIxSWFoSkowdzF1YW9uSFhUX1dEeHVXcWhlQm4wSU8xRkZreDlkdnNDblhEcnZXTzlhYXVERE9lbEg2TFpIWk9qQ2JWSGpLZjhGTU9hUHo3djh3dEVhTnJIY1BZbXFhWXZjUkpSUEdPdkxyQdIBlwFBVV95cUxQVXZpYTZZdXhoUDdQaC1xOEVSY00xdzRNcXJmb3lxVVBVZnVWWjB4Ti1WZDJrXzRhd0dVekpJR2tRay1FeklVLWhvLWFpUUg4QXB2aktkU01PdDM1WWhvLTEweTJsQzRKVnRMZzVJaGpsemsxYVlyeFNmbUZrbTI1ZnBmU21zWnhkX1ZQLWNRWFZoZk5kbVdv?oc=5",
    "date": "2026-10-03",
