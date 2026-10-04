@@ -1,6 +1,6 @@
 {
- "edition": "2026-10-04",
- "built": "2026-10-04 21:01 IST",
+ "edition": "2026-10-05",
+ "built": "2026-10-05 01:20 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -28,7 +28,7 @@
    "dp": 2,
    "value": 96.3,
    "change_pct": 0.08,
-   "asof": "04 Oct 09:00 IST"
+   "asof": "04 Oct 21:41 IST"
   },
   {
    "name": "Brent (USD)",
@@ -54,27 +54,27 @@
  ],
  "features": {
   "startup_file": {
-   "company": "Innov8 Workspaces",
-   "tagline": "Premium flexible office space operator",
-   "what": "Runs premium flexible and managed workspace centres across India. It had 58 operating centres at the end of FY26 and 72 by July 2026.",
+   "company": "Kissht",
+   "tagline": "Listed digital lender (NBFC)",
+   "what": "Lending-tech platform founded in 2015 by Ranvir Singh and Krishnan Vishwanathan. Offers digital personal and business loans up to Rs 5 lakh, health-related insurance products and secured loans against property. Got regulatory approval in July 2026 to distribute mutual funds through subsidiary Invincible Minds.",
    "how": [
-    "Rent from customers who use its centres: Rs 173.6 Cr of Rs 201.3 Cr operating revenue in FY26, about 86%.",
-    "Other operational income (ancillary services): Rs 27.6 Cr, up from Rs 5.4 Cr."
+    "The article does not give a revenue split.",
+    "Inferred, not from the article: as an NBFC, its core income is interest and fees on the loans it makes; insurance and mutual fund distribution would add commissions."
    ],
-   "watch": "Profit quality: other income was Rs 38.9 Cr, including a Rs 36.7 Cr gain on terminating lease contracts. Without that gain the profit jump would look much smaller. The article gives growth drivers as more centres, higher occupancy and better pricing.",
-   "sector": "Real Estate & Workspaces",
+   "watch": "The company did not say how it will use the money. Fresh capital for a lender usually funds loan growth, but that is inference.",
+   "sector": "Fintech",
    "region": "India",
-   "url": "https://inc42.com/buzz/innov8s-fy26-profit-zooms-multifold-to-%e2%82%b913-7-cr-revenue-crosses-%e2%82%b9200-cr-mark/"
+   "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/"
   },
   "country": {
-   "id": "norway",
-   "name": "Norway",
-   "trend": "Stable",
-   "pr": "Permanent residence after 3 years (fee NOK 4,000), requiring an oral Norwegian test at A2, a social studies test and self-support.",
-   "citizenship": "7 years of total residence (within the last 10), PR, Norwegian and social studies tests, clean record. Norway allows dual citizenship (general knowledge).",
-   "pro": "Fastest PR among the Nordic countries here: 3 years.",
-   "con": "Job offer required before applying; no job-seeker route.",
-   "watch": "Salary-floor updates"
+   "id": "spain",
+   "name": "Spain",
+   "trend": "Mixed",
+   "pr": "Long-term residence after 5 years of continuous legal residence.",
+   "citizenship": "10 years standard (2 years for Ibero-American nationals and a few others). Dual citizenship restricted for most nationalities (general knowledge); India requires renunciation anyway.",
+   "pro": "Spanish is a global language, giving optionality beyond Europe.",
+   "con": "10-year citizenship clock.",
+   "watch": "2026 immigration regulation changes"
   }
  },
  "desks": {
@@ -165,54 +165,12 @@
   },
   "Startups": {
    "total": 385,
-   "new_today": 6,
+   "new_today": 0,
    "items": [
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 77,
-     "title": "From Simple Energy To Arivihan — Indian Startups Raised Over $233 Mn This Week",
-     "url": "https://inc42.com/buzz/from-simple-energy-to-arivihan-indian-startups-raised-over-233-mn-this-week/",
-     "date": "2026-10-03",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "Indian startups raised $233.6 Mn across 16 deals between September 28 and October 2, up 14.9% from $203 Mn in the previous week",
-     "lead": "Indian startups raised $233.6 Mn across 16 deals between September 28 and October 2, up 14.9% from $203 Mn in the previous week Clean tech topped the funding charts this week, powered by electric two-wheeler (E2W) maker Simple Energy’s $180 Mn Series C round Alteria Capital emerged as the most active investor, backing three startups",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Social-100-7.jpg",
-     "why": [
-      "Funding",
-      "Large deal (about $233M)"
-     ],
-     "tags": [
-      "Funding"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-     "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-     "date": "2026-10-01",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-     "lead": "Flow Engineering , a startup that offers AI tools for hardware design, has raised a $50 million Series B round at a $750 million valuation from some big-name investors, the company announced on Wednesday. The round was co-led by Antonio Gracias of Valar Equity Partners ( best known for its investments in Elon Musk’s companies, particularly SpaceX) and Gavin Baker of Atreides Management (a hedge fund that has also backed Musk’s ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $750M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
+     "priority": 83,
      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
      "date": "2026-09-30",
@@ -234,7 +192,7 @@
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 77,
+     "priority": 83,
      "title": "ElevenLabs doubles valuation to $22bn with tender offer",
      "url": "https://sifted.eu/articles/elevenlabs-doubles-valuation-to-22bn-with-tender-offer/",
      "date": "2026-09-30",
@@ -251,30 +209,72 @@
      "tags": [
       "Funding"
      ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 75,
+     "title": "PanIIT, Andhra Pradesh plan Rs 500 Cr deeptech fund, target 25 AP startups by 2030",
+     "url": "https://yourstory.com/2026/10/paniit-500-cr-deeptech-fund-targets-25-andhra-startups-by-2030",
+     "date": "2026-10-04",
+     "source": "YourStory",
+     "label": "India · AI & Deeptech",
+     "snippet": "Andhra Pradesh Chief Minister N Chandrababu Naidu told venture capital investors that the state would match their contribution to deeptech investments.",
+     "lead": "PanIIT, Andhra Pradesh plan Rs 500 Cr deeptech fund, target 25 AP startups by 2030 The proposed fund is part of a broader PanIIT-Andhra Pradesh push to build a deeptech ecosystem in the state. Chief Minister N Chandrababu Naidu told venture capital investors that the state would match their contribution to deeptech investments. Team YS 17286 Stories Sunday October 04, 2026 , 3 min Read PanIIT Alumni India and the Andhra Pradesh ...",
+     "image": "https://images.yourstory.com/cs/2/37e5ca70873c11f1b05fb9c57f27e957/panIIT-1791086065776.jpeg",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $53M)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 75,
+     "title": "From Simple Energy To Arivihan — Indian Startups Raised Over $233 Mn This Week",
+     "url": "https://inc42.com/buzz/from-simple-energy-to-arivihan-indian-startups-raised-over-233-mn-this-week/",
+     "date": "2026-10-03",
+     "source": "Inc42",
+     "label": "India · Other",
+     "snippet": "Indian startups raised $233.6 Mn across 16 deals between September 28 and October 2, up 14.9% from $203 Mn in the previous week",
+     "lead": "Indian startups raised $233.6 Mn across 16 deals between September 28 and October 2, up 14.9% from $203 Mn in the previous week Clean tech topped the funding charts this week, powered by electric two-wheeler (E2W) maker Simple Energy’s $180 Mn Series C round Alteria Capital emerged as the most active investor, backing three startups",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Social-100-7.jpg",
+     "why": [
+      "Funding",
+      "Large deal (about $233M)"
+     ],
+     "tags": [
+      "Funding"
+     ]
     }
    ]
   },
   "Immigration": {
-   "total": 679,
-   "new_today": 7,
+   "total": 684,
+   "new_today": 0,
    "items": [
     {
      "desk": "Immigration",
      "score": 4,
      "priority": 40,
-     "title": "Germany has an Indian (visit duration) problem, and Indians have a German (visa) problem!",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZFVMWjhSRXk5NTlFMFZJUlFIRGxULTF0RzlTdU9TbGIxSWFoSkowdzF1YW9uSFhUX1dEeHVXcWhlQm4wSU8xRkZreDlkdnNDblhEcnZXTzlhYXVERE9lbEg2TFpIWk9qQ2JWSGpLZjhGTU9hUHo3djh3dEVhTnJIY1BZbXFhWXZjUkpSUEdPdkxyQdIBlwFBVV95cUxQVXZpYTZZdXhoUDdQaC1xOEVSY00xdzRNcXJmb3lxVVBVZnVWWjB4Ti1WZDJrXzRhd0dVekpJR2tRay1FeklVLWhvLWFpUUg4QXB2aktkU01PdDM1WWhvLTEweTJsQzRKVnRMZzVJaGpsemsxYVlyeFNmbUZrbTI1ZnBmU21zWnhkX1ZQLWNRWFZoZk5kbVdv?oc=5",
-     "date": "2026-10-03",
-     "source": "theweek.in",
-     "label": "Germany",
-     "snippet": "",
-     "lead": "Reference #18.8a89cc17.1791082528.9fde3749 https://errors.edgesuite.net/18.8a89cc17.1791082528.9fde3749",
-     "image": null,
+     "title": "New Zealand: Location Requirements for Accredited Employer Work Visa Holders Clarified",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYUVTT2V5bzlSd1ZQMEV0NFRkV2tCeld2c0NWS0FwSS05Q0xrSFViYnUzVFhHTUxEYjV0RUhQVFpqeVR5aW5kNlBESUFuMmtIOTlIR1dzeHJkbFhYaDZKbTN5RlUyVHFIOElDVGlSOWl2NDBnRjEyUXJ5dFg2WFhPSExSX1p1TkxfTFVDX1pTLVRVSkF6SkVPaGxDcmtxLTJ6ZV8zcmMyU2tVZ1pmVkxDWjhFYldUUk9JcDdzZVJjNERUQQ?oc=5",
+     "date": "2026-09-30",
+     "source": "Fragomen",
+     "label": "New Zealand",
+     "snippet": "Immigration New Zealand (INZ) has published updated guidance clarifying the location requirements for workers holding an Accredited Employer Work Visa (AEWV). When submitting a job check application, employers must specify the location or region where the role will be based. If a role regularly requires work across multiple locations, eac",
+     "lead": "Immigration New Zealand (INZ) has published updated guidance clarifying the location requirements for workers holding an Accredited Employer Work Visa (AEWV). When submitting a job check application, employers must specify the location or region where the role will be based. If a role regularly requires work across multiple locations, each location must be included in the job check and employers must provide evidence that the position ...",
+     "image": "https://www.fragomen.com/a/web/6neDND2DvH5cq9pLmAp2Ht/9PCium/open-graph-main-2025.jpg",
      "why": [
-      "Mentions India or Indians"
+      "Affects work visas"
      ],
      "tags": [
-      "Germany"
+      "Work visa",
+      "New Zealand"
      ]
     }
    ]
@@ -285,20 +285,20 @@
    "items": [
     {
      "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
-     "title": "APMI launches single registration framework for PMS distributors",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVl9xUTBWRHNsOHowREM4aXRGM3BVa2lQX1U5QjNZOG8tVzlLb3Rsd0RfZFQyaDhkSFZXQzZTVENramNwdENLcVlNcGh2MF9DNXNvMEJycUNUTTZBNDNxQ2MzVHZuVnM4ODQweHRwYXpHOW9kTWRxd000ZEMwdGdHZzc3RXp0d1EyblRkN2paSmxrT0VyZ19zRGw3MG9oanJqa1R1OS1BZ3lVOHc?oc=5",
-     "date": "2026-10-03",
-     "source": "Cafemutual",
+     "score": 10,
+     "priority": 67,
+     "title": "PMS Has Potential To Grow Over 20 Pc CAGR As Investment Participation Deepens: SEBI Chairman",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazdDX0tQSEdMSXU5d3RaS3FmTEdaVVR1SVRaQ1owQjBOMFdnTWEtdHBhcF9sM2VLNjNaUDZQck8wbEZzckk2MGZ4ZlJkLWtreTVSUVNuVmlDMDZhazJjdlNaaTZrRE01X3Fsc2haTENuZy1BSEJvaWJIVUp2dzl2U2NKMjZkRFJmNVp6NFVJU2UybWNUNmVjZE9BM0NHX2k1UnNxS3gyUWxPOHpFeGZfU0NUQmVXV2FCZ0hmVmdqU2JiQ1E1dUUyVw?oc=5",
+     "date": "2026-09-30",
+     "source": "Ommcom News",
      "label": "PMS",
-     "snippet": "PMS industry leaders discuss regulation, product innovation and investor protection at APMI’s 3rd Annual Conference.",
-     "lead": "Tuhin Kanta Pandey, Chairman, Securities and Exchange Board of India (SEBI), was the chief guest at the conference, which was themed ‘The future of India’s PMS landscape’. The SRF is aimed at creating a single industry-level registration mechanism for distributors and making the PMS distribution ecosystem more efficient, transparent and scalable. Vikas Khemani, Chairman, APMI, said that the new regulatory framework creates scope for ...",
-     "image": "https://cafemutual.com/img/og-image.JPG",
+     "snippet": "New Delhi: As India's investment universe expands, portfolio management services (PMS) could potentially grow at more than 20 per cent annually,",
+     "lead": "",
+     "image": "https://ommcomnews.com/wp-content/uploads/2026/01/New-Project-6-3.jpg",
      "why": [
       "PMS news",
-      "Rule or framework change",
-      "New product or fund"
+      "Regulator: SEBI or RBI",
+      "Also covered by 3 other outlet(s)"
      ],
      "tags": [
       "PMS"
@@ -307,28 +307,7 @@
     {
      "desk": "Advisory",
      "score": 9,
-     "priority": 75,
-     "title": "Fed officials give hints on rate decision as markets cut October rate hike odds",
-     "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-officials-give-hints-on-rate-decision-as-markets-cut-october-rate-hike-odds/articleshow/134645153.cms",
-     "date": "2026-10-03",
-     "source": "Economic Times",
-     "label": "Global",
-     "snippet": "Fed officials tempered expectations for an October rate hike after Philip Jefferson and John Williams stressed patience and data dependence. Markets sharply reduced hike odds, though persistent inflation and upcoming consumer price data could shape the Federal Reserves policy decision.",
-     "lead": "Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Gold paradox: Why India, a refining giant, is not a big bullion exporter",
-     "image": "https://img.etimg.com/thumb/msid-134645249,width-1200,height-900,imgsize-97980,overlay-etmarkets/articleshow.jpg",
-     "why": [
-      "Interest-rate decision",
-      "Global macro driver",
-      "Also covered by 1 other outlet(s)"
-     ],
-     "tags": [
-      "Global"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
+     "priority": 60,
      "title": "Marcellus Investment Managers receives final SEBI approval to launch Mutual Fund Business",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSWZFb0h2WUxjaXNTZGNGSjRnQzA2VjFkMVBTSExxUHVlaDJxRWN6MTJ4RV85TldhUFNyZUVGbTg1RmR1UjM1TWpOQVBhTkhHNDZ5S2MwNmxXSHdwdEJuTUF0N1IwY0t6ZHFXZEM5blpFakk2YUhhUXpVaExjaGtMMnZHYU9OTkJPbGFkcEhSYkVkQ2xYTjBOWXZqVk5zMzgyVl9tTEd3TVVwRXlqSEIyTHBlT0hLbEhNQzdQUDZha29scWFZV3IxN0ZFWdIBywFBVV95cUxPSWZFb0h2WUxjaXNTZGNGSjRnQzA2VjFkMVBTSExxUHVlaDJxRWN6MTJ4RV85TldhUFNyZUVGbTg1RmR1UjM1TWpOQVBhTkhHNDZ5S2MwNmxXSHdwdEJuTUF0N1IwY0t6ZHFXZEM5blpFakk2YUhhUXpVaExjaGtMMnZHYU9OTkJPbGFkcEhSYkVkQ2xYTjBOWXZqVk5zMzgyVl9tTEd3TVVwRXlqSEIyTHBlT0hLbEhNQzdQUDZha29scWFZV3IxN0ZFWQ?oc=5",
      "date": "2026-09-30",
@@ -348,23 +327,43 @@
     },
     {
      "desk": "Advisory",
-     "score": 8,
-     "priority": 67,
-     "title": "Saroj Poddar Group, Keventer launch real estate-focussed AIF, target ₹400 crore corpus",
-     "url": "https://www.thehindubusinessline.com/markets/saroj-poddar-group-keventer-launch-real-estate-focussed-aif-target-400-crore-corpus/article71537578.ece",
-     "date": "2026-10-02",
-     "source": "BusinessLine",
-     "label": "AIF",
-     "snippet": "Poddar Keventer launches Category II AIF for secured real estate debt with ₹400 crore target (₹600 crore with greenshoe).",
-     "lead": "' blCenterIconDiv.innerHTML = spanSvg blLoaderDiv.appendChild(blCenterLoadDiv) blLoaderDiv.appendChild(blCenterIconDiv) divInner.appendChild(blLoaderDiv) div.appendChild(divInner) var bodyIntravel = setInterval(() => { if(window.document.body) { clearInterval(bodyIntravel) window.document.body.insertBefore(div, window.document.body.firstChild) } }, 100) function addStyle(styles) { var css = document.createElement('style'); css.type = ...",
-     "image": "https://bl-i.thgim.com/public/news/enw79z/article71537876.ece/alternates/LANDSCAPE_1200/Real%20estate.jpeg",
+     "score": 9,
+     "priority": 60,
+     "title": "‘Indian markets not vulnerable’: SEBI overhauls portfolio manager norms, widens investment options, says Tuhin Kanta Pandey",
+     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVEg4dkl6QU4zVlRERnlDeVU2b0FlR2NUcmNjWjBGeXdHeTk2eWpCeUtKMHdNcWMyZzlFTTdxQ1o3TFdfeWg1UTBQZlZnUlFwaVA1aE9CNXpwaE9USFpiYVk5QzUxem1nY3pmTzMyLVdiRHFBMDU4NzU3b0JEZlhrWnVxTVNqMzRnYWxQclpFbUxjOXhQZ3RQQjZtbHc2RkEzLUxLeTJXS2VVRDVZYUFsZDJqV1NjRmtKMlVROUJtdUJreFJmcXFMRjBDbkNxZnhHdVV2bGdNU0Vtdk1LMmVQbVZVYl9yOWJkT1dwRTBTV1hia3FBczJzU0NBYXpvSEnSAYQCQVVfeXFMT3REQXZzQzdwdmtIRG1zbGI5d2w2by0yUHZWVkluZkZKTWVTbGZzVjVENy1jM0pOb3ZlSjJiR1RiTVpCV2hZc1hyWDBqckN1WjVVZXdQX3ZBbXBqejZGV2hwanc3UDdFdXBxRy12WFBOYWhkb01Hc3hMM1FxRlBnQzhuYnVHaUFCX1IzeF9BZU9XRlRBd2gzSTZBemZ4Z2Rob195Z09RMndRMUh5VjBLdXpqQ0hMd3hLWUdHTDZKdTh1cjJvS2RRYWxNR2F5N0ZDZWhyS2hGVjVNQTVNZEVoQ2hYYk9fa3g5b0U4TTVGd3hTYUhKeHpLMWhsY1ByQnZXUTVEY1M?oc=5",
+     "date": "2026-09-30",
+     "source": "ET Now",
+     "label": "PMS",
+     "snippet": "",
+     "lead": "",
+     "image": null,
      "why": [
-      "AIF news",
-      "New product or fund",
-      "Also covered by 2 other outlet(s)"
+      "PMS news",
+      "Regulator: SEBI or RBI",
+      "Rule or framework change"
      ],
      "tags": [
-      "AIF"
+      "PMS"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 8,
+     "priority": 53,
+     "title": "Gold, silver outlook: Dollar, US-Iran tensions, RBI policy among key factors to drive prices this week",
+     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUGlTam40NFBlcE5xYjFpTGZDOGlnX3JuYzRCdkJQdGZicDFfQkxtRno4aDlHa1FJelA0NFE5c2xqWEhzVWQtbkZ1bWVadGNhTnhrZjNURC1tNk1HbkxOTC0tWTA4SjVWWm1UOHhtai03RllsNWRub2VOOEQ2WlNXWGxqdmg0Rl9ROXJMNm50cEpxUEJnb1FJdmlQdWlHbUswcmNKQWR4MEJFaGpadDU2Vl9uV0ExbURaa05vcllydXp1VVBpRmpvZ1RYb0paanlWdzdsOFloWTRmLUU5YzB6U0d6YTZIbzBtTXY3dVJqbFJMTEF2d0JtdlFSUUQ5eHJQZlpwVHJnckt6dzhrYUhickFn0gGXAkFVX3lxTE9JbVNaaWJRV2YxUVVPVGc4TnZsS1VnUy1adEIyZl9wZjVINWhlRGVMVm9EMFFRcHgyaTRUdUF6QUx5TTNFcG1hTWZlRWx5NUZwXzJsRWk3cGNZSEZqUHI0Yk4zeFVqR2NiZ3JoOWxfbWFQRDJMOEFPUFctN1ZYV09EbmROVWcySVp5OGNXX2RDcVM4Xy1udUFqQXRVb3Y5cWptZXNvT2tJV0dmc2JUSjZrYWcwTVhmRE54X2I0Q05wMWpDRjRHaG9QRWJNOTlnZWdZUWtZanZ4QjFhcFhyZ2FQY0JNRUxkdUdVT3pRM1lYWXJRcDk5VVVybVhjbjB4Rm5nMmhzc2pvNnJ4S21fa0tRZ3hKenB6Zw?oc=5",
+     "date": "2026-10-04",
+     "source": "The Times of India",
+     "label": "Gold & Silver",
+     "snippet": "Gold and silver prices are likely to remain volatile this week, with the US dollar, bond yields and the unresolved US-Iran tensions expected to shape the outlook for precious metals.",
+     "lead": "A Mutual Fund Calculator helps estimate the future value of investments Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
+     "image": "https://static.toiimg.com/thumb/msid-134677554,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+     "why": [
+      "Regulator: SEBI or RBI",
+      "Precious metals"
+     ],
+     "tags": [
+      "Gold & Silver"
      ]
     }
    ]
@@ -372,8 +371,32 @@
  },
  "items": [
   {
+   "desk": "Advisory",
+   "score": 15,
+   "priority": 100,
+   "title": "RBI Repo Rate May Climb To 6% In FY27 As G-Sec Yields Face Upward Pressure: Report",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeFM2RUxXN05PelFVLXFrN2JXYkJmN2lFa1hEQjdENDNJdk5IMlZCU00wajd4NDhXTEhmVlVvVm9kUVU0ajV1RndTdmk2VU5PLVY3czktOHo3SmxVSGYyb0JfaEpEZFRIcTBPZjhXd0o5MTBKbHRuV2I2NGFXaGp4Y2Q1cjdoN1JJaHE4ejNhTFFEZm1rakp2T2xZb242RDIxU3ZBU3NmOTduM1BBOU9MejZlbnNpck92SmxMcDR1bTNlWlUyRWg3OGtn0gHKAUFVX3lxTE14UzZFTFc3Tk96UVUtcWs3YldiQmY3aUVrWERCN0Q0M0l2TkgyVkJTTTBqN3g0OFdMSGZWVW9Wb2RRVTRqNXVGd1N2aTZVTk8tVjdzOS04ejdKbFVIZjJvQl9oSkRkVEhxME9mOFd3SjkxMEpsdG5XYjY0YVdoanhjZDVyN2g3UklocTh6M2FMUURmbWtqSnZPbFlvbjZEMjFTdkFTc2Y5N24zUEE5T0x6NmVuc2lyT3ZKbExwNHVtM2VaVTJFaDc4a2c?oc=5",
+   "date": "2026-10-04",
+   "source": "NDTV Profit",
+   "label": "Debt & Bonds",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Government bond yields",
+    "Also covered by 5 other outlet(s)"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
    "desk": "Startups",
-   "score": 13,
+   "score": 12,
    "priority": 100,
    "title": "IPO-Bound Kuku Technologies Turns Profitable In FY26, Revenue Surges 6X To ₹1,484 Cr",
    "url": "https://inc42.com/buzz/ipo-bound-kuku-technologies-turns-profitable-in-fy26-revenue-surges-6x-to-%e2%82%b91484-cr/",
@@ -391,29 +414,6 @@
    "tags": [
     "IPO & Listing",
     "Media, Gaming & Creators"
-   ],
-   "rank": 1,
-   "must_read": true
-  },
-  {
-   "desk": "Advisory",
-   "score": 12,
-   "priority": 100,
-   "title": "Sebi to soon issue framework on Closing Auction Session; receives over 3,500 comments",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-soon-issue-framework-on-closing-auction-session-receives-over-3500-comments/articleshow/134655426.cms",
-   "date": "2026-10-03",
-   "source": "Economic Times",
-   "label": "Regulatory",
-   "snippet": "Securities and Exchange Board of India will release a framework regarding changes to the Closing Auction Session mechanism. The regulator reviewed comments on its consultation paper about market timings and settlement methodology. Sebi intends to address specific issues related to derivatives settlement prices after consultations. Regulat",
-   "lead": "Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price A for apple, Y for yak and, for the first time, a price next to it. Will this change the non-agri part of the rural economy?",
-   "image": "https://img.etimg.com/thumb/msid-134655502,width-1200,height-900,imgsize-2170095,overlay-etmarkets/articleshow.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Rule or framework change",
-    "Also covered by 3 other outlet(s)"
-   ],
-   "tags": [
-    "Regulatory"
    ],
    "rank": 2,
    "must_read": true
@@ -443,30 +443,6 @@
    "must_read": true
   },
   {
-   "desk": "Advisory",
-   "score": 12,
-   "priority": 100,
-   "title": "RBI MPC Preview: BofA sees 25 bps rate hike as US yields and crude surge",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM3NGNGZEQl9mMnE3cUdWM2YxRlp4OG9GZks1ZVFpRm5OMkVFWGhfVGoxa2RBcmh1MnUyYUVWb1Q4dVYwcUhGTm5Sa2ZEaFBEanhUcDJCLWozcl9KbTk5dVF1N2lVQm1BanZJSU5LNl93Y2tIOGNjdWt2dEtoSlZnZUo0cTFualNlei1nZi1rQWs1VVltYUVDOWlFYW45TzZxYldZY0ZERzJObmVuSV8zQ0NVQktadVRYQWEtMG1WTDFfbTk4bmfSAcwBQVVfeXFMTTgwdmFmQk0xaEJUS1dXYTQ3aVpBUG1QSzN4Nmcyb0tvd3JUMWJfQjh5b0xzWFFhblZmYmZaVll3VzRJcDhkOU0tV04tREdnMkhQWG9lbnVCMlBNSHM0ZjNCVEE3QmZpQkxQY3Y2a2NuWlhBV2hhN3BYTWMtQWFSaTNZZ0REblpzTWtvSDBSTktkVU1GUS1rc2ZPUXNQUnFmUWplR09McTZIN1NfeDdJMkU1U2ZTVUJDXzdMVms3czdHc3VtejdOa1NRZXF0?oc=5",
-   "date": "2026-10-01",
-   "source": "financialexpress.com",
-   "label": "Regulatory",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Global macro driver",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 4,
-   "must_read": true
-  },
-  {
    "desk": "Policy",
    "score": 14,
    "priority": 100,
@@ -486,130 +462,13 @@
    "tags": [
     "Agriculture & Food"
    ],
-   "rank": 5,
+   "rank": 4,
    "must_read": true
   },
   {
-   "desk": "Advisory",
-   "score": 12,
-   "priority": 100,
-   "title": "Indian bond yields ease as oil cools, Fed rate hike bets tumble ahead of RBI policy",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWElfT1JtQTRYd1RwRDZEUS1kc2gxQVVXZjJ3RThMZVRKZWtxbzFsWVp1WVk0RGhzcXBKa2dzSnpfRUREd2wxZEtVeFhFWUMzOWVDYl9NRG5ZbWF2X3paeWctV0xoNXkzZncySTZ4NW9LLU4yVGVzTlNLUzg0SDJfTkFPdjVsZTJ6WVkwdUllMkViZUNybGtCdGo3N2pqQkxfS05GR18zZUphNTVwNXlPc216YWdDcFpybk45Y2VxeGR5dERUNzk4MEhjTGxyQnVXaHJrb0dDRUg5YUJUdXc?oc=5",
-   "date": "2026-09-30",
-   "source": "Moneycontrol.com",
-   "label": "Debt & Bonds",
-   "snippet": "The benchmark 10-year bond yield was trading at 7.1482 percent",
-   "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
-   "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260622142629_RBIRTR1.png",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Government bond yields",
-    "Global macro driver"
-   ],
-   "tags": [
-    "Debt & Bonds"
-   ],
-   "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
+   "desk": "Startups",
    "score": 11,
    "priority": 92,
-   "title": "After Sept, bond yields to peak in Oct too? Experts decode future of Indian bond market; RBI's next move holds key",
-   "url": "https://www.livemint.com/market/bonds/after-sept-bond-yields-to-peak-in-oct-too-experts-decode-future-of-indian-bond-market-rbis-next-move-holds-key-11790928652341.html",
-   "date": "2026-10-03",
-   "source": "Mint",
-   "label": "Debt & Bonds",
-   "snippet": "Shorter-tenure corporate bonds may offer better risk-reward opportunities, while dynamic bond funds provide flexibility for various risk profiles. RBI is expected to raise the repo rate by 50-75 basis points amid inflation risks, driven by higher food and oil prices.",
-   "lead": "Bond yields on a rise (AI-generated image for representational purposes) AI Quick Read India’s bond market is entering October with the comfort of strong domestic growth but the discomfort of rising inflationary pressures, elevated global yields and tighter liquidity conditions. The sharp rise in the domestic 10-year benchmark yield in September has changed the complexion of the fixed-income market, with investors now having to ...",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Government bond yields",
-    "Also covered by 2 other outlet(s)"
-   ],
-   "tags": [
-    "Debt & Bonds"
-   ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "Ola Electric promoter Bhavish Aggarwal pledges 4.32% stake to fund rights issue",
-   "url": "https://economictimes.indiatimes.com/tech/technology/ola-electric-promoter-bhavish-aggarwal-pledges-4-32-stake-to-fund-rights-issue/articleshow/134676382.cms",
-   "date": "2026-10-04",
-   "source": "ET Startups",
-   "label": "India · Fintech",
-   "snippet": "Last week, Ola Electric’s board approved a rights issue of partly paid-up equity shares to raise up to Rs 1,000 crore. The board is yet to finalise key terms of the issue, including the total number of shares, issue price, timing and payment terms.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-60210,resizemode-75,msid-134676382/tech/technology/ola-electric-promoter-bhavish-aggarwal-pledges-4-32-stake-to-fund-rights-issue.jpg",
-   "why": [
-    "Funding",
-    "Large deal (about $105M)"
-   ],
-   "tags": [
-    "Funding",
-    "Fintech"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "VC money is pouring into Indian startups; Inside Softdel’s enterprise AI strategy",
-   "url": "https://yourstory.com/2026/10/vc-money-is-pouring-into-indian-startups",
-   "date": "2026-10-04",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "The total funding for the first week of October was at $418 million across 22 deals. In contrast, the previous week saw a total of $382 million.",
-   "lead": "VC money is pouring into Indian startups; Inside Softdel’s enterprise AI strategy The total funding for the first week of October was at $418 million across 22 deals. In contrast, the previous week saw a total of $382 million. Team YS 17285 Stories Sunday October 04, 2026 , 4 min Read RBI Governor Sanjay Malhotra, on Saturday, reaffirmed India’s cautious stance on cryptocurrencies over risks to monetary sovereignty, monetary policy, ...",
-   "image": "https://images.yourstory.com/cs/2/47afd43024ec11ec9ecb9b7afb0df1da/weeklyfundingforDC1-1791044237369.jpg",
-   "why": [
-    "Funding",
-    "Large deal (about $418M)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
-   "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
-   "date": "2026-10-02",
-   "source": "TechCrunch",
-   "label": "Global · SaaS & Enterprise",
-   "snippet": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
-   "lead": "Kevin Mandia, best known as the founder of cybersecurity startup Mandiant, which sold to Google for $5.4 billion in 2022 , has raised $255.5 million for his latest startup, Armadin, at a valuation of more than $2.5 billion, the company announced on Thursday. The Series B round was led by Andreessen Horowitz and Accel, with Bain Capital Ventures, Redpoint, 8VC, Ballistic Ventures, Google Ventures, In-Q-Tel, Kleiner Perkins, and Menlo ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $2,500M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "SaaS & Enterprise"
-   ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
    "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
    "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
    "date": "2026-09-30",
@@ -627,28 +486,170 @@
    "tags": [
     "Funding"
    ],
+   "rank": 5,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 83,
+   "title": "Ola Electric promoter Bhavish Aggarwal pledges 4.32% stake to fund rights issue",
+   "url": "https://economictimes.indiatimes.com/tech/technology/ola-electric-promoter-bhavish-aggarwal-pledges-4-32-stake-to-fund-rights-issue/articleshow/134676382.cms",
+   "date": "2026-10-04",
+   "source": "ET Startups",
+   "label": "India · Fintech",
+   "snippet": "Last week, Ola Electric’s board approved a rights issue of partly paid-up equity shares to raise up to Rs 1,000 crore. The board is yet to finalise key terms of the issue, including the total number of shares, issue price, timing and payment terms.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-60210,resizemode-75,msid-134676382/tech/technology/ola-electric-promoter-bhavish-aggarwal-pledges-4-32-stake-to-fund-rights-issue.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $105M)"
+   ],
+   "tags": [
+    "Funding",
+    "Fintech"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 83,
+   "title": "VC money is pouring into Indian startups; Inside Softdel’s enterprise AI strategy",
+   "url": "https://yourstory.com/2026/10/vc-money-is-pouring-into-indian-startups",
+   "date": "2026-10-04",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "The total funding for the first week of October was at $418 million across 22 deals. In contrast, the previous week saw a total of $382 million.",
+   "lead": "VC money is pouring into Indian startups; Inside Softdel’s enterprise AI strategy The total funding for the first week of October was at $418 million across 22 deals. In contrast, the previous week saw a total of $382 million. Team YS 17285 Stories Sunday October 04, 2026 , 4 min Read RBI Governor Sanjay Malhotra, on Saturday, reaffirmed India’s cautious stance on cryptocurrencies over risks to monetary sovereignty, monetary policy, ...",
+   "image": "https://images.yourstory.com/cs/2/47afd43024ec11ec9ecb9b7afb0df1da/weeklyfundingforDC1-1791044237369.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $418M)"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 83,
+   "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+   "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+   "date": "2026-10-02",
+   "source": "TechCrunch",
+   "label": "Global · SaaS & Enterprise",
+   "snippet": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+   "lead": "Kevin Mandia, best known as the founder of cybersecurity startup Mandiant, which sold to Google for $5.4 billion in 2022 , has raised $255.5 million for his latest startup, Armadin, at a valuation of more than $2.5 billion, the company announced on Thursday. The Series B round was led by Andreessen Horowitz and Accel, with Bain Capital Ventures, Redpoint, 8VC, Ballistic Ventures, Google Ventures, In-Q-Tel, Kleiner Perkins, and Menlo ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $2,500M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "SaaS & Enterprise"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 83,
+   "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+   "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+   "date": "2026-10-01",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+   "lead": "Flow Engineering , a startup that offers AI tools for hardware design, has raised a $50 million Series B round at a $750 million valuation from some big-name investors, the company announced on Wednesday. The round was co-led by Antonio Gracias of Valar Equity Partners ( best known for its investments in Elon Musk’s companies, particularly SpaceX) and Gavin Baker of Atreides Management (a hedge fund that has also backed Musk’s ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $750M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 80,
+   "title": "Eight-week losing streak : RBI rate hike, crude prices and TCS results to test markets",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOck0tbU5NSFcwUFhiYmZkM191V2E4WENaZWJnVV94cDBWTzlWdF9wV3FDLWVRYjZOT0JrXzlyUDV0YnJ3WnBCM2ZhTXc2Y1psbHVUZkxSQW9aQ1NkVUJ1b0NPMjdzaEFyRVlFcFAzTXh0WXFqS20wdlB0dGlGQ1hMb3o5V1NQUGdRM0hiOUdDdlNhbUxUX09rVVA4d2Z0RXNXbDV3blc2dkE1clE5cW5jeWU0QlVpYk9qcTBmSDdJR3hDWEtoaGhjTGkxZ3dETkF1RGFIRkstWWdjS0RLUUNHcnRCTDJreXZYYWF2R2ZHU1ZsenFmMi1DZXBzUHJkNUdBQkE?oc=5",
+   "date": "2026-10-04",
+   "source": "Dailyhunt",
+   "label": "Regulatory",
+   "snippet": "Indian equities enter another crucial week with the Reserve Bank of India's (RBI) monetary policy decision, elevated crude oil prices, global bond yields and th",
+   "lead": "I ndian equities enter another crucial week with the Reserve Bank of India's (RBI) monetary policy decision, elevated crude oil prices, global bond yields and the start of the corporate earnings season likely to determine the direction of the market. The RBI's six-member Monetary Policy Committee (MPC) will meet from October 5 to 7, with its decision due on Wednesday. A majority of economists and bankers polled by PTI expect a ...",
+   "image": "https://assets-news-bcdn.dailyhunt.in/cmd/resize/1200x630_75/fetchdata20/images/d2/58/8f/d2588f3397bc9d6b9d48cb36f0eba14cbdb8f76d0ba60d3c6a961b1c175a0bc6.webp",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Global macro driver"
+   ],
+   "tags": [
+    "Regulatory",
+    "IT & Tech"
+   ],
+   "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 80,
+   "title": "RBI MPC policy, oil prices, bond yields may drive market this week",
+   "url": "https://www.business-standard.com/markets/news/rbi-mpc-policy-oil-prices-bond-yields-may-drive-market-this-week-126100400285_1.html",
+   "date": "2026-10-04",
+   "source": "Business Standard",
+   "label": "Debt & Bonds",
+   "snippet": "Macroeconomic data announcements and foreign investors' trading activity will also guide market trends",
+   "lead": "Last week, the Sensex tanked 1,986.04 points, or 2.68 per cent, and the Nifty plunged 718.55 points, or 3.10 per cent RBI's interest rate decision, TCS' earnings, crude oil prices and global bond yields will be important factors to determine stock market movement this week, analysts said. Macroeconomic data announcements and foreign investors' trading activity will also guide market trends, they added.",
+   "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/14/thumb/fitandfill/1200X628/1778776794-7318.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Government bond yields"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
    "rank": 11,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "PMS Has Potential To Grow Over 20 Pc CAGR As Investment Participation Deepens: SEBI Chairman",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazdDX0tQSEdMSXU5d3RaS3FmTEdaVVR1SVRaQ1owQjBOMFdnTWEtdHBhcF9sM2VLNjNaUDZQck8wbEZzckk2MGZ4ZlJkLWtreTVSUVNuVmlDMDZhazJjdlNaaTZrRE01X3Fsc2haTENuZy1BSEJvaWJIVUp2dzl2U2NKMjZkRFJmNVp6NFVJU2UybWNUNmVjZE9BM0NHX2k1UnNxS3gyUWxPOHpFeGZfU0NUQmVXV2FCZ0hmVmdqU2JiQ1E1dUUyVw?oc=5",
-   "date": "2026-09-30",
-   "source": "Ommcom News",
-   "label": "PMS",
-   "snippet": "New Delhi: As India's investment universe expands, portfolio management services (PMS) could potentially grow at more than 20 per cent annually,",
-   "lead": "",
-   "image": "https://ommcomnews.com/wp-content/uploads/2026/01/New-Project-6-3.jpg",
+   "score": 12,
+   "priority": 80,
+   "title": "Will Nifty, Sensex plunge for 9th straight week? TCS Q2, RBI MPC among 4 factors to drive Dalal Street from Monday",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-plunge-for-9th-straight-week-tcs-q2-4-factors-to-drive-dalal-street-from-monday/articleshow/134669285.cms",
+   "date": "2026-10-04",
+   "source": "Economic Times",
+   "label": "Regulatory",
+   "snippet": "India",
+   "lead": "Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price A for apple, Y for yak and, for the first time, a price next to it. Will this change the non-agri part of the rural economy?",
+   "image": "https://img.etimg.com/thumb/msid-134669302,width-1200,height-900,imgsize-244634,overlay-etmarkets/articleshow.jpg",
    "why": [
-    "PMS news",
     "Regulator: SEBI or RBI",
-    "Also covered by 3 other outlet(s)"
+    "Interest-rate decision",
+    "Sharp market move"
    ],
    "tags": [
-    "PMS"
+    "Regulatory",
+    "IT & Tech"
    ],
    "rank": 12,
    "must_read": false
@@ -676,29 +677,6 @@
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 77,
-   "title": "PanIIT, Andhra Pradesh plan Rs 500 Cr deeptech fund, target 25 AP startups by 2030",
-   "url": "https://yourstory.com/2026/10/paniit-500-cr-deeptech-fund-targets-25-andhra-startups-by-2030",
-   "date": "2026-10-04",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "Andhra Pradesh Chief Minister N Chandrababu Naidu told venture capital investors that the state would match their contribution to deeptech investments.",
-   "lead": "PanIIT, Andhra Pradesh plan Rs 500 Cr deeptech fund, target 25 AP startups by 2030 The proposed fund is part of a broader PanIIT-Andhra Pradesh push to build a deeptech ecosystem in the state. Chief Minister N Chandrababu Naidu told venture capital investors that the state would match their contribution to deeptech investments. Team YS 17286 Stories Sunday October 04, 2026 , 3 min Read PanIIT Alumni India and the Andhra Pradesh ...",
-   "image": "https://images.yourstory.com/cs/2/37e5ca70873c11f1b05fb9c57f27e957/panIIT-1791086065776.jpeg",
-   "why": [
-    "Funding",
-    "Sizeable deal (about $53M)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
    "desk": "Policy",
    "score": 10,
    "priority": 71,
@@ -719,7 +697,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 15,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -741,7 +719,7 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 16,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -764,36 +742,37 @@
     "PR / Settlement",
     "United Kingdom"
    ],
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 67,
+   "title": "Gold price crash: Gold, silver fall again amid Fed rate hike fears; Check latest 22K, 24K gold rates in Delhi, Mumbai, Bengaluru and other cities",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNdU12LXl2YlRxM0VEaURBVzFCN3M4Qm9KLXlhTEZkMWVuY1o4VmpTV1gyUm96a2hFcGh4VDlPdFZRemZkUGJlYmhiUWhpdDZGWnQ0QnFWTk1JNnVMRld1WTBCOHBVejgxbnlwSGx5a0V3ck9EMTBtZXgyWWJsYUk3VmhTdmhWVzY0Qkp4MldHMHNRX0VuS0Y5QWVjbTRnVGE2Z3ZrbFZzdk42V3FfVGVFaEdUdlIzcFU0ZS1fcHBZRW5peGxoNWoxYzhhTTc4cE1PT0pVTVRmQkRZR2JadDNIaXZHZnl1dnR2ekFObGhsVUxYdnFxeHp3eGdGOHJISER2cWQzVkdpQlBZRmxWTmhhYTYxeFBRaW_SAZsCQVVfeXFMT2lBa0lpQjlmSTh6NFJ3TTFvQ3V6WkNPbktJSFlTNzRsVl9BMTB4Qkw0Z3ozZ0o3ZjFXa1F3Mk9nYTAwUUJHZzRsZ3QyT2xXd29MV3BKNmxQVURjM3drUXNzLUo2dl9OY05mMHprQmxjN05vZ1hscl9KU0VUbVZ3d3F0ZEpyMEdxOHg1eHE1c0R5RV9hVlJGeXhla1FRRnl3czZPMmVKTXpuZFVGZTJ6OWh0NHlTcmtsUDduR0NCWkp1dWs4ZzVyZDBZaEVRMjM3cGNvU3VCOUpzMi1qbDFVTy1fYXZVZnp0aWlENmlQeFlmQ3hVN3BWY09UVzM1elR2Rk9RWUZIcHZoVzFsTjlzemt1MmZRTTdkdnRjSQ?oc=5",
+   "date": "2026-10-01",
+   "source": "News24Online",
+   "label": "Gold & Silver",
+   "snippet": "recious metal prices have remained under pressure after a brief rise last week. Changing conditions between the US and Iran and fluctuations",
+   "lead": "",
+   "image": "https://news24online.com/wp-content/uploads/2026/10/Gold-Silver-Price-Today.jpg-10.jpeg",
+   "why": [
+    "Interest-rate decision",
+    "Precious metals",
+    "Global macro driver",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Gold & Silver"
+   ],
    "rank": 17,
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 70,
-   "title": "Spain announces 2-year fast-track citizenship route for citizens of 23 countries",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTmp4cEdnWW9iaU9ER25YazZyck9OWDRyTnBwLU45SG9PTGJvVU9iaFNKN2NFa3dZMGNtXzhsSmVnR3BhWUZLMGhXYmRDaDNEeEd3SGFYYlhYYkhUS3dWYkdLSFY2N3NPMnpZVDAxTUhod3RFQlUzMU91Z2hteXVUandKWUdnb3dwNGdzMnlTMGZ4aVJFdnhTYzQyTjVjYXFEOXZPT3RQLUk?oc=5",
-   "date": "2026-09-27",
-   "source": "Yen.com.gh",
-   "label": "Spain",
-   "snippet": "Spain confirms 23 countries qualify for citizenship after two years’ legal residency, offering eligible nationals an advantage over the standard ten-year wait.",
-   "lead": "PAY ATTENTION: Mark YEN.com.gh as a preferred source, and our content will appear higher in your Google feed! Spain has opened a significantly shorter route to citizenship for nationals of 23 specific countries, requiring just two years of legal residency instead of the standard ten years that applies to most foreign nationals. Spain mentions 23 countries eligible for shorter residency route. Photo source: @sanchezcastejon, @magnific ...",
-   "image": "https://cdn.yen.com.gh/images/1200x675/021ad5279c637ed7.jpeg?v=1",
-   "why": [
-    "Affects citizenship",
-    "Announces a change"
-   ],
-   "tags": [
-    "Citizenship",
-    "Spain"
-   ],
-   "rank": 18,
-   "must_read": false
-  },
-  {
    "desk": "Policy",
-   "score": 9,
-   "priority": 64,
+   "score": 8,
+   "priority": 57,
    "title": "Master Direction on Note Sorting Machines",
    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13723&Mode=0",
    "date": "2026-10-02",
@@ -809,7 +788,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 19,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -832,7 +811,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 20,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -855,13 +834,35 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 21,
+   "rank": 20,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 5,
    "priority": 50,
+   "title": "When to use each passport if you're a dual national with Spanish citizenship",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd0lpNnZSVkdvV1MyLUphbTNsbkZuSHZLMGxjTGNoc21NckpZZ2RSckpJOXo4UHo3SFRiUnU1RDM5elNGcmlMUE5rQjJUVEtLbUhZYXJXZWZ2NnVtb0p4NHhDeERrcDhwSWd0SkJMbGtaUVBDY2tNblFkNWNIMm9xVG94TUZHZXhYN2lPUTZOT1R0UXlqNHlSLWNqMHJYQ1NxajJhaDlad2tYQUl3?oc=5",
+   "date": "2026-10-02",
+   "source": "The Local Spain",
+   "label": "Spain",
+   "snippet": "Do you have dual nationality with Spain and your country of birth? If so, travelling can become confusing. Here are the rules on which passport you should use and when.",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source Do you have dual nationality with Spain and your country of birth? If so, travelling can become confusing. Here are the rules on which passport you should use and when. If you’re lucky enough to have acquired Spanish citizenship ...",
+   "image": null,
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "Spain"
+   ],
+   "rank": 21,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 4,
+   "priority": 40,
    "title": "Iceland Proposes Six-Year Wait for Permanent Residence",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaUp5dXFzRFhGU1pZQlJ3LUw0eGtzcnRBRk1lNG5OWVJYZkg0a1JVeE5RNWxTNFNfbG1BTWlqd3RVU3hRaTZYN08yVUlHdE1FbE5DNHA0M2p6ckhkZEh2OVNERi1keTA5WldKRDAwUktvVjcwakx6OWh2SlE5ck1XMUV4OHhjQmd5Wk51TklSQVg?oc=5",
    "date": "2026-10-02",
@@ -884,20 +885,20 @@
    "desk": "Immigration",
    "score": 4,
    "priority": 40,
-   "title": "Australia probes flydubai hijacker's time spent in country with student visa",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxajFBOFpFWHF4NkE1UW9qbVhJNjVsYTdJUW5VQzdPVDM2VzJrWllFdS1kUjJDTHRDM2ZnSXZhWGhydWVzazV3S01Ob1NldlNMVktMUHZnUnFyTnEzQmhOTE0xSzFOQzV4dzRFM0pZTEJoeVZFbE9Z?oc=5",
-   "date": "2026-10-04",
-   "source": "The Jerusalem Post",
-   "label": "Australia",
-   "snippet": "Sources familiar with the case said the pilot, an Omani citizen, stayed in Australia on a student visa issued in 2014. He studied in the country from 2015 to 2017, when he left.",
-   "lead": "",
-   "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/739976",
+   "title": "Germany eases permanent residency rules for foreign specialists",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWhUblhuU19nb09aNzMza1QtejhUWWV1Y2J1dUJOVFhScXBwLVBJdjRvUkdqdVkzWjBDcU4zSUZZaVV6aUU4SnFYaktWZGRfcWhzTGxrNmhfRFRKMzRLakdfM0FqNkZkUXJVYUdnbUNNU2wzUUR3bkZnSktacEpZbVpiSzZ0Z2xYb3NWbUljdE1aay05YW1sQXVobGtvRmZ0RDRGUmkybXQwVXNscnVIdm5uNTBkQQ?oc=5",
+   "date": "2026-10-01",
+   "source": "logos-pres.md",
+   "label": "Germany",
+   "snippet": "Foreign graduates in Germany can qualify for permanent residency after two years of skilled work, while others face a three-year period.",
+   "lead": "Continue with Google By continuing, you confirm that you have read Privacy Policy and Terms of Use . Germany has simplified the conditions for foreign specialists to obtain legal status Foreign professionals who have completed a university degree or vocational training in Germany can obtain a permanent residence permit after two years of working in their field. For other qualified professionals, this period is three years. These rules ...",
+   "image": null,
    "why": [
-    "High on the desk's ranking"
+    "Affects permanent residence"
    ],
    "tags": [
-    "Student / Graduate",
-    "Australia"
+    "PR / Settlement",
+    "Germany"
    ],
    "rank": 23,
    "must_read": false
