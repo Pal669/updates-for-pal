@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03 23:28 IST",
+ "updated": "2026-10-04 22:44 IST",
  "notes": [],
  "nse_stamp": "01-Oct-2026 15:30",
  "indices": [
@@ -445,8 +445,8 @@
  "periods": {
   "previousDay": "01-Oct-2026",
   "oneWeekAgo": "25-Sep-2026",
-  "oneMonthAgo": "02-Sep-2026",
-  "oneYearAgo": "01-Oct-2025"
+  "oneMonthAgo": "03-Sep-2026",
+  "oneYearAgo": "03-Oct-2025"
  },
  "flows": {
   "date": "01-Oct-2026",
@@ -481,7 +481,7 @@
    "w1": 0.45,
    "m1": 3.71,
    "y1": null,
-   "asof": "03 Oct 2026 02:45 IST",
+   "asof": "03 Oct 2026 02:46 IST",
    "source": "Yahoo Finance"
   },
   {
@@ -579,11 +579,11 @@
   },
   {
    "name": "US Dollar Index",
-   "value": 101.92,
+   "value": 101.93,
    "dp": 2,
-   "d1": -0.17,
-   "w1": 0.94,
-   "m1": 2.37,
+   "d1": -0.16,
+   "w1": 0.95,
+   "m1": 2.38,
    "y1": null,
    "asof": "03 Oct 2026 02:29 IST",
    "source": "Yahoo Finance"
@@ -594,9 +594,9 @@
    "dp": 2,
    "d1": 0.08,
    "w1": 0.14,
-   "m1": 1.92,
+   "m1": 1.91,
    "y1": 8.54,
-   "asof": "03 Oct 2026 09:00 IST",
+   "asof": "04 Oct 2026 21:41 IST",
    "source": "Yahoo Finance"
   },
   {
@@ -605,9 +605,9 @@
    "dp": 2,
    "d1": 0.08,
    "w1": -0.68,
-   "m1": -1.46,
+   "m1": -1.31,
    "y1": 4.23,
-   "asof": "03 Oct 2026 09:00 IST",
+   "asof": "04 Oct 2026 09:00 IST",
    "source": "Yahoo Finance"
   }
  ],
