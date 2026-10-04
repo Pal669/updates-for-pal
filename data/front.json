@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-04",
- "built": "2026-10-04 00:55 IST",
+ "built": "2026-10-04 08:25 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -164,9 +164,31 @@
    ]
   },
   "Startups": {
-   "total": 379,
-   "new_today": 0,
+   "total": 381,
+   "new_today": 2,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+     "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+     "date": "2026-09-30",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+     "lead": "Voice AI startup ElevenLabs announced today that it’s allowing employees to cash out a portion of their vested equity at a $22 billion valuation, doubling the $11 billion valuation the company hit when it raised $500 million in February. The recent $300 million tender offer gave employees an opportunity to sell their shares to investors. The transaction was co-led by Wellington and T. Rowe Price, large institutional investors that back ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $22,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -229,33 +251,12 @@
       "Funding",
       "Fintech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 69,
-     "title": "Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says",
-     "url": "https://economictimes.indiatimes.com/tech/technology/broadcom-to-lend-anthropic-up-to-42-billion-to-lease-its-chips-filing-says/articleshow/134615299.cms",
-     "date": "2026-10-01",
-     "source": "ET Startups",
-     "label": "Global · AI & Deeptech",
-     "snippet": "As part of that complex relationship, revealed in the IPO filing, Broadcom has agreed to lend Anthropic up to $42 billion to finance infrastructure spending.",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-746608,resizemode-75,msid-134615299/tech/technology/broadcom-to-lend-anthropic-up-to-42-billion-to-lease-its-chips-filing-says.jpg",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $42,000M: round or valuation)"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 664,
-   "new_today": 0,
+   "total": 672,
+   "new_today": 2,
    "items": [
     {
      "desk": "Immigration",
@@ -540,6 +541,29 @@
    "desk": "Startups",
    "score": 11,
    "priority": 85,
+   "title": "VC money is pouring into Indian startups; Inside Softdel’s enterprise AI strategy",
+   "url": "https://yourstory.com/2026/10/vc-money-is-pouring-into-indian-startups",
+   "date": "2026-10-04",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "The total funding for the first week of October was at $418 million across 22 deals. In contrast, the previous week saw a total of $382 million.",
+   "lead": "VC money is pouring into Indian startups; Inside Softdel’s enterprise AI strategy The total funding for the first week of October was at $418 million across 22 deals. In contrast, the previous week saw a total of $382 million. Team YS 17285 Stories Sunday October 04, 2026 , 4 min Read RBI Governor Sanjay Malhotra, on Saturday, reaffirmed India’s cautious stance on cryptocurrencies over risks to monetary sovereignty, monetary policy, ...",
+   "image": "https://images.yourstory.com/cs/2/47afd43024ec11ec9ecb9b7afb0df1da/weeklyfundingforDC1-1791044237369.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $418M)"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
    "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
    "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
    "date": "2026-10-02",
@@ -557,7 +581,7 @@
     "Funding",
     "SaaS & Enterprise"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -581,7 +605,7 @@
    "tags": [
     "Funding"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -604,7 +628,7 @@
    "tags": [
     "PMS"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -626,7 +650,7 @@
    "tags": [
     "Other Policy"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -648,7 +672,7 @@
    "tags": [
     "Funding"
    ],
-   "rank": 12,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -666,30 +690,6 @@
    "why": [
     "Funding",
     "Very large figure in headline (about $750M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 77,
-   "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-   "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-   "date": "2026-09-30",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-   "lead": "Voice AI startup ElevenLabs announced today that it’s allowing employees to cash out a portion of their vested equity at a $22 billion valuation, doubling the $11 billion valuation the company hit when it raised $500 million in February. The recent $300 million tender offer gave employees an opportunity to sell their shares to investors. The transaction was co-led by Wellington and T. Rowe Price, large institutional investors that back ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $22,000M: round or valuation)",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
@@ -891,7 +891,7 @@
    "source": "theweek.in",
    "label": "Germany",
    "snippet": "",
-   "lead": "Reference #18.7107d417.1791039293.4d74eebe https://errors.edgesuite.net/18.7107d417.1791039293.4d74eebe",
+   "lead": "Reference #18.8a89cc17.1791082528.9fde3749 https://errors.edgesuite.net/18.8a89cc17.1791082528.9fde3749",
    "image": null,
    "why": [
     "Mentions India or Indians"
