@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-04",
- "built": "2026-10-04 08:25 IST",
+ "built": "2026-10-04 11:12 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -28,7 +28,7 @@
    "dp": 2,
    "value": 96.3,
    "change_pct": 0.08,
-   "asof": "03 Oct 09:00 IST"
+   "asof": "04 Oct 09:00 IST"
   },
   {
    "name": "Brent (USD)",
@@ -164,9 +164,31 @@
    ]
   },
   "Startups": {
-   "total": 381,
-   "new_today": 2,
+   "total": 383,
+   "new_today": 4,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+     "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+     "date": "2026-10-01",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+     "lead": "Flow Engineering , a startup that offers AI tools for hardware design, has raised a $50 million Series B round at a $750 million valuation from some big-name investors, the company announced on Wednesday. The round was co-led by Antonio Gracias of Valar Equity Partners ( best known for its investments in Elon Musk’s companies, particularly SpaceX) and Gavin Baker of Atreides Management (a hedge fund that has also backed Musk’s ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $750M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -230,33 +252,12 @@
       "Funding",
       "Fintech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 69,
-     "title": "SoftBank completes final phase of $30 billion investment in OpenAI",
-     "url": "https://economictimes.indiatimes.com/tech/technology/softbank-completes-final-phase-of-30-billion-investment-in-openai/articleshow/134626238.cms",
-     "date": "2026-10-02",
-     "source": "ET Startups",
-     "label": "Global · Fintech",
-     "snippet": "SoftBank Group said on Thursday it has completed its $30 billion investment in OpenAI as part of its commitment to the ChatGPT maker's last fundraising round. Here are some other",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-13808,resizemode-75,msid-134626238/tech/technology/softbank-completes-final-phase-of-30-billion-investment-in-openai.jpg",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $30,000M: round or valuation)"
-     ],
-     "tags": [
-      "Funding",
-      "Fintech"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 672,
-   "new_today": 2,
+   "total": 673,
+   "new_today": 3,
    "items": [
     {
      "desk": "Immigration",
@@ -657,6 +658,29 @@
    "desk": "Startups",
    "score": 10,
    "priority": 77,
+   "title": "PanIIT, Andhra Pradesh plan Rs 500 Cr deeptech fund, target 25 AP startups by 2030",
+   "url": "https://yourstory.com/2026/10/paniit-500-cr-deeptech-fund-targets-25-andhra-startups-by-2030",
+   "date": "2026-10-04",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "Andhra Pradesh Chief Minister N Chandrababu Naidu told venture capital investors that the state would match their contribution to deeptech investments.",
+   "lead": "PanIIT, Andhra Pradesh plan Rs 500 Cr deeptech fund, target 25 AP startups by 2030 The proposed fund is part of a broader PanIIT-Andhra Pradesh push to build a deeptech ecosystem in the state. Chief Minister N Chandrababu Naidu told venture capital investors that the state would match their contribution to deeptech investments. Team YS 17286 Stories Sunday October 04, 2026 , 3 min Read PanIIT Alumni India and the Andhra Pradesh ...",
+   "image": "https://images.yourstory.com/cs/2/37e5ca70873c11f1b05fb9c57f27e957/panIIT-1791086065776.jpeg",
+   "why": [
+    "Funding",
+    "Sizeable deal (about $53M)"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 77,
    "title": "From Simple Energy To Arivihan — Indian Startups Raised Over $233 Mn This Week",
    "url": "https://inc42.com/buzz/from-simple-energy-to-arivihan-indian-startups-raised-over-233-mn-this-week/",
    "date": "2026-10-03",
@@ -671,30 +695,6 @@
    ],
    "tags": [
     "Funding"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 77,
-   "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-   "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-   "date": "2026-10-01",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-   "lead": "Flow Engineering , a startup that offers AI tools for hardware design, has raised a $50 million Series B round at a $750 million valuation from some big-name investors, the company announced on Wednesday. The round was co-led by Antonio Gracias of Valar Equity Partners ( best known for its investments in Elon Musk’s companies, particularly SpaceX) and Gavin Baker of Atreides Management (a hedge fund that has also backed Musk’s ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $750M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
    ],
    "rank": 14,
    "must_read": false
