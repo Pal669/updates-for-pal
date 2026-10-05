@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-06",
- "built": "2026-10-06 01:01 IST",
+ "built": "2026-10-06 04:26 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -26,23 +26,23 @@
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 96.28,
-   "change_pct": 0.06,
-   "asof": "05 Oct 23:36 IST"
+   "value": 96.3,
+   "change_pct": -0.03,
+   "asof": "06 Oct 04:02 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 99.94,
-   "change_pct": -2.26,
-   "asof": "06 Oct 00:51 IST"
+   "value": 100.24,
+   "change_pct": -1.97,
+   "asof": "06 Oct 04:14 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4168.0,
-   "change_pct": 0.13,
-   "asof": "06 Oct 00:51 IST"
+   "value": 4169.0,
+   "change_pct": 0.15,
+   "asof": "06 Oct 04:16 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -164,9 +164,31 @@
    ]
   },
   "Startups": {
-   "total": 413,
-   "new_today": 1,
+   "total": 414,
+   "new_today": 2,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+     "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+     "date": "2026-10-02",
+     "source": "TechCrunch",
+     "label": "Global · SaaS & Enterprise",
+     "snippet": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+     "lead": "Kevin Mandia, best known as the founder of cybersecurity startup Mandiant, which sold to Google for $5.4 billion in 2022 , has raised $255.5 million for his latest startup, Armadin, at a valuation of more than $2.5 billion, the company announced on Thursday. The Series B round was led by Andreessen Horowitz and Accel, with Bain Capital Ventures, Redpoint, 8VC, Ballistic Ventures, Google Ventures, In-Q-Tel, Kleiner Perkins, and Menlo ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $2,500M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "SaaS & Enterprise"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -231,34 +253,34 @@
      "tags": [
       "Funding"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 69,
-     "title": "TVS Automobile Solutions raises Rs 425 Cr from UAE investor to expand myTVS brand",
-     "url": "https://yourstory.com/2026/10/tvs-automobile-solutions-raises-rs-425-cr-uae-investor-expand-mytvs",
-     "date": "2026-10-05",
-     "source": "YourStory",
-     "label": "India · Mobility & EV",
-     "snippet": "The funding will be used to expand the conpany's myTVS auto aftermarket brand in the Middle East and North Africa markets.",
-     "lead": "TVS Automobile Solutions raises Rs 425 Cr from UAE investor to expand myTVS brand The funding will be used to expand the conpany's myTVS auto aftermarket brand in the Middle East and North Africa markets. Team YS 17295 Stories Monday October 05, 2026 , 2 min Read TVS Automobile Solutions, which owns the omnichannel automotive aftermarket brand myTVS, has raised Rs 425 crore in a Series D round of funding led by CE-Invests, the ...",
-     "image": "https://images.yourstory.com/cs/wordpress/2018/05/startup-funding.jpg",
-     "why": [
-      "Funding",
-      "Sizeable deal (about $45M)"
-     ],
-     "tags": [
-      "Funding",
-      "Mobility & EV"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 714,
-   "new_today": 2,
+   "total": 722,
+   "new_today": 7,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 50,
+     "title": "New Zealand changes Parent Resident Visa selection process, effective today",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOEkwYmNRUEZfMzF4cDZmd1FqRl9LaXhZZVpWWFNKU2F6S2p2b3JRTkRMcW5DZG9EbVdsMXZ0ZHUySVBqa1hxOXJzaUZJU2dDNFR2WlE5bW0zUjBzYndCWHIwYWUtLThrSlQzMlNVRGp4X0VDWVlrOUFtMDhzQzRGODFEQVVSWTdseEdVbGhYTUJheTdLSHNFRTBEVUtPVHBjWFlWN3ExbW02Y1pUYlp0Y3piVlZTdk5sZmxVZUJLOGlaUlBtZUFGRnR6dWh5STVRTjdmaXh5QdIB3AFBVV95cUxOd1ZTLUxwR2F5ckpfSGZ2Tld5SFIySmktb3dSWTBQYm5ST2V5MkxGSjc0eTNRWS1iVEVLdHprQzNMMGk1cEJhYVhCOElFbWU3S0xEYVQ2dkluVXlMM2RsMjRtQ1pMVkRETEtmVXhHNGVMWTVhU1NTdE4wa0VtQmdaTGJOWm05ekphdXdLR0lhSmdHLW1iVkNJLUdNd21uOVBQdTY0N1pRQS1LSFFmSDJPdkV1OXEtUXowNFU5a1AwMUI4bFpNUXZQRGtFVEF4TDVaQ3ZtRmZ0ck90bXpf?oc=5",
+     "date": "2026-10-05",
+     "source": "The Economic Times",
+     "label": "New Zealand",
+     "snippet": "<i>New Zealand has moved all valid Parent Resident Visa expressions of interest into a single pool from today. For Indian parents, around 90 per cent of EOIs will now be selected by date order, while 10 per cent  will be picked through a random ballot. The annual limit remains 2,500 approvals in principle.</i>",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1403852,resizemode-75,msid-134705568/nri/migrate/new-zealand-changes-parent-resident-visa-selection-process-effective-today.jpg",
+     "why": [
+      "Political signal on immigration",
+      "Announces a change"
+     ],
+     "tags": [
+      "Politics / Election",
+      "New Zealand"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 5,
@@ -303,8 +325,29 @@
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 0,
+   "new_today": 20,
    "items": [
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 71,
+     "title": "Gold inches up as October Fed rate hike prospects fade",
+     "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-up-as-october-fed-rate-hike-prospects-fade/articleshow/134683767.cms",
+     "date": "2026-10-05",
+     "source": "Economic Times",
+     "label": "Gold & Silver",
+     "snippet": "During early Monday trading in Asia, gold prices surged due to lackluster US job growth figures. This disappointing employment data notably diminished the Federal Reserve",
+     "lead": "Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Q2 earnings season: Will it settle or add to confusion in the stock market?",
+     "image": "https://img.etimg.com/thumb/msid-134683786,width-1200,height-900,imgsize-202974,overlay-etmarkets/articleshow.jpg",
+     "why": [
+      "Interest-rate decision",
+      "Precious metals",
+      "Global macro driver"
+     ],
+     "tags": [
+      "Gold & Silver"
+     ]
+    },
     {
      "desk": "Advisory",
      "score": 10,
@@ -330,6 +373,26 @@
      "desk": "Advisory",
      "score": 9,
      "priority": 64,
+     "title": "SEBI PMS Rules Could Redraw Wealth-Manager Rivalry",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQem9CMmhqMUN1cGpRek03OHZTOEN6MTlXQjVBcHJmYzkwSW9jT0RCc0xhaWk0X3FXY0xyVVZDQUk1Vzh1blNVNXN1OGdhNUhVNXV1bGFmMVM5UGZWM0NUT082ZlJ3RXN2Z3dBMmZoNElzTW12RnJkNGVJZVZweGg1OGliZXFBa2xJUlJsTFZnbWlzZkVzZW12OC1Yd1psNGt3RVRURDNVQmdQZUZoOWVpUFcxS1UyRHR3UjdPeUplZF9mcnU3OFZQVlozTGVfNno5?oc=5",
+     "date": "2026-10-05",
+     "source": "Kalkine India",
+     "label": "PMS",
+     "snippet": "SEBI's new portfolio-management rules could reshape competition among wealth managers, changing how affluent investors access professional money management.",
+     "lead": "Technical Analysis on One NYSE-Listed Retail Trade Stock – M No news articles found at the moment. You are reading a free article with opinions that may differ from the recommendation given by Kalkine in its paid research reports. Become a Kalkine member today to get access to our research reports, in-depth technical and fundamental research. Learn More A set of new portfolio-management rules from the market regulator could reshape the ...",
+     "image": "https://www.kalkine.co.in/uploads/articles/featured_image/c8dabe6c-a125-4a1c-b9dd-d8d2a1d2b476-28181.jpg",
+     "why": [
+      "PMS news",
+      "Regulator: SEBI or RBI"
+     ],
+     "tags": [
+      "PMS"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 64,
      "title": "Marcellus Investment Managers receives final SEBI approval to launch Mutual Fund Business",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSWZFb0h2WUxjaXNTZGNGSjRnQzA2VjFkMVBTSExxUHVlaDJxRWN6MTJ4RV85TldhUFNyZUVGbTg1RmR1UjM1TWpOQVBhTkhHNDZ5S2MwNmxXSHdwdEJuTUF0N1IwY0t6ZHFXZEM5blpFakk2YUhhUXpVaExjaGtMMnZHYU9OTkJPbGFkcEhSYkVkQ2xYTjBOWXZqVk5zMzgyVl9tTEd3TVVwRXlqSEIyTHBlT0hLbEhNQzdQUDZha29scWFZV3IxN0ZFWdIBywFBVV95cUxPSWZFb0h2WUxjaXNTZGNGSjRnQzA2VjFkMVBTSExxUHVlaDJxRWN6MTJ4RV85TldhUFNyZUVGbTg1RmR1UjM1TWpOQVBhTkhHNDZ5S2MwNmxXSHdwdEJuTUF0N1IwY0t6ZHFXZEM5blpFakk2YUhhUXpVaExjaGtMMnZHYU9OTkJPbGFkcEhSYkVkQ2xYTjBOWXZqVk5zMzgyVl9tTEd3TVVwRXlqSEIyTHBlT0hLbEhNQzdQUDZha29scWFZV3IxN0ZFWQ?oc=5",
      "date": "2026-09-30",
@@ -346,53 +409,35 @@
      "tags": [
       "Mutual Funds"
      ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 64,
-     "title": "‘Indian markets not vulnerable’: SEBI overhauls portfolio manager norms, widens investment options, says Tuhin Kanta Pandey",
-     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVEg4dkl6QU4zVlRERnlDeVU2b0FlR2NUcmNjWjBGeXdHeTk2eWpCeUtKMHdNcWMyZzlFTTdxQ1o3TFdfeWg1UTBQZlZnUlFwaVA1aE9CNXpwaE9USFpiYVk5QzUxem1nY3pmTzMyLVdiRHFBMDU4NzU3b0JEZlhrWnVxTVNqMzRnYWxQclpFbUxjOXhQZ3RQQjZtbHc2RkEzLUxLeTJXS2VVRDVZYUFsZDJqV1NjRmtKMlVROUJtdUJreFJmcXFMRjBDbkNxZnhHdVV2bGdNU0Vtdk1LMmVQbVZVYl9yOWJkT1dwRTBTV1hia3FBczJzU0NBYXpvSEnSAYQCQVVfeXFMT3REQXZzQzdwdmtIRG1zbGI5d2w2by0yUHZWVkluZkZKTWVTbGZzVjVENy1jM0pOb3ZlSjJiR1RiTVpCV2hZc1hyWDBqckN1WjVVZXdQX3ZBbXBqejZGV2hwanc3UDdFdXBxRy12WFBOYWhkb01Hc3hMM1FxRlBnQzhuYnVHaUFCX1IzeF9BZU9XRlRBd2gzSTZBemZ4Z2Rob195Z09RMndRMUh5VjBLdXpqQ0hMd3hLWUdHTDZKdTh1cjJvS2RRYWxNR2F5N0ZDZWhyS2hGVjVNQTVNZEVoQ2hYYk9fa3g5b0U4TTVGd3hTYUhKeHpLMWhsY1ByQnZXUTVEY1M?oc=5",
-     "date": "2026-09-30",
-     "source": "ET Now",
-     "label": "PMS",
-     "snippet": "",
-     "lead": "",
-     "image": null,
-     "why": [
-      "PMS news",
-      "Regulator: SEBI or RBI",
-      "Rule or framework change"
-     ],
-     "tags": [
-      "PMS"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 8,
-     "priority": 57,
-     "title": "Gold holds steady as firm dollar, yields counter easing Fed rate hike bets",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN3VTUm1mWHp6bTZUVy1TVUZJV3VQUEYwUEJOSUNHUzlGZk5zUUlwbWpQVFNHeTMyVUZHY21GbmpOR0lEbWZ5ek45bll5Vm9GdVEtbG8wVWpsR21SQTNxNzhUX0FodENNTm9Rc0VXZUZHcXFNYTRZNWozVm53VnJmWkhWVUd4YlFB0gGOAUFVX3lxTE43LTRmNkJ2RDViRHhUX2VUY0dBbGpJdjBDa2xLd3h1VV9ZVDlKd0t3cG5md1dnaXFOcEg3UURrQ25XdHdWcm91clBfQVNnZmtCNFhGcmx1VlJ5MWo4c05mZmJacHNvQlk3TW5NdHU1WkNLT29mR2Jfd0JVQm9GTWVscE5sTFliS0t3WGFLZ0E?oc=5",
-     "date": "2026-10-01",
-     "source": "CNBC",
-     "label": "Gold & Silver",
-     "snippet": "Gold prices held steady on ‌Thursday as pressure from a stronger dollar and elevated US Treasury yields was offset by softer-than-expected US inflation data.",
-     "lead": "Livestream Menu Make It select USA INTL Livestream Search quotes, news & videos Livestream Watchlist SIGN IN Create free account Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Gold prices held largely steady on ‌Thursday as pressure from a stronger dollar and elevated US Treasury yields was offset by softer-than-expected US inflation data that reduced bets on a Federal Reserve rate ...",
-     "image": "https://image.cnbcfm.com/api/v1/image/108134743-1745330034307-gettyimages-2210132726-AUSTRALIA_GOLD.jpeg?v=1790824671&w=1920&h=1080",
-     "why": [
-      "Interest-rate decision",
-      "Precious metals",
-      "Global macro driver"
-     ],
-     "tags": [
-      "Gold & Silver"
-     ]
     }
    ]
   }
  },
  "items": [
+  {
+   "desk": "Startups",
+   "score": 13,
+   "priority": 100,
+   "title": "Etched fields funding offers at $40B+ valuation, sources say",
+   "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+   "date": "2026-10-06",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
+   "lead": "Etched fields funding offers at $40B+ valuation, sources say Marina Temkin 1:24 PM PDT · October 5, 2026 Although it’s only been a couple of months since Etched raised $700 million at a $21 billion valuation , the AI chip startup is already being plied with investment offers at double or more its value, according to people familiar with the company. Etched is reviewing incoming bids that range from $40 billion from top-tier investors ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/07/Sequoia_Etched-Abhishek-Malani-Robert-Wachen-Sonya-Huang-Gavin-Uberti-copy.jpeg?resize=1200,846",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $40,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
   {
    "desk": "Startups",
    "score": 13,
@@ -413,7 +458,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -437,7 +482,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -461,7 +506,7 @@
     "PR / Settlement",
     "Japan"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -484,8 +529,32 @@
    "tags": [
     "Agriculture & Food"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
+  },
+  {
+   "desk": "Advisory",
+   "score": 13,
+   "priority": 93,
+   "title": "RBI MPC begins 3-day meeting as crude, inflation put rate hike back on table",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUm9KaVBjY3J6QlBWRkxSall5YUo4WV9ScUw2LWRMV1BsVVNqUnNHNGhqTksyRFc0TzNDcXY2LTlNZVBIbS1HekY0a1VaR0dsN2ZjTjNyV1FvdDlaeWxVdXJ0S1NkNmsyUEtUX1NkdlZKUzJOSjhzLXYtc2JCQ1VIUWFHcDl2b3FrVXc4RmJPeG9YZURoXzNRNjVJUHFaSmFhSHI0NzJmU1hwSzRQX25aNkdwUVlyUFlPek9OWEhMYWdrd9IBxwFBVV95cUxOQVY2RW5rci1qbnkxWXo3cnUzTTVJd3BrLTNFci1vU2VLUThGLXRqN2wxTVRNMWc5MW5NVEg1TXpUUUVsY0t6elFfbEZpZ2ROQnBTRGo4Nkg1NjV5RV9WcS1fX3F5Vkhha1c4cTdoa21QWFhIOGJ3R3ZLTFlKNkVTNlF0d1kzVkstZ2c3SWdYb0J6LW81a1ZnWEk3NDRmRjk3V2otWTZUMmpBZnpMalBMbC1NV2pNTEUzQVVpR0taNjdMdUxyQk9J?oc=5",
+   "date": "2026-10-05",
+   "source": "Firstpost",
+   "label": "Regulatory",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Global macro driver",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Startups",
@@ -507,8 +576,8 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 7,
+   "must_read": false
   },
   {
    "desk": "Immigration",
@@ -530,55 +599,53 @@
     "Citizenship",
     "Canada"
    ],
-   "rank": 6,
+   "rank": 8,
    "must_read": false
   },
   {
    "desk": "Advisory",
    "score": 12,
    "priority": 86,
-   "title": "RBI MPC Preview: BofA sees 25 bps rate hike as US yields and crude surge",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM3NGNGZEQl9mMnE3cUdWM2YxRlp4OG9GZks1ZVFpRm5OMkVFWGhfVGoxa2RBcmh1MnUyYUVWb1Q4dVYwcUhGTm5Sa2ZEaFBEanhUcDJCLWozcl9KbTk5dVF1N2lVQm1BanZJSU5LNl93Y2tIOGNjdWt2dEtoSlZnZUo0cTFualNlei1nZi1rQWs1VVltYUVDOWlFYW45TzZxYldZY0ZERzJObmVuSV8zQ0NVQktadVRYQWEtMG1WTDFfbTk4bmfSAcwBQVVfeXFMTTgwdmFmQk0xaEJUS1dXYTQ3aVpBUG1QSzN4Nmcyb0tvd3JUMWJfQjh5b0xzWFFhblZmYmZaVll3VzRJcDhkOU0tV04tREdnMkhQWG9lbnVCMlBNSHM0ZjNCVEE3QmZpQkxQY3Y2a2NuWlhBV2hhN3BYTWMtQWFSaTNZZ0REblpzTWtvSDBSTktkVU1GUS1rc2ZPUXNQUnFmUWplR09McTZIN1NfeDdJMkU1U2ZTVUJDXzdMVms3czdHc3VtejdOa1NRZXF0?oc=5",
-   "date": "2026-10-01",
-   "source": "financialexpress.com",
+   "title": "RBI Faces Rate Hike Test as Inflation, Crude Prices Put Pressure on Policy",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV2VBM2F4Y0EyYTNNOXdLa1lnT3YwRGlDV2E5TFdnc2JqUnUtNnJBN2hqSFQ0eFQxRFQyZS13c3F1X1dUYXJSZ2NNaU5kMXJ4bjZaa2l1UW5TMlBCRm0zTXRjY09OQThYRGVabldXMlBpblE1am9ObkFxRGlqemRWUHhwOERCbS1pWXlIRTNDYXNaZDR0bXBWMTNUOUk4d2lhWWota19XNFE?oc=5",
+   "date": "2026-10-05",
+   "source": "boldnewsonline.com",
    "label": "Regulatory",
    "snippet": "",
-   "lead": "",
+   "lead": "New Delhi, Oct 5: The Reserve Bank of India’s Monetary Policy Committee began its October meeting on Monday amid growing expectations that the central bank could raise interest rates as inflationary pressures widen and elevated crude oil prices create fresh risks for the economy. The three day meeting, scheduled from October 5 to 7, comes at a crucial point for monetary policy. Economists and financial markets are closely watching ...",
    "image": null,
    "why": [
     "Regulator: SEBI or RBI",
     "Interest-rate decision",
-    "Global macro driver",
-    "Sharp market move"
+    "Global macro driver"
    ],
    "tags": [
     "Regulatory"
    ],
-   "rank": 7,
+   "rank": 9,
    "must_read": false
   },
   {
    "desk": "Advisory",
    "score": 12,
    "priority": 86,
-   "title": "Indian bond yields ease as oil cools, Fed rate hike bets tumble ahead of RBI policy",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWElfT1JtQTRYd1RwRDZEUS1kc2gxQVVXZjJ3RThMZVRKZWtxbzFsWVp1WVk0RGhzcXBKa2dzSnpfRUREd2wxZEtVeFhFWUMzOWVDYl9NRG5ZbWF2X3paeWctV0xoNXkzZncySTZ4NW9LLU4yVGVzTlNLUzg0SDJfTkFPdjVsZTJ6WVkwdUllMkViZUNybGtCdGo3N2pqQkxfS05GR18zZUphNTVwNXlPc216YWdDcFpybk45Y2VxeGR5dERUNzk4MEhjTGxyQnVXaHJrb0dDRUg5YUJUdXc?oc=5",
-   "date": "2026-09-30",
-   "source": "Moneycontrol.com",
+   "title": "India's bond yield curve poised to flatten as RBI drains surplus cash",
+   "url": "https://www.business-standard.com/markets/news/india-s-bond-yield-curve-poised-to-flatten-as-rbi-drains-surplus-cash-126100500084_1.html",
+   "date": "2026-10-05",
+   "source": "Business Standard",
    "label": "Debt & Bonds",
-   "snippet": "The benchmark 10-year bond yield was trading at 7.1482 percent",
-   "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
-   "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260622142629_RBIRTR1.png",
+   "snippet": "The 5-10 year yield gap is expected to narrow as the RBI drains surplus cash, pressuring shorter maturities",
+   "lead": "Excess banking-system liquidity is prompting the RBI to withdraw funds, putting upward pressure on shorter-dated yields as it seeks to contain prices | Image: Bloomberg Don't miss the most important news and views of the day. Get them on our Telegram channel",
+   "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/05/thumb/fitandfill/1200X628/1791170294-1556.jpg",
    "why": [
     "Regulator: SEBI or RBI",
-    "Interest-rate decision",
     "Government bond yields",
-    "Global macro driver"
+    "Also covered by 3 other outlet(s)"
    ],
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 8,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -600,7 +667,7 @@
    "tags": [
     "Acquisition"
    ],
-   "rank": 9,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -624,31 +691,7 @@
    "tags": [
     "Funding"
    ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 79,
-   "title": "Eight-week losing streak : RBI rate hike, crude prices and TCS results to test markets",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOck0tbU5NSFcwUFhiYmZkM191V2E4WENaZWJnVV94cDBWTzlWdF9wV3FDLWVRYjZOT0JrXzlyUDV0YnJ3WnBCM2ZhTXc2Y1psbHVUZkxSQW9aQ1NkVUJ1b0NPMjdzaEFyRVlFcFAzTXh0WXFqS20wdlB0dGlGQ1hMb3o5V1NQUGdRM0hiOUdDdlNhbUxUX09rVVA4d2Z0RXNXbDV3blc2dkE1clE5cW5jeWU0QlVpYk9qcTBmSDdJR3hDWEtoaGhjTGkxZ3dETkF1RGFIRkstWWdjS0RLUUNHcnRCTDJreXZYYWF2R2ZHU1ZsenFmMi1DZXBzUHJkNUdBQkE?oc=5",
-   "date": "2026-10-04",
-   "source": "Dailyhunt",
-   "label": "Regulatory",
-   "snippet": "Indian equities enter another crucial week with the Reserve Bank of India's (RBI) monetary policy decision, elevated crude oil prices, global bond yields and th",
-   "lead": "I ndian equities enter another crucial week with the Reserve Bank of India's (RBI) monetary policy decision, elevated crude oil prices, global bond yields and the start of the corporate earnings season likely to determine the direction of the market. The RBI's six-member Monetary Policy Committee (MPC) will meet from October 5 to 7, with its decision due on Wednesday. A majority of economists and bankers polled by PTI expect a ...",
-   "image": "https://assets-news-bcdn.dailyhunt.in/cmd/resize/1200x630_75/fetchdata20/images/d2/58/8f/d2588f3397bc9d6b9d48cb36f0eba14cbdb8f76d0ba60d3c6a961b1c175a0bc6.webp",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Global macro driver"
-   ],
-   "tags": [
-    "Regulatory",
-    "IT & Tech"
-   ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -670,7 +713,7 @@
    "tags": [
     "Other Policy"
    ],
-   "rank": 12,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -692,31 +735,30 @@
    "tags": [
     "Funding"
    ],
-   "rank": 13,
+   "rank": 14,
    "must_read": false
   },
   {
-   "desk": "Startups",
+   "desk": "Advisory",
    "score": 10,
-   "priority": 77,
-   "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
-   "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
-   "date": "2026-10-02",
-   "source": "TechCrunch",
-   "label": "Global · SaaS & Enterprise",
-   "snippet": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
-   "lead": "Kevin Mandia, best known as the founder of cybersecurity startup Mandiant, which sold to Google for $5.4 billion in 2022 , has raised $255.5 million for his latest startup, Armadin, at a valuation of more than $2.5 billion, the company announced on Thursday. The Series B round was led by Andreessen Horowitz and Accel, with Bain Capital Ventures, Redpoint, 8VC, Ballistic Ventures, Google Ventures, In-Q-Tel, Kleiner Perkins, and Menlo ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+   "priority": 71,
+   "title": "JioBlackRock Mutual Fund files draft document with Sebi for a gold ETF",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPelREX0tTbGVhOFVHZHNWU3JMRGhBYTFsSVNwNGRiY1ZvUWpSVU4tUmhsSkZma09ON0NLUzhXNFRSbFV3TEJXU2lYRUV3RHhJcjg2QWNiQU5nTzRXVjdwbExzdVNDcDh4MUpiNWJMWGJ2WXpQYTQ5dnpwREctWkU1dUxrQnZleWR4WVhxVVJKOEU3d29qdzVyNngzTWc3TmJtOHFzTGVKaHZGN3ZYcXdrWDJrR1hhSnRfSmEweERhdlF6TFF1aVdMazBrVVNBaFZpd0FNOTNR0gHWAUFVX3lxTE96VERfS1NsZWE4VUdkc1ZTckxEaEFhMWxJU3A0ZGJjVm9RalJVTi1SaGxKRmZrT043Q0tTOFc0VFJsVXdMQldTaVhFRXdEeElyODZBY2JBTmdPNFdWN3BsTHN1U0NwOHgxSmI1YkxYYnZZelBhNDl2enBERy1aRTV1TGtCdmV5ZHhZWHFVUko4RTd3b2p3NXI2eDNNZzdOYm04cXNMZUpodkY3dlhxd2tYMmtHWGFKdF9KYTB4RGF2UXpMUXVpV0xrMGtVU0FoVml3QU05M1E?oc=5",
+   "date": "2026-10-05",
+   "source": "The Economic Times",
+   "label": "Gold & Silver",
+   "snippet": "JioBlackRock Mutual Fund has filed a draft document with Sebi for JioBlackRock Gold ETF, an open-ended scheme tracking domestic gold prices. The ETF will invest 95-100% in gold and related instruments, with a minimum investment of Rs 500.",
+   "lead": "JioBlackRock Gold ETF will track domestic gold prices, invest up to 100% in gold-related instruments and offer investors a minimum entry amount of Rs 500.",
+   "image": "https://m.economictimes.com/thumb/width-1200,height-900,imgsize-35366,msid-134703338/jioblackrock-mutual-fund-files-draft-document-with-sebi-for-a-gold-etfbr.jpg",
    "why": [
-    "Funding",
-    "Very large figure in headline (about $2,500M: round or valuation)",
-    "Valuation, listing or profitability signal"
+    "Regulator: SEBI or RBI",
+    "Precious metals",
+    "Also covered by 2 other outlet(s)"
    ],
    "tags": [
-    "Funding",
-    "SaaS & Enterprise"
+    "Gold & Silver"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -739,30 +781,6 @@
    ],
    "tags": [
     "Banking & Rates"
-   ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 71,
-   "title": "Gold price crash: Gold, silver fall again amid Fed rate hike fears; Check latest 22K, 24K gold rates in Delhi, Mumbai, Bengaluru and other cities",
-   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNdU12LXl2YlRxM0VEaURBVzFCN3M4Qm9KLXlhTEZkMWVuY1o4VmpTV1gyUm96a2hFcGh4VDlPdFZRemZkUGJlYmhiUWhpdDZGWnQ0QnFWTk1JNnVMRld1WTBCOHBVejgxbnlwSGx5a0V3ck9EMTBtZXgyWWJsYUk3VmhTdmhWVzY0Qkp4MldHMHNRX0VuS0Y5QWVjbTRnVGE2Z3ZrbFZzdk42V3FfVGVFaEdUdlIzcFU0ZS1fcHBZRW5peGxoNWoxYzhhTTc4cE1PT0pVTVRmQkRZR2JadDNIaXZHZnl1dnR2ekFObGhsVUxYdnFxeHp3eGdGOHJISER2cWQzVkdpQlBZRmxWTmhhYTYxeFBRaW_SAZsCQVVfeXFMT2lBa0lpQjlmSTh6NFJ3TTFvQ3V6WkNPbktJSFlTNzRsVl9BMTB4Qkw0Z3ozZ0o3ZjFXa1F3Mk9nYTAwUUJHZzRsZ3QyT2xXd29MV3BKNmxQVURjM3drUXNzLUo2dl9OY05mMHprQmxjN05vZ1hscl9KU0VUbVZ3d3F0ZEpyMEdxOHg1eHE1c0R5RV9hVlJGeXhla1FRRnl3czZPMmVKTXpuZFVGZTJ6OWh0NHlTcmtsUDduR0NCWkp1dWs4ZzVyZDBZaEVRMjM3cGNvU3VCOUpzMi1qbDFVTy1fYXZVZnp0aWlENmlQeFlmQ3hVN3BWY09UVzM1elR2Rk9RWUZIcHZoVzFsTjlzemt1MmZRTTdkdnRjSQ?oc=5",
-   "date": "2026-10-01",
-   "source": "News24Online",
-   "label": "Gold & Silver",
-   "snippet": "recious metal prices have remained under pressure after a brief rise last week. Changing conditions between the US and Iran and fluctuations",
-   "lead": "",
-   "image": "https://news24online.com/wp-content/uploads/2026/10/Gold-Silver-Price-Today.jpg-10.jpeg",
-   "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Gold & Silver"
    ],
    "rank": 16,
    "must_read": false
@@ -835,6 +853,28 @@
    "must_read": false
   },
   {
+   "desk": "Immigration",
+   "score": 6,
+   "priority": 60,
+   "title": "As America, Russia, the UK and France seek more troops, Africans are being recruited with promises of careers and citizenship, while others are drawn into active wars",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOck5FcnFYYy1HaGp5djBZLVhnZUtncm4xUzdxc1NpMVA0X2ZIeHNHV1NJTElEWjNrNVhvUnk3X1ZRNnNaZVkzTEFlcUlTdU9nZnUzbzlsRkUtenJTM0t5dkZlRXlBWGJNVEtLWERRNzJpSzYtX1dwckEtMHEzX0xRN1M3WVhLNl9SQzhDRjEyRGNtZURnZlpjRWppRWRGYXk5SWlyUGI4TjlxOGJUMXNPR3lVMENpdktBVHZNbTlzUG1OTTc3OF9TOFVwY2NubGJ2Z0xhdQ?oc=5",
+   "date": "2026-10-05",
+   "source": "Business Insider Africa",
+   "label": "France",
+   "snippet": "African nationals are becoming a growing part of foreign military recruitment as the United States, Canada, Britain, France and Ireland widen their ranks beyond citizens, drawing on migrants seeking better pay, stable careers and opportunities abroad that may be harder to find at home",
+   "lead": "The United States allows green-card holders to enlist, making military service a route through which immigrants, including Africans, can build careers and later qualify for citizenship. As of February 2026, 49,709 non-US citizens were serving across active and reserve forces, Congressional Research Service data based on Department of Defense records shows. In fiscal year 2024, about 930 Nigerian-born service members, 660 Ghanaians and ...",
+   "image": "https://ocdn.eu/pulscms-transforms/1/F_PktkpTURBXy9jYTI3MjJkNDQyZGZjMWExZGRjOTkzODlkZTM2MzU3MS5qcGeSlQPMUQDNDBnNBs-TBc0EsM0Cdg",
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "France"
+   ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
    "desk": "Policy",
    "score": 8,
    "priority": 57,
@@ -853,7 +893,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 20,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -876,7 +916,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 21,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -898,29 +938,6 @@
    ],
    "tags": [
     "Banking & Rates"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 5,
-   "priority": 50,
-   "title": "New Zealand changes Parent Resident Visa selection process, effective today",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOEkwYmNRUEZfMzF4cDZmd1FqRl9LaXhZZVpWWFNKU2F6S2p2b3JRTkRMcW5DZG9EbVdsMXZ0ZHUySVBqa1hxOXJzaUZJU2dDNFR2WlE5bW0zUjBzYndCWHIwYWUtLThrSlQzMlNVRGp4X0VDWVlrOUFtMDhzQzRGODFEQVVSWTdseEdVbGhYTUJheTdLSHNFRTBEVUtPVHBjWFlWN3ExbW02Y1pUYlp0Y3piVlZTdk5sZmxVZUJLOGlaUlBtZUFGRnR6dWh5STVRTjdmaXh5QdIB3AFBVV95cUxOd1ZTLUxwR2F5ckpfSGZ2Tld5SFIySmktb3dSWTBQYm5ST2V5MkxGSjc0eTNRWS1iVEVLdHprQzNMMGk1cEJhYVhCOElFbWU3S0xEYVQ2dkluVXlMM2RsMjRtQ1pMVkRETEtmVXhHNGVMWTVhU1NTdE4wa0VtQmdaTGJOWm05ekphdXdLR0lhSmdHLW1iVkNJLUdNd21uOVBQdTY0N1pRQS1LSFFmSDJPdkV1OXEtUXowNFU5a1AwMUI4bFpNUXZQRGtFVEF4TDVaQ3ZtRmZ0ck90bXpf?oc=5",
-   "date": "2026-10-05",
-   "source": "The Economic Times",
-   "label": "New Zealand",
-   "snippet": "<i>New Zealand has moved all valid Parent Resident Visa expressions of interest into a single pool from today. For Indian parents, around 90 per cent of EOIs will now be selected by date order, while 10 per cent  will be picked through a random ballot. The annual limit remains 2,500 approvals in principle.</i>",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1403852,resizemode-75,msid-134705568/nri/migrate/new-zealand-changes-parent-resident-visa-selection-process-effective-today.jpg",
-   "why": [
-    "Political signal on immigration",
-    "Announces a change"
-   ],
-   "tags": [
-    "Politics / Election",
-    "New Zealand"
    ],
    "rank": 23,
    "must_read": false
