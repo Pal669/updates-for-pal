@@ -1,6 +1,6 @@
 {
- "edition": "2026-10-05",
- "built": "2026-10-05 11:43 IST",
+ "edition": "2026-10-06",
+ "built": "2026-10-06 01:01 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,74 +12,74 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22480.0,
-   "change_pct": 0.26,
-   "asof": "05 Oct 11:43 IST"
+   "value": 22422.0,
+   "change_pct": -0.88,
+   "asof": "05 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72101.0,
-   "change_pct": 0.27,
-   "asof": "05 Oct 11:28 IST"
+   "value": 71910.0,
+   "change_pct": -0.79,
+   "asof": "05 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
    "value": 96.28,
-   "change_pct": 0.05,
-   "asof": "05 Oct 11:43 IST"
+   "change_pct": 0.06,
+   "asof": "05 Oct 23:36 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 101.45,
-   "change_pct": -0.78,
-   "asof": "05 Oct 11:33 IST"
+   "value": 99.94,
+   "change_pct": -2.26,
+   "asof": "06 Oct 00:51 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4171.0,
-   "change_pct": 0.21,
-   "asof": "05 Oct 11:33 IST"
+   "value": 4168.0,
+   "change_pct": 0.13,
+   "asof": "06 Oct 00:51 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.28,
-   "change_pct": 0.76,
-   "asof": "03 Oct 00:29 IST"
+   "value": 5.31,
+   "change_pct": 0.64,
+   "asof": "06 Oct 00:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "Kissht",
-   "tagline": "Listed digital lender (NBFC)",
-   "what": "Lending-tech platform founded in 2015 by Ranvir Singh and Krishnan Vishwanathan. Offers digital personal and business loans up to Rs 5 lakh, health-related insurance products and secured loans against property. Got regulatory approval in July 2026 to distribute mutual funds through subsidiary Invincible Minds.",
+   "company": "Kuku Technologies (Kuku FM)",
+   "tagline": "Audio and microdrama OTT, IPO cleared by SEBI",
+   "what": "Founded in 2018 by Lal Chand Bisu, Vikas Goyal and Vinod Meena. Offers audiobooks, podcasts and original audio shows under Kuku FM, plus microdrama platform Kuku TV and microlearning platform Guru. Content library of 20,000+ titles in seven languages; it claims 1 Cr+ listeners and creators and 400 Mn app downloads across its portfolio.",
    "how": [
-    "The article does not give a revenue split.",
-    "Inferred, not from the article: as an NBFC, its core income is interest and fees on the loans it makes; insurance and mutual fund distribution would add commissions."
+    "The article does not explain the revenue model.",
+    "Not stated: whether income comes from subscriptions, pay-per-content or ads. Check the DRHP when it becomes public."
    ],
-   "watch": "The company did not say how it will use the money. Fresh capital for a lender usually funds loan growth, but that is inference.",
-   "sector": "Fintech",
+   "watch": "Fresh-issue money is planned for tech, AI infrastructure, content production and geographic expansion. Competitors named: Pocket FM, Flick TV, ReelSaga, Miniplix and OTT majors (Amazon, JioHotstar, Zee5).",
+   "sector": "Media, Gaming & Creators",
    "region": "India",
-   "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/"
+   "url": "https://inc42.com/buzz/sebi-greenlights-kuku-technologies-%e2%82%b93500-cr-ipo/"
   },
   "country": {
-   "id": "spain",
-   "name": "Spain",
-   "trend": "Mixed",
-   "pr": "Long-term residence after 5 years of continuous legal residence.",
-   "citizenship": "10 years standard (2 years for Ibero-American nationals and a few others). Dual citizenship restricted for most nationalities (general knowledge); India requires renunciation anyway.",
-   "pro": "Spanish is a global language, giving optionality beyond Europe.",
-   "con": "10-year citizenship clock.",
-   "watch": "2026 immigration regulation changes"
+   "id": "france",
+   "name": "France",
+   "trend": "Tightening (language and civic tests)",
+   "pr": "10-year resident card after 5 years of continuous lawful residence.",
+   "citizenship": "5 years of habitual residence, B2 French in speaking and writing since 1 January 2026 (was B1), a new civic exam (40 questions, 32 correct), stable French income and a clean record. Processing takes about 18 to 24 months.",
+   "pro": "5-year citizenship clock.",
+   "con": "B2 French and a civic exam are now mandatory for citizenship.",
+   "watch": "Further tightening of integration rules"
   }
  },
  "desks": {
   "Policy": {
-   "total": 130,
+   "total": 136,
    "new_today": 0,
    "items": [
     {
@@ -164,13 +164,13 @@
    ]
   },
   "Startups": {
-   "total": 391,
-   "new_today": 6,
+   "total": 413,
+   "new_today": 1,
    "items": [
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 83,
+     "priority": 77,
      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
      "date": "2026-10-01",
@@ -192,7 +192,7 @@
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 83,
+     "priority": 77,
      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
      "date": "2026-09-30",
@@ -214,7 +214,7 @@
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 83,
+     "priority": 77,
      "title": "ElevenLabs doubles valuation to $22bn with tender offer",
      "url": "https://sifted.eu/articles/elevenlabs-doubles-valuation-to-22bn-with-tender-offer/",
      "date": "2026-09-30",
@@ -235,68 +235,68 @@
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 75,
-     "title": "PanIIT, Andhra Pradesh plan Rs 500 Cr deeptech fund, target 25 AP startups by 2030",
-     "url": "https://yourstory.com/2026/10/paniit-500-cr-deeptech-fund-targets-25-andhra-startups-by-2030",
-     "date": "2026-10-04",
+     "priority": 69,
+     "title": "TVS Automobile Solutions raises Rs 425 Cr from UAE investor to expand myTVS brand",
+     "url": "https://yourstory.com/2026/10/tvs-automobile-solutions-raises-rs-425-cr-uae-investor-expand-mytvs",
+     "date": "2026-10-05",
      "source": "YourStory",
-     "label": "India · AI & Deeptech",
-     "snippet": "Andhra Pradesh Chief Minister N Chandrababu Naidu told venture capital investors that the state would match their contribution to deeptech investments.",
-     "lead": "PanIIT, Andhra Pradesh plan Rs 500 Cr deeptech fund, target 25 AP startups by 2030 The proposed fund is part of a broader PanIIT-Andhra Pradesh push to build a deeptech ecosystem in the state. Chief Minister N Chandrababu Naidu told venture capital investors that the state would match their contribution to deeptech investments. Team YS 17286 Stories Sunday October 04, 2026 , 3 min Read PanIIT Alumni India and the Andhra Pradesh ...",
-     "image": "https://images.yourstory.com/cs/2/37e5ca70873c11f1b05fb9c57f27e957/panIIT-1791086065776.jpeg",
+     "label": "India · Mobility & EV",
+     "snippet": "The funding will be used to expand the conpany's myTVS auto aftermarket brand in the Middle East and North Africa markets.",
+     "lead": "TVS Automobile Solutions raises Rs 425 Cr from UAE investor to expand myTVS brand The funding will be used to expand the conpany's myTVS auto aftermarket brand in the Middle East and North Africa markets. Team YS 17295 Stories Monday October 05, 2026 , 2 min Read TVS Automobile Solutions, which owns the omnichannel automotive aftermarket brand myTVS, has raised Rs 425 crore in a Series D round of funding led by CE-Invests, the ...",
+     "image": "https://images.yourstory.com/cs/wordpress/2018/05/startup-funding.jpg",
      "why": [
       "Funding",
-      "Sizeable deal (about $53M)"
+      "Sizeable deal (about $45M)"
      ],
      "tags": [
       "Funding",
-      "AI & Deeptech"
+      "Mobility & EV"
      ]
     }
    ]
   },
   "Immigration": {
-   "total": 692,
+   "total": 714,
    "new_today": 2,
    "items": [
     {
      "desk": "Immigration",
-     "score": 4,
-     "priority": 40,
-     "title": "Iceland Proposes Six-Year Wait for Permanent Residence",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaUp5dXFzRFhGU1pZQlJ3LUw0eGtzcnRBRk1lNG5OWVJYZkg0a1JVeE5RNWxTNFNfbG1BTWlqd3RVU3hRaTZYN08yVUlHdE1FbE5DNHA0M2p6ckhkZEh2OVNERi1keTA5WldKRDAwUktvVjcwakx6OWh2SlE5ck1XMUV4OHhjQmd5Wk51TklSQVg?oc=5",
+     "score": 5,
+     "priority": 50,
+     "title": "NHRCK urges Justice Ministry to shift Korea immigration raids toward safety, reform - CHOSUNBIZ",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcU41VTd3Q2tLSlpwUUVyMW9INkJnR25ZY2t6aUZJT3dyTnNJVHhoREx4RDY2U0ZQSVZKaE9qSkJsek9Cd2d1V0VFZDRaMFZNV1lVZTQ4Q2RCSkM2YzJkTUEwcDZxZTNDSnkzbVNXVlZjbXlBUXpTNzJRb1VDWXI1TtIBlAFBVV95cUxQemFQTEhrdzdKZVp4ZU9SeTQzM28zS05pQS1kVkFCSEdlRF9hcU9ROUdUVFIzVGthdUlzSDR1bk5YUTFCU2RRTzFyMFNnRmVyQkFHRGJvc3hBblF5Rk5oT1h3UmVTTEhRYVJHQ3p1QU1HNW9ycFp0blJPUTVUU2h0bmhnUUQ3WW9DY21fZmhkUE5MVmZ2?oc=5",
      "date": "2026-10-02",
-     "source": "Iceland Review",
-     "label": "Iceland",
-     "snippet": "Iceland’s proposed residence rules would extend the permanent-permit qualifying period to six years. The changes are under consultation, not yet law.",
-     "lead": "Iceland’s Justice Ministry has proposed extending the residence period required for a permanent permit from four years to six. The draft bill, published for public consultation on October 1, mainly concerns people from outside the European Economic Area. Justice Minister Þorbjörg S. Gunnlaugsdóttir says the changes would bring Iceland’s rules closer to those in other Nordic countries. The proposals have not become law. The ministry ...",
-     "image": "https://www.icelandreview.com/wp-content/uploads/2023/12/DSF33521-1024x683.jpg",
+     "source": "Chosunbiz",
+     "label": "South Korea",
+     "snippet": "NHRCK urges Justice Ministry to shift Korea immigration raids toward safety, reform",
+     "lead": "조선비즈 구글 검색 먼저 보기 Prompted by the death of a Vietnamese migrant worker who hid to avoid an immigration office raid and fell from below a window, the National Human Rights Commission (NHRC) recommended that the Minister of the Ministry of Justice improve policy. According to the National Human Rights Commission (NHRC) on the 2nd, Vietnamese national A died after falling at a factory in Daegu in Oct. last year. A was found to have hidden ...",
+     "image": "https://biz.chosun.com/resizer/v2/KLBH5ECERJGFXB7DCWNUF74JEY.png?auth=df0713b851647e144ab718051141f09a4eeee6e534556cbc7245bafb54e7ef05&width=1200&height=630&smart=true",
      "why": [
-      "Affects permanent residence"
+      "Announces a change",
+      "Major story (9 headlines that day)"
      ],
      "tags": [
-      "PR / Settlement",
-      "Iceland"
+      "South Korea"
      ]
     },
     {
      "desk": "Immigration",
-     "score": 4,
-     "priority": 40,
-     "title": "Germany eases permanent residency rules for foreign specialists",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWhUblhuU19nb09aNzMza1QtejhUWWV1Y2J1dUJOVFhScXBwLVBJdjRvUkdqdVkzWjBDcU4zSUZZaVV6aUU4SnFYaktWZGRfcWhzTGxrNmhfRFRKMzRLakdfM0FqNkZkUXJVYUdnbUNNU2wzUUR3bkZnSktacEpZbVpiSzZ0Z2xYb3NWbUljdE1aay05YW1sQXVobGtvRmZ0RDRGUmkybXQwVXNscnVIdm5uNTBkQQ?oc=5",
-     "date": "2026-10-01",
-     "source": "logos-pres.md",
-     "label": "Germany",
-     "snippet": "Foreign graduates in Germany can qualify for permanent residency after two years of skilled work, while others face a three-year period.",
-     "lead": "Continue with Google By continuing, you confirm that you have read Privacy Policy and Terms of Use . Germany has simplified the conditions for foreign specialists to obtain legal status Foreign professionals who have completed a university degree or vocational training in Germany can obtain a permanent residence permit after two years of working in their field. For other qualified professionals, this period is three years. These rules ...",
+     "score": 5,
+     "priority": 50,
+     "title": "When to use each passport if you're a dual national with Spanish citizenship",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd0lpNnZSVkdvV1MyLUphbTNsbkZuSHZLMGxjTGNoc21NckpZZ2RSckpJOXo4UHo3SFRiUnU1RDM5elNGcmlMUE5rQjJUVEtLbUhZYXJXZWZ2NnVtb0p4NHhDeERrcDhwSWd0SkJMbGtaUVBDY2tNblFkNWNIMm9xVG94TUZHZXhYN2lPUTZOT1R0UXlqNHlSLWNqMHJYQ1NxajJhaDlad2tYQUl3?oc=5",
+     "date": "2026-10-02",
+     "source": "The Local Spain",
+     "label": "Spain",
+     "snippet": "Do you have dual nationality with Spain and your country of birth? If so, travelling can become confusing. Here are the rules on which passport you should use and when.",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source Do you have dual nationality with Spain and your country of birth? If so, travelling can become confusing. Here are the rules on which passport you should use and when. If you’re lucky enough to have acquired Spanish citizenship ...",
      "image": null,
      "why": [
-      "Affects permanent residence"
+      "Affects citizenship"
      ],
      "tags": [
-      "PR / Settlement",
-      "Germany"
+      "Citizenship",
+      "Spain"
      ]
     }
    ]
@@ -308,7 +308,7 @@
     {
      "desk": "Advisory",
      "score": 10,
-     "priority": 67,
+     "priority": 71,
      "title": "PMS Has Potential To Grow Over 20 Pc CAGR As Investment Participation Deepens: SEBI Chairman",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazdDX0tQSEdMSXU5d3RaS3FmTEdaVVR1SVRaQ1owQjBOMFdnTWEtdHBhcF9sM2VLNjNaUDZQck8wbEZzckk2MGZ4ZlJkLWtreTVSUVNuVmlDMDZhazJjdlNaaTZrRE01X3Fsc2haTENuZy1BSEJvaWJIVUp2dzl2U2NKMjZkRFJmNVp6NFVJU2UybWNUNmVjZE9BM0NHX2k1UnNxS3gyUWxPOHpFeGZfU0NUQmVXV2FCZ0hmVmdqU2JiQ1E1dUUyVw?oc=5",
      "date": "2026-09-30",
@@ -329,7 +329,7 @@
     {
      "desk": "Advisory",
      "score": 9,
-     "priority": 60,
+     "priority": 64,
      "title": "Marcellus Investment Managers receives final SEBI approval to launch Mutual Fund Business",
      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSWZFb0h2WUxjaXNTZGNGSjRnQzA2VjFkMVBTSExxUHVlaDJxRWN6MTJ4RV85TldhUFNyZUVGbTg1RmR1UjM1TWpOQVBhTkhHNDZ5S2MwNmxXSHdwdEJuTUF0N1IwY0t6ZHFXZEM5blpFakk2YUhhUXpVaExjaGtMMnZHYU9OTkJPbGFkcEhSYkVkQ2xYTjBOWXZqVk5zMzgyVl9tTEd3TVVwRXlqSEIyTHBlT0hLbEhNQzdQUDZha29scWFZV3IxN0ZFWdIBywFBVV95cUxPSWZFb0h2WUxjaXNTZGNGSjRnQzA2VjFkMVBTSExxUHVlaDJxRWN6MTJ4RV85TldhUFNyZUVGbTg1RmR1UjM1TWpOQVBhTkhHNDZ5S2MwNmxXSHdwdEJuTUF0N1IwY0t6ZHFXZEM5blpFakk2YUhhUXpVaExjaGtMMnZHYU9OTkJPbGFkcEhSYkVkQ2xYTjBOWXZqVk5zMzgyVl9tTEd3TVVwRXlqSEIyTHBlT0hLbEhNQzdQUDZha29scWFZV3IxN0ZFWQ?oc=5",
      "date": "2026-09-30",
@@ -350,7 +350,7 @@
     {
      "desk": "Advisory",
      "score": 9,
-     "priority": 60,
+     "priority": 64,
      "title": "‘Indian markets not vulnerable’: SEBI overhauls portfolio manager norms, widens investment options, says Tuhin Kanta Pandey",
      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVEg4dkl6QU4zVlRERnlDeVU2b0FlR2NUcmNjWjBGeXdHeTk2eWpCeUtKMHdNcWMyZzlFTTdxQ1o3TFdfeWg1UTBQZlZnUlFwaVA1aE9CNXpwaE9USFpiYVk5QzUxem1nY3pmTzMyLVdiRHFBMDU4NzU3b0JEZlhrWnVxTVNqMzRnYWxQclpFbUxjOXhQZ3RQQjZtbHc2RkEzLUxLeTJXS2VVRDVZYUFsZDJqV1NjRmtKMlVROUJtdUJreFJmcXFMRjBDbkNxZnhHdVV2bGdNU0Vtdk1LMmVQbVZVYl9yOWJkT1dwRTBTV1hia3FBczJzU0NBYXpvSEnSAYQCQVVfeXFMT3REQXZzQzdwdmtIRG1zbGI5d2w2by0yUHZWVkluZkZKTWVTbGZzVjVENy1jM0pOb3ZlSjJiR1RiTVpCV2hZc1hyWDBqckN1WjVVZXdQX3ZBbXBqejZGV2hwanc3UDdFdXBxRy12WFBOYWhkb01Hc3hMM1FxRlBnQzhuYnVHaUFCX1IzeF9BZU9XRlRBd2gzSTZBemZ4Z2Rob195Z09RMndRMUh5VjBLdXpqQ0hMd3hLWUdHTDZKdTh1cjJvS2RRYWxNR2F5N0ZDZWhyS2hGVjVNQTVNZEVoQ2hYYk9fa3g5b0U4TTVGd3hTYUhKeHpLMWhsY1ByQnZXUTVEY1M?oc=5",
      "date": "2026-09-30",
@@ -371,18 +371,19 @@
     {
      "desk": "Advisory",
      "score": 8,
-     "priority": 53,
-     "title": "Gold, silver outlook: Dollar, US-Iran tensions, RBI policy among key factors to drive prices this week",
-     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUGlTam40NFBlcE5xYjFpTGZDOGlnX3JuYzRCdkJQdGZicDFfQkxtRno4aDlHa1FJelA0NFE5c2xqWEhzVWQtbkZ1bWVadGNhTnhrZjNURC1tNk1HbkxOTC0tWTA4SjVWWm1UOHhtai03RllsNWRub2VOOEQ2WlNXWGxqdmg0Rl9ROXJMNm50cEpxUEJnb1FJdmlQdWlHbUswcmNKQWR4MEJFaGpadDU2Vl9uV0ExbURaa05vcllydXp1VVBpRmpvZ1RYb0paanlWdzdsOFloWTRmLUU5YzB6U0d6YTZIbzBtTXY3dVJqbFJMTEF2d0JtdlFSUUQ5eHJQZlpwVHJnckt6dzhrYUhickFn0gGXAkFVX3lxTE9JbVNaaWJRV2YxUVVPVGc4TnZsS1VnUy1adEIyZl9wZjVINWhlRGVMVm9EMFFRcHgyaTRUdUF6QUx5TTNFcG1hTWZlRWx5NUZwXzJsRWk3cGNZSEZqUHI0Yk4zeFVqR2NiZ3JoOWxfbWFQRDJMOEFPUFctN1ZYV09EbmROVWcySVp5OGNXX2RDcVM4Xy1udUFqQXRVb3Y5cWptZXNvT2tJV0dmc2JUSjZrYWcwTVhmRE54X2I0Q05wMWpDRjRHaG9QRWJNOTlnZWdZUWtZanZ4QjFhcFhyZ2FQY0JNRUxkdUdVT3pRM1lYWXJRcDk5VVVybVhjbjB4Rm5nMmhzc2pvNnJ4S21fa0tRZ3hKenB6Zw?oc=5",
-     "date": "2026-10-04",
-     "source": "The Times of India",
+     "priority": 57,
+     "title": "Gold holds steady as firm dollar, yields counter easing Fed rate hike bets",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN3VTUm1mWHp6bTZUVy1TVUZJV3VQUEYwUEJOSUNHUzlGZk5zUUlwbWpQVFNHeTMyVUZHY21GbmpOR0lEbWZ5ek45bll5Vm9GdVEtbG8wVWpsR21SQTNxNzhUX0FodENNTm9Rc0VXZUZHcXFNYTRZNWozVm53VnJmWkhWVUd4YlFB0gGOAUFVX3lxTE43LTRmNkJ2RDViRHhUX2VUY0dBbGpJdjBDa2xLd3h1VV9ZVDlKd0t3cG5md1dnaXFOcEg3UURrQ25XdHdWcm91clBfQVNnZmtCNFhGcmx1VlJ5MWo4c05mZmJacHNvQlk3TW5NdHU1WkNLT29mR2Jfd0JVQm9GTWVscE5sTFliS0t3WGFLZ0E?oc=5",
+     "date": "2026-10-01",
+     "source": "CNBC",
      "label": "Gold & Silver",
-     "snippet": "Gold and silver prices are likely to remain volatile this week, with the US dollar, bond yields and the unresolved US-Iran tensions expected to shape the outlook for precious metals.",
-     "lead": "A Mutual Fund Calculator helps estimate the future value of investments Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
-     "image": "https://static.toiimg.com/thumb/msid-134677554,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+     "snippet": "Gold prices held steady on ‌Thursday as pressure from a stronger dollar and elevated US Treasury yields was offset by softer-than-expected US inflation data.",
+     "lead": "Livestream Menu Make It select USA INTL Livestream Search quotes, news & videos Livestream Watchlist SIGN IN Create free account Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Gold prices held largely steady on ‌Thursday as pressure from a stronger dollar and elevated US Treasury yields was offset by softer-than-expected US inflation data that reduced bets on a Federal Reserve rate ...",
+     "image": "https://image.cnbcfm.com/api/v1/image/108134743-1745330034307-gettyimages-2210132726-AUSTRALIA_GOLD.jpeg?v=1790824671&w=1920&h=1080",
      "why": [
-      "Regulator: SEBI or RBI",
-      "Precious metals"
+      "Interest-rate decision",
+      "Precious metals",
+      "Global macro driver"
      ],
      "tags": [
       "Gold & Silver"
@@ -393,8 +394,31 @@
  },
  "items": [
   {
+   "desk": "Startups",
+   "score": 13,
+   "priority": 100,
+   "title": "Kuku turns profitable ahead of IPO; revenue surges sixfold to Rs 1,484 crore in FY26",
+   "url": "https://www.medianama.com/2026/10/223-kuku-ipo-revenue-surges/",
+   "date": "2026-10-05",
+   "source": "MediaNama",
+   "label": "India · Other",
+   "snippet": "Kuku Technologies swung to a Rs 182.7 crore profit in FY26 from a Rs 152.6 crore loss, as revenue surged sixfold to Rs 1,484.2 crore ahead of its planned IPO.",
+   "lead": "Digital media and entertainment startup Kuku Technologies, the owner of microdrama app Kuku TV and the audio storytelling platform Kuku FM, clocked a net profit of Rs 182.7 crore in the financial year ended March 31, 2026 — a sharp turnaround from a loss of Rs 152.6 crore in the previous fiscal year. The reversal came largely on account of a sixfold jump in its revenue. Revenue from operations jumped to Rs 1,484.2 crore in FY26, ...",
+   "image": "https://www.medianama.com/wp-content/uploads/2026/10/Untitled.jpg",
+   "why": [
+    "IPO & Listing",
+    "Large deal (about $156M)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
    "desk": "Advisory",
-   "score": 15,
+   "score": 14,
    "priority": 100,
    "title": "RBI Repo Rate May Climb To 6% In FY27 As G-Sec Yields Face Upward Pressure: Report",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeFM2RUxXN05PelFVLXFrN2JXYkJmN2lFa1hEQjdENDNJdk5IMlZCU00wajd4NDhXTEhmVlVvVm9kUVU0ajV1RndTdmk2VU5PLVY3czktOHo3SmxVSGYyb0JfaEpEZFRIcTBPZjhXd0o5MTBKbHRuV2I2NGFXaGp4Y2Q1cjdoN1JJaHE4ejNhTFFEZm1rakp2T2xZb242RDIxU3ZBU3NmOTduM1BBOU9MejZlbnNpck92SmxMcDR1bTNlWlUyRWg3OGtn0gHKAUFVX3lxTE14UzZFTFc3Tk96UVUtcWs3YldiQmY3aUVrWERCN0Q0M0l2TkgyVkJTTTBqN3g0OFdMSGZWVW9Wb2RRVTRqNXVGd1N2aTZVTk8tVjdzOS04ejdKbFVIZjJvQl9oSkRkVEhxME9mOFd3SjkxMEpsdG5XYjY0YVdoanhjZDVyN2g3UklocTh6M2FMUURmbWtqSnZPbFlvbjZEMjFTdkFTc2Y5N24zUEE5T0x6NmVuc2lyT3ZKbExwNHVtM2VaVTJFaDc4a2c?oc=5",
@@ -412,30 +436,6 @@
    ],
    "tags": [
     "Debt & Bonds"
-   ],
-   "rank": 1,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 100,
-   "title": "IPO-Bound Kuku Technologies Turns Profitable In FY26, Revenue Surges 6X To ₹1,484 Cr",
-   "url": "https://inc42.com/buzz/ipo-bound-kuku-technologies-turns-profitable-in-fy26-revenue-surges-6x-to-%e2%82%b91484-cr/",
-   "date": "2026-10-03",
-   "source": "Inc42",
-   "label": "India · Media, Gaming & Creators",
-   "snippet": "Kuku Technologies Limited swung into the black in FY26, reporting a net profit of ₹182.7 Cr against a net loss of ₹152.6 Cr inurred in FY25",
-   "lead": "Kuku Technologies Limited swung into the black in the fiscal year FY26, reporting a net profit of ₹182.7 Cr against a net loss of ₹152.6 Cr incurred in FY25 This comes at a time when the markets regulator Securities and Exchange Board of India (SEBI) approved the public listing of Kuku Technologies, earlier in September The IPO-bound startup saw its operating revenue for the fiscal year zoom more than sixfold to ₹1,484.2 Cr in FY26 ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/soc-copy.jpg",
-   "why": [
-    "IPO & Listing",
-    "Large deal (about $156M)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Media, Gaming & Creators"
    ],
    "rank": 2,
    "must_read": true
@@ -489,30 +489,124 @@
   },
   {
    "desk": "Startups",
-   "score": 11,
+   "score": 12,
    "priority": 92,
-   "title": "Bhavish Aggarwal pledges 4.32% stake to back Ola Electric’s Rs 1,000 Cr rights issue",
-   "url": "https://yourstory.com/2026/10/bhavish-aggarwal-pledges-stake-back-ola-electrics-rs-1000-cr-rights-issue",
+   "title": "Exclusive: Leverage Edu Eyes ₹500 Cr Pre-IPO Funding, Targets ₹600 Cr Revenue In FY27",
+   "url": "https://inc42.com/buzz/exclusive-leverage-edu-eyes-%e2%82%b9500-cr-pre-ipo-funding-targets-%e2%82%b9600-cr-revenue-in-fy27/",
    "date": "2026-10-05",
-   "source": "YourStory",
+   "source": "Inc42",
    "label": "India · Other",
-   "snippet": "Ola Electric Chairman Bhavish Aggarwal has pledged a 4.32% stake in the company to raise funds for its upcoming Rs 1,000 Cr rights issue.",
-   "lead": "Bhavish Aggarwal pledges 4.32% stake to back Ola Electric’s Rs 1,000 Cr rights issue Ola Electric Chairman Bhavish Aggarwal has pledged a 4.32% stake in the company to raise funds for its upcoming Rs 1,000 Cr rights issue. Team YS 17288 Stories Monday October 05, 2026 , 2 min Read Ola Electric founder Bhavish Aggarwal has stepped up to back the company’s upcoming Rs 1,000 crore rights issue, pledging a 4.32% stake in the EV maker to ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/BhavishAggarwalGeneric1600x9001-1779712886389.jpg",
+   "snippet": "IPO-bound Leverage Edu is targeting ₹600 Cr in revenue in FY27, up 61% from ₹372 Cr in FY26, sources told Inc42",
+   "lead": "IPO-bound Leverage Edu is targeting ₹600 Cr in revenue in FY27, up 61% from ₹372 Cr in FY26, sources told Inc42 The startup wants to expand its revenue base and bring a large private equity investor on board ahead of its planned ₹2,000–3,000 Cr IPO Leverage Edu is exploring a ₹500 Cr pre-IPO funding round and has held talks with a couple of global PE firms, while working to finalise bankers for its public issue",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Leverage-Edu-social.jpg",
    "why": [
-    "Funding",
-    "Large deal (about $105M)"
+    "IPO & Listing",
+    "Sizeable deal (about $63M)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Funding"
+    "IPO & Listing"
    ],
    "rank": 5,
    "must_read": true
   },
   {
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 90,
+   "title": "Canadians born abroad caught up in yearslong citizenship certificate processing delays",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdEs0WWpuVVZxNHJvd0NHWVpwYWQzTngtcG1mX1hweWdoUHFfalp3UE9oTXFENVpSZW4yaFJmY0ZuWmIwQ0JVSkdWelNMajNaTTl1cjBES2xOYjEzZ1k2RDg5MGtBMVgxSEhDelZpeldEQzVDdXRnWS1Od3N2cVItcU1EX05SNng3VU4wYlYyeEdJb3M?oc=5",
+   "date": "2026-10-05",
+   "source": "CBC",
+   "label": "Canada",
+   "snippet": "Immigration, Refugees and Citizenship Canada is struggling to handle a flood of citizenship applications — many of them from a change to federal law late last year that allows anyone who can prove they have a Canadian ancestor to apply. That backlog is preventing some Canadians born abroad from coming home.",
+   "lead": "Smith would give birth in her home country of Jamaica where she had family support, and then they would together return to Montreal three months later. At the time, the wait time for the citizenship certificate that their daughter, Sofianne, needed to fly back to Canada was between four and six weeks. Sud is back at work in Montreal while Smith and Sofianne are still in Jamaica.",
+   "image": null,
+   "why": [
+    "Affects citizenship",
+    "Announces a change"
+   ],
+   "tags": [
+    "Citizenship",
+    "Canada"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 86,
+   "title": "RBI MPC Preview: BofA sees 25 bps rate hike as US yields and crude surge",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM3NGNGZEQl9mMnE3cUdWM2YxRlp4OG9GZks1ZVFpRm5OMkVFWGhfVGoxa2RBcmh1MnUyYUVWb1Q4dVYwcUhGTm5Sa2ZEaFBEanhUcDJCLWozcl9KbTk5dVF1N2lVQm1BanZJSU5LNl93Y2tIOGNjdWt2dEtoSlZnZUo0cTFualNlei1nZi1rQWs1VVltYUVDOWlFYW45TzZxYldZY0ZERzJObmVuSV8zQ0NVQktadVRYQWEtMG1WTDFfbTk4bmfSAcwBQVVfeXFMTTgwdmFmQk0xaEJUS1dXYTQ3aVpBUG1QSzN4Nmcyb0tvd3JUMWJfQjh5b0xzWFFhblZmYmZaVll3VzRJcDhkOU0tV04tREdnMkhQWG9lbnVCMlBNSHM0ZjNCVEE3QmZpQkxQY3Y2a2NuWlhBV2hhN3BYTWMtQWFSaTNZZ0REblpzTWtvSDBSTktkVU1GUS1rc2ZPUXNQUnFmUWplR09McTZIN1NfeDdJMkU1U2ZTVUJDXzdMVms3czdHc3VtejdOa1NRZXF0?oc=5",
+   "date": "2026-10-01",
+   "source": "financialexpress.com",
+   "label": "Regulatory",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Global macro driver",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 86,
+   "title": "Indian bond yields ease as oil cools, Fed rate hike bets tumble ahead of RBI policy",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWElfT1JtQTRYd1RwRDZEUS1kc2gxQVVXZjJ3RThMZVRKZWtxbzFsWVp1WVk0RGhzcXBKa2dzSnpfRUREd2wxZEtVeFhFWUMzOWVDYl9NRG5ZbWF2X3paeWctV0xoNXkzZncySTZ4NW9LLU4yVGVzTlNLUzg0SDJfTkFPdjVsZTJ6WVkwdUllMkViZUNybGtCdGo3N2pqQkxfS05GR18zZUphNTVwNXlPc216YWdDcFpybk45Y2VxeGR5dERUNzk4MEhjTGxyQnVXaHJrb0dDRUg5YUJUdXc?oc=5",
+   "date": "2026-09-30",
+   "source": "Moneycontrol.com",
+   "label": "Debt & Bonds",
+   "snippet": "The benchmark 10-year bond yield was trading at 7.1482 percent",
+   "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
+   "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260622142629_RBIRTR1.png",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Government bond yields",
+    "Global macro driver"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
    "desk": "Startups",
    "score": 11,
-   "priority": 92,
+   "priority": 85,
+   "title": "Marico Acquires Additional Stake In Plix For ₹1,012 Cr, To Complete Buyout By July 2027",
+   "url": "https://inc42.com/buzz/marico-acquires-additional-stake-in-plix-for-%e2%82%b91012-cr-to-complete-buyout-by-july-2027/",
+   "date": "2026-10-05",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Marico has acquired an additional 24.09% stake in plant-based nutrition and personal care brand Plix for ₹1,012.03 Cr in an…",
+   "lead": "The latest transaction is part of an agreement to acquire a total 38.18% stake from Plix’s founders and certain other shareholders. Marico plans to acquire 14.09% stake in July 2027. The consideration for this tranche will include a base amount of up to ₹592 Cr, along with additional payments linked to milestones. Marico said the investment in Plix parent Satiya Nutraceuticals and its wholly owned subsidiary Juzio has helped broaden ...",
+   "image": null,
+   "why": [
+    "Acquisition",
+    "Large deal (about $107M)"
+   ],
+   "tags": [
+    "Acquisition"
+   ],
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
    "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
    "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
    "date": "2026-09-30",
@@ -530,82 +624,13 @@
    "tags": [
     "Funding"
    ],
-   "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Why a $100m Series B startup decided to test the LSE’s new private market",
-   "url": "https://sifted.eu/articles/veremark-pisces/",
-   "date": "2026-10-05",
-   "source": "Sifted",
-   "label": "Global · Other",
-   "snippet": "The latest company to run an auction on the London Stock Exchange’s Private Securities Market, Veremark, has a valuation of $100m.",
-   "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
-   "image": "https://content.sifted.eu/wp-content/uploads/2026/10/02131224/MeetDanielCallaghanco-founderandCEOofVeremark.webp",
-   "why": [
-    "Funding",
-    "Large deal (about $100M)"
-   ],
-   "tags": [
-    "Funding"
-   ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "VC money is pouring into Indian startups; Inside Softdel’s enterprise AI strategy",
-   "url": "https://yourstory.com/2026/10/vc-money-is-pouring-into-indian-startups",
-   "date": "2026-10-04",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "The total funding for the first week of October was at $418 million across 22 deals. In contrast, the previous week saw a total of $382 million.",
-   "lead": "VC money is pouring into Indian startups; Inside Softdel’s enterprise AI strategy The total funding for the first week of October was at $418 million across 22 deals. In contrast, the previous week saw a total of $382 million. Team YS 17285 Stories Sunday October 04, 2026 , 4 min Read RBI Governor Sanjay Malhotra, on Saturday, reaffirmed India’s cautious stance on cryptocurrencies over risks to monetary sovereignty, monetary policy, ...",
-   "image": "https://images.yourstory.com/cs/2/47afd43024ec11ec9ecb9b7afb0df1da/weeklyfundingforDC1-1791044237369.jpg",
-   "why": [
-    "Funding",
-    "Large deal (about $418M)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
-   "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
-   "date": "2026-10-02",
-   "source": "TechCrunch",
-   "label": "Global · SaaS & Enterprise",
-   "snippet": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
-   "lead": "Kevin Mandia, best known as the founder of cybersecurity startup Mandiant, which sold to Google for $5.4 billion in 2022 , has raised $255.5 million for his latest startup, Armadin, at a valuation of more than $2.5 billion, the company announced on Thursday. The Series B round was led by Andreessen Horowitz and Accel, with Bain Capital Ventures, Redpoint, 8VC, Ballistic Ventures, Google Ventures, In-Q-Tel, Kleiner Perkins, and Menlo ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $2,500M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "SaaS & Enterprise"
-   ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 12,
-   "priority": 80,
+   "score": 11,
+   "priority": 79,
    "title": "Eight-week losing streak : RBI rate hike, crude prices and TCS results to test markets",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOck0tbU5NSFcwUFhiYmZkM191V2E4WENaZWJnVV94cDBWTzlWdF9wV3FDLWVRYjZOT0JrXzlyUDV0YnJ3WnBCM2ZhTXc2Y1psbHVUZkxSQW9aQ1NkVUJ1b0NPMjdzaEFyRVlFcFAzTXh0WXFqS20wdlB0dGlGQ1hMb3o5V1NQUGdRM0hiOUdDdlNhbUxUX09rVVA4d2Z0RXNXbDV3blc2dkE1clE5cW5jeWU0QlVpYk9qcTBmSDdJR3hDWEtoaGhjTGkxZ3dETkF1RGFIRkstWWdjS0RLUUNHcnRCTDJreXZYYWF2R2ZHU1ZsenFmMi1DZXBzUHJkNUdBQkE?oc=5",
    "date": "2026-10-04",
@@ -623,54 +648,7 @@
     "Regulatory",
     "IT & Tech"
    ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 12,
-   "priority": 80,
-   "title": "RBI MPC policy, oil prices, bond yields may drive market this week",
-   "url": "https://www.business-standard.com/markets/news/rbi-mpc-policy-oil-prices-bond-yields-may-drive-market-this-week-126100400285_1.html",
-   "date": "2026-10-04",
-   "source": "Business Standard",
-   "label": "Debt & Bonds",
-   "snippet": "Macroeconomic data announcements and foreign investors' trading activity will also guide market trends",
-   "lead": "Last week, the Sensex tanked 1,986.04 points, or 2.68 per cent, and the Nifty plunged 718.55 points, or 3.10 per cent RBI's interest rate decision, TCS' earnings, crude oil prices and global bond yields will be important factors to determine stock market movement this week, analysts said. Macroeconomic data announcements and foreign investors' trading activity will also guide market trends, they added.",
-   "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/14/thumb/fitandfill/1200X628/1778776794-7318.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Government bond yields"
-   ],
-   "tags": [
-    "Debt & Bonds"
-   ],
    "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 12,
-   "priority": 80,
-   "title": "Will Nifty, Sensex plunge for 9th straight week? TCS Q2, RBI MPC among 4 factors to drive Dalal Street from Monday",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-plunge-for-9th-straight-week-tcs-q2-4-factors-to-drive-dalal-street-from-monday/articleshow/134669285.cms",
-   "date": "2026-10-04",
-   "source": "Economic Times",
-   "label": "Regulatory",
-   "snippet": "India",
-   "lead": "Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price A for apple, Y for yak and, for the first time, a price next to it. Will this change the non-agri part of the rural economy?",
-   "image": "https://img.etimg.com/thumb/msid-134669302,width-1200,height-900,imgsize-244634,overlay-etmarkets/articleshow.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Regulatory",
-    "IT & Tech"
-   ],
-   "rank": 12,
    "must_read": false
   },
   {
@@ -692,7 +670,53 @@
    "tags": [
     "Other Policy"
    ],
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 77,
+   "title": "Bhavish Aggarwal pledges 4.32% stake to back Ola Electric’s Rs 1,000 Cr rights issue",
+   "url": "https://yourstory.com/2026/10/bhavish-aggarwal-pledges-stake-back-ola-electrics-rs-1000-cr-rights-issue",
+   "date": "2026-10-05",
+   "source": "YourStory",
+   "label": "India · Other",
+   "snippet": "Ola Electric Chairman Bhavish Aggarwal has pledged a 4.32% stake in the company to raise funds for its upcoming Rs 1,000 Cr rights issue.",
+   "lead": "Bhavish Aggarwal pledges 4.32% stake to back Ola Electric’s Rs 1,000 Cr rights issue Ola Electric Chairman Bhavish Aggarwal has pledged a 4.32% stake in the company to raise funds for its upcoming Rs 1,000 Cr rights issue. Team YS 17288 Stories Monday October 05, 2026 , 2 min Read Ola Electric founder Bhavish Aggarwal has stepped up to back the company’s upcoming Rs 1,000 crore rights issue, pledging a 4.32% stake in the EV maker to ...",
+   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/BhavishAggarwalGeneric1600x9001-1779712886389.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $105M)"
+   ],
+   "tags": [
+    "Funding"
+   ],
    "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 77,
+   "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+   "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+   "date": "2026-10-02",
+   "source": "TechCrunch",
+   "label": "Global · SaaS & Enterprise",
+   "snippet": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+   "lead": "Kevin Mandia, best known as the founder of cybersecurity startup Mandiant, which sold to Google for $5.4 billion in 2022 , has raised $255.5 million for his latest startup, Armadin, at a valuation of more than $2.5 billion, the company announced on Thursday. The Series B round was led by Andreessen Horowitz and Accel, with Bain Capital Ventures, Redpoint, 8VC, Ballistic Ventures, Google Ventures, In-Q-Tel, Kleiner Perkins, and Menlo ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $2,500M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "SaaS & Enterprise"
+   ],
+   "rank": 14,
    "must_read": false
   },
   {
@@ -716,7 +740,31 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 14,
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 71,
+   "title": "Gold price crash: Gold, silver fall again amid Fed rate hike fears; Check latest 22K, 24K gold rates in Delhi, Mumbai, Bengaluru and other cities",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNdU12LXl2YlRxM0VEaURBVzFCN3M4Qm9KLXlhTEZkMWVuY1o4VmpTV1gyUm96a2hFcGh4VDlPdFZRemZkUGJlYmhiUWhpdDZGWnQ0QnFWTk1JNnVMRld1WTBCOHBVejgxbnlwSGx5a0V3ck9EMTBtZXgyWWJsYUk3VmhTdmhWVzY0Qkp4MldHMHNRX0VuS0Y5QWVjbTRnVGE2Z3ZrbFZzdk42V3FfVGVFaEdUdlIzcFU0ZS1fcHBZRW5peGxoNWoxYzhhTTc4cE1PT0pVTVRmQkRZR2JadDNIaXZHZnl1dnR2ekFObGhsVUxYdnFxeHp3eGdGOHJISER2cWQzVkdpQlBZRmxWTmhhYTYxeFBRaW_SAZsCQVVfeXFMT2lBa0lpQjlmSTh6NFJ3TTFvQ3V6WkNPbktJSFlTNzRsVl9BMTB4Qkw0Z3ozZ0o3ZjFXa1F3Mk9nYTAwUUJHZzRsZ3QyT2xXd29MV3BKNmxQVURjM3drUXNzLUo2dl9OY05mMHprQmxjN05vZ1hscl9KU0VUbVZ3d3F0ZEpyMEdxOHg1eHE1c0R5RV9hVlJGeXhla1FRRnl3czZPMmVKTXpuZFVGZTJ6OWh0NHlTcmtsUDduR0NCWkp1dWs4ZzVyZDBZaEVRMjM3cGNvU3VCOUpzMi1qbDFVTy1fYXZVZnp0aWlENmlQeFlmQ3hVN3BWY09UVzM1elR2Rk9RWUZIcHZoVzFsTjlzemt1MmZRTTdkdnRjSQ?oc=5",
+   "date": "2026-10-01",
+   "source": "News24Online",
+   "label": "Gold & Silver",
+   "snippet": "recious metal prices have remained under pressure after a brief rise last week. Changing conditions between the US and Iran and fluctuations",
+   "lead": "",
+   "image": "https://news24online.com/wp-content/uploads/2026/10/Gold-Silver-Price-Today.jpg-10.jpeg",
+   "why": [
+    "Interest-rate decision",
+    "Precious metals",
+    "Global macro driver",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Gold & Silver"
+   ],
+   "rank": 16,
    "must_read": false
   },
   {
@@ -738,7 +786,29 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 15,
+   "rank": 17,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 70,
+   "title": "India and Switzerland Agree on Longer-Stay Visas and Young-Professional Exchanges",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR0hTS0xZMjVPSWlfemVOZjM3a1laTWJDZUptcFRrd3VZSy1PTmV2TjQ2dktGRHVDNkVFeDZrYUFmQ0lUUWh0cTN4cG1kSmpyMXZxUEpuYnBuTTRlWXBDYXB2eEh2TFBpbEpQMnN4ZThaRWh5eFVDd2k5bjZqV013Y0sydjZUVFgxYVZRcnRUbXNCYW9wbjM2Vm50X1hvVHZUVTRNTDdqS2hCZFlBZkE?oc=5",
+   "date": "2026-10-05",
+   "source": "The Policy Edge",
+   "label": "Switzerland",
+   "snippet": "Outcomes announced during the Swiss President’s visit include a migration and mobility partnership and an agreement for 300 young professionals from each country annually, with scope to raise that number. Separate arrangements cover transport technology, research and start-up cooperation",
+   "lead": "Outcomes announced during the Swiss President’s visit include a migration and mobility partnership and an agreement for 300 young professionals from each country annually, with scope to raise that number. Separate arrangements cover transport technology, research and start-up cooperation SDG 8: Decent Work and Economic Growth | SDG 9: Industry, Innovation and Infrastructure | SDG 17: Partnerships for the Goals Ministry of External ...",
+   "image": "https://www.policyedge.in/images/og-image.png",
+   "why": [
+    "Announces a change",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Switzerland"
+   ],
+   "rank": 18,
    "must_read": false
   },
   {
@@ -761,31 +831,7 @@
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 16,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 67,
-   "title": "Gold price crash: Gold, silver fall again amid Fed rate hike fears; Check latest 22K, 24K gold rates in Delhi, Mumbai, Bengaluru and other cities",
-   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNdU12LXl2YlRxM0VEaURBVzFCN3M4Qm9KLXlhTEZkMWVuY1o4VmpTV1gyUm96a2hFcGh4VDlPdFZRemZkUGJlYmhiUWhpdDZGWnQ0QnFWTk1JNnVMRld1WTBCOHBVejgxbnlwSGx5a0V3ck9EMTBtZXgyWWJsYUk3VmhTdmhWVzY0Qkp4MldHMHNRX0VuS0Y5QWVjbTRnVGE2Z3ZrbFZzdk42V3FfVGVFaEdUdlIzcFU0ZS1fcHBZRW5peGxoNWoxYzhhTTc4cE1PT0pVTVRmQkRZR2JadDNIaXZHZnl1dnR2ekFObGhsVUxYdnFxeHp3eGdGOHJISER2cWQzVkdpQlBZRmxWTmhhYTYxeFBRaW_SAZsCQVVfeXFMT2lBa0lpQjlmSTh6NFJ3TTFvQ3V6WkNPbktJSFlTNzRsVl9BMTB4Qkw0Z3ozZ0o3ZjFXa1F3Mk9nYTAwUUJHZzRsZ3QyT2xXd29MV3BKNmxQVURjM3drUXNzLUo2dl9OY05mMHprQmxjN05vZ1hscl9KU0VUbVZ3d3F0ZEpyMEdxOHg1eHE1c0R5RV9hVlJGeXhla1FRRnl3czZPMmVKTXpuZFVGZTJ6OWh0NHlTcmtsUDduR0NCWkp1dWs4ZzVyZDBZaEVRMjM3cGNvU3VCOUpzMi1qbDFVTy1fYXZVZnp0aWlENmlQeFlmQ3hVN3BWY09UVzM1elR2Rk9RWUZIcHZoVzFsTjlzemt1MmZRTTdkdnRjSQ?oc=5",
-   "date": "2026-10-01",
-   "source": "News24Online",
-   "label": "Gold & Silver",
-   "snippet": "recious metal prices have remained under pressure after a brief rise last week. Changing conditions between the US and Iran and fluctuations",
-   "lead": "",
-   "image": "https://news24online.com/wp-content/uploads/2026/10/Gold-Silver-Price-Today.jpg-10.jpeg",
-   "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Gold & Silver"
-   ],
-   "rank": 17,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -807,7 +853,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 18,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -830,7 +876,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 19,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -853,49 +899,6 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 5,
-   "priority": 50,
-   "title": "Norwegian Cruise Passengers Stranded in Rare U.S. Immigration Snag",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ05rdkU3bW5HTVY1RjRPcjZ5Z1N0WGgtOU9IRnhsV2tsMmx5NHlqVTlFWGFtc3FCVVdSWUhZOUgydG9YTEFTMFlCZG9GbndTOWdldmR2b2FMVzB6ek9ERERBVU11VElLSU1malMyZmY2bWw0MmIyTXJ6eVFwTFFKREZ1djNiemJvWFdIMlE5VUxhdzBqbjVMeHhn?oc=5",
-   "date": "2026-10-05",
-   "source": "thetraveler.org",
-   "label": "Norway",
-   "snippet": "A Norwegian Cruise Line sailing into a U.S. port turned into an all-night ordeal after a rare immigration requirement left guests stuck landside and onboard.",
-   "lead": "A Norwegian Cruise Line voyage that should have ended with routine disembarkation instead stretched late into the night, as an unusual immigration requirement at a United States port left some passengers stranded ashore while others waited onboard for clearance to leave the ship. Reports emerging from recent Norwegian Cruise Line sailings into U.S. ports describe a scene very different from the usual orderly final morning of a cruise. ...",
-   "image": "https://thetraveler.s3.amazonaws.com/images/hero/airport-chaos-2026-tsa-staffing-crisis.jpg_1200x675.jpg",
-   "why": [
-    "Announces a change"
-   ],
-   "tags": [
-    "Norway"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 5,
-   "priority": 50,
-   "title": "NHRCK urges Justice Ministry to shift Korea immigration raids toward safety, reform - CHOSUNBIZ",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcU41VTd3Q2tLSlpwUUVyMW9INkJnR25ZY2t6aUZJT3dyTnNJVHhoREx4RDY2U0ZQSVZKaE9qSkJsek9Cd2d1V0VFZDRaMFZNV1lVZTQ4Q2RCSkM2YzJkTUEwcDZxZTNDSnkzbVNXVlZjbXlBUXpTNzJRb1VDWXI1TtIBlAFBVV95cUxQemFQTEhrdzdKZVp4ZU9SeTQzM28zS05pQS1kVkFCSEdlRF9hcU9ROUdUVFIzVGthdUlzSDR1bk5YUTFCU2RRTzFyMFNnRmVyQkFHRGJvc3hBblF5Rk5oT1h3UmVTTEhRYVJHQ3p1QU1HNW9ycFp0blJPUTVUU2h0bmhnUUQ3WW9DY21fZmhkUE5MVmZ2?oc=5",
-   "date": "2026-10-02",
-   "source": "Chosunbiz",
-   "label": "South Korea",
-   "snippet": "NHRCK urges Justice Ministry to shift Korea immigration raids toward safety, reform",
-   "lead": "조선비즈 구글 검색 먼저 보기 Prompted by the death of a Vietnamese migrant worker who hid to avoid an immigration office raid and fell from below a window, the National Human Rights Commission (NHRC) recommended that the Minister of the Ministry of Justice improve policy. According to the National Human Rights Commission (NHRC) on the 2nd, Vietnamese national A died after falling at a factory in Daegu in Oct. last year. A was found to have hidden ...",
-   "image": "https://biz.chosun.com/resizer/v2/KLBH5ECERJGFXB7DCWNUF74JEY.png?auth=df0713b851647e144ab718051141f09a4eeee6e534556cbc7245bafb54e7ef05&width=1200&height=630&smart=true",
-   "why": [
-    "Announces a change",
-    "Major story (9 headlines that day)"
-   ],
-   "tags": [
-    "South Korea"
-   ],
    "rank": 22,
    "must_read": false
   },
@@ -903,20 +906,21 @@
    "desk": "Immigration",
    "score": 5,
    "priority": 50,
-   "title": "When to use each passport if you're a dual national with Spanish citizenship",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd0lpNnZSVkdvV1MyLUphbTNsbkZuSHZLMGxjTGNoc21NckpZZ2RSckpJOXo4UHo3SFRiUnU1RDM5elNGcmlMUE5rQjJUVEtLbUhZYXJXZWZ2NnVtb0p4NHhDeERrcDhwSWd0SkJMbGtaUVBDY2tNblFkNWNIMm9xVG94TUZHZXhYN2lPUTZOT1R0UXlqNHlSLWNqMHJYQ1NxajJhaDlad2tYQUl3?oc=5",
-   "date": "2026-10-02",
-   "source": "The Local Spain",
-   "label": "Spain",
-   "snippet": "Do you have dual nationality with Spain and your country of birth? If so, travelling can become confusing. Here are the rules on which passport you should use and when.",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source Do you have dual nationality with Spain and your country of birth? If so, travelling can become confusing. Here are the rules on which passport you should use and when. If you’re lucky enough to have acquired Spanish citizenship ...",
-   "image": null,
+   "title": "New Zealand changes Parent Resident Visa selection process, effective today",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOEkwYmNRUEZfMzF4cDZmd1FqRl9LaXhZZVpWWFNKU2F6S2p2b3JRTkRMcW5DZG9EbVdsMXZ0ZHUySVBqa1hxOXJzaUZJU2dDNFR2WlE5bW0zUjBzYndCWHIwYWUtLThrSlQzMlNVRGp4X0VDWVlrOUFtMDhzQzRGODFEQVVSWTdseEdVbGhYTUJheTdLSHNFRTBEVUtPVHBjWFlWN3ExbW02Y1pUYlp0Y3piVlZTdk5sZmxVZUJLOGlaUlBtZUFGRnR6dWh5STVRTjdmaXh5QdIB3AFBVV95cUxOd1ZTLUxwR2F5ckpfSGZ2Tld5SFIySmktb3dSWTBQYm5ST2V5MkxGSjc0eTNRWS1iVEVLdHprQzNMMGk1cEJhYVhCOElFbWU3S0xEYVQ2dkluVXlMM2RsMjRtQ1pMVkRETEtmVXhHNGVMWTVhU1NTdE4wa0VtQmdaTGJOWm05ekphdXdLR0lhSmdHLW1iVkNJLUdNd21uOVBQdTY0N1pRQS1LSFFmSDJPdkV1OXEtUXowNFU5a1AwMUI4bFpNUXZQRGtFVEF4TDVaQ3ZtRmZ0ck90bXpf?oc=5",
+   "date": "2026-10-05",
+   "source": "The Economic Times",
+   "label": "New Zealand",
+   "snippet": "<i>New Zealand has moved all valid Parent Resident Visa expressions of interest into a single pool from today. For Indian parents, around 90 per cent of EOIs will now be selected by date order, while 10 per cent  will be picked through a random ballot. The annual limit remains 2,500 approvals in principle.</i>",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1403852,resizemode-75,msid-134705568/nri/migrate/new-zealand-changes-parent-resident-visa-selection-process-effective-today.jpg",
    "why": [
-    "Affects citizenship"
+    "Political signal on immigration",
+    "Announces a change"
    ],
    "tags": [
-    "Citizenship",
-    "Spain"
+    "Politics / Election",
+    "New Zealand"
    ],
    "rank": 23,
    "must_read": false
