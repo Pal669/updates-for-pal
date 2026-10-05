@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-05",
- "built": "2026-10-05 01:20 IST",
+ "built": "2026-10-05 07:57 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -28,21 +28,21 @@
    "dp": 2,
    "value": 96.3,
    "change_pct": 0.08,
-   "asof": "04 Oct 21:41 IST"
+   "asof": "05 Oct 07:14 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 102.25,
-   "change_pct": -0.06,
-   "asof": "03 Oct 02:29 IST"
+   "value": 101.48,
+   "change_pct": -0.75,
+   "asof": "05 Oct 07:47 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4162.0,
-   "change_pct": -0.95,
-   "asof": "03 Oct 02:29 IST"
+   "value": 4187.0,
+   "change_pct": 0.59,
+   "asof": "05 Oct 07:47 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -164,8 +164,8 @@
    ]
   },
   "Startups": {
-   "total": 385,
-   "new_today": 0,
+   "total": 387,
+   "new_today": 2,
    "items": [
     {
      "desk": "Startups",
@@ -254,27 +254,47 @@
    ]
   },
   "Immigration": {
-   "total": 684,
-   "new_today": 0,
+   "total": 689,
+   "new_today": 2,
    "items": [
     {
      "desk": "Immigration",
      "score": 4,
      "priority": 40,
-     "title": "New Zealand: Location Requirements for Accredited Employer Work Visa Holders Clarified",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYUVTT2V5bzlSd1ZQMEV0NFRkV2tCeld2c0NWS0FwSS05Q0xrSFViYnUzVFhHTUxEYjV0RUhQVFpqeVR5aW5kNlBESUFuMmtIOTlIR1dzeHJkbFhYaDZKbTN5RlUyVHFIOElDVGlSOWl2NDBnRjEyUXJ5dFg2WFhPSExSX1p1TkxfTFVDX1pTLVRVSkF6SkVPaGxDcmtxLTJ6ZV8zcmMyU2tVZ1pmVkxDWjhFYldUUk9JcDdzZVJjNERUQQ?oc=5",
-     "date": "2026-09-30",
-     "source": "Fragomen",
-     "label": "New Zealand",
-     "snippet": "Immigration New Zealand (INZ) has published updated guidance clarifying the location requirements for workers holding an Accredited Employer Work Visa (AEWV). When submitting a job check application, employers must specify the location or region where the role will be based. If a role regularly requires work across multiple locations, eac",
-     "lead": "Immigration New Zealand (INZ) has published updated guidance clarifying the location requirements for workers holding an Accredited Employer Work Visa (AEWV). When submitting a job check application, employers must specify the location or region where the role will be based. If a role regularly requires work across multiple locations, each location must be included in the job check and employers must provide evidence that the position ...",
-     "image": "https://www.fragomen.com/a/web/6neDND2DvH5cq9pLmAp2Ht/9PCium/open-graph-main-2025.jpg",
+     "title": "Iceland Proposes Six-Year Wait for Permanent Residence",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaUp5dXFzRFhGU1pZQlJ3LUw0eGtzcnRBRk1lNG5OWVJYZkg0a1JVeE5RNWxTNFNfbG1BTWlqd3RVU3hRaTZYN08yVUlHdE1FbE5DNHA0M2p6ckhkZEh2OVNERi1keTA5WldKRDAwUktvVjcwakx6OWh2SlE5ck1XMUV4OHhjQmd5Wk51TklSQVg?oc=5",
+     "date": "2026-10-02",
+     "source": "Iceland Review",
+     "label": "Iceland",
+     "snippet": "Iceland’s proposed residence rules would extend the permanent-permit qualifying period to six years. The changes are under consultation, not yet law.",
+     "lead": "Iceland’s Justice Ministry has proposed extending the residence period required for a permanent permit from four years to six. The draft bill, published for public consultation on October 1, mainly concerns people from outside the European Economic Area. Justice Minister Þorbjörg S. Gunnlaugsdóttir says the changes would bring Iceland’s rules closer to those in other Nordic countries. The proposals have not become law. The ministry ...",
+     "image": "https://www.icelandreview.com/wp-content/uploads/2023/12/DSF33521-1024x683.jpg",
      "why": [
-      "Affects work visas"
+      "Affects permanent residence"
      ],
      "tags": [
-      "Work visa",
-      "New Zealand"
+      "PR / Settlement",
+      "Iceland"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 4,
+     "priority": 40,
+     "title": "Germany eases permanent residency rules for foreign specialists",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWhUblhuU19nb09aNzMza1QtejhUWWV1Y2J1dUJOVFhScXBwLVBJdjRvUkdqdVkzWjBDcU4zSUZZaVV6aUU4SnFYaktWZGRfcWhzTGxrNmhfRFRKMzRLakdfM0FqNkZkUXJVYUdnbUNNU2wzUUR3bkZnSktacEpZbVpiSzZ0Z2xYb3NWbUljdE1aay05YW1sQXVobGtvRmZ0RDRGUmkybXQwVXNscnVIdm5uNTBkQQ?oc=5",
+     "date": "2026-10-01",
+     "source": "logos-pres.md",
+     "label": "Germany",
+     "snippet": "Foreign graduates in Germany can qualify for permanent residency after two years of skilled work, while others face a three-year period.",
+     "lead": "Continue with Google By continuing, you confirm that you have read Privacy Policy and Terms of Use . Germany has simplified the conditions for foreign specialists to obtain legal status Foreign professionals who have completed a university degree or vocational training in Germany can obtain a permanent residence permit after two years of working in their field. For other qualified professionals, this period is three years. These rules ...",
+     "image": null,
+     "why": [
+      "Affects permanent residence"
+     ],
+     "tags": [
+      "PR / Settlement",
+      "Germany"
      ]
     }
    ]
@@ -841,6 +861,49 @@
    "desk": "Immigration",
    "score": 5,
    "priority": 50,
+   "title": "Norwegian Cruise Passengers Stranded in Rare U.S. Immigration Snag",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ05rdkU3bW5HTVY1RjRPcjZ5Z1N0WGgtOU9IRnhsV2tsMmx5NHlqVTlFWGFtc3FCVVdSWUhZOUgydG9YTEFTMFlCZG9GbndTOWdldmR2b2FMVzB6ek9ERERBVU11VElLSU1malMyZmY2bWw0MmIyTXJ6eVFwTFFKREZ1djNiemJvWFdIMlE5VUxhdzBqbjVMeHhn?oc=5",
+   "date": "2026-10-05",
+   "source": "thetraveler.org",
+   "label": "Norway",
+   "snippet": "A Norwegian Cruise Line sailing into a U.S. port turned into an all-night ordeal after a rare immigration requirement left guests stuck landside and onboard.",
+   "lead": "A Norwegian Cruise Line voyage that should have ended with routine disembarkation instead stretched late into the night, as an unusual immigration requirement at a United States port left some passengers stranded ashore while others waited onboard for clearance to leave the ship. Reports emerging from recent Norwegian Cruise Line sailings into U.S. ports describe a scene very different from the usual orderly final morning of a cruise. ...",
+   "image": "https://thetraveler.s3.amazonaws.com/images/hero/airport-chaos-2026-tsa-staffing-crisis.jpg_1200x675.jpg",
+   "why": [
+    "Announces a change"
+   ],
+   "tags": [
+    "Norway"
+   ],
+   "rank": 21,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 5,
+   "priority": 50,
+   "title": "NHRCK urges Justice Ministry to shift Korea immigration raids toward safety, reform - CHOSUNBIZ",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcU41VTd3Q2tLSlpwUUVyMW9INkJnR25ZY2t6aUZJT3dyTnNJVHhoREx4RDY2U0ZQSVZKaE9qSkJsek9Cd2d1V0VFZDRaMFZNV1lVZTQ4Q2RCSkM2YzJkTUEwcDZxZTNDSnkzbVNXVlZjbXlBUXpTNzJRb1VDWXI1TtIBlAFBVV95cUxQemFQTEhrdzdKZVp4ZU9SeTQzM28zS05pQS1kVkFCSEdlRF9hcU9ROUdUVFIzVGthdUlzSDR1bk5YUTFCU2RRTzFyMFNnRmVyQkFHRGJvc3hBblF5Rk5oT1h3UmVTTEhRYVJHQ3p1QU1HNW9ycFp0blJPUTVUU2h0bmhnUUQ3WW9DY21fZmhkUE5MVmZ2?oc=5",
+   "date": "2026-10-02",
+   "source": "Chosunbiz",
+   "label": "South Korea",
+   "snippet": "NHRCK urges Justice Ministry to shift Korea immigration raids toward safety, reform",
+   "lead": "조선비즈 구글 검색 먼저 보기 Prompted by the death of a Vietnamese migrant worker who hid to avoid an immigration office raid and fell from below a window, the National Human Rights Commission (NHRC) recommended that the Minister of the Ministry of Justice improve policy. According to the National Human Rights Commission (NHRC) on the 2nd, Vietnamese national A died after falling at a factory in Daegu in Oct. last year. A was found to have hidden ...",
+   "image": "https://biz.chosun.com/resizer/v2/KLBH5ECERJGFXB7DCWNUF74JEY.png?auth=df0713b851647e144ab718051141f09a4eeee6e534556cbc7245bafb54e7ef05&width=1200&height=630&smart=true",
+   "why": [
+    "Announces a change",
+    "Major story (8 headlines that day)"
+   ],
+   "tags": [
+    "South Korea"
+   ],
+   "rank": 22,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 5,
+   "priority": 50,
    "title": "When to use each passport if you're a dual national with Spanish citizenship",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd0lpNnZSVkdvV1MyLUphbTNsbkZuSHZLMGxjTGNoc21NckpZZ2RSckpJOXo4UHo3SFRiUnU1RDM5elNGcmlMUE5rQjJUVEtLbUhZYXJXZWZ2NnVtb0p4NHhDeERrcDhwSWd0SkJMbGtaUVBDY2tNblFkNWNIMm9xVG94TUZHZXhYN2lPUTZOT1R0UXlqNHlSLWNqMHJYQ1NxajJhaDlad2tYQUl3?oc=5",
    "date": "2026-10-02",
@@ -855,50 +918,6 @@
    "tags": [
     "Citizenship",
     "Spain"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 4,
-   "priority": 40,
-   "title": "Iceland Proposes Six-Year Wait for Permanent Residence",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaUp5dXFzRFhGU1pZQlJ3LUw0eGtzcnRBRk1lNG5OWVJYZkg0a1JVeE5RNWxTNFNfbG1BTWlqd3RVU3hRaTZYN08yVUlHdE1FbE5DNHA0M2p6ckhkZEh2OVNERi1keTA5WldKRDAwUktvVjcwakx6OWh2SlE5ck1XMUV4OHhjQmd5Wk51TklSQVg?oc=5",
-   "date": "2026-10-02",
-   "source": "Iceland Review",
-   "label": "Iceland",
-   "snippet": "Iceland’s proposed residence rules would extend the permanent-permit qualifying period to six years. The changes are under consultation, not yet law.",
-   "lead": "Iceland’s Justice Ministry has proposed extending the residence period required for a permanent permit from four years to six. The draft bill, published for public consultation on October 1, mainly concerns people from outside the European Economic Area. Justice Minister Þorbjörg S. Gunnlaugsdóttir says the changes would bring Iceland’s rules closer to those in other Nordic countries. The proposals have not become law. The ministry ...",
-   "image": "https://www.icelandreview.com/wp-content/uploads/2023/12/DSF33521-1024x683.jpg",
-   "why": [
-    "Affects permanent residence"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Iceland"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 4,
-   "priority": 40,
-   "title": "Germany eases permanent residency rules for foreign specialists",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWhUblhuU19nb09aNzMza1QtejhUWWV1Y2J1dUJOVFhScXBwLVBJdjRvUkdqdVkzWjBDcU4zSUZZaVV6aUU4SnFYaktWZGRfcWhzTGxrNmhfRFRKMzRLakdfM0FqNkZkUXJVYUdnbUNNU2wzUUR3bkZnSktacEpZbVpiSzZ0Z2xYb3NWbUljdE1aay05YW1sQXVobGtvRmZ0RDRGUmkybXQwVXNscnVIdm5uNTBkQQ?oc=5",
-   "date": "2026-10-01",
-   "source": "logos-pres.md",
-   "label": "Germany",
-   "snippet": "Foreign graduates in Germany can qualify for permanent residency after two years of skilled work, while others face a three-year period.",
-   "lead": "Continue with Google By continuing, you confirm that you have read Privacy Policy and Terms of Use . Germany has simplified the conditions for foreign specialists to obtain legal status Foreign professionals who have completed a university degree or vocational training in Germany can obtain a permanent residence permit after two years of working in their field. For other qualified professionals, this period is three years. These rules ...",
-   "image": null,
-   "why": [
-    "Affects permanent residence"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Germany"
    ],
    "rank": 23,
    "must_read": false
