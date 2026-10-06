@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-06",
- "built": "2026-10-06 08:54 IST",
+ "built": "2026-10-06 11:40 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22556.0,
-   "change_pct": 0.6,
-   "asof": "05 Oct 15:30 IST"
+   "value": 22681.0,
+   "change_pct": 0.56,
+   "asof": "06 Oct 11:40 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72382.0,
-   "change_pct": 0.66,
-   "asof": "05 Oct 15:32 IST"
+   "value": 72785.0,
+   "change_pct": 0.56,
+   "asof": "06 Oct 11:25 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 96.3,
-   "change_pct": -0.03,
-   "asof": "06 Oct 08:16 IST"
+   "value": 96.44,
+   "change_pct": 0.12,
+   "asof": "06 Oct 11:40 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 100.63,
-   "change_pct": 0.31,
-   "asof": "06 Oct 08:43 IST"
+   "value": 100.46,
+   "change_pct": 0.14,
+   "asof": "06 Oct 11:29 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4156.0,
-   "change_pct": -0.01,
-   "asof": "06 Oct 08:44 IST"
+   "value": 4146.0,
+   "change_pct": -0.26,
+   "asof": "06 Oct 11:30 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,8 +79,8 @@
  },
  "desks": {
   "Policy": {
-   "total": 137,
-   "new_today": 1,
+   "total": 138,
+   "new_today": 2,
    "items": [
     {
      "desk": "Policy",
@@ -146,26 +146,26 @@
      "desk": "Policy",
      "score": 5,
      "priority": 36,
-     "title": "Union Minister of Petroleum and Natural Gas Shri Hardeep Singh Puri launches GOBARdhan Scheme to accelerate development of India’s Compressed Biogas sector",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2317937",
-     "date": "2026-10-01",
-     "source": "PIB",
-     "label": "Energy & Power",
-     "snippet": "The Union Minister of Petroleum and Natural Gas, Shri Hardeep Singh Puri, today launched GOBARdhan,",
-     "lead": "Ministry of Petroleum & Natural Gas Union Minister of Petroleum and Natural Gas Shri Hardeep Singh Puri launches GOBARdhan Scheme to accelerate development of India’s Compressed Biogas sector Integrated Central Sector Scheme brings assured offtake, stable pricing, capital assistance, pipeline connectivity, credit support and ecosystem development under a unified framework GOBARdhan Handbook unveiled and Unified GOBARdhan Portal ...",
+     "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Samarth Urban Co-operative Bank Ltd., Osmanabad (Maharashtra), – Extension of Period",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63735",
+     "date": "2026-10-06",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "The Reserve Bank of India issued Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 to Samarth Urban Co-operative Bank Ltd., Osmanabad, Maharashtra, vide Directive No. NGP.DOS.SSM1.No.S581/15-04-381/2025-2026 dated October 06, 2025, for a period of six months up to the close of business on April 07, 2026, which were last extended up to the close of business on October 07, 2026, vide Directive No. ...",
      "image": null,
      "why": [
-      "Large outlay (Rs 10,000 Cr or more)"
+      "Regulator: RBI"
      ],
      "tags": [
-      "Energy & Power"
+      "Banking & Rates"
      ]
     }
    ]
   },
   "Startups": {
-   "total": 419,
-   "new_today": 7,
+   "total": 424,
+   "new_today": 12,
    "items": [
     {
      "desk": "Startups",
@@ -256,9 +256,49 @@
    ]
   },
   "Immigration": {
-   "total": 727,
-   "new_today": 12,
+   "total": 733,
+   "new_today": 18,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 60,
+     "title": "Australian opposition party vows 'biggest cut to immigration' in country's history",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeGlsT1hac0dxanBTbWdPNVdLOHVpZ0JpRXpwSHRfdXdyZVBFYW9HZU5PZjl0ZEZ5TXBocXRFdE0zaENiQWh4akZBOW1ibXNLNGw4eVh1eEl4UGxEZXJpUmRoNWxlU3RSWTlzajF6YmswdnlKTS1hNHJZRk9kXzB0Sg?oc=5",
+     "date": "2026-10-06",
+     "source": "San Luis Obispo Tribune",
+     "label": "Australia",
+     "snippet": "",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Political signal on immigration",
+      "Announces a change"
+     ],
+     "tags": [
+      "Politics / Election",
+      "Australia"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 60,
+     "title": "U.S. Delays Visas for NIS Officers Bound for Korean Embassy",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyU0VmUkxxYlREaGNPemM3UmZlVVpsWkJGeW9GWjBnU1FpcnE4bklqZzFTQjJvOXRIN3kxZmwwWHhOYTFvVmpab0NXdnZNOGE4anBXc2Jzc0x3SVlRT21vczJaX3hBTGRhQmsxN0VPNU5paENa?oc=5",
+     "date": "2026-10-06",
+     "source": "Businesskorea",
+     "label": "South Korea",
+     "snippet": "",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Announces a change"
+     ],
+     "tags": [
+      "South Korea"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 6,
@@ -298,26 +338,6 @@
      "tags": [
       "Politics / Election",
       "New Zealand"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 50,
-     "title": "NHRCK urges Justice Ministry to shift Korea immigration raids toward safety, reform - CHOSUNBIZ",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcU41VTd3Q2tLSlpwUUVyMW9INkJnR25ZY2t6aUZJT3dyTnNJVHhoREx4RDY2U0ZQSVZKaE9qSkJsek9Cd2d1V0VFZDRaMFZNV1lVZTQ4Q2RCSkM2YzJkTUEwcDZxZTNDSnkzbVNXVlZjbXlBUXpTNzJRb1VDWXI1TtIBlAFBVV95cUxQemFQTEhrdzdKZVp4ZU9SeTQzM28zS05pQS1kVkFCSEdlRF9hcU9ROUdUVFIzVGthdUlzSDR1bk5YUTFCU2RRTzFyMFNnRmVyQkFHRGJvc3hBblF5Rk5oT1h3UmVTTEhRYVJHQ3p1QU1HNW9ycFp0blJPUTVUU2h0bmhnUUQ3WW9DY21fZmhkUE5MVmZ2?oc=5",
-     "date": "2026-10-02",
-     "source": "Chosunbiz",
-     "label": "South Korea",
-     "snippet": "NHRCK urges Justice Ministry to shift Korea immigration raids toward safety, reform",
-     "lead": "조선비즈 구글 검색 먼저 보기 Prompted by the death of a Vietnamese migrant worker who hid to avoid an immigration office raid and fell from below a window, the National Human Rights Commission (NHRC) recommended that the Minister of the Ministry of Justice improve policy. According to the National Human Rights Commission (NHRC) on the 2nd, Vietnamese national A died after falling at a factory in Daegu in Oct. last year. A was found to have hidden ...",
-     "image": "https://biz.chosun.com/resizer/v2/KLBH5ECERJGFXB7DCWNUF74JEY.png?auth=df0713b851647e144ab718051141f09a4eeee6e534556cbc7245bafb54e7ef05&width=1200&height=630&smart=true",
-     "why": [
-      "Announces a change",
-      "Major story (9 headlines that day)"
-     ],
-     "tags": [
-      "South Korea"
      ]
     }
    ]
@@ -810,6 +830,28 @@
    "desk": "Immigration",
    "score": 7,
    "priority": 70,
+   "title": "119 Countries Without a Visa: The Strength of the Austrian Passport",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNVE3MTdfdTFYMS1BenhmdnhmQ2l3YXMyYWdpd283cTBMRXFpNjh0bk9hTUU3UzZYMWlIMnBiVnJyZGFJUVotTU5Ibko0Qm4zSlRTaVM4a2xPM3Ftb2Q3WGoxVVFCaEtDV25BTlY2SkdZbVY5VVJ0Yy01VjFFOUUwNGstRURzaUlXeWRFU1JLcW9TSFl2amJOdEtPendxQQ?oc=5",
+   "date": "2026-10-06",
+   "source": "vienna.at",
+   "label": "Austria",
+   "snippet": "Alle Nachrichten aus Wien und den Bezirken sowie aktuelle News aus Österreich und der Welt mit vielen Themen wie Sport, Politik, Stars, uvm.",
+   "lead": "Mit 173 Mobilitätspunkten schafft es der österreichische Reisepass im aktuellen Passport-Reports-Ranking weltweit auf Rang 10. 119 Ziele sind visumfrei erreichbar. Anzeige Anzeige Austria’s passport continues to be one of the most travel-friendly in the world. In the current ranking by Passport Reports, it ranks 10th out of 199 countries. It is awarded 173 mobility points and a global access rate of 87.4 percent. This is due to various ...",
+   "image": "https://www.vienna.at/2026/10/rrxpVrYeum6q0PATe-q6-1-vodl-10519571-16-9-1280x720.jpg?v=06c1d4fc",
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "Austria"
+   ],
+   "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 70,
    "title": "India and Switzerland Agree on Longer-Stay Visas and Young-Professional Exchanges",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR0hTS0xZMjVPSWlfemVOZjM3a1laTWJDZUptcFRrd3VZSy1PTmV2TjQ2dktGRHVDNkVFeDZrYUFmQ0lUUWh0cTN4cG1kSmpyMXZxUEpuYnBuTTRlWXBDYXB2eEh2TFBpbEpQMnN4ZThaRWh5eFVDd2k5bjZqV013Y0sydjZUVFgxYVZRcnRUbXNCYW9wbjM2Vm50X1hvVHZUVTRNTDdqS2hCZFlBZkE?oc=5",
    "date": "2026-10-05",
@@ -825,7 +867,7 @@
    "tags": [
     "Switzerland"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -847,27 +889,6 @@
    "tags": [
     "PR / Settlement",
     "United Kingdom"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 60,
-   "title": "Angus Taylor vows ‘biggest’ cut to migration in Australia’s history, slashing 650,000 temporary visas",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHNwcHJGZ0NOZFpURWFURXhWT195QWNHcFBpUkozbjk0UVZuR2l6LWZvYXl3amhJWklXeFJ1ZTkxWXJiRmtYSXFNbVg2bmpweUFfb29BVE9BcW11a2l6MjFQY0RLQkFNTmtTLVliSHphNDVmU2xaU1hrcWJNMlM3RkpNaDJxZzd3Q1ljQXQzd09aZTJJaDM2NFItYUFZcndEa2hXOFdsUmlaVDFyUE94ZHVPWkNHZzEtRTNTVw?oc=5",
-   "date": "2026-10-06",
-   "source": "The Guardian",
-   "label": "Australia",
-   "snippet": "Opposition leader says Coalition would reduce net overseas migration to 100,000 for two years",
-   "lead": "The opposition leader, Angus Taylor, has revealed the Coalition’s long-awaited immigration policy including sweeping cuts to net overseas migration. Photograph: Bianca de Marchi/AAP View image in fullscreen The opposition leader, Angus Taylor, has revealed the Coalition’s long-awaited immigration policy including sweeping cuts to net overseas migration. Photograph: Bianca de Marchi/AAP Angus Taylor vows biggest cut to migration in ...",
-   "image": "https://i.guim.co.uk/img/media/2c975ced7159c1435fe04ae8e80cf10c9aabd394/814_0_7062_5651/master/7062.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02a36d4b8f5be4a10a5224930ee8f1b5",
-   "why": [
-    "Announces a change"
-   ],
-   "tags": [
-    "Australia"
    ],
    "rank": 20,
    "must_read": false
