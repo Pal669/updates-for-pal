@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-06",
- "built": "2026-10-06 04:26 IST",
+ "built": "2026-10-06 08:54 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,15 +12,15 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22422.0,
-   "change_pct": -0.88,
-   "asof": "05 Oct 15:31 IST"
+   "value": 22556.0,
+   "change_pct": 0.6,
+   "asof": "05 Oct 15:30 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 71910.0,
-   "change_pct": -0.79,
+   "value": 72382.0,
+   "change_pct": 0.66,
    "asof": "05 Oct 15:32 IST"
   },
   {
@@ -28,21 +28,21 @@
    "dp": 2,
    "value": 96.3,
    "change_pct": -0.03,
-   "asof": "06 Oct 04:02 IST"
+   "asof": "06 Oct 08:16 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 100.24,
-   "change_pct": -1.97,
-   "asof": "06 Oct 04:14 IST"
+   "value": 100.63,
+   "change_pct": 0.31,
+   "asof": "06 Oct 08:43 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4169.0,
-   "change_pct": 0.15,
-   "asof": "06 Oct 04:16 IST"
+   "value": 4156.0,
+   "change_pct": -0.01,
+   "asof": "06 Oct 08:44 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,8 +79,8 @@
  },
  "desks": {
   "Policy": {
-   "total": 136,
-   "new_today": 0,
+   "total": 137,
+   "new_today": 1,
    "items": [
     {
      "desk": "Policy",
@@ -101,6 +101,25 @@
      ],
      "tags": [
       "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 7,
+     "priority": 50,
+     "title": "Ministry of Rural Development Notifies 375 Permissible Works under VB–G RAM G",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2319426",
+     "date": "2026-10-06",
+     "source": "PIB",
+     "label": "Labour & Social",
+     "snippet": "The Ministry of Rural Development has notified the Schedule of Permissible Works under the Viksit Bh",
+     "lead": "Ministry of Rural Development Ministry of Rural Development Notifies 375 Permissible Works under VB–G RAM G The new Schedule expands the scope of permissible works by 41 percent compared with the previous scheme 128 works under Water Security, 111 under Core Rural Infrastructure, 98 under Livelihood-related Infrastructure and 38 under Disaster Preparedness Posted On: 06 OCT 2026 8:29AM by PIB Delhi The Ministry of Rural Development has ...",
+     "image": null,
+     "why": [
+      "Rule change"
+     ],
+     "tags": [
+      "Labour & Social"
      ]
     },
     {
@@ -141,32 +160,33 @@
      "tags": [
       "Energy & Power"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 5,
-     "priority": 36,
-     "title": "India’s indigenous technology push gains momentum as HD Kumaraswamy unveils MHI Industry Accelerator Impact Report at Navigyaan 2026",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316863",
-     "date": "2026-09-30",
-     "source": "PIB",
-     "label": "Banking & Rates",
-     "snippet": "Union Minister for Heavy Industries and Steel, H. D. Kumaraswamy on Wednesday unveiled and digitally",
-     "lead": "Union Minister for Heavy Industries and Steel, H. D. Kumaraswamy on Wednesday unveiled and digitally launched the Impact Report of the Ministry of Heavy Industries (MHI) Industry Accelerator Project at Navigyaan 2026 in New Delhi, marking an important milestone in the development and advancement of indigenous technologies for India’s mobility and manufacturing sectors. Addressing the gathering, H.D. Kumaraswamy said the event marked ...",
-     "image": null,
-     "why": [
-      "Rates and liquidity"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 414,
-   "new_today": 2,
+   "total": 419,
+   "new_today": 7,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "Bhavish Aggarwal pledges 4.32% stake to back Ola Electric’s Rs 1,000 Cr rights issue",
+     "url": "https://yourstory.com/2026/10/bhavish-aggarwal-pledges-stake-back-ola-electrics-rs-1000-cr-rights-issue",
+     "date": "2026-10-05",
+     "source": "YourStory",
+     "label": "India · Other",
+     "snippet": "Ola Electric Chairman Bhavish Aggarwal has pledged a 4.32% stake in the company to raise funds for its upcoming Rs 1,000 Cr rights issue.",
+     "lead": "Bhavish Aggarwal pledges 4.32% stake to back Ola Electric’s Rs 1,000 Cr rights issue Ola Electric Chairman Bhavish Aggarwal has pledged a 4.32% stake in the company to raise funds for its upcoming Rs 1,000 Cr rights issue. Team YS 17288 Stories Monday October 05, 2026 , 2 min Read Ola Electric founder Bhavish Aggarwal has stepped up to back the company’s upcoming Rs 1,000 crore rights issue, pledging a 4.32% stake in the EV maker to ...",
+     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/BhavishAggarwalGeneric1600x9001-1779712886389.jpg",
+     "why": [
+      "Funding",
+      "Large deal (about $105M)"
+     ],
+     "tags": [
+      "Funding"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -232,34 +252,33 @@
       "Funding",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "ElevenLabs doubles valuation to $22bn with tender offer",
-     "url": "https://sifted.eu/articles/elevenlabs-doubles-valuation-to-22bn-with-tender-offer/",
-     "date": "2026-09-30",
-     "source": "Sifted",
-     "label": "Global · Other",
-     "snippet": "New price tag comes little over six months since AI voice startup was valued at $11bn.",
-     "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
-     "image": "https://content.sifted.eu/wp-content/uploads/2026/03/30170822/Eleven-Labs-scaled-e1774886998162.webp",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $22,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 722,
-   "new_today": 7,
+   "total": 727,
+   "new_today": 12,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 60,
+     "title": "As America, Russia, the UK and France seek more troops, Africans are being recruited with promises of careers and citizenship, while others are drawn into active wars",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOck5FcnFYYy1HaGp5djBZLVhnZUtncm4xUzdxc1NpMVA0X2ZIeHNHV1NJTElEWjNrNVhvUnk3X1ZRNnNaZVkzTEFlcUlTdU9nZnUzbzlsRkUtenJTM0t5dkZlRXlBWGJNVEtLWERRNzJpSzYtX1dwckEtMHEzX0xRN1M3WVhLNl9SQzhDRjEyRGNtZURnZlpjRWppRWRGYXk5SWlyUGI4TjlxOGJUMXNPR3lVMENpdktBVHZNbTlzUG1OTTc3OF9TOFVwY2NubGJ2Z0xhdQ?oc=5",
+     "date": "2026-10-05",
+     "source": "Business Insider Africa",
+     "label": "France",
+     "snippet": "African nationals are becoming a growing part of foreign military recruitment as the United States, Canada, Britain, France and Ireland widen their ranks beyond citizens, drawing on migrants seeking better pay, stable careers and opportunities abroad that may be harder to find at home",
+     "lead": "The United States allows green-card holders to enlist, making military service a route through which immigrants, including Africans, can build careers and later qualify for citizenship. As of February 2026, 49,709 non-US citizens were serving across active and reserve forces, Congressional Research Service data based on Department of Defense records shows. In fiscal year 2024, about 930 Nigerian-born service members, 660 Ghanaians and ...",
+     "image": "https://ocdn.eu/pulscms-transforms/1/F_PktkpTURBXy9jYTI3MjJkNDQyZGZjMWExZGRjOTkzODlkZTM2MzU3MS5qcGeSlQPMUQDNDBnNBs-TBc0EsM0Cdg",
+     "why": [
+      "Affects citizenship"
+     ],
+     "tags": [
+      "Citizenship",
+      "France"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 5,
@@ -299,26 +318,6 @@
      ],
      "tags": [
       "South Korea"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 50,
-     "title": "When to use each passport if you're a dual national with Spanish citizenship",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd0lpNnZSVkdvV1MyLUphbTNsbkZuSHZLMGxjTGNoc21NckpZZ2RSckpJOXo4UHo3SFRiUnU1RDM5elNGcmlMUE5rQjJUVEtLbUhZYXJXZWZ2NnVtb0p4NHhDeERrcDhwSWd0SkJMbGtaUVBDY2tNblFkNWNIMm9xVG94TUZHZXhYN2lPUTZOT1R0UXlqNHlSLWNqMHJYQ1NxajJhaDlad2tYQUl3?oc=5",
-     "date": "2026-10-02",
-     "source": "The Local Spain",
-     "label": "Spain",
-     "snippet": "Do you have dual nationality with Spain and your country of birth? If so, travelling can become confusing. Here are the rules on which passport you should use and when.",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add The Local as a preferred source Do you have dual nationality with Spain and your country of birth? If so, travelling can become confusing. Here are the rules on which passport you should use and when. If you’re lucky enough to have acquired Spanish citizenship ...",
-     "image": null,
-     "why": [
-      "Affects citizenship"
-     ],
-     "tags": [
-      "Citizenship",
-      "Spain"
      ]
     }
    ]
@@ -652,6 +651,28 @@
    "desk": "Startups",
    "score": 11,
    "priority": 85,
+   "title": "VC funding dips in September despite big deals; More voices join the lineup at TechSparks 2026",
+   "url": "https://yourstory.com/2026/10/vc-funding-dips-in-september-lineup-at-techsparks-2026",
+   "date": "2026-10-06",
+   "source": "YourStory",
+   "label": "India · Other",
+   "snippet": "Venture capital funding into Indian startups saw an 8.3% year-on-year dip in September, despite four $100 million deals. However, there were some positives. Meanwhile, here's a look at the speaker lineup for TechSparks 2026.",
+   "lead": "VC funding dips in September despite big deals; More voices join the lineup at TechSparks 2026 Venture capital funding into Indian startups saw an 8.3% year-on-year dip in September, despite four $100 million deals. However, there were some positives. Meanwhile, here's a look at the speaker lineup for TechSparks 2026. Team YS 17296 Stories Tuesday October 06, 2026 , 5 min Read The edtech company’s wholly-owned subsidiary FinZ Finance ...",
+   "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/MyCopyofNewPPTTemplates1-1791209162167.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $100M)"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
    "title": "Marico Acquires Additional Stake In Plix For ₹1,012 Cr, To Complete Buyout By July 2027",
    "url": "https://inc42.com/buzz/marico-acquires-additional-stake-in-plix-for-%e2%82%b91012-cr-to-complete-buyout-by-july-2027/",
    "date": "2026-10-05",
@@ -667,7 +688,7 @@
    "tags": [
     "Acquisition"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -691,7 +712,7 @@
    "tags": [
     "Funding"
    ],
-   "rank": 12,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -712,28 +733,6 @@
    ],
    "tags": [
     "Other Policy"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 77,
-   "title": "Bhavish Aggarwal pledges 4.32% stake to back Ola Electric’s Rs 1,000 Cr rights issue",
-   "url": "https://yourstory.com/2026/10/bhavish-aggarwal-pledges-stake-back-ola-electrics-rs-1000-cr-rights-issue",
-   "date": "2026-10-05",
-   "source": "YourStory",
-   "label": "India · Other",
-   "snippet": "Ola Electric Chairman Bhavish Aggarwal has pledged a 4.32% stake in the company to raise funds for its upcoming Rs 1,000 Cr rights issue.",
-   "lead": "Bhavish Aggarwal pledges 4.32% stake to back Ola Electric’s Rs 1,000 Cr rights issue Ola Electric Chairman Bhavish Aggarwal has pledged a 4.32% stake in the company to raise funds for its upcoming Rs 1,000 Cr rights issue. Team YS 17288 Stories Monday October 05, 2026 , 2 min Read Ola Electric founder Bhavish Aggarwal has stepped up to back the company’s upcoming Rs 1,000 crore rights issue, pledging a 4.32% stake in the EV maker to ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/BhavishAggarwalGeneric1600x9001-1779712886389.jpg",
-   "why": [
-    "Funding",
-    "Large deal (about $105M)"
-   ],
-   "tags": [
-    "Funding"
    ],
    "rank": 14,
    "must_read": false
@@ -856,20 +855,19 @@
    "desk": "Immigration",
    "score": 6,
    "priority": 60,
-   "title": "As America, Russia, the UK and France seek more troops, Africans are being recruited with promises of careers and citizenship, while others are drawn into active wars",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOck5FcnFYYy1HaGp5djBZLVhnZUtncm4xUzdxc1NpMVA0X2ZIeHNHV1NJTElEWjNrNVhvUnk3X1ZRNnNaZVkzTEFlcUlTdU9nZnUzbzlsRkUtenJTM0t5dkZlRXlBWGJNVEtLWERRNzJpSzYtX1dwckEtMHEzX0xRN1M3WVhLNl9SQzhDRjEyRGNtZURnZlpjRWppRWRGYXk5SWlyUGI4TjlxOGJUMXNPR3lVMENpdktBVHZNbTlzUG1OTTc3OF9TOFVwY2NubGJ2Z0xhdQ?oc=5",
-   "date": "2026-10-05",
-   "source": "Business Insider Africa",
-   "label": "France",
-   "snippet": "African nationals are becoming a growing part of foreign military recruitment as the United States, Canada, Britain, France and Ireland widen their ranks beyond citizens, drawing on migrants seeking better pay, stable careers and opportunities abroad that may be harder to find at home",
-   "lead": "The United States allows green-card holders to enlist, making military service a route through which immigrants, including Africans, can build careers and later qualify for citizenship. As of February 2026, 49,709 non-US citizens were serving across active and reserve forces, Congressional Research Service data based on Department of Defense records shows. In fiscal year 2024, about 930 Nigerian-born service members, 660 Ghanaians and ...",
-   "image": "https://ocdn.eu/pulscms-transforms/1/F_PktkpTURBXy9jYTI3MjJkNDQyZGZjMWExZGRjOTkzODlkZTM2MzU3MS5qcGeSlQPMUQDNDBnNBs-TBc0EsM0Cdg",
+   "title": "Angus Taylor vows ‘biggest’ cut to migration in Australia’s history, slashing 650,000 temporary visas",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHNwcHJGZ0NOZFpURWFURXhWT195QWNHcFBpUkozbjk0UVZuR2l6LWZvYXl3amhJWklXeFJ1ZTkxWXJiRmtYSXFNbVg2bmpweUFfb29BVE9BcW11a2l6MjFQY0RLQkFNTmtTLVliSHphNDVmU2xaU1hrcWJNMlM3RkpNaDJxZzd3Q1ljQXQzd09aZTJJaDM2NFItYUFZcndEa2hXOFdsUmlaVDFyUE94ZHVPWkNHZzEtRTNTVw?oc=5",
+   "date": "2026-10-06",
+   "source": "The Guardian",
+   "label": "Australia",
+   "snippet": "Opposition leader says Coalition would reduce net overseas migration to 100,000 for two years",
+   "lead": "The opposition leader, Angus Taylor, has revealed the Coalition’s long-awaited immigration policy including sweeping cuts to net overseas migration. Photograph: Bianca de Marchi/AAP View image in fullscreen The opposition leader, Angus Taylor, has revealed the Coalition’s long-awaited immigration policy including sweeping cuts to net overseas migration. Photograph: Bianca de Marchi/AAP Angus Taylor vows biggest cut to migration in ...",
+   "image": "https://i.guim.co.uk/img/media/2c975ced7159c1435fe04ae8e80cf10c9aabd394/814_0_7062_5651/master/7062.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02a36d4b8f5be4a10a5224930ee8f1b5",
    "why": [
-    "Affects citizenship"
+    "Announces a change"
    ],
    "tags": [
-    "Citizenship",
-    "France"
+    "Australia"
    ],
    "rank": 20,
    "must_read": false
