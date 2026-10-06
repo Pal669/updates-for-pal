@@ -1,6 +1,6 @@
 {
- "edition": "2026-10-06",
- "built": "2026-10-06 22:28 IST",
+ "edition": "2026-10-07",
+ "built": "2026-10-07 02:44 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,80 +12,80 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22776.0,
-   "change_pct": 0.98,
+   "value": 22556.0,
+   "change_pct": 0.6,
    "asof": "06 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73068.0,
-   "change_pct": 0.95,
+   "value": 72382.0,
+   "change_pct": 0.66,
    "asof": "06 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 96.42,
-   "change_pct": 0.1,
-   "asof": "06 Oct 20:58 IST"
+   "value": 96.36,
+   "change_pct": 0.02,
+   "asof": "07 Oct 02:11 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 99.96,
-   "change_pct": -0.36,
-   "asof": "06 Oct 22:18 IST"
+   "value": 101.15,
+   "change_pct": 0.83,
+   "asof": "07 Oct 02:29 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4186.0,
-   "change_pct": 0.71,
-   "asof": "06 Oct 22:18 IST"
+   "value": 4193.0,
+   "change_pct": 0.86,
+   "asof": "07 Oct 02:29 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.28,
-   "change_pct": -0.68,
-   "asof": "06 Oct 22:13 IST"
+   "value": 5.27,
+   "change_pct": -0.79,
+   "asof": "07 Oct 00:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "Kuku Technologies (Kuku FM)",
-   "tagline": "Audio and microdrama OTT, IPO cleared by SEBI",
-   "what": "Founded in 2018 by Lal Chand Bisu, Vikas Goyal and Vinod Meena. Offers audiobooks, podcasts and original audio shows under Kuku FM, plus microdrama platform Kuku TV and microlearning platform Guru. Content library of 20,000+ titles in seven languages; it claims 1 Cr+ listeners and creators and 400 Mn app downloads across its portfolio.",
+   "company": "DheyaTech",
+   "tagline": "Bengaluru aerospace propulsion startup",
+   "what": "Founded in 2018 by aerospace engineers Gurushankara KC, Abhinav Alva and Chetan Kumar. Develops small gas turbine engines (20 kgf to 400 kgf thrust) for aerial platforms and energy systems, with the design, assembly and testing pipeline and its engine control unit built in-house. Expanding into hydrogen-based technology and distributed power generation, including a 60 kW turbogenerator with a hydrogen flexi-fuel combustor developed with IISc.",
    "how": [
-    "The article does not explain the revenue model.",
-    "Not stated: whether income comes from subscriptions, pay-per-content or ads. Check the DRHP when it becomes public."
+    "Sells engines to OEMs: the company says it already has orders from Indian and global OEMs but did not disclose names or values.",
+    "Inferred: revenue is hardware sales; the article gives no pricing or revenue figures."
    ],
-   "watch": "Fresh-issue money is planned for tech, AI infrastructure, content production and geographic expansion. Competitors named: Pocket FM, Flick TV, ReelSaga, Miniplix and OTT majors (Amazon, JioHotstar, Zee5).",
-   "sector": "Media, Gaming & Creators",
+   "watch": "Pre-revenue-scale hardware: certification timelines and first commercial deliveries are the milestones to track. Article also notes rising investor interest in aerospace and spacetech (D-Propulse Rs 25 Cr in January; InspeCity Rs 100 Cr in August).",
+   "sector": "AI & Deeptech",
    "region": "India",
-   "url": "https://inc42.com/buzz/sebi-greenlights-kuku-technologies-%e2%82%b93500-cr-ipo/"
+   "url": "https://inc42.com/buzz/dheyatech-bags-%e2%82%b943-cr-to-scale-indigenous-gas-turbine-engines/"
   },
   "country": {
-   "id": "france",
-   "name": "France",
-   "trend": "Tightening (language and civic tests)",
-   "pr": "10-year resident card after 5 years of continuous lawful residence.",
-   "citizenship": "5 years of habitual residence, B2 French in speaking and writing since 1 January 2026 (was B1), a new civic exam (40 questions, 32 correct), stable French income and a clean record. Processing takes about 18 to 24 months.",
-   "pro": "5-year citizenship clock.",
-   "con": "B2 French and a civic exam are now mandatory for citizenship.",
-   "watch": "Further tightening of integration rules"
+   "id": "japan",
+   "name": "Japan",
+   "trend": "Mixed (fast PR, slower citizenship)",
+   "pr": "PR after 3 years at 70 points, or 1 year at 80 points. J-Skip: PR after 1 year with a master's or 10+ years of experience and annual income of at least JPY 20 million.",
+   "citizenship": "One source reports naturalisation now needs 10 years of residence from April 2026 (verify). Requires giving up the original nationality, adequate Japanese, and a clean tax and pension record.",
+   "pro": "Fastest PR on this list for high scorers: 1 to 3 years.",
+   "con": "Citizenship reportedly 10 years plus renunciation.",
+   "watch": "Confirm the April 2026 naturalisation change"
   }
  },
  "desks": {
   "Policy": {
    "total": 142,
-   "new_today": 6,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
      "score": 8,
-     "priority": 50,
+     "priority": 53,
      "title": "Master Direction on Note Sorting Machines",
      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13723&Mode=0",
      "date": "2026-10-02",
@@ -105,7 +105,7 @@
     {
      "desk": "Policy",
      "score": 8,
-     "priority": 50,
+     "priority": 53,
      "title": "Reserve Bank of India (Commercial Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026",
      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13719&Mode=0",
      "date": "2026-10-01",
@@ -126,7 +126,7 @@
     {
      "desk": "Policy",
      "score": 8,
-     "priority": 50,
+     "priority": 53,
      "title": "Consolidation/ Review of instructions issued on currency management matters – Withdrawal of Circulars/ Guidelines",
      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13718&Mode=0",
      "date": "2026-10-01",
@@ -147,7 +147,7 @@
     {
      "desk": "Policy",
      "score": 8,
-     "priority": 50,
+     "priority": 53,
      "title": "Master Circular - Credit Facilities to Scheduled Castes (SCs) & Scheduled Tribes (STs)",
      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13716&Mode=0",
      "date": "2026-10-01",
@@ -168,13 +168,54 @@
    ]
   },
   "Startups": {
-   "total": 442,
-   "new_today": 30,
+   "total": 449,
+   "new_today": 4,
    "items": [
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 79,
+     "score": 10,
+     "priority": 77,
+     "title": "Type One Energy raises $200 million to develop world’s first commercial fusion reactor",
+     "url": "https://economictimes.indiatimes.com/tech/technology/type-one-energy-raises-200-million-to-develop-worlds-first-commercial-fusion-reactor/articleshow/134739366.cms",
+     "date": "2026-10-06",
+     "source": "ET Startups",
+     "label": "Global · Other",
+     "snippet": "The Series-B round, which takes total funding to-date to more than $400 million, is the third-biggest sector Series B raise over the last five years, data from industry tracker PitchBook showed. The company did not disclose its valuation.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-7743606,resizemode-75,msid-134739366/tech/technology/type-one-energy-raises-200-million-to-develop-worlds-first-commercial-fusion-reactor.jpg",
+     "why": [
+      "Funding",
+      "Large deal (about $200M)",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "Funding"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "VC funding dips in September despite big deals; More voices join the lineup at TechSparks 2026",
+     "url": "https://yourstory.com/2026/10/vc-funding-dips-in-september-lineup-at-techsparks-2026",
+     "date": "2026-10-06",
+     "source": "YourStory",
+     "label": "India · Other",
+     "snippet": "Venture capital funding into Indian startups saw an 8.3% year-on-year dip in September, despite four $100 million deals. However, there were some positives. Meanwhile, here's a look at the speaker lineup for TechSparks 2026.",
+     "lead": "VC funding dips in September despite big deals; More voices join the lineup at TechSparks 2026 Venture capital funding into Indian startups saw an 8.3% year-on-year dip in September, despite four $100 million deals. However, there were some positives. Meanwhile, here's a look at the speaker lineup for TechSparks 2026. Team YS 17296 Stories Tuesday October 06, 2026 , 5 min Read The edtech company’s wholly-owned subsidiary FinZ Finance ...",
+     "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/MyCopyofNewPPTTemplates1-1791209162167.jpg",
+     "why": [
+      "Funding",
+      "Large deal (about $100M)"
+     ],
+     "tags": [
+      "Funding"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
      "title": "Marico Acquires Additional Stake In Plix For ₹1,012 Cr, To Complete Buyout By July 2027",
      "url": "https://inc42.com/buzz/marico-acquires-additional-stake-in-plix-for-%e2%82%b91012-cr-to-complete-buyout-by-july-2027/",
      "date": "2026-10-05",
@@ -193,98 +234,56 @@
     },
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 79,
-     "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
-     "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
-     "date": "2026-09-30",
+     "score": 10,
+     "priority": 77,
+     "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+     "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+     "date": "2026-10-02",
      "source": "TechCrunch",
-     "label": "Global · Other",
-     "snippet": "EliseAI raises $350M, doubles valuation in a year.",
-     "lead": "AI startup EliseAI announced on Tuesday that it has raised $350 million at a $4 billion valuation, double what it was worth when it raised its Series E last August. This latest round was co-led by Andreessen Horowitz and Bessemer Ventures. EliseAI, founded in 2017, automates administrative and operational work for housing and healthcare companies. It said its software is used by 1 in 6 apartments across the country and announced this ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1469304638.jpg?resize=1200,669",
+     "label": "Global · SaaS & Enterprise",
+     "snippet": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+     "lead": "Kevin Mandia, best known as the founder of cybersecurity startup Mandiant, which sold to Google for $5.4 billion in 2022 , has raised $255.5 million for his latest startup, Armadin, at a valuation of more than $2.5 billion, the company announced on Thursday. The Series B round was led by Andreessen Horowitz and Accel, with Bain Capital Ventures, Redpoint, 8VC, Ballistic Ventures, Google Ventures, In-Q-Tel, Kleiner Perkins, and Menlo ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
      "why": [
       "Funding",
-      "Very large figure in headline (about $4,000M: round or valuation)",
-      "Valuation, listing or profitability signal",
-      "Also covered by 1 other outlet(s)"
-     ],
-     "tags": [
-      "Funding"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 71,
-     "title": "Dronetech Startup AITMC Files UDRHP For A Fresh Issue IPO",
-     "url": "https://inc42.com/buzz/dronetech-startup-aitmc-files-udrhp-for-a-fresh-issue-ipo/",
-     "date": "2026-10-06",
-     "source": "Inc42",
-     "label": "India · AI & Deeptech",
-     "snippet": "AITMC Ventures has filed its UDRHP with SEBI for an IPO comprising a fresh issue of up to 3.5 Cr shares, with no OFS component.",
-     "lead": "Dronetech and skill development startup AITMC Ventures has filed its UDRHP with SEBI for an IPO comprising a fresh issue of up to 3.5 Cr shares, with no OFS component AITMC filed its confidential draft papers in October 2025 after its board approved an IPO comprising a fresh issue of ₹200 Cr Founded in 2016 by Deep Sihag Sisai, AITMC operates across vocational education, drone training, manufacturing and assembly, R&D, and ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/03/droneacharya-IPO-featured-.jpg",
-     "why": [
-      "IPO & Listing",
+      "Very large figure in headline (about $2,500M: round or valuation)",
       "Valuation, listing or profitability signal"
      ],
      "tags": [
-      "IPO & Listing",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 71,
-     "title": "Bhavish Aggarwal pledges 4.32% stake to back Ola Electric’s Rs 1,000 Cr rights issue",
-     "url": "https://yourstory.com/2026/10/bhavish-aggarwal-pledges-stake-back-ola-electrics-rs-1000-cr-rights-issue",
-     "date": "2026-10-05",
-     "source": "YourStory",
-     "label": "India · Other",
-     "snippet": "Ola Electric Chairman Bhavish Aggarwal has pledged a 4.32% stake in the company to raise funds for its upcoming Rs 1,000 Cr rights issue.",
-     "lead": "Bhavish Aggarwal pledges 4.32% stake to back Ola Electric’s Rs 1,000 Cr rights issue Ola Electric Chairman Bhavish Aggarwal has pledged a 4.32% stake in the company to raise funds for its upcoming Rs 1,000 Cr rights issue. Team YS 17288 Stories Monday October 05, 2026 , 2 min Read Ola Electric founder Bhavish Aggarwal has stepped up to back the company’s upcoming Rs 1,000 crore rights issue, pledging a 4.32% stake in the EV maker to ...",
-     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/BhavishAggarwalGeneric1600x9001-1779712886389.jpg",
-     "why": [
       "Funding",
-      "Large deal (about $105M)"
-     ],
-     "tags": [
-      "Funding"
+      "SaaS & Enterprise"
      ]
     }
    ]
   },
   "Immigration": {
-   "total": 754,
-   "new_today": 37,
+   "total": 759,
+   "new_today": 1,
    "items": [
-    {
-     "desk": "Immigration",
-     "score": 7,
-     "priority": 70,
-     "title": "ILPA highlights 20 things you might not know about Home Office’s earned settlement proposals",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFczeExkaDZKWXdXXzNnb1ZFVXpmbmpkRUdsa0w1c1hKNHZvQkFhdF9fV1FVRlFhM0J2VEJnN3puNlNJbFI0QUJHcVVxYXRSbF9Cb01MM1ZKRF9ZQmRIbldOOVZiTVFnMEJOV1pWajNGeWhRcjJOZFYzdkFkRm9semJnaFdwOFJxMTBBMWYybmtVNm9tbnhxWk5FeksxdUxkdWpRODdYVDhUOEs0VDJoOHdZRTF1T3pWdW5B?oc=5",
-     "date": "2026-10-01",
-     "source": "Electronic Immigration Network",
-     "label": "United Kingdom",
-     "snippet": "Briefing paper points out that headline 10-year qualifying period for ILR will not apply to majority of applicants",
-     "lead": "Briefing paper points out that headline 10-year qualifying period for ILR will not apply to majority of applicants The Immigration Law Practitioners' Association (ILPA) last which published a briefing outlining 20 points you might not know about the Government's proposed \"earned settlement\" reforms, which would change how migrants qualify for indefinite leave to remain (ILR). ILPA highlights that while the reforms are widely understood ...",
-     "image": null,
-     "why": [
-      "Affects permanent residence",
-      "Announces a change"
-     ],
-     "tags": [
-      "PR / Settlement",
-      "United Kingdom"
-     ]
-    },
     {
      "desk": "Immigration",
      "score": 6,
      "priority": 60,
+     "title": "India and Switzerland Agree on Longer-Stay Visas and Young-Professional Exchanges",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR0hTS0xZMjVPSWlfemVOZjM3a1laTWJDZUptcFRrd3VZSy1PTmV2TjQ2dktGRHVDNkVFeDZrYUFmQ0lUUWh0cTN4cG1kSmpyMXZxUEpuYnBuTTRlWXBDYXB2eEh2TFBpbEpQMnN4ZThaRWh5eFVDd2k5bjZqV013Y0sydjZUVFgxYVZRcnRUbXNCYW9wbjM2Vm50X1hvVHZUVTRNTDdqS2hCZFlBZkE?oc=5",
+     "date": "2026-10-05",
+     "source": "The Policy Edge",
+     "label": "Switzerland",
+     "snippet": "Outcomes announced during the Swiss President’s visit include a migration and mobility partnership and an agreement for 300 young professionals from each country annually, with scope to raise that number. Separate arrangements cover transport technology, research and start-up cooperation",
+     "lead": "Outcomes announced during the Swiss President’s visit include a migration and mobility partnership and an agreement for 300 young professionals from each country annually, with scope to raise that number. Separate arrangements cover transport technology, research and start-up cooperation SDG 8: Decent Work and Economic Growth | SDG 9: Industry, Innovation and Infrastructure | SDG 17: Partnerships for the Goals Ministry of External ...",
+     "image": "https://www.policyedge.in/images/og-image.png",
+     "why": [
+      "Announces a change",
+      "Mentions India or Indians"
+     ],
+     "tags": [
+      "Switzerland"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 50,
      "title": "New Zealand changes parent visa selection: How the new rules work",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV2ZmY3d2ZkEzZ3kxbWtVM0NpazR2TkM5dGh1Q2xiQ2JKV2dWOWpKY280MDlQU1k1WGFkMkhPU19WWkFReGVYNTVUOGNaRmxoajZVZVc2eW1fUnEwM29lUmhpZ1RuZ2s5TGl2dzhDUS1DeTlhX2tzY09ZYTRnYWtzdE02Nmh4RXRpeHU1Tm44U2taT1J2QXVOLXBKV1gyVGVIQmpEZW12N1ZVTFlyNmZyeTFKVklST3dOLWRwcm9VLW5nZ3BXZEVWLUNB0gHPAUFVX3lxTE1jcDU2UWpWcHM0clhpZGpGOWVINWxUdG04SzdwM25FYms3ai1rR3Zub3FvajlsdElpM1A3NzFyLW01aTZOeVdJT3RmTjhham96Z1gwYTJSZzVuNWZnR2tsM3RqTDhfNjdSdXhuSkkzZTJnRXBzeElGRXhwUXpoUTVsRjg0R0gxUzZWS3JaVERTcWpqdEZ6RDdlc3A2akllMGs0UzlNblA4a2lDSV9VQ2tBREpqdjRya01SdUloNTNDWFBSbWdZQkpGYlk3emI5UQ?oc=5",
      "date": "2026-10-06",
@@ -304,8 +303,8 @@
     },
     {
      "desk": "Immigration",
-     "score": 6,
-     "priority": 60,
+     "score": 5,
+     "priority": 50,
      "title": "Man Allegedly Cheats Kadi Couple of ₹28 Lakh on Promise of Finland Work Visas",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdTV2cjlkQ2sxWGctR2ZvS0FmVmVvODFua1NtSGgyck04WVpHcUFMVzc4OWdTMmE1S2J0MmNMUk11SGlEbEpaTHhQcHBCVm9BTnA5bFlJb09VdEhmdGR1XzExQldXOXI5Z0wyV2FYaXlOSk1mYnM5VjJfRjFETnZtMk9NTkJkcVVaVUNPMUFaSTJHNFpmdGc?oc=5",
      "date": "2026-10-06",
@@ -326,24 +325,68 @@
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 20,
+   "new_today": 6,
    "items": [
+    {
+     "desk": "Advisory",
+     "score": 11,
+     "priority": 79,
+     "title": "RBI 25-bps rate hike or status quo: What should mutual fund investors do after the policy announcement? Expert explains",
+     "url": "https://www.livemint.com/money/personal-finance/rbi-25-bps-rate-hike-or-status-quo-what-should-mutual-fund-investors-do-after-the-policy-announcement-expert-explains-11791305829652.html",
+     "date": "2026-10-06",
+     "source": "Mint",
+     "label": "Mutual Funds",
+     "snippet": "The RBI may raise the repo rate by 25 bps or hold it at 5.25% on October 7. What should mutual fund investors do with their equity, debt, and gold allocations? Experts explain how to navigate the decision and what portfolio changes to make after the announcement in either scenario.",
+     "lead": "RBI 25-bps rate hike or status quo: What should mutual fund investors do after the policy announcement? Expert explains. (AI-generated image for representational purposes only) AI Quick Read On October 7 (Wednesday), the Reserve Bank of India ( RBI ) is expected to deliver its first repo rate hike in nearly 3.5 years, since February 2023. A Reuters poll showed 35 of 61 economists expect a 25-basis-point hike, which would take the repo ...",
+     "image": null,
+     "why": [
+      "Regulator: SEBI or RBI",
+      "Interest-rate decision",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "Mutual Funds",
+      "Realty & Infra"
+     ]
+    },
     {
      "desk": "Advisory",
      "score": 10,
      "priority": 71,
-     "title": "Gold inches up as October Fed rate hike prospects fade",
-     "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-up-as-october-fed-rate-hike-prospects-fade/articleshow/134683767.cms",
-     "date": "2026-10-05",
-     "source": "Economic Times",
+     "title": "Gold Price Moves Sideways: Stronger US Dollar Offsets Cooling Fed Rate Hike Expectations",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jbGNBR3IzbmFHdmdMY0lvYTZBM0JWVmJRUGVmN1RNSXU2dng4NmtJWWhZbXR0R0VsMEJtUTdNSVhYallnc0VCS3gybmwzNzVWcUktWW02Q0tmNXVnNlBxYzZ6a9IBY0FVX3lxTE5jbGNBR3IzbmFHdmdMY0lvYTZBM0JWVmJRUGVmN1RNSXU2dng4NmtJWWhZbXR0R0VsMEJtUTdNSVhYallnc0VCS3gybmwzNzVWcUktWW02Q0tmNXVnNlBxYzZ6aw?oc=5",
+     "date": "2026-10-06",
+     "source": "Bitget",
      "label": "Gold & Silver",
-     "snippet": "During early Monday trading in Asia, gold prices surged due to lackluster US job growth figures. This disappointing employment data notably diminished the Federal Reserve",
-     "lead": "Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Q2 earnings season: Will it settle or add to confusion in the stock market?",
-     "image": "https://img.etimg.com/thumb/msid-134683786,width-1200,height-900,imgsize-202974,overlay-etmarkets/articleshow.jpg",
+     "snippet": "Huitong News, October 6—— Gold prices remain in a sideways range, with a strong US dollar and high US Treasury yields limiting the upside for gold. Pers | Bitget crypto news!",
+     "lead": "On Monday (October 5), spot gold lacked clear directional impetus. A strengthening US dollar and elevated Treasury yields suppressed gold prices, while waning expectations for a Fed rate hike provided downside support for gold. Spot gold traded at $4,128.02, down 0.30%. Latest US business survey data has not provided new direction for gold. The S&P Global Services PMI for September was revised up slightly from the initial 58.7 to 58.8, ...",
+     "image": null,
      "why": [
       "Interest-rate decision",
       "Precious metals",
       "Global macro driver"
+     ],
+     "tags": [
+      "Gold & Silver"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 71,
+     "title": "Gold price crash: Gold, silver fall again amid Fed rate hike fears; Check latest 22K, 24K gold rates in Delhi, Mumbai, Bengaluru and other cities",
+     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNdU12LXl2YlRxM0VEaURBVzFCN3M4Qm9KLXlhTEZkMWVuY1o4VmpTV1gyUm96a2hFcGh4VDlPdFZRemZkUGJlYmhiUWhpdDZGWnQ0QnFWTk1JNnVMRld1WTBCOHBVejgxbnlwSGx5a0V3ck9EMTBtZXgyWWJsYUk3VmhTdmhWVzY0Qkp4MldHMHNRX0VuS0Y5QWVjbTRnVGE2Z3ZrbFZzdk42V3FfVGVFaEdUdlIzcFU0ZS1fcHBZRW5peGxoNWoxYzhhTTc4cE1PT0pVTVRmQkRZR2JadDNIaXZHZnl1dnR2ekFObGhsVUxYdnFxeHp3eGdGOHJISER2cWQzVkdpQlBZRmxWTmhhYTYxeFBRaW_SAZsCQVVfeXFMT2lBa0lpQjlmSTh6NFJ3TTFvQ3V6WkNPbktJSFlTNzRsVl9BMTB4Qkw0Z3ozZ0o3ZjFXa1F3Mk9nYTAwUUJHZzRsZ3QyT2xXd29MV3BKNmxQVURjM3drUXNzLUo2dl9OY05mMHprQmxjN05vZ1hscl9KU0VUbVZ3d3F0ZEpyMEdxOHg1eHE1c0R5RV9hVlJGeXhla1FRRnl3czZPMmVKTXpuZFVGZTJ6OWh0NHlTcmtsUDduR0NCWkp1dWs4ZzVyZDBZaEVRMjM3cGNvU3VCOUpzMi1qbDFVTy1fYXZVZnp0aWlENmlQeFlmQ3hVN3BWY09UVzM1elR2Rk9RWUZIcHZoVzFsTjlzemt1MmZRTTdkdnRjSQ?oc=5",
+     "date": "2026-10-01",
+     "source": "News24Online",
+     "label": "Gold & Silver",
+     "snippet": "recious metal prices have remained under pressure after a brief rise last week. Changing conditions between the US and Iran and fluctuations",
+     "lead": "",
+     "image": "https://news24online.com/wp-content/uploads/2026/10/Gold-Silver-Price-Today.jpg-10.jpeg",
+     "why": [
+      "Interest-rate decision",
+      "Precious metals",
+      "Global macro driver",
+      "Sharp market move"
      ],
      "tags": [
       "Gold & Silver"
@@ -369,47 +412,6 @@
      "tags": [
       "PMS"
      ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 64,
-     "title": "SEBI PMS Rules Could Redraw Wealth-Manager Rivalry",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQem9CMmhqMUN1cGpRek03OHZTOEN6MTlXQjVBcHJmYzkwSW9jT0RCc0xhaWk0X3FXY0xyVVZDQUk1Vzh1blNVNXN1OGdhNUhVNXV1bGFmMVM5UGZWM0NUT082ZlJ3RXN2Z3dBMmZoNElzTW12RnJkNGVJZVZweGg1OGliZXFBa2xJUlJsTFZnbWlzZkVzZW12OC1Yd1psNGt3RVRURDNVQmdQZUZoOWVpUFcxS1UyRHR3UjdPeUplZF9mcnU3OFZQVlozTGVfNno5?oc=5",
-     "date": "2026-10-05",
-     "source": "Kalkine India",
-     "label": "PMS",
-     "snippet": "SEBI's new portfolio-management rules could reshape competition among wealth managers, changing how affluent investors access professional money management.",
-     "lead": "Technical Analysis on One NYSE-Listed Retail Trade Stock – M No news articles found at the moment. You are reading a free article with opinions that may differ from the recommendation given by Kalkine in its paid research reports. Become a Kalkine member today to get access to our research reports, in-depth technical and fundamental research. Learn More A set of new portfolio-management rules from the market regulator could reshape the ...",
-     "image": "https://www.kalkine.co.in/uploads/articles/featured_image/c8dabe6c-a125-4a1c-b9dd-d8d2a1d2b476-28181.jpg",
-     "why": [
-      "PMS news",
-      "Regulator: SEBI or RBI"
-     ],
-     "tags": [
-      "PMS"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 64,
-     "title": "Marcellus Investment Managers receives final SEBI approval to launch Mutual Fund Business",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSWZFb0h2WUxjaXNTZGNGSjRnQzA2VjFkMVBTSExxUHVlaDJxRWN6MTJ4RV85TldhUFNyZUVGbTg1RmR1UjM1TWpOQVBhTkhHNDZ5S2MwNmxXSHdwdEJuTUF0N1IwY0t6ZHFXZEM5blpFakk2YUhhUXpVaExjaGtMMnZHYU9OTkJPbGFkcEhSYkVkQ2xYTjBOWXZqVk5zMzgyVl9tTEd3TVVwRXlqSEIyTHBlT0hLbEhNQzdQUDZha29scWFZV3IxN0ZFWdIBywFBVV95cUxPSWZFb0h2WUxjaXNTZGNGSjRnQzA2VjFkMVBTSExxUHVlaDJxRWN6MTJ4RV85TldhUFNyZUVGbTg1RmR1UjM1TWpOQVBhTkhHNDZ5S2MwNmxXSHdwdEJuTUF0N1IwY0t6ZHFXZEM5blpFakk2YUhhUXpVaExjaGtMMnZHYU9OTkJPbGFkcEhSYkVkQ2xYTjBOWXZqVk5zMzgyVl9tTEd3TVVwRXlqSEIyTHBlT0hLbEhNQzdQUDZha29scWFZV3IxN0ZFWQ?oc=5",
-     "date": "2026-09-30",
-     "source": "SMEStreet",
-     "label": "Mutual Funds",
-     "snippet": "Marcellus’ Mutual Fund to extend the firm",
-     "lead": "The final approval marks the next phase in the firm's evolution since its establishment in 2018. The mutual fund platform will allow Marcellus to participate in India's rapidly expanding mutual fund ecosystem and address a much larger pool of household savings through a regulated and accessible investment structure. The move comes as Indian households increasingly participate in financial markets through mutual funds and systematic ...",
-     "image": "https://img-cdn.publive.online/fit-in/1200x675/smstreet/media/media_files/2024/12/19/i49lJkNN3yTKDQqveE7Z.png",
-     "why": [
-      "Regulator: SEBI or RBI",
-      "New product or fund",
-      "Also covered by 5 other outlet(s)"
-     ],
-     "tags": [
-      "Mutual Funds"
-     ]
     }
    ]
   }
@@ -417,7 +419,7 @@
  "items": [
   {
    "desk": "Policy",
-   "score": 16,
+   "score": 15,
    "priority": 100,
    "title": "Cabinet approves Commitment of Rs.10,000 Crore towards establishment of the SME Growth Fund for direct equity investments in Small and Medium Enterprises to create future champions",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2319532",
@@ -440,7 +442,7 @@
   },
   {
    "desk": "Startups",
-   "score": 14,
+   "score": 13,
    "priority": 100,
    "title": "Swara Baby Products Secures SEBI Nod For ₹1,000 Cr IPO",
    "url": "https://inc42.com/buzz/swara-baby-products-secures-sebi-nod-for-%e2%82%b91000-cr-ipo/",
@@ -463,50 +465,27 @@
    "must_read": true
   },
   {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 100,
-   "title": "Haitians affected by termination of U.S. protected status eye six-month route to Canadian permanent residence",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVVRUcXRzSzNSN1MzVmtPdjFMR1JOQ3ZLQ0o2Um5KczBJRGhfRkUxUW9WR3NMVUFaaElzX09JWmpxT0otWi1VRGd4eWJCNTZ3bGNQU1VZamdBb1JfNGhkcU8wY293T3JJbEs0d3g1cDFWb1pkdTJFa0Fzc0tVcGRtV2dua3pESUtfMTRZU0VqSFlnaEFaMmNBZUpIQUw2djZkLTczcC1DZERoMnl1NG1hUXZMb2xPMG1vdkxTNmRXZzZYVGhQbm1qSEItOWJFdWRXUFJRdG0xal9WcmRTQ1lDOElDd2xhQThX0gHuAUFVX3lxTE5fcklHZVpLU1pKdmstWVFZLVhBUTVkNm0wSnlQamNpMWtVRXlNZXNScnRxUTNCNzlsaFRqd1ppcUxRdFVmeWNLY3VfVFhPWFByVXlRMmRLOGxabFBWNFJZYUliZzJhU3IwT0o0WURVc0ItYnlVS25XZGdxT2N2b3pNWHUzUmg3cE53TG5BMlpCVU5ucXhUVG11M3VTNHktdkJ5bVREdktCQUpEMWRtRjhkcjRmRTFoX0JYX25LN2dXaV90OWFYZi0tVGdCTUtkS0cwWVpSQ2pTMy1tdVRPUHB2Y1BUQ09Xb0lRTlgtQXc?oc=5",
-   "date": "2026-10-06",
-   "source": "CIC News",
-   "label": "Canada",
-   "snippet": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Check Your Eligibili",
-   "lead": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Express Entry awards additional points to candidates with French language skills, and includes larger selection rounds ...",
-   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/Haitians-eye-six-month-Canadian-PR.jpg",
-   "why": [
-    "Affects permanent residence",
-    "Major story (8 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Canada"
-   ],
-   "rank": 3,
-   "must_read": true
-  },
-  {
    "desk": "Advisory",
    "score": 14,
    "priority": 100,
-   "title": "RBI Repo Rate May Climb To 6% In FY27 As G-Sec Yields Face Upward Pressure: Report",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeFM2RUxXN05PelFVLXFrN2JXYkJmN2lFa1hEQjdENDNJdk5IMlZCU00wajd4NDhXTEhmVlVvVm9kUVU0ajV1RndTdmk2VU5PLVY3czktOHo3SmxVSGYyb0JfaEpEZFRIcTBPZjhXd0o5MTBKbHRuV2I2NGFXaGp4Y2Q1cjdoN1JJaHE4ejNhTFFEZm1rakp2T2xZb242RDIxU3ZBU3NmOTduM1BBOU9MejZlbnNpck92SmxMcDR1bTNlWlUyRWg3OGtn0gHKAUFVX3lxTE14UzZFTFc3Tk96UVUtcWs3YldiQmY3aUVrWERCN0Q0M0l2TkgyVkJTTTBqN3g0OFdMSGZWVW9Wb2RRVTRqNXVGd1N2aTZVTk8tVjdzOS04ejdKbFVIZjJvQl9oSkRkVEhxME9mOFd3SjkxMEpsdG5XYjY0YVdoanhjZDVyN2g3UklocTh6M2FMUURmbWtqSnZPbFlvbjZEMjFTdkFTc2Y5N24zUEE5T0x6NmVuc2lyT3ZKbExwNHVtM2VaVTJFaDc4a2c?oc=5",
-   "date": "2026-10-04",
-   "source": "NDTV Profit",
-   "label": "Debt & Bonds",
-   "snippet": "",
-   "lead": "",
+   "title": "RBI MPC interest rate decision in focus: Can a 25 bps hike trigger a market sell-off?",
+   "url": "https://www.livemint.com/market/stock-market-news/rbi-mpc-interest-rate-decision-in-focus-can-a-25-bps-hike-trigger-a-market-selloff-11791284684306.html",
+   "date": "2026-10-06",
+   "source": "Mint",
+   "label": "Regulatory",
+   "snippet": "As the Reserve Bank of India prepares for a potential 25 basis points rate hike amidst rising inflation and global economic pressures, market sentiments remain keenly focused. Analysts weigh in on how this decision could influence banking stocks and the broader economy amidst fluctuating oil prices.",
+   "lead": "RBI MPC will most likely go for a 25 bps rate hike on 7 October. ( an AI-generated image for representational purposes ) AI Quick Read RBI MPC interest rate decision in focus : The Reserve Bank of India (RBI) is most likely to raise the repo rate by 25 basis points on Wednesday, October 7, following the trend set by other major global central banks, including the US Federal Reserve, the Bank of Japan (BoJ) and the European Central Bank ...",
    "image": null,
    "why": [
     "Regulator: SEBI or RBI",
     "Interest-rate decision",
-    "Government bond yields",
-    "Also covered by 5 other outlet(s)"
+    "Sharp market move",
+    "Also covered by 2 other outlet(s)"
    ],
    "tags": [
-    "Debt & Bonds"
+    "Regulatory"
    ],
-   "rank": 4,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -530,13 +509,106 @@
     "PR / Settlement",
     "Japan"
    ],
+   "rank": 4,
+   "must_read": true
+  },
+  {
+   "desk": "Advisory",
+   "score": 13,
+   "priority": 93,
+   "title": "RBI seen beginning rate-hike cycle, repo rate may reach 6% by FY27 as inflation risks rise: Reports",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTGRWRUVja0sycEpjZnNpc3NoY205czRfbG9iUXdtYUVLZW91blo0M0FYWkRTb0h3MXpzTmVkaGlsYUlRR0ZWZGdmQ0cxbk13RHZFRUJXaUltVzZJbnNoeWFoblM3NDhUTVUwengzN2tqZmV2OXkyNVRIVlZ5V2JDMTNlNkU5azhobVFzMXM1cVFRNElRZXJwNlhGSlU5NXhVSWhXWTFaMTh5SGlNRUY1TXRYb2V5bWZnaUdhZUZJeW5NUQ?oc=5",
+   "date": "2026-10-06",
+   "source": "ChiniMandi",
+   "label": "Regulatory",
+   "snippet": "New Delhi : The Reserve Bank of India is seen beginning a rate-hike cycle that could take the repo rate to 6 per cent by the end of FY27, as rising",
+   "lead": "New Delhi [India]: The Reserve Bank of India is seen beginning a rate-hike cycle that could take the repo rate to 6 per cent by the end of FY27, as rising inflation, elevated global yields and resilient domestic growth strengthen the case for tighter monetary policy, according to research reports by Union Bank of India and ICICI Bank. The reports, released ahead of the second day of the RBI Monetary Policy Committee’s October 5-7 ...",
+   "image": "https://www.chinimandi.com/wp-content/uploads/2026/09/ANI-20260930050201.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Also covered by 3 other outlet(s)"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
    "rank": 5,
    "must_read": true
   },
   {
-   "desk": "Startups",
+   "desk": "Advisory",
    "score": 13,
    "priority": 93,
+   "title": "RBI Repo Rate May Climb To 6% In FY27 As G-Sec Yields Face Upward Pressure: Report",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeFM2RUxXN05PelFVLXFrN2JXYkJmN2lFa1hEQjdENDNJdk5IMlZCU00wajd4NDhXTEhmVlVvVm9kUVU0ajV1RndTdmk2VU5PLVY3czktOHo3SmxVSGYyb0JfaEpEZFRIcTBPZjhXd0o5MTBKbHRuV2I2NGFXaGp4Y2Q1cjdoN1JJaHE4ejNhTFFEZm1rakp2T2xZb242RDIxU3ZBU3NmOTduM1BBOU9MejZlbnNpck92SmxMcDR1bTNlWlUyRWg3OGtn0gHKAUFVX3lxTE14UzZFTFc3Tk96UVUtcWs3YldiQmY3aUVrWERCN0Q0M0l2TkgyVkJTTTBqN3g0OFdMSGZWVW9Wb2RRVTRqNXVGd1N2aTZVTk8tVjdzOS04ejdKbFVIZjJvQl9oSkRkVEhxME9mOFd3SjkxMEpsdG5XYjY0YVdoanhjZDVyN2g3UklocTh6M2FMUURmbWtqSnZPbFlvbjZEMjFTdkFTc2Y5N24zUEE5T0x6NmVuc2lyT3ZKbExwNHVtM2VaVTJFaDc4a2c?oc=5",
+   "date": "2026-10-04",
+   "source": "NDTV Profit",
+   "label": "Debt & Bonds",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Government bond yields",
+    "Also covered by 5 other outlet(s)"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 14,
+   "priority": 93,
+   "title": "Cabinet approves Minimum Support Prices (MSP) for Rabi Crops for Marketing Season 2027-28",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316941",
+   "date": "2026-09-30",
+   "source": "PIB",
+   "label": "Agriculture & Food",
+   "snippet": "The Cabinet Committee on Economic Affairs (CCEA), chaired by the  Prime Minister Shri Narendra Modi,",
+   "lead": "The Cabinet Committee on Economic Affairs (CCEA), chaired by the Prime Minister Shri Narendra Modi, has approved the increase in the Minimum Support Prices (MSP) for all mandated Rabi Crops for Marketing Season 2027-28. Government has increased the Minimum Support Prices (MSP) of Rabi Crops for Marketing Season 2027-28, to ensure remunerative prices to the growers for their produce. The absolute highest increase in MSP has been ...",
+   "image": null,
+   "why": [
+    "Cabinet decision",
+    "Subsidy or incentive",
+    "Cabinet"
+   ],
+   "tags": [
+    "Agriculture & Food"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 92,
+   "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+   "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+   "date": "2026-10-07",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+   "lead": "Cloud provider Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation, marking what could be its last private round before a planned 2027 IPO, according to The Wall Street Journal. Coatue Management and Blackstone are leading the round. A letter to investors reviewed by the Journal shows Lambda’s backlog grew from $15 billion in June to $50 billion in September. While that might look like a hearty increase in demand, ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1200,687",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $4,000M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "AI & Deeptech"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 92,
    "title": "Etched fields funding offers at $40B+ valuation, sources say",
    "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
    "date": "2026-10-06",
@@ -554,13 +626,13 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 6,
+   "rank": 9,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 13,
-   "priority": 93,
+   "score": 12,
+   "priority": 92,
    "title": "Kuku turns profitable ahead of IPO; revenue surges sixfold to Rs 1,484 crore in FY26",
    "url": "https://www.medianama.com/2026/10/223-kuku-ipo-revenue-surges/",
    "date": "2026-10-05",
@@ -577,83 +649,106 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 13,
-   "priority": 93,
-   "title": "RBI MPC begins 3-day meeting as crude, inflation put rate hike back on table",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUm9KaVBjY3J6QlBWRkxSall5YUo4WV9ScUw2LWRMV1BsVVNqUnNHNGhqTksyRFc0TzNDcXY2LTlNZVBIbS1HekY0a1VaR0dsN2ZjTjNyV1FvdDlaeWxVdXJ0S1NkNmsyUEtUX1NkdlZKUzJOSjhzLXYtc2JCQ1VIUWFHcDl2b3FrVXc4RmJPeG9YZURoXzNRNjVJUHFaSmFhSHI0NzJmU1hwSzRQX25aNkdwUVlyUFlPek9OWEhMYWdrd9IBxwFBVV95cUxOQVY2RW5rci1qbnkxWXo3cnUzTTVJd3BrLTNFci1vU2VLUThGLXRqN2wxTVRNMWc5MW5NVEg1TXpUUUVsY0t6elFfbEZpZ2ROQnBTRGo4Nkg1NjV5RV9WcS1fX3F5Vkhha1c4cTdoa21QWFhIOGJ3R3ZLTFlKNkVTNlF0d1kzVkstZ2c3SWdYb0J6LW81a1ZnWEk3NDRmRjk3V2otWTZUMmpBZnpMalBMbC1NV2pNTEUzQVVpR0taNjdMdUxyQk9J?oc=5",
-   "date": "2026-10-05",
-   "source": "Firstpost",
-   "label": "Regulatory",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Global macro driver",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 8,
+   "rank": 10,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 9,
    "priority": 90,
-   "title": "Australia’s Coalition pledges to scrap Temporary Graduate visas, cut student numbers",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZGF0V2hNR0tLeUJJZExxeS05QlZ3eUFqT2NxS1otSGFzTzVYWnVHcWp3UHl4amFXQllqY1FvaUJ3dUpVLVRERy14UW9MYy0xY3Q5OWZuTGFvaW9EdElFOUEwLW1JcjYtN2s4VWx5b2JHc0R4eU9EeUVjQjIxcHpZNW1ZTWRwYU9kTVNoNUtaWW95UEdrUkx4UnZxRVBINlI4ZGt1MFBERkIyQQ?oc=5",
+   "title": "'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN1Y0NmhScExoSGhOZzJmbk1FY25fSGhKU0JqaXJaZmtSWTVKVGZOWGVQX3B5S0w3Sk9NZ19CbVljOFh0SXpkcXZDY1NzMlpxN3JZbHhiZnBhVFJQNlRzN2RWWElGNm5xZDBIVWtocjdzWUd0d0pjQTlLb0J3ZmNjVVhXLUxINFdxQk92SXZ3aFFROVNBTVcxdVBDbG9hZ0Z0QThIVFV6SjVLUlNsRjI5VEw3b092VWtmd3F4VmZGYUZHSi1QaTJiMWMyRVRCUm1manfSAdcBQVVfeXFMTmM2NVAzWXFnLWNETEUtVUVJWWRGUzRpRERacmZ2WjdsV1JjaUxhUHpuejVpN3h6TWJiNGhIX3prbUJXNXNlR0hwWG00b2RQampmRHZYbDJoRDJKOHN1bWpXZXNmUXo5QVU5cXNDdlhUcFVOU1I1VnRiQ1NtMGhpUmR6amRPTmM2N2VnVVFfNFFFZEJCLW9TbS03dncxZFM0SHFHUF92RTY4SW4xT2xwSjNvenI5Z0dYRTBMQW9uU0p1bGlnd0ROTnFtYUhGa3RQeEVwd093ZzQ?oc=5",
    "date": "2026-10-06",
-   "source": "The PIE News",
+   "source": "WION",
    "label": "Australia",
-   "snippet": "The Coalition has vowed to abolish Temporary Graduate visas and cut international student commencements to 240,000 a year under a sweeping migration plan that would also restrict most student secondary applicants.",
-   "lead": "The Coalition also says it would link each student visa to the enrolling institution and crack down on international students breaching work-hour restrictions. The plan would “reduce international student migration by restricting most secondary applicants, which are expected to reduce the share of foreign students in higher education to below 25%”. Responding to the news, the Group of Eight has warned the Coalition’s migration policy ...",
-   "image": "https://thepienews.b-cdn.net/wp-content/uploads/2026/10/iStock-1385878159-6.jpg",
+   "snippet": "Indians planning to move to Australia could face tighter opportunities if the country's conservative opposition comes to power. Opposition Leader Angus Taylor has unveiled the \"biggest cut to immigration\" in history. Here's all you need to know.",
+   "lead": "Live TV LOGIN v logout Live TV Latest Gravitas World India Entertainment Hollywood Bollywood Sports Opinions videos Photos TV Shows Mission Sustainability Wion / World / 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians Edited By Moohita Kaur Garg Published: Oct 06, 2026, 14:13 IST | ...",
+   "image": "https://cdn3.wionews.com/prod/wion/images/2026/20261006/image-1791274946407.png?imwidth=1200&imheight=900",
    "why": [
     "Announces a change",
-    "Major story (8 headlines that day)"
+    "Major story (9 headlines that day)",
+    "Mentions India or Indians"
    ],
    "tags": [
-    "Student / Graduate",
     "Australia"
    ],
-   "rank": 9,
+   "rank": 11,
    "must_read": false
   },
   {
-   "desk": "Policy",
-   "score": 14,
-   "priority": 88,
-   "title": "Cabinet approves Minimum Support Prices (MSP) for Rabi Crops for Marketing Season 2027-28",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316941",
-   "date": "2026-09-30",
-   "source": "PIB",
-   "label": "Agriculture & Food",
-   "snippet": "The Cabinet Committee on Economic Affairs (CCEA), chaired by the  Prime Minister Shri Narendra Modi,",
-   "lead": "The Cabinet Committee on Economic Affairs (CCEA), chaired by the Prime Minister Shri Narendra Modi, has approved the increase in the Minimum Support Prices (MSP) for all mandated Rabi Crops for Marketing Season 2027-28. Government has increased the Minimum Support Prices (MSP) of Rabi Crops for Marketing Season 2027-28, to ensure remunerative prices to the growers for their produce. The absolute highest increase in MSP has been ...",
-   "image": null,
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 90,
+   "title": "Haitians affected by termination of U.S. protected status eye six-month route to Canadian permanent residence",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVVRUcXRzSzNSN1MzVmtPdjFMR1JOQ3ZLQ0o2Um5KczBJRGhfRkUxUW9WR3NMVUFaaElzX09JWmpxT0otWi1VRGd4eWJCNTZ3bGNQU1VZamdBb1JfNGhkcU8wY293T3JJbEs0d3g1cDFWb1pkdTJFa0Fzc0tVcGRtV2dua3pESUtfMTRZU0VqSFlnaEFaMmNBZUpIQUw2djZkLTczcC1DZERoMnl1NG1hUXZMb2xPMG1vdkxTNmRXZzZYVGhQbm1qSEItOWJFdWRXUFJRdG0xal9WcmRTQ1lDOElDd2xhQThX0gHuAUFVX3lxTE5fcklHZVpLU1pKdmstWVFZLVhBUTVkNm0wSnlQamNpMWtVRXlNZXNScnRxUTNCNzlsaFRqd1ppcUxRdFVmeWNLY3VfVFhPWFByVXlRMmRLOGxabFBWNFJZYUliZzJhU3IwT0o0WURVc0ItYnlVS25XZGdxT2N2b3pNWHUzUmg3cE53TG5BMlpCVU5ucXhUVG11M3VTNHktdkJ5bVREdktCQUpEMWRtRjhkcjRmRTFoX0JYX25LN2dXaV90OWFYZi0tVGdCTUtkS0cwWVpSQ2pTMy1tdVRPUHB2Y1BUQ09Xb0lRTlgtQXc?oc=5",
+   "date": "2026-10-06",
+   "source": "CIC News",
+   "label": "Canada",
+   "snippet": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Check Your Eligibili",
+   "lead": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Express Entry awards additional points to candidates with French language skills, and includes larger selection rounds ...",
+   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/Haitians-eye-six-month-Canadian-PR.jpg",
    "why": [
-    "Cabinet decision",
-    "Subsidy or incentive",
-    "Cabinet"
+    "Affects permanent residence",
+    "Major story (8 headlines that day)"
    ],
    "tags": [
-    "Agriculture & Food"
+    "PR / Settlement",
+    "Canada"
    ],
-   "rank": 10,
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 86,
+   "title": "RBI MPC meeting Oct 2026: Why TCS, HDFC Bank, ICICI Lombard, Coal India shares may gain if 25 bps rate hike is announced",
+   "url": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-october-2026-why-hdfc-bank-icici-lombard-coal-india-tcs-likely-to-gain-if-bank-announces-rate-hike-11791268517566.html",
+   "date": "2026-10-06",
+   "source": "Mint",
+   "label": "PMS",
+   "snippet": "RBI MPC meeting October 2026: According to Harshal Dasani, Business Head at INVasset PMS, a 25 bps hike to 5.50% is no longer a surprise, as market expectations already reflect a significant probability of such a move.",
+   "lead": "RBI MPC meeting October 2026: The Reserve Bank of India (RBI) is all set to announce its policy decision outcome on Wednesday, 7 October. (AI image for representational purposes only) ( AI generated image ) AI Quick Read RBI MPC meeting October 2026: The Reserve Bank of India (RBI) is all set to announce its policy decision outcome on Wednesday, 7 October, with market participants assessing the impact of a potential 25 basis point ...",
+   "image": null,
+   "why": [
+    "PMS news",
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision"
+   ],
+   "tags": [
+    "PMS"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 86,
+   "title": "Indian bond yields ease as oil cools, Fed rate hike bets tumble ahead of RBI policy",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWElfT1JtQTRYd1RwRDZEUS1kc2gxQVVXZjJ3RThMZVRKZWtxbzFsWVp1WVk0RGhzcXBKa2dzSnpfRUREd2wxZEtVeFhFWUMzOWVDYl9NRG5ZbWF2X3paeWctV0xoNXkzZncySTZ4NW9LLU4yVGVzTlNLUzg0SDJfTkFPdjVsZTJ6WVkwdUllMkViZUNybGtCdGo3N2pqQkxfS05GR18zZUphNTVwNXlPc216YWdDcFpybk45Y2VxeGR5dERUNzk4MEhjTGxyQnVXaHJrb0dDRUg5YUJUdXc?oc=5",
+   "date": "2026-09-30",
+   "source": "Moneycontrol.com",
+   "label": "Debt & Bonds",
+   "snippet": "The benchmark 10-year bond yield was trading at 7.1482 percent",
+   "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
+   "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260622142629_RBIRTR1.png",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Government bond yields",
+    "Global macro driver"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 14,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
-   "priority": 86,
+   "score": 11,
+   "priority": 85,
    "title": "Exclusive: Leverage Edu Eyes ₹500 Cr Pre-IPO Funding, Targets ₹600 Cr Revenue In FY27",
    "url": "https://inc42.com/buzz/exclusive-leverage-edu-eyes-%e2%82%b9500-cr-pre-ipo-funding-targets-%e2%82%b9600-cr-revenue-in-fy27/",
    "date": "2026-10-05",
@@ -670,59 +765,37 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 11,
+   "rank": 15,
    "must_read": false
   },
   {
-   "desk": "Advisory",
-   "score": 12,
-   "priority": 86,
-   "title": "RBI Faces Rate Hike Test as Inflation, Crude Prices Put Pressure on Policy",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV2VBM2F4Y0EyYTNNOXdLa1lnT3YwRGlDV2E5TFdnc2JqUnUtNnJBN2hqSFQ0eFQxRFQyZS13c3F1X1dUYXJSZ2NNaU5kMXJ4bjZaa2l1UW5TMlBCRm0zTXRjY09OQThYRGVabldXMlBpblE1am9ObkFxRGlqemRWUHhwOERCbS1pWXlIRTNDYXNaZDR0bXBWMTNUOUk4d2lhWWota19XNFE?oc=5",
-   "date": "2026-10-05",
-   "source": "boldnewsonline.com",
-   "label": "Regulatory",
-   "snippet": "",
-   "lead": "New Delhi, Oct 5: The Reserve Bank of India’s Monetary Policy Committee began its October meeting on Monday amid growing expectations that the central bank could raise interest rates as inflationary pressures widen and elevated crude oil prices create fresh risks for the economy. The three day meeting, scheduled from October 5 to 7, comes at a crucial point for monetary policy. Economists and financial markets are closely watching ...",
-   "image": null,
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+   "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+   "date": "2026-09-30",
+   "source": "TechCrunch",
+   "label": "Global · Other",
+   "snippet": "EliseAI raises $350M, doubles valuation in a year.",
+   "lead": "AI startup EliseAI announced on Tuesday that it has raised $350 million at a $4 billion valuation, double what it was worth when it raised its Series E last August. This latest round was co-led by Andreessen Horowitz and Bessemer Ventures. EliseAI, founded in 2017, automates administrative and operational work for housing and healthcare companies. It said its software is used by 1 in 6 apartments across the country and announced this ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1469304638.jpg?resize=1200,669",
    "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Global macro driver"
+    "Funding",
+    "Very large figure in headline (about $4,000M: round or valuation)",
+    "Valuation, listing or profitability signal",
+    "Also covered by 1 other outlet(s)"
    ],
    "tags": [
-    "Regulatory"
+    "Funding"
    ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 12,
-   "priority": 86,
-   "title": "India's bond yield curve poised to flatten as RBI drains surplus cash",
-   "url": "https://www.business-standard.com/markets/news/india-s-bond-yield-curve-poised-to-flatten-as-rbi-drains-surplus-cash-126100500084_1.html",
-   "date": "2026-10-05",
-   "source": "Business Standard",
-   "label": "Debt & Bonds",
-   "snippet": "The 5-10 year yield gap is expected to narrow as the RBI drains surplus cash, pressuring shorter maturities",
-   "lead": "Excess banking-system liquidity is prompting the RBI to withdraw funds, putting upward pressure on shorter-dated yields as it seeks to contain prices | Image: Bloomberg Don't miss the most important news and views of the day. Get them on our Telegram channel",
-   "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/05/thumb/fitandfill/1200X628/1791170294-1556.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Government bond yields",
-    "Also covered by 3 other outlet(s)"
-   ],
-   "tags": [
-    "Debt & Bonds"
-   ],
-   "rank": 13,
+   "rank": 16,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 13,
-   "priority": 81,
+   "score": 12,
+   "priority": 80,
    "title": "Cabinet approves setting up of Integrated Transport & Logistics Authority",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2319529",
    "date": "2026-10-06",
@@ -738,95 +811,27 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 79,
-   "title": "Type One Energy raises $200 million to develop world’s first commercial fusion reactor",
-   "url": "https://economictimes.indiatimes.com/tech/technology/type-one-energy-raises-200-million-to-develop-worlds-first-commercial-fusion-reactor/articleshow/134739366.cms",
-   "date": "2026-10-06",
-   "source": "ET Startups",
-   "label": "Global · Other",
-   "snippet": "The Series-B round, which takes total funding to-date to more than $400 million, is the third-biggest sector Series B raise over the last five years, data from industry tracker PitchBook showed. The company did not disclose its valuation.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-7743606,resizemode-75,msid-134739366/tech/technology/type-one-energy-raises-200-million-to-develop-worlds-first-commercial-fusion-reactor.jpg",
-   "why": [
-    "Funding",
-    "Large deal (about $200M)",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Funding"
-   ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 79,
-   "title": "VC funding dips in September despite big deals; More voices join the lineup at TechSparks 2026",
-   "url": "https://yourstory.com/2026/10/vc-funding-dips-in-september-lineup-at-techsparks-2026",
-   "date": "2026-10-06",
-   "source": "YourStory",
-   "label": "India · Other",
-   "snippet": "Venture capital funding into Indian startups saw an 8.3% year-on-year dip in September, despite four $100 million deals. However, there were some positives. Meanwhile, here's a look at the speaker lineup for TechSparks 2026.",
-   "lead": "VC funding dips in September despite big deals; More voices join the lineup at TechSparks 2026 Venture capital funding into Indian startups saw an 8.3% year-on-year dip in September, despite four $100 million deals. However, there were some positives. Meanwhile, here's a look at the speaker lineup for TechSparks 2026. Team YS 17296 Stories Tuesday October 06, 2026 , 5 min Read The edtech company’s wholly-owned subsidiary FinZ Finance ...",
-   "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/MyCopyofNewPPTTemplates1-1791209162167.jpg",
-   "why": [
-    "Funding",
-    "Large deal (about $100M)"
-   ],
-   "tags": [
-    "Funding"
-   ],
-   "rank": 16,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 71,
-   "title": "JioBlackRock Mutual Fund files draft document with Sebi for a gold ETF",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPelREX0tTbGVhOFVHZHNWU3JMRGhBYTFsSVNwNGRiY1ZvUWpSVU4tUmhsSkZma09ON0NLUzhXNFRSbFV3TEJXU2lYRUV3RHhJcjg2QWNiQU5nTzRXVjdwbExzdVNDcDh4MUpiNWJMWGJ2WXpQYTQ5dnpwREctWkU1dUxrQnZleWR4WVhxVVJKOEU3d29qdzVyNngzTWc3TmJtOHFzTGVKaHZGN3ZYcXdrWDJrR1hhSnRfSmEweERhdlF6TFF1aVdMazBrVVNBaFZpd0FNOTNR0gHWAUFVX3lxTE96VERfS1NsZWE4VUdkc1ZTckxEaEFhMWxJU3A0ZGJjVm9RalJVTi1SaGxKRmZrT043Q0tTOFc0VFJsVXdMQldTaVhFRXdEeElyODZBY2JBTmdPNFdWN3BsTHN1U0NwOHgxSmI1YkxYYnZZelBhNDl2enBERy1aRTV1TGtCdmV5ZHhZWHFVUko4RTd3b2p3NXI2eDNNZzdOYm04cXNMZUpodkY3dlhxd2tYMmtHWGFKdF9KYTB4RGF2UXpMUXVpV0xrMGtVU0FoVml3QU05M1E?oc=5",
-   "date": "2026-10-05",
-   "source": "The Economic Times",
-   "label": "Gold & Silver",
-   "snippet": "JioBlackRock Mutual Fund has filed a draft document with Sebi for JioBlackRock Gold ETF, an open-ended scheme tracking domestic gold prices. The ETF will invest 95-100% in gold and related instruments, with a minimum investment of Rs 500.",
-   "lead": "JioBlackRock Gold ETF will track domestic gold prices, invest up to 100% in gold-related instruments and offer investors a minimum entry amount of Rs 500.",
-   "image": "https://m.economictimes.com/thumb/width-1200,height-900,imgsize-35366,msid-134703338/jioblackrock-mutual-fund-files-draft-document-with-sebi-for-a-gold-etfbr.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Precious metals",
-    "Also covered by 2 other outlet(s)"
-   ],
-   "tags": [
-    "Gold & Silver"
-   ],
    "rank": 17,
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 70,
-   "title": "119 Countries Without a Visa: The Strength of the Austrian Passport",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNVE3MTdfdTFYMS1BenhmdnhmQ2l3YXMyYWdpd283cTBMRXFpNjh0bk9hTUU3UzZYMWlIMnBiVnJyZGFJUVotTU5Ibko0Qm4zSlRTaVM4a2xPM3Ftb2Q3WGoxVVFCaEtDV25BTlY2SkdZbVY5VVJ0Yy01VjFFOUUwNGstRURzaUlXeWRFU1JLcW9TSFl2amJOdEtPendxQQ?oc=5",
-   "date": "2026-10-06",
-   "source": "vienna.at",
-   "label": "Austria",
-   "snippet": "Alle Nachrichten aus Wien und den Bezirken sowie aktuelle News aus Österreich und der Welt mit vielen Themen wie Sport, Politik, Stars, uvm.",
-   "lead": "Mit 173 Mobilitätspunkten schafft es der österreichische Reisepass im aktuellen Passport-Reports-Ranking weltweit auf Rang 10. 119 Ziele sind visumfrei erreichbar. Anzeige Anzeige Austria’s passport continues to be one of the most travel-friendly in the world. In the current ranking by Passport Reports, it ranks 10th out of 199 countries. It is awarded 173 mobility points and a global access rate of 87.4 percent. This is due to various ...",
-   "image": "https://www.vienna.at/2026/10/rrxpVrYeum6q0PATe-q6-1-vodl-10519571-16-9-1280x720.jpg?v=06c1d4fc",
+   "desk": "Policy",
+   "score": 11,
+   "priority": 73,
+   "title": "Cabinet approves One Network, Smarter Traffic: Delhi Moves to Real-Time Traffic Management",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316953",
+   "date": "2026-09-30",
+   "source": "PIB",
+   "label": "Other Policy",
+   "snippet": "The Cabinet Committee on Economic Affairs (CCEA), chaired by the  Prime Minister Shri Narendra Modi,",
+   "lead": "The Cabinet Committee on Economic Affairs (CCEA), chaired by the Prime Minister Shri Narendra Modi, has approved implementation of the ITMS Project by Delhi Police at an estimated cost of Rs.1,789.52 crore, inclusive of taxes. The project will cover 42 identified traffic corridors and will be implemented in three phases over 24 months, followed by five years of operation and maintenance. As part of the wider efforts of the Central ...",
+   "image": null,
    "why": [
-    "Affects citizenship"
+    "Cabinet decision",
+    "Cabinet"
    ],
    "tags": [
-    "Citizenship",
-    "Austria"
+    "Other Policy"
    ],
    "rank": 18,
    "must_read": false
@@ -835,28 +840,29 @@
    "desk": "Immigration",
    "score": 7,
    "priority": 70,
-   "title": "India and Switzerland Agree on Longer-Stay Visas and Young-Professional Exchanges",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR0hTS0xZMjVPSWlfemVOZjM3a1laTWJDZUptcFRrd3VZSy1PTmV2TjQ2dktGRHVDNkVFeDZrYUFmQ0lUUWh0cTN4cG1kSmpyMXZxUEpuYnBuTTRlWXBDYXB2eEh2TFBpbEpQMnN4ZThaRWh5eFVDd2k5bjZqV013Y0sydjZUVFgxYVZRcnRUbXNCYW9wbjM2Vm50X1hvVHZUVTRNTDdqS2hCZFlBZkE?oc=5",
-   "date": "2026-10-05",
-   "source": "The Policy Edge",
-   "label": "Switzerland",
-   "snippet": "Outcomes announced during the Swiss President’s visit include a migration and mobility partnership and an agreement for 300 young professionals from each country annually, with scope to raise that number. Separate arrangements cover transport technology, research and start-up cooperation",
-   "lead": "Outcomes announced during the Swiss President’s visit include a migration and mobility partnership and an agreement for 300 young professionals from each country annually, with scope to raise that number. Separate arrangements cover transport technology, research and start-up cooperation SDG 8: Decent Work and Economic Growth | SDG 9: Industry, Innovation and Infrastructure | SDG 17: Partnerships for the Goals Ministry of External ...",
-   "image": "https://www.policyedge.in/images/og-image.png",
+   "title": "ILPA highlights 20 things you might not know about Home Office’s earned settlement proposals",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFczeExkaDZKWXdXXzNnb1ZFVXpmbmpkRUdsa0w1c1hKNHZvQkFhdF9fV1FVRlFhM0J2VEJnN3puNlNJbFI0QUJHcVVxYXRSbF9Cb01MM1ZKRF9ZQmRIbldOOVZiTVFnMEJOV1pWajNGeWhRcjJOZFYzdkFkRm9semJnaFdwOFJxMTBBMWYybmtVNm9tbnhxWk5FeksxdUxkdWpRODdYVDhUOEs0VDJoOHdZRTF1T3pWdW5B?oc=5",
+   "date": "2026-10-01",
+   "source": "Electronic Immigration Network",
+   "label": "United Kingdom",
+   "snippet": "Briefing paper points out that headline 10-year qualifying period for ILR will not apply to majority of applicants",
+   "lead": "Briefing paper points out that headline 10-year qualifying period for ILR will not apply to majority of applicants The Immigration Law Practitioners' Association (ILPA) last which published a briefing outlining 20 points you might not know about the Government's proposed \"earned settlement\" reforms, which would change how migrants qualify for indefinite leave to remain (ILR). ILPA highlights that while the reforms are widely understood ...",
+   "image": null,
    "why": [
-    "Announces a change",
-    "Mentions India or Indians"
+    "Affects permanent residence",
+    "Announces a change"
    ],
    "tags": [
-    "Switzerland"
+    "PR / Settlement",
+    "United Kingdom"
    ],
    "rank": 19,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 11,
-   "priority": 69,
+   "score": 10,
+   "priority": 67,
    "title": "Cabinet passes resolution congratulating Prime Minister Shri Narendra Modi on 25 Years of Unbroken Leadership",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2319565",
    "date": "2026-10-06",
@@ -877,30 +883,8 @@
   },
   {
    "desk": "Policy",
-   "score": 11,
-   "priority": 69,
-   "title": "Cabinet approves One Network, Smarter Traffic: Delhi Moves to Real-Time Traffic Management",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316953",
-   "date": "2026-09-30",
-   "source": "PIB",
-   "label": "Other Policy",
-   "snippet": "The Cabinet Committee on Economic Affairs (CCEA), chaired by the  Prime Minister Shri Narendra Modi,",
-   "lead": "The Cabinet Committee on Economic Affairs (CCEA), chaired by the Prime Minister Shri Narendra Modi, has approved implementation of the ITMS Project by Delhi Police at an estimated cost of Rs.1,789.52 crore, inclusive of taxes. The project will cover 42 identified traffic corridors and will be implemented in three phases over 24 months, followed by five years of operation and maintenance. As part of the wider efforts of the Central ...",
-   "image": null,
-   "why": [
-    "Cabinet decision",
-    "Cabinet"
-   ],
-   "tags": [
-    "Other Policy"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
    "score": 10,
-   "priority": 62,
+   "priority": 67,
    "title": "RBI issues Amendment Directions on ‘Simplified approval process for subsequent acquisitions of major shareholding in a banking company by mutual funds, insurance companies and pension funds’",
    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63711",
    "date": "2026-10-01",
@@ -918,13 +902,13 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 22,
+   "rank": 21,
    "must_read": false
   },
   {
    "desk": "Policy",
    "score": 10,
-   "priority": 62,
+   "priority": 67,
    "title": "Cabinet approves Green Energy Corridor Phase-III scheme for Development of Intra-State Transmission System with Battery Energy Storage Systems",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316948",
    "date": "2026-09-30",
@@ -939,6 +923,28 @@
    ],
    "tags": [
     "Infrastructure & Transport"
+   ],
+   "rank": 22,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 6,
+   "priority": 60,
+   "title": "119 Countries Without a Visa: The Strength of the Austrian Passport",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNVE3MTdfdTFYMS1BenhmdnhmQ2l3YXMyYWdpd283cTBMRXFpNjh0bk9hTUU3UzZYMWlIMnBiVnJyZGFJUVotTU5Ibko0Qm4zSlRTaVM4a2xPM3Ftb2Q3WGoxVVFCaEtDV25BTlY2SkdZbVY5VVJ0Yy01VjFFOUUwNGstRURzaUlXeWRFU1JLcW9TSFl2amJOdEtPendxQQ?oc=5",
+   "date": "2026-10-06",
+   "source": "vienna.at",
+   "label": "Austria",
+   "snippet": "Alle Nachrichten aus Wien und den Bezirken sowie aktuelle News aus Österreich und der Welt mit vielen Themen wie Sport, Politik, Stars, uvm.",
+   "lead": "Mit 173 Mobilitätspunkten schafft es der österreichische Reisepass im aktuellen Passport-Reports-Ranking weltweit auf Rang 10. 119 Ziele sind visumfrei erreichbar. Anzeige Anzeige Austria’s passport continues to be one of the most travel-friendly in the world. In the current ranking by Passport Reports, it ranks 10th out of 199 countries. It is awarded 173 mobility points and a global access rate of 87.4 percent. This is due to various ...",
+   "image": "https://www.vienna.at/2026/10/rrxpVrYeum6q0PATe-q6-1-vodl-10519571-16-9-1280x720.jpg?v=06c1d4fc",
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "Austria"
    ],
    "rank": 23,
    "must_read": false
