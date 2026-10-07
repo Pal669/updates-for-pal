@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-07",
- "built": "2026-10-07 08:14 IST",
+ "built": "2026-10-07 11:15 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22776.0,
-   "change_pct": 0.98,
-   "asof": "06 Oct 15:31 IST"
+   "value": 22691.0,
+   "change_pct": -0.37,
+   "asof": "07 Oct 11:15 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73068.0,
-   "change_pct": 0.95,
-   "asof": "06 Oct 15:32 IST"
+   "value": 72985.0,
+   "change_pct": -0.11,
+   "asof": "07 Oct 11:00 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 96.36,
-   "change_pct": 0.02,
-   "asof": "07 Oct 07:31 IST"
+   "value": 96.55,
+   "change_pct": 0.21,
+   "asof": "07 Oct 11:14 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 101.42,
-   "change_pct": 0.84,
-   "asof": "07 Oct 08:03 IST"
+   "value": 101.54,
+   "change_pct": 0.95,
+   "asof": "07 Oct 11:03 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4174.0,
-   "change_pct": -0.32,
-   "asof": "07 Oct 08:04 IST"
+   "value": 4160.0,
+   "change_pct": -0.66,
+   "asof": "07 Oct 11:05 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,9 +79,29 @@
  },
  "desks": {
   "Policy": {
-   "total": 142,
-   "new_today": 0,
+   "total": 144,
+   "new_today": 2,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 10,
+     "priority": 67,
+     "title": "Cabinet approves Green Energy Corridor Phase-III scheme for Development of Intra-State Transmission System with Battery Energy Storage Systems",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316948",
+     "date": "2026-09-30",
+     "source": "PIB",
+     "label": "Infrastructure & Transport",
+     "snippet": "The Union Cabinet chaired by the Prime Minister Shri Narendra Modi has approved the Green Energy Cor",
+     "lead": "The Union Cabinet chaired by the Prime Minister Shri Narendra Modi has approved the Green Energy Corridor Phase-III (GEC-III) scheme. This historic initiative will strengthen India’s Intra-State Transmission System (InSTS) to enable evacuation of up to 135 Gigawatt (GW) of renewable energy across States/ Union Territories. The scheme also provides for deployment of 50 GWh of Battery Energy Storage Systems (BESS) at the Renewable Energy ...",
+     "image": null,
+     "why": [
+      "Cabinet decision",
+      "Cabinet"
+     ],
+     "tags": [
+      "Infrastructure & Transport"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 8,
@@ -143,33 +163,12 @@
      "tags": [
       "Banking & Rates"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 8,
-     "priority": 53,
-     "title": "Master Circular - Credit Facilities to Scheduled Castes (SCs) & Scheduled Tribes (STs)",
-     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13716&Mode=0",
-     "date": "2026-10-01",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Notifications - Reserve Bank of India",
-     "lead": "The Chairman/ Managing Director / Chief Executive Officer All Scheduled Commercial Banks (including Small Finance Banks) Master Circular - Credit facilities to Scheduled Castes (SCs) & Scheduled Tribes (STs) The Reserve Bank of India has, from time to time, issued a number of guidelines/instructions to banks on credit facilities to Scheduled Castes (SCs) & Scheduled Tribes (STs). The enclosed Master Circular consolidates the circulars ...",
-     "image": null,
-     "why": [
-      "Regulator rulebook change",
-      "Touches financial markets",
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 451,
-   "new_today": 6,
+   "total": 454,
+   "new_today": 9,
    "items": [
     {
      "desk": "Startups",
@@ -257,9 +256,29 @@
    ]
   },
   "Immigration": {
-   "total": 764,
-   "new_today": 3,
+   "total": 766,
+   "new_today": 5,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 60,
+     "title": "119 Countries Without a Visa: The Strength of the Austrian Passport",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNVE3MTdfdTFYMS1BenhmdnhmQ2l3YXMyYWdpd283cTBMRXFpNjh0bk9hTUU3UzZYMWlIMnBiVnJyZGFJUVotTU5Ibko0Qm4zSlRTaVM4a2xPM3Ftb2Q3WGoxVVFCaEtDV25BTlY2SkdZbVY5VVJ0Yy01VjFFOUUwNGstRURzaUlXeWRFU1JLcW9TSFl2amJOdEtPendxQQ?oc=5",
+     "date": "2026-10-06",
+     "source": "vienna.at",
+     "label": "Austria",
+     "snippet": "Alle Nachrichten aus Wien und den Bezirken sowie aktuelle News aus Österreich und der Welt mit vielen Themen wie Sport, Politik, Stars, uvm.",
+     "lead": "Mit 173 Mobilitätspunkten schafft es der österreichische Reisepass im aktuellen Passport-Reports-Ranking weltweit auf Rang 10. 119 Ziele sind visumfrei erreichbar. Anzeige Anzeige Austria’s passport continues to be one of the most travel-friendly in the world. In the current ranking by Passport Reports, it ranks 10th out of 199 countries. It is awarded 173 mobility points and a global access rate of 87.4 percent. This is due to various ...",
+     "image": "https://www.vienna.at/2026/10/rrxpVrYeum6q0PATe-q6-1-vodl-10519571-16-9-1280x720.jpg?v=06c1d4fc",
+     "why": [
+      "Affects citizenship"
+     ],
+     "tags": [
+      "Citizenship",
+      "Austria"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 6,
@@ -278,26 +297,6 @@
      ],
      "tags": [
       "Switzerland"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 50,
-     "title": "Man Allegedly Cheats Kadi Couple of ₹28 Lakh on Promise of Finland Work Visas",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdTV2cjlkQ2sxWGctR2ZvS0FmVmVvODFua1NtSGgyck04WVpHcUFMVzc4OWdTMmE1S2J0MmNMUk11SGlEbEpaTHhQcHBCVm9BTnA5bFlJb09VdEhmdGR1XzExQldXOXI5Z0wyV2FYaXlOSk1mYnM5VjJfRjFETnZtMk9NTkJkcVVaVUNPMUFaSTJHNFpmdGc?oc=5",
-     "date": "2026-10-06",
-     "source": "GujaratSamachar English",
-     "label": "Finland",
-     "snippet": "Travel agent accused of ₹28 lakh Finland job scam. A Kadi couple was allegedly defrauded by Rohit Sharma, who promised jobs and work permits in Finland. Sharma…",
-     "lead": "00:00 00:23 Summarized by AI; it may make mistakes. Check important info AI-image Sola police have registered a case against a 34-year-old travel agent for allegedly cheating a Kadi-based couple of ₹28 lakh by promising them jobs and work permits in Finland. The complainant, used-car dealer Parag Patel, alleged that Rohit Natwarlal Sharma took the money after assuring him and his 22-year-old wife, Rajkumari, that he could arrange ...",
-     "image": "https://cdn.gujaratsamachar.com/media/post/2026/10/738a89cc8d12e66e913ffb0a6fceaad4.jfif?w=1200&h=630&q=80",
-     "why": [
-      "Affects work visas"
-     ],
-     "tags": [
-      "Work visa",
-      "Finland"
      ]
     }
    ]
@@ -774,6 +773,28 @@
    "desk": "Policy",
    "score": 12,
    "priority": 80,
+   "title": "Monetary Policy Statement, 2026-27 Resolution of the Monetary Policy Committee October 5 to 7, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+   "date": "2026-10-07",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "The Monetary Policy Committee (MPC) held its 63rd meeting from October 5 to 7, 2026, under the chairmanship of Shri Sanjay Malhotra, Governor, Reserve Bank of India. The MPC members Dr. Nagesh Kumar, Shri Saugata Bhattacharya, Prof. Ram Singh, Dr. Poonam Gupta and Shri Indranil Bhattacharyya attended the meeting. 2. After a detailed assessment of the evolving macroeconomic and financial developments and the outlook, the MPC voted ...",
+   "image": null,
+   "why": [
+    "Rates and liquidity",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 17,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 12,
+   "priority": 80,
    "title": "Cabinet approves setting up of Integrated Transport & Logistics Authority",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2319529",
    "date": "2026-10-06",
@@ -789,7 +810,7 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -811,7 +832,7 @@
    "tags": [
     "Other Policy"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -834,7 +855,7 @@
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 19,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -856,7 +877,7 @@
    "tags": [
     "Other Policy"
    ],
-   "rank": 20,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -880,28 +901,6 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 67,
-   "title": "Cabinet approves Green Energy Corridor Phase-III scheme for Development of Intra-State Transmission System with Battery Energy Storage Systems",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316948",
-   "date": "2026-09-30",
-   "source": "PIB",
-   "label": "Infrastructure & Transport",
-   "snippet": "The Union Cabinet chaired by the Prime Minister Shri Narendra Modi has approved the Green Energy Cor",
-   "lead": "The Union Cabinet chaired by the Prime Minister Shri Narendra Modi has approved the Green Energy Corridor Phase-III (GEC-III) scheme. This historic initiative will strengthen India’s Intra-State Transmission System (InSTS) to enable evacuation of up to 135 Gigawatt (GW) of renewable energy across States/ Union Territories. The scheme also provides for deployment of 50 GWh of Battery Energy Storage Systems (BESS) at the Renewable Energy ...",
-   "image": null,
-   "why": [
-    "Cabinet decision",
-    "Cabinet"
-   ],
-   "tags": [
-    "Infrastructure & Transport"
-   ],
    "rank": 22,
    "must_read": false
   },
@@ -909,20 +908,20 @@
    "desk": "Immigration",
    "score": 6,
    "priority": 60,
-   "title": "119 Countries Without a Visa: The Strength of the Austrian Passport",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNVE3MTdfdTFYMS1BenhmdnhmQ2l3YXMyYWdpd283cTBMRXFpNjh0bk9hTUU3UzZYMWlIMnBiVnJyZGFJUVotTU5Ibko0Qm4zSlRTaVM4a2xPM3Ftb2Q3WGoxVVFCaEtDV25BTlY2SkdZbVY5VVJ0Yy01VjFFOUUwNGstRURzaUlXeWRFU1JLcW9TSFl2amJOdEtPendxQQ?oc=5",
-   "date": "2026-10-06",
-   "source": "vienna.at",
-   "label": "Austria",
-   "snippet": "Alle Nachrichten aus Wien und den Bezirken sowie aktuelle News aus Österreich und der Welt mit vielen Themen wie Sport, Politik, Stars, uvm.",
-   "lead": "Mit 173 Mobilitätspunkten schafft es der österreichische Reisepass im aktuellen Passport-Reports-Ranking weltweit auf Rang 10. 119 Ziele sind visumfrei erreichbar. Anzeige Anzeige Austria’s passport continues to be one of the most travel-friendly in the world. In the current ranking by Passport Reports, it ranks 10th out of 199 countries. It is awarded 173 mobility points and a global access rate of 87.4 percent. This is due to various ...",
-   "image": "https://www.vienna.at/2026/10/rrxpVrYeum6q0PATe-q6-1-vodl-10519571-16-9-1280x720.jpg?v=06c1d4fc",
+   "title": "South Korea tightens foreign student visas, ties work rights to Korean - CHOSUNBIZ",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdzVYdHY5Q3hWbUtQVmJTSWp0TU9Lc2hIWDkxdlYyZGRFNUxJOC1xbnFVNFJxcml3RUVvSFY2STU0aVI5cXZZQjFPUTlpUkRZVFFoVjJ3WDFQQVJpeGRJc2pNUDlnNWlsRVktSTdCS0NzaTMzWHlmRkdVWGhvbXRXQ9IBlAFBVV95cUxPcWVWSEVPa2twRUxHTlVlUzRraTVFa09lZFVXRE5Ha2Q4WFNwWDNnMWp2OE9sXzlMOVFkSEZLbDRQZ29KTUltTVlXdHRKTlJtc0dvcjVEcEUtS3hpWUpiMVE3UHNmS0hKdFNlTzZuNG41T2hMSWRBLUVYOWJUdFNTV2VhMlJISzZvbmhkbXp0MDI1U2ZZ?oc=5",
+   "date": "2026-10-07",
+   "source": "Chosunbiz",
+   "label": "South Korea",
+   "snippet": "South Korea tightens foreign student visas, expands deposits, curbs loopholes",
+   "lead": "조선비즈 구글 검색 먼저 보기 The government will tighten checks on the financial standing of foreign students to keep them from overstaying or working illegally in Korea, and will suspend visa preference benefits if universities provide backdoor support for part-time jobs for foreign students. The Ministry of Justice on the 7th announced the results of discussions by the \"council on improving the visa system for foreign students.\" The council, ...",
+   "image": "https://biz.chosun.com/resizer/v2/A6I75D4EL5JCFGTH7FCPXJQG3Y.jpg?auth=26a218ab69f5d82bfd0c2c908d5979bbaae4d402b114fa305eab82e9549978c7&width=1200&height=630&smart=true",
    "why": [
-    "Affects citizenship"
+    "Announces a change"
    ],
    "tags": [
-    "Citizenship",
-    "Austria"
+    "Student / Graduate",
+    "South Korea"
    ],
    "rank": 23,
    "must_read": false
