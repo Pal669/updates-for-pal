@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-07",
- "built": "2026-10-07 11:55 IST",
+ "built": "2026-10-07 23:05 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,44 +12,44 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22689.0,
-   "change_pct": -0.38,
-   "asof": "07 Oct 11:55 IST"
+   "value": 22603.0,
+   "change_pct": -0.76,
+   "asof": "07 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72906.0,
-   "change_pct": -0.22,
-   "asof": "07 Oct 11:40 IST"
+   "value": 72639.0,
+   "change_pct": -0.59,
+   "asof": "07 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 96.65,
-   "change_pct": 0.32,
-   "asof": "07 Oct 11:55 IST"
+   "value": 96.76,
+   "change_pct": 0.44,
+   "asof": "07 Oct 21:10 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 101.62,
-   "change_pct": 1.03,
-   "asof": "07 Oct 11:45 IST"
+   "value": 100.15,
+   "change_pct": -0.43,
+   "asof": "07 Oct 22:55 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4160.0,
-   "change_pct": -0.64,
-   "asof": "07 Oct 11:45 IST"
+   "value": 4146.0,
+   "change_pct": -0.99,
+   "asof": "07 Oct 22:55 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.27,
-   "change_pct": -0.79,
-   "asof": "07 Oct 00:29 IST"
+   "value": 5.28,
+   "change_pct": 0.11,
+   "asof": "07 Oct 22:50 IST"
   }
  ],
  "features": {
@@ -79,43 +79,43 @@
  },
  "desks": {
   "Policy": {
-   "total": 145,
-   "new_today": 3,
+   "total": 164,
+   "new_today": 22,
    "items": [
     {
      "desk": "Policy",
-     "score": 10,
-     "priority": 67,
-     "title": "Cabinet approves Green Energy Corridor Phase-III scheme for Development of Intra-State Transmission System with Battery Energy Storage Systems",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316948",
+     "score": 11,
+     "priority": 73,
+     "title": "Cabinet approves One Network, Smarter Traffic: Delhi Moves to Real-Time Traffic Management",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316953",
      "date": "2026-09-30",
      "source": "PIB",
-     "label": "Infrastructure & Transport",
-     "snippet": "The Union Cabinet chaired by the Prime Minister Shri Narendra Modi has approved the Green Energy Cor",
-     "lead": "The Union Cabinet chaired by the Prime Minister Shri Narendra Modi has approved the Green Energy Corridor Phase-III (GEC-III) scheme. This historic initiative will strengthen India’s Intra-State Transmission System (InSTS) to enable evacuation of up to 135 Gigawatt (GW) of renewable energy across States/ Union Territories. The scheme also provides for deployment of 50 GWh of Battery Energy Storage Systems (BESS) at the Renewable Energy ...",
+     "label": "Other Policy",
+     "snippet": "The Cabinet Committee on Economic Affairs (CCEA), chaired by the  Prime Minister Shri Narendra Modi,",
+     "lead": "The Cabinet Committee on Economic Affairs (CCEA), chaired by the Prime Minister Shri Narendra Modi, has approved implementation of the ITMS Project by Delhi Police at an estimated cost of Rs.1,789.52 crore, inclusive of taxes. The project will cover 42 identified traffic corridors and will be implemented in three phases over 24 months, followed by five years of operation and maintenance. As part of the wider efforts of the Central ...",
      "image": null,
      "why": [
       "Cabinet decision",
       "Cabinet"
      ],
      "tags": [
-      "Infrastructure & Transport"
+      "Other Policy"
      ]
     },
     {
      "desk": "Policy",
-     "score": 8,
-     "priority": 53,
-     "title": "Master Direction on Note Sorting Machines",
-     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13723&Mode=0",
-     "date": "2026-10-02",
+     "score": 10,
+     "priority": 67,
+     "title": "Penal Interest on shortfall in CRR and SLR requirements - Change in Bank Rate",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13728&Mode=0",
+     "date": "2026-10-07",
      "source": "RBI",
      "label": "Banking & Rates",
      "snippet": "Notifications - Reserve Bank of India",
-     "lead": "",
+     "lead": "Penal Interest on shortfall in CRR and SLR requirements - Change in Bank Rate Please refer to our circular DoR.RET.REC.341/12.01.001/2025-26 dated December 05, 2025 on the captioned subject. 2. As announced in the Monetary Policy Statement, 2026-27 dated October 07, 2026 , the Bank Rate is revised upwards by 25 basis points from 5.50 per cent to 5.75 per cent with immediate effect. Accordingly, all penal interest rates on shortfall in ...",
      "image": null,
      "why": [
-      "Regulator rulebook change",
+      "Rates and liquidity",
       "Regulator: RBI"
      ],
      "tags": [
@@ -124,40 +124,40 @@
     },
     {
      "desk": "Policy",
-     "score": 8,
-     "priority": 53,
-     "title": "Reserve Bank of India (Commercial Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026",
-     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13719&Mode=0",
-     "date": "2026-10-01",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Notifications - Reserve Bank of India",
-     "lead": "Reserve Bank of India (Commercial Banks - Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026 The Reserve Bank had issued the Reserve Bank of India (Commercial Banks – Acquisition and Holding of Shares or Voting Rights) Directions, 2025 (hereinafter referred as the ‘Master Direction’), on November 28, 2025, which mandates that any person seeking to make an initial acquisition of major shareholding in a ...",
+     "score": 10,
+     "priority": 67,
+     "title": "Cabinet passes resolution congratulating Prime Minister Shri Narendra Modi on 25 Years of Unbroken Leadership",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2319565",
+     "date": "2026-10-06",
+     "source": "PIB",
+     "label": "Other Policy",
+     "snippet": "The Union Cabinet today passed a resolution congratulating Prime Minister Shri Narendra Modi on comp",
+     "lead": "Cabinet Cabinet passes resolution congratulating Prime Minister Shri Narendra Modi on 25 Years of Unbroken Leadership 10 Defining Highlights of the Union Cabinet Resolution Posted On: 06 OCT 2026 3:50PM by PIB Delhi The Union Cabinet today passed a resolution congratulating Prime Minister Shri Narendra Modi on completing 25 years of continuous leadership as head of government. Far more than a customary tribute, it celebrates the ...",
      "image": null,
      "why": [
-      "Regulator rulebook change",
-      "Rule change",
-      "Regulator: RBI"
+      "Cabinet decision",
+      "Cabinet"
      ],
      "tags": [
-      "Banking & Rates"
+      "Other Policy"
      ]
     },
     {
      "desk": "Policy",
-     "score": 8,
-     "priority": 53,
-     "title": "Consolidation/ Review of instructions issued on currency management matters – Withdrawal of Circulars/ Guidelines",
-     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13718&Mode=0",
+     "score": 10,
+     "priority": 67,
+     "title": "RBI issues Amendment Directions on ‘Simplified approval process for subsequent acquisitions of major shareholding in a banking company by mutual funds, insurance companies and pension funds’",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63711",
      "date": "2026-10-01",
      "source": "RBI",
      "label": "Banking & Rates",
-     "snippet": "Notifications - Reserve Bank of India",
-     "lead": "Consolidation/ Review of instructions issued on currency management matters – Withdrawal of Circulars/ Guidelines In pursuance of the Reserve Bank’s ongoing initiative to rationalise the regulatory framework, a review of instructions issued on currency management related matters has been undertaken. The exercise involved consolidation of extant circulars/ guidelines into function-wise Master Directions (MDs) and subject-specific ...",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "The Reserve Bank, vide Press Release dated July 14, 2026 , had issued the draft \"Reserve Bank of India (Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026” , seeking comments / feedback from the regulated entities and members of public / other stakeholders on or before August 4, 2026. The draft Amendment Directions proposed to simplify approval process for subsequent acquisitions of major shareholding in a ...",
      "image": null,
      "why": [
       "Regulator rulebook change",
       "Rule change",
+      "Touches financial markets",
       "Regulator: RBI"
      ],
      "tags": [
@@ -167,9 +167,51 @@
    ]
   },
   "Startups": {
-   "total": 457,
-   "new_today": 12,
+   "total": 484,
+   "new_today": 39,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "Quick commerce in India set for $90B boom by 2031: Google-Redseer study",
+     "url": "https://yourstory.com/2026/10/india-quick-commerce-set-for-usd-90b-boom-by-2031-google-redseer-study",
+     "date": "2026-10-07",
+     "source": "YourStory",
+     "label": "India · Commerce & D2C",
+     "snippet": "Driven by festive season demand and rapid expansion into non-metro regions, India’s quick commerce market is projected to skyrocket from $13 billion in FY2026 to $90 billion by FY2031.",
+     "lead": "Quick commerce in India set for $90B boom by 2031: Google-Redseer study Driven by festive season demand and rapid expansion into non-metro regions, India’s quick commerce market is projected to skyrocket from $13 billion in FY2026 to $90 billion by FY2031. Team YS 17313 Stories Wednesday October 07, 2026 , 3 min Read India’s quick-commerce market is on track to balloon from $13 billion this year to $90 billion by 2031, according to a ...",
+     "image": "https://images.yourstory.com/cs/2/604090802d6d11e9aa979329348d4c3e/Imagekn5f-1680596050228.jpg",
+     "why": [
+      "Financials",
+      "Very large figure in headline (about $90,000M: round or valuation)"
+     ],
+     "tags": [
+      "Financials",
+      "Commerce & D2C"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "Exclusive: Leverage Edu Eyes ₹500 Cr Pre-IPO Funding, Targets ₹600 Cr Revenue In FY27",
+     "url": "https://inc42.com/buzz/exclusive-leverage-edu-eyes-%e2%82%b9500-cr-pre-ipo-funding-targets-%e2%82%b9600-cr-revenue-in-fy27/",
+     "date": "2026-10-05",
+     "source": "Inc42",
+     "label": "India · Other",
+     "snippet": "IPO-bound Leverage Edu is targeting ₹600 Cr in revenue in FY27, up 61% from ₹372 Cr in FY26, sources told Inc42",
+     "lead": "IPO-bound Leverage Edu is targeting ₹600 Cr in revenue in FY27, up 61% from ₹372 Cr in FY26, sources told Inc42 The startup wants to expand its revenue base and bring a large private equity investor on board ahead of its planned ₹2,000–3,000 Cr IPO Leverage Edu is exploring a ₹500 Cr pre-IPO funding round and has held talks with a couple of global PE firms, while working to finalise bankers for its public issue",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Leverage-Edu-social.jpg",
+     "why": [
+      "IPO & Listing",
+      "Sizeable deal (about $63M)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "IPO & Listing"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 11,
@@ -196,107 +238,48 @@
      "desk": "Startups",
      "score": 10,
      "priority": 77,
-     "title": "Type One Energy raises $200 million to develop world’s first commercial fusion reactor",
-     "url": "https://economictimes.indiatimes.com/tech/technology/type-one-energy-raises-200-million-to-develop-worlds-first-commercial-fusion-reactor/articleshow/134739366.cms",
-     "date": "2026-10-06",
-     "source": "ET Startups",
-     "label": "Global · Other",
-     "snippet": "The Series-B round, which takes total funding to-date to more than $400 million, is the third-biggest sector Series B raise over the last five years, data from industry tracker PitchBook showed. The company did not disclose its valuation.",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-7743606,resizemode-75,msid-134739366/tech/technology/type-one-energy-raises-200-million-to-develop-worlds-first-commercial-fusion-reactor.jpg",
-     "why": [
-      "Funding",
-      "Large deal (about $200M)",
-      "Also covered by 1 other outlet(s)"
-     ],
-     "tags": [
-      "Funding"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "VC funding dips in September despite big deals; More voices join the lineup at TechSparks 2026",
-     "url": "https://yourstory.com/2026/10/vc-funding-dips-in-september-lineup-at-techsparks-2026",
-     "date": "2026-10-06",
-     "source": "YourStory",
-     "label": "India · Other",
-     "snippet": "Venture capital funding into Indian startups saw an 8.3% year-on-year dip in September, despite four $100 million deals. However, there were some positives. Meanwhile, here's a look at the speaker lineup for TechSparks 2026.",
-     "lead": "VC funding dips in September despite big deals; More voices join the lineup at TechSparks 2026 Venture capital funding into Indian startups saw an 8.3% year-on-year dip in September, despite four $100 million deals. However, there were some positives. Meanwhile, here's a look at the speaker lineup for TechSparks 2026. Team YS 17296 Stories Tuesday October 06, 2026 , 5 min Read The edtech company’s wholly-owned subsidiary FinZ Finance ...",
-     "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/MyCopyofNewPPTTemplates1-1791209162167.jpg",
+     "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
+     "url": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
+     "date": "2026-10-07",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Parallel Systems raised $100 million to scale production of its autonomous electric rail vehicle, which can shuttle thousands of pounds of freight up to 500 miles.",
+     "lead": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains Tim De Chant 8:00 AM PDT · October 7, 2026 The railroad industry was one of the first to disrupt how the world worked with technology, but lately, innovation in freight railroading has amounted to little more than longer and longer trains. That has led many railroads to abandon shorter routes, ceding a chunk of the $1 trillion surface freight market to trucking ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/10/parallel-systems-panther-vehicle.jpeg?resize=1200,675",
      "why": [
       "Funding",
       "Large deal (about $100M)"
      ],
      "tags": [
-      "Funding"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Marico Acquires Additional Stake In Plix For ₹1,012 Cr, To Complete Buyout By July 2027",
-     "url": "https://inc42.com/buzz/marico-acquires-additional-stake-in-plix-for-%e2%82%b91012-cr-to-complete-buyout-by-july-2027/",
-     "date": "2026-10-05",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "Marico has acquired an additional 24.09% stake in plant-based nutrition and personal care brand Plix for ₹1,012.03 Cr in an…",
-     "lead": "The latest transaction is part of an agreement to acquire a total 38.18% stake from Plix’s founders and certain other shareholders. Marico plans to acquire 14.09% stake in July 2027. The consideration for this tranche will include a base amount of up to ₹592 Cr, along with additional payments linked to milestones. Marico said the investment in Plix parent Satiya Nutraceuticals and its wholly owned subsidiary Juzio has helped broaden ...",
-     "image": null,
-     "why": [
-      "Acquisition",
-      "Large deal (about $107M)"
-     ],
-     "tags": [
-      "Acquisition"
+      "Funding",
+      "AI & Deeptech"
      ]
     }
    ]
   },
   "Immigration": {
-   "total": 768,
-   "new_today": 6,
+   "total": 783,
+   "new_today": 19,
    "items": [
     {
      "desk": "Immigration",
-     "score": 6,
-     "priority": 60,
-     "title": "119 Countries Without a Visa: The Strength of the Austrian Passport",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNVE3MTdfdTFYMS1BenhmdnhmQ2l3YXMyYWdpd283cTBMRXFpNjh0bk9hTUU3UzZYMWlIMnBiVnJyZGFJUVotTU5Ibko0Qm4zSlRTaVM4a2xPM3Ftb2Q3WGoxVVFCaEtDV25BTlY2SkdZbVY5VVJ0Yy01VjFFOUUwNGstRURzaUlXeWRFU1JLcW9TSFl2amJOdEtPendxQQ?oc=5",
-     "date": "2026-10-06",
-     "source": "vienna.at",
-     "label": "Austria",
-     "snippet": "Alle Nachrichten aus Wien und den Bezirken sowie aktuelle News aus Österreich und der Welt mit vielen Themen wie Sport, Politik, Stars, uvm.",
-     "lead": "Mit 173 Mobilitätspunkten schafft es der österreichische Reisepass im aktuellen Passport-Reports-Ranking weltweit auf Rang 10. 119 Ziele sind visumfrei erreichbar. Anzeige Anzeige Austria’s passport continues to be one of the most travel-friendly in the world. In the current ranking by Passport Reports, it ranks 10th out of 199 countries. It is awarded 173 mobility points and a global access rate of 87.4 percent. This is due to various ...",
-     "image": "https://www.vienna.at/2026/10/rrxpVrYeum6q0PATe-q6-1-vodl-10519571-16-9-1280x720.jpg?v=06c1d4fc",
+     "score": 7,
+     "priority": 70,
+     "title": "ILPA highlights 20 things you might not know about Home Office’s earned settlement proposals",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFczeExkaDZKWXdXXzNnb1ZFVXpmbmpkRUdsa0w1c1hKNHZvQkFhdF9fV1FVRlFhM0J2VEJnN3puNlNJbFI0QUJHcVVxYXRSbF9Cb01MM1ZKRF9ZQmRIbldOOVZiTVFnMEJOV1pWajNGeWhRcjJOZFYzdkFkRm9semJnaFdwOFJxMTBBMWYybmtVNm9tbnhxWk5FeksxdUxkdWpRODdYVDhUOEs0VDJoOHdZRTF1T3pWdW5B?oc=5",
+     "date": "2026-10-01",
+     "source": "Electronic Immigration Network",
+     "label": "United Kingdom",
+     "snippet": "Briefing paper points out that headline 10-year qualifying period for ILR will not apply to majority of applicants",
+     "lead": "Briefing paper points out that headline 10-year qualifying period for ILR will not apply to majority of applicants The Immigration Law Practitioners' Association (ILPA) last which published a briefing outlining 20 points you might not know about the Government's proposed \"earned settlement\" reforms, which would change how migrants qualify for indefinite leave to remain (ILR). ILPA highlights that while the reforms are widely understood ...",
+     "image": null,
      "why": [
-      "Affects citizenship"
+      "Affects permanent residence",
+      "Announces a change"
      ],
      "tags": [
-      "Citizenship",
-      "Austria"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 60,
-     "title": "India and Switzerland Agree on Longer-Stay Visas and Young-Professional Exchanges",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR0hTS0xZMjVPSWlfemVOZjM3a1laTWJDZUptcFRrd3VZSy1PTmV2TjQ2dktGRHVDNkVFeDZrYUFmQ0lUUWh0cTN4cG1kSmpyMXZxUEpuYnBuTTRlWXBDYXB2eEh2TFBpbEpQMnN4ZThaRWh5eFVDd2k5bjZqV013Y0sydjZUVFgxYVZRcnRUbXNCYW9wbjM2Vm50X1hvVHZUVTRNTDdqS2hCZFlBZkE?oc=5",
-     "date": "2026-10-05",
-     "source": "The Policy Edge",
-     "label": "Switzerland",
-     "snippet": "Outcomes announced during the Swiss President’s visit include a migration and mobility partnership and an agreement for 300 young professionals from each country annually, with scope to raise that number. Separate arrangements cover transport technology, research and start-up cooperation",
-     "lead": "Outcomes announced during the Swiss President’s visit include a migration and mobility partnership and an agreement for 300 young professionals from each country annually, with scope to raise that number. Separate arrangements cover transport technology, research and start-up cooperation SDG 8: Decent Work and Economic Growth | SDG 9: Industry, Innovation and Infrastructure | SDG 17: Partnerships for the Goals Ministry of External ...",
-     "image": "https://www.policyedge.in/images/og-image.png",
-     "why": [
-      "Announces a change",
-      "Mentions India or Indians"
-     ],
-     "tags": [
-      "Switzerland"
+      "PR / Settlement",
+      "United Kingdom"
      ]
     }
    ]
@@ -396,6 +379,30 @@
  },
  "items": [
   {
+   "desk": "Startups",
+   "score": 13,
+   "priority": 100,
+   "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
+   "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
+   "date": "2026-10-07",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
+   "lead": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation Dominic-Madori Davis 6:45 AM PDT · October 7, 2026 A new personal AI assistant has arrived. Meet Tab , which announced Tuesday that it had officially emerged from stealth at a $300 million valuation. (The company declined to share the exact funding details.) Tab is part of the rising trend of consumer AI assistants, like the ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tab-website.png?resize=1200,744",
+   "why": [
+    "Acquisition",
+    "Large deal (about $300M)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Acquisition",
+    "AI & Deeptech"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
    "desk": "Policy",
    "score": 15,
    "priority": 100,
@@ -415,7 +422,7 @@
    "tags": [
     "Other Policy"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -439,7 +446,7 @@
     "IPO & Listing",
     "Policy & Regulation"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -463,7 +470,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -487,7 +494,7 @@
     "PR / Settlement",
     "Japan"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -510,8 +517,8 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -534,7 +541,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -557,7 +564,7 @@
    "tags": [
     "Agriculture & Food"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -580,7 +587,7 @@
     "Acquisition",
     "Fintech"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -603,7 +610,7 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -627,7 +634,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -650,7 +657,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -673,7 +680,7 @@
    "tags": [
     "Australia"
    ],
-   "rank": 12,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -696,7 +703,31 @@
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 13,
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 13,
+   "priority": 87,
+   "title": "RBI issues Amendment Directions on 'Standardised Approach for Counterparty Credit Risk (SA-CCR)’",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63750",
+   "date": "2026-10-07",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "The Reserve Bank of India had issued draft Amendment Directions on the ‘ Standardised Approach for Counterparty Credit Risk (SA-CCR)’ on June 10, 2026 , inviting feedback from stakeholders until July 1, 2026. The draft Amendment Directions proposed modifications to the instructions on capital charge for counterparty credit risk as provided in Master Direction on Forthcoming Instructions for commercial banks. Key revisions included: (i) ...",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change",
+    "Touches financial markets",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 15,
    "must_read": false
   },
   {
@@ -719,7 +750,7 @@
    "tags": [
     "PMS"
    ],
-   "rank": 14,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -743,30 +774,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "Exclusive: Leverage Edu Eyes ₹500 Cr Pre-IPO Funding, Targets ₹600 Cr Revenue In FY27",
-   "url": "https://inc42.com/buzz/exclusive-leverage-edu-eyes-%e2%82%b9500-cr-pre-ipo-funding-targets-%e2%82%b9600-cr-revenue-in-fy27/",
-   "date": "2026-10-05",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "IPO-bound Leverage Edu is targeting ₹600 Cr in revenue in FY27, up 61% from ₹372 Cr in FY26, sources told Inc42",
-   "lead": "IPO-bound Leverage Edu is targeting ₹600 Cr in revenue in FY27, up 61% from ₹372 Cr in FY26, sources told Inc42 The startup wants to expand its revenue base and bring a large private equity investor on board ahead of its planned ₹2,000–3,000 Cr IPO Leverage Edu is exploring a ₹500 Cr pre-IPO funding round and has held talks with a couple of global PE firms, while working to finalise bankers for its public issue",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Leverage-Edu-social.jpg",
-   "why": [
-    "IPO & Listing",
-    "Sizeable deal (about $63M)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -788,7 +796,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -810,104 +818,81 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
    "desk": "Policy",
    "score": 11,
    "priority": 73,
-   "title": "Cabinet approves One Network, Smarter Traffic: Delhi Moves to Real-Time Traffic Management",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2316953",
-   "date": "2026-09-30",
-   "source": "PIB",
-   "label": "Other Policy",
-   "snippet": "The Cabinet Committee on Economic Affairs (CCEA), chaired by the  Prime Minister Shri Narendra Modi,",
-   "lead": "The Cabinet Committee on Economic Affairs (CCEA), chaired by the Prime Minister Shri Narendra Modi, has approved implementation of the ITMS Project by Delhi Police at an estimated cost of Rs.1,789.52 crore, inclusive of taxes. The project will cover 42 identified traffic corridors and will be implemented in three phases over 24 months, followed by five years of operation and maintenance. As part of the wider efforts of the Central ...",
+   "title": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13735&Mode=0",
+   "date": "2026-10-07",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026 Please refer to paragraph 77(6) (i) of the Reserve Bank of India (All India Financial Institutions (AIFIs) - Prudential Norms on Capital Adequacy) Directions, 2025 , on the requirement for clearing member financial institutions to obtain legal opinion. On a review, it has been decided to amend these ...",
    "image": null,
    "why": [
-    "Cabinet decision",
-    "Cabinet"
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: RBI"
    ],
    "tags": [
-    "Other Policy"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 70,
-   "title": "ILPA highlights 20 things you might not know about Home Office’s earned settlement proposals",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFczeExkaDZKWXdXXzNnb1ZFVXpmbmpkRUdsa0w1c1hKNHZvQkFhdF9fV1FVRlFhM0J2VEJnN3puNlNJbFI0QUJHcVVxYXRSbF9Cb01MM1ZKRF9ZQmRIbldOOVZiTVFnMEJOV1pWajNGeWhRcjJOZFYzdkFkRm9semJnaFdwOFJxMTBBMWYybmtVNm9tbnhxWk5FeksxdUxkdWpRODdYVDhUOEs0VDJoOHdZRTF1T3pWdW5B?oc=5",
-   "date": "2026-10-01",
-   "source": "Electronic Immigration Network",
-   "label": "United Kingdom",
-   "snippet": "Briefing paper points out that headline 10-year qualifying period for ILR will not apply to majority of applicants",
-   "lead": "Briefing paper points out that headline 10-year qualifying period for ILR will not apply to majority of applicants The Immigration Law Practitioners' Association (ILPA) last which published a briefing outlining 20 points you might not know about the Government's proposed \"earned settlement\" reforms, which would change how migrants qualify for indefinite leave to remain (ILR). ILPA highlights that while the reforms are widely understood ...",
-   "image": null,
-   "why": [
-    "Affects permanent residence",
-    "Announces a change"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "United Kingdom"
+    "Banking & Rates"
    ],
    "rank": 20,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 10,
-   "priority": 67,
-   "title": "Cabinet passes resolution congratulating Prime Minister Shri Narendra Modi on 25 Years of Unbroken Leadership",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2319565",
-   "date": "2026-10-06",
-   "source": "PIB",
-   "label": "Other Policy",
-   "snippet": "The Union Cabinet today passed a resolution congratulating Prime Minister Shri Narendra Modi on comp",
-   "lead": "Cabinet Cabinet passes resolution congratulating Prime Minister Shri Narendra Modi on 25 Years of Unbroken Leadership 10 Defining Highlights of the Union Cabinet Resolution Posted On: 06 OCT 2026 3:50PM by PIB Delhi The Union Cabinet today passed a resolution congratulating Prime Minister Shri Narendra Modi on completing 25 years of continuous leadership as head of government. Far more than a customary tribute, it celebrates the ...",
+   "score": 11,
+   "priority": 73,
+   "title": "Reserve Bank of India (Commercial Banks – Miscellaneous) Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13731&Mode=0",
+   "date": "2026-10-07",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Reserve Bank of India (Commercial Banks – Miscellaneous) Amendment Directions, 2026 Please refer to Sub-section D of Chapter IV of the Reserve Bank of India (Commercial Banks - Miscellaneous) Directions, 2025 on deferment of option premium. 2. On a review, consequent to the issuance of the Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Amendment Directions, 2026 , and in exercise of the powers conferred by Section ...",
    "image": null,
    "why": [
-    "Cabinet decision",
-    "Cabinet"
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: RBI"
    ],
    "tags": [
-    "Other Policy"
+    "Banking & Rates"
    ],
    "rank": 21,
    "must_read": false
   },
   {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 67,
-   "title": "RBI issues Amendment Directions on ‘Simplified approval process for subsequent acquisitions of major shareholding in a banking company by mutual funds, insurance companies and pension funds’",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63711",
-   "date": "2026-10-01",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The Reserve Bank, vide Press Release dated July 14, 2026 , had issued the draft \"Reserve Bank of India (Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026” , seeking comments / feedback from the regulated entities and members of public / other stakeholders on or before August 4, 2026. The draft Amendment Directions proposed to simplify approval process for subsequent acquisitions of major shareholding in a ...",
-   "image": null,
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 70,
+   "title": "Netherlands Names 5 Groups Of Foreigners Eligible for Dutch Citizenship Through Option Route",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLS1IVktKbHpYTGMwLUFoZGNuQk9XUExGNll2U09MNnF6Z0steFhvaGhaQzF3QUZIUXh0UnM2ejNIYjQxSDJCOWhLR2M3R0xNa3lXU1VoRlhmUzJYbHFPcXRoYnc2a0pfTzFLeHdQYm5tUHhsTHhwdWFsWEVpUV9vNFRXMTdyVFRTQkFyOHcxY3piZ3pHQnhQV1I3eFMwLXVy?oc=5",
+   "date": "2026-10-07",
+   "source": "Yen.com.gh",
+   "label": "Netherlands",
+   "snippet": "The Netherlands sets out five categories eligible for Dutch citizenship through the option route, a more direct path than full standard naturalisation process.",
+   "lead": "Ghana’s top stories, now easier to find. Discover our new search feature! The Netherlands government has published a formal list of five categories of people who may apply for Dutch citizenship through what it calls the option route, making clear that the pathway is not available to all applicants. The information, available on the Netherlands government website, specifies that only those who fall within one of five defined situations ...",
+   "image": "https://cdn.yen.com.gh/images/1200x675/3851a97d794c6ebc.jpeg?v=1",
    "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Touches financial markets",
-    "Regulator: RBI"
+    "Affects citizenship"
    ],
    "tags": [
-    "Banking & Rates"
+    "Citizenship",
+    "Netherlands"
    ],
    "rank": 22,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 6,
-   "priority": 60,
+   "score": 7,
+   "priority": 70,
    "title": "South Korea tightens foreign student visas, ties work rights to Korean - CHOSUNBIZ",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdzVYdHY5Q3hWbUtQVmJTSWp0TU9Lc2hIWDkxdlYyZGRFNUxJOC1xbnFVNFJxcml3RUVvSFY2STU0aVI5cXZZQjFPUTlpUkRZVFFoVjJ3WDFQQVJpeGRJc2pNUDlnNWlsRVktSTdCS0NzaTMzWHlmRkdVWGhvbXRXQ9IBlAFBVV95cUxPcWVWSEVPa2twRUxHTlVlUzRraTVFa09lZFVXRE5Ha2Q4WFNwWDNnMWp2OE9sXzlMOVFkSEZLbDRQZ29KTUltTVlXdHRKTlJtc0dvcjVEcEUtS3hpWUpiMVE3UHNmS0hKdFNlTzZuNG41T2hMSWRBLUVYOWJUdFNTV2VhMlJISzZvbmhkbXp0MDI1U2ZZ?oc=5",
    "date": "2026-10-07",
