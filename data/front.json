@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-07",
- "built": "2026-10-07 02:44 IST",
+ "built": "2026-10-07 08:14 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,15 +12,15 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22556.0,
-   "change_pct": 0.6,
+   "value": 22776.0,
+   "change_pct": 0.98,
    "asof": "06 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72382.0,
-   "change_pct": 0.66,
+   "value": 73068.0,
+   "change_pct": 0.95,
    "asof": "06 Oct 15:32 IST"
   },
   {
@@ -28,21 +28,21 @@
    "dp": 2,
    "value": 96.36,
    "change_pct": 0.02,
-   "asof": "07 Oct 02:11 IST"
+   "asof": "07 Oct 07:31 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 101.15,
-   "change_pct": 0.83,
-   "asof": "07 Oct 02:29 IST"
+   "value": 101.42,
+   "change_pct": 0.84,
+   "asof": "07 Oct 08:03 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4193.0,
-   "change_pct": 0.86,
-   "asof": "07 Oct 02:29 IST"
+   "value": 4174.0,
+   "change_pct": -0.32,
+   "asof": "07 Oct 08:04 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -168,9 +168,31 @@
    ]
   },
   "Startups": {
-   "total": 449,
-   "new_today": 4,
+   "total": 451,
+   "new_today": 6,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+     "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+     "date": "2026-09-30",
+     "source": "TechCrunch",
+     "label": "Global · Other",
+     "snippet": "EliseAI raises $350M, doubles valuation in a year.",
+     "lead": "AI startup EliseAI announced on Tuesday that it has raised $350 million at a $4 billion valuation, double what it was worth when it raised its Series E last August. This latest round was co-led by Andreessen Horowitz and Bessemer Ventures. EliseAI, founded in 2017, automates administrative and operational work for housing and healthcare companies. It said its software is used by 1 in 6 apartments across the country and announced this ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1469304638.jpg?resize=1200,669",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $4,000M: round or valuation)",
+      "Valuation, listing or profitability signal",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "Funding"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -231,34 +253,12 @@
      "tags": [
       "Acquisition"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
-     "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
-     "date": "2026-10-02",
-     "source": "TechCrunch",
-     "label": "Global · SaaS & Enterprise",
-     "snippet": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
-     "lead": "Kevin Mandia, best known as the founder of cybersecurity startup Mandiant, which sold to Google for $5.4 billion in 2022 , has raised $255.5 million for his latest startup, Armadin, at a valuation of more than $2.5 billion, the company announced on Thursday. The Series B round was led by Andreessen Horowitz and Accel, with Bain Capital Ventures, Redpoint, 8VC, Ballistic Ventures, Google Ventures, In-Q-Tel, Kleiner Perkins, and Menlo ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $2,500M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "SaaS & Enterprise"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 759,
-   "new_today": 1,
+   "total": 764,
+   "new_today": 3,
    "items": [
     {
      "desk": "Immigration",
@@ -278,27 +278,6 @@
      ],
      "tags": [
       "Switzerland"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 50,
-     "title": "New Zealand changes parent visa selection: How the new rules work",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV2ZmY3d2ZkEzZ3kxbWtVM0NpazR2TkM5dGh1Q2xiQ2JKV2dWOWpKY280MDlQU1k1WGFkMkhPU19WWkFReGVYNTVUOGNaRmxoajZVZVc2eW1fUnEwM29lUmhpZ1RuZ2s5TGl2dzhDUS1DeTlhX2tzY09ZYTRnYWtzdE02Nmh4RXRpeHU1Tm44U2taT1J2QXVOLXBKV1gyVGVIQmpEZW12N1ZVTFlyNmZyeTFKVklST3dOLWRwcm9VLW5nZ3BXZEVWLUNB0gHPAUFVX3lxTE1jcDU2UWpWcHM0clhpZGpGOWVINWxUdG04SzdwM25FYms3ai1rR3Zub3FvajlsdElpM1A3NzFyLW01aTZOeVdJT3RmTjhham96Z1gwYTJSZzVuNWZnR2tsM3RqTDhfNjdSdXhuSkkzZTJnRXBzeElGRXhwUXpoUTVsRjg0R0gxUzZWS3JaVERTcWpqdEZ6RDdlc3A2akllMGs0UzlNblA4a2lDSV9VQ2tBREpqdjRya01SdUloNTNDWFBSbWdZQkpGYlk3emI5UQ?oc=5",
-     "date": "2026-10-06",
-     "source": "Business Standard",
-     "label": "New Zealand",
-     "snippet": "New Zealand parent visa: 90% of parents will be picked based on how long they have been waiting, while 10% will be chosen by chance",
-     "lead": "Don't miss the most important news and views of the day. Get them on our Telegram channel",
-     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2016-03/24/thumb/featurecrop/1200X628/1458816335-6057.jpg",
-     "why": [
-      "Political signal on immigration",
-      "Announces a change"
-     ],
-     "tags": [
-      "Politics / Election",
-      "New Zealand"
      ]
     },
     {
@@ -586,6 +565,29 @@
    "desk": "Startups",
    "score": 12,
    "priority": 92,
+   "title": "SpaceX seeks $40 billion to buy Nvidia chips",
+   "url": "https://economictimes.indiatimes.com/tech/technology/spacex-seeks-40-billion-to-buy-nvidia-chips-ft-reports/articleshow/134754107.cms",
+   "date": "2026-10-07",
+   "source": "ET Startups",
+   "label": "Global · Fintech",
+   "snippet": "The Elon Musk-led company is seeking to raise about $10 billion in bank loans and $30 billion in investment-grade debt to fund its chip order, the report said.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2207790,resizemode-75,msid-134754107/tech/technology/spacex-seeks-40-billion-to-buy-nvidia-chips-ft-reports.jpg",
+   "why": [
+    "Acquisition",
+    "Very large figure in headline (about $40,000M: round or valuation)"
+   ],
+   "tags": [
+    "Acquisition",
+    "Fintech"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 92,
    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
    "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
    "date": "2026-10-07",
@@ -602,7 +604,7 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -626,7 +628,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -649,7 +651,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -672,7 +674,7 @@
    "tags": [
     "Australia"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -689,13 +691,13 @@
    "image": "https://www.cicnews.com/wp-content/uploads/2026/10/Haitians-eye-six-month-Canadian-PR.jpg",
    "why": [
     "Affects permanent residence",
-    "Major story (8 headlines that day)"
+    "Major story (9 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 12,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -718,7 +720,7 @@
    "tags": [
     "PMS"
    ],
-   "rank": 13,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -742,7 +744,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -764,30 +766,6 @@
    ],
    "tags": [
     "IPO & Listing"
-   ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
-   "url": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
-   "date": "2026-09-30",
-   "source": "TechCrunch",
-   "label": "Global · Other",
-   "snippet": "EliseAI raises $350M, doubles valuation in a year.",
-   "lead": "AI startup EliseAI announced on Tuesday that it has raised $350 million at a $4 billion valuation, double what it was worth when it raised its Series E last August. This latest round was co-led by Andreessen Horowitz and Bessemer Ventures. EliseAI, founded in 2017, automates administrative and operational work for housing and healthcare companies. It said its software is used by 1 in 6 apartments across the country and announced this ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1469304638.jpg?resize=1200,669",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $4,000M: round or valuation)",
-    "Valuation, listing or profitability signal",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Funding"
    ],
    "rank": 16,
    "must_read": false
