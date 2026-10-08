@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-08",
- "built": "2026-10-08 12:07 IST",
+ "built": "2026-10-08 23:08 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,44 +12,44 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22343.0,
-   "change_pct": -1.15,
-   "asof": "08 Oct 12:07 IST"
+   "value": 22232.0,
+   "change_pct": -1.64,
+   "asof": "08 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72033.0,
-   "change_pct": -0.83,
-   "asof": "08 Oct 11:52 IST"
+   "value": 71593.0,
+   "change_pct": -1.44,
+   "asof": "08 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
    "value": 96.77,
    "change_pct": 0.41,
-   "asof": "08 Oct 12:07 IST"
+   "asof": "08 Oct 20:14 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 102.97,
-   "change_pct": 2.76,
-   "asof": "08 Oct 11:57 IST"
+   "value": 103.66,
+   "change_pct": 3.45,
+   "asof": "08 Oct 22:58 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4140.0,
-   "change_pct": -0.01,
-   "asof": "08 Oct 11:57 IST"
+   "value": 4159.0,
+   "change_pct": 0.43,
+   "asof": "08 Oct 22:58 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.28,
-   "change_pct": 0.15,
-   "asof": "08 Oct 00:29 IST"
+   "value": 5.24,
+   "change_pct": -0.76,
+   "asof": "08 Oct 22:53 IST"
   }
  ],
  "features": {
@@ -79,9 +79,31 @@
  },
  "desks": {
   "Policy": {
-   "total": 166,
-   "new_today": 2,
+   "total": 173,
+   "new_today": 9,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 10,
+     "priority": 71,
+     "title": "RBI issues Amendment Directions on ‘Simplified approval process for subsequent acquisitions of major shareholding in a banking company by mutual funds, insurance companies and pension funds’",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63711",
+     "date": "2026-10-01",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "The Reserve Bank, vide Press Release dated July 14, 2026 , had issued the draft \"Reserve Bank of India (Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026” , seeking comments / feedback from the regulated entities and members of public / other stakeholders on or before August 4, 2026. The draft Amendment Directions proposed to simplify approval process for subsequent acquisitions of major shareholding in a ...",
+     "image": null,
+     "why": [
+      "Regulator rulebook change",
+      "Rule change",
+      "Touches financial markets",
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 9,
@@ -126,37 +148,16 @@
      "desk": "Policy",
      "score": 8,
      "priority": 57,
-     "title": "Underwriting Auction for sale of Government Securities for ₹36,000 crore on October 09, 2026",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63757",
+     "title": "Union Minister Shri Ashwini Vaishnaw Launches World Bank Group’s ‘World Development Report 2026: The Promise of Artificial Intelligence’ in New Delhi",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320883",
      "date": "2026-10-08",
-     "source": "RBI",
+     "source": "PIB",
      "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on October 09, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
+     "snippet": "Shri Ashwini Vaishnaw, the Union Minister for Electronics and Information Technology, Railways, and",
+     "lead": "Ministry of Electronics & IT Union Minister Shri Ashwini Vaishnaw Launches World Bank Group’s ‘World Development Report 2026: The Promise of Artificial Intelligence’ in New Delhi Report sets out a framework for developing economies to harness AI for development through adoption, adaptation and advancement IndiaAI Mission, MeitY and the World Bank Group jointly host the India launch; policymakers, development experts and technology ...",
      "image": null,
      "why": [
-      "Regulator: RBI",
-      "Large outlay (Rs 10,000 Cr or more)"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 8,
-     "priority": 57,
-     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63746",
-     "date": "2026-10-07",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "",
-     "image": null,
-     "why": [
-      "New law or act",
-      "Regulator: RBI"
+      "Rates and liquidity"
      ],
      "tags": [
       "Banking & Rates"
@@ -165,9 +166,30 @@
    ]
   },
   "Startups": {
-   "total": 494,
-   "new_today": 10,
+   "total": 509,
+   "new_today": 25,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+     "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+     "date": "2026-10-07",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+     "lead": "Cloud provider Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation, marking what could be its last private round before a planned 2027 IPO, according to The Wall Street Journal. Coatue Management and Blackstone are leading the round. A letter to investors reviewed by the Journal shows Lambda’s backlog grew from $15 billion in June to $50 billion in September. While that might look like a hearty increase in demand, ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1200,687",
+     "why": [
+      "IPO & Listing",
+      "Very large figure in headline (about $4,000M: round or valuation)"
+     ],
+     "tags": [
+      "IPO & Listing",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 11,
@@ -215,53 +237,54 @@
      "desk": "Startups",
      "score": 10,
      "priority": 77,
-     "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
-     "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+     "title": "D2C Lifestyle Brand DailyObjects Raises ₹332 Cr To Expand Offline Presence",
+     "url": "https://inc42.com/buzz/d2c-lifestyle-brand-dailyobjects-raises-%e2%82%b9332-cr-to-expand-offline-presence/",
      "date": "2026-10-08",
-     "source": "TechCrunch Venture",
-     "label": "Global · Other",
-     "snippet": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
-     "lead": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’ Connie Loizos 3:59 PM PDT · October 7, 2026 Endeavor Catalyst has closed its fifth fund with $320 million in capital commitments, bringing the firm’s total assets under management to more than $850 million. The raise is good news for founders outside the Bay Area who risk getting overlooked as more funds focus squarely on AI companies in Silicon ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Linda-Rottenberg.jpg?w=1024",
+     "source": "Inc42",
+     "label": "India · Commerce & D2C",
+     "snippet": "DailyObjects raised ₹332 Cr in a Series C funding round co-led by Xponentia Capital Partners, Anicut Capital and Axiom Asia Private Capital",
+     "lead": "D2C lifestyle startup DailyObjects has raised ₹332 Cr ($34.3 Mn) in a Series C funding round co-led by Xponentia Capital Partners, Anicut Capital and Axiom Asia Private Capital The fresh funds will allow DailyObjects to scale its offline network, deepen its product and R&D capabilities, strengthen brand building and evaluate opportunities in international markets The round, which included both primary and secondary transactions, valued ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Untitled-design-40-760x570-1.png",
      "why": [
       "Funding",
-      "Large deal (about $320M)"
+      "Sizeable deal (about $35M)"
      ],
      "tags": [
-      "Funding"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Quick commerce in India set for $90B boom by 2031: Google-Redseer study",
-     "url": "https://yourstory.com/2026/10/india-quick-commerce-set-for-usd-90b-boom-by-2031-google-redseer-study",
-     "date": "2026-10-07",
-     "source": "YourStory",
-     "label": "India · Commerce & D2C",
-     "snippet": "Driven by festive season demand and rapid expansion into non-metro regions, India’s quick commerce market is projected to skyrocket from $13 billion in FY2026 to $90 billion by FY2031.",
-     "lead": "Quick commerce in India set for $90B boom by 2031: Google-Redseer study Driven by festive season demand and rapid expansion into non-metro regions, India’s quick commerce market is projected to skyrocket from $13 billion in FY2026 to $90 billion by FY2031. Team YS 17313 Stories Wednesday October 07, 2026 , 3 min Read India’s quick-commerce market is on track to balloon from $13 billion this year to $90 billion by 2031, according to a ...",
-     "image": "https://images.yourstory.com/cs/2/604090802d6d11e9aa979329348d4c3e/Imagekn5f-1680596050228.jpg",
-     "why": [
-      "Financials",
-      "Very large figure in headline (about $90,000M: round or valuation)"
-     ],
-     "tags": [
-      "Financials",
+      "Funding",
       "Commerce & D2C"
      ]
     }
    ]
   },
   "Immigration": {
-   "total": 801,
-   "new_today": 7,
+   "total": 819,
+   "new_today": 22,
    "items": [
     {
      "desk": "Immigration",
+     "score": 8,
+     "priority": 73,
+     "title": "Haitians affected by termination of U.S. protected status eye six-month route to Canadian permanent residence",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVVRUcXRzSzNSN1MzVmtPdjFMR1JOQ3ZLQ0o2Um5KczBJRGhfRkUxUW9WR3NMVUFaaElzX09JWmpxT0otWi1VRGd4eWJCNTZ3bGNQU1VZamdBb1JfNGhkcU8wY293T3JJbEs0d3g1cDFWb1pkdTJFa0Fzc0tVcGRtV2dua3pESUtfMTRZU0VqSFlnaEFaMmNBZUpIQUw2djZkLTczcC1DZERoMnl1NG1hUXZMb2xPMG1vdkxTNmRXZzZYVGhQbm1qSEItOWJFdWRXUFJRdG0xal9WcmRTQ1lDOElDd2xhQThX0gHuAUFVX3lxTE5fcklHZVpLU1pKdmstWVFZLVhBUTVkNm0wSnlQamNpMWtVRXlNZXNScnRxUTNCNzlsaFRqd1ppcUxRdFVmeWNLY3VfVFhPWFByVXlRMmRLOGxabFBWNFJZYUliZzJhU3IwT0o0WURVc0ItYnlVS25XZGdxT2N2b3pNWHUzUmg3cE53TG5BMlpCVU5ucXhUVG11M3VTNHktdkJ5bVREdktCQUpEMWRtRjhkcjRmRTFoX0JYX25LN2dXaV90OWFYZi0tVGdCTUtkS0cwWVpSQ2pTMy1tdVRPUHB2Y1BUQ09Xb0lRTlgtQXc?oc=5",
+     "date": "2026-10-06",
+     "source": "CIC News",
+     "label": "Canada",
+     "snippet": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Check Your Eligibili",
+     "lead": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Express Entry awards additional points to candidates with French language skills, and includes larger selection rounds ...",
+     "image": "https://www.cicnews.com/wp-content/uploads/2026/10/Haitians-eye-six-month-Canadian-PR.jpg",
+     "why": [
+      "Affects permanent residence",
+      "Major story (9 headlines that day)"
+     ],
+     "tags": [
+      "PR / Settlement",
+      "Canada"
+     ]
+    },
+    {
+     "desk": "Immigration",
      "score": 6,
-     "priority": 60,
+     "priority": 55,
      "title": "Netherlands Names 5 Groups Of Foreigners Eligible for Dutch Citizenship Through Option Route",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLS1IVktKbHpYTGMwLUFoZGNuQk9XUExGNll2U09MNnF6Z0steFhvaGhaQzF3QUZIUXh0UnM2ejNIYjQxSDJCOWhLR2M3R0xNa3lXU1VoRlhmUzJYbHFPcXRoYnc2a0pfTzFLeHdQYm5tUHhsTHhwdWFsWEVpUV9vNFRXMTdyVFRTQkFyOHcxY3piZ3pHQnhQV1I3eFMwLXVy?oc=5",
      "date": "2026-10-07",
@@ -281,7 +304,7 @@
     {
      "desk": "Immigration",
      "score": 6,
-     "priority": 60,
+     "priority": 55,
      "title": "South Korea tightens foreign student visas, ties work rights to Korean - CHOSUNBIZ",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdzVYdHY5Q3hWbUtQVmJTSWp0TU9Lc2hIWDkxdlYyZGRFNUxJOC1xbnFVNFJxcml3RUVvSFY2STU0aVI5cXZZQjFPUTlpUkRZVFFoVjJ3WDFQQVJpeGRJc2pNUDlnNWlsRVktSTdCS0NzaTMzWHlmRkdVWGhvbXRXQ9IBlAFBVV95cUxPcWVWSEVPa2twRUxHTlVlUzRraTVFa09lZFVXRE5Ha2Q4WFNwWDNnMWp2OE9sXzlMOVFkSEZLbDRQZ29KTUltTVlXdHRKTlJtc0dvcjVEcEUtS3hpWUpiMVE3UHNmS0hKdFNlTzZuNG41T2hMSWRBLUVYOWJUdFNTV2VhMlJISzZvbmhkbXp0MDI1U2ZZ?oc=5",
      "date": "2026-10-07",
@@ -417,7 +440,7 @@
   },
   {
    "desk": "Immigration",
-   "score": 10,
+   "score": 11,
    "priority": 100,
    "title": "Form: Apply to the EU Settlement Scheme by post",
    "url": "https://www.gov.uk/government/publications/apply-to-the-eu-settlement-scheme-by-post-or-email",
@@ -486,30 +509,6 @@
    "must_read": true
   },
   {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 100,
-   "title": "Japan raises permanent residency fee by 20 times",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DeGNjMUhVQ3NQX29PYWxjeU9mdEYxLUJUQ2hIcnZjdXVJYmw2TE1MVUQtYzVsLTh5cWd1VV9aTkJvUzZkeHBxVTZiSEFKWEw3aEVaTHZmUHpTdzRxa2c?oc=5",
-   "date": "2026-10-01",
-   "source": "bbc.co.uk",
-   "label": "Japan",
-   "snippet": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
-   "lead": "Image source, Getty Images Image caption, The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population Japan has raised fees for foreigners seeking permanent residency in the country by 20 times to 200,000 yen ($1,270; £955). Those seeking permanent residency must now also meet new income, pension and Japanese-language requirements.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/30aa/live/ee3e3e50-bd61-11f1-a64c-550be9e3c66b.jpg",
-   "why": [
-    "Affects permanent residence",
-    "Announces a change",
-    "Major story (22 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Japan"
-   ],
-   "rank": 5,
-   "must_read": true
-  },
-  {
    "desk": "Startups",
    "score": 12,
    "priority": 92,
@@ -529,8 +528,8 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 6,
-   "must_read": false
+   "rank": 5,
+   "must_read": true
   },
   {
    "desk": "Startups",
@@ -553,7 +552,7 @@
     "Acquisition",
     "AI & Deeptech"
    ],
-   "rank": 7,
+   "rank": 6,
    "must_read": false
   },
   {
@@ -576,6 +575,30 @@
    "tags": [
     "IPO & Listing",
     "Policy & Regulation"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 91,
+   "title": "Japan raises permanent residency fee by 20 times",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DeGNjMUhVQ3NQX29PYWxjeU9mdEYxLUJUQ2hIcnZjdXVJYmw2TE1MVUQtYzVsLTh5cWd1VV9aTkJvUzZkeHBxVTZiSEFKWEw3aEVaTHZmUHpTdzRxa2c?oc=5",
+   "date": "2026-10-01",
+   "source": "bbc.co.uk",
+   "label": "Japan",
+   "snippet": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
+   "lead": "Image source, Getty Images Image caption, The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population Japan has raised fees for foreigners seeking permanent residency in the country by 20 times to 200,000 yen ($1,270; £955). Those seeking permanent residency must now also meet new income, pension and Japanese-language requirements.",
+   "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/30aa/live/ee3e3e50-bd61-11f1-a64c-550be9e3c66b.jpg",
+   "why": [
+    "Affects permanent residence",
+    "Announces a change",
+    "Major story (22 headlines that day)"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Japan"
    ],
    "rank": 8,
    "must_read": false
@@ -632,6 +655,28 @@
    "desk": "Policy",
    "score": 12,
    "priority": 86,
+   "title": "Recommendations of the 57th Meeting of the GST Council",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320934",
+   "date": "2026-10-08",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "The 57th Meeting of the GST Council was held today in New Delhi, under the chairpersonship of the Un",
+   "lead": "Ministry of Finance Recommendations of the 57th Meeting of the GST Council GST Council recommends removal of arrest provisions under GST GST Council recommends raising prosecution threshold from ₹1 crore to ₹5 crore GST Council recommends reduction in general penalty from ₹25,000 to ₹10,000 GST Council recommends wider eligibility for input tax credit and refunds GST Council recommends further simplification of registration and ...",
+   "image": null,
+   "why": [
+    "GST change",
+    "Ministry of Finance"
+   ],
+   "tags": [
+    "Tax, Duties & Trade"
+   ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 12,
+   "priority": 86,
    "title": "RBI issues Amendment Directions on 'Standardised Approach for Counterparty Credit Risk (SA-CCR)’",
    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63750",
    "date": "2026-10-07",
@@ -649,7 +694,29 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 11,
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+   "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+   "date": "2026-10-08",
+   "source": "TechCrunch",
+   "label": "Global · Other",
+   "snippet": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+   "lead": "China’s Manus raises over $500M in first funding round since split with Meta Kate Park 6:20 AM PDT · October 8, 2026 Chinese AI lab Manus’ parent company, Butterfly Effect, said on Thursday in a WeChat post that it has raised more than $500 million, the company’s first funding round since Meta was forced to call off its $2 billion acquisition of the startup. Boyu Capital and IDG Capital led the funding round, and existing shareholders ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2278374931.jpg?w=1024",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $500M: round or valuation)"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 13,
    "must_read": false
   },
   {
@@ -672,30 +739,7 @@
     "Acquisition",
     "Fintech"
    ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-   "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-   "date": "2026-10-07",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-   "lead": "Cloud provider Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation, marking what could be its last private round before a planned 2027 IPO, according to The Wall Street Journal. Coatue Management and Blackstone are leading the round. A letter to investors reviewed by the Journal shows Lambda’s backlog grew from $15 billion in June to $50 billion in September. While that might look like a hearty increase in demand, ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1200,687",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $4,000M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "AI & Deeptech"
-   ],
-   "rank": 13,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -718,53 +762,7 @@
    "tags": [
     "AIF"
    ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 8,
-   "priority": 80,
-   "title": "'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN1Y0NmhScExoSGhOZzJmbk1FY25fSGhKU0JqaXJaZmtSWTVKVGZOWGVQX3B5S0w3Sk9NZ19CbVljOFh0SXpkcXZDY1NzMlpxN3JZbHhiZnBhVFJQNlRzN2RWWElGNm5xZDBIVWtocjdzWUd0d0pjQTlLb0J3ZmNjVVhXLUxINFdxQk92SXZ3aFFROVNBTVcxdVBDbG9hZ0Z0QThIVFV6SjVLUlNsRjI5VEw3b092VWtmd3F4VmZGYUZHSi1QaTJiMWMyRVRCUm1manfSAdcBQVVfeXFMTmM2NVAzWXFnLWNETEUtVUVJWWRGUzRpRERacmZ2WjdsV1JjaUxhUHpuejVpN3h6TWJiNGhIX3prbUJXNXNlR0hwWG00b2RQampmRHZYbDJoRDJKOHN1bWpXZXNmUXo5QVU5cXNDdlhUcFVOU1I1VnRiQ1NtMGhpUmR6amRPTmM2N2VnVVFfNFFFZEJCLW9TbS03dncxZFM0SHFHUF92RTY4SW4xT2xwSjNvenI5Z0dYRTBMQW9uU0p1bGlnd0ROTnFtYUhGa3RQeEVwd093ZzQ?oc=5",
-   "date": "2026-10-06",
-   "source": "WION",
-   "label": "Australia",
-   "snippet": "Indians planning to move to Australia could face tighter opportunities if the country's conservative opposition comes to power. Opposition Leader Angus Taylor has unveiled the \"biggest cut to immigration\" in history. Here's all you need to know.",
-   "lead": "Live TV LOGIN v logout Live TV Latest Gravitas World India Entertainment Hollywood Bollywood Sports Opinions videos Photos TV Shows Mission Sustainability Wion / World / 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians Edited By Moohita Kaur Garg Published: Oct 06, 2026, 14:13 IST | ...",
-   "image": "https://cdn3.wionews.com/prod/wion/images/2026/20261006/image-1791274946407.png?imwidth=1200&imheight=900",
-   "why": [
-    "Announces a change",
-    "Major story (9 headlines that day)",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Australia"
-   ],
    "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 8,
-   "priority": 80,
-   "title": "Haitians affected by termination of U.S. protected status eye six-month route to Canadian permanent residence",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVVRUcXRzSzNSN1MzVmtPdjFMR1JOQ3ZLQ0o2Um5KczBJRGhfRkUxUW9WR3NMVUFaaElzX09JWmpxT0otWi1VRGd4eWJCNTZ3bGNQU1VZamdBb1JfNGhkcU8wY293T3JJbEs0d3g1cDFWb1pkdTJFa0Fzc0tVcGRtV2dua3pESUtfMTRZU0VqSFlnaEFaMmNBZUpIQUw2djZkLTczcC1DZERoMnl1NG1hUXZMb2xPMG1vdkxTNmRXZzZYVGhQbm1qSEItOWJFdWRXUFJRdG0xal9WcmRTQ1lDOElDd2xhQThX0gHuAUFVX3lxTE5fcklHZVpLU1pKdmstWVFZLVhBUTVkNm0wSnlQamNpMWtVRXlNZXNScnRxUTNCNzlsaFRqd1ppcUxRdFVmeWNLY3VfVFhPWFByVXlRMmRLOGxabFBWNFJZYUliZzJhU3IwT0o0WURVc0ItYnlVS25XZGdxT2N2b3pNWHUzUmg3cE53TG5BMlpCVU5ucXhUVG11M3VTNHktdkJ5bVREdktCQUpEMWRtRjhkcjRmRTFoX0JYX25LN2dXaV90OWFYZi0tVGdCTUtkS0cwWVpSQ2pTMy1tdVRPUHB2Y1BUQ09Xb0lRTlgtQXc?oc=5",
-   "date": "2026-10-06",
-   "source": "CIC News",
-   "label": "Canada",
-   "snippet": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Check Your Eligibili",
-   "lead": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Express Entry awards additional points to candidates with French language skills, and includes larger selection rounds ...",
-   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/Haitians-eye-six-month-Canadian-PR.jpg",
-   "why": [
-    "Affects permanent residence",
-    "Major story (9 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Canada"
-   ],
-   "rank": 16,
    "must_read": false
   },
   {
@@ -786,7 +784,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 17,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -808,7 +806,52 @@
    "tags": [
     "Infrastructure & Transport"
    ],
+   "rank": 17,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 8,
+   "priority": 73,
+   "title": "Germany Work Visas Western Balkans: 50,000 Cut to 25,000",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONzlWVVJIQWpBVzd6b2k0a1VrQm1IbnhCTXdxVWtCTEJUYWxPVm16cVFNY1dPcFRaQmktSTY3endpVG9EeW9WRFR1cGJfaUJHRGkyOUVpU1hxNmdlR2c0cHdtS2l3LUQ3REEwbVRwV3RTaXNDUFZ5SVVxYzRBa0tUeDQtZnNqWUpVMDhUU1FNT3hBYUFLcEtGcGRtTjdLdE5JUUphbw?oc=5",
+   "date": "2026-10-08",
+   "source": "srpske.rs",
+   "label": "Germany",
+   "snippet": "Germany plans to cut its Western Balkans work permit quota from 50,000 to 25,000. What builders, the Serbian Chamber of Commerce and NALED say.",
+   "lead": "The quota under the Western Balkans scheme falls from 50,000 to 25,000 permits a year. Sources disagree on the timing, and Serbia's share is not public. 0 Podeli Kopiraj link Germany’s annual work permit quota under the Western Balkans scheme is set to be cut in half, from 50,000 to 25,000 . The scheme, often called the Western Balkans Rule in the media, makes it easier for workers from the region’s six economies to come to Germany, ...",
+   "image": "https://srpske.rs/uploads/articles/germany-halves-western-balkans-work-visa-quota-to-25000-16x9.webp",
+   "why": [
+    "Affects work visas",
+    "Announces a change"
+   ],
+   "tags": [
+    "Work visa",
+    "Germany"
+   ],
    "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 8,
+   "priority": 73,
+   "title": "NZ First seeks tighter rules for Citizenship and Welfare",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX0V2Y2Z4U0lpektlOUE3WE1OZmdNc2dXZXhsY19zemoteEMxRHlHLUlHZzVvYnVPYU02TVM2MThqWS0xZ2tnVl9sUEt4UlhHZ2t4RGw1c1dGbkxKcGpLN3l2TTJwd2VZUkhXeXNUSmpHU0JhT1V2b09lRlFBc0pkRWM3YllSZGVhVEJDZVNR?oc=5",
+   "date": "2026-10-08",
+   "source": "Indian Newslink",
+   "label": "New Zealand",
+   "snippet": "NZ First seeks tighter rules for Citizenship and Welfare",
+   "lead": "New Zealand Citizenship is a privilege with special and unique rights. It provides us with travel freedoms, the ability to live and work in other countries and it provides security to a quality of life in New Zealand. Our New Zealand passport is only available to New Zealand citizens and is highly valued for its free visa-in-advance access to over 180 countries.",
+   "image": "https://admin.indiannewslink.co.nz/uploads/NZ_First_seeks_Main_Banner_37e96d1505.png",
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "New Zealand"
+   ],
+   "rank": 19,
    "must_read": false
   },
   {
@@ -831,7 +874,30 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 19,
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 8,
+   "priority": 73,
+   "title": "'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN1Y0NmhScExoSGhOZzJmbk1FY25fSGhKU0JqaXJaZmtSWTVKVGZOWGVQX3B5S0w3Sk9NZ19CbVljOFh0SXpkcXZDY1NzMlpxN3JZbHhiZnBhVFJQNlRzN2RWWElGNm5xZDBIVWtocjdzWUd0d0pjQTlLb0J3ZmNjVVhXLUxINFdxQk92SXZ3aFFROVNBTVcxdVBDbG9hZ0Z0QThIVFV6SjVLUlNsRjI5VEw3b092VWtmd3F4VmZGYUZHSi1QaTJiMWMyRVRCUm1manfSAdcBQVVfeXFMTmM2NVAzWXFnLWNETEUtVUVJWWRGUzRpRERacmZ2WjdsV1JjaUxhUHpuejVpN3h6TWJiNGhIX3prbUJXNXNlR0hwWG00b2RQampmRHZYbDJoRDJKOHN1bWpXZXNmUXo5QVU5cXNDdlhUcFVOU1I1VnRiQ1NtMGhpUmR6amRPTmM2N2VnVVFfNFFFZEJCLW9TbS03dncxZFM0SHFHUF92RTY4SW4xT2xwSjNvenI5Z0dYRTBMQW9uU0p1bGlnd0ROTnFtYUhGa3RQeEVwd093ZzQ?oc=5",
+   "date": "2026-10-06",
+   "source": "WION",
+   "label": "Australia",
+   "snippet": "Indians planning to move to Australia could face tighter opportunities if the country's conservative opposition comes to power. Opposition Leader Angus Taylor has unveiled the \"biggest cut to immigration\" in history. Here's all you need to know.",
+   "lead": "Live TV LOGIN v logout Live TV Latest Gravitas World India Entertainment Hollywood Bollywood Sports Opinions videos Photos TV Shows Mission Sustainability Wion / World / 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians Edited By Moohita Kaur Garg Published: Oct 06, 2026, 14:13 IST | ...",
+   "image": "https://cdn3.wionews.com/prod/wion/images/2026/20261006/image-1791274946407.png?imwidth=1200&imheight=900",
+   "why": [
+    "Announces a change",
+    "Major story (9 headlines that day)",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Australia"
+   ],
+   "rank": 21,
    "must_read": false
   },
   {
@@ -854,7 +920,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 20,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -876,52 +942,6 @@
    ],
    "tags": [
     "Banking & Rates"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 71,
-   "title": "RBI issues Amendment Directions on ‘Simplified approval process for subsequent acquisitions of major shareholding in a banking company by mutual funds, insurance companies and pension funds’",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63711",
-   "date": "2026-10-01",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The Reserve Bank, vide Press Release dated July 14, 2026 , had issued the draft \"Reserve Bank of India (Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026” , seeking comments / feedback from the regulated entities and members of public / other stakeholders on or before August 4, 2026. The draft Amendment Directions proposed to simplify approval process for subsequent acquisitions of major shareholding in a ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Touches financial markets",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 70,
-   "title": "New Zealand changes parent resident visa rules: What Indians need to know about new 90:10 EOI rules",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUl9kbFVCdzc2MTlEU3o1ZlF3WWl0ZmphaVB2WDgwTFEyNE5iMDhka29GMVZfSG1maVJzMC1saFRQYlpTX1ZMckJkUGM4X21PZXZVb2QwZzJ2SG40OVNiVjVuQmUyRG1ZOUE0NDJnYTRUcTFtVFpwT0RqSXFYa2pjazFSOUdJdXVmY0JOVVZOdFlGWFMzRnhjXzNTdGliNVVianBUYVcxZC1rWWE5UGpRbzhrQzFhNHp2QUlXaHB5QjNTSjBjakhVTmpoOVVURnVIQ1JNZkdPeHBIU3Q2RDlzOGNiVnhocm5iRkFITmpsbU_SAfYBQVVfeXFMTWhGd2hmaG5TSVJCbTIwSTJ3dVVfQnR0VnRIcjhTRnVOc3piOXJpbDZjeFNLUGFtR1ItRDhMR0NTVEw1WGF5UVFrSkpzUFpPc2xTSGxBY1pIbG9zeFFjMDR0ZlNrT3N0RHFleEozY1AyTTZ2SGZiSzF2SHNsSWxVWW9KVkE0VVRzNHRWMnNhdGxNLUR3VHBkSmV6XzAxOWZMbm9DN3FWcFBEemNISUk0MHFmZW1hRWhVLU9QbXFiakVuel9oei1ITHM2em1JTkU0VGx3ZTRTQzRVYVlyZnF6Q2Rtc3VRaWVYQnUwMENoZmtuU09CTEVR?oc=5",
-   "date": "2026-10-08",
-   "source": "Business Today",
-   "label": "New Zealand",
-   "snippet": "Under the new system, approximately 90% of EOIs will be selected according to the date they were submitted, with the earliest EOIs considered first",
-   "lead": "Business Today Desk Updated Oct 8, 2026 1:20 AM IST New Zealand has changed the way it selects applicants for its Parent Resident Visa New Zealand has changed the way it selects applicants for its Parent Resident Visa, introducing a new hybrid Expression of Interest (EOI) selection system from October 5, 2026. The changes are aimed at making the process more predictable for families, while retaining an opportunity for newer applicants ...",
-   "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac62fcf31aae-new-zealand-has-changed-the-way-it-selects-applicants-for-its-parent-resident-visa-074101919-16x9.png",
-   "why": [
-    "Announces a change",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "New Zealand"
    ],
    "rank": 23,
    "must_read": false
