@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-08",
- "built": "2026-10-08 03:04 IST",
+ "built": "2026-10-08 08:31 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22776.0,
-   "change_pct": 0.98,
+   "value": 22603.0,
+   "change_pct": -0.76,
    "asof": "07 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73068.0,
-   "change_pct": 0.95,
+   "value": 72639.0,
+   "change_pct": -0.59,
    "asof": "07 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 96.76,
-   "change_pct": 0.4,
-   "asof": "08 Oct 00:50 IST"
+   "value": 96.75,
+   "change_pct": 0.39,
+   "asof": "08 Oct 08:10 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 100.95,
-   "change_pct": 0.37,
-   "asof": "08 Oct 02:29 IST"
+   "value": 102.34,
+   "change_pct": 2.14,
+   "asof": "08 Oct 08:21 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4137.0,
-   "change_pct": -1.2,
-   "asof": "08 Oct 02:29 IST"
+   "value": 4160.0,
+   "change_pct": 0.46,
+   "asof": "08 Oct 08:21 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -165,13 +165,76 @@
    ]
   },
   "Startups": {
-   "total": 484,
-   "new_today": 0,
+   "total": 490,
+   "new_today": 6,
    "items": [
     {
      "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "Etched fields funding offers at $40B+ valuation, sources say",
+     "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+     "date": "2026-10-06",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
+     "lead": "Etched fields funding offers at $40B+ valuation, sources say Marina Temkin 1:24 PM PDT · October 5, 2026 Although it’s only been a couple of months since Etched raised $700 million at a $21 billion valuation , the AI chip startup is already being plied with investment offers at double or more its value, according to people familiar with the company. Etched is reviewing incoming bids that range from $40 billion from top-tier investors ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Sequoia_Etched-Abhishek-Malani-Robert-Wachen-Sonya-Huang-Gavin-Uberti-copy.jpeg?resize=1200,846",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $40,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "Kuku turns profitable ahead of IPO; revenue surges sixfold to Rs 1,484 crore in FY26",
+     "url": "https://www.medianama.com/2026/10/223-kuku-ipo-revenue-surges/",
+     "date": "2026-10-05",
+     "source": "MediaNama",
+     "label": "India · Other",
+     "snippet": "Kuku Technologies swung to a Rs 182.7 crore profit in FY26 from a Rs 152.6 crore loss, as revenue surged sixfold to Rs 1,484.2 crore ahead of its planned IPO.",
+     "lead": "Digital media and entertainment startup Kuku Technologies, the owner of microdrama app Kuku TV and the audio storytelling platform Kuku FM, clocked a net profit of Rs 182.7 crore in the financial year ended March 31, 2026 — a sharp turnaround from a loss of Rs 152.6 crore in the previous fiscal year. The reversal came largely on account of a sixfold jump in its revenue. Revenue from operations jumped to Rs 1,484.2 crore in FY26, ...",
+     "image": "https://www.medianama.com/wp-content/uploads/2026/10/Untitled.jpg",
+     "why": [
+      "IPO & Listing",
+      "Large deal (about $156M)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "IPO & Listing"
+     ]
+    },
+    {
+     "desk": "Startups",
      "score": 10,
-     "priority": 83,
+     "priority": 77,
+     "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
+     "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+     "date": "2026-10-08",
+     "source": "TechCrunch Venture",
+     "label": "Global · Other",
+     "snippet": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
+     "lead": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’ Connie Loizos 3:59 PM PDT · October 7, 2026 Endeavor Catalyst has closed its fifth fund with $320 million in capital commitments, bringing the firm’s total assets under management to more than $850 million. The raise is good news for founders outside the Bay Area who risk getting overlooked as more funds focus squarely on AI companies in Silicon ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Linda-Rottenberg.jpg?w=1024",
+     "why": [
+      "Funding",
+      "Large deal (about $320M)"
+     ],
+     "tags": [
+      "Funding"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
      "title": "Quick commerce in India set for $90B boom by 2031: Google-Redseer study",
      "url": "https://yourstory.com/2026/10/india-quick-commerce-set-for-usd-90b-boom-by-2031-google-redseer-study",
      "date": "2026-10-07",
@@ -188,77 +251,12 @@
       "Financials",
       "Commerce & D2C"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Exclusive: Leverage Edu Eyes ₹500 Cr Pre-IPO Funding, Targets ₹600 Cr Revenue In FY27",
-     "url": "https://inc42.com/buzz/exclusive-leverage-edu-eyes-%e2%82%b9500-cr-pre-ipo-funding-targets-%e2%82%b9600-cr-revenue-in-fy27/",
-     "date": "2026-10-05",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "IPO-bound Leverage Edu is targeting ₹600 Cr in revenue in FY27, up 61% from ₹372 Cr in FY26, sources told Inc42",
-     "lead": "IPO-bound Leverage Edu is targeting ₹600 Cr in revenue in FY27, up 61% from ₹372 Cr in FY26, sources told Inc42 The startup wants to expand its revenue base and bring a large private equity investor on board ahead of its planned ₹2,000–3,000 Cr IPO Leverage Edu is exploring a ₹500 Cr pre-IPO funding round and has held talks with a couple of global PE firms, while working to finalise bankers for its public issue",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Leverage-Edu-social.jpg",
-     "why": [
-      "IPO & Listing",
-      "Sizeable deal (about $63M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
-     "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
-     "date": "2026-10-02",
-     "source": "TechCrunch",
-     "label": "Global · SaaS & Enterprise",
-     "snippet": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
-     "lead": "Kevin Mandia, best known as the founder of cybersecurity startup Mandiant, which sold to Google for $5.4 billion in 2022 , has raised $255.5 million for his latest startup, Armadin, at a valuation of more than $2.5 billion, the company announced on Thursday. The Series B round was led by Andreessen Horowitz and Accel, with Bain Capital Ventures, Redpoint, 8VC, Ballistic Ventures, Google Ventures, In-Q-Tel, Kleiner Perkins, and Menlo ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $2,500M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "SaaS & Enterprise"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-     "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-     "date": "2026-10-01",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-     "lead": "Flow Engineering , a startup that offers AI tools for hardware design, has raised a $50 million Series B round at a $750 million valuation from some big-name investors, the company announced on Wednesday. The round was co-led by Antonio Gracias of Valar Equity Partners ( best known for its investments in Elon Musk’s companies, particularly SpaceX) and Gavin Baker of Atreides Management (a hedge fund that has also backed Musk’s ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $750M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 788,
-   "new_today": 3,
+   "total": 796,
+   "new_today": 6,
    "items": [
     {
      "desk": "Immigration",
@@ -395,26 +393,49 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 13,
    "priority": 100,
-   "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
-   "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
-   "date": "2026-10-07",
+   "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+   "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+   "date": "2026-10-08",
    "source": "TechCrunch",
    "label": "Global · AI & Deeptech",
-   "snippet": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
-   "lead": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation Dominic-Madori Davis 6:45 AM PDT · October 7, 2026 A new personal AI assistant has arrived. Meet Tab , which announced Tuesday that it had officially emerged from stealth at a $300 million valuation. (The company declined to share the exact funding details.) Tab is part of the rising trend of consumer AI assistants, like the ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tab-website.png?resize=1200,744",
+   "snippet": "The developer of Hermes Agent raised a $90 million Series B.",
+   "lead": "Nous Research , the startup developing the open source Hermes Agent, has raised a $90 million Series B at a $1.5 billion valuation, confirming TechCrunch’s earlier reporting . The round was led by Robot Ventures, with participation from other backers including Nvidia, Union Square Ventures, Menlo Ventures, Samsung, and 1789 Capital, where Donald Trump Jr. is a partner. The new financing brings the three-year-old startup’s total funding ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
    "why": [
-    "Acquisition",
-    "Large deal (about $300M)",
+    "Funding",
+    "Very large figure in headline (about $1,500M: round or valuation)",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Acquisition",
+    "Funding",
     "AI & Deeptech"
    ],
    "rank": 1,
+   "must_read": true
+  },
+  {
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 100,
+   "title": "Form: Apply to the EU Settlement Scheme by post",
+   "url": "https://www.gov.uk/government/publications/apply-to-the-eu-settlement-scheme-by-post-or-email",
+   "date": "2026-10-08",
+   "source": "GOV.UK (UK Visas and Immigration)",
+   "label": "United Kingdom",
+   "snippet": "Forms to apply to the EU Settlement Scheme if you are unable to use the online application process.",
+   "lead": "Navigation menu Menu Menu Services and information Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions ...",
+   "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+   "why": [
+    "Affects permanent residence",
+    "Official government notice"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "United Kingdom"
+   ],
+   "rank": 2,
    "must_read": true
   },
   {
@@ -438,7 +459,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -460,30 +481,6 @@
    ],
    "tags": [
     "Other Policy"
-   ],
-   "rank": 3,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 100,
-   "title": "Swara Baby Products Secures SEBI Nod For ₹1,000 Cr IPO",
-   "url": "https://inc42.com/buzz/swara-baby-products-secures-sebi-nod-for-%e2%82%b91000-cr-ipo/",
-   "date": "2026-10-06",
-   "source": "Inc42",
-   "label": "India · Policy & Regulation",
-   "snippet": "Swara Baby Products has secured SEBI approval for its ₹1,000 Cr IPO, including a ₹500 Cr fresh issue and ₹500 Cr OFS",
-   "lead": "Swara Baby Products has received SEBI approval for its proposed ₹1,000 Cr IPO, comprising a ₹500 Cr fresh issue and ₹500 Cr OFS FirstCry parent Brainbees Solutions owns a 76.6% stake in Swara Baby Products and plans to offload shares worth up to ₹300 Cr through the OFS The company plans to use the fresh issue proceeds to fund a new manufacturing facility in Madhya Pradesh, repay debt, and pursue acquisitions",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/neogeo-funding-social-.png",
-   "why": [
-    "IPO & Listing",
-    "Large deal (about $105M)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Policy & Regulation"
    ],
    "rank": 4,
    "must_read": true
@@ -514,45 +511,46 @@
   },
   {
    "desk": "Startups",
-   "score": 11,
+   "score": 12,
    "priority": 92,
-   "title": "SpaceX seeks $40 billion to buy Nvidia chips",
-   "url": "https://economictimes.indiatimes.com/tech/technology/spacex-seeks-40-billion-to-buy-nvidia-chips-ft-reports/articleshow/134754107.cms",
-   "date": "2026-10-07",
+   "title": "Jeff Bezos says Blue Origin likely to pursue IPO in coming years",
+   "url": "https://economictimes.indiatimes.com/tech/technology/jeff-bezos-says-blue-origin-likely-to-pursue-ipo-in-coming-years/articleshow/134778260.cms",
+   "date": "2026-10-08",
    "source": "ET Startups",
-   "label": "Global · Fintech",
-   "snippet": "The Elon Musk-led company is seeking to raise about $10 billion in bank loans and $30 billion in investment-grade debt to fund its chip order, the report said.",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Blue Origin is likely to pursue an initial public offering in the coming years, billionaire founder Jeff Bezos said on Wednesday, after the space company raised $10 billion from outside investors for the first time in a funding round.",
    "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2207790,resizemode-75,msid-134754107/tech/technology/spacex-seeks-40-billion-to-buy-nvidia-chips-ft-reports.jpg",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-3360783,resizemode-75,msid-134778260/tech/technology/jeff-bezos-says-blue-origin-likely-to-pursue-ipo-in-coming-years.jpg",
    "why": [
-    "Acquisition",
-    "Very large figure in headline (about $40,000M: round or valuation)"
+    "IPO & Listing",
+    "Very large figure in headline (about $10,000M: round or valuation)"
    ],
    "tags": [
-    "Acquisition",
-    "Fintech"
+    "IPO & Listing",
+    "AI & Deeptech"
    ],
    "rank": 6,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 11,
+   "score": 12,
    "priority": 92,
-   "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-   "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+   "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
+   "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
    "date": "2026-10-07",
    "source": "TechCrunch",
    "label": "Global · AI & Deeptech",
-   "snippet": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-   "lead": "Cloud provider Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation, marking what could be its last private round before a planned 2027 IPO, according to The Wall Street Journal. Coatue Management and Blackstone are leading the round. A letter to investors reviewed by the Journal shows Lambda’s backlog grew from $15 billion in June to $50 billion in September. While that might look like a hearty increase in demand, ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1200,687",
+   "snippet": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
+   "lead": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation Dominic-Madori Davis 6:45 AM PDT · October 7, 2026 A new personal AI assistant has arrived. Meet Tab , which announced Tuesday that it had officially emerged from stealth at a $300 million valuation. (The company declined to share the exact funding details.) Tab is part of the rising trend of consumer AI assistants, like the ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tab-website.png?resize=1200,744",
    "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $4,000M: round or valuation)"
+    "Acquisition",
+    "Large deal (about $300M)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "IPO & Listing",
+    "Acquisition",
     "AI & Deeptech"
    ],
    "rank": 7,
@@ -560,49 +558,26 @@
   },
   {
    "desk": "Startups",
-   "score": 11,
+   "score": 12,
    "priority": 92,
-   "title": "Etched fields funding offers at $40B+ valuation, sources say",
-   "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+   "title": "Swara Baby Products Secures SEBI Nod For ₹1,000 Cr IPO",
+   "url": "https://inc42.com/buzz/swara-baby-products-secures-sebi-nod-for-%e2%82%b91000-cr-ipo/",
    "date": "2026-10-06",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
-   "lead": "Etched fields funding offers at $40B+ valuation, sources say Marina Temkin 1:24 PM PDT · October 5, 2026 Although it’s only been a couple of months since Etched raised $700 million at a $21 billion valuation , the AI chip startup is already being plied with investment offers at double or more its value, according to people familiar with the company. Etched is reviewing incoming bids that range from $40 billion from top-tier investors ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/07/Sequoia_Etched-Abhishek-Malani-Robert-Wachen-Sonya-Huang-Gavin-Uberti-copy.jpeg?resize=1200,846",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $40,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "Kuku turns profitable ahead of IPO; revenue surges sixfold to Rs 1,484 crore in FY26",
-   "url": "https://www.medianama.com/2026/10/223-kuku-ipo-revenue-surges/",
-   "date": "2026-10-05",
-   "source": "MediaNama",
-   "label": "India · Other",
-   "snippet": "Kuku Technologies swung to a Rs 182.7 crore profit in FY26 from a Rs 152.6 crore loss, as revenue surged sixfold to Rs 1,484.2 crore ahead of its planned IPO.",
-   "lead": "Digital media and entertainment startup Kuku Technologies, the owner of microdrama app Kuku TV and the audio storytelling platform Kuku FM, clocked a net profit of Rs 182.7 crore in the financial year ended March 31, 2026 — a sharp turnaround from a loss of Rs 152.6 crore in the previous fiscal year. The reversal came largely on account of a sixfold jump in its revenue. Revenue from operations jumped to Rs 1,484.2 crore in FY26, ...",
-   "image": "https://www.medianama.com/wp-content/uploads/2026/10/Untitled.jpg",
+   "source": "Inc42",
+   "label": "India · Policy & Regulation",
+   "snippet": "Swara Baby Products has secured SEBI approval for its ₹1,000 Cr IPO, including a ₹500 Cr fresh issue and ₹500 Cr OFS",
+   "lead": "Swara Baby Products has received SEBI approval for its proposed ₹1,000 Cr IPO, comprising a ₹500 Cr fresh issue and ₹500 Cr OFS FirstCry parent Brainbees Solutions owns a 76.6% stake in Swara Baby Products and plans to offload shares worth up to ₹300 Cr through the OFS The company plans to use the fresh issue proceeds to fund a new manufacturing facility in Madhya Pradesh, repay debt, and pursue acquisitions",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/neogeo-funding-social-.png",
    "why": [
     "IPO & Listing",
-    "Large deal (about $156M)",
+    "Large deal (about $105M)",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "IPO & Listing"
+    "IPO & Listing",
+    "Policy & Regulation"
    ],
-   "rank": 9,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -626,7 +601,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 10,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -650,7 +625,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 11,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -674,7 +649,53 @@
    "tags": [
     "Banking & Rates"
    ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "SpaceX seeks $40 billion to buy Nvidia chips",
+   "url": "https://economictimes.indiatimes.com/tech/technology/spacex-seeks-40-billion-to-buy-nvidia-chips-ft-reports/articleshow/134754107.cms",
+   "date": "2026-10-07",
+   "source": "ET Startups",
+   "label": "Global · Fintech",
+   "snippet": "The Elon Musk-led company is seeking to raise about $10 billion in bank loans and $30 billion in investment-grade debt to fund its chip order, the report said.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2207790,resizemode-75,msid-134754107/tech/technology/spacex-seeks-40-billion-to-buy-nvidia-chips-ft-reports.jpg",
+   "why": [
+    "Acquisition",
+    "Very large figure in headline (about $40,000M: round or valuation)"
+   ],
+   "tags": [
+    "Acquisition",
+    "Fintech"
+   ],
    "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+   "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+   "date": "2026-10-07",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+   "lead": "Cloud provider Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation, marking what could be its last private round before a planned 2027 IPO, according to The Wall Street Journal. Coatue Management and Blackstone are leading the round. A letter to investors reviewed by the Journal shows Lambda’s backlog grew from $15 billion in June to $50 billion in September. While that might look like a hearty increase in demand, ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1200,687",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $4,000M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "AI & Deeptech"
+   ],
+   "rank": 13,
    "must_read": false
   },
   {
@@ -697,7 +718,7 @@
    "tags": [
     "AIF"
    ],
-   "rank": 13,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -720,7 +741,7 @@
    "tags": [
     "Australia"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -743,7 +764,7 @@
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 15,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -765,7 +786,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -787,7 +808,7 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -810,7 +831,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -833,7 +854,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 19,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -856,7 +877,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 20,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -880,7 +901,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 21,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -901,29 +922,6 @@
    ],
    "tags": [
     "New Zealand"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 70,
-   "title": "ILPA highlights 20 things you might not know about Home Office’s earned settlement proposals",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFczeExkaDZKWXdXXzNnb1ZFVXpmbmpkRUdsa0w1c1hKNHZvQkFhdF9fV1FVRlFhM0J2VEJnN3puNlNJbFI0QUJHcVVxYXRSbF9Cb01MM1ZKRF9ZQmRIbldOOVZiTVFnMEJOV1pWajNGeWhRcjJOZFYzdkFkRm9semJnaFdwOFJxMTBBMWYybmtVNm9tbnhxWk5FeksxdUxkdWpRODdYVDhUOEs0VDJoOHdZRTF1T3pWdW5B?oc=5",
-   "date": "2026-10-01",
-   "source": "Electronic Immigration Network",
-   "label": "United Kingdom",
-   "snippet": "Briefing paper points out that headline 10-year qualifying period for ILR will not apply to majority of applicants",
-   "lead": "Briefing paper points out that headline 10-year qualifying period for ILR will not apply to majority of applicants The Immigration Law Practitioners' Association (ILPA) last which published a briefing outlining 20 points you might not know about the Government's proposed \"earned settlement\" reforms, which would change how migrants qualify for indefinite leave to remain (ILR). ILPA highlights that while the reforms are widely understood ...",
-   "image": null,
-   "why": [
-    "Affects permanent residence",
-    "Announces a change"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "United Kingdom"
    ],
    "rank": 23,
    "must_read": false
