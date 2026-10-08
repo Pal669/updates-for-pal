@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-08",
- "built": "2026-10-08 11:22 IST",
+ "built": "2026-10-08 12:07 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22397.0,
-   "change_pct": -0.91,
-   "asof": "08 Oct 11:22 IST"
+   "value": 22343.0,
+   "change_pct": -1.15,
+   "asof": "08 Oct 12:07 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72221.0,
-   "change_pct": -0.58,
-   "asof": "08 Oct 11:07 IST"
+   "value": 72033.0,
+   "change_pct": -0.83,
+   "asof": "08 Oct 11:52 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 96.75,
-   "change_pct": 0.4,
-   "asof": "08 Oct 11:22 IST"
+   "value": 96.77,
+   "change_pct": 0.41,
+   "asof": "08 Oct 12:07 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 102.5,
-   "change_pct": 2.3,
-   "asof": "08 Oct 11:12 IST"
+   "value": 102.97,
+   "change_pct": 2.76,
+   "asof": "08 Oct 11:57 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4155.0,
-   "change_pct": 0.35,
-   "asof": "08 Oct 11:12 IST"
+   "value": 4140.0,
+   "change_pct": -0.01,
+   "asof": "08 Oct 11:57 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,8 +79,8 @@
  },
  "desks": {
   "Policy": {
-   "total": 165,
-   "new_today": 1,
+   "total": 166,
+   "new_today": 2,
    "items": [
     {
      "desk": "Policy",
@@ -126,6 +126,26 @@
      "desk": "Policy",
      "score": 8,
      "priority": 57,
+     "title": "Underwriting Auction for sale of Government Securities for ₹36,000 crore on October 09, 2026",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63757",
+     "date": "2026-10-08",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on October 09, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
+     "image": null,
+     "why": [
+      "Regulator: RBI",
+      "Large outlay (Rs 10,000 Cr or more)"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 8,
+     "priority": 57,
      "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63746",
      "date": "2026-10-07",
@@ -141,32 +161,12 @@
      "tags": [
       "Banking & Rates"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 8,
-     "priority": 57,
-     "title": "Master Direction on Note Sorting Machines",
-     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13723&Mode=0",
-     "date": "2026-10-02",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Notifications - Reserve Bank of India",
-     "lead": "",
-     "image": null,
-     "why": [
-      "Regulator rulebook change",
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 492,
-   "new_today": 8,
+   "total": 494,
+   "new_today": 10,
    "items": [
     {
      "desk": "Startups",
@@ -255,8 +255,8 @@
    ]
   },
   "Immigration": {
-   "total": 800,
-   "new_today": 6,
+   "total": 801,
+   "new_today": 7,
    "items": [
     {
      "desk": "Immigration",
