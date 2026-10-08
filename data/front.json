@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-08",
- "built": "2026-10-08 08:31 IST",
+ "built": "2026-10-08 11:22 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22603.0,
-   "change_pct": -0.76,
-   "asof": "07 Oct 15:31 IST"
+   "value": 22397.0,
+   "change_pct": -0.91,
+   "asof": "08 Oct 11:22 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72639.0,
-   "change_pct": -0.59,
-   "asof": "07 Oct 15:32 IST"
+   "value": 72221.0,
+   "change_pct": -0.58,
+   "asof": "08 Oct 11:07 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
    "value": 96.75,
-   "change_pct": 0.39,
-   "asof": "08 Oct 08:10 IST"
+   "change_pct": 0.4,
+   "asof": "08 Oct 11:22 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 102.34,
-   "change_pct": 2.14,
-   "asof": "08 Oct 08:21 IST"
+   "value": 102.5,
+   "change_pct": 2.3,
+   "asof": "08 Oct 11:12 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4160.0,
-   "change_pct": 0.46,
-   "asof": "08 Oct 08:21 IST"
+   "value": 4155.0,
+   "change_pct": 0.35,
+   "asof": "08 Oct 11:12 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,8 +79,8 @@
  },
  "desks": {
   "Policy": {
-   "total": 164,
-   "new_today": 0,
+   "total": 165,
+   "new_today": 1,
    "items": [
     {
      "desk": "Policy",
@@ -165,8 +165,8 @@
    ]
   },
   "Startups": {
-   "total": 490,
-   "new_today": 6,
+   "total": 492,
+   "new_today": 8,
    "items": [
     {
      "desk": "Startups",
@@ -255,7 +255,7 @@
    ]
   },
   "Immigration": {
-   "total": 796,
+   "total": 800,
    "new_today": 6,
    "items": [
     {
