@@ -1,6 +1,6 @@
 {
- "edition": "2026-10-08",
- "built": "2026-10-08 23:08 IST",
+ "edition": "2026-10-09",
+ "built": "2026-10-09 03:01 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,102 +12,80 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22232.0,
-   "change_pct": -1.64,
+   "value": 22603.0,
+   "change_pct": -0.76,
    "asof": "08 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 71593.0,
-   "change_pct": -1.44,
+   "value": 72639.0,
+   "change_pct": -0.59,
    "asof": "08 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 96.77,
-   "change_pct": 0.41,
-   "asof": "08 Oct 20:14 IST"
+   "value": 96.78,
+   "change_pct": 0.02,
+   "asof": "09 Oct 02:37 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 103.66,
-   "change_pct": 3.45,
-   "asof": "08 Oct 22:58 IST"
+   "value": 103.92,
+   "change_pct": 3.71,
+   "asof": "09 Oct 02:29 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4159.0,
+   "value": 4158.0,
    "change_pct": 0.43,
-   "asof": "08 Oct 22:58 IST"
+   "asof": "09 Oct 02:29 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.24,
-   "change_pct": -0.76,
-   "asof": "08 Oct 22:53 IST"
+   "value": 5.23,
+   "change_pct": -0.87,
+   "asof": "09 Oct 00:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "Aakash Educational Services",
-   "tagline": "Test-prep coaching chain owned by BYJU'S parent",
-   "what": "Gurugram-based test-prep brand for engineering and medical entrance exams, owned by BYJU'S parent Think & Learn since its 2021 acquisition.",
+   "company": "Curefoods and Rebel Foods",
+   "tagline": "Cloud-kitchen and restaurant-brand operators",
+   "what": "Curefoods runs brands such as EatFit, Nomad Pizza, Sharief Bhai Biryani, CakeZone, Frozen Bottle and Krispy Kreme (India rights acquired last year), with 500+ kitchens in 70 cities. Rebel Foods runs Faasos, Behrouz Biryani, Oven Story, Sweet Truth and 20+ other brands across 10 countries.",
    "how": [
-    "Coaching fees: Rs 1,956.2 Cr of Rs 2,040.5 Cr operating revenue in FY26 (about 96%, computed).",
-    "Franchisee revenue: Rs 84.4 Cr, up 4% (about 4%, computed)."
+    "Both report 'operating revenue' from operating cloud kitchens and restaurant chains, i.e. selling food under their own brands.",
+    "The article gives no split between delivery, dine-in or other channels."
    ],
-   "watch": "The smaller loss came from one-off accounting gains, not from the business growing: revenue is flat. Ownership is entangled in the BYJU'S group's disputes: Byju Raveendran proposed relinquishing his claimed interest in 17.89 Mn Aakash shares to settle Qatar Holding's arbitration claim of over $235 Mn; lenders (Global TLB lenders via GLAS Trust) are reportedly in advanced talks for a 30% stake valuing Aakash at about $2 Bn.",
-   "sector": "Edtech & Skills",
+   "watch": "Growth is above 20% but both still lose money. Rebel is narrowing losses; Curefoods' loss grew in absolute terms.",
+   "sector": "Commerce & D2C",
    "region": "India",
-   "url": "https://inc42.com/buzz/aakash-trims-fy26-loss-by-16-to-%e2%82%b9186-5-cr-top-line-flat-at-%e2%82%b92040-cr/"
+   "url": "https://economictimes.indiatimes.com/tech/technology/curefoods-revenue-grows-23-yoy-rebel-foods-revenue-up-20/articleshow/134338278.cms"
   },
   "country": {
-   "id": "korea",
-   "name": "South Korea",
-   "trend": "Stable (not verified in detail)",
-   "pr": "F-5 permanent residence after 5 consecutive years on qualifying work or resident visas, or after 3+ years on F-2-7. Requires KIIP level 5 or a score of 60+ on the PR comprehensive evaluation.",
-   "citizenship": "Naturalisation after at least 3 years on F-5 (so 8 years or more overall); renunciation of original citizenship within 1 year is generally required.",
-   "pro": "Clear points-based PR route.",
-   "con": "Korean is single-country and hard.",
-   "watch": "Points-table changes"
+   "id": "germany",
+   "name": "Germany",
+   "trend": "Stable law, rising political risk",
+   "pr": "Settlement permit after 27 months on a Blue Card with A1 German, or 21 months with B1 German.",
+   "citizenship": "5 years of lawful residence, roughly B1 German, financial independence. The 3-year fast track was abolished on 30 October 2025. Dual citizenship is permitted by Germany.",
+   "pro": "Fastest realistic settlement on this list for a Blue Card holder: 21 to 27 months.",
+   "con": "Political risk: the AfD won 44% in Saxony-Anhalt (early September 2026) and polled around 37% ahead of the 20 September votes in Mecklenburg-Vorpommern and Berlin. Its manifesto calls for a points system with German-language criteria and quotas for non-EU skilled workers, and mass deportations.",
+   "watch": "Outcome of the 20 September regional elections"
   }
  },
  "desks": {
   "Policy": {
    "total": 173,
-   "new_today": 9,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
-     "score": 10,
-     "priority": 71,
-     "title": "RBI issues Amendment Directions on ‘Simplified approval process for subsequent acquisitions of major shareholding in a banking company by mutual funds, insurance companies and pension funds’",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63711",
-     "date": "2026-10-01",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "The Reserve Bank, vide Press Release dated July 14, 2026 , had issued the draft \"Reserve Bank of India (Acquisition and Holding of Shares or Voting Rights) Amendment Directions, 2026” , seeking comments / feedback from the regulated entities and members of public / other stakeholders on or before August 4, 2026. The draft Amendment Directions proposed to simplify approval process for subsequent acquisitions of major shareholding in a ...",
-     "image": null,
-     "why": [
-      "Regulator rulebook change",
-      "Rule change",
-      "Touches financial markets",
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 9,
-     "priority": 64,
+     "score": 8,
+     "priority": 62,
      "title": "Penal Interest on shortfall in CRR and SLR requirements - Change in Bank Rate",
      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13728&Mode=0",
      "date": "2026-10-07",
@@ -126,8 +104,8 @@
     },
     {
      "desk": "Policy",
-     "score": 9,
-     "priority": 64,
+     "score": 8,
+     "priority": 62,
      "title": "Cabinet passes resolution congratulating Prime Minister Shri Narendra Modi on 25 Years of Unbroken Leadership",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2319565",
      "date": "2026-10-06",
@@ -147,7 +125,27 @@
     {
      "desk": "Policy",
      "score": 8,
-     "priority": 57,
+     "priority": 62,
+     "title": "Master Direction on Note Sorting Machines",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13723&Mode=0",
+     "date": "2026-10-02",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Notifications - Reserve Bank of India",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Regulator rulebook change",
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 7,
+     "priority": 54,
      "title": "Union Minister Shri Ashwini Vaishnaw Launches World Bank Group’s ‘World Development Report 2026: The Promise of Artificial Intelligence’ in New Delhi",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320883",
      "date": "2026-10-08",
@@ -166,13 +164,54 @@
    ]
   },
   "Startups": {
-   "total": 509,
-   "new_today": 25,
+   "total": 511,
+   "new_today": 0,
    "items": [
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 85,
+     "score": 10,
+     "priority": 83,
+     "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+     "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+     "date": "2026-10-08",
+     "source": "TechCrunch",
+     "label": "Global · Other",
+     "snippet": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+     "lead": "China’s Manus raises over $500M in first funding round since split with Meta Kate Park 6:20 AM PDT · October 8, 2026 Chinese AI lab Manus’ parent company, Butterfly Effect, said on Thursday in a WeChat post that it has raised more than $500 million, the company’s first funding round since Meta was forced to call off its $2 billion acquisition of the startup. Boyu Capital and IDG Capital led the funding round, and existing shareholders ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2278374931.jpg?w=1024",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $500M: round or valuation)"
+     ],
+     "tags": [
+      "Funding"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
+     "title": "SpaceX seeks $40 billion to buy Nvidia chips",
+     "url": "https://economictimes.indiatimes.com/tech/technology/spacex-seeks-40-billion-to-buy-nvidia-chips-ft-reports/articleshow/134754107.cms",
+     "date": "2026-10-07",
+     "source": "ET Startups",
+     "label": "Global · Fintech",
+     "snippet": "The Elon Musk-led company is seeking to raise about $10 billion in bank loans and $30 billion in investment-grade debt to fund its chip order, the report said.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2207790,resizemode-75,msid-134754107/tech/technology/spacex-seeks-40-billion-to-buy-nvidia-chips-ft-reports.jpg",
+     "why": [
+      "Acquisition",
+      "Very large figure in headline (about $40,000M: round or valuation)"
+     ],
+     "tags": [
+      "Acquisition",
+      "Fintech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
      "date": "2026-10-07",
@@ -192,8 +231,8 @@
     },
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 85,
+     "score": 10,
+     "priority": 83,
      "title": "Etched fields funding offers at $40B+ valuation, sources say",
      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
      "date": "2026-10-06",
@@ -211,80 +250,58 @@
       "Funding",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 85,
-     "title": "Kuku turns profitable ahead of IPO; revenue surges sixfold to Rs 1,484 crore in FY26",
-     "url": "https://www.medianama.com/2026/10/223-kuku-ipo-revenue-surges/",
-     "date": "2026-10-05",
-     "source": "MediaNama",
-     "label": "India · Other",
-     "snippet": "Kuku Technologies swung to a Rs 182.7 crore profit in FY26 from a Rs 152.6 crore loss, as revenue surged sixfold to Rs 1,484.2 crore ahead of its planned IPO.",
-     "lead": "Digital media and entertainment startup Kuku Technologies, the owner of microdrama app Kuku TV and the audio storytelling platform Kuku FM, clocked a net profit of Rs 182.7 crore in the financial year ended March 31, 2026 — a sharp turnaround from a loss of Rs 152.6 crore in the previous fiscal year. The reversal came largely on account of a sixfold jump in its revenue. Revenue from operations jumped to Rs 1,484.2 crore in FY26, ...",
-     "image": "https://www.medianama.com/wp-content/uploads/2026/10/Untitled.jpg",
-     "why": [
-      "IPO & Listing",
-      "Large deal (about $156M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "D2C Lifestyle Brand DailyObjects Raises ₹332 Cr To Expand Offline Presence",
-     "url": "https://inc42.com/buzz/d2c-lifestyle-brand-dailyobjects-raises-%e2%82%b9332-cr-to-expand-offline-presence/",
-     "date": "2026-10-08",
-     "source": "Inc42",
-     "label": "India · Commerce & D2C",
-     "snippet": "DailyObjects raised ₹332 Cr in a Series C funding round co-led by Xponentia Capital Partners, Anicut Capital and Axiom Asia Private Capital",
-     "lead": "D2C lifestyle startup DailyObjects has raised ₹332 Cr ($34.3 Mn) in a Series C funding round co-led by Xponentia Capital Partners, Anicut Capital and Axiom Asia Private Capital The fresh funds will allow DailyObjects to scale its offline network, deepen its product and R&D capabilities, strengthen brand building and evaluate opportunities in international markets The round, which included both primary and secondary transactions, valued ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Untitled-design-40-760x570-1.png",
-     "why": [
-      "Funding",
-      "Sizeable deal (about $35M)"
-     ],
-     "tags": [
-      "Funding",
-      "Commerce & D2C"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 819,
-   "new_today": 22,
+   "total": 822,
+   "new_today": 0,
    "items": [
     {
      "desk": "Immigration",
-     "score": 8,
-     "priority": 73,
-     "title": "Haitians affected by termination of U.S. protected status eye six-month route to Canadian permanent residence",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVVRUcXRzSzNSN1MzVmtPdjFMR1JOQ3ZLQ0o2Um5KczBJRGhfRkUxUW9WR3NMVUFaaElzX09JWmpxT0otWi1VRGd4eWJCNTZ3bGNQU1VZamdBb1JfNGhkcU8wY293T3JJbEs0d3g1cDFWb1pkdTJFa0Fzc0tVcGRtV2dua3pESUtfMTRZU0VqSFlnaEFaMmNBZUpIQUw2djZkLTczcC1DZERoMnl1NG1hUXZMb2xPMG1vdkxTNmRXZzZYVGhQbm1qSEItOWJFdWRXUFJRdG0xal9WcmRTQ1lDOElDd2xhQThX0gHuAUFVX3lxTE5fcklHZVpLU1pKdmstWVFZLVhBUTVkNm0wSnlQamNpMWtVRXlNZXNScnRxUTNCNzlsaFRqd1ppcUxRdFVmeWNLY3VfVFhPWFByVXlRMmRLOGxabFBWNFJZYUliZzJhU3IwT0o0WURVc0ItYnlVS25XZGdxT2N2b3pNWHUzUmg3cE53TG5BMlpCVU5ucXhUVG11M3VTNHktdkJ5bVREdktCQUpEMWRtRjhkcjRmRTFoX0JYX25LN2dXaV90OWFYZi0tVGdCTUtkS0cwWVpSQ2pTMy1tdVRPUHB2Y1BUQ09Xb0lRTlgtQXc?oc=5",
+     "score": 6,
+     "priority": 60,
+     "title": "The tightening of permanent residency permits and the increase in residency visa fees are part of the government's basic line toward realizing a society in which Japanese and foreigners prosper together.",
+     "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPRjVGNnJDYjNYd0lja21qRWtMaHlLazVobHFKLURNYnVsbVYyWWdsX3h6MFg4T25NOHFMUUp6N01oRE54clV4dTExOF92MmZYMXlyeEg5UENhc21salk1M0JOT0xpbklaWlEyOGlRN0lNX2NKR1ZZWG8tUEkxNWNLSFBwZ2Z2VEhnWEVkMmRDeFdwNlJtVzZqNW85bXJ2N2NUTmpsb2VXbHBGdzJLTjdjNF9vc0RJc3JjVUFTSGRndWUwWGQyMDlqVnJ4TnJfREdnWGNrT0tNMXEtd0tyOWhtaENzRVhsVXZ5TlFGaWQ5M3VUUXBtUUFLdGlDb0V0UURkT3BYUWcwWENOal9mU1ZSQ2hUUlk1RlV4Ym9wOWNCM3VEZkpOU2NfS0hFOGVtcllBZFl2LXVJOFlTQUpONDF5aFhQU29VdWwwd21BLW5MaXdVZzB2d3VtZWl6NXc5YV9tT2xTYzEwV2hNM2dCdnc?oc=5",
      "date": "2026-10-06",
-     "source": "CIC News",
-     "label": "Canada",
-     "snippet": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Check Your Eligibili",
-     "lead": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Express Entry awards additional points to candidates with French language skills, and includes larger selection rounds ...",
-     "image": "https://www.cicnews.com/wp-content/uploads/2026/10/Haitians-eye-six-month-Canadian-PR.jpg",
+     "source": "Japan Today",
+     "label": "Japan",
+     "snippet": "",
+     "lead": "",
+     "image": null,
      "why": [
       "Affects permanent residence",
-      "Major story (9 headlines that day)"
+      "Announces a change"
      ],
      "tags": [
       "PR / Settlement",
-      "Canada"
+      "Japan"
      ]
     },
     {
      "desk": "Immigration",
-     "score": 6,
-     "priority": 55,
+     "score": 5,
+     "priority": 50,
+     "title": "South Korea tightens foreign student visas, expands deposits, curbs loopholes - CHOSUNBIZ",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdzVYdHY5Q3hWbUtQVmJTSWp0TU9Lc2hIWDkxdlYyZGRFNUxJOC1xbnFVNFJxcml3RUVvSFY2STU0aVI5cXZZQjFPUTlpUkRZVFFoVjJ3WDFQQVJpeGRJc2pNUDlnNWlsRVktSTdCS0NzaTMzWHlmRkdVWGhvbXRXQ9IBlAFBVV95cUxPcWVWSEVPa2twRUxHTlVlUzRraTVFa09lZFVXRE5Ha2Q4WFNwWDNnMWp2OE9sXzlMOVFkSEZLbDRQZ29KTUltTVlXdHRKTlJtc0dvcjVEcEUtS3hpWUpiMVE3UHNmS0hKdFNlTzZuNG41T2hMSWRBLUVYOWJUdFNTV2VhMlJISzZvbmhkbXp0MDI1U2ZZ?oc=5",
+     "date": "2026-10-07",
+     "source": "Chosunbiz",
+     "label": "South Korea",
+     "snippet": "South Korea tightens foreign student visas, expands deposits, curbs loopholes",
+     "lead": "조선비즈 구글 검색 먼저 보기 The government will tighten checks on the financial standing of foreign students to keep them from overstaying or working illegally in Korea, and will suspend visa preference benefits if universities provide backdoor support for part-time jobs for foreign students. The Ministry of Justice on the 7th announced the results of discussions by the \"council on improving the visa system for foreign students.\" The council, ...",
+     "image": "https://biz.chosun.com/resizer/v2/A6I75D4EL5JCFGTH7FCPXJQG3Y.jpg?auth=26a218ab69f5d82bfd0c2c908d5979bbaae4d402b114fa305eab82e9549978c7&width=1200&height=630&smart=true",
+     "why": [
+      "Announces a change"
+     ],
+     "tags": [
+      "Student / Graduate",
+      "South Korea"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 50,
      "title": "Netherlands Names 5 Groups Of Foreigners Eligible for Dutch Citizenship Through Option Route",
      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLS1IVktKbHpYTGMwLUFoZGNuQk9XUExGNll2U09MNnF6Z0steFhvaGhaQzF3QUZIUXh0UnM2ejNIYjQxSDJCOWhLR2M3R0xNa3lXU1VoRlhmUzJYbHFPcXRoYnc2a0pfTzFLeHdQYm5tUHhsTHhwdWFsWEVpUV9vNFRXMTdyVFRTQkFyOHcxY3piZ3pHQnhQV1I3eFMwLXVy?oc=5",
      "date": "2026-10-07",
@@ -300,37 +317,79 @@
       "Citizenship",
       "Netherlands"
      ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 55,
-     "title": "South Korea tightens foreign student visas, ties work rights to Korean - CHOSUNBIZ",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdzVYdHY5Q3hWbUtQVmJTSWp0TU9Lc2hIWDkxdlYyZGRFNUxJOC1xbnFVNFJxcml3RUVvSFY2STU0aVI5cXZZQjFPUTlpUkRZVFFoVjJ3WDFQQVJpeGRJc2pNUDlnNWlsRVktSTdCS0NzaTMzWHlmRkdVWGhvbXRXQ9IBlAFBVV95cUxPcWVWSEVPa2twRUxHTlVlUzRraTVFa09lZFVXRE5Ha2Q4WFNwWDNnMWp2OE9sXzlMOVFkSEZLbDRQZ29KTUltTVlXdHRKTlJtc0dvcjVEcEUtS3hpWUpiMVE3UHNmS0hKdFNlTzZuNG41T2hMSWRBLUVYOWJUdFNTV2VhMlJISzZvbmhkbXp0MDI1U2ZZ?oc=5",
-     "date": "2026-10-07",
-     "source": "Chosunbiz",
-     "label": "South Korea",
-     "snippet": "South Korea tightens foreign student visas, expands deposits, curbs loopholes",
-     "lead": "조선비즈 구글 검색 먼저 보기 The government will tighten checks on the financial standing of foreign students to keep them from overstaying or working illegally in Korea, and will suspend visa preference benefits if universities provide backdoor support for part-time jobs for foreign students. The Ministry of Justice on the 7th announced the results of discussions by the \"council on improving the visa system for foreign students.\" The council, ...",
-     "image": "https://biz.chosun.com/resizer/v2/A6I75D4EL5JCFGTH7FCPXJQG3Y.jpg?auth=26a218ab69f5d82bfd0c2c908d5979bbaae4d402b114fa305eab82e9549978c7&width=1200&height=630&smart=true",
-     "why": [
-      "Announces a change"
-     ],
-     "tags": [
-      "Student / Graduate",
-      "South Korea"
-     ]
     }
    ]
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 15,
+   "new_today": 9,
    "items": [
     {
      "desk": "Advisory",
      "score": 11,
-     "priority": 73,
+     "priority": 79,
+     "title": "Quotes From Real Estate Experts And Category II AIF On RBI’s Monetary Policy Announcement.",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdE9wRGFKSWJLRnJvTWlCRV9FbVVCdF9EM0tYVGwxdVBJSHB3RmFOUC1pY191YURWenJWZV9GVHFJYm5qaUpuaEktMklSSnFPYVhpc3FDZTRmT0x1M29oZUcybXpuNEkyRzE5MEJFOVFwbExjT19QMi10VV9FRUdwTnROTkNOcE1Td0RGNXJnRXRTN0t6SFExSWZ6SWRtOGw3UEhpOHN1NTJGU0hsbUs2QVJXTWhVdXBfSUw1OXR3?oc=5",
+     "date": "2026-10-07",
+     "source": "TRIPURA STAR NEWS",
+     "label": "AIF",
+     "snippet": "Mumbai, Maharashtra, 7th of October, 2026 : Quotes From Real Estate Experts And Category II AIF On RBI’s Monetary Policy Announcement. Mr. Suresh H. A., Managing Director, Sanjeevini Group : The residential market continues to be supported by strong end-user demand, employment growth and infrastructure-led development despite the increase",
+     "lead": "Mumbai, Maharashtra, 7th of October, 2026 : Quotes From Real Estate Experts And Category II AIF On RBI’s Monetary Policy Announcement. Mr. Suresh H. A., Managing Director, Sanjeevini Group : The residential market continues to be supported by strong end-user demand, employment growth and infrastructure-led development despite the increase in home prices. A repo rate hike at this stage and signal of further hikes in the future may ...",
+     "image": "https://www.tripurastarnews.com/wp-content/uploads/2025/10/RBI-Image-2-scaled.jpeg",
+     "why": [
+      "AIF news",
+      "Regulator: SEBI or RBI",
+      "Interest-rate decision"
+     ],
+     "tags": [
+      "AIF"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 71,
+     "title": "Debt mutual fund turn volatile on RBI repo rate hike",
+     "url": "https://www.thehindubusinessline.com/money-and-banking/debt-mutual-fund-turn-volatile-on-rbi-repo-rate-hike/article71560202.ece",
+     "date": "2026-10-08",
+     "source": "BusinessLine",
+     "label": "Mutual Funds",
+     "snippet": "The rise in repo rate by 0.25 per cent by RBI will reduce the net asset value and yield trajectories of fixed-income mutual fund schemes in the short term",
+     "lead": "' blCenterIconDiv.innerHTML = spanSvg blLoaderDiv.appendChild(blCenterLoadDiv) blLoaderDiv.appendChild(blCenterIconDiv) divInner.appendChild(blLoaderDiv) div.appendChild(divInner) var bodyIntravel = setInterval(() => { if(window.document.body) { clearInterval(bodyIntravel) window.document.body.insertBefore(div, window.document.body.firstChild) } }, 100) function addStyle(styles) { var css = document.createElement('style'); css.type = ...",
+     "image": "https://bl-i.thgim.com/public/incoming/6ye0fc/article71560708.ece/alternates/LANDSCAPE_1200/2026-09-15T080436Z_1232440204_RC25GJARSSE5_RTRMADP_3_INDIA-TATA-SONS-RBI.JPG",
+     "why": [
+      "Regulator: SEBI or RBI",
+      "Interest-rate decision"
+     ],
+     "tags": [
+      "Mutual Funds"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 71,
+     "title": "Mexican Peso Slips As Dollar Surges And Fed Signals More Rate Hikes",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ3o2Qk9CRzJHMmthVENYMnVqNDFid2xZTmVHNy1XVzBXUFRWazY4TzhMOU5sSHpHbVpfMndRVGlSUW5WbmlkNzJWQmRMVC03bUc4bkZnSUFXSjZxcEdUb0FKOFVhd1NKOGtSSXdTNVhoV2FONEJPQzVlYTUwdm10MFNRWk91R3pzRWNEbXh6WVdlb0ZjU085WXdYc1dLSEdEUzRB?oc=5",
+     "date": "2026-10-08",
+     "source": "Evrim Ağacı",
+     "label": "Global",
+     "snippet": "On October 7, 2026, the Mexican peso found itself in the international spotlight, as it broke a three-day streak of gains against the US dollar and wavered near&#8230;",
+     "lead": "Rising US Treasury yields, global risk aversion, and hawkish signals from the Federal Reserve push the peso below 18 per dollar, ending its three-day winning streak. On October 7, 2026, the Mexican peso found itself in the international spotlight, as it broke a three-day streak of gains against the US dollar and wavered near the psychologically important threshold of 18 pesos per dollar. The day’s trading session was marked by a ...",
+     "image": "https://thumbor.evrimagaci.org/iQrPgIJ6KJkvzkcaW7kVqu_cA58=/1200x0/filters:quality(85)/tpg/sources/04266652-80c1-4504-83d6-1a12be016440.jpeg",
+     "why": [
+      "Interest-rate decision",
+      "Global macro driver",
+      "Sharp market move"
+     ],
+     "tags": [
+      "Global"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 71,
      "title": "RBI rate hike: Debt funds, equities, FDs or gold, which asset classes may benefit as the rate cycle turns? Expert view",
      "url": "https://www.livemint.com/money/personal-finance/rbi-rate-hike-debt-funds-equities-fds-or-gold-which-asset-classes-may-benefit-as-the-rate-cycle-turns-expert-view-11791364017739.html",
      "date": "2026-10-07",
@@ -347,68 +406,6 @@
      "tags": [
       "Gold & Silver"
      ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 11,
-     "priority": 73,
-     "title": "RBI MPC meeting Oct 2026: Why TCS, HDFC Bank, ICICI Lombard, Coal India shares may gain if 25 bps rate hike is announced",
-     "url": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-october-2026-why-hdfc-bank-icici-lombard-coal-india-tcs-likely-to-gain-if-bank-announces-rate-hike-11791268517566.html",
-     "date": "2026-10-06",
-     "source": "Mint",
-     "label": "PMS",
-     "snippet": "RBI MPC meeting October 2026: According to Harshal Dasani, Business Head at INVasset PMS, a 25 bps hike to 5.50% is no longer a surprise, as market expectations already reflect a significant probability of such a move.",
-     "lead": "RBI MPC meeting October 2026: The Reserve Bank of India (RBI) is all set to announce its policy decision outcome on Wednesday, 7 October. (AI image for representational purposes only) ( AI generated image ) AI Quick Read RBI MPC meeting October 2026: The Reserve Bank of India (RBI) is all set to announce its policy decision outcome on Wednesday, 7 October, with market participants assessing the impact of a potential 25 basis point ...",
-     "image": null,
-     "why": [
-      "PMS news",
-      "Regulator: SEBI or RBI",
-      "Interest-rate decision"
-     ],
-     "tags": [
-      "PMS"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 10,
-     "priority": 67,
-     "title": "Bitcoin and gold prices fall amid Fed rate hike and geopolitical concerns",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT21CaW5MM1BoMy1aenZfaklIbGVXbjVhaUZjbmZqdDlvc0pOUlF6Y2xvSTdaV0VtcE5ZMEFXNVcxZmZrSVBsTHJKWUdyblUwSDlZSEd4V3h5SjJiX0FUX1JwbUIxdDVMQjhKR3JZalU1QjV3YzNVa0M4ZFRzeGZab0lLZ0dtcXpPZEVNME93Znp6bmtraDVXTQ?oc=5",
-     "date": "2026-10-07",
-     "source": "Pluang",
-     "label": "Gold & Silver",
-     "snippet": "",
-     "lead": "",
-     "image": null,
-     "why": [
-      "Interest-rate decision",
-      "Precious metals",
-      "Global macro driver"
-     ],
-     "tags": [
-      "Gold & Silver"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 10,
-     "priority": 67,
-     "title": "RBI Hikes Repo Rate: Know What It Means For Your Debt Mutual Fund Holdings",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa0VRYjdhSmdHZ01RUVdIXzNtNEY1RGNRZmwtSWliUDh6bWp1WTNHZ1hkYjJoemNCRTZDZk53aDBGcVhKY2kwa0VuYW91T2tNaTk2R0VNZjZVWFA4UWVEYVZ4QVJUMGRrbjJ3MTZ3dXE1Z0wxVEM3RGlVelBPajBiUi16X2R2Ui1jeWlwVU5SMHdpZUJHWW9PS1BnRDR3eGdBaWoxVWJGU2lCSlMyamfSAbsBQVVfeXFMTTdxWmlGbjlySFo1SWwzb0lTdDdGb0d3NmxKN3JEbHExdndQbUM5QzR0MmJ3QzcwMHVqbnVKbTlDMEZIRVk4QWVERjNtbHA4UnRJVkFTRXNwTUZPUUNMQmtITWptdk1HX0Q0SHV5cnhNRkptNWRCTXRfb0VrNzkzcU5NNjBuWF9BZmFqYTZRTlB5Z1c2SmZjVGpGaldWR0FyOU1KZWx4VVJRMjJlWV9mbGFheFpydWdyMlg0dw?oc=5",
-     "date": "2026-10-07",
-     "source": "Outlook Money",
-     "label": "Mutual Funds",
-     "snippet": "RBI's repo rate hike affects debt mutual fund NAVs and yields. Discover expert strategies for SIPs and short-duration funds to navigate the market.",
-     "lead": "",
-     "image": "https://media.assettype.com/outlookmoney/2026-06-12/32l309n4/debt-mutual-funds.jpg?w=1200",
-     "why": [
-      "Regulator: SEBI or RBI",
-      "Interest-rate decision"
-     ],
-     "tags": [
-      "Mutual Funds"
-     ]
     }
    ]
   }
@@ -416,7 +413,31 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 13,
+   "score": 12,
+   "priority": 100,
+   "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+   "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+   "date": "2026-10-08",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+   "lead": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months Julie Bort 11:19 AM PDT · October 8, 2026 Arena , which originated in 2023 as a research project at UC Berkeley that crowdsourced rankings of AI models, has raised a $200 million Series B round at a $3.1 billion valuation, it said on Thursday. This comes after the company said it reached $100 million in annualized run-rate revenue in June. The round ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $3,100M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
    "priority": 100,
    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
@@ -435,12 +456,12 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
    "desk": "Immigration",
-   "score": 11,
+   "score": 10,
    "priority": 100,
    "title": "Form: Apply to the EU Settlement Scheme by post",
    "url": "https://www.gov.uk/government/publications/apply-to-the-eu-settlement-scheme-by-post-or-email",
@@ -458,12 +479,12 @@
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
    "desk": "Advisory",
-   "score": 15,
+   "score": 14,
    "priority": 100,
    "title": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026",
    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13735&Mode=0",
@@ -482,12 +503,12 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
    "desk": "Policy",
-   "score": 14,
+   "score": 13,
    "priority": 100,
    "title": "Cabinet approves Commitment of Rs.10,000 Crore towards establishment of the SME Growth Fund for direct equity investments in Small and Medium Enterprises to create future champions",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2319532",
@@ -505,12 +526,36 @@
    "tags": [
     "Other Policy"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
+   "desk": "Advisory",
+   "score": 13,
+   "priority": 93,
+   "title": "RBI Repo Rate May Climb To 6% In FY27 As G-Sec Yields Face Upward Pressure: Report",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeFM2RUxXN05PelFVLXFrN2JXYkJmN2lFa1hEQjdENDNJdk5IMlZCU00wajd4NDhXTEhmVlVvVm9kUVU0ajV1RndTdmk2VU5PLVY3czktOHo3SmxVSGYyb0JfaEpEZFRIcTBPZjhXd0o5MTBKbHRuV2I2NGFXaGp4Y2Q1cjdoN1JJaHE4ejNhTFFEZm1rakp2T2xZb242RDIxU3ZBU3NmOTduM1BBOU9MejZlbnNpck92SmxMcDR1bTNlWlUyRWg3OGtn0gHKAUFVX3lxTE14UzZFTFc3Tk96UVUtcWs3YldiQmY3aUVrWERCN0Q0M0l2TkgyVkJTTTBqN3g0OFdMSGZWVW9Wb2RRVTRqNXVGd1N2aTZVTk8tVjdzOS04ejdKbFVIZjJvQl9oSkRkVEhxME9mOFd3SjkxMEpsdG5XYjY0YVdoanhjZDVyN2g3UklocTh6M2FMUURmbWtqSnZPbFlvbjZEMjFTdkFTc2Y5N24zUEE5T0x6NmVuc2lyT3ZKbExwNHVtM2VaVTJFaDc4a2c?oc=5",
+   "date": "2026-10-04",
+   "source": "NDTV Profit",
+   "label": "Debt & Bonds",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Government bond yields",
+    "Also covered by 5 other outlet(s)"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 92,
    "title": "Jeff Bezos says Blue Origin likely to pursue IPO in coming years",
    "url": "https://economictimes.indiatimes.com/tech/technology/jeff-bezos-says-blue-origin-likely-to-pursue-ipo-in-coming-years/articleshow/134778260.cms",
@@ -528,12 +573,12 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 7,
+   "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 92,
    "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
    "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
@@ -552,12 +597,12 @@
     "Acquisition",
     "AI & Deeptech"
    ],
-   "rank": 6,
+   "rank": 8,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 92,
    "title": "Swara Baby Products Secures SEBI Nod For ₹1,000 Cr IPO",
    "url": "https://inc42.com/buzz/swara-baby-products-secures-sebi-nod-for-%e2%82%b91000-cr-ipo/",
@@ -576,85 +621,82 @@
     "IPO & Listing",
     "Policy & Regulation"
    ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 91,
-   "title": "Japan raises permanent residency fee by 20 times",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DeGNjMUhVQ3NQX29PYWxjeU9mdEYxLUJUQ2hIcnZjdXVJYmw2TE1MVUQtYzVsLTh5cWd1VV9aTkJvUzZkeHBxVTZiSEFKWEw3aEVaTHZmUHpTdzRxa2c?oc=5",
-   "date": "2026-10-01",
-   "source": "bbc.co.uk",
-   "label": "Japan",
-   "snippet": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
-   "lead": "Image source, Getty Images Image caption, The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population Japan has raised fees for foreigners seeking permanent residency in the country by 20 times to 200,000 yen ($1,270; £955). Those seeking permanent residency must now also meet new income, pension and Japanese-language requirements.",
-   "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/30aa/live/ee3e3e50-bd61-11f1-a64c-550be9e3c66b.jpg",
-   "why": [
-    "Affects permanent residence",
-    "Announces a change",
-    "Major story (22 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Japan"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 13,
-   "priority": 87,
-   "title": "RBI MPC 25 bps rate hike impact on stock market: Sensex, Nifty crash - Experts reveal what investors should do now",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSW0zczhnVTAxeHd2cU1JQ0JxMk93NUpSdmJYd1hKS0xRYXRIbklpR3VVakJxRjROSUJqTGwyZG5jZVdvc0hpa2ZkcjAtV1BlWGVQRC0yMmM1VnVzSVAxT1c1bWhwZmhIWE5zLW1sbXZFcU5rTVdKUFpIS080d3NVOGJ4cFNpVVAweHFYRk53ejl3Z0gzRUF3RE0wMkNka1RlN0doemkyd1JMaUtYV3R1MjBHTkRBQk5VZTFqUmk4M29BWkNsbWxpWWkzVTBFNVRJTEpPMnhWUzN4NVdkT19MX010azV1N3RlSUVQWkx3aE9WZmpvM2tuZ3M3OUJxUXczc3dDaHljN05ELVXSAZACQVVfeXFMUGFtWVFmWUFoOXV2OGtwb25zd3JtZjFVWGN4Tlp4R1kyTDBZbktKOVBVT280ZG5RZmoxS1RkTUJMNnd2T3Y0cTRSVTgycHRXa1FSY1VYUGhpRVpWbTc3UWpUNS1OS3pYazRIeENYY19hUWRRSGRkRjR5QkpWRVlHc0ZVNXA0YWE5bU5ZNUdhNEh1RndnZjVmTTIySHBpY0NIa1FjVVVlbDRhWS1OcTNtT0h3Slk2N3NXYURUM2VubU8tMmxsTGhwdFVXWW5pLU9XT2NaV1FKQTF4SmFfWlN6UU5QTFZUWDh2N3EzMXpSWHVsamtucF82SjVZMEpvX0lMbk9WbTBDTjBmaFY1LXdoWTI?oc=5",
-   "date": "2026-10-07",
-   "source": "Livemint",
-   "label": "Regulatory",
-   "snippet": "Indian stock markets fell on October 7 after RBI raised repo rate to 5.5%. Sensex dipped 529 points while Nifty dropped 191 points. Global factors like rising Brent crude prices and US bond yields influenced market sentiment, impacting investor outlook on equities.",
-   "lead": "Indian stock markets extended losses on Wednesday, October 7, after the Reserve Bank of India’s ( RBI ) Monetary Policy Committee ( MPC ) unanimously raised the repo rate by 25 basis points to 5.5% from 5.25%, in line with expectations. This marks its first rate hike in four years amid price pressures. At its October 5-7 policy meeting, the MPC also changed its stance to ‘calibrated tightening’. The RBI raised the Standing Deposit ...",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Sharp market move",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
    "rank": 9,
    "must_read": false
   },
   {
-   "desk": "Advisory",
-   "score": 13,
-   "priority": 87,
-   "title": "RBI Repo Rate May Climb To 6% In FY27 As G-Sec Yields Face Upward Pressure: Report",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeFM2RUxXN05PelFVLXFrN2JXYkJmN2lFa1hEQjdENDNJdk5IMlZCU00wajd4NDhXTEhmVlVvVm9kUVU0ajV1RndTdmk2VU5PLVY3czktOHo3SmxVSGYyb0JfaEpEZFRIcTBPZjhXd0o5MTBKbHRuV2I2NGFXaGp4Y2Q1cjdoN1JJaHE4ejNhTFFEZm1rakp2T2xZb242RDIxU3ZBU3NmOTduM1BBOU9MejZlbnNpck92SmxMcDR1bTNlWlUyRWg3OGtn0gHKAUFVX3lxTE14UzZFTFc3Tk96UVUtcWs3YldiQmY3aUVrWERCN0Q0M0l2TkgyVkJTTTBqN3g0OFdMSGZWVW9Wb2RRVTRqNXVGd1N2aTZVTk8tVjdzOS04ejdKbFVIZjJvQl9oSkRkVEhxME9mOFd3SjkxMEpsdG5XYjY0YVdoanhjZDVyN2g3UklocTh6M2FMUURmbWtqSnZPbFlvbjZEMjFTdkFTc2Y5N24zUEE5T0x6NmVuc2lyT3ZKbExwNHVtM2VaVTJFaDc4a2c?oc=5",
-   "date": "2026-10-04",
-   "source": "NDTV Profit",
-   "label": "Debt & Bonds",
-   "snippet": "",
-   "lead": "",
-   "image": null,
+   "desk": "Startups",
+   "score": 11,
+   "priority": 92,
+   "title": "Kuku turns profitable ahead of IPO; revenue surges sixfold to Rs 1,484 crore in FY26",
+   "url": "https://www.medianama.com/2026/10/223-kuku-ipo-revenue-surges/",
+   "date": "2026-10-05",
+   "source": "MediaNama",
+   "label": "India · Other",
+   "snippet": "Kuku Technologies swung to a Rs 182.7 crore profit in FY26 from a Rs 152.6 crore loss, as revenue surged sixfold to Rs 1,484.2 crore ahead of its planned IPO.",
+   "lead": "Digital media and entertainment startup Kuku Technologies, the owner of microdrama app Kuku TV and the audio storytelling platform Kuku FM, clocked a net profit of Rs 182.7 crore in the financial year ended March 31, 2026 — a sharp turnaround from a loss of Rs 152.6 crore in the previous fiscal year. The reversal came largely on account of a sixfold jump in its revenue. Revenue from operations jumped to Rs 1,484.2 crore in FY26, ...",
+   "image": "https://www.medianama.com/wp-content/uploads/2026/10/Untitled.jpg",
    "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Government bond yields",
-    "Also covered by 5 other outlet(s)"
+    "IPO & Listing",
+    "Large deal (about $156M)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Debt & Bonds"
+    "IPO & Listing"
    ],
    "rank": 10,
    "must_read": false
   },
   {
-   "desk": "Policy",
+   "desk": "Advisory",
    "score": 12,
    "priority": 86,
+   "title": "India-US bond yield spread stays near 22-year low despite RBI rate hike",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYnBhTHNETnUtXzk5ZXdwUEpOQ0szdXZ3R1UxcTJObm1uZmdJSWtveFZKTGMyalI3MFRkWFZCamo3aThBbkktelhfczVtb2h1Sk03S2NzOTFfdFFlMXZTbzBvbGtpbmNXSUdBbmZNX3ZpQmdDM1N2dGphLWxncEQzaGo1TjJPTnZtRWFlVFp2UXZpaS1ZNEg0X1Ixa0VXSVJsUC1tUG5zUFdDVk1wUURVV3U2U3F6QmpQYzFaN2ZPNU43YkswX1RUMmptTkk2akpONUI2Z9IB2gFBVV95cUxOdWhoY0pVS1NjY2dObzJJaXNOV0x0SklFV0kzeUJiVE5HVWpGamtlejdqUTNmUGVPUjdwMFN0OXBLdk9odFZ2cUNhY3cwRGlfOEhKOUlmd1hFR3ExdUpZVUlHVkU2alFmTXhfLTNtTkNmTTlQcXJ4RzJJdFRSOTQwSmNNZFFPdDdrb2RNZmVndXVIT3JKWTJJVHkzb1JFUHNnZkNjUkpnVjdrUFhGOE9RLUhQSGdhb2JpYTJ3aTJCTkVLYXNCLUxZVmN0WEFmQm5HY21vYXprSFJPUQ?oc=5",
+   "date": "2026-10-08",
+   "source": "Business Standard",
+   "label": "Debt & Bonds",
+   "snippet": "Faster rise in US Treasury yields is narrowing the gap, potentially deterring foreign investors and keeping the rupee under pressure",
+   "lead": "premium India-US 10-year bond yield spread narrows to 194 basis points, near a 22-year low, as US Treasury yields rise faster than Indian bond yields. | Image- Ajay Mohanty",
+   "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/08/thumb/fitandfill/1200X628/1791482125-5173.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Government bond yields"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 86,
+   "title": "FIEO Seeks RBI Extension of Export Credit Period to 450 Days Amid Repo Rate Hike",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ1FTRlJIM2FOS2hhdlFYT3I4NDM2am9IVnlJbWpjUkNmZllxNjIxcE5nNHlxZ1ppLWZZejZsMmFTSnJYYlMtVTJITzI5ZEI1UDZ3dFZzbjJfYzJBeUlnZHc0Z0FOdmgwZkxFSVNkc29ZY1dsbXFfZDhXaE9QMk9BcFB6R1JqZXRlY2RlTkl0bWhvNVdMOHpSQ1laYVFfTkgtVGFJcWx6UzhXMWxqZzhDbi14YV96S2hob21CWkxsOVQ2cHB2eWhr?oc=5",
+   "date": "2026-10-08",
+   "source": "KNN India",
+   "label": "Regulatory",
+   "snippet": "The Federation of Indian Export Organisations (FIEO) has urged the Reserve Bank of India (RBI) to extend the pre-shipment and post-shipment export credit period from the existing 270 days to 450 days, citing longer transit times, logistics disruption",
+   "lead": "Your e-mail will be secure with us. We will not share your information with anyone ! FIEO Seeks RBI Extension of Export Credit Period to 450 Days Amid Repo Rate Hike New Delhi, Oct 8 (KNN) The Federation of Indian Export Organisations (FIEO) has urged the Reserve Bank of India (RBI) to extend the pre-shipment and post-shipment export credit period from the existing 270 days to 450 days, citing longer transit times, logistics ...",
+   "image": "https://knnindia.co.in/uploads/newsfiles/FIEO-RBI-EXPORT-8-10-2026.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Also covered by 2 other outlet(s)"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 11,
+   "priority": 85,
    "title": "Recommendations of the 57th Meeting of the GST Council",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320934",
    "date": "2026-10-08",
@@ -670,13 +712,13 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 11,
+   "rank": 13,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 12,
-   "priority": 86,
+   "score": 11,
+   "priority": 85,
    "title": "RBI issues Amendment Directions on 'Standardised Approach for Counterparty Credit Risk (SA-CCR)’",
    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63750",
    "date": "2026-10-07",
@@ -694,81 +736,36 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "China’s Manus raises over $500M in first funding round since split with Meta",
-   "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
-   "date": "2026-10-08",
-   "source": "TechCrunch",
-   "label": "Global · Other",
-   "snippet": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
-   "lead": "China’s Manus raises over $500M in first funding round since split with Meta Kate Park 6:20 AM PDT · October 8, 2026 Chinese AI lab Manus’ parent company, Butterfly Effect, said on Thursday in a WeChat post that it has raised more than $500 million, the company’s first funding round since Meta was forced to call off its $2 billion acquisition of the startup. Boyu Capital and IDG Capital led the funding round, and existing shareholders ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2278374931.jpg?w=1024",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $500M: round or valuation)"
-   ],
-   "tags": [
-    "Funding"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "SpaceX seeks $40 billion to buy Nvidia chips",
-   "url": "https://economictimes.indiatimes.com/tech/technology/spacex-seeks-40-billion-to-buy-nvidia-chips-ft-reports/articleshow/134754107.cms",
-   "date": "2026-10-07",
-   "source": "ET Startups",
-   "label": "Global · Fintech",
-   "snippet": "The Elon Musk-led company is seeking to raise about $10 billion in bank loans and $30 billion in investment-grade debt to fund its chip order, the report said.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2207790,resizemode-75,msid-134754107/tech/technology/spacex-seeks-40-billion-to-buy-nvidia-chips-ft-reports.jpg",
-   "why": [
-    "Acquisition",
-    "Very large figure in headline (about $40,000M: round or valuation)"
-   ],
-   "tags": [
-    "Acquisition",
-    "Fintech"
-   ],
    "rank": 14,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 12,
-   "priority": 80,
-   "title": "Quotes From Real Estate Experts And Category II AIF On RBI’s Monetary Policy Announcement.",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdE9wRGFKSWJLRnJvTWlCRV9FbVVCdF9EM0tYVGwxdVBJSHB3RmFOUC1pY191YURWenJWZV9GVHFJYm5qaUpuaEktMklSSnFPYVhpc3FDZTRmT0x1M29oZUcybXpuNEkyRzE5MEJFOVFwbExjT19QMi10VV9FRUdwTnROTkNOcE1Td0RGNXJnRXRTN0t6SFExSWZ6SWRtOGw3UEhpOHN1NTJGU0hsbUs2QVJXTWhVdXBfSUw1OXR3?oc=5",
-   "date": "2026-10-07",
-   "source": "TRIPURA STAR NEWS",
-   "label": "AIF",
-   "snippet": "Mumbai, Maharashtra, 7th of October, 2026 : Quotes From Real Estate Experts And Category II AIF On RBI’s Monetary Policy Announcement. Mr. Suresh H. A., Managing Director, Sanjeevini Group : The residential market continues to be supported by strong end-user demand, employment growth and infrastructure-led development despite the increase",
-   "lead": "Mumbai, Maharashtra, 7th of October, 2026 : Quotes From Real Estate Experts And Category II AIF On RBI’s Monetary Policy Announcement. Mr. Suresh H. A., Managing Director, Sanjeevini Group : The residential market continues to be supported by strong end-user demand, employment growth and infrastructure-led development despite the increase in home prices. A repo rate hike at this stage and signal of further hikes in the future may ...",
-   "image": "https://www.tripurastarnews.com/wp-content/uploads/2025/10/RBI-Image-2-scaled.jpeg",
+   "score": 11,
+   "priority": 79,
+   "title": "RBI repo rate at 5.50%: Another 50 bps hike likely by March 2027 — which debt mutual funds suit 3–18 month horizons?",
+   "url": "https://www.livemint.com/money/personal-finance/rbi-repo-rate-at-5-50-another-50-bps-hike-likely-by-march-2027-which-debt-mutual-funds-suit-3-18-month-horizons-11791470902188.html",
+   "date": "2026-10-08",
+   "source": "Mint",
+   "label": "Mutual Funds",
+   "snippet": "The RBI’s 25-bps repo rate hike has reshaped the outlook for debt-fund investors as bond yields rise and markets assess further rate moves. Here’s what investors should consider based on their 3-month, 12-month and 18-month investment horizons.",
+   "lead": "RBI repo rate at 5.50%: Another 50 bps hike likely by March 2027 — which debt mutual fund categories suit 3–18 month horizons? (AI-generated image for representational purposes only) AI Quick Read The Reserve Bank of India’s 25-basis-point (bps) repo rate hike has raised questions among debt fund investors about how further rate moves could affect bond yields and fund returns. On October 7, the RBI’s Monetary Policy Committee (MPC) ...",
+   "image": null,
    "why": [
-    "AIF news",
     "Regulator: SEBI or RBI",
-    "Interest-rate decision"
+    "Interest-rate decision",
+    "Also covered by 1 other outlet(s)"
    ],
    "tags": [
-    "AIF"
+    "Mutual Funds"
    ],
    "rank": 15,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 11,
-   "priority": 79,
+   "score": 10,
+   "priority": 77,
    "title": "Monetary Policy Statement, 2026-27 Resolution of the Monetary Policy Committee October 5 to 7, 2026",
    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
    "date": "2026-10-07",
@@ -789,8 +786,8 @@
   },
   {
    "desk": "Policy",
-   "score": 11,
-   "priority": 79,
+   "score": 10,
+   "priority": 77,
    "title": "Cabinet approves setting up of Integrated Transport & Logistics Authority",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2319529",
    "date": "2026-10-06",
@@ -811,8 +808,8 @@
   },
   {
    "desk": "Immigration",
-   "score": 8,
-   "priority": 73,
+   "score": 7,
+   "priority": 70,
    "title": "Germany Work Visas Western Balkans: 50,000 Cut to 25,000",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONzlWVVJIQWpBVzd6b2k0a1VrQm1IbnhCTXdxVWtCTEJUYWxPVm16cVFNY1dPcFRaQmktSTY3endpVG9EeW9WRFR1cGJfaUJHRGkyOUVpU1hxNmdlR2c0cHdtS2l3LUQ3REEwbVRwV3RTaXNDUFZ5SVVxYzRBa0tUeDQtZnNqWUpVMDhUU1FNT3hBYUFLcEtGcGRtTjdLdE5JUUphbw?oc=5",
    "date": "2026-10-08",
@@ -834,8 +831,8 @@
   },
   {
    "desk": "Immigration",
-   "score": 8,
-   "priority": 73,
+   "score": 7,
+   "priority": 70,
    "title": "NZ First seeks tighter rules for Citizenship and Welfare",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX0V2Y2Z4U0lpektlOUE3WE1OZmdNc2dXZXhsY19zemoteEMxRHlHLUlHZzVvYnVPYU02TVM2MThqWS0xZ2tnVl9sUEt4UlhHZ2t4RGw1c1dGbkxKcGpLN3l2TTJwd2VZUkhXeXNUSmpHU0JhT1V2b09lRlFBc0pkRWM3YllSZGVhVEJDZVNR?oc=5",
    "date": "2026-10-08",
@@ -855,32 +852,9 @@
    "must_read": false
   },
   {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 73,
-   "title": "Strong possibility of another RBI rate hike in December: Crisil Chief Economist",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMmVaZWJyME05Rk1uZUFzTEU4V1EyVm1uSWdPNjlWLU1zZ0dHR1FKTFVFOHlscXhxWlhNMGUzZDBueWtmTlBPVjhxc1lpTXQzdi1XR0JNWGpBQl93UTQxWFVmUjNGUEZTMW5WcTdJZFZFMncwN21EcUdMaTJDbXNoaktmM05GMXNqQUh6aDdOX1RJUDd4alJibXJiNEZMVVBhaG5DYnVBR0xiWmRIWF9SdkZBQ0lOb294ZE03YnpJdVRoWk9razRzdnU3Mk51VF9jU3fSAdIBQVVfeXFMTTJlWmVicjBNOUZNbmVBc0xFOFdRMlZtbklnTzY5Vi1Nc2dHR0dRSkxVRTh5bHF4cVpYTTBlM2QwbnlrZk5QT1Y4cXNZaU10M3YtV0dCTVhqQUJfd1E0MVhVZlIzRlBGUzFuVnE3SWRWRTJ3MDdtRHFHTGkyQ21zaGpLZjNORjFzakFIemg3Tl9USVA3eGpSYm1yYjRGTFVQYWhuQ2J1QUdMYlpkSFhfUnZGQUNJTm9veGRNN2J6SXVUaFpPa2s0c3Z1NzJOdVRfY1N3?oc=5",
-   "date": "2026-10-07",
-   "source": "Devdiscourse",
-   "label": "Debt & Bonds",
-   "snippet": "Read more about Strong possibility of another RBI rate hike in December: Crisil Chief Economist on Devdiscourse.",
-   "lead": "There is a strong possibility that the Reserve Bank of India could raise the repo rate again at its December monetary policy meeting as inflation risks remain elevated, Crisil Chief Economist Dharmakirti Joshi told ANI on Wednesday. “I think you can't rule that out and I think the likelihood is definitely there. So, the two options are that they may pause or they may raise. Cutting rates is off the table. So, I think I would say there ...",
-   "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/07_10_2026_15_44_56_015398.jpg&width=1280",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Debt & Bonds"
-   ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
    "desk": "Immigration",
-   "score": 8,
-   "priority": 73,
+   "score": 7,
+   "priority": 70,
    "title": "'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN1Y0NmhScExoSGhOZzJmbk1FY25fSGhKU0JqaXJaZmtSWTVKVGZOWGVQX3B5S0w3Sk9NZ19CbVljOFh0SXpkcXZDY1NzMlpxN3JZbHhiZnBhVFJQNlRzN2RWWElGNm5xZDBIVWtocjdzWUd0d0pjQTlLb0J3ZmNjVVhXLUxINFdxQk92SXZ3aFFROVNBTVcxdVBDbG9hZ0Z0QThIVFV6SjVLUlNsRjI5VEw3b092VWtmd3F4VmZGYUZHSi1QaTJiMWMyRVRCUm1manfSAdcBQVVfeXFMTmM2NVAzWXFnLWNETEUtVUVJWWRGUzRpRERacmZ2WjdsV1JjaUxhUHpuejVpN3h6TWJiNGhIX3prbUJXNXNlR0hwWG00b2RQampmRHZYbDJoRDJKOHN1bWpXZXNmUXo5QVU5cXNDdlhUcFVOU1I1VnRiQ1NtMGhpUmR6amRPTmM2N2VnVVFfNFFFZEJCLW9TbS03dncxZFM0SHFHUF92RTY4SW4xT2xwSjNvenI5Z0dYRTBMQW9uU0p1bGlnd0ROTnFtYUhGa3RQeEVwd093ZzQ?oc=5",
    "date": "2026-10-06",
@@ -897,13 +871,36 @@
    "tags": [
     "Australia"
    ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 70,
+   "title": "Haitians affected by termination of U.S. protected status eye six-month route to Canadian permanent residence",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVVRUcXRzSzNSN1MzVmtPdjFMR1JOQ3ZLQ0o2Um5KczBJRGhfRkUxUW9WR3NMVUFaaElzX09JWmpxT0otWi1VRGd4eWJCNTZ3bGNQU1VZamdBb1JfNGhkcU8wY293T3JJbEs0d3g1cDFWb1pkdTJFa0Fzc0tVcGRtV2dua3pESUtfMTRZU0VqSFlnaEFaMmNBZUpIQUw2djZkLTczcC1DZERoMnl1NG1hUXZMb2xPMG1vdkxTNmRXZzZYVGhQbm1qSEItOWJFdWRXUFJRdG0xal9WcmRTQ1lDOElDd2xhQThX0gHuAUFVX3lxTE5fcklHZVpLU1pKdmstWVFZLVhBUTVkNm0wSnlQamNpMWtVRXlNZXNScnRxUTNCNzlsaFRqd1ppcUxRdFVmeWNLY3VfVFhPWFByVXlRMmRLOGxabFBWNFJZYUliZzJhU3IwT0o0WURVc0ItYnlVS25XZGdxT2N2b3pNWHUzUmg3cE53TG5BMlpCVU5ucXhUVG11M3VTNHktdkJ5bVREdktCQUpEMWRtRjhkcjRmRTFoX0JYX25LN2dXaV90OWFYZi0tVGdCTUtkS0cwWVpSQ2pTMy1tdVRPUHB2Y1BUQ09Xb0lRTlgtQXc?oc=5",
+   "date": "2026-10-06",
+   "source": "CIC News",
+   "label": "Canada",
+   "snippet": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Check Your Eligibili",
+   "lead": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Express Entry awards additional points to candidates with French language skills, and includes larger selection rounds ...",
+   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/Haitians-eye-six-month-Canadian-PR.jpg",
+   "why": [
+    "Affects permanent residence",
+    "Major story (9 headlines that day)"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Canada"
+   ],
    "rank": 21,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 10,
-   "priority": 71,
+   "score": 9,
+   "priority": 69,
    "title": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026",
    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13735&Mode=0",
    "date": "2026-10-07",
@@ -925,8 +922,8 @@
   },
   {
    "desk": "Policy",
-   "score": 10,
-   "priority": 71,
+   "score": 9,
+   "priority": 69,
    "title": "Reserve Bank of India (Commercial Banks – Miscellaneous) Amendment Directions, 2026",
    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13731&Mode=0",
    "date": "2026-10-07",
