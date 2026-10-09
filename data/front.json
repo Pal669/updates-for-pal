@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-09",
- "built": "2026-10-09 12:09 IST",
+ "built": "2026-10-09 22:43 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,44 +12,44 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22496.0,
-   "change_pct": 1.19,
-   "asof": "09 Oct 12:09 IST"
+   "value": 22520.0,
+   "change_pct": 1.3,
+   "asof": "09 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72291.0,
-   "change_pct": 0.97,
-   "asof": "09 Oct 11:54 IST"
+   "value": 72472.0,
+   "change_pct": 1.23,
+   "asof": "09 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 96.62,
-   "change_pct": -0.14,
-   "asof": "09 Oct 12:09 IST"
+   "value": 96.76,
+   "change_pct": 0.0,
+   "asof": "09 Oct 20:30 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 103.41,
-   "change_pct": -0.83,
-   "asof": "09 Oct 11:59 IST"
+   "value": 103.88,
+   "change_pct": -0.38,
+   "asof": "09 Oct 22:33 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
    "value": 4217.0,
-   "change_pct": 1.45,
-   "asof": "09 Oct 11:59 IST"
+   "change_pct": 1.44,
+   "asof": "09 Oct 22:33 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.23,
-   "change_pct": -0.87,
-   "asof": "09 Oct 00:29 IST"
+   "value": 5.24,
+   "change_pct": 0.25,
+   "asof": "09 Oct 22:28 IST"
   }
  ],
  "features": {
@@ -79,8 +79,8 @@
  },
  "desks": {
   "Policy": {
-   "total": 173,
-   "new_today": 0,
+   "total": 178,
+   "new_today": 5,
    "items": [
     {
      "desk": "Policy",
@@ -164,9 +164,51 @@
    ]
   },
   "Startups": {
-   "total": 517,
-   "new_today": 6,
+   "total": 533,
+   "new_today": 22,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
+     "title": "NABARD-backed NABVENTURES raises Rs 450 Cr for second fund",
+     "url": "https://yourstory.com/2026/10/nabventures-hits-rs-450-crore-first-close-for-second-fund",
+     "date": "2026-10-09",
+     "source": "YourStory",
+     "label": "India · Agri & Food",
+     "snippet": "NABARD’s venture capital arm has announced the first close of its second fund to back early- and growth-stage rural and agritech startups despite a broader funding slowdown in the sector.",
+     "lead": "NABARD-backed NABVENTURES raises Rs 450 Cr for second fund NABARD’s venture capital arm has announced the first close of its second fund to back early- and growth-stage rural and agritech startups despite a broader funding slowdown in the sector. Team YS 17327 Stories Friday October 09, 2026 , 3 min Read NABVENTURES, the venture capital arm of the National Bank for Agriculture and Rural Development (NABARD), has achieved the first ...",
+     "image": "https://images.yourstory.com/cs/2/ebefb4a0b2a011edb86579ca40e04503/image-1718599425495.png",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $47M)"
+     ],
+     "tags": [
+      "Funding",
+      "Agri & Food"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
+     "title": "AITMC IPO: Defence pivot, over dependence on govt schemes and other risk factors from DRHP",
+     "url": "https://www.medianama.com/2026/10/223-aitmc-ipo-govt-schemes-drhp/",
+     "date": "2026-10-09",
+     "source": "MediaNama",
+     "label": "India · AI & Deeptech",
+     "snippet": "AITMC Ventures has refiled its IPO documents with SEBI. Key risks include reliance on government contracts and limited drone production capacity.",
+     "lead": "Drone tech startup AITMC Ventures has refiled draft papers with SEBI to launch an initial public offering (IPO). The proposed IPO comprises a fresh issue of 3.5 crore equity shares, with no offer-for-sale component. AITMC’s operations span the entire drone value chain. Founded in 2016, the company initially offered vocational education and skill development programs. Later, it diversified into drone training, manufacturing and ...",
+     "image": "https://www.medianama.com/wp-content/uploads/2020/10/drone.jpg.jpg",
+     "why": [
+      "IPO & Listing",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "IPO & Listing",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -207,115 +249,32 @@
       "Acquisition",
       "Fintech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-     "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-     "date": "2026-10-07",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-     "lead": "Cloud provider Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation, marking what could be its last private round before a planned 2027 IPO, according to The Wall Street Journal. Coatue Management and Blackstone are leading the round. A letter to investors reviewed by the Journal shows Lambda’s backlog grew from $15 billion in June to $50 billion in September. While that might look like a hearty increase in demand, ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1200,687",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $4,000M: round or valuation)"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Etched fields funding offers at $40B+ valuation, sources say",
-     "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
-     "date": "2026-10-06",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
-     "lead": "Etched fields funding offers at $40B+ valuation, sources say Marina Temkin 1:24 PM PDT · October 5, 2026 Although it’s only been a couple of months since Etched raised $700 million at a $21 billion valuation , the AI chip startup is already being plied with investment offers at double or more its value, according to people familiar with the company. Etched is reviewing incoming bids that range from $40 billion from top-tier investors ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Sequoia_Etched-Abhishek-Malani-Robert-Wachen-Sonya-Huang-Gavin-Uberti-copy.jpeg?resize=1200,846",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $40,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 824,
-   "new_today": 2,
+   "total": 845,
+   "new_today": 18,
    "items": [
     {
      "desk": "Immigration",
-     "score": 6,
-     "priority": 60,
-     "title": "The tightening of permanent residency permits and the increase in residency visa fees are part of the government's basic line toward realizing a society in which Japanese and foreigners prosper together.",
-     "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPRjVGNnJDYjNYd0lja21qRWtMaHlLazVobHFKLURNYnVsbVYyWWdsX3h6MFg4T25NOHFMUUp6N01oRE54clV4dTExOF92MmZYMXlyeEg5UENhc21salk1M0JOT0xpbklaWlEyOGlRN0lNX2NKR1ZZWG8tUEkxNWNLSFBwZ2Z2VEhnWEVkMmRDeFdwNlJtVzZqNW85bXJ2N2NUTmpsb2VXbHBGdzJLTjdjNF9vc0RJc3JjVUFTSGRndWUwWGQyMDlqVnJ4TnJfREdnWGNrT0tNMXEtd0tyOWhtaENzRVhsVXZ5TlFGaWQ5M3VUUXBtUUFLdGlDb0V0UURkT3BYUWcwWENOal9mU1ZSQ2hUUlk1RlV4Ym9wOWNCM3VEZkpOU2NfS0hFOGVtcllBZFl2LXVJOFlTQUpONDF5aFhQU29VdWwwd21BLW5MaXdVZzB2d3VtZWl6NXc5YV9tT2xTYzEwV2hNM2dCdnc?oc=5",
+     "score": 7,
+     "priority": 70,
+     "title": "Haitians affected by termination of U.S. protected status eye six-month route to Canadian permanent residence",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVVRUcXRzSzNSN1MzVmtPdjFMR1JOQ3ZLQ0o2Um5KczBJRGhfRkUxUW9WR3NMVUFaaElzX09JWmpxT0otWi1VRGd4eWJCNTZ3bGNQU1VZamdBb1JfNGhkcU8wY293T3JJbEs0d3g1cDFWb1pkdTJFa0Fzc0tVcGRtV2dua3pESUtfMTRZU0VqSFlnaEFaMmNBZUpIQUw2djZkLTczcC1DZERoMnl1NG1hUXZMb2xPMG1vdkxTNmRXZzZYVGhQbm1qSEItOWJFdWRXUFJRdG0xal9WcmRTQ1lDOElDd2xhQThX0gHuAUFVX3lxTE5fcklHZVpLU1pKdmstWVFZLVhBUTVkNm0wSnlQamNpMWtVRXlNZXNScnRxUTNCNzlsaFRqd1ppcUxRdFVmeWNLY3VfVFhPWFByVXlRMmRLOGxabFBWNFJZYUliZzJhU3IwT0o0WURVc0ItYnlVS25XZGdxT2N2b3pNWHUzUmg3cE53TG5BMlpCVU5ucXhUVG11M3VTNHktdkJ5bVREdktCQUpEMWRtRjhkcjRmRTFoX0JYX25LN2dXaV90OWFYZi0tVGdCTUtkS0cwWVpSQ2pTMy1tdVRPUHB2Y1BUQ09Xb0lRTlgtQXc?oc=5",
      "date": "2026-10-06",
-     "source": "Japan Today",
-     "label": "Japan",
-     "snippet": "",
-     "lead": "",
-     "image": null,
+     "source": "CIC News",
+     "label": "Canada",
+     "snippet": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Check Your Eligibili",
+     "lead": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Express Entry awards additional points to candidates with French language skills, and includes larger selection rounds ...",
+     "image": "https://www.cicnews.com/wp-content/uploads/2026/10/Haitians-eye-six-month-Canadian-PR.jpg",
      "why": [
       "Affects permanent residence",
-      "Announces a change"
+      "Major story (9 headlines that day)"
      ],
      "tags": [
       "PR / Settlement",
-      "Japan"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 50,
-     "title": "South Korea tightens foreign student visas, expands deposits, curbs loopholes - CHOSUNBIZ",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdzVYdHY5Q3hWbUtQVmJTSWp0TU9Lc2hIWDkxdlYyZGRFNUxJOC1xbnFVNFJxcml3RUVvSFY2STU0aVI5cXZZQjFPUTlpUkRZVFFoVjJ3WDFQQVJpeGRJc2pNUDlnNWlsRVktSTdCS0NzaTMzWHlmRkdVWGhvbXRXQ9IBlAFBVV95cUxPcWVWSEVPa2twRUxHTlVlUzRraTVFa09lZFVXRE5Ha2Q4WFNwWDNnMWp2OE9sXzlMOVFkSEZLbDRQZ29KTUltTVlXdHRKTlJtc0dvcjVEcEUtS3hpWUpiMVE3UHNmS0hKdFNlTzZuNG41T2hMSWRBLUVYOWJUdFNTV2VhMlJISzZvbmhkbXp0MDI1U2ZZ?oc=5",
-     "date": "2026-10-07",
-     "source": "Chosunbiz",
-     "label": "South Korea",
-     "snippet": "South Korea tightens foreign student visas, expands deposits, curbs loopholes",
-     "lead": "조선비즈 구글 검색 먼저 보기 The government will tighten checks on the financial standing of foreign students to keep them from overstaying or working illegally in Korea, and will suspend visa preference benefits if universities provide backdoor support for part-time jobs for foreign students. The Ministry of Justice on the 7th announced the results of discussions by the \"council on improving the visa system for foreign students.\" The council, ...",
-     "image": "https://biz.chosun.com/resizer/v2/A6I75D4EL5JCFGTH7FCPXJQG3Y.jpg?auth=26a218ab69f5d82bfd0c2c908d5979bbaae4d402b114fa305eab82e9549978c7&width=1200&height=630&smart=true",
-     "why": [
-      "Announces a change"
-     ],
-     "tags": [
-      "Student / Graduate",
-      "South Korea"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 50,
-     "title": "Netherlands Names 5 Groups Of Foreigners Eligible for Dutch Citizenship Through Option Route",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLS1IVktKbHpYTGMwLUFoZGNuQk9XUExGNll2U09MNnF6Z0steFhvaGhaQzF3QUZIUXh0UnM2ejNIYjQxSDJCOWhLR2M3R0xNa3lXU1VoRlhmUzJYbHFPcXRoYnc2a0pfTzFLeHdQYm5tUHhsTHhwdWFsWEVpUV9vNFRXMTdyVFRTQkFyOHcxY3piZ3pHQnhQV1I3eFMwLXVy?oc=5",
-     "date": "2026-10-07",
-     "source": "Yen.com.gh",
-     "label": "Netherlands",
-     "snippet": "The Netherlands sets out five categories eligible for Dutch citizenship through the option route, a more direct path than full standard naturalisation process.",
-     "lead": "Ghana’s top stories, now easier to find. Discover our new search feature! The Netherlands government has published a formal list of five categories of people who may apply for Dutch citizenship through what it calls the option route, making clear that the pathway is not available to all applicants. The information, available on the Netherlands government website, specifies that only those who fall within one of five defined situations ...",
-     "image": "https://cdn.yen.com.gh/images/1200x675/3851a97d794c6ebc.jpeg?v=1",
-     "why": [
-      "Affects citizenship"
-     ],
-     "tags": [
-      "Citizenship",
-      "Netherlands"
+      "Canada"
      ]
     }
    ]
@@ -810,6 +769,29 @@
    "desk": "Immigration",
    "score": 7,
    "priority": 70,
+   "title": "U.S. visa delay forces senior Korean lawmaker to reroute parliamentary audit trip",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdWhXQUlYeDhWeUpxRk1FVkdEWG5sT2dsWEp6ZGJfYy1tOUlyMXdvWEhSM3loQmk1TEp5clNFWUN4MEg4NngzenRGZkVHaURlWEdicjRxbXphd2lTbXUxa1FwNHNYclBYSDlNeThzRTJDYTlXbTRGSDMyRDkwODFNTm4zMy0tc1JFeVRNbnpWUUM2NG04SWZ4Zi15dGQ5ZDhDNGFwdXJCcGZLWXV6OGlMOTZKek1hVWFYSVpiTXNWei1KcUxHZWNFVQ?oc=5",
+   "date": "2026-10-09",
+   "source": "Korea JoongAng Daily",
+   "label": "South Korea",
+   "snippet": "Rep. Jung Chung-rae’s pending visa application has fueled speculation over his activist past and strains in Seoul-Washington relations.",
+   "lead": "Rep. Jung Chung-rae’s pending visa application has fueled speculation over his activist past and strains in Seoul-Washington relations. Rep. Jung Chung-rae of the ruling Democratic Party questions Foreign Minister Cho Hyun during a parliamentary audit of the Foreign Ministry and other agencies by the National Assembly's Foreign Affairs and Unification Committee at the National Assembly in Yeouido, western Seoul, on Oct. 6. NEWS1 The ...",
+   "image": "https://image.koreajoongangdaily.com/12912791.jpg?imageId=12912791&x=0&y=5.28&cropw=100&croph=71.67&panox=0&panoy=5.28&panow=100&panoh=71.67&width=1200&height=683",
+   "why": [
+    "Political signal on immigration",
+    "Announces a change"
+   ],
+   "tags": [
+    "Politics / Election",
+    "South Korea"
+   ],
+   "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 70,
    "title": "Germany Work Visas Western Balkans: 50,000 Cut to 25,000",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONzlWVVJIQWpBVzd6b2k0a1VrQm1IbnhCTXdxVWtCTEJUYWxPVm16cVFNY1dPcFRaQmktSTY3endpVG9EeW9WRFR1cGJfaUJHRGkyOUVpU1hxNmdlR2c0cHdtS2l3LUQ3REEwbVRwV3RTaXNDUFZ5SVVxYzRBa0tUeDQtZnNqWUpVMDhUU1FNT3hBYUFLcEtGcGRtTjdLdE5JUUphbw?oc=5",
    "date": "2026-10-08",
@@ -826,7 +808,7 @@
     "Work visa",
     "Germany"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -848,7 +830,7 @@
     "Citizenship",
     "New Zealand"
    ],
-   "rank": 19,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -870,29 +852,6 @@
    ],
    "tags": [
     "Australia"
-   ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 70,
-   "title": "Haitians affected by termination of U.S. protected status eye six-month route to Canadian permanent residence",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVVRUcXRzSzNSN1MzVmtPdjFMR1JOQ3ZLQ0o2Um5KczBJRGhfRkUxUW9WR3NMVUFaaElzX09JWmpxT0otWi1VRGd4eWJCNTZ3bGNQU1VZamdBb1JfNGhkcU8wY293T3JJbEs0d3g1cDFWb1pkdTJFa0Fzc0tVcGRtV2dua3pESUtfMTRZU0VqSFlnaEFaMmNBZUpIQUw2djZkLTczcC1DZERoMnl1NG1hUXZMb2xPMG1vdkxTNmRXZzZYVGhQbm1qSEItOWJFdWRXUFJRdG0xal9WcmRTQ1lDOElDd2xhQThX0gHuAUFVX3lxTE5fcklHZVpLU1pKdmstWVFZLVhBUTVkNm0wSnlQamNpMWtVRXlNZXNScnRxUTNCNzlsaFRqd1ppcUxRdFVmeWNLY3VfVFhPWFByVXlRMmRLOGxabFBWNFJZYUliZzJhU3IwT0o0WURVc0ItYnlVS25XZGdxT2N2b3pNWHUzUmg3cE53TG5BMlpCVU5ucXhUVG11M3VTNHktdkJ5bVREdktCQUpEMWRtRjhkcjRmRTFoX0JYX25LN2dXaV90OWFYZi0tVGdCTUtkS0cwWVpSQ2pTMy1tdVRPUHB2Y1BUQ09Xb0lRTlgtQXc?oc=5",
-   "date": "2026-10-06",
-   "source": "CIC News",
-   "label": "Canada",
-   "snippet": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Check Your Eligibili",
-   "lead": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Express Entry awards additional points to candidates with French language skills, and includes larger selection rounds ...",
-   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/Haitians-eye-six-month-Canadian-PR.jpg",
-   "why": [
-    "Affects permanent residence",
-    "Major story (9 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Canada"
    ],
    "rank": 21,
    "must_read": false
