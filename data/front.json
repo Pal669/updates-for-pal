@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-10",
- "built": "2026-10-10 02:46 IST",
+ "built": "2026-10-10 08:19 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,15 +12,15 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22232.0,
-   "change_pct": -1.64,
+   "value": 22520.0,
+   "change_pct": 1.3,
    "asof": "09 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 71593.0,
-   "change_pct": -1.44,
+   "value": 72472.0,
+   "change_pct": 1.23,
    "asof": "09 Oct 15:32 IST"
   },
   {
@@ -255,8 +255,8 @@
    ]
   },
   "Immigration": {
-   "total": 848,
-   "new_today": 0,
+   "total": 852,
+   "new_today": 1,
    "items": []
   },
   "Advisory": {
@@ -352,6 +352,29 @@
  },
  "items": [
   {
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 100,
+   "title": "Japan PM faces calls for immigration cap as she weighs policy on foreigners",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWF3VS1HcWpsME1QR1Y4ZWt2Y1B0c2pSTVJmWTNnLW9uNDN5UWh2Smk0RVYtZ2U4cnE3NDBvZkFzaVBPdEFHMHU1MVdJUzJPaDlhNGEtRURJekk1c2hXajNnUU1fMWFWWHhnV0V0Y0c4WTBnSWxQNkZWQVdPV3NDbkE0TVVhaUZEbHFxV0gxM1RKOWVZUXNkc19LWWFmTkg3UU5zejFiTWtvMnFYaDB0aENGMlZRQ3h2elJQRHNkWHZPQVhyREE?oc=5",
+   "date": "2026-10-10",
+   "source": "Nikkei Asia",
+   "label": "Japan",
+   "snippet": "Government to base plan on population trends, Takaichi says",
+   "lead": "Japan India South Korea Indonesia Taiwan Thailand U.S. East Asia Hong Kong Macao Taiwan Mongolia Japan South Korea North Korea Southeast Asia Thailand Malaysia Singapore Philippines Vietnam Myanmar Cambodia Laos Brunei East Timor South Asia Pakistan Afghanistan Bangladesh Sri Lanka Nepal Bhutan Maldives Central Asia Uzbekistan Turkmenistan Tajikistan Kyrgyzstan Oceania New Zealand Papua New Guinea Pacific Islands Rest of the World ...",
+   "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F1%2F2%2F13302188-2-eng-GB%2F116a6fa07443-photo_SXM2026100900004657.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+   "why": [
+    "Quota or cap change",
+    "Announces a change"
+   ],
+   "tags": [
+    "Quota / Caps",
+    "Japan"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
    "desk": "Startups",
    "score": 11,
    "priority": 100,
@@ -372,7 +395,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -396,7 +419,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -419,7 +442,7 @@
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -443,7 +466,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -466,8 +489,8 @@
    "tags": [
     "Other Policy"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Startups",
@@ -490,7 +513,7 @@
     "IPO & Listing",
     "Policy & Regulation"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -513,7 +536,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -537,7 +560,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -561,7 +584,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -585,7 +608,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -609,7 +632,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -632,7 +655,7 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 12,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -656,7 +679,7 @@
     "Acquisition",
     "AI & Deeptech"
    ],
-   "rank": 13,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -679,7 +702,7 @@
    "tags": [
     "Australia"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -702,7 +725,7 @@
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 15,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -724,7 +747,7 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -748,7 +771,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -770,7 +793,7 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -792,7 +815,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 19,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -814,28 +837,6 @@
    "tags": [
     "Politics / Election",
     "South Korea"
-   ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 67,
-   "title": "NZ First seeks tighter rules for Citizenship and Welfare",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX0V2Y2Z4U0lpektlOUE3WE1OZmdNc2dXZXhsY19zemoteEMxRHlHLUlHZzVvYnVPYU02TVM2MThqWS0xZ2tnVl9sUEt4UlhHZ2t4RGw1c1dGbkxKcGpLN3l2TTJwd2VZUkhXeXNUSmpHU0JhT1V2b09lRlFBc0pkRWM3YllSZGVhVEJDZVNR?oc=5",
-   "date": "2026-10-08",
-   "source": "Indian Newslink",
-   "label": "New Zealand",
-   "snippet": "NZ First seeks tighter rules for Citizenship and Welfare",
-   "lead": "New Zealand Citizenship is a privilege with special and unique rights. It provides us with travel freedoms, the ability to live and work in other countries and it provides security to a quality of life in New Zealand. Our New Zealand passport is only available to New Zealand citizens and is highly valued for its free visa-in-advance access to over 180 countries.",
-   "image": "https://admin.indiannewslink.co.nz/uploads/NZ_First_seeks_Main_Banner_37e96d1505.png",
-   "why": [
-    "Affects citizenship"
-   ],
-   "tags": [
-    "Citizenship",
-    "New Zealand"
    ],
    "rank": 21,
    "must_read": false
