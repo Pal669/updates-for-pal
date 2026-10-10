@@ -1,6 +1,6 @@
 {
- "edition": "2026-10-10",
- "built": "2026-10-10 21:29 IST",
+ "edition": "2026-10-11",
+ "built": "2026-10-11 01:51 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -54,33 +54,33 @@
  ],
  "features": {
   "startup_file": {
-   "company": "Angle Health",
-   "tagline": "US health-insurance startup for small businesses (YC winter 2020)",
-   "what": "AI-powered platform that helps small businesses choose and manage 'level-funded' health plans, integrating with payroll and HR systems. Level-funded sits between fully insured (carrier bears all risk, higher and predictable cost) and self-funded (employer bears cost, unpredictable): the business makes predictable payments, is insured against unusually high costs, and may get a share of the surplus back if claims stay low.",
+   "company": "Innov8 Workspaces",
+   "tagline": "Premium flexible office space operator",
+   "what": "Runs premium flexible and managed workspace centres across India. It had 58 operating centres at the end of FY26 and 72 by July 2026.",
    "how": [
-    "The article does not say how Angle itself earns its revenue.",
-    "It says the startup serves 5,000+ businesses and is profitable."
+    "Rent from customers who use its centres: Rs 173.6 Cr of Rs 201.3 Cr operating revenue in FY26, about 86%.",
+    "Other operational income (ancillary services): Rs 27.6 Cr, up from Rs 5.4 Cr."
    ],
-   "watch": "A profitable, non-'AI agent' company raising a large Series C is unusual per TechCrunch. The tender offer is liquidity for staff, not money into the company.",
-   "sector": "Fintech",
-   "region": "Global",
-   "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/"
+   "watch": "Profit quality: other income was Rs 38.9 Cr, including a Rs 36.7 Cr gain on terminating lease contracts. Without that gain the profit jump would look much smaller. The article gives growth drivers as more centres, higher occupancy and better pricing.",
+   "sector": "Real Estate & Workspaces",
+   "region": "India",
+   "url": "https://inc42.com/buzz/innov8s-fy26-profit-zooms-multifold-to-%e2%82%b913-7-cr-revenue-crosses-%e2%82%b9200-cr-mark/"
   },
   "country": {
-   "id": "uk",
-   "name": "United Kingdom",
-   "trend": "Tightening",
-   "pr": "Indefinite leave to remain (ILR) is still 5 years for Skilled Workers today (B1 English, Life in the UK test, fee GBP 3,226). The government proposes an 'earned settlement' model with a 10-year baseline, reducible or extendable by contribution, integration and compliance. It is NOT yet in force; the government said it would legislate around autumn 2026. Consultation closed 12 February 2026.",
-   "citizenship": "Citizenship usually follows ILR by about a year (general knowledge). If the 10-year baseline arrives, the total clock could roughly double. The UK allows dual citizenship.",
-   "pro": "English-speaking, no language exam beyond visa English.",
-   "con": "Real chance the settlement clock moves from 5 to 10 years, and the government signalled it may apply to people already in the UK who are not yet settled.",
-   "watch": "Autumn 2026 legislation on earned settlement"
+   "id": "canada",
+   "name": "Canada",
+   "trend": "Tightening on temporary; PR volumes steady",
+   "pr": "PR is granted on arrival through Express Entry or a provincial nomination (general knowledge). Levels plan 2026-2028: 380,000 new permanent residents a year; economic share rising to 64% in 2027-2028. A one-time measure fast-tracks PR for up to 33,000 temporary workers in 2026-2027.",
+   "citizenship": "About 3 years of physical presence within 5 years (general knowledge, not re-verified). Dual citizenship allowed.",
+   "pro": "Only country on this list where you can apply for PR from outside without an employer.",
+   "con": "New temporary arrivals cut to 385,000 in 2026 (study permits about 49% lower, worker permits about 37% lower); goal is temporary residents under 5% of population by end-2027.",
+   "watch": "Express Entry draw scores and categories"
   }
  },
  "desks": {
   "Policy": {
    "total": 180,
-   "new_today": 2,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
@@ -126,6 +126,26 @@
      "desk": "Policy",
      "score": 6,
      "priority": 46,
+     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63746",
+     "date": "2026-10-07",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "",
+     "image": null,
+     "why": [
+      "New law or act",
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 38,
      "title": "Union Minister Shri Ashwini Vaishnaw Launches World Bank Group’s ‘World Development Report 2026: The Promise of Artificial Intelligence’ in New Delhi",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320883",
      "date": "2026-10-08",
@@ -140,55 +160,13 @@
      "tags": [
       "Banking & Rates"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 6,
-     "priority": 46,
-     "title": "Underwriting Auction for sale of Government Securities for ₹36,000 crore on October 09, 2026",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63757",
-     "date": "2026-10-08",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on October 09, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
-     "image": null,
-     "why": [
-      "Regulator: RBI",
-      "Large outlay (Rs 10,000 Cr or more)"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 544,
-   "new_today": 11,
+   "total": 547,
+   "new_today": 1,
    "items": [
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 91,
-     "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
-     "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
-     "date": "2026-10-07",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
-     "lead": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation Dominic-Madori Davis 6:45 AM PDT · October 7, 2026 A new personal AI assistant has arrived. Meet Tab , which announced Tuesday that it had officially emerged from stealth at a $300 million valuation. (The company declined to share the exact funding details.) Tab is part of the rising trend of consumer AI assistants, like the ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tab-website.png?resize=1200,744",
-     "why": [
-      "Acquisition",
-      "Large deal (about $300M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Acquisition",
-      "AI & Deeptech"
-     ]
-    },
     {
      "desk": "Startups",
      "score": 10,
@@ -236,74 +214,95 @@
      "desk": "Startups",
      "score": 9,
      "priority": 82,
-     "title": "NABARD-backed NABVENTURES raises Rs 450 Cr for second fund",
-     "url": "https://yourstory.com/2026/10/nabventures-hits-rs-450-crore-first-close-for-second-fund",
-     "date": "2026-10-09",
-     "source": "YourStory",
-     "label": "India · Agri & Food",
-     "snippet": "NABARD’s venture capital arm has announced the first close of its second fund to back early- and growth-stage rural and agritech startups despite a broader funding slowdown in the sector.",
-     "lead": "NABARD-backed NABVENTURES raises Rs 450 Cr for second fund NABARD’s venture capital arm has announced the first close of its second fund to back early- and growth-stage rural and agritech startups despite a broader funding slowdown in the sector. Team YS 17327 Stories Friday October 09, 2026 , 3 min Read NABVENTURES, the venture capital arm of the National Bank for Agriculture and Rural Development (NABARD), has achieved the first ...",
-     "image": "https://images.yourstory.com/cs/2/ebefb4a0b2a011edb86579ca40e04503/image-1718599425495.png",
+     "title": "Jeff Bezos says Blue Origin likely to pursue IPO in coming years",
+     "url": "https://economictimes.indiatimes.com/tech/technology/jeff-bezos-says-blue-origin-likely-to-pursue-ipo-in-coming-years/articleshow/134778260.cms",
+     "date": "2026-10-08",
+     "source": "ET Startups",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Blue Origin is likely to pursue an initial public offering in the coming years, billionaire founder Jeff Bezos said on Wednesday, after the space company raised $10 billion from outside investors for the first time in a funding round.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-3360783,resizemode-75,msid-134778260/tech/technology/jeff-bezos-says-blue-origin-likely-to-pursue-ipo-in-coming-years.jpg",
      "why": [
-      "Funding",
-      "Sizeable deal (about $47M)"
+      "IPO & Listing",
+      "Very large figure in headline (about $10,000M: round or valuation)"
      ],
      "tags": [
-      "Funding",
-      "Agri & Food"
+      "IPO & Listing",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 82,
+     "title": "SpaceX seeks $40 billion to buy Nvidia chips",
+     "url": "https://economictimes.indiatimes.com/tech/technology/spacex-seeks-40-billion-to-buy-nvidia-chips-ft-reports/articleshow/134754107.cms",
+     "date": "2026-10-07",
+     "source": "ET Startups",
+     "label": "Global · Fintech",
+     "snippet": "The Elon Musk-led company is seeking to raise about $10 billion in bank loans and $30 billion in investment-grade debt to fund its chip order, the report said.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2207790,resizemode-75,msid-134754107/tech/technology/spacex-seeks-40-billion-to-buy-nvidia-chips-ft-reports.jpg",
+     "why": [
+      "Acquisition",
+      "Very large figure in headline (about $40,000M: round or valuation)"
+     ],
+     "tags": [
+      "Acquisition",
+      "Fintech"
      ]
     }
    ]
   },
   "Immigration": {
-   "total": 860,
-   "new_today": 4,
+   "total": 864,
+   "new_today": 0,
    "items": []
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 4,
+   "new_today": 1,
    "items": [
     {
      "desk": "Advisory",
      "score": 10,
      "priority": 77,
-     "title": "Gold may draw support from decline in Oct Fed rate hike bet: Mirae Asset",
-     "url": "https://www.business-standard.com/markets/news/gold-may-draw-support-from-decline-in-oct-fed-rate-hike-bet-mirae-asset-126100900485_1.html",
+     "title": "SEBI PRIM Framework 2026: ₹25 Lakh Entry and PMS Reforms",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVXNmOWZIeWRHTFV3dGl0NU1tLTlid2dSLU4tUmdsRDRIMDd3RHBrNE5kZ2ViOWgyX1R2cXJjZTFGRnlmdVA5SXJRbzlCd25aTXRrR0lzT0RNMk9tZFVBMENfWTJQdFNsaWtjY2RtRzhxclhFVjVab2xKdVU1MjQxZHFsMG9KenZ4RDB3anpLNHZFcWJQTVRNeVZWZUdneXJXWlJyZXRrbEhqOFVwVVZUekd4ckl3b2prOS1YNmFCTzg1SHgzT1lhSU85djZVMnVTMkxhVkdpM0JOaHNs?oc=5",
      "date": "2026-10-09",
-     "source": "Business Standard",
-     "label": "Gold & Silver",
-     "snippet": "Spot gold has been under tremendous selling pressure due to surging real yields and strong US Dollar.",
-     "lead": "Gold may draw support from decline in Oct Fed rate hike bet: Mirae Asset Don't miss the most important news and views of the day. Get them on our Telegram channel",
-     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/18/thumb/fitandfill/1200X628/1789712940-6629.JPG",
+     "source": "Kalkine India",
+     "label": "PMS",
+     "snippet": "SEBI approves the PRIM mutual fund management route with a ₹25 lakh entry threshold. Explore eligible investments, fees and PMS reforms.",
+     "lead": "Technical Analysis on One NYSE-Listed Retail Trade Stock – M No news articles found at the moment. You are reading a free article with opinions that may differ from the recommendation given by Kalkine in its paid research reports. Become a Kalkine member today to get access to our research reports, in-depth technical and fundamental research. Learn More The Securities and Exchange Board of India approved reforms to the portfolio ...",
+     "image": "https://www.kalkine.co.in/uploads/articles/featured_image/cbeeb8da-9b34-4812-9564-6580657d1015-29823.jpg",
      "why": [
-      "Interest-rate decision",
-      "Precious metals",
-      "Global macro driver"
+      "PMS news",
+      "Regulator: SEBI or RBI",
+      "Rule or framework change"
      ],
      "tags": [
-      "Gold & Silver"
+      "PMS"
      ]
     },
     {
      "desk": "Advisory",
      "score": 10,
      "priority": 77,
-     "title": "RBI repo rate at 5.50%: Another 50 bps hike likely by March 2027 — which debt mutual funds suit 3–18 month horizons?",
-     "url": "https://www.livemint.com/money/personal-finance/rbi-repo-rate-at-5-50-another-50-bps-hike-likely-by-march-2027-which-debt-mutual-funds-suit-3-18-month-horizons-11791470902188.html",
+     "title": "India-US bond yield spread stays near 22-year low despite RBI rate hike",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYnBhTHNETnUtXzk5ZXdwUEpOQ0szdXZ3R1UxcTJObm1uZmdJSWtveFZKTGMyalI3MFRkWFZCamo3aThBbkktelhfczVtb2h1Sk03S2NzOTFfdFFlMXZTbzBvbGtpbmNXSUdBbmZNX3ZpQmdDM1N2dGphLWxncEQzaGo1TjJPTnZtRWFlVFp2UXZpaS1ZNEg0X1Ixa0VXSVJsUC1tUG5zUFdDVk1wUURVV3U2U3F6QmpQYzFaN2ZPNU43YkswX1RUMmptTkk2akpONUI2Z9IB2gFBVV95cUxOdWhoY0pVS1NjY2dObzJJaXNOV0x0SklFV0kzeUJiVE5HVWpGamtlejdqUTNmUGVPUjdwMFN0OXBLdk9odFZ2cUNhY3cwRGlfOEhKOUlmd1hFR3ExdUpZVUlHVkU2alFmTXhfLTNtTkNmTTlQcXJ4RzJJdFRSOTQwSmNNZFFPdDdrb2RNZmVndXVIT3JKWTJJVHkzb1JFUHNnZkNjUkpnVjdrUFhGOE9RLUhQSGdhb2JpYTJ3aTJCTkVLYXNCLUxZVmN0WEFmQm5HY21vYXprSFJPUQ?oc=5",
      "date": "2026-10-08",
-     "source": "Mint",
-     "label": "Mutual Funds",
-     "snippet": "The RBI’s 25-bps repo rate hike has reshaped the outlook for debt-fund investors as bond yields rise and markets assess further rate moves. Here’s what investors should consider based on their 3-month, 12-month and 18-month investment horizons.",
-     "lead": "RBI repo rate at 5.50%: Another 50 bps hike likely by March 2027 — which debt mutual fund categories suit 3–18 month horizons? (AI-generated image for representational purposes only) AI Quick Read The Reserve Bank of India’s 25-basis-point (bps) repo rate hike has raised questions among debt fund investors about how further rate moves could affect bond yields and fund returns. On October 7, the RBI’s Monetary Policy Committee (MPC) ...",
-     "image": null,
+     "source": "Business Standard",
+     "label": "Debt & Bonds",
+     "snippet": "Faster rise in US Treasury yields is narrowing the gap, potentially deterring foreign investors and keeping the rupee under pressure",
+     "lead": "premium India-US 10-year bond yield spread narrows to 194 basis points, near a 22-year low, as US Treasury yields rise faster than Indian bond yields. | Image- Ajay Mohanty",
+     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/08/thumb/fitandfill/1200X628/1791482125-5173.jpg",
      "why": [
       "Regulator: SEBI or RBI",
       "Interest-rate decision",
-      "Also covered by 1 other outlet(s)"
+      "Government bond yields"
      ],
      "tags": [
-      "Mutual Funds"
+      "Debt & Bonds"
      ]
     },
     {
@@ -329,23 +328,23 @@
     },
     {
      "desk": "Advisory",
-     "score": 10,
-     "priority": 77,
-     "title": "RBI MPC meeting Oct 2026: Why TCS, HDFC Bank, ICICI Lombard, Coal India shares may gain if 25 bps rate hike is announced",
-     "url": "https://www.livemint.com/market/stock-market-news/rbi-mpc-meeting-october-2026-why-hdfc-bank-icici-lombard-coal-india-tcs-likely-to-gain-if-bank-announces-rate-hike-11791268517566.html",
-     "date": "2026-10-06",
-     "source": "Mint",
-     "label": "PMS",
-     "snippet": "RBI MPC meeting October 2026: According to Harshal Dasani, Business Head at INVasset PMS, a 25 bps hike to 5.50% is no longer a surprise, as market expectations already reflect a significant probability of such a move.",
-     "lead": "RBI MPC meeting October 2026: The Reserve Bank of India (RBI) is all set to announce its policy decision outcome on Wednesday, 7 October. (AI image for representational purposes only) ( AI generated image ) AI Quick Read RBI MPC meeting October 2026: The Reserve Bank of India (RBI) is all set to announce its policy decision outcome on Wednesday, 7 October, with market participants assessing the impact of a potential 25 basis point ...",
-     "image": null,
+     "score": 9,
+     "priority": 69,
+     "title": "Gold may draw support from decline in Oct Fed rate hike bet: Mirae Asset",
+     "url": "https://www.business-standard.com/markets/news/gold-may-draw-support-from-decline-in-oct-fed-rate-hike-bet-mirae-asset-126100900485_1.html",
+     "date": "2026-10-09",
+     "source": "Business Standard",
+     "label": "Gold & Silver",
+     "snippet": "Spot gold has been under tremendous selling pressure due to surging real yields and strong US Dollar.",
+     "lead": "Gold may draw support from decline in Oct Fed rate hike bet: Mirae Asset Don't miss the most important news and views of the day. Get them on our Telegram channel",
+     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/18/thumb/fitandfill/1200X628/1789712940-6629.JPG",
      "why": [
-      "PMS news",
-      "Regulator: SEBI or RBI",
-      "Interest-rate decision"
+      "Interest-rate decision",
+      "Precious metals",
+      "Global macro driver"
      ],
      "tags": [
-      "PMS"
+      "Gold & Silver"
      ]
     }
    ]
@@ -353,30 +352,8 @@
  },
  "items": [
   {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 100,
-   "title": "From DailyObjects To StockGro — Indian Startups Raised About $123 Mn This Week",
-   "url": "https://inc42.com/buzz/from-dailyobjects-to-stockgro-indian-startups-raised-about-123-mn-this-week/",
-   "date": "2026-10-10",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Indian startups raised $122.9 Mn across 25 deals between October 5 and October 9, marking a 47.4% decline from the $233.6 Mn raised in the previous week",
-   "lead": "Indian startups raised $122.9 Mn across 25 deals between October 5 and October 9, marking a 47.4% decline from the $233.6 Mn raised in the previous week Ecommerce dominated the funding charts, attracting $63.9 Mn across nine deals 3one4 Capital, Fireside Ventures, Prime Venture Partners and AJVC led investor activity, participating in two deals each",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Funding-Glore-social-1.jpg",
-   "why": [
-    "Funding",
-    "Large deal (about $123M)"
-   ],
-   "tags": [
-    "Funding"
-   ],
-   "rank": 1,
-   "must_read": true
-  },
-  {
    "desk": "Immigration",
-   "score": 9,
+   "score": 8,
    "priority": 100,
    "title": "Japan PM faces calls for immigration cap as she weighs policy on foreigners",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWF3VS1HcWpsME1QR1Y4ZWt2Y1B0c2pSTVJmWTNnLW9uNDN5UWh2Smk0RVYtZ2U4cnE3NDBvZkFzaVBPdEFHMHU1MVdJUzJPaDlhNGEtRURJekk1c2hXajNnUU1fMWFWWHhnV0V0Y0c4WTBnSWxQNkZWQVdPV3NDbkE0TVVhaUZEbHFxV0gxM1RKOWVZUXNkc19LWWFmTkg3UU5zejFiTWtvMnFYaDB0aENGMlZRQ3h2elJQRHNkWHZPQVhyREE?oc=5",
@@ -394,60 +371,12 @@
     "Quota / Caps",
     "Japan"
    ],
-   "rank": 2,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 100,
-   "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-   "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-   "date": "2026-10-08",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-   "lead": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months Julie Bort 11:19 AM PDT · October 8, 2026 Arena , which originated in 2023 as a research project at UC Berkeley that crowdsourced rankings of AI models, has raised a $200 million Series B round at a $3.1 billion valuation, it said on Thursday. This comes after the company said it reached $100 million in annualized run-rate revenue in June. The round ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $3,100M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 3,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 100,
-   "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-   "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-   "date": "2026-10-08",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "The developer of Hermes Agent raised a $90 million Series B.",
-   "lead": "Nous Research , the startup developing the open source Hermes Agent, has raised a $90 million Series B at a $1.5 billion valuation, confirming TechCrunch’s earlier reporting . The round was led by Robot Ventures, with participation from other backers including Nvidia, Union Square Ventures, Menlo Ventures, Samsung, and 1789 Capital, where Donald Trump Jr. is a partner. The new financing brings the three-year-old startup’s total funding ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $1,500M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 4,
+   "rank": 1,
    "must_read": true
   },
   {
    "desk": "Immigration",
-   "score": 9,
+   "score": 8,
    "priority": 100,
    "title": "Form: Apply to the EU Settlement Scheme by post",
    "url": "https://www.gov.uk/government/publications/apply-to-the-eu-settlement-scheme-by-post-or-email",
@@ -465,7 +394,7 @@
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 5,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -489,8 +418,8 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 6,
-   "must_read": false
+   "rank": 3,
+   "must_read": true
   },
   {
    "desk": "Policy",
@@ -512,8 +441,8 @@
    "tags": [
     "Other Policy"
    ],
-   "rank": 7,
-   "must_read": false
+   "rank": 4,
+   "must_read": true
   },
   {
    "desk": "Startups",
@@ -536,8 +465,8 @@
     "IPO & Listing",
     "Policy & Regulation"
    ],
-   "rank": 8,
-   "must_read": false
+   "rank": 5,
+   "must_read": true
   },
   {
    "desk": "Startups",
@@ -559,61 +488,200 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 9,
+   "rank": 6,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 13,
-   "priority": 100,
-   "title": "RBI Repo Rate May Climb To 6% In FY27 As G-Sec Yields Face Upward Pressure: Report",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeFM2RUxXN05PelFVLXFrN2JXYkJmN2lFa1hEQjdENDNJdk5IMlZCU00wajd4NDhXTEhmVlVvVm9kUVU0ajV1RndTdmk2VU5PLVY3czktOHo3SmxVSGYyb0JfaEpEZFRIcTBPZjhXd0o5MTBKbHRuV2I2NGFXaGp4Y2Q1cjdoN1JJaHE4ejNhTFFEZm1rakp2T2xZb242RDIxU3ZBU3NmOTduM1BBOU9MejZlbnNpck92SmxMcDR1bTNlWlUyRWg3OGtn0gHKAUFVX3lxTE14UzZFTFc3Tk96UVUtcWs3YldiQmY3aUVrWERCN0Q0M0l2TkgyVkJTTTBqN3g0OFdMSGZWVW9Wb2RRVTRqNXVGd1N2aTZVTk8tVjdzOS04ejdKbFVIZjJvQl9oSkRkVEhxME9mOFd3SjkxMEpsdG5XYjY0YVdoanhjZDVyN2g3UklocTh6M2FMUURmbWtqSnZPbFlvbjZEMjFTdkFTc2Y5N24zUEE5T0x6NmVuc2lyT3ZKbExwNHVtM2VaVTJFaDc4a2c?oc=5",
-   "date": "2026-10-04",
-   "source": "NDTV Profit",
-   "label": "Debt & Bonds",
-   "snippet": "",
-   "lead": "",
+   "score": 12,
+   "priority": 92,
+   "title": "RBI MPC interest rate decision in focus: Can a 25 bps hike trigger a market sell-off?",
+   "url": "https://www.livemint.com/market/stock-market-news/rbi-mpc-interest-rate-decision-in-focus-can-a-25-bps-hike-trigger-a-market-selloff-11791284684306.html",
+   "date": "2026-10-06",
+   "source": "Mint",
+   "label": "Regulatory",
+   "snippet": "As the Reserve Bank of India prepares for a potential 25 basis points rate hike amidst rising inflation and global economic pressures, market sentiments remain keenly focused. Analysts weigh in on how this decision could influence banking stocks and the broader economy amidst fluctuating oil prices.",
+   "lead": "RBI MPC will most likely go for a 25 bps rate hike on 7 October. ( an AI-generated image for representational purposes ) AI Quick Read RBI MPC interest rate decision in focus : The Reserve Bank of India (RBI) is most likely to raise the repo rate by 25 basis points on Wednesday, October 7, following the trend set by other major global central banks, including the US Federal Reserve, the Bank of Japan (BoJ) and the European Central Bank ...",
    "image": null,
    "why": [
     "Regulator: SEBI or RBI",
     "Interest-rate decision",
-    "Government bond yields",
-    "Also covered by 5 other outlet(s)"
+    "Sharp market move",
+    "Also covered by 2 other outlet(s)"
    ],
    "tags": [
-    "Debt & Bonds"
+    "Regulatory"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "From DailyObjects To StockGro — Indian Startups Raised About $123 Mn This Week",
+   "url": "https://inc42.com/buzz/from-dailyobjects-to-stockgro-indian-startups-raised-about-123-mn-this-week/",
+   "date": "2026-10-10",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Indian startups raised $122.9 Mn across 25 deals between October 5 and October 9, marking a 47.4% decline from the $233.6 Mn raised in the previous week",
+   "lead": "Indian startups raised $122.9 Mn across 25 deals between October 5 and October 9, marking a 47.4% decline from the $233.6 Mn raised in the previous week Ecommerce dominated the funding charts, attracting $63.9 Mn across nine deals 3one4 Capital, Fireside Ventures, Prime Venture Partners and AJVC led investor activity, participating in two deals each",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Funding-Glore-social-1.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $123M)"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+   "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+   "date": "2026-10-08",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+   "lead": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months Julie Bort 11:19 AM PDT · October 8, 2026 Arena , which originated in 2023 as a research project at UC Berkeley that crowdsourced rankings of AI models, has raised a $200 million Series B round at a $3.1 billion valuation, it said on Thursday. This comes after the company said it reached $100 million in annualized run-rate revenue in June. The round ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $3,100M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+   "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+   "date": "2026-10-08",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "The developer of Hermes Agent raised a $90 million Series B.",
+   "lead": "Nous Research , the startup developing the open source Hermes Agent, has raised a $90 million Series B at a $1.5 billion valuation, confirming TechCrunch’s earlier reporting . The round was led by Robot Ventures, with participation from other backers including Nvidia, Union Square Ventures, Menlo Ventures, Samsung, and 1789 Capital, where Donald Trump Jr. is a partner. The new financing brings the three-year-old startup’s total funding ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $1,500M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
    ],
    "rank": 10,
    "must_read": false
   },
   {
-   "desk": "Advisory",
-   "score": 12,
-   "priority": 92,
-   "title": "RBI tightens liquidity after rate rise, raises daily CRR maintenance to 99%",
-   "url": "https://www.business-standard.com/economy/news/rbi-tightens-liquidity-after-rate-rise-raises-daily-crr-maintenance-to-99-126100901382_1.html",
-   "date": "2026-10-09",
-   "source": "Business Standard",
-   "label": "Regulatory",
-   "snippet": "The RBI raised minimum daily CRR maintenance to 99 per cent from October 16 and announced a ₹25,000 crore bond sale on October 13 to align overnight rates with the repo rate.",
-   "lead": "Bankers said that the increase to 99 per cent will reduce banks' flexibility in managing their funds on a daily basis, requiring them to maintain a higher proportion of the prescribed reserves with the RBI each day Don't miss the most important news and views of the day. Get them on our Telegram channel",
-   "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/25/thumb/fitandfill/1200X628/1790359992-4619.jpg",
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
+   "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
+   "date": "2026-10-07",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
+   "lead": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation Dominic-Madori Davis 6:45 AM PDT · October 7, 2026 A new personal AI assistant has arrived. Meet Tab , which announced Tuesday that it had officially emerged from stealth at a $300 million valuation. (The company declined to share the exact funding details.) Tab is part of the rising trend of consumer AI assistants, like the ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tab-website.png?resize=1200,744",
    "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "New product or fund",
-    "Also covered by 1 other outlet(s)"
+    "Acquisition",
+    "Large deal (about $300M)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Regulatory"
+    "Acquisition",
+    "AI & Deeptech"
    ],
    "rank": 11,
    "must_read": false
   },
   {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 88,
+   "title": "'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN1Y0NmhScExoSGhOZzJmbk1FY25fSGhKU0JqaXJaZmtSWTVKVGZOWGVQX3B5S0w3Sk9NZ19CbVljOFh0SXpkcXZDY1NzMlpxN3JZbHhiZnBhVFJQNlRzN2RWWElGNm5xZDBIVWtocjdzWUd0d0pjQTlLb0J3ZmNjVVhXLUxINFdxQk92SXZ3aFFROVNBTVcxdVBDbG9hZ0Z0QThIVFV6SjVLUlNsRjI5VEw3b092VWtmd3F4VmZGYUZHSi1QaTJiMWMyRVRCUm1manfSAdcBQVVfeXFMTmM2NVAzWXFnLWNETEUtVUVJWWRGUzRpRERacmZ2WjdsV1JjaUxhUHpuejVpN3h6TWJiNGhIX3prbUJXNXNlR0hwWG00b2RQampmRHZYbDJoRDJKOHN1bWpXZXNmUXo5QVU5cXNDdlhUcFVOU1I1VnRiQ1NtMGhpUmR6amRPTmM2N2VnVVFfNFFFZEJCLW9TbS03dncxZFM0SHFHUF92RTY4SW4xT2xwSjNvenI5Z0dYRTBMQW9uU0p1bGlnd0ROTnFtYUhGa3RQeEVwd093ZzQ?oc=5",
+   "date": "2026-10-06",
+   "source": "WION",
+   "label": "Australia",
+   "snippet": "Indians planning to move to Australia could face tighter opportunities if the country's conservative opposition comes to power. Opposition Leader Angus Taylor has unveiled the \"biggest cut to immigration\" in history. Here's all you need to know.",
+   "lead": "Live TV LOGIN v logout Live TV Latest Gravitas World India Entertainment Hollywood Bollywood Sports Opinions videos Photos TV Shows Mission Sustainability Wion / World / 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians Edited By Moohita Kaur Garg Published: Oct 06, 2026, 14:13 IST | ...",
+   "image": "https://cdn3.wionews.com/prod/wion/images/2026/20261006/image-1791274946407.png?imwidth=1200&imheight=900",
+   "why": [
+    "Announces a change",
+    "Major story (9 headlines that day)",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Australia"
+   ],
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 88,
+   "title": "Haitians affected by termination of U.S. protected status eye six-month route to Canadian permanent residence",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVVRUcXRzSzNSN1MzVmtPdjFMR1JOQ3ZLQ0o2Um5KczBJRGhfRkUxUW9WR3NMVUFaaElzX09JWmpxT0otWi1VRGd4eWJCNTZ3bGNQU1VZamdBb1JfNGhkcU8wY293T3JJbEs0d3g1cDFWb1pkdTJFa0Fzc0tVcGRtV2dua3pESUtfMTRZU0VqSFlnaEFaMmNBZUpIQUw2djZkLTczcC1DZERoMnl1NG1hUXZMb2xPMG1vdkxTNmRXZzZYVGhQbm1qSEItOWJFdWRXUFJRdG0xal9WcmRTQ1lDOElDd2xhQThX0gHuAUFVX3lxTE5fcklHZVpLU1pKdmstWVFZLVhBUTVkNm0wSnlQamNpMWtVRXlNZXNScnRxUTNCNzlsaFRqd1ppcUxRdFVmeWNLY3VfVFhPWFByVXlRMmRLOGxabFBWNFJZYUliZzJhU3IwT0o0WURVc0ItYnlVS25XZGdxT2N2b3pNWHUzUmg3cE53TG5BMlpCVU5ucXhUVG11M3VTNHktdkJ5bVREdktCQUpEMWRtRjhkcjRmRTFoX0JYX25LN2dXaV90OWFYZi0tVGdCTUtkS0cwWVpSQ2pTMy1tdVRPUHB2Y1BUQ09Xb0lRTlgtQXc?oc=5",
+   "date": "2026-10-06",
+   "source": "CIC News",
+   "label": "Canada",
+   "snippet": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Check Your Eligibili",
+   "lead": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Express Entry awards additional points to candidates with French language skills, and includes larger selection rounds ...",
+   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/Haitians-eye-six-month-Canadian-PR.jpg",
+   "why": [
+    "Affects permanent residence",
+    "Major story (9 headlines that day)"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Canada"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
    "desk": "Advisory",
-   "score": 12,
-   "priority": 92,
+   "score": 11,
+   "priority": 85,
+   "title": "SEBI Portfolio Managers Regulations 2026: Complete Regulatory Framework Effective April 2027",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObFFpYnoxSGpEaTdhU2xlaDJ4alp5MEZhNUlxd0FxR2R3U3NzX1JSODZUSmRNT1VJVy1yMU5lcmpPelN2VUR4d2xBLUlidzhnRWxBTWFybUhuTHFLVEJJU29rTVJ3dDRvUzNoQjdwV2FXZE02dllzU0pULTl3UHNXMHJwaXNlTFByZWU1cFhnemo3NEFnY2xubEE3WmF1OXZ6a0E?oc=5",
+   "date": "2026-10-10",
+   "source": "TaxCorp AI",
+   "label": "PMS",
+   "snippet": "Summary The Securities and Exchange Board of India (Portfolio Managers) Regulations, 2026, notified on 7 October 2026 and effective from 1 April 2027,...",
+   "lead": "The Securities and Exchange Board of India has issued the Securities and Exchange Board of India (Portfolio Managers) Regulations, 2026, through a formal notification dated 7 October 2026 (F. No. SEBI/LAD-DOP/2026/322). These regulations, framed under Section 30(1) read with Section 11(1) , Section 11(2)(b) and Section 12(1) of the Securities and Exchange Board of India Act, 1992 (15 of 1992), will come into force on 1 April 2027 , ...",
+   "image": null,
+   "why": [
+    "PMS news",
+    "Regulator: SEBI or RBI",
+    "Rule or framework change"
+   ],
+   "tags": [
+    "PMS"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 85,
    "title": "RBI OMO sale fears spur bond sell-off; 10-year G-Sec hits three year high",
    "url": "https://www.thehindubusinessline.com/markets/rbi-omo-sale-fears-spur-bond-sell-off-10-year-g-sec-hits-three-year-high/article71564483.ece",
    "date": "2026-10-09",
@@ -631,13 +699,13 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 12,
+   "rank": 15,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 12,
-   "priority": 92,
+   "score": 11,
+   "priority": 85,
    "title": "Treasury Yields Surge to Multi-Decade Highs as Fed Signals More Rate Hikes; Dollar Gains, Gold Slips",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjl2Ynd6S053RFJsVTMzcDAtMlVhTkFUWm1DTWRTMktkTC1NNXUza2JfTVRpMmhUQ1BzTE9lYk9qVTdZX21FTFN0TGdhb21oTGZ1R1JPLURsT0dDRUM3eGVaQlFmdDdBY2YyMFBNWF92ODJKdTRxeHJxQ0NXMV9vTW1nM291d1JFb2VBM0J5SVJZaVFlT2lRQnlCRzZRdHNrQVFEQ3NwLVpKeXpLcWIxSGN3NkNNc2tFMXNLbVRsano?oc=5",
    "date": "2026-10-09",
@@ -655,98 +723,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "Jeff Bezos says Blue Origin likely to pursue IPO in coming years",
-   "url": "https://economictimes.indiatimes.com/tech/technology/jeff-bezos-says-blue-origin-likely-to-pursue-ipo-in-coming-years/articleshow/134778260.cms",
-   "date": "2026-10-08",
-   "source": "ET Startups",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Blue Origin is likely to pursue an initial public offering in the coming years, billionaire founder Jeff Bezos said on Wednesday, after the space company raised $10 billion from outside investors for the first time in a funding round.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-3360783,resizemode-75,msid-134778260/tech/technology/jeff-bezos-says-blue-origin-likely-to-pursue-ipo-in-coming-years.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $10,000M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "AI & Deeptech"
-   ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 78,
-   "title": "'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN1Y0NmhScExoSGhOZzJmbk1FY25fSGhKU0JqaXJaZmtSWTVKVGZOWGVQX3B5S0w3Sk9NZ19CbVljOFh0SXpkcXZDY1NzMlpxN3JZbHhiZnBhVFJQNlRzN2RWWElGNm5xZDBIVWtocjdzWUd0d0pjQTlLb0J3ZmNjVVhXLUxINFdxQk92SXZ3aFFROVNBTVcxdVBDbG9hZ0Z0QThIVFV6SjVLUlNsRjI5VEw3b092VWtmd3F4VmZGYUZHSi1QaTJiMWMyRVRCUm1manfSAdcBQVVfeXFMTmM2NVAzWXFnLWNETEUtVUVJWWRGUzRpRERacmZ2WjdsV1JjaUxhUHpuejVpN3h6TWJiNGhIX3prbUJXNXNlR0hwWG00b2RQampmRHZYbDJoRDJKOHN1bWpXZXNmUXo5QVU5cXNDdlhUcFVOU1I1VnRiQ1NtMGhpUmR6amRPTmM2N2VnVVFfNFFFZEJCLW9TbS03dncxZFM0SHFHUF92RTY4SW4xT2xwSjNvenI5Z0dYRTBMQW9uU0p1bGlnd0ROTnFtYUhGa3RQeEVwd093ZzQ?oc=5",
-   "date": "2026-10-06",
-   "source": "WION",
-   "label": "Australia",
-   "snippet": "Indians planning to move to Australia could face tighter opportunities if the country's conservative opposition comes to power. Opposition Leader Angus Taylor has unveiled the \"biggest cut to immigration\" in history. Here's all you need to know.",
-   "lead": "Live TV LOGIN v logout Live TV Latest Gravitas World India Entertainment Hollywood Bollywood Sports Opinions videos Photos TV Shows Mission Sustainability Wion / World / 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians Edited By Moohita Kaur Garg Published: Oct 06, 2026, 14:13 IST | ...",
-   "image": "https://cdn3.wionews.com/prod/wion/images/2026/20261006/image-1791274946407.png?imwidth=1200&imheight=900",
-   "why": [
-    "Announces a change",
-    "Major story (9 headlines that day)",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Australia"
-   ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 78,
-   "title": "Haitians affected by termination of U.S. protected status eye six-month route to Canadian permanent residence",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVVRUcXRzSzNSN1MzVmtPdjFMR1JOQ3ZLQ0o2Um5KczBJRGhfRkUxUW9WR3NMVUFaaElzX09JWmpxT0otWi1VRGd4eWJCNTZ3bGNQU1VZamdBb1JfNGhkcU8wY293T3JJbEs0d3g1cDFWb1pkdTJFa0Fzc0tVcGRtV2dua3pESUtfMTRZU0VqSFlnaEFaMmNBZUpIQUw2djZkLTczcC1DZERoMnl1NG1hUXZMb2xPMG1vdkxTNmRXZzZYVGhQbm1qSEItOWJFdWRXUFJRdG0xal9WcmRTQ1lDOElDd2xhQThX0gHuAUFVX3lxTE5fcklHZVpLU1pKdmstWVFZLVhBUTVkNm0wSnlQamNpMWtVRXlNZXNScnRxUTNCNzlsaFRqd1ppcUxRdFVmeWNLY3VfVFhPWFByVXlRMmRLOGxabFBWNFJZYUliZzJhU3IwT0o0WURVc0ItYnlVS25XZGdxT2N2b3pNWHUzUmg3cE53TG5BMlpCVU5ucXhUVG11M3VTNHktdkJ5bVREdktCQUpEMWRtRjhkcjRmRTFoX0JYX25LN2dXaV90OWFYZi0tVGdCTUtkS0cwWVpSQ2pTMy1tdVRPUHB2Y1BUQ09Xb0lRTlgtQXc?oc=5",
-   "date": "2026-10-06",
-   "source": "CIC News",
-   "label": "Canada",
-   "snippet": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Check Your Eligibili",
-   "lead": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Express Entry awards additional points to candidates with French language skills, and includes larger selection rounds ...",
-   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/Haitians-eye-six-month-Canadian-PR.jpg",
-   "why": [
-    "Affects permanent residence",
-    "Major story (9 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Canada"
-   ],
    "rank": 16,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 77,
-   "title": "Recommendations of the 57th Meeting of the GST Council",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320934",
-   "date": "2026-10-08",
-   "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "The 57th Meeting of the GST Council was held today in New Delhi, under the chairpersonship of the Un",
-   "lead": "Ministry of Finance Recommendations of the 57th Meeting of the GST Council GST Council recommends removal of arrest provisions under GST GST Council recommends raising prosecution threshold from ₹1 crore to ₹5 crore GST Council recommends reduction in general penalty from ₹25,000 to ₹10,000 GST Council recommends wider eligibility for input tax credit and refunds GST Council recommends further simplification of registration and ...",
-   "image": null,
-   "why": [
-    "GST change",
-    "Ministry of Finance"
-   ],
-   "tags": [
-    "Tax, Duties & Trade"
-   ],
-   "rank": 17,
    "must_read": false
   },
   {
@@ -770,7 +747,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 18,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -791,6 +768,28 @@
    ],
    "tags": [
     "Infrastructure & Transport"
+   ],
+   "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 9,
+   "priority": 69,
+   "title": "Recommendations of the 57th Meeting of the GST Council",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320934",
+   "date": "2026-10-08",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "The 57th Meeting of the GST Council was held today in New Delhi, under the chairpersonship of the Un",
+   "lead": "Ministry of Finance Recommendations of the 57th Meeting of the GST Council GST Council recommends removal of arrest provisions under GST GST Council recommends raising prosecution threshold from ₹1 crore to ₹5 crore GST Council recommends reduction in general penalty from ₹25,000 to ₹10,000 GST Council recommends wider eligibility for input tax credit and refunds GST Council recommends further simplification of registration and ...",
+   "image": null,
+   "why": [
+    "GST change",
+    "Ministry of Finance"
+   ],
+   "tags": [
+    "Tax, Duties & Trade"
    ],
    "rank": 19,
    "must_read": false
@@ -819,8 +818,8 @@
   },
   {
    "desk": "Immigration",
-   "score": 6,
-   "priority": 67,
+   "score": 5,
+   "priority": 62,
    "title": "U.S. visa delay forces senior Korean lawmaker to reroute parliamentary audit trip",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdWhXQUlYeDhWeUpxRk1FVkdEWG5sT2dsWEp6ZGJfYy1tOUlyMXdvWEhSM3loQmk1TEp5clNFWUN4MEg4NngzenRGZkVHaURlWEdicjRxbXphd2lTbXUxa1FwNHNYclBYSDlNeThzRTJDYTlXbTRGSDMyRDkwODFNTm4zMy0tc1JFeVRNbnpWUUM2NG04SWZ4Zi15dGQ5ZDhDNGFwdXJCcGZLWXV6OGlMOTZKek1hVWFYSVpiTXNWei1KcUxHZWNFVQ?oc=5",
    "date": "2026-10-09",
