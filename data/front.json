@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-10",
- "built": "2026-10-10 08:19 IST",
+ "built": "2026-10-10 11:10 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -26,22 +26,22 @@
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 96.78,
-   "change_pct": -0.04,
-   "asof": "10 Oct 02:02 IST"
+   "value": 96.73,
+   "change_pct": -0.1,
+   "asof": "10 Oct 09:00 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 104.43,
-   "change_pct": 0.14,
+   "value": 104.72,
+   "change_pct": 0.42,
    "asof": "10 Oct 02:29 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4220.0,
-   "change_pct": 1.52,
+   "value": 4216.0,
+   "change_pct": 1.43,
    "asof": "10 Oct 02:29 IST"
   },
   {
@@ -164,9 +164,31 @@
    ]
   },
   "Startups": {
-   "total": 535,
-   "new_today": 2,
+   "total": 536,
+   "new_today": 3,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 91,
+     "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
+     "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
+     "date": "2026-10-07",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
+     "lead": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation Dominic-Madori Davis 6:45 AM PDT · October 7, 2026 A new personal AI assistant has arrived. Meet Tab , which announced Tuesday that it had officially emerged from stealth at a $300 million valuation. (The company declined to share the exact funding details.) Tab is part of the rising trend of consumer AI assistants, like the ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tab-website.png?resize=1200,744",
+     "why": [
+      "Acquisition",
+      "Large deal (about $300M)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Acquisition",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -230,32 +252,11 @@
       "Funding",
       "Agri & Food"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 82,
-     "title": "AITMC IPO: Defence pivot, over dependence on govt schemes and other risk factors from DRHP",
-     "url": "https://www.medianama.com/2026/10/223-aitmc-ipo-govt-schemes-drhp/",
-     "date": "2026-10-09",
-     "source": "MediaNama",
-     "label": "India · AI & Deeptech",
-     "snippet": "AITMC Ventures has refiled its IPO documents with SEBI. Key risks include reliance on government contracts and limited drone production capacity.",
-     "lead": "Drone tech startup AITMC Ventures has refiled draft papers with SEBI to launch an initial public offering (IPO). The proposed IPO comprises a fresh issue of 3.5 crore equity shares, with no offer-for-sale component. AITMC’s operations span the entire drone value chain. Founded in 2016, the company initially offered vocational education and skill development programs. Later, it diversified into drone training, manufacturing and ...",
-     "image": "https://www.medianama.com/wp-content/uploads/2020/10/drone.jpg.jpg",
-     "why": [
-      "IPO & Listing",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 852,
+   "total": 853,
    "new_today": 1,
    "items": []
   },
@@ -352,6 +353,28 @@
  },
  "items": [
   {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 100,
+   "title": "From DailyObjects To StockGro — Indian Startups Raised About $123 Mn This Week",
+   "url": "https://inc42.com/buzz/from-dailyobjects-to-stockgro-indian-startups-raised-about-123-mn-this-week/",
+   "date": "2026-10-10",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Indian startups raised $122.9 Mn across 25 deals between October 5 and October 9, marking a 47.4% decline from the $233.6 Mn raised in the previous week",
+   "lead": "Indian startups raised $122.9 Mn across 25 deals between October 5 and October 9, marking a 47.4% decline from the $233.6 Mn raised in the previous week Ecommerce dominated the funding charts, attracting $63.9 Mn across nine deals 3one4 Capital, Fireside Ventures, Prime Venture Partners and AJVC led investor activity, participating in two deals each",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Funding-Glore-social-1.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $123M)"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
    "desk": "Immigration",
    "score": 9,
    "priority": 100,
@@ -371,7 +394,7 @@
     "Quota / Caps",
     "Japan"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -395,7 +418,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -419,7 +442,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -442,7 +465,7 @@
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -466,8 +489,8 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Policy",
@@ -489,7 +512,7 @@
    "tags": [
     "Other Policy"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -513,7 +536,7 @@
     "IPO & Listing",
     "Policy & Regulation"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -536,7 +559,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -560,7 +583,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -584,7 +607,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -608,7 +631,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -632,7 +655,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 12,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -653,30 +676,6 @@
    ],
    "tags": [
     "IPO & Listing",
-    "AI & Deeptech"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
-   "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
-   "date": "2026-10-07",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
-   "lead": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation Dominic-Madori Davis 6:45 AM PDT · October 7, 2026 A new personal AI assistant has arrived. Meet Tab , which announced Tuesday that it had officially emerged from stealth at a $300 million valuation. (The company declined to share the exact funding details.) Tab is part of the rising trend of consumer AI assistants, like the ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tab-website.png?resize=1200,744",
-   "why": [
-    "Acquisition",
-    "Large deal (about $300M)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Acquisition",
     "AI & Deeptech"
    ],
    "rank": 14,
