@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-11",
- "built": "2026-10-11 11:53 IST",
+ "built": "2026-10-11 21:57 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -26,9 +26,9 @@
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 96.73,
-   "change_pct": -0.1,
-   "asof": "11 Oct 09:00 IST"
+   "value": 96.78,
+   "change_pct": -0.04,
+   "asof": "11 Oct 19:38 IST"
   },
   {
    "name": "Brent (USD)",
@@ -79,8 +79,8 @@
  },
  "desks": {
   "Policy": {
-   "total": 180,
-   "new_today": 0,
+   "total": 181,
+   "new_today": 1,
    "items": [
     {
      "desk": "Policy",
@@ -164,13 +164,57 @@
    ]
   },
   "Startups": {
-   "total": 548,
-   "new_today": 2,
+   "total": 553,
+   "new_today": 7,
    "items": [
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 91,
+     "priority": 83,
+     "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+     "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+     "date": "2026-10-08",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "The developer of Hermes Agent raised a $90 million Series B.",
+     "lead": "Nous Research , the startup developing the open source Hermes Agent, has raised a $90 million Series B at a $1.5 billion valuation, confirming TechCrunch’s earlier reporting . The round was led by Robot Ventures, with participation from other backers including Nvidia, Union Square Ventures, Menlo Ventures, Samsung, and 1789 Capital, where Donald Trump Jr. is a partner. The new financing brings the three-year-old startup’s total funding ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $1,500M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
+     "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
+     "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
+     "date": "2026-10-07",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
+     "lead": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation Dominic-Madori Davis 6:45 AM PDT · October 7, 2026 A new personal AI assistant has arrived. Meet Tab , which announced Tuesday that it had officially emerged from stealth at a $300 million valuation. (The company declined to share the exact funding details.) Tab is part of the rising trend of consumer AI assistants, like the ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tab-website.png?resize=1200,744",
+     "why": [
+      "Acquisition",
+      "Large deal (about $300M)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Acquisition",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
      "title": "Etched fields funding offers at $40B+ valuation, sources say",
      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
      "date": "2026-10-06",
@@ -192,7 +236,7 @@
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 91,
+     "priority": 83,
      "title": "Exclusive: Leverage Edu Eyes ₹500 Cr Pre-IPO Funding, Targets ₹600 Cr Revenue In FY27",
      "url": "https://inc42.com/buzz/exclusive-leverage-edu-eyes-%e2%82%b9500-cr-pre-ipo-funding-targets-%e2%82%b9600-cr-revenue-in-fy27/",
      "date": "2026-10-05",
@@ -209,55 +253,34 @@
      "tags": [
       "IPO & Listing"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 82,
-     "title": "Jeff Bezos says Blue Origin likely to pursue IPO in coming years",
-     "url": "https://economictimes.indiatimes.com/tech/technology/jeff-bezos-says-blue-origin-likely-to-pursue-ipo-in-coming-years/articleshow/134778260.cms",
-     "date": "2026-10-08",
-     "source": "ET Startups",
-     "label": "Global · AI & Deeptech",
-     "snippet": "Blue Origin is likely to pursue an initial public offering in the coming years, billionaire founder Jeff Bezos said on Wednesday, after the space company raised $10 billion from outside investors for the first time in a funding round.",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-3360783,resizemode-75,msid-134778260/tech/technology/jeff-bezos-says-blue-origin-likely-to-pursue-ipo-in-coming-years.jpg",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $10,000M: round or valuation)"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 82,
-     "title": "SpaceX seeks $40 billion to buy Nvidia chips",
-     "url": "https://economictimes.indiatimes.com/tech/technology/spacex-seeks-40-billion-to-buy-nvidia-chips-ft-reports/articleshow/134754107.cms",
-     "date": "2026-10-07",
-     "source": "ET Startups",
-     "label": "Global · Fintech",
-     "snippet": "The Elon Musk-led company is seeking to raise about $10 billion in bank loans and $30 billion in investment-grade debt to fund its chip order, the report said.",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2207790,resizemode-75,msid-134754107/tech/technology/spacex-seeks-40-billion-to-buy-nvidia-chips-ft-reports.jpg",
-     "why": [
-      "Acquisition",
-      "Very large figure in headline (about $40,000M: round or valuation)"
-     ],
-     "tags": [
-      "Acquisition",
-      "Fintech"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 875,
-   "new_today": 4,
+   "total": 878,
+   "new_today": 6,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 7,
+     "priority": 78,
+     "title": "'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN1Y0NmhScExoSGhOZzJmbk1FY25fSGhKU0JqaXJaZmtSWTVKVGZOWGVQX3B5S0w3Sk9NZ19CbVljOFh0SXpkcXZDY1NzMlpxN3JZbHhiZnBhVFJQNlRzN2RWWElGNm5xZDBIVWtocjdzWUd0d0pjQTlLb0J3ZmNjVVhXLUxINFdxQk92SXZ3aFFROVNBTVcxdVBDbG9hZ0Z0QThIVFV6SjVLUlNsRjI5VEw3b092VWtmd3F4VmZGYUZHSi1QaTJiMWMyRVRCUm1manfSAdcBQVVfeXFMTmM2NVAzWXFnLWNETEUtVUVJWWRGUzRpRERacmZ2WjdsV1JjaUxhUHpuejVpN3h6TWJiNGhIX3prbUJXNXNlR0hwWG00b2RQampmRHZYbDJoRDJKOHN1bWpXZXNmUXo5QVU5cXNDdlhUcFVOU1I1VnRiQ1NtMGhpUmR6amRPTmM2N2VnVVFfNFFFZEJCLW9TbS03dncxZFM0SHFHUF92RTY4SW4xT2xwSjNvenI5Z0dYRTBMQW9uU0p1bGlnd0ROTnFtYUhGa3RQeEVwd093ZzQ?oc=5",
+     "date": "2026-10-06",
+     "source": "WION",
+     "label": "Australia",
+     "snippet": "Indians planning to move to Australia could face tighter opportunities if the country's conservative opposition comes to power. Opposition Leader Angus Taylor has unveiled the \"biggest cut to immigration\" in history. Here's all you need to know.",
+     "lead": "Live TV LOGIN v logout Live TV Latest Gravitas World India Entertainment Hollywood Bollywood Sports Opinions videos Photos TV Shows Mission Sustainability Wion / World / 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians Edited By Moohita Kaur Garg Published: Oct 06, 2026, 14:13 IST | ...",
+     "image": "https://cdn3.wionews.com/prod/wion/images/2026/20261006/image-1791274946407.png?imwidth=1200&imheight=900",
+     "why": [
+      "Announces a change",
+      "Major story (9 headlines that day)",
+      "Mentions India or Indians"
+     ],
+     "tags": [
+      "Australia"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 7,
@@ -374,17 +397,39 @@
  },
  "items": [
   {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 100,
+   "title": "Zetwerk IPO: Fresh issue size raised to Rs 2,830 crore, OFS grows 49%",
+   "url": "https://economictimes.indiatimes.com/tech/technology/zetwerk-ipo-fresh-issue-size-rises-to-rs-2830-crore-ofs-grows-49/articleshow/134868750.cms",
+   "date": "2026-10-11",
+   "source": "ET Startups",
+   "label": "India · Other",
+   "snippet": "The number of selling shareholders remains unchanged at 24, but eight institutional investors, including Peak XV Partners, Lightspeed Venture Partners, Accel, and Kae Capital, have increased the number of shares they plan to sell. Founders Amrit Acharya and Srinath Ramakkrushnan will be selling the same number of shares, about 14.2 millio",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-28190,resizemode-75,msid-134868750/tech/technology/zetwerk-ipo-fresh-issue-size-rises-to-rs-2830-crore-ofs-grows-49.jpg",
+   "why": [
+    "IPO & Listing",
+    "Large deal (about $298M)"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
    "desk": "Immigration",
    "score": 9,
    "priority": 100,
-   "title": "Finland to Introduce Citizenship Test From March 2027",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaGJzWjYzR09yZ3ZqUUt4WVBlQkJWc051TFdRTXFGaF9pOGc0cGtPRUpoOENYaUhCTDJ3UU5CUHUyUnNyOVFUOGx0akpsU2RZVk5tYVh6NGo3empMaVR4M3QyQlV5RUFaaWJEQTdkLXVlOWtQdkNmYm5FYmJUWFN4N3hpWXFndHpPNXpwUm1ldFBQTERwRlo5STZqYmo?oc=5",
+   "title": "Finland to introduce citizenship test for foreign applicants in 2027",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSV9TdnFyanQ5TkhoNVU1TzBveDdYaUtnSEU4c1FCdVM3bDdnWko1d1ZrVGNmc0RaOWx2M2kyWDZoV3ZtTXlnOXZpTmxVQWw0WnNzd01Bc3dzQnhqSGQzTklIVVNfeEF5UldRckpnQnRheUx6aTVpZXRCUUZIOEFhc2p5b25wNDZvdXNERHgtYWFhM0xzeFE?oc=5",
    "date": "2026-10-11",
-   "source": "Rus Tourism News",
+   "source": "Scandasia",
    "label": "Finland",
-   "snippet": "Finland will introduce a new citizenship test from March 1, 2027, covering Finnish society, rights, legislation, history and culture.",
-   "lead": "Finland will introduce a new citizenship test from March 2027 as part of changes to the country’s Citizenship Act, adding a formal civic-knowledge requirement for many future applicants. The wider legal reforms enter into force on January 1, 2027, but the new test requirement will apply to citizenship applications submitted from March 1, 2027. Finland’s Immigration Service says the first citizenship tests are expected to take place in ...",
-   "image": "https://www.rustourismnews.com/wp-content/uploads/2026/03/Finland_Saimaa_sunset.jpg",
+   "snippet": "Finland to introduce citizenship test for foreign applicants in 2027 is an Article written by Scandasia, the only website, magazine and online publication that serves all the expats from Denmark, Sweden, Norway and Finland living in Southeast Asia and China.",
+   "lead": "Foreign residents applying for Finnish citizenship will face a new citizenship test from March 2027 as Finland introduces stricter requirements for becoming a citizen. The Finnish Immigration Service (Migri) announced on 9 October that preparations for the new test are underway, with the first examinations expected to take place in March next year. The requirement will apply to applicants aged between 18 and 64 who submit their ...",
+   "image": "https://scandasia.com/wp-content/uploads/2026/10/finntest.jpg",
    "why": [
     "Affects citizenship",
     "Announces a change"
@@ -393,7 +438,7 @@
     "Citizenship",
     "Finland"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -417,7 +462,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -440,13 +485,36 @@
    "tags": [
     "Other Policy"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
    "desk": "Startups",
    "score": 11,
-   "priority": 100,
+   "priority": 92,
+   "title": "Ecommerce firms sell goods worth Rs 24,000 crore in first two days of festive sales: Redseer",
+   "url": "https://economictimes.indiatimes.com/tech/technology/ecommerce-firms-sell-goods-worth-rs-24000-crore-in-first-two-days-of-festive-sales-redseer/articleshow/134868694.cms",
+   "date": "2026-10-11",
+   "source": "ET Startups",
+   "label": "India · Commerce & D2C",
+   "snippet": "Players like Amazon and Flipkart are using their quick commerce arms for sales and increasing their salience on the platform, which saw 4 to 5 times higher GMV than the BAU daily average.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-599602,resizemode-75,msid-134868694/tech/technology/ecommerce-firms-sell-goods-worth-rs-24000-crore-in-first-two-days-of-festive-sales-redseer.jpg",
+   "why": [
+    "Financials",
+    "Very large figure in headline (about $2,526M: round or valuation)"
+   ],
+   "tags": [
+    "Financials",
+    "Commerce & D2C"
+   ],
+   "rank": 5,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 92,
    "title": "Swara Baby Products Secures SEBI Nod For ₹1,000 Cr IPO",
    "url": "https://inc42.com/buzz/swara-baby-products-secures-sebi-nod-for-%e2%82%b91000-cr-ipo/",
    "date": "2026-10-06",
@@ -464,31 +532,8 @@
     "IPO & Listing",
     "Policy & Regulation"
    ],
-   "rank": 4,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 100,
-   "title": "Kuku turns profitable ahead of IPO; revenue surges sixfold to Rs 1,484 crore in FY26",
-   "url": "https://www.medianama.com/2026/10/223-kuku-ipo-revenue-surges/",
-   "date": "2026-10-05",
-   "source": "MediaNama",
-   "label": "India · Other",
-   "snippet": "Kuku Technologies swung to a Rs 182.7 crore profit in FY26 from a Rs 152.6 crore loss, as revenue surged sixfold to Rs 1,484.2 crore ahead of its planned IPO.",
-   "lead": "Digital media and entertainment startup Kuku Technologies, the owner of microdrama app Kuku TV and the audio storytelling platform Kuku FM, clocked a net profit of Rs 182.7 crore in the financial year ended March 31, 2026 — a sharp turnaround from a loss of Rs 152.6 crore in the previous fiscal year. The reversal came largely on account of a sixfold jump in its revenue. Revenue from operations jumped to Rs 1,484.2 crore in FY26, ...",
-   "image": "https://www.medianama.com/wp-content/uploads/2026/10/Untitled.jpg",
-   "why": [
-    "IPO & Listing",
-    "Large deal (about $156M)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -511,101 +556,30 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "From DailyObjects To StockGro — Indian Startups Raised About $123 Mn This Week",
-   "url": "https://inc42.com/buzz/from-dailyobjects-to-stockgro-indian-startups-raised-about-123-mn-this-week/",
-   "date": "2026-10-10",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Indian startups raised $122.9 Mn across 25 deals between October 5 and October 9, marking a 47.4% decline from the $233.6 Mn raised in the previous week",
-   "lead": "Indian startups raised $122.9 Mn across 25 deals between October 5 and October 9, marking a 47.4% decline from the $233.6 Mn raised in the previous week Ecommerce dominated the funding charts, attracting $63.9 Mn across nine deals 3one4 Capital, Fireside Ventures, Prime Venture Partners and AJVC led investor activity, participating in two deals each",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Funding-Glore-social-1.jpg",
-   "why": [
-    "Funding",
-    "Large deal (about $123M)"
-   ],
-   "tags": [
-    "Funding"
-   ],
    "rank": 7,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-   "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-   "date": "2026-10-08",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-   "lead": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months Julie Bort 11:19 AM PDT · October 8, 2026 Arena , which originated in 2023 as a research project at UC Berkeley that crowdsourced rankings of AI models, has raised a $200 million Series B round at a $3.1 billion valuation, it said on Thursday. This comes after the company said it reached $100 million in annualized run-rate revenue in June. The round ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
+   "score": 11,
+   "priority": 92,
+   "title": "Kuku turns profitable ahead of IPO; revenue surges sixfold to Rs 1,484 crore in FY26",
+   "url": "https://www.medianama.com/2026/10/223-kuku-ipo-revenue-surges/",
+   "date": "2026-10-05",
+   "source": "MediaNama",
+   "label": "India · Other",
+   "snippet": "Kuku Technologies swung to a Rs 182.7 crore profit in FY26 from a Rs 152.6 crore loss, as revenue surged sixfold to Rs 1,484.2 crore ahead of its planned IPO.",
+   "lead": "Digital media and entertainment startup Kuku Technologies, the owner of microdrama app Kuku TV and the audio storytelling platform Kuku FM, clocked a net profit of Rs 182.7 crore in the financial year ended March 31, 2026 — a sharp turnaround from a loss of Rs 152.6 crore in the previous fiscal year. The reversal came largely on account of a sixfold jump in its revenue. Revenue from operations jumped to Rs 1,484.2 crore in FY26, ...",
+   "image": "https://www.medianama.com/wp-content/uploads/2026/10/Untitled.jpg",
    "why": [
-    "Funding",
-    "Very large figure in headline (about $3,100M: round or valuation)",
+    "IPO & Listing",
+    "Large deal (about $156M)",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Funding",
-    "AI & Deeptech"
+    "IPO & Listing"
    ],
    "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-   "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-   "date": "2026-10-08",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "The developer of Hermes Agent raised a $90 million Series B.",
-   "lead": "Nous Research , the startup developing the open source Hermes Agent, has raised a $90 million Series B at a $1.5 billion valuation, confirming TechCrunch’s earlier reporting . The round was led by Robot Ventures, with participation from other backers including Nvidia, Union Square Ventures, Menlo Ventures, Samsung, and 1789 Capital, where Donald Trump Jr. is a partner. The new financing brings the three-year-old startup’s total funding ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $1,500M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
-   "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
-   "date": "2026-10-07",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
-   "lead": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation Dominic-Madori Davis 6:45 AM PDT · October 7, 2026 A new personal AI assistant has arrived. Meet Tab , which announced Tuesday that it had officially emerged from stealth at a $300 million valuation. (The company declined to share the exact funding details.) Tab is part of the rising trend of consumer AI assistants, like the ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tab-website.png?resize=1200,744",
-   "why": [
-    "Acquisition",
-    "Large deal (about $300M)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Acquisition",
-    "AI & Deeptech"
-   ],
-   "rank": 10,
    "must_read": false
   },
   {
@@ -628,7 +602,7 @@
     "Quota / Caps",
     "Japan"
    ],
-   "rank": 11,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -651,7 +625,7 @@
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 12,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -674,7 +648,7 @@
    "tags": [
     "PMS"
    ],
-   "rank": 13,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -698,7 +672,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 14,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -722,7 +696,75 @@
    "tags": [
     "Gold & Silver"
    ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 83,
+   "title": "From DailyObjects To StockGro — Indian Startups Raised About $123 Mn This Week",
+   "url": "https://inc42.com/buzz/from-dailyobjects-to-stockgro-indian-startups-raised-about-123-mn-this-week/",
+   "date": "2026-10-10",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Indian startups raised $122.9 Mn across 25 deals between October 5 and October 9, marking a 47.4% decline from the $233.6 Mn raised in the previous week",
+   "lead": "Indian startups raised $122.9 Mn across 25 deals between October 5 and October 9, marking a 47.4% decline from the $233.6 Mn raised in the previous week Ecommerce dominated the funding charts, attracting $63.9 Mn across nine deals 3one4 Capital, Fireside Ventures, Prime Venture Partners and AJVC led investor activity, participating in two deals each",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Funding-Glore-social-1.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $123M)"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 83,
+   "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+   "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+   "date": "2026-10-08",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+   "lead": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months Julie Bort 11:19 AM PDT · October 8, 2026 Arena , which originated in 2023 as a research project at UC Berkeley that crowdsourced rankings of AI models, has raised a $200 million Series B round at a $3.1 billion valuation, it said on Thursday. This comes after the company said it reached $100 million in annualized run-rate revenue in June. The round ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $3,100M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
    "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 78,
+   "title": "Australia's rule lets US, UK, Canada and New Zealand residents join its military without citizenship. Chec",
+   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQSUd6V1g5a1hlTURMUVFvMkVCOHJKd1phdGg5alAzZEZSQ2hHVUZuUXItV1djbDNyUEFKX09DTVVIMmVoamZ1MHFJSTd5NjFlRWkyN2dTbW1ucjFKTEdGQU5ja1NTb3FERmFNbWw3RjBhV1lyeGdZM2Fldm1oZnBrNGMxa0NKSWNCLUtvTWw1dUhudFpFS3Z5UmRObEh1dE5NWlA5Tl9jYk1mWTBVYUgwNUpLQVVNd1NnVV94cnVrbmR3ZV8xYWlRMF9CUkQ5SHhPRlNhU0ZXaHBtRExTdzh3MHE3b0JtVDU2dFJMczgxcWU4aHpKTmFCME84RXoxTHh3RzAzY1B6VE1lRmNDRDFkUW5fS2ZzbldOaE9Za19iM3RubWFTdlZlV3cyMHlZclExMTlZTXhLZjkzdDM0N2s5T1A3eGdpZ9IBywJBVV95cUxQeGhTYVpVekFIbDY2Y0U4T2U5RVIxcHJaUDNQQ09WOGRTdzJWeXBQS25hTjJOQ0kzSHlUTmlnNzU1SEJpazRpV3pXdFdSakV3c1ROSk9lLTU2UjFDX0F1anRVTUc0azh3V3pkVzgwVVZZeXBIYm1SNTRLSHdyTWpkVDhkOHpKSU5BR2JVSV8yVVpoT3FLX0FhdHdENjFOa3RqazVrQkxpSjFlemZldTZlMHpEY0F6TjJhM2pvaVNLQ19UYTFRNzNObWppREhnYXdrS2thQ3ZCUG1tbjJvR0ZCeTA2cmxkMzU4aHIxcXp6VkNiN0tGV1dtM3lTVWpWUEhjQ2s1eVUtbEgyTFlON2lkZEQyTkpSUnBGblZfZzF3bFh1b3RldGZHdG9vWF9jbm9OZm14MU5yV3ZVQkFnX3ZDQUtEeXBkaUoxZnpF?oc=5",
+   "date": "2026-10-11",
+   "source": "The Economic Times",
+   "label": "New Zealand",
+   "snippet": "In 2024, Australia allows eligible permanent residents from the US, UK, Canada and New Zealand to apply to join its military without obtaining Australian citizenship first. The expanded recruitment policy aims to address personnel shortages and widen the pool of potential recruits. Here are the eligibility criteria, residency requirements",
+   "lead": "Permanent residents from New Zealand, the UK, Canada and the US can apply to join the ADF",
+   "image": "https://img.etimg.com/thumb/msid-134872245,width-1200,height-900,imgsize-93910,overlay-economictimes/articleshow.jpg",
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "New Zealand"
+   ],
+   "rank": 16,
    "must_read": false
   },
   {
@@ -745,29 +787,6 @@
    "tags": [
     "Politics / Election",
     "South Korea"
-   ],
-   "rank": 16,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 78,
-   "title": "'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN1Y0NmhScExoSGhOZzJmbk1FY25fSGhKU0JqaXJaZmtSWTVKVGZOWGVQX3B5S0w3Sk9NZ19CbVljOFh0SXpkcXZDY1NzMlpxN3JZbHhiZnBhVFJQNlRzN2RWWElGNm5xZDBIVWtocjdzWUd0d0pjQTlLb0J3ZmNjVVhXLUxINFdxQk92SXZ3aFFROVNBTVcxdVBDbG9hZ0Z0QThIVFV6SjVLUlNsRjI5VEw3b092VWtmd3F4VmZGYUZHSi1QaTJiMWMyRVRCUm1manfSAdcBQVVfeXFMTmM2NVAzWXFnLWNETEUtVUVJWWRGUzRpRERacmZ2WjdsV1JjaUxhUHpuejVpN3h6TWJiNGhIX3prbUJXNXNlR0hwWG00b2RQampmRHZYbDJoRDJKOHN1bWpXZXNmUXo5QVU5cXNDdlhUcFVOU1I1VnRiQ1NtMGhpUmR6amRPTmM2N2VnVVFfNFFFZEJCLW9TbS03dncxZFM0SHFHUF92RTY4SW4xT2xwSjNvenI5Z0dYRTBMQW9uU0p1bGlnd0ROTnFtYUhGa3RQeEVwd093ZzQ?oc=5",
-   "date": "2026-10-06",
-   "source": "WION",
-   "label": "Australia",
-   "snippet": "Indians planning to move to Australia could face tighter opportunities if the country's conservative opposition comes to power. Opposition Leader Angus Taylor has unveiled the \"biggest cut to immigration\" in history. Here's all you need to know.",
-   "lead": "Live TV LOGIN v logout Live TV Latest Gravitas World India Entertainment Hollywood Bollywood Sports Opinions videos Photos TV Shows Mission Sustainability Wion / World / 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians Edited By Moohita Kaur Garg Published: Oct 06, 2026, 14:13 IST | ...",
-   "image": "https://cdn3.wionews.com/prod/wion/images/2026/20261006/image-1791274946407.png?imwidth=1200&imheight=900",
-   "why": [
-    "Announces a change",
-    "Major story (9 headlines that day)",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Australia"
    ],
    "rank": 17,
    "must_read": false
