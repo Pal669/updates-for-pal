@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-12",
- "built": "2026-10-12 08:12 IST",
+ "built": "2026-10-12 11:19 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22520.0,
-   "change_pct": 1.3,
-   "asof": "09 Oct 15:31 IST"
+   "value": 22392.0,
+   "change_pct": -0.57,
+   "asof": "12 Oct 11:19 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72472.0,
-   "change_pct": 1.23,
-   "asof": "09 Oct 15:32 IST"
+   "value": 72043.0,
+   "change_pct": -0.59,
+   "asof": "12 Oct 11:04 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 96.78,
-   "change_pct": -0.04,
-   "asof": "11 Oct 19:38 IST"
+   "value": 95.75,
+   "change_pct": -1.11,
+   "asof": "12 Oct 11:19 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 102.86,
-   "change_pct": -1.78,
-   "asof": "12 Oct 08:01 IST"
+   "value": 103.73,
+   "change_pct": -0.95,
+   "asof": "12 Oct 11:09 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4233.0,
-   "change_pct": 0.4,
-   "asof": "12 Oct 08:02 IST"
+   "value": 4210.0,
+   "change_pct": -0.15,
+   "asof": "12 Oct 11:09 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -164,13 +164,56 @@
    ]
   },
   "Startups": {
-   "total": 556,
-   "new_today": 2,
+   "total": 561,
+   "new_today": 7,
    "items": [
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 83,
+     "priority": 77,
+     "title": "Ecommerce firms sell goods worth Rs 24,000 crore in first two days of festive sales: Redseer",
+     "url": "https://economictimes.indiatimes.com/tech/technology/ecommerce-firms-sell-goods-worth-rs-24000-crore-in-first-two-days-of-festive-sales-redseer/articleshow/134868694.cms",
+     "date": "2026-10-11",
+     "source": "ET Startups",
+     "label": "India · Commerce & D2C",
+     "snippet": "Players like Amazon and Flipkart are using their quick commerce arms for sales and increasing their salience on the platform, which saw 4 to 5 times higher GMV than the BAU daily average.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-599602,resizemode-75,msid-134868694/tech/technology/ecommerce-firms-sell-goods-worth-rs-24000-crore-in-first-two-days-of-festive-sales-redseer.jpg",
+     "why": [
+      "Financials",
+      "Very large figure in headline (about $2,526M: round or valuation)"
+     ],
+     "tags": [
+      "Financials",
+      "Commerce & D2C"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+     "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+     "date": "2026-10-08",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+     "lead": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months Julie Bort 11:19 AM PDT · October 8, 2026 Arena , which originated in 2023 as a research project at UC Berkeley that crowdsourced rankings of AI models, has raised a $200 million Series B round at a $3.1 billion valuation, it said on Thursday. This comes after the company said it reached $100 million in annualized run-rate revenue in June. The round ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $3,100M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
      "date": "2026-10-08",
@@ -192,7 +235,7 @@
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 83,
+     "priority": 77,
      "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
      "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
      "date": "2026-10-07",
@@ -209,49 +252,6 @@
      "tags": [
       "Acquisition",
       "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Etched fields funding offers at $40B+ valuation, sources say",
-     "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
-     "date": "2026-10-06",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
-     "lead": "Etched fields funding offers at $40B+ valuation, sources say Marina Temkin 1:24 PM PDT · October 5, 2026 Although it’s only been a couple of months since Etched raised $700 million at a $21 billion valuation , the AI chip startup is already being plied with investment offers at double or more its value, according to people familiar with the company. Etched is reviewing incoming bids that range from $40 billion from top-tier investors ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Sequoia_Etched-Abhishek-Malani-Robert-Wachen-Sonya-Huang-Gavin-Uberti-copy.jpeg?resize=1200,846",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $40,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Exclusive: Leverage Edu Eyes ₹500 Cr Pre-IPO Funding, Targets ₹600 Cr Revenue In FY27",
-     "url": "https://inc42.com/buzz/exclusive-leverage-edu-eyes-%e2%82%b9500-cr-pre-ipo-funding-targets-%e2%82%b9600-cr-revenue-in-fy27/",
-     "date": "2026-10-05",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "IPO-bound Leverage Edu is targeting ₹600 Cr in revenue in FY27, up 61% from ₹372 Cr in FY26, sources told Inc42",
-     "lead": "IPO-bound Leverage Edu is targeting ₹600 Cr in revenue in FY27, up 61% from ₹372 Cr in FY26, sources told Inc42 The startup wants to expand its revenue base and bring a large private equity investor on board ahead of its planned ₹2,000–3,000 Cr IPO Leverage Edu is exploring a ₹500 Cr pre-IPO funding round and has held talks with a couple of global PE firms, while working to finalise bankers for its public issue",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Leverage-Edu-social.jpg",
-     "why": [
-      "IPO & Listing",
-      "Sizeable deal (about $63M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "IPO & Listing"
      ]
     }
    ]
@@ -399,23 +399,23 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 13,
    "priority": 100,
-   "title": "Ecomm festive sales hit Rs 24,000 Cr in two days; VC funding drops as large deals dry up",
-   "url": "https://yourstory.com/2026/10/ecomm-festive-sales-hit-rs-24000-cr-in-two-days",
+   "title": "Zetwerk Sets IPO Price Band At ₹143-₹151 For ₹5,012 Cr Issue",
+   "url": "https://inc42.com/buzz/zetwerk-sets-ipo-price-band-at-%e2%82%b9143-%e2%82%b9151-for-%e2%82%b95012-cr-issue/",
    "date": "2026-10-12",
-   "source": "YourStory",
-   "label": "India · Commerce & D2C",
-   "snippet": "Redseer estimates that 6-6.5 crore shoppers participated, with mobile phones leading by value and fashion, electronics and appliances seeing strong demand.",
-   "lead": "Ecomm festive sales hit Rs 24,000 Cr in two days; VC funding drops as large deals dry up Redseer estimates that 6-6.5 crore shoppers participated, with mobile phones leading by value and fashion, electronics and appliances seeing strong demand. Team YS 17334 Stories Monday October 12, 2026 , 4 min Read India’s ecommerce platforms clocked around Rs 24,000 crore in sales during the first two days of festive shopping, with mobile phones ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/2026-CopyofNewPPTTemplates4-1791771725367.png",
+   "source": "Inc42",
+   "label": "India · SaaS & Enterprise",
+   "snippet": "Zetwerk has increased the fresh issue from ₹2,600 Cr outlined in its UDRHP. The OFS has also grown 49.2% from about 9.7 Cr shares.",
+   "lead": "Zetwerk has set a price band of ₹143-₹151 per share for its ₹5,012.3 Cr IPO, targeting a post-issue valuation of ₹25,583 Cr (about $2.7 Bn) at the upper end. The startup plans to use ₹2,160 Cr, or about 76% of its fresh issue, to repay borrowings, making debt reduction the largest use of the capital raised. The IPO will open for subscription on October 15 and close on October 19, with anchor investor bidding scheduled for October 14.",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/Zetwerk-IPO-social.jpg",
    "why": [
-    "Funding",
-    "Very large figure in headline (about $2,526M: round or valuation)"
+    "IPO & Listing",
+    "Very large figure in headline (about $528M: round or valuation)"
    ],
    "tags": [
-    "Funding",
-    "Commerce & D2C"
+    "IPO & Listing",
+    "SaaS & Enterprise"
    ],
    "rank": 1,
    "must_read": true
@@ -515,48 +515,25 @@
   },
   {
    "desk": "Startups",
-   "score": 11,
+   "score": 12,
    "priority": 92,
-   "title": "Zetwerk IPO: Fresh issue size raised to Rs 2,830 crore, OFS grows 49%",
-   "url": "https://economictimes.indiatimes.com/tech/technology/zetwerk-ipo-fresh-issue-size-rises-to-rs-2830-crore-ofs-grows-49/articleshow/134868750.cms",
-   "date": "2026-10-11",
-   "source": "ET Startups",
-   "label": "India · Other",
-   "snippet": "The number of selling shareholders remains unchanged at 24, but eight institutional investors, including Peak XV Partners, Lightspeed Venture Partners, Accel, and Kae Capital, have increased the number of shares they plan to sell. Founders Amrit Acharya and Srinath Ramakkrushnan will be selling the same number of shares, about 14.2 millio",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-28190,resizemode-75,msid-134868750/tech/technology/zetwerk-ipo-fresh-issue-size-rises-to-rs-2830-crore-ofs-grows-49.jpg",
+   "title": "Ecomm festive sales hit Rs 24,000 Cr in two days; VC funding drops as large deals dry up",
+   "url": "https://yourstory.com/2026/10/ecomm-festive-sales-hit-rs-24000-cr-in-two-days",
+   "date": "2026-10-12",
+   "source": "YourStory",
+   "label": "India · Commerce & D2C",
+   "snippet": "Redseer estimates that 6-6.5 crore shoppers participated, with mobile phones leading by value and fashion, electronics and appliances seeing strong demand.",
+   "lead": "Ecomm festive sales hit Rs 24,000 Cr in two days; VC funding drops as large deals dry up Redseer estimates that 6-6.5 crore shoppers participated, with mobile phones leading by value and fashion, electronics and appliances seeing strong demand. Team YS 17334 Stories Monday October 12, 2026 , 4 min Read India’s ecommerce platforms clocked around Rs 24,000 crore in sales during the first two days of festive shopping, with mobile phones ...",
+   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/2026-CopyofNewPPTTemplates4-1791771725367.png",
    "why": [
-    "IPO & Listing",
-    "Large deal (about $298M)"
+    "Funding",
+    "Very large figure in headline (about $2,526M: round or valuation)"
    ],
    "tags": [
-    "IPO & Listing"
+    "Funding",
+    "Commerce & D2C"
    ],
    "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "Swara Baby Products Secures SEBI Nod For ₹1,000 Cr IPO",
-   "url": "https://inc42.com/buzz/swara-baby-products-secures-sebi-nod-for-%e2%82%b91000-cr-ipo/",
-   "date": "2026-10-06",
-   "source": "Inc42",
-   "label": "India · Policy & Regulation",
-   "snippet": "Swara Baby Products has secured SEBI approval for its ₹1,000 Cr IPO, including a ₹500 Cr fresh issue and ₹500 Cr OFS",
-   "lead": "Swara Baby Products has received SEBI approval for its proposed ₹1,000 Cr IPO, comprising a ₹500 Cr fresh issue and ₹500 Cr OFS FirstCry parent Brainbees Solutions owns a 76.6% stake in Swara Baby Products and plans to offload shares worth up to ₹300 Cr through the OFS The company plans to use the fresh issue proceeds to fund a new manufacturing facility in Madhya Pradesh, repay debt, and pursue acquisitions",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/neogeo-funding-social-.png",
-   "why": [
-    "IPO & Listing",
-    "Large deal (about $105M)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Policy & Regulation"
-   ],
-   "rank": 7,
    "must_read": false
   },
   {
@@ -580,30 +557,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "Kuku turns profitable ahead of IPO; revenue surges sixfold to Rs 1,484 crore in FY26",
-   "url": "https://www.medianama.com/2026/10/223-kuku-ipo-revenue-surges/",
-   "date": "2026-10-05",
-   "source": "MediaNama",
-   "label": "India · Other",
-   "snippet": "Kuku Technologies swung to a Rs 182.7 crore profit in FY26 from a Rs 152.6 crore loss, as revenue surged sixfold to Rs 1,484.2 crore ahead of its planned IPO.",
-   "lead": "Digital media and entertainment startup Kuku Technologies, the owner of microdrama app Kuku TV and the audio storytelling platform Kuku FM, clocked a net profit of Rs 182.7 crore in the financial year ended March 31, 2026 — a sharp turnaround from a loss of Rs 152.6 crore in the previous fiscal year. The reversal came largely on account of a sixfold jump in its revenue. Revenue from operations jumped to Rs 1,484.2 crore in FY26, ...",
-   "image": "https://www.medianama.com/wp-content/uploads/2026/10/Untitled.jpg",
-   "why": [
-    "IPO & Listing",
-    "Large deal (about $156M)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 9,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -626,7 +580,7 @@
     "Quota / Caps",
     "Japan"
    ],
-   "rank": 10,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -649,7 +603,7 @@
    "tags": [
     "Australia"
    ],
-   "rank": 11,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -672,52 +626,96 @@
     "PR / Settlement",
     "Canada"
    ],
+   "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "Tonbo Imaging Sets IPO Price Band At ₹665-₹700 For ₹852 Cr Issue",
+   "url": "https://inc42.com/buzz/tonbo-imaging-sets-ipo-price-band-at-%e2%82%b9665-%e2%82%b9700-for-%e2%82%b9852-cr-issue/",
+   "date": "2026-10-12",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "The IPO will open for subscription on October 15 and close on October 19, with anchor investor bidding scheduled for October 14.",
+   "lead": "Defence tech company Tonbo Imaging has set a price band of ₹665-₹700 per share for its ₹852.1 Cr IPO, valuing it at ₹4,009.8 Cr at the upper end The IPO will provide an exit opportunity for existing shareholders, with Tonbo receiving no proceeds because the issue consists entirely of an OFS The IPO will open for subscription on October 15 and close on October 19, with anchor investor bidding scheduled for October 14",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Tonbo-Soc.jpg",
+   "why": [
+    "IPO & Listing",
+    "Sizeable deal (about $90M)"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "Zetwerk IPO: Fresh issue size raised to Rs 2,830 crore, OFS grows 49%",
+   "url": "https://economictimes.indiatimes.com/tech/technology/zetwerk-ipo-fresh-issue-size-rises-to-rs-2830-crore-ofs-grows-49/articleshow/134868750.cms",
+   "date": "2026-10-11",
+   "source": "ET Startups",
+   "label": "India · Other",
+   "snippet": "The number of selling shareholders remains unchanged at 24, but eight institutional investors, including Peak XV Partners, Lightspeed Venture Partners, Accel, and Kae Capital, have increased the number of shares they plan to sell. Founders Amrit Acharya and Srinath Ramakkrushnan will be selling the same number of shares, about 14.2 millio",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-28190,resizemode-75,msid-134868750/tech/technology/zetwerk-ipo-fresh-issue-size-rises-to-rs-2830-crore-ofs-grows-49.jpg",
+   "why": [
+    "IPO & Listing",
+    "Large deal (about $298M)"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
    "rank": 12,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Ecommerce firms sell goods worth Rs 24,000 crore in first two days of festive sales: Redseer",
-   "url": "https://economictimes.indiatimes.com/tech/technology/ecommerce-firms-sell-goods-worth-rs-24000-crore-in-first-two-days-of-festive-sales-redseer/articleshow/134868694.cms",
-   "date": "2026-10-11",
-   "source": "ET Startups",
-   "label": "India · Commerce & D2C",
-   "snippet": "Players like Amazon and Flipkart are using their quick commerce arms for sales and increasing their salience on the platform, which saw 4 to 5 times higher GMV than the BAU daily average.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-599602,resizemode-75,msid-134868694/tech/technology/ecommerce-firms-sell-goods-worth-rs-24000-crore-in-first-two-days-of-festive-sales-redseer.jpg",
+   "score": 11,
+   "priority": 85,
+   "title": "Swara Baby Products Secures SEBI Nod For ₹1,000 Cr IPO",
+   "url": "https://inc42.com/buzz/swara-baby-products-secures-sebi-nod-for-%e2%82%b91000-cr-ipo/",
+   "date": "2026-10-06",
+   "source": "Inc42",
+   "label": "India · Policy & Regulation",
+   "snippet": "Swara Baby Products has secured SEBI approval for its ₹1,000 Cr IPO, including a ₹500 Cr fresh issue and ₹500 Cr OFS",
+   "lead": "Swara Baby Products has received SEBI approval for its proposed ₹1,000 Cr IPO, comprising a ₹500 Cr fresh issue and ₹500 Cr OFS FirstCry parent Brainbees Solutions owns a 76.6% stake in Swara Baby Products and plans to offload shares worth up to ₹300 Cr through the OFS The company plans to use the fresh issue proceeds to fund a new manufacturing facility in Madhya Pradesh, repay debt, and pursue acquisitions",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/neogeo-funding-social-.png",
    "why": [
-    "Financials",
-    "Very large figure in headline (about $2,526M: round or valuation)"
+    "IPO & Listing",
+    "Large deal (about $105M)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Financials",
-    "Commerce & D2C"
+    "IPO & Listing",
+    "Policy & Regulation"
    ],
    "rank": 13,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-   "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-   "date": "2026-10-08",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-   "lead": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months Julie Bort 11:19 AM PDT · October 8, 2026 Arena , which originated in 2023 as a research project at UC Berkeley that crowdsourced rankings of AI models, has raised a $200 million Series B round at a $3.1 billion valuation, it said on Thursday. This comes after the company said it reached $100 million in annualized run-rate revenue in June. The round ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
+   "score": 11,
+   "priority": 85,
+   "title": "Kuku turns profitable ahead of IPO; revenue surges sixfold to Rs 1,484 crore in FY26",
+   "url": "https://www.medianama.com/2026/10/223-kuku-ipo-revenue-surges/",
+   "date": "2026-10-05",
+   "source": "MediaNama",
+   "label": "India · Other",
+   "snippet": "Kuku Technologies swung to a Rs 182.7 crore profit in FY26 from a Rs 152.6 crore loss, as revenue surged sixfold to Rs 1,484.2 crore ahead of its planned IPO.",
+   "lead": "Digital media and entertainment startup Kuku Technologies, the owner of microdrama app Kuku TV and the audio storytelling platform Kuku FM, clocked a net profit of Rs 182.7 crore in the financial year ended March 31, 2026 — a sharp turnaround from a loss of Rs 152.6 crore in the previous fiscal year. The reversal came largely on account of a sixfold jump in its revenue. Revenue from operations jumped to Rs 1,484.2 crore in FY26, ...",
+   "image": "https://www.medianama.com/wp-content/uploads/2026/10/Untitled.jpg",
    "why": [
-    "Funding",
-    "Very large figure in headline (about $3,100M: round or valuation)",
+    "IPO & Listing",
+    "Large deal (about $156M)",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Funding",
-    "AI & Deeptech"
+    "IPO & Listing"
    ],
    "rank": 14,
    "must_read": false
