@@ -1,6 +1,6 @@
 {
- "edition": "2026-10-12",
- "built": "2026-10-12 11:58 IST",
+ "edition": "2026-10-13",
+ "built": "2026-10-13 01:31 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,76 +12,118 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22376.0,
-   "change_pct": -0.64,
-   "asof": "12 Oct 11:58 IST"
+   "value": 22520.0,
+   "change_pct": 1.3,
+   "asof": "12 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 71912.0,
-   "change_pct": -0.77,
-   "asof": "12 Oct 11:43 IST"
+   "value": 72472.0,
+   "change_pct": 1.23,
+   "asof": "12 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.79,
-   "change_pct": -1.07,
-   "asof": "12 Oct 11:58 IST"
+   "value": 95.76,
+   "change_pct": -1.1,
+   "asof": "12 Oct 23:40 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 104.43,
-   "change_pct": -0.28,
-   "asof": "12 Oct 11:48 IST"
+   "value": 106.25,
+   "change_pct": 1.46,
+   "asof": "13 Oct 01:21 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4208.0,
-   "change_pct": -0.21,
-   "asof": "12 Oct 11:48 IST"
+   "value": 4192.0,
+   "change_pct": -0.57,
+   "asof": "13 Oct 01:21 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
    "value": 5.24,
-   "change_pct": 0.25,
-   "asof": "10 Oct 00:29 IST"
+   "change_pct": -0.08,
+   "asof": "13 Oct 00:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "Kissht",
-   "tagline": "Listed digital lender (NBFC)",
-   "what": "Lending-tech platform founded in 2015 by Ranvir Singh and Krishnan Vishwanathan. Offers digital personal and business loans up to Rs 5 lakh, health-related insurance products and secured loans against property. Got regulatory approval in July 2026 to distribute mutual funds through subsidiary Invincible Minds.",
+   "company": "Kuku Technologies (Kuku FM)",
+   "tagline": "Audio and microdrama OTT, IPO cleared by SEBI",
+   "what": "Founded in 2018 by Lal Chand Bisu, Vikas Goyal and Vinod Meena. Offers audiobooks, podcasts and original audio shows under Kuku FM, plus microdrama platform Kuku TV and microlearning platform Guru. Content library of 20,000+ titles in seven languages; it claims 1 Cr+ listeners and creators and 400 Mn app downloads across its portfolio.",
    "how": [
-    "The article does not give a revenue split.",
-    "Inferred, not from the article: as an NBFC, its core income is interest and fees on the loans it makes; insurance and mutual fund distribution would add commissions."
+    "The article does not explain the revenue model.",
+    "Not stated: whether income comes from subscriptions, pay-per-content or ads. Check the DRHP when it becomes public."
    ],
-   "watch": "The company did not say how it will use the money. Fresh capital for a lender usually funds loan growth, but that is inference.",
-   "sector": "Fintech",
+   "watch": "Fresh-issue money is planned for tech, AI infrastructure, content production and geographic expansion. Competitors named: Pocket FM, Flick TV, ReelSaga, Miniplix and OTT majors (Amazon, JioHotstar, Zee5).",
+   "sector": "Media, Gaming & Creators",
    "region": "India",
-   "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/"
+   "url": "https://inc42.com/buzz/sebi-greenlights-kuku-technologies-%e2%82%b93500-cr-ipo/"
   },
   "country": {
-   "id": "australia",
-   "name": "Australia",
-   "trend": "Tightening at the edges; employer-sponsored expanding",
-   "pr": "2026-27 permanent program: 185,000 places, 132,240 (over 70%) in the skill stream; about 129,590 places for people already in Australia. Employer-sponsored places rise from 44,000 to 58,040. Time to PR through 482 then 186 was not verified this session; check the Department of Home Affairs.",
-   "citizenship": "About 4 years of residence including 12 months as a permanent resident (general knowledge, not re-verified). Dual citizenship allowed.",
-   "pro": "English-speaking; strong wages (general knowledge).",
-   "con": "Priority goes to people already onshore, so applying from India is harder.",
-   "watch": "Skills in Demand occupation lists"
+   "id": "new-zealand",
+   "name": "New Zealand",
+   "trend": "Loosening (new pathways from 24 Aug 2026)",
+   "pr": "Skilled Work Experience Pathway: skill level 1-3 role, 5 years relevant experience including 2 years in New Zealand at 1.1x the median wage. Trades and Technician Pathway: relevant Level 4+ qualification, 4 years experience including 18 months in NZ at or above the median wage. Applicants generally meet only one wage threshold, the one in force when they started accruing experience.",
+   "citizenship": "About 5 years as a resident (general knowledge, not re-verified). Dual citizenship allowed.",
+   "pro": "Eligibility widened and wage rules simplified in the 2026 reform.",
+   "con": "Small economy and job market; fewer senior finance roles (general knowledge).",
+   "watch": "How INZ implements the August 2026 changes"
   }
  },
  "desks": {
   "Policy": {
-   "total": 181,
+   "total": 188,
    "new_today": 0,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 8,
+     "priority": 62,
+     "title": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13735&Mode=0",
+     "date": "2026-10-07",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Notifications - Reserve Bank of India",
+     "lead": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026 Please refer to paragraph 77(6) (i) of the Reserve Bank of India (All India Financial Institutions (AIFIs) - Prudential Norms on Capital Adequacy) Directions, 2025 , on the requirement for clearing member financial institutions to obtain legal opinion. On a review, it has been decided to amend these ...",
+     "image": null,
+     "why": [
+      "Regulator rulebook change",
+      "Rule change",
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 8,
+     "priority": 62,
+     "title": "Reserve Bank of India (Commercial Banks – Miscellaneous) Amendment Directions, 2026",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13731&Mode=0",
+     "date": "2026-10-07",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Notifications - Reserve Bank of India",
+     "lead": "Reserve Bank of India (Commercial Banks – Miscellaneous) Amendment Directions, 2026 Please refer to Sub-section D of Chapter IV of the Reserve Bank of India (Commercial Banks - Miscellaneous) Directions, 2025 on deferment of option premium. 2. On a review, consequent to the issuance of the Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Amendment Directions, 2026 , and in exercise of the powers conferred by Section ...",
+     "image": null,
+     "why": [
+      "Regulator rulebook change",
+      "Rule change",
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 8,
@@ -121,77 +163,37 @@
      "tags": [
       "Banking & Rates"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 6,
-     "priority": 46,
-     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63746",
-     "date": "2026-10-07",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "",
-     "image": null,
-     "why": [
-      "New law or act",
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 5,
-     "priority": 38,
-     "title": "Union Minister Shri Ashwini Vaishnaw Launches World Bank Group’s ‘World Development Report 2026: The Promise of Artificial Intelligence’ in New Delhi",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320883",
-     "date": "2026-10-08",
-     "source": "PIB",
-     "label": "Banking & Rates",
-     "snippet": "Shri Ashwini Vaishnaw, the Union Minister for Electronics and Information Technology, Railways, and",
-     "lead": "Ministry of Electronics & IT Union Minister Shri Ashwini Vaishnaw Launches World Bank Group’s ‘World Development Report 2026: The Promise of Artificial Intelligence’ in New Delhi Report sets out a framework for developing economies to harness AI for development through adoption, adaptation and advancement IndiaAI Mission, MeitY and the World Bank Group jointly host the India launch; policymakers, development experts and technology ...",
-     "image": null,
-     "why": [
-      "Rates and liquidity"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 561,
-   "new_today": 7,
+   "total": 579,
+   "new_today": 0,
    "items": [
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 77,
-     "title": "Ecommerce firms sell goods worth Rs 24,000 crore in first two days of festive sales: Redseer",
-     "url": "https://economictimes.indiatimes.com/tech/technology/ecommerce-firms-sell-goods-worth-rs-24000-crore-in-first-two-days-of-festive-sales-redseer/articleshow/134868694.cms",
+     "priority": 83,
+     "title": "Zetwerk IPO: Fresh issue size raised to Rs 2,830 crore, OFS grows 49%",
+     "url": "https://economictimes.indiatimes.com/tech/technology/zetwerk-ipo-fresh-issue-size-rises-to-rs-2830-crore-ofs-grows-49/articleshow/134868750.cms",
      "date": "2026-10-11",
      "source": "ET Startups",
-     "label": "India · Commerce & D2C",
-     "snippet": "Players like Amazon and Flipkart are using their quick commerce arms for sales and increasing their salience on the platform, which saw 4 to 5 times higher GMV than the BAU daily average.",
+     "label": "India · Other",
+     "snippet": "The number of selling shareholders remains unchanged at 24, but eight institutional investors, including Peak XV Partners, Lightspeed Venture Partners, Accel, and Kae Capital, have increased the number of shares they plan to sell. Founders Amrit Acharya and Srinath Ramakkrushnan will be selling the same number of shares, about 14.2 millio",
      "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-599602,resizemode-75,msid-134868694/tech/technology/ecommerce-firms-sell-goods-worth-rs-24000-crore-in-first-two-days-of-festive-sales-redseer.jpg",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-28190,resizemode-75,msid-134868750/tech/technology/zetwerk-ipo-fresh-issue-size-rises-to-rs-2830-crore-ofs-grows-49.jpg",
      "why": [
-      "Financials",
-      "Very large figure in headline (about $2,526M: round or valuation)"
+      "IPO & Listing",
+      "Large deal (about $298M)"
      ],
      "tags": [
-      "Financials",
-      "Commerce & D2C"
+      "IPO & Listing"
      ]
     },
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 77,
+     "priority": 83,
      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
      "date": "2026-10-08",
@@ -213,7 +215,7 @@
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 77,
+     "priority": 83,
      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
      "date": "2026-10-08",
@@ -235,7 +237,7 @@
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 77,
+     "priority": 83,
      "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
      "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
      "date": "2026-10-07",
@@ -257,33 +259,34 @@
    ]
   },
   "Immigration": {
-   "total": 886,
-   "new_today": 2,
+   "total": 915,
+   "new_today": 1,
    "items": [
     {
      "desk": "Immigration",
      "score": 6,
-     "priority": 75,
-     "title": "NZ First’s employer work visa reset sounds dramatic. The detail is less revolutionary",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLTdKMVdEZXFobGhpRDVXZVk0UnJUOGZSdEtjaW8zTVpBdHlhVzlNVXRjNFIyMjRsbWpKN0w0YWNUWDV6ODJmU04yVVRDMHYteEwwSHdrbG5hOE9PeG13Y0xSMkFzeWtyTDhwdVFkREN5MlhKa0l6SEcyVl9RcHlGSXkxUVM2eVZVMWZzWVJLTUlxeWZXUTRsT1JUNjNRS1BpRFBLZGhPN294Nms5OWRLU3huUDg3MjI5SUNmUA?oc=5",
-     "date": "2026-10-12",
-     "source": "https://awaaz.co.nz/",
-     "label": "New Zealand",
-     "snippet": "NZ First says it will scrap the Accredited Employer Work Visa. But many of its proposed fixes already exist.",
-     "lead": "",
-     "image": "https://prod-awaaz-mediatech-dam-assets.s3.ap-southeast-2.amazonaws.com/11cfa727-a037-41a8-a6fd-39eb839d0f6a-social_preview_a7479cba-2545-4e2a-af22-a31b53125e20_1791769230859.jpg",
+     "priority": 60,
+     "title": "Japan PM faces calls for immigration cap as she weighs policy on foreigners",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWF3VS1HcWpsME1QR1Y4ZWt2Y1B0c2pSTVJmWTNnLW9uNDN5UWh2Smk0RVYtZ2U4cnE3NDBvZkFzaVBPdEFHMHU1MVdJUzJPaDlhNGEtRURJekk1c2hXajNnUU1fMWFWWHhnV0V0Y0c4WTBnSWxQNkZWQVdPV3NDbkE0TVVhaUZEbHFxV0gxM1RKOWVZUXNkc19LWWFmTkg3UU5zejFiTWtvMnFYaDB0aENGMlZRQ3h2elJQRHNkWHZPQVhyREE?oc=5",
+     "date": "2026-10-10",
+     "source": "Nikkei Asia",
+     "label": "Japan",
+     "snippet": "Government to base plan on population trends, Takaichi says",
+     "lead": "Japan India South Korea Indonesia Taiwan Thailand U.S. East Asia Hong Kong Macao Taiwan Mongolia Japan South Korea North Korea Southeast Asia Thailand Malaysia Singapore Philippines Vietnam Myanmar Cambodia Laos Brunei East Timor South Asia Pakistan Afghanistan Bangladesh Sri Lanka Nepal Bhutan Maldives Central Asia Uzbekistan Turkmenistan Tajikistan Kyrgyzstan Oceania New Zealand Papua New Guinea Pacific Islands Rest of the World ...",
+     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F1%2F2%2F13302188-2-eng-GB%2F116a6fa07443-photo_SXM2026100900004657.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
      "why": [
-      "Affects work visas"
+      "Quota or cap change",
+      "Announces a change"
      ],
      "tags": [
-      "Work visa",
-      "New Zealand"
+      "Quota / Caps",
+      "Japan"
      ]
     },
     {
      "desk": "Immigration",
      "score": 6,
-     "priority": 75,
+     "priority": 60,
      "title": "U.S. visa delay forces senior Korean lawmaker to reroute parliamentary audit trip",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdWhXQUlYeDhWeUpxRk1FVkdEWG5sT2dsWEp6ZGJfYy1tOUlyMXdvWEhSM3loQmk1TEp5clNFWUN4MEg4NngzenRGZkVHaURlWEdicjRxbXphd2lTbXUxa1FwNHNYclBYSDlNeThzRTJDYTlXbTRGSDMyRDkwODFNTm4zMy0tc1JFeVRNbnpWUUM2NG04SWZ4Zi15dGQ5ZDhDNGFwdXJCcGZLWXV6OGlMOTZKek1hVWFYSVpiTXNWei1KcUxHZWNFVQ?oc=5",
      "date": "2026-10-09",
@@ -306,51 +309,8 @@
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 1,
+   "new_today": 0,
    "items": [
-    {
-     "desk": "Advisory",
-     "score": 10,
-     "priority": 77,
-     "title": "Treasury Yields Surge to Multi-Decade Highs as Fed Signals More Rate Hikes; Dollar Gains, Gold Slips",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjl2Ynd6S053RFJsVTMzcDAtMlVhTkFUWm1DTWRTMktkTC1NNXUza2JfTVRpMmhUQ1BzTE9lYk9qVTdZX21FTFN0TGdhb21oTGZ1R1JPLURsT0dDRUM3eGVaQlFmdDdBY2YyMFBNWF92ODJKdTRxeHJxQ0NXMV9vTW1nM291d1JFb2VBM0J5SVJZaVFlT2lRQnlCRzZRdHNrQVFEQ3NwLVpKeXpLcWIxSGN3NkNNc2tFMXNLbVRsano?oc=5",
-     "date": "2026-10-09",
-     "source": "Tekedia",
-     "label": "Gold & Silver",
-     "snippet": "U.S. Treasury yields climbed further on Thursday, with the benchmark 10-year yield approaching levels last seen more than two decades ago as investors absorbed a Federal Reserve warning that interest rates may need to rise again to contain persistent inflation. The move higher in borrowing costs came ahead of a closely watched $22 billion",
-     "lead": "U.S. Treasury yields climbed further on Thursday, with the benchmark 10-year yield approaching levels last seen more than two decades ago as investors absorbed a Federal Reserve warning that interest rates may need to rise again to contain persistent inflation. The move higher in borrowing costs came ahead of a closely watched $22 billion auction of 30-year Treasury bonds, with investors looking for evidence that demand for long-dated ...",
-     "image": "https://www.tekedia.com/wp-content/uploads/2025/06/u.s.-treasury-secretary-scott-bessent.jpg",
-     "why": [
-      "Interest-rate decision",
-      "Precious metals",
-      "Global macro driver",
-      "Sharp market move"
-     ],
-     "tags": [
-      "Gold & Silver"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 10,
-     "priority": 77,
-     "title": "India-US bond yield spread stays near 22-year low despite RBI rate hike",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYnBhTHNETnUtXzk5ZXdwUEpOQ0szdXZ3R1UxcTJObm1uZmdJSWtveFZKTGMyalI3MFRkWFZCamo3aThBbkktelhfczVtb2h1Sk03S2NzOTFfdFFlMXZTbzBvbGtpbmNXSUdBbmZNX3ZpQmdDM1N2dGphLWxncEQzaGo1TjJPTnZtRWFlVFp2UXZpaS1ZNEg0X1Ixa0VXSVJsUC1tUG5zUFdDVk1wUURVV3U2U3F6QmpQYzFaN2ZPNU43YkswX1RUMmptTkk2akpONUI2Z9IB2gFBVV95cUxOdWhoY0pVS1NjY2dObzJJaXNOV0x0SklFV0kzeUJiVE5HVWpGamtlejdqUTNmUGVPUjdwMFN0OXBLdk9odFZ2cUNhY3cwRGlfOEhKOUlmd1hFR3ExdUpZVUlHVkU2alFmTXhfLTNtTkNmTTlQcXJ4RzJJdFRSOTQwSmNNZFFPdDdrb2RNZmVndXVIT3JKWTJJVHkzb1JFUHNnZkNjUkpnVjdrUFhGOE9RLUhQSGdhb2JpYTJ3aTJCTkVLYXNCLUxZVmN0WEFmQm5HY21vYXprSFJPUQ?oc=5",
-     "date": "2026-10-08",
-     "source": "Business Standard",
-     "label": "Debt & Bonds",
-     "snippet": "Faster rise in US Treasury yields is narrowing the gap, potentially deterring foreign investors and keeping the rupee under pressure",
-     "lead": "premium India-US 10-year bond yield spread narrows to 194 basis points, near a 22-year low, as US Treasury yields rise faster than Indian bond yields. | Image- Ajay Mohanty",
-     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/08/thumb/fitandfill/1200X628/1791482125-5173.jpg",
-     "why": [
-      "Regulator: SEBI or RBI",
-      "Interest-rate decision",
-      "Government bond yields"
-     ],
-     "tags": [
-      "Debt & Bonds"
-     ]
-    },
     {
      "desk": "Advisory",
      "score": 10,
@@ -392,6 +352,48 @@
      "tags": [
       "PMS"
      ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 69,
+     "title": "Fed Rate Hike Odds Plunge: Why Wall Street Is Rethinking the October Decision",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT0EyTFllWWpvMWNVbW1BdzlKNl9wWUljcHlSUzY5ZXVWR0xrUlQxX3BGX05jRWgySkxYSTF5TDFtMGREYWtpdkVSaWYtUVI5dld3QXZyemhYaEtZazQzbVo1eTN2WDE4ZWNXTklwQ2RFQ1hXXzNFRU5WY2NLbDAyajExSWJDVEpZX0tEaXBHSmY1d1lEWVNuWW96YnVTd0o1azN6QWVSNm1aNXdkbldaNlEyNmR3THV5azdLQnFBR080eWhx?oc=5",
+     "date": "2026-10-11",
+     "source": "mibolsillo.co",
+     "label": "Global",
+     "snippet": "",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Interest-rate decision",
+      "Global macro driver",
+      "Sharp market move"
+     ],
+     "tags": [
+      "Global"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 69,
+     "title": "SEBI Portfolio Managers Regulations 2026: Complete Regulatory Framework Effective April 2027",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObFFpYnoxSGpEaTdhU2xlaDJ4alp5MEZhNUlxd0FxR2R3U3NzX1JSODZUSmRNT1VJVy1yMU5lcmpPelN2VUR4d2xBLUlidzhnRWxBTWFybUhuTHFLVEJJU29rTVJ3dDRvUzNoQjdwV2FXZE02dllzU0pULTl3UHNXMHJwaXNlTFByZWU1cFhnemo3NEFnY2xubEE3WmF1OXZ6a0E?oc=5",
+     "date": "2026-10-10",
+     "source": "TaxCorp AI",
+     "label": "PMS",
+     "snippet": "Summary The Securities and Exchange Board of India (Portfolio Managers) Regulations, 2026, notified on 7 October 2026 and effective from 1 April 2027,...",
+     "lead": "The Securities and Exchange Board of India has issued the Securities and Exchange Board of India (Portfolio Managers) Regulations, 2026, through a formal notification dated 7 October 2026 (F. No. SEBI/LAD-DOP/2026/322). These regulations, framed under Section 30(1) read with Section 11(1) , Section 11(2)(b) and Section 12(1) of the Securities and Exchange Board of India Act, 1992 (15 of 1992), will come into force on 1 April 2027 , ...",
+     "image": null,
+     "why": [
+      "PMS news",
+      "Regulator: SEBI or RBI",
+      "Rule or framework change"
+     ],
+     "tags": [
+      "PMS"
+     ]
     }
    ]
   }
@@ -399,60 +401,36 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 13,
+   "score": 12,
    "priority": 100,
-   "title": "Zetwerk Sets IPO Price Band At ₹143-₹151 For ₹5,012 Cr Issue",
-   "url": "https://inc42.com/buzz/zetwerk-sets-ipo-price-band-at-%e2%82%b9143-%e2%82%b9151-for-%e2%82%b95012-cr-issue/",
+   "title": "Zetwerk sets IPO price band at Rs 143-151, aims to raise Rs 5,012 Cr",
+   "url": "https://yourstory.com/2026/10/zetwer-sets-ipo-price-band-rs-143-151-to-raise-rs-5012-cr",
    "date": "2026-10-12",
-   "source": "Inc42",
-   "label": "India · SaaS & Enterprise",
-   "snippet": "Zetwerk has increased the fresh issue from ₹2,600 Cr outlined in its UDRHP. The OFS has also grown 49.2% from about 9.7 Cr shares.",
-   "lead": "Zetwerk has set a price band of ₹143-₹151 per share for its ₹5,012.3 Cr IPO, targeting a post-issue valuation of ₹25,583 Cr (about $2.7 Bn) at the upper end. The startup plans to use ₹2,160 Cr, or about 76% of its fresh issue, to repay borrowings, making debt reduction the largest use of the capital raised. The IPO will open for subscription on October 15 and close on October 19, with anchor investor bidding scheduled for October 14.",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/Zetwerk-IPO-social.jpg",
+   "source": "YourStory",
+   "label": "India · Other",
+   "snippet": "Zetwerk has expanded the size of its IPO and is seeking a valuation of Rs 25,583 crore.",
+   "lead": "Zetwerk sets IPO price band at Rs 143-151, aims to raise Rs 5,012 Cr Zetwerk has expanded the size of its IPO and is seeking a valuation of Rs 25,583 crore. Team YS 17339 Stories Monday October 12, 2026 , 2 min Read Zetwerk, the Bengaluru-headquartered manufacturing marketplace, has set a price band of Rs 143–151 per share for its initial public offering (IPO), targeting a valuation of Rs 25,583 crore. The IPO comprises a fresh issue ...",
+   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/IPOStock31600x900-1791787437744.jpg",
    "why": [
     "IPO & Listing",
     "Very large figure in headline (about $528M: round or valuation)"
    ],
    "tags": [
-    "IPO & Listing",
-    "SaaS & Enterprise"
+    "IPO & Listing"
    ],
    "rank": 1,
    "must_read": true
   },
   {
    "desk": "Immigration",
-   "score": 8,
+   "score": 10,
    "priority": 100,
-   "title": "Finland to introduce citizenship test for foreign applicants in 2027",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSV9TdnFyanQ5TkhoNVU1TzBveDdYaUtnSEU4c1FCdVM3bDdnWko1d1ZrVGNmc0RaOWx2M2kyWDZoV3ZtTXlnOXZpTmxVQWw0WnNzd01Bc3dzQnhqSGQzTklIVVNfeEF5UldRckpnQnRheUx6aTVpZXRCUUZIOEFhc2p5b25wNDZvdXNERHgtYWFhM0xzeFE?oc=5",
-   "date": "2026-10-11",
-   "source": "Scandasia",
-   "label": "Finland",
-   "snippet": "Finland to introduce citizenship test for foreign applicants in 2027 is an Article written by Scandasia, the only website, magazine and online publication that serves all the expats from Denmark, Sweden, Norway and Finland living in Southeast Asia and China.",
-   "lead": "Foreign residents applying for Finnish citizenship will face a new citizenship test from March 2027 as Finland introduces stricter requirements for becoming a citizen. The Finnish Immigration Service (Migri) announced on 9 October that preparations for the new test are underway, with the first examinations expected to take place in March next year. The requirement will apply to applicants aged between 18 and 64 who submit their ...",
-   "image": "https://scandasia.com/wp-content/uploads/2026/10/finntest.jpg",
-   "why": [
-    "Affects citizenship",
-    "Announces a change"
-   ],
-   "tags": [
-    "Citizenship",
-    "Finland"
-   ],
-   "rank": 2,
-   "must_read": true
-  },
-  {
-   "desk": "Immigration",
-   "score": 8,
-   "priority": 100,
-   "title": "Form: Apply to the EU Settlement Scheme by post",
-   "url": "https://www.gov.uk/government/publications/apply-to-the-eu-settlement-scheme-by-post-or-email",
-   "date": "2026-10-08",
+   "title": "Guidance: EU Settlement Scheme: caseworker guidance",
+   "url": "https://www.gov.uk/government/publications/eu-settlement-scheme-caseworker-guidance",
+   "date": "2026-10-12",
    "source": "GOV.UK (UK Visas and Immigration)",
    "label": "United Kingdom",
-   "snippet": "Forms to apply to the EU Settlement Scheme if you are unable to use the online application process.",
+   "snippet": "Immigration staff guidance on applications under the EU Settlement Scheme.",
    "lead": "Navigation menu Menu Menu Services and information Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions ...",
    "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
    "why": [
@@ -463,7 +441,7 @@
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 3,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -487,7 +465,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 4,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -510,12 +488,35 @@
    "tags": [
     "Other Policy"
    ],
+   "rank": 4,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 92,
+   "title": "RDI Fund Announces First Cohort Of 19 Fund Managers, Eyes Deploying ₹7,131 Cr To Strengthen Deeptech Startups",
+   "url": "https://inc42.com/buzz/rdi-fund-announces-first-cohort-of-19-fund-managers-eyes-deploying-%e2%82%b97131-cr-to-strengthen-deeptech-startups/",
+   "date": "2026-10-12",
+   "source": "Inc42",
+   "label": "India · AI & Deeptech",
+   "snippet": "Central government-backed ₹1 Lakh Cr Research, Development and Innovation (RDI) Fund has approved 19 second-level fund managers (SLFMs) with a…",
+   "lead": "The Ministry of Science and Technology’s Empowered Group of Secretaries (EGoS) approved 14 alternative investment funds (AIFs) and five focused research organisations (FROs) for this purpose earlier this month, the ministry announced. The selected entities will channel capital from the RDI Fund to eligible technology enterprises undertaking research, development and innovation activities at Technology Readiness Level (TRL) 4 and above. ...",
+   "image": null,
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $751M: round or valuation)"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
    "rank": 5,
    "must_read": true
   },
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 92,
    "title": "Ecomm festive sales hit Rs 24,000 Cr in two days; VC funding drops as large deals dry up",
    "url": "https://yourstory.com/2026/10/ecomm-festive-sales-hit-rs-24000-cr-in-two-days",
@@ -534,6 +535,54 @@
     "Commerce & D2C"
    ],
    "rank": 6,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 12,
+   "priority": 92,
+   "title": "Securities and Exchange Board of India (Mutual Funds) (Second Amendment) Regulations, 2026",
+   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-mutual-funds-second-amendment-regulations-2026_105153.html",
+   "date": "2026-10-10",
+   "source": "SEBI",
+   "label": "Markets & Regulation",
+   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change",
+    "Touches financial markets",
+    "Regulator: SEBI"
+   ],
+   "tags": [
+    "Markets & Regulation"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 92,
+   "title": "Swara Baby Products Secures SEBI Nod For ₹1,000 Cr IPO",
+   "url": "https://inc42.com/buzz/swara-baby-products-secures-sebi-nod-for-%e2%82%b91000-cr-ipo/",
+   "date": "2026-10-06",
+   "source": "Inc42",
+   "label": "India · Policy & Regulation",
+   "snippet": "Swara Baby Products has secured SEBI approval for its ₹1,000 Cr IPO, including a ₹500 Cr fresh issue and ₹500 Cr OFS",
+   "lead": "Swara Baby Products has received SEBI approval for its proposed ₹1,000 Cr IPO, comprising a ₹500 Cr fresh issue and ₹500 Cr OFS FirstCry parent Brainbees Solutions owns a 76.6% stake in Swara Baby Products and plans to offload shares worth up to ₹300 Cr through the OFS The company plans to use the fresh issue proceeds to fund a new manufacturing facility in Madhya Pradesh, repay debt, and pursue acquisitions",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/neogeo-funding-social-.png",
+   "why": [
+    "IPO & Listing",
+    "Large deal (about $105M)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Policy & Regulation"
+   ],
+   "rank": 8,
    "must_read": false
   },
   {
@@ -557,82 +606,35 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 88,
-   "title": "Japan PM faces calls for immigration cap as she weighs policy on foreigners",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWF3VS1HcWpsME1QR1Y4ZWt2Y1B0c2pSTVJmWTNnLW9uNDN5UWh2Smk0RVYtZ2U4cnE3NDBvZkFzaVBPdEFHMHU1MVdJUzJPaDlhNGEtRURJekk1c2hXajNnUU1fMWFWWHhnV0V0Y0c4WTBnSWxQNkZWQVdPV3NDbkE0TVVhaUZEbHFxV0gxM1RKOWVZUXNkc19LWWFmTkg3UU5zejFiTWtvMnFYaDB0aENGMlZRQ3h2elJQRHNkWHZPQVhyREE?oc=5",
-   "date": "2026-10-10",
-   "source": "Nikkei Asia",
-   "label": "Japan",
-   "snippet": "Government to base plan on population trends, Takaichi says",
-   "lead": "Japan India South Korea Indonesia Taiwan Thailand U.S. East Asia Hong Kong Macao Taiwan Mongolia Japan South Korea North Korea Southeast Asia Thailand Malaysia Singapore Philippines Vietnam Myanmar Cambodia Laos Brunei East Timor South Asia Pakistan Afghanistan Bangladesh Sri Lanka Nepal Bhutan Maldives Central Asia Uzbekistan Turkmenistan Tajikistan Kyrgyzstan Oceania New Zealand Papua New Guinea Pacific Islands Rest of the World ...",
-   "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F1%2F2%2F13302188-2-eng-GB%2F116a6fa07443-photo_SXM2026100900004657.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
-   "why": [
-    "Quota or cap change",
-    "Announces a change"
-   ],
-   "tags": [
-    "Quota / Caps",
-    "Japan"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 88,
-   "title": "'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN1Y0NmhScExoSGhOZzJmbk1FY25fSGhKU0JqaXJaZmtSWTVKVGZOWGVQX3B5S0w3Sk9NZ19CbVljOFh0SXpkcXZDY1NzMlpxN3JZbHhiZnBhVFJQNlRzN2RWWElGNm5xZDBIVWtocjdzWUd0d0pjQTlLb0J3ZmNjVVhXLUxINFdxQk92SXZ3aFFROVNBTVcxdVBDbG9hZ0Z0QThIVFV6SjVLUlNsRjI5VEw3b092VWtmd3F4VmZGYUZHSi1QaTJiMWMyRVRCUm1manfSAdcBQVVfeXFMTmM2NVAzWXFnLWNETEUtVUVJWWRGUzRpRERacmZ2WjdsV1JjaUxhUHpuejVpN3h6TWJiNGhIX3prbUJXNXNlR0hwWG00b2RQampmRHZYbDJoRDJKOHN1bWpXZXNmUXo5QVU5cXNDdlhUcFVOU1I1VnRiQ1NtMGhpUmR6amRPTmM2N2VnVVFfNFFFZEJCLW9TbS03dncxZFM0SHFHUF92RTY4SW4xT2xwSjNvenI5Z0dYRTBMQW9uU0p1bGlnd0ROTnFtYUhGa3RQeEVwd093ZzQ?oc=5",
-   "date": "2026-10-06",
-   "source": "WION",
-   "label": "Australia",
-   "snippet": "Indians planning to move to Australia could face tighter opportunities if the country's conservative opposition comes to power. Opposition Leader Angus Taylor has unveiled the \"biggest cut to immigration\" in history. Here's all you need to know.",
-   "lead": "Live TV LOGIN v logout Live TV Latest Gravitas World India Entertainment Hollywood Bollywood Sports Opinions videos Photos TV Shows Mission Sustainability Wion / World / 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians Edited By Moohita Kaur Garg Published: Oct 06, 2026, 14:13 IST | ...",
-   "image": "https://cdn3.wionews.com/prod/wion/images/2026/20261006/image-1791274946407.png?imwidth=1200&imheight=900",
-   "why": [
-    "Announces a change",
-    "Major story (9 headlines that day)",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Australia"
-   ],
    "rank": 9,
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 88,
-   "title": "Haitians affected by termination of U.S. protected status eye six-month route to Canadian permanent residence",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVVRUcXRzSzNSN1MzVmtPdjFMR1JOQ3ZLQ0o2Um5KczBJRGhfRkUxUW9WR3NMVUFaaElzX09JWmpxT0otWi1VRGd4eWJCNTZ3bGNQU1VZamdBb1JfNGhkcU8wY293T3JJbEs0d3g1cDFWb1pkdTJFa0Fzc0tVcGRtV2dua3pESUtfMTRZU0VqSFlnaEFaMmNBZUpIQUw2djZkLTczcC1DZERoMnl1NG1hUXZMb2xPMG1vdkxTNmRXZzZYVGhQbm1qSEItOWJFdWRXUFJRdG0xal9WcmRTQ1lDOElDd2xhQThX0gHuAUFVX3lxTE5fcklHZVpLU1pKdmstWVFZLVhBUTVkNm0wSnlQamNpMWtVRXlNZXNScnRxUTNCNzlsaFRqd1ppcUxRdFVmeWNLY3VfVFhPWFByVXlRMmRLOGxabFBWNFJZYUliZzJhU3IwT0o0WURVc0ItYnlVS25XZGdxT2N2b3pNWHUzUmg3cE53TG5BMlpCVU5ucXhUVG11M3VTNHktdkJ5bVREdktCQUpEMWRtRjhkcjRmRTFoX0JYX25LN2dXaV90OWFYZi0tVGdCTUtkS0cwWVpSQ2pTMy1tdVRPUHB2Y1BUQ09Xb0lRTlgtQXc?oc=5",
-   "date": "2026-10-06",
-   "source": "CIC News",
-   "label": "Canada",
-   "snippet": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Check Your Eligibili",
-   "lead": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Express Entry awards additional points to candidates with French language skills, and includes larger selection rounds ...",
-   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/Haitians-eye-six-month-Canadian-PR.jpg",
+   "desk": "Startups",
+   "score": 10,
+   "priority": 83,
+   "title": "Tonbo Imaging’s Rs 852 Cr IPO offers investor exit",
+   "url": "https://yourstory.com/2026/10/tonbo-imagings-rs-852-crore-ipo-offers-investor-exit",
+   "date": "2026-10-12",
+   "source": "YourStory",
+   "label": "India · Other",
+   "snippet": "The Rs 852 crore all-offer-for-sale IPO comes as falling exports, weaker profits and negative operating cash flow temper growth prospects backed by a sizeable order book.",
+   "lead": "Tonbo Imaging’s Rs 852 Cr IPO offers investor exit The Rs 852 crore all-offer-for-sale IPO comes as falling exports, weaker profits and negative operating cash flow temper growth prospects backed by a sizeable order book. Team YS 17339 Stories Monday October 12, 2026 , 3 min Read Tonbo Imaging India will open its Rs 852 crore initial public offering (IPO) on October 15, with a price band of Rs 665-700 per share. The issue comprises ...",
+   "image": "https://images.yourstory.com/cs/2/51937da0260011eebbfe67c5178cf4be/IPOGenericImages-04-1734081216950.jpg",
    "why": [
-    "Affects permanent residence",
-    "Major story (9 headlines that day)"
+    "IPO & Listing",
+    "Sizeable deal (about $90M)"
    ],
    "tags": [
-    "PR / Settlement",
-    "Canada"
+    "IPO & Listing"
    ],
    "rank": 10,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 11,
-   "priority": 85,
+   "score": 10,
+   "priority": 83,
    "title": "Tonbo Imaging Sets IPO Price Band At ₹665-₹700 For ₹852 Cr Issue",
    "url": "https://inc42.com/buzz/tonbo-imaging-sets-ipo-price-band-at-%e2%82%b9665-%e2%82%b9700-for-%e2%82%b9852-cr-issue/",
    "date": "2026-10-12",
@@ -652,118 +654,48 @@
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "Zetwerk IPO: Fresh issue size raised to Rs 2,830 crore, OFS grows 49%",
-   "url": "https://economictimes.indiatimes.com/tech/technology/zetwerk-ipo-fresh-issue-size-rises-to-rs-2830-crore-ofs-grows-49/articleshow/134868750.cms",
-   "date": "2026-10-11",
-   "source": "ET Startups",
-   "label": "India · Other",
-   "snippet": "The number of selling shareholders remains unchanged at 24, but eight institutional investors, including Peak XV Partners, Lightspeed Venture Partners, Accel, and Kae Capital, have increased the number of shares they plan to sell. Founders Amrit Acharya and Srinath Ramakkrushnan will be selling the same number of shares, about 14.2 millio",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-28190,resizemode-75,msid-134868750/tech/technology/zetwerk-ipo-fresh-issue-size-rises-to-rs-2830-crore-ofs-grows-49.jpg",
+   "desk": "Immigration",
+   "score": 8,
+   "priority": 80,
+   "title": "NZ First to abolish Accredited Employer Work Visa",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamFzRFh2T25mNTJkRWkzVXU0ZmlybjlTX1ZJVXAtYkVyUGZGWk9ndnI2eTEyWWdfYmxYRU9BMmdfR3dwSzJpTEp0Y1JGcUV1aWZWYUZqeGlNVGhWbHk2Zm5kY3BrMHNQMFZyWHd5enAtOUl2aUZCXzB1UVJRV0lKa1RDUkk?oc=5",
+   "date": "2026-10-12",
+   "source": "Indian Newslink",
+   "label": "New Zealand",
+   "snippet": "NZ First to abolish Accredited Employer Work Visa",
+   "lead": "Skilled Work Visa proposal raises questions for migrants and employers New Zealand First has placed migrant employment at the centre of the election campaign, promising to dismantle the Accredited Employer Work Visa (AEWV) system and replace it with a more restrictive arrangement designed around verified labour shortages. The proposal, announced on October 11, 2026, at a public meeting in Dunedin, could have far-reaching consequences ...",
+   "image": "https://admin.indiannewslink.co.nz/uploads/NZ_First_to_abolish_Main_Banner_5eba64db85.png",
    "why": [
-    "IPO & Listing",
-    "Large deal (about $298M)"
+    "Affects work visas",
+    "Announces a change"
    ],
    "tags": [
-    "IPO & Listing"
+    "Work visa",
+    "New Zealand"
    ],
    "rank": 12,
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "Swara Baby Products Secures SEBI Nod For ₹1,000 Cr IPO",
-   "url": "https://inc42.com/buzz/swara-baby-products-secures-sebi-nod-for-%e2%82%b91000-cr-ipo/",
-   "date": "2026-10-06",
-   "source": "Inc42",
-   "label": "India · Policy & Regulation",
-   "snippet": "Swara Baby Products has secured SEBI approval for its ₹1,000 Cr IPO, including a ₹500 Cr fresh issue and ₹500 Cr OFS",
-   "lead": "Swara Baby Products has received SEBI approval for its proposed ₹1,000 Cr IPO, comprising a ₹500 Cr fresh issue and ₹500 Cr OFS FirstCry parent Brainbees Solutions owns a 76.6% stake in Swara Baby Products and plans to offload shares worth up to ₹300 Cr through the OFS The company plans to use the fresh issue proceeds to fund a new manufacturing facility in Madhya Pradesh, repay debt, and pursue acquisitions",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/neogeo-funding-social-.png",
-   "why": [
-    "IPO & Listing",
-    "Large deal (about $105M)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Policy & Regulation"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "Kuku turns profitable ahead of IPO; revenue surges sixfold to Rs 1,484 crore in FY26",
-   "url": "https://www.medianama.com/2026/10/223-kuku-ipo-revenue-surges/",
-   "date": "2026-10-05",
-   "source": "MediaNama",
-   "label": "India · Other",
-   "snippet": "Kuku Technologies swung to a Rs 182.7 crore profit in FY26 from a Rs 152.6 crore loss, as revenue surged sixfold to Rs 1,484.2 crore ahead of its planned IPO.",
-   "lead": "Digital media and entertainment startup Kuku Technologies, the owner of microdrama app Kuku TV and the audio storytelling platform Kuku FM, clocked a net profit of Rs 182.7 crore in the financial year ended March 31, 2026 — a sharp turnaround from a loss of Rs 152.6 crore in the previous fiscal year. The reversal came largely on account of a sixfold jump in its revenue. Revenue from operations jumped to Rs 1,484.2 crore in FY26, ...",
-   "image": "https://www.medianama.com/wp-content/uploads/2026/10/Untitled.jpg",
-   "why": [
-    "IPO & Listing",
-    "Large deal (about $156M)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
+   "desk": "Policy",
    "score": 10,
    "priority": 77,
-   "title": "Fed Rate Hike Odds Plunge: Why Wall Street Is Rethinking the October Decision",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT0EyTFllWWpvMWNVbW1BdzlKNl9wWUljcHlSUzY5ZXVWR0xrUlQxX3BGX05jRWgySkxYSTF5TDFtMGREYWtpdkVSaWYtUVI5dld3QXZyemhYaEtZazQzbVo1eTN2WDE4ZWNXTklwQ2RFQ1hXXzNFRU5WY2NLbDAyajExSWJDVEpZX0tEaXBHSmY1d1lEWVNuWW96YnVTd0o1azN6QWVSNm1aNXdkbldaNlEyNmR3THV5azdLQnFBR080eWhx?oc=5",
-   "date": "2026-10-11",
-   "source": "mibolsillo.co",
-   "label": "Global",
-   "snippet": "",
+   "title": "Securities and Exchange Board of India (Portfolio Managers) Regulations, 2026 (With effect from April 1, 2027)\"",
+   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-portfolio-managers-regulations-2026-with-effect-from-april-1-2027-_105159.html",
+   "date": "2026-10-12",
+   "source": "SEBI",
+   "label": "Markets & Regulation",
+   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
    "lead": "",
    "image": null,
    "why": [
-    "Interest-rate decision",
-    "Global macro driver",
-    "Sharp market move"
+    "Regulator rulebook change",
+    "Regulator: SEBI"
    ],
    "tags": [
-    "Global"
+    "Markets & Regulation"
    ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 77,
-   "title": "SEBI Portfolio Managers Regulations 2026: Complete Regulatory Framework Effective April 2027",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObFFpYnoxSGpEaTdhU2xlaDJ4alp5MEZhNUlxd0FxR2R3U3NzX1JSODZUSmRNT1VJVy1yMU5lcmpPelN2VUR4d2xBLUlidzhnRWxBTWFybUhuTHFLVEJJU29rTVJ3dDRvUzNoQjdwV2FXZE02dllzU0pULTl3UHNXMHJwaXNlTFByZWU1cFhnemo3NEFnY2xubEE3WmF1OXZ6a0E?oc=5",
-   "date": "2026-10-10",
-   "source": "TaxCorp AI",
-   "label": "PMS",
-   "snippet": "Summary The Securities and Exchange Board of India (Portfolio Managers) Regulations, 2026, notified on 7 October 2026 and effective from 1 April 2027,...",
-   "lead": "The Securities and Exchange Board of India has issued the Securities and Exchange Board of India (Portfolio Managers) Regulations, 2026, through a formal notification dated 7 October 2026 (F. No. SEBI/LAD-DOP/2026/322). These regulations, framed under Section 30(1) read with Section 11(1) , Section 11(2)(b) and Section 12(1) of the Securities and Exchange Board of India Act, 1992 (15 of 1992), will come into force on 1 April 2027 , ...",
-   "image": null,
-   "why": [
-    "PMS news",
-    "Regulator: SEBI or RBI",
-    "Rule or framework change"
-   ],
-   "tags": [
-    "PMS"
-   ],
-   "rank": 16,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -787,7 +719,54 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 17,
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 77,
+   "title": "Treasury Yields Surge to Multi-Decade Highs as Fed Signals More Rate Hikes; Dollar Gains, Gold Slips",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjl2Ynd6S053RFJsVTMzcDAtMlVhTkFUWm1DTWRTMktkTC1NNXUza2JfTVRpMmhUQ1BzTE9lYk9qVTdZX21FTFN0TGdhb21oTGZ1R1JPLURsT0dDRUM3eGVaQlFmdDdBY2YyMFBNWF92ODJKdTRxeHJxQ0NXMV9vTW1nM291d1JFb2VBM0J5SVJZaVFlT2lRQnlCRzZRdHNrQVFEQ3NwLVpKeXpLcWIxSGN3NkNNc2tFMXNLbVRsano?oc=5",
+   "date": "2026-10-09",
+   "source": "Tekedia",
+   "label": "Gold & Silver",
+   "snippet": "U.S. Treasury yields climbed further on Thursday, with the benchmark 10-year yield approaching levels last seen more than two decades ago as investors absorbed a Federal Reserve warning that interest rates may need to rise again to contain persistent inflation. The move higher in borrowing costs came ahead of a closely watched $22 billion",
+   "lead": "U.S. Treasury yields climbed further on Thursday, with the benchmark 10-year yield approaching levels last seen more than two decades ago as investors absorbed a Federal Reserve warning that interest rates may need to rise again to contain persistent inflation. The move higher in borrowing costs came ahead of a closely watched $22 billion auction of 30-year Treasury bonds, with investors looking for evidence that demand for long-dated ...",
+   "image": "https://www.tekedia.com/wp-content/uploads/2025/06/u.s.-treasury-secretary-scott-bessent.jpg",
+   "why": [
+    "Interest-rate decision",
+    "Precious metals",
+    "Global macro driver",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Gold & Silver"
+   ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 77,
+   "title": "India-US bond yield spread stays near 22-year low despite RBI rate hike",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYnBhTHNETnUtXzk5ZXdwUEpOQ0szdXZ3R1UxcTJObm1uZmdJSWtveFZKTGMyalI3MFRkWFZCamo3aThBbkktelhfczVtb2h1Sk03S2NzOTFfdFFlMXZTbzBvbGtpbmNXSUdBbmZNX3ZpQmdDM1N2dGphLWxncEQzaGo1TjJPTnZtRWFlVFp2UXZpaS1ZNEg0X1Ixa0VXSVJsUC1tUG5zUFdDVk1wUURVV3U2U3F6QmpQYzFaN2ZPNU43YkswX1RUMmptTkk2akpONUI2Z9IB2gFBVV95cUxOdWhoY0pVS1NjY2dObzJJaXNOV0x0SklFV0kzeUJiVE5HVWpGamtlejdqUTNmUGVPUjdwMFN0OXBLdk9odFZ2cUNhY3cwRGlfOEhKOUlmd1hFR3ExdUpZVUlHVkU2alFmTXhfLTNtTkNmTTlQcXJ4RzJJdFRSOTQwSmNNZFFPdDdrb2RNZmVndXVIT3JKWTJJVHkzb1JFUHNnZkNjUkpnVjdrUFhGOE9RLUhQSGdhb2JpYTJ3aTJCTkVLYXNCLUxZVmN0WEFmQm5HY21vYXprSFJPUQ?oc=5",
+   "date": "2026-10-08",
+   "source": "Business Standard",
+   "label": "Debt & Bonds",
+   "snippet": "Faster rise in US Treasury yields is narrowing the gap, potentially deterring foreign investors and keeping the rupee under pressure",
+   "lead": "premium India-US 10-year bond yield spread narrows to 194 basis points, near a 22-year low, as US Treasury yields rise faster than Indian bond yields. | Image- Ajay Mohanty",
+   "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/08/thumb/fitandfill/1200X628/1791482125-5173.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Government bond yields"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 16,
    "must_read": false
   },
   {
@@ -811,7 +790,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 18,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -833,7 +812,76 @@
    "tags": [
     "Infrastructure & Transport"
    ],
+   "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 70,
+   "title": "Finland to introduce citizenship test for foreign applicants in 2027",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSV9TdnFyanQ5TkhoNVU1TzBveDdYaUtnSEU4c1FCdVM3bDdnWko1d1ZrVGNmc0RaOWx2M2kyWDZoV3ZtTXlnOXZpTmxVQWw0WnNzd01Bc3dzQnhqSGQzTklIVVNfeEF5UldRckpnQnRheUx6aTVpZXRCUUZIOEFhc2p5b25wNDZvdXNERHgtYWFhM0xzeFE?oc=5",
+   "date": "2026-10-11",
+   "source": "Scandasia",
+   "label": "Finland",
+   "snippet": "Finland to introduce citizenship test for foreign applicants in 2027 is an Article written by Scandasia, the only website, magazine and online publication that serves all the expats from Denmark, Sweden, Norway and Finland living in Southeast Asia and China.",
+   "lead": "Foreign residents applying for Finnish citizenship will face a new citizenship test from March 2027 as Finland introduces stricter requirements for becoming a citizen. The Finnish Immigration Service (Migri) announced on 9 October that preparations for the new test are underway, with the first examinations expected to take place in March next year. The requirement will apply to applicants aged between 18 and 64 who submit their ...",
+   "image": "https://scandasia.com/wp-content/uploads/2026/10/finntest.jpg",
+   "why": [
+    "Affects citizenship",
+    "Announces a change"
+   ],
+   "tags": [
+    "Citizenship",
+    "Finland"
+   ],
    "rank": 19,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 70,
+   "title": "'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN1Y0NmhScExoSGhOZzJmbk1FY25fSGhKU0JqaXJaZmtSWTVKVGZOWGVQX3B5S0w3Sk9NZ19CbVljOFh0SXpkcXZDY1NzMlpxN3JZbHhiZnBhVFJQNlRzN2RWWElGNm5xZDBIVWtocjdzWUd0d0pjQTlLb0J3ZmNjVVhXLUxINFdxQk92SXZ3aFFROVNBTVcxdVBDbG9hZ0Z0QThIVFV6SjVLUlNsRjI5VEw3b092VWtmd3F4VmZGYUZHSi1QaTJiMWMyRVRCUm1manfSAdcBQVVfeXFMTmM2NVAzWXFnLWNETEUtVUVJWWRGUzRpRERacmZ2WjdsV1JjaUxhUHpuejVpN3h6TWJiNGhIX3prbUJXNXNlR0hwWG00b2RQampmRHZYbDJoRDJKOHN1bWpXZXNmUXo5QVU5cXNDdlhUcFVOU1I1VnRiQ1NtMGhpUmR6amRPTmM2N2VnVVFfNFFFZEJCLW9TbS03dncxZFM0SHFHUF92RTY4SW4xT2xwSjNvenI5Z0dYRTBMQW9uU0p1bGlnd0ROTnFtYUhGa3RQeEVwd093ZzQ?oc=5",
+   "date": "2026-10-06",
+   "source": "WION",
+   "label": "Australia",
+   "snippet": "Indians planning to move to Australia could face tighter opportunities if the country's conservative opposition comes to power. Opposition Leader Angus Taylor has unveiled the \"biggest cut to immigration\" in history. Here's all you need to know.",
+   "lead": "Live TV LOGIN v logout Live TV Latest Gravitas World India Entertainment Hollywood Bollywood Sports Opinions videos Photos TV Shows Mission Sustainability Wion / World / 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians Edited By Moohita Kaur Garg Published: Oct 06, 2026, 14:13 IST | ...",
+   "image": "https://cdn3.wionews.com/prod/wion/images/2026/20261006/image-1791274946407.png?imwidth=1200&imheight=900",
+   "why": [
+    "Announces a change",
+    "Major story (9 headlines that day)",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Australia"
+   ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 70,
+   "title": "Haitians affected by termination of U.S. protected status eye six-month route to Canadian permanent residence",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVVRUcXRzSzNSN1MzVmtPdjFMR1JOQ3ZLQ0o2Um5KczBJRGhfRkUxUW9WR3NMVUFaaElzX09JWmpxT0otWi1VRGd4eWJCNTZ3bGNQU1VZamdBb1JfNGhkcU8wY293T3JJbEs0d3g1cDFWb1pkdTJFa0Fzc0tVcGRtV2dua3pESUtfMTRZU0VqSFlnaEFaMmNBZUpIQUw2djZkLTczcC1DZERoMnl1NG1hUXZMb2xPMG1vdkxTNmRXZzZYVGhQbm1qSEItOWJFdWRXUFJRdG0xal9WcmRTQ1lDOElDd2xhQThX0gHuAUFVX3lxTE5fcklHZVpLU1pKdmstWVFZLVhBUTVkNm0wSnlQamNpMWtVRXlNZXNScnRxUTNCNzlsaFRqd1ppcUxRdFVmeWNLY3VfVFhPWFByVXlRMmRLOGxabFBWNFJZYUliZzJhU3IwT0o0WURVc0ItYnlVS25XZGdxT2N2b3pNWHUzUmg3cE53TG5BMlpCVU5ucXhUVG11M3VTNHktdkJ5bVREdktCQUpEMWRtRjhkcjRmRTFoX0JYX25LN2dXaV90OWFYZi0tVGdCTUtkS0cwWVpSQ2pTMy1tdVRPUHB2Y1BUQ09Xb0lRTlgtQXc?oc=5",
+   "date": "2026-10-06",
+   "source": "CIC News",
+   "label": "Canada",
+   "snippet": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Check Your Eligibili",
+   "lead": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Express Entry awards additional points to candidates with French language skills, and includes larger selection rounds ...",
+   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/Haitians-eye-six-month-Canadian-PR.jpg",
+   "why": [
+    "Affects permanent residence",
+    "Major story (9 headlines that day)"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Canada"
+   ],
+   "rank": 21,
    "must_read": false
   },
   {
@@ -855,7 +903,7 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 20,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -872,52 +920,6 @@
    "image": null,
    "why": [
     "Rates and liquidity",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 62,
-   "title": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13735&Mode=0",
-   "date": "2026-10-07",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026 Please refer to paragraph 77(6) (i) of the Reserve Bank of India (All India Financial Institutions (AIFIs) - Prudential Norms on Capital Adequacy) Directions, 2025 , on the requirement for clearing member financial institutions to obtain legal opinion. On a review, it has been decided to amend these ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 62,
-   "title": "Reserve Bank of India (Commercial Banks – Miscellaneous) Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13731&Mode=0",
-   "date": "2026-10-07",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Commercial Banks – Miscellaneous) Amendment Directions, 2026 Please refer to Sub-section D of Chapter IV of the Reserve Bank of India (Commercial Banks - Miscellaneous) Directions, 2025 on deferment of option premium. 2. On a review, consequent to the issuance of the Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Amendment Directions, 2026 , and in exercise of the powers conferred by Section ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change",
     "Regulator: RBI"
    ],
    "tags": [
