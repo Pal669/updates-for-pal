@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-13",
- "built": "2026-10-13 12:12 IST",
+ "built": "2026-10-13 12:34 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22503.0,
-   "change_pct": 0.62,
-   "asof": "13 Oct 12:12 IST"
+   "value": 22547.0,
+   "change_pct": 0.82,
+   "asof": "13 Oct 12:34 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72391.0,
-   "change_pct": 0.65,
-   "asof": "13 Oct 11:57 IST"
+   "value": 72462.0,
+   "change_pct": 0.75,
+   "asof": "13 Oct 12:19 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.19,
-   "change_pct": -1.69,
-   "asof": "13 Oct 12:12 IST"
+   "value": 95.25,
+   "change_pct": -1.62,
+   "asof": "13 Oct 12:34 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 105.41,
-   "change_pct": -1.16,
-   "asof": "13 Oct 12:02 IST"
+   "value": 105.34,
+   "change_pct": -1.23,
+   "asof": "13 Oct 12:24 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4210.0,
-   "change_pct": 0.46,
-   "asof": "13 Oct 12:02 IST"
+   "value": 4214.0,
+   "change_pct": 0.55,
+   "asof": "13 Oct 12:24 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -167,8 +167,8 @@
    ]
   },
   "Startups": {
-   "total": 591,
-   "new_today": 12,
+   "total": 608,
+   "new_today": 29,
    "items": [
     {
      "desk": "Startups",
@@ -255,7 +255,7 @@
    ]
   },
   "Immigration": {
-   "total": 924,
+   "total": 927,
    "new_today": 6,
    "items": [
     {
@@ -850,7 +850,7 @@
    "image": "https://cdn3.wionews.com/prod/wion/images/2026/20261006/image-1791274946407.png?imwidth=1200&imheight=900",
    "why": [
     "Announces a change",
-    "Major story (9 headlines that day)",
+    "Major story (10 headlines that day)",
     "Mentions India or Indians"
    ],
    "tags": [
