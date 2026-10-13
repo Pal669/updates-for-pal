@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-13",
- "built": "2026-10-13 04:44 IST",
+ "built": "2026-10-13 09:26 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22520.0,
-   "change_pct": 1.3,
-   "asof": "12 Oct 15:31 IST"
+   "value": 22467.0,
+   "change_pct": 0.46,
+   "asof": "13 Oct 09:26 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72472.0,
-   "change_pct": 1.23,
-   "asof": "12 Oct 15:32 IST"
+   "value": 71925.0,
+   "change_pct": -0.76,
+   "asof": "13 Oct 09:11 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 96.82,
-   "change_pct": 0.07,
-   "asof": "13 Oct 04:08 IST"
+   "value": 95.27,
+   "change_pct": -1.6,
+   "asof": "13 Oct 09:26 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 106.13,
-   "change_pct": 1.35,
-   "asof": "13 Oct 04:31 IST"
+   "value": 105.56,
+   "change_pct": -1.02,
+   "asof": "13 Oct 09:16 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4193.0,
-   "change_pct": -0.56,
-   "asof": "13 Oct 04:34 IST"
+   "value": 4207.0,
+   "change_pct": 0.4,
+   "asof": "13 Oct 09:16 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -167,13 +167,53 @@
    ]
   },
   "Startups": {
-   "total": 580,
-   "new_today": 1,
+   "total": 586,
+   "new_today": 7,
    "items": [
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 83,
+     "priority": 77,
+     "title": "Tonbo Imaging’s Rs 852 Cr IPO offers investor exit",
+     "url": "https://yourstory.com/2026/10/tonbo-imagings-rs-852-crore-ipo-offers-investor-exit",
+     "date": "2026-10-12",
+     "source": "YourStory",
+     "label": "India · Other",
+     "snippet": "The Rs 852 crore all-offer-for-sale IPO comes as falling exports, weaker profits and negative operating cash flow temper growth prospects backed by a sizeable order book.",
+     "lead": "Tonbo Imaging’s Rs 852 Cr IPO offers investor exit The Rs 852 crore all-offer-for-sale IPO comes as falling exports, weaker profits and negative operating cash flow temper growth prospects backed by a sizeable order book. Team YS 17339 Stories Monday October 12, 2026 , 3 min Read Tonbo Imaging India will open its Rs 852 crore initial public offering (IPO) on October 15, with a price band of Rs 665-700 per share. The issue comprises ...",
+     "image": "https://images.yourstory.com/cs/2/51937da0260011eebbfe67c5178cf4be/IPOGenericImages-04-1734081216950.jpg",
+     "why": [
+      "IPO & Listing",
+      "Sizeable deal (about $90M)"
+     ],
+     "tags": [
+      "IPO & Listing"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "Tonbo Imaging Sets IPO Price Band At ₹665-₹700 For ₹852 Cr Issue",
+     "url": "https://inc42.com/buzz/tonbo-imaging-sets-ipo-price-band-at-%e2%82%b9665-%e2%82%b9700-for-%e2%82%b9852-cr-issue/",
+     "date": "2026-10-12",
+     "source": "Inc42",
+     "label": "India · Other",
+     "snippet": "The IPO will open for subscription on October 15 and close on October 19, with anchor investor bidding scheduled for October 14.",
+     "lead": "Defence tech company Tonbo Imaging has set a price band of ₹665-₹700 per share for its ₹852.1 Cr IPO, valuing it at ₹4,009.8 Cr at the upper end The IPO will provide an exit opportunity for existing shareholders, with Tonbo receiving no proceeds because the issue consists entirely of an OFS The IPO will open for subscription on October 15 and close on October 19, with anchor investor bidding scheduled for October 14",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Tonbo-Soc.jpg",
+     "why": [
+      "IPO & Listing",
+      "Sizeable deal (about $90M)"
+     ],
+     "tags": [
+      "IPO & Listing"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
      "title": "Zetwerk IPO: Fresh issue size raised to Rs 2,830 crore, OFS grows 49%",
      "url": "https://economictimes.indiatimes.com/tech/technology/zetwerk-ipo-fresh-issue-size-rises-to-rs-2830-crore-ofs-grows-49/articleshow/134868750.cms",
      "date": "2026-10-11",
@@ -193,7 +233,7 @@
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 83,
+     "priority": 77,
      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
      "date": "2026-10-08",
@@ -211,56 +251,12 @@
       "Funding",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-     "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-     "date": "2026-10-08",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "The developer of Hermes Agent raised a $90 million Series B.",
-     "lead": "Nous Research , the startup developing the open source Hermes Agent, has raised a $90 million Series B at a $1.5 billion valuation, confirming TechCrunch’s earlier reporting . The round was led by Robot Ventures, with participation from other backers including Nvidia, Union Square Ventures, Menlo Ventures, Samsung, and 1789 Capital, where Donald Trump Jr. is a partner. The new financing brings the three-year-old startup’s total funding ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $1,500M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
-     "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
-     "date": "2026-10-07",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
-     "lead": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation Dominic-Madori Davis 6:45 AM PDT · October 7, 2026 A new personal AI assistant has arrived. Meet Tab , which announced Tuesday that it had officially emerged from stealth at a $300 million valuation. (The company declined to share the exact funding details.) Tab is part of the rising trend of consumer AI assistants, like the ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tab-website.png?resize=1200,744",
-     "why": [
-      "Acquisition",
-      "Large deal (about $300M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Acquisition",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 918,
-   "new_today": 3,
+   "total": 921,
+   "new_today": 5,
    "items": [
     {
      "desk": "Immigration",
@@ -320,9 +316,9 @@
      "date": "2026-10-12",
      "source": "Moneycontrol.com",
      "label": "PMS",
-     "snippet": "",
-     "lead": "",
-     "image": null,
+     "snippet": "Framework prescribes a Rs 5-Cr net worth for regular portfolio managers and Rs 2 Cr for entities exclusively offering PRIM, while the advertising code allows celebrity endorsements at the brand",
+     "lead": "Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account ->-> Go PRO Now PRO Start --> Start --> PRO Markets Start --> HOME INDIAN INDICES GLOBAL MARKETS STOCK ACTION All Stats Top Gainers Top Losers Only Buyers Only Sellers 52 Week High 52 Week Low Price Shockers ...",
+     "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260821030851_SEBI.jpg",
      "why": [
       "PMS news",
       "Regulator: SEBI or RBI",
@@ -403,22 +399,23 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 13,
    "priority": 100,
-   "title": "Zetwerk sets IPO price band at Rs 143-151, aims to raise Rs 5,012 Cr",
-   "url": "https://yourstory.com/2026/10/zetwer-sets-ipo-price-band-rs-143-151-to-raise-rs-5012-cr",
-   "date": "2026-10-12",
+   "title": "TechSparks 2026 is here; Zetwerk targets Rs 5,012 Cr IPO",
+   "url": "https://yourstory.com/2026/10/techsparks-2026-is-here-zetwerks-ipo",
+   "date": "2026-10-13",
    "source": "YourStory",
-   "label": "India · Other",
-   "snippet": "Zetwerk has expanded the size of its IPO and is seeking a valuation of Rs 25,583 crore.",
-   "lead": "Zetwerk sets IPO price band at Rs 143-151, aims to raise Rs 5,012 Cr Zetwerk has expanded the size of its IPO and is seeking a valuation of Rs 25,583 crore. Team YS 17339 Stories Monday October 12, 2026 , 2 min Read Zetwerk, the Bengaluru-headquartered manufacturing marketplace, has set a price band of Rs 143–151 per share for its initial public offering (IPO), targeting a valuation of Rs 25,583 crore. The IPO comprises a fresh issue ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/IPOStock31600x900-1791787437744.jpg",
+   "label": "India · AI & Deeptech",
+   "snippet": "Under this year’s rallying cry, ‘The New Tech Order,’ YourStory’s 17th edition is bringing together 10,000+ visionaries, 500 speakers, 1,000 startups, and 300 investors. We aren't just discussing the future of AI, deep tech, and digital infrastructure—we're asking: who gets to build it, and how fast",
+   "lead": "TechSparks 2026 is here; Zetwerk targets Rs 5,012 Cr IPO Under this year’s rallying cry, ‘The New Tech Order,’ YourStory’s 17th edition is bringing together 10,000+ visionaries, 500 speakers, 1,000 startups, and 300 investors. We aren't just discussing the future of AI, deep tech, and digital infrastructure—we're asking: who gets to build it, and how fast Team YS 17343 Stories Tuesday October 13, 2026 , 4 min Read India’s tech capital ...",
+   "image": "https://images.yourstory.com/cs/2/47afd43024ec11ec9ecb9b7afb0df1da/TSBookendsDay1Opener-1791824462509.jpg",
    "why": [
     "IPO & Listing",
     "Very large figure in headline (about $528M: round or valuation)"
    ],
    "tags": [
-    "IPO & Listing"
+    "IPO & Listing",
+    "AI & Deeptech"
    ],
    "rank": 1,
    "must_read": true
@@ -495,49 +492,25 @@
   },
   {
    "desk": "Startups",
-   "score": 11,
+   "score": 12,
    "priority": 92,
-   "title": "RDI Fund Announces First Cohort Of 19 Fund Managers, Eyes Deploying ₹7,131 Cr To Strengthen Deeptech Startups",
-   "url": "https://inc42.com/buzz/rdi-fund-announces-first-cohort-of-19-fund-managers-eyes-deploying-%e2%82%b97131-cr-to-strengthen-deeptech-startups/",
+   "title": "Zetwerk sets IPO price band at Rs 143-151, aims to raise Rs 5,012 Cr",
+   "url": "https://yourstory.com/2026/10/zetwer-sets-ipo-price-band-rs-143-151-to-raise-rs-5012-cr",
    "date": "2026-10-12",
-   "source": "Inc42",
-   "label": "India · AI & Deeptech",
-   "snippet": "Central government-backed ₹1 Lakh Cr Research, Development and Innovation (RDI) Fund has approved 19 second-level fund managers (SLFMs) with a…",
-   "lead": "The Ministry of Science and Technology’s Empowered Group of Secretaries (EGoS) approved 14 alternative investment funds (AIFs) and five focused research organisations (FROs) for this purpose earlier this month, the ministry announced. The selected entities will channel capital from the RDI Fund to eligible technology enterprises undertaking research, development and innovation activities at Technology Readiness Level (TRL) 4 and above. ...",
-   "image": null,
+   "source": "YourStory",
+   "label": "India · Other",
+   "snippet": "Zetwerk has expanded the size of its IPO and is seeking a valuation of Rs 25,583 crore.",
+   "lead": "Zetwerk sets IPO price band at Rs 143-151, aims to raise Rs 5,012 Cr Zetwerk has expanded the size of its IPO and is seeking a valuation of Rs 25,583 crore. Team YS 17339 Stories Monday October 12, 2026 , 2 min Read Zetwerk, the Bengaluru-headquartered manufacturing marketplace, has set a price band of Rs 143–151 per share for its initial public offering (IPO), targeting a valuation of Rs 25,583 crore. The IPO comprises a fresh issue ...",
+   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/IPOStock31600x900-1791787437744.jpg",
    "why": [
-    "Funding",
-    "Very large figure in headline (about $751M: round or valuation)"
+    "IPO & Listing",
+    "Very large figure in headline (about $528M: round or valuation)"
    ],
    "tags": [
-    "Funding",
-    "AI & Deeptech"
+    "IPO & Listing"
    ],
    "rank": 5,
    "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "Ecomm festive sales hit Rs 24,000 Cr in two days; VC funding drops as large deals dry up",
-   "url": "https://yourstory.com/2026/10/ecomm-festive-sales-hit-rs-24000-cr-in-two-days",
-   "date": "2026-10-12",
-   "source": "YourStory",
-   "label": "India · Commerce & D2C",
-   "snippet": "Redseer estimates that 6-6.5 crore shoppers participated, with mobile phones leading by value and fashion, electronics and appliances seeing strong demand.",
-   "lead": "Ecomm festive sales hit Rs 24,000 Cr in two days; VC funding drops as large deals dry up Redseer estimates that 6-6.5 crore shoppers participated, with mobile phones leading by value and fashion, electronics and appliances seeing strong demand. Team YS 17334 Stories Monday October 12, 2026 , 4 min Read India’s ecommerce platforms clocked around Rs 24,000 crore in sales during the first two days of festive shopping, with mobile phones ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/2026-CopyofNewPPTTemplates4-1791771725367.png",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $2,526M: round or valuation)"
-   ],
-   "tags": [
-    "Funding",
-    "Commerce & D2C"
-   ],
-   "rank": 6,
-   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -559,7 +532,7 @@
    "tags": [
     "AIF"
    ],
-   "rank": 7,
+   "rank": 6,
    "must_read": false
   },
   {
@@ -583,7 +556,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 8,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -606,7 +579,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 9,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -630,31 +603,30 @@
    "tags": [
     "Markets & Regulation"
    ],
-   "rank": 10,
+   "rank": 9,
    "must_read": false
   },
   {
    "desk": "Startups",
    "score": 11,
-   "priority": 92,
-   "title": "Swara Baby Products Secures SEBI Nod For ₹1,000 Cr IPO",
-   "url": "https://inc42.com/buzz/swara-baby-products-secures-sebi-nod-for-%e2%82%b91000-cr-ipo/",
-   "date": "2026-10-06",
-   "source": "Inc42",
-   "label": "India · Policy & Regulation",
-   "snippet": "Swara Baby Products has secured SEBI approval for its ₹1,000 Cr IPO, including a ₹500 Cr fresh issue and ₹500 Cr OFS",
-   "lead": "Swara Baby Products has received SEBI approval for its proposed ₹1,000 Cr IPO, comprising a ₹500 Cr fresh issue and ₹500 Cr OFS FirstCry parent Brainbees Solutions owns a 76.6% stake in Swara Baby Products and plans to offload shares worth up to ₹300 Cr through the OFS The company plans to use the fresh issue proceeds to fund a new manufacturing facility in Madhya Pradesh, repay debt, and pursue acquisitions",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/neogeo-funding-social-.png",
+   "priority": 85,
+   "title": "Tencent sells dollar, dim sum bonds amid AI spending spree",
+   "url": "https://economictimes.indiatimes.com/tech/technology/tencent-sells-dollar-dim-sum-bonds-amid-ai-spending-spree/articleshow/134906672.cms",
+   "date": "2026-10-13",
+   "source": "ET Startups",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Tencent Holdings is selling US dollar and offshore Chinese yuan, or dim sum, bonds in a deal that could raise at least $4.5 billion as the Chinese technology giant seeks funding amid higher spending on artificial intelligence.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-7668375,resizemode-75,msid-134906672/tech/technology/tencent-sells-dollar-dim-sum-bonds-amid-ai-spending-spree.jpg",
    "why": [
-    "IPO & Listing",
-    "Large deal (about $105M)",
-    "Valuation, listing or profitability signal"
+    "Funding",
+    "Very large figure in headline (about $4,500M: round or valuation)"
    ],
    "tags": [
-    "IPO & Listing",
-    "Policy & Regulation"
+    "Funding",
+    "AI & Deeptech"
    ],
-   "rank": 11,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -677,49 +649,75 @@
    "tags": [
     "Global"
    ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "RDI Fund Announces First Cohort Of 19 Fund Managers, Eyes Deploying ₹7,131 Cr To Strengthen Deeptech Startups",
+   "url": "https://inc42.com/buzz/rdi-fund-announces-first-cohort-of-19-fund-managers-eyes-deploying-%e2%82%b97131-cr-to-strengthen-deeptech-startups/",
+   "date": "2026-10-12",
+   "source": "Inc42",
+   "label": "India · AI & Deeptech",
+   "snippet": "Central government-backed ₹1 Lakh Cr Research, Development and Innovation (RDI) Fund has approved 19 second-level fund managers (SLFMs) with a…",
+   "lead": "The Ministry of Science and Technology’s Empowered Group of Secretaries (EGoS) approved 14 alternative investment funds (AIFs) and five focused research organisations (FROs) for this purpose earlier this month, the ministry announced. The selected entities will channel capital from the RDI Fund to eligible technology enterprises undertaking research, development and innovation activities at Technology Readiness Level (TRL) 4 and above. ...",
+   "image": null,
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $751M: round or valuation)"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
    "rank": 12,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Tonbo Imaging’s Rs 852 Cr IPO offers investor exit",
-   "url": "https://yourstory.com/2026/10/tonbo-imagings-rs-852-crore-ipo-offers-investor-exit",
+   "score": 11,
+   "priority": 85,
+   "title": "Ecomm festive sales hit Rs 24,000 Cr in two days; VC funding drops as large deals dry up",
+   "url": "https://yourstory.com/2026/10/ecomm-festive-sales-hit-rs-24000-cr-in-two-days",
    "date": "2026-10-12",
    "source": "YourStory",
-   "label": "India · Other",
-   "snippet": "The Rs 852 crore all-offer-for-sale IPO comes as falling exports, weaker profits and negative operating cash flow temper growth prospects backed by a sizeable order book.",
-   "lead": "Tonbo Imaging’s Rs 852 Cr IPO offers investor exit The Rs 852 crore all-offer-for-sale IPO comes as falling exports, weaker profits and negative operating cash flow temper growth prospects backed by a sizeable order book. Team YS 17339 Stories Monday October 12, 2026 , 3 min Read Tonbo Imaging India will open its Rs 852 crore initial public offering (IPO) on October 15, with a price band of Rs 665-700 per share. The issue comprises ...",
-   "image": "https://images.yourstory.com/cs/2/51937da0260011eebbfe67c5178cf4be/IPOGenericImages-04-1734081216950.jpg",
+   "label": "India · Commerce & D2C",
+   "snippet": "Redseer estimates that 6-6.5 crore shoppers participated, with mobile phones leading by value and fashion, electronics and appliances seeing strong demand.",
+   "lead": "Ecomm festive sales hit Rs 24,000 Cr in two days; VC funding drops as large deals dry up Redseer estimates that 6-6.5 crore shoppers participated, with mobile phones leading by value and fashion, electronics and appliances seeing strong demand. Team YS 17334 Stories Monday October 12, 2026 , 4 min Read India’s ecommerce platforms clocked around Rs 24,000 crore in sales during the first two days of festive shopping, with mobile phones ...",
+   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/2026-CopyofNewPPTTemplates4-1791771725367.png",
    "why": [
-    "IPO & Listing",
-    "Sizeable deal (about $90M)"
+    "Funding",
+    "Very large figure in headline (about $2,526M: round or valuation)"
    ],
    "tags": [
-    "IPO & Listing"
+    "Funding",
+    "Commerce & D2C"
    ],
    "rank": 13,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Tonbo Imaging Sets IPO Price Band At ₹665-₹700 For ₹852 Cr Issue",
-   "url": "https://inc42.com/buzz/tonbo-imaging-sets-ipo-price-band-at-%e2%82%b9665-%e2%82%b9700-for-%e2%82%b9852-cr-issue/",
-   "date": "2026-10-12",
+   "score": 11,
+   "priority": 85,
+   "title": "Swara Baby Products Secures SEBI Nod For ₹1,000 Cr IPO",
+   "url": "https://inc42.com/buzz/swara-baby-products-secures-sebi-nod-for-%e2%82%b91000-cr-ipo/",
+   "date": "2026-10-06",
    "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "The IPO will open for subscription on October 15 and close on October 19, with anchor investor bidding scheduled for October 14.",
-   "lead": "Defence tech company Tonbo Imaging has set a price band of ₹665-₹700 per share for its ₹852.1 Cr IPO, valuing it at ₹4,009.8 Cr at the upper end The IPO will provide an exit opportunity for existing shareholders, with Tonbo receiving no proceeds because the issue consists entirely of an OFS The IPO will open for subscription on October 15 and close on October 19, with anchor investor bidding scheduled for October 14",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Tonbo-Soc.jpg",
+   "label": "India · Policy & Regulation",
+   "snippet": "Swara Baby Products has secured SEBI approval for its ₹1,000 Cr IPO, including a ₹500 Cr fresh issue and ₹500 Cr OFS",
+   "lead": "Swara Baby Products has received SEBI approval for its proposed ₹1,000 Cr IPO, comprising a ₹500 Cr fresh issue and ₹500 Cr OFS FirstCry parent Brainbees Solutions owns a 76.6% stake in Swara Baby Products and plans to offload shares worth up to ₹300 Cr through the OFS The company plans to use the fresh issue proceeds to fund a new manufacturing facility in Madhya Pradesh, repay debt, and pursue acquisitions",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/neogeo-funding-social-.png",
    "why": [
     "IPO & Listing",
-    "Sizeable deal (about $90M)"
+    "Large deal (about $105M)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "IPO & Listing"
+    "IPO & Listing",
+    "Policy & Regulation"
    ],
    "rank": 14,
    "must_read": false
