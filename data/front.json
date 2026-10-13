@@ -1,6 +1,6 @@
 {
- "edition": "2026-10-13",
- "built": "2026-10-13 23:19 IST",
+ "edition": "2026-10-14",
+ "built": "2026-10-14 03:03 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,80 +12,80 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22722.0,
-   "change_pct": 1.6,
+   "value": 22363.0,
+   "change_pct": -0.7,
    "asof": "13 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73034.0,
-   "change_pct": 1.54,
+   "value": 71925.0,
+   "change_pct": -0.76,
    "asof": "13 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.27,
-   "change_pct": -1.6,
-   "asof": "13 Oct 19:48 IST"
+   "value": 95.28,
+   "change_pct": -0.52,
+   "asof": "14 Oct 00:56 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 105.67,
-   "change_pct": -0.92,
-   "asof": "13 Oct 23:08 IST"
+   "value": 106.36,
+   "change_pct": -0.27,
+   "asof": "14 Oct 02:29 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4179.0,
-   "change_pct": -0.28,
-   "asof": "13 Oct 23:09 IST"
+   "value": 4184.0,
+   "change_pct": -0.15,
+   "asof": "14 Oct 02:30 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
    "value": 5.22,
-   "change_pct": -0.4,
-   "asof": "13 Oct 23:04 IST"
+   "change_pct": -0.44,
+   "asof": "14 Oct 00:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "Kuku Technologies (Kuku FM)",
-   "tagline": "Audio and microdrama OTT, IPO cleared by SEBI",
-   "what": "Founded in 2018 by Lal Chand Bisu, Vikas Goyal and Vinod Meena. Offers audiobooks, podcasts and original audio shows under Kuku FM, plus microdrama platform Kuku TV and microlearning platform Guru. Content library of 20,000+ titles in seven languages; it claims 1 Cr+ listeners and creators and 400 Mn app downloads across its portfolio.",
+   "company": "DheyaTech",
+   "tagline": "Bengaluru aerospace propulsion startup",
+   "what": "Founded in 2018 by aerospace engineers Gurushankara KC, Abhinav Alva and Chetan Kumar. Develops small gas turbine engines (20 kgf to 400 kgf thrust) for aerial platforms and energy systems, with the design, assembly and testing pipeline and its engine control unit built in-house. Expanding into hydrogen-based technology and distributed power generation, including a 60 kW turbogenerator with a hydrogen flexi-fuel combustor developed with IISc.",
    "how": [
-    "The article does not explain the revenue model.",
-    "Not stated: whether income comes from subscriptions, pay-per-content or ads. Check the DRHP when it becomes public."
+    "Sells engines to OEMs: the company says it already has orders from Indian and global OEMs but did not disclose names or values.",
+    "Inferred: revenue is hardware sales; the article gives no pricing or revenue figures."
    ],
-   "watch": "Fresh-issue money is planned for tech, AI infrastructure, content production and geographic expansion. Competitors named: Pocket FM, Flick TV, ReelSaga, Miniplix and OTT majors (Amazon, JioHotstar, Zee5).",
-   "sector": "Media, Gaming & Creators",
+   "watch": "Pre-revenue-scale hardware: certification timelines and first commercial deliveries are the milestones to track. Article also notes rising investor interest in aerospace and spacetech (D-Propulse Rs 25 Cr in January; InspeCity Rs 100 Cr in August).",
+   "sector": "AI & Deeptech",
    "region": "India",
-   "url": "https://inc42.com/buzz/sebi-greenlights-kuku-technologies-%e2%82%b93500-cr-ipo/"
+   "url": "https://inc42.com/buzz/dheyatech-bags-%e2%82%b943-cr-to-scale-indigenous-gas-turbine-engines/"
   },
   "country": {
-   "id": "new-zealand",
-   "name": "New Zealand",
-   "trend": "Loosening (new pathways from 24 Aug 2026)",
-   "pr": "Skilled Work Experience Pathway: skill level 1-3 role, 5 years relevant experience including 2 years in New Zealand at 1.1x the median wage. Trades and Technician Pathway: relevant Level 4+ qualification, 4 years experience including 18 months in NZ at or above the median wage. Applicants generally meet only one wage threshold, the one in force when they started accruing experience.",
-   "citizenship": "About 5 years as a resident (general knowledge, not re-verified). Dual citizenship allowed.",
-   "pro": "Eligibility widened and wage rules simplified in the 2026 reform.",
-   "con": "Small economy and job market; fewer senior finance roles (general knowledge).",
-   "watch": "How INZ implements the August 2026 changes"
+   "id": "netherlands",
+   "name": "Netherlands",
+   "trend": "Tightening proposed (citizenship 5 to 10 years)",
+   "pr": "Permanent residence or EU long-term residence after 5 years of continuous lawful residence.",
+   "citizenship": "Today: 5 years and A2 Dutch. The cabinet sent a bill to extend this to 10 years for consultation on 26 September 2025; it was aimed at parliament in Q3 2026. As of 14 September 2026 it is not law. The Netherlands generally requires giving up other citizenship (general knowledge), which India requires anyway.",
+   "pro": "5-year PR clock.",
+   "con": "Real risk citizenship doubles to 10 years; timing and transition rules unknown.",
+   "watch": "Whether the 10-year naturalisation bill reaches parliament"
   }
  },
  "desks": {
   "Policy": {
    "total": 191,
-   "new_today": 3,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
-     "score": 8,
-     "priority": 62,
+     "score": 7,
+     "priority": 58,
      "title": "Detailed Result: OMO Sale Auction held on Oct 13, 2026 and Settlement on Oct 14, 2026",
      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63798",
      "date": "2026-10-13",
@@ -104,19 +104,18 @@
     },
     {
      "desk": "Policy",
-     "score": 8,
-     "priority": 62,
-     "title": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026",
-     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13735&Mode=0",
+     "score": 7,
+     "priority": 58,
+     "title": "Penal Interest on shortfall in CRR and SLR requirements - Change in Bank Rate",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13728&Mode=0",
      "date": "2026-10-07",
      "source": "RBI",
      "label": "Banking & Rates",
      "snippet": "Notifications - Reserve Bank of India",
-     "lead": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026 Please refer to paragraph 77(6) (i) of the Reserve Bank of India (All India Financial Institutions (AIFIs) - Prudential Norms on Capital Adequacy) Directions, 2025 , on the requirement for clearing member financial institutions to obtain legal opinion. On a review, it has been decided to amend these ...",
+     "lead": "Penal Interest on shortfall in CRR and SLR requirements - Change in Bank Rate Please refer to our circular DoR.RET.REC.341/12.01.001/2025-26 dated December 05, 2025 on the captioned subject. 2. As announced in the Monetary Policy Statement, 2026-27 dated October 07, 2026 , the Bank Rate is revised upwards by 25 basis points from 5.50 per cent to 5.75 per cent with immediate effect. Accordingly, all penal interest rates on shortfall in ...",
      "image": null,
      "why": [
-      "Regulator rulebook change",
-      "Rule change",
+      "Rates and liquidity",
       "Regulator: RBI"
      ],
      "tags": [
@@ -125,19 +124,18 @@
     },
     {
      "desk": "Policy",
-     "score": 8,
-     "priority": 62,
-     "title": "Reserve Bank of India (Commercial Banks – Miscellaneous) Amendment Directions, 2026",
-     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13731&Mode=0",
+     "score": 6,
+     "priority": 50,
+     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63746",
      "date": "2026-10-07",
      "source": "RBI",
      "label": "Banking & Rates",
-     "snippet": "Notifications - Reserve Bank of India",
-     "lead": "Reserve Bank of India (Commercial Banks – Miscellaneous) Amendment Directions, 2026 Please refer to Sub-section D of Chapter IV of the Reserve Bank of India (Commercial Banks - Miscellaneous) Directions, 2025 on deferment of option premium. 2. On a review, consequent to the issuance of the Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Amendment Directions, 2026 , and in exercise of the powers conferred by Section ...",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "",
      "image": null,
      "why": [
-      "Regulator rulebook change",
-      "Rule change",
+      "New law or act",
       "Regulator: RBI"
      ],
      "tags": [
@@ -146,56 +144,99 @@
     },
     {
      "desk": "Policy",
-     "score": 8,
-     "priority": 62,
-     "title": "Cabinet passes resolution congratulating Prime Minister Shri Narendra Modi on 25 Years of Unbroken Leadership",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2319565",
-     "date": "2026-10-06",
+     "score": 5,
+     "priority": 42,
+     "title": "Union Minister Shri Ashwini Vaishnaw Launches World Bank Group’s ‘World Development Report 2026: The Promise of Artificial Intelligence’ in New Delhi",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320883",
+     "date": "2026-10-08",
      "source": "PIB",
-     "label": "Other Policy",
-     "snippet": "The Union Cabinet today passed a resolution congratulating Prime Minister Shri Narendra Modi on comp",
-     "lead": "Cabinet Cabinet passes resolution congratulating Prime Minister Shri Narendra Modi on 25 Years of Unbroken Leadership 10 Defining Highlights of the Union Cabinet Resolution Posted On: 06 OCT 2026 3:50PM by PIB Delhi The Union Cabinet today passed a resolution congratulating Prime Minister Shri Narendra Modi on completing 25 years of continuous leadership as head of government. Far more than a customary tribute, it celebrates the ...",
+     "label": "Banking & Rates",
+     "snippet": "Shri Ashwini Vaishnaw, the Union Minister for Electronics and Information Technology, Railways, and",
+     "lead": "Ministry of Electronics & IT Union Minister Shri Ashwini Vaishnaw Launches World Bank Group’s ‘World Development Report 2026: The Promise of Artificial Intelligence’ in New Delhi Report sets out a framework for developing economies to harness AI for development through adoption, adaptation and advancement IndiaAI Mission, MeitY and the World Bank Group jointly host the India launch; policymakers, development experts and technology ...",
      "image": null,
      "why": [
-      "Cabinet decision",
-      "Cabinet"
+      "Rates and liquidity"
      ],
      "tags": [
-      "Other Policy"
+      "Banking & Rates"
      ]
     }
    ]
   },
   "Startups": {
-   "total": 635,
-   "new_today": 56,
+   "total": 636,
+   "new_today": 1,
    "items": [
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 85,
-     "title": "Swara Baby Products Secures SEBI Nod For ₹1,000 Cr IPO",
-     "url": "https://inc42.com/buzz/swara-baby-products-secures-sebi-nod-for-%e2%82%b91000-cr-ipo/",
-     "date": "2026-10-06",
-     "source": "Inc42",
-     "label": "India · Policy & Regulation",
-     "snippet": "Swara Baby Products has secured SEBI approval for its ₹1,000 Cr IPO, including a ₹500 Cr fresh issue and ₹500 Cr OFS",
-     "lead": "Swara Baby Products has received SEBI approval for its proposed ₹1,000 Cr IPO, comprising a ₹500 Cr fresh issue and ₹500 Cr OFS FirstCry parent Brainbees Solutions owns a 76.6% stake in Swara Baby Products and plans to offload shares worth up to ₹300 Cr through the OFS The company plans to use the fresh issue proceeds to fund a new manufacturing facility in Madhya Pradesh, repay debt, and pursue acquisitions",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/neogeo-funding-social-.png",
+     "score": 10,
+     "priority": 83,
+     "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+     "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+     "date": "2026-10-08",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+     "lead": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months Julie Bort 11:19 AM PDT · October 8, 2026 Arena , which originated in 2023 as a research project at UC Berkeley that crowdsourced rankings of AI models, has raised a $200 million Series B round at a $3.1 billion valuation, it said on Thursday. This comes after the company said it reached $100 million in annualized run-rate revenue in June. The round ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
      "why": [
-      "IPO & Listing",
-      "Large deal (about $105M)",
+      "Funding",
+      "Very large figure in headline (about $3,100M: round or valuation)",
       "Valuation, listing or profitability signal"
      ],
      "tags": [
-      "IPO & Listing",
-      "Policy & Regulation"
+      "Funding",
+      "AI & Deeptech"
      ]
     },
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 77,
+     "priority": 83,
+     "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+     "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+     "date": "2026-10-08",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "The developer of Hermes Agent raised a $90 million Series B.",
+     "lead": "Nous Research , the startup developing the open source Hermes Agent, has raised a $90 million Series B at a $1.5 billion valuation, confirming TechCrunch’s earlier reporting . The round was led by Robot Ventures, with participation from other backers including Nvidia, Union Square Ventures, Menlo Ventures, Samsung, and 1789 Capital, where Donald Trump Jr. is a partner. The new financing brings the three-year-old startup’s total funding ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $1,500M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
+     "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
+     "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
+     "date": "2026-10-07",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
+     "lead": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation Dominic-Madori Davis 6:45 AM PDT · October 7, 2026 A new personal AI assistant has arrived. Meet Tab , which announced Tuesday that it had officially emerged from stealth at a $300 million valuation. (The company declined to share the exact funding details.) Tab is part of the rising trend of consumer AI assistants, like the ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tab-website.png?resize=1200,744",
+     "why": [
+      "Acquisition",
+      "Large deal (about $300M)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Acquisition",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 75,
      "title": "GreenCell Mobility Raises ₹330 Cr To Expand Electric Bus Fleet",
      "url": "https://inc42.com/buzz/greencell-mobility-raises-%e2%82%b9330-cr-to-expand-electric-bus-fleet/",
      "date": "2026-10-13",
@@ -212,78 +253,17 @@
       "Funding",
       "Mobility & EV"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Tonbo Imaging’s Rs 852 Cr IPO offers investor exit",
-     "url": "https://yourstory.com/2026/10/tonbo-imagings-rs-852-crore-ipo-offers-investor-exit",
-     "date": "2026-10-12",
-     "source": "YourStory",
-     "label": "India · Other",
-     "snippet": "The Rs 852 crore all-offer-for-sale IPO comes as falling exports, weaker profits and negative operating cash flow temper growth prospects backed by a sizeable order book.",
-     "lead": "Tonbo Imaging’s Rs 852 Cr IPO offers investor exit The Rs 852 crore all-offer-for-sale IPO comes as falling exports, weaker profits and negative operating cash flow temper growth prospects backed by a sizeable order book. Team YS 17339 Stories Monday October 12, 2026 , 3 min Read Tonbo Imaging India will open its Rs 852 crore initial public offering (IPO) on October 15, with a price band of Rs 665-700 per share. The issue comprises ...",
-     "image": "https://images.yourstory.com/cs/2/51937da0260011eebbfe67c5178cf4be/IPOGenericImages-04-1734081216950.jpg",
-     "why": [
-      "IPO & Listing",
-      "Sizeable deal (about $90M)"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Tonbo Imaging Sets IPO Price Band At ₹665-₹700 For ₹852 Cr Issue",
-     "url": "https://inc42.com/buzz/tonbo-imaging-sets-ipo-price-band-at-%e2%82%b9665-%e2%82%b9700-for-%e2%82%b9852-cr-issue/",
-     "date": "2026-10-12",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "The IPO will open for subscription on October 15 and close on October 19, with anchor investor bidding scheduled for October 14.",
-     "lead": "Defence tech company Tonbo Imaging has set a price band of ₹665-₹700 per share for its ₹852.1 Cr IPO, valuing it at ₹4,009.8 Cr at the upper end The IPO will provide an exit opportunity for existing shareholders, with Tonbo receiving no proceeds because the issue consists entirely of an OFS The IPO will open for subscription on October 15 and close on October 19, with anchor investor bidding scheduled for October 14",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Tonbo-Soc.jpg",
-     "why": [
-      "IPO & Listing",
-      "Sizeable deal (about $90M)"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 942,
-   "new_today": 21,
+   "total": 949,
+   "new_today": 2,
    "items": [
     {
      "desk": "Immigration",
-     "score": 7,
-     "priority": 64,
-     "title": "'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN1Y0NmhScExoSGhOZzJmbk1FY25fSGhKU0JqaXJaZmtSWTVKVGZOWGVQX3B5S0w3Sk9NZ19CbVljOFh0SXpkcXZDY1NzMlpxN3JZbHhiZnBhVFJQNlRzN2RWWElGNm5xZDBIVWtocjdzWUd0d0pjQTlLb0J3ZmNjVVhXLUxINFdxQk92SXZ3aFFROVNBTVcxdVBDbG9hZ0Z0QThIVFV6SjVLUlNsRjI5VEw3b092VWtmd3F4VmZGYUZHSi1QaTJiMWMyRVRCUm1manfSAdcBQVVfeXFMTmM2NVAzWXFnLWNETEUtVUVJWWRGUzRpRERacmZ2WjdsV1JjaUxhUHpuejVpN3h6TWJiNGhIX3prbUJXNXNlR0hwWG00b2RQampmRHZYbDJoRDJKOHN1bWpXZXNmUXo5QVU5cXNDdlhUcFVOU1I1VnRiQ1NtMGhpUmR6amRPTmM2N2VnVVFfNFFFZEJCLW9TbS03dncxZFM0SHFHUF92RTY4SW4xT2xwSjNvenI5Z0dYRTBMQW9uU0p1bGlnd0ROTnFtYUhGa3RQeEVwd093ZzQ?oc=5",
-     "date": "2026-10-06",
-     "source": "WION",
-     "label": "Australia",
-     "snippet": "Indians planning to move to Australia could face tighter opportunities if the country's conservative opposition comes to power. Opposition Leader Angus Taylor has unveiled the \"biggest cut to immigration\" in history. Here's all you need to know.",
-     "lead": "Live TV LOGIN v logout Live TV Latest Gravitas World India Entertainment Hollywood Bollywood Sports Opinions videos Photos TV Shows Mission Sustainability Wion / World / 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians Edited By Moohita Kaur Garg Published: Oct 06, 2026, 14:13 IST | ...",
-     "image": "https://cdn3.wionews.com/prod/wion/images/2026/20261006/image-1791274946407.png?imwidth=1200&imheight=900",
-     "why": [
-      "Announces a change",
-      "Major story (10 headlines that day)",
-      "Mentions India or Indians"
-     ],
-     "tags": [
-      "Australia"
-     ]
-    },
-    {
-     "desk": "Immigration",
      "score": 6,
-     "priority": 55,
+     "priority": 60,
      "title": "Japan PM faces calls for immigration cap as she weighs policy on foreigners",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWF3VS1HcWpsME1QR1Y4ZWt2Y1B0c2pSTVJmWTNnLW9uNDN5UWh2Smk0RVYtZ2U4cnE3NDBvZkFzaVBPdEFHMHU1MVdJUzJPaDlhNGEtRURJekk1c2hXajNnUU1fMWFWWHhnV0V0Y0c4WTBnSWxQNkZWQVdPV3NDbkE0TVVhaUZEbHFxV0gxM1RKOWVZUXNkc19LWWFmTkg3UU5zejFiTWtvMnFYaDB0aENGMlZRQ3h2elJQRHNkWHZPQVhyREE?oc=5",
      "date": "2026-10-10",
@@ -304,7 +284,7 @@
     {
      "desk": "Immigration",
      "score": 6,
-     "priority": 55,
+     "priority": 60,
      "title": "U.S. visa delay forces senior Korean lawmaker to reroute parliamentary audit trip",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdWhXQUlYeDhWeUpxRk1FVkdEWG5sT2dsWEp6ZGJfYy1tOUlyMXdvWEhSM3loQmk1TEp5clNFWUN4MEg4NngzenRGZkVHaURlWEdicjRxbXphd2lTbXUxa1FwNHNYclBYSDlNeThzRTJDYTlXbTRGSDMyRDkwODFNTm4zMy0tc1JFeVRNbnpWUUM2NG04SWZ4Zi15dGQ5ZDhDNGFwdXJCcGZLWXV6OGlMOTZKek1hVWFYSVpiTXNWei1KcUxHZWNFVQ?oc=5",
      "date": "2026-10-09",
@@ -326,32 +306,98 @@
     {
      "desk": "Immigration",
      "score": 5,
-     "priority": 45,
-     "title": "India-Switzerland mobility pact explained: Visas, work and study rules",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcmpVZ0lrcFVwMUlPQnFBczZ0ZEVCWllYd1JTaEdLdFp3UHV2V2lIaVRpeVNlaHVBVlJuaUNLYkZEbk1hZ3lobjdYN05ZZF8zWFVTNVEzU2tKd0JCcWFvRjd3aG9MeHJPU3ZPeHh0YkRKcXExYzJuVzRyZlFiRkVWR25rbVIxU2lLWUxNdEJWa2t1Y0RTckpzUDRoMk8yXzhSb2pjbXRidmo4ZVpUUE9VVnpCUFE1NHZTTWRFWFFsTU5RSy1BY2h2RUVnVmlhRFnSAdQBQVVfeXFMTnEzRmtrbUR5SXdMVUdQRFlfX0NEQl9VMWNKRFRjQ2k5bllCZVQtX1JhVFJVRkVpMzJiMlFQTkN3WFVKTTh6RGhXSllCdnN0aDBmTXh0R2YwYmlZRnp4RWU1SHlmWjNIVDdPWmlvVjE1ZjBZejJwazNIbS1PUEt2N3hWLUU0YzFNZFZHd1oxSkZuejNJYW0xSVFvYzlJbUFTcVNWQ1JlR3Fldnl5WUhqOHR6UjB4a2pBUDBZdFFHMUwyMlJOQTNMNHRVZ2RVSFNwRWZlZC0?oc=5",
-     "date": "2026-10-13",
-     "source": "Business Standard",
-     "label": "Switzerland",
-     "snippet": "Two agreements provide for multiple-entry visas of up to five years, renewable student permits and temporary work opportunities for eligible young professionals.",
-     "lead": "Don't miss the most important news and views of the day. Get them on our Telegram channel",
-     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-08/21/thumb/featurecrop/1200X628/1724222323-0529.jpg",
+     "priority": 50,
+     "title": "Germany Work Visas Western Balkans: 50,000 Cut to 25,000",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONzlWVVJIQWpBVzd6b2k0a1VrQm1IbnhCTXdxVWtCTEJUYWxPVm16cVFNY1dPcFRaQmktSTY3endpVG9EeW9WRFR1cGJfaUJHRGkyOUVpU1hxNmdlR2c0cHdtS2l3LUQ3REEwbVRwV3RTaXNDUFZ5SVVxYzRBa0tUeDQtZnNqWUpVMDhUU1FNT3hBYUFLcEtGcGRtTjdLdE5JUUphbw?oc=5",
+     "date": "2026-10-08",
+     "source": "srpske.rs",
+     "label": "Germany",
+     "snippet": "Germany plans to cut its Western Balkans work permit quota from 50,000 to 25,000. What builders, the Serbian Chamber of Commerce and NALED say.",
+     "lead": "The quota under the Western Balkans scheme falls from 50,000 to 25,000 permits a year. Sources disagree on the timing, and Serbia's share is not public. 0 Podeli Kopiraj link Germany’s annual work permit quota under the Western Balkans scheme is set to be cut in half, from 50,000 to 25,000 . The scheme, often called the Western Balkans Rule in the media, makes it easier for workers from the region’s six economies to come to Germany, ...",
+     "image": "https://srpske.rs/uploads/articles/germany-halves-western-balkans-work-visa-quota-to-25000-16x9.webp",
      "why": [
-      "Mentions India or Indians"
+      "Affects work visas",
+      "Announces a change"
      ],
      "tags": [
-      "Switzerland"
+      "Work visa",
+      "Germany"
      ]
     }
    ]
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 19,
+   "new_today": 16,
    "items": [
     {
      "desk": "Advisory",
      "score": 11,
-     "priority": 85,
+     "priority": 92,
+     "title": "RBI MPC 25 bps rate hike impact on stock market: Sensex, Nifty crash - Experts reveal what investors should do now",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSW0zczhnVTAxeHd2cU1JQ0JxMk93NUpSdmJYd1hKS0xRYXRIbklpR3VVakJxRjROSUJqTGwyZG5jZVdvc0hpa2ZkcjAtV1BlWGVQRC0yMmM1VnVzSVAxT1c1bWhwZmhIWE5zLW1sbXZFcU5rTVdKUFpIS080d3NVOGJ4cFNpVVAweHFYRk53ejl3Z0gzRUF3RE0wMkNka1RlN0doemkyd1JMaUtYV3R1MjBHTkRBQk5VZTFqUmk4M29BWkNsbWxpWWkzVTBFNVRJTEpPMnhWUzN4NVdkT19MX010azV1N3RlSUVQWkx3aE9WZmpvM2tuZ3M3OUJxUXczc3dDaHljN05ELVXSAZACQVVfeXFMUGFtWVFmWUFoOXV2OGtwb25zd3JtZjFVWGN4Tlp4R1kyTDBZbktKOVBVT280ZG5RZmoxS1RkTUJMNnd2T3Y0cTRSVTgycHRXa1FSY1VYUGhpRVpWbTc3UWpUNS1OS3pYazRIeENYY19hUWRRSGRkRjR5QkpWRVlHc0ZVNXA0YWE5bU5ZNUdhNEh1RndnZjVmTTIySHBpY0NIa1FjVVVlbDRhWS1OcTNtT0h3Slk2N3NXYURUM2VubU8tMmxsTGhwdFVXWW5pLU9XT2NaV1FKQTF4SmFfWlN6UU5QTFZUWDh2N3EzMXpSWHVsamtucF82SjVZMEpvX0lMbk9WbTBDTjBmaFY1LXdoWTI?oc=5",
+     "date": "2026-10-07",
+     "source": "Livemint",
+     "label": "Regulatory",
+     "snippet": "Indian stock markets fell on October 7 after RBI raised repo rate to 5.5%. Sensex dipped 529 points while Nifty dropped 191 points. Global factors like rising Brent crude prices and US bond yields influenced market sentiment, impacting investor outlook on equities.",
+     "lead": "Indian stock markets extended losses on Wednesday, October 7, after the Reserve Bank of India’s ( RBI ) Monetary Policy Committee ( MPC ) unanimously raised the repo rate by 25 basis points to 5.5% from 5.25%, in line with expectations. This marks its first rate hike in four years amid price pressures. At its October 5-7 policy meeting, the MPC also changed its stance to ‘calibrated tightening’. The RBI raised the Standing Deposit ...",
+     "image": null,
+     "why": [
+      "Regulator: SEBI or RBI",
+      "Interest-rate decision",
+      "Sharp market move",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "Regulatory"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 83,
+     "title": "Gold struggles to reclaim $4,200 as Fed interest rate hike risks persist, US CPI looms",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUnM4WmhDdFRxYllScmozdDBpMl9hUVFnRGVJWDJqa2tQZ25ZeGdzbEN3VUJRODE3NXhmRjBoOWs5Z25HVGZCZnlZVWlFdGlDLUt4YTNESkJJaVJjN1hGUk14ZzlrSGN0d20wekF4YXBDTl83SEhkRXg3ZXQxN25KRHVkSzY4S1JucDkwa2ROV0JXWklMNnJVbVVtaktCdy1US0lpTFhVREhOTW45TGJlUkZjV3g?oc=5",
+     "date": "2026-10-13",
+     "source": "FXStreet",
+     "label": "Gold & Silver",
+     "snippet": "Gold (XAU/USD) reverses earlier gains on Tuesday as US Treasury yields recover after falling earlier in the day. With the US Dollar (USD) still under pressure, the metal trades little changed during American trading hours.",
+     "lead": "Gold (XAU/USD) reverses earlier gains on Tuesday as US Treasury yields recover after falling earlier in the day. With the US Dollar (USD) still under pressure, the metal trades little changed during American trading hours. At the time of writing, XAU/USD trades around $4,164, down from an intraday high near $4,200. The US Dollar Index (DXY), which tracks the Greenback’s value against a basket of six major currencies, trades around ...",
+     "image": "https://editorial.fxsstatic.com/images/i/Commodities_Gold-2_Medium.jpg",
+     "why": [
+      "Interest-rate decision",
+      "Precious metals",
+      "Global macro driver"
+     ],
+     "tags": [
+      "Gold & Silver"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 83,
+     "title": "Bitcoin price prediction: Why BTC USD can drop before a Fed rate hike and rally after",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRzJCWTJqSGx6aUN5ejNFWEszNjZmUTFJa1o1QVBIUEVQUUc3aW9Jb3o1ZmY5Y1M4X29tVjYzV2h3WEs3dlJOTEpTQVRmb0M2bEJiNjktY0Q4YzJIYWJiZjE5bDdWczZKOGZDb2RMX2tTMlQyY1Jmc2gydUVDRS14NkEtU2RTSnlxcm5PRVpuM2t2V0prTHM5czl1cm5GT2dfMGlwQlpKQ2cxSTR5bnl1cEhjOENncS13T2NvS1lOUXNLMHhSMTR1V3Y1ZWNNdGNxaHZ0elM2VWN4SHI0a0pJNHFaVU1KUEt30gHuAUFVX3lxTFB4MUo3NEUtTTcxLU9LZXA2UGpBQTBEUkxNMFlDNkE2ay13LW1fTEVGRkxjNndIWGNYUEN0cFBiTVhMemYxOUMwNjU1VVJGTE5UVTJEejdnUU9CdjJuMy03NVM5UHdPSTNnLVc3WE1GMTl5X2J1d1duMWVoUkZYWTBkRkVuN2E0NlNYa3c2a0FDOTlpeEZBeHJjVU1oeFBYNFJBVV8tbXFUR2FvMEYwSFJTZzRQT2kwZ2xWbGQxVENJaEhXSnVaTWExTUJCaG9FLWt3M2t2Rmptb1FLSjZMbkcySm02WkRBbTJSZ2VYeUE?oc=5",
+     "date": "2026-10-13",
+     "source": "The Economic Times",
+     "label": "Global",
+     "snippet": "Explore the impact of Federal Reserve rate hikes on Bitcoin prices, examining the relationship between interest rates and investor behavior in the crypto market.",
+     "lead": "Bitcoin price prediction: Why BTC USD can drop before a Fed rate hike and rally after Simone Biles’ $1.275 million Texas home found a buyer in 6 days, while Deshaun Watson’s took years Social Security 2027 COLA could be the biggest since 2023: How it compares with the 8.7% increase",
+     "image": "https://img.etimg.com/thumb/msid-134902195,width-1200,height-900,imgsize-134478,overlay-economictimes/articleshow.jpg",
+     "why": [
+      "Interest-rate decision",
+      "Global macro driver",
+      "Sharp market move"
+     ],
+     "tags": [
+      "Global"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 83,
      "title": "SEBI notifies revamped PMS regulations, common advertising code; new rules to take effect from April 2027",
      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZ0lIdi1hSUFiQ1dRdThjSjVaM2t2V3MxSmVlZk0wVTBUR00zZUhWel84eWJlOHdlNVIxTEhTcHo2aGM1ZjRLRHI1dm5VWVlnYm9YS0Fvem5zS2RYRHNWbTBfamY5T1RVUWMxVGdRVHY1cC1Ta0tqZXFmNnkzUENzLURlckstRXpldDJOakhnQmtwX19vdWpzQ3VpaTBIc21tX3FBZjlRcnoxTUMtMGg2WUdLQnZCUDF4TXdSNU5nVjBBcVdKdGhEbWY0UlJON1JSeEwtRTVrZ1Jtdm1FM0RKV2lFdlhCRnlGclRsdHFTUXNVcGdpcDlUWmxhRXHSAYICQVVfeXFMUF9PdGhoc3A0NDI3bzBqT0NPWWZaX3pFa3BoR1NFM2ZDOU9DZzRzNXhEbzVsQjc3eGJBU0E1eDNjS1F0ZlBzZ3VvTUhXR1VDUnJtWGdmSG5sY3N4akg5UzRzTjVmX0VDQUVKMFJzN3lDWHo2UDlEdVdPWF9weVFTbEp1a2N3S0FZQVp1UmZqYTZxYkpoaVVCVXZkbWQxeFZvZUx4amhGRlNXRmpVMVJ5b21paUhSQ3NEY0VId2lpdTFEYi1mVTZsQVo5Vy1ZNEtaMms5cGdlQkotcXFpTC0wb25raXMtb3VndGxsbGg0Y2EweklGM0tHU285Z090SFViVTZ3?oc=5",
      "date": "2026-10-12",
@@ -368,71 +414,6 @@
      "tags": [
       "PMS"
      ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 11,
-     "priority": 85,
-     "title": "India's 10-year bond yield hits 3-year high as RBI action dents demand",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvTHc5WVdyVzN1cjQ0c1RxU3pXel9PVTRyUGc1OTBjRmp2MW1QQ1lzcXBjNmdXX2I5NUZVTENscWJwWFdDOHB6aXhZQ3FCa0FsSUN5cjF4U25Zck0?oc=5",
-     "date": "2026-10-12",
-     "source": "Motilal Oswal",
-     "label": "Debt & Bonds",
-     "snippet": "Indian government bond yields hit a three-year high, with the 10-year benchmark rising to 7.37%, following the RBI’s liquidity-tightening measures and upcoming Rs 25,000 crore ...",
-     "lead": "Indian government bond yields hit a three-year high, with the 10-year benchmark rising to 7.37%, following the RBI’s liquidity-tightening measures and upcoming Rs 25,000 crore bond sale. The rupee surged nearly Rs 1 as RBI introduced steps to curb dollar demand. Stock markets declined up to 0.7% amid rising yields, volatile oil prices, and persistent FII selling.",
-     "image": null,
-     "why": [
-      "Regulator: SEBI or RBI",
-      "Government bond yields",
-      "Also covered by 2 other outlet(s)"
-     ],
-     "tags": [
-      "Debt & Bonds"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 10,
-     "priority": 77,
-     "title": "Why Is the US Stock Market Mixed Today (October 12)? Dow Jones Gains 0.4%, S&P 500 Slips 0.1% & Nasdaq Falls 0.3% as Oil Prices Surge and Fed Rate Hike Bets Weigh; Check What Investors Should Know",
-     "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPdElGZmNrSjBKRFh2NDlGaUMxUGN0cDFtTlQ1NlNNNlNrMjBVXzlyN3lUMmlTRXZtbHpZZ2ZRc1p2MVZWTktVRFZTbzRSc2x6WElVZGFqMUlJSG5UNnc5WExEREtBLUxTXzRFOElRNkhMTTZobUlWQUJxNVB0YVY0ejdEX1Fwcmt4d0l3WGFfN291QlZmbjJlRVgybEtVT0VyTDN6aHlhUDV2akozdm5XeHJQeXp3aGQwZFVaOWVHNThNY05OWVRmLWZQc1hfMk9TQmVXLWVZcllsQjk5Mkt2cENYNmt0VlJTYUJSdHBybmJBT0lfaG14cFI1dWtYVmxGdGRfUE1fa1MwR0c5ZTBaajE0cXNBWEdEclFZdEhMTUlpVUZDZEFCVGx2RXp2NzVnbUw2R01JSTI4T2VOQk5aM1pYd3N1WEVST1pEbnp1Y9IB1AJBVV95cUxNUWx4c2F4SU16QzRBYWlnQzZyWWpka29MeUJwTC1IaHZsSFRCZWFpc2d2aVZneTlsMmZaSFVObkZPQzZsemh2UDB0Qm9mWjhVb3ZMTzFlYTRfNkFMOWpCanZJLXFDd0dxcGFPQWJob0l6UUN2VWp1Rm5tSTNXSzdiZmliNVhGNnJPVjFtdENXZTYyWElTcDhHZ29ocGNUUUIxZVBmVldxZ0x1SVNOUUEzREJ3RVZxWDJRM1VaWHp2LXRScTFuMHN2eG4xZzE2RmpKd3dhb0VHU1h4cVNMaDVDYU1QWENwbjcweG55TVhscmN0djBDMXhiWk5UVUxGYUNMYVR3Uk1GSExNNlBaT2hfalVINGVwNGxJbWZOU1hGZzRJWVlNQklyeWpYTzBqOVJzZ0FlZ2NDZmJpX1ppOG9xNXJMYzdCQUJmM29PTnU3VkdDc0sx?oc=5",
-     "date": "2026-10-12",
-     "source": "The Sunday Guardian",
-     "label": "Global",
-     "snippet": "US stock market today, October 12, 2026: Dow Jones gains 0.4%, while S&P 500 slips 0.1% and Nasdaq falls 0.3%. Check oil prices, inflation fears and Fed rate outlook.",
-     "lead": "US Stock Market Mixed Today (October 12): The US stock market ended mixed on Monday, October 12, 2026, as rising crude oil prices, geopolitical uncertainty and concerns about inflation kept investors cautious. The Dow Jones Industrial Average advanced 0.4%, gaining around 215 points, while the S&P 500 slipped 0.1% and the Nasdaq Composite declined 0.3%, according to the Associated Press (AP). The mixed performance reflected a divide ...",
-     "image": "https://sundayguardianlive.com/wp-content/uploads/2026/08/uss-69.png",
-     "why": [
-      "Interest-rate decision",
-      "Global macro driver",
-      "Sharp market move"
-     ],
-     "tags": [
-      "Global",
-      "Energy & Power"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 10,
-     "priority": 77,
-     "title": "Treasury Yields Surge to Multi-Decade Highs as Fed Signals More Rate Hikes; Dollar Gains, Gold Slips",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjl2Ynd6S053RFJsVTMzcDAtMlVhTkFUWm1DTWRTMktkTC1NNXUza2JfTVRpMmhUQ1BzTE9lYk9qVTdZX21FTFN0TGdhb21oTGZ1R1JPLURsT0dDRUM3eGVaQlFmdDdBY2YyMFBNWF92ODJKdTRxeHJxQ0NXMV9vTW1nM291d1JFb2VBM0J5SVJZaVFlT2lRQnlCRzZRdHNrQVFEQ3NwLVpKeXpLcWIxSGN3NkNNc2tFMXNLbVRsano?oc=5",
-     "date": "2026-10-09",
-     "source": "Tekedia",
-     "label": "Gold & Silver",
-     "snippet": "U.S. Treasury yields climbed further on Thursday, with the benchmark 10-year yield approaching levels last seen more than two decades ago as investors absorbed a Federal Reserve warning that interest rates may need to rise again to contain persistent inflation. The move higher in borrowing costs came ahead of a closely watched $22 billion",
-     "lead": "U.S. Treasury yields climbed further on Thursday, with the benchmark 10-year yield approaching levels last seen more than two decades ago as investors absorbed a Federal Reserve warning that interest rates may need to rise again to contain persistent inflation. The move higher in borrowing costs came ahead of a closely watched $22 billion auction of 30-year Treasury bonds, with investors looking for evidence that demand for long-dated ...",
-     "image": "https://www.tekedia.com/wp-content/uploads/2025/06/u.s.-treasury-secretary-scott-bessent.jpg",
-     "why": [
-      "Interest-rate decision",
-      "Precious metals",
-      "Global macro driver",
-      "Sharp market move"
-     ],
-     "tags": [
-      "Gold & Silver"
-     ]
     }
    ]
   }
@@ -440,7 +421,7 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 13,
+   "score": 12,
    "priority": 100,
    "title": "TechSparks 2026 is here; Zetwerk targets Rs 5,012 Cr IPO",
    "url": "https://yourstory.com/2026/10/techsparks-2026-is-here-zetwerks-ipo",
@@ -463,7 +444,7 @@
   },
   {
    "desk": "Immigration",
-   "score": 11,
+   "score": 10,
    "priority": 100,
    "title": "Guidance: EU Settlement Scheme: caseworker guidance",
    "url": "https://www.gov.uk/government/publications/eu-settlement-scheme-caseworker-guidance",
@@ -486,54 +467,77 @@
   },
   {
    "desk": "Advisory",
-   "score": 13,
+   "score": 12,
    "priority": 100,
-   "title": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13735&Mode=0",
-   "date": "2026-10-07",
-   "source": "RBI",
-   "label": "Regulatory",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026 Please refer to paragraph 77(6) (i) of the Reserve Bank of India (All India Financial Institutions (AIFIs) - Prudential Norms on Capital Adequacy) Directions, 2025 , on the requirement for clearing member financial institutions to obtain legal opinion. On a review, it has been decided to amend these ...",
+   "title": "Indian debt funds may extend USD 4.5 billion bond selloff as RBI signals further rate hikes",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPem9wMEhzS3QtWEx3bUoxdHJmc2JiR3A2Yko5cUh0N0R5dUZISzc4cTQtRlY0QUp6Rm4ycVh4ekxGekhLWWNKWTBQX0VIY3R6dmZEOThCN0pYSERDbkYxd194dThUdlZ1Q1NWY20yUWlxdkcyVVJVZjI4eklFQ0M3RG05SVM4S0ZjakZLLVRGbjJJdlpwN1ItallpMUFWdUVmeGxqLVBTR0k2aUhFQXI4dzN6cnNfZlp2bEppeXVqcVpIYzdXLS04YkkxVERhRVZYZlNxOWhnbFpvTlE?oc=5",
+   "date": "2026-10-13",
+   "source": "Prop News Time",
+   "label": "Debt & Bonds",
+   "snippet": "",
+   "lead": "",
    "image": null,
    "why": [
     "Regulator: SEBI or RBI",
-    "Rule or framework change",
-    "Official notice",
-    "Also covered by 3 other outlet(s)"
+    "Interest-rate decision",
+    "Sharp market move"
    ],
    "tags": [
-    "Regulatory"
+    "Debt & Bonds"
    ],
    "rank": 3,
    "must_read": true
   },
   {
    "desk": "Policy",
-   "score": 13,
+   "score": 12,
    "priority": 100,
-   "title": "Cabinet approves Commitment of Rs.10,000 Crore towards establishment of the SME Growth Fund for direct equity investments in Small and Medium Enterprises to create future champions",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2319532",
-   "date": "2026-10-06",
-   "source": "PIB",
-   "label": "Other Policy",
-   "snippet": "The Union Cabinet, chaired by Prime Minister Shri Narendra Modi, today approved the Government of In",
-   "lead": "Cabinet Cabinet approves Commitment of Rs.10,000 Crore towards establishment of the SME Growth Fund for direct equity investments in Small and Medium Enterprises to create future champions Posted On: 06 OCT 2026 3:12PM by PIB Delhi The Union Cabinet, chaired by Prime Minister Shri Narendra Modi, today approved the Government of India’s commitment of Rs.10,000 crore towards the establishment of the SME Growth Fund (SGF) aimed at ...",
+   "title": "Securities and Exchange Board of India (Mutual Funds) (Second Amendment) Regulations, 2026",
+   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-mutual-funds-second-amendment-regulations-2026_105153.html",
+   "date": "2026-10-10",
+   "source": "SEBI",
+   "label": "Markets & Regulation",
+   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+   "lead": "",
    "image": null,
    "why": [
-    "Cabinet decision",
-    "Cabinet",
-    "Large outlay (Rs 10,000 Cr or more)"
+    "Regulator rulebook change",
+    "Rule change",
+    "Touches financial markets",
+    "Regulator: SEBI"
    ],
    "tags": [
-    "Other Policy"
+    "Markets & Regulation"
    ],
    "rank": 4,
    "must_read": true
   },
   {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 92,
+   "title": "Sebi notifies PMS rules; broadens investment avenue for portfolio managers, introduces PRIM route",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNVBvMTFXa0dOM0pJb01zQmdLRlUwOS05YXRBdUtxeEpkUWpzVnlSbjgtNzJDY01PbFZvbDVkUEljTWQ1dHE3ZFRnQ1k5SExJWmRUeXg5SmdBUHYyWm5yak1qLWxlRU5KNlIxa1ByV2h4TjRqWTFuSE9fLWpQbzBWclJ3ZG40MTdaZFNiNVJKWjZyUkhnQmFPNmpPNTFLS1p0S244VldQa2pidjdjVy04YWotR2Zqa1NlX2Q3NUdrbUNwdTZULTBmQUppMW9zRVVUQmJJOUROSS1TMVdteVRWMHNkVFZxeFVOOEJCVzdpQ2NQaFcxU1A00gH8AUFVX3lxTE40OXA0NmhTcW1aODJKa2hIZWk5cDF2Z0VpRzE3V0NheFpLYlhyMWh0MERMZ2RQa1BOQmhUY0hmdXh4bFpwOW8tcmthcEcxeWp1QlZMX0JVaDlHWXF0WFNRb3FJNmVyOEUxbk5UbzlyZ0FrYjAwWjFTS0UwSUJjbzRYY3I2WHA3dFJtNC1Gb2gxOVJFX1I0VUIySG14TWZUYmphbTFaMURVZVlRME5UM2JOMndNeVJfNEZ3WkZfX3NjMGFQQ1JPczd3X1Rza2F4TzVJUW9xYkkzZ0V4ZUFIS3ZSRC1pa2VuOTNFV1NGdDVyTnkyWll3b0tzWGZQYw?oc=5",
+   "date": "2026-10-13",
+   "source": "ETLegalWorld.com",
+   "label": "PMS",
+   "snippet": "The Securities and Exchange Board of India (Sebi) has updated its portfolio management services framework, expanding investment opportunities for portfolio managers in IPOs, debt securities, and international markets, effective April 1, 2027.",
+   "lead": "Markets regulator Sebi has notified the portfolio management services (PMS) framework, allowing portfolio managers to invest in Initial Public Offerings ( IPOs ), primary market debt issuances, and a wider range of overseas securities, while introducing a separate route for them for investing in mutual funds . The Securities and Exchange Board of India (Portfolio Managers) Regulations, 2026, which replace the existing 2020 framework, ...",
+   "image": "https://etimg.etb2bimg.com/thumb/msid-134917689,imgsize-92514,width-1200,height=627,overlay-etlegal,resizemode-75/regulators/sebi-notifies-pms-rules-broadens-investment-avenue-for-portfolio-managers-introduces-prim-route.jpg",
+   "why": [
+    "PMS news",
+    "Regulator: SEBI or RBI",
+    "Also covered by 2 other outlet(s)"
+   ],
+   "tags": [
+    "PMS"
+   ],
+   "rank": 5,
+   "must_read": true
+  },
+  {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 92,
    "title": "Zetwerk sets IPO price band at Rs 143-151, aims to raise Rs 5,012 Cr",
    "url": "https://yourstory.com/2026/10/zetwer-sets-ipo-price-band-rs-143-151-to-raise-rs-5012-cr",
@@ -550,12 +554,12 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 12,
+   "score": 11,
    "priority": 92,
    "title": "Singularity AMC pays over Rs 40 lakh to settle AIF rule violation case with Sebi",
    "url": "https://economictimes.indiatimes.com/markets/stocks/news/singularity-amc-pays-over-rs-40-lakh-to-settle-aif-rule-violation-case-with-sebi/articleshow/134897222.cms",
@@ -573,12 +577,12 @@
    "tags": [
     "AIF"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 12,
+   "score": 11,
    "priority": 92,
    "title": "India 10-Year Bond Yield Surges To 7.35% As RBIs ₹25,000 Crore OMO Sale, Rate Hike Rattle Markets",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNjlJdVlmQkc2MVNnREFFcGhKaDlxMWNfcGFNR0hRR09BRUE0ZVNMS2JXMDhsVGs1NTJiVHNlSUZ4WEFQVTcweWg0REhPVUJTV19Ocnd3WVE0SWZzcUljSERESTlHSTNfLWtDS19lTkhMQ255QXlia2l0ekxKZ0c0a3VFbGRTLUZ2SC1VeUQzS21jNmhpeXVKOFZiMENZeEVUSEI3OXVlc2lIUHlXdWdCZElENW5NR2lLV2JpYy1lMmVXT2dKamJicVhmNWFFQdIB0wFBVV95cUxQT1k3UUctNFBaTks1d2h0Tjh4R1gxRlp5UjRTU1BZMUJKNGNzbV9HMnFsM1ozakNZVmRYcDNKdTBjMDJ0VGN5YjE3T0dWVlNOSFBXQ2YyZlVMRXFpME15MVF1TnphNWh5R3R2X0dKS05YcHlZbmpBYkJGelJ5Z0VYdXZ5VHp1U2tvWGRuc3BvZlpnQkJSRzFWcGNRX2hINEdsbHFVRGpyUlVHa0k3SHpmWkcySE5fRGEtMGxwVFByZk1nMUgyRXFyMGVVM2U3d3l0ME1v?oc=5",
@@ -597,12 +601,12 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 12,
+   "score": 11,
    "priority": 92,
    "title": "Inflation may surge to 6-7%, RBI may need to raise repo rate by 100-150 bps: Report",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaG9yQVBMOTZWQV9tQ19TaG5YQzl5UFhadVZKemNTVEM5b0VCaWtrT252QlNCYmhENURXT005eERDSjRBNjNmc0d1OGcydlUzNldqOXJaM0FfUzVWaEp5SkFDUkc3UUV3bnpZdWU3UjVHZU5LNXNYYjVhMmhlaDBVZThpYVhOTExVcnZlLS1vRFdyV2lIbEJXbE1Zci1VRmhObmxsd1l1allYclNCcE02dmQ4TWpOYUdwejNwMXB3MXh1Z0hNWEVxVkJsYkpYLXhIbkg1c0FNSXNaZUpZaThLclB4ajRtM2E0VEhVadIB8gFBVV95cUxQNXZqRXNnbWhtcWs4cERQeHF2VDdEUEthOEtzeW9GYk5peWRQMHktRFFwTWVneV9aeW1pM3JzZkE1WlVudlZKREswdS1EUWFwcDBReDFibnZGc2hXX3NiR1ppeFpCREpxdmhMRUF0amx1aGdNY2tRcGVzQjhGRGZSTnM4akk0UklRUEJiRE0tNU4tOEs2TFA5eWoyZXFaWVhyVHN0aW1oUU1KWHJ2dTRVWjRTZVhYVG14OWd1Z2NFcjJTdXp1WmxqZDEybHMyVHZ5ODhGbVpMVi0yRzlUWHE4SmEyMnlvSk1ObGRkRjdHUVhQZw?oc=5",
@@ -620,37 +624,13 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 12,
-   "priority": 92,
-   "title": "Securities and Exchange Board of India (Mutual Funds) (Second Amendment) Regulations, 2026",
-   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-mutual-funds-second-amendment-regulations-2026_105153.html",
-   "date": "2026-10-10",
-   "source": "SEBI",
-   "label": "Markets & Regulation",
-   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Touches financial markets",
-    "Regulator: SEBI"
-   ],
-   "tags": [
-    "Markets & Regulation"
-   ],
    "rank": 9,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 11,
-   "priority": 85,
+   "score": 10,
+   "priority": 83,
    "title": "Amansa Investments, SBI Mutual Fund, others invest Rs 413 Cr in Tonbo Imaging ahead of IPO",
    "url": "https://yourstory.com/2026/10/amansa-investments-sbi-mutual-fund-others-invest-rs-413-cr-tonbo-imaging-ahead-ipo",
    "date": "2026-10-13",
@@ -672,8 +652,8 @@
   },
   {
    "desk": "Startups",
-   "score": 11,
-   "priority": 85,
+   "score": 10,
+   "priority": 83,
    "title": "Tencent sells dollar, dim sum bonds amid AI spending spree",
    "url": "https://economictimes.indiatimes.com/tech/technology/tencent-sells-dollar-dim-sum-bonds-amid-ai-spending-spree/articleshow/134906672.cms",
    "date": "2026-10-13",
@@ -694,32 +674,9 @@
    "must_read": false
   },
   {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 85,
-   "title": "Bitcoin price prediction: Why BTC USD can drop before a Fed rate hike and rally after",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRzJCWTJqSGx6aUN5ejNFWEszNjZmUTFJa1o1QVBIUEVQUUc3aW9Jb3o1ZmY5Y1M4X29tVjYzV2h3WEs3dlJOTEpTQVRmb0M2bEJiNjktY0Q4YzJIYWJiZjE5bDdWczZKOGZDb2RMX2tTMlQyY1Jmc2gydUVDRS14NkEtU2RTSnlxcm5PRVpuM2t2V0prTHM5czl1cm5GT2dfMGlwQlpKQ2cxSTR5bnl1cEhjOENncS13T2NvS1lOUXNLMHhSMTR1V3Y1ZWNNdGNxaHZ0elM2VWN4SHI0a0pJNHFaVU1KUEt30gHuAUFVX3lxTFB4MUo3NEUtTTcxLU9LZXA2UGpBQTBEUkxNMFlDNkE2ay13LW1fTEVGRkxjNndIWGNYUEN0cFBiTVhMemYxOUMwNjU1VVJGTE5UVTJEejdnUU9CdjJuMy03NVM5UHdPSTNnLVc3WE1GMTl5X2J1d1duMWVoUkZYWTBkRkVuN2E0NlNYa3c2a0FDOTlpeEZBeHJjVU1oeFBYNFJBVV8tbXFUR2FvMEYwSFJTZzRQT2kwZ2xWbGQxVENJaEhXSnVaTWExTUJCaG9FLWt3M2t2Rmptb1FLSjZMbkcySm02WkRBbTJSZ2VYeUE?oc=5",
-   "date": "2026-10-13",
-   "source": "The Economic Times",
-   "label": "Global",
-   "snippet": "Explore the impact of Federal Reserve rate hikes on Bitcoin prices, examining the relationship between interest rates and investor behavior in the crypto market.",
-   "lead": "Bitcoin price prediction: Why BTC USD can drop before a Fed rate hike and rally after Simone Biles’ $1.275 million Texas home found a buyer in 6 days, while Deshaun Watson’s took years Social Security 2027 COLA could be the biggest since 2023: How it compares with the 8.7% increase",
-   "image": "https://img.etimg.com/thumb/msid-134902195,width-1200,height-900,imgsize-134478,overlay-economictimes/articleshow.jpg",
-   "why": [
-    "Interest-rate decision",
-    "Global macro driver",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Global"
-   ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
    "desk": "Startups",
-   "score": 11,
-   "priority": 85,
+   "score": 10,
+   "priority": 83,
    "title": "RDI Fund Announces First Cohort Of 19 Fund Managers, Eyes Deploying ₹7,131 Cr To Strengthen Deeptech Startups",
    "url": "https://inc42.com/buzz/rdi-fund-announces-first-cohort-of-19-fund-managers-eyes-deploying-%e2%82%b97131-cr-to-strengthen-deeptech-startups/",
    "date": "2026-10-12",
@@ -736,13 +693,13 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 13,
+   "rank": 12,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 11,
-   "priority": 85,
+   "score": 10,
+   "priority": 83,
    "title": "Ecomm festive sales hit Rs 24,000 Cr in two days; VC funding drops as large deals dry up",
    "url": "https://yourstory.com/2026/10/ecomm-festive-sales-hit-rs-24000-cr-in-two-days",
    "date": "2026-10-12",
@@ -759,13 +716,37 @@
     "Funding",
     "Commerce & D2C"
    ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 83,
+   "title": "RBI issues Amendment Directions on 'Standardised Approach for Counterparty Credit Risk (SA-CCR)’",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63750",
+   "date": "2026-10-07",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "The Reserve Bank of India had issued draft Amendment Directions on the ‘ Standardised Approach for Counterparty Credit Risk (SA-CCR)’ on June 10, 2026 , inviting feedback from stakeholders until July 1, 2026. The draft Amendment Directions proposed modifications to the instructions on capital charge for counterparty credit risk as provided in Master Direction on Forthcoming Instructions for commercial banks. Key revisions included: (i) ...",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change",
+    "Touches financial markets",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
    "rank": 14,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 9,
-   "priority": 82,
+   "score": 8,
+   "priority": 80,
    "title": "Denmark to slash work permit salary threshold for some applicants by almost 20,000 kroner",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2JNVDlfeUktcWo5NTI0SEVtbWEtRlRZeGtSQy1WSE1meFFYVTFFLXl2SHg5Ry1zSXMxRERnT2NwczdDM2s5d3JKRUZCTEF3dWhuRGdGSjN2UFhVQVFCR1MzMnJ2YTdPM0Y3WmJ5cU9uOThPbG03aFhLQVhwaWZyX1BxaHpWSVk0SWUtbTU2SmE4X0VqWGQycTg4OWZ3SkptallTWUhUNkpmUm5Bdjk2TXQtMnU1ZWR2Wi1XZw?oc=5",
    "date": "2026-10-13",
@@ -787,8 +768,8 @@
   },
   {
    "desk": "Policy",
-   "score": 10,
-   "priority": 77,
+   "score": 9,
+   "priority": 75,
    "title": "Securities and Exchange Board of India (Portfolio Managers) Regulations, 2026 (With effect from April 1, 2027)\"",
    "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-portfolio-managers-regulations-2026-with-effect-from-april-1-2027-_105159.html",
    "date": "2026-10-12",
@@ -809,54 +790,52 @@
   },
   {
    "desk": "Policy",
-   "score": 10,
-   "priority": 77,
-   "title": "RBI issues Amendment Directions on 'Standardised Approach for Counterparty Credit Risk (SA-CCR)’",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63750",
-   "date": "2026-10-07",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The Reserve Bank of India had issued draft Amendment Directions on the ‘ Standardised Approach for Counterparty Credit Risk (SA-CCR)’ on June 10, 2026 , inviting feedback from stakeholders until July 1, 2026. The draft Amendment Directions proposed modifications to the instructions on capital charge for counterparty credit risk as provided in Master Direction on Forthcoming Instructions for commercial banks. Key revisions included: (i) ...",
+   "score": 9,
+   "priority": 75,
+   "title": "Recommendations of the 57th Meeting of the GST Council",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320934",
+   "date": "2026-10-08",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "The 57th Meeting of the GST Council was held today in New Delhi, under the chairpersonship of the Un",
+   "lead": "Ministry of Finance Recommendations of the 57th Meeting of the GST Council GST Council recommends removal of arrest provisions under GST GST Council recommends raising prosecution threshold from ₹1 crore to ₹5 crore GST Council recommends reduction in general penalty from ₹25,000 to ₹10,000 GST Council recommends wider eligibility for input tax credit and refunds GST Council recommends further simplification of registration and ...",
    "image": null,
    "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Touches financial markets",
-    "Regulator: RBI"
+    "GST change",
+    "Ministry of Finance"
    ],
    "tags": [
-    "Banking & Rates"
+    "Tax, Duties & Trade"
    ],
    "rank": 17,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 10,
-   "priority": 77,
-   "title": "Cabinet approves setting up of Integrated Transport & Logistics Authority",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2319529",
-   "date": "2026-10-06",
-   "source": "PIB",
-   "label": "Infrastructure & Transport",
-   "snippet": "The Union Cabinet, chaired by Prime Minister Shri Narendra Modi, today approved the setting up of a",
-   "lead": "Cabinet Cabinet approves setting up of Integrated Transport & Logistics Authority Posted On: 06 OCT 2026 3:07PM by PIB Delhi The Union Cabinet, chaired by Prime Minister Shri Narendra Modi, today approved the setting up of a Special Purpose Vehicle (SPV), namely, Integrated Transport & Logistics Authority (ITLA) to strengthen research, planning, appraisal, monitoring and impact assessment within the broad domains of Transportation and ...",
+   "score": 9,
+   "priority": 75,
+   "title": "Monetary Policy Statement, 2026-27 Resolution of the Monetary Policy Committee October 5 to 7, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+   "date": "2026-10-07",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "The Monetary Policy Committee (MPC) held its 63rd meeting from October 5 to 7, 2026, under the chairmanship of Shri Sanjay Malhotra, Governor, Reserve Bank of India. The MPC members Dr. Nagesh Kumar, Shri Saugata Bhattacharya, Prof. Ram Singh, Dr. Poonam Gupta and Shri Indranil Bhattacharyya attended the meeting. 2. After a detailed assessment of the evolving macroeconomic and financial developments and the outlook, the MPC voted ...",
    "image": null,
    "why": [
-    "Cabinet decision",
-    "Cabinet"
+    "Rates and liquidity",
+    "Regulator: RBI"
    ],
    "tags": [
-    "Infrastructure & Transport"
+    "Banking & Rates"
    ],
    "rank": 18,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 8,
-   "priority": 73,
+   "score": 7,
+   "priority": 70,
    "title": "NZ First to abolish Accredited Employer Work Visa",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamFzRFh2T25mNTJkRWkzVXU0ZmlybjlTX1ZJVXAtYkVyUGZGWk9ndnI2eTEyWWdfYmxYRU9BMmdfR3dwSzJpTEp0Y1JGcUV1aWZWYUZqeGlNVGhWbHk2Zm5kY3BrMHNQMFZyWHd5enAtOUl2aUZCXzB1UVJRV0lKa1RDUkk?oc=5",
    "date": "2026-10-12",
@@ -877,41 +856,43 @@
    "must_read": false
   },
   {
-   "desk": "Policy",
-   "score": 9,
-   "priority": 69,
-   "title": "Recommendations of the 57th Meeting of the GST Council",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320934",
-   "date": "2026-10-08",
-   "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "The 57th Meeting of the GST Council was held today in New Delhi, under the chairpersonship of the Un",
-   "lead": "Ministry of Finance Recommendations of the 57th Meeting of the GST Council GST Council recommends removal of arrest provisions under GST GST Council recommends raising prosecution threshold from ₹1 crore to ₹5 crore GST Council recommends reduction in general penalty from ₹25,000 to ₹10,000 GST Council recommends wider eligibility for input tax credit and refunds GST Council recommends further simplification of registration and ...",
-   "image": null,
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 70,
+   "title": "Finland to introduce citizenship test in March 2027",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONTc0bGZpaXlXVDU4UUFzZ0JTVlRUc2RhdHVPT2x6T3VZcWx4SG9tRE9VQVMyWWVuVXBYeTJvckN4bm1BcFVrQXNmdWVzRzVxT2k3UXNSTDZhZE1BLWpSR3RHcTV2YnNSWUcyelJuenZ4MGktVnlZN2Qwb3ZLUVA4MHh2V3BNWTVTOS1FdlZVQ0xTZkh6a3Y0SEpUQ2Fkd3M4eElFemZQNTBQd3l4SmRTbjhnYjI3V01XTThBOUtR?oc=5",
+   "date": "2026-10-09",
+   "source": "Helsinki Times",
+   "label": "Finland",
+   "snippet": "Finland will introduce a citizenship test in March 2027, requiring applicants aged 18 to 64 to demonstrate knowledge of Finnish society, laws and history.",
+   "lead": "Finland will introduce a citizenship test from 1 March 2027, requiring most applicants aged between 18 and 64 to demonstrate knowledge of Finnish society, laws and history before obtaining citizenship. The Finnish Immigration Service (Migri) announced the arrangements on Friday as part of changes to the country's Citizenship Act. The amendments will enter into force on 1 January 2027 , but a two-month transition period means the test ...",
+   "image": "https://www.helsinkitimes.fi/images/2025/03/pass_port_.jpg",
    "why": [
-    "GST change",
-    "Ministry of Finance"
+    "Affects citizenship",
+    "Announces a change"
    ],
    "tags": [
-    "Tax, Duties & Trade"
+    "Citizenship",
+    "Finland"
    ],
    "rank": 20,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 9,
-   "priority": 69,
-   "title": "Monetary Policy Statement, 2026-27 Resolution of the Monetary Policy Committee October 5 to 7, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+   "score": 8,
+   "priority": 67,
+   "title": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13735&Mode=0",
    "date": "2026-10-07",
    "source": "RBI",
    "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The Monetary Policy Committee (MPC) held its 63rd meeting from October 5 to 7, 2026, under the chairmanship of Shri Sanjay Malhotra, Governor, Reserve Bank of India. The MPC members Dr. Nagesh Kumar, Shri Saugata Bhattacharya, Prof. Ram Singh, Dr. Poonam Gupta and Shri Indranil Bhattacharyya attended the meeting. 2. After a detailed assessment of the evolving macroeconomic and financial developments and the outlook, the MPC voted ...",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026 Please refer to paragraph 77(6) (i) of the Reserve Bank of India (All India Financial Institutions (AIFIs) - Prudential Norms on Capital Adequacy) Directions, 2025 , on the requirement for clearing member financial institutions to obtain legal opinion. On a review, it has been decided to amend these ...",
    "image": null,
    "why": [
-    "Rates and liquidity",
+    "Regulator rulebook change",
+    "Rule change",
     "Regulator: RBI"
    ],
    "tags": [
@@ -921,46 +902,46 @@
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 64,
-   "title": "Canada invites 752 provincial nominees to apply for permanent residence",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeGw2b1hzNkxIU3lJTEdUOXM5Q2JMdUhJSmJFVXRFOHk0WEQ2R2tmN0hoejdRcHdqdklMMWpiTDBxTXJRNk9Eb0pUUHozZVJ6NE9qOTN1N295Y1JfSmV3a3JYY2JBX0QxbjBMOFNSb2dWdFJqVHNzUVloZ2dMVTVMWDgwVktYQmpmXy13N0FneDRoMlQtQXRTcWo4UExKOGRMaU9XTGE0d0NzbjRWdE9qUTNocXFQLWPSAbwBQVVfeXFMTWRUWldaVk1ubm9pdVlQemRVU2I2RmU4V2dIVTJBaERBRlZwN2dBdXB5TW91Ym5JdGtTS3pzaERoVmpvTGthbXVnNjN6czhVcE5MVnNkY2VqNUhWeGt1ZHB0LURTZm9xN0U0VTJKUkRMakRScThzaFlDNjRNT1hzWHdodkd5TXpaUWlQRW9GVDlBZXZhMDZqVFdoV3pLb3FWd1kwMkU5eHFGMWdqNG84TFlWRHNfUFpqTkhkWHU?oc=5",
-   "date": "2026-10-13",
-   "source": "CIC News",
-   "label": "Canada",
-   "snippet": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 752 ITAs in a draw for Express Entry candidates with a provincial nomination. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (C",
-   "lead": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 752 ITAs in a draw for Express Entry candidates with a provincial nomination. Foreign nationals in Canada who submit an application for permanent residence through Express Entry may also qualify for a Bridging Open Work Permit (BOWP).",
-   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/EXPRESS-ENTRY-DRAW-60.jpg",
+   "desk": "Policy",
+   "score": 8,
+   "priority": 67,
+   "title": "Reserve Bank of India (Commercial Banks – Miscellaneous) Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13731&Mode=0",
+   "date": "2026-10-07",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Reserve Bank of India (Commercial Banks – Miscellaneous) Amendment Directions, 2026 Please refer to Sub-section D of Chapter IV of the Reserve Bank of India (Commercial Banks - Miscellaneous) Directions, 2025 on deferment of option premium. 2. On a review, consequent to the issuance of the Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Amendment Directions, 2026 , and in exercise of the powers conferred by Section ...",
+   "image": null,
    "why": [
-    "Affects permanent residence"
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: RBI"
    ],
    "tags": [
-    "PR / Settlement",
-    "Canada"
+    "Banking & Rates"
    ],
    "rank": 22,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 7,
-   "priority": 64,
-   "title": "Finland to introduce citizenship test for foreign applicants in 2027",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSV9TdnFyanQ5TkhoNVU1TzBveDdYaUtnSEU4c1FCdVM3bDdnWko1d1ZrVGNmc0RaOWx2M2kyWDZoV3ZtTXlnOXZpTmxVQWw0WnNzd01Bc3dzQnhqSGQzTklIVVNfeEF5UldRckpnQnRheUx6aTVpZXRCUUZIOEFhc2p5b25wNDZvdXNERHgtYWFhM0xzeFE?oc=5",
-   "date": "2026-10-11",
-   "source": "Scandasia",
-   "label": "Finland",
-   "snippet": "Finland to introduce citizenship test for foreign applicants in 2027 is an Article written by Scandasia, the only website, magazine and online publication that serves all the expats from Denmark, Sweden, Norway and Finland living in Southeast Asia and China.",
-   "lead": "Foreign residents applying for Finnish citizenship will face a new citizenship test from March 2027 as Finland introduces stricter requirements for becoming a citizen. The Finnish Immigration Service (Migri) announced on 9 October that preparations for the new test are underway, with the first examinations expected to take place in March next year. The requirement will apply to applicants aged between 18 and 64 who submit their ...",
-   "image": "https://scandasia.com/wp-content/uploads/2026/10/finntest.jpg",
+   "score": 6,
+   "priority": 60,
+   "title": "BREAKING: Proof of Canadian citizenship wait reaches 34 months in October, as queue shrinks for the first time",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUlNaTDJ2VmYwbFZ4dnZxdW9JTVFGNV9oQ3F4dlJUcUdEakRwblpjVW42VXZORmc5ZFNRVGplNHFpZzdaVk9rS08ya2ZscmRaeDlYS1MzQWhhS2xBSFROcFV0dzNISnlGZVgyM05MVWd5cmZ6bkIwOWlIdkVNTGFlN2I1NEdhUnkxMTdjcE5PdG1ZOGNsMlhuUVpYQTR0M1k0eXZOX3RZVk05dlg2S0HSAbMBQVVfeXFMTWJhcVk1U0QyT1BpdmxmZVhQcW1LaWdPMHR4TkJ6bzY4VWF1c1c1UjNTQTI3MElkYUVQT2hQRnlpVW1Wd0dIbkFYSkRnWnRaczJJbnpwN2FlWno5eTFuMWFLMmtZb0JBMFZkVVh0NnlxQ2RmSzZjbDhhN3BfSGo0QXhIYjBkLUUwRWxzN3g2b0VQeC1UM1VCc1EyTW93VlEzdXpseXpidjRBVmtTRlNCTVpVRVU?oc=5",
+   "date": "2026-10-13",
+   "source": "CIC News",
+   "label": "Canada",
+   "snippet": "A new application for proof of Canadian citizenship now takes 34 months to process. Immigration, Refugees and Citizenship Canada (IRCC) updated its processing times tool on October 9, adding one month to September’s figure of 33 months. Get a Free Consultation on Applying for Proof of Canadian Citizenship That single month is the smallest",
+   "lead": "A new application for proof of Canadian citizenship now takes 34 months to process. Immigration, Refugees and Citizenship Canada (IRCC) updated its processing times tool on October 9, adding one month to September’s figure of 33 months. That single month is the smallest increase since the wait began climbing in May of 2026.",
+   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/americans-canadian-citizenship-processing-wait-1200x800-optimized-1.jpg",
    "why": [
-    "Affects citizenship",
-    "Announces a change"
+    "Affects citizenship"
    ],
    "tags": [
     "Citizenship",
-    "Finland"
+    "Canada"
    ],
    "rank": 23,
    "must_read": false
