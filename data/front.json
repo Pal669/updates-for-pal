@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-13",
- "built": "2026-10-13 12:34 IST",
+ "built": "2026-10-13 23:19 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,44 +12,44 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22547.0,
-   "change_pct": 0.82,
-   "asof": "13 Oct 12:34 IST"
+   "value": 22722.0,
+   "change_pct": 1.6,
+   "asof": "13 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72462.0,
-   "change_pct": 0.75,
-   "asof": "13 Oct 12:19 IST"
+   "value": 73034.0,
+   "change_pct": 1.54,
+   "asof": "13 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.25,
-   "change_pct": -1.62,
-   "asof": "13 Oct 12:34 IST"
+   "value": 95.27,
+   "change_pct": -1.6,
+   "asof": "13 Oct 19:48 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 105.34,
-   "change_pct": -1.23,
-   "asof": "13 Oct 12:24 IST"
+   "value": 105.67,
+   "change_pct": -0.92,
+   "asof": "13 Oct 23:08 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4214.0,
-   "change_pct": 0.55,
-   "asof": "13 Oct 12:24 IST"
+   "value": 4179.0,
+   "change_pct": -0.28,
+   "asof": "13 Oct 23:09 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.24,
-   "change_pct": -0.08,
-   "asof": "13 Oct 00:29 IST"
+   "value": 5.22,
+   "change_pct": -0.4,
+   "asof": "13 Oct 23:04 IST"
   }
  ],
  "features": {
@@ -79,9 +79,29 @@
  },
  "desks": {
   "Policy": {
-   "total": 188,
-   "new_today": 0,
+   "total": 191,
+   "new_today": 3,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 8,
+     "priority": 62,
+     "title": "Detailed Result: OMO Sale Auction held on Oct 13, 2026 and Settlement on Oct 14, 2026",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63798",
+     "date": "2026-10-13",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Regulator: RBI",
+      "Large outlay (Rs 10,000 Cr or more)"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 8,
@@ -143,33 +163,56 @@
      "tags": [
       "Other Policy"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 7,
-     "priority": 54,
-     "title": "Penal Interest on shortfall in CRR and SLR requirements - Change in Bank Rate",
-     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13728&Mode=0",
-     "date": "2026-10-07",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Notifications - Reserve Bank of India",
-     "lead": "Penal Interest on shortfall in CRR and SLR requirements - Change in Bank Rate Please refer to our circular DoR.RET.REC.341/12.01.001/2025-26 dated December 05, 2025 on the captioned subject. 2. As announced in the Monetary Policy Statement, 2026-27 dated October 07, 2026 , the Bank Rate is revised upwards by 25 basis points from 5.50 per cent to 5.75 per cent with immediate effect. Accordingly, all penal interest rates on shortfall in ...",
-     "image": null,
-     "why": [
-      "Rates and liquidity",
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 608,
-   "new_today": 29,
+   "total": 635,
+   "new_today": 56,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "Swara Baby Products Secures SEBI Nod For ₹1,000 Cr IPO",
+     "url": "https://inc42.com/buzz/swara-baby-products-secures-sebi-nod-for-%e2%82%b91000-cr-ipo/",
+     "date": "2026-10-06",
+     "source": "Inc42",
+     "label": "India · Policy & Regulation",
+     "snippet": "Swara Baby Products has secured SEBI approval for its ₹1,000 Cr IPO, including a ₹500 Cr fresh issue and ₹500 Cr OFS",
+     "lead": "Swara Baby Products has received SEBI approval for its proposed ₹1,000 Cr IPO, comprising a ₹500 Cr fresh issue and ₹500 Cr OFS FirstCry parent Brainbees Solutions owns a 76.6% stake in Swara Baby Products and plans to offload shares worth up to ₹300 Cr through the OFS The company plans to use the fresh issue proceeds to fund a new manufacturing facility in Madhya Pradesh, repay debt, and pursue acquisitions",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/neogeo-funding-social-.png",
+     "why": [
+      "IPO & Listing",
+      "Large deal (about $105M)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "IPO & Listing",
+      "Policy & Regulation"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "GreenCell Mobility Raises ₹330 Cr To Expand Electric Bus Fleet",
+     "url": "https://inc42.com/buzz/greencell-mobility-raises-%e2%82%b9330-cr-to-expand-electric-bus-fleet/",
+     "date": "2026-10-13",
+     "source": "Inc42",
+     "label": "India · Mobility & EV",
+     "snippet": "Everstone Capital-backed EV startup GreenCell Mobility has raised ₹330 Cr ($34.6 Mn) in an equity funding round led by Impact Fund Denmark",
+     "lead": "GreenCell Mobility has raised ₹330 Cr ($34.6 Mn) in an equity funding round led by Impact Fund Denmark to support the rollout of about 4,500 electric buses currently under deployment GreenCell Mobility acquires electric buses via contract manufacturing arrangements with vendors and then deploys them for both intercity and intracity travel The Mumbai-based startup is eyeing expanding its fleet to more than 5,000 e-buses across 105 ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/greencell-funding-featured-760x570-1.png",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $35M)"
+     ],
+     "tags": [
+      "Funding",
+      "Mobility & EV"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -209,59 +252,38 @@
      "tags": [
       "IPO & Listing"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Zetwerk IPO: Fresh issue size raised to Rs 2,830 crore, OFS grows 49%",
-     "url": "https://economictimes.indiatimes.com/tech/technology/zetwerk-ipo-fresh-issue-size-rises-to-rs-2830-crore-ofs-grows-49/articleshow/134868750.cms",
-     "date": "2026-10-11",
-     "source": "ET Startups",
-     "label": "India · Other",
-     "snippet": "The number of selling shareholders remains unchanged at 24, but eight institutional investors, including Peak XV Partners, Lightspeed Venture Partners, Accel, and Kae Capital, have increased the number of shares they plan to sell. Founders Amrit Acharya and Srinath Ramakkrushnan will be selling the same number of shares, about 14.2 millio",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-28190,resizemode-75,msid-134868750/tech/technology/zetwerk-ipo-fresh-issue-size-rises-to-rs-2830-crore-ofs-grows-49.jpg",
-     "why": [
-      "IPO & Listing",
-      "Large deal (about $298M)"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-     "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-     "date": "2026-10-08",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-     "lead": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months Julie Bort 11:19 AM PDT · October 8, 2026 Arena , which originated in 2023 as a research project at UC Berkeley that crowdsourced rankings of AI models, has raised a $200 million Series B round at a $3.1 billion valuation, it said on Thursday. This comes after the company said it reached $100 million in annualized run-rate revenue in June. The round ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $3,100M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 927,
-   "new_today": 6,
+   "total": 942,
+   "new_today": 21,
    "items": [
     {
      "desk": "Immigration",
+     "score": 7,
+     "priority": 64,
+     "title": "'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN1Y0NmhScExoSGhOZzJmbk1FY25fSGhKU0JqaXJaZmtSWTVKVGZOWGVQX3B5S0w3Sk9NZ19CbVljOFh0SXpkcXZDY1NzMlpxN3JZbHhiZnBhVFJQNlRzN2RWWElGNm5xZDBIVWtocjdzWUd0d0pjQTlLb0J3ZmNjVVhXLUxINFdxQk92SXZ3aFFROVNBTVcxdVBDbG9hZ0Z0QThIVFV6SjVLUlNsRjI5VEw3b092VWtmd3F4VmZGYUZHSi1QaTJiMWMyRVRCUm1manfSAdcBQVVfeXFMTmM2NVAzWXFnLWNETEUtVUVJWWRGUzRpRERacmZ2WjdsV1JjaUxhUHpuejVpN3h6TWJiNGhIX3prbUJXNXNlR0hwWG00b2RQampmRHZYbDJoRDJKOHN1bWpXZXNmUXo5QVU5cXNDdlhUcFVOU1I1VnRiQ1NtMGhpUmR6amRPTmM2N2VnVVFfNFFFZEJCLW9TbS03dncxZFM0SHFHUF92RTY4SW4xT2xwSjNvenI5Z0dYRTBMQW9uU0p1bGlnd0ROTnFtYUhGa3RQeEVwd093ZzQ?oc=5",
+     "date": "2026-10-06",
+     "source": "WION",
+     "label": "Australia",
+     "snippet": "Indians planning to move to Australia could face tighter opportunities if the country's conservative opposition comes to power. Opposition Leader Angus Taylor has unveiled the \"biggest cut to immigration\" in history. Here's all you need to know.",
+     "lead": "Live TV LOGIN v logout Live TV Latest Gravitas World India Entertainment Hollywood Bollywood Sports Opinions videos Photos TV Shows Mission Sustainability Wion / World / 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians Edited By Moohita Kaur Garg Published: Oct 06, 2026, 14:13 IST | ...",
+     "image": "https://cdn3.wionews.com/prod/wion/images/2026/20261006/image-1791274946407.png?imwidth=1200&imheight=900",
+     "why": [
+      "Announces a change",
+      "Major story (10 headlines that day)",
+      "Mentions India or Indians"
+     ],
+     "tags": [
+      "Australia"
+     ]
+    },
+    {
+     "desk": "Immigration",
      "score": 6,
-     "priority": 60,
+     "priority": 55,
      "title": "Japan PM faces calls for immigration cap as she weighs policy on foreigners",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWF3VS1HcWpsME1QR1Y4ZWt2Y1B0c2pSTVJmWTNnLW9uNDN5UWh2Smk0RVYtZ2U4cnE3NDBvZkFzaVBPdEFHMHU1MVdJUzJPaDlhNGEtRURJekk1c2hXajNnUU1fMWFWWHhnV0V0Y0c4WTBnSWxQNkZWQVdPV3NDbkE0TVVhaUZEbHFxV0gxM1RKOWVZUXNkc19LWWFmTkg3UU5zejFiTWtvMnFYaDB0aENGMlZRQ3h2elJQRHNkWHZPQVhyREE?oc=5",
      "date": "2026-10-10",
@@ -282,7 +304,7 @@
     {
      "desk": "Immigration",
      "score": 6,
-     "priority": 60,
+     "priority": 55,
      "title": "U.S. visa delay forces senior Korean lawmaker to reroute parliamentary audit trip",
      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdWhXQUlYeDhWeUpxRk1FVkdEWG5sT2dsWEp6ZGJfYy1tOUlyMXdvWEhSM3loQmk1TEp5clNFWUN4MEg4NngzenRGZkVHaURlWEdicjRxbXphd2lTbXUxa1FwNHNYclBYSDlNeThzRTJDYTlXbTRGSDMyRDkwODFNTm4zMy0tc1JFeVRNbnpWUUM2NG04SWZ4Zi15dGQ5ZDhDNGFwdXJCcGZLWXV6OGlMOTZKek1hVWFYSVpiTXNWei1KcUxHZWNFVQ?oc=5",
      "date": "2026-10-09",
@@ -299,6 +321,25 @@
      "tags": [
       "Politics / Election",
       "South Korea"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 45,
+     "title": "India-Switzerland mobility pact explained: Visas, work and study rules",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcmpVZ0lrcFVwMUlPQnFBczZ0ZEVCWllYd1JTaEdLdFp3UHV2V2lIaVRpeVNlaHVBVlJuaUNLYkZEbk1hZ3lobjdYN05ZZF8zWFVTNVEzU2tKd0JCcWFvRjd3aG9MeHJPU3ZPeHh0YkRKcXExYzJuVzRyZlFiRkVWR25rbVIxU2lLWUxNdEJWa2t1Y0RTckpzUDRoMk8yXzhSb2pjbXRidmo4ZVpUUE9VVnpCUFE1NHZTTWRFWFFsTU5RSy1BY2h2RUVnVmlhRFnSAdQBQVVfeXFMTnEzRmtrbUR5SXdMVUdQRFlfX0NEQl9VMWNKRFRjQ2k5bllCZVQtX1JhVFJVRkVpMzJiMlFQTkN3WFVKTTh6RGhXSllCdnN0aDBmTXh0R2YwYmlZRnp4RWU1SHlmWjNIVDdPWmlvVjE1ZjBZejJwazNIbS1PUEt2N3hWLUU0YzFNZFZHd1oxSkZuejNJYW0xSVFvYzlJbUFTcVNWQ1JlR3Fldnl5WUhqOHR6UjB4a2pBUDBZdFFHMUwyMlJOQTNMNHRVZ2RVSFNwRWZlZC0?oc=5",
+     "date": "2026-10-13",
+     "source": "Business Standard",
+     "label": "Switzerland",
+     "snippet": "Two agreements provide for multiple-entry visas of up to five years, renewable student permits and temporary work opportunities for eligible young professionals.",
+     "lead": "Don't miss the most important news and views of the day. Get them on our Telegram channel",
+     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-08/21/thumb/featurecrop/1200X628/1724222323-0529.jpg",
+     "why": [
+      "Mentions India or Indians"
+     ],
+     "tags": [
+      "Switzerland"
      ]
     }
    ]
@@ -422,11 +463,11 @@
   },
   {
    "desk": "Immigration",
-   "score": 10,
+   "score": 11,
    "priority": 100,
    "title": "Guidance: EU Settlement Scheme: caseworker guidance",
    "url": "https://www.gov.uk/government/publications/eu-settlement-scheme-caseworker-guidance",
-   "date": "2026-10-12",
+   "date": "2026-10-13",
    "source": "GOV.UK (UK Visas and Immigration)",
    "label": "United Kingdom",
    "snippet": "Immigration staff guidance on applications under the EU Settlement Scheme.",
@@ -610,6 +651,29 @@
    "desk": "Startups",
    "score": 11,
    "priority": 85,
+   "title": "Amansa Investments, SBI Mutual Fund, others invest Rs 413 Cr in Tonbo Imaging ahead of IPO",
+   "url": "https://yourstory.com/2026/10/amansa-investments-sbi-mutual-fund-others-invest-rs-413-cr-tonbo-imaging-ahead-ipo",
+   "date": "2026-10-13",
+   "source": "YourStory",
+   "label": "India · Fintech",
+   "snippet": "Amansa Investments, SBI Mutual Fund and HDFC Life Insurance Company, among others, have invested over Rs 413 crore in defence electronics maker Tonbo Imaging India Ltd through secondary share transactions, valuing the company at around Rs 4,000 crore.",
+   "lead": "Amansa Investments, SBI Mutual Fund, others invest Rs 413 Cr in Tonbo Imaging ahead of IPO Amansa Investments, SBI Mutual Fund and HDFC Life Insurance Company, among others, have invested over Rs 413 crore in defence electronics maker Tonbo Imaging India Ltd through secondary share transactions, valuing the company at around Rs 4,000 crore. Press Trust of India 11214 Stories Tuesday October 13, 2026 , 2 min Read Amansa Investments, SBI ...",
+   "image": "https://images.yourstory.com/cs/wordpress/2018/05/startup-funding.jpg",
+   "why": [
+    "IPO & Listing",
+    "Sizeable deal (about $43M)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Fintech"
+   ],
+   "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
    "title": "Tencent sells dollar, dim sum bonds amid AI spending spree",
    "url": "https://economictimes.indiatimes.com/tech/technology/tencent-sells-dollar-dim-sum-bonds-amid-ai-spending-spree/articleshow/134906672.cms",
    "date": "2026-10-13",
@@ -626,7 +690,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -649,7 +713,7 @@
    "tags": [
     "Global"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -672,7 +736,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 12,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -695,52 +759,28 @@
     "Funding",
     "Commerce & D2C"
    ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "Swara Baby Products Secures SEBI Nod For ₹1,000 Cr IPO",
-   "url": "https://inc42.com/buzz/swara-baby-products-secures-sebi-nod-for-%e2%82%b91000-cr-ipo/",
-   "date": "2026-10-06",
-   "source": "Inc42",
-   "label": "India · Policy & Regulation",
-   "snippet": "Swara Baby Products has secured SEBI approval for its ₹1,000 Cr IPO, including a ₹500 Cr fresh issue and ₹500 Cr OFS",
-   "lead": "Swara Baby Products has received SEBI approval for its proposed ₹1,000 Cr IPO, comprising a ₹500 Cr fresh issue and ₹500 Cr OFS FirstCry parent Brainbees Solutions owns a 76.6% stake in Swara Baby Products and plans to offload shares worth up to ₹300 Cr through the OFS The company plans to use the fresh issue proceeds to fund a new manufacturing facility in Madhya Pradesh, repay debt, and pursue acquisitions",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/neogeo-funding-social-.png",
-   "why": [
-    "IPO & Listing",
-    "Large deal (about $105M)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Policy & Regulation"
-   ],
    "rank": 14,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 8,
-   "priority": 80,
-   "title": "NZ First to abolish Accredited Employer Work Visa",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamFzRFh2T25mNTJkRWkzVXU0ZmlybjlTX1ZJVXAtYkVyUGZGWk9ndnI2eTEyWWdfYmxYRU9BMmdfR3dwSzJpTEp0Y1JGcUV1aWZWYUZqeGlNVGhWbHk2Zm5kY3BrMHNQMFZyWHd5enAtOUl2aUZCXzB1UVJRV0lKa1RDUkk?oc=5",
-   "date": "2026-10-12",
-   "source": "Indian Newslink",
-   "label": "New Zealand",
-   "snippet": "NZ First to abolish Accredited Employer Work Visa",
-   "lead": "Skilled Work Visa proposal raises questions for migrants and employers New Zealand First has placed migrant employment at the centre of the election campaign, promising to dismantle the Accredited Employer Work Visa (AEWV) system and replace it with a more restrictive arrangement designed around verified labour shortages. The proposal, announced on October 11, 2026, at a public meeting in Dunedin, could have far-reaching consequences ...",
-   "image": "https://admin.indiannewslink.co.nz/uploads/NZ_First_to_abolish_Main_Banner_5eba64db85.png",
+   "score": 9,
+   "priority": 82,
+   "title": "Denmark to slash work permit salary threshold for some applicants by almost 20,000 kroner",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2JNVDlfeUktcWo5NTI0SEVtbWEtRlRZeGtSQy1WSE1meFFYVTFFLXl2SHg5Ry1zSXMxRERnT2NwczdDM2s5d3JKRUZCTEF3dWhuRGdGSjN2UFhVQVFCR1MzMnJ2YTdPM0Y3WmJ5cU9uOThPbG03aFhLQVhwaWZyX1BxaHpWSVk0SWUtbTU2SmE4X0VqWGQycTg4OWZ3SkptallTWUhUNkpmUm5Bdjk2TXQtMnU1ZWR2Wi1XZw?oc=5",
+   "date": "2026-10-13",
+   "source": "The Local Denmark",
+   "label": "Denmark",
+   "snippet": "Denmark is set to introduce a new collective agreement-based work permit scheme from the beginning of next year, which will make it easier for citizens of 16 select countries to secure a permit.",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Denmark is set to introduce a new collective agreement-based work permit scheme from the beginning of next year, which will make it easier for citizens of 16 select countries to secure a permit. Under the new scheme, ...",
+   "image": null,
    "why": [
-    "Affects work visas",
+    "Salary threshold change",
     "Announces a change"
    ],
    "tags": [
-    "Work visa",
-    "New Zealand"
+    "Salary threshold",
+    "Denmark"
    ],
    "rank": 15,
    "must_read": false
@@ -815,71 +855,25 @@
   },
   {
    "desk": "Immigration",
-   "score": 7,
-   "priority": 70,
-   "title": "Finland to introduce citizenship test for foreign applicants in 2027",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSV9TdnFyanQ5TkhoNVU1TzBveDdYaUtnSEU4c1FCdVM3bDdnWko1d1ZrVGNmc0RaOWx2M2kyWDZoV3ZtTXlnOXZpTmxVQWw0WnNzd01Bc3dzQnhqSGQzTklIVVNfeEF5UldRckpnQnRheUx6aTVpZXRCUUZIOEFhc2p5b25wNDZvdXNERHgtYWFhM0xzeFE?oc=5",
-   "date": "2026-10-11",
-   "source": "Scandasia",
-   "label": "Finland",
-   "snippet": "Finland to introduce citizenship test for foreign applicants in 2027 is an Article written by Scandasia, the only website, magazine and online publication that serves all the expats from Denmark, Sweden, Norway and Finland living in Southeast Asia and China.",
-   "lead": "Foreign residents applying for Finnish citizenship will face a new citizenship test from March 2027 as Finland introduces stricter requirements for becoming a citizen. The Finnish Immigration Service (Migri) announced on 9 October that preparations for the new test are underway, with the first examinations expected to take place in March next year. The requirement will apply to applicants aged between 18 and 64 who submit their ...",
-   "image": "https://scandasia.com/wp-content/uploads/2026/10/finntest.jpg",
+   "score": 8,
+   "priority": 73,
+   "title": "NZ First to abolish Accredited Employer Work Visa",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamFzRFh2T25mNTJkRWkzVXU0ZmlybjlTX1ZJVXAtYkVyUGZGWk9ndnI2eTEyWWdfYmxYRU9BMmdfR3dwSzJpTEp0Y1JGcUV1aWZWYUZqeGlNVGhWbHk2Zm5kY3BrMHNQMFZyWHd5enAtOUl2aUZCXzB1UVJRV0lKa1RDUkk?oc=5",
+   "date": "2026-10-12",
+   "source": "Indian Newslink",
+   "label": "New Zealand",
+   "snippet": "NZ First to abolish Accredited Employer Work Visa",
+   "lead": "Skilled Work Visa proposal raises questions for migrants and employers New Zealand First has placed migrant employment at the centre of the election campaign, promising to dismantle the Accredited Employer Work Visa (AEWV) system and replace it with a more restrictive arrangement designed around verified labour shortages. The proposal, announced on October 11, 2026, at a public meeting in Dunedin, could have far-reaching consequences ...",
+   "image": "https://admin.indiannewslink.co.nz/uploads/NZ_First_to_abolish_Main_Banner_5eba64db85.png",
    "why": [
-    "Affects citizenship",
+    "Affects work visas",
     "Announces a change"
    ],
    "tags": [
-    "Citizenship",
-    "Finland"
+    "Work visa",
+    "New Zealand"
    ],
    "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 70,
-   "title": "'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN1Y0NmhScExoSGhOZzJmbk1FY25fSGhKU0JqaXJaZmtSWTVKVGZOWGVQX3B5S0w3Sk9NZ19CbVljOFh0SXpkcXZDY1NzMlpxN3JZbHhiZnBhVFJQNlRzN2RWWElGNm5xZDBIVWtocjdzWUd0d0pjQTlLb0J3ZmNjVVhXLUxINFdxQk92SXZ3aFFROVNBTVcxdVBDbG9hZ0Z0QThIVFV6SjVLUlNsRjI5VEw3b092VWtmd3F4VmZGYUZHSi1QaTJiMWMyRVRCUm1manfSAdcBQVVfeXFMTmM2NVAzWXFnLWNETEUtVUVJWWRGUzRpRERacmZ2WjdsV1JjaUxhUHpuejVpN3h6TWJiNGhIX3prbUJXNXNlR0hwWG00b2RQampmRHZYbDJoRDJKOHN1bWpXZXNmUXo5QVU5cXNDdlhUcFVOU1I1VnRiQ1NtMGhpUmR6amRPTmM2N2VnVVFfNFFFZEJCLW9TbS03dncxZFM0SHFHUF92RTY4SW4xT2xwSjNvenI5Z0dYRTBMQW9uU0p1bGlnd0ROTnFtYUhGa3RQeEVwd093ZzQ?oc=5",
-   "date": "2026-10-06",
-   "source": "WION",
-   "label": "Australia",
-   "snippet": "Indians planning to move to Australia could face tighter opportunities if the country's conservative opposition comes to power. Opposition Leader Angus Taylor has unveiled the \"biggest cut to immigration\" in history. Here's all you need to know.",
-   "lead": "Live TV LOGIN v logout Live TV Latest Gravitas World India Entertainment Hollywood Bollywood Sports Opinions videos Photos TV Shows Mission Sustainability Wion / World / 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians 'Home, not a hotel': Australia vows 'biggest immigration cut' in history - What it means for Indians Edited By Moohita Kaur Garg Published: Oct 06, 2026, 14:13 IST | ...",
-   "image": "https://cdn3.wionews.com/prod/wion/images/2026/20261006/image-1791274946407.png?imwidth=1200&imheight=900",
-   "why": [
-    "Announces a change",
-    "Major story (10 headlines that day)",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Australia"
-   ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 70,
-   "title": "Haitians affected by termination of U.S. protected status eye six-month route to Canadian permanent residence",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVVRUcXRzSzNSN1MzVmtPdjFMR1JOQ3ZLQ0o2Um5KczBJRGhfRkUxUW9WR3NMVUFaaElzX09JWmpxT0otWi1VRGd4eWJCNTZ3bGNQU1VZamdBb1JfNGhkcU8wY293T3JJbEs0d3g1cDFWb1pkdTJFa0Fzc0tVcGRtV2dua3pESUtfMTRZU0VqSFlnaEFaMmNBZUpIQUw2djZkLTczcC1DZERoMnl1NG1hUXZMb2xPMG1vdkxTNmRXZzZYVGhQbm1qSEItOWJFdWRXUFJRdG0xal9WcmRTQ1lDOElDd2xhQThX0gHuAUFVX3lxTE5fcklHZVpLU1pKdmstWVFZLVhBUTVkNm0wSnlQamNpMWtVRXlNZXNScnRxUTNCNzlsaFRqd1ppcUxRdFVmeWNLY3VfVFhPWFByVXlRMmRLOGxabFBWNFJZYUliZzJhU3IwT0o0WURVc0ItYnlVS25XZGdxT2N2b3pNWHUzUmg3cE53TG5BMlpCVU5ucXhUVG11M3VTNHktdkJ5bVREdktCQUpEMWRtRjhkcjRmRTFoX0JYX25LN2dXaV90OWFYZi0tVGdCTUtkS0cwWVpSQ2pTMy1tdVRPUHB2Y1BUQ09Xb0lRTlgtQXc?oc=5",
-   "date": "2026-10-06",
-   "source": "CIC News",
-   "label": "Canada",
-   "snippet": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Check Your Eligibili",
-   "lead": "Haitians facing displacement from the United States can consider settling in Canada, which prioritizes French speakers for a six-month pathway to permanent residence (PR). Canada admits over 100,000 permanent residents each year through Express Entry, a selection system that rolls out a red carpet for French speakers. Express Entry awards additional points to candidates with French language skills, and includes larger selection rounds ...",
-   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/Haitians-eye-six-month-Canadian-PR.jpg",
-   "why": [
-    "Affects permanent residence",
-    "Major story (9 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Canada"
-   ],
-   "rank": 21,
    "must_read": false
   },
   {
@@ -901,7 +895,7 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 22,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -922,6 +916,51 @@
    ],
    "tags": [
     "Banking & Rates"
+   ],
+   "rank": 21,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 64,
+   "title": "Canada invites 752 provincial nominees to apply for permanent residence",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeGw2b1hzNkxIU3lJTEdUOXM5Q2JMdUhJSmJFVXRFOHk0WEQ2R2tmN0hoejdRcHdqdklMMWpiTDBxTXJRNk9Eb0pUUHozZVJ6NE9qOTN1N295Y1JfSmV3a3JYY2JBX0QxbjBMOFNSb2dWdFJqVHNzUVloZ2dMVTVMWDgwVktYQmpmXy13N0FneDRoMlQtQXRTcWo4UExKOGRMaU9XTGE0d0NzbjRWdE9qUTNocXFQLWPSAbwBQVVfeXFMTWRUWldaVk1ubm9pdVlQemRVU2I2RmU4V2dIVTJBaERBRlZwN2dBdXB5TW91Ym5JdGtTS3pzaERoVmpvTGthbXVnNjN6czhVcE5MVnNkY2VqNUhWeGt1ZHB0LURTZm9xN0U0VTJKUkRMakRScThzaFlDNjRNT1hzWHdodkd5TXpaUWlQRW9GVDlBZXZhMDZqVFdoV3pLb3FWd1kwMkU5eHFGMWdqNG84TFlWRHNfUFpqTkhkWHU?oc=5",
+   "date": "2026-10-13",
+   "source": "CIC News",
+   "label": "Canada",
+   "snippet": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 752 ITAs in a draw for Express Entry candidates with a provincial nomination. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (C",
+   "lead": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 752 ITAs in a draw for Express Entry candidates with a provincial nomination. Foreign nationals in Canada who submit an application for permanent residence through Express Entry may also qualify for a Bridging Open Work Permit (BOWP).",
+   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/EXPRESS-ENTRY-DRAW-60.jpg",
+   "why": [
+    "Affects permanent residence"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Canada"
+   ],
+   "rank": 22,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 64,
+   "title": "Finland to introduce citizenship test for foreign applicants in 2027",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSV9TdnFyanQ5TkhoNVU1TzBveDdYaUtnSEU4c1FCdVM3bDdnWko1d1ZrVGNmc0RaOWx2M2kyWDZoV3ZtTXlnOXZpTmxVQWw0WnNzd01Bc3dzQnhqSGQzTklIVVNfeEF5UldRckpnQnRheUx6aTVpZXRCUUZIOEFhc2p5b25wNDZvdXNERHgtYWFhM0xzeFE?oc=5",
+   "date": "2026-10-11",
+   "source": "Scandasia",
+   "label": "Finland",
+   "snippet": "Finland to introduce citizenship test for foreign applicants in 2027 is an Article written by Scandasia, the only website, magazine and online publication that serves all the expats from Denmark, Sweden, Norway and Finland living in Southeast Asia and China.",
+   "lead": "Foreign residents applying for Finnish citizenship will face a new citizenship test from March 2027 as Finland introduces stricter requirements for becoming a citizen. The Finnish Immigration Service (Migri) announced on 9 October that preparations for the new test are underway, with the first examinations expected to take place in March next year. The requirement will apply to applicants aged between 18 and 64 who submit their ...",
+   "image": "https://scandasia.com/wp-content/uploads/2026/10/finntest.jpg",
+   "why": [
+    "Affects citizenship",
+    "Announces a change"
+   ],
+   "tags": [
+    "Citizenship",
+    "Finland"
    ],
    "rank": 23,
    "must_read": false
