@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-14",
- "built": "2026-10-14 10:50 IST",
+ "built": "2026-10-14 20:59 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,44 +12,44 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22730.0,
-   "change_pct": 0.03,
-   "asof": "14 Oct 10:50 IST"
+   "value": 22623.0,
+   "change_pct": -0.44,
+   "asof": "14 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73059.0,
-   "change_pct": 0.03,
-   "asof": "14 Oct 10:35 IST"
+   "value": 72782.0,
+   "change_pct": -0.34,
+   "asof": "14 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.83,
-   "change_pct": -0.99,
-   "asof": "14 Oct 10:49 IST"
+   "value": 95.14,
+   "change_pct": -0.66,
+   "asof": "14 Oct 19:49 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 106.41,
-   "change_pct": 0.68,
-   "asof": "14 Oct 10:40 IST"
+   "value": 105.84,
+   "change_pct": 0.14,
+   "asof": "14 Oct 20:49 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4184.0,
-   "change_pct": 0.15,
-   "asof": "14 Oct 10:40 IST"
+   "value": 4109.0,
+   "change_pct": -1.64,
+   "asof": "14 Oct 20:49 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.22,
-   "change_pct": -0.44,
-   "asof": "14 Oct 00:29 IST"
+   "value": 5.27,
+   "change_pct": 0.94,
+   "asof": "14 Oct 20:44 IST"
   }
  ],
  "features": {
@@ -79,40 +79,20 @@
  },
  "desks": {
   "Policy": {
-   "total": 191,
-   "new_today": 0,
+   "total": 199,
+   "new_today": 8,
    "items": [
     {
      "desk": "Policy",
-     "score": 7,
-     "priority": 58,
-     "title": "Detailed Result: OMO Sale Auction held on Oct 13, 2026 and Settlement on Oct 14, 2026",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63798",
-     "date": "2026-10-13",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "",
-     "image": null,
-     "why": [
-      "Regulator: RBI",
-      "Large outlay (Rs 10,000 Cr or more)"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 7,
-     "priority": 58,
-     "title": "Penal Interest on shortfall in CRR and SLR requirements - Change in Bank Rate",
-     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13728&Mode=0",
+     "score": 9,
+     "priority": 56,
+     "title": "Monetary Policy Statement, 2026-27 Resolution of the Monetary Policy Committee October 5 to 7, 2026",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
      "date": "2026-10-07",
      "source": "RBI",
      "label": "Banking & Rates",
-     "snippet": "Notifications - Reserve Bank of India",
-     "lead": "Penal Interest on shortfall in CRR and SLR requirements - Change in Bank Rate Please refer to our circular DoR.RET.REC.341/12.01.001/2025-26 dated December 05, 2025 on the captioned subject. 2. As announced in the Monetary Policy Statement, 2026-27 dated October 07, 2026 , the Bank Rate is revised upwards by 25 basis points from 5.50 per cent to 5.75 per cent with immediate effect. Accordingly, all penal interest rates on shortfall in ...",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "The Monetary Policy Committee (MPC) held its 63rd meeting from October 5 to 7, 2026, under the chairmanship of Shri Sanjay Malhotra, Governor, Reserve Bank of India. The MPC members Dr. Nagesh Kumar, Shri Saugata Bhattacharya, Prof. Ram Singh, Dr. Poonam Gupta and Shri Indranil Bhattacharyya attended the meeting. 2. After a detailed assessment of the evolving macroeconomic and financial developments and the outlook, the MPC voted ...",
      "image": null,
      "why": [
       "Rates and liquidity",
@@ -124,18 +104,38 @@
     },
     {
      "desk": "Policy",
-     "score": 6,
+     "score": 8,
      "priority": 50,
-     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63746",
+     "title": "Ministry of Cooperation mandates new Audit Reporting Framework for Multi-State Cooperative Societies to strengthen transparency, accountability and good governance",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323313",
+     "date": "2026-10-14",
+     "source": "PIB",
+     "label": "Banking & Rates",
+     "snippet": "Guided by Prime Minister Shri Narendra Modi’s vision of ‘Sahkar se Samriddhi’ and under the leadersh",
+     "lead": "Ministry of Cooperation Ministry of Cooperation mandates new Audit Reporting Framework for Multi-State Cooperative Societies to strengthen transparency, accountability and good governance Guided by Prime Minister Shri Narendra Modi’s vision of ‘Sahkar se Samriddhi’ and under the leadership of Union Home Minister and Minister of Cooperation Shri Amit Shah, Ministry of Cooperation takes another significant step towards strengthening ...",
+     "image": null,
+     "why": [
+      "Rates and liquidity"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 8,
+     "priority": 50,
+     "title": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13735&Mode=0",
      "date": "2026-10-07",
      "source": "RBI",
      "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "",
+     "snippet": "Notifications - Reserve Bank of India",
+     "lead": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026 Please refer to paragraph 77(6) (i) of the Reserve Bank of India (All India Financial Institutions (AIFIs) - Prudential Norms on Capital Adequacy) Directions, 2025 , on the requirement for clearing member financial institutions to obtain legal opinion. On a review, it has been decided to amend these ...",
      "image": null,
      "why": [
-      "New law or act",
+      "Regulator rulebook change",
+      "Rule change",
       "Regulator: RBI"
      ],
      "tags": [
@@ -144,18 +144,20 @@
     },
     {
      "desk": "Policy",
-     "score": 5,
-     "priority": 42,
-     "title": "Union Minister Shri Ashwini Vaishnaw Launches World Bank Group’s ‘World Development Report 2026: The Promise of Artificial Intelligence’ in New Delhi",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320883",
-     "date": "2026-10-08",
-     "source": "PIB",
+     "score": 8,
+     "priority": 50,
+     "title": "Reserve Bank of India (Commercial Banks – Miscellaneous) Amendment Directions, 2026",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13731&Mode=0",
+     "date": "2026-10-07",
+     "source": "RBI",
      "label": "Banking & Rates",
-     "snippet": "Shri Ashwini Vaishnaw, the Union Minister for Electronics and Information Technology, Railways, and",
-     "lead": "Ministry of Electronics & IT Union Minister Shri Ashwini Vaishnaw Launches World Bank Group’s ‘World Development Report 2026: The Promise of Artificial Intelligence’ in New Delhi Report sets out a framework for developing economies to harness AI for development through adoption, adaptation and advancement IndiaAI Mission, MeitY and the World Bank Group jointly host the India launch; policymakers, development experts and technology ...",
+     "snippet": "Notifications - Reserve Bank of India",
+     "lead": "Reserve Bank of India (Commercial Banks – Miscellaneous) Amendment Directions, 2026 Please refer to Sub-section D of Chapter IV of the Reserve Bank of India (Commercial Banks - Miscellaneous) Directions, 2025 on deferment of option premium. 2. On a review, consequent to the issuance of the Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Amendment Directions, 2026 , and in exercise of the powers conferred by Section ...",
      "image": null,
      "why": [
-      "Rates and liquidity"
+      "Regulator rulebook change",
+      "Rule change",
+      "Regulator: RBI"
      ],
      "tags": [
       "Banking & Rates"
@@ -164,9 +166,72 @@
    ]
   },
   "Startups": {
-   "total": 648,
-   "new_today": 12,
+   "total": 669,
+   "new_today": 33,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
+     "title": "Tencent sells dollar, dim sum bonds amid AI spending spree",
+     "url": "https://economictimes.indiatimes.com/tech/technology/tencent-sells-dollar-dim-sum-bonds-amid-ai-spending-spree/articleshow/134906672.cms",
+     "date": "2026-10-13",
+     "source": "ET Startups",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Tencent Holdings is selling US dollar and offshore Chinese yuan, or dim sum, bonds in a deal that could raise at least $4.5 billion as the Chinese technology giant seeks funding amid higher spending on artificial intelligence.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-7668375,resizemode-75,msid-134906672/tech/technology/tencent-sells-dollar-dim-sum-bonds-amid-ai-spending-spree.jpg",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $4,500M: round or valuation)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
+     "title": "RDI Fund Announces First Cohort Of 19 Fund Managers, Eyes Deploying ₹7,131 Cr To Strengthen Deeptech Startups",
+     "url": "https://inc42.com/buzz/rdi-fund-announces-first-cohort-of-19-fund-managers-eyes-deploying-%e2%82%b97131-cr-to-strengthen-deeptech-startups/",
+     "date": "2026-10-12",
+     "source": "Inc42",
+     "label": "India · AI & Deeptech",
+     "snippet": "Central government-backed ₹1 Lakh Cr Research, Development and Innovation (RDI) Fund has approved 19 second-level fund managers (SLFMs) with a…",
+     "lead": "The Ministry of Science and Technology’s Empowered Group of Secretaries (EGoS) approved 14 alternative investment funds (AIFs) and five focused research organisations (FROs) for this purpose earlier this month, the ministry announced. The selected entities will channel capital from the RDI Fund to eligible technology enterprises undertaking research, development and innovation activities at Technology Readiness Level (TRL) 4 and above. ...",
+     "image": null,
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $751M: round or valuation)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
+     "title": "Ecomm festive sales hit Rs 24,000 Cr in two days; VC funding drops as large deals dry up",
+     "url": "https://yourstory.com/2026/10/ecomm-festive-sales-hit-rs-24000-cr-in-two-days",
+     "date": "2026-10-12",
+     "source": "YourStory",
+     "label": "India · Commerce & D2C",
+     "snippet": "Redseer estimates that 6-6.5 crore shoppers participated, with mobile phones leading by value and fashion, electronics and appliances seeing strong demand.",
+     "lead": "Ecomm festive sales hit Rs 24,000 Cr in two days; VC funding drops as large deals dry up Redseer estimates that 6-6.5 crore shoppers participated, with mobile phones leading by value and fashion, electronics and appliances seeing strong demand. Team YS 17334 Stories Monday October 12, 2026 , 4 min Read India’s ecommerce platforms clocked around Rs 24,000 crore in sales during the first two days of festive shopping, with mobile phones ...",
+     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/2026-CopyofNewPPTTemplates4-1791771725367.png",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $2,526M: round or valuation)"
+     ],
+     "tags": [
+      "Funding",
+      "Commerce & D2C"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -188,78 +253,32 @@
       "Funding",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-     "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-     "date": "2026-10-08",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "The developer of Hermes Agent raised a $90 million Series B.",
-     "lead": "Nous Research , the startup developing the open source Hermes Agent, has raised a $90 million Series B at a $1.5 billion valuation, confirming TechCrunch’s earlier reporting . The round was led by Robot Ventures, with participation from other backers including Nvidia, Union Square Ventures, Menlo Ventures, Samsung, and 1789 Capital, where Donald Trump Jr. is a partner. The new financing brings the three-year-old startup’s total funding ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $1,500M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
-     "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
-     "date": "2026-10-07",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
-     "lead": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation Dominic-Madori Davis 6:45 AM PDT · October 7, 2026 A new personal AI assistant has arrived. Meet Tab , which announced Tuesday that it had officially emerged from stealth at a $300 million valuation. (The company declined to share the exact funding details.) Tab is part of the rising trend of consumer AI assistants, like the ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tab-website.png?resize=1200,744",
-     "why": [
-      "Acquisition",
-      "Large deal (about $300M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Acquisition",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 75,
-     "title": "GreenCell Mobility Raises ₹330 Cr To Expand Electric Bus Fleet",
-     "url": "https://inc42.com/buzz/greencell-mobility-raises-%e2%82%b9330-cr-to-expand-electric-bus-fleet/",
-     "date": "2026-10-13",
-     "source": "Inc42",
-     "label": "India · Mobility & EV",
-     "snippet": "Everstone Capital-backed EV startup GreenCell Mobility has raised ₹330 Cr ($34.6 Mn) in an equity funding round led by Impact Fund Denmark",
-     "lead": "GreenCell Mobility has raised ₹330 Cr ($34.6 Mn) in an equity funding round led by Impact Fund Denmark to support the rollout of about 4,500 electric buses currently under deployment GreenCell Mobility acquires electric buses via contract manufacturing arrangements with vendors and then deploys them for both intercity and intracity travel The Mumbai-based startup is eyeing expanding its fleet to more than 5,000 e-buses across 105 ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/greencell-funding-featured-760x570-1.png",
-     "why": [
-      "Funding",
-      "Sizeable deal (about $35M)"
-     ],
-     "tags": [
-      "Funding",
-      "Mobility & EV"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 956,
-   "new_today": 4,
+   "total": 974,
+   "new_today": 20,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 60,
+     "title": "Free legal aid for immigrants in Norway faces heavy funding cuts",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdTMzUmxkRmlSWldVRU1iaUNXdmsxV2FKYjlodWI5SFN6ZVRPNlR5T1VUQVlDdVc0RlhBOHVWZ1QzRmRHbnR6TVFMTVZFNl9ENXNnZTFzNG55Vll1QVl6X0NTYk4xbFBqV1NYZWlxNVV1WGxkaVdrT3lxdy1WWWlrQjgySW1hSWN1cEhqeG1nTXE5TmlEQ1Rfbjk0OGpiQQ?oc=5",
+     "date": "2026-10-14",
+     "source": "The Local Norway",
+     "label": "Norway",
+     "snippet": "What happens when you find yourself up against an unfair landlord, an abusive boss, or face discrimination in Norway? In one of the world’s most expensive countries, financial aid that thousands of immigrants rely on is suddenly under threat.",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source What happens when you find yourself up against an unfair landlord, an abusive boss, or face discrimination in Norway? In one of the world’s most expensive countries, financial aid that thousands of immigrants rely on ...",
+     "image": null,
+     "why": [
+      "Announces a change"
+     ],
+     "tags": [
+      "Norway"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 6,
@@ -305,21 +324,19 @@
      "desk": "Immigration",
      "score": 5,
      "priority": 50,
-     "title": "Germany Work Visas Western Balkans: 50,000 Cut to 25,000",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONzlWVVJIQWpBVzd6b2k0a1VrQm1IbnhCTXdxVWtCTEJUYWxPVm16cVFNY1dPcFRaQmktSTY3endpVG9EeW9WRFR1cGJfaUJHRGkyOUVpU1hxNmdlR2c0cHdtS2l3LUQ3REEwbVRwV3RTaXNDUFZ5SVVxYzRBa0tUeDQtZnNqWUpVMDhUU1FNT3hBYUFLcEtGcGRtTjdLdE5JUUphbw?oc=5",
-     "date": "2026-10-08",
-     "source": "srpske.rs",
-     "label": "Germany",
-     "snippet": "Germany plans to cut its Western Balkans work permit quota from 50,000 to 25,000. What builders, the Serbian Chamber of Commerce and NALED say.",
-     "lead": "The quota under the Western Balkans scheme falls from 50,000 to 25,000 permits a year. Sources disagree on the timing, and Serbia's share is not public. 0 Podeli Kopiraj link Germany’s annual work permit quota under the Western Balkans scheme is set to be cut in half, from 50,000 to 25,000 . The scheme, often called the Western Balkans Rule in the media, makes it easier for workers from the region’s six economies to come to Germany, ...",
-     "image": "https://srpske.rs/uploads/articles/germany-halves-western-balkans-work-visa-quota-to-25000-16x9.webp",
+     "title": "France to introduce waiting list system for visa applications in Türkiye",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVExCZDZvTzZmZ3lPLUQyNWlteE5kRVBjWElhODkzaVNxZ0tJN1M5amxPaWNHeDRQVGRiVW1RY3pyZU9PQ0xmcldBNUt0Qi1nUGxKb0ozTHVwSFlLRHV1TjI4eHExVGtySndkSHVpWjFzMkRpbmhzaEpSRkNSSG10OFI0UVo1bzQ1SnpfRVByWHFPSGhJMGhtaDVpZTlROFpuaVhNWXpLb0NFVWUyTF84SkhB?oc=5",
+     "date": "2026-10-14",
+     "source": "İlke Haber Ajansı",
+     "label": "France",
+     "snippet": "",
+     "lead": "",
+     "image": null,
      "why": [
-      "Affects work visas",
       "Announces a change"
      ],
      "tags": [
-      "Work visa",
-      "Germany"
+      "France"
      ]
     }
    ]
@@ -418,6 +435,52 @@
  },
  "items": [
   {
+   "desk": "Policy",
+   "score": 16,
+   "priority": 100,
+   "title": "Cabinet approves continuation of the National Social Assistance Programme for five years from 2026-27 to 2030-31",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323264",
+   "date": "2026-10-14",
+   "source": "PIB",
+   "label": "Labour & Social",
+   "snippet": "The Union Cabinet chaired by the Prime Minister Shri Narendra Modi has approved the proposal of the",
+   "lead": "Cabinet Cabinet approves continuation of the National Social Assistance Programme for five years from 2026-27 to 2030-31 Posted On: 14 OCT 2026 4:06PM by PIB Delhi The Union Cabinet chaired by the Prime Minister Shri Narendra Modi has approved the proposal of the Department of Rural Development for Continuation of the National Social Assistance Programme (NSAP) with total outlay of Rs. 53,428 crore for five years from 2026-27 to ...",
+   "image": null,
+   "why": [
+    "Cabinet decision",
+    "Cabinet",
+    "Large outlay (Rs 10,000 Cr or more)"
+   ],
+   "tags": [
+    "Labour & Social"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 100,
+   "title": "Urban Company seeks fresh funding after 2025 IPO as InstaHelp continues to burn cash",
+   "url": "https://www.medianama.com/2026/10/223-urban-company-funding-ipo-instahelp/",
+   "date": "2026-10-14",
+   "source": "MediaNama",
+   "label": "India · Policy & Regulation",
+   "snippet": "Home services marketplace Urban Company is seeking fresh fundings after its 2025 IPO as InstaHelp racked up Rs 132 cr loss in Q1FY27.",
+   "lead": "Home services marketplace Urban Company is considering raising fresh capital a year after its initial public offering, as its new business line InstaHelp, which connects users with house helpers within 10 minutes, continues to be a drag on the company’s overall profitability. In a regulatory filing, the company said its board will meet on October 16 to consider raising funds via qualified institutional placement (QIB), preferential ...",
+   "image": "https://www.medianama.com/wp-content/uploads/2025/03/maid-urban-company-2799464_1280.jpg",
+   "why": [
+    "IPO & Listing",
+    "Large deal (about $263M)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Policy & Regulation"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
    "desk": "Startups",
    "score": 12,
    "priority": 100,
@@ -437,7 +500,7 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 1,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -460,7 +523,7 @@
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 2,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -483,32 +546,31 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 3,
+   "rank": 5,
    "must_read": true
   },
   {
-   "desk": "Policy",
-   "score": 12,
-   "priority": 100,
-   "title": "Securities and Exchange Board of India (Mutual Funds) (Second Amendment) Regulations, 2026",
-   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-mutual-funds-second-amendment-regulations-2026_105153.html",
-   "date": "2026-10-10",
-   "source": "SEBI",
-   "label": "Markets & Regulation",
-   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
-   "lead": "",
-   "image": null,
+   "desk": "Startups",
+   "score": 11,
+   "priority": 92,
+   "title": "Groww Q2: Profit Jumps 54% YoY To ₹725 Cr, Revenue Rises 47%",
+   "url": "https://inc42.com/buzz/groww-q2-profit-jumps-54-yoy-to-%e2%82%b9725-cr-revenue-rises-47/",
+   "date": "2026-10-14",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Groww’s consolidated net profit jumped 54% to ₹724.7 Cr in the second quarter of FY27 from ₹471.3 Cr in the year-ago quarter",
+   "lead": "Groww’s consolidated net profit rose 54% YoY to ₹724.7 Cr in Q2 FY27, while operating revenue climbed 47% to ₹1,501.5 Cr Revenue growth outpaced the increase in expenses from a year earlier, lifting profitability, although revenue remained flat and profit slipped sequentially. Including other income of ₹39 Cr, Groww’s total income stood at ₹1,540.5 Cr, compared with ₹1,070.8 Cr a year earlier.",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Groww-wtf-Soc-.jpg",
    "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Touches financial markets",
-    "Regulator: SEBI"
+    "Financials",
+    "Sizeable deal (about $76M)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Markets & Regulation"
+    "Financials"
    ],
-   "rank": 4,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -530,8 +592,8 @@
    "tags": [
     "PMS"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 7,
+   "must_read": false
   },
   {
    "desk": "Startups",
@@ -552,7 +614,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 6,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -575,7 +637,7 @@
    "tags": [
     "AIF"
    ],
-   "rank": 7,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -599,7 +661,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 8,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -622,7 +684,51 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 9,
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 14,
+   "priority": 88,
+   "title": "Cabinet approves Productivity Linked Bonus (PLB) for 78 days to Railway Employees",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323256",
+   "date": "2026-10-14",
+   "source": "PIB",
+   "label": "Infrastructure & Transport",
+   "snippet": "The Union Cabinet chaired by the Prime Minister Shri Narendra Modi has approved payment of PLB of 78",
+   "lead": "Cabinet Cabinet approves Productivity Linked Bonus (PLB) for 78 days to Railway Employees Posted On: 14 OCT 2026 4:03PM by PIB Delhi The Union Cabinet chaired by the Prime Minister Shri Narendra Modi has approved payment of PLB of 78 days for Rs.2009.61 crore to 11,40,770 railway employees, in recognition of the excellent performance by the Railway staff. Payment of PLB to eligible railway employees is made each year before the Durga ...",
+   "image": null,
+   "why": [
+    "Cabinet decision",
+    "Cabinet"
+   ],
+   "tags": [
+    "Infrastructure & Transport"
+   ],
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 83,
+   "title": "Exclusive: Traya In Talks To Raise Around ₹300 Cr From Verlinvest",
+   "url": "https://inc42.com/buzz/exclusive-traya-in-talks-to-raise-around-%e2%82%b9300-cr-from-verlinvest/",
+   "date": "2026-10-14",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Traya is in talks to raise around ₹300 Cr from Verlinvest at a valuation of ₹2,500 Cr-₹3,000 Cr, with the funding amount yet to be finalised",
+   "lead": "Traya is in talks to raise around ₹300 Cr from Verlinvest at a valuation of ₹2,500 Cr-₹3,000 Cr, with the funding amount yet to be finalised The talks come as Traya clocks an annualised revenue rate of ₹900 Cr-₹1,000 Cr and expands its offline presence beyond 20 centres The funding talks come amid what sources described as strong growth in recent months, with Traya currently clocking an annualised revenue rate of ₹900 Cr to ₹1,000 Cr.",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Traya-Funding-Social.jpg",
+   "why": [
+    "Funding",
+    "Sizeable deal (about $32M)"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 13,
    "must_read": false
   },
   {
@@ -644,99 +750,6 @@
    "tags": [
     "IPO & Listing",
     "Fintech"
-   ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Tencent sells dollar, dim sum bonds amid AI spending spree",
-   "url": "https://economictimes.indiatimes.com/tech/technology/tencent-sells-dollar-dim-sum-bonds-amid-ai-spending-spree/articleshow/134906672.cms",
-   "date": "2026-10-13",
-   "source": "ET Startups",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Tencent Holdings is selling US dollar and offshore Chinese yuan, or dim sum, bonds in a deal that could raise at least $4.5 billion as the Chinese technology giant seeks funding amid higher spending on artificial intelligence.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-7668375,resizemode-75,msid-134906672/tech/technology/tencent-sells-dollar-dim-sum-bonds-amid-ai-spending-spree.jpg",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $4,500M: round or valuation)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "RDI Fund Announces First Cohort Of 19 Fund Managers, Eyes Deploying ₹7,131 Cr To Strengthen Deeptech Startups",
-   "url": "https://inc42.com/buzz/rdi-fund-announces-first-cohort-of-19-fund-managers-eyes-deploying-%e2%82%b97131-cr-to-strengthen-deeptech-startups/",
-   "date": "2026-10-12",
-   "source": "Inc42",
-   "label": "India · AI & Deeptech",
-   "snippet": "Central government-backed ₹1 Lakh Cr Research, Development and Innovation (RDI) Fund has approved 19 second-level fund managers (SLFMs) with a…",
-   "lead": "The Ministry of Science and Technology’s Empowered Group of Secretaries (EGoS) approved 14 alternative investment funds (AIFs) and five focused research organisations (FROs) for this purpose earlier this month, the ministry announced. The selected entities will channel capital from the RDI Fund to eligible technology enterprises undertaking research, development and innovation activities at Technology Readiness Level (TRL) 4 and above. ...",
-   "image": null,
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $751M: round or valuation)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Ecomm festive sales hit Rs 24,000 Cr in two days; VC funding drops as large deals dry up",
-   "url": "https://yourstory.com/2026/10/ecomm-festive-sales-hit-rs-24000-cr-in-two-days",
-   "date": "2026-10-12",
-   "source": "YourStory",
-   "label": "India · Commerce & D2C",
-   "snippet": "Redseer estimates that 6-6.5 crore shoppers participated, with mobile phones leading by value and fashion, electronics and appliances seeing strong demand.",
-   "lead": "Ecomm festive sales hit Rs 24,000 Cr in two days; VC funding drops as large deals dry up Redseer estimates that 6-6.5 crore shoppers participated, with mobile phones leading by value and fashion, electronics and appliances seeing strong demand. Team YS 17334 Stories Monday October 12, 2026 , 4 min Read India’s ecommerce platforms clocked around Rs 24,000 crore in sales during the first two days of festive shopping, with mobile phones ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/2026-CopyofNewPPTTemplates4-1791771725367.png",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $2,526M: round or valuation)"
-   ],
-   "tags": [
-    "Funding",
-    "Commerce & D2C"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 83,
-   "title": "RBI issues Amendment Directions on 'Standardised Approach for Counterparty Credit Risk (SA-CCR)’",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63750",
-   "date": "2026-10-07",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The Reserve Bank of India had issued draft Amendment Directions on the ‘ Standardised Approach for Counterparty Credit Risk (SA-CCR)’ on June 10, 2026 , inviting feedback from stakeholders until July 1, 2026. The draft Amendment Directions proposed modifications to the instructions on capital charge for counterparty credit risk as provided in Master Direction on Forthcoming Instructions for commercial banks. Key revisions included: (i) ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Touches financial markets",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
    ],
    "rank": 14,
    "must_read": false
@@ -766,11 +779,11 @@
   },
   {
    "desk": "Policy",
-   "score": 9,
+   "score": 12,
    "priority": 75,
-   "title": "Securities and Exchange Board of India (Portfolio Managers) Regulations, 2026 (With effect from April 1, 2027)\"",
-   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-portfolio-managers-regulations-2026-with-effect-from-april-1-2027-_105159.html",
-   "date": "2026-10-12",
+   "title": "Securities and Exchange Board of India (Mutual Funds) (Second Amendment) Regulations, 2026",
+   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-mutual-funds-second-amendment-regulations-2026_105153.html",
+   "date": "2026-10-10",
    "source": "SEBI",
    "label": "Markets & Regulation",
    "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
@@ -778,6 +791,8 @@
    "image": null,
    "why": [
     "Regulator rulebook change",
+    "Rule change",
+    "Touches financial markets",
     "Regulator: SEBI"
    ],
    "tags": [
@@ -787,47 +802,25 @@
    "must_read": false
   },
   {
-   "desk": "Policy",
-   "score": 9,
-   "priority": 75,
-   "title": "Recommendations of the 57th Meeting of the GST Council",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320934",
-   "date": "2026-10-08",
-   "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "The 57th Meeting of the GST Council was held today in New Delhi, under the chairpersonship of the Un",
-   "lead": "Ministry of Finance Recommendations of the 57th Meeting of the GST Council GST Council recommends removal of arrest provisions under GST GST Council recommends raising prosecution threshold from ₹1 crore to ₹5 crore GST Council recommends reduction in general penalty from ₹25,000 to ₹10,000 GST Council recommends wider eligibility for input tax credit and refunds GST Council recommends further simplification of registration and ...",
-   "image": null,
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 70,
+   "title": "Proof of Canadian citizenship wait reaches 34 months in October, as queue shrinks for the first time",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUlNaTDJ2VmYwbFZ4dnZxdW9JTVFGNV9oQ3F4dlJUcUdEakRwblpjVW42VXZORmc5ZFNRVGplNHFpZzdaVk9rS08ya2ZscmRaeDlYS1MzQWhhS2xBSFROcFV0dzNISnlGZVgyM05MVWd5cmZ6bkIwOWlIdkVNTGFlN2I1NEdhUnkxMTdjcE5PdG1ZOGNsMlhuUVpYQTR0M1k0eXZOX3RZVk05dlg2S0HSAbMBQVVfeXFMTWJhcVk1U0QyT1BpdmxmZVhQcW1LaWdPMHR4TkJ6bzY4VWF1c1c1UjNTQTI3MElkYUVQT2hQRnlpVW1Wd0dIbkFYSkRnWnRaczJJbnpwN2FlWno5eTFuMWFLMmtZb0JBMFZkVVh0NnlxQ2RmSzZjbDhhN3BfSGo0QXhIYjBkLUUwRWxzN3g2b0VQeC1UM1VCc1EyTW93VlEzdXpseXpidjRBVmtTRlNCTVpVRVU?oc=5",
+   "date": "2026-10-13",
+   "source": "CIC News",
+   "label": "Canada",
+   "snippet": "A new application for proof of Canadian citizenship now takes 34 months to process. Immigration, Refugees and Citizenship Canada (IRCC) updated its processing times tool on October 9, adding one month to September’s figure of 33 months. Get a Free Consultation on Applying for Proof of Canadian Citizenship That single month is the smallest",
+   "lead": "A new application for proof of Canadian citizenship now takes 34 months to process. Immigration, Refugees and Citizenship Canada (IRCC) updated its processing times tool on October 9, adding one month to September’s figure of 33 months. That single month is the smallest increase since the wait began climbing in May of 2026.",
+   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/americans-canadian-citizenship-processing-wait-1200x800-optimized-1.jpg",
    "why": [
-    "GST change",
-    "Ministry of Finance"
+    "Affects citizenship"
    ],
    "tags": [
-    "Tax, Duties & Trade"
+    "Citizenship",
+    "Canada"
    ],
    "rank": 17,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 9,
-   "priority": 75,
-   "title": "Monetary Policy Statement, 2026-27 Resolution of the Monetary Policy Committee October 5 to 7, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
-   "date": "2026-10-07",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The Monetary Policy Committee (MPC) held its 63rd meeting from October 5 to 7, 2026, under the chairmanship of Shri Sanjay Malhotra, Governor, Reserve Bank of India. The MPC members Dr. Nagesh Kumar, Shri Saugata Bhattacharya, Prof. Ram Singh, Dr. Poonam Gupta and Shri Indranil Bhattacharyya attended the meeting. 2. After a detailed assessment of the evolving macroeconomic and financial developments and the outlook, the MPC voted ...",
-   "image": null,
-   "why": [
-    "Rates and liquidity",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 18,
    "must_read": false
   },
   {
@@ -850,7 +843,7 @@
     "Work visa",
     "New Zealand"
    ],
-   "rank": 19,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -873,24 +866,47 @@
     "Citizenship",
     "Finland"
    ],
+   "rank": 19,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 62,
+   "title": "RBI issues Amendment Directions on 'Standardised Approach for Counterparty Credit Risk (SA-CCR)’",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63750",
+   "date": "2026-10-07",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "The Reserve Bank of India had issued draft Amendment Directions on the ‘ Standardised Approach for Counterparty Credit Risk (SA-CCR)’ on June 10, 2026 , inviting feedback from stakeholders until July 1, 2026. The draft Amendment Directions proposed modifications to the instructions on capital charge for counterparty credit risk as provided in Master Direction on Forthcoming Instructions for commercial banks. Key revisions included: (i) ...",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change",
+    "Touches financial markets",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
    "rank": 20,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 8,
-   "priority": 67,
-   "title": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13735&Mode=0",
-   "date": "2026-10-07",
+   "score": 9,
+   "priority": 56,
+   "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63803",
+   "date": "2026-10-14",
    "source": "RBI",
    "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (All India Financial Institutions (AIFIs) – Prudential Norms on Capital Adequacy) Fifth Amendment Directions, 2026 Please refer to paragraph 77(6) (i) of the Reserve Bank of India (All India Financial Institutions (AIFIs) - Prudential Norms on Capital Adequacy) Directions, 2025 , on the requirement for clearing member financial institutions to obtain legal opinion. On a review, it has been decided to amend these ...",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "",
    "image": null,
    "why": [
-    "Regulator rulebook change",
-    "Rule change",
+    "New law or act",
     "Regulator: RBI"
    ],
    "tags": [
@@ -901,45 +917,44 @@
   },
   {
    "desk": "Policy",
-   "score": 8,
-   "priority": 67,
-   "title": "Reserve Bank of India (Commercial Banks – Miscellaneous) Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13731&Mode=0",
-   "date": "2026-10-07",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Commercial Banks – Miscellaneous) Amendment Directions, 2026 Please refer to Sub-section D of Chapter IV of the Reserve Bank of India (Commercial Banks - Miscellaneous) Directions, 2025 on deferment of option premium. 2. On a review, consequent to the issuance of the Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Amendment Directions, 2026 , and in exercise of the powers conferred by Section ...",
+   "score": 9,
+   "priority": 56,
+   "title": "Securities and Exchange Board of India (Portfolio Managers) Regulations, 2026 (With effect from April 1, 2027)\"",
+   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-portfolio-managers-regulations-2026-with-effect-from-april-1-2027-_105159.html",
+   "date": "2026-10-12",
+   "source": "SEBI",
+   "label": "Markets & Regulation",
+   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+   "lead": "",
    "image": null,
    "why": [
     "Regulator rulebook change",
-    "Rule change",
-    "Regulator: RBI"
+    "Regulator: SEBI"
    ],
    "tags": [
-    "Banking & Rates"
+    "Markets & Regulation"
    ],
    "rank": 22,
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 60,
-   "title": "BREAKING: Proof of Canadian citizenship wait reaches 34 months in October, as queue shrinks for the first time",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUlNaTDJ2VmYwbFZ4dnZxdW9JTVFGNV9oQ3F4dlJUcUdEakRwblpjVW42VXZORmc5ZFNRVGplNHFpZzdaVk9rS08ya2ZscmRaeDlYS1MzQWhhS2xBSFROcFV0dzNISnlGZVgyM05MVWd5cmZ6bkIwOWlIdkVNTGFlN2I1NEdhUnkxMTdjcE5PdG1ZOGNsMlhuUVpYQTR0M1k0eXZOX3RZVk05dlg2S0HSAbMBQVVfeXFMTWJhcVk1U0QyT1BpdmxmZVhQcW1LaWdPMHR4TkJ6bzY4VWF1c1c1UjNTQTI3MElkYUVQT2hQRnlpVW1Wd0dIbkFYSkRnWnRaczJJbnpwN2FlWno5eTFuMWFLMmtZb0JBMFZkVVh0NnlxQ2RmSzZjbDhhN3BfSGo0QXhIYjBkLUUwRWxzN3g2b0VQeC1UM1VCc1EyTW93VlEzdXpseXpidjRBVmtTRlNCTVpVRVU?oc=5",
-   "date": "2026-10-13",
-   "source": "CIC News",
-   "label": "Canada",
-   "snippet": "A new application for proof of Canadian citizenship now takes 34 months to process. Immigration, Refugees and Citizenship Canada (IRCC) updated its processing times tool on October 9, adding one month to September’s figure of 33 months. Get a Free Consultation on Applying for Proof of Canadian Citizenship That single month is the smallest",
-   "lead": "A new application for proof of Canadian citizenship now takes 34 months to process. Immigration, Refugees and Citizenship Canada (IRCC) updated its processing times tool on October 9, adding one month to September’s figure of 33 months. That single month is the smallest increase since the wait began climbing in May of 2026.",
-   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/americans-canadian-citizenship-processing-wait-1200x800-optimized-1.jpg",
+   "desk": "Policy",
+   "score": 9,
+   "priority": 56,
+   "title": "Recommendations of the 57th Meeting of the GST Council",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2320934",
+   "date": "2026-10-08",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "The 57th Meeting of the GST Council was held today in New Delhi, under the chairpersonship of the Un",
+   "lead": "Ministry of Finance Recommendations of the 57th Meeting of the GST Council GST Council recommends removal of arrest provisions under GST GST Council recommends raising prosecution threshold from ₹1 crore to ₹5 crore GST Council recommends reduction in general penalty from ₹25,000 to ₹10,000 GST Council recommends wider eligibility for input tax credit and refunds GST Council recommends further simplification of registration and ...",
+   "image": null,
    "why": [
-    "Affects citizenship"
+    "GST change",
+    "Ministry of Finance"
    ],
    "tags": [
-    "Citizenship",
-    "Canada"
+    "Tax, Duties & Trade"
    ],
    "rank": 23,
    "must_read": false
