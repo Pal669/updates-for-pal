@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-15",
- "built": "2026-10-15 07:24 IST",
+ "built": "2026-10-15 09:55 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22623.0,
-   "change_pct": -0.44,
-   "asof": "14 Oct 15:31 IST"
+   "value": 22834.0,
+   "change_pct": 0.94,
+   "asof": "15 Oct 09:55 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72782.0,
-   "change_pct": -0.34,
-   "asof": "14 Oct 15:32 IST"
+   "value": 73319.0,
+   "change_pct": 0.74,
+   "asof": "15 Oct 09:40 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.29,
-   "change_pct": -0.51,
-   "asof": "15 Oct 03:05 IST"
+   "value": 94.96,
+   "change_pct": -0.34,
+   "asof": "15 Oct 09:55 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 104.83,
-   "change_pct": -0.81,
-   "asof": "15 Oct 07:14 IST"
+   "value": 104.43,
+   "change_pct": -1.54,
+   "asof": "15 Oct 09:45 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4160.0,
-   "change_pct": -0.43,
-   "asof": "15 Oct 07:14 IST"
+   "value": 4165.0,
+   "change_pct": 1.38,
+   "asof": "15 Oct 09:45 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -163,9 +163,29 @@
    ]
   },
   "Startups": {
-   "total": 679,
-   "new_today": 6,
+   "total": 684,
+   "new_today": 11,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 91,
+     "title": "Zetwerk sets IPO price band at Rs 143-151, aims to raise Rs 5,012 Cr",
+     "url": "https://yourstory.com/2026/10/zetwer-sets-ipo-price-band-rs-143-151-to-raise-rs-5012-cr",
+     "date": "2026-10-12",
+     "source": "YourStory",
+     "label": "India · Other",
+     "snippet": "Zetwerk has expanded the size of its IPO and is seeking a valuation of Rs 25,583 crore.",
+     "lead": "Zetwerk sets IPO price band at Rs 143-151, aims to raise Rs 5,012 Cr Zetwerk has expanded the size of its IPO and is seeking a valuation of Rs 25,583 crore. Team YS 17339 Stories Monday October 12, 2026 , 2 min Read Zetwerk, the Bengaluru-headquartered manufacturing marketplace, has set a price band of Rs 143–151 per share for its initial public offering (IPO), targeting a valuation of Rs 25,583 crore. The IPO comprises a fresh issue ...",
+     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/IPOStock31600x900-1791787437744.jpg",
+     "why": [
+      "IPO & Listing",
+      "Very large figure in headline (about $528M: round or valuation)"
+     ],
+     "tags": [
+      "IPO & Listing"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -229,31 +249,11 @@
      "tags": [
       "IPO & Listing"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 82,
-     "title": "Exclusive: Traya In Talks To Raise Around ₹300 Cr From Verlinvest",
-     "url": "https://inc42.com/buzz/exclusive-traya-in-talks-to-raise-around-%e2%82%b9300-cr-from-verlinvest/",
-     "date": "2026-10-14",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "Traya is in talks to raise around ₹300 Cr from Verlinvest at a valuation of ₹2,500 Cr-₹3,000 Cr, with the funding amount yet to be finalised",
-     "lead": "Traya is in talks to raise around ₹300 Cr from Verlinvest at a valuation of ₹2,500 Cr-₹3,000 Cr, with the funding amount yet to be finalised The talks come as Traya clocks an annualised revenue rate of ₹900 Cr-₹1,000 Cr and expands its offline presence beyond 20 centres The funding talks come amid what sources described as strong growth in recent months, with Traya currently clocking an annualised revenue rate of ₹900 Cr to ₹1,000 Cr.",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Traya-Funding-Social.jpg",
-     "why": [
-      "Funding",
-      "Sizeable deal (about $32M)"
-     ],
-     "tags": [
-      "Funding"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 982,
+   "total": 983,
    "new_today": 1,
    "items": [
     {
@@ -575,6 +575,28 @@
    "desk": "Startups",
    "score": 10,
    "priority": 91,
+   "title": "India’s Biggest IPO, Groww’s Q2 Profit Run & More",
+   "url": "https://inc42.com/buzz/indias-biggest-ipo-growws-q2-profit-run-more/",
+   "date": "2026-10-15",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Jio Platforms has filed RHP for its proposed ₹30,213 Cr IPO, which is set to open for subscription on October 21.",
+   "lead": "India’s Biggest IPO: Jio Platforms’ public issue, which consists entirely of a fresh issue of 27 Cr equity shares, will open for subscription on October 21 and close on October 23. The digital giant has set a price band of ₹1,065 to ₹1,119 per share for its issue, which will value the company at a nifty ₹10.3 Lakh Cr. Who Owns Jio? Reliance Industries holds 66.43% of the company, while big tech giants Meta and Google own 9.98% and ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Social-Daily-Brief-28.png",
+   "why": [
+    "IPO & Listing",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
    "title": "Groww Q2: Profit Jumps 54% YoY To ₹725 Cr, Revenue Rises 47%",
    "url": "https://inc42.com/buzz/groww-q2-profit-jumps-54-yoy-to-%e2%82%b9725-cr-revenue-rises-47/",
    "date": "2026-10-14",
@@ -591,7 +613,7 @@
    "tags": [
     "Financials"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -614,7 +636,7 @@
    "tags": [
     "Global"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -637,7 +659,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -659,28 +681,6 @@
    ],
    "tags": [
     "AIF"
-   ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "Zetwerk sets IPO price band at Rs 143-151, aims to raise Rs 5,012 Cr",
-   "url": "https://yourstory.com/2026/10/zetwer-sets-ipo-price-band-rs-143-151-to-raise-rs-5012-cr",
-   "date": "2026-10-12",
-   "source": "YourStory",
-   "label": "India · Other",
-   "snippet": "Zetwerk has expanded the size of its IPO and is seeking a valuation of Rs 25,583 crore.",
-   "lead": "Zetwerk sets IPO price band at Rs 143-151, aims to raise Rs 5,012 Cr Zetwerk has expanded the size of its IPO and is seeking a valuation of Rs 25,583 crore. Team YS 17339 Stories Monday October 12, 2026 , 2 min Read Zetwerk, the Bengaluru-headquartered manufacturing marketplace, has set a price band of Rs 143–151 per share for its initial public offering (IPO), targeting a valuation of Rs 25,583 crore. The IPO comprises a fresh issue ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/IPOStock31600x900-1791787437744.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $528M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing"
    ],
    "rank": 13,
    "must_read": false
