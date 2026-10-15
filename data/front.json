@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-15",
- "built": "2026-10-15 10:38 IST",
+ "built": "2026-10-15 20:52 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,44 +12,44 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22921.0,
-   "change_pct": 1.32,
-   "asof": "15 Oct 10:37 IST"
+   "value": 22997.0,
+   "change_pct": 1.66,
+   "asof": "15 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73750.0,
-   "change_pct": 1.33,
-   "asof": "15 Oct 10:22 IST"
+   "value": 74316.0,
+   "change_pct": 2.11,
+   "asof": "15 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.96,
-   "change_pct": -0.34,
-   "asof": "15 Oct 10:37 IST"
+   "value": 95.04,
+   "change_pct": -0.25,
+   "asof": "15 Oct 19:15 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 104.42,
-   "change_pct": -1.55,
-   "asof": "15 Oct 10:27 IST"
+   "value": 105.7,
+   "change_pct": -0.34,
+   "asof": "15 Oct 20:42 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4167.0,
-   "change_pct": 1.44,
-   "asof": "15 Oct 10:27 IST"
+   "value": 4177.0,
+   "change_pct": 1.69,
+   "asof": "15 Oct 20:42 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.19,
-   "change_pct": -0.52,
-   "asof": "15 Oct 00:29 IST"
+   "value": 5.09,
+   "change_pct": -1.91,
+   "asof": "15 Oct 20:37 IST"
   }
  ],
  "features": {
@@ -79,9 +79,47 @@
  },
  "desks": {
   "Policy": {
-   "total": 199,
-   "new_today": 0,
+   "total": 203,
+   "new_today": 4,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 7,
+     "priority": 47,
+     "title": "Building a New Beginning Through the Inter-Caste Marriage Incentive Scheme",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323772",
+     "date": "2026-10-15",
+     "source": "PIB",
+     "label": "Energy & Power",
+     "snippet": "Marriage is not only the union of two individuals but also an opportunity to strengthen mutual respe",
+     "lead": "Ministry of Social Justice & Empowerment Building a New Beginning Through the Inter-Caste Marriage Incentive Scheme Mr. Aditya Sadhu Sawant and Mrs. Khushi Pravin Shaha’s Journey Towards Equality and Social Harmony Posted On: 15 OCT 2026 2:15PM by PIB Delhi Marriage is not only the union of two individuals but also an opportunity to strengthen mutual respect, equality and harmony within society. For Mr. Aditya Sadhu Sawant and Mrs. ...",
+     "image": null,
+     "why": [
+      "Subsidy or incentive"
+     ],
+     "tags": [
+      "Energy & Power"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 7,
+     "priority": 47,
+     "title": "Ministry of Cooperation mandates new Audit Reporting Framework for Multi-State Cooperative Societies to strengthen transparency, accountability and good governance",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323313",
+     "date": "2026-10-14",
+     "source": "PIB",
+     "label": "Banking & Rates",
+     "snippet": "Guided by Prime Minister Shri Narendra Modi’s vision of ‘Sahkar se Samriddhi’ and under the leadersh",
+     "lead": "Ministry of Cooperation Ministry of Cooperation mandates new Audit Reporting Framework for Multi-State Cooperative Societies to strengthen transparency, accountability and good governance Guided by Prime Minister Shri Narendra Modi’s vision of ‘Sahkar se Samriddhi’ and under the leadership of Union Home Minister and Minister of Cooperation Shri Amit Shah, Ministry of Cooperation takes another significant step towards strengthening ...",
+     "image": null,
+     "why": [
+      "Rates and liquidity"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 6,
@@ -120,52 +158,75 @@
      "tags": [
       "Banking & Rates"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 5,
-     "priority": 33,
-     "title": "Underwriting Auction for sale of Government Securities for ₹36,000 crore on October 09, 2026",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63757",
-     "date": "2026-10-08",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on October 09, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
-     "image": null,
-     "why": [
-      "Regulator: RBI",
-      "Large outlay (Rs 10,000 Cr or more)"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 4,
-     "priority": 27,
-     "title": "Government Approves Strategic Restructuring of IDBI Bank Ltd.",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323468",
-     "date": "2026-10-14",
-     "source": "PIB",
-     "label": "Banking & Rates",
-     "snippet": "IDBI Bank Ltd. is a scheduled commercial bank regulated by the Reserve Bank of India (RBI). Due to i",
-     "lead": "Cabinet Government Approves Strategic Restructuring of IDBI Bank Ltd. Posted On: 14 OCT 2026 6:30PM by PIB Delhi IDBI Bank Ltd. is a scheduled commercial bank regulated by the Reserve Bank of India (RBI). Due to its poor financial health, the Bank required repeated infusion of capital, initially provided by the Government of India and later by the LIC. On 5th May, 2017, the Reserve Bank of India (RBI) put the IDBI Bank under the Prompt ...",
-     "image": null,
-     "why": [
-      "Cabinet"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 684,
-   "new_today": 11,
+   "total": 701,
+   "new_today": 28,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 100,
+     "title": "TechSparks 2026 is here; Zetwerk targets Rs 5,012 Cr IPO",
+     "url": "https://yourstory.com/2026/10/techsparks-2026-is-here-zetwerks-ipo",
+     "date": "2026-10-13",
+     "source": "YourStory",
+     "label": "India · AI & Deeptech",
+     "snippet": "Under this year’s rallying cry, ‘The New Tech Order,’ YourStory’s 17th edition is bringing together 10,000+ visionaries, 500 speakers, 1,000 startups, and 300 investors. We aren't just discussing the future of AI, deep tech, and digital infrastructure—we're asking: who gets to build it, and how fast",
+     "lead": "TechSparks 2026 is here; Zetwerk targets Rs 5,012 Cr IPO Under this year’s rallying cry, ‘The New Tech Order,’ YourStory’s 17th edition is bringing together 10,000+ visionaries, 500 speakers, 1,000 startups, and 300 investors. We aren't just discussing the future of AI, deep tech, and digital infrastructure—we're asking: who gets to build it, and how fast Team YS 17343 Stories Tuesday October 13, 2026 , 4 min Read India’s tech capital ...",
+     "image": "https://images.yourstory.com/cs/2/47afd43024ec11ec9ecb9b7afb0df1da/TSBookendsDay1Opener-1791824462509.jpg",
+     "why": [
+      "IPO & Listing",
+      "Very large figure in headline (about $528M: round or valuation)"
+     ],
+     "tags": [
+      "IPO & Listing",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 91,
+     "title": "India’s Biggest IPO, Groww’s Q2 Profit Run & More",
+     "url": "https://inc42.com/buzz/indias-biggest-ipo-growws-q2-profit-run-more/",
+     "date": "2026-10-15",
+     "source": "Inc42",
+     "label": "India · Other",
+     "snippet": "Jio Platforms has filed RHP for its proposed ₹30,213 Cr IPO, which is set to open for subscription on October 21.",
+     "lead": "India’s Biggest IPO: Jio Platforms’ public issue, which consists entirely of a fresh issue of 27 Cr equity shares, will open for subscription on October 21 and close on October 23. The digital giant has set a price band of ₹1,065 to ₹1,119 per share for its issue, which will value the company at a nifty ₹10.3 Lakh Cr. Who Owns Jio? Reliance Industries holds 66.43% of the company, while big tech giants Meta and Google own 9.98% and ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Social-Daily-Brief-28.png",
+     "why": [
+      "IPO & Listing",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "IPO & Listing"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 91,
+     "title": "Groww Q2: Profit Jumps 54% YoY To ₹725 Cr, Revenue Rises 47%",
+     "url": "https://inc42.com/buzz/groww-q2-profit-jumps-54-yoy-to-%e2%82%b9725-cr-revenue-rises-47/",
+     "date": "2026-10-14",
+     "source": "Inc42",
+     "label": "India · Other",
+     "snippet": "Groww’s consolidated net profit jumped 54% to ₹724.7 Cr in the second quarter of FY27 from ₹471.3 Cr in the year-ago quarter",
+     "lead": "Groww’s consolidated net profit rose 54% YoY to ₹724.7 Cr in Q2 FY27, while operating revenue climbed 47% to ₹1,501.5 Cr Revenue growth outpaced the increase in expenses from a year earlier, lifting profitability, although revenue remained flat and profit slipped sequentially. Including other income of ₹39 Cr, Groww’s total income stood at ₹1,540.5 Cr, compared with ₹1,070.8 Cr a year earlier.",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Groww-wtf-Soc-.jpg",
+     "why": [
+      "Financials",
+      "Sizeable deal (about $76M)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Financials"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -185,81 +246,58 @@
      "tags": [
       "IPO & Listing"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 91,
-     "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-     "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-     "date": "2026-10-08",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
-     "lead": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months Julie Bort 11:19 AM PDT · October 8, 2026 Arena , which originated in 2023 as a research project at UC Berkeley that crowdsourced rankings of AI models, has raised a $200 million Series B round at a $3.1 billion valuation, it said on Thursday. This comes after the company said it reached $100 million in annualized run-rate revenue in June. The round ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $3,100M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 91,
-     "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-     "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-     "date": "2026-10-08",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "The developer of Hermes Agent raised a $90 million Series B.",
-     "lead": "Nous Research , the startup developing the open source Hermes Agent, has raised a $90 million Series B at a $1.5 billion valuation, confirming TechCrunch’s earlier reporting . The round was led by Robot Ventures, with participation from other backers including Nvidia, Union Square Ventures, Menlo Ventures, Samsung, and 1789 Capital, where Donald Trump Jr. is a partner. The new financing brings the three-year-old startup’s total funding ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $1,500M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 82,
-     "title": "Jio Platforms Sets Stage For India’s Largest IPO At ₹10.3 Lakh Cr Valuation",
-     "url": "https://inc42.com/buzz/jio-platforms-set-stage-for-indias-largest-ipo-at-%e2%82%b910-3-lakh-cr-valuation/",
-     "date": "2026-10-14",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "Jio Platforms has set a price band of ₹1,065-₹1,119 per share for its IPO, which would be worth ₹30,213 Cr at the upper end.",
-     "lead": "Jio Platforms has set a price band of ₹1,065-₹1,119 per share for its IPO, which would be worth ₹30,213 Cr at the upper end The upper end of the price band implies a valuation of around ₹10.3 Lakh Cr, making this India’s largest-ever IPO Jio’s IPO will open for public subscription on October 21 and close on October 23 with anchor bidding to take place on October 19",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/JIO-ipo-social-.jpg",
-     "why": [
-      "IPO & Listing",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 983,
-   "new_today": 1,
+   "total": 996,
+   "new_today": 13,
    "items": [
     {
      "desk": "Immigration",
      "score": 6,
-     "priority": 67,
+     "priority": 55,
+     "title": "This country allows US, UK, Canada and New Zealand residents join its military without citizenship. Check",
+     "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQSUd6V1g5a1hlTURMUVFvMkVCOHJKd1phdGg5alAzZEZSQ2hHVUZuUXItV1djbDNyUEFKX09DTVVIMmVoamZ1MHFJSTd5NjFlRWkyN2dTbW1ucjFKTEdGQU5ja1NTb3FERmFNbWw3RjBhV1lyeGdZM2Fldm1oZnBrNGMxa0NKSWNCLUtvTWw1dUhudFpFS3Z5UmRObEh1dE5NWlA5Tl9jYk1mWTBVYUgwNUpLQVVNd1NnVV94cnVrbmR3ZV8xYWlRMF9CUkQ5SHhPRlNhU0ZXaHBtRExTdzh3MHE3b0JtVDU2dFJMczgxcWU4aHpKTmFCME84RXoxTHh3RzAzY1B6VE1lRmNDRDFkUW5fS2ZzbldOaE9Za19iM3RubWFTdlZlV3cyMHlZclExMTlZTXhLZjkzdDM0N2s5T1A3eGdpZ9IBywJBVV95cUxQeGhTYVpVekFIbDY2Y0U4T2U5RVIxcHJaUDNQQ09WOGRTdzJWeXBQS25hTjJOQ0kzSHlUTmlnNzU1SEJpazRpV3pXdFdSakV3c1ROSk9lLTU2UjFDX0F1anRVTUc0azh3V3pkVzgwVVZZeXBIYm1SNTRLSHdyTWpkVDhkOHpKSU5BR2JVSV8yVVpoT3FLX0FhdHdENjFOa3RqazVrQkxpSjFlemZldTZlMHpEY0F6TjJhM2pvaVNLQ19UYTFRNzNObWppREhnYXdrS2thQ3ZCUG1tbjJvR0ZCeTA2cmxkMzU4aHIxcXp6VkNiN0tGV1dtM3lTVWpWUEhjQ2s1eVUtbEgyTFlON2lkZEQyTkpSUnBGblZfZzF3bFh1b3RldGZHdG9vWF9jbm9OZm14MU5yV3ZVQkFnX3ZDQUtEeXBkaUoxZnpF?oc=5",
+     "date": "2026-10-13",
+     "source": "The Economic Times",
+     "label": "New Zealand",
+     "snippet": "In 2024, Australia allows eligible permanent residents from the US, UK, Canada and New Zealand to apply to join its military without obtaining Australian citizenship first. The expanded recruitment policy aims to address personnel shortages and widen the pool of potential recruits. Here are the eligibility criteria, residency requirements",
+     "lead": "Permanent residents from New Zealand, the UK, Canada and the US can apply to join the ADF",
+     "image": "https://img.etimg.com/thumb/msid-134872245,width-1200,height-900,imgsize-93910,overlay-economictimes/articleshow.jpg",
+     "why": [
+      "Affects citizenship"
+     ],
+     "tags": [
+      "Citizenship",
+      "New Zealand"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 55,
+     "title": "Japan PM faces calls for immigration cap as she weighs policy on foreigners",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWF3VS1HcWpsME1QR1Y4ZWt2Y1B0c2pSTVJmWTNnLW9uNDN5UWh2Smk0RVYtZ2U4cnE3NDBvZkFzaVBPdEFHMHU1MVdJUzJPaDlhNGEtRURJekk1c2hXajNnUU1fMWFWWHhnV0V0Y0c4WTBnSWxQNkZWQVdPV3NDbkE0TVVhaUZEbHFxV0gxM1RKOWVZUXNkc19LWWFmTkg3UU5zejFiTWtvMnFYaDB0aENGMlZRQ3h2elJQRHNkWHZPQVhyREE?oc=5",
+     "date": "2026-10-10",
+     "source": "Nikkei Asia",
+     "label": "Japan",
+     "snippet": "Government to base plan on population trends, Takaichi says",
+     "lead": "Japan India South Korea Indonesia Taiwan Thailand U.S. East Asia Hong Kong Macao Taiwan Mongolia Japan South Korea North Korea Southeast Asia Thailand Malaysia Singapore Philippines Vietnam Myanmar Cambodia Laos Brunei East Timor South Asia Pakistan Afghanistan Bangladesh Sri Lanka Nepal Bhutan Maldives Central Asia Uzbekistan Turkmenistan Tajikistan Kyrgyzstan Oceania New Zealand Papua New Guinea Pacific Islands Rest of the World ...",
+     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F1%2F2%2F13302188-2-eng-GB%2F116a6fa07443-photo_SXM2026100900004657.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+     "why": [
+      "Quota or cap change",
+      "Announces a change"
+     ],
+     "tags": [
+      "Quota / Caps",
+      "Japan"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 55,
      "title": "\"Beyond Visa Delays…\" Warning Signs Across South Korea-U.S. Relations?",
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1RUowX2E2QWUtWWxkVUctN1hQVkgxdXQ4MW1XRE5qTzZKT1ZMdU5ERTZoX0RYZmgxb3BhaklQZXZRUUxSQkhPWTBJSE05ZG1xSGR5WkMzSmJib09zNGZQUTBjQkNJVHVvS0F4TFN30gFmQVVfeXFMUGZ5Y2xPel9uLWVFdGd0YlB2OXNMWTFzZHhQaTFQTTBnOTJKTkxTYTdMeTdRbFpad09pOEFnc2F3cUNMcURwQm9tRUk1SDhfRUx1eEs5VHZCRnJUY3I3eUZxN1VJM2ln?oc=5",
      "date": "2026-10-09",
@@ -279,7 +317,7 @@
     {
      "desk": "Immigration",
      "score": 5,
-     "priority": 56,
+     "priority": 45,
      "title": "Free legal aid for immigrants in Norway faces heavy funding cuts",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdTMzUmxkRmlSWldVRU1iaUNXdmsxV2FKYjlodWI5SFN6ZVRPNlR5T1VUQVlDdVc0RlhBOHVWZ1QzRmRHbnR6TVFMTVZFNl9ENXNnZTFzNG55Vll1QVl6X0NTYk4xbFBqV1NYZWlxNVV1WGxkaVdrT3lxdy1WWWlrQjgySW1hSWN1cEhqeG1nTXE5TmlEQ1Rfbjk0OGpiQQ?oc=5",
      "date": "2026-10-14",
@@ -393,6 +431,74 @@
    "desk": "Startups",
    "score": 11,
    "priority": 100,
+   "title": "Jio Financial Services Q2 Profit Halves YoY To ₹340 Cr",
+   "url": "https://inc42.com/buzz/jio-financial-services-q2-profit-halves-yoy-to-%e2%82%b9340-cr/",
+   "date": "2026-10-15",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Jio Financial Services’ consolidated net profit declined 51% to ₹340.4 Cr in the Q2 FY27 from ₹695 Cr in the year-ago quarter.",
+   "lead": "Jio Financial Services’ consolidated net profit fell 51% YoY and 59% sequentially to ₹340.4 Cr in Q2 FY27 The profit decline came amid higher expenses and the absence of dividend income during the quarter Operating revenue rose 73% to ₹1,699.3 Cr from ₹981.4 Cr in Q2 FY26 but declined 15.2% sequentially",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/04/Jio-financial-services-social.png",
+   "why": [
+    "Financials",
+    "Sizeable deal (about $36M)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Financials"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 100,
+   "title": "[Update] Tonbo Imaging IPO Subscribed 4X On Day 1, NIIs Lead Demand",
+   "url": "https://inc42.com/buzz/tonbo-imaging-ipo-subscribed-1-47x-on-day-1-so-far-niis-lead-demand/",
+   "date": "2026-10-15",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Tonbo Imaging’s ₹852 Cr IPO was subscribed 4X on Day 1, getting bids for 3.41 Cr shares against 85.26 Lakh shares on offer",
+   "lead": "Demand exceeded allocations across all investor categories, with NIIs leading subscription at 5.96X, followed by QIBs at 3.92X and retail investors at 3.2X. Retail investors bid for 1.36 Cr shares against their allocation of 42.56 Lakh shares, oversubscribing to 3.2X of the portion. Qualified institutional buyers (QIBs) picked up pace and bid for 95.43 Lakh shares against the 24.32 Lakh shares earmarked for them, translating to 3.92X ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Tonbo-social-1.jpg",
+   "why": [
+    "IPO & Listing",
+    "Sizeable deal (about $90M)"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 100,
+   "title": "Udaan’s FY26 Revenue Rises 13% To ₹5,134 Cr, Loss Narrows To ₹852 Cr",
+   "url": "https://inc42.com/buzz/udaans-fy26-revenue-rises-13-to-%e2%82%b95134-cr-loss-narrows-to-%e2%82%b9852-cr/",
+   "date": "2026-10-15",
+   "source": "Inc42",
+   "label": "India · SaaS & Enterprise",
+   "snippet": "B2B ecommerce unicorn Udaan’s operating revenue grew 12.6% to ₹5,134 Cr in the financial year ended March 2026 (FY26) from ₹4,561 Cr in FY25",
+   "lead": "B2B ecommerce unicorn Udaan’s operating revenue grew 12.6% to ₹5,134 Cr in the financial year ended March 2026 (FY26) from ₹4,561 Cr in FY25 The recovery follows an uneven revenue trajectory — a 40% decline in FY23, marginal growth of 1.7% in FY24, and a 20% fall in FY25. During this period, Udaan also closed a $114 Mn Series G funding round in June 2025 at a 59% valuation dip The startup’s net loss narrowed 19.4% to ₹851.5 Cr from ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Udaan-troubles-social.jpg",
+   "why": [
+    "Financials",
+    "Very large figure in headline (about $540M: round or valuation)"
+   ],
+   "tags": [
+    "Financials",
+    "SaaS & Enterprise"
+   ],
+   "rank": 3,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 100,
    "title": "IPO-Bound Tonbo Imaging Nets ₹255 Cr From Anchor Investors",
    "url": "https://inc42.com/buzz/ipo-bound-tonbo-imaging-nets-%e2%82%b9255-cr-from-anchor-investors/",
    "date": "2026-10-15",
@@ -408,7 +514,30 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 1,
+   "rank": 4,
+   "must_read": true
+  },
+  {
+   "desk": "Immigration",
+   "score": 11,
+   "priority": 100,
+   "title": "Guidance: EU Settlement Scheme: caseworker guidance",
+   "url": "https://www.gov.uk/government/publications/eu-settlement-scheme-caseworker-guidance",
+   "date": "2026-10-15",
+   "source": "GOV.UK (UK Visas and Immigration)",
+   "label": "United Kingdom",
+   "snippet": "Immigration staff guidance on applications under the EU Settlement Scheme.",
+   "lead": "Navigation menu Menu Menu Services and information Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions ...",
+   "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+   "why": [
+    "Affects permanent residence",
+    "Official government notice"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "United Kingdom"
+   ],
+   "rank": 5,
    "must_read": true
   },
   {
@@ -431,8 +560,8 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 2,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Startups",
@@ -453,8 +582,8 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 3,
-   "must_read": true
+   "rank": 7,
+   "must_read": false
   },
   {
    "desk": "Startups",
@@ -476,8 +605,8 @@
     "IPO & Listing",
     "Policy & Regulation"
    ],
-   "rank": 4,
-   "must_read": true
+   "rank": 8,
+   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -499,53 +628,7 @@
    "tags": [
     "AIF"
    ],
-   "rank": 5,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 100,
-   "title": "TechSparks 2026 is here; Zetwerk targets Rs 5,012 Cr IPO",
-   "url": "https://yourstory.com/2026/10/techsparks-2026-is-here-zetwerks-ipo",
-   "date": "2026-10-13",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "Under this year’s rallying cry, ‘The New Tech Order,’ YourStory’s 17th edition is bringing together 10,000+ visionaries, 500 speakers, 1,000 startups, and 300 investors. We aren't just discussing the future of AI, deep tech, and digital infrastructure—we're asking: who gets to build it, and how fast",
-   "lead": "TechSparks 2026 is here; Zetwerk targets Rs 5,012 Cr IPO Under this year’s rallying cry, ‘The New Tech Order,’ YourStory’s 17th edition is bringing together 10,000+ visionaries, 500 speakers, 1,000 startups, and 300 investors. We aren't just discussing the future of AI, deep tech, and digital infrastructure—we're asking: who gets to build it, and how fast Team YS 17343 Stories Tuesday October 13, 2026 , 4 min Read India’s tech capital ...",
-   "image": "https://images.yourstory.com/cs/2/47afd43024ec11ec9ecb9b7afb0df1da/TSBookendsDay1Opener-1791824462509.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $528M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "AI & Deeptech"
-   ],
-   "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 9,
-   "priority": 100,
-   "title": "Guidance: EU Settlement Scheme: caseworker guidance",
-   "url": "https://www.gov.uk/government/publications/eu-settlement-scheme-caseworker-guidance",
-   "date": "2026-10-13",
-   "source": "GOV.UK (UK Visas and Immigration)",
-   "label": "United Kingdom",
-   "snippet": "Immigration staff guidance on applications under the EU Settlement Scheme.",
-   "lead": "Navigation menu Menu Menu Services and information Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions ...",
-   "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-   "why": [
-    "Affects permanent residence",
-    "Official government notice"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "United Kingdom"
-   ],
-   "rank": 7,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -567,51 +650,6 @@
    ],
    "tags": [
     "Debt & Bonds"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "India’s Biggest IPO, Groww’s Q2 Profit Run & More",
-   "url": "https://inc42.com/buzz/indias-biggest-ipo-growws-q2-profit-run-more/",
-   "date": "2026-10-15",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Jio Platforms has filed RHP for its proposed ₹30,213 Cr IPO, which is set to open for subscription on October 21.",
-   "lead": "India’s Biggest IPO: Jio Platforms’ public issue, which consists entirely of a fresh issue of 27 Cr equity shares, will open for subscription on October 21 and close on October 23. The digital giant has set a price band of ₹1,065 to ₹1,119 per share for its issue, which will value the company at a nifty ₹10.3 Lakh Cr. Who Owns Jio? Reliance Industries holds 66.43% of the company, while big tech giants Meta and Google own 9.98% and ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Social-Daily-Brief-28.png",
-   "why": [
-    "IPO & Listing",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "Groww Q2: Profit Jumps 54% YoY To ₹725 Cr, Revenue Rises 47%",
-   "url": "https://inc42.com/buzz/groww-q2-profit-jumps-54-yoy-to-%e2%82%b9725-cr-revenue-rises-47/",
-   "date": "2026-10-14",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Groww’s consolidated net profit jumped 54% to ₹724.7 Cr in the second quarter of FY27 from ₹471.3 Cr in the year-ago quarter",
-   "lead": "Groww’s consolidated net profit rose 54% YoY to ₹724.7 Cr in Q2 FY27, while operating revenue climbed 47% to ₹1,501.5 Cr Revenue growth outpaced the increase in expenses from a year earlier, lifting profitability, although revenue remained flat and profit slipped sequentially. Including other income of ₹39 Cr, Groww’s total income stood at ₹1,540.5 Cr, compared with ₹1,070.8 Cr a year earlier.",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Groww-wtf-Soc-.jpg",
-   "why": [
-    "Financials",
-    "Sizeable deal (about $76M)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Financials"
    ],
    "rank": 10,
    "must_read": false
@@ -734,7 +772,51 @@
   {
    "desk": "Immigration",
    "score": 7,
-   "priority": 78,
+   "priority": 64,
+   "title": "Everything you need to know about Denmark’s new work permit rules",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZnV2ejJ1bHU3eWk5NlVtNXBoOEI0TWhsT0NVa3JGb3BkcHBHMzQ2QWh0aUhvZXpjb2Z4N0dBOVJQb0pScWdyUWYtckxiTVlwVEZKb3lzN0Jtbk1tQWtzUWM1MllJanZpaTBJM2hWRU1aMllyY2VRcVg4RDg1OThNcXhQU3psMVhydk5lQU5JUnQ1dmNjZkg3RV9OQW5UUQ?oc=5",
+   "date": "2026-10-15",
+   "source": "The Local Denmark",
+   "label": "Denmark",
+   "snippet": "Denmark's work permit rules will change for citizens of 16 countries from January 1st, 2027. What are the new rules and who is affected?",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Denmark's work permit rules will change for citizens of 16 countries from January 1st, 2027. What are the new rules and who is affected? The new work permit rules will significantly lower the salary needed to qualify ...",
+   "image": null,
+   "why": [
+    "Affects work visas"
+   ],
+   "tags": [
+    "Work visa",
+    "Denmark"
+   ],
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 64,
+   "title": "Portugal has limited immigration, and Spain may follow",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNXzNjbW9LMXM2TV9SWWRoRWhoNjgtd0hWeFFSRy1LRk1ZZlFwYWctaGdPTUtLZ2RGbzkxbWRjRm5EZE5ZRkJNV2ZBTWJKbEZXRjJRdWNYUG4wWmhUblN4cnJTTDNRQVNuUWVlZTZrN2RvV1RMRDNmRnVOVGFkdTJub0FlQ2UxbWlvMGxMR3BvMzZoQm9Qa3psYXlyLWNsdw?oc=5",
+   "date": "2026-10-15",
+   "source": "The Economist",
+   "label": "Spain",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Quota or cap change"
+   ],
+   "tags": [
+    "Quota / Caps",
+    "Spain"
+   ],
+   "rank": 17,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 64,
    "title": "Finland to introduce citizenship test in March 2027",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONTc0bGZpaXlXVDU4UUFzZ0JTVlRUc2RhdHVPT2x6T3VZcWx4SG9tRE9VQVMyWWVuVXBYeTJvckN4bm1BcFVrQXNmdWVzRzVxT2k3UXNSTDZhZE1BLWpSR3RHcTV2YnNSWUcyelJuenZ4MGktVnlZN2Qwb3ZLUVA4MHh2V3BNWTVTOS1FdlZVQ0xTZkh6a3Y0SEpUQ2Fkd3M4eElFemZQNTBQd3l4SmRTbjhnYjI3V01XTThBOUtR?oc=5",
    "date": "2026-10-09",
@@ -751,74 +833,7 @@
     "Citizenship",
     "Finland"
    ],
-   "rank": 16,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 67,
-   "title": "Applying for proof of Canadian citizenship from abroad? A representative in Canada could save you months",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV1BPTmdhNEUwZUpmOG9QRDY0QnUtTU9hV1d1VmYtMmZlZXloYU0wdVZJR0ZJTlYtQjRwVWxLTFYxdG9reGttLV9RdlQxaDF6TzZ4OVBvbWN3UnhrcDFEbzJzdXd2aEczcnJHdlExbzFJNXptMzlYYXZLcS1Ea3NOeWY1ZlozdXEzQjZGTUhOSFZGVEZGTERvTHBYb0dBdjFJSXZ1M2F6NWpWdUpLdUZSTzlvd2tGbGRQRkNkb1FFazZxalpOcm9nYjZNb1dIc2lnOFlWa0REWlAyMk1ncF92SktB0gHnAUFVX3lxTE5vcWxqc3pHdUJrLXFkc1o4SzZPM01memN6ajhaQU5rSnJkbTVUNmc1LTFKeTJ3RnpmeUJSYWNtNW9mNmpQNVNkMU9HTkxWaHc3Ul92a013SG9YVkpzZ1Jlc1ZpdF9fakJUTVkxQ0VwU2p6YXNmb05FZlk3ajRQaHhXbzFPQnJzeGJMR1M4MEh4OS0yOXc1RGtfa3BmdjhXek9yZUN6RDl5eTdWb05OVEJwLXZmeE5idEJ1X3pRWVJqNjBsT05JSDB5U3VILTJLalhROGl1bnd2bE91c0p6MjkxbHFjeXhFVQ?oc=5",
-   "date": "2026-10-14",
-   "source": "CIC News",
-   "label": "Canada",
-   "snippet": "Citizenship by descent applicants who live outside Canada and the United States can avoid several months of additional waiting by having a representative in Canada file their proof of citizenship application. A representative is a person you authorize to deal with Immigration, Refugees and Citizenship Canada (IRCC) for you. Representative",
-   "lead": "Citizenship by descent applicants who live outside Canada and the United States can avoid several months of additional waiting by having a representative in Canada file their proof of citizenship application. A representative is a person you authorize to deal with Immigration, Refugees and Citizenship Canada (IRCC) for you. Representatives can be paid or unpaid, and a relative or friend in Canada can take on the role for free. You’ll ...",
-   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/how-to-save-3-4-months-of-wait-time-on-your-PoC-application-processing.jpg",
-   "why": [
-    "Affects citizenship"
-   ],
-   "tags": [
-    "Citizenship",
-    "Canada"
-   ],
-   "rank": 17,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 67,
-   "title": "This country allows US, UK, Canada and New Zealand residents join its military without citizenship. Check",
-   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQSUd6V1g5a1hlTURMUVFvMkVCOHJKd1phdGg5alAzZEZSQ2hHVUZuUXItV1djbDNyUEFKX09DTVVIMmVoamZ1MHFJSTd5NjFlRWkyN2dTbW1ucjFKTEdGQU5ja1NTb3FERmFNbWw3RjBhV1lyeGdZM2Fldm1oZnBrNGMxa0NKSWNCLUtvTWw1dUhudFpFS3Z5UmRObEh1dE5NWlA5Tl9jYk1mWTBVYUgwNUpLQVVNd1NnVV94cnVrbmR3ZV8xYWlRMF9CUkQ5SHhPRlNhU0ZXaHBtRExTdzh3MHE3b0JtVDU2dFJMczgxcWU4aHpKTmFCME84RXoxTHh3RzAzY1B6VE1lRmNDRDFkUW5fS2ZzbldOaE9Za19iM3RubWFTdlZlV3cyMHlZclExMTlZTXhLZjkzdDM0N2s5T1A3eGdpZ9IBywJBVV95cUxQeGhTYVpVekFIbDY2Y0U4T2U5RVIxcHJaUDNQQ09WOGRTdzJWeXBQS25hTjJOQ0kzSHlUTmlnNzU1SEJpazRpV3pXdFdSakV3c1ROSk9lLTU2UjFDX0F1anRVTUc0azh3V3pkVzgwVVZZeXBIYm1SNTRLSHdyTWpkVDhkOHpKSU5BR2JVSV8yVVpoT3FLX0FhdHdENjFOa3RqazVrQkxpSjFlemZldTZlMHpEY0F6TjJhM2pvaVNLQ19UYTFRNzNObWppREhnYXdrS2thQ3ZCUG1tbjJvR0ZCeTA2cmxkMzU4aHIxcXp6VkNiN0tGV1dtM3lTVWpWUEhjQ2s1eVUtbEgyTFlON2lkZEQyTkpSUnBGblZfZzF3bFh1b3RldGZHdG9vWF9jbm9OZm14MU5yV3ZVQkFnX3ZDQUtEeXBkaUoxZnpF?oc=5",
-   "date": "2026-10-13",
-   "source": "The Economic Times",
-   "label": "New Zealand",
-   "snippet": "In 2024, Australia allows eligible permanent residents from the US, UK, Canada and New Zealand to apply to join its military without obtaining Australian citizenship first. The expanded recruitment policy aims to address personnel shortages and widen the pool of potential recruits. Here are the eligibility criteria, residency requirements",
-   "lead": "Permanent residents from New Zealand, the UK, Canada and the US can apply to join the ADF",
-   "image": "https://img.etimg.com/thumb/msid-134872245,width-1200,height-900,imgsize-93910,overlay-economictimes/articleshow.jpg",
-   "why": [
-    "Affects citizenship"
-   ],
-   "tags": [
-    "Citizenship",
-    "New Zealand"
-   ],
    "rank": 18,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 67,
-   "title": "Japan PM faces calls for immigration cap as she weighs policy on foreigners",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWF3VS1HcWpsME1QR1Y4ZWt2Y1B0c2pSTVJmWTNnLW9uNDN5UWh2Smk0RVYtZ2U4cnE3NDBvZkFzaVBPdEFHMHU1MVdJUzJPaDlhNGEtRURJekk1c2hXajNnUU1fMWFWWHhnV0V0Y0c4WTBnSWxQNkZWQVdPV3NDbkE0TVVhaUZEbHFxV0gxM1RKOWVZUXNkc19LWWFmTkg3UU5zejFiTWtvMnFYaDB0aENGMlZRQ3h2elJQRHNkWHZPQVhyREE?oc=5",
-   "date": "2026-10-10",
-   "source": "Nikkei Asia",
-   "label": "Japan",
-   "snippet": "Government to base plan on population trends, Takaichi says",
-   "lead": "Japan India South Korea Indonesia Taiwan Thailand U.S. East Asia Hong Kong Macao Taiwan Mongolia Japan South Korea North Korea Southeast Asia Thailand Malaysia Singapore Philippines Vietnam Myanmar Cambodia Laos Brunei East Timor South Asia Pakistan Afghanistan Bangladesh Sri Lanka Nepal Bhutan Maldives Central Asia Uzbekistan Turkmenistan Tajikistan Kyrgyzstan Oceania New Zealand Papua New Guinea Pacific Islands Rest of the World ...",
-   "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F1%2F2%2F13302188-2-eng-GB%2F116a6fa07443-photo_SXM2026100900004657.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
-   "why": [
-    "Quota or cap change",
-    "Announces a change"
-   ],
-   "tags": [
-    "Quota / Caps",
-    "Japan"
-   ],
-   "rank": 19,
    "must_read": false
   },
   {
@@ -840,7 +855,51 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
+   "rank": 19,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 6,
+   "priority": 55,
+   "title": "'Jesus READ THE ROOM Joni!': Canadian-born rock legend Joni Mitchell’s U.S. citizenship sparks backlash",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd2RCRy1Od2EzM0tGRVhVSi02SzlMbkVHVUNDWU1oMFp5aUdPbmJsWUV5NXFxajNzSDE0eldNbXZJVkNob0o5ZFVnd3g1djZqaW1seTdqek9xOWZRUzhYYTNVZnRUR3pmTExWSFg4TVBiQllhYVVlQWJZSWRhTkNrSFlkS0hLNEJueWxQUUZXV0FYNXc4YU9DLU52ejFLSllyVEd6aWRGNzRWT0JkY2Z4dG5JTnpyZkN0YVhyRW9rX3pPR3ZSV2pGakJOYw?oc=5",
+   "date": "2026-10-14",
+   "source": "Yahoo News Canada",
+   "label": "Canada",
+   "snippet": "Canadian-born singer-songwriter Joni Mitchell has become a U.S. citizen after 62 years in America, allowing her to vote in U.S. elections. The 82-year-old Alberta native's announcement has sparked mix...",
+   "lead": "Rock icon Joni Mitchell has called Canada home, built a legendary career in the United States and made no secret of her feelings about U.S. President Donald Trump. Now, after 62 years south of the border, the Alberta-born singer-songwriter is officially an American citizen, and her decision is raising eyebrows, given her outspoken criticism of the Trump administration. The 82-year-old singer-songwriter shared footage of her U.S. ...",
+   "image": "https://s.yimg.com/lo/mysterio/api/eef2f419fef31436d6b3587326c443d0c3d0f789012c7e8744614459bb33629e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fe02a1005-a972-4948-80ea-44d912fe25a5",
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "Canada"
+   ],
    "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 8,
+   "priority": 53,
+   "title": "Underwriting Auction for sale of Government Security for ₹34,000 crore on October 16, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63811",
+   "date": "2026-10-15",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "Government of India has announced the sale (re-issue) of Government Security, as detailed below, through auction to be held on October 16, 2026 (Friday) . As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
+   "image": null,
+   "why": [
+    "Regulator: RBI",
+    "Large outlay (Rs 10,000 Cr or more)"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 21,
    "must_read": false
   },
   {
@@ -862,7 +921,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 21,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -883,27 +942,6 @@
    ],
    "tags": [
     "Markets & Regulation"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 7,
-   "priority": 47,
-   "title": "Ministry of Cooperation mandates new Audit Reporting Framework for Multi-State Cooperative Societies to strengthen transparency, accountability and good governance",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323313",
-   "date": "2026-10-14",
-   "source": "PIB",
-   "label": "Banking & Rates",
-   "snippet": "Guided by Prime Minister Shri Narendra Modi’s vision of ‘Sahkar se Samriddhi’ and under the leadersh",
-   "lead": "Ministry of Cooperation Ministry of Cooperation mandates new Audit Reporting Framework for Multi-State Cooperative Societies to strengthen transparency, accountability and good governance Guided by Prime Minister Shri Narendra Modi’s vision of ‘Sahkar se Samriddhi’ and under the leadership of Union Home Minister and Minister of Cooperation Shri Amit Shah, Ministry of Cooperation takes another significant step towards strengthening ...",
-   "image": null,
-   "why": [
-    "Rates and liquidity"
-   ],
-   "tags": [
-    "Banking & Rates"
    ],
    "rank": 23,
    "must_read": false
