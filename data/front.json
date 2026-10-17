@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-17",
- "built": "2026-10-17 10:28 IST",
+ "built": "2026-10-17 19:26 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -79,8 +79,8 @@
  },
  "desks": {
   "Policy": {
-   "total": 206,
-   "new_today": 0,
+   "total": 207,
+   "new_today": 1,
    "items": [
     {
      "desk": "Policy",
@@ -162,9 +162,30 @@
    ]
   },
   "Startups": {
-   "total": 739,
-   "new_today": 2,
+   "total": 746,
+   "new_today": 9,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 92,
+     "title": "Jio’s $3.2 bn IPO: What its filing reveals about debt, growth and risks",
+     "url": "https://www.medianama.com/2026/10/223-jio-ipo-filing-debt-growth-risks/",
+     "date": "2026-10-15",
+     "source": "MediaNama",
+     "label": "India · Fintech",
+     "snippet": "Jio Platforms, the digital arm of Reliance Industries will raise $3.2 billion via an IPO with the issue of 270 million new shares.",
+     "lead": "Jio Platforms, the digital arm of Mukesh Ambani’s Reliance Industries, plans to raise up to $3.2 billion through an initial public offering (IPO). If successful, it will be India’s largest IPO to date. The offering could value the company at up to $108.3 billion. In a stock exchange filing on October 14, Reliance said Jio had set the share price between Rs 1,065 and Rs 1,119. The company plans to issue up to 270 million new shares. At ...",
+     "image": "https://www.medianama.com/wp-content/uploads/2024/07/Reliance-Jio.jpg",
+     "why": [
+      "IPO & Listing",
+      "Very large figure in headline (about $3,200M: round or valuation)"
+     ],
+     "tags": [
+      "IPO & Listing",
+      "Fintech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -225,33 +246,12 @@
      "tags": [
       "Financials"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "TechSparks 2026 is here; Zetwerk targets Rs 5,012 Cr IPO",
-     "url": "https://yourstory.com/2026/10/techsparks-2026-is-here-zetwerks-ipo",
-     "date": "2026-10-13",
-     "source": "YourStory",
-     "label": "India · AI & Deeptech",
-     "snippet": "Under this year’s rallying cry, ‘The New Tech Order,’ YourStory’s 17th edition is bringing together 10,000+ visionaries, 500 speakers, 1,000 startups, and 300 investors. We aren't just discussing the future of AI, deep tech, and digital infrastructure—we're asking: who gets to build it, and how fast",
-     "lead": "TechSparks 2026 is here; Zetwerk targets Rs 5,012 Cr IPO Under this year’s rallying cry, ‘The New Tech Order,’ YourStory’s 17th edition is bringing together 10,000+ visionaries, 500 speakers, 1,000 startups, and 300 investors. We aren't just discussing the future of AI, deep tech, and digital infrastructure—we're asking: who gets to build it, and how fast Team YS 17343 Stories Tuesday October 13, 2026 , 4 min Read India’s tech capital ...",
-     "image": "https://images.yourstory.com/cs/2/47afd43024ec11ec9ecb9b7afb0df1da/TSBookendsDay1Opener-1791824462509.jpg",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $528M: round or valuation)"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 1064,
-   "new_today": 11,
+   "total": 1071,
+   "new_today": 17,
    "items": [
     {
      "desk": "Immigration",
@@ -444,7 +444,7 @@
    "why": [
     "Affects permanent residence",
     "Announces a change",
-    "Major story (8 headlines that day)"
+    "Major story (11 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
@@ -527,6 +527,29 @@
    "desk": "Startups",
    "score": 11,
    "priority": 92,
+   "title": "Burma Burma Parent Files DRHP For IPO With ₹150 Cr Fresh Issue",
+   "url": "https://inc42.com/buzz/burma-burma-parent-files-drhp-for-ipo-with-%e2%82%b9150-cr-fresh-issue/",
+   "date": "2026-10-17",
+   "source": "Inc42",
+   "label": "India · Commerce & D2C",
+   "snippet": "The company has earmarked ₹117.3 Cr from the fresh issue proceeds to set up 27 company-owned and operated Burma Burma restaurants",
+   "lead": "Burma Burma’s parent Hunger Pangs has filed its DRHP for an IPO comprising a fresh issue of up to ₹150 Cr and an OFS of up to 2.79 Cr shares The restaurant operator plans to deploy ₹117.3 Cr towards opening 27 Burma Burma outlets, expanding its footprint beyond the 22 restaurants operational as of July 31 Hunger Pangs’ operating revenue increased 46.6% YoY to ₹155.5 Cr in FY26, while net loss surged multifold to ₹15.4 Cr from ₹50.5 Lakh",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Burma-social-image.png",
+   "why": [
+    "IPO & Listing",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Commerce & D2C"
+   ],
+   "rank": 5,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 92,
    "title": "From Boldfit To Origin — Indian Startups Raised About $236 Mn This Week",
    "url": "https://inc42.com/buzz/from-boldfit-to-origin-indian-startups-raised-about-236-mn-this-week/",
    "date": "2026-10-17",
@@ -542,8 +565,8 @@
    "tags": [
     "Funding"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Startups",
@@ -565,7 +588,7 @@
     "IPO & Listing",
     "Policy & Regulation"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -587,7 +610,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -610,7 +633,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -633,29 +656,6 @@
    "tags": [
     "Funding",
     "AI & Deeptech"
-   ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "Jio’s $3.2 bn IPO: What its filing reveals about debt, growth and risks",
-   "url": "https://www.medianama.com/2026/10/223-jio-ipo-filing-debt-growth-risks/",
-   "date": "2026-10-15",
-   "source": "MediaNama",
-   "label": "India · Fintech",
-   "snippet": "Jio Platforms, the digital arm of Reliance Industries will raise $3.2 billion via an IPO with the issue of 270 million new shares.",
-   "lead": "Jio Platforms, the digital arm of Mukesh Ambani’s Reliance Industries, plans to raise up to $3.2 billion through an initial public offering (IPO). If successful, it will be India’s largest IPO to date. The offering could value the company at up to $108.3 billion. In a stock exchange filing on October 14, Reliance said Jio had set the share price between Rs 1,065 and Rs 1,119. The company plans to issue up to 270 million new shares. At ...",
-   "image": "https://www.medianama.com/wp-content/uploads/2024/07/Reliance-Jio.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $3,200M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Fintech"
    ],
    "rank": 10,
    "must_read": false
