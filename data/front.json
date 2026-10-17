@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-17",
- "built": "2026-10-17 07:06 IST",
+ "built": "2026-10-17 09:43 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -26,22 +26,22 @@
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.95,
-   "change_pct": 0.45,
-   "asof": "17 Oct 02:30 IST"
+   "value": 94.96,
+   "change_pct": 0.46,
+   "asof": "17 Oct 09:00 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 109.69,
-   "change_pct": 3.56,
+   "value": 109.86,
+   "change_pct": 3.72,
    "asof": "17 Oct 02:29 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4187.0,
-   "change_pct": 0.4,
+   "value": 4181.0,
+   "change_pct": 0.26,
    "asof": "17 Oct 02:29 IST"
   },
   {
@@ -162,8 +162,8 @@
    ]
   },
   "Startups": {
-   "total": 737,
-   "new_today": 0,
+   "total": 738,
+   "new_today": 1,
    "items": [
     {
      "desk": "Startups",
@@ -250,13 +250,13 @@
    ]
   },
   "Immigration": {
-   "total": 1059,
-   "new_today": 10,
+   "total": 1063,
+   "new_today": 11,
    "items": [
     {
      "desk": "Immigration",
      "score": 6,
-     "priority": 55,
+     "priority": 46,
      "title": "Finland to introduce citizenship test for foreign applicants in 2027",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSV9TdnFyanQ5TkhoNVU1TzBveDdYaUtnSEU4c1FCdVM3bDdnWko1d1ZrVGNmc0RaOWx2M2kyWDZoV3ZtTXlnOXZpTmxVQWw0WnNzd01Bc3dzQnhqSGQzTklIVVNfeEF5UldRckpnQnRheUx6aTVpZXRCUUZIOEFhc2p5b25wNDZvdXNERHgtYWFhM0xzeFE?oc=5",
      "date": "2026-10-11",
@@ -277,7 +277,7 @@
     {
      "desk": "Immigration",
      "score": 6,
-     "priority": 55,
+     "priority": 46,
      "title": "Japan PM faces calls for immigration cap as she weighs policy on foreigners",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWF3VS1HcWpsME1QR1Y4ZWt2Y1B0c2pSTVJmWTNnLW9uNDN5UWh2Smk0RVYtZ2U4cnE3NDBvZkFzaVBPdEFHMHU1MVdJUzJPaDlhNGEtRURJekk1c2hXajNnUU1fMWFWWHhnV0V0Y0c4WTBnSWxQNkZWQVdPV3NDbkE0TVVhaUZEbHFxV0gxM1RKOWVZUXNkc19LWWFmTkg3UU5zejFiTWtvMnFYaDB0aENGMlZRQ3h2elJQRHNkWHZPQVhyREE?oc=5",
      "date": "2026-10-10",
@@ -298,7 +298,7 @@
     {
      "desk": "Immigration",
      "score": 5,
-     "priority": 45,
+     "priority": 38,
      "title": "France Softens on Russian Visa Limits as Italy Holds Out",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tV1kwZEN3TXNzdkxPRi16WlVTNF91SXZiclJsXzdocTQ5LVp3UVZyNmZ6bFpfU0t6cUhwM2V6MEdtLU51R1g4d0NzWWwtR28wcmJTdzBkdEZQTEdQbHRJeV9hQXNOVWE0ejF2SmYwVQ?oc=5",
      "date": "2026-10-16",
@@ -318,7 +318,7 @@
     {
      "desk": "Immigration",
      "score": 5,
-     "priority": 45,
+     "priority": 38,
      "title": "Austria makes it easier for foreigners to get work permits",
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0bTVxTVlaUm1ZdDFweEtxZ2hpZmg5WHJQNktXSnd0bE41TXRrakhYd3NvZjNvZndMa1FoNkFvMVRnNF9TaU5NRl81ekdtci01LVhuVWxTUURBNXJUUEt5S1pR?oc=5",
      "date": "2026-10-16",
@@ -431,7 +431,7 @@
  "items": [
   {
    "desk": "Immigration",
-   "score": 11,
+   "score": 13,
    "priority": 100,
    "title": "Ottawa adding express entry points for permanent resident applicants in 'high-wage' jobs",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yMFhBZ3U4ZEQzbzJrVlVpbWtoU2Q3RHBLdk5UenJ0YXVaNkowcDJvRzltei01Z1JCUDhvZVpCMkNqT0ZoZjB5T1hBM0tzOEZPNlZYZXQ3MUNTTVJ1TDFwcnFVbllkVG0wLUdhUlBaX3A?oc=5",
@@ -443,7 +443,8 @@
    "image": null,
    "why": [
     "Affects permanent residence",
-    "Announces a change"
+    "Announces a change",
+    "Major story (8 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
@@ -476,30 +477,6 @@
    "must_read": true
   },
   {
-   "desk": "Immigration",
-   "score": 11,
-   "priority": 100,
-   "title": "Guidance: EU Settlement Scheme: caseworker guidance",
-   "url": "https://www.gov.uk/government/publications/eu-settlement-scheme-caseworker-guidance",
-   "date": "2026-10-15",
-   "source": "GOV.UK (UK Visas and Immigration)",
-   "label": "United Kingdom",
-   "snippet": "Immigration staff guidance on applications under the EU Settlement Scheme.",
-   "lead": "Navigation menu Menu Menu Services and information Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions ...",
-   "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-   "why": [
-    "Affects permanent residence",
-    "Official government notice",
-    "Major story (12 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "United Kingdom"
-   ],
-   "rank": 3,
-   "must_read": true
-  },
-  {
    "desk": "Advisory",
    "score": 13,
    "priority": 100,
@@ -520,7 +497,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 4,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -543,7 +520,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 5,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -566,8 +543,8 @@
     "IPO & Listing",
     "Policy & Regulation"
    ],
-   "rank": 6,
-   "must_read": false
+   "rank": 5,
+   "must_read": true
   },
   {
    "desk": "Startups",
@@ -588,7 +565,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 7,
+   "rank": 6,
    "must_read": false
   },
   {
@@ -611,7 +588,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 8,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -635,7 +612,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 9,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -658,7 +635,7 @@
     "IPO & Listing",
     "Fintech"
    ],
-   "rank": 10,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -682,7 +659,7 @@
    "tags": [
     "Markets & Regulation"
    ],
-   "rank": 11,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -706,7 +683,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 12,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -728,6 +705,30 @@
    ],
    "tags": [
     "Regulatory"
+   ],
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 11,
+   "priority": 85,
+   "title": "Guidance: EU Settlement Scheme: caseworker guidance",
+   "url": "https://www.gov.uk/government/publications/eu-settlement-scheme-caseworker-guidance",
+   "date": "2026-10-15",
+   "source": "GOV.UK (UK Visas and Immigration)",
+   "label": "United Kingdom",
+   "snippet": "Immigration staff guidance on applications under the EU Settlement Scheme.",
+   "lead": "Navigation menu Menu Menu Services and information Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions ...",
+   "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+   "why": [
+    "Affects permanent residence",
+    "Official government notice",
+    "Major story (12 headlines that day)"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "United Kingdom"
    ],
    "rank": 13,
    "must_read": false
@@ -800,28 +801,6 @@
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 64,
-   "title": "Portugal has limited immigration, and Spain may follow | World News",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb0RwdWdUejBZUnBjOU1WRjdiZHA5S2IzOHlZcjRPVEpDMEFGeVZhWmRPWlJhbW9seVJ5WnhsU1lGOUZDa2pPd2xBcHFsRkh1ZkhWeTdOZmp6UUVnY3JReFBKWFhoVUFzRFFXLU9uaXJLMGIwWVJOZGM2UXE2dnNQSFB0WGxZZmo2N1ByZnhpWVd0dmhrTzdJLXhVdmFXUHhuc1RTdXNUT0hmYmFpSDFreXlsYzJES25tdlc4dNIBvAFBVV95cUxOb0RwdWdUejBZUnBjOU1WRjdiZHA5S2IzOHlZcjRPVEpDMEFGeVZhWmRPWlJhbW9seVJ5WnhsU1lGOUZDa2pPd2xBcHFsRkh1ZkhWeTdOZmp6UUVnY3JReFBKWFhoVUFzRFFXLU9uaXJLMGIwWVJOZGM2UXE2dnNQSFB0WGxZZmo2N1ByZnhpWVd0dmhrTzdJLXhVdmFXUHhuc1RTdXNUT0hmYmFpSDFreXlsYzJES25tdlc4dA?oc=5",
-   "date": "2026-10-16",
-   "source": "Hindustan Times",
-   "label": "Spain",
-   "snippet": "The wave of immigrants in both countries looks politically unsustainable",
-   "lead": "Nestled beneath Lisbon’s former Moorish quarter, the Rua do Benformoso is a winding street of decaying buildings faced with azulejos (decorative tiles). It is lined with Indian food shops and stores selling hookah pipes and mobile phones. Piedade, a Portuguese woman who has lived here for over 60 years, dislikes what has happened to it. “There’s drugs and crime,” she says. “I stay inside at home.” The Rua do Benformoso has become the ...",
-   "image": null,
-   "why": [
-    "Quota or cap change"
-   ],
-   "tags": [
-    "Quota / Caps",
-    "Spain"
-   ],
-   "rank": 17,
-   "must_read": false
-  },
-  {
    "desk": "Policy",
    "score": 8,
    "priority": 62,
@@ -840,53 +819,29 @@
    "tags": [
     "Markets & Regulation"
    ],
-   "rank": 18,
+   "rank": 17,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 6,
-   "priority": 55,
-   "title": "Denmark to slash work permit salary threshold for some applicants by almost 20,000 kroner",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2JNVDlfeUktcWo5NTI0SEVtbWEtRlRZeGtSQy1WSE1meFFYVTFFLXl2SHg5Ry1zSXMxRERnT2NwczdDM2s5d3JKRUZCTEF3dWhuRGdGSjN2UFhVQVFCR1MzMnJ2YTdPM0Y3WmJ5cU9uOThPbG03aFhLQVhwaWZyX1BxaHpWSVk0SWUtbTU2SmE4X0VqWGQycTg4OWZ3SkptallTWUhUNkpmUm5Bdjk2TXQtMnU1ZWR2Wi1XZw?oc=5",
-   "date": "2026-10-13",
-   "source": "The Local Denmark",
-   "label": "Denmark",
-   "snippet": "Denmark is set to introduce a new collective agreement-based work permit scheme from the beginning of next year, which will make it easier for citizens of 16 select countries to secure a permit.",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Denmark is set to introduce a new collective agreement-based work permit scheme from the beginning of next year, which will make it easier for citizens of 16 select countries to secure a permit. Under the new scheme, ...",
+   "score": 7,
+   "priority": 54,
+   "title": "Portugal has limited immigration, and Spain may follow | World News",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb0RwdWdUejBZUnBjOU1WRjdiZHA5S2IzOHlZcjRPVEpDMEFGeVZhWmRPWlJhbW9seVJ5WnhsU1lGOUZDa2pPd2xBcHFsRkh1ZkhWeTdOZmp6UUVnY3JReFBKWFhoVUFzRFFXLU9uaXJLMGIwWVJOZGM2UXE2dnNQSFB0WGxZZmo2N1ByZnhpWVd0dmhrTzdJLXhVdmFXUHhuc1RTdXNUT0hmYmFpSDFreXlsYzJES25tdlc4dNIBvAFBVV95cUxOb0RwdWdUejBZUnBjOU1WRjdiZHA5S2IzOHlZcjRPVEpDMEFGeVZhWmRPWlJhbW9seVJ5WnhsU1lGOUZDa2pPd2xBcHFsRkh1ZkhWeTdOZmp6UUVnY3JReFBKWFhoVUFzRFFXLU9uaXJLMGIwWVJOZGM2UXE2dnNQSFB0WGxZZmo2N1ByZnhpWVd0dmhrTzdJLXhVdmFXUHhuc1RTdXNUT0hmYmFpSDFreXlsYzJES25tdlc4dA?oc=5",
+   "date": "2026-10-16",
+   "source": "Hindustan Times",
+   "label": "Spain",
+   "snippet": "The wave of immigrants in both countries looks politically unsustainable",
+   "lead": "Nestled beneath Lisbon’s former Moorish quarter, the Rua do Benformoso is a winding street of decaying buildings faced with azulejos (decorative tiles). It is lined with Indian food shops and stores selling hookah pipes and mobile phones. Piedade, a Portuguese woman who has lived here for over 60 years, dislikes what has happened to it. “There’s drugs and crime,” she says. “I stay inside at home.” The Rua do Benformoso has become the ...",
    "image": null,
    "why": [
-    "Salary threshold change",
-    "Announces a change"
+    "Quota or cap change"
    ],
    "tags": [
-    "Salary threshold",
-    "Denmark"
+    "Quota / Caps",
+    "Spain"
    ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 55,
-   "title": "NZ First to abolish Accredited Employer Work Visa",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamFzRFh2T25mNTJkRWkzVXU0ZmlybjlTX1ZJVXAtYkVyUGZGWk9ndnI2eTEyWWdfYmxYRU9BMmdfR3dwSzJpTEp0Y1JGcUV1aWZWYUZqeGlNVGhWbHk2Zm5kY3BrMHNQMFZyWHd5enAtOUl2aUZCXzB1UVJRV0lKa1RDUkk?oc=5",
-   "date": "2026-10-12",
-   "source": "Indian Newslink",
-   "label": "New Zealand",
-   "snippet": "NZ First to abolish Accredited Employer Work Visa",
-   "lead": "Skilled Work Visa proposal raises questions for migrants and employers New Zealand First has placed migrant employment at the centre of the election campaign, promising to dismantle the Accredited Employer Work Visa (AEWV) system and replace it with a more restrictive arrangement designed around verified labour shortages. The proposal, announced on October 11, 2026, at a public meeting in Dunedin, could have far-reaching consequences ...",
-   "image": "https://admin.indiannewslink.co.nz/uploads/NZ_First_to_abolish_Main_Banner_5eba64db85.png",
-   "why": [
-    "Affects work visas",
-    "Announces a change"
-   ],
-   "tags": [
-    "Work visa",
-    "New Zealand"
-   ],
-   "rank": 20,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -908,7 +863,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 21,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -929,6 +884,52 @@
    ],
    "tags": [
     "Banking & Rates"
+   ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 6,
+   "priority": 46,
+   "title": "Denmark to slash work permit salary threshold for some applicants by almost 20,000 kroner",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2JNVDlfeUktcWo5NTI0SEVtbWEtRlRZeGtSQy1WSE1meFFYVTFFLXl2SHg5Ry1zSXMxRERnT2NwczdDM2s5d3JKRUZCTEF3dWhuRGdGSjN2UFhVQVFCR1MzMnJ2YTdPM0Y3WmJ5cU9uOThPbG03aFhLQVhwaWZyX1BxaHpWSVk0SWUtbTU2SmE4X0VqWGQycTg4OWZ3SkptallTWUhUNkpmUm5Bdjk2TXQtMnU1ZWR2Wi1XZw?oc=5",
+   "date": "2026-10-13",
+   "source": "The Local Denmark",
+   "label": "Denmark",
+   "snippet": "Denmark is set to introduce a new collective agreement-based work permit scheme from the beginning of next year, which will make it easier for citizens of 16 select countries to secure a permit.",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Denmark is set to introduce a new collective agreement-based work permit scheme from the beginning of next year, which will make it easier for citizens of 16 select countries to secure a permit. Under the new scheme, ...",
+   "image": null,
+   "why": [
+    "Salary threshold change",
+    "Announces a change"
+   ],
+   "tags": [
+    "Salary threshold",
+    "Denmark"
+   ],
+   "rank": 21,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 6,
+   "priority": 46,
+   "title": "NZ First to abolish Accredited Employer Work Visa",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamFzRFh2T25mNTJkRWkzVXU0ZmlybjlTX1ZJVXAtYkVyUGZGWk9ndnI2eTEyWWdfYmxYRU9BMmdfR3dwSzJpTEp0Y1JGcUV1aWZWYUZqeGlNVGhWbHk2Zm5kY3BrMHNQMFZyWHd5enAtOUl2aUZCXzB1UVJRV0lKa1RDUkk?oc=5",
+   "date": "2026-10-12",
+   "source": "Indian Newslink",
+   "label": "New Zealand",
+   "snippet": "NZ First to abolish Accredited Employer Work Visa",
+   "lead": "Skilled Work Visa proposal raises questions for migrants and employers New Zealand First has placed migrant employment at the centre of the election campaign, promising to dismantle the Accredited Employer Work Visa (AEWV) system and replace it with a more restrictive arrangement designed around verified labour shortages. The proposal, announced on October 11, 2026, at a public meeting in Dunedin, could have far-reaching consequences ...",
+   "image": "https://admin.indiannewslink.co.nz/uploads/NZ_First_to_abolish_Main_Banner_5eba64db85.png",
+   "why": [
+    "Affects work visas",
+    "Announces a change"
+   ],
+   "tags": [
+    "Work visa",
+    "New Zealand"
    ],
    "rank": 22,
    "must_read": false
