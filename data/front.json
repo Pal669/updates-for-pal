@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-17",
- "built": "2026-10-17 01:14 IST",
+ "built": "2026-10-17 07:06 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22997.0,
-   "change_pct": 1.66,
+   "value": 23146.0,
+   "change_pct": 0.65,
    "asof": "16 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74316.0,
-   "change_pct": 2.11,
+   "value": 74729.0,
+   "change_pct": 0.56,
    "asof": "16 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
    "value": 94.95,
-   "change_pct": -0.21,
-   "asof": "17 Oct 00:22 IST"
+   "change_pct": 0.45,
+   "asof": "17 Oct 02:30 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 109.54,
-   "change_pct": 3.42,
-   "asof": "17 Oct 01:04 IST"
+   "value": 109.69,
+   "change_pct": 3.56,
+   "asof": "17 Oct 02:29 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4191.0,
-   "change_pct": 0.5,
-   "asof": "17 Oct 01:04 IST"
+   "value": 4187.0,
+   "change_pct": 0.4,
+   "asof": "17 Oct 02:29 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -250,9 +250,30 @@
    ]
   },
   "Immigration": {
-   "total": 1044,
-   "new_today": 2,
+   "total": 1059,
+   "new_today": 10,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 55,
+     "title": "Finland to introduce citizenship test for foreign applicants in 2027",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSV9TdnFyanQ5TkhoNVU1TzBveDdYaUtnSEU4c1FCdVM3bDdnWko1d1ZrVGNmc0RaOWx2M2kyWDZoV3ZtTXlnOXZpTmxVQWw0WnNzd01Bc3dzQnhqSGQzTklIVVNfeEF5UldRckpnQnRheUx6aTVpZXRCUUZIOEFhc2p5b25wNDZvdXNERHgtYWFhM0xzeFE?oc=5",
+     "date": "2026-10-11",
+     "source": "Scandasia",
+     "label": "Finland",
+     "snippet": "Finland to introduce citizenship test for foreign applicants in 2027 is an Article written by Scandasia, the only website, magazine and online publication that serves all the expats from Denmark, Sweden, Norway and Finland living in Southeast Asia and China.",
+     "lead": "Foreign residents applying for Finnish citizenship will face a new citizenship test from March 2027 as Finland introduces stricter requirements for becoming a citizen. The Finnish Immigration Service (Migri) announced on 9 October that preparations for the new test are underway, with the first examinations expected to take place in March next year. The requirement will apply to applicants aged between 18 and 64 who submit their ...",
+     "image": "https://scandasia.com/wp-content/uploads/2026/10/finntest.jpg",
+     "why": [
+      "Affects citizenship",
+      "Announces a change"
+     ],
+     "tags": [
+      "Citizenship",
+      "Finland"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 6,
@@ -312,26 +333,6 @@
      "tags": [
       "Work visa",
       "Austria"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 45,
-     "title": "Getting a Schengen visa is already hard for Russians. Germany reportedly wants to limit where they can go on one.",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdkxaaEh5TTJESURTOHd0ODZlR083LURpMDNCUGc1ZDNlTVlPUkhrVENOamNYVThpaXpsc01nR1ZkZGNlS1MydTFKRnpMejlFWS1jckZFOHlzT2JNQllrcjFfTndVdG1tV0J4RHNiemt5QWNkSUUxMW4wMFRQZnQxTld3N21aRmI3X2RkNFZVb1p5NHpIMkVZWnlfa05jSjl1MUdUZG9STzlvS3RDaUtlaUJGQTRGQlZ0TE9MaDZhUzNIUm9vOWNxS3ZBTXd4MnVmM2NzOdIB2gFBVV95cUxOOXJoMnJzOExJZENIZ09EdUJZaDZQVFVEZHVCQmI5VjM0Si0zWkM4RnZIaUpCWDh0eGo4QUJ3Slllb2pxTk4teXlCTlFxdW4tNFh5M1VjVndLc2ExaUJYSjBUQWdVYVB1MmI4MUt5VHFXUFJ6OEwyYmZlNU5Uem1raFZfeWJBZjVib20zVEdiQXdiX29wemZJMm52d0UzdFM1OHkzR3ZNb2FpdXc5akdxUGFLYUxteVRGUkM1bU9ZTHBXdzhmSFlwMzY2X2NWcTZOWU1uZDRyU3pMZw?oc=5",
-     "date": "2026-10-16",
-     "source": "Meduza",
-     "label": "Germany",
-     "snippet": "On October 14, EU officials discussed new visa restrictions for Russians. At a meeting in Brussels, the Council of the EU’s visa policy working group considered issuing Russian citizens a particular type of visa for “nonessential” travel, meaning tourism. These limited territorial validity (LTV) visas allow holders to visit only one or se",
-     "lead": "",
-     "image": "https://meduza.io/imgly/share/1792093221/en/cards/getting-a-schengen-visa-is-already-hard-for-russians-germany-reportedly-wants-to-limit-where-they-can-go-on-one",
-     "why": [
-      "Quota or cap change"
-     ],
-     "tags": [
-      "Quota / Caps",
-      "Germany"
      ]
     }
    ]
@@ -429,6 +430,29 @@
  },
  "items": [
   {
+   "desk": "Immigration",
+   "score": 11,
+   "priority": 100,
+   "title": "Ottawa adding express entry points for permanent resident applicants in 'high-wage' jobs",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yMFhBZ3U4ZEQzbzJrVlVpbWtoU2Q3RHBLdk5UenJ0YXVaNkowcDJvRzltei01Z1JCUDhvZVpCMkNqT0ZoZjB5T1hBM0tzOEZPNlZYZXQ3MUNTTVJ1TDFwcnFVbllkVG0wLUdhUlBaX3A?oc=5",
+   "date": "2026-10-17",
+   "source": "CBC",
+   "label": "Canada",
+   "snippet": "Ottawa is adding new express entry points for some permanent residency applicants in \"high-wage\" jobs, Immigration Minister Lena Diab said Friday.",
+   "lead": "The government also plans to remove the requirement for an employer to prove they can't find a qualified Canadian for those jobs. The policies, which will take effect on Nov. 3, will apply to applicants who already have Canadian work experience, or who have a job offer in a high-wage field such as engineering. In a release announcing the change , the government says it considers a high-wage job one that pays \"at least 1.3 times the ...",
+   "image": null,
+   "why": [
+    "Affects permanent residence",
+    "Announces a change"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Canada"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
    "desk": "Startups",
    "score": 12,
    "priority": 100,
@@ -448,7 +472,7 @@
     "IPO & Listing",
     "SaaS & Enterprise"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -472,7 +496,7 @@
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -496,7 +520,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -519,7 +543,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -542,8 +566,8 @@
     "IPO & Listing",
     "Policy & Regulation"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Startups",
@@ -564,7 +588,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -587,7 +611,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -611,7 +635,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -634,7 +658,7 @@
     "IPO & Listing",
     "Fintech"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -658,7 +682,7 @@
    "tags": [
     "Markets & Regulation"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -682,7 +706,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -705,7 +729,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 12,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -727,7 +751,7 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 13,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -749,7 +773,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -772,7 +796,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 15,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -794,7 +818,7 @@
     "Quota / Caps",
     "Spain"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -816,7 +840,7 @@
    "tags": [
     "Markets & Regulation"
    ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -839,7 +863,7 @@
     "Salary threshold",
     "Denmark"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -861,29 +885,6 @@
    "tags": [
     "Work visa",
     "New Zealand"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 55,
-   "title": "Finland to introduce citizenship test for foreign applicants in 2027",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSV9TdnFyanQ5TkhoNVU1TzBveDdYaUtnSEU4c1FCdVM3bDdnWko1d1ZrVGNmc0RaOWx2M2kyWDZoV3ZtTXlnOXZpTmxVQWw0WnNzd01Bc3dzQnhqSGQzTklIVVNfeEF5UldRckpnQnRheUx6aTVpZXRCUUZIOEFhc2p5b25wNDZvdXNERHgtYWFhM0xzeFE?oc=5",
-   "date": "2026-10-11",
-   "source": "Scandasia",
-   "label": "Finland",
-   "snippet": "Finland to introduce citizenship test for foreign applicants in 2027 is an Article written by Scandasia, the only website, magazine and online publication that serves all the expats from Denmark, Sweden, Norway and Finland living in Southeast Asia and China.",
-   "lead": "Foreign residents applying for Finnish citizenship will face a new citizenship test from March 2027 as Finland introduces stricter requirements for becoming a citizen. The Finnish Immigration Service (Migri) announced on 9 October that preparations for the new test are underway, with the first examinations expected to take place in March next year. The requirement will apply to applicants aged between 18 and 64 who submit their ...",
-   "image": "https://scandasia.com/wp-content/uploads/2026/10/finntest.jpg",
-   "why": [
-    "Affects citizenship",
-    "Announces a change"
-   ],
-   "tags": [
-    "Citizenship",
-    "Finland"
    ],
    "rank": 20,
    "must_read": false
