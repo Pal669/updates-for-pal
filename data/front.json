@@ -1,6 +1,6 @@
 {
- "edition": "2026-10-17",
- "built": "2026-10-17 19:26 IST",
+ "edition": "2026-10-18",
+ "built": "2026-10-18 00:20 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -54,38 +54,57 @@
  ],
  "features": {
   "startup_file": {
-   "company": "Angle Health",
-   "tagline": "US health-insurance startup for small businesses (YC winter 2020)",
-   "what": "AI-powered platform that helps small businesses choose and manage 'level-funded' health plans, integrating with payroll and HR systems. Level-funded sits between fully insured (carrier bears all risk, higher and predictable cost) and self-funded (employer bears cost, unpredictable): the business makes predictable payments, is insured against unusually high costs, and may get a share of the surplus back if claims stay low.",
+   "company": "Innov8 Workspaces",
+   "tagline": "Premium flexible office space operator",
+   "what": "Runs premium flexible and managed workspace centres across India. It had 58 operating centres at the end of FY26 and 72 by July 2026.",
    "how": [
-    "The article does not say how Angle itself earns its revenue.",
-    "It says the startup serves 5,000+ businesses and is profitable."
+    "Rent from customers who use its centres: Rs 173.6 Cr of Rs 201.3 Cr operating revenue in FY26, about 86%.",
+    "Other operational income (ancillary services): Rs 27.6 Cr, up from Rs 5.4 Cr."
    ],
-   "watch": "A profitable, non-'AI agent' company raising a large Series C is unusual per TechCrunch. The tender offer is liquidity for staff, not money into the company.",
-   "sector": "Fintech",
-   "region": "Global",
-   "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/"
+   "watch": "Profit quality: other income was Rs 38.9 Cr, including a Rs 36.7 Cr gain on terminating lease contracts. Without that gain the profit jump would look much smaller. The article gives growth drivers as more centres, higher occupancy and better pricing.",
+   "sector": "Real Estate & Workspaces",
+   "region": "India",
+   "url": "https://inc42.com/buzz/innov8s-fy26-profit-zooms-multifold-to-%e2%82%b913-7-cr-revenue-crosses-%e2%82%b9200-cr-mark/"
   },
   "country": {
-   "id": "denmark",
-   "name": "Denmark",
-   "trend": "Tightening",
-   "pr": "8 years of legal residence in general; reducible to 4 years if you pass the Danish PD3 test, work full-time, are self-sufficient and meet active-citizenship conditions.",
-   "citizenship": "Granted by an Act of the Danish Parliament after conditions are met; the exact timeline was not verified this session. Denmark allows dual citizenship (general knowledge).",
-   "pro": "High pay and strong work-life balance (general knowledge).",
-   "con": "One of the strictest immigration regimes in Europe (general knowledge).",
-   "watch": "Annual indexation of pay limits"
+   "id": "belgium",
+   "name": "Belgium",
+   "trend": "Tightening (citizenship conditions and fee)",
+   "pr": "Long-term residence after 5 years (general knowledge, not re-verified).",
+   "citizenship": "5 years of legal residence if you also show integration, including at least 468 days of work while under 10 years' residence; without strong integration ties the period extends to 10 years. A July 2025 law raised the fee from EUR 150 to EUR 1,000 (EUR 1,030 in 2026).",
+   "pro": "5-year citizenship route.",
+   "con": "Three regions with different thresholds and procedures.",
+   "watch": "2026 indexation in Flanders"
   }
  },
  "desks": {
   "Policy": {
    "total": 207,
-   "new_today": 1,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
-     "score": 5,
-     "priority": 38,
+     "score": 4,
+     "priority": 31,
+     "title": "National Steering Committee Approves ₹1,194.92 Crore Investment Under PM-SETU for Five ITI Clusters Across Maharashtra, Odisha and Jammu & Kashmir",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2324330",
+     "date": "2026-10-16",
+     "source": "PIB",
+     "label": "Labour & Social",
+     "snippet": "The 6th National Steering Committee (NSC) meeting of the Pradhan Mantri Skilling and Employability T",
+     "lead": "Ministry of Skill Development and Entrepreneurship National Steering Committee Approves ₹1,194.92 Crore Investment Under PM-SETU for Five ITI Clusters Across Maharashtra, Odisha and Jammu & Kashmir Tata Steel Foundation, BVG India, Belrise Industries, Eagle Infra India and Inderdeep Infra India to partner in upgrading five ITI clusters; cumulative investment approved under PM-SETU reaches ₹3,687 crore Posted On: 16 OCT 2026 3:25PM by ...",
+     "image": null,
+     "why": [
+      "High on the desk's ranking"
+     ],
+     "tags": [
+      "Labour & Social"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 4,
+     "priority": 31,
      "title": "Building a New Beginning Through the Inter-Caste Marriage Incentive Scheme",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323772",
      "date": "2026-10-15",
@@ -103,47 +122,8 @@
     },
     {
      "desk": "Policy",
-     "score": 5,
-     "priority": 38,
-     "title": "Ministry of Cooperation mandates new Audit Reporting Framework for Multi-State Cooperative Societies to strengthen transparency, accountability and good governance",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323313",
-     "date": "2026-10-14",
-     "source": "PIB",
-     "label": "Banking & Rates",
-     "snippet": "Guided by Prime Minister Shri Narendra Modi’s vision of ‘Sahkar se Samriddhi’ and under the leadersh",
-     "lead": "Ministry of Cooperation Ministry of Cooperation mandates new Audit Reporting Framework for Multi-State Cooperative Societies to strengthen transparency, accountability and good governance Guided by Prime Minister Shri Narendra Modi’s vision of ‘Sahkar se Samriddhi’ and under the leadership of Union Home Minister and Minister of Cooperation Shri Amit Shah, Ministry of Cooperation takes another significant step towards strengthening ...",
-     "image": null,
-     "why": [
-      "Rates and liquidity"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 5,
-     "priority": 38,
-     "title": "Detailed Result: OMO Sale Auction held on Oct 13, 2026 and Settlement on Oct 14, 2026",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63798",
-     "date": "2026-10-13",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "",
-     "image": null,
-     "why": [
-      "Regulator: RBI",
-      "Large outlay (Rs 10,000 Cr or more)"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 4,
-     "priority": 31,
+     "score": 3,
+     "priority": 23,
      "title": "RBI approves amalgamation of Indian branches of Emirates NBD Bank P.J.S.C. with RBL Bank Limited",
      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63820",
      "date": "2026-10-16",
@@ -158,17 +138,58 @@
      "tags": [
       "Banking & Rates"
      ]
+    },
+    {
+     "desk": "Policy",
+     "score": 2,
+     "priority": 15,
+     "title": "FSSAI Proposes Science-Based Pesticide Residue Limits for Tea, Reaffirming Commitment to Consumer Safety",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2324656",
+     "date": "2026-10-17",
+     "source": "PIB",
+     "label": "Technology & Telecom",
+     "snippet": "The Food Safety and Standards Authority of India (FSSAI), as part of its ongoing efforts to promote",
+     "lead": "Ministry of Health and Family Welfare FSSAI Proposes Science-Based Pesticide Residue Limits for Tea, Reaffirming Commitment to Consumer Safety FSSAI Notifies Draft Amendment Proposing Maximum Residue Limits for Acetamiprid and Imidacloprid in Tea; Invites Stakeholder Comments India Proposes Acetamiprid Residue Limit of 20 ppm in Tea, Lower than Corresponding Limits of 30 ppm in Japan and 50 ppm in the USA Earlier Regulatory Measures ...",
+     "image": null,
+     "why": [
+      "High on the desk's ranking"
+     ],
+     "tags": [
+      "Technology & Telecom"
+     ]
     }
    ]
   },
   "Startups": {
-   "total": 746,
-   "new_today": 9,
+   "total": 748,
+   "new_today": 0,
    "items": [
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 92,
+     "score": 10,
+     "priority": 91,
+     "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+     "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+     "date": "2026-10-15",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
+     "lead": "Ramp reaches $60B valuation as it pushes deeper into AI Ram Iyer 7:47 AM PDT · October 15, 2026 Expense management company Ramp said on Thursday that it had raised $1.85 billion in a new funding round that values it at $60 billion, just four months after raising $750 million at a $44 billion valuation . The financing was co-led by Dragoneer Investment Group, Thrive Capital, Founders Fund, Sands Capital, and Avenir Growth. Ramp said its ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/10/eric-glyman.jpg?resize=1200,801",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $60,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 91,
      "title": "Jio’s $3.2 bn IPO: What its filing reveals about debt, growth and risks",
      "url": "https://www.medianama.com/2026/10/223-jio-ipo-filing-debt-growth-risks/",
      "date": "2026-10-15",
@@ -189,74 +210,54 @@
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 83,
-     "title": "[Update] Tonbo Imaging IPO Oversubscribed Nearly 8X On Day 2",
-     "url": "https://inc42.com/buzz/tonbo-imaging-ipo-oversubscribed-nearly-7x-on-day-2-so-far/",
-     "date": "2026-10-16",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "NIIs oversubscribed 14.35X, retail individual investors bid for 7.13X of their allocation, and QIBs subscribed to 3.95X of their quota.",
-     "lead": "Tonbo is seeking to raise ₹852.1 Cr from its IPO which values the company at ₹4,009.8 Cr at the upper end of the price band Retail individual investors placed more bids than any other category of investors, oversubscribing 7.13X of their quota. They sought to snap up 3.03 Cr shares against the 42.6 Lakh shares reserved for them till now. Non-institutional investors (NIIs) placed bids for 2.62 Cr shares against 18.24 Lakh shares ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Tonbo-social.jpg",
+     "priority": 91,
+     "title": "TechSparks 2026 is here; Zetwerk targets Rs 5,012 Cr IPO",
+     "url": "https://yourstory.com/2026/10/techsparks-2026-is-here-zetwerks-ipo",
+     "date": "2026-10-13",
+     "source": "YourStory",
+     "label": "India · AI & Deeptech",
+     "snippet": "Under this year’s rallying cry, ‘The New Tech Order,’ YourStory’s 17th edition is bringing together 10,000+ visionaries, 500 speakers, 1,000 startups, and 300 investors. We aren't just discussing the future of AI, deep tech, and digital infrastructure—we're asking: who gets to build it, and how fast",
+     "lead": "TechSparks 2026 is here; Zetwerk targets Rs 5,012 Cr IPO Under this year’s rallying cry, ‘The New Tech Order,’ YourStory’s 17th edition is bringing together 10,000+ visionaries, 500 speakers, 1,000 startups, and 300 investors. We aren't just discussing the future of AI, deep tech, and digital infrastructure—we're asking: who gets to build it, and how fast Team YS 17343 Stories Tuesday October 13, 2026 , 4 min Read India’s tech capital ...",
+     "image": "https://images.yourstory.com/cs/2/47afd43024ec11ec9ecb9b7afb0df1da/TSBookendsDay1Opener-1791824462509.jpg",
      "why": [
       "IPO & Listing",
-      "Sizeable deal (about $90M)"
+      "Very large figure in headline (about $528M: round or valuation)"
+     ],
+     "tags": [
+      "IPO & Listing",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 91,
+     "title": "Zetwerk sets IPO price band at Rs 143-151, aims to raise Rs 5,012 Cr",
+     "url": "https://yourstory.com/2026/10/zetwer-sets-ipo-price-band-rs-143-151-to-raise-rs-5012-cr",
+     "date": "2026-10-12",
+     "source": "YourStory",
+     "label": "India · Other",
+     "snippet": "Zetwerk has expanded the size of its IPO and is seeking a valuation of Rs 25,583 crore.",
+     "lead": "Zetwerk sets IPO price band at Rs 143-151, aims to raise Rs 5,012 Cr Zetwerk has expanded the size of its IPO and is seeking a valuation of Rs 25,583 crore. Team YS 17339 Stories Monday October 12, 2026 , 2 min Read Zetwerk, the Bengaluru-headquartered manufacturing marketplace, has set a price band of Rs 143–151 per share for its initial public offering (IPO), targeting a valuation of Rs 25,583 crore. The IPO comprises a fresh issue ...",
+     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/IPOStock31600x900-1791787437744.jpg",
+     "why": [
+      "IPO & Listing",
+      "Very large figure in headline (about $528M: round or valuation)"
      ],
      "tags": [
       "IPO & Listing"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Urban Company Board Clears Plans To Raise Up To ₹2,500 Cr",
-     "url": "https://inc42.com/buzz/urban-company-board-clears-plans-to-raise-up-to-%e2%82%b92500-cr/",
-     "date": "2026-10-16",
-     "source": "Inc42",
-     "label": "India · Policy & Regulation",
-     "snippet": "This gives it flexibility to invest in its established business lines as well as InstaHelp while pursuing inorganic opportunities, it said.",
-     "lead": "Urban Company’s board has approved a proposal to raise up to ₹2,500 Cr through issuance of debt or equity The company is seeking funds at a time when InstaHelp is facing tough competition from the likes of Snabbit and Pronto, and the prospect of a cash burn battle It said the fundraise gives it flexibility to invest in its established business lines as well as InstaHelp while pursuing inorganic opportunities, without trading off one ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/Urban-company-social-1.jpg",
-     "why": [
-      "Funding",
-      "Large deal (about $263M)"
-     ],
-     "tags": [
-      "Funding",
-      "Policy & Regulation"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Flipkart Group FY26: Revenue Nears ₹1.5 Lakh Cr, Loss Narrows To ₹8,468 Cr",
-     "url": "https://inc42.com/buzz/flipkart-group-fy26-revenue-nears-%e2%82%b91-5-lakh-cr-loss-narrows-to-%e2%82%b98468-cr/",
-     "date": "2026-10-16",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "Flipkart Group reported an 18% YoY jump in top line to ₹1.45 Lakh Cr in FY26, while loss narrowed marginally by 2.1% YoY to ₹8,468 Cr.",
-     "lead": "Flipkart Group reported an 18% YoY jump in consolidated operating revenue to ₹1.45 Lakh Cr in FY26, while net loss narrowed marginally by 2.1% YoY to ₹8,468 Cr The numbers reflect the performance of the Flipkart Group as a whole. This comes as the ecommerce giant completed its reverse flip from Singapore to India in March 2026 On the operational front, the company said that its gross margins rose 23% YoY in FY26, while adjusted EBITDA ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/origin-funding-social-1.png",
-     "why": [
-      "Financials",
-      "Very large figure in headline (about $891M: round or valuation)"
-     ],
-     "tags": [
-      "Financials"
      ]
     }
    ]
   },
   "Immigration": {
-   "total": 1071,
-   "new_today": 17,
+   "total": 1073,
+   "new_today": 0,
    "items": [
     {
      "desk": "Immigration",
      "score": 6,
-     "priority": 46,
+     "priority": 50,
      "title": "Finland to introduce citizenship test for foreign applicants in 2027",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSV9TdnFyanQ5TkhoNVU1TzBveDdYaUtnSEU4c1FCdVM3bDdnWko1d1ZrVGNmc0RaOWx2M2kyWDZoV3ZtTXlnOXZpTmxVQWw0WnNzd01Bc3dzQnhqSGQzTklIVVNfeEF5UldRckpnQnRheUx6aTVpZXRCUUZIOEFhc2p5b25wNDZvdXNERHgtYWFhM0xzeFE?oc=5",
      "date": "2026-10-11",
@@ -276,29 +277,8 @@
     },
     {
      "desk": "Immigration",
-     "score": 6,
-     "priority": 46,
-     "title": "Japan PM faces calls for immigration cap as she weighs policy on foreigners",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWF3VS1HcWpsME1QR1Y4ZWt2Y1B0c2pSTVJmWTNnLW9uNDN5UWh2Smk0RVYtZ2U4cnE3NDBvZkFzaVBPdEFHMHU1MVdJUzJPaDlhNGEtRURJekk1c2hXajNnUU1fMWFWWHhnV0V0Y0c4WTBnSWxQNkZWQVdPV3NDbkE0TVVhaUZEbHFxV0gxM1RKOWVZUXNkc19LWWFmTkg3UU5zejFiTWtvMnFYaDB0aENGMlZRQ3h2elJQRHNkWHZPQVhyREE?oc=5",
-     "date": "2026-10-10",
-     "source": "Nikkei Asia",
-     "label": "Japan",
-     "snippet": "Government to base plan on population trends, Takaichi says",
-     "lead": "Japan India South Korea Indonesia Taiwan Thailand U.S. East Asia Hong Kong Macao Taiwan Mongolia Japan South Korea North Korea Southeast Asia Thailand Malaysia Singapore Philippines Vietnam Myanmar Cambodia Laos Brunei East Timor South Asia Pakistan Afghanistan Bangladesh Sri Lanka Nepal Bhutan Maldives Central Asia Uzbekistan Turkmenistan Tajikistan Kyrgyzstan Oceania New Zealand Papua New Guinea Pacific Islands Rest of the World ...",
-     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F1%2F2%2F13302188-2-eng-GB%2F116a6fa07443-photo_SXM2026100900004657.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
-     "why": [
-      "Quota or cap change",
-      "Announces a change"
-     ],
-     "tags": [
-      "Quota / Caps",
-      "Japan"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 38,
+     "score": 4,
+     "priority": 33,
      "title": "France Softens on Russian Visa Limits as Italy Holds Out",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tV1kwZEN3TXNzdkxPRi16WlVTNF91SXZiclJsXzdocTQ5LVp3UVZyNmZ6bFpfU0t6cUhwM2V6MEdtLU51R1g4d0NzWWwtR28wcmJTdzBkdEZQTEdQbHRJeV9hQXNOVWE0ejF2SmYwVQ?oc=5",
      "date": "2026-10-16",
@@ -317,8 +297,8 @@
     },
     {
      "desk": "Immigration",
-     "score": 5,
-     "priority": 38,
+     "score": 4,
+     "priority": 33,
      "title": "Austria makes it easier for foreigners to get work permits",
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0bTVxTVlaUm1ZdDFweEtxZ2hpZmg5WHJQNktXSnd0bE41TXRrakhYd3NvZjNvZndMa1FoNkFvMVRnNF9TaU5NRl81ekdtci01LVhuVWxTUURBNXJUUEt5S1pR?oc=5",
      "date": "2026-10-16",
@@ -334,6 +314,26 @@
       "Work visa",
       "Austria"
      ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 4,
+     "priority": 33,
+     "title": "Getting a Schengen visa is already hard for Russians. Germany reportedly wants to limit where they can go on one.",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdkxaaEh5TTJESURTOHd0ODZlR083LURpMDNCUGc1ZDNlTVlPUkhrVENOamNYVThpaXpsc01nR1ZkZGNlS1MydTFKRnpMejlFWS1jckZFOHlzT2JNQllrcjFfTndVdG1tV0J4RHNiemt5QWNkSUUxMW4wMFRQZnQxTld3N21aRmI3X2RkNFZVb1p5NHpIMkVZWnlfa05jSjl1MUdUZG9STzlvS3RDaUtlaUJGQTRGQlZ0TE9MaDZhUzNIUm9vOWNxS3ZBTXd4MnVmM2NzOdIB2gFBVV95cUxOOXJoMnJzOExJZENIZ09EdUJZaDZQVFVEZHVCQmI5VjM0Si0zWkM4RnZIaUpCWDh0eGo4QUJ3Slllb2pxTk4teXlCTlFxdW4tNFh5M1VjVndLc2ExaUJYSjBUQWdVYVB1MmI4MUt5VHFXUFJ6OEwyYmZlNU5Uem1raFZfeWJBZjVib20zVEdiQXdiX29wemZJMm52d0UzdFM1OHkzR3ZNb2FpdXc5akdxUGFLYUxteVRGUkM1bU9ZTHBXdzhmSFlwMzY2X2NWcTZOWU1uZDRyU3pMZw?oc=5",
+     "date": "2026-10-16",
+     "source": "Meduza",
+     "label": "Germany",
+     "snippet": "On October 14, EU officials discussed new visa restrictions for Russians. At a meeting in Brussels, the Council of the EU’s visa policy working group considered issuing Russian citizens a particular type of visa for “nonessential” travel, meaning tourism. These limited territorial validity (LTV) visas allow holders to visit only one or se",
+     "lead": "",
+     "image": "https://meduza.io/imgly/share/1792093221/en/cards/getting-a-schengen-visa-is-already-hard-for-russians-germany-reportedly-wants-to-limit-where-they-can-go-on-one",
+     "why": [
+      "Quota or cap change"
+     ],
+     "tags": [
+      "Quota / Caps",
+      "Germany"
+     ]
     }
    ]
   },
@@ -344,19 +344,19 @@
     {
      "desk": "Advisory",
      "score": 10,
-     "priority": 77,
-     "title": "New CAS rules decoded: What Sebi’s revised framework means for stock market traders",
-     "url": "https://economictimes.indiatimes.com/markets/stocks/news/new-cas-rules-decoded-what-sebis-revised-framework-means-for-stock-market-traders/articleshow/134983183.cms",
+     "priority": 83,
+     "title": "RBI MPC raises FY27 inflation forecast to 5.2%, projects GDP growth at 7.1%",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMWhDVjVldFc0blJIbVRLMUJDd1ltSVJuNDhBQVNWY1NvNk5iN0pxbmhvZGZjcUhIQVZKY2t5clRrMnFGekhwMlhma29XMl94YUhYLTlRQW5pQ3BfVWF5RVdTMWhRRVpxY1dydUs3djFqQVhLN2FhMGVOUmVObWJ6ZnpURXZubVhMNThQd1hSbnBqMjFfeC11ZHJfTEJXWFJ4UmhYcWVtVlJadk9QRE9odXltcFN3b1RpYkZkU2hiM3NhNDhQRGw1dXpFWGpWNTdWV2NRODZn0gHbAUFVX3lxTFBkWFNoVXFBV28xdVpNYzJwTFFOUUduejVQQ09tZ2hHdjlSWnQzcy0weFB2WnVfeW1fTm16ZDMzM2pieHdPVUM1Q3AyaGw4YXBpdFB5cXdRN0FtNlpiYlAwYU5pY0hDRlhuOTRrYTQ1MVVKdEx3azZqZldMRVhUbUVmSXdpbTl0a0lTXzBkT3Rid20tTy1JdGt3a0RKS2ZjMkRJd0tHNjM3cTBkcEpCVk95RHc2UkgwUkx3NHpjd3NDTXpWQXdyeU1IZ09vcEYtcnFCR2ZZOFY0MmhCSQ?oc=5",
      "date": "2026-10-16",
-     "source": "Economic Times",
+     "source": "Business Standard",
      "label": "Regulatory",
-     "snippet": "Sebi has revised the Closing Auction Session (CAS) framework after receiving more than 20,000 comments from stakeholders. The updated rules introduce a 10-minute closing auction, restore the VWAP method for F&O expiry settlement prices and clarify order transfers. Most changes will take effect on December 7, 2026.",
-     "lead": "Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price US mid-term elections – Part 2: What does it mean for Trump to lose control of Congress?",
-     "image": "https://img.etimg.com/thumb/msid-134983259,width-1200,height-900,imgsize-2061280,overlay-etmarkets/articleshow.jpg",
+     "snippet": "RBI MPC October 2026: The policy committee raised the repo rate to 5.5% and changed the stance to 'calibrated tightening'",
+     "lead": "Don't miss the most important news and views of the day. Get them on our Telegram channel",
+     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-12/05/thumb/fitandfill/1200X628/1764915811-5428.JPG",
      "why": [
       "Regulator: SEBI or RBI",
-      "Rule or framework change",
-      "Also covered by 1 other outlet(s)"
+      "Interest-rate decision",
+      "New product or fund"
      ],
      "tags": [
       "Regulatory"
@@ -365,7 +365,7 @@
     {
      "desk": "Advisory",
      "score": 10,
-     "priority": 77,
+     "priority": 83,
      "title": "Singularity AMC pays over Rs 40 lakh to settle AIF rule violation case with Sebi",
      "url": "https://economictimes.indiatimes.com/markets/stocks/news/singularity-amc-pays-over-rs-40-lakh-to-settle-aif-rule-violation-case-with-sebi/articleshow/134897222.cms",
      "date": "2026-10-12",
@@ -386,40 +386,40 @@
     {
      "desk": "Advisory",
      "score": 9,
-     "priority": 69,
-     "title": "SEBI sees greater AIF flexibility, shifting more responsibility to industry",
-     "url": "https://www.thehindubusinessline.com/markets/sebi-sees-greater-aif-flexibility-shifting-more-responsibility-to-industry/article71583589.ece",
-     "date": "2026-10-14",
-     "source": "BusinessLine",
-     "label": "AIF",
-     "snippet": "Greater flexibility for alternative investment funds will also mean greater responsibility for the industry to strengthen governance and protect investors, SEBI whole-time member Sandip Pradhan said",
-     "lead": "' blCenterIconDiv.innerHTML = spanSvg blLoaderDiv.appendChild(blCenterLoadDiv) blLoaderDiv.appendChild(blCenterIconDiv) divInner.appendChild(blLoaderDiv) div.appendChild(divInner) var bodyIntravel = setInterval(() => { if(window.document.body) { clearInterval(bodyIntravel) window.document.body.insertBefore(div, window.document.body.firstChild) } }, 100) function addStyle(styles) { var css = document.createElement('style'); css.type = ...",
-     "image": "https://bl-i.thgim.com/public/incoming/wcxaai/article71584278.ece/alternates/LANDSCAPE_1200/IMG_439529039_2_1_PSFMLRGS.jpg",
+     "priority": 75,
+     "title": "Sebi’s gold fund curbs may have limited impact as ETF route remains open",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGhhVE51c3d1X2szOXRVRXRXZ21RTVhpOVhPMC04TmRxVTEyY2VjOUM5ZFVjdTZ6TmZIT2d6MU5FRURoS0JqVDJlZjZaNUh1UnNoNVdGX0FIdlhFRjVCb0dBY0N2LXFhRV9FY1BkMDZwZ2pObTk1WC01dVVBRXA3V0toX2p0Z0h1b0tPMXZveGpmYUc3M184VWxkVWdVTTFxSmx5cEZ6RkFIc3c?oc=5",
+     "date": "2026-10-16",
+     "source": "IndiaIPO",
+     "label": "Gold & Silver",
+     "snippet": "Sebi has asked mutual funds to stop accepting fresh lump-sum investments, systematic investment plans and systematic transfer plans into gold ETF fund-of-funds (FoFs) from 16 October. The curbs currently do not apply to gold ETFs.",
+     "lead": "info@indiaipo.in | +91-96506-37280 IPO From Education to Execution Expert IPO Consultant | A A A | Check IPO Eligibility Home News Sebi’s gold fund curbs may have limited impact as ETF route remains open Back to all updates Sebi’s gold fund curbs may have limited impact as ETF route remains open October 16, 2026 Share Article Copy Link I ndia’s market regulator has directed mutual funds to bar fresh investments in gold mutual fund ...",
+     "image": null,
      "why": [
-      "AIF news",
       "Regulator: SEBI or RBI",
+      "Precious metals",
       "Also covered by 2 other outlet(s)"
      ],
      "tags": [
-      "AIF"
+      "Gold & Silver"
      ]
     },
     {
      "desk": "Advisory",
      "score": 9,
-     "priority": 69,
-     "title": "Sebi notifies PMS rules; broadens investment avenue for portfolio managers, introduces PRIM route",
-     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNVBvMTFXa0dOM0pJb01zQmdLRlUwOS05YXRBdUtxeEpkUWpzVnlSbjgtNzJDY01PbFZvbDVkUEljTWQ1dHE3ZFRnQ1k5SExJWmRUeXg5SmdBUHYyWm5yak1qLWxlRU5KNlIxa1ByV2h4TjRqWTFuSE9fLWpQbzBWclJ3ZG40MTdaZFNiNVJKWjZyUkhnQmFPNmpPNTFLS1p0S244VldQa2pidjdjVy04YWotR2Zqa1NlX2Q3NUdrbUNwdTZULTBmQUppMW9zRVVUQmJJOUROSS1TMVdteVRWMHNkVFZxeFVOOEJCVzdpQ2NQaFcxU1A00gH8AUFVX3lxTE40OXA0NmhTcW1aODJKa2hIZWk5cDF2Z0VpRzE3V0NheFpLYlhyMWh0MERMZ2RQa1BOQmhUY0hmdXh4bFpwOW8tcmthcEcxeWp1QlZMX0JVaDlHWXF0WFNRb3FJNmVyOEUxbk5UbzlyZ0FrYjAwWjFTS0UwSUJjbzRYY3I2WHA3dFJtNC1Gb2gxOVJFX1I0VUIySG14TWZUYmphbTFaMURVZVlRME5UM2JOMndNeVJfNEZ3WkZfX3NjMGFQQ1JPczd3X1Rza2F4TzVJUW9xYkkzZ0V4ZUFIS3ZSRC1pa2VuOTNFV1NGdDVyTnkyWll3b0tzWGZQYw?oc=5",
+     "priority": 75,
+     "title": "Sebi notifies PMS framework, broadens investment avenue for portfolio managers",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVXdyQnl6aFdtSnNXUWFCcGUtZkUzS3R6YXhFNzdjcnZheHUxWU1PS0xMcHlyeGdOX2ZhbXJUdTl2X1FUc09tQlpOWEtHMGM0R1BYNVJ2TmxOdHg5dnMzVUxSTDBQNW8zV2ZjTV93bnUzZjZJNEJUcDUtMGxOYlN5M0ZWbXFyWG02MTlkcnBSakN1b29jU21kd1ZXS0pUamRXNnZTc0QySkdOckRtQ3MwSEVOTTJyZFdCLUFUN1I4Z1nSAcYBQVVfeXFMT3hDY3lhOTM0akt0TGZLXzdpRjZJVm9CRVhBZ1hhUUFJNW9rMmE1RFdaeFBUR25YOFd1S1JRMUpzcVEtMmdxLVp4TkVSRGZWMW9YWmVPZmlqUklQa2ZTNENTdFAwcGxYZEpTN0stVnBneHVFWEItZ1VXbGJpd2x4Slk5cHFqd0JmZmxHWk1TVGRmZ3E1WWN2QVhhbEhnY2hmaGVQRnk2Zm1XSk1XQVAyc3ZHdkFmcWdMQ0lQdGVObk9jQ0c5MEJR?oc=5",
      "date": "2026-10-13",
-     "source": "ETLegalWorld.com",
+     "source": "MillenniumPost",
      "label": "PMS",
-     "snippet": "The Securities and Exchange Board of India (Sebi) has updated its portfolio management services framework, expanding investment opportunities for portfolio managers in IPOs, debt securities, and international markets, effective April 1, 2027.",
-     "lead": "Markets regulator Sebi has notified the portfolio management services (PMS) framework, allowing portfolio managers to invest in Initial Public Offerings ( IPOs ), primary market debt issuances, and a wider range of overseas securities, while introducing a separate route for them for investing in mutual funds . The Securities and Exchange Board of India (Portfolio Managers) Regulations, 2026, which replace the existing 2020 framework, ...",
-     "image": "https://etimg.etb2bimg.com/thumb/msid-134917689,imgsize-92514,width-1200,height=627,overlay-etlegal,resizemode-75/regulators/sebi-notifies-pms-rules-broadens-investment-avenue-for-portfolio-managers-introduces-prim-route.jpg",
+     "snippet": "New Delhi: Markets regulator Sebi has notified the portfolio management services (PMS) framework, allowing portfolio managers to invest in Initial Public Offerings (IPOs), primary market debt...",
+     "lead": "New Delhi: Markets regulator Sebi has notified the portfolio management services (PMS) framework, allowing portfolio managers to invest in Initial Public Offerings (IPOs), primary market debt issuances, and a wider range of overseas securities, while introducing a separate route for them for investing in mutual funds. The Securities and Exchange Board of India (Portfolio Managers) Regulations, 2026, which replace the existing 2020 ...",
+     "image": null,
      "why": [
       "PMS news",
       "Regulator: SEBI or RBI",
-      "Also covered by 2 other outlet(s)"
+      "Rule or framework change"
      ],
      "tags": [
       "PMS"
@@ -431,7 +431,7 @@
  "items": [
   {
    "desk": "Immigration",
-   "score": 13,
+   "score": 12,
    "priority": 100,
    "title": "Ottawa adding express entry points for permanent resident applicants in 'high-wage' jobs",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yMFhBZ3U4ZEQzbzJrVlVpbWtoU2Q3RHBLdk5UenJ0YXVaNkowcDJvRzltei01Z1JCUDhvZVpCMkNqT0ZoZjB5T1hBM0tzOEZPNlZYZXQ3MUNTTVJ1TDFwcnFVbllkVG0wLUdhUlBaX3A?oc=5",
@@ -444,7 +444,7 @@
    "why": [
     "Affects permanent residence",
     "Announces a change",
-    "Major story (11 headlines that day)"
+    "Major story (12 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
@@ -455,7 +455,7 @@
   },
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 100,
    "title": "[Update] Zetwerk IPO Subscribed 31% On Day 2, QIB Portion At 37%",
    "url": "https://inc42.com/buzz/zetwerk-ipo-subscribed-27-on-day-2-so-far-qib-retail-portions-booked-32-each/",
@@ -478,7 +478,7 @@
   },
   {
    "desk": "Advisory",
-   "score": 13,
+   "score": 12,
    "priority": 100,
    "title": "HSBC Sees RBI Repo Rate at 6% by December as Bond Yields Surge",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmw2enVib0FBSGxxa2gtOTZyakJNMzJpcXh3cXlPQmt4RnVsQVBHNF9DaEV5Y0ZfMDNadzV0RzlYaWpsSUhsZ2tzU1BmZVg4cFJYQTlTeTcxSnV6dHNndWg4T3ZHRXdLVkpfbjlQRW1UUGY2UDZzMDJDV1dLbjFvX0lIREc?oc=5",
@@ -524,98 +524,31 @@
    "must_read": true
   },
   {
-   "desk": "Startups",
+   "desk": "Advisory",
    "score": 11,
    "priority": 92,
-   "title": "Burma Burma Parent Files DRHP For IPO With ₹150 Cr Fresh Issue",
-   "url": "https://inc42.com/buzz/burma-burma-parent-files-drhp-for-ipo-with-%e2%82%b9150-cr-fresh-issue/",
+   "title": "Comprehensive Analysis of the SEBI AIF Third Amendment Regulations 2026: Revamped Accredited Investor Norms and Dispute Resolution Framework",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVkI2eGRSMzE5c2ZrT0RFLTI1c282dWp2UE9nQUUzYkM1ZVd5QzRZREdMZHhveWQ2YUZUNlY1MW1qN1NfRkNreHktdmhtYldfRmp1VEdseTBVRGJ2c1dyeU9TNnNiZm1GT2psT0gyeW92UWpnRmdhcDN3Mkc3WU1Bc1UyVVZOVHczZ3hfV3U0d2hDTm8tQTZtWTJiNHN5blo2NXdv?oc=5",
    "date": "2026-10-17",
-   "source": "Inc42",
-   "label": "India · Commerce & D2C",
-   "snippet": "The company has earmarked ₹117.3 Cr from the fresh issue proceeds to set up 27 company-owned and operated Burma Burma restaurants",
-   "lead": "Burma Burma’s parent Hunger Pangs has filed its DRHP for an IPO comprising a fresh issue of up to ₹150 Cr and an OFS of up to 2.79 Cr shares The restaurant operator plans to deploy ₹117.3 Cr towards opening 27 Burma Burma outlets, expanding its footprint beyond the 22 restaurants operational as of July 31 Hunger Pangs’ operating revenue increased 46.6% YoY to ₹155.5 Cr in FY26, while net loss surged multifold to ₹15.4 Cr from ₹50.5 Lakh",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Burma-social-image.png",
+   "source": "TaxCorp AI",
+   "label": "AIF",
+   "snippet": "Summary The Securities and Exchange Board of India (Alternative Investment Funds) (Third Amendment) Regulations, 2026, notified on 9 October 2026, introduces...",
+   "lead": "The regulatory landscape governing Alternative Investment Funds (AIFs) in India has witnessed a significant evolution with the introduction of the Securities and Exchange Board of India (Alternative Investment Funds) (Third Amendment) Regulations, 2026. Promulgated via Notification No. SEBI/LAD-NRO/GN/2026/326 on 9 October 2026, this legislative update introduces pivotal shifts in how investors are accredited and how disputes within ...",
+   "image": null,
    "why": [
-    "IPO & Listing",
-    "Valuation, listing or profitability signal"
+    "AIF news",
+    "Regulator: SEBI or RBI",
+    "Rule or framework change"
    ],
    "tags": [
-    "IPO & Listing",
-    "Commerce & D2C"
+    "AIF"
    ],
    "rank": 5,
    "must_read": true
   },
   {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "From Boldfit To Origin — Indian Startups Raised About $236 Mn This Week",
-   "url": "https://inc42.com/buzz/from-boldfit-to-origin-indian-startups-raised-about-236-mn-this-week/",
-   "date": "2026-10-17",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Indian startups raised $236 Mn across 25 deals between October 12 and October 16, up 92.2% from nearly $123 Mn raised in the preceding week.",
-   "lead": "Indian startups raised $236 Mn across 25 deals between October 12 and October 16, up 92.2% from nearly $123 Mn raised in the preceding week AI dominated the funding charts this week and attracted $53.4 Mn across six deals. Meanwhile, ecommerce emerged as the second-most funded sector and lapped up $48.3 Mn Accel emerged as the most active investor of the week and backed four startups. Hitachi Ventures, 3one4Capital and IPV also ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/IMG_5387.jpg",
-   "why": [
-    "Funding",
-    "Large deal (about $236M)"
-   ],
-   "tags": [
-    "Funding"
-   ],
-   "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "Cult.fit Gets SEBI Clearance For ₹950 Cr+ IPO",
-   "url": "https://inc42.com/buzz/cult-fit-gets-sebi-clearance-for-%e2%82%b9950-cr-ipo/",
-   "date": "2026-10-16",
-   "source": "Inc42",
-   "label": "India · Policy & Regulation",
-   "snippet": "Markets regulator SEBI has given its go-ahead to gym chain Cult.fit’s ₹950 Cr IPO about three months after it filed DRHP with the regulator",
-   "lead": "Markets regulator SEBI has given its go-ahead to gym chain Cult.fit’s ₹950 Cr IPO about three months after it filed draft red herring prospectus (DRHP) with the regulator As per its DRHP from July, the company’s IPO will comprise a fresh issue of shares worth up to ₹950 Cr and an offer for sale of up to 17.86 Cr shares As per SEBI’s latest processing status, the regulator issued its final observation on the offer documents of Cult.fit ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/cultfit_kmp_soc.jpg",
-   "why": [
-    "IPO & Listing",
-    "Large deal (about $100M)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Policy & Regulation"
-   ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "CoreWeave's CEO sold nearly $1 billion of stock since IPO, filings show",
-   "url": "https://economictimes.indiatimes.com/tech/technology/coreweaves-ceo-sold-nearly-1-billion-of-stock-since-ipo-filings-show/articleshow/134999795.cms",
-   "date": "2026-10-16",
-   "source": "ET Startups",
-   "label": "Global · Other",
-   "snippet": "The sales began about two months after the stock hit a record high in June 2025. The shares have tumbled since and were on track to lose about 24% this week as investors worried about the Nvidia-backed company's heavy capital spending and the debt needed to fund it amid rising bets on interest-rate hikes.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1128508,resizemode-75,msid-134999795/tech/technology/coreweaves-ceo-sold-nearly-1-billion-of-stock-since-ipo-filings-show.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $1,000M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
    "desk": "Advisory",
-   "score": 12,
+   "score": 11,
    "priority": 92,
    "title": "Bandhan AMC’s Suyash Choudhary on RBI rate hikes, bond yields, and debt strategy",
    "url": "https://www.livemint.com/money/personal-finance/rbi-rate-hikes-suyash-choudhary-bandhan-amc-fixed-income-bond-yields-debt-mutual-funds-11791994802619.html",
@@ -633,126 +566,120 @@
    "tags": [
     "Debt & Bonds"
    ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "Decoding Urban Company’s ₹2,500 Cr Fundraise Proposal",
+   "url": "https://inc42.com/buzz/decoding-urban-companys-%e2%82%b92500-cr-fundraise-proposal/",
+   "date": "2026-10-17",
+   "source": "Inc42",
+   "label": "India · Policy & Regulation",
+   "snippet": "The proposed ₹2,500 Cr fundraise bolsters Urban Company's balance sheet and provides it with strategic flexibility.",
+   "lead": "The proposed ₹2,500 Cr fundraise bolsters Urban Company's balance sheet and provides it with strategic flexibility, said CEO Abhiraj Singh Bhal The company will deploy the capital towards growth investments, such as acquisitions that consolidate its position in an existing market or enter a new category It is also looking to expand into a new category by making residential air conditioners under its consumer appliances brand Native",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/Urban-company-social-1.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $263M)"
+   ],
+   "tags": [
+    "Funding",
+    "Policy & Regulation"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "Burma Burma Parent Files DRHP For IPO With ₹150 Cr Fresh Issue",
+   "url": "https://inc42.com/buzz/burma-burma-parent-files-drhp-for-ipo-with-%e2%82%b9150-cr-fresh-issue/",
+   "date": "2026-10-17",
+   "source": "Inc42",
+   "label": "India · Commerce & D2C",
+   "snippet": "The company has earmarked ₹117.3 Cr from the fresh issue proceeds to set up 27 company-owned and operated Burma Burma restaurants",
+   "lead": "Burma Burma’s parent Hunger Pangs has filed its DRHP for an IPO comprising a fresh issue of up to ₹150 Cr and an OFS of up to 2.79 Cr shares The restaurant operator plans to deploy ₹117.3 Cr towards opening 27 Burma Burma outlets, expanding its footprint beyond the 22 restaurants operational as of July 31 Hunger Pangs’ operating revenue increased 46.6% YoY to ₹155.5 Cr in FY26, while net loss surged multifold to ₹15.4 Cr from ₹50.5 Lakh",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Burma-social-image.png",
+   "why": [
+    "IPO & Listing",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Commerce & D2C"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "From Boldfit To Origin — Indian Startups Raised About $236 Mn This Week",
+   "url": "https://inc42.com/buzz/from-boldfit-to-origin-indian-startups-raised-about-236-mn-this-week/",
+   "date": "2026-10-17",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Indian startups raised $236 Mn across 25 deals between October 12 and October 16, up 92.2% from nearly $123 Mn raised in the preceding week.",
+   "lead": "Indian startups raised $236 Mn across 25 deals between October 12 and October 16, up 92.2% from nearly $123 Mn raised in the preceding week AI dominated the funding charts this week and attracted $53.4 Mn across six deals. Meanwhile, ecommerce emerged as the second-most funded sector and lapped up $48.3 Mn Accel emerged as the most active investor of the week and backed four startups. Hitachi Ventures, 3one4Capital and IPV also ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/IMG_5387.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $236M)"
+   ],
+   "tags": [
+    "Funding"
+   ],
    "rank": 9,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
-   "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
-   "date": "2026-10-15",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
-   "lead": "Ramp reaches $60B valuation as it pushes deeper into AI Ram Iyer 7:47 AM PDT · October 15, 2026 Expense management company Ramp said on Thursday that it had raised $1.85 billion in a new funding round that values it at $60 billion, just four months after raising $750 million at a $44 billion valuation . The financing was co-led by Dragoneer Investment Group, Thrive Capital, Founders Fund, Sands Capital, and Avenir Growth. Ramp said its ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/eric-glyman.jpg?resize=1200,801",
+   "score": 10,
+   "priority": 91,
+   "title": "Cult.fit Gets SEBI Clearance For ₹950 Cr+ IPO",
+   "url": "https://inc42.com/buzz/cult-fit-gets-sebi-clearance-for-%e2%82%b9950-cr-ipo/",
+   "date": "2026-10-16",
+   "source": "Inc42",
+   "label": "India · Policy & Regulation",
+   "snippet": "Markets regulator SEBI has given its go-ahead to gym chain Cult.fit’s ₹950 Cr IPO about three months after it filed DRHP with the regulator",
+   "lead": "Markets regulator SEBI has given its go-ahead to gym chain Cult.fit’s ₹950 Cr IPO about three months after it filed draft red herring prospectus (DRHP) with the regulator As per its DRHP from July, the company’s IPO will comprise a fresh issue of shares worth up to ₹950 Cr and an offer for sale of up to 17.86 Cr shares As per SEBI’s latest processing status, the regulator issued its final observation on the offer documents of Cult.fit ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/cultfit_kmp_soc.jpg",
    "why": [
-    "Funding",
-    "Very large figure in headline (about $60,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
+    "IPO & Listing",
+    "Large deal (about $100M)"
    ],
    "tags": [
-    "Funding",
-    "AI & Deeptech"
+    "IPO & Listing",
+    "Policy & Regulation"
    ],
    "rank": 10,
    "must_read": false
   },
   {
-   "desk": "Policy",
-   "score": 12,
-   "priority": 92,
-   "title": "Securities and Exchange Board of India (Mutual Funds) (Second Amendment) Regulations, 2026",
-   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-mutual-funds-second-amendment-regulations-2026_105153.html",
-   "date": "2026-10-10",
-   "source": "SEBI",
-   "label": "Markets & Regulation",
-   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "CoreWeave's CEO sold nearly $1 billion of stock since IPO, filings show",
+   "url": "https://economictimes.indiatimes.com/tech/technology/coreweaves-ceo-sold-nearly-1-billion-of-stock-since-ipo-filings-show/articleshow/134999795.cms",
+   "date": "2026-10-16",
+   "source": "ET Startups",
+   "label": "Global · Other",
+   "snippet": "The sales began about two months after the stock hit a record high in June 2025. The shares have tumbled since and were on track to lose about 24% this week as investors worried about the Nvidia-backed company's heavy capital spending and the debt needed to fund it amid rising bets on interest-rate hikes.",
    "lead": "",
-   "image": null,
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1128508,resizemode-75,msid-134999795/tech/technology/coreweaves-ceo-sold-nearly-1-billion-of-stock-since-ipo-filings-show.jpg",
    "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Touches financial markets",
-    "Regulator: SEBI"
+    "IPO & Listing",
+    "Very large figure in headline (about $1,000M: round or valuation)"
    ],
    "tags": [
-    "Markets & Regulation"
+    "IPO & Listing"
    ],
    "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 85,
-   "title": "US Fed rate hike buzz: American inflation highest since COVID — what does it mean for Nifty, Sensex, gold rates? Decoded",
-   "url": "https://www.livemint.com/market/stock-market-news/us-fed-rate-hike-buzz-american-inflation-highest-since-covid-what-does-it-mean-for-nifty-sensex-gold-rates-decoded-11792135225649.html",
-   "date": "2026-10-16",
-   "source": "Mint",
-   "label": "Gold & Silver",
-   "snippet": "Indian stock market has already discounted the US Fed rate hike for up to December US Fed meetings, say experts",
-   "lead": "US Fed rate hike impact on gold: Experts see big upside in gold and silver prices, as American inflation may create uncertainty around US bond yields. ( Photo: Representational AI-generated image for educational purposes only ) AI Quick Read US Fed Rate Hike | Gold Rate Today | Sensex Today | Stocks to Buy Today: US producer prices increased by the most in 4-1/2 years in September amid rising costs for goods and services, the latest ...",
-   "image": null,
-   "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Gold & Silver"
-   ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 85,
-   "title": "SEBI Overhauls Closing Auction Session and Derivatives Settlement Framework",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOUVTdGxEY0kzMldTV1FKeVRvMEprQklzNmEtZENPTGxJWnZwZkZPaXBub3lQVzNXVWtCZlNJNXRENE8wOXpwVnlDNUJBUS03YlF3RENwanVkYTAtelZSbG00VFBsMVBvQ21nV2JUMTRTNUdGMUpCX0dMazhPZzlFMDN6dFVuLXhCSktJZ2pHdFo1d1hXUXlPSUFDQzdiRU1Ud1JUb1VDeW5BeEd6M1pjOGt2RHdsUEpxX0FXcUZ1SFN3ZE3SAcMBQVVfeXFMTjlFU3RsRGNJMzJXU1dRSnlUbzBKa0JJczZhLWRDT0xsSVp2cGZGT2lwbm95UFczV1VrQmZTSTV0RDRPMDl6cFZ5QzVCQVEtN2JRd0RDcGp1ZGEwLXpWUmxtNFRQbDFQb0NtZ1diVDE0UzVHRjFKQl9HTGs4T2c5RTAzenRVbi14QkpLSWdqR3RaNXdYV1F5T0lBQ0M3YkVNVHdSVG9VQ3luQXhHejNaYzhrdkR3bFBKcV9BV3FGdUhTd2RN?oc=5",
-   "date": "2026-10-16",
-   "source": "PSU India",
-   "label": "Regulatory",
-   "snippet": "Capital markets regulator Securities and Exchange Board of India (SEBI) has announced a comprehensive restructuring of the Closing Auction Session (CAS) in the equity cash segment, establishing a structured 10-minute auction window, revising reference price calculation mechanisms, and altering derivative settlement norms.",
-   "lead": "NEW DELHI — Capital markets regulator Securities and Exchange Board of India (SEBI) has announced a comprehensive restructuring of the Closing Auction Session (CAS) in the equity cash segment, establishing a structured 10-minute auction window, revising reference price calculation mechanisms, and altering derivative settlement norms. The regulatory changes—aimed at improving price discovery, transparency, and market integrity across ...",
-   "image": "https://assets.psuindia.com/h-upload/2026/10/16/428111-20260821030851sebi.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Rule or framework change",
-    "Also covered by 2 other outlet(s)"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 11,
-   "priority": 85,
-   "title": "Guidance: EU Settlement Scheme: caseworker guidance",
-   "url": "https://www.gov.uk/government/publications/eu-settlement-scheme-caseworker-guidance",
-   "date": "2026-10-15",
-   "source": "GOV.UK (UK Visas and Immigration)",
-   "label": "United Kingdom",
-   "snippet": "Immigration staff guidance on applications under the EU Settlement Scheme.",
-   "lead": "Navigation menu Menu Menu Services and information Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions ...",
-   "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-   "why": [
-    "Affects permanent residence",
-    "Official government notice",
-    "Major story (12 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "United Kingdom"
-   ],
-   "rank": 14,
    "must_read": false
   },
   {
@@ -774,30 +701,78 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 15,
+   "rank": 12,
    "must_read": false
   },
   {
    "desk": "Advisory",
    "score": 10,
-   "priority": 77,
-   "title": "Sebi’s gold fund curbs may have limited impact as ETF route remains open",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGhhVE51c3d1X2szOXRVRXRXZ21RTVhpOVhPMC04TmRxVTEyY2VjOUM5ZFVjdTZ6TmZIT2d6MU5FRURoS0JqVDJlZjZaNUh1UnNoNVdGX0FIdlhFRjVCb0dBY0N2LXFhRV9FY1BkMDZwZ2pObTk1WC01dVVBRXA3V0toX2p0Z0h1b0tPMXZveGpmYUc3M184VWxkVWdVTTFxSmx5cEZ6RkFIc3c?oc=5",
+   "priority": 83,
+   "title": "US Fed rate hike buzz: American inflation highest since COVID — what does it mean for Nifty, Sensex, gold rates? Decoded",
+   "url": "https://www.livemint.com/market/stock-market-news/us-fed-rate-hike-buzz-american-inflation-highest-since-covid-what-does-it-mean-for-nifty-sensex-gold-rates-decoded-11792135225649.html",
    "date": "2026-10-16",
-   "source": "IndiaIPO",
+   "source": "Mint",
    "label": "Gold & Silver",
-   "snippet": "Sebi has asked mutual funds to stop accepting fresh lump-sum investments, systematic investment plans and systematic transfer plans into gold ETF fund-of-funds (FoFs) from 16 October. The curbs currently do not apply to gold ETFs.",
-   "lead": "info@indiaipo.in | +91-96506-37280 IPO From Education to Execution Expert IPO Consultant | A A A | Check IPO Eligibility Home News Sebi’s gold fund curbs may have limited impact as ETF route remains open Back to all updates Sebi’s gold fund curbs may have limited impact as ETF route remains open October 16, 2026 Share Article Copy Link I ndia’s market regulator has directed mutual funds to bar fresh investments in gold mutual fund ...",
+   "snippet": "Indian stock market has already discounted the US Fed rate hike for up to December US Fed meetings, say experts",
+   "lead": "US Fed rate hike impact on gold: Experts see big upside in gold and silver prices, as American inflation may create uncertainty around US bond yields. ( Photo: Representational AI-generated image for educational purposes only ) AI Quick Read US Fed Rate Hike | Gold Rate Today | Sensex Today | Stocks to Buy Today: US producer prices increased by the most in 4-1/2 years in September amid rising costs for goods and services, the latest ...",
    "image": null,
    "why": [
-    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
     "Precious metals",
-    "Also covered by 2 other outlet(s)"
+    "Global macro driver",
+    "Also covered by 1 other outlet(s)"
    ],
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 16,
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 83,
+   "title": "SEBI Overhauls Closing Auction Session and Derivatives Settlement Framework",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOUVTdGxEY0kzMldTV1FKeVRvMEprQklzNmEtZENPTGxJWnZwZkZPaXBub3lQVzNXVWtCZlNJNXRENE8wOXpwVnlDNUJBUS03YlF3RENwanVkYTAtelZSbG00VFBsMVBvQ21nV2JUMTRTNUdGMUpCX0dMazhPZzlFMDN6dFVuLXhCSktJZ2pHdFo1d1hXUXlPSUFDQzdiRU1Ud1JUb1VDeW5BeEd6M1pjOGt2RHdsUEpxX0FXcUZ1SFN3ZE3SAcMBQVVfeXFMTjlFU3RsRGNJMzJXU1dRSnlUbzBKa0JJczZhLWRDT0xsSVp2cGZGT2lwbm95UFczV1VrQmZTSTV0RDRPMDl6cFZ5QzVCQVEtN2JRd0RDcGp1ZGEwLXpWUmxtNFRQbDFQb0NtZ1diVDE0UzVHRjFKQl9HTGs4T2c5RTAzenRVbi14QkpLSWdqR3RaNXdYV1F5T0lBQ0M3YkVNVHdSVG9VQ3luQXhHejNaYzhrdkR3bFBKcV9BV3FGdUhTd2RN?oc=5",
+   "date": "2026-10-16",
+   "source": "PSU India",
+   "label": "Regulatory",
+   "snippet": "Capital markets regulator Securities and Exchange Board of India (SEBI) has announced a comprehensive restructuring of the Closing Auction Session (CAS) in the equity cash segment, establishing a structured 10-minute auction window, revising reference price calculation mechanisms, and altering derivative settlement norms.",
+   "lead": "NEW DELHI — Capital markets regulator Securities and Exchange Board of India (SEBI) has announced a comprehensive restructuring of the Closing Auction Session (CAS) in the equity cash segment, establishing a structured 10-minute auction window, revising reference price calculation mechanisms, and altering derivative settlement norms. The regulatory changes—aimed at improving price discovery, transparency, and market integrity across ...",
+   "image": "https://assets.psuindia.com/h-upload/2026/10/16/428111-20260821030851sebi.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Rule or framework change",
+    "Also covered by 2 other outlet(s)"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 83,
+   "title": "Guidance: EU Settlement Scheme: caseworker guidance",
+   "url": "https://www.gov.uk/government/publications/eu-settlement-scheme-caseworker-guidance",
+   "date": "2026-10-15",
+   "source": "GOV.UK (UK Visas and Immigration)",
+   "label": "United Kingdom",
+   "snippet": "Immigration staff guidance on applications under the EU Settlement Scheme.",
+   "lead": "Navigation menu Menu Menu Services and information Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions ...",
+   "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+   "why": [
+    "Affects permanent residence",
+    "Official government notice",
+    "Major story (12 headlines that day)"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "United Kingdom"
+   ],
+   "rank": 15,
    "must_read": false
   },
   {
@@ -819,13 +794,13 @@
    "tags": [
     "Markets & Regulation"
    ],
-   "rank": 17,
+   "rank": 16,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 7,
-   "priority": 54,
+   "score": 6,
+   "priority": 50,
    "title": "Portugal has limited immigration, and Spain may follow | World News",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb0RwdWdUejBZUnBjOU1WRjdiZHA5S2IzOHlZcjRPVEpDMEFGeVZhWmRPWlJhbW9seVJ5WnhsU1lGOUZDa2pPd2xBcHFsRkh1ZkhWeTdOZmp6UUVnY3JReFBKWFhoVUFzRFFXLU9uaXJLMGIwWVJOZGM2UXE2dnNQSFB0WGxZZmo2N1ByZnhpWVd0dmhrTzdJLXhVdmFXUHhuc1RTdXNUT0hmYmFpSDFreXlsYzJES25tdlc4dNIBvAFBVV95cUxOb0RwdWdUejBZUnBjOU1WRjdiZHA5S2IzOHlZcjRPVEpDMEFGeVZhWmRPWlJhbW9seVJ5WnhsU1lGOUZDa2pPd2xBcHFsRkh1ZkhWeTdOZmp6UUVnY3JReFBKWFhoVUFzRFFXLU9uaXJLMGIwWVJOZGM2UXE2dnNQSFB0WGxZZmo2N1ByZnhpWVd0dmhrTzdJLXhVdmFXUHhuc1RTdXNUT0hmYmFpSDFreXlsYzJES25tdlc4dA?oc=5",
    "date": "2026-10-16",
@@ -841,27 +816,51 @@
     "Quota / Caps",
     "Spain"
    ],
+   "rank": 17,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 6,
+   "priority": 50,
+   "title": "Denmark to slash work permit salary threshold for some applicants by almost 20,000 kroner",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2JNVDlfeUktcWo5NTI0SEVtbWEtRlRZeGtSQy1WSE1meFFYVTFFLXl2SHg5Ry1zSXMxRERnT2NwczdDM2s5d3JKRUZCTEF3dWhuRGdGSjN2UFhVQVFCR1MzMnJ2YTdPM0Y3WmJ5cU9uOThPbG03aFhLQVhwaWZyX1BxaHpWSVk0SWUtbTU2SmE4X0VqWGQycTg4OWZ3SkptallTWUhUNkpmUm5Bdjk2TXQtMnU1ZWR2Wi1XZw?oc=5",
+   "date": "2026-10-13",
+   "source": "The Local Denmark",
+   "label": "Denmark",
+   "snippet": "Denmark is set to introduce a new collective agreement-based work permit scheme from the beginning of next year, which will make it easier for citizens of 16 select countries to secure a permit.",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Denmark is set to introduce a new collective agreement-based work permit scheme from the beginning of next year, which will make it easier for citizens of 16 select countries to secure a permit. Under the new scheme, ...",
+   "image": null,
+   "why": [
+    "Salary threshold change",
+    "Announces a change"
+   ],
+   "tags": [
+    "Salary threshold",
+    "Denmark"
+   ],
    "rank": 18,
    "must_read": false
   },
   {
-   "desk": "Policy",
+   "desk": "Immigration",
    "score": 6,
-   "priority": 46,
-   "title": "Underwriting Auction for sale of Government Security for ₹34,000 crore on October 16, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63811",
-   "date": "2026-10-15",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "Government of India has announced the sale (re-issue) of Government Security, as detailed below, through auction to be held on October 16, 2026 (Friday) . As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
-   "image": null,
+   "priority": 50,
+   "title": "NZ First to abolish Accredited Employer Work Visa",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamFzRFh2T25mNTJkRWkzVXU0ZmlybjlTX1ZJVXAtYkVyUGZGWk9ndnI2eTEyWWdfYmxYRU9BMmdfR3dwSzJpTEp0Y1JGcUV1aWZWYUZqeGlNVGhWbHk2Zm5kY3BrMHNQMFZyWHd5enAtOUl2aUZCXzB1UVJRV0lKa1RDUkk?oc=5",
+   "date": "2026-10-12",
+   "source": "Indian Newslink",
+   "label": "New Zealand",
+   "snippet": "NZ First to abolish Accredited Employer Work Visa",
+   "lead": "Skilled Work Visa proposal raises questions for migrants and employers New Zealand First has placed migrant employment at the centre of the election campaign, promising to dismantle the Accredited Employer Work Visa (AEWV) system and replace it with a more restrictive arrangement designed around verified labour shortages. The proposal, announced on October 11, 2026, at a public meeting in Dunedin, could have far-reaching consequences ...",
+   "image": "https://admin.indiannewslink.co.nz/uploads/NZ_First_to_abolish_Main_Banner_5eba64db85.png",
    "why": [
-    "Regulator: RBI",
-    "Large outlay (Rs 10,000 Cr or more)"
+    "Affects work visas",
+    "Announces a change"
    ],
    "tags": [
-    "Banking & Rates"
+    "Work visa",
+    "New Zealand"
    ],
    "rank": 19,
    "must_read": false
@@ -889,47 +888,44 @@
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 46,
-   "title": "Denmark to slash work permit salary threshold for some applicants by almost 20,000 kroner",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2JNVDlfeUktcWo5NTI0SEVtbWEtRlRZeGtSQy1WSE1meFFYVTFFLXl2SHg5Ry1zSXMxRERnT2NwczdDM2s5d3JKRUZCTEF3dWhuRGdGSjN2UFhVQVFCR1MzMnJ2YTdPM0Y3WmJ5cU9uOThPbG03aFhLQVhwaWZyX1BxaHpWSVk0SWUtbTU2SmE4X0VqWGQycTg4OWZ3SkptallTWUhUNkpmUm5Bdjk2TXQtMnU1ZWR2Wi1XZw?oc=5",
-   "date": "2026-10-13",
-   "source": "The Local Denmark",
-   "label": "Denmark",
-   "snippet": "Denmark is set to introduce a new collective agreement-based work permit scheme from the beginning of next year, which will make it easier for citizens of 16 select countries to secure a permit.",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Denmark is set to introduce a new collective agreement-based work permit scheme from the beginning of next year, which will make it easier for citizens of 16 select countries to secure a permit. Under the new scheme, ...",
+   "desk": "Policy",
+   "score": 5,
+   "priority": 38,
+   "title": "Underwriting Auction for sale of Government Security for ₹34,000 crore on October 16, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63811",
+   "date": "2026-10-15",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "Government of India has announced the sale (re-issue) of Government Security, as detailed below, through auction to be held on October 16, 2026 (Friday) . As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
    "image": null,
    "why": [
-    "Salary threshold change",
-    "Announces a change"
+    "Regulator: RBI",
+    "Large outlay (Rs 10,000 Cr or more)"
    ],
    "tags": [
-    "Salary threshold",
-    "Denmark"
+    "Banking & Rates"
    ],
    "rank": 21,
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 46,
-   "title": "NZ First to abolish Accredited Employer Work Visa",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamFzRFh2T25mNTJkRWkzVXU0ZmlybjlTX1ZJVXAtYkVyUGZGWk9ndnI2eTEyWWdfYmxYRU9BMmdfR3dwSzJpTEp0Y1JGcUV1aWZWYUZqeGlNVGhWbHk2Zm5kY3BrMHNQMFZyWHd5enAtOUl2aUZCXzB1UVJRV0lKa1RDUkk?oc=5",
-   "date": "2026-10-12",
-   "source": "Indian Newslink",
-   "label": "New Zealand",
-   "snippet": "NZ First to abolish Accredited Employer Work Visa",
-   "lead": "Skilled Work Visa proposal raises questions for migrants and employers New Zealand First has placed migrant employment at the centre of the election campaign, promising to dismantle the Accredited Employer Work Visa (AEWV) system and replace it with a more restrictive arrangement designed around verified labour shortages. The proposal, announced on October 11, 2026, at a public meeting in Dunedin, could have far-reaching consequences ...",
-   "image": "https://admin.indiannewslink.co.nz/uploads/NZ_First_to_abolish_Main_Banner_5eba64db85.png",
+   "desk": "Policy",
+   "score": 5,
+   "priority": 38,
+   "title": "Ministry of Cooperation mandates new Audit Reporting Framework for Multi-State Cooperative Societies to strengthen transparency, accountability and good governance",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323313",
+   "date": "2026-10-14",
+   "source": "PIB",
+   "label": "Banking & Rates",
+   "snippet": "Guided by Prime Minister Shri Narendra Modi’s vision of ‘Sahkar se Samriddhi’ and under the leadersh",
+   "lead": "Ministry of Cooperation Ministry of Cooperation mandates new Audit Reporting Framework for Multi-State Cooperative Societies to strengthen transparency, accountability and good governance Guided by Prime Minister Shri Narendra Modi’s vision of ‘Sahkar se Samriddhi’ and under the leadership of Union Home Minister and Minister of Cooperation Shri Amit Shah, Ministry of Cooperation takes another significant step towards strengthening ...",
+   "image": null,
    "why": [
-    "Affects work visas",
-    "Announces a change"
+    "Rates and liquidity"
    ],
    "tags": [
-    "Work visa",
-    "New Zealand"
+    "Banking & Rates"
    ],
    "rank": 22,
    "must_read": false
@@ -938,19 +934,20 @@
    "desk": "Policy",
    "score": 5,
    "priority": 38,
-   "title": "National Steering Committee Approves ₹1,194.92 Crore Investment Under PM-SETU for Five ITI Clusters Across Maharashtra, Odisha and Jammu & Kashmir",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2324330",
-   "date": "2026-10-16",
-   "source": "PIB",
-   "label": "Labour & Social",
-   "snippet": "The 6th National Steering Committee (NSC) meeting of the Pradhan Mantri Skilling and Employability T",
-   "lead": "Ministry of Skill Development and Entrepreneurship National Steering Committee Approves ₹1,194.92 Crore Investment Under PM-SETU for Five ITI Clusters Across Maharashtra, Odisha and Jammu & Kashmir Tata Steel Foundation, BVG India, Belrise Industries, Eagle Infra India and Inderdeep Infra India to partner in upgrading five ITI clusters; cumulative investment approved under PM-SETU reaches ₹3,687 crore Posted On: 16 OCT 2026 3:25PM by ...",
+   "title": "Detailed Result: OMO Sale Auction held on Oct 13, 2026 and Settlement on Oct 14, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63798",
+   "date": "2026-10-13",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "",
    "image": null,
    "why": [
-    "High on the desk's ranking"
+    "Regulator: RBI",
+    "Large outlay (Rs 10,000 Cr or more)"
    ],
    "tags": [
-    "Labour & Social"
+    "Banking & Rates"
    ],
    "rank": 23,
    "must_read": false
