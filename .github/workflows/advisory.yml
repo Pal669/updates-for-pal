@@ -4,7 +4,7 @@ name: Refresh Investment Advisory desk
 # Runs every day including weekends: the news and PMS/AIF pages still move, and the numbers simply repeat the last close.
 # GitHub's scheduler can start late or skip a run, so a second run at 14:15 UTC (19:45 IST) repeats it; collectors only add what is new.
 # The Front Page (built by update.yml around 6 AM IST) picks up this desk's data.
-# Not automated here: scripts/apmi_aum.py and scripts/aif_cat3.py read PDFs and need `pip install pypdf`; run them by hand monthly.
+# scripts/apmi_aum.py and scripts/aif_cat3.py (PDF readers, need pypdf) run in monthly.yml.
 on:
   schedule:
     - cron: "0 13 * * *"

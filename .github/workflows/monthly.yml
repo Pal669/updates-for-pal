@@ -1,0 +1,50 @@
+name: Monthly PMS and AIF data
+
+# The two monthly PDF readers, which were run by hand until 2026-10-19. Now on GitHub's servers, so they need no PC.
+#   scripts/apmi_aum.py  official PMS AUM + clients by manager (APMI, compiled from SEBI's monthly report)
+#   scripts/aif_cat3.py  Category III AIF performance tables (PMS AIF World monthly newsletter)
+# Both need pypdf, so they run here and not in the standard-library-only update.yml / advisory.yml.
+# Sources publish on no fixed day (the newsletter usually early in the month), so this runs four times a month;
+# a run that finds nothing new commits nothing. 03:30 UTC = 09:00 IST.
+on:
+  schedule:
+    - cron: "30 3 3,8,14,22 * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  monthly:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TZ: Asia/Kolkata
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q pypdf
+      - name: Official PMS AUM by manager (APMI)
+        run: python scripts/apmi_aum.py
+        continue-on-error: true
+      - name: Category III AIF performance (newsletter)
+        run: python scripts/aif_cat3.py
+        continue-on-error: true
+      - name: Commit if anything changed
+        run: |
+          if [ -n "$(git status --porcelain data)" ]; then
+            git config user.name "updates-for-pal-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add data
+            git commit -m "Monthly PMS/AIF data $(date +%Y-%m-%d)"
+            git pull --rebase -X theirs || true
+            git push
+          else
+            echo "No new monthly data"
+          fi
