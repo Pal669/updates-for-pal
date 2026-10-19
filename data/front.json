@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-19",
- "built": "2026-10-19 07:18 IST",
+ "built": "2026-10-19 09:58 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23146.0,
-   "change_pct": 0.65,
-   "asof": "16 Oct 15:31 IST"
+   "value": 23072.0,
+   "change_pct": -0.32,
+   "asof": "19 Oct 09:58 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74729.0,
-   "change_pct": 0.56,
-   "asof": "16 Oct 15:32 IST"
+   "value": 74662.0,
+   "change_pct": -0.09,
+   "asof": "19 Oct 09:43 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.95,
-   "change_pct": 0.45,
-   "asof": "19 Oct 07:08 IST"
+   "value": 94.79,
+   "change_pct": 0.28,
+   "asof": "19 Oct 09:58 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 108.1,
-   "change_pct": -1.6,
-   "asof": "19 Oct 07:07 IST"
+   "value": 107.87,
+   "change_pct": -1.81,
+   "asof": "19 Oct 09:47 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4193.0,
-   "change_pct": 0.28,
-   "asof": "19 Oct 07:08 IST"
+   "value": 4198.0,
+   "change_pct": 0.4,
+   "asof": "19 Oct 09:48 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,9 +79,29 @@
  },
  "desks": {
   "Policy": {
-   "total": 207,
-   "new_today": 0,
+   "total": 208,
+   "new_today": 1,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 38,
+     "title": "Detailed Result: OMO Sale Auction held on Oct 13, 2026 and Settlement on Oct 14, 2026",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63798",
+     "date": "2026-10-13",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Regulator: RBI",
+      "Large outlay (Rs 10,000 Cr or more)"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 4,
@@ -138,36 +158,38 @@
      "tags": [
       "Banking & Rates"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 2,
-     "priority": 15,
-     "title": "Government Approves Strategic Restructuring of IDBI Bank Ltd.",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323468",
-     "date": "2026-10-14",
-     "source": "PIB",
-     "label": "Banking & Rates",
-     "snippet": "IDBI Bank Ltd. is a scheduled commercial bank regulated by the Reserve Bank of India (RBI). Due to i",
-     "lead": "Cabinet Government Approves Strategic Restructuring of IDBI Bank Ltd. Posted On: 14 OCT 2026 6:30PM by PIB Delhi IDBI Bank Ltd. is a scheduled commercial bank regulated by the Reserve Bank of India (RBI). Due to its poor financial health, the Bank required repeated infusion of capital, initially provided by the Government of India and later by the LIC. On 5th May, 2017, the Reserve Bank of India (RBI) put the IDBI Bank under the Prompt ...",
-     "image": null,
-     "why": [
-      "Cabinet"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 754,
-   "new_today": 2,
+   "total": 757,
+   "new_today": 5,
    "items": [
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 90,
+     "priority": 75,
+     "title": "Decoding Urban Company’s ₹2,500 Cr Fundraise Proposal",
+     "url": "https://inc42.com/buzz/decoding-urban-companys-%e2%82%b92500-cr-fundraise-proposal/",
+     "date": "2026-10-17",
+     "source": "Inc42",
+     "label": "India · Policy & Regulation",
+     "snippet": "The proposed ₹2,500 Cr fundraise bolsters Urban Company's balance sheet and provides it with strategic flexibility.",
+     "lead": "The proposed ₹2,500 Cr fundraise bolsters Urban Company's balance sheet and provides it with strategic flexibility, said CEO Abhiraj Singh Bhal The company will deploy the capital towards growth investments, such as acquisitions that consolidate its position in an existing market or enter a new category It is also looking to expand into a new category by making residential air conditioners under its consumer appliances brand Native",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/Urban-company-social-1.jpg",
+     "why": [
+      "Funding",
+      "Large deal (about $263M)"
+     ],
+     "tags": [
+      "Funding",
+      "Policy & Regulation"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 75,
      "title": "Burma Burma Parent Files DRHP For IPO With ₹150 Cr Fresh Issue",
      "url": "https://inc42.com/buzz/burma-burma-parent-files-drhp-for-ipo-with-%e2%82%b9150-cr-fresh-issue/",
      "date": "2026-10-17",
@@ -188,7 +210,7 @@
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 90,
+     "priority": 75,
      "title": "From Boldfit To Origin — Indian Startups Raised About $236 Mn This Week",
      "url": "https://inc42.com/buzz/from-boldfit-to-origin-indian-startups-raised-about-236-mn-this-week/",
      "date": "2026-10-17",
@@ -208,7 +230,7 @@
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 90,
+     "priority": 75,
      "title": "Cult.fit Gets SEBI Clearance For ₹950 Cr+ IPO",
      "url": "https://inc42.com/buzz/cult-fit-gets-sebi-clearance-for-%e2%82%b9950-cr-ipo/",
      "date": "2026-10-16",
@@ -225,31 +247,11 @@
       "IPO & Listing",
       "Policy & Regulation"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 90,
-     "title": "CoreWeave's CEO sold nearly $1 billion of stock since IPO, filings show",
-     "url": "https://economictimes.indiatimes.com/tech/technology/coreweaves-ceo-sold-nearly-1-billion-of-stock-since-ipo-filings-show/articleshow/134999795.cms",
-     "date": "2026-10-16",
-     "source": "ET Startups",
-     "label": "Global · Other",
-     "snippet": "The sales began about two months after the stock hit a record high in June 2025. The shares have tumbled since and were on track to lose about 24% this week as investors worried about the Nvidia-backed company's heavy capital spending and the debt needed to fund it amid rising bets on interest-rate hikes.",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1128508,resizemode-75,msid-134999795/tech/technology/coreweaves-ceo-sold-nearly-1-billion-of-stock-since-ipo-filings-show.jpg",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $1,000M: round or valuation)"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 1098,
+   "total": 1099,
    "new_today": 1,
    "items": [
     {
@@ -427,6 +429,29 @@
  },
  "items": [
   {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 100,
+   "title": "UC Eyes More Capital, Burma Burma’s IPO & More",
+   "url": "https://inc42.com/buzz/uc-eyes-more-capital-burma-burmas-ipo-more/",
+   "date": "2026-10-19",
+   "source": "Inc42",
+   "label": "India · Policy & Regulation",
+   "snippet": "Urban Company is raising ₹2,500 Cr as it chases profitability, eyes new businesses and fights a costly battle for home services supremacy.",
+   "lead": "A Bigger War Chest: Urban Company’s board has approved a proposal to raise up to ₹2,500 Cr through equity or convertible securities. While it is yet to decide on the route for the fundraise, the management believes that the proceeds would absorb short-term operational burn without constraining internal cash flows. The ₹2,500 Cr Buffer: While the company maintains that it can reach EBITDA breakeven by FY28 without fresh capital, the ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Social-Daily-Brief-30.png",
+   "why": [
+    "IPO & Listing",
+    "Large deal (about $263M)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Policy & Regulation"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
    "desk": "Immigration",
    "score": 11,
    "priority": 100,
@@ -447,77 +472,7 @@
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 1,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 100,
-   "title": "[Update] Zetwerk IPO Subscribed 31% On Day 2, QIB Portion At 37%",
-   "url": "https://inc42.com/buzz/zetwerk-ipo-subscribed-27-on-day-2-so-far-qib-retail-portions-booked-32-each/",
-   "date": "2026-10-16",
-   "source": "Inc42",
-   "label": "India · SaaS & Enterprise",
-   "snippet": "Zetwerk’s ₹5,012.3 Cr IPO was subscribed 31% at the end of the day 2, receiving bids for 5.75 Cr shares against 18.51 Cr shares on offer",
-   "lead": "Demand remained subdued, with none of the investor categories fully subscribing to their allocations after two days of bidding. The IPO comprises a fresh issue of ₹2,830 Cr and an OFS of up to 14.45 Cr shares, worth ₹2,182.3 Cr at the upper end of the ₹143-₹151 price band. Meanwhile, employees bid for 2.95 Lakh shares against 7 Lakh shares reserved for them, subscribing to 42% of their quota.",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Zetwerk-IPO-social.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $528M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "SaaS & Enterprise"
-   ],
    "rank": 2,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 100,
-   "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
-   "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
-   "date": "2026-10-15",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
-   "lead": "Ramp reaches $60B valuation as it pushes deeper into AI Ram Iyer 7:47 AM PDT · October 15, 2026 Expense management company Ramp said on Thursday that it had raised $1.85 billion in a new funding round that values it at $60 billion, just four months after raising $750 million at a $44 billion valuation . The financing was co-led by Dragoneer Investment Group, Thrive Capital, Founders Fund, Sands Capital, and Avenir Growth. Ramp said its ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/eric-glyman.jpg?resize=1200,801",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $60,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 3,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 100,
-   "title": "Jio’s $3.2 bn IPO: What its filing reveals about debt, growth and risks",
-   "url": "https://www.medianama.com/2026/10/223-jio-ipo-filing-debt-growth-risks/",
-   "date": "2026-10-15",
-   "source": "MediaNama",
-   "label": "India · Fintech",
-   "snippet": "Jio Platforms, the digital arm of Reliance Industries will raise $3.2 billion via an IPO with the issue of 270 million new shares.",
-   "lead": "Jio Platforms, the digital arm of Mukesh Ambani’s Reliance Industries, plans to raise up to $3.2 billion through an initial public offering (IPO). If successful, it will be India’s largest IPO to date. The offering could value the company at up to $108.3 billion. In a stock exchange filing on October 14, Reliance said Jio had set the share price between Rs 1,065 and Rs 1,119. The company plans to issue up to 270 million new shares. At ...",
-   "image": "https://www.medianama.com/wp-content/uploads/2024/07/Reliance-Jio.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $3,200M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Fintech"
-   ],
-   "rank": 4,
    "must_read": true
   },
   {
@@ -541,7 +496,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 5,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -564,53 +519,8 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 100,
-   "title": "TechSparks 2026 is here; Zetwerk targets Rs 5,012 Cr IPO",
-   "url": "https://yourstory.com/2026/10/techsparks-2026-is-here-zetwerks-ipo",
-   "date": "2026-10-13",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "Under this year’s rallying cry, ‘The New Tech Order,’ YourStory’s 17th edition is bringing together 10,000+ visionaries, 500 speakers, 1,000 startups, and 300 investors. We aren't just discussing the future of AI, deep tech, and digital infrastructure—we're asking: who gets to build it, and how fast",
-   "lead": "TechSparks 2026 is here; Zetwerk targets Rs 5,012 Cr IPO Under this year’s rallying cry, ‘The New Tech Order,’ YourStory’s 17th edition is bringing together 10,000+ visionaries, 500 speakers, 1,000 startups, and 300 investors. We aren't just discussing the future of AI, deep tech, and digital infrastructure—we're asking: who gets to build it, and how fast Team YS 17343 Stories Tuesday October 13, 2026 , 4 min Read India’s tech capital ...",
-   "image": "https://images.yourstory.com/cs/2/47afd43024ec11ec9ecb9b7afb0df1da/TSBookendsDay1Opener-1791824462509.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $528M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "AI & Deeptech"
-   ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 100,
-   "title": "Zetwerk sets IPO price band at Rs 143-151, aims to raise Rs 5,012 Cr",
-   "url": "https://yourstory.com/2026/10/zetwer-sets-ipo-price-band-rs-143-151-to-raise-rs-5012-cr",
-   "date": "2026-10-12",
-   "source": "YourStory",
-   "label": "India · Other",
-   "snippet": "Zetwerk has expanded the size of its IPO and is seeking a valuation of Rs 25,583 crore.",
-   "lead": "Zetwerk sets IPO price band at Rs 143-151, aims to raise Rs 5,012 Cr Zetwerk has expanded the size of its IPO and is seeking a valuation of Rs 25,583 crore. Team YS 17339 Stories Monday October 12, 2026 , 2 min Read Zetwerk, the Bengaluru-headquartered manufacturing marketplace, has set a price band of Rs 143–151 per share for its initial public offering (IPO), targeting a valuation of Rs 25,583 crore. The IPO comprises a fresh issue ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/IPOStock31600x900-1791787437744.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $528M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 8,
-   "must_read": false
+   "rank": 4,
+   "must_read": true
   },
   {
    "desk": "Immigration",
@@ -633,31 +543,8 @@
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 9,
-   "priority": 90,
-   "title": "Decoding Urban Company’s ₹2,500 Cr Fundraise Proposal",
-   "url": "https://inc42.com/buzz/decoding-urban-companys-%e2%82%b92500-cr-fundraise-proposal/",
-   "date": "2026-10-17",
-   "source": "Inc42",
-   "label": "India · Policy & Regulation",
-   "snippet": "The proposed ₹2,500 Cr fundraise bolsters Urban Company's balance sheet and provides it with strategic flexibility.",
-   "lead": "The proposed ₹2,500 Cr fundraise bolsters Urban Company's balance sheet and provides it with strategic flexibility, said CEO Abhiraj Singh Bhal The company will deploy the capital towards growth investments, such as acquisitions that consolidate its position in an existing market or enter a new category It is also looking to expand into a new category by making residential air conditioners under its consumer appliances brand Native",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/Urban-company-social-1.jpg",
-   "why": [
-    "Funding",
-    "Large deal (about $263M)"
-   ],
-   "tags": [
-    "Funding",
-    "Policy & Regulation"
-   ],
-   "rank": 10,
-   "must_read": false
+   "rank": 5,
+   "must_read": true
   },
   {
    "desk": "Policy",
@@ -678,7 +565,7 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 11,
+   "rank": 6,
    "must_read": false
   },
   {
@@ -701,7 +588,7 @@
     "Regulatory",
     "Telecom & Media"
    ],
-   "rank": 12,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -724,7 +611,7 @@
     "Mutual Funds",
     "Banks & Financials"
    ],
-   "rank": 13,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -746,7 +633,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 14,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -769,7 +656,144 @@
    "tags": [
     "AIF"
    ],
+   "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 83,
+   "title": "[Update] Zetwerk IPO Subscribed 31% On Day 2, QIB Portion At 37%",
+   "url": "https://inc42.com/buzz/zetwerk-ipo-subscribed-27-on-day-2-so-far-qib-retail-portions-booked-32-each/",
+   "date": "2026-10-16",
+   "source": "Inc42",
+   "label": "India · SaaS & Enterprise",
+   "snippet": "Zetwerk’s ₹5,012.3 Cr IPO was subscribed 31% at the end of the day 2, receiving bids for 5.75 Cr shares against 18.51 Cr shares on offer",
+   "lead": "Demand remained subdued, with none of the investor categories fully subscribing to their allocations after two days of bidding. The IPO comprises a fresh issue of ₹2,830 Cr and an OFS of up to 14.45 Cr shares, worth ₹2,182.3 Cr at the upper end of the ₹143-₹151 price band. Meanwhile, employees bid for 2.95 Lakh shares against 7 Lakh shares reserved for them, subscribing to 42% of their quota.",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Zetwerk-IPO-social.jpg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $528M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "SaaS & Enterprise"
+   ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 83,
+   "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+   "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+   "date": "2026-10-15",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
+   "lead": "Ramp reaches $60B valuation as it pushes deeper into AI Ram Iyer 7:47 AM PDT · October 15, 2026 Expense management company Ramp said on Thursday that it had raised $1.85 billion in a new funding round that values it at $60 billion, just four months after raising $750 million at a $44 billion valuation . The financing was co-led by Dragoneer Investment Group, Thrive Capital, Founders Fund, Sands Capital, and Avenir Growth. Ramp said its ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/eric-glyman.jpg?resize=1200,801",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $60,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 83,
+   "title": "Jio’s $3.2 bn IPO: What its filing reveals about debt, growth and risks",
+   "url": "https://www.medianama.com/2026/10/223-jio-ipo-filing-debt-growth-risks/",
+   "date": "2026-10-15",
+   "source": "MediaNama",
+   "label": "India · Fintech",
+   "snippet": "Jio Platforms, the digital arm of Reliance Industries will raise $3.2 billion via an IPO with the issue of 270 million new shares.",
+   "lead": "Jio Platforms, the digital arm of Mukesh Ambani’s Reliance Industries, plans to raise up to $3.2 billion through an initial public offering (IPO). If successful, it will be India’s largest IPO to date. The offering could value the company at up to $108.3 billion. In a stock exchange filing on October 14, Reliance said Jio had set the share price between Rs 1,065 and Rs 1,119. The company plans to issue up to 270 million new shares. At ...",
+   "image": "https://www.medianama.com/wp-content/uploads/2024/07/Reliance-Jio.jpg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $3,200M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Fintech"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 83,
+   "title": "TechSparks 2026 is here; Zetwerk targets Rs 5,012 Cr IPO",
+   "url": "https://yourstory.com/2026/10/techsparks-2026-is-here-zetwerks-ipo",
+   "date": "2026-10-13",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "Under this year’s rallying cry, ‘The New Tech Order,’ YourStory’s 17th edition is bringing together 10,000+ visionaries, 500 speakers, 1,000 startups, and 300 investors. We aren't just discussing the future of AI, deep tech, and digital infrastructure—we're asking: who gets to build it, and how fast",
+   "lead": "TechSparks 2026 is here; Zetwerk targets Rs 5,012 Cr IPO Under this year’s rallying cry, ‘The New Tech Order,’ YourStory’s 17th edition is bringing together 10,000+ visionaries, 500 speakers, 1,000 startups, and 300 investors. We aren't just discussing the future of AI, deep tech, and digital infrastructure—we're asking: who gets to build it, and how fast Team YS 17343 Stories Tuesday October 13, 2026 , 4 min Read India’s tech capital ...",
+   "image": "https://images.yourstory.com/cs/2/47afd43024ec11ec9ecb9b7afb0df1da/TSBookendsDay1Opener-1791824462509.jpg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $528M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "AI & Deeptech"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 83,
+   "title": "Zetwerk sets IPO price band at Rs 143-151, aims to raise Rs 5,012 Cr",
+   "url": "https://yourstory.com/2026/10/zetwer-sets-ipo-price-band-rs-143-151-to-raise-rs-5012-cr",
+   "date": "2026-10-12",
+   "source": "YourStory",
+   "label": "India · Other",
+   "snippet": "Zetwerk has expanded the size of its IPO and is seeking a valuation of Rs 25,583 crore.",
+   "lead": "Zetwerk sets IPO price band at Rs 143-151, aims to raise Rs 5,012 Cr Zetwerk has expanded the size of its IPO and is seeking a valuation of Rs 25,583 crore. Team YS 17339 Stories Monday October 12, 2026 , 2 min Read Zetwerk, the Bengaluru-headquartered manufacturing marketplace, has set a price band of Rs 143–151 per share for its initial public offering (IPO), targeting a valuation of Rs 25,583 crore. The IPO comprises a fresh issue ...",
+   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/IPOStock31600x900-1791787437744.jpg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $528M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
    "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 77,
+   "title": "RBI to conduct 7-day Variable Rate Repo (VRR) auction under LAF on October 19, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63823",
+   "date": "2026-10-19",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Monday, October 19, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "image": null,
+   "why": [
+    "Rates and liquidity",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 16,
    "must_read": false
   },
   {
@@ -791,7 +815,7 @@
    "tags": [
     "Markets & Regulation"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -813,7 +837,7 @@
     "PR / Settlement",
     "Norway"
    ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -836,7 +860,7 @@
     "Salary threshold",
     "Denmark"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -859,7 +883,7 @@
     "Work visa",
     "New Zealand"
    ],
-   "rank": 19,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -881,7 +905,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 20,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -903,7 +927,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 21,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -920,28 +944,6 @@
    "image": null,
    "why": [
     "Rates and liquidity"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 5,
-   "priority": 38,
-   "title": "Detailed Result: OMO Sale Auction held on Oct 13, 2026 and Settlement on Oct 14, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63798",
-   "date": "2026-10-13",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Regulator: RBI",
-    "Large outlay (Rs 10,000 Cr or more)"
    ],
    "tags": [
     "Banking & Rates"
