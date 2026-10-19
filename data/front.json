@@ -1,6 +1,6 @@
 {
- "edition": "2026-10-19",
- "built": "2026-10-19 22:43 IST",
+ "edition": "2026-10-20",
+ "built": "2026-10-20 02:47 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,115 +12,76 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22889.0,
-   "change_pct": -1.11,
+   "value": 23146.0,
+   "change_pct": 0.65,
    "asof": "19 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73853.0,
-   "change_pct": -1.17,
+   "value": 74729.0,
+   "change_pct": 0.56,
    "asof": "19 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
    "value": 94.92,
-   "change_pct": 0.41,
-   "asof": "19 Oct 22:36 IST"
+   "change_pct": -0.07,
+   "asof": "20 Oct 02:35 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 110.03,
-   "change_pct": 0.15,
-   "asof": "19 Oct 22:33 IST"
+   "value": 109.21,
+   "change_pct": -0.59,
+   "asof": "20 Oct 02:29 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4158.0,
-   "change_pct": -0.55,
-   "asof": "19 Oct 22:33 IST"
+   "value": 4160.0,
+   "change_pct": -0.5,
+   "asof": "20 Oct 02:29 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
    "value": 5.14,
-   "change_pct": 0.9,
-   "asof": "19 Oct 22:28 IST"
+   "change_pct": 0.75,
+   "asof": "20 Oct 00:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "Kissht",
-   "tagline": "Listed digital lender (NBFC)",
-   "what": "Lending-tech platform founded in 2015 by Ranvir Singh and Krishnan Vishwanathan. Offers digital personal and business loans up to Rs 5 lakh, health-related insurance products and secured loans against property. Got regulatory approval in July 2026 to distribute mutual funds through subsidiary Invincible Minds.",
+   "company": "Kuku Technologies (Kuku FM)",
+   "tagline": "Audio and microdrama OTT, IPO cleared by SEBI",
+   "what": "Founded in 2018 by Lal Chand Bisu, Vikas Goyal and Vinod Meena. Offers audiobooks, podcasts and original audio shows under Kuku FM, plus microdrama platform Kuku TV and microlearning platform Guru. Content library of 20,000+ titles in seven languages; it claims 1 Cr+ listeners and creators and 400 Mn app downloads across its portfolio.",
    "how": [
-    "The article does not give a revenue split.",
-    "Inferred, not from the article: as an NBFC, its core income is interest and fees on the loans it makes; insurance and mutual fund distribution would add commissions."
+    "The article does not explain the revenue model.",
+    "Not stated: whether income comes from subscriptions, pay-per-content or ads. Check the DRHP when it becomes public."
    ],
-   "watch": "The company did not say how it will use the money. Fresh capital for a lender usually funds loan growth, but that is inference.",
-   "sector": "Fintech",
+   "watch": "Fresh-issue money is planned for tech, AI infrastructure, content production and geographic expansion. Competitors named: Pocket FM, Flick TV, ReelSaga, Miniplix and OTT majors (Amazon, JioHotstar, Zee5).",
+   "sector": "Media, Gaming & Creators",
    "region": "India",
-   "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/"
+   "url": "https://inc42.com/buzz/sebi-greenlights-kuku-technologies-%e2%82%b93500-cr-ipo/"
   },
   "country": {
-   "id": "luxembourg",
-   "name": "Luxembourg",
-   "trend": "Stable",
-   "pr": "Blue Card time counts toward long-term residence: reported PR after 2 years for Blue Card holders versus 5 years for standard work permits. One source reports A2 spoken and B1 listening Luxembourgish for PR; verify on guichet.lu.",
-   "citizenship": "5 years of legal residence, a Luxembourgish language test at B1 spoken and listening, and a 'Living Together' course or exam. A Blue Card holder's fastest total is reported as about 7 years from arrival.",
-   "pro": "Very high salaries and a fund-industry centre closely matched to your career (general knowledge).",
-   "con": "Very small country (about 0.66 million people, general knowledge): this touches your logged size criterion. It was on your 38-country watch list but not yet decided.",
-   "watch": "Blue Card threshold indexation"
+   "id": "iceland",
+   "name": "Iceland",
+   "trend": "Stable (not verified in detail)",
+   "pr": "Permanent residence generally after 4 years of continuous residence; often requires completing an Icelandic language course. An expedited route exists for doctorate holders with 3 years of expert-work permits.",
+   "citizenship": "Reported timeline of about 7 years; needs PR and the official Icelandic language test. Verify with the Directorate of Immigration.",
+   "pro": "High living standards, safety and equality (general knowledge).",
+   "con": "Tiny population (about 0.38 million, general knowledge): touches your size criterion.",
+   "watch": "Any 2026 Aliens Act amendments (not checked)"
   }
  },
  "desks": {
   "Policy": {
    "total": 219,
-   "new_today": 8,
+   "new_today": 0,
    "items": [
-    {
-     "desk": "Policy",
-     "score": 6,
-     "priority": 46,
-     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63803",
-     "date": "2026-10-14",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "",
-     "image": null,
-     "why": [
-      "New law or act",
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 5,
-     "priority": 38,
-     "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Konark Urban Co-operative Bank Ltd., Ulhasnagar – Extension of Period",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63831",
-     "date": "2026-10-19",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "The Reserve Bank of India issued Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 to The Konark Urban Co-operative Bank Ltd., Ulhasnagar vide Directive No. CO.DOS.SED.No.S592/45-11-001/2024-25 dated April 23, 2024 for a period of six months up to close of business on October 23, 2024, which was last extended up to close of business on October 23, 2026 vide Directive No. ...",
-     "image": null,
-     "why": [
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
     {
      "desk": "Policy",
      "score": 5,
@@ -159,74 +120,112 @@
      "tags": [
       "Banking & Rates"
      ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 38,
+     "title": "Detailed Result: OMO Sale Auction held on Oct 13, 2026 and Settlement on Oct 14, 2026",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63798",
+     "date": "2026-10-13",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Regulator: RBI",
+      "Large outlay (Rs 10,000 Cr or more)"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 4,
+     "priority": 31,
+     "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Konark Urban Co-operative Bank Ltd., Ulhasnagar – Extension of Period",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63831",
+     "date": "2026-10-19",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "The Reserve Bank of India issued Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 to The Konark Urban Co-operative Bank Ltd., Ulhasnagar vide Directive No. CO.DOS.SED.No.S592/45-11-001/2024-25 dated April 23, 2024 for a period of six months up to close of business on October 23, 2024, which was last extended up to close of business on October 23, 2026 vide Directive No. ...",
+     "image": null,
+     "why": [
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
     }
    ]
   },
   "Startups": {
-   "total": 776,
-   "new_today": 24,
+   "total": 781,
+   "new_today": 2,
    "items": [
     {
      "desk": "Startups",
      "score": 10,
      "priority": 77,
-     "title": "Even Healthcare Raises $50 Mn To Expand Hospital Network Across Bengaluru",
-     "url": "https://inc42.com/buzz/even-healthcare-raises-50-mn-to-expand-hospital-network-across-bengaluru/",
+     "title": "[Update] Tonbo Imaging IPO Closes With 135.9X Oversubscription",
+     "url": "https://inc42.com/buzz/tonbo-imaging-ipo-oversubscribed-40x-on-day-3-till-now/",
      "date": "2026-10-19",
      "source": "Inc42",
-     "label": "India · Health & Wellness",
-     "snippet": "Even will use the proceeds primarily to expand its hospital network in Bengaluru",
-     "lead": "Even Healthcare has raised $50 Mn in a Series B round led by existing investor Khosla Ventures, with participation from Alpha Wave The funding will support the managed care startup’s hospital expansion in Bengaluru as it scales back its insurance business Even plans to add four hospitals by the end of FY27 to its existing network of two facilities before expanding to other cities",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Evenhealth-care-ft.png",
+     "label": "India · Other",
+     "snippet": "Tonbo Imaging’s IPO has been oversubscribed 40.82X on the third day of bidding till now. Till 13:23 IST, investors have placed bids for 34.80 Cr shares",
+     "lead": "Tonbo Imaging’s ₹852 Cr IPO closed with an oversubscription of 135.9X on the third and final day of bidding. The ₹852.1 Cr IPO comprises entirely an offer for sale (OFS) of up to 1.2 Cr shares, with no fresh issue component Investors placed bids for 115.87 Cr shares against the 85.26 Lakh shares on offer, with qualified institutional buyers (QIBs) leading the charge",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Tonbo-Soc-1.jpg",
      "why": [
-      "Funding",
-      "Sizeable deal (about $50M)"
+      "IPO & Listing",
+      "Sizeable deal (about $90M)"
      ],
      "tags": [
-      "Funding",
-      "Health & Wellness"
+      "IPO & Listing"
      ]
     },
     {
      "desk": "Startups",
      "score": 10,
      "priority": 77,
-     "title": "Even Healthcare raises $50M in Series B round led by Khosla Ventures",
-     "url": "https://yourstory.com/2026/10/even-healthcare-raises-50m-in-series-b-round-led-by-khosla-ventures",
+     "title": "Urban Company Slumps 9.5% After Q2 Loss Widens, Board Clears ₹2,500 Cr Fundraise",
+     "url": "https://inc42.com/buzz/urban-company-slumps-9-5-after-q2-loss-widens-board-clears-%e2%82%b92500-cr-fundraise/",
      "date": "2026-10-19",
-     "source": "YourStory",
-     "label": "India · Health & Wellness",
-     "snippet": "The Bengaluru-based managed care company plans five new hospitals in six months.",
-     "lead": "Even Healthcare raises $50M in Series B round led by Khosla Ventures The Bengaluru-based managed care company plans five new hospitals in six months. Team YS 17388 Stories Monday October 19, 2026 , 3 min Read Bengaluru-based managed care company Even Healthcare has raised $50 million in a Series B round led by existing investor Khosla Ventures. Alpha Wave also participated in the round. According to the company, the round values it at ...",
-     "image": "https://images.yourstory.com/cs/2/f4c8dc30b73511f197be7d10bec6c83f/CopyofNewPPTTemplates4-1792390613985.jpg",
+     "source": "Inc42",
+     "label": "India · Policy & Regulation",
+     "snippet": "Urban Company shares slumped 9.5% to ₹143.30 on the BSE after its Q2 FY27 loss widened and the board approved a fundraise of up to ₹2,500 Cr",
+     "lead": "Urban Company shares slumped 9.5% to ₹143.30 on the BSE after its Q2 FY27 loss widened and the board approved a fundraise of up to ₹2,500 Cr InstaHelp’s losses have constrained the company’s financial flexibility as it pursues growth opportunities, including Native’s planned entry into residential air conditioners Net loss widened to ₹182.5 Cr from ₹59.3 Cr a year earlier, while operating revenue rose 41% YoY to ₹537.3 Cr.",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/urban-company-ipo-2.jpg",
      "why": [
       "Funding",
-      "Sizeable deal (about $50M)"
+      "Large deal (about $263M)"
      ],
      "tags": [
       "Funding",
-      "Health & Wellness"
+      "Policy & Regulation"
      ]
     },
     {
      "desk": "Startups",
      "score": 10,
      "priority": 77,
-     "title": "Flipkart-backed Super.money’s FY26 revenue triples to Rs 292 crore but loss widens 78%",
-     "url": "https://economictimes.indiatimes.com/tech/technology/flipkart-backed-super-moneys-fy26-revenue-triples-to-rs-292-crore-but-loss-widens-78/articleshow/135044276.cms",
+     "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+     "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
      "date": "2026-10-19",
-     "source": "ET Startups",
-     "label": "India · Fintech",
-     "snippet": "Consumer-facing UPI apps such as Super.money spend heavily on marketing to acquire customers before monetising them through credit and commerce. The company’s total income rose to Rs 293.3 crore from Rs 94 crore in FY25, while expenses more than doubled to Rs 557.1 crore, filings with the Ministry of Corporate Affairs (MCA) showed.",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-337786,resizemode-75,msid-135044276/tech/technology/flipkart-backed-super-moneys-fy26-revenue-triples-to-rs-292-crore-but-loss-widens-78.jpg",
+     "source": "TechCrunch",
+     "label": "India · Health & Wellness",
+     "snippet": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+     "lead": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics Jagmeet Singh 12:30 AM PDT · October 19, 2026 Even Healthcare has raised $50 million in a funding round led by Khosla Ventures, as the Indian startup seeks to change how hospitals in the world’s most populous country make money and how doctors are rewarded. The all-equity Series B round also saw participation from Alpha Wave and valued it at $300 ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/10/even-hospital.jpg?resize=1200,800",
      "why": [
       "Funding",
-      "Sizeable deal (about $31M)"
+      "Large deal (about $300M)"
      ],
      "tags": [
       "Funding",
-      "Fintech"
+      "Health & Wellness"
      ]
     },
     {
@@ -253,80 +252,41 @@
    ]
   },
   "Immigration": {
-   "total": 1116,
-   "new_today": 12,
+   "total": 1118,
+   "new_today": 1,
    "items": [
     {
      "desk": "Immigration",
-     "score": 6,
-     "priority": 55,
-     "title": "NZ First to abolish Accredited Employer Work Visa",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamFzRFh2T25mNTJkRWkzVXU0ZmlybjlTX1ZJVXAtYkVyUGZGWk9ndnI2eTEyWWdfYmxYRU9BMmdfR3dwSzJpTEp0Y1JGcUV1aWZWYUZqeGlNVGhWbHk2Zm5kY3BrMHNQMFZyWHd5enAtOUl2aUZCXzB1UVJRV0lKa1RDUkk?oc=5",
-     "date": "2026-10-12",
-     "source": "Indian Newslink",
-     "label": "New Zealand",
-     "snippet": "NZ First to abolish Accredited Employer Work Visa",
-     "lead": "Skilled Work Visa proposal raises questions for migrants and employers New Zealand First has placed migrant employment at the centre of the election campaign, promising to dismantle the Accredited Employer Work Visa (AEWV) system and replace it with a more restrictive arrangement designed around verified labour shortages. The proposal, announced on October 11, 2026, at a public meeting in Dunedin, could have far-reaching consequences ...",
-     "image": "https://admin.indiannewslink.co.nz/uploads/NZ_First_to_abolish_Main_Banner_5eba64db85.png",
-     "why": [
-      "Affects work visas",
-      "Announces a change"
-     ],
-     "tags": [
-      "Work visa",
-      "New Zealand"
-     ]
-    },
-    {
-     "desk": "Immigration",
      "score": 5,
-     "priority": 45,
-     "title": "Sweden Visa From Bangladesh: Dhaka Embassy No Longer Decides Applications",
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCdk5mZ3pVQjlXZFFocVVxZW1pQ2xCejR6MUdKZHpwOU9lNmpRNVNDN2FpMU4wMlc1SjZ0cU5XMXlJLWJuRkE3ajNsWEJmZzN3RDdNZVZBVHItSWFaS2gxMDRoY18?oc=5",
-     "date": "2026-10-19",
-     "source": "Wego Travel Blog",
-     "label": "Sweden",
-     "snippet": "Bangladeshi travelers seeking a Schengen visa for Sweden now face a change in who reviews their applications. Since October 15, 2026, the Swedish Migration Agency has made all decisions on Schengen visa applications submitted in Bangladesh, replacing the Embassy of Sweden in Dhaka, the embassy announced. How to Apply Applicants should con",
-     "lead": "Where Fly Cham flies from Damascus and Aleppo, what Economy and Business include, baggage allowances, fees and how to reach the airline.",
-     "image": "https://blog.wego.com/wp-content/uploads/stockholm-riddarholmen-waterfront.jpg",
-     "why": [
-      "Announces a change"
-     ],
-     "tags": [
-      "Sweden"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 45,
-     "title": "Czech minister Macinka rejects Finnish EU visa ban for Russians",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQnAyV1NINjk0MEJoaUVodkQ0bnh2ZjVXQWZ5RG41QmZSbThQT1RLT19ZODdYRWw3cnhoYUhYRklZM3paRFJMTzJSVy1QejMtUzRDWURwRWlMazRRS21yTHoxT0phcmJxX05LaFNhZm1scFJUZjVIcVdRRGpHcnNTZ0liVDF3MVFuYXFlWWU1aFVtR1FYMnNWXzdBZksxdGRXOUE?oc=5",
-     "date": "2026-10-19",
-     "source": "Around Prague",
-     "label": "Finland",
-     "snippet": "",
-     "lead": "",
+     "priority": 50,
+     "title": "Portugal has limited immigration, and Spain may follow | World News",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb0RwdWdUejBZUnBjOU1WRjdiZHA5S2IzOHlZcjRPVEpDMEFGeVZhWmRPWlJhbW9seVJ5WnhsU1lGOUZDa2pPd2xBcHFsRkh1ZkhWeTdOZmp6UUVnY3JReFBKWFhoVUFzRFFXLU9uaXJLMGIwWVJOZGM2UXE2dnNQSFB0WGxZZmo2N1ByZnhpWVd0dmhrTzdJLXhVdmFXUHhuc1RTdXNUT0hmYmFpSDFreXlsYzJES25tdlc4dNIBvAFBVV95cUxOb0RwdWdUejBZUnBjOU1WRjdiZHA5S2IzOHlZcjRPVEpDMEFGeVZhWmRPWlJhbW9seVJ5WnhsU1lGOUZDa2pPd2xBcHFsRkh1ZkhWeTdOZmp6UUVnY3JReFBKWFhoVUFzRFFXLU9uaXJLMGIwWVJOZGM2UXE2dnNQSFB0WGxZZmo2N1ByZnhpWVd0dmhrTzdJLXhVdmFXUHhuc1RTdXNUT0hmYmFpSDFreXlsYzJES25tdlc4dA?oc=5",
+     "date": "2026-10-16",
+     "source": "Hindustan Times",
+     "label": "Spain",
+     "snippet": "The wave of immigrants in both countries looks politically unsustainable",
+     "lead": "Nestled beneath Lisbon’s former Moorish quarter, the Rua do Benformoso is a winding street of decaying buildings faced with azulejos (decorative tiles). It is lined with Indian food shops and stores selling hookah pipes and mobile phones. Piedade, a Portuguese woman who has lived here for over 60 years, dislikes what has happened to it. “There’s drugs and crime,” she says. “I stay inside at home.” The Rua do Benformoso has become the ...",
      "image": null,
      "why": [
-      "Announces a change"
+      "Quota or cap change"
      ],
      "tags": [
-      "Finland"
+      "Quota / Caps",
+      "Spain"
      ]
     },
     {
      "desk": "Immigration",
      "score": 5,
-     "priority": 45,
-     "title": "Japanese businesses secure regulatory support and work permit assurances during talks with Egyptian labour ministry",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPT3hnSTFSZjNmeks1d29FaGFjdjREMXJjYzNyY3FQT3dGU2loX1JxekVxd3Q1cC1IU1BlUVE4TnBNMFllZXkxdlF3dGVhZFdMOEYxMDFsVGZ5V0h0WkFLQUJaQjd5NWs5OUduLW9PX25mZTRLY01DMkx1dnRib0ctc2Z2Z1o5dHYtZzduNjNHZzY4NEZVWENLcnR6ekh1a285ck12X01RTTBBakFTSWlLQXJTek5ObTRfbmVMMmdyZVM4Y3ZGS0JDZjljTTZUeVdkLUZKQ2R6QUhIQ0k3OHlkV2lYaWVKRmtINjFiTDNpaw?oc=5",
-     "date": "2026-10-18",
-     "source": "Daily News Egypt",
+     "priority": 50,
+     "title": "Japan's rural restaurants go hungry in fight for foreign talent",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUGc2REtOVjZkSXVWbzJlQmZsOU9ENW5xUjBUUzh0SWFkU19KZEpfTGlRTERWVTYyb2xCalo0eVF3dEt5VzNaZWtqYnhhd1lGTGZqdkl0NkRYV3pTRW9sZnlpbjNLaHlabTFieUVUUm9UQlV4Rko4SnRxb0JmN1RtVDdRNGdsT3NXcW56SHN1T2RXaHVBZkd0VGp4LVFLanFVb3dBeXM2TXJ2SWJCdjhpT1c3Z3JIUQ?oc=5",
+     "date": "2026-10-15",
+     "source": "Nikkei Asia",
      "label": "Japan",
-     "snippet": "Egypt's Ministry of Labor has launched an \"Investor Facilitation Unit\" to streamline regulatory procedures, with Minister Hassan Radad pledging on Sunday to resolve challenges regard…",
-     "lead": "Egypt’s Ministry of Labor has launched an “Investor Facilitation Unit” to streamline regulatory procedures, with Minister Hassan Radad pledging on Sunday to resolve challenges regarding foreign work permits to encourage the expansion of Japanese businesses in the domestic market. Radad announced the measure during a meeting at the ministry’s headquarters in the New Administrative Capital with representatives of Japanese companies ...",
-     "image": "https://images.dailynewsegypt.com/2026/10/855970080_1641723694159533_966369933530307082_n.png.jpeg",
+     "snippet": "More workers head to big cities after cap on new visas sparks urban wage hikes",
+     "lead": "Japan India South Korea Indonesia Taiwan Thailand U.S. East Asia Hong Kong Macao Taiwan Mongolia Japan South Korea North Korea Southeast Asia Thailand Malaysia Singapore Philippines Vietnam Myanmar Cambodia Laos Brunei East Timor South Asia Pakistan Afghanistan Bangladesh Sri Lanka Nepal Bhutan Maldives Central Asia Uzbekistan Turkmenistan Tajikistan Kyrgyzstan Oceania New Zealand Papua New Guinea Pacific Islands Rest of the World ...",
+     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F2%2F3%2F3%2F13323327-1-eng-GB%2Fce1650b51442-20261015N-Japan-foreign-workers.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
      "why": [
       "Affects work visas"
      ],
@@ -334,17 +294,99 @@
       "Work visa",
       "Japan"
      ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 50,
+     "title": "This country allows US, UK, Canada and New Zealand residents join its military without citizenship. Check",
+     "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQSUd6V1g5a1hlTURMUVFvMkVCOHJKd1phdGg5alAzZEZSQ2hHVUZuUXItV1djbDNyUEFKX09DTVVIMmVoamZ1MHFJSTd5NjFlRWkyN2dTbW1ucjFKTEdGQU5ja1NTb3FERmFNbWw3RjBhV1lyeGdZM2Fldm1oZnBrNGMxa0NKSWNCLUtvTWw1dUhudFpFS3Z5UmRObEh1dE5NWlA5Tl9jYk1mWTBVYUgwNUpLQVVNd1NnVV94cnVrbmR3ZV8xYWlRMF9CUkQ5SHhPRlNhU0ZXaHBtRExTdzh3MHE3b0JtVDU2dFJMczgxcWU4aHpKTmFCME84RXoxTHh3RzAzY1B6VE1lRmNDRDFkUW5fS2ZzbldOaE9Za19iM3RubWFTdlZlV3cyMHlZclExMTlZTXhLZjkzdDM0N2s5T1A3eGdpZ9IBywJBVV95cUxQeGhTYVpVekFIbDY2Y0U4T2U5RVIxcHJaUDNQQ09WOGRTdzJWeXBQS25hTjJOQ0kzSHlUTmlnNzU1SEJpazRpV3pXdFdSakV3c1ROSk9lLTU2UjFDX0F1anRVTUc0azh3V3pkVzgwVVZZeXBIYm1SNTRLSHdyTWpkVDhkOHpKSU5BR2JVSV8yVVpoT3FLX0FhdHdENjFOa3RqazVrQkxpSjFlemZldTZlMHpEY0F6TjJhM2pvaVNLQ19UYTFRNzNObWppREhnYXdrS2thQ3ZCUG1tbjJvR0ZCeTA2cmxkMzU4aHIxcXp6VkNiN0tGV1dtM3lTVWpWUEhjQ2s1eVUtbEgyTFlON2lkZEQyTkpSUnBGblZfZzF3bFh1b3RldGZHdG9vWF9jbm9OZm14MU5yV3ZVQkFnX3ZDQUtEeXBkaUoxZnpF?oc=5",
+     "date": "2026-10-13",
+     "source": "The Economic Times",
+     "label": "New Zealand",
+     "snippet": "In 2024, Australia allows eligible permanent residents from the US, UK, Canada and New Zealand to apply to join its military without obtaining Australian citizenship first. The expanded recruitment policy aims to address personnel shortages and widen the pool of potential recruits. Here are the eligibility criteria, residency requirements",
+     "lead": "Permanent residents from New Zealand, the UK, Canada and the US can apply to join the ADF",
+     "image": "https://img.etimg.com/thumb/msid-134872245,width-1200,height-900,imgsize-93910,overlay-economictimes/articleshow.jpg",
+     "why": [
+      "Affects citizenship"
+     ],
+     "tags": [
+      "Citizenship",
+      "New Zealand"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 4,
+     "priority": 40,
+     "title": "The Austrian chancellor links immigration with the disturbances in France and Italy.",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONWFELTRTOHNUcUhZMlBYU19IZkNqSFJ1RndNQ1N4SWxkZWxEUFo3UDl0R1dQemdhV1luYUpJdE95b0V2eDgwZHgwSGx1WU9PV2VmTDh3eS1SazlZVGZkcDc0NkUwcjRvc0lYalR4UUlvclNpUzJjRHlERkNfbVdTU1VSMmlKOUI5cTZPRXcwR1RUYUZNNk9pb1laS083MTN4YTdxMGZ6WWFBenh5X1psZFdaa3RMV25lblk4ZDBseUQ4X0w50gHKAUFVX3lxTE1lS1NWX0prSks5YUpHVVBoR3JmbXpPVGtRVEY5N3YwWFhuYmUyNFFDN3VGYkpCSG5qald2TERvVEYtcWdUMzNfVDJicW9rWmVXLTlVeFBVdWVIM285THlWQ1Z5WHBWYXZzaDJRTnU0WTJ3Z3g2Y2JraHdXZkY4clhlZHB2MFdIVUlod0F2dDlFNm1yS29wNFZ2YmYxUTdUUDBaZl9SbGpsWEFrLTNJTlVZUzdET3Y4bnhkbExWanh6dXRmQzdkaGNMYmc?oc=5",
+     "date": "2026-10-19",
+     "source": "Demócrata",
+     "label": "Austria",
+     "snippet": "",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Announces a change"
+     ],
+     "tags": [
+      "Austria"
+     ]
     }
    ]
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 0,
+   "new_today": 5,
    "items": [
     {
      "desk": "Advisory",
      "score": 10,
-     "priority": 83,
+     "priority": 77,
+     "title": "Gold, silver trade higher as Fed rate hike concerns ease",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNXzF6bGhZMU80dFhJbEhwYzREN1dqRGN4eUUwTW9XM2hMUVRMVHE2d2F3YTlqZXJhZl9CS3c3NWtJRno0MmtMMjVMS0VZZXVDYkM5V3p4OVlfNWczSmZQaXItS3lMa1hxN1hCbzQ0dEtsWVJKT3lOR1l1cmtrU3c1VER1Y1dBbGlkcGwydjZRYXNVYktDQUlJbFNmOVFPNHNtZm53R29La3JwZWkzTHByODB0TFU3VE0?oc=5",
+     "date": "2026-10-19",
+     "source": "The Hans India",
+     "label": "Gold & Silver",
+     "snippet": "Gold and silver futures rise on MCX as easing US Federal Reserve rate hike concerns and firm global cues support precious metal prices.",
+     "lead": "Select Hans India Now Telangana + Hyderabad Warangal Khamman Adilabad Manchiryal-Asifabad Nizamabad Karimnagar Medak-Sangareddy Siddipet Mahaboobnagar Nalgonda-Suryapet Andhra Pradesh + Amaravati Vijayawada Visakhapatnam Tirupati Kurnool Guntur Anantapur Chittoor Eluru Kadapa Kakinada Nellore Ongole Rajahmundry Srikakulam National + Karnataka Tamil Nadu Uttar Pradesh New Delhi Bengaluru Chennai Mumbai Kolkata Odisha Global Opinion + ...",
+     "image": "https://assets.thehansindia.com/h-upload/2026/09/14/1702006-gold.jpg",
+     "why": [
+      "Interest-rate decision",
+      "Precious metals",
+      "Global macro driver"
+     ],
+     "tags": [
+      "Gold & Silver"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 77,
+     "title": "Business News | RBI May Need to Raise Repo Rate to 6.25% as Inflation Risks Persist: SBI Mutual Fund",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZzhnRUhFUEZ4Y0tzaVVWVVpYMnUzRUtrOGstSGpacVI2ekZkUjhPdGVFNFItUVpzaUlWbDJLZ3YyUGY3Z2V4angtNXFzVGx6RzRVOVhsQUh3UDZNZFpqQ0NtUkYyRXFvdnp3V3NycnFXR2FXZklKMGVyMWp3QUYyWmJQMHd0Q0lhcGRxbnhiTk1SU29BQk5obXdETkRRNWlCaTYtRjFBWTNFejVDUW9INk40VjhReFhIalp4SU93d1JtOHB1UUhZMHpKdlpYZDVIWDk0LXdjaDdSSHY5Rk9F0gHkAUFVX3lxTFB4SlBGV1lNWG83MFl2bTBNNHRlSGxwU0dRUkRwOElmelN1Q0VZdDA1NnN2ektoMDhaeDgxdVRKZzl0dGU3RTVFWDRhSWhTWElnMWtMZlhSdlFYcWpVQW52bUhSMW12dHlJeDJQT2NfTjlrQXZ5TmhLUVFzTlA5OHFWeExVSFJlR2hESWZWOW1WV3gwT3Vpb0duWFQxMjFYdTQtU2Jhazg0NUQ4aFpDVDA1YlhQWFZUaXdDckh2VmRNdEVKNmxWME1pdzRvam5OejlRMDZKQVJUR04yUFRxcTB6Vi1Ibg?oc=5",
+     "date": "2026-10-18",
+     "source": "LatestLY",
+     "label": "Mutual Funds",
+     "snippet": "",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Regulator: SEBI or RBI",
+      "Interest-rate decision",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "Mutual Funds",
+      "Banks & Financials"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 77,
      "title": "Bandhan AMC’s Suyash Choudhary on RBI rate hikes, bond yields, and debt strategy",
      "url": "https://www.livemint.com/money/personal-finance/rbi-rate-hikes-suyash-choudhary-bandhan-amc-fixed-income-bond-yields-debt-mutual-funds-11791994802619.html",
      "date": "2026-10-16",
@@ -364,66 +406,22 @@
     },
     {
      "desk": "Advisory",
-     "score": 10,
-     "priority": 83,
-     "title": "Singularity AMC pays over Rs 40 lakh to settle AIF rule violation case with Sebi",
-     "url": "https://economictimes.indiatimes.com/markets/stocks/news/singularity-amc-pays-over-rs-40-lakh-to-settle-aif-rule-violation-case-with-sebi/articleshow/134897222.cms",
-     "date": "2026-10-12",
-     "source": "Economic Times",
-     "label": "AIF",
-     "snippet": "Singularity AMC, a company rooted in Mumbai, has successfully resolved two significant matters with the Securities and Exchange Board of India (Sebi) concerning violations related to alternative investment funds. As part of the settlement, the firm has paid Rs 40.5 lakh. The infractions included not maintaining the required interest in th",
-     "lead": "Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Homebuyers wait as NCLT panel picks holes in unfinished Jaypee projects",
-     "image": "https://img.etimg.com/thumb/msid-134897285,width-1200,height-900,imgsize-92514,overlay-etmarkets/articleshow.jpg",
-     "why": [
-      "AIF news",
-      "Regulator: SEBI or RBI",
-      "Also covered by 3 other outlet(s)"
-     ],
-     "tags": [
-      "AIF"
-     ]
-    },
-    {
-     "desk": "Advisory",
      "score": 9,
-     "priority": 75,
-     "title": "Comprehensive Legal Analysis: SEBI's 2026 InvIT Amendments Governing Depository Receipts and Revamped Voting Frameworks",
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONTlsS0RGUnhiWWpoNlh3U1ZsaHZqY2w4R2ZhQUVoRDE2dVMxWTI2SGhrVnh3a1dhQ2hpbjd0NnpQTDU3akpiYmxTWTVSVHhzT1ppNGNiYUVTZDlhTEtwS2JyeGpxRUUwZGNnMUJtWmxTelZNYkEzWko5QnZvdG1tQS15YjdCUk0xcWxWakQzbE5HZXlPdU9femZYUWR2YnZ2NTJwVkdOZWxHeUU?oc=5",
-     "date": "2026-10-17",
-     "source": "TaxCorp AI",
-     "label": "REITs & InvITs",
-     "snippet": "Summary The SEBI (Infrastructure Investment Trusts) (Second Amendment) Regulations, 2026, enacted via Notification No. SEBI/LAD-DOP/2026/327, introduce...",
-     "lead": "The landscape of infrastructure financing in India is undergoing a continuous metamorphosis, driven by proactive regulatory recalibrations. The Securities and Exchange Board of India (SEBI), acting as the apex capital markets regulator, has consistently refined the operational and governance frameworks for Infrastructure Investment Trusts (InvITs). In a pivotal move to enhance global capital accessibility, streamline corporate ...",
-     "image": null,
-     "why": [
-      "REIT / InvIT news",
-      "Regulator: SEBI or RBI",
-      "Rule or framework change"
-     ],
-     "tags": [
-      "REITs & InvITs"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
-     "title": "US Fed rate hike buzz: American inflation highest since COVID — what does it mean for Nifty, Sensex, gold rates? Decoded",
-     "url": "https://www.livemint.com/market/stock-market-news/us-fed-rate-hike-buzz-american-inflation-highest-since-covid-what-does-it-mean-for-nifty-sensex-gold-rates-decoded-11792135225649.html",
-     "date": "2026-10-16",
+     "priority": 69,
+     "title": "1 Finance gets in-principle SEBI approval for MF Lite: Will investors get more choice in index funds and ETFs?",
+     "url": "https://www.livemint.com/money/personal-finance/1-finance-gets-in-principle-sebi-approval-for-mf-lite-will-investors-get-more-choice-in-index-funds-and-etfs-11792432264246.html",
+     "date": "2026-10-19",
      "source": "Mint",
-     "label": "Gold & Silver",
-     "snippet": "Indian stock market has already discounted the US Fed rate hike for up to December US Fed meetings, say experts",
-     "lead": "US Fed rate hike impact on gold: Experts see big upside in gold and silver prices, as American inflation may create uncertainty around US bond yields. ( Photo: Representational AI-generated image for educational purposes only ) AI Quick Read US Fed Rate Hike | Gold Rate Today | Sensex Today | Stocks to Buy Today: US producer prices increased by the most in 4-1/2 years in September amid rising costs for goods and services, the latest ...",
+     "label": "Mutual Funds",
+     "snippet": "1 Finance has received in-principle SEBI approval for an MF Lite licence and plans to launch passive mutual funds in Q4 FY27. SEBI’s framework eases regulatory requirements for eligible passive fund houses, potentially encouraging competition and expanding investor choice in index funds and ETFs.",
+     "lead": "SEBI introduced the MF Lite framework on 31 December 2024 to ease entry barriers for asset management companies seeking to offer eligible passive mutual fund schemes. (AI-generated image used for representational purpose.) AI Quick Read 1 Finance has received in-principle approval from the Securities and Exchange Board of India (SEBI) for an asset management company (AMC) licence under the regulator’s Mutual Funds Lite (MF Lite) ...",
      "image": null,
      "why": [
-      "Interest-rate decision",
-      "Precious metals",
-      "Global macro driver",
-      "Also covered by 1 other outlet(s)"
+      "Regulator: SEBI or RBI",
+      "Also covered by 2 other outlet(s)"
      ],
      "tags": [
-      "Gold & Silver"
+      "Mutual Funds"
      ]
     }
    ]
@@ -431,54 +429,56 @@
  },
  "items": [
   {
-   "desk": "Policy",
+   "desk": "Startups",
    "score": 13,
    "priority": 100,
-   "title": "India–New Zealand FTA to Come into Force on 20th October 2026 on Vijay Dashmi, Opening New Opportunities for Indian Exporters",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2325235",
-   "date": "2026-10-19",
-   "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "Union Minister of Commerce and Industry Shri Piyush Goyal and New Zealand’s Minister for Trade and I",
-   "lead": "Ministry of Commerce & Industry India–New Zealand FTA to Come into Force on 20th October 2026 on Vijay Dashmi, Opening New Opportunities for Indian Exporters 100% Duty-Free Access to New Zealand Market to Create Opportunities for Indian MSMEs, Artisans, Farmers and Women Entrepreneurs: lUnion Minister of Commerce and Industry Shri Piyush Goyal India Flags Off First-Ever JCB Machine Export to New Zealand New Zealand Commits to ...",
-   "image": null,
+   "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+   "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+   "date": "2026-10-20",
+   "source": "TechCrunch Venture",
+   "label": "Global · AI & Deeptech",
+   "snippet": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+   "lead": "Tenstorrent, a chip startup focused on inference, has raised $1.5 billion at a $6.2 billion valuation. The round comes five months after the 10-year-old Nvidia challenger reportedly received acquisition interest from Intel and Qualcomm at valuations of as much as $5 billion. The fresh round, which more than doubled Tenstorrent’s valuation from the $2.6 billion it fetched in late 2024, was led by Trace Capital, a new firm launched by ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=970",
    "why": [
-    "Trade agreement",
-    "New law or act",
-    "Commerce"
+    "Funding",
+    "Very large figure in headline (about $6,200M: round or valuation)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Tax, Duties & Trade"
+    "Funding",
+    "AI & Deeptech"
    ],
    "rank": 1,
    "must_read": true
   },
   {
-   "desk": "Startups",
+   "desk": "Advisory",
    "score": 13,
    "priority": 100,
-   "title": "[Update] Zetwerk’s IPO Closes With 3.06X Subscription",
-   "url": "https://inc42.com/buzz/zetwerks-ipo-fully-subscribed-on-day-3-gets-muted-response-from-retail-investors/",
+   "title": "Gold Surges To ₹1.48 Lakh While Silver Tops ₹2.12 Lakh, Easing US Fed Rate Hike Fears Boost Precious",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeTRBeDltYXZpUGVjSjVvUENnT19wdVdSckZ0ZFM4ZGhESmdsTzJkZlpvQjFFWUtwSTdDc1hNeHhyV3NITkJZVzJDbUV5TDFkM0c0enBKZFNZZEJhSS1mWEdUSmFDTUI3bVhmRGstOV9DNlppNWVfNW8yekE1eXMxa0pyazBJcXhLUkd6a0pGdGhZWDY1ZFdpZmJEZVFCS1VqcWVTbTBqcVM3TjA2UGd4a0hqU1FpcWJNMFZVYTdURGE5a1Y2RkRldUcweEc2ak5oN3FrNWtPbV9OU2fSAeABQVVfeXFMUDQxbTFpVVYzRVB3TTB6RGdaREI3bEhqVHBvcV9KX21obDhCZ2hRaEQwQXp4NVp6UG1GTzhfdnh1SmtqSUdWNHRaaWpqVTRvY2ZLaHBQOUJLSjVXVnNLRkpyeHo3MmpZbW9TdnhNUWNjS2pST2xVNmtrM0VjcnEyUk10ZUNCVzZvQmMxcUdsQ2x1c051Mno4Qi1ySXZTVkVpQnBXa3VESTU3dDVnb2FpZGJWVmRzVXI0RS1GZHc5RmtkVDE1Z0VBWjNZaDBsMlNHR3dDejl2ZzBhWFo5aWFiRVU?oc=5",
    "date": "2026-10-19",
-   "source": "Inc42",
-   "label": "India · SaaS & Enterprise",
-   "snippet": "Zetwerk’s IPO has been oversubscribed on the final day of bidding, receiving bids for 56.62 Cr shares against 18.50 Cr shares on offer",
-   "lead": "Qualified institutional buyers (QIBs) have shown the highest interest in the IPO, oversubscribing their quota by 4.73X of their allocation Qualified institutional buyers (QIBs) have shown the highest interest in the IPO, oversubscribing their quota by 1.44X. These investors have placed bids for 14.28 Cr shares against 9.89 Cr shares on offer till now. Meanwhile, employees bid for 7.8 Lakh shares against 7 Lakh shares reserved for them, ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Zetwerk-IPO-social-1.jpg",
+   "source": "Free Press Journal",
+   "label": "Gold & Silver",
+   "snippet": "Gold rises ₹461 to ₹1,48,379 per 10 grams, while silver gains ₹826 to ₹2,12,013 per kg on MCX as easing US Fed rate hike fears support precious metals.",
+   "lead": "New Delhi: Gold and silver prices moved higher in early trading on Monday, October 19, supported by positive global market trends and easing concerns over another interest rate hike by the US Federal Reserve. Both precious metals recorded gains on the Multi Commodity Exchange (MCX), with investors closely watching US inflation data and upcoming Federal Reserve policy decisions. On the MCX, December gold futures climbed ₹461, or 0.31 ...",
+   "image": "https://media.assettype.com/freepressjournal/2026-09-30/v9z1y8l7/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-09-30T180726.291.jpg",
    "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $528M: round or valuation)"
+    "Interest-rate decision",
+    "Precious metals",
+    "Global macro driver",
+    "Sharp market move"
    ],
    "tags": [
-    "IPO & Listing",
-    "SaaS & Enterprise"
+    "Gold & Silver"
    ],
    "rank": 2,
    "must_read": true
   },
   {
    "desk": "Immigration",
-   "score": 11,
+   "score": 10,
    "priority": 100,
    "title": "Ottawa adding express entry points for permanent resident applicants in 'high-wage' jobs",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yMFhBZ3U4ZEQzbzJrVlVpbWtoU2Q3RHBLdk5UenJ0YXVaNkowcDJvRzltei01Z1JCUDhvZVpCMkNqT0ZoZjB5T1hBM0tzOEZPNlZYZXQ3MUNTTVJ1TDFwcnFVbllkVG0wLUdhUlBaX3A?oc=5",
@@ -501,25 +501,25 @@
    "must_read": true
   },
   {
-   "desk": "Advisory",
-   "score": 12,
+   "desk": "Immigration",
+   "score": 10,
    "priority": 100,
-   "title": "HSBC Sees RBI Repo Rate at 6% by December as Bond Yields Surge",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmw2enVib0FBSGxxa2gtOTZyakJNMzJpcXh3cXlPQmt4RnVsQVBHNF9DaEV5Y0ZfMDNadzV0RzlYaWpsSUhsZ2tzU1BmZVg4cFJYQTlTeTcxSnV6dHNndWg4T3ZHRXdLVkpfbjlQRW1UUGY2UDZzMDJDV1dLbjFvX0lIREc?oc=5",
+   "title": "Guidance: EU Settlement Scheme: caseworker guidance",
+   "url": "https://www.gov.uk/government/publications/eu-settlement-scheme-caseworker-guidance",
    "date": "2026-10-15",
-   "source": "NiftyTrader",
-   "label": "Debt & Bonds",
-   "snippet": "HSBC sees the RBI repo rate at 6% by December as bond yields surge. Review inflation risks, rate-hike expectations and home loan EMI impact.",
-   "lead": "HSBC expects the repo rate to reach 6% by December as September inflation rises to 5.54% and short-term Treasury-bill yields hit 18-month highs. Here are the three signals that could determine whether the forecast holds. The Reserve Bank of India’s next rate decision is facing a tougher test: HSBC expects the repo rate to reach 6% by December, while short-term government borrowing costs have already climbed well above the current ...",
-   "image": "https://trending.niftytrader.in/wp-content/uploads/2026/10/HSBC-Sees-RBI-Repo-Rate-at-6-by-December-as-Bond-Yields-Surge.jpg",
+   "source": "GOV.UK (UK Visas and Immigration)",
+   "label": "United Kingdom",
+   "snippet": "Immigration staff guidance on applications under the EU Settlement Scheme.",
+   "lead": "Navigation menu Menu Menu Services and information Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions ...",
+   "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
    "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Government bond yields",
-    "Sharp market move"
+    "Affects permanent residence",
+    "Official government notice",
+    "Major story (12 headlines that day)"
    ],
    "tags": [
-    "Debt & Bonds"
+    "PR / Settlement",
+    "United Kingdom"
    ],
    "rank": 4,
    "must_read": true
@@ -548,9 +548,126 @@
    "must_read": true
   },
   {
+   "desk": "Policy",
+   "score": 12,
+   "priority": 92,
+   "title": "India–New Zealand FTA to Come into Force on 20th October 2026 on Vijay Dashmi, Opening New Opportunities for Indian Exporters",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2325235",
+   "date": "2026-10-19",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "Union Minister of Commerce and Industry Shri Piyush Goyal and New Zealand’s Minister for Trade and I",
+   "lead": "Ministry of Commerce & Industry India–New Zealand FTA to Come into Force on 20th October 2026 on Vijay Dashmi, Opening New Opportunities for Indian Exporters 100% Duty-Free Access to New Zealand Market to Create Opportunities for Indian MSMEs, Artisans, Farmers and Women Entrepreneurs: lUnion Minister of Commerce and Industry Shri Piyush Goyal India Flags Off First-Ever JCB Machine Export to New Zealand New Zealand Commits to ...",
+   "image": null,
+   "why": [
+    "Trade agreement",
+    "New law or act",
+    "Commerce"
+   ],
+   "tags": [
+    "Tax, Duties & Trade"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
    "desk": "Startups",
    "score": 12,
    "priority": 92,
+   "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+   "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+   "date": "2026-10-19",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+   "lead": "Town, a two-year-old, San Francisco-based startup developing AI assistants, nabbed a unicorn valuation on Monday, announcing a $108 million Series B funding round co-led by Forerunner Ventures and Menlo Ventures. The company launched publicly just four months ago and said it reached millions of dollars in annual recurring revenue in a matter of weeks. It has raised at least $160 million to date, having previously announced a $55 ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2294590819.jpg?resize=1200,675",
+   "why": [
+    "Funding",
+    "Large deal (about $108M)",
+    "Valuation, listing or profitability signal",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 92,
+   "title": "[Update] Zetwerk’s IPO Closes With 3.06X Subscription",
+   "url": "https://inc42.com/buzz/zetwerks-ipo-fully-subscribed-on-day-3-gets-muted-response-from-retail-investors/",
+   "date": "2026-10-19",
+   "source": "Inc42",
+   "label": "India · SaaS & Enterprise",
+   "snippet": "Zetwerk’s IPO has been oversubscribed on the final day of bidding, receiving bids for 56.62 Cr shares against 18.50 Cr shares on offer",
+   "lead": "Qualified institutional buyers (QIBs) have shown the highest interest in the IPO, oversubscribing their quota by 4.73X of their allocation Qualified institutional buyers (QIBs) have shown the highest interest in the IPO, oversubscribing their quota by 1.44X. These investors have placed bids for 14.28 Cr shares against 9.89 Cr shares on offer till now. Meanwhile, employees bid for 7.8 Lakh shares against 7 Lakh shares reserved for them, ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Zetwerk-IPO-social-1.jpg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $528M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "SaaS & Enterprise"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 92,
+   "title": "HSBC Sees RBI Repo Rate at 6% by December as Bond Yields Surge",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmw2enVib0FBSGxxa2gtOTZyakJNMzJpcXh3cXlPQmt4RnVsQVBHNF9DaEV5Y0ZfMDNadzV0RzlYaWpsSUhsZ2tzU1BmZVg4cFJYQTlTeTcxSnV6dHNndWg4T3ZHRXdLVkpfbjlQRW1UUGY2UDZzMDJDV1dLbjFvX0lIREc?oc=5",
+   "date": "2026-10-15",
+   "source": "NiftyTrader",
+   "label": "Debt & Bonds",
+   "snippet": "HSBC sees the RBI repo rate at 6% by December as bond yields surge. Review inflation risks, rate-hike expectations and home loan EMI impact.",
+   "lead": "HSBC expects the repo rate to reach 6% by December as September inflation rises to 5.54% and short-term Treasury-bill yields hit 18-month highs. Here are the three signals that could determine whether the forecast holds. The Reserve Bank of India’s next rate decision is facing a tougher test: HSBC expects the repo rate to reach 6% by December, while short-term government borrowing costs have already climbed well above the current ...",
+   "image": "https://trending.niftytrader.in/wp-content/uploads/2026/10/HSBC-Sees-RBI-Repo-Rate-at-6-by-December-as-Bond-Yields-Surge.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Government bond yields",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "Jio Platforms Raises About ₹8,110 Cr From Anchor Investors",
+   "url": "https://inc42.com/buzz/jio-platforms-raises-over-%e2%82%b98100-cr-from-anchor-investors/",
+   "date": "2026-10-19",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "More than a third of the round was picked up by 25 domestic mutual funds while a further 13.4% was subscribed by insurance companies and pension funds.",
+   "lead": "Jio allotted over 7.2 Cr shares to anchor investors at ₹1,119 apiece, raising ₹8,109.8 Cr The IPO, comprising a fresh issue of up to 27 Cr equity shares, will open for public subscription on October 21 and close on October 23 The company allotted 7.25 Cr equity shares to anchor investors at a price of ₹1,119 per share, the upper end of its price band.",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/Jio-soc.jpg",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $854M: round or valuation)"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
    "title": "Why Urban Company will keep investing in InstaHelp",
    "url": "https://www.medianama.com/2026/10/223-urban-company-investing-instahelp/",
    "date": "2026-10-19",
@@ -567,13 +684,13 @@
     "IPO & Listing",
     "Policy & Regulation"
    ],
-   "rank": 6,
+   "rank": 11,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
-   "priority": 92,
+   "score": 11,
+   "priority": 85,
    "title": "UC Eyes More Capital, Burma Burma’s IPO & More",
    "url": "https://inc42.com/buzz/uc-eyes-more-capital-burma-burmas-ipo-more/",
    "date": "2026-10-19",
@@ -590,122 +707,53 @@
     "IPO & Listing",
     "Policy & Regulation"
    ],
-   "rank": 7,
+   "rank": 12,
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 91,
-   "title": "Guidance: EU Settlement Scheme: caseworker guidance",
-   "url": "https://www.gov.uk/government/publications/eu-settlement-scheme-caseworker-guidance",
-   "date": "2026-10-15",
-   "source": "GOV.UK (UK Visas and Immigration)",
-   "label": "United Kingdom",
-   "snippet": "Immigration staff guidance on applications under the EU Settlement Scheme.",
-   "lead": "Navigation menu Menu Menu Services and information Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions ...",
-   "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-   "why": [
-    "Affects permanent residence",
-    "Official government notice",
-    "Major story (12 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "United Kingdom"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
+   "desk": "Advisory",
    "score": 11,
    "priority": 85,
    "title": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026",
    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
    "date": "2026-10-19",
    "source": "RBI",
-   "label": "Banking & Rates",
+   "label": "Regulatory",
    "snippet": "Notifications - Reserve Bank of India",
    "lead": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026 Please refer to Section C on ‘Limits for Non-Option Derivative Contracts’ of Chapter IV of the Reserve Bank of India (Small Finance Banks - Miscellaneous) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by section 35A of the Banking Regulation Act, 1949, and all other provisions / laws enabling the Reserve Bank of India ...",
    "image": null,
    "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Regulator: RBI"
+    "Regulator: SEBI or RBI",
+    "Official notice",
+    "Also covered by 1 other outlet(s)"
    ],
    "tags": [
-    "Banking & Rates"
+    "Regulatory"
    ],
-   "rank": 9,
+   "rank": 13,
    "must_read": false
   },
   {
-   "desk": "Startups",
+   "desk": "Advisory",
    "score": 11,
    "priority": 85,
-   "title": "[Update] Tonbo Imaging IPO Closes With 135.9X Oversubscription",
-   "url": "https://inc42.com/buzz/tonbo-imaging-ipo-oversubscribed-40x-on-day-3-till-now/",
+   "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on October 21, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63833",
    "date": "2026-10-19",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Tonbo Imaging’s IPO has been oversubscribed 40.82X on the third day of bidding till now. Till 13:23 IST, investors have placed bids for 34.80 Cr shares",
-   "lead": "Tonbo Imaging’s ₹852 Cr IPO closed with an oversubscription of 135.9X on the third and final day of bidding. The ₹852.1 Cr IPO comprises entirely an offer for sale (OFS) of up to 1.2 Cr shares, with no fresh issue component Investors placed bids for 115.87 Cr shares against the 85.26 Lakh shares on offer, with qualified institutional buyers (QIBs) leading the charge",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Tonbo-Soc-1.jpg",
+   "source": "RBI",
+   "label": "Regulatory",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Wednesday, October 21, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "image": null,
    "why": [
-    "IPO & Listing",
-    "Sizeable deal (about $90M)"
+    "Regulator: SEBI or RBI",
+    "Official notice",
+    "Also covered by 1 other outlet(s)"
    ],
    "tags": [
-    "IPO & Listing"
+    "Regulatory"
    ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "Urban Company Slumps 9.5% After Q2 Loss Widens, Board Clears ₹2,500 Cr Fundraise",
-   "url": "https://inc42.com/buzz/urban-company-slumps-9-5-after-q2-loss-widens-board-clears-%e2%82%b92500-cr-fundraise/",
-   "date": "2026-10-19",
-   "source": "Inc42",
-   "label": "India · Policy & Regulation",
-   "snippet": "Urban Company shares slumped 9.5% to ₹143.30 on the BSE after its Q2 FY27 loss widened and the board approved a fundraise of up to ₹2,500 Cr",
-   "lead": "Urban Company shares slumped 9.5% to ₹143.30 on the BSE after its Q2 FY27 loss widened and the board approved a fundraise of up to ₹2,500 Cr InstaHelp’s losses have constrained the company’s financial flexibility as it pursues growth opportunities, including Native’s planned entry into residential air conditioners Net loss widened to ₹182.5 Cr from ₹59.3 Cr a year earlier, while operating revenue rose 41% YoY to ₹537.3 Cr.",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/urban-company-ipo-2.jpg",
-   "why": [
-    "Funding",
-    "Large deal (about $263M)"
-   ],
-   "tags": [
-    "Funding",
-    "Policy & Regulation"
-   ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
-   "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
-   "date": "2026-10-19",
-   "source": "TechCrunch",
-   "label": "India · Health & Wellness",
-   "snippet": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
-   "lead": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics Jagmeet Singh 12:30 AM PDT · October 19, 2026 Even Healthcare has raised $50 million in a funding round led by Khosla Ventures, as the Indian startup seeks to change how hospitals in the world’s most populous country make money and how doctors are rewarded. The all-equity Series B round also saw participation from Alpha Wave and valued it at $300 ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/even-hospital.jpg?resize=1200,800",
-   "why": [
-    "Funding",
-    "Large deal (about $300M)"
-   ],
-   "tags": [
-    "Funding",
-    "Health & Wellness"
-   ],
-   "rank": 12,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -727,73 +775,28 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "Stock Market This Week: RBI MPC, Jio IPO, And US Jobless Claims Among Other Cues To Watch Out For",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUZQd3AzWXplX0Iwb0xmQkZIbERKQmlvdmNoa2FEcmQxV3p4QnNudDBSTUdJMFM3ZmdPQlZ2UnVpNy1fTUpHTHl1ZXBkNWs2VzZ3ZjlaWXg5OWlpbkRLMkpFa1FFdDhiUDB2XzduU2pVd1IybFhtQlZ6ZmZ6UGlVdWcyZm9QVlRjTVI4OWFreWRJWDgyLXluemtXYWZMQW1XOGJ5eHN30gGmAUFVX3lxTE5ZRlB3cDNZemVfQjBvTGZCRkhsREpCaW92Y2hrYURyZDFXenhCc250MFJNR0kwUzdmZ09CVnZSdWk3LV9NSkdMeXVlcGQ1azZXNndmOVpZeDk5aWluREsySkVrUUV0OGJQMHZfN25TalV3UjJsWG1CVnpmZnpQaVV1ZzJmb1BWVGNNUjg5YWt5ZElYODIteW56a1dhZkxBbVc4Ynl4c3c?oc=5",
-   "date": "2026-10-18",
-   "source": "Outlook Money",
-   "label": "Regulatory",
-   "snippet": "Stock Market This Week: Track this week’s stock market cues, including RBI MPC minutes, US jobless claims, flash PMI data, Jio Platforms IPO and Q2 earnings.",
-   "lead": "RBI MPC minutes, US jobless claims and flash PMI readings will guide sentiment Jio Platforms IPO and Q2 earnings will drive investor attention this week Indian equities posted strong gains last week, with the Sensex rising 3.11 per cent to 74,729.27 and the Nifty advancing 2.78 per cent to 23,146.15. An improved domestic growth outlook and buying in large-cap stocks supported the recovery, although inflationary pressures, crude oil ...",
-   "image": "https://media.assettype.com/outlookmoney/2026-10-18/7b95jd78/stock-market-this-week.jpg?w=1200",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision"
-   ],
-   "tags": [
-    "Regulatory",
-    "Telecom & Media"
-   ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "RBI may need to raise repo rate to 6.25% as inflation risks persist: SBI Mutual Fund",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTFZHS0pjd3lvNHZBd2tDQmEyRXhfUWdfNDUyeHhMTXI4MFM4R05TdUJHbHZkY2ZFX0ZDamc1SUlLdTR4TkN6eUJaTUNyM3ZBV1NmdlpJeUtqQ0dGN2Z2V05WcEFOOU9uRTlRTXJFT2MwNjd5ZXlpeldTeEhRZ05CSzBKbjBQak12YVkyNGM0YzlOMWxMUG5nYWhJd1k3R21FUktrMEp4UFcwUzU2c2FDcG10MGdPT1p6SW5TVkVzdG1aUk5QVGlLNHJKSHk?oc=5",
-   "date": "2026-10-18",
-   "source": "ANI News",
-   "label": "Mutual Funds",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision"
-   ],
-   "tags": [
-    "Mutual Funds",
-    "Banks & Financials"
-   ],
    "rank": 15,
    "must_read": false
   },
   {
-   "desk": "Advisory",
+   "desk": "Policy",
    "score": 10,
-   "priority": 83,
-   "title": "Sensex Falls 429 Points, Nifty Slips Below 22,650 After RBI Rate Hike",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMUJWN3liR1RkX0l1RFY0ZjBGSFRVaE1YeHdRQmhIclRXTDR2N285ZUh2Vmx1RUtUaTZEYTdfZk81bGNxOFJzeHRwTFlRZXdxVUM0bUNjcFFtMF9xVmQyWGdpX2F4THZFNmFTZ1l5d3dPQ0hIcm9LYlZuVWpBZzlfX0I4QXF2dVhhd3ZrZlZyRmkxcjJ4LS1EbEZGSDM?oc=5",
-   "date": "2026-10-18",
-   "source": "INDIA New England News",
-   "label": "Regulatory",
-   "snippet": "Mumbai — Indian equity benchmarks ended lower Wednesday, snapping a two-session winning streak after the Reserve Bank of India raised the repo rate by 25 basis points to 5.5 percent …",
-   "lead": "Mumbai — Indian equity benchmarks ended lower Wednesday, snapping a two-session winning streak after the Reserve Bank of India raised the repo rate by 25 basis points to 5.5 percent and shifted its monetary policy stance to “calibrated tightening.” The Sensex fell 429.11 points, or 0.59 percent, to close at 72,638.70, while the Nifty declined 173.05 points, or 0.76 percent, to settle at 22,603.05. Market experts said the Nifty slipped ...",
-   "image": "https://indianewengland.com/wp-content/uploads/2024/12/Sensex-3.png",
+   "priority": 77,
+   "title": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
+   "date": "2026-10-19",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026 Please refer to Section C on ‘Limits for Non-Option Derivative Contracts’ of Chapter IV of the Reserve Bank of India (Small Finance Banks - Miscellaneous) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by section 35A of the Banking Regulation Act, 1949, and all other provisions / laws enabling the Reserve Bank of India ...",
+   "image": null,
    "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision"
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: RBI"
    ],
    "tags": [
-    "Regulatory"
+    "Banking & Rates"
    ],
    "rank": 16,
    "must_read": false
@@ -801,46 +804,24 @@
   {
    "desk": "Advisory",
    "score": 10,
-   "priority": 83,
-   "title": "Comprehensive Analysis of the SEBI AIF Third Amendment Regulations 2026: Revamped Accredited Investor Norms and Dispute Resolution Framework",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVkI2eGRSMzE5c2ZrT0RFLTI1c282dWp2UE9nQUUzYkM1ZVd5QzRZREdMZHhveWQ2YUZUNlY1MW1qN1NfRkNreHktdmhtYldfRmp1VEdseTBVRGJ2c1dyeU9TNnNiZm1GT2psT0gyeW92UWpnRmdhcDN3Mkc3WU1Bc1UyVVZOVHczZ3hfV3U0d2hDTm8tQTZtWTJiNHN5blo2NXdv?oc=5",
-   "date": "2026-10-17",
-   "source": "TaxCorp AI",
-   "label": "AIF",
-   "snippet": "Summary The Securities and Exchange Board of India (Alternative Investment Funds) (Third Amendment) Regulations, 2026, notified on 9 October 2026, introduces...",
-   "lead": "The regulatory landscape governing Alternative Investment Funds (AIFs) in India has witnessed a significant evolution with the introduction of the Securities and Exchange Board of India (Alternative Investment Funds) (Third Amendment) Regulations, 2026. Promulgated via Notification No. SEBI/LAD-NRO/GN/2026/326 on 9 October 2026, this legislative update introduces pivotal shifts in how investors are accredited and how disputes within ...",
-   "image": null,
+   "priority": 77,
+   "title": "Cupid, Sterlite Tech among stocks top 10 equity PMS portfolios hold as Nifty, Sensex plunge up to 13% in 2026",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-sterlite-tech-among-stocks-top-10-equity-pms-portfolios-hold-as-nifty-sensex-plunge-up-to-13-in-2026/articleshow/135045427.cms",
+   "date": "2026-10-19",
+   "source": "Economic Times",
+   "label": "PMS",
+   "snippet": "Despite a sharp market downturn in 2026, all 10 top-performing equity PMS strategies delivered positive returns in September, ranging from 3.55% to 5.67%. Amaltas Asset Managements Keystone Fund led the rankings, while Cupid and Sterlite Technologies featured among the prominent holdings across multiple portfolio management strategies.",
+   "lead": "Total FII net sales for 2026 have now surpassed Rs 2.5 lakh crore, NSDL data showed. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price",
+   "image": "https://img.etimg.com/thumb/msid-135045772,width-1200,height-900,imgsize-427206,overlay-etmarkets/articleshow.jpg",
    "why": [
-    "AIF news",
-    "Regulator: SEBI or RBI",
-    "Rule or framework change"
+    "PMS news",
+    "Sharp market move",
+    "Also covered by 2 other outlet(s)"
    ],
    "tags": [
-    "AIF"
+    "PMS"
    ],
    "rank": 17,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 77,
-   "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on October 21, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63833",
-   "date": "2026-10-19",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Wednesday, October 21, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
-   "image": null,
-   "why": [
-    "Rates and liquidity",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 18,
    "must_read": false
   },
   {
@@ -863,35 +844,58 @@
    "tags": [
     "Markets & Regulation"
    ],
-   "rank": 19,
+   "rank": 18,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 8,
-   "priority": 62,
-   "title": "Securities and Exchange Board of India (Portfolio Managers) Regulations, 2026 (With effect from April 1, 2027)\"",
-   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-portfolio-managers-regulations-2026-with-effect-from-april-1-2027-_105159.html",
-   "date": "2026-10-12",
-   "source": "SEBI",
-   "label": "Markets & Regulation",
-   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
-   "lead": "",
+   "score": 9,
+   "priority": 69,
+   "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on October 21, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63833",
+   "date": "2026-10-19",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Wednesday, October 21, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
    "image": null,
    "why": [
-    "Regulator rulebook change",
-    "Regulator: SEBI"
+    "Rates and liquidity",
+    "Regulator: RBI"
    ],
    "tags": [
-    "Markets & Regulation"
+    "Banking & Rates"
+   ],
+   "rank": 19,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 6,
+   "priority": 60,
+   "title": "Denmark to slash work permit salary threshold for some applicants by almost 20,000 kroner",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2JNVDlfeUktcWo5NTI0SEVtbWEtRlRZeGtSQy1WSE1meFFYVTFFLXl2SHg5Ry1zSXMxRERnT2NwczdDM2s5d3JKRUZCTEF3dWhuRGdGSjN2UFhVQVFCR1MzMnJ2YTdPM0Y3WmJ5cU9uOThPbG03aFhLQVhwaWZyX1BxaHpWSVk0SWUtbTU2SmE4X0VqWGQycTg4OWZ3SkptallTWUhUNkpmUm5Bdjk2TXQtMnU1ZWR2Wi1XZw?oc=5",
+   "date": "2026-10-13",
+   "source": "The Local Denmark",
+   "label": "Denmark",
+   "snippet": "Denmark is set to introduce a new collective agreement-based work permit scheme from the beginning of next year, which will make it easier for citizens of 16 select countries to secure a permit.",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Denmark is set to introduce a new collective agreement-based work permit scheme from the beginning of next year, which will make it easier for citizens of 16 select countries to secure a permit. Under the new scheme, ...",
+   "image": null,
+   "why": [
+    "Salary threshold change",
+    "Announces a change"
+   ],
+   "tags": [
+    "Salary threshold",
+    "Denmark"
    ],
    "rank": 20,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 6,
-   "priority": 55,
+   "score": 5,
+   "priority": 50,
    "title": "Korea seeks dedicated US visa quota for shipbuilding workers",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS2s4dFJhNTRTdmhQd1dqc25kUDAzMEZaTGhZVEkzY1hZWlpWZU52YnE3eExZSW8yR3ZJVFl2amRtbXQ4S0lEbTJkZnpoTFJxTEZVck1qd2dzZGY1dHhfOUhUNU1IemlkY3M3RGxGRlowYUdJV2lpYmpYeUphZmRObzNOYlRId01BRTdqanJCSkZoTXAwRWhDWEhQZHcxWEU2WnV5OUFGSDkzM0JGSU94ZVN2TG5BN2g5OW5sZFF30gG-AUFVX3lxTFBLazh0UmE1NFN2aFB3V2pzbmRQMDMwRlpMaFlUSTNjWFlaWlZlTnZicTd4TFlJbzJHdklUWXZqZG1tdDhLSURtMmRmemhMUnFMRlVyTWp3Z3NkZjV0eF85SFQ1TUh6aWRjczdEbEZGWjBhR0lXaWlialh5SmFmZE5vM05iVEh3TUFFN2pqckJKRmhNcDBFaENYSFBkdzFYRTZadXk5QUZIOTMzQkZJT3hlU3ZMbkE3aDk5bmxkUXc?oc=5",
    "date": "2026-10-19",
@@ -912,8 +916,8 @@
   },
   {
    "desk": "Immigration",
-   "score": 6,
-   "priority": 55,
+   "score": 5,
+   "priority": 50,
    "title": "They work in Norway but may not be granted permanent residence. The government sets a condition",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWHMxN3FpUkpXTk9Ld3RMMXhjOGIzMnhVdGRHQmIxODdaclhSNFhRbWNRU29PRDY0anJFVi1jaEQzSGU5RUJCQjhramp4Y3B0UFh5bGhZR1RSZFZVN1R0Tm9JSjN2LUZNS3pTSjBkRWRXME1fYkZxVW5CVGtoSDVjc1NWWTZnd1BVRS1uUzUzNGx5eGdZN3FYUlhsb1N0dHk0MEtTOVQ4UGhHYlUtVG1TckZEYWxPTlVjUTRCRno1Mm1KQXJWS2hGSVRyZVFVbTBBX3c?oc=5",
    "date": "2026-10-18",
@@ -933,24 +937,23 @@
    "must_read": false
   },
   {
-   "desk": "Immigration",
+   "desk": "Policy",
    "score": 6,
-   "priority": 55,
-   "title": "Denmark to slash work permit salary threshold for some applicants by almost 20,000 kroner",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2JNVDlfeUktcWo5NTI0SEVtbWEtRlRZeGtSQy1WSE1meFFYVTFFLXl2SHg5Ry1zSXMxRERnT2NwczdDM2s5d3JKRUZCTEF3dWhuRGdGSjN2UFhVQVFCR1MzMnJ2YTdPM0Y3WmJ5cU9uOThPbG03aFhLQVhwaWZyX1BxaHpWSVk0SWUtbTU2SmE4X0VqWGQycTg4OWZ3SkptallTWUhUNkpmUm5Bdjk2TXQtMnU1ZWR2Wi1XZw?oc=5",
-   "date": "2026-10-13",
-   "source": "The Local Denmark",
-   "label": "Denmark",
-   "snippet": "Denmark is set to introduce a new collective agreement-based work permit scheme from the beginning of next year, which will make it easier for citizens of 16 select countries to secure a permit.",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Denmark is set to introduce a new collective agreement-based work permit scheme from the beginning of next year, which will make it easier for citizens of 16 select countries to secure a permit. Under the new scheme, ...",
+   "priority": 46,
+   "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63803",
+   "date": "2026-10-14",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "",
    "image": null,
    "why": [
-    "Salary threshold change",
-    "Announces a change"
+    "New law or act",
+    "Regulator: RBI"
    ],
    "tags": [
-    "Salary threshold",
-    "Denmark"
+    "Banking & Rates"
    ],
    "rank": 23,
    "must_read": false
