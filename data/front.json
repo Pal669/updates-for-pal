@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-19",
- "built": "2026-10-19 09:58 IST",
+ "built": "2026-10-19 10:45 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23072.0,
-   "change_pct": -0.32,
-   "asof": "19 Oct 09:58 IST"
+   "value": 23045.0,
+   "change_pct": -0.44,
+   "asof": "19 Oct 10:45 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74662.0,
-   "change_pct": -0.09,
-   "asof": "19 Oct 09:43 IST"
+   "value": 74596.0,
+   "change_pct": -0.18,
+   "asof": "19 Oct 10:30 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.79,
-   "change_pct": 0.28,
-   "asof": "19 Oct 09:58 IST"
+   "value": 94.84,
+   "change_pct": 0.33,
+   "asof": "19 Oct 10:45 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 107.87,
-   "change_pct": -1.81,
-   "asof": "19 Oct 09:47 IST"
+   "value": 108.04,
+   "change_pct": -1.66,
+   "asof": "19 Oct 10:34 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4198.0,
-   "change_pct": 0.4,
-   "asof": "19 Oct 09:48 IST"
+   "value": 4201.0,
+   "change_pct": 0.48,
+   "asof": "19 Oct 10:35 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -251,9 +251,29 @@
    ]
   },
   "Immigration": {
-   "total": 1099,
+   "total": 1101,
    "new_today": 1,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 45,
+     "title": "Japanese businesses secure regulatory support and work permit assurances during talks with Egyptian labour ministry",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPT3hnSTFSZjNmeks1d29FaGFjdjREMXJjYzNyY3FQT3dGU2loX1JxekVxd3Q1cC1IU1BlUVE4TnBNMFllZXkxdlF3dGVhZFdMOEYxMDFsVGZ5V0h0WkFLQUJaQjd5NWs5OUduLW9PX25mZTRLY01DMkx1dnRib0ctc2Z2Z1o5dHYtZzduNjNHZzY4NEZVWENLcnR6ekh1a285ck12X01RTTBBakFTSWlLQXJTek5ObTRfbmVMMmdyZVM4Y3ZGS0JDZjljTTZUeVdkLUZKQ2R6QUhIQ0k3OHlkV2lYaWVKRmtINjFiTDNpaw?oc=5",
+     "date": "2026-10-18",
+     "source": "Daily News Egypt",
+     "label": "Japan",
+     "snippet": "Egypt's Ministry of Labor has launched an \"Investor Facilitation Unit\" to streamline regulatory procedures, with Minister Hassan Radad pledging on Sunday to resolve challenges regard…",
+     "lead": "Egypt’s Ministry of Labor has launched an “Investor Facilitation Unit” to streamline regulatory procedures, with Minister Hassan Radad pledging on Sunday to resolve challenges regarding foreign work permits to encourage the expansion of Japanese businesses in the domestic market. Radad announced the measure during a meeting at the ministry’s headquarters in the New Administrative Capital with representatives of Japanese companies ...",
+     "image": "https://images.dailynewsegypt.com/2026/10/855970080_1641723694159533_966369933530307082_n.png.jpeg",
+     "why": [
+      "Affects work visas"
+     ],
+     "tags": [
+      "Work visa",
+      "Japan"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 5,
@@ -272,26 +292,6 @@
      "tags": [
       "Quota / Caps",
       "Spain"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 45,
-     "title": "Japan's rural restaurants go hungry in fight for foreign talent",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUGc2REtOVjZkSXVWbzJlQmZsOU9ENW5xUjBUUzh0SWFkU19KZEpfTGlRTERWVTYyb2xCalo0eVF3dEt5VzNaZWtqYnhhd1lGTGZqdkl0NkRYV3pTRW9sZnlpbjNLaHlabTFieUVUUm9UQlV4Rko4SnRxb0JmN1RtVDdRNGdsT3NXcW56SHN1T2RXaHVBZkd0VGp4LVFLanFVb3dBeXM2TXJ2SWJCdjhpT1c3Z3JIUQ?oc=5",
-     "date": "2026-10-15",
-     "source": "Nikkei Asia",
-     "label": "Japan",
-     "snippet": "More workers head to big cities after cap on new visas sparks urban wage hikes",
-     "lead": "Japan India South Korea Indonesia Taiwan Thailand U.S. East Asia Hong Kong Macao Taiwan Mongolia Japan South Korea North Korea Southeast Asia Thailand Malaysia Singapore Philippines Vietnam Myanmar Cambodia Laos Brunei East Timor South Asia Pakistan Afghanistan Bangladesh Sri Lanka Nepal Bhutan Maldives Central Asia Uzbekistan Turkmenistan Tajikistan Kyrgyzstan Oceania New Zealand Papua New Guinea Pacific Islands Rest of the World ...",
-     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F2%2F3%2F3%2F13323327-1-eng-GB%2Fce1650b51442-20261015N-Japan-foreign-workers.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
-     "why": [
-      "Affects work visas"
-     ],
-     "tags": [
-      "Work visa",
-      "Japan"
      ]
     },
     {
