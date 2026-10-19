@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-19",
- "built": "2026-10-19 10:45 IST",
+ "built": "2026-10-19 22:43 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,44 +12,44 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23045.0,
-   "change_pct": -0.44,
-   "asof": "19 Oct 10:45 IST"
+   "value": 22889.0,
+   "change_pct": -1.11,
+   "asof": "19 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74596.0,
-   "change_pct": -0.18,
-   "asof": "19 Oct 10:30 IST"
+   "value": 73853.0,
+   "change_pct": -1.17,
+   "asof": "19 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.84,
-   "change_pct": 0.33,
-   "asof": "19 Oct 10:45 IST"
+   "value": 94.92,
+   "change_pct": 0.41,
+   "asof": "19 Oct 22:36 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 108.04,
-   "change_pct": -1.66,
-   "asof": "19 Oct 10:34 IST"
+   "value": 110.03,
+   "change_pct": 0.15,
+   "asof": "19 Oct 22:33 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4201.0,
-   "change_pct": 0.48,
-   "asof": "19 Oct 10:35 IST"
+   "value": 4158.0,
+   "change_pct": -0.55,
+   "asof": "19 Oct 22:33 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.1,
-   "change_pct": 0.18,
-   "asof": "17 Oct 00:29 IST"
+   "value": 5.14,
+   "change_pct": 0.9,
+   "asof": "19 Oct 22:28 IST"
   }
  ],
  "features": {
@@ -79,20 +79,59 @@
  },
  "desks": {
   "Policy": {
-   "total": 208,
-   "new_today": 1,
+   "total": 219,
+   "new_today": 8,
    "items": [
     {
      "desk": "Policy",
-     "score": 5,
-     "priority": 38,
-     "title": "Detailed Result: OMO Sale Auction held on Oct 13, 2026 and Settlement on Oct 14, 2026",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63798",
-     "date": "2026-10-13",
+     "score": 6,
+     "priority": 46,
+     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63803",
+     "date": "2026-10-14",
      "source": "RBI",
      "label": "Banking & Rates",
      "snippet": "Press Releases - Reserve Bank of India",
      "lead": "",
+     "image": null,
+     "why": [
+      "New law or act",
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 38,
+     "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Konark Urban Co-operative Bank Ltd., Ulhasnagar – Extension of Period",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63831",
+     "date": "2026-10-19",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "The Reserve Bank of India issued Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 to The Konark Urban Co-operative Bank Ltd., Ulhasnagar vide Directive No. CO.DOS.SED.No.S592/45-11-001/2024-25 dated April 23, 2024 for a period of six months up to close of business on October 23, 2024, which was last extended up to close of business on October 23, 2026 vide Directive No. ...",
+     "image": null,
+     "why": [
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 38,
+     "title": "Underwriting Auction for sale of Government Security for ₹34,000 crore on October 16, 2026",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63811",
+     "date": "2026-10-15",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "Government of India has announced the sale (re-issue) of Government Security, as detailed below, through auction to be held on October 16, 2026 (Friday) . As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
      "image": null,
      "why": [
       "Regulator: RBI",
@@ -104,56 +143,18 @@
     },
     {
      "desk": "Policy",
-     "score": 4,
-     "priority": 31,
-     "title": "Building a New Beginning Through the Inter-Caste Marriage Incentive Scheme",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323772",
-     "date": "2026-10-15",
+     "score": 5,
+     "priority": 38,
+     "title": "Ministry of Cooperation mandates new Audit Reporting Framework for Multi-State Cooperative Societies to strengthen transparency, accountability and good governance",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323313",
+     "date": "2026-10-14",
      "source": "PIB",
-     "label": "Energy & Power",
-     "snippet": "Marriage is not only the union of two individuals but also an opportunity to strengthen mutual respe",
-     "lead": "Ministry of Social Justice & Empowerment Building a New Beginning Through the Inter-Caste Marriage Incentive Scheme Mr. Aditya Sadhu Sawant and Mrs. Khushi Pravin Shaha’s Journey Towards Equality and Social Harmony Posted On: 15 OCT 2026 2:15PM by PIB Delhi Marriage is not only the union of two individuals but also an opportunity to strengthen mutual respect, equality and harmony within society. For Mr. Aditya Sadhu Sawant and Mrs. ...",
-     "image": null,
-     "why": [
-      "Subsidy or incentive"
-     ],
-     "tags": [
-      "Energy & Power"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 3,
-     "priority": 23,
-     "title": "National Steering Committee Approves ₹1,194.92 Crore Investment Under PM-SETU for Five ITI Clusters Across Maharashtra, Odisha and Jammu & Kashmir",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2324330",
-     "date": "2026-10-16",
-     "source": "PIB",
-     "label": "Labour & Social",
-     "snippet": "The 6th National Steering Committee (NSC) meeting of the Pradhan Mantri Skilling and Employability T",
-     "lead": "Ministry of Skill Development and Entrepreneurship National Steering Committee Approves ₹1,194.92 Crore Investment Under PM-SETU for Five ITI Clusters Across Maharashtra, Odisha and Jammu & Kashmir Tata Steel Foundation, BVG India, Belrise Industries, Eagle Infra India and Inderdeep Infra India to partner in upgrading five ITI clusters; cumulative investment approved under PM-SETU reaches ₹3,687 crore Posted On: 16 OCT 2026 3:25PM by ...",
-     "image": null,
-     "why": [
-      "High on the desk's ranking"
-     ],
-     "tags": [
-      "Labour & Social"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 2,
-     "priority": 15,
-     "title": "RBI approves amalgamation of Indian branches of Emirates NBD Bank P.J.S.C. with RBL Bank Limited",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63820",
-     "date": "2026-10-16",
-     "source": "RBI",
      "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "The Reserve Bank of India has sanctioned the Scheme of Amalgamation of Indian branches of Emirates NBD Bank P.J.S.C. (Transferor Bank) with RBL Bank Limited (Transferee Bank). The Scheme has been sanctioned in exercise of the powers contained in sub-section (4) of Section 44A of the Banking Regulation Act, 1949. The effective date of the amalgamation shall be December 01, 2026. All the Indian branches of Emirates NBD Bank P.J.S.C. will ...",
+     "snippet": "Guided by Prime Minister Shri Narendra Modi’s vision of ‘Sahkar se Samriddhi’ and under the leadersh",
+     "lead": "Ministry of Cooperation Ministry of Cooperation mandates new Audit Reporting Framework for Multi-State Cooperative Societies to strengthen transparency, accountability and good governance Guided by Prime Minister Shri Narendra Modi’s vision of ‘Sahkar se Samriddhi’ and under the leadership of Union Home Minister and Minister of Cooperation Shri Amit Shah, Ministry of Cooperation takes another significant step towards strengthening ...",
      "image": null,
      "why": [
-      "Regulator: RBI"
+      "Rates and liquidity"
      ],
      "tags": [
       "Banking & Rates"
@@ -162,98 +163,158 @@
    ]
   },
   "Startups": {
-   "total": 757,
-   "new_today": 5,
+   "total": 776,
+   "new_today": 24,
    "items": [
     {
      "desk": "Startups",
-     "score": 9,
-     "priority": 75,
-     "title": "Decoding Urban Company’s ₹2,500 Cr Fundraise Proposal",
-     "url": "https://inc42.com/buzz/decoding-urban-companys-%e2%82%b92500-cr-fundraise-proposal/",
-     "date": "2026-10-17",
+     "score": 10,
+     "priority": 77,
+     "title": "Even Healthcare Raises $50 Mn To Expand Hospital Network Across Bengaluru",
+     "url": "https://inc42.com/buzz/even-healthcare-raises-50-mn-to-expand-hospital-network-across-bengaluru/",
+     "date": "2026-10-19",
      "source": "Inc42",
-     "label": "India · Policy & Regulation",
-     "snippet": "The proposed ₹2,500 Cr fundraise bolsters Urban Company's balance sheet and provides it with strategic flexibility.",
-     "lead": "The proposed ₹2,500 Cr fundraise bolsters Urban Company's balance sheet and provides it with strategic flexibility, said CEO Abhiraj Singh Bhal The company will deploy the capital towards growth investments, such as acquisitions that consolidate its position in an existing market or enter a new category It is also looking to expand into a new category by making residential air conditioners under its consumer appliances brand Native",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/Urban-company-social-1.jpg",
+     "label": "India · Health & Wellness",
+     "snippet": "Even will use the proceeds primarily to expand its hospital network in Bengaluru",
+     "lead": "Even Healthcare has raised $50 Mn in a Series B round led by existing investor Khosla Ventures, with participation from Alpha Wave The funding will support the managed care startup’s hospital expansion in Bengaluru as it scales back its insurance business Even plans to add four hospitals by the end of FY27 to its existing network of two facilities before expanding to other cities",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Evenhealth-care-ft.png",
      "why": [
       "Funding",
-      "Large deal (about $263M)"
+      "Sizeable deal (about $50M)"
      ],
      "tags": [
       "Funding",
-      "Policy & Regulation"
+      "Health & Wellness"
      ]
     },
     {
      "desk": "Startups",
-     "score": 9,
-     "priority": 75,
-     "title": "Burma Burma Parent Files DRHP For IPO With ₹150 Cr Fresh Issue",
-     "url": "https://inc42.com/buzz/burma-burma-parent-files-drhp-for-ipo-with-%e2%82%b9150-cr-fresh-issue/",
-     "date": "2026-10-17",
-     "source": "Inc42",
-     "label": "India · Commerce & D2C",
-     "snippet": "The company has earmarked ₹117.3 Cr from the fresh issue proceeds to set up 27 company-owned and operated Burma Burma restaurants",
-     "lead": "Burma Burma’s parent Hunger Pangs has filed its DRHP for an IPO comprising a fresh issue of up to ₹150 Cr and an OFS of up to 2.79 Cr shares The restaurant operator plans to deploy ₹117.3 Cr towards opening 27 Burma Burma outlets, expanding its footprint beyond the 22 restaurants operational as of July 31 Hunger Pangs’ operating revenue increased 46.6% YoY to ₹155.5 Cr in FY26, while net loss surged multifold to ₹15.4 Cr from ₹50.5 Lakh",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Burma-social-image.png",
-     "why": [
-      "IPO & Listing",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "Commerce & D2C"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 75,
-     "title": "From Boldfit To Origin — Indian Startups Raised About $236 Mn This Week",
-     "url": "https://inc42.com/buzz/from-boldfit-to-origin-indian-startups-raised-about-236-mn-this-week/",
-     "date": "2026-10-17",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "Indian startups raised $236 Mn across 25 deals between October 12 and October 16, up 92.2% from nearly $123 Mn raised in the preceding week.",
-     "lead": "Indian startups raised $236 Mn across 25 deals between October 12 and October 16, up 92.2% from nearly $123 Mn raised in the preceding week AI dominated the funding charts this week and attracted $53.4 Mn across six deals. Meanwhile, ecommerce emerged as the second-most funded sector and lapped up $48.3 Mn Accel emerged as the most active investor of the week and backed four startups. Hitachi Ventures, 3one4Capital and IPV also ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/IMG_5387.jpg",
+     "score": 10,
+     "priority": 77,
+     "title": "Even Healthcare raises $50M in Series B round led by Khosla Ventures",
+     "url": "https://yourstory.com/2026/10/even-healthcare-raises-50m-in-series-b-round-led-by-khosla-ventures",
+     "date": "2026-10-19",
+     "source": "YourStory",
+     "label": "India · Health & Wellness",
+     "snippet": "The Bengaluru-based managed care company plans five new hospitals in six months.",
+     "lead": "Even Healthcare raises $50M in Series B round led by Khosla Ventures The Bengaluru-based managed care company plans five new hospitals in six months. Team YS 17388 Stories Monday October 19, 2026 , 3 min Read Bengaluru-based managed care company Even Healthcare has raised $50 million in a Series B round led by existing investor Khosla Ventures. Alpha Wave also participated in the round. According to the company, the round values it at ...",
+     "image": "https://images.yourstory.com/cs/2/f4c8dc30b73511f197be7d10bec6c83f/CopyofNewPPTTemplates4-1792390613985.jpg",
      "why": [
       "Funding",
-      "Large deal (about $236M)"
+      "Sizeable deal (about $50M)"
      ],
      "tags": [
-      "Funding"
+      "Funding",
+      "Health & Wellness"
      ]
     },
     {
      "desk": "Startups",
-     "score": 9,
-     "priority": 75,
-     "title": "Cult.fit Gets SEBI Clearance For ₹950 Cr+ IPO",
-     "url": "https://inc42.com/buzz/cult-fit-gets-sebi-clearance-for-%e2%82%b9950-cr-ipo/",
+     "score": 10,
+     "priority": 77,
+     "title": "Flipkart-backed Super.money’s FY26 revenue triples to Rs 292 crore but loss widens 78%",
+     "url": "https://economictimes.indiatimes.com/tech/technology/flipkart-backed-super-moneys-fy26-revenue-triples-to-rs-292-crore-but-loss-widens-78/articleshow/135044276.cms",
+     "date": "2026-10-19",
+     "source": "ET Startups",
+     "label": "India · Fintech",
+     "snippet": "Consumer-facing UPI apps such as Super.money spend heavily on marketing to acquire customers before monetising them through credit and commerce. The company’s total income rose to Rs 293.3 crore from Rs 94 crore in FY25, while expenses more than doubled to Rs 557.1 crore, filings with the Ministry of Corporate Affairs (MCA) showed.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-337786,resizemode-75,msid-135044276/tech/technology/flipkart-backed-super-moneys-fy26-revenue-triples-to-rs-292-crore-but-loss-widens-78.jpg",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $31M)"
+     ],
+     "tags": [
+      "Funding",
+      "Fintech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "[Update] Zetwerk IPO Subscribed 31% On Day 2, QIB Portion At 37%",
+     "url": "https://inc42.com/buzz/zetwerk-ipo-subscribed-27-on-day-2-so-far-qib-retail-portions-booked-32-each/",
      "date": "2026-10-16",
      "source": "Inc42",
-     "label": "India · Policy & Regulation",
-     "snippet": "Markets regulator SEBI has given its go-ahead to gym chain Cult.fit’s ₹950 Cr IPO about three months after it filed DRHP with the regulator",
-     "lead": "Markets regulator SEBI has given its go-ahead to gym chain Cult.fit’s ₹950 Cr IPO about three months after it filed draft red herring prospectus (DRHP) with the regulator As per its DRHP from July, the company’s IPO will comprise a fresh issue of shares worth up to ₹950 Cr and an offer for sale of up to 17.86 Cr shares As per SEBI’s latest processing status, the regulator issued its final observation on the offer documents of Cult.fit ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/cultfit_kmp_soc.jpg",
+     "label": "India · SaaS & Enterprise",
+     "snippet": "Zetwerk’s ₹5,012.3 Cr IPO was subscribed 31% at the end of the day 2, receiving bids for 5.75 Cr shares against 18.51 Cr shares on offer",
+     "lead": "Demand remained subdued, with none of the investor categories fully subscribing to their allocations after two days of bidding. The IPO comprises a fresh issue of ₹2,830 Cr and an OFS of up to 14.45 Cr shares, worth ₹2,182.3 Cr at the upper end of the ₹143-₹151 price band. Meanwhile, employees bid for 2.95 Lakh shares against 7 Lakh shares reserved for them, subscribing to 42% of their quota.",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Zetwerk-IPO-social.jpg",
      "why": [
       "IPO & Listing",
-      "Large deal (about $100M)"
+      "Very large figure in headline (about $528M: round or valuation)"
      ],
      "tags": [
       "IPO & Listing",
-      "Policy & Regulation"
+      "SaaS & Enterprise"
      ]
     }
    ]
   },
   "Immigration": {
-   "total": 1101,
-   "new_today": 1,
+   "total": 1116,
+   "new_today": 12,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 55,
+     "title": "NZ First to abolish Accredited Employer Work Visa",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamFzRFh2T25mNTJkRWkzVXU0ZmlybjlTX1ZJVXAtYkVyUGZGWk9ndnI2eTEyWWdfYmxYRU9BMmdfR3dwSzJpTEp0Y1JGcUV1aWZWYUZqeGlNVGhWbHk2Zm5kY3BrMHNQMFZyWHd5enAtOUl2aUZCXzB1UVJRV0lKa1RDUkk?oc=5",
+     "date": "2026-10-12",
+     "source": "Indian Newslink",
+     "label": "New Zealand",
+     "snippet": "NZ First to abolish Accredited Employer Work Visa",
+     "lead": "Skilled Work Visa proposal raises questions for migrants and employers New Zealand First has placed migrant employment at the centre of the election campaign, promising to dismantle the Accredited Employer Work Visa (AEWV) system and replace it with a more restrictive arrangement designed around verified labour shortages. The proposal, announced on October 11, 2026, at a public meeting in Dunedin, could have far-reaching consequences ...",
+     "image": "https://admin.indiannewslink.co.nz/uploads/NZ_First_to_abolish_Main_Banner_5eba64db85.png",
+     "why": [
+      "Affects work visas",
+      "Announces a change"
+     ],
+     "tags": [
+      "Work visa",
+      "New Zealand"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 45,
+     "title": "Sweden Visa From Bangladesh: Dhaka Embassy No Longer Decides Applications",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCdk5mZ3pVQjlXZFFocVVxZW1pQ2xCejR6MUdKZHpwOU9lNmpRNVNDN2FpMU4wMlc1SjZ0cU5XMXlJLWJuRkE3ajNsWEJmZzN3RDdNZVZBVHItSWFaS2gxMDRoY18?oc=5",
+     "date": "2026-10-19",
+     "source": "Wego Travel Blog",
+     "label": "Sweden",
+     "snippet": "Bangladeshi travelers seeking a Schengen visa for Sweden now face a change in who reviews their applications. Since October 15, 2026, the Swedish Migration Agency has made all decisions on Schengen visa applications submitted in Bangladesh, replacing the Embassy of Sweden in Dhaka, the embassy announced. How to Apply Applicants should con",
+     "lead": "Where Fly Cham flies from Damascus and Aleppo, what Economy and Business include, baggage allowances, fees and how to reach the airline.",
+     "image": "https://blog.wego.com/wp-content/uploads/stockholm-riddarholmen-waterfront.jpg",
+     "why": [
+      "Announces a change"
+     ],
+     "tags": [
+      "Sweden"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 45,
+     "title": "Czech minister Macinka rejects Finnish EU visa ban for Russians",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQnAyV1NINjk0MEJoaUVodkQ0bnh2ZjVXQWZ5RG41QmZSbThQT1RLT19ZODdYRWw3cnhoYUhYRklZM3paRFJMTzJSVy1QejMtUzRDWURwRWlMazRRS21yTHoxT0phcmJxX05LaFNhZm1scFJUZjVIcVdRRGpHcnNTZ0liVDF3MVFuYXFlWWU1aFVtR1FYMnNWXzdBZksxdGRXOUE?oc=5",
+     "date": "2026-10-19",
+     "source": "Around Prague",
+     "label": "Finland",
+     "snippet": "",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Announces a change"
+     ],
+     "tags": [
+      "Finland"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 5,
@@ -272,65 +333,6 @@
      "tags": [
       "Work visa",
       "Japan"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 45,
-     "title": "Portugal has limited immigration, and Spain may follow | World News",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb0RwdWdUejBZUnBjOU1WRjdiZHA5S2IzOHlZcjRPVEpDMEFGeVZhWmRPWlJhbW9seVJ5WnhsU1lGOUZDa2pPd2xBcHFsRkh1ZkhWeTdOZmp6UUVnY3JReFBKWFhoVUFzRFFXLU9uaXJLMGIwWVJOZGM2UXE2dnNQSFB0WGxZZmo2N1ByZnhpWVd0dmhrTzdJLXhVdmFXUHhuc1RTdXNUT0hmYmFpSDFreXlsYzJES25tdlc4dNIBvAFBVV95cUxOb0RwdWdUejBZUnBjOU1WRjdiZHA5S2IzOHlZcjRPVEpDMEFGeVZhWmRPWlJhbW9seVJ5WnhsU1lGOUZDa2pPd2xBcHFsRkh1ZkhWeTdOZmp6UUVnY3JReFBKWFhoVUFzRFFXLU9uaXJLMGIwWVJOZGM2UXE2dnNQSFB0WGxZZmo2N1ByZnhpWVd0dmhrTzdJLXhVdmFXUHhuc1RTdXNUT0hmYmFpSDFreXlsYzJES25tdlc4dA?oc=5",
-     "date": "2026-10-16",
-     "source": "Hindustan Times",
-     "label": "Spain",
-     "snippet": "The wave of immigrants in both countries looks politically unsustainable",
-     "lead": "Nestled beneath Lisbon’s former Moorish quarter, the Rua do Benformoso is a winding street of decaying buildings faced with azulejos (decorative tiles). It is lined with Indian food shops and stores selling hookah pipes and mobile phones. Piedade, a Portuguese woman who has lived here for over 60 years, dislikes what has happened to it. “There’s drugs and crime,” she says. “I stay inside at home.” The Rua do Benformoso has become the ...",
-     "image": null,
-     "why": [
-      "Quota or cap change"
-     ],
-     "tags": [
-      "Quota / Caps",
-      "Spain"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 4,
-     "priority": 36,
-     "title": "US V-P Vance blames immigration, problems of ‘assimilation’ for violence in France",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcDJkR2c4WlBSRTU3WWVKdkxMVVRNeXpUMkFHb096Vm5wb1F5dTN2WmQ0S2pVei1hRWpMSWV2c1E1alU4b05ITl9SOXdqdGw1eUtQUXl3S1B2Y2NFZXZGc3BRa0VKdXlCVGw0bjVuRmRKOXJnczBDUWZqcG1XeGRoUEtrV2t0Q0U2bXVOREhTdXR3VDd5d2VaQTdOb0Y3ZFRfYk1lTU1hLXNXWkotYnc5cnphSzA3MEwyeFFPMkJlQ1VRcFBLbTZv?oc=5",
-     "date": "2026-10-18",
-     "source": "The Straits Times",
-     "label": "France",
-     "snippet": "Vance blames immigration and assimilation problems for violence during protests in France. Read more at straitstimes.com.",
-     "lead": "Major protests gripped France on Oct 17, where the police clashed with demonstrators as nationwide marches against soaring inflation devolved into street violence, widespread looting and fires. J.D. Vance blamed immigration and weak “assimilation” for violence in France, after sharing a video of the Limoges city hall fire on X. He said Western liberals had “imported the third world” and warned France could lose more landmarks if it did ...",
-     "image": "https://cassette.sphdigital.com.sg/image/straitstimes/de62e97e1a582ee59e4e396eb3776952545e49695bf02920ff507fd137669ab2?w=1200",
-     "why": [
-      "High on the desk's ranking"
-     ],
-     "tags": [
-      "France"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 3,
-     "priority": 27,
-     "title": "Austria makes it easier for foreigners to get work permits",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0bTVxTVlaUm1ZdDFweEtxZ2hpZmg5WHJQNktXSnd0bE41TXRrakhYd3NvZjNvZndMa1FoNkFvMVRnNF9TaU5NRl81ekdtci01LVhuVWxTUURBNXJUUEt5S1pR?oc=5",
-     "date": "2026-10-16",
-     "source": "Pakistan Connect",
-     "label": "Austria",
-     "snippet": "New regulations have been implemented in Austria that make it easier for foreign workers to switch jobs",
-     "lead": "New regulations have been implemented in Austria that make it easier for foreign workers to switch jobs, maintain their work permits once they are no longer employed and have their applications processed faster. The changes will be implemented on August 7, 2026, with a focus on offering increased flexibility for foreign workers and employers. The new regulations allow those with a single permit to transfer their employer with the ...",
-     "image": "https://thepakistanconnect.com/wp-content/uploads/2026/10/austrias-red-white-red-card-how-pakistanis-can-apply-for-jobs-residency.jpg",
-     "why": [
-      "Affects work visas"
-     ],
-     "tags": [
-      "Work visa",
-      "Austria"
      ]
     }
    ]
@@ -429,26 +431,49 @@
  },
  "items": [
   {
-   "desk": "Startups",
-   "score": 12,
+   "desk": "Policy",
+   "score": 13,
    "priority": 100,
-   "title": "UC Eyes More Capital, Burma Burma’s IPO & More",
-   "url": "https://inc42.com/buzz/uc-eyes-more-capital-burma-burmas-ipo-more/",
+   "title": "India–New Zealand FTA to Come into Force on 20th October 2026 on Vijay Dashmi, Opening New Opportunities for Indian Exporters",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2325235",
+   "date": "2026-10-19",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "Union Minister of Commerce and Industry Shri Piyush Goyal and New Zealand’s Minister for Trade and I",
+   "lead": "Ministry of Commerce & Industry India–New Zealand FTA to Come into Force on 20th October 2026 on Vijay Dashmi, Opening New Opportunities for Indian Exporters 100% Duty-Free Access to New Zealand Market to Create Opportunities for Indian MSMEs, Artisans, Farmers and Women Entrepreneurs: lUnion Minister of Commerce and Industry Shri Piyush Goyal India Flags Off First-Ever JCB Machine Export to New Zealand New Zealand Commits to ...",
+   "image": null,
+   "why": [
+    "Trade agreement",
+    "New law or act",
+    "Commerce"
+   ],
+   "tags": [
+    "Tax, Duties & Trade"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 13,
+   "priority": 100,
+   "title": "[Update] Zetwerk’s IPO Closes With 3.06X Subscription",
+   "url": "https://inc42.com/buzz/zetwerks-ipo-fully-subscribed-on-day-3-gets-muted-response-from-retail-investors/",
    "date": "2026-10-19",
    "source": "Inc42",
-   "label": "India · Policy & Regulation",
-   "snippet": "Urban Company is raising ₹2,500 Cr as it chases profitability, eyes new businesses and fights a costly battle for home services supremacy.",
-   "lead": "A Bigger War Chest: Urban Company’s board has approved a proposal to raise up to ₹2,500 Cr through equity or convertible securities. While it is yet to decide on the route for the fundraise, the management believes that the proceeds would absorb short-term operational burn without constraining internal cash flows. The ₹2,500 Cr Buffer: While the company maintains that it can reach EBITDA breakeven by FY28 without fresh capital, the ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Social-Daily-Brief-30.png",
+   "label": "India · SaaS & Enterprise",
+   "snippet": "Zetwerk’s IPO has been oversubscribed on the final day of bidding, receiving bids for 56.62 Cr shares against 18.50 Cr shares on offer",
+   "lead": "Qualified institutional buyers (QIBs) have shown the highest interest in the IPO, oversubscribing their quota by 4.73X of their allocation Qualified institutional buyers (QIBs) have shown the highest interest in the IPO, oversubscribing their quota by 1.44X. These investors have placed bids for 14.28 Cr shares against 9.89 Cr shares on offer till now. Meanwhile, employees bid for 7.8 Lakh shares against 7 Lakh shares reserved for them, ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Zetwerk-IPO-social-1.jpg",
    "why": [
     "IPO & Listing",
-    "Large deal (about $263M)"
+    "Very large figure in headline (about $528M: round or valuation)"
    ],
    "tags": [
     "IPO & Listing",
-    "Policy & Regulation"
+    "SaaS & Enterprise"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -472,7 +497,7 @@
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -496,7 +521,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -519,8 +544,54 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 92,
+   "title": "Why Urban Company will keep investing in InstaHelp",
+   "url": "https://www.medianama.com/2026/10/223-urban-company-investing-instahelp/",
+   "date": "2026-10-19",
+   "source": "MediaNama",
+   "label": "India · Policy & Regulation",
+   "snippet": "Urban Company bets on InstaHelp to attract new users despite mounting losses, as it plans a Rs 2,500 crore fundraise.",
+   "lead": "“Our ambition is to go beyond being just a home services company and eventually become the trusted home platform for Indian consumers, almost the operating system for the Indian home. That home platform cannot exist without a frequency layer — and that frequency layer is InstaHelp,” its co-founder and CEO Abhiraj Singh Bhal said. During Urban Company’s Q2 FY27 analysts’ call , Bhal said that in micro-markets where Urban Company offers ...",
+   "image": "https://www.medianama.com/wp-content/uploads/2025/06/Gemini_Generated_Image_vsvfz0vsvfz0vsvf-1024x559-1.png",
+   "why": [
+    "IPO & Listing",
+    "Large deal (about $263M)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Policy & Regulation"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 92,
+   "title": "UC Eyes More Capital, Burma Burma’s IPO & More",
+   "url": "https://inc42.com/buzz/uc-eyes-more-capital-burma-burmas-ipo-more/",
+   "date": "2026-10-19",
+   "source": "Inc42",
+   "label": "India · Policy & Regulation",
+   "snippet": "Urban Company is raising ₹2,500 Cr as it chases profitability, eyes new businesses and fights a costly battle for home services supremacy.",
+   "lead": "A Bigger War Chest: Urban Company’s board has approved a proposal to raise up to ₹2,500 Cr through equity or convertible securities. While it is yet to decide on the route for the fundraise, the management believes that the proceeds would absorb short-term operational burn without constraining internal cash flows. The ₹2,500 Cr Buffer: While the company maintains that it can reach EBITDA breakeven by FY28 without fresh capital, the ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Social-Daily-Brief-30.png",
+   "why": [
+    "IPO & Listing",
+    "Large deal (about $263M)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Policy & Regulation"
+   ],
+   "rank": 7,
+   "must_read": false
   },
   {
    "desk": "Immigration",
@@ -543,8 +614,99 @@
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 11,
+   "priority": 85,
+   "title": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
+   "date": "2026-10-19",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026 Please refer to Section C on ‘Limits for Non-Option Derivative Contracts’ of Chapter IV of the Reserve Bank of India (Small Finance Banks - Miscellaneous) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by section 35A of the Banking Regulation Act, 1949, and all other provisions / laws enabling the Reserve Bank of India ...",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "[Update] Tonbo Imaging IPO Closes With 135.9X Oversubscription",
+   "url": "https://inc42.com/buzz/tonbo-imaging-ipo-oversubscribed-40x-on-day-3-till-now/",
+   "date": "2026-10-19",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Tonbo Imaging’s IPO has been oversubscribed 40.82X on the third day of bidding till now. Till 13:23 IST, investors have placed bids for 34.80 Cr shares",
+   "lead": "Tonbo Imaging’s ₹852 Cr IPO closed with an oversubscription of 135.9X on the third and final day of bidding. The ₹852.1 Cr IPO comprises entirely an offer for sale (OFS) of up to 1.2 Cr shares, with no fresh issue component Investors placed bids for 115.87 Cr shares against the 85.26 Lakh shares on offer, with qualified institutional buyers (QIBs) leading the charge",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Tonbo-Soc-1.jpg",
+   "why": [
+    "IPO & Listing",
+    "Sizeable deal (about $90M)"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "Urban Company Slumps 9.5% After Q2 Loss Widens, Board Clears ₹2,500 Cr Fundraise",
+   "url": "https://inc42.com/buzz/urban-company-slumps-9-5-after-q2-loss-widens-board-clears-%e2%82%b92500-cr-fundraise/",
+   "date": "2026-10-19",
+   "source": "Inc42",
+   "label": "India · Policy & Regulation",
+   "snippet": "Urban Company shares slumped 9.5% to ₹143.30 on the BSE after its Q2 FY27 loss widened and the board approved a fundraise of up to ₹2,500 Cr",
+   "lead": "Urban Company shares slumped 9.5% to ₹143.30 on the BSE after its Q2 FY27 loss widened and the board approved a fundraise of up to ₹2,500 Cr InstaHelp’s losses have constrained the company’s financial flexibility as it pursues growth opportunities, including Native’s planned entry into residential air conditioners Net loss widened to ₹182.5 Cr from ₹59.3 Cr a year earlier, while operating revenue rose 41% YoY to ₹537.3 Cr.",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/urban-company-ipo-2.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $263M)"
+   ],
+   "tags": [
+    "Funding",
+    "Policy & Regulation"
+   ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+   "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+   "date": "2026-10-19",
+   "source": "TechCrunch",
+   "label": "India · Health & Wellness",
+   "snippet": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+   "lead": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics Jagmeet Singh 12:30 AM PDT · October 19, 2026 Even Healthcare has raised $50 million in a funding round led by Khosla Ventures, as the Indian startup seeks to change how hospitals in the world’s most populous country make money and how doctors are rewarded. The all-equity Series B round also saw participation from Alpha Wave and valued it at $300 ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/even-hospital.jpg?resize=1200,800",
+   "why": [
+    "Funding",
+    "Large deal (about $300M)"
+   ],
+   "tags": [
+    "Funding",
+    "Health & Wellness"
+   ],
+   "rank": 12,
+   "must_read": false
   },
   {
    "desk": "Policy",
@@ -565,7 +727,7 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 6,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -588,7 +750,7 @@
     "Regulatory",
     "Telecom & Media"
    ],
-   "rank": 7,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -611,7 +773,7 @@
     "Mutual Funds",
     "Banks & Financials"
    ],
-   "rank": 8,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -633,7 +795,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 9,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -656,135 +818,20 @@
    "tags": [
     "AIF"
    ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "[Update] Zetwerk IPO Subscribed 31% On Day 2, QIB Portion At 37%",
-   "url": "https://inc42.com/buzz/zetwerk-ipo-subscribed-27-on-day-2-so-far-qib-retail-portions-booked-32-each/",
-   "date": "2026-10-16",
-   "source": "Inc42",
-   "label": "India · SaaS & Enterprise",
-   "snippet": "Zetwerk’s ₹5,012.3 Cr IPO was subscribed 31% at the end of the day 2, receiving bids for 5.75 Cr shares against 18.51 Cr shares on offer",
-   "lead": "Demand remained subdued, with none of the investor categories fully subscribing to their allocations after two days of bidding. The IPO comprises a fresh issue of ₹2,830 Cr and an OFS of up to 14.45 Cr shares, worth ₹2,182.3 Cr at the upper end of the ₹143-₹151 price band. Meanwhile, employees bid for 2.95 Lakh shares against 7 Lakh shares reserved for them, subscribing to 42% of their quota.",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Zetwerk-IPO-social.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $528M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "SaaS & Enterprise"
-   ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
-   "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
-   "date": "2026-10-15",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
-   "lead": "Ramp reaches $60B valuation as it pushes deeper into AI Ram Iyer 7:47 AM PDT · October 15, 2026 Expense management company Ramp said on Thursday that it had raised $1.85 billion in a new funding round that values it at $60 billion, just four months after raising $750 million at a $44 billion valuation . The financing was co-led by Dragoneer Investment Group, Thrive Capital, Founders Fund, Sands Capital, and Avenir Growth. Ramp said its ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/eric-glyman.jpg?resize=1200,801",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $60,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Jio’s $3.2 bn IPO: What its filing reveals about debt, growth and risks",
-   "url": "https://www.medianama.com/2026/10/223-jio-ipo-filing-debt-growth-risks/",
-   "date": "2026-10-15",
-   "source": "MediaNama",
-   "label": "India · Fintech",
-   "snippet": "Jio Platforms, the digital arm of Reliance Industries will raise $3.2 billion via an IPO with the issue of 270 million new shares.",
-   "lead": "Jio Platforms, the digital arm of Mukesh Ambani’s Reliance Industries, plans to raise up to $3.2 billion through an initial public offering (IPO). If successful, it will be India’s largest IPO to date. The offering could value the company at up to $108.3 billion. In a stock exchange filing on October 14, Reliance said Jio had set the share price between Rs 1,065 and Rs 1,119. The company plans to issue up to 270 million new shares. At ...",
-   "image": "https://www.medianama.com/wp-content/uploads/2024/07/Reliance-Jio.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $3,200M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Fintech"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "TechSparks 2026 is here; Zetwerk targets Rs 5,012 Cr IPO",
-   "url": "https://yourstory.com/2026/10/techsparks-2026-is-here-zetwerks-ipo",
-   "date": "2026-10-13",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "Under this year’s rallying cry, ‘The New Tech Order,’ YourStory’s 17th edition is bringing together 10,000+ visionaries, 500 speakers, 1,000 startups, and 300 investors. We aren't just discussing the future of AI, deep tech, and digital infrastructure—we're asking: who gets to build it, and how fast",
-   "lead": "TechSparks 2026 is here; Zetwerk targets Rs 5,012 Cr IPO Under this year’s rallying cry, ‘The New Tech Order,’ YourStory’s 17th edition is bringing together 10,000+ visionaries, 500 speakers, 1,000 startups, and 300 investors. We aren't just discussing the future of AI, deep tech, and digital infrastructure—we're asking: who gets to build it, and how fast Team YS 17343 Stories Tuesday October 13, 2026 , 4 min Read India’s tech capital ...",
-   "image": "https://images.yourstory.com/cs/2/47afd43024ec11ec9ecb9b7afb0df1da/TSBookendsDay1Opener-1791824462509.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $528M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "AI & Deeptech"
-   ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Zetwerk sets IPO price band at Rs 143-151, aims to raise Rs 5,012 Cr",
-   "url": "https://yourstory.com/2026/10/zetwer-sets-ipo-price-band-rs-143-151-to-raise-rs-5012-cr",
-   "date": "2026-10-12",
-   "source": "YourStory",
-   "label": "India · Other",
-   "snippet": "Zetwerk has expanded the size of its IPO and is seeking a valuation of Rs 25,583 crore.",
-   "lead": "Zetwerk sets IPO price band at Rs 143-151, aims to raise Rs 5,012 Cr Zetwerk has expanded the size of its IPO and is seeking a valuation of Rs 25,583 crore. Team YS 17339 Stories Monday October 12, 2026 , 2 min Read Zetwerk, the Bengaluru-headquartered manufacturing marketplace, has set a price band of Rs 143–151 per share for its initial public offering (IPO), targeting a valuation of Rs 25,583 crore. The IPO comprises a fresh issue ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/IPOStock31600x900-1791787437744.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $528M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 15,
+   "rank": 17,
    "must_read": false
   },
   {
    "desk": "Policy",
    "score": 10,
    "priority": 77,
-   "title": "RBI to conduct 7-day Variable Rate Repo (VRR) auction under LAF on October 19, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63823",
+   "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on October 21, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63833",
    "date": "2026-10-19",
    "source": "RBI",
    "label": "Banking & Rates",
    "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Monday, October 19, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Wednesday, October 21, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
    "image": null,
    "why": [
     "Rates and liquidity",
@@ -793,7 +840,30 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 16,
+   "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 77,
+   "title": "Securities and Exchange Board of India (Alternative Investment Funds) (Third Amendment) Regulations, 2026",
+   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-alternative-investment-funds-third-amendment-regulations-2026_105331.html",
+   "date": "2026-10-15",
+   "source": "SEBI",
+   "label": "Markets & Regulation",
+   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: SEBI"
+   ],
+   "tags": [
+    "Markets & Regulation"
+   ],
+   "rank": 19,
    "must_read": false
   },
   {
@@ -815,7 +885,29 @@
    "tags": [
     "Markets & Regulation"
    ],
-   "rank": 17,
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 6,
+   "priority": 55,
+   "title": "Korea seeks dedicated US visa quota for shipbuilding workers",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS2s4dFJhNTRTdmhQd1dqc25kUDAzMEZaTGhZVEkzY1hZWlpWZU52YnE3eExZSW8yR3ZJVFl2amRtbXQ4S0lEbTJkZnpoTFJxTEZVck1qd2dzZGY1dHhfOUhUNU1IemlkY3M3RGxGRlowYUdJV2lpYmpYeUphZmRObzNOYlRId01BRTdqanJCSkZoTXAwRWhDWEhQZHcxWEU2WnV5OUFGSDkzM0JGSU94ZVN2TG5BN2g5OW5sZFF30gG-AUFVX3lxTFBLazh0UmE1NFN2aFB3V2pzbmRQMDMwRlpMaFlUSTNjWFlaWlZlTnZicTd4TFlJbzJHdklUWXZqZG1tdDhLSURtMmRmemhMUnFMRlVyTWp3Z3NkZjV0eF85SFQ1TUh6aWRjczdEbEZGWjBhR0lXaWlialh5SmFmZE5vM05iVEh3TUFFN2pqckJKRmhNcDBFaENYSFBkdzFYRTZadXk5QUZIOTMzQkZJT3hlU3ZMbkE3aDk5bmxkUXc?oc=5",
+   "date": "2026-10-19",
+   "source": "The Korea Times",
+   "label": "South Korea",
+   "snippet": "Korea is seeking a dedicated U.S. visa quota for shipbuilding workers as a condition for carrying out its $150 billion investment commitment under...",
+   "lead": "Companies Korea seeks dedicated US visa quota for shipbuilding workers A baseball cap bears the slogan “Make American Shipbuilding Great Again” (MASGA) in this file photo. The cap, designed by the Ministry of Trade, Industry and Resource, was produced for tariff negotiations with the U.S. Korea Times photo by Wang Tae-seog Korea is seeking a dedicated U.S. visa quota for shipbuilding workers as a condition for carrying out its $150 ...",
+   "image": "https://newsimg.koreatimes.co.kr/2026/10/19/53fbfc5b-dae6-4a2f-99bb-0f8d18001d3a.jpg",
+   "why": [
+    "Quota or cap change"
+   ],
+   "tags": [
+    "Quota / Caps",
+    "South Korea"
+   ],
+   "rank": 21,
    "must_read": false
   },
   {
@@ -837,7 +929,7 @@
     "PR / Settlement",
     "Norway"
    ],
-   "rank": 18,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -859,94 +951,6 @@
    "tags": [
     "Salary threshold",
     "Denmark"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 55,
-   "title": "NZ First to abolish Accredited Employer Work Visa",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamFzRFh2T25mNTJkRWkzVXU0ZmlybjlTX1ZJVXAtYkVyUGZGWk9ndnI2eTEyWWdfYmxYRU9BMmdfR3dwSzJpTEp0Y1JGcUV1aWZWYUZqeGlNVGhWbHk2Zm5kY3BrMHNQMFZyWHd5enAtOUl2aUZCXzB1UVJRV0lKa1RDUkk?oc=5",
-   "date": "2026-10-12",
-   "source": "Indian Newslink",
-   "label": "New Zealand",
-   "snippet": "NZ First to abolish Accredited Employer Work Visa",
-   "lead": "Skilled Work Visa proposal raises questions for migrants and employers New Zealand First has placed migrant employment at the centre of the election campaign, promising to dismantle the Accredited Employer Work Visa (AEWV) system and replace it with a more restrictive arrangement designed around verified labour shortages. The proposal, announced on October 11, 2026, at a public meeting in Dunedin, could have far-reaching consequences ...",
-   "image": "https://admin.indiannewslink.co.nz/uploads/NZ_First_to_abolish_Main_Banner_5eba64db85.png",
-   "why": [
-    "Affects work visas",
-    "Announces a change"
-   ],
-   "tags": [
-    "Work visa",
-    "New Zealand"
-   ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 6,
-   "priority": 46,
-   "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63803",
-   "date": "2026-10-14",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "",
-   "image": null,
-   "why": [
-    "New law or act",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 5,
-   "priority": 38,
-   "title": "Underwriting Auction for sale of Government Security for ₹34,000 crore on October 16, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63811",
-   "date": "2026-10-15",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "Government of India has announced the sale (re-issue) of Government Security, as detailed below, through auction to be held on October 16, 2026 (Friday) . As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
-   "image": null,
-   "why": [
-    "Regulator: RBI",
-    "Large outlay (Rs 10,000 Cr or more)"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 5,
-   "priority": 38,
-   "title": "Ministry of Cooperation mandates new Audit Reporting Framework for Multi-State Cooperative Societies to strengthen transparency, accountability and good governance",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323313",
-   "date": "2026-10-14",
-   "source": "PIB",
-   "label": "Banking & Rates",
-   "snippet": "Guided by Prime Minister Shri Narendra Modi’s vision of ‘Sahkar se Samriddhi’ and under the leadersh",
-   "lead": "Ministry of Cooperation Ministry of Cooperation mandates new Audit Reporting Framework for Multi-State Cooperative Societies to strengthen transparency, accountability and good governance Guided by Prime Minister Shri Narendra Modi’s vision of ‘Sahkar se Samriddhi’ and under the leadership of Union Home Minister and Minister of Cooperation Shri Amit Shah, Ministry of Cooperation takes another significant step towards strengthening ...",
-   "image": null,
-   "why": [
-    "Rates and liquidity"
-   ],
-   "tags": [
-    "Banking & Rates"
    ],
    "rank": 23,
    "must_read": false
