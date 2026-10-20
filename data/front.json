@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-20",
- "built": "2026-10-20 02:47 IST",
+ "built": "2026-10-20 07:39 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23146.0,
-   "change_pct": 0.65,
+   "value": 22889.0,
+   "change_pct": -1.11,
    "asof": "19 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74729.0,
-   "change_pct": 0.56,
+   "value": 73853.0,
+   "change_pct": -1.17,
    "asof": "19 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
    "value": 94.92,
-   "change_pct": -0.07,
-   "asof": "20 Oct 02:35 IST"
+   "change_pct": -0.06,
+   "asof": "20 Oct 07:19 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 109.21,
-   "change_pct": -0.59,
-   "asof": "20 Oct 02:29 IST"
+   "value": 109.83,
+   "change_pct": 0.26,
+   "asof": "20 Oct 07:27 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4160.0,
-   "change_pct": -0.5,
-   "asof": "20 Oct 02:29 IST"
+   "value": 4147.0,
+   "change_pct": -0.31,
+   "asof": "20 Oct 07:28 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -252,8 +252,8 @@
    ]
   },
   "Immigration": {
-   "total": 1118,
-   "new_today": 1,
+   "total": 1119,
+   "new_today": 2,
    "items": [
     {
      "desk": "Immigration",
