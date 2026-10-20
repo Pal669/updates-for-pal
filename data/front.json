@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-20",
- "built": "2026-10-20 10:09 IST",
+ "built": "2026-10-20 10:44 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -33,16 +33,16 @@
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 109.86,
-   "change_pct": 0.28,
-   "asof": "20 Oct 09:58 IST"
+   "value": 109.92,
+   "change_pct": 0.34,
+   "asof": "20 Oct 10:33 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4163.0,
-   "change_pct": 0.07,
-   "asof": "20 Oct 09:59 IST"
+   "value": 4162.0,
+   "change_pct": 0.05,
+   "asof": "20 Oct 10:34 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -252,8 +252,8 @@
    ]
   },
   "Immigration": {
-   "total": 1128,
-   "new_today": 7,
+   "total": 1143,
+   "new_today": 9,
    "items": [
     {
      "desk": "Immigration",
@@ -491,7 +491,7 @@
    "why": [
     "Affects permanent residence",
     "Announces a change",
-    "Major story (14 headlines that day)"
+    "Major story (16 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
