@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-20",
- "built": "2026-10-20 07:39 IST",
+ "built": "2026-10-20 10:09 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -28,21 +28,21 @@
    "dp": 2,
    "value": 94.92,
    "change_pct": -0.06,
-   "asof": "20 Oct 07:19 IST"
+   "asof": "20 Oct 09:00 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 109.83,
-   "change_pct": 0.26,
-   "asof": "20 Oct 07:27 IST"
+   "value": 109.86,
+   "change_pct": 0.28,
+   "asof": "20 Oct 09:58 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4147.0,
-   "change_pct": -0.31,
-   "asof": "20 Oct 07:28 IST"
+   "value": 4163.0,
+   "change_pct": 0.07,
+   "asof": "20 Oct 09:59 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -163,8 +163,8 @@
    ]
   },
   "Startups": {
-   "total": 781,
-   "new_today": 2,
+   "total": 784,
+   "new_today": 5,
    "items": [
     {
      "desk": "Startups",
@@ -252,9 +252,49 @@
    ]
   },
   "Immigration": {
-   "total": 1119,
-   "new_today": 2,
+   "total": 1128,
+   "new_today": 7,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 50,
+     "title": "Korea seeks dedicated US visa quota for shipbuilding workers",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS2s4dFJhNTRTdmhQd1dqc25kUDAzMEZaTGhZVEkzY1hZWlpWZU52YnE3eExZSW8yR3ZJVFl2amRtbXQ4S0lEbTJkZnpoTFJxTEZVck1qd2dzZGY1dHhfOUhUNU1IemlkY3M3RGxGRlowYUdJV2lpYmpYeUphZmRObzNOYlRId01BRTdqanJCSkZoTXAwRWhDWEhQZHcxWEU2WnV5OUFGSDkzM0JGSU94ZVN2TG5BN2g5OW5sZFF30gG-AUFVX3lxTFBLazh0UmE1NFN2aFB3V2pzbmRQMDMwRlpMaFlUSTNjWFlaWlZlTnZicTd4TFlJbzJHdklUWXZqZG1tdDhLSURtMmRmemhMUnFMRlVyTWp3Z3NkZjV0eF85SFQ1TUh6aWRjczdEbEZGWjBhR0lXaWlialh5SmFmZE5vM05iVEh3TUFFN2pqckJKRmhNcDBFaENYSFBkdzFYRTZadXk5QUZIOTMzQkZJT3hlU3ZMbkE3aDk5bmxkUXc?oc=5",
+     "date": "2026-10-19",
+     "source": "The Korea Times",
+     "label": "South Korea",
+     "snippet": "Korea is seeking a dedicated U.S. visa quota for shipbuilding workers as a condition for carrying out its $150 billion investment commitment under...",
+     "lead": "Companies Korea seeks dedicated US visa quota for shipbuilding workers A baseball cap bears the slogan “Make American Shipbuilding Great Again” (MASGA) in this file photo. The cap, designed by the Ministry of Trade, Industry and Resource, was produced for tariff negotiations with the U.S. Korea Times photo by Wang Tae-seog Korea is seeking a dedicated U.S. visa quota for shipbuilding workers as a condition for carrying out its $150 ...",
+     "image": "https://newsimg.koreatimes.co.kr/2026/10/19/53fbfc5b-dae6-4a2f-99bb-0f8d18001d3a.jpg",
+     "why": [
+      "Quota or cap change"
+     ],
+     "tags": [
+      "Quota / Caps",
+      "South Korea"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 50,
+     "title": "They work in Norway but may not be granted permanent residence. The government sets a condition",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWHMxN3FpUkpXTk9Ld3RMMXhjOGIzMnhVdGRHQmIxODdaclhSNFhRbWNRU29PRDY0anJFVi1jaEQzSGU5RUJCQjhramp4Y3B0UFh5bGhZR1RSZFZVN1R0Tm9JSjN2LUZNS3pTSjBkRWRXME1fYkZxVW5CVGtoSDVjc1NWWTZnd1BVRS1uUzUzNGx5eGdZN3FYUlhsb1N0dHk0MEtTOVQ4UGhHYlUtVG1TckZEYWxPTlVjUTRCRno1Mm1KQXJWS2hGSVRyZVFVbTBBX3c?oc=5",
+     "date": "2026-10-18",
+     "source": "Moja Norwegia",
+     "label": "Norway",
+     "snippet": "The Norwegian government wants to introduce new rules for obtaining permanent residence for refugees from Ukraine. One of the conditions is expected to be an annual income of as much as NOK 409,647. As reported by NRK, many Ukrainians fear they will not meet this requirement because they work part-time or have temporary employment.",
+     "lead": "",
+     "image": "https://www.mojanorwegia.pl/images/stories/images/articles/6a05f2d139c65b0290f894267d83b16035ff4955.jpg",
+     "why": [
+      "Affects permanent residence"
+     ],
+     "tags": [
+      "PR / Settlement",
+      "Norway"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 5,
@@ -273,46 +313,6 @@
      "tags": [
       "Quota / Caps",
       "Spain"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 50,
-     "title": "Japan's rural restaurants go hungry in fight for foreign talent",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUGc2REtOVjZkSXVWbzJlQmZsOU9ENW5xUjBUUzh0SWFkU19KZEpfTGlRTERWVTYyb2xCalo0eVF3dEt5VzNaZWtqYnhhd1lGTGZqdkl0NkRYV3pTRW9sZnlpbjNLaHlabTFieUVUUm9UQlV4Rko4SnRxb0JmN1RtVDdRNGdsT3NXcW56SHN1T2RXaHVBZkd0VGp4LVFLanFVb3dBeXM2TXJ2SWJCdjhpT1c3Z3JIUQ?oc=5",
-     "date": "2026-10-15",
-     "source": "Nikkei Asia",
-     "label": "Japan",
-     "snippet": "More workers head to big cities after cap on new visas sparks urban wage hikes",
-     "lead": "Japan India South Korea Indonesia Taiwan Thailand U.S. East Asia Hong Kong Macao Taiwan Mongolia Japan South Korea North Korea Southeast Asia Thailand Malaysia Singapore Philippines Vietnam Myanmar Cambodia Laos Brunei East Timor South Asia Pakistan Afghanistan Bangladesh Sri Lanka Nepal Bhutan Maldives Central Asia Uzbekistan Turkmenistan Tajikistan Kyrgyzstan Oceania New Zealand Papua New Guinea Pacific Islands Rest of the World ...",
-     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F7%2F2%2F3%2F3%2F13323327-1-eng-GB%2Fce1650b51442-20261015N-Japan-foreign-workers.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
-     "why": [
-      "Affects work visas"
-     ],
-     "tags": [
-      "Work visa",
-      "Japan"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 50,
-     "title": "This country allows US, UK, Canada and New Zealand residents join its military without citizenship. Check",
-     "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQSUd6V1g5a1hlTURMUVFvMkVCOHJKd1phdGg5alAzZEZSQ2hHVUZuUXItV1djbDNyUEFKX09DTVVIMmVoamZ1MHFJSTd5NjFlRWkyN2dTbW1ucjFKTEdGQU5ja1NTb3FERmFNbWw3RjBhV1lyeGdZM2Fldm1oZnBrNGMxa0NKSWNCLUtvTWw1dUhudFpFS3Z5UmRObEh1dE5NWlA5Tl9jYk1mWTBVYUgwNUpLQVVNd1NnVV94cnVrbmR3ZV8xYWlRMF9CUkQ5SHhPRlNhU0ZXaHBtRExTdzh3MHE3b0JtVDU2dFJMczgxcWU4aHpKTmFCME84RXoxTHh3RzAzY1B6VE1lRmNDRDFkUW5fS2ZzbldOaE9Za19iM3RubWFTdlZlV3cyMHlZclExMTlZTXhLZjkzdDM0N2s5T1A3eGdpZ9IBywJBVV95cUxQeGhTYVpVekFIbDY2Y0U4T2U5RVIxcHJaUDNQQ09WOGRTdzJWeXBQS25hTjJOQ0kzSHlUTmlnNzU1SEJpazRpV3pXdFdSakV3c1ROSk9lLTU2UjFDX0F1anRVTUc0azh3V3pkVzgwVVZZeXBIYm1SNTRLSHdyTWpkVDhkOHpKSU5BR2JVSV8yVVpoT3FLX0FhdHdENjFOa3RqazVrQkxpSjFlemZldTZlMHpEY0F6TjJhM2pvaVNLQ19UYTFRNzNObWppREhnYXdrS2thQ3ZCUG1tbjJvR0ZCeTA2cmxkMzU4aHIxcXp6VkNiN0tGV1dtM3lTVWpWUEhjQ2s1eVUtbEgyTFlON2lkZEQyTkpSUnBGblZfZzF3bFh1b3RldGZHdG9vWF9jbm9OZm14MU5yV3ZVQkFnX3ZDQUtEeXBkaUoxZnpF?oc=5",
-     "date": "2026-10-13",
-     "source": "The Economic Times",
-     "label": "New Zealand",
-     "snippet": "In 2024, Australia allows eligible permanent residents from the US, UK, Canada and New Zealand to apply to join its military without obtaining Australian citizenship first. The expanded recruitment policy aims to address personnel shortages and widen the pool of potential recruits. Here are the eligibility criteria, residency requirements",
-     "lead": "Permanent residents from New Zealand, the UK, Canada and the US can apply to join the ADF",
-     "image": "https://img.etimg.com/thumb/msid-134872245,width-1200,height-900,imgsize-93910,overlay-economictimes/articleshow.jpg",
-     "why": [
-      "Affects citizenship"
-     ],
-     "tags": [
-      "Citizenship",
-      "New Zealand"
      ]
     },
     {
@@ -643,6 +643,52 @@
    "must_read": false
   },
   {
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 90,
+   "title": "New Zealand opens 5,000 work visas for Indians: Full list, who qualifies and the rules",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWmlkQU9EMW9POUdMc1NKR01KODZqN0lxSTRHVzRTdldkS2lDZi1pQTRUVU1kdng4bEktNmJOamtFR01ZX0psR3RQb3hjS0tDQXlqSkNHanRWY2lYV1Y0SkV3clJYa3VBMW45UnlMZzdtZnhlUzFlNVo2dDhNb1BLUjZkd3lORF9kUUJhSDhiSUlSdHl2RGRqb2lHMUR2cHgxOUc2dlB2ai1xRHJJRGEwMzVEQm9jSUpMTV9lYQ?oc=5",
+   "date": "2026-10-20",
+   "source": "https://awaaz.co.nz/",
+   "label": "New Zealand",
+   "snippet": "The two new visa categories cover 10 occupational groups, with considerable restrictions.",
+   "lead": "s.setAttribute('style', 'filter: brightness(0) invert(1)'));\" onmouseout=\"this.style.backgroundColor='white'; this.style.color='#333'; this.querySelectorAll('svg').forEach(s => s.removeAttribute('style'));\" > FACEBOOK s.setAttribute('style', 'filter: brightness(0) invert(1)'));\" onmouseout=\"this.style.backgroundColor='white'; this.style.color='#333'; this.querySelectorAll('svg').forEach(s => s.removeAttribute('style'));\" > TWITTER ...",
+   "image": "https://prod-awaaz-mediatech-dam-assets.s3.ap-southeast-2.amazonaws.com/f069bf1b-04e2-48a0-b4e4-b5bc6818539a-social_preview_017fd1dc-a458-43d3-afd7-a8c3b6a387fc_1792468574778.jpg",
+   "why": [
+    "Affects work visas",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Work visa",
+    "New Zealand"
+   ],
+   "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 90,
+   "title": "Japan’s permanent residency reform has a glaring blind spot",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdnM1dktlaFRqdVdJNHVGNldlZHNHci1NbTFqRVZFd3RHamUzT1A1bmpxZVhoMDhrejNCcGVQRVR3NmlfRk5qcHd0SjJZaHpiM3ZySGlKcXpyTWJTZVRfQWpSREJpWVZOYXd4Rzl3Y0NkTG5rTUhfV0duczY1WFZROWlaVHJfaXNaTmQ1OHZqNnVESzda?oc=5",
+   "date": "2026-10-20",
+   "source": "The Japan Times",
+   "label": "Japan",
+   "snippet": "Japan is moving toward implementation before it has clearly explained how those skills will be evaluated or demonstrated in practice.",
+   "lead": "",
+   "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/569442.jpg?v=3.1",
+   "why": [
+    "Affects permanent residence",
+    "Announces a change"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Japan"
+   ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
    "desk": "Startups",
    "score": 11,
    "priority": 85,
@@ -661,7 +707,7 @@
    "tags": [
     "Funding"
    ],
-   "rank": 10,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -684,7 +730,7 @@
     "IPO & Listing",
     "Policy & Regulation"
    ],
-   "rank": 11,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -707,7 +753,7 @@
     "IPO & Listing",
     "Policy & Regulation"
    ],
-   "rank": 12,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -730,7 +776,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 13,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -753,7 +799,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 14,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -775,7 +821,7 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 15,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -798,7 +844,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 16,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -821,7 +867,7 @@
    "tags": [
     "PMS"
    ],
-   "rank": 17,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -844,7 +890,7 @@
    "tags": [
     "Markets & Regulation"
    ],
-   "rank": 18,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -866,7 +912,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 19,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -888,50 +934,6 @@
    "tags": [
     "Salary threshold",
     "Denmark"
-   ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 5,
-   "priority": 50,
-   "title": "Korea seeks dedicated US visa quota for shipbuilding workers",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS2s4dFJhNTRTdmhQd1dqc25kUDAzMEZaTGhZVEkzY1hZWlpWZU52YnE3eExZSW8yR3ZJVFl2amRtbXQ4S0lEbTJkZnpoTFJxTEZVck1qd2dzZGY1dHhfOUhUNU1IemlkY3M3RGxGRlowYUdJV2lpYmpYeUphZmRObzNOYlRId01BRTdqanJCSkZoTXAwRWhDWEhQZHcxWEU2WnV5OUFGSDkzM0JGSU94ZVN2TG5BN2g5OW5sZFF30gG-AUFVX3lxTFBLazh0UmE1NFN2aFB3V2pzbmRQMDMwRlpMaFlUSTNjWFlaWlZlTnZicTd4TFlJbzJHdklUWXZqZG1tdDhLSURtMmRmemhMUnFMRlVyTWp3Z3NkZjV0eF85SFQ1TUh6aWRjczdEbEZGWjBhR0lXaWlialh5SmFmZE5vM05iVEh3TUFFN2pqckJKRmhNcDBFaENYSFBkdzFYRTZadXk5QUZIOTMzQkZJT3hlU3ZMbkE3aDk5bmxkUXc?oc=5",
-   "date": "2026-10-19",
-   "source": "The Korea Times",
-   "label": "South Korea",
-   "snippet": "Korea is seeking a dedicated U.S. visa quota for shipbuilding workers as a condition for carrying out its $150 billion investment commitment under...",
-   "lead": "Companies Korea seeks dedicated US visa quota for shipbuilding workers A baseball cap bears the slogan “Make American Shipbuilding Great Again” (MASGA) in this file photo. The cap, designed by the Ministry of Trade, Industry and Resource, was produced for tariff negotiations with the U.S. Korea Times photo by Wang Tae-seog Korea is seeking a dedicated U.S. visa quota for shipbuilding workers as a condition for carrying out its $150 ...",
-   "image": "https://newsimg.koreatimes.co.kr/2026/10/19/53fbfc5b-dae6-4a2f-99bb-0f8d18001d3a.jpg",
-   "why": [
-    "Quota or cap change"
-   ],
-   "tags": [
-    "Quota / Caps",
-    "South Korea"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 5,
-   "priority": 50,
-   "title": "They work in Norway but may not be granted permanent residence. The government sets a condition",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWHMxN3FpUkpXTk9Ld3RMMXhjOGIzMnhVdGRHQmIxODdaclhSNFhRbWNRU29PRDY0anJFVi1jaEQzSGU5RUJCQjhramp4Y3B0UFh5bGhZR1RSZFZVN1R0Tm9JSjN2LUZNS3pTSjBkRWRXME1fYkZxVW5CVGtoSDVjc1NWWTZnd1BVRS1uUzUzNGx5eGdZN3FYUlhsb1N0dHk0MEtTOVQ4UGhHYlUtVG1TckZEYWxPTlVjUTRCRno1Mm1KQXJWS2hGSVRyZVFVbTBBX3c?oc=5",
-   "date": "2026-10-18",
-   "source": "Moja Norwegia",
-   "label": "Norway",
-   "snippet": "The Norwegian government wants to introduce new rules for obtaining permanent residence for refugees from Ukraine. One of the conditions is expected to be an annual income of as much as NOK 409,647. As reported by NRK, many Ukrainians fear they will not meet this requirement because they work part-time or have temporary employment.",
-   "lead": "",
-   "image": "https://www.mojanorwegia.pl/images/stories/images/articles/6a05f2d139c65b0290f894267d83b16035ff4955.jpg",
-   "why": [
-    "Affects permanent residence"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Norway"
    ],
    "rank": 22,
    "must_read": false
