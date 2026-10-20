@@ -1,6 +1,6 @@
 {
- "edition": "2026-10-20",
- "built": "2026-10-20 20:53 IST",
+ "edition": "2026-10-21",
+ "built": "2026-10-21 01:41 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -26,55 +26,55 @@
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.92,
-   "change_pct": -0.07,
-   "asof": "20 Oct 20:05 IST"
+   "value": 94.77,
+   "change_pct": -0.24,
+   "asof": "21 Oct 01:39 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 108.02,
-   "change_pct": -1.4,
-   "asof": "20 Oct 20:43 IST"
+   "value": 109.14,
+   "change_pct": -0.37,
+   "asof": "21 Oct 01:31 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4155.0,
-   "change_pct": -0.12,
-   "asof": "20 Oct 20:43 IST"
+   "value": 4140.0,
+   "change_pct": -0.49,
+   "asof": "21 Oct 01:31 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.1,
-   "change_pct": -0.78,
-   "asof": "20 Oct 20:38 IST"
+   "value": 5.12,
+   "change_pct": -0.37,
+   "asof": "21 Oct 00:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "Kuku Technologies (Kuku FM)",
-   "tagline": "Audio and microdrama OTT, IPO cleared by SEBI",
-   "what": "Founded in 2018 by Lal Chand Bisu, Vikas Goyal and Vinod Meena. Offers audiobooks, podcasts and original audio shows under Kuku FM, plus microdrama platform Kuku TV and microlearning platform Guru. Content library of 20,000+ titles in seven languages; it claims 1 Cr+ listeners and creators and 400 Mn app downloads across its portfolio.",
+   "company": "DheyaTech",
+   "tagline": "Bengaluru aerospace propulsion startup",
+   "what": "Founded in 2018 by aerospace engineers Gurushankara KC, Abhinav Alva and Chetan Kumar. Develops small gas turbine engines (20 kgf to 400 kgf thrust) for aerial platforms and energy systems, with the design, assembly and testing pipeline and its engine control unit built in-house. Expanding into hydrogen-based technology and distributed power generation, including a 60 kW turbogenerator with a hydrogen flexi-fuel combustor developed with IISc.",
    "how": [
-    "The article does not explain the revenue model.",
-    "Not stated: whether income comes from subscriptions, pay-per-content or ads. Check the DRHP when it becomes public."
+    "Sells engines to OEMs: the company says it already has orders from Indian and global OEMs but did not disclose names or values.",
+    "Inferred: revenue is hardware sales; the article gives no pricing or revenue figures."
    ],
-   "watch": "Fresh-issue money is planned for tech, AI infrastructure, content production and geographic expansion. Competitors named: Pocket FM, Flick TV, ReelSaga, Miniplix and OTT majors (Amazon, JioHotstar, Zee5).",
-   "sector": "Media, Gaming & Creators",
+   "watch": "Pre-revenue-scale hardware: certification timelines and first commercial deliveries are the milestones to track. Article also notes rising investor interest in aerospace and spacetech (D-Propulse Rs 25 Cr in January; InspeCity Rs 100 Cr in August).",
+   "sector": "AI & Deeptech",
    "region": "India",
-   "url": "https://inc42.com/buzz/sebi-greenlights-kuku-technologies-%e2%82%b93500-cr-ipo/"
+   "url": "https://inc42.com/buzz/dheyatech-bags-%e2%82%b943-cr-to-scale-indigenous-gas-turbine-engines/"
   },
   "country": {
-   "id": "iceland",
-   "name": "Iceland",
-   "trend": "Stable (not verified in detail)",
-   "pr": "Permanent residence generally after 4 years of continuous residence; often requires completing an Icelandic language course. An expedited route exists for doctorate holders with 3 years of expert-work permits.",
-   "citizenship": "Reported timeline of about 7 years; needs PR and the official Icelandic language test. Verify with the Directorate of Immigration.",
-   "pro": "High living standards, safety and equality (general knowledge).",
-   "con": "Tiny population (about 0.38 million, general knowledge): touches your size criterion.",
-   "watch": "Any 2026 Aliens Act amendments (not checked)"
+   "id": "finland",
+   "name": "Finland",
+   "trend": "Tightening",
+   "pr": "Since 8 January 2026 you need 6 years of continuous residence (previously 4), satisfactory Finnish or Swedish, and 2 years of work experience in Finland. 4-year alternatives exist, including an EUR 40,000 taxable-income pathway and a Finnish higher-education route. Not applied to applications filed before 8 January 2026.",
+   "citizenship": "8 years of residence since 1 October 2024, plus language requirements.",
+   "pro": "High quality of life, education and safety (general knowledge).",
+   "con": "Tightening at every stage: PR 4 to 6 years, citizenship 8 years, language proficiency required.",
+   "watch": "Implementation of the 2026 rules"
   }
  },
  "desks": {
@@ -123,28 +123,27 @@
     },
     {
      "desk": "Policy",
-     "score": 5,
-     "priority": 38,
-     "title": "Detailed Result: OMO Sale Auction held on Oct 13, 2026 and Settlement on Oct 14, 2026",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63798",
-     "date": "2026-10-13",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "",
+     "score": 4,
+     "priority": 31,
+     "title": "Building a New Beginning Through the Inter-Caste Marriage Incentive Scheme",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323772",
+     "date": "2026-10-15",
+     "source": "PIB",
+     "label": "Energy & Power",
+     "snippet": "Marriage is not only the union of two individuals but also an opportunity to strengthen mutual respe",
+     "lead": "Ministry of Social Justice & Empowerment Building a New Beginning Through the Inter-Caste Marriage Incentive Scheme Mr. Aditya Sadhu Sawant and Mrs. Khushi Pravin Shaha’s Journey Towards Equality and Social Harmony Posted On: 15 OCT 2026 2:15PM by PIB Delhi Marriage is not only the union of two individuals but also an opportunity to strengthen mutual respect, equality and harmony within society. For Mr. Aditya Sadhu Sawant and Mrs. ...",
      "image": null,
      "why": [
-      "Regulator: RBI",
-      "Large outlay (Rs 10,000 Cr or more)"
+      "Subsidy or incentive"
      ],
      "tags": [
-      "Banking & Rates"
+      "Energy & Power"
      ]
     },
     {
      "desk": "Policy",
-     "score": 4,
-     "priority": 31,
+     "score": 3,
+     "priority": 23,
      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Konark Urban Co-operative Bank Ltd., Ulhasnagar – Extension of Period",
      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63831",
      "date": "2026-10-19",
@@ -163,13 +162,34 @@
    ]
   },
   "Startups": {
-   "total": 796,
-   "new_today": 17,
+   "total": 797,
+   "new_today": 0,
    "items": [
     {
      "desk": "Startups",
      "score": 11,
-     "priority": 85,
+     "priority": 92,
+     "title": "[Update] Zetwerk’s IPO Closes With 3.06X Subscription",
+     "url": "https://inc42.com/buzz/zetwerks-ipo-fully-subscribed-on-day-3-gets-muted-response-from-retail-investors/",
+     "date": "2026-10-19",
+     "source": "Inc42",
+     "label": "India · SaaS & Enterprise",
+     "snippet": "Zetwerk’s IPO has been oversubscribed on the final day of bidding, receiving bids for 56.62 Cr shares against 18.50 Cr shares on offer",
+     "lead": "Qualified institutional buyers (QIBs) have shown the highest interest in the IPO, oversubscribing their quota by 4.73X of their allocation Qualified institutional buyers (QIBs) have shown the highest interest in the IPO, oversubscribing their quota by 1.44X. These investors have placed bids for 14.28 Cr shares against 9.89 Cr shares on offer till now. Meanwhile, employees bid for 7.8 Lakh shares against 7 Lakh shares reserved for them, ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Zetwerk-IPO-social-1.jpg",
+     "why": [
+      "IPO & Listing",
+      "Very large figure in headline (about $528M: round or valuation)"
+     ],
+     "tags": [
+      "IPO & Listing",
+      "SaaS & Enterprise"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
      "title": "Jio Platforms Raises About ₹8,110 Cr From Anchor Investors",
      "url": "https://inc42.com/buzz/jio-platforms-raises-over-%e2%82%b98100-cr-from-anchor-investors/",
      "date": "2026-10-19",
@@ -188,8 +208,8 @@
     },
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 85,
+     "score": 10,
+     "priority": 83,
      "title": "Why Urban Company will keep investing in InstaHelp",
      "url": "https://www.medianama.com/2026/10/223-urban-company-investing-instahelp/",
      "date": "2026-10-19",
@@ -209,8 +229,8 @@
     },
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 85,
+     "score": 10,
+     "priority": 83,
      "title": "UC Eyes More Capital, Burma Burma’s IPO & More",
      "url": "https://inc42.com/buzz/uc-eyes-more-capital-burma-burmas-ipo-more/",
      "date": "2026-10-19",
@@ -227,38 +247,17 @@
       "IPO & Listing",
       "Policy & Regulation"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Burma Burma DRHP: A Look At Shareholding Pattern & Key Executives",
-     "url": "https://inc42.com/buzz/burma-burma-drhp-a-look-at-shareholding-pattern-key-executives/",
-     "date": "2026-10-20",
-     "source": "Inc42",
-     "label": "India · Commerce & D2C",
-     "snippet": "Burma Burma cofounders Ankit Gupta and Chirag Chhajer each hold a 33.35% stake, while its top eight shareholders collectively holding 83.19%",
-     "lead": "Hunger Pangs, the parent of restaurant chain Burma Burma, has filed its DRHP with SEBI, proposing a fresh issue of up to ₹150 Cr and an offer for sale (OFS) of up to 2.79 Cr shares by existing shareholders The IPO will help Burma Burma fuel its restaurant chain expansion, with the addition of 27 company-owned outlets, with the company targeting 12 openings in FY28 and 15 in FY29 Cofounders Ankit Gupta and Chirag Chhajer each hold a ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/soc-23-3.jpg",
-     "why": [
-      "IPO & Listing",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "Commerce & D2C"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 1162,
-   "new_today": 29,
+   "total": 1171,
+   "new_today": 0,
    "items": [
     {
      "desk": "Immigration",
-     "score": 8,
-     "priority": 62,
+     "score": 7,
+     "priority": 58,
      "title": "Can voluntary work help foreign nationals qualify for Austrian citizenship sooner?",
      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZlVrZGhaZFNzY1ZsdDNFOFJWcS1lN1BETXNLQ0w5NmZINmlaanA0TVdiQkYyQ3pId2JObGRuR3BvWGFyanc0WnZmUXNVSnkzSlc1R2pOMDBmX2VaX2daajFoeVl0QVUtN2I3RnBPWS1INlliUllnbXNscW5Vd29SRTdlNU5PN0ZWWHpZUThibmlObWZ4QnRzY05MMGNheFpKdGtfWDNjMzczdWdpZ2JhSFQ5c2s?oc=5",
      "date": "2026-10-20",
@@ -277,8 +276,8 @@
     },
     {
      "desk": "Immigration",
-     "score": 6,
-     "priority": 46,
+     "score": 5,
+     "priority": 42,
      "title": "Korea Pushes for U.S. Shipbuilding Worker Visa Quota in $150B Investment Deal - News and Statistics",
      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWGg5S000ZGdyZElLczdyamNZMXNiTDJmLU1teDVaSDlGX1F4b0lPVjAyN0JFM2VVcldyQWRnMUxkSXFlaUc0WU8tMVQ5OGFid3pBT1psVlJhSG9tUTF6ajd0M0wwNU1nRUdKT3hfNHQtQU9mN3V3eW5Ua1dRM2I5b3VjMFhNN3hrSk9Mc3BzSk9KdWZ1QUhDMXd0VGNqLVh0c1hDU091QUZRaW1oX20tLUFPUzZYQmN2VnZseHRwcEtlTC1oaHVxb0RB?oc=5",
      "date": "2026-10-20",
@@ -297,29 +296,28 @@
     },
     {
      "desk": "Immigration",
-     "score": 6,
-     "priority": 46,
-     "title": "Denmark to slash work permit salary threshold for some applicants by almost 20,000 kroner",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2JNVDlfeUktcWo5NTI0SEVtbWEtRlRZeGtSQy1WSE1meFFYVTFFLXl2SHg5Ry1zSXMxRERnT2NwczdDM2s5d3JKRUZCTEF3dWhuRGdGSjN2UFhVQVFCR1MzMnJ2YTdPM0Y3WmJ5cU9uOThPbG03aFhLQVhwaWZyX1BxaHpWSVk0SWUtbTU2SmE4X0VqWGQycTg4OWZ3SkptallTWUhUNkpmUm5Bdjk2TXQtMnU1ZWR2Wi1XZw?oc=5",
-     "date": "2026-10-13",
-     "source": "The Local Denmark",
-     "label": "Denmark",
-     "snippet": "Denmark is set to introduce a new collective agreement-based work permit scheme from the beginning of next year, which will make it easier for citizens of 16 select countries to secure a permit.",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Denmark is set to introduce a new collective agreement-based work permit scheme from the beginning of next year, which will make it easier for citizens of 16 select countries to secure a permit. Under the new scheme, ...",
+     "score": 5,
+     "priority": 42,
+     "title": "Portugal has limited immigration, and Spain may follow | World News",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb0RwdWdUejBZUnBjOU1WRjdiZHA5S2IzOHlZcjRPVEpDMEFGeVZhWmRPWlJhbW9seVJ5WnhsU1lGOUZDa2pPd2xBcHFsRkh1ZkhWeTdOZmp6UUVnY3JReFBKWFhoVUFzRFFXLU9uaXJLMGIwWVJOZGM2UXE2dnNQSFB0WGxZZmo2N1ByZnhpWVd0dmhrTzdJLXhVdmFXUHhuc1RTdXNUT0hmYmFpSDFreXlsYzJES25tdlc4dNIBvAFBVV95cUxOb0RwdWdUejBZUnBjOU1WRjdiZHA5S2IzOHlZcjRPVEpDMEFGeVZhWmRPWlJhbW9seVJ5WnhsU1lGOUZDa2pPd2xBcHFsRkh1ZkhWeTdOZmp6UUVnY3JReFBKWFhoVUFzRFFXLU9uaXJLMGIwWVJOZGM2UXE2dnNQSFB0WGxZZmo2N1ByZnhpWVd0dmhrTzdJLXhVdmFXUHhuc1RTdXNUT0hmYmFpSDFreXlsYzJES25tdlc4dA?oc=5",
+     "date": "2026-10-16",
+     "source": "Hindustan Times",
+     "label": "Spain",
+     "snippet": "The wave of immigrants in both countries looks politically unsustainable",
+     "lead": "Nestled beneath Lisbon’s former Moorish quarter, the Rua do Benformoso is a winding street of decaying buildings faced with azulejos (decorative tiles). It is lined with Indian food shops and stores selling hookah pipes and mobile phones. Piedade, a Portuguese woman who has lived here for over 60 years, dislikes what has happened to it. “There’s drugs and crime,” she says. “I stay inside at home.” The Rua do Benformoso has become the ...",
      "image": null,
      "why": [
-      "Salary threshold change",
-      "Announces a change"
+      "Quota or cap change"
      ],
      "tags": [
-      "Salary threshold",
-      "Denmark"
+      "Quota / Caps",
+      "Spain"
      ]
     },
     {
      "desk": "Immigration",
-     "score": 5,
-     "priority": 38,
+     "score": 4,
+     "priority": 33,
      "title": "Most EU countries rejected Finland's idea of banning visas for Russians",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNalNHbEFCUW5SbXJ3eHFSdkk0dURlRDN3cHpvVzZxM19menIzSzdteHBqX1dlWVFZQ20xTjY3eGJtSUpQQXhOalU3ZlVOQk4wWWlVVEpCbUVEU3JJVkwyd2NOTTZ6UFBod0ZZSHg3eUd4U3I2SVpZaXNSc1RrVDVjSEV0RHZKTHF0Z2ttaU5NbjN4N1RpOU96eUswZ1BtWEp1RldiYzRHU2F5S2k0YU4tX0g2RXcwXzJQdzBLSjhXUFAyeFV5?oc=5",
      "date": "2026-10-20",
@@ -339,24 +337,24 @@
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 5,
+   "new_today": 0,
    "items": [
     {
      "desk": "Advisory",
-     "score": 10,
-     "priority": 77,
-     "title": "Gold, silver trade higher as Fed rate hike concerns ease",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNXzF6bGhZMU80dFhJbEhwYzREN1dqRGN4eUUwTW9XM2hMUVRMVHE2d2F3YTlqZXJhZl9CS3c3NWtJRno0MmtMMjVMS0VZZXVDYkM5V3p4OVlfNWczSmZQaXItS3lMa1hxN1hCbzQ0dEtsWVJKT3lOR1l1cmtrU3c1VER1Y1dBbGlkcGwydjZRYXNVYktDQUlJbFNmOVFPNHNtZm53R29La3JwZWkzTHByODB0TFU3VE0?oc=5",
-     "date": "2026-10-19",
-     "source": "The Hans India",
+     "score": 9,
+     "priority": 75,
+     "title": "Gold slips as investors weigh Fed rate outlook",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWkNfZGowNFV6RkNFVlV5MmlKMWxfTWFaekdyVi1rT3BBbXpJZFdSMm1UYldxVFAwS2ZIRHdBeTFvZzNKclp5a2NmZVV3UXp1TlV3cXlhQVl3RkxTcTNjQm83aVQ0aXYzdE56LVJMa05ELXF2ZHJNbnpDTUJvLThDQw?oc=5",
+     "date": "2026-10-20",
+     "source": "MyJoyOnline",
      "label": "Gold & Silver",
-     "snippet": "Gold and silver futures rise on MCX as easing US Federal Reserve rate hike concerns and firm global cues support precious metal prices.",
-     "lead": "Select Hans India Now Telangana + Hyderabad Warangal Khamman Adilabad Manchiryal-Asifabad Nizamabad Karimnagar Medak-Sangareddy Siddipet Mahaboobnagar Nalgonda-Suryapet Andhra Pradesh + Amaravati Vijayawada Visakhapatnam Tirupati Kurnool Guntur Anantapur Chittoor Eluru Kadapa Kakinada Nellore Ongole Rajahmundry Srikakulam National + Karnataka Tamil Nadu Uttar Pradesh New Delhi Bengaluru Chennai Mumbai Kolkata Odisha Global Opinion + ...",
-     "image": "https://assets.thehansindia.com/h-upload/2026/09/14/1702006-gold.jpg",
+     "snippet": "Gold slipped in early Asian trading on Tuesday as investors awaited the US Federal Reserve policy decision next week for signals on interest rates and the broader outlook for monetary policy.",
+     "lead": "Gold slipped in early Asian trading on Tuesday as investors awaited the US Federal Reserve policy decision next week for signals on interest rates and the broader outlook for monetary policy. * Spot gold fell 0.3% to $4,126.84 per ounce by 0102 GMT, while US gold futures for December delivery dropped 0.3% to $4,146.00. * Investor focus has shifted to ​the Fed's October 27-28 policy meeting and next week's US ​Personal Consumption ...",
+     "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3669-1200x630.png",
      "why": [
-      "Interest-rate decision",
       "Precious metals",
-      "Global macro driver"
+      "Global macro driver",
+      "Also covered by 2 other outlet(s)"
      ],
      "tags": [
       "Gold & Silver"
@@ -364,8 +362,29 @@
     },
     {
      "desk": "Advisory",
-     "score": 10,
-     "priority": 77,
+     "score": 9,
+     "priority": 75,
+     "title": "Cupid, Sterlite Tech among stocks top 10 equity PMS portfolios hold as Nifty, Sensex plunge up to 13% in 2026",
+     "url": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-sterlite-tech-among-stocks-top-10-equity-pms-portfolios-hold-as-nifty-sensex-plunge-up-to-13-in-2026/articleshow/135045427.cms",
+     "date": "2026-10-19",
+     "source": "Economic Times",
+     "label": "PMS",
+     "snippet": "Despite a sharp market downturn in 2026, all 10 top-performing equity PMS strategies delivered positive returns in September, ranging from 3.55% to 5.67%. Amaltas Asset Managements Keystone Fund led the rankings, while Cupid and Sterlite Technologies featured among the prominent holdings across multiple portfolio management strategies.",
+     "lead": "Total FII net sales for 2026 have now surpassed Rs 2.5 lakh crore, NSDL data showed. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price",
+     "image": "https://img.etimg.com/thumb/msid-135045772,width-1200,height-900,imgsize-427206,overlay-etmarkets/articleshow.jpg",
+     "why": [
+      "PMS news",
+      "Sharp market move",
+      "Also covered by 2 other outlet(s)"
+     ],
+     "tags": [
+      "PMS"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 75,
      "title": "Business News | RBI May Need to Raise Repo Rate to 6.25% as Inflation Risks Persist: SBI Mutual Fund",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZzhnRUhFUEZ4Y0tzaVVWVVpYMnUzRUtrOGstSGpacVI2ekZkUjhPdGVFNFItUVpzaUlWbDJLZ3YyUGY3Z2V4angtNXFzVGx6RzRVOVhsQUh3UDZNZFpqQ0NtUkYyRXFvdnp3V3NycnFXR2FXZklKMGVyMWp3QUYyWmJQMHd0Q0lhcGRxbnhiTk1SU29BQk5obXdETkRRNWlCaTYtRjFBWTNFejVDUW9INk40VjhReFhIalp4SU93d1JtOHB1UUhZMHpKdlpYZDVIWDk0LXdjaDdSSHY5Rk9F0gHkAUFVX3lxTFB4SlBGV1lNWG83MFl2bTBNNHRlSGxwU0dRUkRwOElmelN1Q0VZdDA1NnN2ektoMDhaeDgxdVRKZzl0dGU3RTVFWDRhSWhTWElnMWtMZlhSdlFYcWpVQW52bUhSMW12dHlJeDJQT2NfTjlrQXZ5TmhLUVFzTlA5OHFWeExVSFJlR2hESWZWOW1WV3gwT3Vpb0duWFQxMjFYdTQtU2Jhazg0NUQ4aFpDVDA1YlhQWFZUaXdDckh2VmRNdEVKNmxWME1pdzRvam5OejlRMDZKQVJUR04yUFRxcTB6Vi1Ibg?oc=5",
      "date": "2026-10-18",
@@ -386,43 +405,23 @@
     },
     {
      "desk": "Advisory",
-     "score": 10,
-     "priority": 77,
-     "title": "Bandhan AMC’s Suyash Choudhary on RBI rate hikes, bond yields, and debt strategy",
-     "url": "https://www.livemint.com/money/personal-finance/rbi-rate-hikes-suyash-choudhary-bandhan-amc-fixed-income-bond-yields-debt-mutual-funds-11791994802619.html",
-     "date": "2026-10-16",
-     "source": "Mint",
-     "label": "Debt & Bonds",
-     "snippet": "Bandhan AMC’s Suyash Choudhary explains how rising rates affect savers, why investors should keep debt portfolio duration short, and how to balance yield, credit quality and currency risk.",
-     "lead": "As the Reserve Bank of India (RBI) moves into a rate-tightening cycle, Suyash Choudhary, head of fixed income at Bandhan AMC, explains what higher interest rates mean for savers and investors. In a conversation with Mint , he discusses the expected rate trajectory, portfolio duration, global bond allocation and why investors should prioritise quality over high yields in fixed income. Market interest rates do not always move in tandem ...",
-     "image": null,
-     "why": [
-      "Regulator: SEBI or RBI",
-      "Interest-rate decision",
-      "Government bond yields"
-     ],
-     "tags": [
-      "Debt & Bonds"
-     ]
-    },
-    {
-     "desk": "Advisory",
      "score": 9,
-     "priority": 69,
-     "title": "1 Finance gets in-principle SEBI approval for MF Lite: Will investors get more choice in index funds and ETFs?",
-     "url": "https://www.livemint.com/money/personal-finance/1-finance-gets-in-principle-sebi-approval-for-mf-lite-will-investors-get-more-choice-in-index-funds-and-etfs-11792432264246.html",
-     "date": "2026-10-19",
-     "source": "Mint",
-     "label": "Mutual Funds",
-     "snippet": "1 Finance has received in-principle SEBI approval for an MF Lite licence and plans to launch passive mutual funds in Q4 FY27. SEBI’s framework eases regulatory requirements for eligible passive fund houses, potentially encouraging competition and expanding investor choice in index funds and ETFs.",
-     "lead": "SEBI introduced the MF Lite framework on 31 December 2024 to ease entry barriers for asset management companies seeking to offer eligible passive mutual fund schemes. (AI-generated image used for representational purpose.) AI Quick Read 1 Finance has received in-principle approval from the Securities and Exchange Board of India (SEBI) for an asset management company (AMC) licence under the regulator’s Mutual Funds Lite (MF Lite) ...",
+     "priority": 75,
+     "title": "Comprehensive Analysis of the SEBI AIF Third Amendment Regulations 2026: Revamped Accredited Investor Norms and Dispute Resolution Framework",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVkI2eGRSMzE5c2ZrT0RFLTI1c282dWp2UE9nQUUzYkM1ZVd5QzRZREdMZHhveWQ2YUZUNlY1MW1qN1NfRkNreHktdmhtYldfRmp1VEdseTBVRGJ2c1dyeU9TNnNiZm1GT2psT0gyeW92UWpnRmdhcDN3Mkc3WU1Bc1UyVVZOVHczZ3hfV3U0d2hDTm8tQTZtWTJiNHN5blo2NXdv?oc=5",
+     "date": "2026-10-17",
+     "source": "TaxCorp AI",
+     "label": "AIF",
+     "snippet": "Summary The Securities and Exchange Board of India (Alternative Investment Funds) (Third Amendment) Regulations, 2026, notified on 9 October 2026, introduces...",
+     "lead": "The regulatory landscape governing Alternative Investment Funds (AIFs) in India has witnessed a significant evolution with the introduction of the Securities and Exchange Board of India (Alternative Investment Funds) (Third Amendment) Regulations, 2026. Promulgated via Notification No. SEBI/LAD-NRO/GN/2026/326 on 9 October 2026, this legislative update introduces pivotal shifts in how investors are accredited and how disputes within ...",
      "image": null,
      "why": [
+      "AIF news",
       "Regulator: SEBI or RBI",
-      "Also covered by 2 other outlet(s)"
+      "Rule or framework change"
      ],
      "tags": [
-      "Mutual Funds"
+      "AIF"
      ]
     }
    ]
@@ -431,7 +430,7 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 13,
+   "score": 12,
    "priority": 100,
    "title": "Apple India’s FY26 Profit Jumps 66% YoY To ₹5,311 Cr, Revenue Up 31%",
    "url": "https://inc42.com/buzz/apple-indias-fy26-profit-jumps-66-yoy-to-%e2%82%b95311-cr-revenue-up-31/",
@@ -454,7 +453,7 @@
   },
   {
    "desk": "Startups",
-   "score": 13,
+   "score": 12,
    "priority": 100,
    "title": "Jio Platforms' anchor book draws Rs 2.5 lakh crore in bids ahead of IPO",
    "url": "https://yourstory.com/2026/10/jio-platforms-anchor-book-draws-rs-25-lakh-crore-in-bids-ahead-of-ipo",
@@ -477,7 +476,7 @@
   },
   {
    "desk": "Startups",
-   "score": 13,
+   "score": 12,
    "priority": 100,
    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
    "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
@@ -501,7 +500,7 @@
   },
   {
    "desk": "Immigration",
-   "score": 13,
+   "score": 12,
    "priority": 100,
    "title": "New work visas announced under India-NZ FTA: The migration “tsunami” that wasn’t",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzRYQlZRSFpYekVaUWFYdF81UzRMTlhsbHJVOHI3VUtoaHBUR2lMLWVTNktsUkwxbHVaRWVhclI2TGZDZWlFem42UGV0WXdsaWwtTU12OVJhT2hBcnd0SW9NYU1OcktJVVJ5UDR6WXJVYWotaEVSS1pKbzhDWEJZeEZYT2syVWM4Umc4RUpVUFltUHFfeGVUWGlFNjd5MEFiNGozTW1pcFl6UEFRU1dV?oc=5",
@@ -514,7 +513,7 @@
    "why": [
     "Affects work visas",
     "Announces a change",
-    "Major story (13 headlines that day)",
+    "Major story (14 headlines that day)",
     "Mentions India or Indians"
    ],
    "tags": [
@@ -526,7 +525,7 @@
   },
   {
    "desk": "Advisory",
-   "score": 13,
+   "score": 12,
    "priority": 100,
    "title": "Gold Surges To ₹1.48 Lakh While Silver Tops ₹2.12 Lakh, Easing US Fed Rate Hike Fears Boost Precious",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeTRBeDltYXZpUGVjSjVvUENnT19wdVdSckZ0ZFM4ZGhESmdsTzJkZlpvQjFFWUtwSTdDc1hNeHhyV3NITkJZVzJDbUV5TDFkM0c0enBKZFNZZEJhSS1mWEdUSmFDTUI3bVhmRGstOV9DNlppNWVfNW8yekE1eXMxa0pyazBJcXhLUkd6a0pGdGhZWDY1ZFdpZmJEZVFCS1VqcWVTbTBqcVM3TjA2UGd4a0hqU1FpcWJNMFZVYTdURGE5a1Y2RkRldUcweEc2ak5oN3FrNWtPbV9OU2fSAeABQVVfeXFMUDQxbTFpVVYzRVB3TTB6RGdaREI3bEhqVHBvcV9KX21obDhCZ2hRaEQwQXp4NVp6UG1GTzhfdnh1SmtqSUdWNHRaaWpqVTRvY2ZLaHBQOUJLSjVXVnNLRkpyeHo3MmpZbW9TdnhNUWNjS2pST2xVNmtrM0VjcnEyUk10ZUNCVzZvQmMxcUdsQ2x1c051Mno4Qi1ySXZTVkVpQnBXa3VESTU3dDVnb2FpZGJWVmRzVXI0RS1GZHc5RmtkVDE1Z0VBWjNZaDBsMlNHR3dDejl2ZzBhWFo5aWFiRVU?oc=5",
@@ -549,6 +548,30 @@
    "must_read": true
   },
   {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 100,
+   "title": "HSBC Sees RBI Repo Rate at 6% by December as Bond Yields Surge",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmw2enVib0FBSGxxa2gtOTZyakJNMzJpcXh3cXlPQmt4RnVsQVBHNF9DaEV5Y0ZfMDNadzV0RzlYaWpsSUhsZ2tzU1BmZVg4cFJYQTlTeTcxSnV6dHNndWg4T3ZHRXdLVkpfbjlQRW1UUGY2UDZzMDJDV1dLbjFvX0lIREc?oc=5",
+   "date": "2026-10-15",
+   "source": "NiftyTrader",
+   "label": "Debt & Bonds",
+   "snippet": "HSBC sees the RBI repo rate at 6% by December as bond yields surge. Review inflation risks, rate-hike expectations and home loan EMI impact.",
+   "lead": "HSBC expects the repo rate to reach 6% by December as September inflation rises to 5.54% and short-term Treasury-bill yields hit 18-month highs. Here are the three signals that could determine whether the forecast holds. The Reserve Bank of India’s next rate decision is facing a tougher test: HSBC expects the repo rate to reach 6% by December, while short-term government borrowing costs have already climbed well above the current ...",
+   "image": "https://trending.niftytrader.in/wp-content/uploads/2026/10/HSBC-Sees-RBI-Repo-Rate-at-6-by-December-as-Bond-Yields-Surge.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Government bond yields",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
    "desk": "Policy",
    "score": 13,
    "priority": 100,
@@ -568,12 +591,35 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
+   "priority": 92,
+   "title": "Salesforce to acquire Braze in a $5.66 billion deal",
+   "url": "https://economictimes.indiatimes.com/tech/technology/salesforce-to-acquire-braze-in-a-5-66-billion-deal/articleshow/135073780.cms",
+   "date": "2026-10-20",
+   "source": "ET Startups",
+   "label": "Global · Policy & Regulation",
+   "snippet": "Salesforce has disclosed its intention to acquire Braze for approximately $5.66 billion in cash per share. Under the terms of the agreement, Braze shareholders will receive $47.50 for each Class A share. This acquisition is contingent on receiving necessary approvals from shareholders and regulators, with a projected closure date in Sales",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2649241,resizemode-75,msid-135073780/tech/technology/salesforce-to-acquire-braze-in-a-5-66-billion-deal.jpg",
+   "why": [
+    "Acquisition",
+    "Very large figure in headline (about $5,660M: round or valuation)"
+   ],
+   "tags": [
+    "Acquisition",
+    "Policy & Regulation"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
    "priority": 92,
    "title": "OYO-parent PRISM to nearly halve IPO fresh issue size to up to Rs 3,350 cr: Sources",
    "url": "https://yourstory.com/2026/10/oyo-parent-prism-nearly-halve-ipo-fresh-issue-size-to-up-to-rs-3350-cr",
@@ -590,35 +636,36 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 7,
+   "rank": 9,
    "must_read": false
   },
   {
-   "desk": "Policy",
-   "score": 12,
+   "desk": "Advisory",
+   "score": 11,
    "priority": 92,
-   "title": "India–New Zealand FTA to Come into Force on 20th October 2026 on Vijay Dashmi, Opening New Opportunities for Indian Exporters",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2325235",
-   "date": "2026-10-19",
-   "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "Union Minister of Commerce and Industry Shri Piyush Goyal and New Zealand’s Minister for Trade and I",
-   "lead": "Ministry of Commerce & Industry India–New Zealand FTA to Come into Force on 20th October 2026 on Vijay Dashmi, Opening New Opportunities for Indian Exporters 100% Duty-Free Access to New Zealand Market to Create Opportunities for Indian MSMEs, Artisans, Farmers and Women Entrepreneurs: lUnion Minister of Commerce and Industry Shri Piyush Goyal India Flags Off First-Ever JCB Machine Export to New Zealand New Zealand Commits to ...",
-   "image": null,
+   "title": "Why are FIIs selling Indian stocks in 2026? Rs 3 lakh crore outflow amid crude oil surge, rising US bond yields and weak Rupee",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWkVOdDc5MmRRMk1mRmR5Z1BqTnpQTFlmRmJ5NEZHRGZkWXdLeW5PMmFxd1B3ODZKbE85N21DT0Z6d1VLdGlMYWxZWmswSTJFN2l5QXAzMWFIUV81SDRNRGRhcnA0MVJSc3ZOS1dzaFU2TVEyU0VtMlZzOWNSZUk1SEVuWTJWX2NsakRtSHo5Si1mU0tsS2NzNmVYdUg3V1g3SENGY2pNcElrVGVRelc3UU1sWDFNaFY0bzBmRmxqY3FycU9jNGRMajhyY3ZkVnM3d0NVVE00Wmt6bi04VTdOeTBmb9IB4wFBVV95cUxQWkVOdDc5MmRRMk1mRmR5Z1BqTnpQTFlmRmJ5NEZHRGZkWXdLeW5PMmFxd1B3ODZKbE85N21DT0Z6d1VLdGlMYWxZWmswSTJFN2l5QXAzMWFIUV81SDRNRGRhcnA0MVJSc3ZOS1dzaFU2TVEyU0VtMlZzOWNSZUk1SEVuWTJWX2NsakRtSHo5Si1mU0tsS2NzNmVYdUg3V1g3SENGY2pNcElrVGVRelc3UU1sWDFNaFY0bzBmRmxqY3FycU9jNGRMajhyY3ZkVnM3d0NVVE00Wmt6bi04VTdOeTBmbw?oc=5",
+   "date": "2026-10-20",
+   "source": "ET Now",
+   "label": "Debt & Bonds",
+   "snippet": "Foreign investors have pulled out nearly Rs 50,000 crore from Indian equities in October as rising crude prices, higher US bond yields and a narrowing India-US yield differential make emerging-market investments less attractive.",
+   "lead": "Foreign investors continue to reduce exposure to Indian equities as elevated crude oil prices, rising US Treasury yields and a shrinking yield premium over US bonds impact market sentiment. Stocks to BUY: Sobha से लेकर UltraTech तक, ब्रोकरेज ने इन 7 शेयरों पर जताया भरोसा; 64% तक अपसाइड की उम्मीद Festive Sale 2026: Flipkart आगे, Myntra के डेली यूजर्स 40% बढ़े; क्विक कॉमर्स प्लेटफॉर्म को कितना फायदा?",
+   "image": "https://images.etnownews.com/thumb/msid-156371270,thumbsize-130000,width-1280,height-720,resizemode-75/156371270.jpg",
    "why": [
-    "Trade agreement",
-    "New law or act",
-    "Commerce"
+    "Government bond yields",
+    "Global macro driver",
+    "Sharp market move",
+    "Sector or flows signal"
    ],
    "tags": [
-    "Tax, Duties & Trade"
+    "Debt & Bonds"
    ],
-   "rank": 8,
+   "rank": 10,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 92,
    "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
    "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
@@ -638,100 +685,30 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 92,
-   "title": "[Update] Zetwerk’s IPO Closes With 3.06X Subscription",
-   "url": "https://inc42.com/buzz/zetwerks-ipo-fully-subscribed-on-day-3-gets-muted-response-from-retail-investors/",
-   "date": "2026-10-19",
-   "source": "Inc42",
-   "label": "India · SaaS & Enterprise",
-   "snippet": "Zetwerk’s IPO has been oversubscribed on the final day of bidding, receiving bids for 56.62 Cr shares against 18.50 Cr shares on offer",
-   "lead": "Qualified institutional buyers (QIBs) have shown the highest interest in the IPO, oversubscribing their quota by 4.73X of their allocation Qualified institutional buyers (QIBs) have shown the highest interest in the IPO, oversubscribing their quota by 1.44X. These investors have placed bids for 14.28 Cr shares against 9.89 Cr shares on offer till now. Meanwhile, employees bid for 7.8 Lakh shares against 7 Lakh shares reserved for them, ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Zetwerk-IPO-social-1.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $528M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "SaaS & Enterprise"
-   ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 12,
-   "priority": 92,
-   "title": "HSBC Sees RBI Repo Rate at 6% by December as Bond Yields Surge",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmw2enVib0FBSGxxa2gtOTZyakJNMzJpcXh3cXlPQmt4RnVsQVBHNF9DaEV5Y0ZfMDNadzV0RzlYaWpsSUhsZ2tzU1BmZVg4cFJYQTlTeTcxSnV6dHNndWg4T3ZHRXdLVkpfbjlQRW1UUGY2UDZzMDJDV1dLbjFvX0lIREc?oc=5",
-   "date": "2026-10-15",
-   "source": "NiftyTrader",
-   "label": "Debt & Bonds",
-   "snippet": "HSBC sees the RBI repo rate at 6% by December as bond yields surge. Review inflation risks, rate-hike expectations and home loan EMI impact.",
-   "lead": "HSBC expects the repo rate to reach 6% by December as September inflation rises to 5.54% and short-term Treasury-bill yields hit 18-month highs. Here are the three signals that could determine whether the forecast holds. The Reserve Bank of India’s next rate decision is facing a tougher test: HSBC expects the repo rate to reach 6% by December, while short-term government borrowing costs have already climbed well above the current ...",
-   "image": "https://trending.niftytrader.in/wp-content/uploads/2026/10/HSBC-Sees-RBI-Repo-Rate-at-6-by-December-as-Bond-Yields-Surge.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Government bond yields",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Debt & Bonds"
-   ],
    "rank": 11,
    "must_read": false
   },
   {
-   "desk": "Advisory",
+   "desk": "Policy",
    "score": 11,
    "priority": 85,
-   "title": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
+   "title": "India–New Zealand FTA to Come into Force on 20th October 2026 on Vijay Dashmi, Opening New Opportunities for Indian Exporters",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2325235",
    "date": "2026-10-19",
-   "source": "RBI",
-   "label": "Regulatory",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026 Please refer to Section C on ‘Limits for Non-Option Derivative Contracts’ of Chapter IV of the Reserve Bank of India (Small Finance Banks - Miscellaneous) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by section 35A of the Banking Regulation Act, 1949, and all other provisions / laws enabling the Reserve Bank of India ...",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "Union Minister of Commerce and Industry Shri Piyush Goyal and New Zealand’s Minister for Trade and I",
+   "lead": "Ministry of Commerce & Industry India–New Zealand FTA to Come into Force on 20th October 2026 on Vijay Dashmi, Opening New Opportunities for Indian Exporters 100% Duty-Free Access to New Zealand Market to Create Opportunities for Indian MSMEs, Artisans, Farmers and Women Entrepreneurs: lUnion Minister of Commerce and Industry Shri Piyush Goyal India Flags Off First-Ever JCB Machine Export to New Zealand New Zealand Commits to ...",
    "image": null,
    "why": [
-    "Regulator: SEBI or RBI",
-    "Official notice",
-    "Also covered by 1 other outlet(s)"
+    "Trade agreement",
+    "New law or act",
+    "Commerce"
    ],
    "tags": [
-    "Regulatory"
+    "Tax, Duties & Trade"
    ],
    "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 85,
-   "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on October 21, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63833",
-   "date": "2026-10-19",
-   "source": "RBI",
-   "label": "Regulatory",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Wednesday, October 21, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Official notice",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 13,
    "must_read": false
   },
   {
@@ -753,82 +730,59 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 77,
-   "title": "Indians, Brits and Syrians top Norway's permanent residency list",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmdwZjNIMVpVT2VYWUNvbktncDBwcFpYWTZPV3NJQ01BTmU2RkMzSHd2NU1pMFpCY1p5WmhVbW10OUpxRE9IeGpSaFM5ck1wNmliZnBIZndHMXZKZWFWcjJkQXJZb29QMTI2R0thSlJGczRFS0l1R2g5b2Y4M3VVNXhxOEpUM3ZDTlJOeWJ4TVdpblJuYzhqeW92Yw?oc=5",
-   "date": "2026-10-20",
-   "source": "The Local Norway",
-   "label": "Norway",
-   "snippet": "Gaining permanent residency in Norway is a significant achievement for every foreigner who is building a new life in the nordic country; however some nationalities stand out for both the number of applicants and their high approval rates.",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Gaining permanent residency in Norway is a significant achievement for every foreigner who is building a new life in the nordic country; however some nationalities stand out for both the number of applicants and their ...",
-   "image": null,
-   "why": [
-    "Affects permanent residence",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Norway"
-   ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 77,
-   "title": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
-   "date": "2026-10-19",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026 Please refer to Section C on ‘Limits for Non-Option Derivative Contracts’ of Chapter IV of the Reserve Bank of India (Small Finance Banks - Miscellaneous) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by section 35A of the Banking Regulation Act, 1949, and all other provisions / laws enabling the Reserve Bank of India ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 16,
+   "rank": 13,
    "must_read": false
   },
   {
    "desk": "Advisory",
    "score": 10,
-   "priority": 77,
-   "title": "Cupid, Sterlite Tech among stocks top 10 equity PMS portfolios hold as Nifty, Sensex plunge up to 13% in 2026",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-sterlite-tech-among-stocks-top-10-equity-pms-portfolios-hold-as-nifty-sensex-plunge-up-to-13-in-2026/articleshow/135045427.cms",
+   "priority": 83,
+   "title": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
    "date": "2026-10-19",
-   "source": "Economic Times",
-   "label": "PMS",
-   "snippet": "Despite a sharp market downturn in 2026, all 10 top-performing equity PMS strategies delivered positive returns in September, ranging from 3.55% to 5.67%. Amaltas Asset Managements Keystone Fund led the rankings, while Cupid and Sterlite Technologies featured among the prominent holdings across multiple portfolio management strategies.",
-   "lead": "Total FII net sales for 2026 have now surpassed Rs 2.5 lakh crore, NSDL data showed. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price",
-   "image": "https://img.etimg.com/thumb/msid-135045772,width-1200,height-900,imgsize-427206,overlay-etmarkets/articleshow.jpg",
+   "source": "RBI",
+   "label": "Regulatory",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026 Please refer to Section C on ‘Limits for Non-Option Derivative Contracts’ of Chapter IV of the Reserve Bank of India (Small Finance Banks - Miscellaneous) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by section 35A of the Banking Regulation Act, 1949, and all other provisions / laws enabling the Reserve Bank of India ...",
+   "image": null,
    "why": [
-    "PMS news",
-    "Sharp market move",
-    "Also covered by 2 other outlet(s)"
+    "Regulator: SEBI or RBI",
+    "Official notice",
+    "Also covered by 1 other outlet(s)"
    ],
    "tags": [
-    "PMS"
+    "Regulatory"
    ],
-   "rank": 17,
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 83,
+   "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on October 21, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63833",
+   "date": "2026-10-19",
+   "source": "RBI",
+   "label": "Regulatory",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Wednesday, October 21, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "image": null,
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Official notice",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 15,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 10,
-   "priority": 77,
+   "priority": 83,
    "title": "Ottawa adding express entry points for permanent resident applicants in 'high-wage' jobs",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yMFhBZ3U4ZEQzbzJrVlVpbWtoU2Q3RHBLdk5UenJ0YXVaNkowcDJvRzltei01Z1JCUDhvZVpCMkNqT0ZoZjB5T1hBM0tzOEZPNlZYZXQ3MUNTTVJ1TDFwcnFVbllkVG0wLUdhUlBaX3A?oc=5",
    "date": "2026-10-17",
@@ -846,7 +800,31 @@
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 18,
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 83,
+   "title": "Guidance: EU Settlement Scheme: caseworker guidance",
+   "url": "https://www.gov.uk/government/publications/eu-settlement-scheme-caseworker-guidance",
+   "date": "2026-10-15",
+   "source": "GOV.UK (UK Visas and Immigration)",
+   "label": "United Kingdom",
+   "snippet": "Immigration staff guidance on applications under the EU Settlement Scheme.",
+   "lead": "Navigation menu Menu Menu Services and information Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions ...",
+   "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+   "why": [
+    "Affects permanent residence",
+    "Official government notice",
+    "Major story (12 headlines that day)"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "United Kingdom"
+   ],
+   "rank": 17,
    "must_read": false
   },
   {
@@ -869,37 +847,59 @@
    "tags": [
     "Markets & Regulation"
    ],
-   "rank": 19,
+   "rank": 18,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 10,
-   "priority": 77,
-   "title": "Guidance: EU Settlement Scheme: caseworker guidance",
-   "url": "https://www.gov.uk/government/publications/eu-settlement-scheme-caseworker-guidance",
-   "date": "2026-10-15",
-   "source": "GOV.UK (UK Visas and Immigration)",
-   "label": "United Kingdom",
-   "snippet": "Immigration staff guidance on applications under the EU Settlement Scheme.",
-   "lead": "Navigation menu Menu Menu Services and information Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions ...",
-   "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+   "score": 9,
+   "priority": 75,
+   "title": "Indians, Brits and Syrians top Norway's permanent residency list",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmdwZjNIMVpVT2VYWUNvbktncDBwcFpYWTZPV3NJQ01BTmU2RkMzSHd2NU1pMFpCY1p5WmhVbW10OUpxRE9IeGpSaFM5ck1wNmliZnBIZndHMXZKZWFWcjJkQXJZb29QMTI2R0thSlJGczRFS0l1R2g5b2Y4M3VVNXhxOEpUM3ZDTlJOeWJ4TVdpblJuYzhqeW92Yw?oc=5",
+   "date": "2026-10-20",
+   "source": "The Local Norway",
+   "label": "Norway",
+   "snippet": "Gaining permanent residency in Norway is a significant achievement for every foreigner who is building a new life in the nordic country; however some nationalities stand out for both the number of applicants and their high approval rates.",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Gaining permanent residency in Norway is a significant achievement for every foreigner who is building a new life in the nordic country; however some nationalities stand out for both the number of applicants and their ...",
+   "image": null,
    "why": [
     "Affects permanent residence",
-    "Official government notice",
-    "Major story (12 headlines that day)"
+    "Mentions India or Indians"
    ],
    "tags": [
     "PR / Settlement",
-    "United Kingdom"
+    "Norway"
+   ],
+   "rank": 19,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 9,
+   "priority": 69,
+   "title": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
+   "date": "2026-10-19",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026 Please refer to Section C on ‘Limits for Non-Option Derivative Contracts’ of Chapter IV of the Reserve Bank of India (Small Finance Banks - Miscellaneous) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by section 35A of the Banking Regulation Act, 1949, and all other provisions / laws enabling the Reserve Bank of India ...",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
    ],
    "rank": 20,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 9,
-   "priority": 69,
+   "score": 8,
+   "priority": 67,
    "title": "Japan’s permanent residency reform has a glaring blind spot",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdnM1dktlaFRqdVdJNHVGNldlZHNHci1NbTFqRVZFd3RHamUzT1A1bmpxZVhoMDhrejNCcGVQRVR3NmlfRk5qcHd0SjJZaHpiM3ZySGlKcXpyTWJTZVRfQWpSREJpWVZOYXd4Rzl3Y0NkTG5rTUhfV0duczY1WFZROWlaVHJfaXNaTmQ1OHZqNnVESzda?oc=5",
    "date": "2026-10-20",
@@ -921,8 +921,8 @@
   },
   {
    "desk": "Policy",
-   "score": 9,
-   "priority": 69,
+   "score": 8,
+   "priority": 62,
    "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on October 21, 2026",
    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63833",
    "date": "2026-10-19",
