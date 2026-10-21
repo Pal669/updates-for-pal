@@ -1,6 +1,6 @@
 {
- "edition": "2026-10-21",
- "built": "2026-10-21 21:07 IST",
+ "edition": "2026-10-22",
+ "built": "2026-10-22 01:53 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,91 +12,91 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22811.0,
-   "change_pct": -0.34,
+   "value": 22889.0,
+   "change_pct": -1.11,
    "asof": "21 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73710.0,
-   "change_pct": -0.19,
+   "value": 73853.0,
+   "change_pct": -1.17,
    "asof": "21 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
    "value": 94.45,
-   "change_pct": -0.57,
-   "asof": "21 Oct 20:33 IST"
+   "change_pct": -0.28,
+   "asof": "22 Oct 01:20 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 108.8,
-   "change_pct": 0.01,
-   "asof": "21 Oct 20:57 IST"
+   "value": 109.85,
+   "change_pct": 0.97,
+   "asof": "22 Oct 01:42 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4155.0,
-   "change_pct": 0.29,
-   "asof": "21 Oct 20:57 IST"
+   "value": 4153.0,
+   "change_pct": 0.25,
+   "asof": "22 Oct 01:43 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.12,
-   "change_pct": -0.04,
-   "asof": "21 Oct 20:52 IST"
+   "value": 5.15,
+   "change_pct": 0.57,
+   "asof": "22 Oct 00:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "DheyaTech",
-   "tagline": "Bengaluru aerospace propulsion startup",
-   "what": "Founded in 2018 by aerospace engineers Gurushankara KC, Abhinav Alva and Chetan Kumar. Develops small gas turbine engines (20 kgf to 400 kgf thrust) for aerial platforms and energy systems, with the design, assembly and testing pipeline and its engine control unit built in-house. Expanding into hydrogen-based technology and distributed power generation, including a 60 kW turbogenerator with a hydrogen flexi-fuel combustor developed with IISc.",
+   "company": "Aakash Educational Services",
+   "tagline": "Test-prep coaching chain owned by BYJU'S parent",
+   "what": "Gurugram-based test-prep brand for engineering and medical entrance exams, owned by BYJU'S parent Think & Learn since its 2021 acquisition.",
    "how": [
-    "Sells engines to OEMs: the company says it already has orders from Indian and global OEMs but did not disclose names or values.",
-    "Inferred: revenue is hardware sales; the article gives no pricing or revenue figures."
+    "Coaching fees: Rs 1,956.2 Cr of Rs 2,040.5 Cr operating revenue in FY26 (about 96%, computed).",
+    "Franchisee revenue: Rs 84.4 Cr, up 4% (about 4%, computed)."
    ],
-   "watch": "Pre-revenue-scale hardware: certification timelines and first commercial deliveries are the milestones to track. Article also notes rising investor interest in aerospace and spacetech (D-Propulse Rs 25 Cr in January; InspeCity Rs 100 Cr in August).",
-   "sector": "AI & Deeptech",
+   "watch": "The smaller loss came from one-off accounting gains, not from the business growing: revenue is flat. Ownership is entangled in the BYJU'S group's disputes: Byju Raveendran proposed relinquishing his claimed interest in 17.89 Mn Aakash shares to settle Qatar Holding's arbitration claim of over $235 Mn; lenders (Global TLB lenders via GLAS Trust) are reportedly in advanced talks for a 30% stake valuing Aakash at about $2 Bn.",
+   "sector": "Edtech & Skills",
    "region": "India",
-   "url": "https://inc42.com/buzz/dheyatech-bags-%e2%82%b943-cr-to-scale-indigenous-gas-turbine-engines/"
+   "url": "https://inc42.com/buzz/aakash-trims-fy26-loss-by-16-to-%e2%82%b9186-5-cr-top-line-flat-at-%e2%82%b92040-cr/"
   },
   "country": {
-   "id": "finland",
-   "name": "Finland",
-   "trend": "Tightening",
-   "pr": "Since 8 January 2026 you need 6 years of continuous residence (previously 4), satisfactory Finnish or Swedish, and 2 years of work experience in Finland. 4-year alternatives exist, including an EUR 40,000 taxable-income pathway and a Finnish higher-education route. Not applied to applications filed before 8 January 2026.",
-   "citizenship": "8 years of residence since 1 October 2024, plus language requirements.",
-   "pro": "High quality of life, education and safety (general knowledge).",
-   "con": "Tightening at every stage: PR 4 to 6 years, citizenship 8 years, language proficiency required.",
-   "watch": "Implementation of the 2026 rules"
+   "id": "austria",
+   "name": "Austria",
+   "trend": "Stable but strict",
+   "pr": "Red-White-Red Card Plus after about 21 months (no longer tied to one employer). EU permanent residence after 5 years of continuous legal residence.",
+   "citizenship": "10 years standard, 6 years for well-integrated applicants (B2 German, volunteering or professional achievement). Needs B2 German, self-sufficiency and, in general, renunciation of prior citizenship (sources conflict on exceptions; India requires renunciation anyway).",
+   "pro": "Card Plus after about 21 months removes employer dependence.",
+   "con": "Citizenship takes 10 years (6 if well integrated) and needs B2 German.",
+   "watch": "Annual Red-White-Red quota"
   }
  },
  "desks": {
   "Policy": {
    "total": 224,
-   "new_today": 5,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
-     "score": 9,
-     "priority": 69,
-     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63837",
-     "date": "2026-10-21",
+     "score": 5,
+     "priority": 45,
+     "title": "Underwriting Auction for sale of Government Security for ₹34,000 crore on October 16, 2026",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63811",
+     "date": "2026-10-15",
      "source": "RBI",
      "label": "Banking & Rates",
      "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "",
+     "lead": "Government of India has announced the sale (re-issue) of Government Security, as detailed below, through auction to be held on October 16, 2026 (Friday) . As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
      "image": null,
      "why": [
-      "New law or act",
-      "Regulator: RBI"
+      "Regulator: RBI",
+      "Large outlay (Rs 10,000 Cr or more)"
      ],
      "tags": [
       "Banking & Rates"
@@ -104,29 +104,8 @@
     },
     {
      "desk": "Policy",
-     "score": 9,
-     "priority": 69,
-     "title": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026",
-     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
-     "date": "2026-10-19",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Notifications - Reserve Bank of India",
-     "lead": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026 Please refer to Section C on ‘Limits for Non-Option Derivative Contracts’ of Chapter IV of the Reserve Bank of India (Small Finance Banks - Miscellaneous) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by section 35A of the Banking Regulation Act, 1949, and all other provisions / laws enabling the Reserve Bank of India ...",
-     "image": null,
-     "why": [
-      "Regulator rulebook change",
-      "Rule change",
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 5,
-     "priority": 38,
+     "score": 4,
+     "priority": 36,
      "title": "Directions under Section 35 A read with Section 56 of the Banking Regulation Act, 1949 – Puducherry Co-operative Urban Bank Ltd",
      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63840",
      "date": "2026-10-21",
@@ -144,34 +123,94 @@
     },
     {
      "desk": "Policy",
-     "score": 5,
-     "priority": 38,
-     "title": "Underwriting Auction for sale of Government Security for ₹34,000 crore on October 16, 2026",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63811",
+     "score": 4,
+     "priority": 36,
+     "title": "Building a New Beginning Through the Inter-Caste Marriage Incentive Scheme",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323772",
      "date": "2026-10-15",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "Government of India has announced the sale (re-issue) of Government Security, as detailed below, through auction to be held on October 16, 2026 (Friday) . As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
+     "source": "PIB",
+     "label": "Energy & Power",
+     "snippet": "Marriage is not only the union of two individuals but also an opportunity to strengthen mutual respe",
+     "lead": "Ministry of Social Justice & Empowerment Building a New Beginning Through the Inter-Caste Marriage Incentive Scheme Mr. Aditya Sadhu Sawant and Mrs. Khushi Pravin Shaha’s Journey Towards Equality and Social Harmony Posted On: 15 OCT 2026 2:15PM by PIB Delhi Marriage is not only the union of two individuals but also an opportunity to strengthen mutual respect, equality and harmony within society. For Mr. Aditya Sadhu Sawant and Mrs. ...",
      "image": null,
      "why": [
-      "Regulator: RBI",
-      "Large outlay (Rs 10,000 Cr or more)"
+      "Subsidy or incentive"
      ],
      "tags": [
-      "Banking & Rates"
+      "Energy & Power"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 3,
+     "priority": 27,
+     "title": "National Steering Committee Approves ₹1,194.92 Crore Investment Under PM-SETU for Five ITI Clusters Across Maharashtra, Odisha and Jammu & Kashmir",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2324330",
+     "date": "2026-10-16",
+     "source": "PIB",
+     "label": "Labour & Social",
+     "snippet": "The 6th National Steering Committee (NSC) meeting of the Pradhan Mantri Skilling and Employability T",
+     "lead": "Ministry of Skill Development and Entrepreneurship National Steering Committee Approves ₹1,194.92 Crore Investment Under PM-SETU for Five ITI Clusters Across Maharashtra, Odisha and Jammu & Kashmir Tata Steel Foundation, BVG India, Belrise Industries, Eagle Infra India and Inderdeep Infra India to partner in upgrading five ITI clusters; cumulative investment approved under PM-SETU reaches ₹3,687 crore Posted On: 16 OCT 2026 3:25PM by ...",
+     "image": null,
+     "why": [
+      "High on the desk's ranking"
+     ],
+     "tags": [
+      "Labour & Social"
      ]
     }
    ]
   },
   "Startups": {
-   "total": 828,
-   "new_today": 31,
+   "total": 833,
+   "new_today": 2,
    "items": [
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 85,
+     "score": 10,
+     "priority": 71,
+     "title": "Aye Finance Q2: Profit Surges 151% YoY To ₹87 Cr, Revenue Crosses ₹500 Cr Mark",
+     "url": "https://inc42.com/buzz/aye-finance-q2-profit-surges-151-yoy-to-%e2%82%b987-cr-revenue-crosses-%e2%82%b9500-cr-mark/",
+     "date": "2026-10-21",
+     "source": "Inc42",
+     "label": "India · Fintech",
+     "snippet": "Listed NBFC Aye Finance's net profit for the September quarter surged 151% to ₹86.7 Cr from ₹34.5 Cr in the year-ago quarter.",
+     "lead": "Operating revenue for the quarter zoomed 18% YoY and 8% QoQ to ₹514.4 Cr While total income for the quarter stood at ₹527.1 Cr, expenses increased by about ₹8 Cr from the year-ago quarter to ₹411.3 Cr Operating revenue grew 18% YoY and 8% QoQ to ₹514.4 Cr, led by a 29% YoY increase in interest income to ₹479.3 Cr.",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/aye-finance-IPO-social-1.png",
+     "why": [
+      "Financials",
+      "Sizeable deal (about $53M)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Financials",
+      "Fintech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 71,
+     "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+     "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+     "date": "2026-10-21",
+     "source": "TechCrunch Venture",
+     "label": "Global · Other",
+     "snippet": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
+     "lead": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition Ivan Mehta 7:03 AM PDT · October 21, 2026 Last month, advertising company Infillion acquired location-data platform Foursquare, a once popular social network, at an undisclosed value. Now, in a new blog post , Foursquare co-founder and former CEO Dennis Crowley said that investors didn’t see any returns from the sale. Crowley referenced a post by an ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2024/10/foursquare-city-guides.jpg?resize=1200,797",
+     "why": [
+      "Acquisition",
+      "Large deal (about $411M)"
+     ],
+     "tags": [
+      "Acquisition"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 71,
      "title": "Salesforce to acquire Braze in a $5.66 billion deal",
      "url": "https://economictimes.indiatimes.com/tech/technology/salesforce-to-acquire-braze-in-a-5-66-billion-deal/articleshow/135073780.cms",
      "date": "2026-10-20",
@@ -191,8 +230,8 @@
     },
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 85,
+     "score": 10,
+     "priority": 71,
      "title": "OYO-parent PRISM to nearly halve IPO fresh issue size to up to Rs 3,350 cr: Sources",
      "url": "https://yourstory.com/2026/10/oyo-parent-prism-nearly-halve-ipo-fresh-issue-size-to-up-to-rs-3350-cr",
      "date": "2026-10-20",
@@ -208,82 +247,37 @@
      "tags": [
       "IPO & Listing"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 85,
-     "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
-     "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-     "date": "2026-10-19",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
-     "lead": "Town, a two-year-old, San Francisco-based startup developing AI assistants, nabbed a unicorn valuation on Monday, announcing a $108 million Series B funding round co-led by Forerunner Ventures and Menlo Ventures. The company launched publicly just four months ago and said it reached millions of dollars in annual recurring revenue in a matter of weeks. It has raised at least $160 million to date, having previously announced a $55 ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2294590819.jpg?resize=1200,675",
-     "why": [
-      "Funding",
-      "Large deal (about $108M)",
-      "Valuation, listing or profitability signal",
-      "Also covered by 1 other outlet(s)"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 85,
-     "title": "[Update] Zetwerk’s IPO Closes With 3.06X Subscription",
-     "url": "https://inc42.com/buzz/zetwerks-ipo-fully-subscribed-on-day-3-gets-muted-response-from-retail-investors/",
-     "date": "2026-10-19",
-     "source": "Inc42",
-     "label": "India · SaaS & Enterprise",
-     "snippet": "Zetwerk’s IPO has been oversubscribed on the final day of bidding, receiving bids for 56.62 Cr shares against 18.50 Cr shares on offer",
-     "lead": "Qualified institutional buyers (QIBs) have shown the highest interest in the IPO, oversubscribing their quota by 4.73X of their allocation Qualified institutional buyers (QIBs) have shown the highest interest in the IPO, oversubscribing their quota by 1.44X. These investors have placed bids for 14.28 Cr shares against 9.89 Cr shares on offer till now. Meanwhile, employees bid for 7.8 Lakh shares against 7 Lakh shares reserved for them, ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Zetwerk-IPO-social-1.jpg",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $528M: round or valuation)"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "SaaS & Enterprise"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 1195,
-   "new_today": 17,
+   "total": 1214,
+   "new_today": 1,
    "items": [
     {
      "desk": "Immigration",
-     "score": 8,
-     "priority": 67,
-     "title": "Japan’s permanent residency reform has a glaring blind spot",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdnM1dktlaFRqdVdJNHVGNldlZHNHci1NbTFqRVZFd3RHamUzT1A1bmpxZVhoMDhrejNCcGVQRVR3NmlfRk5qcHd0SjJZaHpiM3ZySGlKcXpyTWJTZVRfQWpSREJpWVZOYXd4Rzl3Y0NkTG5rTUhfV0duczY1WFZROWlaVHJfaXNaTmQ1OHZqNnVESzda?oc=5",
-     "date": "2026-10-20",
-     "source": "The Japan Times",
-     "label": "Japan",
-     "snippet": "Japan is moving toward implementation before it has clearly explained how those skills will be evaluated or demonstrated in practice.",
-     "lead": "",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/569442.jpg?v=3.1",
+     "score": 7,
+     "priority": 64,
+     "title": "Campaign calls for Austrian citizenship at birth for children of long-term foreign residents",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQczY5NDAzWkZMdXFIbzVrQW9oVE0yQWdsQ082a3NaMnBIcnlYbzNJLXVmcHhqMm5nQlNQQnBlSllKd2tTT2FjR25MdEJsb3UwemQ0YmdsOWUyVTRabUQ1U2JQLTd1WS0yYkhpRjlTb2tDS3BwMWpMWlFDYXRtenNZZzExcnZTVVNEakMxbmtsYWVQenE1Z1JGLUMxeXYwWmxWczBEdkF2RE1JdnR6SzA4SUNqYlUxbWFOZThoZExtV29NamM?oc=5",
+     "date": "2026-10-21",
+     "source": "The Local Austria",
+     "label": "Austria",
+     "snippet": "Currently, being born in Austria does not guarantee Austrian citizenship. A new initiative proposes changing the law so that children of foreign nationals who have lived legally in Austria for several years are automatically granted citizenship.",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Currently, being born in Austria does not guarantee Austrian citizenship. A new initiative proposes changing the law so that children of foreign nationals who have lived legally in Austria for several years are ...",
+     "image": null,
      "why": [
-      "Affects permanent residence",
-      "Announces a change"
+      "Affects citizenship"
      ],
      "tags": [
-      "PR / Settlement",
-      "Japan"
+      "Citizenship",
+      "Austria"
      ]
     },
     {
      "desk": "Immigration",
-     "score": 6,
-     "priority": 50,
+     "score": 5,
+     "priority": 45,
      "title": "Australia: Student Visa Application and Family Inclusion Rules Tightened",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUll5TFF4dW51X2NKajBGT2hWLXppMHl0OFhDVzVtck8tbnNjRk5LUmNUVFJsenFnMXNFeTRmYm13aklkM3lfenhJZVBiVDd3ZU5oNG93V1pxVzBvM1hOdnpTaFIwMWV2aWNmRzVUdWFtTEZBcjJDckdpNGlqWGFNOGxveHdCTmc5LTBVSkJmblZaYlh2RGhJc21DTmdLeHVJZ215LVM0TWR3RmNaU3Nj?oc=5",
      "date": "2026-10-21",
@@ -303,7 +297,27 @@
     {
      "desk": "Immigration",
      "score": 5,
-     "priority": 42,
+     "priority": 45,
+     "title": "Portugal has limited immigration, and Spain may follow | World News",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb0RwdWdUejBZUnBjOU1WRjdiZHA5S2IzOHlZcjRPVEpDMEFGeVZhWmRPWlJhbW9seVJ5WnhsU1lGOUZDa2pPd2xBcHFsRkh1ZkhWeTdOZmp6UUVnY3JReFBKWFhoVUFzRFFXLU9uaXJLMGIwWVJOZGM2UXE2dnNQSFB0WGxZZmo2N1ByZnhpWVd0dmhrTzdJLXhVdmFXUHhuc1RTdXNUT0hmYmFpSDFreXlsYzJES25tdlc4dNIBvAFBVV95cUxOb0RwdWdUejBZUnBjOU1WRjdiZHA5S2IzOHlZcjRPVEpDMEFGeVZhWmRPWlJhbW9seVJ5WnhsU1lGOUZDa2pPd2xBcHFsRkh1ZkhWeTdOZmp6UUVnY3JReFBKWFhoVUFzRFFXLU9uaXJLMGIwWVJOZGM2UXE2dnNQSFB0WGxZZmo2N1ByZnhpWVd0dmhrTzdJLXhVdmFXUHhuc1RTdXNUT0hmYmFpSDFreXlsYzJES25tdlc4dA?oc=5",
+     "date": "2026-10-16",
+     "source": "Hindustan Times",
+     "label": "Spain",
+     "snippet": "The wave of immigrants in both countries looks politically unsustainable",
+     "lead": "Nestled beneath Lisbon’s former Moorish quarter, the Rua do Benformoso is a winding street of decaying buildings faced with azulejos (decorative tiles). It is lined with Indian food shops and stores selling hookah pipes and mobile phones. Piedade, a Portuguese woman who has lived here for over 60 years, dislikes what has happened to it. “There’s drugs and crime,” she says. “I stay inside at home.” The Rua do Benformoso has become the ...",
+     "image": null,
+     "why": [
+      "Quota or cap change"
+     ],
+     "tags": [
+      "Quota / Caps",
+      "Spain"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 4,
+     "priority": 36,
      "title": "Finland Announces 14-Day Fast-Track Residence Permit and Lists Conditions Applicants Must Meet",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcG91ZzZQTkVLNURNcjlUU0doUF9fM1FnUGZTRFpuU2NiV0s4WG1zZzl3eUlRbTI3eHpXTHNmc0Q1cHJjREdsNHhGWXNianRLRUtVVGR6TG1FbGJndEJXXzYxcEVLTVpZOGtMQkEySWlrb2syR2YwT2hFSldkRndiYVQtSkljYlhzWUg2VGJuOTB3SmxncnI2SzI1ckdQdVVTcVZvb1N2dlRlQ0hnV2NMcTBXNkxVczVGbTk0cA?oc=5",
      "date": "2026-10-21",
@@ -318,73 +332,54 @@
      "tags": [
       "Finland"
      ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 42,
-     "title": "Korea Pushes for U.S. Shipbuilding Worker Visa Quota in $150B Investment Deal - News and Statistics",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWGg5S000ZGdyZElLczdyamNZMXNiTDJmLU1teDVaSDlGX1F4b0lPVjAyN0JFM2VVcldyQWRnMUxkSXFlaUc0WU8tMVQ5OGFid3pBT1psVlJhSG9tUTF6ajd0M0wwNU1nRUdKT3hfNHQtQU9mN3V3eW5Ua1dRM2I5b3VjMFhNN3hrSk9Mc3BzSk9KdWZ1QUhDMXd0VGNqLVh0c1hDU091QUZRaW1oX20tLUFPUzZYQmN2VnZseHRwcEtlTC1oaHVxb0RB?oc=5",
-     "date": "2026-10-20",
-     "source": "IndexBox",
-     "label": "South Korea",
-     "snippet": "Korea conditions its $150 billion shipbuilding investment on a dedicated U.S. visa quota for workers, alongside sufficient orders, joint shipbuilding exemptions, and financial incentives, as the E-4 visa and Partner with Korea Act remain pending.",
-     "lead": "All Reports Market insights Blog Type at least 3 characters to see fast results. Press / or ⌘K anytime. Searching… No fast matches found. Press Enter to see full results. Search South Korea Korea seeks U.S. visa quota for shipbuilding workers Visa quota tied to $150 billion pledge Skilled crews needed at U.S. shipyards Loading Stock video by Somogro Bangladesh via Pexels Oct 20, 2026 Korea Seeks Dedicated U.S. Visa Quota for ...",
-     "image": "https://www.indexbox.io/landing/img/blog/telegram-fallback/042a68c7806885eab05b5b6e68c9bb95.webp",
-     "why": [
-      "Quota or cap change"
-     ],
-     "tags": [
-      "Quota / Caps",
-      "South Korea"
-     ]
     }
    ]
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 0,
+   "new_today": 2,
    "items": [
     {
      "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
-     "title": "Gold slips as investors weigh Fed rate outlook",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWkNfZGowNFV6RkNFVlV5MmlKMWxfTWFaekdyVi1rT3BBbXpJZFdSMm1UYldxVFAwS2ZIRHdBeTFvZzNKclp5a2NmZVV3UXp1TlV3cXlhQVl3RkxTcTNjQm83aVQ0aXYzdE56LVJMa05ELXF2ZHJNbnpDTUJvLThDQw?oc=5",
+     "score": 10,
+     "priority": 83,
+     "title": "Why are FIIs selling Indian stocks in 2026? Rs 3 lakh crore outflow amid crude oil surge, rising US bond yields and weak Rupee",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWkVOdDc5MmRRMk1mRmR5Z1BqTnpQTFlmRmJ5NEZHRGZkWXdLeW5PMmFxd1B3ODZKbE85N21DT0Z6d1VLdGlMYWxZWmswSTJFN2l5QXAzMWFIUV81SDRNRGRhcnA0MVJSc3ZOS1dzaFU2TVEyU0VtMlZzOWNSZUk1SEVuWTJWX2NsakRtSHo5Si1mU0tsS2NzNmVYdUg3V1g3SENGY2pNcElrVGVRelc3UU1sWDFNaFY0bzBmRmxqY3FycU9jNGRMajhyY3ZkVnM3d0NVVE00Wmt6bi04VTdOeTBmb9IB4wFBVV95cUxQWkVOdDc5MmRRMk1mRmR5Z1BqTnpQTFlmRmJ5NEZHRGZkWXdLeW5PMmFxd1B3ODZKbE85N21DT0Z6d1VLdGlMYWxZWmswSTJFN2l5QXAzMWFIUV81SDRNRGRhcnA0MVJSc3ZOS1dzaFU2TVEyU0VtMlZzOWNSZUk1SEVuWTJWX2NsakRtSHo5Si1mU0tsS2NzNmVYdUg3V1g3SENGY2pNcElrVGVRelc3UU1sWDFNaFY0bzBmRmxqY3FycU9jNGRMajhyY3ZkVnM3d0NVVE00Wmt6bi04VTdOeTBmbw?oc=5",
      "date": "2026-10-20",
-     "source": "MyJoyOnline",
-     "label": "Gold & Silver",
-     "snippet": "Gold slipped in early Asian trading on Tuesday as investors awaited the US Federal Reserve policy decision next week for signals on interest rates and the broader outlook for monetary policy.",
-     "lead": "Gold slipped in early Asian trading on Tuesday as investors awaited the US Federal Reserve policy decision next week for signals on interest rates and the broader outlook for monetary policy. * Spot gold fell 0.3% to $4,126.84 per ounce by 0102 GMT, while US gold futures for December delivery dropped 0.3% to $4,146.00. * Investor focus has shifted to ​the Fed's October 27-28 policy meeting and next week's US ​Personal Consumption ...",
-     "image": "https://www.myjoyonline.com/wp-content/uploads/2026/09/image-3669-1200x630.png",
+     "source": "ET Now",
+     "label": "Debt & Bonds",
+     "snippet": "Foreign investors have pulled out nearly Rs 50,000 crore from Indian equities in October as rising crude prices, higher US bond yields and a narrowing India-US yield differential make emerging-market investments less attractive.",
+     "lead": "Foreign investors continue to reduce exposure to Indian equities as elevated crude oil prices, rising US Treasury yields and a shrinking yield premium over US bonds impact market sentiment. Stocks to BUY: Sobha से लेकर UltraTech तक, ब्रोकरेज ने इन 7 शेयरों पर जताया भरोसा; 64% तक अपसाइड की उम्मीद Festive Sale 2026: Flipkart आगे, Myntra के डेली यूजर्स 40% बढ़े; क्विक कॉमर्स प्लेटफॉर्म को कितना फायदा?",
+     "image": "https://images.etnownews.com/thumb/msid-156371270,thumbsize-130000,width-1280,height-720,resizemode-75/156371270.jpg",
      "why": [
-      "Precious metals",
+      "Government bond yields",
       "Global macro driver",
-      "Also covered by 2 other outlet(s)"
+      "Sharp market move",
+      "Sector or flows signal"
      ],
      "tags": [
-      "Gold & Silver"
+      "Debt & Bonds"
      ]
     },
     {
      "desk": "Advisory",
      "score": 9,
      "priority": 75,
-     "title": "Cupid, Sterlite Tech among stocks top 10 equity PMS portfolios hold as Nifty, Sensex plunge up to 13% in 2026",
-     "url": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-sterlite-tech-among-stocks-top-10-equity-pms-portfolios-hold-as-nifty-sensex-plunge-up-to-13-in-2026/articleshow/135045427.cms",
-     "date": "2026-10-19",
-     "source": "Economic Times",
-     "label": "PMS",
-     "snippet": "Despite a sharp market downturn in 2026, all 10 top-performing equity PMS strategies delivered positive returns in September, ranging from 3.55% to 5.67%. Amaltas Asset Managements Keystone Fund led the rankings, while Cupid and Sterlite Technologies featured among the prominent holdings across multiple portfolio management strategies.",
-     "lead": "Total FII net sales for 2026 have now surpassed Rs 2.5 lakh crore, NSDL data showed. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price",
-     "image": "https://img.etimg.com/thumb/msid-135045772,width-1200,height-900,imgsize-427206,overlay-etmarkets/articleshow.jpg",
+     "title": "Rougher waters for REITs amid surge in government bond yields",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hM2J2SkE3SVdnczdubkVPYjl0QjlDLVBVR1NjR1lWNFpCZnZGQ1RoNk8yYXpncnFjODhOUjNPNHBXa3pWS3k4QmRXaGI3dGIw?oc=5",
+     "date": "2026-10-21",
+     "source": "The Edge Malaysia",
+     "label": "REITs & InvITs",
+     "snippet": "MALAYSIAN real estate investment trusts (M-REITs) have long been prized for their income-generating qualities. Listed REITs that distribute at least 90% of their total income qualify for a full tax exemption at the trust level, helping make regular distributions a central part of the asset class’...",
+     "lead": "BURSA SGX Edge Weekly Make The Edge Malaysia your preferred source on Google This article first appeared in The Edge Malaysia Weekly on October 12, 2026 - October 18, 2026 MALAYSIAN real estate investment trusts (M-REITs) have long been prized for their income-generating qualities. Listed REITs that distribute at least 90% of their total income qualify for a full tax exemption at the trust level, helping make regular distributions a ...",
+     "image": "https://assets.theedgemarkets.com/260582236_xl_20261016224915_123RF.jpg",
      "why": [
-      "PMS news",
-      "Sharp market move",
-      "Also covered by 2 other outlet(s)"
+      "REIT / InvIT news",
+      "Government bond yields",
+      "Sharp market move"
      ],
      "tags": [
-      "PMS"
+      "REITs & InvITs"
      ]
     },
     {
@@ -436,30 +431,76 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 13,
+   "score": 14,
    "priority": 100,
-   "title": "Legora raises fresh $550m at $8.8bn valuation",
-   "url": "https://sifted.eu/articles/legora-funding-round-series-e-legal-tech/",
-   "date": "2026-10-21",
-   "source": "Sifted",
-   "label": "Global · Other",
-   "snippet": "Fast-growing legaltech startup wins backing from Atreides Management and JP Morgan.",
-   "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
-   "image": "https://images.sifted.eu/cdn-cgi/image/width=1065,quality=75,fit=cover,format=auto/wp-content/uploads/2025/08/26160450/Screenshot-2025-08-26-at-16.04.22-e1777537527904.png",
+   "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+   "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+   "date": "2026-10-22",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+   "lead": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion. The company helps automate and assist with workflow tasks for legal professionals, as the industry moves beyond AI assistants to AI services that help them get work done. The news comes just a month after Harvey, Legora’s biggest competitor, announced a $550 million raise at a $15.5 billion valuation; back in March, ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2296593553.jpg?w=1024",
    "why": [
     "Funding",
     "Very large figure in headline (about $8,800M: round or valuation)",
-    "Valuation, listing or profitability signal"
+    "Valuation, listing or profitability signal",
+    "Also covered by 1 other outlet(s)"
    ],
    "tags": [
-    "Funding"
+    "Funding",
+    "AI & Deeptech"
    ],
    "rank": 1,
    "must_read": true
   },
   {
-   "desk": "Immigration",
+   "desk": "Policy",
+   "score": 11,
+   "priority": 100,
+   "title": "Minutes of the Monetary Policy Committee Meeting, October 5 to 7, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63839",
+   "date": "2026-10-21",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "The sixty third meeting of the Monetary Policy Committee (MPC), constituted under Section 45ZB of the Reserve Bank of India Act, 1934, was held during October 5, 2026. 2. The meeting was chaired by Shri Sanjay Malhotra, Governor and was attended by all the members – Dr. Nagesh Kumar, Director and Chief Executive, Institute for Studies in Industrial Development, New Delhi; Shri Saugata Bhattacharya, Economist, Mumbai; Professor Ram ...",
+   "image": null,
+   "why": [
+    "Rates and liquidity",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
+   "desk": "Advisory",
    "score": 12,
+   "priority": 100,
+   "title": "Minutes of the Monetary Policy Committee Meeting, October 5 to 7, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63839",
+   "date": "2026-10-21",
+   "source": "RBI",
+   "label": "Regulatory",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "The sixty third meeting of the Monetary Policy Committee (MPC), constituted under Section 45ZB of the Reserve Bank of India Act, 1934, was held during October 5, 2026. 2. The meeting was chaired by Shri Sanjay Malhotra, Governor and was attended by all the members – Dr. Nagesh Kumar, Director and Chief Executive, Institute for Studies in Industrial Development, New Delhi; Shri Saugata Bhattacharya, Economist, Mumbai; Professor Ram ...",
+   "image": null,
+   "why": [
+    "Interest-rate decision",
+    "Official notice"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 3,
+   "must_read": true
+  },
+  {
+   "desk": "Immigration",
+   "score": 11,
    "priority": 100,
    "title": "New work visas announced under India-NZ FTA: The migration “tsunami” that wasn’t",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzRYQlZRSFpYekVaUWFYdF81UzRMTlhsbHJVOHI3VUtoaHBUR2lMLWVTNktsUkwxbHVaRWVhclI2TGZDZWlFem42UGV0WXdsaWwtTU12OVJhT2hBcnd0SW9NYU1OcktJVVJ5UDR6WXJVYWotaEVSS1pKbzhDWEJZeEZYT2syVWM4Umc4RUpVUFltUHFfeGVUWGlFNjd5MEFiNGozTW1pcFl6UEFRU1dV?oc=5",
@@ -479,31 +520,7 @@
     "Work visa",
     "New Zealand"
    ],
-   "rank": 2,
-   "must_read": true
-  },
-  {
-   "desk": "Advisory",
-   "score": 12,
-   "priority": 100,
-   "title": "Gold Surges To ₹1.48 Lakh While Silver Tops ₹2.12 Lakh, Easing US Fed Rate Hike Fears Boost Precious",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeTRBeDltYXZpUGVjSjVvUENnT19wdVdSckZ0ZFM4ZGhESmdsTzJkZlpvQjFFWUtwSTdDc1hNeHhyV3NITkJZVzJDbUV5TDFkM0c0enBKZFNZZEJhSS1mWEdUSmFDTUI3bVhmRGstOV9DNlppNWVfNW8yekE1eXMxa0pyazBJcXhLUkd6a0pGdGhZWDY1ZFdpZmJEZVFCS1VqcWVTbTBqcVM3TjA2UGd4a0hqU1FpcWJNMFZVYTdURGE5a1Y2RkRldUcweEc2ak5oN3FrNWtPbV9OU2fSAeABQVVfeXFMUDQxbTFpVVYzRVB3TTB6RGdaREI3bEhqVHBvcV9KX21obDhCZ2hRaEQwQXp4NVp6UG1GTzhfdnh1SmtqSUdWNHRaaWpqVTRvY2ZLaHBQOUJLSjVXVnNLRkpyeHo3MmpZbW9TdnhNUWNjS2pST2xVNmtrM0VjcnEyUk10ZUNCVzZvQmMxcUdsQ2x1c051Mno4Qi1ySXZTVkVpQnBXa3VESTU3dDVnb2FpZGJWVmRzVXI0RS1GZHc5RmtkVDE1Z0VBWjNZaDBsMlNHR3dDejl2ZzBhWFo5aWFiRVU?oc=5",
-   "date": "2026-10-19",
-   "source": "Free Press Journal",
-   "label": "Gold & Silver",
-   "snippet": "Gold rises ₹461 to ₹1,48,379 per 10 grams, while silver gains ₹826 to ₹2,12,013 per kg on MCX as easing US Fed rate hike fears support precious metals.",
-   "lead": "New Delhi: Gold and silver prices moved higher in early trading on Monday, October 19, supported by positive global market trends and easing concerns over another interest rate hike by the US Federal Reserve. Both precious metals recorded gains on the Multi Commodity Exchange (MCX), with investors closely watching US inflation data and upcoming Federal Reserve policy decisions. On the MCX, December gold futures climbed ₹461, or 0.31 ...",
-   "image": "https://media.assettype.com/freepressjournal/2026-09-30/v9z1y8l7/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-09-30T180726.291.jpg",
-   "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Gold & Silver"
-   ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -527,152 +544,60 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 4,
-   "must_read": true
-  },
-  {
-   "desk": "Policy",
-   "score": 13,
-   "priority": 100,
-   "title": "Cabinet approves continuation of the National Social Assistance Programme for five years from 2026-27 to 2030-31",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323264",
-   "date": "2026-10-14",
-   "source": "PIB",
-   "label": "Labour & Social",
-   "snippet": "The Union Cabinet chaired by the Prime Minister Shri Narendra Modi has approved the proposal of the",
-   "lead": "Cabinet Cabinet approves continuation of the National Social Assistance Programme for five years from 2026-27 to 2030-31 Posted On: 14 OCT 2026 4:06PM by PIB Delhi The Union Cabinet chaired by the Prime Minister Shri Narendra Modi has approved the proposal of the Department of Rural Development for Continuation of the National Social Assistance Programme (NSAP) with total outlay of Rs. 53,428 crore for five years from 2026-27 to ...",
-   "image": null,
-   "why": [
-    "Cabinet decision",
-    "Cabinet",
-    "Large outlay (Rs 10,000 Cr or more)"
-   ],
-   "tags": [
-    "Labour & Social"
-   ],
    "rank": 5,
    "must_read": true
   },
   {
-   "desk": "Policy",
-   "score": 12,
+   "desk": "Advisory",
+   "score": 11,
    "priority": 92,
-   "title": "Minutes of the Monetary Policy Committee Meeting, October 5 to 7, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63839",
+   "title": "Extent of rate hike cycle to depend on growth-inflation outlook: RBI Governor",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPb29KZ3dHYVR1b2s2WkhnRmNTRWVwZEx6b1NpQU9BVjQ5QjRicDJKUEZXMTlXMXo3Ql9NcTRJVmJjeGczS2xQSUw0VlQtMWMxaVlMU2lpV1Fwb0RjNGc0cG41T0ZwMVI3dHBoVXJtNVNRVVF4NWlxVTkwSWZ2dUNPRmpVQXlZUzBuVFRhaEVFMlFUZnRuU3hkUFR2T0ZwcEFtQTk5Z3BUSk9Zazg0Q0RBZ1hFSVJzQmI3QkJRa2Ixb3ZMeXZrVG03SzNOazRRbFAxdzJ3a2VUTmw0X25IVHNvZnlEWnHSAeoBQVVfeXFMTkFGcmFRUW13UmU5TUlEZjZwQlFhZmNZQ3NuUmtSa1FNVGNuQ0xEcWNBMm11R2NPWkxMN1pzNDdRY0FlMWNMRlhqVURzaVZsUHVDaDFSUFUtSllialhINFlzT09oV29QdmJBaW9XUEZnSHplWGpHU0g3SEJzR0poZzk1NDh4d2o2dWlFMHE4cVV6SDAzRG9TZ2lJM1kxWnRBRVZMNE1tS1g5c0t2ekNSMklBY3Q1d0V2UFo5bUt1MW5kMldjclA0TzA2ejBORXJDQXh3ZHpZQUh4THBpUmM5bzJ6ZUo2bFZLNDF3?oc=5",
    "date": "2026-10-21",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The sixty third meeting of the Monetary Policy Committee (MPC), constituted under Section 45ZB of the Reserve Bank of India Act, 1934, was held during October 5, 2026. 2. The meeting was chaired by Shri Sanjay Malhotra, Governor and was attended by all the members – Dr. Nagesh Kumar, Director and Chief Executive, Institute for Studies in Industrial Development, New Delhi; Shri Saugata Bhattacharya, Economist, Mumbai; Professor Ram ...",
-   "image": null,
+   "source": "The Economic Times",
+   "label": "Regulatory",
+   "snippet": "Reserve Bank of India (RBI) Governor Sanjay Malhotra said the duration and extent of the rate hike cycle will be contingent on the actual growth-inflation developments and outlook. The governor and other five Monetary Policy Committee (MPC) members voted to raise the repo rate by 25 bps to 5.5 per cent. The rate was hiked after a gap of n",
+   "lead": "One company, 2 words. Bond yield and CDS: Will they decide the fate of global markets? Business of Odd Things: Inside an industry that farms fish that nobody is meant to eat US mid-term elections – Part 2: What does it mean for Trump to lose control of Congress?",
+   "image": "https://img.etimg.com/thumb/msid-135092478,width-1200,height-900,imgsize-74816,overlay-economictimes/articleshow.jpg",
    "why": [
-    "Rates and liquidity",
-    "Regulator: RBI"
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Also covered by 1 other outlet(s)"
    ],
    "tags": [
-    "Banking & Rates"
+    "Regulatory"
    ],
    "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 92,
-   "title": "Apple India’s FY26 Profit Jumps 66% YoY To ₹5,311 Cr, Revenue Up 31%",
-   "url": "https://inc42.com/buzz/apple-indias-fy26-profit-jumps-66-yoy-to-%e2%82%b95311-cr-revenue-up-31/",
-   "date": "2026-10-20",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Apple India’s FY26 net profit rose 66% to ₹5,311 Cr as operating revenue crossed ₹1 lakh Cr, while expenses surged 28%",
-   "lead": "Apple India’s net profit jumped 66% YoY to ₹5,311 Cr in FY26, while operating revenue grew 31.4% to ₹1.04 Lakh Cr The iPhone-maker’s profit growth outpaced revenue expansion as its net profit margin improved to 5.1% from 4% in FY25 Apple India’s total expenses during the fiscal year under review grew 28% to ₹96,224 Cr from ₹75,190.7 Cr it reported in FY25",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/FTR-26-1.jpg",
-   "why": [
-    "Financials",
-    "Very large figure in headline (about $559M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Financials"
-   ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 92,
-   "title": "Jio Platforms' anchor book draws Rs 2.5 lakh crore in bids ahead of IPO",
-   "url": "https://yourstory.com/2026/10/jio-platforms-anchor-book-draws-rs-25-lakh-crore-in-bids-ahead-of-ipo",
-   "date": "2026-10-20",
-   "source": "YourStory",
-   "label": "India · Media, Gaming & Creators",
-   "snippet": "The IPO of Jio Platforms opens on October 21\n\nJio Platforms allotted 7.24 crore shares at a price of Rs 1,119 per share to the anchor investors and LIC received the largest allocation\n\nJio Platforms has allotted shares worth Rs 8,109.85 crore to 212 anchor investors at the top end of its price ban",
-   "lead": "Jio Platforms' anchor book draws Rs 2.5 lakh crore in bids ahead of IPO Jio Platforms allotted 7.24 crore shares at a price of Rs 1,119 per share to the anchor investors and LIC received the largest allocation Press Trust of India 11229 Stories Tuesday October 20, 2026 , 2 min Read Jio Platforms has allotted shares worth Rs 8,109.85 crore to 212 anchor investors at the top end of its price band, after institutional demand for the ...",
-   "image": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Imagef4om-1592391491397.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $26,316M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Media, Gaming & Creators"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 92,
-   "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-   "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-   "date": "2026-10-20",
-   "source": "TechCrunch Venture",
-   "label": "Global · AI & Deeptech",
-   "snippet": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-   "lead": "Tenstorrent, a chip startup focused on inference, has raised $1.5 billion at a $6.2 billion valuation. The round comes five months after the 10-year-old Nvidia challenger reportedly received acquisition interest from Intel and Qualcomm at valuations of as much as $5 billion. The fresh round, which more than doubled Tenstorrent’s valuation from the $2.6 billion it fetched in late 2024, was led by Trace Capital, a new firm launched by ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=970",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $6,200M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 9,
    "must_read": false
   },
   {
    "desk": "Advisory",
    "score": 11,
    "priority": 92,
-   "title": "Why are FIIs selling Indian stocks in 2026? Rs 3 lakh crore outflow amid crude oil surge, rising US bond yields and weak Rupee",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWkVOdDc5MmRRMk1mRmR5Z1BqTnpQTFlmRmJ5NEZHRGZkWXdLeW5PMmFxd1B3ODZKbE85N21DT0Z6d1VLdGlMYWxZWmswSTJFN2l5QXAzMWFIUV81SDRNRGRhcnA0MVJSc3ZOS1dzaFU2TVEyU0VtMlZzOWNSZUk1SEVuWTJWX2NsakRtSHo5Si1mU0tsS2NzNmVYdUg3V1g3SENGY2pNcElrVGVRelc3UU1sWDFNaFY0bzBmRmxqY3FycU9jNGRMajhyY3ZkVnM3d0NVVE00Wmt6bi04VTdOeTBmb9IB4wFBVV95cUxQWkVOdDc5MmRRMk1mRmR5Z1BqTnpQTFlmRmJ5NEZHRGZkWXdLeW5PMmFxd1B3ODZKbE85N21DT0Z6d1VLdGlMYWxZWmswSTJFN2l5QXAzMWFIUV81SDRNRGRhcnA0MVJSc3ZOS1dzaFU2TVEyU0VtMlZzOWNSZUk1SEVuWTJWX2NsakRtSHo5Si1mU0tsS2NzNmVYdUg3V1g3SENGY2pNcElrVGVRelc3UU1sWDFNaFY0bzBmRmxqY3FycU9jNGRMajhyY3ZkVnM3d0NVVE00Wmt6bi04VTdOeTBmbw?oc=5",
-   "date": "2026-10-20",
-   "source": "ET Now",
-   "label": "Debt & Bonds",
-   "snippet": "Foreign investors have pulled out nearly Rs 50,000 crore from Indian equities in October as rising crude prices, higher US bond yields and a narrowing India-US yield differential make emerging-market investments less attractive.",
-   "lead": "Foreign investors continue to reduce exposure to Indian equities as elevated crude oil prices, rising US Treasury yields and a shrinking yield premium over US bonds impact market sentiment. Stocks to BUY: Sobha से लेकर UltraTech तक, ब्रोकरेज ने इन 7 शेयरों पर जताया भरोसा; 64% तक अपसाइड की उम्मीद Festive Sale 2026: Flipkart आगे, Myntra के डेली यूजर्स 40% बढ़े; क्विक कॉमर्स प्लेटफॉर्म को कितना फायदा?",
-   "image": "https://images.etnownews.com/thumb/msid-156371270,thumbsize-130000,width-1280,height-720,resizemode-75/156371270.jpg",
+   "title": "Gold Surges To ₹1.48 Lakh While Silver Tops ₹2.12 Lakh, Easing US Fed Rate Hike Fears Boost Precious",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeTRBeDltYXZpUGVjSjVvUENnT19wdVdSckZ0ZFM4ZGhESmdsTzJkZlpvQjFFWUtwSTdDc1hNeHhyV3NITkJZVzJDbUV5TDFkM0c0enBKZFNZZEJhSS1mWEdUSmFDTUI3bVhmRGstOV9DNlppNWVfNW8yekE1eXMxa0pyazBJcXhLUkd6a0pGdGhZWDY1ZFdpZmJEZVFCS1VqcWVTbTBqcVM3TjA2UGd4a0hqU1FpcWJNMFZVYTdURGE5a1Y2RkRldUcweEc2ak5oN3FrNWtPbV9OU2fSAeABQVVfeXFMUDQxbTFpVVYzRVB3TTB6RGdaREI3bEhqVHBvcV9KX21obDhCZ2hRaEQwQXp4NVp6UG1GTzhfdnh1SmtqSUdWNHRaaWpqVTRvY2ZLaHBQOUJLSjVXVnNLRkpyeHo3MmpZbW9TdnhNUWNjS2pST2xVNmtrM0VjcnEyUk10ZUNCVzZvQmMxcUdsQ2x1c051Mno4Qi1ySXZTVkVpQnBXa3VESTU3dDVnb2FpZGJWVmRzVXI0RS1GZHc5RmtkVDE1Z0VBWjNZaDBsMlNHR3dDejl2ZzBhWFo5aWFiRVU?oc=5",
+   "date": "2026-10-19",
+   "source": "Free Press Journal",
+   "label": "Gold & Silver",
+   "snippet": "Gold rises ₹461 to ₹1,48,379 per 10 grams, while silver gains ₹826 to ₹2,12,013 per kg on MCX as easing US Fed rate hike fears support precious metals.",
+   "lead": "New Delhi: Gold and silver prices moved higher in early trading on Monday, October 19, supported by positive global market trends and easing concerns over another interest rate hike by the US Federal Reserve. Both precious metals recorded gains on the Multi Commodity Exchange (MCX), with investors closely watching US inflation data and upcoming Federal Reserve policy decisions. On the MCX, December gold futures climbed ₹461, or 0.31 ...",
+   "image": "https://media.assettype.com/freepressjournal/2026-09-30/v9z1y8l7/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-09-30T180726.291.jpg",
    "why": [
-    "Government bond yields",
+    "Interest-rate decision",
+    "Precious metals",
     "Global macro driver",
-    "Sharp market move",
-    "Sector or flows signal"
+    "Sharp market move"
    ],
    "tags": [
-    "Debt & Bonds"
+    "Gold & Silver"
    ],
-   "rank": 10,
+   "rank": 7,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 11,
-   "priority": 85,
+   "score": 10,
+   "priority": 91,
    "title": "India and New Zealand sign Memorandum of Cooperation (MoC) on Electronic Origin Data Exchange to Facilitate Bilateral Trade Under the India-New Zealand Free Trade Agreement (FTA)",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326043",
    "date": "2026-10-21",
@@ -688,59 +613,13 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "Aye Finance Q2: Profit Surges 151% YoY To ₹87 Cr, Revenue Crosses ₹500 Cr Mark",
-   "url": "https://inc42.com/buzz/aye-finance-q2-profit-surges-151-yoy-to-%e2%82%b987-cr-revenue-crosses-%e2%82%b9500-cr-mark/",
-   "date": "2026-10-21",
-   "source": "Inc42",
-   "label": "India · Fintech",
-   "snippet": "Listed NBFC Aye Finance's net profit for the September quarter surged 151% to ₹86.7 Cr from ₹34.5 Cr in the year-ago quarter.",
-   "lead": "Operating revenue for the quarter zoomed 18% YoY and 8% QoQ to ₹514.4 Cr While total income for the quarter stood at ₹527.1 Cr, expenses increased by about ₹8 Cr from the year-ago quarter to ₹411.3 Cr Operating revenue grew 18% YoY and 8% QoQ to ₹514.4 Cr, led by a 29% YoY increase in interest income to ₹479.3 Cr.",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/aye-finance-IPO-social-1.png",
-   "why": [
-    "Financials",
-    "Sizeable deal (about $53M)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Financials",
-    "Fintech"
-   ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
-   "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
-   "date": "2026-10-21",
-   "source": "TechCrunch Venture",
-   "label": "Global · Other",
-   "snippet": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
-   "lead": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition Ivan Mehta 7:03 AM PDT · October 21, 2026 Last month, advertising company Infillion acquired location-data platform Foursquare, a once popular social network, at an undisclosed value. Now, in a new blog post , Foursquare co-founder and former CEO Dennis Crowley said that investors didn’t see any returns from the sale. Crowley referenced a post by an ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/10/foursquare-city-guides.jpg?resize=1200,797",
-   "why": [
-    "Acquisition",
-    "Large deal (about $411M)"
-   ],
-   "tags": [
-    "Acquisition"
-   ],
-   "rank": 13,
+   "rank": 8,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 11,
-   "priority": 85,
+   "score": 10,
+   "priority": 91,
    "title": "India–New Zealand FTA to Come into Force on 20th October 2026 on Vijay Dashmi, Opening New Opportunities for Indian Exporters",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2325235",
    "date": "2026-10-19",
@@ -757,81 +636,13 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 11,
-   "priority": 85,
-   "title": "Cabinet approves Productivity Linked Bonus (PLB) for 78 days to Railway Employees",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323256",
-   "date": "2026-10-14",
-   "source": "PIB",
-   "label": "Infrastructure & Transport",
-   "snippet": "The Union Cabinet chaired by the Prime Minister Shri Narendra Modi has approved payment of PLB of 78",
-   "lead": "Cabinet Cabinet approves Productivity Linked Bonus (PLB) for 78 days to Railway Employees Posted On: 14 OCT 2026 4:03PM by PIB Delhi The Union Cabinet chaired by the Prime Minister Shri Narendra Modi has approved payment of PLB of 78 days for Rs.2009.61 crore to 11,40,770 railway employees, in recognition of the excellent performance by the Railway staff. Payment of PLB to eligible railway employees is made each year before the Durga ...",
-   "image": null,
-   "why": [
-    "Cabinet decision",
-    "Cabinet"
-   ],
-   "tags": [
-    "Infrastructure & Transport"
-   ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
-   "date": "2026-10-19",
-   "source": "RBI",
-   "label": "Regulatory",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026 Please refer to Section C on ‘Limits for Non-Option Derivative Contracts’ of Chapter IV of the Reserve Bank of India (Small Finance Banks - Miscellaneous) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by section 35A of the Banking Regulation Act, 1949, and all other provisions / laws enabling the Reserve Bank of India ...",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Official notice",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 16,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on October 21, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63833",
-   "date": "2026-10-19",
-   "source": "RBI",
-   "label": "Regulatory",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Wednesday, October 21, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Official notice",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 17,
+   "rank": 9,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 10,
-   "priority": 83,
+   "priority": 91,
    "title": "Ottawa adding express entry points for permanent resident applicants in 'high-wage' jobs",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yMFhBZ3U4ZEQzbzJrVlVpbWtoU2Q3RHBLdk5UenJ0YXVaNkowcDJvRzltei01Z1JCUDhvZVpCMkNqT0ZoZjB5T1hBM0tzOEZPNlZYZXQ3MUNTTVJ1TDFwcnFVbllkVG0wLUdhUlBaX3A?oc=5",
    "date": "2026-10-17",
@@ -849,13 +660,36 @@
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 18,
+   "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 91,
+   "title": "Securities and Exchange Board of India (Alternative Investment Funds) (Third Amendment) Regulations, 2026",
+   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-alternative-investment-funds-third-amendment-regulations-2026_105331.html",
+   "date": "2026-10-15",
+   "source": "SEBI",
+   "label": "Markets & Regulation",
+   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: SEBI"
+   ],
+   "tags": [
+    "Markets & Regulation"
+   ],
+   "rank": 11,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 10,
-   "priority": 83,
+   "priority": 91,
    "title": "Guidance: EU Settlement Scheme: caseworker guidance",
    "url": "https://www.gov.uk/government/publications/eu-settlement-scheme-caseworker-guidance",
    "date": "2026-10-15",
@@ -873,13 +707,36 @@
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 19,
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 83,
+   "title": "Silver recovers as US Dollar weakens, but Fed rate hike risks limit the rebound",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWFhMeVYxU01YNVZON2t5N2k5U1ZhdTJxdWRQSGZ0MmlNQzdoekhDcUlXUVhHYTV6aGY4bVZWd1ZPR0x0MnVDWnNVclhXMEVvdjdXWGxiWmt5ajVvb0lmbjJnQ08xdTd6dF9ZLXdRT0VjRVlKbXpNSVlFSkVYSUFkem11VXcyMGpFSmVEaVdyeXk5MFpPUkVTeEVRV1J3TUZPd0NKbmYxRzItSlJwX29NYjNpNEFYazFVRFhkME52b0pJaEpRVUY2ME5qa2lWNFpJLXc?oc=5",
+   "date": "2026-10-21",
+   "source": "www.tmgm.com",
+   "label": "Gold & Silver",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Interest-rate decision",
+    "Precious metals",
+    "Global macro driver"
+   ],
+   "tags": [
+    "Gold & Silver"
+   ],
+   "rank": 13,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 10,
-   "priority": 77,
+   "score": 9,
+   "priority": 82,
    "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on October 22, 2026",
    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63841",
    "date": "2026-10-21",
@@ -895,36 +752,154 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 20,
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 79,
+   "title": "Peak XV-Backed AI Startup Blacksmith Nets $66 Mn At A Unicorn Valuation",
+   "url": "https://inc42.com/buzz/peak-xv-backed-ai-startup-blacksmith-nets-66-mn-at-a-unicorn-valuation/",
+   "date": "2026-10-21",
+   "source": "Inc42",
+   "label": "India · AI & Deeptech",
+   "snippet": "Blacksmith’s $66 Mn Series C funding round was led by Sequoia Capital with Premji Invest and Peak XV Partners also participating.",
+   "lead": "Blacksmith’s $66 Mn Series C funding round was led by Sequoia Capital with Premji Invest, Peak XV Partners, Google Ventures, and Y Combinator also participating The startup, which currently manages nearly 10 MW of compute footprint, plans to expand its capacity by 5X in 2027 to meet the growing demand for its AI code testing cloud platform Blacksmith’s valuation has doubled to $1 Bn in just over two months. It was valued at $550 Mn ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/blacksmith-soc.png",
+   "why": [
+    "Funding",
+    "Sizeable deal (about $66M)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 79,
+   "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+   "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+   "date": "2026-10-21",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+   "lead": "Blacksmith, a platform that helps companies more efficiently build and test software, including code written by AI, announced Wednesday a $66 million Series C funding round led by Sequoia that values the company at $1 billion. In announcing the round, Blacksmith co-founder and CEO Aditya Jayaprakash said the company was founded to make continuous integration (CI) — the process of building, testing, merging, and validating code changes ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blacksmith.jpg?resize=1200,800",
+   "why": [
+    "Funding",
+    "Sizeable deal (about $66M)",
+    "Valuation, listing or profitability signal",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 79,
+   "title": "Apple India’s FY26 Profit Jumps 66% YoY To ₹5,311 Cr, Revenue Up 31%",
+   "url": "https://inc42.com/buzz/apple-indias-fy26-profit-jumps-66-yoy-to-%e2%82%b95311-cr-revenue-up-31/",
+   "date": "2026-10-20",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Apple India’s FY26 net profit rose 66% to ₹5,311 Cr as operating revenue crossed ₹1 lakh Cr, while expenses surged 28%",
+   "lead": "Apple India’s net profit jumped 66% YoY to ₹5,311 Cr in FY26, while operating revenue grew 31.4% to ₹1.04 Lakh Cr The iPhone-maker’s profit growth outpaced revenue expansion as its net profit margin improved to 5.1% from 4% in FY25 Apple India’s total expenses during the fiscal year under review grew 28% to ₹96,224 Cr from ₹75,190.7 Cr it reported in FY25",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/FTR-26-1.jpg",
+   "why": [
+    "Financials",
+    "Very large figure in headline (about $559M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Financials"
+   ],
+   "rank": 17,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 79,
+   "title": "Jio Platforms' anchor book draws Rs 2.5 lakh crore in bids ahead of IPO",
+   "url": "https://yourstory.com/2026/10/jio-platforms-anchor-book-draws-rs-25-lakh-crore-in-bids-ahead-of-ipo",
+   "date": "2026-10-20",
+   "source": "YourStory",
+   "label": "India · Media, Gaming & Creators",
+   "snippet": "The IPO of Jio Platforms opens on October 21\n\nJio Platforms allotted 7.24 crore shares at a price of Rs 1,119 per share to the anchor investors and LIC received the largest allocation\n\nJio Platforms has allotted shares worth Rs 8,109.85 crore to 212 anchor investors at the top end of its price ban",
+   "lead": "Jio Platforms' anchor book draws Rs 2.5 lakh crore in bids ahead of IPO Jio Platforms allotted 7.24 crore shares at a price of Rs 1,119 per share to the anchor investors and LIC received the largest allocation Press Trust of India 11229 Stories Tuesday October 20, 2026 , 2 min Read Jio Platforms has allotted shares worth Rs 8,109.85 crore to 212 anchor investors at the top end of its price band, after institutional demand for the ...",
+   "image": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Imagef4om-1592391491397.jpg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $26,316M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Media, Gaming & Creators"
+   ],
+   "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 79,
+   "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+   "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+   "date": "2026-10-20",
+   "source": "TechCrunch Venture",
+   "label": "Global · AI & Deeptech",
+   "snippet": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+   "lead": "Tenstorrent, a chip startup focused on inference, has raised $1.5 billion at a $6.2 billion valuation. The round comes five months after the 10-year-old Nvidia challenger reportedly received acquisition interest from Intel and Qualcomm at valuations of as much as $5 billion. The fresh round, which more than doubled Tenstorrent’s valuation from the $2.6 billion it fetched in late 2024, was led by Trace Capital, a new firm launched by ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=970",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $6,200M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 19,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 10,
-   "priority": 77,
-   "title": "Securities and Exchange Board of India (Alternative Investment Funds) (Third Amendment) Regulations, 2026",
-   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-alternative-investment-funds-third-amendment-regulations-2026_105331.html",
-   "date": "2026-10-15",
-   "source": "SEBI",
-   "label": "Markets & Regulation",
-   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+   "score": 8,
+   "priority": 73,
+   "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63837",
+   "date": "2026-10-21",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
    "lead": "",
    "image": null,
    "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Regulator: SEBI"
+    "New law or act",
+    "Regulator: RBI"
    ],
    "tags": [
-    "Markets & Regulation"
+    "Banking & Rates"
    ],
-   "rank": 21,
+   "rank": 20,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 9,
-   "priority": 75,
+   "score": 8,
+   "priority": 73,
    "title": "Indians, Brits and Syrians top Norway's permanent residency list",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmdwZjNIMVpVT2VYWUNvbktncDBwcFpYWTZPV3NJQ01BTmU2RkMzSHd2NU1pMFpCY1p5WmhVbW10OUpxRE9IeGpSaFM5ck1wNmliZnBIZndHMXZKZWFWcjJkQXJZb29QMTI2R0thSlJGczRFS0l1R2g5b2Y4M3VVNXhxOEpUM3ZDTlJOeWJ4TVdpblJuYzhqeW92Yw?oc=5",
    "date": "2026-10-20",
@@ -941,27 +916,50 @@
     "PR / Settlement",
     "Norway"
    ],
+   "rank": 21,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 8,
+   "priority": 73,
+   "title": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
+   "date": "2026-10-19",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026 Please refer to Section C on ‘Limits for Non-Option Derivative Contracts’ of Chapter IV of the Reserve Bank of India (Small Finance Banks - Miscellaneous) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by section 35A of the Banking Regulation Act, 1949, and all other provisions / laws enabling the Reserve Bank of India ...",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
    "rank": 22,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 8,
-   "priority": 67,
-   "title": "Campaign calls for Austrian citizenship at birth for children of long-term foreign residents",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQczY5NDAzWkZMdXFIbzVrQW9oVE0yQWdsQ082a3NaMnBIcnlYbzNJLXVmcHhqMm5nQlNQQnBlSllKd2tTT2FjR25MdEJsb3UwemQ0YmdsOWUyVTRabUQ1U2JQLTd1WS0yYkhpRjlTb2tDS3BwMWpMWlFDYXRtenNZZzExcnZTVVNEakMxbmtsYWVQenE1Z1JGLUMxeXYwWmxWczBEdkF2RE1JdnR6SzA4SUNqYlUxbWFOZThoZExtV29NamM?oc=5",
-   "date": "2026-10-21",
-   "source": "The Local Austria",
-   "label": "Austria",
-   "snippet": "Currently, being born in Austria does not guarantee Austrian citizenship. A new initiative proposes changing the law so that children of foreign nationals who have lived legally in Austria for several years are automatically granted citizenship.",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Currently, being born in Austria does not guarantee Austrian citizenship. A new initiative proposes changing the law so that children of foreign nationals who have lived legally in Austria for several years are ...",
-   "image": null,
+   "score": 7,
+   "priority": 64,
+   "title": "Japan is Making it Harder for Non-Citizens to Become Permanent Residents",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOUNFRVhsckI3LUdlQV80b21XeWRZbDJodDRKS3EwdU0yMnFHbzgtalNlVU1acVZwLTA1V21rOWRUWkJVbGdvcm9qRXc1RjR6YnZHQXd2RWU2bmFPbjVmS0NqN2dLZFh4M0ZjR2FDZnNkWHQ1UlFneC12WV9xZFRaNUtfbFFzRnRJQ09YbXZWV29fd0g0T0FUcXY3ZzYyRlV2aWdPRnVfaXU?oc=5",
+   "date": "2026-10-22",
+   "source": "Condé Nast Traveler",
+   "label": "Japan",
+   "snippet": "Want to move to Japan? The rules are changing—here are your options.",
+   "lead": "Getty Save Story Save this story Save Story Save this story Tourists from around the world continue to flock to Japan ’s bustling megacities and quiet onsen towns , generating a record-setting (and sometimes unmanageable ) influx of travelers: an increase from 25.1 million in 2023 to 42.7 million in 2025, according to the country’s tourism board . In the face of this boom, Japan is setting more boundaries with visitors, including ...",
+   "image": "https://media.cntraveler.com/photos/6ad62add0c0ab725accaefa1/16:9/w_1280,c_limit/GettyImages-1500637833.jpg",
    "why": [
-    "Affects citizenship"
+    "Affects permanent residence"
    ],
    "tags": [
-    "Citizenship",
-    "Austria"
+    "PR / Settlement",
+    "Japan"
    ],
    "rank": 23,
    "must_read": false
