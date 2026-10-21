@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-21",
- "built": "2026-10-21 10:46 IST",
+ "built": "2026-10-21 21:07 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,44 +12,44 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22975.0,
-   "change_pct": 0.38,
-   "asof": "21 Oct 10:46 IST"
+   "value": 22811.0,
+   "change_pct": -0.34,
+   "asof": "21 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74184.0,
-   "change_pct": 0.45,
-   "asof": "21 Oct 10:31 IST"
+   "value": 73710.0,
+   "change_pct": -0.19,
+   "asof": "21 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.54,
-   "change_pct": -0.47,
-   "asof": "21 Oct 10:46 IST"
+   "value": 94.45,
+   "change_pct": -0.57,
+   "asof": "21 Oct 20:33 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 109.98,
-   "change_pct": 1.09,
-   "asof": "21 Oct 10:35 IST"
+   "value": 108.8,
+   "change_pct": 0.01,
+   "asof": "21 Oct 20:57 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4136.0,
-   "change_pct": -0.17,
-   "asof": "21 Oct 10:36 IST"
+   "value": 4155.0,
+   "change_pct": 0.29,
+   "asof": "21 Oct 20:57 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
    "value": 5.12,
-   "change_pct": -0.37,
-   "asof": "21 Oct 00:29 IST"
+   "change_pct": -0.04,
+   "asof": "21 Oct 20:52 IST"
   }
  ],
  "features": {
@@ -79,9 +79,69 @@
  },
  "desks": {
   "Policy": {
-   "total": 219,
-   "new_today": 0,
+   "total": 224,
+   "new_today": 5,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 9,
+     "priority": 69,
+     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63837",
+     "date": "2026-10-21",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "",
+     "image": null,
+     "why": [
+      "New law or act",
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 9,
+     "priority": 69,
+     "title": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
+     "date": "2026-10-19",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Notifications - Reserve Bank of India",
+     "lead": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026 Please refer to Section C on ‘Limits for Non-Option Derivative Contracts’ of Chapter IV of the Reserve Bank of India (Small Finance Banks - Miscellaneous) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by section 35A of the Banking Regulation Act, 1949, and all other provisions / laws enabling the Reserve Bank of India ...",
+     "image": null,
+     "why": [
+      "Regulator rulebook change",
+      "Rule change",
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 38,
+     "title": "Directions under Section 35 A read with Section 56 of the Banking Regulation Act, 1949 – Puducherry Co-operative Urban Bank Ltd",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63840",
+     "date": "2026-10-21",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "It is hereby notified for information of the public that in exercise of powers vested in it under sub section (1) of Section 35 A read with Section 56 of the Banking Regulation Act, 1949, the Reserve Bank of India (RBI) vide Directive Ref. No. CHN.DoS.UCBs.No.S336/16-05-847/2026-2027 dated October 19, 2026, has issued certain Directions to ‘Puducherry Co-operative Urban Bank Ltd’, (“the bank”), whereby, as from the close of business on ...",
+     "image": null,
+     "why": [
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 5,
@@ -101,74 +161,81 @@
      "tags": [
       "Banking & Rates"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 5,
-     "priority": 38,
-     "title": "Ministry of Cooperation mandates new Audit Reporting Framework for Multi-State Cooperative Societies to strengthen transparency, accountability and good governance",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323313",
-     "date": "2026-10-14",
-     "source": "PIB",
-     "label": "Banking & Rates",
-     "snippet": "Guided by Prime Minister Shri Narendra Modi’s vision of ‘Sahkar se Samriddhi’ and under the leadersh",
-     "lead": "Ministry of Cooperation Ministry of Cooperation mandates new Audit Reporting Framework for Multi-State Cooperative Societies to strengthen transparency, accountability and good governance Guided by Prime Minister Shri Narendra Modi’s vision of ‘Sahkar se Samriddhi’ and under the leadership of Union Home Minister and Minister of Cooperation Shri Amit Shah, Ministry of Cooperation takes another significant step towards strengthening ...",
-     "image": null,
-     "why": [
-      "Rates and liquidity"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 4,
-     "priority": 31,
-     "title": "Building a New Beginning Through the Inter-Caste Marriage Incentive Scheme",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323772",
-     "date": "2026-10-15",
-     "source": "PIB",
-     "label": "Energy & Power",
-     "snippet": "Marriage is not only the union of two individuals but also an opportunity to strengthen mutual respe",
-     "lead": "Ministry of Social Justice & Empowerment Building a New Beginning Through the Inter-Caste Marriage Incentive Scheme Mr. Aditya Sadhu Sawant and Mrs. Khushi Pravin Shaha’s Journey Towards Equality and Social Harmony Posted On: 15 OCT 2026 2:15PM by PIB Delhi Marriage is not only the union of two individuals but also an opportunity to strengthen mutual respect, equality and harmony within society. For Mr. Aditya Sadhu Sawant and Mrs. ...",
-     "image": null,
-     "why": [
-      "Subsidy or incentive"
-     ],
-     "tags": [
-      "Energy & Power"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 3,
-     "priority": 23,
-     "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Konark Urban Co-operative Bank Ltd., Ulhasnagar – Extension of Period",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63831",
-     "date": "2026-10-19",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "The Reserve Bank of India issued Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 to The Konark Urban Co-operative Bank Ltd., Ulhasnagar vide Directive No. CO.DOS.SED.No.S592/45-11-001/2024-25 dated April 23, 2024 for a period of six months up to close of business on October 23, 2024, which was last extended up to close of business on October 23, 2026 vide Directive No. ...",
-     "image": null,
-     "why": [
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 804,
-   "new_today": 7,
+   "total": 828,
+   "new_today": 31,
    "items": [
     {
      "desk": "Startups",
      "score": 11,
-     "priority": 92,
+     "priority": 85,
+     "title": "Salesforce to acquire Braze in a $5.66 billion deal",
+     "url": "https://economictimes.indiatimes.com/tech/technology/salesforce-to-acquire-braze-in-a-5-66-billion-deal/articleshow/135073780.cms",
+     "date": "2026-10-20",
+     "source": "ET Startups",
+     "label": "Global · Policy & Regulation",
+     "snippet": "Salesforce has disclosed its intention to acquire Braze for approximately $5.66 billion in cash per share. Under the terms of the agreement, Braze shareholders will receive $47.50 for each Class A share. This acquisition is contingent on receiving necessary approvals from shareholders and regulators, with a projected closure date in Sales",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2649241,resizemode-75,msid-135073780/tech/technology/salesforce-to-acquire-braze-in-a-5-66-billion-deal.jpg",
+     "why": [
+      "Acquisition",
+      "Very large figure in headline (about $5,660M: round or valuation)"
+     ],
+     "tags": [
+      "Acquisition",
+      "Policy & Regulation"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "OYO-parent PRISM to nearly halve IPO fresh issue size to up to Rs 3,350 cr: Sources",
+     "url": "https://yourstory.com/2026/10/oyo-parent-prism-nearly-halve-ipo-fresh-issue-size-to-up-to-rs-3350-cr",
+     "date": "2026-10-20",
+     "source": "YourStory",
+     "label": "India · Other",
+     "snippet": "People familiar with the matter said the reduction in the issue size follows continued strong cash generation and an improving balance-sheet position, which has lowered the amount of capital the company needs to raise compared with what was originally envisaged.",
+     "lead": "OYO-parent PRISM to nearly halve IPO fresh issue size to up to Rs 3,350 cr: Sources People familiar with the matter said the reduction in the issue size follows continued strong cash generation and an improving balance-sheet position, which has lowered the amount of capital the company needs to raise compared with what was originally envisaged. Press Trust of India 11229 Stories Tuesday October 20, 2026 , 2 min Read OYO parent PRISM is ...",
+     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imageq2wc-1759136869668.jpg",
+     "why": [
+      "IPO & Listing",
+      "Large deal (about $353M)"
+     ],
+     "tags": [
+      "IPO & Listing"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+     "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+     "date": "2026-10-19",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+     "lead": "Town, a two-year-old, San Francisco-based startup developing AI assistants, nabbed a unicorn valuation on Monday, announcing a $108 million Series B funding round co-led by Forerunner Ventures and Menlo Ventures. The company launched publicly just four months ago and said it reached millions of dollars in annual recurring revenue in a matter of weeks. It has raised at least $160 million to date, having previously announced a $55 ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2294590819.jpg?resize=1200,675",
+     "why": [
+      "Funding",
+      "Large deal (about $108M)",
+      "Valuation, listing or profitability signal",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
      "title": "[Update] Zetwerk’s IPO Closes With 3.06X Subscription",
      "url": "https://inc42.com/buzz/zetwerks-ipo-fully-subscribed-on-day-3-gets-muted-response-from-retail-investors/",
      "date": "2026-10-19",
@@ -185,93 +252,71 @@
       "IPO & Listing",
       "SaaS & Enterprise"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Jio Platforms Raises About ₹8,110 Cr From Anchor Investors",
-     "url": "https://inc42.com/buzz/jio-platforms-raises-over-%e2%82%b98100-cr-from-anchor-investors/",
-     "date": "2026-10-19",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "More than a third of the round was picked up by 25 domestic mutual funds while a further 13.4% was subscribed by insurance companies and pension funds.",
-     "lead": "Jio allotted over 7.2 Cr shares to anchor investors at ₹1,119 apiece, raising ₹8,109.8 Cr The IPO, comprising a fresh issue of up to 27 Cr equity shares, will open for public subscription on October 21 and close on October 23 The company allotted 7.25 Cr equity shares to anchor investors at a price of ₹1,119 per share, the upper end of its price band.",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/Jio-soc.jpg",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $854M: round or valuation)"
-     ],
-     "tags": [
-      "Funding"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Why Urban Company will keep investing in InstaHelp",
-     "url": "https://www.medianama.com/2026/10/223-urban-company-investing-instahelp/",
-     "date": "2026-10-19",
-     "source": "MediaNama",
-     "label": "India · Policy & Regulation",
-     "snippet": "Urban Company bets on InstaHelp to attract new users despite mounting losses, as it plans a Rs 2,500 crore fundraise.",
-     "lead": "“Our ambition is to go beyond being just a home services company and eventually become the trusted home platform for Indian consumers, almost the operating system for the Indian home. That home platform cannot exist without a frequency layer — and that frequency layer is InstaHelp,” its co-founder and CEO Abhiraj Singh Bhal said. During Urban Company’s Q2 FY27 analysts’ call , Bhal said that in micro-markets where Urban Company offers ...",
-     "image": "https://www.medianama.com/wp-content/uploads/2025/06/Gemini_Generated_Image_vsvfz0vsvfz0vsvf-1024x559-1.png",
-     "why": [
-      "IPO & Listing",
-      "Large deal (about $263M)"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "Policy & Regulation"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "UC Eyes More Capital, Burma Burma’s IPO & More",
-     "url": "https://inc42.com/buzz/uc-eyes-more-capital-burma-burmas-ipo-more/",
-     "date": "2026-10-19",
-     "source": "Inc42",
-     "label": "India · Policy & Regulation",
-     "snippet": "Urban Company is raising ₹2,500 Cr as it chases profitability, eyes new businesses and fights a costly battle for home services supremacy.",
-     "lead": "A Bigger War Chest: Urban Company’s board has approved a proposal to raise up to ₹2,500 Cr through equity or convertible securities. While it is yet to decide on the route for the fundraise, the management believes that the proceeds would absorb short-term operational burn without constraining internal cash flows. The ₹2,500 Cr Buffer: While the company maintains that it can reach EBITDA breakeven by FY28 without fresh capital, the ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Social-Daily-Brief-30.png",
-     "why": [
-      "IPO & Listing",
-      "Large deal (about $263M)"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "Policy & Regulation"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 1181,
-   "new_today": 4,
+   "total": 1195,
+   "new_today": 17,
    "items": [
     {
      "desk": "Immigration",
-     "score": 7,
-     "priority": 58,
-     "title": "Can voluntary work help foreign nationals qualify for Austrian citizenship sooner?",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZlVrZGhaZFNzY1ZsdDNFOFJWcS1lN1BETXNLQ0w5NmZINmlaanA0TVdiQkYyQ3pId2JObGRuR3BvWGFyanc0WnZmUXNVSnkzSlc1R2pOMDBmX2VaX2daajFoeVl0QVUtN2I3RnBPWS1INlliUllnbXNscW5Vd29SRTdlNU5PN0ZWWHpZUThibmlObWZ4QnRzY05MMGNheFpKdGtfWDNjMzczdWdpZ2JhSFQ5c2s?oc=5",
+     "score": 8,
+     "priority": 67,
+     "title": "Japan’s permanent residency reform has a glaring blind spot",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdnM1dktlaFRqdVdJNHVGNldlZHNHci1NbTFqRVZFd3RHamUzT1A1bmpxZVhoMDhrejNCcGVQRVR3NmlfRk5qcHd0SjJZaHpiM3ZySGlKcXpyTWJTZVRfQWpSREJpWVZOYXd4Rzl3Y0NkTG5rTUhfV0duczY1WFZROWlaVHJfaXNaTmQ1OHZqNnVESzda?oc=5",
      "date": "2026-10-20",
-     "source": "The Local Austria",
-     "label": "Austria",
-     "snippet": "Foreign nationals living in Austria may qualify for citizenship after just six years of residence if they have completed at least three years of voluntary work. But which activities are accepted, and how can one prove their participation?",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Foreign nationals living in Austria may qualify for citizenship after just six years of residence if they have completed at least three years of voluntary work. But which activities are accepted, and how can one prove ...",
-     "image": null,
+     "source": "The Japan Times",
+     "label": "Japan",
+     "snippet": "Japan is moving toward implementation before it has clearly explained how those skills will be evaluated or demonstrated in practice.",
+     "lead": "",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/569442.jpg?v=3.1",
      "why": [
-      "Affects citizenship"
+      "Affects permanent residence",
+      "Announces a change"
      ],
      "tags": [
-      "Citizenship",
-      "Austria"
+      "PR / Settlement",
+      "Japan"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 50,
+     "title": "Australia: Student Visa Application and Family Inclusion Rules Tightened",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUll5TFF4dW51X2NKajBGT2hWLXppMHl0OFhDVzVtck8tbnNjRk5LUmNUVFJsenFnMXNFeTRmYm13aklkM3lfenhJZVBiVDd3ZU5oNG93V1pxVzBvM1hOdnpTaFIwMWV2aWNmRzVUdWFtTEZBcjJDckdpNGlqWGFNOGxveHdCTmc5LTBVSkJmblZaYlh2RGhJc21DTmdLeHVJZ215LVM0TWR3RmNaU3Nj?oc=5",
+     "date": "2026-10-21",
+     "source": "Fragomen",
+     "label": "Australia",
+     "snippet": "The Australian government has restricted rules related to the Student visa program: \n\nCurrent Student visa holders must generally apply for a further Student visa from outside Australia. Exceptions may apply to students undertaking doctoral or school studies, progressing to a higher-level course, affected by an education provider’s defaul",
+     "lead": "The Australian government has restricted rules related to the Student visa program: This alert is for informational purposes only. If you have any questions, please contact the global immigration professional with whom you work at Fragomen . Partner David Grunblatt examines how USCIS uses administrative proxies in immigration adjudication and explains why these tools must support, rather than replace, statutory standards and ...",
+     "image": "https://www.fragomen.com/a/web/6neDND2DvH5cq9pLmAp2Ht/9PCium/open-graph-main-2025.jpg",
+     "why": [
+      "Announces a change"
+     ],
+     "tags": [
+      "Student / Graduate",
+      "Australia"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 42,
+     "title": "Finland Announces 14-Day Fast-Track Residence Permit and Lists Conditions Applicants Must Meet",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcG91ZzZQTkVLNURNcjlUU0doUF9fM1FnUGZTRFpuU2NiV0s4WG1zZzl3eUlRbTI3eHpXTHNmc0Q1cHJjREdsNHhGWXNianRLRUtVVGR6TG1FbGJndEJXXzYxcEVLTVpZOGtMQkEySWlrb2syR2YwT2hFSldkRndiYVQtSkljYlhzWUg2VGJuOTB3SmxncnI2SzI1ckdQdVVTcVZvb1N2dlRlQ0hnV2NMcTBXNkxVczVGbTk0cA?oc=5",
+     "date": "2026-10-21",
+     "source": "GistReel",
+     "label": "Finland",
+     "snippet": "",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Announces a change"
+     ],
+     "tags": [
+      "Finland"
      ]
     },
     {
@@ -292,45 +337,6 @@
      "tags": [
       "Quota / Caps",
       "South Korea"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 42,
-     "title": "Portugal has limited immigration, and Spain may follow | World News",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb0RwdWdUejBZUnBjOU1WRjdiZHA5S2IzOHlZcjRPVEpDMEFGeVZhWmRPWlJhbW9seVJ5WnhsU1lGOUZDa2pPd2xBcHFsRkh1ZkhWeTdOZmp6UUVnY3JReFBKWFhoVUFzRFFXLU9uaXJLMGIwWVJOZGM2UXE2dnNQSFB0WGxZZmo2N1ByZnhpWVd0dmhrTzdJLXhVdmFXUHhuc1RTdXNUT0hmYmFpSDFreXlsYzJES25tdlc4dNIBvAFBVV95cUxOb0RwdWdUejBZUnBjOU1WRjdiZHA5S2IzOHlZcjRPVEpDMEFGeVZhWmRPWlJhbW9seVJ5WnhsU1lGOUZDa2pPd2xBcHFsRkh1ZkhWeTdOZmp6UUVnY3JReFBKWFhoVUFzRFFXLU9uaXJLMGIwWVJOZGM2UXE2dnNQSFB0WGxZZmo2N1ByZnhpWVd0dmhrTzdJLXhVdmFXUHhuc1RTdXNUT0hmYmFpSDFreXlsYzJES25tdlc4dA?oc=5",
-     "date": "2026-10-16",
-     "source": "Hindustan Times",
-     "label": "Spain",
-     "snippet": "The wave of immigrants in both countries looks politically unsustainable",
-     "lead": "Nestled beneath Lisbon’s former Moorish quarter, the Rua do Benformoso is a winding street of decaying buildings faced with azulejos (decorative tiles). It is lined with Indian food shops and stores selling hookah pipes and mobile phones. Piedade, a Portuguese woman who has lived here for over 60 years, dislikes what has happened to it. “There’s drugs and crime,” she says. “I stay inside at home.” The Rua do Benformoso has become the ...",
-     "image": null,
-     "why": [
-      "Quota or cap change"
-     ],
-     "tags": [
-      "Quota / Caps",
-      "Spain"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 4,
-     "priority": 33,
-     "title": "Most EU countries rejected Finland's idea of banning visas for Russians",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNalNHbEFCUW5SbXJ3eHFSdkk0dURlRDN3cHpvVzZxM19menIzSzdteHBqX1dlWVFZQ20xTjY3eGJtSUpQQXhOalU3ZlVOQk4wWWlVVEpCbUVEU3JJVkwyd2NOTTZ6UFBod0ZZSHg3eUd4U3I2SVpZaXNSc1RrVDVjSEV0RHZKTHF0Z2ttaU5NbjN4N1RpOU96eUswZ1BtWEp1RldiYzRHU2F5S2k0YU4tX0g2RXcwXzJQdzBLSjhXUFAyeFV5?oc=5",
-     "date": "2026-10-20",
-     "source": "ИА Ореанда-Новости",
-     "label": "Finland",
-     "snippet": "The Czech Republic said that most EU countries rejected the idea of banning visas for Russians",
-     "lead": "",
-     "image": "https://www.oreanda-news.com/aimg/101x16000/1603320/head_0.jpg",
-     "why": [
-      "Announces a change"
-     ],
-     "tags": [
-      "Finland"
      ]
     }
    ]
@@ -430,72 +436,25 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 13,
    "priority": 100,
-   "title": "Apple India’s FY26 Profit Jumps 66% YoY To ₹5,311 Cr, Revenue Up 31%",
-   "url": "https://inc42.com/buzz/apple-indias-fy26-profit-jumps-66-yoy-to-%e2%82%b95311-cr-revenue-up-31/",
-   "date": "2026-10-20",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Apple India’s FY26 net profit rose 66% to ₹5,311 Cr as operating revenue crossed ₹1 lakh Cr, while expenses surged 28%",
-   "lead": "Apple India’s net profit jumped 66% YoY to ₹5,311 Cr in FY26, while operating revenue grew 31.4% to ₹1.04 Lakh Cr The iPhone-maker’s profit growth outpaced revenue expansion as its net profit margin improved to 5.1% from 4% in FY25 Apple India’s total expenses during the fiscal year under review grew 28% to ₹96,224 Cr from ₹75,190.7 Cr it reported in FY25",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/FTR-26-1.jpg",
+   "title": "Legora raises fresh $550m at $8.8bn valuation",
+   "url": "https://sifted.eu/articles/legora-funding-round-series-e-legal-tech/",
+   "date": "2026-10-21",
+   "source": "Sifted",
+   "label": "Global · Other",
+   "snippet": "Fast-growing legaltech startup wins backing from Atreides Management and JP Morgan.",
+   "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=1065,quality=75,fit=cover,format=auto/wp-content/uploads/2025/08/26160450/Screenshot-2025-08-26-at-16.04.22-e1777537527904.png",
    "why": [
-    "Financials",
-    "Very large figure in headline (about $559M: round or valuation)",
+    "Funding",
+    "Very large figure in headline (about $8,800M: round or valuation)",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Financials"
+    "Funding"
    ],
    "rank": 1,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 100,
-   "title": "Jio Platforms' anchor book draws Rs 2.5 lakh crore in bids ahead of IPO",
-   "url": "https://yourstory.com/2026/10/jio-platforms-anchor-book-draws-rs-25-lakh-crore-in-bids-ahead-of-ipo",
-   "date": "2026-10-20",
-   "source": "YourStory",
-   "label": "India · Media, Gaming & Creators",
-   "snippet": "The IPO of Jio Platforms opens on October 21\n\nJio Platforms allotted 7.24 crore shares at a price of Rs 1,119 per share to the anchor investors and LIC received the largest allocation\n\nJio Platforms has allotted shares worth Rs 8,109.85 crore to 212 anchor investors at the top end of its price ban",
-   "lead": "Jio Platforms' anchor book draws Rs 2.5 lakh crore in bids ahead of IPO Jio Platforms allotted 7.24 crore shares at a price of Rs 1,119 per share to the anchor investors and LIC received the largest allocation Press Trust of India 11229 Stories Tuesday October 20, 2026 , 2 min Read Jio Platforms has allotted shares worth Rs 8,109.85 crore to 212 anchor investors at the top end of its price band, after institutional demand for the ...",
-   "image": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Imagef4om-1592391491397.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $26,316M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Media, Gaming & Creators"
-   ],
-   "rank": 2,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 100,
-   "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-   "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-   "date": "2026-10-20",
-   "source": "TechCrunch Venture",
-   "label": "Global · AI & Deeptech",
-   "snippet": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-   "lead": "Tenstorrent, a chip startup focused on inference, has raised $1.5 billion at a $6.2 billion valuation. The round comes five months after the 10-year-old Nvidia challenger reportedly received acquisition interest from Intel and Qualcomm at valuations of as much as $5 billion. The fresh round, which more than doubled Tenstorrent’s valuation from the $2.6 billion it fetched in late 2024, was led by Trace Capital, a new firm launched by ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=970",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $6,200M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 3,
    "must_read": true
   },
   {
@@ -520,7 +479,7 @@
     "Work visa",
     "New Zealand"
    ],
-   "rank": 4,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -544,7 +503,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 5,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -568,8 +527,8 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 6,
-   "must_read": false
+   "rank": 4,
+   "must_read": true
   },
   {
    "desk": "Policy",
@@ -591,50 +550,97 @@
    "tags": [
     "Labour & Social"
    ],
+   "rank": 5,
+   "must_read": true
+  },
+  {
+   "desk": "Policy",
+   "score": 12,
+   "priority": 92,
+   "title": "Minutes of the Monetary Policy Committee Meeting, October 5 to 7, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63839",
+   "date": "2026-10-21",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "The sixty third meeting of the Monetary Policy Committee (MPC), constituted under Section 45ZB of the Reserve Bank of India Act, 1934, was held during October 5, 2026. 2. The meeting was chaired by Shri Sanjay Malhotra, Governor and was attended by all the members – Dr. Nagesh Kumar, Director and Chief Executive, Institute for Studies in Industrial Development, New Delhi; Shri Saugata Bhattacharya, Economist, Mumbai; Professor Ram ...",
+   "image": null,
+   "why": [
+    "Rates and liquidity",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 92,
+   "title": "Apple India’s FY26 Profit Jumps 66% YoY To ₹5,311 Cr, Revenue Up 31%",
+   "url": "https://inc42.com/buzz/apple-indias-fy26-profit-jumps-66-yoy-to-%e2%82%b95311-cr-revenue-up-31/",
+   "date": "2026-10-20",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Apple India’s FY26 net profit rose 66% to ₹5,311 Cr as operating revenue crossed ₹1 lakh Cr, while expenses surged 28%",
+   "lead": "Apple India’s net profit jumped 66% YoY to ₹5,311 Cr in FY26, while operating revenue grew 31.4% to ₹1.04 Lakh Cr The iPhone-maker’s profit growth outpaced revenue expansion as its net profit margin improved to 5.1% from 4% in FY25 Apple India’s total expenses during the fiscal year under review grew 28% to ₹96,224 Cr from ₹75,190.7 Cr it reported in FY25",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/FTR-26-1.jpg",
+   "why": [
+    "Financials",
+    "Very large figure in headline (about $559M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Financials"
+   ],
    "rank": 7,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 11,
+   "score": 12,
    "priority": 92,
-   "title": "Salesforce to acquire Braze in a $5.66 billion deal",
-   "url": "https://economictimes.indiatimes.com/tech/technology/salesforce-to-acquire-braze-in-a-5-66-billion-deal/articleshow/135073780.cms",
+   "title": "Jio Platforms' anchor book draws Rs 2.5 lakh crore in bids ahead of IPO",
+   "url": "https://yourstory.com/2026/10/jio-platforms-anchor-book-draws-rs-25-lakh-crore-in-bids-ahead-of-ipo",
    "date": "2026-10-20",
-   "source": "ET Startups",
-   "label": "Global · Policy & Regulation",
-   "snippet": "Salesforce has disclosed its intention to acquire Braze for approximately $5.66 billion in cash per share. Under the terms of the agreement, Braze shareholders will receive $47.50 for each Class A share. This acquisition is contingent on receiving necessary approvals from shareholders and regulators, with a projected closure date in Sales",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2649241,resizemode-75,msid-135073780/tech/technology/salesforce-to-acquire-braze-in-a-5-66-billion-deal.jpg",
+   "source": "YourStory",
+   "label": "India · Media, Gaming & Creators",
+   "snippet": "The IPO of Jio Platforms opens on October 21\n\nJio Platforms allotted 7.24 crore shares at a price of Rs 1,119 per share to the anchor investors and LIC received the largest allocation\n\nJio Platforms has allotted shares worth Rs 8,109.85 crore to 212 anchor investors at the top end of its price ban",
+   "lead": "Jio Platforms' anchor book draws Rs 2.5 lakh crore in bids ahead of IPO Jio Platforms allotted 7.24 crore shares at a price of Rs 1,119 per share to the anchor investors and LIC received the largest allocation Press Trust of India 11229 Stories Tuesday October 20, 2026 , 2 min Read Jio Platforms has allotted shares worth Rs 8,109.85 crore to 212 anchor investors at the top end of its price band, after institutional demand for the ...",
+   "image": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Imagef4om-1592391491397.jpg",
    "why": [
-    "Acquisition",
-    "Very large figure in headline (about $5,660M: round or valuation)"
+    "IPO & Listing",
+    "Very large figure in headline (about $26,316M: round or valuation)"
    ],
    "tags": [
-    "Acquisition",
-    "Policy & Regulation"
+    "IPO & Listing",
+    "Media, Gaming & Creators"
    ],
    "rank": 8,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 11,
+   "score": 12,
    "priority": 92,
-   "title": "OYO-parent PRISM to nearly halve IPO fresh issue size to up to Rs 3,350 cr: Sources",
-   "url": "https://yourstory.com/2026/10/oyo-parent-prism-nearly-halve-ipo-fresh-issue-size-to-up-to-rs-3350-cr",
+   "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+   "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
    "date": "2026-10-20",
-   "source": "YourStory",
-   "label": "India · Other",
-   "snippet": "People familiar with the matter said the reduction in the issue size follows continued strong cash generation and an improving balance-sheet position, which has lowered the amount of capital the company needs to raise compared with what was originally envisaged.",
-   "lead": "OYO-parent PRISM to nearly halve IPO fresh issue size to up to Rs 3,350 cr: Sources People familiar with the matter said the reduction in the issue size follows continued strong cash generation and an improving balance-sheet position, which has lowered the amount of capital the company needs to raise compared with what was originally envisaged. Press Trust of India 11229 Stories Tuesday October 20, 2026 , 2 min Read OYO parent PRISM is ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imageq2wc-1759136869668.jpg",
+   "source": "TechCrunch Venture",
+   "label": "Global · AI & Deeptech",
+   "snippet": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+   "lead": "Tenstorrent, a chip startup focused on inference, has raised $1.5 billion at a $6.2 billion valuation. The round comes five months after the 10-year-old Nvidia challenger reportedly received acquisition interest from Intel and Qualcomm at valuations of as much as $5 billion. The fresh round, which more than doubled Tenstorrent’s valuation from the $2.6 billion it fetched in late 2024, was led by Trace Capital, a new firm launched by ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=970",
    "why": [
-    "IPO & Listing",
-    "Large deal (about $353M)"
+    "Funding",
+    "Very large figure in headline (about $6,200M: round or valuation)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "IPO & Listing"
+    "Funding",
+    "AI & Deeptech"
    ],
    "rank": 9,
    "must_read": false
@@ -664,28 +670,71 @@
    "must_read": false
   },
   {
-   "desk": "Startups",
+   "desk": "Policy",
    "score": 11,
-   "priority": 92,
-   "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
-   "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-   "date": "2026-10-19",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
-   "lead": "Town, a two-year-old, San Francisco-based startup developing AI assistants, nabbed a unicorn valuation on Monday, announcing a $108 million Series B funding round co-led by Forerunner Ventures and Menlo Ventures. The company launched publicly just four months ago and said it reached millions of dollars in annual recurring revenue in a matter of weeks. It has raised at least $160 million to date, having previously announced a $55 ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2294590819.jpg?resize=1200,675",
+   "priority": 85,
+   "title": "India and New Zealand sign Memorandum of Cooperation (MoC) on Electronic Origin Data Exchange to Facilitate Bilateral Trade Under the India-New Zealand Free Trade Agreement (FTA)",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326043",
+   "date": "2026-10-21",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "The Central Board of Indirect Taxes and Customs (CBIC), India, and the New Zealand Customs Service (",
+   "lead": "Ministry of Finance India and New Zealand sign Memorandum of Cooperation (MoC) on Electronic Origin Data Exchange to Facilitate Bilateral Trade Under the India-New Zealand Free Trade Agreement (FTA) India-New Zealand MoC will deepen Customs cooperation and support effective implementation of trade facilitation measures Posted On: 21 OCT 2026 5:02PM by PIB Delhi The Central Board of Indirect Taxes and Customs (CBIC), India, and the New ...",
+   "image": null,
    "why": [
-    "Funding",
-    "Large deal (about $108M)",
-    "Valuation, listing or profitability signal",
-    "Also covered by 1 other outlet(s)"
+    "Trade agreement",
+    "Ministry of Finance"
    ],
    "tags": [
-    "Funding",
-    "AI & Deeptech"
+    "Tax, Duties & Trade"
    ],
    "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "Aye Finance Q2: Profit Surges 151% YoY To ₹87 Cr, Revenue Crosses ₹500 Cr Mark",
+   "url": "https://inc42.com/buzz/aye-finance-q2-profit-surges-151-yoy-to-%e2%82%b987-cr-revenue-crosses-%e2%82%b9500-cr-mark/",
+   "date": "2026-10-21",
+   "source": "Inc42",
+   "label": "India · Fintech",
+   "snippet": "Listed NBFC Aye Finance's net profit for the September quarter surged 151% to ₹86.7 Cr from ₹34.5 Cr in the year-ago quarter.",
+   "lead": "Operating revenue for the quarter zoomed 18% YoY and 8% QoQ to ₹514.4 Cr While total income for the quarter stood at ₹527.1 Cr, expenses increased by about ₹8 Cr from the year-ago quarter to ₹411.3 Cr Operating revenue grew 18% YoY and 8% QoQ to ₹514.4 Cr, led by a 29% YoY increase in interest income to ₹479.3 Cr.",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/aye-finance-IPO-social-1.png",
+   "why": [
+    "Financials",
+    "Sizeable deal (about $53M)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Financials",
+    "Fintech"
+   ],
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+   "url": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+   "date": "2026-10-21",
+   "source": "TechCrunch Venture",
+   "label": "Global · Other",
+   "snippet": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
+   "lead": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition Ivan Mehta 7:03 AM PDT · October 21, 2026 Last month, advertising company Infillion acquired location-data platform Foursquare, a once popular social network, at an undisclosed value. Now, in a new blog post , Foursquare co-founder and former CEO Dennis Crowley said that investors didn’t see any returns from the sale. Crowley referenced a post by an ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/10/foursquare-city-guides.jpg?resize=1200,797",
+   "why": [
+    "Acquisition",
+    "Large deal (about $411M)"
+   ],
+   "tags": [
+    "Acquisition"
+   ],
+   "rank": 13,
    "must_read": false
   },
   {
@@ -708,7 +757,7 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 12,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -730,7 +779,7 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 13,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -753,7 +802,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 14,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -776,7 +825,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 15,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -800,7 +849,7 @@
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 16,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -824,7 +873,29 @@
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 17,
+   "rank": 19,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 77,
+   "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on October 22, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63841",
+   "date": "2026-10-21",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Thursday, October 22, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "image": null,
+   "why": [
+    "Rates and liquidity",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 20,
    "must_read": false
   },
   {
@@ -847,7 +918,7 @@
    "tags": [
     "Markets & Regulation"
    ],
-   "rank": 18,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -870,95 +941,27 @@
     "PR / Settlement",
     "Norway"
    ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 9,
-   "priority": 69,
-   "title": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
-   "date": "2026-10-19",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026 Please refer to Section C on ‘Limits for Non-Option Derivative Contracts’ of Chapter IV of the Reserve Bank of India (Small Finance Banks - Miscellaneous) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by section 35A of the Banking Regulation Act, 1949, and all other provisions / laws enabling the Reserve Bank of India ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 20,
+   "rank": 22,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 8,
    "priority": 67,
-   "title": "Japan’s permanent residency reform has a glaring blind spot",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdnM1dktlaFRqdVdJNHVGNldlZHNHci1NbTFqRVZFd3RHamUzT1A1bmpxZVhoMDhrejNCcGVQRVR3NmlfRk5qcHd0SjJZaHpiM3ZySGlKcXpyTWJTZVRfQWpSREJpWVZOYXd4Rzl3Y0NkTG5rTUhfV0duczY1WFZROWlaVHJfaXNaTmQ1OHZqNnVESzda?oc=5",
-   "date": "2026-10-20",
-   "source": "The Japan Times",
-   "label": "Japan",
-   "snippet": "Japan is moving toward implementation before it has clearly explained how those skills will be evaluated or demonstrated in practice.",
-   "lead": "",
-   "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/569442.jpg?v=3.1",
-   "why": [
-    "Affects permanent residence",
-    "Announces a change"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Japan"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 62,
-   "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on October 21, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63833",
-   "date": "2026-10-19",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Wednesday, October 21, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "title": "Campaign calls for Austrian citizenship at birth for children of long-term foreign residents",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQczY5NDAzWkZMdXFIbzVrQW9oVE0yQWdsQ082a3NaMnBIcnlYbzNJLXVmcHhqMm5nQlNQQnBlSllKd2tTT2FjR25MdEJsb3UwemQ0YmdsOWUyVTRabUQ1U2JQLTd1WS0yYkhpRjlTb2tDS3BwMWpMWlFDYXRtenNZZzExcnZTVVNEakMxbmtsYWVQenE1Z1JGLUMxeXYwWmxWczBEdkF2RE1JdnR6SzA4SUNqYlUxbWFOZThoZExtV29NamM?oc=5",
+   "date": "2026-10-21",
+   "source": "The Local Austria",
+   "label": "Austria",
+   "snippet": "Currently, being born in Austria does not guarantee Austrian citizenship. A new initiative proposes changing the law so that children of foreign nationals who have lived legally in Austria for several years are automatically granted citizenship.",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Currently, being born in Austria does not guarantee Austrian citizenship. A new initiative proposes changing the law so that children of foreign nationals who have lived legally in Austria for several years are ...",
    "image": null,
    "why": [
-    "Rates and liquidity",
-    "Regulator: RBI"
+    "Affects citizenship"
    ],
    "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 6,
-   "priority": 46,
-   "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63803",
-   "date": "2026-10-14",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "",
-   "image": null,
-   "why": [
-    "New law or act",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
+    "Citizenship",
+    "Austria"
    ],
    "rank": 23,
    "must_read": false
