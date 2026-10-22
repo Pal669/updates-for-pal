@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-22",
- "built": "2026-10-22 01:53 IST",
+ "built": "2026-10-22 07:26 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,15 +12,15 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22889.0,
-   "change_pct": -1.11,
+   "value": 22811.0,
+   "change_pct": -0.34,
    "asof": "21 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73853.0,
-   "change_pct": -1.17,
+   "value": 73710.0,
+   "change_pct": -0.19,
    "asof": "21 Oct 15:32 IST"
   },
   {
@@ -28,21 +28,21 @@
    "dp": 2,
    "value": 94.45,
    "change_pct": -0.28,
-   "asof": "22 Oct 01:20 IST"
+   "asof": "22 Oct 07:16 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 109.85,
-   "change_pct": 0.97,
-   "asof": "22 Oct 01:42 IST"
+   "value": 110.09,
+   "change_pct": 1.19,
+   "asof": "22 Oct 07:15 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4153.0,
-   "change_pct": 0.25,
-   "asof": "22 Oct 01:43 IST"
+   "value": 4130.0,
+   "change_pct": -0.32,
+   "asof": "22 Oct 07:16 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -162,9 +162,31 @@
    ]
   },
   "Startups": {
-   "total": 833,
-   "new_today": 2,
+   "total": 838,
+   "new_today": 7,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 79,
+     "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+     "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+     "date": "2026-10-20",
+     "source": "TechCrunch Venture",
+     "label": "Global · AI & Deeptech",
+     "snippet": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+     "lead": "Tenstorrent, a chip startup focused on inference, has raised $1.5 billion at a $6.2 billion valuation. The round comes five months after the 10-year-old Nvidia challenger reportedly received acquisition interest from Intel and Qualcomm at valuations of as much as $5 billion. The fresh round, which more than doubled Tenstorrent’s valuation from the $2.6 billion it fetched in late 2024, was led by Trace Capital, a new firm launched by ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=970",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $6,200M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -227,37 +249,17 @@
       "Acquisition",
       "Policy & Regulation"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 71,
-     "title": "OYO-parent PRISM to nearly halve IPO fresh issue size to up to Rs 3,350 cr: Sources",
-     "url": "https://yourstory.com/2026/10/oyo-parent-prism-nearly-halve-ipo-fresh-issue-size-to-up-to-rs-3350-cr",
-     "date": "2026-10-20",
-     "source": "YourStory",
-     "label": "India · Other",
-     "snippet": "People familiar with the matter said the reduction in the issue size follows continued strong cash generation and an improving balance-sheet position, which has lowered the amount of capital the company needs to raise compared with what was originally envisaged.",
-     "lead": "OYO-parent PRISM to nearly halve IPO fresh issue size to up to Rs 3,350 cr: Sources People familiar with the matter said the reduction in the issue size follows continued strong cash generation and an improving balance-sheet position, which has lowered the amount of capital the company needs to raise compared with what was originally envisaged. Press Trust of India 11229 Stories Tuesday October 20, 2026 , 2 min Read OYO parent PRISM is ...",
-     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imageq2wc-1759136869668.jpg",
-     "why": [
-      "IPO & Listing",
-      "Large deal (about $353M)"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 1214,
-   "new_today": 1,
+   "total": 1239,
+   "new_today": 5,
    "items": [
     {
      "desk": "Immigration",
      "score": 7,
-     "priority": 64,
+     "priority": 58,
      "title": "Campaign calls for Austrian citizenship at birth for children of long-term foreign residents",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQczY5NDAzWkZMdXFIbzVrQW9oVE0yQWdsQ082a3NaMnBIcnlYbzNJLXVmcHhqMm5nQlNQQnBlSllKd2tTT2FjR25MdEJsb3UwemQ0YmdsOWUyVTRabUQ1U2JQLTd1WS0yYkhpRjlTb2tDS3BwMWpMWlFDYXRtenNZZzExcnZTVVNEakMxbmtsYWVQenE1Z1JGLUMxeXYwWmxWczBEdkF2RE1JdnR6SzA4SUNqYlUxbWFOZThoZExtV29NamM?oc=5",
      "date": "2026-10-21",
@@ -276,16 +278,16 @@
     },
     {
      "desk": "Immigration",
-     "score": 5,
-     "priority": 45,
-     "title": "Australia: Student Visa Application and Family Inclusion Rules Tightened",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUll5TFF4dW51X2NKajBGT2hWLXppMHl0OFhDVzVtck8tbnNjRk5LUmNUVFJsenFnMXNFeTRmYm13aklkM3lfenhJZVBiVDd3ZU5oNG93V1pxVzBvM1hOdnpTaFIwMWV2aWNmRzVUdWFtTEZBcjJDckdpNGlqWGFNOGxveHdCTmc5LTBVSkJmblZaYlh2RGhJc21DTmdLeHVJZ215LVM0TWR3RmNaU3Nj?oc=5",
-     "date": "2026-10-21",
-     "source": "Fragomen",
+     "score": 6,
+     "priority": 50,
+     "title": "Australia's new immigration law raises questions for international students and workers",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa1l2eG91Njdub2pFVzBDOHhvSzVCM2VqSXhDWF85dVNyd0hxS1E3R2NtMGY3QzBsaF9RdGhOcWhVLThHSWdxY3NSTG9PWXNHVHVkSjM4anl1RVRWRVFubjN4cWE4a1c5VFNzbDc2OFhDMExKMHJ0UmtmcWdOa3ppaDc1Z2lpeVpWaXd1MkZlelVNSTF4RUpSSHlQZkJFR2hSSUtuRENMMURfV0hvTldNZWFwSkNqbUZfMXRGS1Y5Y3ZOajhLQ0FzREx6Vm85aDBTN2YxamV3allfb0Q1eWlYVVB30gHnAUFVX3lxTE0td2s0bE5FQU1Kd2doY3AxNzN3ZVE1aXFZQmg0YVNqMkRIamE1ODlteG9rOWNaZ0JJR0ctdUhCVkFEMGU3eUczc1B4dmNxd1pGS1N4Zmg2Zzd3NzdCaU5SdHpyZUFEeXJMa29qallqclJITXljM3RKNGtHa0pGTkJ2M2ZjMEYzTlF6WHdvNmpySHhXSndscDIyQzNmajZKdVQ0YmVhSUdSRTNfUGdBMmllT2tTTGJmMzN4d09DMG9WbTdCa2ZzNGlWVzVVSnUxbDVCTDJ5S3FuMHhOaEZKQW42aGJhOGRxcw?oc=5",
+     "date": "2026-10-22",
+     "source": "Business Today",
      "label": "Australia",
-     "snippet": "The Australian government has restricted rules related to the Student visa program: \n\nCurrent Student visa holders must generally apply for a further Student visa from outside Australia. Exceptions may apply to students undertaking doctoral or school studies, progressing to a higher-level course, affected by an education provider’s defaul",
-     "lead": "The Australian government has restricted rules related to the Student visa program: This alert is for informational purposes only. If you have any questions, please contact the global immigration professional with whom you work at Fragomen . Partner David Grunblatt examines how USCIS uses administrative proxies in immigration adjudication and explains why these tools must support, rather than replace, statutory standards and ...",
-     "image": "https://www.fragomen.com/a/web/6neDND2DvH5cq9pLmAp2Ht/9PCium/open-graph-main-2025.jpg",
+     "snippet": "Introduced through the Migration Amendment (2026 Measures No. 1) Act 2026, the legislation amends Australia’s Migration Act 1958 and empowers the Minister for Home Affairs to issue an arrival control determination",
+     "lead": "Business Today Desk Updated Oct 22, 2026 1:45 AM IST Australia’s new arrival control law has raised questions among international students Australia’s new arrival control law has raised questions among international students, temporary workers and visitors who travel overseas and plan to return to the country. For Indian nationals studying or working in Australia, the key concern is whether a visa that remains valid could still become ...",
+     "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ad8bb6e73a80-australias-new-arrival-control-law-has-raised-questions-among-international-students-211733231-16x9.png",
      "why": [
       "Announces a change"
      ],
@@ -297,7 +299,7 @@
     {
      "desk": "Immigration",
      "score": 5,
-     "priority": 45,
+     "priority": 42,
      "title": "Portugal has limited immigration, and Spain may follow | World News",
      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb0RwdWdUejBZUnBjOU1WRjdiZHA5S2IzOHlZcjRPVEpDMEFGeVZhWmRPWlJhbW9seVJ5WnhsU1lGOUZDa2pPd2xBcHFsRkh1ZkhWeTdOZmp6UUVnY3JReFBKWFhoVUFzRFFXLU9uaXJLMGIwWVJOZGM2UXE2dnNQSFB0WGxZZmo2N1ByZnhpWVd0dmhrTzdJLXhVdmFXUHhuc1RTdXNUT0hmYmFpSDFreXlsYzJES25tdlc4dNIBvAFBVV95cUxOb0RwdWdUejBZUnBjOU1WRjdiZHA5S2IzOHlZcjRPVEpDMEFGeVZhWmRPWlJhbW9seVJ5WnhsU1lGOUZDa2pPd2xBcHFsRkh1ZkhWeTdOZmp6UUVnY3JReFBKWFhoVUFzRFFXLU9uaXJLMGIwWVJOZGM2UXE2dnNQSFB0WGxZZmo2N1ByZnhpWVd0dmhrTzdJLXhVdmFXUHhuc1RTdXNUT0hmYmFpSDFreXlsYzJES25tdlc4dA?oc=5",
      "date": "2026-10-16",
@@ -317,20 +319,20 @@
     {
      "desk": "Immigration",
      "score": 4,
-     "priority": 36,
-     "title": "Finland Announces 14-Day Fast-Track Residence Permit and Lists Conditions Applicants Must Meet",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcG91ZzZQTkVLNURNcjlUU0doUF9fM1FnUGZTRFpuU2NiV0s4WG1zZzl3eUlRbTI3eHpXTHNmc0Q1cHJjREdsNHhGWXNianRLRUtVVGR6TG1FbGJndEJXXzYxcEVLTVpZOGtMQkEySWlrb2syR2YwT2hFSldkRndiYVQtSkljYlhzWUg2VGJuOTB3SmxncnI2SzI1ckdQdVVTcVZvb1N2dlRlQ0hnV2NMcTBXNkxVczVGbTk0cA?oc=5",
+     "priority": 33,
+     "title": "Why France is burning: Immigration, the suburban ghettos, and the historic mistake",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSl9sbHB6TjZsZFNjTHhiQl9MR2FpbXpsMnY2RjI0bXY2eHo5WWN3N0NobERLNnhVOFQ1TWhRZlB5ZWVpbk10OFJCbzVNWFlESXA5STAtN0J1M1NhZ1hYa0hzX2Y1bjN6U3BYLS1JblEwQ3NZZUloa3Z0bGhaVHJjVDZCV21xZFpqV0IycXJVb0U3WWxHazl1NC1uNDdBOS1Xdi1NRUdGenJkYTQwSWRGOFBNbTJsb3YxbEhhR1ZKWEtrbW9iNTRPSkZR?oc=5",
      "date": "2026-10-21",
-     "source": "GistReel",
-     "label": "Finland",
-     "snippet": "",
-     "lead": "",
-     "image": null,
+     "source": "Bankingnews",
+     "label": "France",
+     "snippet": "Why France is burning: Immigration, the suburban ghettos, and the historic mistake",
+     "lead": "France is burning. But why? The obvious answer is that the country has accepted massive numbers of people, often young men of military age, from regions of the world where violence is more prevalent. Or, as the President of the US stated last weekend, \"the migration of people from a completely different world, people with hate in their hearts, has destroyed this once-great country.\" This explanation certainly has grounds. France has ...",
+     "image": "https://www.bankingnews.gr/media/k2/items/cache/d25f8e7e4afcf8fe3fb51e8665c249a9_XL.jpg",
      "why": [
       "Announces a change"
      ],
      "tags": [
-      "Finland"
+      "France"
      ]
     }
    ]
@@ -477,6 +479,30 @@
    "must_read": true
   },
   {
+   "desk": "Immigration",
+   "score": 12,
+   "priority": 100,
+   "title": "UK national’s son cannot be denied Indian citizenship: Madurai Bench of the Madras High Court",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaFc4eFVSdWlheVQxMzExd1gzbzd2V2ttSVpKWXZaSERwNHZ4cTRfMFo4M0xyVEVXVTVOZTRkMW9oV2FvY29jdVRzNzA5NXdLSlk0MUVGM0c1TnZhWThGNWdaOUdkZVd5NDlpTUpFX2E5Y3NXcV9kaGNORGMxSjZiVE1hLTk2cnJ6MzdIUGJ3US1PVWJDSlRYOGd1TWczUXpBVlR2ZzlaeUl0SmdHdDA3Y3A5ZGJLTjJxN2E2bXFKY29NdmpyQUVUSzZldm1jRnluZTVVTjFmYnVfOHpub1BGTTZ1WmdZMUZaVlHSAfcBQVVfeXFMUFMxNWNtbE9namhHOGZ6dlJqc1ptRzBxd0VnbTBNUEFxWXlGQlF0WlFudFhkQXAteWV4QnhhUkFfZHNJUjg4VmJLdlcxX21iMm1mR2E4TFJpcFZLbzZpa2JUSy1LRGlIR0t0Q0t1Z2pQTUtsejJEWEpnaWE3cnVvN3c0SmtVZWJDbnJZUzhiRXhIbHlrQUt0U2stRmttOEw4YTF0WUtYcXVBQnA0YTREUE50Y3pWZ3Nhb1FMWk5QMXdVSGo3YlhGSW1GN1UzUFpIRk5VLWUxZi0yZjBFYXo0Z09KcmNwZkZHVVlKaXlGVkVCZEoyQzk1Yw?oc=5",
+   "date": "2026-10-21",
+   "source": "The New Indian Express",
+   "label": "United Kingdom",
+   "snippet": "MADURAI: Holding that a child cannot be stripped of citizenship merely because the father acquired foreign citizenship, the Madurai Bench of the Madras High Cou",
+   "lead": "Copied MADURAI: Holding that a child cannot be stripped of citizenship merely because the father acquired foreign citizenship, the Madurai Bench of the Madras High Court recently directed the authorities concerned to process the passport renewal application of an India-born boy within three months. Justice Senthilkumar Ramamoorthy passed the order on a petition filed by the 10-year-old boy, through his father. The boy’s parents were ...",
+   "image": "https://cf-images.assettype.com/newindianexpress%2F2026-06-11%2Fe91w2fnv%2FC_1_1_CH1344_120762713.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "why": [
+    "Affects citizenship",
+    "Major story (11 headlines that day)",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Citizenship",
+    "United Kingdom"
+   ],
+   "rank": 3,
+   "must_read": true
+  },
+  {
    "desk": "Advisory",
    "score": 12,
    "priority": 100,
@@ -494,31 +520,6 @@
    ],
    "tags": [
     "Regulatory"
-   ],
-   "rank": 3,
-   "must_read": true
-  },
-  {
-   "desk": "Immigration",
-   "score": 11,
-   "priority": 100,
-   "title": "New work visas announced under India-NZ FTA: The migration “tsunami” that wasn’t",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzRYQlZRSFpYekVaUWFYdF81UzRMTlhsbHJVOHI3VUtoaHBUR2lMLWVTNktsUkwxbHVaRWVhclI2TGZDZWlFem42UGV0WXdsaWwtTU12OVJhT2hBcnd0SW9NYU1OcktJVVJ5UDR6WXJVYWotaEVSS1pKbzhDWEJZeEZYT2syVWM4Umc4RUpVUFltUHFfeGVUWGlFNjd5MEFiNGozTW1pcFl6UEFRU1dV?oc=5",
-   "date": "2026-10-20",
-   "source": "https://awaaz.co.nz/",
-   "label": "New Zealand",
-   "snippet": "The gap between the political campaign and the actual policy demands an explanation.",
-   "lead": "s.setAttribute('style', 'filter: brightness(0) invert(1)'));\" onmouseout=\"this.style.backgroundColor='white'; this.style.color='#333'; this.querySelectorAll('svg').forEach(s => s.removeAttribute('style'));\" > FACEBOOK s.setAttribute('style', 'filter: brightness(0) invert(1)'));\" onmouseout=\"this.style.backgroundColor='white'; this.style.color='#333'; this.querySelectorAll('svg').forEach(s => s.removeAttribute('style'));\" > TWITTER ...",
-   "image": "https://prod-awaaz-mediatech-dam-assets.s3.ap-southeast-2.amazonaws.com/1522a358-80cb-4c0c-9a4d-76a29b0d3a5c-social_preview_5766455b-e56f-4172-a16b-46352d3f9cbf_1792465758912.jpg",
-   "why": [
-    "Affects work visas",
-    "Announces a change",
-    "Major story (14 headlines that day)",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Work visa",
-    "New Zealand"
    ],
    "rank": 4,
    "must_read": true
@@ -548,6 +549,30 @@
    "must_read": true
   },
   {
+   "desk": "Startups",
+   "score": 13,
+   "priority": 93,
+   "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+   "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+   "date": "2026-10-22",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+   "lead": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation Julie Bort 1:57 PM PDT · October 21, 2026 Year-old startup Flapping Airplanes has wowed Silicon Valley with an impressive founding team and a mission to find ways to train large models with less data. On Wednesday, the company announced it had raised a $1 billion Series A round, co-led by Index and Lux, reportedly at a $6 billion valuation. The round comes just nine ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/02/Flapping-Airplanes-founders-photo.jpg?resize=1200,821",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $6,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
    "desk": "Advisory",
    "score": 11,
    "priority": 92,
@@ -567,7 +592,32 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 6,
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 11,
+   "priority": 92,
+   "title": "New work visas announced under India-NZ FTA: The migration “tsunami” that wasn’t",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzRYQlZRSFpYekVaUWFYdF81UzRMTlhsbHJVOHI3VUtoaHBUR2lMLWVTNktsUkwxbHVaRWVhclI2TGZDZWlFem42UGV0WXdsaWwtTU12OVJhT2hBcnd0SW9NYU1OcktJVVJ5UDR6WXJVYWotaEVSS1pKbzhDWEJZeEZYT2syVWM4Umc4RUpVUFltUHFfeGVUWGlFNjd5MEFiNGozTW1pcFl6UEFRU1dV?oc=5",
+   "date": "2026-10-20",
+   "source": "https://awaaz.co.nz/",
+   "label": "New Zealand",
+   "snippet": "The gap between the political campaign and the actual policy demands an explanation.",
+   "lead": "s.setAttribute('style', 'filter: brightness(0) invert(1)'));\" onmouseout=\"this.style.backgroundColor='white'; this.style.color='#333'; this.querySelectorAll('svg').forEach(s => s.removeAttribute('style'));\" > FACEBOOK s.setAttribute('style', 'filter: brightness(0) invert(1)'));\" onmouseout=\"this.style.backgroundColor='white'; this.style.color='#333'; this.querySelectorAll('svg').forEach(s => s.removeAttribute('style'));\" > TWITTER ...",
+   "image": "https://prod-awaaz-mediatech-dam-assets.s3.ap-southeast-2.amazonaws.com/1522a358-80cb-4c0c-9a4d-76a29b0d3a5c-social_preview_5766455b-e56f-4172-a16b-46352d3f9cbf_1792465758912.jpg",
+   "why": [
+    "Affects work visas",
+    "Announces a change",
+    "Major story (14 headlines that day)",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Work visa",
+    "New Zealand"
+   ],
+   "rank": 8,
    "must_read": false
   },
   {
@@ -591,7 +641,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 7,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -613,7 +663,7 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 8,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -636,31 +686,7 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 91,
-   "title": "Ottawa adding express entry points for permanent resident applicants in 'high-wage' jobs",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yMFhBZ3U4ZEQzbzJrVlVpbWtoU2Q3RHBLdk5UenJ0YXVaNkowcDJvRzltei01Z1JCUDhvZVpCMkNqT0ZoZjB5T1hBM0tzOEZPNlZYZXQ3MUNTTVJ1TDFwcnFVbllkVG0wLUdhUlBaX3A?oc=5",
-   "date": "2026-10-17",
-   "source": "CBC",
-   "label": "Canada",
-   "snippet": "Ottawa is adding new express entry points for some permanent residency applicants in \"high-wage\" jobs, Immigration Minister Lena Diab said Friday.",
-   "lead": "The government also plans to remove the requirement for an employer to prove they can't find a qualified Canadian for those jobs. The policies, which will take effect on Nov. 3, will apply to applicants who already have Canadian work experience, or who have a job offer in a high-wage field such as engineering. In a release announcing the change , the government says it considers a high-wage job one that pays \"at least 1.3 times the ...",
-   "image": null,
-   "why": [
-    "Affects permanent residence",
-    "Announces a change",
-    "Major story (16 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Canada"
-   ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -682,30 +708,6 @@
    ],
    "tags": [
     "Markets & Regulation"
-   ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 91,
-   "title": "Guidance: EU Settlement Scheme: caseworker guidance",
-   "url": "https://www.gov.uk/government/publications/eu-settlement-scheme-caseworker-guidance",
-   "date": "2026-10-15",
-   "source": "GOV.UK (UK Visas and Immigration)",
-   "label": "United Kingdom",
-   "snippet": "Immigration staff guidance on applications under the EU Settlement Scheme.",
-   "lead": "Navigation menu Menu Menu Services and information Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and living abroad Visas and immigration Working, jobs and pensions ...",
-   "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-   "why": [
-    "Affects permanent residence",
-    "Official government notice",
-    "Major story (13 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "United Kingdom"
    ],
    "rank": 12,
    "must_read": false
@@ -734,6 +736,30 @@
    "must_read": false
   },
   {
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 83,
+   "title": "Ottawa adding express entry points for permanent resident applicants in 'high-wage' jobs",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yMFhBZ3U4ZEQzbzJrVlVpbWtoU2Q3RHBLdk5UenJ0YXVaNkowcDJvRzltei01Z1JCUDhvZVpCMkNqT0ZoZjB5T1hBM0tzOEZPNlZYZXQ3MUNTTVJ1TDFwcnFVbllkVG0wLUdhUlBaX3A?oc=5",
+   "date": "2026-10-17",
+   "source": "CBC",
+   "label": "Canada",
+   "snippet": "Ottawa is adding new express entry points for some permanent residency applicants in \"high-wage\" jobs, Immigration Minister Lena Diab said Friday.",
+   "lead": "The government also plans to remove the requirement for an employer to prove they can't find a qualified Canadian for those jobs. The policies, which will take effect on Nov. 3, will apply to applicants who already have Canadian work experience, or who have a job offer in a high-wage field such as engineering. In a release announcing the change , the government says it considers a high-wage job one that pays \"at least 1.3 times the ...",
+   "image": null,
+   "why": [
+    "Affects permanent residence",
+    "Announces a change",
+    "Major story (16 headlines that day)"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Canada"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
    "desk": "Policy",
    "score": 9,
    "priority": 82,
@@ -752,7 +778,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -776,7 +802,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 15,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -801,7 +827,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -824,7 +850,7 @@
    "tags": [
     "Financials"
    ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -846,30 +872,6 @@
    "tags": [
     "IPO & Listing",
     "Media, Gaming & Creators"
-   ],
-   "rank": 18,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 79,
-   "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-   "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-   "date": "2026-10-20",
-   "source": "TechCrunch Venture",
-   "label": "Global · AI & Deeptech",
-   "snippet": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-   "lead": "Tenstorrent, a chip startup focused on inference, has raised $1.5 billion at a $6.2 billion valuation. The round comes five months after the 10-year-old Nvidia challenger reportedly received acquisition interest from Intel and Qualcomm at valuations of as much as $5 billion. The fresh round, which more than doubled Tenstorrent’s valuation from the $2.6 billion it fetched in late 2024, was led by Trace Capital, a new firm launched by ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=970",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $6,200M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
    ],
    "rank": 19,
    "must_read": false
@@ -897,29 +899,6 @@
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 8,
-   "priority": 73,
-   "title": "Indians, Brits and Syrians top Norway's permanent residency list",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmdwZjNIMVpVT2VYWUNvbktncDBwcFpYWTZPV3NJQ01BTmU2RkMzSHd2NU1pMFpCY1p5WmhVbW10OUpxRE9IeGpSaFM5ck1wNmliZnBIZndHMXZKZWFWcjJkQXJZb29QMTI2R0thSlJGczRFS0l1R2g5b2Y4M3VVNXhxOEpUM3ZDTlJOeWJ4TVdpblJuYzhqeW92Yw?oc=5",
-   "date": "2026-10-20",
-   "source": "The Local Norway",
-   "label": "Norway",
-   "snippet": "Gaining permanent residency in Norway is a significant achievement for every foreigner who is building a new life in the nordic country; however some nationalities stand out for both the number of applicants and their high approval rates.",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Gaining permanent residency in Norway is a significant achievement for every foreigner who is building a new life in the nordic country; however some nationalities stand out for both the number of applicants and their ...",
-   "image": null,
-   "why": [
-    "Affects permanent residence",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Norway"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
    "desk": "Policy",
    "score": 8,
    "priority": 73,
@@ -939,13 +918,36 @@
    "tags": [
     "Banking & Rates"
    ],
+   "rank": 21,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 8,
+   "priority": 67,
+   "title": "Indians, Brits and Syrians top Norway's permanent residency list",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmdwZjNIMVpVT2VYWUNvbktncDBwcFpYWTZPV3NJQ01BTmU2RkMzSHd2NU1pMFpCY1p5WmhVbW10OUpxRE9IeGpSaFM5ck1wNmliZnBIZndHMXZKZWFWcjJkQXJZb29QMTI2R0thSlJGczRFS0l1R2g5b2Y4M3VVNXhxOEpUM3ZDTlJOeWJ4TVdpblJuYzhqeW92Yw?oc=5",
+   "date": "2026-10-20",
+   "source": "The Local Norway",
+   "label": "Norway",
+   "snippet": "Gaining permanent residency in Norway is a significant achievement for every foreigner who is building a new life in the nordic country; however some nationalities stand out for both the number of applicants and their high approval rates.",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Gaining permanent residency in Norway is a significant achievement for every foreigner who is building a new life in the nordic country; however some nationalities stand out for both the number of applicants and their ...",
+   "image": null,
+   "why": [
+    "Affects permanent residence",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Norway"
+   ],
    "rank": 22,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 7,
-   "priority": 64,
+   "priority": 58,
    "title": "Japan is Making it Harder for Non-Citizens to Become Permanent Residents",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOUNFRVhsckI3LUdlQV80b21XeWRZbDJodDRKS3EwdU0yMnFHbzgtalNlVU1acVZwLTA1V21rOWRUWkJVbGdvcm9qRXc1RjR6YnZHQXd2RWU2bmFPbjVmS0NqN2dLZFh4M0ZjR2FDZnNkWHQ1UlFneC12WV9xZFRaNUtfbFFzRnRJQ09YbXZWV29fd0g0T0FUcXY3ZzYyRlV2aWdPRnVfaXU?oc=5",
    "date": "2026-10-22",
