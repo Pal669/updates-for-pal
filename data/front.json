@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-22",
- "built": "2026-10-22 10:49 IST",
+ "built": "2026-10-22 21:09 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,44 +12,44 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22698.0,
-   "change_pct": -0.5,
-   "asof": "22 Oct 10:49 IST"
+   "value": 22688.0,
+   "change_pct": -0.54,
+   "asof": "22 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73633.0,
-   "change_pct": -0.1,
-   "asof": "22 Oct 10:34 IST"
+   "value": 73249.0,
+   "change_pct": -0.62,
+   "asof": "22 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.5,
-   "change_pct": -0.22,
-   "asof": "22 Oct 10:49 IST"
+   "value": 94.81,
+   "change_pct": 0.1,
+   "asof": "22 Oct 20:28 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 111.03,
-   "change_pct": 2.03,
-   "asof": "22 Oct 10:38 IST"
+   "value": 111.1,
+   "change_pct": 2.1,
+   "asof": "22 Oct 20:59 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4106.0,
-   "change_pct": -1.05,
-   "asof": "22 Oct 10:39 IST"
+   "value": 4068.0,
+   "change_pct": -1.97,
+   "asof": "22 Oct 20:59 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.15,
-   "change_pct": 0.57,
-   "asof": "22 Oct 00:29 IST"
+   "value": 5.02,
+   "change_pct": -2.55,
+   "asof": "22 Oct 20:54 IST"
   }
  ],
  "features": {
@@ -79,20 +79,20 @@
  },
  "desks": {
   "Policy": {
-   "total": 224,
-   "new_today": 0,
+   "total": 232,
+   "new_today": 6,
    "items": [
     {
      "desk": "Policy",
-     "score": 5,
-     "priority": 45,
-     "title": "Underwriting Auction for sale of Government Security for ₹34,000 crore on October 16, 2026",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63811",
-     "date": "2026-10-15",
+     "score": 8,
+     "priority": 73,
+     "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on October 23, 2026",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63844",
+     "date": "2026-10-22",
      "source": "RBI",
      "label": "Banking & Rates",
      "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "Government of India has announced the sale (re-issue) of Government Security, as detailed below, through auction to be held on October 16, 2026 (Friday) . As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
+     "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on October 23, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
      "image": null,
      "why": [
       "Regulator: RBI",
@@ -104,17 +104,18 @@
     },
     {
      "desk": "Policy",
-     "score": 4,
-     "priority": 36,
-     "title": "Directions under Section 35 A read with Section 56 of the Banking Regulation Act, 1949 – Puducherry Co-operative Urban Bank Ltd",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63840",
+     "score": 8,
+     "priority": 73,
+     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63837",
      "date": "2026-10-21",
      "source": "RBI",
      "label": "Banking & Rates",
      "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "It is hereby notified for information of the public that in exercise of powers vested in it under sub section (1) of Section 35 A read with Section 56 of the Banking Regulation Act, 1949, the Reserve Bank of India (RBI) vide Directive Ref. No. CHN.DoS.UCBs.No.S336/16-05-847/2026-2027 dated October 19, 2026, has issued certain Directions to ‘Puducherry Co-operative Urban Bank Ltd’, (“the bank”), whereby, as from the close of business on ...",
+     "lead": "",
      "image": null,
      "why": [
+      "New law or act",
       "Regulator: RBI"
      ],
      "tags": [
@@ -123,48 +124,115 @@
     },
     {
      "desk": "Policy",
-     "score": 4,
-     "priority": 36,
-     "title": "Building a New Beginning Through the Inter-Caste Marriage Incentive Scheme",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2323772",
-     "date": "2026-10-15",
-     "source": "PIB",
-     "label": "Energy & Power",
-     "snippet": "Marriage is not only the union of two individuals but also an opportunity to strengthen mutual respe",
-     "lead": "Ministry of Social Justice & Empowerment Building a New Beginning Through the Inter-Caste Marriage Incentive Scheme Mr. Aditya Sadhu Sawant and Mrs. Khushi Pravin Shaha’s Journey Towards Equality and Social Harmony Posted On: 15 OCT 2026 2:15PM by PIB Delhi Marriage is not only the union of two individuals but also an opportunity to strengthen mutual respect, equality and harmony within society. For Mr. Aditya Sadhu Sawant and Mrs. ...",
+     "score": 8,
+     "priority": 73,
+     "title": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
+     "date": "2026-10-19",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Notifications - Reserve Bank of India",
+     "lead": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026 Please refer to Section C on ‘Limits for Non-Option Derivative Contracts’ of Chapter IV of the Reserve Bank of India (Small Finance Banks - Miscellaneous) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by section 35A of the Banking Regulation Act, 1949, and all other provisions / laws enabling the Reserve Bank of India ...",
      "image": null,
      "why": [
-      "Subsidy or incentive"
+      "Regulator rulebook change",
+      "Rule change",
+      "Regulator: RBI"
      ],
      "tags": [
-      "Energy & Power"
+      "Banking & Rates"
      ]
     },
     {
      "desk": "Policy",
-     "score": 3,
-     "priority": 27,
-     "title": "National Steering Committee Approves ₹1,194.92 Crore Investment Under PM-SETU for Five ITI Clusters Across Maharashtra, Odisha and Jammu & Kashmir",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2324330",
-     "date": "2026-10-16",
-     "source": "PIB",
-     "label": "Labour & Social",
-     "snippet": "The 6th National Steering Committee (NSC) meeting of the Pradhan Mantri Skilling and Employability T",
-     "lead": "Ministry of Skill Development and Entrepreneurship National Steering Committee Approves ₹1,194.92 Crore Investment Under PM-SETU for Five ITI Clusters Across Maharashtra, Odisha and Jammu & Kashmir Tata Steel Foundation, BVG India, Belrise Industries, Eagle Infra India and Inderdeep Infra India to partner in upgrading five ITI clusters; cumulative investment approved under PM-SETU reaches ₹3,687 crore Posted On: 16 OCT 2026 3:25PM by ...",
+     "score": 5,
+     "priority": 45,
+     "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Suri Friends’ Union Co-operative Bank Ltd., Suri, West Bengal – Extension of period",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63845",
+     "date": "2026-10-22",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "The Reserve Bank of India issued Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 to The Suri Friends’ Union Co-operative Bank Ltd., Suri, West Bengal vide Directive No. CO.DOS.SED.No.S2574/12-07-005/2022-23 dated July 21, 2022 for a period of six months up to close of business on January 22, 2023, which were last extended up to close of business on October 22, 2026 vide Directive No. ...",
      "image": null,
      "why": [
-      "High on the desk's ranking"
+      "Regulator: RBI"
      ],
      "tags": [
-      "Labour & Social"
+      "Banking & Rates"
      ]
     }
    ]
   },
   "Startups": {
-   "total": 844,
-   "new_today": 13,
+   "total": 865,
+   "new_today": 33,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 79,
+     "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+     "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+     "date": "2026-10-21",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+     "lead": "Blacksmith, a platform that helps companies more efficiently build and test software, including code written by AI, announced Wednesday a $66 million Series C funding round led by Sequoia that values the company at $1 billion. In announcing the round, Blacksmith co-founder and CEO Aditya Jayaprakash said the company was founded to make continuous integration (CI) — the process of building, testing, merging, and validating code changes ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blacksmith.jpg?resize=1200,800",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $66M)",
+      "Valuation, listing or profitability signal",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 79,
+     "title": "Apple India’s FY26 Profit Jumps 66% YoY To ₹5,311 Cr, Revenue Up 31%",
+     "url": "https://inc42.com/buzz/apple-indias-fy26-profit-jumps-66-yoy-to-%e2%82%b95311-cr-revenue-up-31/",
+     "date": "2026-10-20",
+     "source": "Inc42",
+     "label": "India · Other",
+     "snippet": "Apple India’s FY26 net profit rose 66% to ₹5,311 Cr as operating revenue crossed ₹1 lakh Cr, while expenses surged 28%",
+     "lead": "Apple India’s net profit jumped 66% YoY to ₹5,311 Cr in FY26, while operating revenue grew 31.4% to ₹1.04 Lakh Cr The iPhone-maker’s profit growth outpaced revenue expansion as its net profit margin improved to 5.1% from 4% in FY25 Apple India’s total expenses during the fiscal year under review grew 28% to ₹96,224 Cr from ₹75,190.7 Cr it reported in FY25",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/FTR-26-1.jpg",
+     "why": [
+      "Financials",
+      "Very large figure in headline (about $559M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Financials"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 79,
+     "title": "Jio Platforms' anchor book draws Rs 2.5 lakh crore in bids ahead of IPO",
+     "url": "https://yourstory.com/2026/10/jio-platforms-anchor-book-draws-rs-25-lakh-crore-in-bids-ahead-of-ipo",
+     "date": "2026-10-20",
+     "source": "YourStory",
+     "label": "India · Media, Gaming & Creators",
+     "snippet": "The IPO of Jio Platforms opens on October 21\n\nJio Platforms allotted 7.24 crore shares at a price of Rs 1,119 per share to the anchor investors and LIC received the largest allocation\n\nJio Platforms has allotted shares worth Rs 8,109.85 crore to 212 anchor investors at the top end of its price ban",
+     "lead": "Jio Platforms' anchor book draws Rs 2.5 lakh crore in bids ahead of IPO Jio Platforms allotted 7.24 crore shares at a price of Rs 1,119 per share to the anchor investors and LIC received the largest allocation Press Trust of India 11229 Stories Tuesday October 20, 2026 , 2 min Read Jio Platforms has allotted shares worth Rs 8,109.85 crore to 212 anchor investors at the top end of its price band, after institutional demand for the ...",
+     "image": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Imagef4om-1592391491397.jpg",
+     "why": [
+      "IPO & Listing",
+      "Very large figure in headline (about $26,316M: round or valuation)"
+     ],
+     "tags": [
+      "IPO & Listing",
+      "Media, Gaming & Creators"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 11,
@@ -186,74 +254,12 @@
       "Funding",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 71,
-     "title": "Eternal’s Q2 Profit Run, Jio IPO Day 1 & More",
-     "url": "https://inc42.com/buzz/eternals-q2-profit-run-jio-ipo-day-1-more/",
-     "date": "2026-10-22",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "Eternal’s net profit zoomed 92% YoY to ₹125 Cr in Q2 FY27 on the back of rising revenues, improving margins and growing scale",
-     "lead": "Before we move ahead, here is a quick look at Eternal’s Q2 FY27 numbers: Blinkit Powers Growth: The quick commerce vertical remained Eternal’s strongest growth engine, supported by rapid store additions, rising order volumes and improving economics across both mature and newer markets. In total, Blinkit added 308 net new stores in Q2 FY27, taking its network to 2,751. Betting on scale, the management now expects Blinkit to cross 3,500 ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Social-Daily-Brief-32.png",
-     "why": [
-      "IPO & Listing",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 71,
-     "title": "Jio Platforms IPO draws strong demand within hours; Eternal's Q2 net profit rises 92%",
-     "url": "https://yourstory.com/2026/10/jio-platforms-ipo-draws-strong-demand-within-hours",
-     "date": "2026-10-22",
-     "source": "YourStory",
-     "label": "India · Other",
-     "snippet": "The qualified institutional investors showed strong interest for the IPO of Jio Platforms with subscription crossing 4x.",
-     "lead": "Jio Platforms IPO draws strong demand within hours; Eternal's Q2 net profit rises 92% The qualified institutional investors showed strong interest for the IPO of Jio Platforms with subscription crossing 4x. Team YS 17404 Stories Thursday October 22, 2026 , 4 min Read The AI race is also becoming more competitive. OpenAI is expanding beyond its longstanding dependence on Microsoft by bringing its models to Google Cloud, signalling a ...",
-     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/NewPPTTemplates-1792593424050.png",
-     "why": [
-      "IPO & Listing",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 71,
-     "title": "Aye Finance Q2: Profit Surges 151% YoY To ₹87 Cr, Revenue Crosses ₹500 Cr Mark",
-     "url": "https://inc42.com/buzz/aye-finance-q2-profit-surges-151-yoy-to-%e2%82%b987-cr-revenue-crosses-%e2%82%b9500-cr-mark/",
-     "date": "2026-10-21",
-     "source": "Inc42",
-     "label": "India · Fintech",
-     "snippet": "Listed NBFC Aye Finance's net profit for the September quarter surged 151% to ₹86.7 Cr from ₹34.5 Cr in the year-ago quarter.",
-     "lead": "Operating revenue for the quarter zoomed 18% YoY and 8% QoQ to ₹514.4 Cr While total income for the quarter stood at ₹527.1 Cr, expenses increased by about ₹8 Cr from the year-ago quarter to ₹411.3 Cr Operating revenue grew 18% YoY and 8% QoQ to ₹514.4 Cr, led by a 29% YoY increase in interest income to ₹479.3 Cr.",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/aye-finance-IPO-social-1.png",
-     "why": [
-      "Financials",
-      "Sizeable deal (about $53M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Financials",
-      "Fintech"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 1239,
-   "new_today": 5,
+   "total": 1254,
+   "new_today": 17,
    "items": [
     {
      "desk": "Immigration",
@@ -313,25 +319,6 @@
      "tags": [
       "Quota / Caps",
       "Spain"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 4,
-     "priority": 33,
-     "title": "Why France is burning: Immigration, the suburban ghettos, and the historic mistake",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSl9sbHB6TjZsZFNjTHhiQl9MR2FpbXpsMnY2RjI0bXY2eHo5WWN3N0NobERLNnhVOFQ1TWhRZlB5ZWVpbk10OFJCbzVNWFlESXA5STAtN0J1M1NhZ1hYa0hzX2Y1bjN6U3BYLS1JblEwQ3NZZUloa3Z0bGhaVHJjVDZCV21xZFpqV0IycXJVb0U3WWxHazl1NC1uNDdBOS1Xdi1NRUdGenJkYTQwSWRGOFBNbTJsb3YxbEhhR1ZKWEtrbW9iNTRPSkZR?oc=5",
-     "date": "2026-10-21",
-     "source": "Bankingnews",
-     "label": "France",
-     "snippet": "Why France is burning: Immigration, the suburban ghettos, and the historic mistake",
-     "lead": "France is burning. But why? The obvious answer is that the country has accepted massive numbers of people, often young men of military age, from regions of the world where violence is more prevalent. Or, as the President of the US stated last weekend, \"the migration of people from a completely different world, people with hate in their hearts, has destroyed this once-great country.\" This explanation certainly has grounds. France has ...",
-     "image": "https://www.bankingnews.gr/media/k2/items/cache/d25f8e7e4afcf8fe3fb51e8665c249a9_XL.jpg",
-     "why": [
-      "Announces a change"
-     ],
-     "tags": [
-      "France"
      ]
     }
    ]
@@ -551,6 +538,52 @@
    "desk": "Startups",
    "score": 13,
    "priority": 93,
+   "title": "[Update] Jio Platforms IPO Ends Day 2 With 5.57X Subscription, QIBs Lead Demand",
+   "url": "https://inc42.com/buzz/jio-platforms-ipo-subscribed-3-65x-on-day-2-so-far-retail-portion-fully-booked/",
+   "date": "2026-10-22",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Jio Platforms has set a price band of ₹1,065-₹1,119 per share for the IPO, which closes tomorrow",
+   "lead": "Jio Platforms’ ₹30,213 Cr IPO ended the second day of bidding with 5.57X subscription Institutional investors drove demand, subscribing the QIB portion 13.29X Jio Platforms has set a price band of ₹1,065-₹1,119 per share for the IPO, which closes tomorrow. The ₹30,213 Cr (about $3.2 Bn) offering is set to surpass Hyundai Motor India’s ₹27,870 Cr issue as India’s largest IPO.",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2020/06/Untitled-design-38.jpg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $3,180M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 13,
+   "priority": 93,
+   "title": "Eternal clocks Rs 125 crore profit in Q2FY27, revenue zooms 78% to Rs 24,138 crore",
+   "url": "https://www.medianama.com/2026/10/223-eternal-125-crore-profit-q2fy27/",
+   "date": "2026-10-22",
+   "source": "MediaNama",
+   "label": "India · Commerce & D2C",
+   "snippet": "Food delivery firm Eternal posted a net profit of Rs 125 cr in Q2FY27 up 92% from Rs 65 cr in the same period last year as revenue grew 78%",
+   "lead": "Food delivery and quick commerce firm Eternal posted a consolidated net profit of Rs 125 crore in the second quarter ended September 2026 (Q2 FY27), up 92% from Rs 65 crore in the same quarter last year. Revenue from operations zoomed 78% to Rs 24,138 crore from Rs 13,590 crore in the year-ago quarter. Sequentially, it grew 19% from Rs 20,211 crore. The sharp year-on-year (YoY) increase in operating revenue is mainly due to a shift to ...",
+   "image": "https://www.medianama.com/wp-content/uploads/2025/02/zomato-eternal.png",
+   "why": [
+    "Financials",
+    "Very large figure in headline (about $2,541M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Financials",
+    "Commerce & D2C"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 13,
+   "priority": 93,
    "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
    "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
    "date": "2026-10-22",
@@ -568,7 +601,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 6,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -591,7 +624,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 7,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -616,7 +649,7 @@
     "Work visa",
     "New Zealand"
    ],
-   "rank": 8,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -640,7 +673,29 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 9,
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 91,
+   "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on October 23, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63848",
+   "date": "2026-10-22",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Friday, October 23, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "image": null,
+   "why": [
+    "Rates and liquidity",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 12,
    "must_read": false
   },
   {
@@ -662,7 +717,7 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 10,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -685,7 +740,30 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 11,
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 91,
+   "title": "Securities and Exchange Board of India (Real Estate Investment Trusts) Regulations, 2014 [Last amended on October 15, 2026]",
+   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-real-estate-investment-trusts-regulations-2014-last-amended-on-october-15-2026-_105376.html",
+   "date": "2026-10-15",
+   "source": "SEBI",
+   "label": "Markets & Regulation",
+   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: SEBI"
+   ],
+   "tags": [
+    "Markets & Regulation"
+   ],
+   "rank": 15,
    "must_read": false
   },
   {
@@ -708,7 +786,7 @@
    "tags": [
     "Markets & Regulation"
    ],
-   "rank": 12,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -731,7 +809,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 13,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -755,29 +833,29 @@
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 14,
+   "rank": 18,
    "must_read": false
   },
   {
-   "desk": "Policy",
-   "score": 9,
-   "priority": 82,
-   "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on October 22, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63841",
-   "date": "2026-10-21",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Thursday, October 22, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
-   "image": null,
+   "desk": "Startups",
+   "score": 11,
+   "priority": 79,
+   "title": "Zetwerk IPO: Kae Capital, Kalysta Bag 38.3X Returns, Lightspeed Pockets ₹440 Cr",
+   "url": "https://inc42.com/buzz/zetwerk-ipo-kae-capital-kalysta-bag-38-3x-returns-lightspeed-pockets-%e2%82%b9440-cr/",
+   "date": "2026-10-22",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Kae Capital Fund II and Kalysta Capital Fund II bagged 38.3X returns on shares sold through Zetwerk’s IPO.",
+   "lead": "Kae Capital Fund II and Kalysta Capital Fund II bagged 38.3X returns on shares sold through Zetwerk’s IPO. The offer provided partial exits to investors, with Lightspeed pocketing around ₹440 Cr and Peak XV realising ₹359.3 Cr across their funds. Cofounders Amrit Acharya and Srinath Ramakkrushnan collectively pocketed around ₹423 Cr, while retaining sizeable holdings in the manufacturing company.",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Zetwerks-IPO-2-social_.jpg",
    "why": [
-    "Rates and liquidity",
-    "Regulator: RBI"
+    "IPO & Listing",
+    "Sizeable deal (about $46M)"
    ],
    "tags": [
-    "Banking & Rates"
+    "IPO & Listing"
    ],
-   "rank": 15,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -801,99 +879,6 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 16,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 79,
-   "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-   "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-   "date": "2026-10-21",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-   "lead": "Blacksmith, a platform that helps companies more efficiently build and test software, including code written by AI, announced Wednesday a $66 million Series C funding round led by Sequoia that values the company at $1 billion. In announcing the round, Blacksmith co-founder and CEO Aditya Jayaprakash said the company was founded to make continuous integration (CI) — the process of building, testing, merging, and validating code changes ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blacksmith.jpg?resize=1200,800",
-   "why": [
-    "Funding",
-    "Sizeable deal (about $66M)",
-    "Valuation, listing or profitability signal",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 17,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 79,
-   "title": "Apple India’s FY26 Profit Jumps 66% YoY To ₹5,311 Cr, Revenue Up 31%",
-   "url": "https://inc42.com/buzz/apple-indias-fy26-profit-jumps-66-yoy-to-%e2%82%b95311-cr-revenue-up-31/",
-   "date": "2026-10-20",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Apple India’s FY26 net profit rose 66% to ₹5,311 Cr as operating revenue crossed ₹1 lakh Cr, while expenses surged 28%",
-   "lead": "Apple India’s net profit jumped 66% YoY to ₹5,311 Cr in FY26, while operating revenue grew 31.4% to ₹1.04 Lakh Cr The iPhone-maker’s profit growth outpaced revenue expansion as its net profit margin improved to 5.1% from 4% in FY25 Apple India’s total expenses during the fiscal year under review grew 28% to ₹96,224 Cr from ₹75,190.7 Cr it reported in FY25",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/FTR-26-1.jpg",
-   "why": [
-    "Financials",
-    "Very large figure in headline (about $559M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Financials"
-   ],
-   "rank": 18,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 79,
-   "title": "Jio Platforms' anchor book draws Rs 2.5 lakh crore in bids ahead of IPO",
-   "url": "https://yourstory.com/2026/10/jio-platforms-anchor-book-draws-rs-25-lakh-crore-in-bids-ahead-of-ipo",
-   "date": "2026-10-20",
-   "source": "YourStory",
-   "label": "India · Media, Gaming & Creators",
-   "snippet": "The IPO of Jio Platforms opens on October 21\n\nJio Platforms allotted 7.24 crore shares at a price of Rs 1,119 per share to the anchor investors and LIC received the largest allocation\n\nJio Platforms has allotted shares worth Rs 8,109.85 crore to 212 anchor investors at the top end of its price ban",
-   "lead": "Jio Platforms' anchor book draws Rs 2.5 lakh crore in bids ahead of IPO Jio Platforms allotted 7.24 crore shares at a price of Rs 1,119 per share to the anchor investors and LIC received the largest allocation Press Trust of India 11229 Stories Tuesday October 20, 2026 , 2 min Read Jio Platforms has allotted shares worth Rs 8,109.85 crore to 212 anchor investors at the top end of its price band, after institutional demand for the ...",
-   "image": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Imagef4om-1592391491397.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $26,316M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Media, Gaming & Creators"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 73,
-   "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63837",
-   "date": "2026-10-21",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "",
-   "image": null,
-   "why": [
-    "New law or act",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
    "rank": 20,
    "must_read": false
   },
@@ -901,18 +886,16 @@
    "desk": "Policy",
    "score": 8,
    "priority": 73,
-   "title": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
-   "date": "2026-10-19",
-   "source": "RBI",
+   "title": "Factual Report on PM-DAKSH",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326437",
+   "date": "2026-10-22",
+   "source": "PIB",
    "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026 Please refer to Section C on ‘Limits for Non-Option Derivative Contracts’ of Chapter IV of the Reserve Bank of India (Small Finance Banks - Miscellaneous) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by section 35A of the Banking Regulation Act, 1949, and all other provisions / laws enabling the Reserve Bank of India ...",
+   "snippet": "Pradhan Mantri Dakshata Aur Kushalta Sampann Hitgrahi (PM-DAKSH), a Central Sector Scheme, w",
+   "lead": "Ministry of Social Justice & Empowerment Factual Report on PM-DAKSH Posted On: 22 OCT 2026 11:49AM by PIB Delhi 276.47 crores, actual expenditure to the tune of Rs. 309.5 crores has been incurred till date. -- words | -- min read Ministry of Social Justice & Empowerment Factual Report on PM-DAKSH Posted On: 22 OCT 2026 11:49AM by PIB Delhi",
    "image": null,
    "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Regulator: RBI"
+    "Rates and liquidity"
    ],
    "tags": [
     "Banking & Rates"
