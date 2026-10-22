@@ -1,6 +1,6 @@
 {
- "edition": "2026-10-22",
- "built": "2026-10-22 21:09 IST",
+ "edition": "2026-10-23",
+ "built": "2026-10-23 01:49 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,100 +12,80 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22688.0,
-   "change_pct": -0.54,
+   "value": 22811.0,
+   "change_pct": -0.34,
    "asof": "22 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73249.0,
-   "change_pct": -0.62,
+   "value": 73710.0,
+   "change_pct": -0.19,
    "asof": "22 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
    "value": 94.81,
-   "change_pct": 0.1,
-   "asof": "22 Oct 20:28 IST"
+   "change_pct": 0.53,
+   "asof": "23 Oct 00:43 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 111.1,
-   "change_pct": 2.1,
-   "asof": "22 Oct 20:59 IST"
+   "value": 113.0,
+   "change_pct": 3.84,
+   "asof": "23 Oct 01:39 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4068.0,
-   "change_pct": -1.97,
-   "asof": "22 Oct 20:59 IST"
+   "value": 4042.0,
+   "change_pct": -2.61,
+   "asof": "23 Oct 01:39 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.02,
-   "change_pct": -2.55,
-   "asof": "22 Oct 20:54 IST"
+   "value": 4.95,
+   "change_pct": -3.75,
+   "asof": "23 Oct 00:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "Aakash Educational Services",
-   "tagline": "Test-prep coaching chain owned by BYJU'S parent",
-   "what": "Gurugram-based test-prep brand for engineering and medical entrance exams, owned by BYJU'S parent Think & Learn since its 2021 acquisition.",
+   "company": "Curefoods and Rebel Foods",
+   "tagline": "Cloud-kitchen and restaurant-brand operators",
+   "what": "Curefoods runs brands such as EatFit, Nomad Pizza, Sharief Bhai Biryani, CakeZone, Frozen Bottle and Krispy Kreme (India rights acquired last year), with 500+ kitchens in 70 cities. Rebel Foods runs Faasos, Behrouz Biryani, Oven Story, Sweet Truth and 20+ other brands across 10 countries.",
    "how": [
-    "Coaching fees: Rs 1,956.2 Cr of Rs 2,040.5 Cr operating revenue in FY26 (about 96%, computed).",
-    "Franchisee revenue: Rs 84.4 Cr, up 4% (about 4%, computed)."
+    "Both report 'operating revenue' from operating cloud kitchens and restaurant chains, i.e. selling food under their own brands.",
+    "The article gives no split between delivery, dine-in or other channels."
    ],
-   "watch": "The smaller loss came from one-off accounting gains, not from the business growing: revenue is flat. Ownership is entangled in the BYJU'S group's disputes: Byju Raveendran proposed relinquishing his claimed interest in 17.89 Mn Aakash shares to settle Qatar Holding's arbitration claim of over $235 Mn; lenders (Global TLB lenders via GLAS Trust) are reportedly in advanced talks for a 30% stake valuing Aakash at about $2 Bn.",
-   "sector": "Edtech & Skills",
+   "watch": "Growth is above 20% but both still lose money. Rebel is narrowing losses; Curefoods' loss grew in absolute terms.",
+   "sector": "Commerce & D2C",
    "region": "India",
-   "url": "https://inc42.com/buzz/aakash-trims-fy26-loss-by-16-to-%e2%82%b9186-5-cr-top-line-flat-at-%e2%82%b92040-cr/"
+   "url": "https://economictimes.indiatimes.com/tech/technology/curefoods-revenue-grows-23-yoy-rebel-foods-revenue-up-20/articleshow/134338278.cms"
   },
   "country": {
-   "id": "austria",
-   "name": "Austria",
-   "trend": "Stable but strict",
-   "pr": "Red-White-Red Card Plus after about 21 months (no longer tied to one employer). EU permanent residence after 5 years of continuous legal residence.",
-   "citizenship": "10 years standard, 6 years for well-integrated applicants (B2 German, volunteering or professional achievement). Needs B2 German, self-sufficiency and, in general, renunciation of prior citizenship (sources conflict on exceptions; India requires renunciation anyway).",
-   "pro": "Card Plus after about 21 months removes employer dependence.",
-   "con": "Citizenship takes 10 years (6 if well integrated) and needs B2 German.",
-   "watch": "Annual Red-White-Red quota"
+   "id": "norway",
+   "name": "Norway",
+   "trend": "Stable",
+   "pr": "Permanent residence after 3 years (fee NOK 4,000), requiring an oral Norwegian test at A2, a social studies test and self-support.",
+   "citizenship": "7 years of total residence (within the last 10), PR, Norwegian and social studies tests, clean record. Norway allows dual citizenship (general knowledge).",
+   "pro": "Fastest PR among the Nordic countries here: 3 years.",
+   "con": "Job offer required before applying; no job-seeker route.",
+   "watch": "Salary-floor updates"
   }
  },
  "desks": {
   "Policy": {
    "total": 232,
-   "new_today": 6,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
-     "score": 8,
-     "priority": 73,
-     "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on October 23, 2026",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63844",
-     "date": "2026-10-22",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on October 23, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
-     "image": null,
-     "why": [
-      "Regulator: RBI",
-      "Large outlay (Rs 10,000 Cr or more)"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 8,
-     "priority": 73,
+     "score": 7,
+     "priority": 70,
      "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63837",
      "date": "2026-10-21",
@@ -124,29 +104,8 @@
     },
     {
      "desk": "Policy",
-     "score": 8,
-     "priority": 73,
-     "title": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026",
-     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
-     "date": "2026-10-19",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Notifications - Reserve Bank of India",
-     "lead": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026 Please refer to Section C on ‘Limits for Non-Option Derivative Contracts’ of Chapter IV of the Reserve Bank of India (Small Finance Banks - Miscellaneous) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by section 35A of the Banking Regulation Act, 1949, and all other provisions / laws enabling the Reserve Bank of India ...",
-     "image": null,
-     "why": [
-      "Regulator rulebook change",
-      "Rule change",
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 5,
-     "priority": 45,
+     "score": 4,
+     "priority": 40,
      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Suri Friends’ Union Co-operative Bank Ltd., Suri, West Bengal – Extension of period",
      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63845",
      "date": "2026-10-22",
@@ -161,17 +120,55 @@
      "tags": [
       "Banking & Rates"
      ]
+    },
+    {
+     "desk": "Policy",
+     "score": 4,
+     "priority": 40,
+     "title": "Caution to Investors against Stock Tips offered through Invitation-only WhatsApp Groups",
+     "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/caution-to-investors-against-stock-tips-offered-through-invitation-only-whatsapp-groups_105389.html",
+     "date": "2026-10-22",
+     "source": "SEBI",
+     "label": "Markets & Regulation",
+     "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Regulator: SEBI"
+     ],
+     "tags": [
+      "Markets & Regulation"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 4,
+     "priority": 40,
+     "title": "Margin Waiver on Subsequent Buy/Sell Transactions Post Early Pay-In (EPI) in Cash Segment",
+     "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/margin-waiver-on-subsequent-buy-sell-transactions-post-early-pay-in-epi-in-cash-segment_105364.html",
+     "date": "2026-10-22",
+     "source": "SEBI",
+     "label": "Markets & Regulation",
+     "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Regulator: SEBI"
+     ],
+     "tags": [
+      "Markets & Regulation"
+     ]
     }
    ]
   },
   "Startups": {
-   "total": 865,
-   "new_today": 33,
+   "total": 868,
+   "new_today": 2,
    "items": [
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 79,
+     "score": 10,
+     "priority": 77,
      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
      "date": "2026-10-21",
@@ -193,8 +190,8 @@
     },
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 79,
+     "score": 10,
+     "priority": 77,
      "title": "Apple India’s FY26 Profit Jumps 66% YoY To ₹5,311 Cr, Revenue Up 31%",
      "url": "https://inc42.com/buzz/apple-indias-fy26-profit-jumps-66-yoy-to-%e2%82%b95311-cr-revenue-up-31/",
      "date": "2026-10-20",
@@ -214,8 +211,8 @@
     },
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 79,
+     "score": 10,
+     "priority": 77,
      "title": "Jio Platforms' anchor book draws Rs 2.5 lakh crore in bids ahead of IPO",
      "url": "https://yourstory.com/2026/10/jio-platforms-anchor-book-draws-rs-25-lakh-crore-in-bids-ahead-of-ipo",
      "date": "2026-10-20",
@@ -235,8 +232,8 @@
     },
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 79,
+     "score": 10,
+     "priority": 77,
      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
      "date": "2026-10-20",
@@ -258,13 +255,33 @@
    ]
   },
   "Immigration": {
-   "total": 1254,
-   "new_today": 17,
+   "total": 1263,
+   "new_today": 2,
    "items": [
     {
      "desk": "Immigration",
-     "score": 7,
-     "priority": 58,
+     "score": 6,
+     "priority": 55,
+     "title": "Japan is Making it Harder for Non-Citizens to Become Permanent Residents",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOUNFRVhsckI3LUdlQV80b21XeWRZbDJodDRKS3EwdU0yMnFHbzgtalNlVU1acVZwLTA1V21rOWRUWkJVbGdvcm9qRXc1RjR6YnZHQXd2RWU2bmFPbjVmS0NqN2dLZFh4M0ZjR2FDZnNkWHQ1UlFneC12WV9xZFRaNUtfbFFzRnRJQ09YbXZWV29fd0g0T0FUcXY3ZzYyRlV2aWdPRnVfaXU?oc=5",
+     "date": "2026-10-22",
+     "source": "Condé Nast Traveler",
+     "label": "Japan",
+     "snippet": "Want to move to Japan? The rules are changing—here are your options.",
+     "lead": "Getty Save Story Save this story Save Story Save this story Tourists from around the world continue to flock to Japan ’s bustling megacities and quiet onsen towns , generating a record-setting (and sometimes unmanageable ) influx of travelers: an increase from 25.1 million in 2023 to 42.7 million in 2025, according to the country’s tourism board . In the face of this boom, Japan is setting more boundaries with visitors, including ...",
+     "image": "https://media.cntraveler.com/photos/6ad62add0c0ab725accaefa1/16:9/w_1280,c_limit/GettyImages-1500637833.jpg",
+     "why": [
+      "Affects permanent residence"
+     ],
+     "tags": [
+      "PR / Settlement",
+      "Japan"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 55,
      "title": "Campaign calls for Austrian citizenship at birth for children of long-term foreign residents",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQczY5NDAzWkZMdXFIbzVrQW9oVE0yQWdsQ082a3NaMnBIcnlYbzNJLXVmcHhqMm5nQlNQQnBlSllKd2tTT2FjR25MdEJsb3UwemQ0YmdsOWUyVTRabUQ1U2JQLTd1WS0yYkhpRjlTb2tDS3BwMWpMWlFDYXRtenNZZzExcnZTVVNEakMxbmtsYWVQenE1Z1JGLUMxeXYwWmxWczBEdkF2RE1JdnR6SzA4SUNqYlUxbWFOZThoZExtV29NamM?oc=5",
      "date": "2026-10-21",
@@ -283,8 +300,8 @@
     },
     {
      "desk": "Immigration",
-     "score": 6,
-     "priority": 50,
+     "score": 5,
+     "priority": 45,
      "title": "Australia's new immigration law raises questions for international students and workers",
      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa1l2eG91Njdub2pFVzBDOHhvSzVCM2VqSXhDWF85dVNyd0hxS1E3R2NtMGY3QzBsaF9RdGhOcWhVLThHSWdxY3NSTG9PWXNHVHVkSjM4anl1RVRWRVFubjN4cWE4a1c5VFNzbDc2OFhDMExKMHJ0UmtmcWdOa3ppaDc1Z2lpeVpWaXd1MkZlelVNSTF4RUpSSHlQZkJFR2hSSUtuRENMMURfV0hvTldNZWFwSkNqbUZfMXRGS1Y5Y3ZOajhLQ0FzREx6Vm85aDBTN2YxamV3allfb0Q1eWlYVVB30gHnAUFVX3lxTE0td2s0bE5FQU1Kd2doY3AxNzN3ZVE1aXFZQmg0YVNqMkRIamE1ODlteG9rOWNaZ0JJR0ctdUhCVkFEMGU3eUczc1B4dmNxd1pGS1N4Zmg2Zzd3NzdCaU5SdHpyZUFEeXJMa29qallqclJITXljM3RKNGtHa0pGTkJ2M2ZjMEYzTlF6WHdvNmpySHhXSndscDIyQzNmajZKdVQ0YmVhSUdSRTNfUGdBMmllT2tTTGJmMzN4d09DMG9WbTdCa2ZzNGlWVzVVSnUxbDVCTDJ5S3FuMHhOaEZKQW42aGJhOGRxcw?oc=5",
      "date": "2026-10-22",
@@ -300,74 +317,33 @@
       "Student / Graduate",
       "Australia"
      ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 42,
-     "title": "Portugal has limited immigration, and Spain may follow | World News",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb0RwdWdUejBZUnBjOU1WRjdiZHA5S2IzOHlZcjRPVEpDMEFGeVZhWmRPWlJhbW9seVJ5WnhsU1lGOUZDa2pPd2xBcHFsRkh1ZkhWeTdOZmp6UUVnY3JReFBKWFhoVUFzRFFXLU9uaXJLMGIwWVJOZGM2UXE2dnNQSFB0WGxZZmo2N1ByZnhpWVd0dmhrTzdJLXhVdmFXUHhuc1RTdXNUT0hmYmFpSDFreXlsYzJES25tdlc4dNIBvAFBVV95cUxOb0RwdWdUejBZUnBjOU1WRjdiZHA5S2IzOHlZcjRPVEpDMEFGeVZhWmRPWlJhbW9seVJ5WnhsU1lGOUZDa2pPd2xBcHFsRkh1ZkhWeTdOZmp6UUVnY3JReFBKWFhoVUFzRFFXLU9uaXJLMGIwWVJOZGM2UXE2dnNQSFB0WGxZZmo2N1ByZnhpWVd0dmhrTzdJLXhVdmFXUHhuc1RTdXNUT0hmYmFpSDFreXlsYzJES25tdlc4dA?oc=5",
-     "date": "2026-10-16",
-     "source": "Hindustan Times",
-     "label": "Spain",
-     "snippet": "The wave of immigrants in both countries looks politically unsustainable",
-     "lead": "Nestled beneath Lisbon’s former Moorish quarter, the Rua do Benformoso is a winding street of decaying buildings faced with azulejos (decorative tiles). It is lined with Indian food shops and stores selling hookah pipes and mobile phones. Piedade, a Portuguese woman who has lived here for over 60 years, dislikes what has happened to it. “There’s drugs and crime,” she says. “I stay inside at home.” The Rua do Benformoso has become the ...",
-     "image": null,
-     "why": [
-      "Quota or cap change"
-     ],
-     "tags": [
-      "Quota / Caps",
-      "Spain"
-     ]
     }
    ]
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 2,
+   "new_today": 0,
    "items": [
     {
      "desk": "Advisory",
      "score": 10,
      "priority": 83,
-     "title": "Why are FIIs selling Indian stocks in 2026? Rs 3 lakh crore outflow amid crude oil surge, rising US bond yields and weak Rupee",
-     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWkVOdDc5MmRRMk1mRmR5Z1BqTnpQTFlmRmJ5NEZHRGZkWXdLeW5PMmFxd1B3ODZKbE85N21DT0Z6d1VLdGlMYWxZWmswSTJFN2l5QXAzMWFIUV81SDRNRGRhcnA0MVJSc3ZOS1dzaFU2TVEyU0VtMlZzOWNSZUk1SEVuWTJWX2NsakRtSHo5Si1mU0tsS2NzNmVYdUg3V1g3SENGY2pNcElrVGVRelc3UU1sWDFNaFY0bzBmRmxqY3FycU9jNGRMajhyY3ZkVnM3d0NVVE00Wmt6bi04VTdOeTBmb9IB4wFBVV95cUxQWkVOdDc5MmRRMk1mRmR5Z1BqTnpQTFlmRmJ5NEZHRGZkWXdLeW5PMmFxd1B3ODZKbE85N21DT0Z6d1VLdGlMYWxZWmswSTJFN2l5QXAzMWFIUV81SDRNRGRhcnA0MVJSc3ZOS1dzaFU2TVEyU0VtMlZzOWNSZUk1SEVuWTJWX2NsakRtSHo5Si1mU0tsS2NzNmVYdUg3V1g3SENGY2pNcElrVGVRelc3UU1sWDFNaFY0bzBmRmxqY3FycU9jNGRMajhyY3ZkVnM3d0NVVE00Wmt6bi04VTdOeTBmbw?oc=5",
-     "date": "2026-10-20",
-     "source": "ET Now",
-     "label": "Debt & Bonds",
-     "snippet": "Foreign investors have pulled out nearly Rs 50,000 crore from Indian equities in October as rising crude prices, higher US bond yields and a narrowing India-US yield differential make emerging-market investments less attractive.",
-     "lead": "Foreign investors continue to reduce exposure to Indian equities as elevated crude oil prices, rising US Treasury yields and a shrinking yield premium over US bonds impact market sentiment. Stocks to BUY: Sobha से लेकर UltraTech तक, ब्रोकरेज ने इन 7 शेयरों पर जताया भरोसा; 64% तक अपसाइड की उम्मीद Festive Sale 2026: Flipkart आगे, Myntra के डेली यूजर्स 40% बढ़े; क्विक कॉमर्स प्लेटफॉर्म को कितना फायदा?",
-     "image": "https://images.etnownews.com/thumb/msid-156371270,thumbsize-130000,width-1280,height-720,resizemode-75/156371270.jpg",
+     "title": "Gold price falls Rs 2,000/10 gram; silver plunges Rs 6,000/kg as traders eye US Fed meet next week. Buy, sell or hold?",
+     "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-falls-rs-2000/10-gram-silver-plunges-rs-6000/kg-as-traders-eye-us-fed-meet-next-week-buy-sell-or-hold/articleshow/135109189.cms",
+     "date": "2026-10-22",
+     "source": "Economic Times",
+     "label": "Gold & Silver",
+     "snippet": "Gold and silver prices fell sharply on the MCX on Thursday, with gold declining Rs 2,000 per 10 grams and silver dropping Rs 5,700 per kg. Investors are tracking the US Federal Reserves upcoming policy meeting and inflation data, while analysts advise long-term investors to accumulate gradually and traders to await stability.",
+     "lead": "Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price One company, 2 words. Bond yield and CDS: Will they decide the fate of global markets?",
+     "image": "https://img.etimg.com/thumb/msid-135109315,width-1200,height-900,imgsize-88148,overlay-etmarkets/articleshow.jpg",
      "why": [
-      "Government bond yields",
+      "Precious metals",
       "Global macro driver",
       "Sharp market move",
-      "Sector or flows signal"
+      "Also covered by 1 other outlet(s)"
      ],
      "tags": [
-      "Debt & Bonds"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
-     "title": "Rougher waters for REITs amid surge in government bond yields",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hM2J2SkE3SVdnczdubkVPYjl0QjlDLVBVR1NjR1lWNFpCZnZGQ1RoNk8yYXpncnFjODhOUjNPNHBXa3pWS3k4QmRXaGI3dGIw?oc=5",
-     "date": "2026-10-21",
-     "source": "The Edge Malaysia",
-     "label": "REITs & InvITs",
-     "snippet": "MALAYSIAN real estate investment trusts (M-REITs) have long been prized for their income-generating qualities. Listed REITs that distribute at least 90% of their total income qualify for a full tax exemption at the trust level, helping make regular distributions a central part of the asset class’...",
-     "lead": "BURSA SGX Edge Weekly Make The Edge Malaysia your preferred source on Google This article first appeared in The Edge Malaysia Weekly on October 12, 2026 - October 18, 2026 MALAYSIAN real estate investment trusts (M-REITs) have long been prized for their income-generating qualities. Listed REITs that distribute at least 90% of their total income qualify for a full tax exemption at the trust level, helping make regular distributions a ...",
-     "image": "https://assets.theedgemarkets.com/260582236_xl_20261016224915_123RF.jpg",
-     "why": [
-      "REIT / InvIT news",
-      "Government bond yields",
-      "Sharp market move"
-     ],
-     "tags": [
-      "REITs & InvITs"
+      "Gold & Silver"
      ]
     },
     {
@@ -412,6 +388,26 @@
      "tags": [
       "AIF"
      ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 8,
+     "priority": 67,
+     "title": "SEBI Weighs Third-Party Project Investments for REITs, InvITs",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRG9HTGF5WFZRa2ptbXFmLTNVMXhxOEJLaDQzYU14QklDMzVpUkRpWGYxVjFjTGIyejZVb0ExYUFMX2RfVDlZblVSejIwbHU5a1RkcFNWT1B6UzFSc1JsODY5Wjllbl9NLUxabUg2ZmowbEVOVm55cUp6V0FQVmRZc240X3hZOG9aMjhfNDhLV0Y0SjFlTzBv?oc=5",
+     "date": "2026-10-22",
+     "source": "Kalinga TV",
+     "label": "REITs & InvITs",
+     "snippet": "Mumbai: India’s capital markets watchdog is considering regulatory changes that would permit investment trusts to acquire assets outside their founding",
+     "lead": "Mumbai: India’s capital markets watchdog is considering regulatory changes that would permit investment trusts to acquire assets outside their founding sponsors’ portfolios, an initiative designed to relieve persistent asset-supply bottlenecks and broaden institutional exposure across real estate and infrastructure. Speaking at the third edition of the FICCI Real Estate Investment Summit in Mumbai on Thursday, Securities and Exchange ...",
+     "image": "https://kalingatv.com/wp-content/uploads/2026/10/Subheading-67.jpeg",
+     "why": [
+      "REIT / InvIT news",
+      "Regulator: SEBI or RBI"
+     ],
+     "tags": [
+      "REITs & InvITs"
+     ]
     }
    ]
   }
@@ -419,7 +415,7 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 14,
+   "score": 13,
    "priority": 100,
    "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
    "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
@@ -443,8 +439,54 @@
    "must_read": true
   },
   {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 100,
+   "title": "Indian bonds tumble on oil surge, RBI rate hike fears",
+   "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-tumble-on-oil-surge-rbi-rate-hike-fears/articleshow/135118875.cms",
+   "date": "2026-10-22",
+   "source": "Economic Times",
+   "label": "Debt & Bonds",
+   "snippet": "Indian government bonds experienced a decline as the benchmark yield exceeded 7.45% on Thursday. Oil prices rose significantly, reaching $112.50 per barrel in Asian trading amid geopolitical tensions. The Reserve Bank of India has raised its repo rate to 5.50%, indicating a potential for further hikes. Inflation concerns are mounting, wit",
+   "lead": "India's JSW Paints is likely to raise funds through issuance of bonds maturing in four years and five years and should go ahead with the sale in the next couple of weeks, two merchant bankers with direct knowledge of the matter said on Thursday. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis ...",
+   "image": "https://img.etimg.com/thumb/msid-135118909,width-1200,height-900,imgsize-106958,overlay-etmarkets/articleshow.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 100,
+   "title": "Govt bond selloff to continue as RBI policy minutes hint at more rate hikes",
+   "url": "https://www.thehindubusinessline.com/markets/govt-bond-selloff-to-continue-as-rbi-policy-minutes-hint-at-more-rate-hikes/article71609906.ece",
+   "date": "2026-10-22",
+   "source": "BusinessLine",
+   "label": "Debt & Bonds",
+   "snippet": "Indian government bonds are likely to weaken further in early deals on Thursday, ​after minutes of the latest monetary policy meeting showed that members ‌of the rate-setting panel indicated further rate hikes may ​be needed to curb inflation.",
+   "lead": "' blCenterIconDiv.innerHTML = spanSvg blLoaderDiv.appendChild(blCenterLoadDiv) blLoaderDiv.appendChild(blCenterIconDiv) divInner.appendChild(blLoaderDiv) div.appendChild(divInner) var bodyIntravel = setInterval(() => { if(window.document.body) { clearInterval(bodyIntravel) window.document.body.insertBefore(div, window.document.body.firstChild) } }, 100) function addStyle(styles) { var css = document.createElement('style'); css.type = ...",
+   "image": "https://bl-i.thgim.com/public/incoming/2ws77d/article71609912.ece/alternates/LANDSCAPE_1200/iStock-1332829323.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 3,
+   "must_read": true
+  },
+  {
    "desk": "Policy",
-   "score": 11,
+   "score": 10,
    "priority": 100,
    "title": "Minutes of the Monetary Policy Committee Meeting, October 5 to 7, 2026",
    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63839",
@@ -461,12 +503,12 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 2,
+   "rank": 4,
    "must_read": true
   },
   {
    "desk": "Immigration",
-   "score": 12,
+   "score": 11,
    "priority": 100,
    "title": "UK national’s son cannot be denied Indian citizenship: Madurai Bench of the Madras High Court",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaFc4eFVSdWlheVQxMzExd1gzbzd2V2ttSVpKWXZaSERwNHZ4cTRfMFo4M0xyVEVXVTVOZTRkMW9oV2FvY29jdVRzNzA5NXdLSlk0MUVGM0c1TnZhWThGNWdaOUdkZVd5NDlpTUpFX2E5Y3NXcV9kaGNORGMxSjZiVE1hLTk2cnJ6MzdIUGJ3US1PVWJDSlRYOGd1TWczUXpBVlR2ZzlaeUl0SmdHdDA3Y3A5ZGJLTjJxN2E2bXFKY29NdmpyQUVUSzZldm1jRnluZTVVTjFmYnVfOHpub1BGTTZ1WmdZMUZaVlHSAfcBQVVfeXFMUFMxNWNtbE9namhHOGZ6dlJqc1ptRzBxd0VnbTBNUEFxWXlGQlF0WlFudFhkQXAteWV4QnhhUkFfZHNJUjg4VmJLdlcxX21iMm1mR2E4TFJpcFZLbzZpa2JUSy1LRGlIR0t0Q0t1Z2pQTUtsejJEWEpnaWE3cnVvN3c0SmtVZWJDbnJZUzhiRXhIbHlrQUt0U2stRmttOEw4YTF0WUtYcXVBQnA0YTREUE50Y3pWZ3Nhb1FMWk5QMXdVSGo3YlhGSW1GN1UzUFpIRk5VLWUxZi0yZjBFYXo0Z09KcmNwZkZHVVlKaXlGVkVCZEoyQzk1Yw?oc=5",
@@ -485,59 +527,36 @@
     "Citizenship",
     "United Kingdom"
    ],
-   "rank": 3,
-   "must_read": true
-  },
-  {
-   "desk": "Advisory",
-   "score": 12,
-   "priority": 100,
-   "title": "Minutes of the Monetary Policy Committee Meeting, October 5 to 7, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63839",
-   "date": "2026-10-21",
-   "source": "RBI",
-   "label": "Regulatory",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The sixty third meeting of the Monetary Policy Committee (MPC), constituted under Section 45ZB of the Reserve Bank of India Act, 1934, was held during October 5, 2026. 2. The meeting was chaired by Shri Sanjay Malhotra, Governor and was attended by all the members – Dr. Nagesh Kumar, Director and Chief Executive, Institute for Studies in Industrial Development, New Delhi; Shri Saugata Bhattacharya, Economist, Mumbai; Professor Ram ...",
-   "image": null,
-   "why": [
-    "Interest-rate decision",
-    "Official notice"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 4,
-   "must_read": true
-  },
-  {
-   "desk": "Advisory",
-   "score": 12,
-   "priority": 100,
-   "title": "HSBC Sees RBI Repo Rate at 6% by December as Bond Yields Surge",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmw2enVib0FBSGxxa2gtOTZyakJNMzJpcXh3cXlPQmt4RnVsQVBHNF9DaEV5Y0ZfMDNadzV0RzlYaWpsSUhsZ2tzU1BmZVg4cFJYQTlTeTcxSnV6dHNndWg4T3ZHRXdLVkpfbjlQRW1UUGY2UDZzMDJDV1dLbjFvX0lIREc?oc=5",
-   "date": "2026-10-15",
-   "source": "NiftyTrader",
-   "label": "Debt & Bonds",
-   "snippet": "HSBC sees the RBI repo rate at 6% by December as bond yields surge. Review inflation risks, rate-hike expectations and home loan EMI impact.",
-   "lead": "HSBC expects the repo rate to reach 6% by December as September inflation rises to 5.54% and short-term Treasury-bill yields hit 18-month highs. Here are the three signals that could determine whether the forecast holds. The Reserve Bank of India’s next rate decision is facing a tougher test: HSBC expects the repo rate to reach 6% by December, while short-term government borrowing costs have already climbed well above the current ...",
-   "image": "https://trending.niftytrader.in/wp-content/uploads/2026/10/HSBC-Sees-RBI-Repo-Rate-at-6-by-December-as-Bond-Yields-Surge.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Government bond yields",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Debt & Bonds"
-   ],
    "rank": 5,
    "must_read": true
   },
   {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 100,
+   "title": "India–New Zealand FTA to Come into Force on 20th October 2026 on Vijay Dashmi, Opening New Opportunities for Indian Exporters",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2325235",
+   "date": "2026-10-19",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "Union Minister of Commerce and Industry Shri Piyush Goyal and New Zealand’s Minister for Trade and I",
+   "lead": "Ministry of Commerce & Industry India–New Zealand FTA to Come into Force on 20th October 2026 on Vijay Dashmi, Opening New Opportunities for Indian Exporters 100% Duty-Free Access to New Zealand Market to Create Opportunities for Indian MSMEs, Artisans, Farmers and Women Entrepreneurs: lUnion Minister of Commerce and Industry Shri Piyush Goyal India Flags Off First-Ever JCB Machine Export to New Zealand New Zealand Commits to ...",
+   "image": null,
+   "why": [
+    "Trade agreement",
+    "New law or act",
+    "Commerce"
+   ],
+   "tags": [
+    "Tax, Duties & Trade"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
    "desk": "Startups",
-   "score": 13,
-   "priority": 93,
+   "score": 12,
+   "priority": 92,
    "title": "[Update] Jio Platforms IPO Ends Day 2 With 5.57X Subscription, QIBs Lead Demand",
    "url": "https://inc42.com/buzz/jio-platforms-ipo-subscribed-3-65x-on-day-2-so-far-retail-portion-fully-booked/",
    "date": "2026-10-22",
@@ -553,13 +572,13 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 13,
-   "priority": 93,
+   "score": 12,
+   "priority": 92,
    "title": "Eternal clocks Rs 125 crore profit in Q2FY27, revenue zooms 78% to Rs 24,138 crore",
    "url": "https://www.medianama.com/2026/10/223-eternal-125-crore-profit-q2fy27/",
    "date": "2026-10-22",
@@ -577,13 +596,13 @@
     "Financials",
     "Commerce & D2C"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 13,
-   "priority": 93,
+   "score": 12,
+   "priority": 92,
    "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
    "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
    "date": "2026-10-22",
@@ -601,21 +620,21 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
    "desk": "Advisory",
    "score": 11,
    "priority": 92,
-   "title": "Extent of rate hike cycle to depend on growth-inflation outlook: RBI Governor",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPb29KZ3dHYVR1b2s2WkhnRmNTRWVwZEx6b1NpQU9BVjQ5QjRicDJKUEZXMTlXMXo3Ql9NcTRJVmJjeGczS2xQSUw0VlQtMWMxaVlMU2lpV1Fwb0RjNGc0cG41T0ZwMVI3dHBoVXJtNVNRVVF4NWlxVTkwSWZ2dUNPRmpVQXlZUzBuVFRhaEVFMlFUZnRuU3hkUFR2T0ZwcEFtQTk5Z3BUSk9Zazg0Q0RBZ1hFSVJzQmI3QkJRa2Ixb3ZMeXZrVG03SzNOazRRbFAxdzJ3a2VUTmw0X25IVHNvZnlEWnHSAeoBQVVfeXFMTkFGcmFRUW13UmU5TUlEZjZwQlFhZmNZQ3NuUmtSa1FNVGNuQ0xEcWNBMm11R2NPWkxMN1pzNDdRY0FlMWNMRlhqVURzaVZsUHVDaDFSUFUtSllialhINFlzT09oV29QdmJBaW9XUEZnSHplWGpHU0g3SEJzR0poZzk1NDh4d2o2dWlFMHE4cVV6SDAzRG9TZ2lJM1kxWnRBRVZMNE1tS1g5c0t2ekNSMklBY3Q1d0V2UFo5bUt1MW5kMldjclA0TzA2ejBORXJDQXh3ZHpZQUh4THBpUmM5bzJ6ZUo2bFZLNDF3?oc=5",
-   "date": "2026-10-21",
-   "source": "The Economic Times",
+   "title": "RBI MPC Minutes Signal More Repo Rate Hikes, Economists Expect 50 Bps Increase In December Amid Rising",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUGVFdHdkRUhtbnlxcEJjbmd6UG1ja0M5T0FScU9kdGNfY2M1X1Y1em5Jb2xETS1PckJDVnJ4MWhSWXh3MFRrVzdGZFVwREExZHZDZkp2U3AtU3ZTRC05YnhNdDRxaWg0WEhobUtCZGN0Vld4NWR6VkVIOVlQY3lnV3Nna0Q3c3BwVnBxYTBqREI0blFLREZUMUVfdTlVX3NiOHRyVzV3STJDclNiVnFqY2hsaWRKamZaREFVdHJqQnYyUTB0Ymg2a3ZReUpLeHNmTGdGcnhoN0FrSFVDLThiUjlnVlAtZWNydjVFekZENNIB9AFBVV95cUxPT3luRkFjX2d2WVR6WDFGNURGNDhkWlpuektoakhkT3pGU1FDT3B2OHRUb2NDQXRRMnlCaWJPczcyWjlZWDRvM2dBY3pWMWg2V1RVOUVtcS1vX0JscVJza1U1bWplclBDNmd2MmNFT3VYa0J0NUktLU9YRVRUUWZGNDljWFRLQ0xTT0JyelpSazNSUkNVemNTcDVjdlBfblVFM1MwMGRBVkM3NlV4OG5jNlpXTV8wczBzLWE2QWRQZXFfRVRpNEx3bWVZZXE5WWRPM1VjejVqOHBNTExjY2NmNDdNcllaR1kxdnF6NFMxSEw3VlFI?oc=5",
+   "date": "2026-10-22",
+   "source": "Free Press Journal",
    "label": "Regulatory",
-   "snippet": "Reserve Bank of India (RBI) Governor Sanjay Malhotra said the duration and extent of the rate hike cycle will be contingent on the actual growth-inflation developments and outlook. The governor and other five Monetary Policy Committee (MPC) members voted to raise the repo rate by 25 bps to 5.5 per cent. The rate was hiked after a gap of n",
-   "lead": "One company, 2 words. Bond yield and CDS: Will they decide the fate of global markets? Business of Odd Things: Inside an industry that farms fish that nobody is meant to eat US mid-term elections – Part 2: What does it mean for Trump to lose control of Congress?",
-   "image": "https://img.etimg.com/thumb/msid-135092478,width-1200,height-900,imgsize-74816,overlay-economictimes/articleshow.jpg",
+   "snippet": "RBI MPC minutes signal further monetary tightening as economists expect a 50 bps rate hike in December. Rising inflation, rupee movements and crude oil prices remain key concerns.",
+   "lead": "Mumbai: Economists expect the Reserve Bank of India (RBI) to continue raising interest rates in December after the October Monetary Policy Committee (MPC) minutes revealed growing concerns over inflation and a shift towards tighter monetary policy. The RBI had increased the repo rate by 25 basis points during its October meeting and changed its policy stance to 'calibrated tightening', signalling caution over emerging inflationary ...",
+   "image": "https://media.assettype.com/freepressjournal/2025-12-01/k9f1rmix/RBI-RBI-1.jpg",
    "why": [
     "Regulator: SEBI or RBI",
     "Interest-rate decision",
@@ -624,32 +643,30 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
-   "desk": "Immigration",
+   "desk": "Advisory",
    "score": 11,
    "priority": 92,
-   "title": "New work visas announced under India-NZ FTA: The migration “tsunami” that wasn’t",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzRYQlZRSFpYekVaUWFYdF81UzRMTlhsbHJVOHI3VUtoaHBUR2lMLWVTNktsUkwxbHVaRWVhclI2TGZDZWlFem42UGV0WXdsaWwtTU12OVJhT2hBcnd0SW9NYU1OcktJVVJ5UDR6WXJVYWotaEVSS1pKbzhDWEJZeEZYT2syVWM4Umc4RUpVUFltUHFfeGVUWGlFNjd5MEFiNGozTW1pcFl6UEFRU1dV?oc=5",
-   "date": "2026-10-20",
-   "source": "https://awaaz.co.nz/",
-   "label": "New Zealand",
-   "snippet": "The gap between the political campaign and the actual policy demands an explanation.",
-   "lead": "s.setAttribute('style', 'filter: brightness(0) invert(1)'));\" onmouseout=\"this.style.backgroundColor='white'; this.style.color='#333'; this.querySelectorAll('svg').forEach(s => s.removeAttribute('style'));\" > FACEBOOK s.setAttribute('style', 'filter: brightness(0) invert(1)'));\" onmouseout=\"this.style.backgroundColor='white'; this.style.color='#333'; this.querySelectorAll('svg').forEach(s => s.removeAttribute('style'));\" > TWITTER ...",
-   "image": "https://prod-awaaz-mediatech-dam-assets.s3.ap-southeast-2.amazonaws.com/1522a358-80cb-4c0c-9a4d-76a29b0d3a5c-social_preview_5766455b-e56f-4172-a16b-46352d3f9cbf_1792465758912.jpg",
+   "title": "RBI May Hike Repo Rate By Another 50 Bps By February 2027 Amid Inflation Risks: Emkay",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQaFRyRFJqOFJRT0pLUTNWYVdYNmxJYUhLWWxUeDc3THlpQ3VDT2M5SlVKNkFOd19IQ0lJY2liNUJPZENUWENyRzJXWjVuVzBkalhrVDZPejhEbU1kcDNFbWU3bFpjOHB2Qzc3WXR5MlN5QWQweWxMem9FNXRfbkVadVdLSTk2ZkhPSnZ1Wm1ybXN5QkNKNGdKM19vbHdFbHh1cFpyMlJfSDFZdHpCeTJPSXFKWUhSSjJRMjNxVHBtd1FjblQtS0owenkxOHJ5cTdaQWphWUJzNTJyRWNwcGpETWtXeWtZcXU2a056dtIB8gFBVV95cUxNV0VydEJMdUtRWWc1aHFOLTIzSUE5UnU5eXV4SDZuMFJtcnQzVW4wS3BRZk5CclFnMk1YRkRXNHcwWk1XZlNMbE1VVGlJUUFPaWYta2NwWE9GQVRUd1RBaXFua2hCeUlrWW9FbFVzZ21vdzNNTzlaY0kyY1puWk1fYkNJeE5mTXFLMUp6MmZlaHoySmFkeWVZcDdZNUN5VktBTGIxbTFGVlFtMnNLQUs4b0llSDZjYk01Wm9Ia0Q1dzFfNVdpQ05zdDR5ZmtVNzhUVWI3eGtrTFdYMmczSXIxVjcybk9qUnNOUkJ2ZmhvdWpaQQ?oc=5",
+   "date": "2026-10-22",
+   "source": "Times Now",
+   "label": "Regulatory",
+   "snippet": "RBI May Hike Repo Rate By Another 50 Bps By February 2027 Amid Inflation Risks: Emkay, Economy, Times Now",
+   "lead": "Emkay Global Financial Services expects the Reserve Bank of India to raise interest rates by another 50 basis points by February 2027, citing rising inflationary pressures and tighter global financial conditions. In its analysis of the minutes of the RBI's October Monetary Policy Committee meeting, Emkay forecasts a 25 basis point rate hike each in December 2026 and February 2027. This would take the total rate hike in the current ...",
+   "image": "https://images.timesnownews.com/thumb/msid-156382860,thumbsize-2210975,width-1280,height-720,resizemode-75/156382860.jpg",
    "why": [
-    "Affects work visas",
-    "Announces a change",
-    "Major story (14 headlines that day)",
-    "Mentions India or Indians"
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Also covered by 1 other outlet(s)"
    ],
    "tags": [
-    "Work visa",
-    "New Zealand"
+    "Regulatory"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -673,149 +690,38 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 91,
-   "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on October 23, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63848",
-   "date": "2026-10-22",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Friday, October 23, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
-   "image": null,
-   "why": [
-    "Rates and liquidity",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
    "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 91,
-   "title": "India and New Zealand sign Memorandum of Cooperation (MoC) on Electronic Origin Data Exchange to Facilitate Bilateral Trade Under the India-New Zealand Free Trade Agreement (FTA)",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326043",
-   "date": "2026-10-21",
-   "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "The Central Board of Indirect Taxes and Customs (CBIC), India, and the New Zealand Customs Service (",
-   "lead": "Ministry of Finance India and New Zealand sign Memorandum of Cooperation (MoC) on Electronic Origin Data Exchange to Facilitate Bilateral Trade Under the India-New Zealand Free Trade Agreement (FTA) India-New Zealand MoC will deepen Customs cooperation and support effective implementation of trade facilitation measures Posted On: 21 OCT 2026 5:02PM by PIB Delhi The Central Board of Indirect Taxes and Customs (CBIC), India, and the New ...",
-   "image": null,
-   "why": [
-    "Trade agreement",
-    "Ministry of Finance"
-   ],
-   "tags": [
-    "Tax, Duties & Trade"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 91,
-   "title": "India–New Zealand FTA to Come into Force on 20th October 2026 on Vijay Dashmi, Opening New Opportunities for Indian Exporters",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2325235",
-   "date": "2026-10-19",
-   "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "Union Minister of Commerce and Industry Shri Piyush Goyal and New Zealand’s Minister for Trade and I",
-   "lead": "Ministry of Commerce & Industry India–New Zealand FTA to Come into Force on 20th October 2026 on Vijay Dashmi, Opening New Opportunities for Indian Exporters 100% Duty-Free Access to New Zealand Market to Create Opportunities for Indian MSMEs, Artisans, Farmers and Women Entrepreneurs: lUnion Minister of Commerce and Industry Shri Piyush Goyal India Flags Off First-Ever JCB Machine Export to New Zealand New Zealand Commits to ...",
-   "image": null,
-   "why": [
-    "Trade agreement",
-    "New law or act",
-    "Commerce"
-   ],
-   "tags": [
-    "Tax, Duties & Trade"
-   ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 91,
-   "title": "Securities and Exchange Board of India (Real Estate Investment Trusts) Regulations, 2014 [Last amended on October 15, 2026]",
-   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-real-estate-investment-trusts-regulations-2014-last-amended-on-october-15-2026-_105376.html",
-   "date": "2026-10-15",
-   "source": "SEBI",
-   "label": "Markets & Regulation",
-   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Regulator: SEBI"
-   ],
-   "tags": [
-    "Markets & Regulation"
-   ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 91,
-   "title": "Securities and Exchange Board of India (Alternative Investment Funds) (Third Amendment) Regulations, 2026",
-   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-alternative-investment-funds-third-amendment-regulations-2026_105331.html",
-   "date": "2026-10-15",
-   "source": "SEBI",
-   "label": "Markets & Regulation",
-   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Regulator: SEBI"
-   ],
-   "tags": [
-    "Markets & Regulation"
-   ],
-   "rank": 16,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "Silver recovers as US Dollar weakens, but Fed rate hike risks limit the rebound",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWFhMeVYxU01YNVZON2t5N2k5U1ZhdTJxdWRQSGZ0MmlNQzdoekhDcUlXUVhHYTV6aGY4bVZWd1ZPR0x0MnVDWnNVclhXMEVvdjdXWGxiWmt5ajVvb0lmbjJnQ08xdTd6dF9ZLXdRT0VjRVlKbXpNSVlFSkVYSUFkem11VXcyMGpFSmVEaVdyeXk5MFpPUkVTeEVRV1J3TUZPd0NKbmYxRzItSlJwX29NYjNpNEFYazFVRFhkME52b0pJaEpRVUY2ME5qa2lWNFpJLXc?oc=5",
-   "date": "2026-10-21",
-   "source": "www.tmgm.com",
-   "label": "Gold & Silver",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver"
-   ],
-   "tags": [
-    "Gold & Silver"
-   ],
-   "rank": 17,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 10,
-   "priority": 83,
+   "priority": 91,
+   "title": "New work visas announced under India-NZ FTA: The migration “tsunami” that wasn’t",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzRYQlZRSFpYekVaUWFYdF81UzRMTlhsbHJVOHI3VUtoaHBUR2lMLWVTNktsUkwxbHVaRWVhclI2TGZDZWlFem42UGV0WXdsaWwtTU12OVJhT2hBcnd0SW9NYU1OcktJVVJ5UDR6WXJVYWotaEVSS1pKbzhDWEJZeEZYT2syVWM4Umc4RUpVUFltUHFfeGVUWGlFNjd5MEFiNGozTW1pcFl6UEFRU1dV?oc=5",
+   "date": "2026-10-20",
+   "source": "https://awaaz.co.nz/",
+   "label": "New Zealand",
+   "snippet": "The gap between the political campaign and the actual policy demands an explanation.",
+   "lead": "s.setAttribute('style', 'filter: brightness(0) invert(1)'));\" onmouseout=\"this.style.backgroundColor='white'; this.style.color='#333'; this.querySelectorAll('svg').forEach(s => s.removeAttribute('style'));\" > FACEBOOK s.setAttribute('style', 'filter: brightness(0) invert(1)'));\" onmouseout=\"this.style.backgroundColor='white'; this.style.color='#333'; this.querySelectorAll('svg').forEach(s => s.removeAttribute('style'));\" > TWITTER ...",
+   "image": "https://prod-awaaz-mediatech-dam-assets.s3.ap-southeast-2.amazonaws.com/1522a358-80cb-4c0c-9a4d-76a29b0d3a5c-social_preview_5766455b-e56f-4172-a16b-46352d3f9cbf_1792465758912.jpg",
+   "why": [
+    "Affects work visas",
+    "Announces a change",
+    "Major story (14 headlines that day)",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Work visa",
+    "New Zealand"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 91,
    "title": "Ottawa adding express entry points for permanent resident applicants in 'high-wage' jobs",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yMFhBZ3U4ZEQzbzJrVlVpbWtoU2Q3RHBLdk5UenJ0YXVaNkowcDJvRzltei01Z1JCUDhvZVpCMkNqT0ZoZjB5T1hBM0tzOEZPNlZYZXQ3MUNTTVJ1TDFwcnFVbllkVG0wLUdhUlBaX3A?oc=5",
    "date": "2026-10-17",
@@ -833,13 +739,80 @@
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 18,
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 9,
+   "priority": 90,
+   "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on October 23, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63848",
+   "date": "2026-10-22",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Friday, October 23, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "image": null,
+   "why": [
+    "Rates and liquidity",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 9,
+   "priority": 90,
+   "title": "India and New Zealand sign Memorandum of Cooperation (MoC) on Electronic Origin Data Exchange to Facilitate Bilateral Trade Under the India-New Zealand Free Trade Agreement (FTA)",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326043",
+   "date": "2026-10-21",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "The Central Board of Indirect Taxes and Customs (CBIC), India, and the New Zealand Customs Service (",
+   "lead": "Ministry of Finance India and New Zealand sign Memorandum of Cooperation (MoC) on Electronic Origin Data Exchange to Facilitate Bilateral Trade Under the India-New Zealand Free Trade Agreement (FTA) India-New Zealand MoC will deepen Customs cooperation and support effective implementation of trade facilitation measures Posted On: 21 OCT 2026 5:02PM by PIB Delhi The Central Board of Indirect Taxes and Customs (CBIC), India, and the New ...",
+   "image": null,
+   "why": [
+    "Trade agreement",
+    "Ministry of Finance"
+   ],
+   "tags": [
+    "Tax, Duties & Trade"
+   ],
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 8,
+   "priority": 80,
+   "title": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13741&Mode=0",
+   "date": "2026-10-19",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Reserve Bank of India (Small Finance Banks - Miscellaneous) Amendment Directions, 2026 Please refer to Section C on ‘Limits for Non-Option Derivative Contracts’ of Chapter IV of the Reserve Bank of India (Small Finance Banks - Miscellaneous) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by section 35A of the Banking Regulation Act, 1949, and all other provisions / laws enabling the Reserve Bank of India ...",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 17,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 11,
-   "priority": 79,
+   "score": 10,
+   "priority": 77,
    "title": "Zetwerk IPO: Kae Capital, Kalysta Bag 38.3X Returns, Lightspeed Pockets ₹440 Cr",
    "url": "https://inc42.com/buzz/zetwerk-ipo-kae-capital-kalysta-bag-38-3x-returns-lightspeed-pockets-%e2%82%b9440-cr/",
    "date": "2026-10-22",
@@ -855,13 +828,13 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 19,
+   "rank": 18,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 11,
-   "priority": 79,
+   "score": 10,
+   "priority": 77,
    "title": "Peak XV-Backed AI Startup Blacksmith Nets $66 Mn At A Unicorn Valuation",
    "url": "https://inc42.com/buzz/peak-xv-backed-ai-startup-blacksmith-nets-66-mn-at-a-unicorn-valuation/",
    "date": "2026-10-21",
@@ -879,13 +852,13 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 20,
+   "rank": 19,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 8,
-   "priority": 73,
+   "score": 7,
+   "priority": 70,
    "title": "Factual Report on PM-DAKSH",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326437",
    "date": "2026-10-22",
@@ -900,13 +873,57 @@
    "tags": [
     "Banking & Rates"
    ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 7,
+   "priority": 70,
+   "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on October 23, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63844",
+   "date": "2026-10-22",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on October 23, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
+   "image": null,
+   "why": [
+    "Regulator: RBI",
+    "Large outlay (Rs 10,000 Cr or more)"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
    "rank": 21,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 8,
-   "priority": 67,
+   "score": 7,
+   "priority": 64,
+   "title": "Ahmedabad visa consultant, 18 clients lose ₹12.1L to Finland work permit fraud",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbkRsRGNWOG9qZlZ1dndYRjZVLTU1alFhdTlKaUFwREh3T3ZkemlJcGxOeHhXMUZqTVgwZkpPSkVrNHVlbGVuXzNBNW9CS1E3Wl96VXVFUF95QmtxbGtkYUVfREtmV3FTR3RFWTFQdWxESXFORjR2M1FwMnN5VDRHQjNzVlY2azhVNWdfYzItWGdjQUxWdzlUc2gwTTB5ZmdqTVNFNVhPNHpqV3hoUi1YUWFsNllZOTJ1azR4ZFNjc21aaFRDWld5eExobEZablNGT2pNNWtaaVdSOU9zNzR1emtEemJBWERY0gHuAUFVX3lxTE5SYzBvak8wWGNmejZ1a2l4TDNNM0dZa2pjTjVJVGNsWVN2c1lRSkxTQ2ZkdHVkVUFyRWprVzgyUjBHYjRELVhZTU5faG9jRkU5RWZBSllUTTRiQTZJbW1CNjNMZzhmVG85QW1sUXlaak9uN3FDN19kRUJsVGxoNlA4SlNGWlNnT3V0elAzMEVBbTZtbnVaOVVwNU5EVDYyRElkX0ZUMmFvVUJ2T3pacmdsbUxUWTBPcF9LdHRXVmJJNnpkYmJPaHZ1WWF4OFVUZEFnSUF2dUNpbWlJQlcxUE9RYTY0R1JidllrWGFLUnc?oc=5",
+   "date": "2026-10-23",
+   "source": "The Times of India",
+   "label": "Finland",
+   "snippet": "A 50-year-old visa consultant from Vejalpur filed a complaint on Thursday, alleging that a man cheated him and 18 clients of Rs 12.1 lakh by promising Finnish work permits and jobs paying up to 3,200 euros per month.",
+   "lead": "Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
+   "image": "https://static.toiimg.com/thumb/msid-135126073,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "why": [
+    "Affects work visas"
+   ],
+   "tags": [
+    "Work visa",
+    "Finland"
+   ],
+   "rank": 22,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 64,
    "title": "Indians, Brits and Syrians top Norway's permanent residency list",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmdwZjNIMVpVT2VYWUNvbktncDBwcFpYWTZPV3NJQ01BTmU2RkMzSHd2NU1pMFpCY1p5WmhVbW10OUpxRE9IeGpSaFM5ck1wNmliZnBIZndHMXZKZWFWcjJkQXJZb29QMTI2R0thSlJGczRFS0l1R2g5b2Y4M3VVNXhxOEpUM3ZDTlJOeWJ4TVdpblJuYzhqeW92Yw?oc=5",
    "date": "2026-10-20",
@@ -922,28 +939,6 @@
    "tags": [
     "PR / Settlement",
     "Norway"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 58,
-   "title": "Japan is Making it Harder for Non-Citizens to Become Permanent Residents",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOUNFRVhsckI3LUdlQV80b21XeWRZbDJodDRKS3EwdU0yMnFHbzgtalNlVU1acVZwLTA1V21rOWRUWkJVbGdvcm9qRXc1RjR6YnZHQXd2RWU2bmFPbjVmS0NqN2dLZFh4M0ZjR2FDZnNkWHQ1UlFneC12WV9xZFRaNUtfbFFzRnRJQ09YbXZWV29fd0g0T0FUcXY3ZzYyRlV2aWdPRnVfaXU?oc=5",
-   "date": "2026-10-22",
-   "source": "Condé Nast Traveler",
-   "label": "Japan",
-   "snippet": "Want to move to Japan? The rules are changing—here are your options.",
-   "lead": "Getty Save Story Save this story Save Story Save this story Tourists from around the world continue to flock to Japan ’s bustling megacities and quiet onsen towns , generating a record-setting (and sometimes unmanageable ) influx of travelers: an increase from 25.1 million in 2023 to 42.7 million in 2025, according to the country’s tourism board . In the face of this boom, Japan is setting more boundaries with visitors, including ...",
-   "image": "https://media.cntraveler.com/photos/6ad62add0c0ab725accaefa1/16:9/w_1280,c_limit/GettyImages-1500637833.jpg",
-   "why": [
-    "Affects permanent residence"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Japan"
    ],
    "rank": 23,
    "must_read": false
