@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-23",
- "built": "2026-10-23 01:49 IST",
+ "built": "2026-10-23 07:32 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,15 +12,15 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22811.0,
-   "change_pct": -0.34,
+   "value": 22688.0,
+   "change_pct": -0.54,
    "asof": "22 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73710.0,
-   "change_pct": -0.19,
+   "value": 73249.0,
+   "change_pct": -0.62,
    "asof": "22 Oct 15:32 IST"
   },
   {
@@ -28,21 +28,21 @@
    "dp": 2,
    "value": 94.81,
    "change_pct": 0.53,
-   "asof": "23 Oct 00:43 IST"
+   "asof": "23 Oct 07:23 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 113.0,
-   "change_pct": 3.84,
-   "asof": "23 Oct 01:39 IST"
+   "value": 113.95,
+   "change_pct": 4.71,
+   "asof": "23 Oct 07:21 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4042.0,
-   "change_pct": -2.61,
-   "asof": "23 Oct 01:39 IST"
+   "value": 4018.0,
+   "change_pct": -3.17,
+   "asof": "23 Oct 07:21 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -162,13 +162,55 @@
    ]
   },
   "Startups": {
-   "total": 868,
-   "new_today": 2,
+   "total": 870,
+   "new_today": 4,
    "items": [
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 77,
+     "priority": 71,
+     "title": "Zetwerk IPO: Kae Capital, Kalysta Bag 38.3X Returns, Lightspeed Pockets ₹440 Cr",
+     "url": "https://inc42.com/buzz/zetwerk-ipo-kae-capital-kalysta-bag-38-3x-returns-lightspeed-pockets-%e2%82%b9440-cr/",
+     "date": "2026-10-22",
+     "source": "Inc42",
+     "label": "India · Other",
+     "snippet": "Kae Capital Fund II and Kalysta Capital Fund II bagged 38.3X returns on shares sold through Zetwerk’s IPO.",
+     "lead": "Kae Capital Fund II and Kalysta Capital Fund II bagged 38.3X returns on shares sold through Zetwerk’s IPO. The offer provided partial exits to investors, with Lightspeed pocketing around ₹440 Cr and Peak XV realising ₹359.3 Cr across their funds. Cofounders Amrit Acharya and Srinath Ramakkrushnan collectively pocketed around ₹423 Cr, while retaining sizeable holdings in the manufacturing company.",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Zetwerks-IPO-2-social_.jpg",
+     "why": [
+      "IPO & Listing",
+      "Sizeable deal (about $46M)"
+     ],
+     "tags": [
+      "IPO & Listing"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 71,
+     "title": "Peak XV-Backed AI Startup Blacksmith Nets $66 Mn At A Unicorn Valuation",
+     "url": "https://inc42.com/buzz/peak-xv-backed-ai-startup-blacksmith-nets-66-mn-at-a-unicorn-valuation/",
+     "date": "2026-10-21",
+     "source": "Inc42",
+     "label": "India · AI & Deeptech",
+     "snippet": "Blacksmith’s $66 Mn Series C funding round was led by Sequoia Capital with Premji Invest and Peak XV Partners also participating.",
+     "lead": "Blacksmith’s $66 Mn Series C funding round was led by Sequoia Capital with Premji Invest, Peak XV Partners, Google Ventures, and Y Combinator also participating The startup, which currently manages nearly 10 MW of compute footprint, plans to expand its capacity by 5X in 2027 to meet the growing demand for its AI code testing cloud platform Blacksmith’s valuation has doubled to $1 Bn in just over two months. It was valued at $550 Mn ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/blacksmith-soc.png",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $66M)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 71,
      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
      "date": "2026-10-21",
@@ -191,7 +233,7 @@
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 77,
+     "priority": 71,
      "title": "Apple India’s FY26 Profit Jumps 66% YoY To ₹5,311 Cr, Revenue Up 31%",
      "url": "https://inc42.com/buzz/apple-indias-fy26-profit-jumps-66-yoy-to-%e2%82%b95311-cr-revenue-up-31/",
      "date": "2026-10-20",
@@ -208,55 +250,12 @@
      "tags": [
       "Financials"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Jio Platforms' anchor book draws Rs 2.5 lakh crore in bids ahead of IPO",
-     "url": "https://yourstory.com/2026/10/jio-platforms-anchor-book-draws-rs-25-lakh-crore-in-bids-ahead-of-ipo",
-     "date": "2026-10-20",
-     "source": "YourStory",
-     "label": "India · Media, Gaming & Creators",
-     "snippet": "The IPO of Jio Platforms opens on October 21\n\nJio Platforms allotted 7.24 crore shares at a price of Rs 1,119 per share to the anchor investors and LIC received the largest allocation\n\nJio Platforms has allotted shares worth Rs 8,109.85 crore to 212 anchor investors at the top end of its price ban",
-     "lead": "Jio Platforms' anchor book draws Rs 2.5 lakh crore in bids ahead of IPO Jio Platforms allotted 7.24 crore shares at a price of Rs 1,119 per share to the anchor investors and LIC received the largest allocation Press Trust of India 11229 Stories Tuesday October 20, 2026 , 2 min Read Jio Platforms has allotted shares worth Rs 8,109.85 crore to 212 anchor investors at the top end of its price band, after institutional demand for the ...",
-     "image": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Imagef4om-1592391491397.jpg",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $26,316M: round or valuation)"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "Media, Gaming & Creators"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-     "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-     "date": "2026-10-20",
-     "source": "TechCrunch Venture",
-     "label": "Global · AI & Deeptech",
-     "snippet": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-     "lead": "Tenstorrent, a chip startup focused on inference, has raised $1.5 billion at a $6.2 billion valuation. The round comes five months after the 10-year-old Nvidia challenger reportedly received acquisition interest from Intel and Qualcomm at valuations of as much as $5 billion. The fresh round, which more than doubled Tenstorrent’s valuation from the $2.6 billion it fetched in late 2024, was led by Trace Capital, a new firm launched by ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=970",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $6,200M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 1263,
-   "new_today": 2,
+   "total": 1266,
+   "new_today": 3,
    "items": [
     {
      "desk": "Immigration",
@@ -415,25 +414,23 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 13,
+   "score": 14,
    "priority": 100,
-   "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
-   "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
-   "date": "2026-10-22",
+   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+   "date": "2026-10-23",
    "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
-   "lead": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion. The company helps automate and assist with workflow tasks for legal professionals, as the industry moves beyond AI assistants to AI services that help them get work done. The news comes just a month after Harvey, Legora’s biggest competitor, announced a $550 million raise at a $15.5 billion valuation; back in March, ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2296593553.jpg?w=1024",
+   "label": "Global · Other",
+   "snippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+   "lead": "OpenAI is reportedly close to securing another mega round of private funding, rather than plowing ahead with an IPO. The AI lab is working on raising up to $30 billion at a $1.25 trillion pre-money valuation in a round led by Coatue and investors in UAE, sources told CNBC . This follows a similar report by Bloomberg a month ago which said the AI lab was working on raising $30 billion at a $1.4 trillion valuation. Terms are still being ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
    "why": [
-    "Funding",
-    "Very large figure in headline (about $8,800M: round or valuation)",
-    "Valuation, listing or profitability signal",
-    "Also covered by 1 other outlet(s)"
+    "IPO & Listing",
+    "Very large figure in headline (about $30,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Funding",
-    "AI & Deeptech"
+    "IPO & Listing"
    ],
    "rank": 1,
    "must_read": true
@@ -555,72 +552,27 @@
   },
   {
    "desk": "Startups",
-   "score": 12,
-   "priority": 92,
-   "title": "[Update] Jio Platforms IPO Ends Day 2 With 5.57X Subscription, QIBs Lead Demand",
-   "url": "https://inc42.com/buzz/jio-platforms-ipo-subscribed-3-65x-on-day-2-so-far-retail-portion-fully-booked/",
-   "date": "2026-10-22",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Jio Platforms has set a price band of ₹1,065-₹1,119 per share for the IPO, which closes tomorrow",
-   "lead": "Jio Platforms’ ₹30,213 Cr IPO ended the second day of bidding with 5.57X subscription Institutional investors drove demand, subscribing the QIB portion 13.29X Jio Platforms has set a price band of ₹1,065-₹1,119 per share for the IPO, which closes tomorrow. The ₹30,213 Cr (about $3.2 Bn) offering is set to surpass Hyundai Motor India’s ₹27,870 Cr issue as India’s largest IPO.",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2020/06/Untitled-design-38.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $3,180M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 92,
-   "title": "Eternal clocks Rs 125 crore profit in Q2FY27, revenue zooms 78% to Rs 24,138 crore",
-   "url": "https://www.medianama.com/2026/10/223-eternal-125-crore-profit-q2fy27/",
-   "date": "2026-10-22",
-   "source": "MediaNama",
-   "label": "India · Commerce & D2C",
-   "snippet": "Food delivery firm Eternal posted a net profit of Rs 125 cr in Q2FY27 up 92% from Rs 65 cr in the same period last year as revenue grew 78%",
-   "lead": "Food delivery and quick commerce firm Eternal posted a consolidated net profit of Rs 125 crore in the second quarter ended September 2026 (Q2 FY27), up 92% from Rs 65 crore in the same quarter last year. Revenue from operations zoomed 78% to Rs 24,138 crore from Rs 13,590 crore in the year-ago quarter. Sequentially, it grew 19% from Rs 20,211 crore. The sharp year-on-year (YoY) increase in operating revenue is mainly due to a shift to ...",
-   "image": "https://www.medianama.com/wp-content/uploads/2025/02/zomato-eternal.png",
-   "why": [
-    "Financials",
-    "Very large figure in headline (about $2,541M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Financials",
-    "Commerce & D2C"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 92,
-   "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-   "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+   "score": 13,
+   "priority": 93,
+   "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+   "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
    "date": "2026-10-22",
    "source": "TechCrunch",
    "label": "Global · AI & Deeptech",
-   "snippet": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
-   "lead": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation Julie Bort 1:57 PM PDT · October 21, 2026 Year-old startup Flapping Airplanes has wowed Silicon Valley with an impressive founding team and a mission to find ways to train large models with less data. On Wednesday, the company announced it had raised a $1 billion Series A round, co-led by Index and Lux, reportedly at a $6 billion valuation. The round comes just nine ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/02/Flapping-Airplanes-founders-photo.jpg?resize=1200,821",
+   "snippet": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+   "lead": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion. The company helps automate and assist with workflow tasks for legal professionals, as the industry moves beyond AI assistants to AI services that help them get work done. The news comes just a month after Harvey, Legora’s biggest competitor, announced a $550 million raise at a $15.5 billion valuation; back in March, ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2296593553.jpg?w=1024",
    "why": [
     "Funding",
-    "Very large figure in headline (about $6,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
+    "Very large figure in headline (about $8,800M: round or valuation)",
+    "Valuation, listing or profitability signal",
+    "Also covered by 1 other outlet(s)"
    ],
    "tags": [
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 9,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -643,7 +595,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 10,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -666,7 +618,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 11,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -690,7 +642,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 12,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -715,7 +667,7 @@
     "Work visa",
     "New Zealand"
    ],
-   "rank": 13,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -739,7 +691,7 @@
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 14,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -761,7 +713,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 15,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -783,7 +735,77 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 86,
+   "title": "[Update] Jio Platforms IPO Ends Day 2 With 5.57X Subscription, QIBs Lead Demand",
+   "url": "https://inc42.com/buzz/jio-platforms-ipo-subscribed-3-65x-on-day-2-so-far-retail-portion-fully-booked/",
+   "date": "2026-10-22",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Jio Platforms has set a price band of ₹1,065-₹1,119 per share for the IPO, which closes tomorrow",
+   "lead": "Jio Platforms’ ₹30,213 Cr IPO ended the second day of bidding with 5.57X subscription Institutional investors drove demand, subscribing the QIB portion 13.29X Jio Platforms has set a price band of ₹1,065-₹1,119 per share for the IPO, which closes tomorrow. The ₹30,213 Cr (about $3.2 Bn) offering is set to surpass Hyundai Motor India’s ₹27,870 Cr issue as India’s largest IPO.",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2020/06/Untitled-design-38.jpg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $3,180M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 86,
+   "title": "Eternal clocks Rs 125 crore profit in Q2FY27, revenue zooms 78% to Rs 24,138 crore",
+   "url": "https://www.medianama.com/2026/10/223-eternal-125-crore-profit-q2fy27/",
+   "date": "2026-10-22",
+   "source": "MediaNama",
+   "label": "India · Commerce & D2C",
+   "snippet": "Food delivery firm Eternal posted a net profit of Rs 125 cr in Q2FY27 up 92% from Rs 65 cr in the same period last year as revenue grew 78%",
+   "lead": "Food delivery and quick commerce firm Eternal posted a consolidated net profit of Rs 125 crore in the second quarter ended September 2026 (Q2 FY27), up 92% from Rs 65 crore in the same quarter last year. Revenue from operations zoomed 78% to Rs 24,138 crore from Rs 13,590 crore in the year-ago quarter. Sequentially, it grew 19% from Rs 20,211 crore. The sharp year-on-year (YoY) increase in operating revenue is mainly due to a shift to ...",
+   "image": "https://www.medianama.com/wp-content/uploads/2025/02/zomato-eternal.png",
+   "why": [
+    "Financials",
+    "Very large figure in headline (about $2,541M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Financials",
+    "Commerce & D2C"
+   ],
    "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 86,
+   "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+   "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+   "date": "2026-10-22",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+   "lead": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation Julie Bort 1:57 PM PDT · October 21, 2026 Year-old startup Flapping Airplanes has wowed Silicon Valley with an impressive founding team and a mission to find ways to train large models with less data. On Wednesday, the company announced it had raised a $1 billion Series A round, co-led by Index and Lux, reportedly at a $6 billion valuation. The round comes just nine ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/02/Flapping-Airplanes-founders-photo.jpg?resize=1200,821",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $6,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 17,
    "must_read": false
   },
   {
@@ -806,51 +828,28 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 17,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 77,
-   "title": "Zetwerk IPO: Kae Capital, Kalysta Bag 38.3X Returns, Lightspeed Pockets ₹440 Cr",
-   "url": "https://inc42.com/buzz/zetwerk-ipo-kae-capital-kalysta-bag-38-3x-returns-lightspeed-pockets-%e2%82%b9440-cr/",
-   "date": "2026-10-22",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Kae Capital Fund II and Kalysta Capital Fund II bagged 38.3X returns on shares sold through Zetwerk’s IPO.",
-   "lead": "Kae Capital Fund II and Kalysta Capital Fund II bagged 38.3X returns on shares sold through Zetwerk’s IPO. The offer provided partial exits to investors, with Lightspeed pocketing around ₹440 Cr and Peak XV realising ₹359.3 Cr across their funds. Cofounders Amrit Acharya and Srinath Ramakkrushnan collectively pocketed around ₹423 Cr, while retaining sizeable holdings in the manufacturing company.",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Zetwerks-IPO-2-social_.jpg",
-   "why": [
-    "IPO & Listing",
-    "Sizeable deal (about $46M)"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
    "rank": 18,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 10,
-   "priority": 77,
-   "title": "Peak XV-Backed AI Startup Blacksmith Nets $66 Mn At A Unicorn Valuation",
-   "url": "https://inc42.com/buzz/peak-xv-backed-ai-startup-blacksmith-nets-66-mn-at-a-unicorn-valuation/",
-   "date": "2026-10-21",
-   "source": "Inc42",
-   "label": "India · AI & Deeptech",
-   "snippet": "Blacksmith’s $66 Mn Series C funding round was led by Sequoia Capital with Premji Invest and Peak XV Partners also participating.",
-   "lead": "Blacksmith’s $66 Mn Series C funding round was led by Sequoia Capital with Premji Invest, Peak XV Partners, Google Ventures, and Y Combinator also participating The startup, which currently manages nearly 10 MW of compute footprint, plans to expand its capacity by 5X in 2027 to meet the growing demand for its AI code testing cloud platform Blacksmith’s valuation has doubled to $1 Bn in just over two months. It was valued at $550 Mn ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/blacksmith-soc.png",
+   "score": 11,
+   "priority": 79,
+   "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+   "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+   "date": "2026-10-23",
+   "source": "TechCrunch",
+   "label": "Global · Other",
+   "snippet": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
+   "lead": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear Dominic-Madori Davis 4:15 PM PDT · October 22, 2026 Colossal Biosciences’ Ben Lamm and Andruil’s Palmer Luckey had an idea to genetically engineer war dogs for the U.S. military, law enforcement, and other emergency response teams. That idea, on Thursday, announced its emergence from stealth as Warhound , armed with $200 million in funding from investors ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Warhound.png?resize=1200,675",
    "why": [
     "Funding",
-    "Sizeable deal (about $66M)",
-    "Valuation, listing or profitability signal"
+    "Large deal (about $200M)",
+    "Also covered by 1 other outlet(s)"
    ],
    "tags": [
-    "Funding",
-    "AI & Deeptech"
+    "Funding"
    ],
    "rank": 19,
    "must_read": false
