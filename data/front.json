@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-23",
- "built": "2026-10-23 10:45 IST",
+ "built": "2026-10-23 10:48 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,23 +12,23 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22498.0,
-   "change_pct": -0.84,
-   "asof": "23 Oct 10:45 IST"
+   "value": 22491.0,
+   "change_pct": -0.87,
+   "asof": "23 Oct 10:48 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72912.0,
-   "change_pct": -0.46,
-   "asof": "23 Oct 10:30 IST"
+   "value": 72846.0,
+   "change_pct": -0.55,
+   "asof": "23 Oct 10:33 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
    "value": 94.87,
    "change_pct": 0.59,
-   "asof": "23 Oct 10:45 IST"
+   "asof": "23 Oct 10:48 IST"
   },
   {
    "name": "Brent (USD)",
@@ -40,9 +40,9 @@
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4022.0,
-   "change_pct": -0.96,
-   "asof": "23 Oct 10:35 IST"
+   "value": 4026.0,
+   "change_pct": -0.85,
+   "asof": "23 Oct 10:38 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -162,9 +162,52 @@
    ]
   },
   "Startups": {
-   "total": 873,
-   "new_today": 7,
+   "total": 876,
+   "new_today": 10,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 12,
+     "priority": 86,
+     "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+     "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+     "date": "2026-10-22",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+     "lead": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation Julie Bort 1:57 PM PDT · October 21, 2026 Year-old startup Flapping Airplanes has wowed Silicon Valley with an impressive founding team and a mission to find ways to train large models with less data. On Wednesday, the company announced it had raised a $1 billion Series A round, co-led by Index and Lux, reportedly at a $6 billion valuation. The round comes just nine ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/02/Flapping-Airplanes-founders-photo.jpg?resize=1200,821",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $6,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 79,
+     "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+     "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+     "date": "2026-10-23",
+     "source": "TechCrunch",
+     "label": "Global · Other",
+     "snippet": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
+     "lead": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear Dominic-Madori Davis 4:15 PM PDT · October 22, 2026 Colossal Biosciences’ Ben Lamm and Andruil’s Palmer Luckey had an idea to genetically engineer war dogs for the U.S. military, law enforcement, and other emergency response teams. That idea, on Thursday, announced its emergence from stealth as Warhound , armed with $200 million in funding from investors ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Warhound.png?resize=1200,675",
+     "why": [
+      "Funding",
+      "Large deal (about $200M)",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "Funding"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -206,56 +249,12 @@
       "Funding",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 71,
-     "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-     "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-     "date": "2026-10-21",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-     "lead": "Blacksmith, a platform that helps companies more efficiently build and test software, including code written by AI, announced Wednesday a $66 million Series C funding round led by Sequoia that values the company at $1 billion. In announcing the round, Blacksmith co-founder and CEO Aditya Jayaprakash said the company was founded to make continuous integration (CI) — the process of building, testing, merging, and validating code changes ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blacksmith.jpg?resize=1200,800",
-     "why": [
-      "Funding",
-      "Sizeable deal (about $66M)",
-      "Valuation, listing or profitability signal",
-      "Also covered by 1 other outlet(s)"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 71,
-     "title": "Apple India’s FY26 Profit Jumps 66% YoY To ₹5,311 Cr, Revenue Up 31%",
-     "url": "https://inc42.com/buzz/apple-indias-fy26-profit-jumps-66-yoy-to-%e2%82%b95311-cr-revenue-up-31/",
-     "date": "2026-10-20",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "Apple India’s FY26 net profit rose 66% to ₹5,311 Cr as operating revenue crossed ₹1 lakh Cr, while expenses surged 28%",
-     "lead": "Apple India’s net profit jumped 66% YoY to ₹5,311 Cr in FY26, while operating revenue grew 31.4% to ₹1.04 Lakh Cr The iPhone-maker’s profit growth outpaced revenue expansion as its net profit margin improved to 5.1% from 4% in FY25 Apple India’s total expenses during the fiscal year under review grew 28% to ₹96,224 Cr from ₹75,190.7 Cr it reported in FY25",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/FTR-26-1.jpg",
-     "why": [
-      "Financials",
-      "Very large figure in headline (about $559M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Financials"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 1266,
-   "new_today": 3,
+   "total": 1267,
+   "new_today": 4,
    "items": [
     {
      "desk": "Immigration",
@@ -554,6 +553,51 @@
    "desk": "Startups",
    "score": 13,
    "priority": 93,
+   "title": "Zetwerk Makes NSE Debut At 5.5% Premium After ₹5,012 Cr IPO",
+   "url": "https://inc42.com/buzz/zetwerk-makes-nse-debut-at-5-5-premium-after-%e2%82%b95012-cr-ipo/",
+   "date": "2026-10-23",
+   "source": "Inc42",
+   "label": "India · SaaS & Enterprise",
+   "snippet": "Zetwerk made its stock market debut at a 5.46% premium on the NSE at ₹159.25 against its issue price of ₹151",
+   "lead": "Zetwerk made its stock market debut at a 5.46% premium on the NSE at ₹159.25 against its issue price of ₹151 The listing gives investors a public-market entry into the B2B manufacturing startup, while the IPO proceeds will help it reduce debt and fund acquisitions Zetwerk’s FY26 operating revenue rose 40.4% to ₹15,913.3 Cr, but its net loss widened to ₹1,606.2 Cr from ₹370.7 Cr in FY25",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Zetwerk-social.jpg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $528M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "SaaS & Enterprise"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 13,
+   "priority": 93,
+   "title": "Zetwerk Manufacturing shares list at 5% premium over IPO price",
+   "url": "https://economictimes.indiatimes.com/tech/technology/zetwerk-manufacturing-business-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/135134461.cms",
+   "date": "2026-10-23",
+   "source": "ET Startups",
+   "label": "India · Other",
+   "snippet": "The Rs 5,012.33 crore IPO comprises a fresh issue of shares worth Rs 2,830 crore and an offer for sale (OFS) of 14.45 crore shares worth approximately Rs 2,182 crore. While the proceeds from the fresh issue will go to the company, the OFS proceeds will accrue to the selling shareholders.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1950109,resizemode-75,msid-135134461/tech/technology/zetwerk-manufacturing-business-shares-to-list-today-check-gmp-ahead-of-debut.jpg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $528M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 13,
+   "priority": 93,
    "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
    "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
    "date": "2026-10-22",
@@ -572,7 +616,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 7,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -595,7 +639,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 8,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -618,7 +662,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 9,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -642,7 +686,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 10,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -667,7 +711,7 @@
     "Work visa",
     "New Zealand"
    ],
-   "rank": 11,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -691,7 +735,7 @@
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 12,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -713,7 +757,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 13,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -735,7 +779,7 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 14,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -757,7 +801,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 15,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -781,31 +825,7 @@
     "Financials",
     "Commerce & D2C"
    ],
-   "rank": 16,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 86,
-   "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-   "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-   "date": "2026-10-22",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
-   "lead": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation Julie Bort 1:57 PM PDT · October 21, 2026 Year-old startup Flapping Airplanes has wowed Silicon Valley with an impressive founding team and a mission to find ways to train large models with less data. On Wednesday, the company announced it had raised a $1 billion Series A round, co-led by Index and Lux, reportedly at a $6 billion valuation. The round comes just nine ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/02/Flapping-Airplanes-founders-photo.jpg?resize=1200,821",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $6,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -827,29 +847,6 @@
    ],
    "tags": [
     "Banking & Rates"
-   ],
-   "rank": 18,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 79,
-   "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-   "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-   "date": "2026-10-23",
-   "source": "TechCrunch",
-   "label": "Global · Other",
-   "snippet": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
-   "lead": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear Dominic-Madori Davis 4:15 PM PDT · October 22, 2026 Colossal Biosciences’ Ben Lamm and Andruil’s Palmer Luckey had an idea to genetically engineer war dogs for the U.S. military, law enforcement, and other emergency response teams. That idea, on Thursday, announced its emergence from stealth as Warhound , armed with $200 million in funding from investors ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Warhound.png?resize=1200,675",
-   "why": [
-    "Funding",
-    "Large deal (about $200M)",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Funding"
    ],
    "rank": 19,
    "must_read": false
