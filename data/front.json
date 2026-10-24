@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-24",
- "built": "2026-10-24 01:37 IST",
+ "built": "2026-10-24 07:32 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,15 +12,15 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22688.0,
-   "change_pct": -0.54,
+   "value": 22600.0,
+   "change_pct": -0.39,
    "asof": "23 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73249.0,
-   "change_pct": -0.62,
+   "value": 73124.0,
+   "change_pct": -0.17,
    "asof": "23 Oct 15:32 IST"
   },
   {
@@ -28,21 +28,21 @@
    "dp": 2,
    "value": 94.93,
    "change_pct": 0.23,
-   "asof": "24 Oct 00:32 IST"
+   "asof": "24 Oct 02:59 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 111.96,
-   "change_pct": -1.07,
-   "asof": "24 Oct 01:26 IST"
+   "value": 111.66,
+   "change_pct": -1.33,
+   "asof": "24 Oct 02:29 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4013.0,
-   "change_pct": -1.18,
-   "asof": "24 Oct 01:27 IST"
+   "value": 4010.0,
+   "change_pct": -1.24,
+   "asof": "24 Oct 02:29 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -163,8 +163,8 @@
    ]
   },
   "Startups": {
-   "total": 897,
-   "new_today": 3,
+   "total": 899,
+   "new_today": 5,
    "items": [
     {
      "desk": "Startups",
@@ -255,8 +255,8 @@
    ]
   },
   "Immigration": {
-   "total": 1308,
-   "new_today": 1,
+   "total": 1311,
+   "new_today": 2,
    "items": [
     {
      "desk": "Immigration",
