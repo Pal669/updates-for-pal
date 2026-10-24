@@ -1,6 +1,6 @@
 {
- "edition": "2026-10-24",
- "built": "2026-10-24 19:39 IST",
+ "edition": "2026-10-25",
+ "built": "2026-10-25 00:32 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -54,27 +54,27 @@
  ],
  "features": {
   "startup_file": {
-   "company": "Angle Health",
-   "tagline": "US health-insurance startup for small businesses (YC winter 2020)",
-   "what": "AI-powered platform that helps small businesses choose and manage 'level-funded' health plans, integrating with payroll and HR systems. Level-funded sits between fully insured (carrier bears all risk, higher and predictable cost) and self-funded (employer bears cost, unpredictable): the business makes predictable payments, is insured against unusually high costs, and may get a share of the surplus back if claims stay low.",
+   "company": "Innov8 Workspaces",
+   "tagline": "Premium flexible office space operator",
+   "what": "Runs premium flexible and managed workspace centres across India. It had 58 operating centres at the end of FY26 and 72 by July 2026.",
    "how": [
-    "The article does not say how Angle itself earns its revenue.",
-    "It says the startup serves 5,000+ businesses and is profitable."
+    "Rent from customers who use its centres: Rs 173.6 Cr of Rs 201.3 Cr operating revenue in FY26, about 86%.",
+    "Other operational income (ancillary services): Rs 27.6 Cr, up from Rs 5.4 Cr."
    ],
-   "watch": "A profitable, non-'AI agent' company raising a large Series C is unusual per TechCrunch. The tender offer is liquidity for staff, not money into the company.",
-   "sector": "Fintech",
-   "region": "Global",
-   "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/"
+   "watch": "Profit quality: other income was Rs 38.9 Cr, including a Rs 36.7 Cr gain on terminating lease contracts. Without that gain the profit jump would look much smaller. The article gives growth drivers as more centres, higher occupancy and better pricing.",
+   "sector": "Real Estate & Workspaces",
+   "region": "India",
+   "url": "https://inc42.com/buzz/innov8s-fy26-profit-zooms-multifold-to-%e2%82%b913-7-cr-revenue-crosses-%e2%82%b9200-cr-mark/"
   },
   "country": {
-   "id": "spain",
-   "name": "Spain",
-   "trend": "Mixed",
-   "pr": "Long-term residence after 5 years of continuous legal residence.",
-   "citizenship": "10 years standard (2 years for Ibero-American nationals and a few others). Dual citizenship restricted for most nationalities (general knowledge); India requires renunciation anyway.",
-   "pro": "Spanish is a global language, giving optionality beyond Europe.",
-   "con": "10-year citizenship clock.",
-   "watch": "2026 immigration regulation changes"
+   "id": "france",
+   "name": "France",
+   "trend": "Tightening (language and civic tests)",
+   "pr": "10-year resident card after 5 years of continuous lawful residence.",
+   "citizenship": "5 years of habitual residence, B2 French in speaking and writing since 1 January 2026 (was B1), a new civic exam (40 questions, 32 correct), stable French income and a clean record. Processing takes about 18 to 24 months.",
+   "pro": "5-year citizenship clock.",
+   "con": "B2 French and a civic exam are now mandatory for citizenship.",
+   "watch": "Further tightening of integration rules"
   }
  },
  "desks": {
@@ -84,8 +84,28 @@
    "items": [
     {
      "desk": "Policy",
-     "score": 6,
-     "priority": 60,
+     "score": 5,
+     "priority": 50,
+     "title": "RBI issues guidelines on the implementation of Leverage Ratio 2017 Standard",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63854",
+     "date": "2026-10-23",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "The Reserve Bank of India had issued the draft Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026 on August 7, 2026 , inviting feedback from stakeholders until August 28, 2026. The draft Amendment Directions proposed to implement the latest leverage ratio framework ('Leverage Ratio 2017 Standard') issued by the Basel Committee on Banking Supervision. 2. Feedback received ...",
+     "image": null,
+     "why": [
+      "Rule change",
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 50,
      "title": "Factual Report on PM-DAKSH",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326437",
      "date": "2026-10-22",
@@ -103,8 +123,8 @@
     },
     {
      "desk": "Policy",
-     "score": 6,
-     "priority": 60,
+     "score": 5,
+     "priority": 50,
      "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on October 23, 2026",
      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63844",
      "date": "2026-10-22",
@@ -123,28 +143,8 @@
     },
     {
      "desk": "Policy",
-     "score": 6,
-     "priority": 60,
-     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63837",
-     "date": "2026-10-21",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "",
-     "image": null,
-     "why": [
-      "New law or act",
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 4,
-     "priority": 40,
+     "score": 3,
+     "priority": 30,
      "title": "NHAI Issues Guidelines for Upgradation, Maintenance and Smart Monitoring of Toilet Facilities & Parking at National Highway Toll Plazas",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2327363",
      "date": "2026-10-23",
@@ -163,12 +163,12 @@
    ]
   },
   "Startups": {
-   "total": 903,
-   "new_today": 9,
+   "total": 904,
+   "new_today": 0,
    "items": [
     {
      "desk": "Startups",
-     "score": 12,
+     "score": 11,
      "priority": 92,
      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
      "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
@@ -191,8 +191,8 @@
     },
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 85,
+     "score": 10,
+     "priority": 83,
      "title": "From Even Health To The Pant Project— Indian Startups Raised Over $184 Mn This Week",
      "url": "https://inc42.com/buzz/from-even-health-to-the-pant-project-indian-startups-raised-over-184-mn-this-week/",
      "date": "2026-10-24",
@@ -212,8 +212,8 @@
     },
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 85,
+     "score": 10,
+     "priority": 83,
      "title": "Eternal clocks Rs 125 crore profit in Q2FY27, revenue zooms 78% to Rs 24,138 crore",
      "url": "https://www.medianama.com/2026/10/223-eternal-125-crore-profit-q2fy27/",
      "date": "2026-10-22",
@@ -234,8 +234,8 @@
     },
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 85,
+     "score": 10,
+     "priority": 83,
      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
      "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
      "date": "2026-10-22",
@@ -257,49 +257,9 @@
    ]
   },
   "Immigration": {
-   "total": 1318,
-   "new_today": 4,
+   "total": 1321,
+   "new_today": 0,
    "items": [
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 60,
-     "title": "106 Curaçao Residents Become Dutch Citizens During Naturalization Ceremonies",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM00xVy1SYW9SWVJCWElOb3o4dFZ3djZESW9KN2xhU0NDMHRYb3JNMnV6SU1lVUk5eWlydWNUbnl6TF9jbFo4ZTZ3c0pDSEZkdV9JZksyUm5GOFp3cHlGZVd4dGs1Q2dzZnBZNFFEOGh3eU9CSlZNZTN2eGhOOXVpbVdpQWtzQWIzNjlVTGlJVWdFYXBsdWpxNnN0YkVsbDRMTDNCOFVPR2ZFRHczR0Npd21CeWdldHNXZ0FnQQ?oc=5",
-     "date": "2026-10-23",
-     "source": "Curaçao Chronicle",
-     "label": "Netherlands",
-     "snippet": "WILLEMSTAD – A total of 106 people officially acquired Dutch citizenship during two naturalization ceremonies held...",
-     "lead": "WILLEMSTAD – A total of 106 people officially acquired Dutch citizenship during two naturalization ceremonies held at the Governor's Palace in Curaçao on Wednesday, October 21, 2026. The ceremonies were presided over by the Governor of Curaçao, His Excellency Mauritsz de Kort, before whom the new citizens made their formal Declaration of Solidarity, known in Dutch as the verklaring van verbondenheid. By completing this declaration, all ...",
-     "image": "https://www.curacaochronicle.com/media/posts/106_new_citizens.jpg",
-     "why": [
-      "Affects citizenship"
-     ],
-     "tags": [
-      "Citizenship",
-      "Netherlands"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 60,
-     "title": "Ahmedabad visa consultant, 18 clients lose ₹12.1L to Finland work permit fraud",
-     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbkRsRGNWOG9qZlZ1dndYRjZVLTU1alFhdTlKaUFwREh3T3ZkemlJcGxOeHhXMUZqTVgwZkpPSkVrNHVlbGVuXzNBNW9CS1E3Wl96VXVFUF95QmtxbGtkYUVfREtmV3FTR3RFWTFQdWxESXFORjR2M1FwMnN5VDRHQjNzVlY2azhVNWdfYzItWGdjQUxWdzlUc2gwTTB5ZmdqTVNFNVhPNHpqV3hoUi1YUWFsNllZOTJ1azR4ZFNjc21aaFRDWld5eExobEZablNGT2pNNWtaaVdSOU9zNzR1emtEemJBWERY0gHuAUFVX3lxTE5SYzBvak8wWGNmejZ1a2l4TDNNM0dZa2pjTjVJVGNsWVN2c1lRSkxTQ2ZkdHVkVUFyRWprVzgyUjBHYjRELVhZTU5faG9jRkU5RWZBSllUTTRiQTZJbW1CNjNMZzhmVG85QW1sUXlaak9uN3FDN19kRUJsVGxoNlA4SlNGWlNnT3V0elAzMEVBbTZtbnVaOVVwNU5EVDYyRElkX0ZUMmFvVUJ2T3pacmdsbUxUWTBPcF9LdHRXVmJJNnpkYmJPaHZ1WWF4OFVUZEFnSUF2dUNpbWlJQlcxUE9RYTY0R1JidllrWGFLUnc?oc=5",
-     "date": "2026-10-23",
-     "source": "The Times of India",
-     "label": "Finland",
-     "snippet": "A 50-year-old visa consultant from Vejalpur filed a complaint on Thursday, alleging that a man cheated him and 18 clients of Rs 12.1 lakh by promising Finnish work permits and jobs paying up to 3,200 euros per month.",
-     "lead": "Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
-     "image": "https://static.toiimg.com/thumb/msid-135126073,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-     "why": [
-      "Affects work visas"
-     ],
-     "tags": [
-      "Work visa",
-      "Finland"
-     ]
-    },
     {
      "desk": "Immigration",
      "score": 6,
@@ -320,6 +280,46 @@
       "PR / Settlement",
       "Japan"
      ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 50,
+     "title": "106 Curaçao Residents Become Dutch Citizens During Naturalization Ceremonies",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM00xVy1SYW9SWVJCWElOb3o4dFZ3djZESW9KN2xhU0NDMHRYb3JNMnV6SU1lVUk5eWlydWNUbnl6TF9jbFo4ZTZ3c0pDSEZkdV9JZksyUm5GOFp3cHlGZVd4dGs1Q2dzZnBZNFFEOGh3eU9CSlZNZTN2eGhOOXVpbVdpQWtzQWIzNjlVTGlJVWdFYXBsdWpxNnN0YkVsbDRMTDNCOFVPR2ZFRHczR0Npd21CeWdldHNXZ0FnQQ?oc=5",
+     "date": "2026-10-23",
+     "source": "Curaçao Chronicle",
+     "label": "Netherlands",
+     "snippet": "WILLEMSTAD – A total of 106 people officially acquired Dutch citizenship during two naturalization ceremonies held...",
+     "lead": "WILLEMSTAD – A total of 106 people officially acquired Dutch citizenship during two naturalization ceremonies held at the Governor's Palace in Curaçao on Wednesday, October 21, 2026. The ceremonies were presided over by the Governor of Curaçao, His Excellency Mauritsz de Kort, before whom the new citizens made their formal Declaration of Solidarity, known in Dutch as the verklaring van verbondenheid. By completing this declaration, all ...",
+     "image": "https://www.curacaochronicle.com/media/posts/106_new_citizens.jpg",
+     "why": [
+      "Affects citizenship"
+     ],
+     "tags": [
+      "Citizenship",
+      "Netherlands"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 50,
+     "title": "Ahmedabad visa consultant, 18 clients lose ₹12.1L to Finland work permit fraud",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbkRsRGNWOG9qZlZ1dndYRjZVLTU1alFhdTlKaUFwREh3T3ZkemlJcGxOeHhXMUZqTVgwZkpPSkVrNHVlbGVuXzNBNW9CS1E3Wl96VXVFUF95QmtxbGtkYUVfREtmV3FTR3RFWTFQdWxESXFORjR2M1FwMnN5VDRHQjNzVlY2azhVNWdfYzItWGdjQUxWdzlUc2gwTTB5ZmdqTVNFNVhPNHpqV3hoUi1YUWFsNllZOTJ1azR4ZFNjc21aaFRDWld5eExobEZablNGT2pNNWtaaVdSOU9zNzR1emtEemJBWERY0gHuAUFVX3lxTE5SYzBvak8wWGNmejZ1a2l4TDNNM0dZa2pjTjVJVGNsWVN2c1lRSkxTQ2ZkdHVkVUFyRWprVzgyUjBHYjRELVhZTU5faG9jRkU5RWZBSllUTTRiQTZJbW1CNjNMZzhmVG85QW1sUXlaak9uN3FDN19kRUJsVGxoNlA4SlNGWlNnT3V0elAzMEVBbTZtbnVaOVVwNU5EVDYyRElkX0ZUMmFvVUJ2T3pacmdsbUxUWTBPcF9LdHRXVmJJNnpkYmJPaHZ1WWF4OFVUZEFnSUF2dUNpbWlJQlcxUE9RYTY0R1JidllrWGFLUnc?oc=5",
+     "date": "2026-10-23",
+     "source": "The Times of India",
+     "label": "Finland",
+     "snippet": "A 50-year-old visa consultant from Vejalpur filed a complaint on Thursday, alleging that a man cheated him and 18 clients of Rs 12.1 lakh by promising Finnish work permits and jobs paying up to 3,200 euros per month.",
+     "lead": "Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
+     "image": "https://static.toiimg.com/thumb/msid-135126073,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+     "why": [
+      "Affects work visas"
+     ],
+     "tags": [
+      "Work visa",
+      "Finland"
+     ]
     }
    ]
   },
@@ -329,8 +329,8 @@
    "items": [
     {
      "desk": "Advisory",
-     "score": 10,
-     "priority": 83,
+     "score": 9,
+     "priority": 82,
      "title": "Gold price falls Rs 1,500/10g; silver plunges Rs 7,000/kg as soaring oil fuels rate hike bets. Time to sell?",
      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-falls-rs-1500/10g-silver-plunges-rs-7000/kg-as-soaring-oil-fuels-rate-hike-bets-time-to-sell/articleshow/135135987.cms",
      "date": "2026-10-23",
@@ -351,29 +351,7 @@
     {
      "desk": "Advisory",
      "score": 9,
-     "priority": 75,
-     "title": "Sensex, Nifty extend losses as crude surges to USD 114, all sectors close in red",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORFVrclRjcHVWR0ZtVkM3cnhpRGVhTHpoR3IxcjRlcERhV2gwbDZHQTNDV29EM1V3WXNIQ25uNWtyQk85akQ5enRpSGRLRUR2TEhSUVNjLWV3OVdnWXh1ektySkdLZlp6V0dMUHVCR2d0VHhxTnVpUExnX1Z4MS1ZVVl5YjlUQldsV280Nk1sSVdkOTV1TVZGU0M4WkwwbWdxRlV2U3B5SEFDbVp6R2d3VmxZUnhuSXo1dmpXNA?oc=5",
-     "date": "2026-10-23",
-     "source": "India's News.Net",
-     "label": "Global",
-     "snippet": "The domestic stock market continued its downward trend on Friday, with benchmark indices Sensex and Nifty 50 closing in the red amid selling pressure across sectors, rising crude oil prices and weak global cues. The NIFTY 50 index closed at 22,600, declining 87.65 points or 0.39 per cent, while the BSE SENSEX settled at 73,123.83, down 12",
-     "lead": "Mumbai (Maharashtra) [India], October 23 (ANI): The domestic stock market continued its downward trend on Friday, with benchmark indices Sensex and Nifty 50 closing in the red amid selling pressure across sectors, rising crude oil prices and weak global cues. The NIFTY 50 index closed at 22,600, declining 87.65 points or 0.39 per cent, while the BSE SENSEX settled at 73,123.83, down 125.56 points or 0.17 per cent. Vinod Nair, Head of ...",
-     "image": "https://chitra-api.kreatio.com/api/v1/wps/807e78c/785701ca-51b5-4e96-8c9a-d3f3f7ed8988/0/ANI-20261023094314-600x315.jpg",
-     "why": [
-      "Global macro driver",
-      "Sharp market move",
-      "Sector or flows signal",
-      "Also covered by 1 other outlet(s)"
-     ],
-     "tags": [
-      "Global"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
+     "priority": 82,
      "title": "Business News | RBI May Need to Raise Repo Rate to 6.25% as Inflation Risks Persist: SBI Mutual Fund",
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZzhnRUhFUEZ4Y0tzaVVWVVpYMnUzRUtrOGstSGpacVI2ekZkUjhPdGVFNFItUVpzaUlWbDJLZ3YyUGY3Z2V4angtNXFzVGx6RzRVOVhsQUh3UDZNZFpqQ0NtUkYyRXFvdnp3V3NycnFXR2FXZklKMGVyMWp3QUYyWmJQMHd0Q0lhcGRxbnhiTk1SU29BQk5obXdETkRRNWlCaTYtRjFBWTNFejVDUW9INk40VjhReFhIalp4SU93d1JtOHB1UUhZMHpKdlpYZDVIWDk0LXdjaDdSSHY5Rk9F0gHkAUFVX3lxTFB4SlBGV1lNWG83MFl2bTBNNHRlSGxwU0dRUkRwOElmelN1Q0VZdDA1NnN2ektoMDhaeDgxdVRKZzl0dGU3RTVFWDRhSWhTWElnMWtMZlhSdlFYcWpVQW52bUhSMW12dHlJeDJQT2NfTjlrQXZ5TmhLUVFzTlA5OHFWeExVSFJlR2hESWZWOW1WV3gwT3Vpb0duWFQxMjFYdTQtU2Jhazg0NUQ4aFpDVDA1YlhQWFZUaXdDckh2VmRNdEVKNmxWME1pdzRvam5OejlRMDZKQVJUR04yUFRxcTB6Vi1Ibg?oc=5",
      "date": "2026-10-18",
@@ -394,23 +372,45 @@
     },
     {
      "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
-     "title": "Comprehensive Analysis of the SEBI AIF Third Amendment Regulations 2026: Revamped Accredited Investor Norms and Dispute Resolution Framework",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVkI2eGRSMzE5c2ZrT0RFLTI1c282dWp2UE9nQUUzYkM1ZVd5QzRZREdMZHhveWQ2YUZUNlY1MW1qN1NfRkNreHktdmhtYldfRmp1VEdseTBVRGJ2c1dyeU9TNnNiZm1GT2psT0gyeW92UWpnRmdhcDN3Mkc3WU1Bc1UyVVZOVHczZ3hfV3U0d2hDTm8tQTZtWTJiNHN5blo2NXdv?oc=5",
-     "date": "2026-10-17",
-     "source": "TaxCorp AI",
-     "label": "AIF",
-     "snippet": "Summary The Securities and Exchange Board of India (Alternative Investment Funds) (Third Amendment) Regulations, 2026, notified on 9 October 2026, introduces...",
-     "lead": "The regulatory landscape governing Alternative Investment Funds (AIFs) in India has witnessed a significant evolution with the introduction of the Securities and Exchange Board of India (Alternative Investment Funds) (Third Amendment) Regulations, 2026. Promulgated via Notification No. SEBI/LAD-NRO/GN/2026/326 on 9 October 2026, this legislative update introduces pivotal shifts in how investors are accredited and how disputes within ...",
-     "image": null,
+     "score": 8,
+     "priority": 73,
+     "title": "Sensex, Nifty extend losses as crude surges to USD 114, all sectors close in red",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORFVrclRjcHVWR0ZtVkM3cnhpRGVhTHpoR3IxcjRlcERhV2gwbDZHQTNDV29EM1V3WXNIQ25uNWtyQk85akQ5enRpSGRLRUR2TEhSUVNjLWV3OVdnWXh1ektySkdLZlp6V0dMUHVCR2d0VHhxTnVpUExnX1Z4MS1ZVVl5YjlUQldsV280Nk1sSVdkOTV1TVZGU0M4WkwwbWdxRlV2U3B5SEFDbVp6R2d3VmxZUnhuSXo1dmpXNA?oc=5",
+     "date": "2026-10-23",
+     "source": "India's News.Net",
+     "label": "Global",
+     "snippet": "The domestic stock market continued its downward trend on Friday, with benchmark indices Sensex and Nifty 50 closing in the red amid selling pressure across sectors, rising crude oil prices and weak global cues. The NIFTY 50 index closed at 22,600, declining 87.65 points or 0.39 per cent, while the BSE SENSEX settled at 73,123.83, down 12",
+     "lead": "Mumbai (Maharashtra) [India], October 23 (ANI): The domestic stock market continued its downward trend on Friday, with benchmark indices Sensex and Nifty 50 closing in the red amid selling pressure across sectors, rising crude oil prices and weak global cues. The NIFTY 50 index closed at 22,600, declining 87.65 points or 0.39 per cent, while the BSE SENSEX settled at 73,123.83, down 125.56 points or 0.17 per cent. Vinod Nair, Head of ...",
+     "image": "https://chitra-api.kreatio.com/api/v1/wps/807e78c/785701ca-51b5-4e96-8c9a-d3f3f7ed8988/0/ANI-20261023094314-600x315.jpg",
      "why": [
-      "AIF news",
-      "Regulator: SEBI or RBI",
-      "Rule or framework change"
+      "Global macro driver",
+      "Sharp market move",
+      "Sector or flows signal",
+      "Also covered by 1 other outlet(s)"
      ],
      "tags": [
-      "AIF"
+      "Global"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 8,
+     "priority": 73,
+     "title": "Cupid, Sterlite Tech among stocks top 10 equity PMS portfolios hold as Nifty, Sensex plunge up to 13% in 2026",
+     "url": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-sterlite-tech-among-stocks-top-10-equity-pms-portfolios-hold-as-nifty-sensex-plunge-up-to-13-in-2026/articleshow/135045427.cms",
+     "date": "2026-10-19",
+     "source": "Economic Times",
+     "label": "PMS",
+     "snippet": "Despite a sharp market downturn in 2026, all 10 top-performing equity PMS strategies delivered positive returns in September, ranging from 3.55% to 5.67%. Amaltas Asset Managements Keystone Fund led the rankings, while Cupid and Sterlite Technologies featured among the prominent holdings across multiple portfolio management strategies.",
+     "lead": "Total FII net sales for 2026 have now surpassed Rs 2.5 lakh crore, NSDL data showed. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price",
+     "image": "https://img.etimg.com/thumb/msid-135045772,width-1200,height-900,imgsize-427206,overlay-etmarkets/articleshow.jpg",
+     "why": [
+      "PMS news",
+      "Sharp market move",
+      "Also covered by 2 other outlet(s)"
+     ],
+     "tags": [
+      "PMS"
      ]
     }
    ]
@@ -418,31 +418,8 @@
  },
  "items": [
   {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 100,
-   "title": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0",
-   "date": "2026-10-23",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026 Please refer to Chapter IV of the Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Directions, 2025 dated November 28, 2025 (hereinafter referred to as ‘the Directions’), on Minimum Capital Requirements for Operational Risk. 2. On a review, and in exercise of the powers conferred by Section 35A of the Banking ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 1,
-   "must_read": true
-  },
-  {
    "desk": "Startups",
-   "score": 13,
+   "score": 12,
    "priority": 100,
    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
    "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
@@ -460,12 +437,12 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 2,
+   "rank": 1,
    "must_read": true
   },
   {
    "desk": "Advisory",
-   "score": 12,
+   "score": 11,
    "priority": 100,
    "title": "Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026",
    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13743&Mode=0",
@@ -483,7 +460,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 3,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -507,7 +484,7 @@
     "Citizenship",
     "United Kingdom"
    ],
-   "rank": 4,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -532,7 +509,7 @@
     "Work visa",
     "New Zealand"
    ],
-   "rank": 5,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -555,36 +532,36 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
+   "rank": 5,
+   "must_read": true
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 100,
+   "title": "Gold Surges To ₹1.48 Lakh While Silver Tops ₹2.12 Lakh, Easing US Fed Rate Hike Fears Boost Precious",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeTRBeDltYXZpUGVjSjVvUENnT19wdVdSckZ0ZFM4ZGhESmdsTzJkZlpvQjFFWUtwSTdDc1hNeHhyV3NITkJZVzJDbUV5TDFkM0c0enBKZFNZZEJhSS1mWEdUSmFDTUI3bVhmRGstOV9DNlppNWVfNW8yekE1eXMxa0pyazBJcXhLUkd6a0pGdGhZWDY1ZFdpZmJEZVFCS1VqcWVTbTBqcVM3TjA2UGd4a0hqU1FpcWJNMFZVYTdURGE5a1Y2RkRldUcweEc2ak5oN3FrNWtPbV9OU2fSAeABQVVfeXFMUDQxbTFpVVYzRVB3TTB6RGdaREI3bEhqVHBvcV9KX21obDhCZ2hRaEQwQXp4NVp6UG1GTzhfdnh1SmtqSUdWNHRaaWpqVTRvY2ZLaHBQOUJLSjVXVnNLRkpyeHo3MmpZbW9TdnhNUWNjS2pST2xVNmtrM0VjcnEyUk10ZUNCVzZvQmMxcUdsQ2x1c051Mno4Qi1ySXZTVkVpQnBXa3VESTU3dDVnb2FpZGJWVmRzVXI0RS1GZHc5RmtkVDE1Z0VBWjNZaDBsMlNHR3dDejl2ZzBhWFo5aWFiRVU?oc=5",
+   "date": "2026-10-19",
+   "source": "Free Press Journal",
+   "label": "Gold & Silver",
+   "snippet": "Gold rises ₹461 to ₹1,48,379 per 10 grams, while silver gains ₹826 to ₹2,12,013 per kg on MCX as easing US Fed rate hike fears support precious metals.",
+   "lead": "New Delhi: Gold and silver prices moved higher in early trading on Monday, October 19, supported by positive global market trends and easing concerns over another interest rate hike by the US Federal Reserve. Both precious metals recorded gains on the Multi Commodity Exchange (MCX), with investors closely watching US inflation data and upcoming Federal Reserve policy decisions. On the MCX, December gold futures climbed ₹461, or 0.31 ...",
+   "image": "https://media.assettype.com/freepressjournal/2026-09-30/v9z1y8l7/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-09-30T180726.291.jpg",
+   "why": [
+    "Interest-rate decision",
+    "Precious metals",
+    "Global macro driver",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Gold & Silver"
+   ],
    "rank": 6,
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 100,
-   "title": "Ottawa adding express entry points for permanent resident applicants in 'high-wage' jobs",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yMFhBZ3U4ZEQzbzJrVlVpbWtoU2Q3RHBLdk5UenJ0YXVaNkowcDJvRzltei01Z1JCUDhvZVpCMkNqT0ZoZjB5T1hBM0tzOEZPNlZYZXQ3MUNTTVJ1TDFwcnFVbllkVG0wLUdhUlBaX3A?oc=5",
-   "date": "2026-10-17",
-   "source": "CBC",
-   "label": "Canada",
-   "snippet": "Ottawa is adding new express entry points for some permanent residency applicants in \"high-wage\" jobs, Immigration Minister Lena Diab said Friday.",
-   "lead": "The government also plans to remove the requirement for an employer to prove they can't find a qualified Canadian for those jobs. The policies, which will take effect on Nov. 3, will apply to applicants who already have Canadian work experience, or who have a job offer in a high-wage field such as engineering. In a release announcing the change , the government says it considers a high-wage job one that pays \"at least 1.3 times the ...",
-   "image": null,
-   "why": [
-    "Affects permanent residence",
-    "Announces a change",
-    "Major story (16 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Canada"
-   ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 92,
    "title": "Rs 10,000 Cr into restaurants. But why do 80% fail? Here's the Hotshare F&B investment playbook",
    "url": "https://yourstory.com/2026/10/the-hotshare-fb-investment-playbook",
@@ -602,12 +579,12 @@
     "Funding",
     "Commerce & D2C"
    ],
-   "rank": 8,
+   "rank": 7,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 92,
    "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
    "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
@@ -626,12 +603,12 @@
     "Funding",
     "SaaS & Enterprise"
    ],
-   "rank": 9,
+   "rank": 8,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 92,
    "title": "[Update] Jio Platforms IPO Subscribed 22.19X On Final Day, QIB Portion Booked 70.55X",
    "url": "https://inc42.com/buzz/jio-platforms-ipo-booked-6-76x-on-day-3-so-far-qib-portion-subscribed-14-18x/",
@@ -648,12 +625,12 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 10,
+   "rank": 9,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 92,
    "title": "Zetwerk Makes NSE Debut At 5.5% Premium After ₹5,012 Cr IPO",
    "url": "https://inc42.com/buzz/zetwerk-makes-nse-debut-at-5-5-premium-after-%e2%82%b95012-cr-ipo/",
@@ -671,12 +648,12 @@
     "IPO & Listing",
     "SaaS & Enterprise"
    ],
-   "rank": 11,
+   "rank": 10,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 92,
    "title": "Zetwerk Manufacturing shares list at 5% premium over IPO price",
    "url": "https://economictimes.indiatimes.com/tech/technology/zetwerk-manufacturing-business-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/135134461.cms",
@@ -693,36 +670,35 @@
    "tags": [
     "IPO & Listing"
    ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 91,
+   "title": "RBI Hikes Repo Rate by 25 bps to 5.50%; Switches Stance to Calibrated Tightening",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNemhVSFZwbk41cVlvNVJqbFNWQ2RBbk42enh6RG1jZEJUcFFrbHZrRXZ4QUxuT3Q0eHpRVFhwemJ1SzZrQ2ZoVkVZd1g1M2duam9sX0V2Nk5DYmpDLW4zUU5wdEtHWFFRa2JzUW80MXltYTFEc2cxeVpCMWRCTFBWMUxWUE5TLWwwVlVlVUdCQUt0RllPb3hXRXM3RzhWVl9ITlZILWZZS1VuZDBmY19zZ09ZMlk?oc=5",
+   "date": "2026-10-24",
+   "source": "PSU Connect",
+   "label": "Regulatory",
+   "snippet": "RBI Monetary Policy Committee unanimously raises policy repo rate by 25 basis points to 5.50% in October 2026 meeting. Stance changed to calibrated…",
+   "lead": "New Delhi: The Reserve Bank of India’s Monetary Policy Committee (MPC) has unanimously decided to increase the policy repo rate by 25 basis points to 5.50 per cent. The decision was taken at the MPC meeting held from 5 to 7 October 2026 under the chairmanship of Governor Sanjay Malhotra. Marginal Standing Facility (MSF) rate and Bank Rate stand at 5.75 per cent",
+   "image": "https://images.psuconnect.in/RBI_Hikes_Repo_Rate_by_25_bps_to_5_50_Switches_Stance_to_Calibrated_Tightening.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
    "rank": 12,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "RBI raises repo rate to 5.50% but injects ₹2.5 lakh crore: Is its policy sending mixed signals?",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeVk0Ul80UmVvcVJkbzYzckZ4SEdIWk9JMDU0dzNjWHZFMjJaVDVZaklRaldYdmdBU1BvSTZTbkN4N2J4NFZ3cEJYMk1BVlZWZzlwdk1IT0xfc2RubnVyLVVpb0dnb3ZiQWc5M19oRE01WGJ4eGZaNVdGbU12QzQwUWg0NWU4bElDTnFGazM3eURWbU5qRDhPdTl1d2lHTjVaMFhoc2d1S3hGeDFEQTlLM0Q4eUt0b0R2WnlNaXBCVk1zOG81RkU3cjNDYmlNV0tKYVRCWjFsTDNsbGdLSWUyUUxVaEpJSHN5WWZaMFBNRnpacTjSAfgBQVVfeXFMTktZYUJXWUNzend4aWdONmxEdHlSQklPWWQ1aW5sZU83Y2lDbWZyUlVxWTVlR1RHMU5GdUw5aWc3Yk9OSmdoTWExV09iR1Q1VW1Nekp5azF3UXAxMmE3Si1VM0J5Q3N0OU9pSUgwRHB5LUkwOU4tbHhMcjJGWkxMdkRZeDItV0Frc1JFTHZydzNMXzNYNXNib1BhVW5GZHp4VEQyclpoaVVRbFh6STNNQXByV3k4RFU1SVgwU0RtckduajFqWWczbnJMXzViWllhNXZyNmE5bXI0NGVLRWNNdmNpWEpaU2NLR2lHcVlCWDZXTGhZNDVFTzY?oc=5",
-   "date": "2026-10-23",
-   "source": "Business Today",
-   "label": "Regulatory",
-   "snippet": "The RBI’s repo rate hike to 5.50% has been accompanied by a ₹2.5 lakh crore liquidity injection, raising questions about its monetary policy direction. SBI Research warns that these moves could send mixed signals to markets and affect government bond yields.",
-   "lead": "Basudha Das Updated Oct 23, 2026 3:30 PM IST The Reserve Bank of India (RBI) repo rate is 5.50%, following a 25 basis point hike during the Monetary Policy Committee (MPC) meeting in October 2026. The Reserve Bank of India’s (RBI) decision to raise the repo rate by 25 basis points to 5.50% while injecting ₹2.5 lakh crore into the banking system has raised questions about the consistency of its monetary policy signals. In its latest ...",
-   "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6adb2f487d0c8-rbi-235623162-16x9.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "New product or fund"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
+   "score": 10,
+   "priority": 91,
    "title": "Indian bonds tumble on oil surge, RBI rate hike fears",
    "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-tumble-on-oil-surge-rbi-rate-hike-fears/articleshow/135118875.cms",
    "date": "2026-10-22",
@@ -739,13 +715,13 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 14,
+   "rank": 13,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
+   "score": 10,
+   "priority": 91,
    "title": "Govt bond selloff to continue as RBI policy minutes hint at more rate hikes",
    "url": "https://www.thehindubusinessline.com/markets/govt-bond-selloff-to-continue-as-rbi-policy-minutes-hint-at-more-rate-hikes/article71609906.ece",
    "date": "2026-10-22",
@@ -762,53 +738,30 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "Gold Surges To ₹1.48 Lakh While Silver Tops ₹2.12 Lakh, Easing US Fed Rate Hike Fears Boost Precious",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeTRBeDltYXZpUGVjSjVvUENnT19wdVdSckZ0ZFM4ZGhESmdsTzJkZlpvQjFFWUtwSTdDc1hNeHhyV3NITkJZVzJDbUV5TDFkM0c0enBKZFNZZEJhSS1mWEdUSmFDTUI3bVhmRGstOV9DNlppNWVfNW8yekE1eXMxa0pyazBJcXhLUkd6a0pGdGhZWDY1ZFdpZmJEZVFCS1VqcWVTbTBqcVM3TjA2UGd4a0hqU1FpcWJNMFZVYTdURGE5a1Y2RkRldUcweEc2ak5oN3FrNWtPbV9OU2fSAeABQVVfeXFMUDQxbTFpVVYzRVB3TTB6RGdaREI3bEhqVHBvcV9KX21obDhCZ2hRaEQwQXp4NVp6UG1GTzhfdnh1SmtqSUdWNHRaaWpqVTRvY2ZLaHBQOUJLSjVXVnNLRkpyeHo3MmpZbW9TdnhNUWNjS2pST2xVNmtrM0VjcnEyUk10ZUNCVzZvQmMxcUdsQ2x1c051Mno4Qi1ySXZTVkVpQnBXa3VESTU3dDVnb2FpZGJWVmRzVXI0RS1GZHc5RmtkVDE1Z0VBWjNZaDBsMlNHR3dDejl2ZzBhWFo5aWFiRVU?oc=5",
-   "date": "2026-10-19",
-   "source": "Free Press Journal",
-   "label": "Gold & Silver",
-   "snippet": "Gold rises ₹461 to ₹1,48,379 per 10 grams, while silver gains ₹826 to ₹2,12,013 per kg on MCX as easing US Fed rate hike fears support precious metals.",
-   "lead": "New Delhi: Gold and silver prices moved higher in early trading on Monday, October 19, supported by positive global market trends and easing concerns over another interest rate hike by the US Federal Reserve. Both precious metals recorded gains on the Multi Commodity Exchange (MCX), with investors closely watching US inflation data and upcoming Federal Reserve policy decisions. On the MCX, December gold futures climbed ₹461, or 0.31 ...",
-   "image": "https://media.assettype.com/freepressjournal/2026-09-30/v9z1y8l7/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-09-30T180726.291.jpg",
-   "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Gold & Silver"
-   ],
-   "rank": 16,
+   "rank": 14,
    "must_read": false
   },
   {
    "desk": "Policy",
    "score": 9,
    "priority": 90,
-   "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on October 26, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63861",
+   "title": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0",
    "date": "2026-10-23",
    "source": "RBI",
    "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Monday, October 26, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026 Please refer to Chapter IV of the Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Directions, 2025 dated November 28, 2025 (hereinafter referred to as ‘the Directions’), on Minimum Capital Requirements for Operational Risk. 2. On a review, and in exercise of the powers conferred by Section 35A of the Banking ...",
    "image": null,
    "why": [
-    "Rates and liquidity",
+    "Regulator rulebook change",
+    "Rule change",
     "Regulator: RBI"
    ],
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 17,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -830,7 +783,29 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 18,
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 8,
+   "priority": 80,
+   "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on October 26, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63861",
+   "date": "2026-10-23",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Monday, October 26, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "image": null,
+   "why": [
+    "Rates and liquidity",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 17,
    "must_read": false
   },
   {
@@ -852,29 +827,30 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 19,
+   "rank": 18,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 7,
    "priority": 70,
-   "title": "Does volunteering increase your chances of getting Swiss citizenship?",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMktfejN4bVVIc2JYZVNEd2licEhTY2F6SnZFcENrM1hiY1NmS2tTT3pELThZcjlLc0gtMnFrNlhPVnhJbldsSDlfcktZaXVONVJQRW5XS016Vmc4S1VucEFQRmp1SU1BbVp1UGZJMUNBNGRyOXpSSlFOYnBTSElNOWhiOS11YmwxR3NVTHM4OFJtZXdjaG95QTdlbTRzRkxNSUNn?oc=5",
+   "title": "Immigration policy cuts foreign job seeker interest in Canada by half: report",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQakZ3djBJOUFGSC10OWU0d2VFdEk2OW5KNnZRQ1RuNVBKa2UtTDR3aUFjdDhqTkx4QXAtejRuNktDR1lRNTJFTDMzQVM5V2hSUm5PWGF2NHpGbjR0MGVqcncyREdlcEdJbWtvcEFsX2tKbDktUWczMVR0bXFmT25vZUlqY3Q2anVtZHdNOUo3Um5Rc3RCdERVd2RjQ19RV2hJM1QtNzNOdTEtb3Q5VXpEVS1MWElNemgwTVFFMWlZMW1ad1NLOEZ0TERmX3ZGYlpn?oc=5",
    "date": "2026-10-23",
-   "source": "The Local Switzerland",
-   "label": "Switzerland",
-   "snippet": "In Austria, foreign nationals may qualify for citizenship sooner if they have completed at least three years of voluntary work. Is there a similar rule in Switzerland as well?",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden 1 comment Add The Local as a preferred source In Austria, foreign nationals may qualify for citizenship sooner if they have completed at least three years of voluntary work. Is there a similar rule in Switzerland as well? Concretely, Austrian law ...",
-   "image": null,
+   "source": "Human Resources Director",
+   "label": "Canada",
+   "snippet": "Tighter temporary residency rules are thinning talent pools in some industries, raising hiring risks for Canadian employers",
+   "lead": "Tighter temporary residency rules are thinning talent pools in some industries, raising hiring risks for Canadian employers Tighter temporary residency rules are thinning talent pools in engineering, hospitality and retail, raising hiring risks for Canadian employers Canada's tighter immigration policy has cut foreign job seeker interest in Canadian roles by more than half since 2023, and employers in engineering, hospitality and ...",
+   "image": "https://cdn-res.keymedia.com/cms/images/us/036/0363_639283582538502797.png",
    "why": [
-    "Affects citizenship"
+    "Affects work visas",
+    "Announces a change"
    ],
    "tags": [
-    "Citizenship",
-    "Switzerland"
+    "Work visa",
+    "Canada"
    ],
-   "rank": 20,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -897,6 +873,28 @@
     "PR / Settlement",
     "Norway"
    ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 6,
+   "priority": 60,
+   "title": "Does volunteering increase your chances of getting Swiss citizenship?",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMktfejN4bVVIc2JYZVNEd2licEhTY2F6SnZFcENrM1hiY1NmS2tTT3pELThZcjlLc0gtMnFrNlhPVnhJbldsSDlfcktZaXVONVJQRW5XS016Vmc4S1VucEFQRmp1SU1BbVp1UGZJMUNBNGRyOXpSSlFOYnBTSElNOWhiOS11YmwxR3NVTHM4OFJtZXdjaG95QTdlbTRzRkxNSUNn?oc=5",
+   "date": "2026-10-23",
+   "source": "The Local Switzerland",
+   "label": "Switzerland",
+   "snippet": "In Austria, foreign nationals may qualify for citizenship sooner if they have completed at least three years of voluntary work. Is there a similar rule in Switzerland as well?",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden 1 comment Add The Local as a preferred source In Austria, foreign nationals may qualify for citizenship sooner if they have completed at least three years of voluntary work. Is there a similar rule in Switzerland as well? Concretely, Austrian law ...",
+   "image": null,
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "Switzerland"
+   ],
    "rank": 21,
    "must_read": false
   },
@@ -904,6 +902,28 @@
    "desk": "Policy",
    "score": 6,
    "priority": 60,
+   "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63837",
+   "date": "2026-10-21",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "",
+   "image": null,
+   "why": [
+    "New law or act",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 22,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 5,
+   "priority": 50,
    "title": "A New Beginning Through the Inter-Caste Marriage Incentive Scheme",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2327590",
    "date": "2026-10-23",
@@ -917,28 +937,6 @@
    ],
    "tags": [
     "Energy & Power"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 6,
-   "priority": 60,
-   "title": "RBI issues guidelines on the implementation of Leverage Ratio 2017 Standard",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63854",
-   "date": "2026-10-23",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The Reserve Bank of India had issued the draft Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026 on August 7, 2026 , inviting feedback from stakeholders until August 28, 2026. The draft Amendment Directions proposed to implement the latest leverage ratio framework ('Leverage Ratio 2017 Standard') issued by the Basel Committee on Banking Supervision. 2. Feedback received ...",
-   "image": null,
-   "why": [
-    "Rule change",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
    ],
    "rank": 23,
    "must_read": false
