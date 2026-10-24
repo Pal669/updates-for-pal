@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-24",
- "built": "2026-10-24 07:32 IST",
+ "built": "2026-10-24 09:56 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -26,22 +26,22 @@
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.93,
-   "change_pct": 0.23,
-   "asof": "24 Oct 02:59 IST"
+   "value": 94.94,
+   "change_pct": 0.24,
+   "asof": "24 Oct 09:00 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 111.66,
-   "change_pct": -1.33,
+   "value": 116.72,
+   "change_pct": 3.14,
    "asof": "24 Oct 02:29 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4010.0,
-   "change_pct": -1.24,
+   "value": 4008.0,
+   "change_pct": -1.29,
    "asof": "24 Oct 02:29 IST"
   },
   {
@@ -163,9 +163,53 @@
    ]
   },
   "Startups": {
-   "total": 899,
-   "new_today": 5,
+   "total": 902,
+   "new_today": 8,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 12,
+     "priority": 92,
+     "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+     "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+     "date": "2026-10-22",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+     "lead": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion. The company helps automate and assist with workflow tasks for legal professionals, as the industry moves beyond AI assistants to AI services that help them get work done. The news comes just a month after Harvey, Legora’s biggest competitor, announced a $550 million raise at a $15.5 billion valuation; back in March, ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2296593553.jpg?w=1024",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $8,800M: round or valuation)",
+      "Valuation, listing or profitability signal",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "From Even Health To The Pant Project— Indian Startups Raised Over $184 Mn This Week",
+     "url": "https://inc42.com/buzz/from-even-health-to-the-pant-project-indian-startups-raised-over-184-mn-this-week/",
+     "date": "2026-10-24",
+     "source": "Inc42",
+     "label": "India · Health & Wellness",
+     "snippet": "Indian startup funding activity slowed down in the third week of October, with 17 startups raising over $184 Mn",
+     "lead": "Indian startups raised over $184 Mn across 17 deals between October 19 and 23, down 22% from the previous week AI startups topped the funding charts, raising $93.9 Mn across six deals, followed by healthtech startups, which attracted $60.6 Mn across two deals Venture debt firm Trifecta Capital and early-stage investor Blume Ventures backed two startups each, emerging as the most active investors of the week",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/FG_Oct-23-Soc-100.jpg",
+     "why": [
+      "Funding",
+      "Large deal (about $184M)"
+     ],
+     "tags": [
+      "Funding",
+      "Health & Wellness"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 11,
@@ -209,53 +253,11 @@
       "Funding",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-     "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-     "date": "2026-10-23",
-     "source": "TechCrunch",
-     "label": "Global · Other",
-     "snippet": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
-     "lead": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear Dominic-Madori Davis 4:15 PM PDT · October 22, 2026 Colossal Biosciences’ Ben Lamm and Andruil’s Palmer Luckey had an idea to genetically engineer war dogs for the U.S. military, law enforcement, and other emergency response teams. That idea, on Thursday, announced its emergence from stealth as Warhound , armed with $200 million in funding from investors ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Warhound.png?resize=1200,675",
-     "why": [
-      "Funding",
-      "Large deal (about $200M)",
-      "Also covered by 1 other outlet(s)"
-     ],
-     "tags": [
-      "Funding"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Apple India’s FY26 Profit Jumps 66% YoY To ₹5,311 Cr, Revenue Up 31%",
-     "url": "https://inc42.com/buzz/apple-indias-fy26-profit-jumps-66-yoy-to-%e2%82%b95311-cr-revenue-up-31/",
-     "date": "2026-10-20",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "Apple India’s FY26 net profit rose 66% to ₹5,311 Cr as operating revenue crossed ₹1 lakh Cr, while expenses surged 28%",
-     "lead": "Apple India’s net profit jumped 66% YoY to ₹5,311 Cr in FY26, while operating revenue grew 31.4% to ₹1.04 Lakh Cr The iPhone-maker’s profit growth outpaced revenue expansion as its net profit margin improved to 5.1% from 4% in FY25 Apple India’s total expenses during the fiscal year under review grew 28% to ₹96,224 Cr from ₹75,190.7 Cr it reported in FY25",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/FTR-26-1.jpg",
-     "why": [
-      "Financials",
-      "Very large figure in headline (about $559M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Financials"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 1311,
+   "total": 1313,
    "new_today": 2,
    "items": [
     {
@@ -316,26 +318,6 @@
      ],
      "tags": [
       "Australia"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 50,
-     "title": "Campaign calls for Austrian citizenship at birth for children of long-term foreign residents",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQczY5NDAzWkZMdXFIbzVrQW9oVE0yQWdsQ082a3NaMnBIcnlYbzNJLXVmcHhqMm5nQlNQQnBlSllKd2tTT2FjR25MdEJsb3UwemQ0YmdsOWUyVTRabUQ1U2JQLTd1WS0yYkhpRjlTb2tDS3BwMWpMWlFDYXRtenNZZzExcnZTVVNEakMxbmtsYWVQenE1Z1JGLUMxeXYwWmxWczBEdkF2RE1JdnR6SzA4SUNqYlUxbWFOZThoZExtV29NamM?oc=5",
-     "date": "2026-10-21",
-     "source": "The Local Austria",
-     "label": "Austria",
-     "snippet": "Currently, being born in Austria does not guarantee Austrian citizenship. A new initiative proposes changing the law so that children of foreign nationals who have lived legally in Austria for several years are automatically granted citizenship.",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Currently, being born in Austria does not guarantee Austrian citizenship. A new initiative proposes changing the law so that children of foreign nationals who have lived legally in Austria for several years are ...",
-     "image": null,
-     "why": [
-      "Affects citizenship"
-     ],
-     "tags": [
-      "Citizenship",
-      "Austria"
      ]
     }
    ]
@@ -603,6 +585,29 @@
    "desk": "Startups",
    "score": 12,
    "priority": 92,
+   "title": "Rs 10,000 Cr into restaurants. But why do 80% fail? Here's the Hotshare F&B investment playbook",
+   "url": "https://yourstory.com/2026/10/the-hotshare-fb-investment-playbook",
+   "date": "2026-10-24",
+   "source": "YourStory",
+   "label": "India · Commerce & D2C",
+   "snippet": "In this episode of the Prime Venture Partners Podcast, Lavanya, Founder, Hotshare, an F&B investment platform, explains what she looks for before funding a restaurant.  The founder of burger brand ‘Beyondburg’, one of Hotshare’s portfolio companies, joins the podcast to share the brand's journey.",
+   "lead": "Rs 10,000 Cr into restaurants. But why do 80% fail? Here's the Hotshare F&B investment playbook In this episode of the Prime Venture Partners Podcast, Lavanya, Founder, Hotshare, an F&B investment platform, explains what she looks for before funding a restaurant. The founder of burger brand ‘Beyondburg’, one of Hotshare’s portfolio companies, joins the podcast to share the brand's journey. Jerome Manuel 60 Stories Saturday October 24, ...",
+   "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/HotshareThumbnail169-1792761804306.png",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $1,053M: round or valuation)"
+   ],
+   "tags": [
+    "Funding",
+    "Commerce & D2C"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 92,
    "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
    "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
    "date": "2026-10-23",
@@ -620,7 +625,7 @@
     "Funding",
     "SaaS & Enterprise"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -642,7 +647,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -665,7 +670,7 @@
     "IPO & Listing",
     "SaaS & Enterprise"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -687,7 +692,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -709,31 +714,6 @@
    ],
    "tags": [
     "Regulatory"
-   ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 92,
-   "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
-   "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
-   "date": "2026-10-22",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
-   "lead": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion. The company helps automate and assist with workflow tasks for legal professionals, as the industry moves beyond AI assistants to AI services that help them get work done. The news comes just a month after Harvey, Legora’s biggest competitor, announced a $550 million raise at a $15.5 billion valuation; back in March, ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2296593553.jpg?w=1024",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $8,800M: round or valuation)",
-    "Valuation, listing or profitability signal",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
    ],
    "rank": 13,
    "must_read": false
