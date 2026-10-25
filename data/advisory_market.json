@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24 22:58 IST",
+ "updated": "2026-10-25 22:26 IST",
  "notes": [],
  "nse_stamp": "23-Oct-2026 15:30",
  "indices": [
@@ -445,8 +445,8 @@
  "periods": {
   "previousDay": "23-Oct-2026",
   "oneWeekAgo": "16-Oct-2026",
-  "oneMonthAgo": "23-Sep-2026",
-  "oneYearAgo": "23-Oct-2025"
+  "oneMonthAgo": "24-Sep-2026",
+  "oneYearAgo": "24-Oct-2025"
  },
  "flows": {
   "date": "23-Oct-2026",
@@ -590,13 +590,13 @@
   },
   {
    "name": "USD/INR",
-   "value": 94.94,
+   "value": 94.93,
    "dp": 2,
-   "d1": 0.24,
-   "w1": 0.44,
-   "m1": -0.84,
-   "y1": 8.16,
-   "asof": "24 Oct 2026 09:00 IST",
+   "d1": 0.23,
+   "w1": 0.43,
+   "m1": -1.28,
+   "y1": 8.15,
+   "asof": "25 Oct 2026 19:22 IST",
    "source": "Yahoo Finance"
   },
   {
@@ -605,9 +605,9 @@
    "dp": 2,
    "d1": 0.03,
    "w1": -0.16,
-   "m1": -2.35,
+   "m1": -2.52,
    "y1": 4.34,
-   "asof": "24 Oct 2026 09:00 IST",
+   "asof": "25 Oct 2026 09:00 IST",
    "source": "Yahoo Finance"
   }
  ],
@@ -694,48 +694,48 @@
  "reits": [
   {
    "name": "Embassy Office Parks REIT",
-   "value": 423.78,
+   "value": 422.0,
    "dp": 2,
-   "d1": -0.01,
-   "w1": -2.68,
-   "m1": -3.09,
-   "y1": -1.65,
+   "d1": -0.43,
+   "w1": -3.09,
+   "m1": -3.49,
+   "y1": -2.07,
    "asof": "23 Oct 2026 15:29 IST",
    "kind": "REIT",
    "source": "Yahoo Finance (BSE ticker)"
   },
   {
    "name": "Mindspace Business Parks REIT",
-   "value": 488.22,
+   "value": 488.45,
    "dp": 2,
-   "d1": -0.9,
-   "w1": -1.13,
-   "m1": -2.87,
-   "y1": 5.24,
+   "d1": -0.85,
+   "w1": -1.08,
+   "m1": -2.83,
+   "y1": 5.29,
    "asof": "23 Oct 2026 15:29 IST",
    "kind": "REIT",
    "source": "Yahoo Finance (BSE ticker)"
   },
   {
    "name": "Brookfield India REIT",
-   "value": 302.07,
+   "value": 305.59,
    "dp": 2,
-   "d1": -3.79,
-   "w1": -5.6,
-   "m1": -10.94,
-   "y1": -11.44,
+   "d1": -2.67,
+   "w1": -4.5,
+   "m1": -9.9,
+   "y1": -10.41,
    "asof": "23 Oct 2026 15:29 IST",
    "kind": "REIT",
    "source": "Yahoo Finance (BSE ticker)"
   },
   {
    "name": "Nexus Select Trust",
-   "value": 157.82,
+   "value": 158.12,
    "dp": 2,
-   "d1": -0.86,
-   "w1": -3.68,
-   "m1": -5.1,
-   "y1": -3.27,
+   "d1": -0.67,
+   "w1": -3.5,
+   "m1": -4.92,
+   "y1": -3.09,
    "asof": "23 Oct 2026 15:24 IST",
    "kind": "REIT",
    "source": "Yahoo Finance (BSE ticker)"
@@ -754,24 +754,24 @@
   },
   {
    "name": "PowerGrid InvIT",
-   "value": 102.77,
+   "value": 102.8,
    "dp": 2,
-   "d1": -0.15,
-   "w1": -0.92,
-   "m1": 1.17,
-   "y1": 7.09,
+   "d1": -0.12,
+   "w1": -0.89,
+   "m1": 1.2,
+   "y1": 7.12,
    "asof": "23 Oct 2026 15:29 IST",
    "kind": "InvIT",
    "source": "Yahoo Finance (BSE ticker)"
   },
   {
    "name": "IRB InvIT Fund",
-   "value": 60.96,
+   "value": 61.01,
    "dp": 2,
-   "d1": -1.93,
-   "w1": -4.26,
-   "m1": -5.36,
-   "y1": -2.82,
+   "d1": -1.85,
+   "w1": -4.18,
+   "m1": -5.28,
+   "y1": -2.74,
    "asof": "23 Oct 2026 15:29 IST",
    "kind": "InvIT",
    "source": "Yahoo Finance (BSE ticker)"
