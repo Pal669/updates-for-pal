@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-26",
- "built": "2026-10-26 10:45 IST",
+ "built": "2026-10-26 22:30 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,44 +12,44 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22618.0,
-   "change_pct": 0.08,
-   "asof": "26 Oct 10:45 IST"
+   "value": 22753.0,
+   "change_pct": 0.68,
+   "asof": "26 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73269.0,
-   "change_pct": 0.2,
-   "asof": "26 Oct 10:30 IST"
+   "value": 73607.0,
+   "change_pct": 0.66,
+   "asof": "26 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.07,
-   "change_pct": 0.38,
-   "asof": "26 Oct 10:45 IST"
+   "value": 95.18,
+   "change_pct": 0.49,
+   "asof": "26 Oct 20:45 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 109.64,
-   "change_pct": -6.07,
-   "asof": "26 Oct 10:34 IST"
+   "value": 111.98,
+   "change_pct": -4.06,
+   "asof": "26 Oct 22:20 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4031.0,
-   "change_pct": 0.58,
-   "asof": "26 Oct 10:35 IST"
+   "value": 4032.0,
+   "change_pct": 0.61,
+   "asof": "26 Oct 22:20 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 4.99,
-   "change_pct": 0.71,
-   "asof": "24 Oct 00:29 IST"
+   "value": 4.98,
+   "change_pct": -0.2,
+   "asof": "26 Oct 22:15 IST"
   }
  ],
  "features": {
@@ -79,62 +79,23 @@
  },
  "desks": {
   "Policy": {
-   "total": 241,
-   "new_today": 0,
+   "total": 249,
+   "new_today": 8,
    "items": [
     {
      "desk": "Policy",
-     "score": 5,
-     "priority": 50,
-     "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on October 23, 2026",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63844",
-     "date": "2026-10-22",
+     "score": 6,
+     "priority": 55,
+     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63837",
+     "date": "2026-10-21",
      "source": "RBI",
      "label": "Banking & Rates",
      "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on October 23, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
+     "lead": "",
      "image": null,
      "why": [
-      "Regulator: RBI",
-      "Large outlay (Rs 10,000 Cr or more)"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 4,
-     "priority": 40,
-     "title": "A New Beginning Through the Inter-Caste Marriage Incentive Scheme",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2327590",
-     "date": "2026-10-23",
-     "source": "PIB",
-     "label": "Energy & Power",
-     "snippet": "The journey of Mr. Amit Patil and Mrs. Sneha Deshmukh (names changed) reflects the positive impact o",
-     "lead": "Ministry of Social Justice & Empowerment A New Beginning Through the Inter-Caste Marriage Incentive Scheme Posted On: 23 OCT 2026 7:25PM by PIB Delhi The journey of Mr. Amit Patil and Mrs. Sneha Deshmukh (names changed) reflects the positive impact of the progressive initiative with regard to encouraging inter caste marriage in order to establish a tradition of inter community harmony and peaceful co-existence besides strengthening ...",
-     "image": null,
-     "why": [
-      "Subsidy or incentive"
-     ],
-     "tags": [
-      "Energy & Power"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 4,
-     "priority": 40,
-     "title": "RBI issues guidelines on the implementation of Leverage Ratio 2017 Standard",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63854",
-     "date": "2026-10-23",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "The Reserve Bank of India had issued the draft Reserve Bank of India (Commercial Banks – Prudential Norms on Capital Adequacy) Eleventh Amendment Directions, 2026 on August 7, 2026 , inviting feedback from stakeholders until August 28, 2026. The draft Amendment Directions proposed to implement the latest leverage ratio framework ('Leverage Ratio 2017 Standard') issued by the Basel Committee on Banking Supervision. 2. Feedback received ...",
-     "image": null,
-     "why": [
-      "Rule change",
+      "New law or act",
       "Regulator: RBI"
      ],
      "tags": [
@@ -143,15 +104,53 @@
     },
     {
      "desk": "Policy",
-     "score": 2,
-     "priority": 20,
-     "title": "NHAI Issues Guidelines for Upgradation, Maintenance and Smart Monitoring of Toilet Facilities & Parking at National Highway Toll Plazas",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2327363",
-     "date": "2026-10-23",
+     "score": 5,
+     "priority": 45,
+     "title": "TRAI releases Recommendations on ‘Authorisation Framework for Application-based Linear Television Distribution (ALTD) Services’",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2328480",
+     "date": "2026-10-26",
+     "source": "PIB",
+     "label": "Technology & Telecom",
+     "snippet": "The Telecom Regulatory Authority of India (TRAI) has today released Recommendations on ‘Authorisatio",
+     "lead": "Ministry of Communications TRAI releases Recommendations on ‘Authorisation Framework for Application-based Linear Television Distribution (ALTD) Services’ Posted On: 26 OCT 2026 4:13PM by PIB Delhi The Telecom Regulatory Authority of India (TRAI) has today released Recommendations on ‘Authorisation Framework for Application-based Linear Television Distribution (ALTD) Services’. In view of the evolving broadcasting landscape, Ministry ...",
+     "image": null,
+     "why": [
+      "Rule change"
+     ],
+     "tags": [
+      "Technology & Telecom"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 45,
+     "title": "Principal Controller of Communication Accounts releases schedule for Telecom Pensioners Jeevan Praman Camps across Delhi NCR for the month of November",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2328345",
+     "date": "2026-10-26",
+     "source": "PIB",
+     "label": "Technology & Telecom",
+     "snippet": "Principal Controller of Communication Accounts, Department of Telecom (DoT) is organizing Telecom Pe",
+     "lead": "Ministry of Communications Principal Controller of Communication Accounts releases schedule for Telecom Pensioners Jeevan Praman Camps across Delhi NCR for the month of November Posted On: 26 OCT 2026 12:20PM by PIB Delhi Principal Controller of Communication Accounts, Department of Telecom (DoT) is organizing Telecom Pensioners Jeevan Praman Camps during the month of November , 2026 in the premises O/o Pr. CCA Delhi, Delhi Sanchar ...",
+     "image": null,
+     "why": [
+      "Rule change"
+     ],
+     "tags": [
+      "Technology & Telecom"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 45,
+     "title": "Ministry of Road Transport and Highways (MoRTH) updates rules to facilitate E85/E100 flex fuel vehicles",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2328642",
+     "date": "2026-10-26",
      "source": "PIB",
      "label": "Energy & Power",
-     "snippet": "In a path-breaking initiative to enhance citizen-centric services along National Highways, National",
-     "lead": "Ministry of Road Transport & Highways NHAI Issues Guidelines for Upgradation, Maintenance and Smart Monitoring of Toilet Facilities & Parking at National Highway Toll Plazas Guidelines focus on cleanliness, safety, accessibility, round-the-clock services and technology-based monitoring Posted On: 23 OCT 2026 4:00PM by PIB Delhi In a path-breaking initiative to enhance citizen-centric services along National Highways, National Highways ...",
+     "snippet": "The Ministry of Road Transport and Highways has notified amendments to the Central Motor Vehicles Ru",
+     "lead": "Ministry of Road Transport & Highways Ministry of Road Transport and Highways (MoRTH) updates rules to facilitate E85/E100 flex fuel vehicles Posted On: 26 OCT 2026 6:38PM by PIB Delhi The Ministry of Road Transport and Highways has notified amendments to the Central Motor Vehicles Rules, 1989, to support the adoption of flex fuel vehicles capable of using E85 and other high ethanol fuels. The amendments update the emission ...",
      "image": null,
      "why": [
       "Rule change"
@@ -163,13 +162,76 @@
    ]
   },
   "Startups": {
-   "total": 911,
-   "new_today": 3,
+   "total": 944,
+   "new_today": 36,
    "items": [
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 91,
+     "priority": 77,
+     "title": "Rs 10,000 Cr into restaurants. But why do 80% fail? Here's the Hotshare F&B investment playbook",
+     "url": "https://yourstory.com/2026/10/the-hotshare-fb-investment-playbook",
+     "date": "2026-10-24",
+     "source": "YourStory",
+     "label": "India · Commerce & D2C",
+     "snippet": "In this episode of the Prime Venture Partners Podcast, Lavanya, Founder, Hotshare, an F&B investment platform, explains what she looks for before funding a restaurant.  The founder of burger brand ‘Beyondburg’, one of Hotshare’s portfolio companies, joins the podcast to share the brand's journey.",
+     "lead": "Rs 10,000 Cr into restaurants. But why do 80% fail? Here's the Hotshare F&B investment playbook In this episode of the Prime Venture Partners Podcast, Lavanya, Founder, Hotshare, an F&B investment platform, explains what she looks for before funding a restaurant. The founder of burger brand ‘Beyondburg’, one of Hotshare’s portfolio companies, joins the podcast to share the brand's journey. Jerome Manuel 60 Stories Saturday October 24, ...",
+     "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/HotshareThumbnail169-1792761804306.png",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $1,053M: round or valuation)"
+     ],
+     "tags": [
+      "Funding",
+      "Commerce & D2C"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+     "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+     "date": "2026-10-23",
+     "source": "TechCrunch",
+     "label": "Global · SaaS & Enterprise",
+     "snippet": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
+     "lead": "Daytona Platforms announced on Friday that it had raised a $60 million Series B round at a $1 billion valuation led by FirstMark Growth. The company says it has now raised a total of $91 million. The New York-based startup has attracted not just FirstMark (which also led its $24 million Series A in February), but also a host of well-known angels in this latest round. Daytona says they include Stripe’s Patrick Collison, Shopify’s Tobi ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2023/11/Daytona_Founders-e1698845569762.jpg?resize=1200,676",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $1,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "SaaS & Enterprise"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "[Update] Jio Platforms IPO Subscribed 22.19X On Final Day, QIB Portion Booked 70.55X",
+     "url": "https://inc42.com/buzz/jio-platforms-ipo-booked-6-76x-on-day-3-so-far-qib-portion-subscribed-14-18x/",
+     "date": "2026-10-23",
+     "source": "Inc42",
+     "label": "India · Other",
+     "snippet": "Reliance Industries’ digital services arm Jio Platforms’ IPO was subscribed 6.76X as of 11:48 IST on the third and final day of bidding",
+     "lead": "Qualified institutional buyers (QIBs) led demand, subscribing their allotted portion 70.55X, with bids for 345.76 Cr shares against 4.90 Cr shares reserved for the category. Investors bid for 133.51 Cr shares against 19.75 Cr shares on offer, according to BSE subscription data. The overall subscription rose from 5.57X at the end of the second day . Within the institutional segment, domestic financial institutions, including banks and ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/jio-PC-social-.png",
+     "why": [
+      "IPO & Listing",
+      "Very large figure in headline (about $3,180M: round or valuation)"
+     ],
+     "tags": [
+      "IPO & Listing"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
      "title": "Zetwerk Makes NSE Debut At 5.5% Premium After ₹5,012 Cr IPO",
      "url": "https://inc42.com/buzz/zetwerk-makes-nse-debut-at-5-5-premium-after-%e2%82%b95012-cr-ipo/",
      "date": "2026-10-23",
@@ -186,77 +248,75 @@
       "IPO & Listing",
       "SaaS & Enterprise"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 91,
-     "title": "Zetwerk Manufacturing shares list at 5% premium over IPO price",
-     "url": "https://economictimes.indiatimes.com/tech/technology/zetwerk-manufacturing-business-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/135134461.cms",
-     "date": "2026-10-23",
-     "source": "ET Startups",
-     "label": "India · Other",
-     "snippet": "The Rs 5,012.33 crore IPO comprises a fresh issue of shares worth Rs 2,830 crore and an offer for sale (OFS) of 14.45 crore shares worth approximately Rs 2,182 crore. While the proceeds from the fresh issue will go to the company, the OFS proceeds will accrue to the selling shareholders.",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1950109,resizemode-75,msid-135134461/tech/technology/zetwerk-manufacturing-business-shares-to-list-today-check-gmp-ahead-of-debut.jpg",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $528M: round or valuation)"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 91,
-     "title": "Eternal clocks Rs 125 crore profit in Q2FY27, revenue zooms 78% to Rs 24,138 crore",
-     "url": "https://www.medianama.com/2026/10/223-eternal-125-crore-profit-q2fy27/",
-     "date": "2026-10-22",
-     "source": "MediaNama",
-     "label": "India · Commerce & D2C",
-     "snippet": "Food delivery firm Eternal posted a net profit of Rs 125 cr in Q2FY27 up 92% from Rs 65 cr in the same period last year as revenue grew 78%",
-     "lead": "Food delivery and quick commerce firm Eternal posted a consolidated net profit of Rs 125 crore in the second quarter ended September 2026 (Q2 FY27), up 92% from Rs 65 crore in the same quarter last year. Revenue from operations zoomed 78% to Rs 24,138 crore from Rs 13,590 crore in the year-ago quarter. Sequentially, it grew 19% from Rs 20,211 crore. The sharp year-on-year (YoY) increase in operating revenue is mainly due to a shift to ...",
-     "image": "https://www.medianama.com/wp-content/uploads/2025/02/zomato-eternal.png",
-     "why": [
-      "Financials",
-      "Very large figure in headline (about $2,541M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Financials",
-      "Commerce & D2C"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 91,
-     "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-     "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-     "date": "2026-10-22",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
-     "lead": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation Julie Bort 1:57 PM PDT · October 21, 2026 Year-old startup Flapping Airplanes has wowed Silicon Valley with an impressive founding team and a mission to find ways to train large models with less data. On Wednesday, the company announced it had raised a $1 billion Series A round, co-led by Index and Lux, reportedly at a $6 billion valuation. The round comes just nine ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/02/Flapping-Airplanes-founders-photo.jpg?resize=1200,821",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $6,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 1350,
-   "new_today": 4,
+   "total": 1364,
+   "new_today": 18,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 7,
+     "priority": 70,
+     "title": "Vietnamese students top South Korea's visa overstayers with over 26,200 cases",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcklYRlUya01QQ29EQTBpOVNEZEZCUUVsN0pHSWY2Sm4yTUNmSmpJczdic1h6bC1OazRvRWlEcUo2d1doRjZtQjE1VzdSOGstRzZIOWs4UG5xUnViLV9CZXNOcS1fZ3gwdjA4WXo1WXlkbER2STh5Mkk5azRPanQ5YzVZVXVkOHFUSUk1bDh1YUZ1aW5LLVotTEc2TEY0UUVlLWZfb0pFeVRnX3Y1UlEtemZGUGVhMEN4aUpHSG4waWVILUdSVEQ3YUh2Z3NtY2s?oc=5",
+     "date": "2026-10-26",
+     "source": "VnExpress International",
+     "label": "South Korea",
+     "snippet": "More than 26,200 Vietnamese students have overstayed their visas in South Korea, the highest number among all nationalities.",
+     "lead": "News Politics Education Environment Traffic Crime Brainteaser Copy link Most Read 1. World's second most visited country sees nearly half its tourism activity outside peak season 2. Singaporean billionaire Peter Lim sells 42% stake in Valencia football club 3. Malaysian tourist falls into 10-meter-deep hole in Da Lat 4. Meet Nathan Chen, the 17-year-old Chinese AI prodigy turning heads in Silicon Valley 5. Indonesia imposes record ...",
+     "image": "https://vcdn1-english.vnecdn.net/2026/10/24/pexelsmiami30224498500-1792822-5262-4156-1792824920.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=4Kve_AjfLzFG571f6E8RFA",
+     "why": [
+      "Major story (8 headlines that day)"
+     ],
+     "tags": [
+      "Student / Graduate",
+      "South Korea"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 7,
+     "priority": 70,
+     "title": "Denmark delays new citizenship screening model – what it means for applicants",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRlkybTdwQmdfUEFqS0VoMzJ5bEI0ZHFKc0hkMm9zeHlVVEdhajRGTVJrRE5Oc3RCTUFSOTFyX3FFNzE4WG0zQkhWT0YzbnI2R3NXaE5Tam1nZi1hNjhPdTVzWmRzWHViMDBWMm9aMDhCbTNaZ2xyU1Z0c0ZYN292azB3aDhkU0t6TzY2eVdTSXdIU3ZoVEhXMGI2VE8tVGdJTDV4TTl1NWQ3QWhjcWl6X0xRVU4?oc=5",
+     "date": "2026-10-24",
+     "source": "The Copenhagen Post",
+     "label": "Denmark",
+     "snippet": "The expert group tasked with examining the possibilities for a screening model for citizenship applicants is facing further delays in its work. The Ministry of Immigration and Integration writes this in a press release. – Due to the scope and complexity of the work, we cannot manage to deliver our recommendations around the turn of […]",
+     "lead": "The expert group tasked with examining the possibilities for a screening model for citizenship applicants is facing further delays in its work. The Ministry of Immigration and Integration writes this in a press release. – Due to the scope and complexity of the work, we cannot manage to deliver our recommendations around the turn of the year. Instead, I expect that we will conclude our work in mid-March next year, says Henrik Thomassen, ...",
+     "image": null,
+     "why": [
+      "Affects citizenship",
+      "Announces a change"
+     ],
+     "tags": [
+      "Citizenship",
+      "Denmark"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 7,
+     "priority": 70,
+     "title": "Indians, Brits and Syrians top Norway's permanent residency list",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmdwZjNIMVpVT2VYWUNvbktncDBwcFpYWTZPV3NJQ01BTmU2RkMzSHd2NU1pMFpCY1p5WmhVbW10OUpxRE9IeGpSaFM5ck1wNmliZnBIZndHMXZKZWFWcjJkQXJZb29QMTI2R0thSlJGczRFS0l1R2g5b2Y4M3VVNXhxOEpUM3ZDTlJOeWJ4TVdpblJuYzhqeW92Yw?oc=5",
+     "date": "2026-10-20",
+     "source": "The Local Norway",
+     "label": "Norway",
+     "snippet": "Gaining permanent residency in Norway is a significant achievement for every foreigner who is building a new life in the nordic country; however some nationalities stand out for both the number of applicants and their high approval rates.",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Gaining permanent residency in Norway is a significant achievement for every foreigner who is building a new life in the nordic country; however some nationalities stand out for both the number of applicants and their ...",
+     "image": null,
+     "why": [
+      "Affects permanent residence",
+      "Mentions India or Indians"
+     ],
+     "tags": [
+      "PR / Settlement",
+      "Norway"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 6,
@@ -276,66 +336,6 @@
      "tags": [
       "PR / Settlement",
       "Japan"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 50,
-     "title": "Vietnamese students top South Korea's visa overstayers with over 26,200 cases",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcklYRlUya01QQ29EQTBpOVNEZEZCUUVsN0pHSWY2Sm4yTUNmSmpJczdic1h6bC1OazRvRWlEcUo2d1doRjZtQjE1VzdSOGstRzZIOWs4UG5xUnViLV9CZXNOcS1fZ3gwdjA4WXo1WXlkbER2STh5Mkk5azRPanQ5YzVZVXVkOHFUSUk1bDh1YUZ1aW5LLVotTEc2TEY0UUVlLWZfb0pFeVRnX3Y1UlEtemZGUGVhMEN4aUpHSG4waWVILUdSVEQ3YUh2Z3NtY2s?oc=5",
-     "date": "2026-10-26",
-     "source": "VnExpress International",
-     "label": "South Korea",
-     "snippet": "More than 26,200 Vietnamese students have overstayed their visas in South Korea, the highest number among all nationalities.",
-     "lead": "News Politics Education Environment Traffic Crime Brainteaser Copy link Most Read 1. World's second most visited country sees nearly half its tourism activity outside peak season 2. Singaporean billionaire Peter Lim sells 42% stake in Valencia football club 3. Malaysian tourist falls into 10-meter-deep hole in Da Lat 4. Meet Nathan Chen, the 17-year-old Chinese AI prodigy turning heads in Silicon Valley 5. Indonesia imposes record ...",
-     "image": "https://vcdn1-english.vnecdn.net/2026/10/24/pexelsmiami30224498500-1792822-5262-4156-1792824920.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=4Kve_AjfLzFG571f6E8RFA",
-     "why": [
-      "High on the desk's ranking"
-     ],
-     "tags": [
-      "Student / Graduate",
-      "South Korea"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 50,
-     "title": "Does volunteering increase your chances of getting Swiss citizenship?",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMktfejN4bVVIc2JYZVNEd2licEhTY2F6SnZFcENrM1hiY1NmS2tTT3pELThZcjlLc0gtMnFrNlhPVnhJbldsSDlfcktZaXVONVJQRW5XS016Vmc4S1VucEFQRmp1SU1BbVp1UGZJMUNBNGRyOXpSSlFOYnBTSElNOWhiOS11YmwxR3NVTHM4OFJtZXdjaG95QTdlbTRzRkxNSUNn?oc=5",
-     "date": "2026-10-23",
-     "source": "The Local Switzerland",
-     "label": "Switzerland",
-     "snippet": "In Austria, foreign nationals may qualify for citizenship sooner if they have completed at least three years of voluntary work. Is there a similar rule in Switzerland as well?",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden 1 comment Add The Local as a preferred source In Austria, foreign nationals may qualify for citizenship sooner if they have completed at least three years of voluntary work. Is there a similar rule in Switzerland as well? Concretely, Austrian law ...",
-     "image": null,
-     "why": [
-      "Affects citizenship"
-     ],
-     "tags": [
-      "Citizenship",
-      "Switzerland"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 50,
-     "title": "Campaign calls for Austrian citizenship at birth for children of long-term foreign residents",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQczY5NDAzWkZMdXFIbzVrQW9oVE0yQWdsQ082a3NaMnBIcnlYbzNJLXVmcHhqMm5nQlNQQnBlSllKd2tTT2FjR25MdEJsb3UwemQ0YmdsOWUyVTRabUQ1U2JQLTd1WS0yYkhpRjlTb2tDS3BwMWpMWlFDYXRtenNZZzExcnZTVVNEakMxbmtsYWVQenE1Z1JGLUMxeXYwWmxWczBEdkF2RE1JdnR6SzA4SUNqYlUxbWFOZThoZExtV29NamM?oc=5",
-     "date": "2026-10-21",
-     "source": "The Local Austria",
-     "label": "Austria",
-     "snippet": "Currently, being born in Austria does not guarantee Austrian citizenship. A new initiative proposes changing the law so that children of foreign nationals who have lived legally in Austria for several years are automatically granted citizenship.",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Currently, being born in Austria does not guarantee Austrian citizenship. A new initiative proposes changing the law so that children of foreign nationals who have lived legally in Austria for several years are ...",
-     "image": null,
-     "why": [
-      "Affects citizenship"
-     ],
-     "tags": [
-      "Citizenship",
-      "Austria"
      ]
     }
    ]
@@ -431,26 +431,47 @@
  },
  "items": [
   {
-   "desk": "Startups",
+   "desk": "Policy",
    "score": 11,
    "priority": 100,
-   "title": "Startup funding falls below $100M; Deeptech startups look to go global",
-   "url": "https://yourstory.com/2026/10/startup-funding-falls-below-100m",
+   "title": "Monthly Flash Report on Central Sector Infrastructure Projects tracks 1,853 Infrastructure Projects worth ₹37.56 lakh crore as of September 2026",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2328472",
    "date": "2026-10-26",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "Venture capital funding in the third week of October recorded a sharp fall due to lower number of deals and absence of large value transactions.",
-   "lead": "Startup funding falls below $100M; Deeptech startups look to go global Venture capital funding in the third week of October recorded a sharp fall due to lower number of deals and absence of large value transactions. Team YS 17419 Stories Monday October 26, 2026 , 4 min Read The AI boom is fuelling a datacentre expansion, but local communities are pushing back. In the UK, residents are raising concerns about noise, pollution, and ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/LatestPPTTemplates1-1780148922353-1783177491831.jpg",
+   "source": "PIB",
+   "label": "Banking & Rates",
+   "snippet": "Some of the Big-Ticket Projects completed\r\n\r\no Project – “Buxar Thermal Power Project [1320 MW]” (₹1",
+   "lead": "Ministry of Statistics & Programme Implementation Monthly Flash Report on Central Sector Infrastructure Projects tracks 1,853 Infrastructure Projects worth ₹37.56 lakh crore as of September 2026 ₹17.73 Lakh Crore Spent on Ongoing Infrastructure Projects, accounting for approx. 47% of Latest Project Cost (₹37.56 lakh crore) Transport & Logistics and Energy Sectors Account for 83.4% (1545) of the Total Projects 1853 under Monitoring ...",
+   "image": null,
    "why": [
-    "Funding",
-    "Large deal (about $100M)"
+    "Rates and liquidity",
+    "Large outlay (Rs 10,000 Cr or more)"
    ],
    "tags": [
-    "Funding",
-    "AI & Deeptech"
+    "Banking & Rates"
    ],
    "rank": 1,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 13,
+   "priority": 100,
+   "title": "Anthropic files for IPO even as losses surge to $80B",
+   "url": "https://yourstory.com/2026/10/anthropic-files-for-ipo-even-as-losses-surge-to-80-billion",
+   "date": "2026-10-26",
+   "source": "YourStory",
+   "label": "India · Other",
+   "snippet": "Anthropic will be listed on the Nasdaq stock exchange and will trade under the name of ANT.",
+   "lead": "Anthropic files for IPO even as losses surge to $80B Anthropic will be listed on the Nasdaq stock exchange and will trade under the name of ANT. Team YS 17430 Stories Monday October 26, 2026 , 2 min Read Anthropic, one of the leading artificial intelligence (AI) companies and the developer of the large language model Claude, has filed for an initial public offering (IPO), moving closer to becoming a publicly listed company. The company ...",
+   "image": "https://images.the-captable.com/cs/158/11718bd02d6d11e9aa979329348d4c3e/AnthropicFeatureImage-1791172568483.jpg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $80,000M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 2,
    "must_read": true
   },
   {
@@ -474,55 +495,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 2,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 100,
-   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-   "date": "2026-10-23",
-   "source": "TechCrunch",
-   "label": "Global · Other",
-   "snippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-   "lead": "OpenAI is reportedly close to securing another mega round of private funding, rather than plowing ahead with an IPO. The AI lab is working on raising up to $30 billion at a $1.25 trillion pre-money valuation in a round led by Coatue and investors in UAE, sources told CNBC . This follows a similar report by Bloomberg a month ago which said the AI lab was working on raising $30 billion at a $1.4 trillion valuation. Terms are still being ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $30,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
    "rank": 3,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 100,
-   "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
-   "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
-   "date": "2026-10-22",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
-   "lead": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion. The company helps automate and assist with workflow tasks for legal professionals, as the industry moves beyond AI assistants to AI services that help them get work done. The news comes just a month after Harvey, Legora’s biggest competitor, announced a $550 million raise at a $15.5 billion valuation; back in March, ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2296593553.jpg?w=1024",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $8,800M: round or valuation)",
-    "Valuation, listing or profitability signal",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 4,
    "must_read": true
   },
   {
@@ -546,7 +519,7 @@
     "Citizenship",
     "United Kingdom"
    ],
-   "rank": 5,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -571,30 +544,30 @@
     "Work visa",
     "New Zealand"
    ],
-   "rank": 6,
-   "must_read": false
+   "rank": 5,
+   "must_read": true
   },
   {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 100,
-   "title": "India–New Zealand FTA to Come into Force on 20th October 2026 on Vijay Dashmi, Opening New Opportunities for Indian Exporters",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2325235",
-   "date": "2026-10-19",
-   "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "Union Minister of Commerce and Industry Shri Piyush Goyal and New Zealand’s Minister for Trade and I",
-   "lead": "Ministry of Commerce & Industry India–New Zealand FTA to Come into Force on 20th October 2026 on Vijay Dashmi, Opening New Opportunities for Indian Exporters 100% Duty-Free Access to New Zealand Market to Create Opportunities for Indian MSMEs, Artisans, Farmers and Women Entrepreneurs: lUnion Minister of Commerce and Industry Shri Piyush Goyal India Flags Off First-Ever JCB Machine Export to New Zealand New Zealand Commits to ...",
-   "image": null,
+   "desk": "Startups",
+   "score": 12,
+   "priority": 92,
+   "title": "Exclusive: Imarticus Eyes Confidential Filing In 2-3 Months For ₹1,000 Cr IPO",
+   "url": "https://inc42.com/buzz/exclusive-imarticus-eyes-confidential-filing-in-2-3-months-for-%e2%82%b91000-cr-ipo/",
+   "date": "2026-10-26",
+   "source": "Inc42",
+   "label": "India · Edtech & Skills",
+   "snippet": "Imarticus Learning plans to file its DRHP with SEBI through the confidential route within the next two to three months for a ₹1,000 Cr IPO",
+   "lead": "Imarticus Learning plans to file draft papers confidentially for a ₹1,000 Cr IPO within two to three months, up from its earlier planned ₹750 Cr issue. The proposed fundraise would support the edtech startup’s expansion through acquisitions, new learning centres, and a stronger enterprise training business. Sources said its organic expansion could include more Centres of Excellence, additional offerings at its finance and business ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/imarticus-acquisition-social-.png",
    "why": [
-    "Trade agreement",
-    "New law or act",
-    "Commerce"
+    "IPO & Listing",
+    "Large deal (about $105M)"
    ],
    "tags": [
-    "Tax, Duties & Trade"
+    "IPO & Listing",
+    "Edtech & Skills"
    ],
-   "rank": 7,
+   "rank": 6,
    "must_read": false
   },
   {
@@ -618,71 +591,94 @@
    "tags": [
     "Gold & Silver"
    ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 91,
+   "title": "India–New Zealand FTA to Come into Force on 20th October 2026 on Vijay Dashmi, Opening New Opportunities for Indian Exporters",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2325235",
+   "date": "2026-10-19",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "Union Minister of Commerce and Industry Shri Piyush Goyal and New Zealand’s Minister for Trade and I",
+   "lead": "Ministry of Commerce & Industry India–New Zealand FTA to Come into Force on 20th October 2026 on Vijay Dashmi, Opening New Opportunities for Indian Exporters 100% Duty-Free Access to New Zealand Market to Create Opportunities for Indian MSMEs, Artisans, Farmers and Women Entrepreneurs: lUnion Minister of Commerce and Industry Shri Piyush Goyal India Flags Off First-Ever JCB Machine Export to New Zealand New Zealand Commits to ...",
+   "image": null,
+   "why": [
+    "Trade agreement",
+    "New law or act",
+    "Commerce"
+   ],
+   "tags": [
+    "Tax, Duties & Trade"
+   ],
    "rank": 8,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "Rs 10,000 Cr into restaurants. But why do 80% fail? Here's the Hotshare F&B investment playbook",
-   "url": "https://yourstory.com/2026/10/the-hotshare-fb-investment-playbook",
-   "date": "2026-10-24",
-   "source": "YourStory",
-   "label": "India · Commerce & D2C",
-   "snippet": "In this episode of the Prime Venture Partners Podcast, Lavanya, Founder, Hotshare, an F&B investment platform, explains what she looks for before funding a restaurant.  The founder of burger brand ‘Beyondburg’, one of Hotshare’s portfolio companies, joins the podcast to share the brand's journey.",
-   "lead": "Rs 10,000 Cr into restaurants. But why do 80% fail? Here's the Hotshare F&B investment playbook In this episode of the Prime Venture Partners Podcast, Lavanya, Founder, Hotshare, an F&B investment platform, explains what she looks for before funding a restaurant. The founder of burger brand ‘Beyondburg’, one of Hotshare’s portfolio companies, joins the podcast to share the brand's journey. Jerome Manuel 60 Stories Saturday October 24, ...",
-   "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/HotshareThumbnail169-1792761804306.png",
+   "score": 11,
+   "priority": 85,
+   "title": "Meta eyes record $95 billion equity raise to fund AI expansion",
+   "url": "https://economictimes.indiatimes.com/tech/technology/meta-eyes-record-95-billion-equity-raise-to-fund-ai-expansion/articleshow/135213020.cms",
+   "date": "2026-10-26",
+   "source": "ET Startups",
+   "label": "Global · AI & Deeptech",
+   "snippet": "The Facebook parent has launched public offerings worth about $35 billion in common and preferred stock, and said it also plans to launch a separate at-the-market share sale program worth up to $60 billion.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-118024,resizemode-75,msid-135213020/tech/technology/meta-eyes-record-95-billion-equity-raise-to-fund-ai-expansion.jpg",
    "why": [
     "Funding",
-    "Very large figure in headline (about $1,053M: round or valuation)"
+    "Very large figure in headline (about $95,000M: round or valuation)"
    ],
    "tags": [
     "Funding",
-    "Commerce & D2C"
+    "AI & Deeptech"
    ],
    "rank": 9,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-   "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-   "date": "2026-10-23",
-   "source": "TechCrunch",
-   "label": "Global · SaaS & Enterprise",
-   "snippet": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
-   "lead": "Daytona Platforms announced on Friday that it had raised a $60 million Series B round at a $1 billion valuation led by FirstMark Growth. The company says it has now raised a total of $91 million. The New York-based startup has attracted not just FirstMark (which also led its $24 million Series A in February), but also a host of well-known angels in this latest round. Daytona says they include Stripe’s Patrick Collison, Shopify’s Tobi ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/11/Daytona_Founders-e1698845569762.jpg?resize=1200,676",
+   "score": 11,
+   "priority": 85,
+   "title": "Startup funding falls below $100M; Deeptech startups look to go global",
+   "url": "https://yourstory.com/2026/10/startup-funding-falls-below-100m",
+   "date": "2026-10-26",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "Venture capital funding in the third week of October recorded a sharp fall due to lower number of deals and absence of large value transactions.",
+   "lead": "Startup funding falls below $100M; Deeptech startups look to go global Venture capital funding in the third week of October recorded a sharp fall due to lower number of deals and absence of large value transactions. Team YS 17419 Stories Monday October 26, 2026 , 4 min Read The AI boom is fuelling a datacentre expansion, but local communities are pushing back. In the UK, residents are raising concerns about noise, pollution, and ...",
+   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/LatestPPTTemplates1-1780148922353-1783177491831.jpg",
    "why": [
     "Funding",
-    "Very large figure in headline (about $1,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
+    "Large deal (about $100M)"
    ],
    "tags": [
     "Funding",
-    "SaaS & Enterprise"
+    "AI & Deeptech"
    ],
    "rank": 10,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "[Update] Jio Platforms IPO Subscribed 22.19X On Final Day, QIB Portion Booked 70.55X",
-   "url": "https://inc42.com/buzz/jio-platforms-ipo-booked-6-76x-on-day-3-so-far-qib-portion-subscribed-14-18x/",
+   "score": 11,
+   "priority": 85,
+   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
    "date": "2026-10-23",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Reliance Industries’ digital services arm Jio Platforms’ IPO was subscribed 6.76X as of 11:48 IST on the third and final day of bidding",
-   "lead": "Qualified institutional buyers (QIBs) led demand, subscribing their allotted portion 70.55X, with bids for 345.76 Cr shares against 4.90 Cr shares reserved for the category. Investors bid for 133.51 Cr shares against 19.75 Cr shares on offer, according to BSE subscription data. The overall subscription rose from 5.57X at the end of the second day . Within the institutional segment, domestic financial institutions, including banks and ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/jio-PC-social-.png",
+   "source": "TechCrunch",
+   "label": "Global · Other",
+   "snippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+   "lead": "OpenAI is reportedly close to securing another mega round of private funding, rather than plowing ahead with an IPO. The AI lab is working on raising up to $30 billion at a $1.25 trillion pre-money valuation in a round led by Coatue and investors in UAE, sources told CNBC . This follows a similar report by Bloomberg a month ago which said the AI lab was working on raising $30 billion at a $1.4 trillion valuation. Terms are still being ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
    "why": [
     "IPO & Listing",
-    "Very large figure in headline (about $3,180M: round or valuation)"
+    "Very large figure in headline (about $30,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
     "IPO & Listing"
@@ -691,23 +687,26 @@
    "must_read": false
   },
   {
-   "desk": "Policy",
-   "score": 9,
-   "priority": 90,
-   "title": "Minutes of the Monetary Policy Committee Meeting, October 5 to 7, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63839",
-   "date": "2026-10-21",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The sixty third meeting of the Monetary Policy Committee (MPC), constituted under Section 45ZB of the Reserve Bank of India Act, 1934, was held during October 5, 2026. 2. The meeting was chaired by Shri Sanjay Malhotra, Governor and was attended by all the members – Dr. Nagesh Kumar, Director and Chief Executive, Institute for Studies in Industrial Development, New Delhi; Shri Saugata Bhattacharya, Economist, Mumbai; Professor Ram ...",
-   "image": null,
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+   "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+   "date": "2026-10-22",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+   "lead": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion. The company helps automate and assist with workflow tasks for legal professionals, as the industry moves beyond AI assistants to AI services that help them get work done. The news comes just a month after Harvey, Legora’s biggest competitor, announced a $550 million raise at a $15.5 billion valuation; back in March, ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2296593553.jpg?w=1024",
    "why": [
-    "Rates and liquidity",
-    "Regulator: RBI"
+    "Funding",
+    "Very large figure in headline (about $8,800M: round or valuation)",
+    "Valuation, listing or profitability signal",
+    "Also covered by 1 other outlet(s)"
    ],
    "tags": [
-    "Banking & Rates"
+    "Funding",
+    "AI & Deeptech"
    ],
    "rank": 12,
    "must_read": false
@@ -783,19 +782,18 @@
   },
   {
    "desk": "Policy",
-   "score": 8,
-   "priority": 80,
-   "title": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0",
-   "date": "2026-10-23",
+   "score": 9,
+   "priority": 82,
+   "title": "Minutes of the Monetary Policy Committee Meeting, October 5 to 7, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63839",
+   "date": "2026-10-21",
    "source": "RBI",
    "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026 Please refer to Chapter IV of the Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Directions, 2025 dated November 28, 2025 (hereinafter referred to as ‘the Directions’), on Minimum Capital Requirements for Operational Risk. 2. On a review, and in exercise of the powers conferred by Section 35A of the Banking ...",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "The sixty third meeting of the Monetary Policy Committee (MPC), constituted under Section 45ZB of the Reserve Bank of India Act, 1934, was held during October 5, 2026. 2. The meeting was chaired by Shri Sanjay Malhotra, Governor and was attended by all the members – Dr. Nagesh Kumar, Director and Chief Executive, Institute for Studies in Industrial Development, New Delhi; Shri Saugata Bhattacharya, Economist, Mumbai; Professor Ram ...",
    "image": null,
    "why": [
-    "Regulator rulebook change",
-    "Rule change",
+    "Rates and liquidity",
     "Regulator: RBI"
    ],
    "tags": [
@@ -831,7 +829,30 @@
   {
    "desk": "Policy",
    "score": 8,
-   "priority": 80,
+   "priority": 73,
+   "title": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0",
+   "date": "2026-10-23",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026 Please refer to Chapter IV of the Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Directions, 2025 dated November 28, 2025 (hereinafter referred to as ‘the Directions’), on Minimum Capital Requirements for Operational Risk. 2. On a review, and in exercise of the powers conferred by Section 35A of the Banking ...",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 8,
+   "priority": 73,
    "title": "India and New Zealand sign Memorandum of Cooperation (MoC) on Electronic Origin Data Exchange to Facilitate Bilateral Trade Under the India-New Zealand Free Trade Agreement (FTA)",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326043",
    "date": "2026-10-21",
@@ -847,36 +868,56 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 7,
    "priority": 70,
-   "title": "Denmark delays new citizenship screening model – what it means for applicants",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRlkybTdwQmdfUEFqS0VoMzJ5bEI0ZHFKc0hkMm9zeHlVVEdhajRGTVJrRE5Oc3RCTUFSOTFyX3FFNzE4WG0zQkhWT0YzbnI2R3NXaE5Tam1nZi1hNjhPdTVzWmRzWHViMDBWMm9aMDhCbTNaZ2xyU1Z0c0ZYN292azB3aDhkU0t6TzY2eVdTSXdIU3ZoVEhXMGI2VE8tVGdJTDV4TTl1NWQ3QWhjcWl6X0xRVU4?oc=5",
-   "date": "2026-10-24",
-   "source": "The Copenhagen Post",
-   "label": "Denmark",
-   "snippet": "The expert group tasked with examining the possibilities for a screening model for citizenship applicants is facing further delays in its work. The Ministry of Immigration and Integration writes this in a press release. – Due to the scope and complexity of the work, we cannot manage to deliver our recommendations around the turn of […]",
-   "lead": "The expert group tasked with examining the possibilities for a screening model for citizenship applicants is facing further delays in its work. The Ministry of Immigration and Integration writes this in a press release. – Due to the scope and complexity of the work, we cannot manage to deliver our recommendations around the turn of the year. Instead, I expect that we will conclude our work in mid-March next year, says Henrik Thomassen, ...",
-   "image": null,
+   "title": "Australia expands biometric requirements for visa applicants in India from October 26",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdldraE9NTE45RW9xZnl4SGlHTzdNX3ZWM0lDZG5TYkJTMk5CS0V0Ui0xSUlXYUgyQUdZLXM1alJCbmpRdE1jbXQxd1NYajBPNkpkMmZxSndBcVc4QnpJZWplNGszVERRM01tdHBNZ3lIUlFwMldYSXZlLU9TN283RVlRbkplRnZLbmlid3l0S2FNRFRZREtFeGM0Y0lIakNGTkUyemNpMjllVXd3TlhNUlFpS1laTm04VWpzVEFFN21oWEUzRzRRdktGakpiZ3dDbUUxcE1nUXJtZXZQY28zZVFHM3RqN3Fn0gHuAUFVX3lxTFBkUlloNmdCdVZzTWVrcDFiOThXaTVCYlhPTjV0SGpJdndrWUsyYUFtWUxZWG9pN0M4aFRjVXJrUDA0S3llMmhfTkFiWU9ZZFlyMFdwYVQ3ZkgxbmYxaWhhNHpUYlVLT2dWU1NlclVpUENwSXM0eFBiWDM2VDdqYmhzTjVGQkNoY3AtZ1hzbmR1anQ1dlhRWllmZVRyMjlUQjJtVkV4TkpBeXBNTGsyLWgzN0NEWk9BdURUeTU4aDBpeDFuLUw3TDZiQVlBWnlfQUxCaXVSYjdUTGY5R1lxYThRSVVlTWxkWEZ5WklTOFE?oc=5",
+   "date": "2026-10-26",
+   "source": "The Times of India",
+   "label": "Australia",
+   "snippet": "The Australian government on Monday expanded biometric collection requirements for visa applicants in India from October 26, introducing fingerprint and facial image collection for certain new visa applications.",
+   "lead": "Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
+   "image": "https://static.toiimg.com/thumb/msid-135206332,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
    "why": [
-    "Affects citizenship",
-    "Announces a change"
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Australia"
+   ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 70,
+   "title": "Three years of volunteering can shorten the path to Austrian citizenship",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXB4eUxlbXh6T1hiZ2dpRHhnUXlfcHZpR0JBclpVUDdwRzJBTTVkRXBzT2tlaE1zSTZGUzBOQlJ2bWVhNTloQjJXOGZjVVZUYUtJSk4zZDFJRmt1cUJ2ajZvYnNEZzBWUkVwWTFWN29Ib1hyT3RrQm9yM2VpWmtCQkM1RmpFbmNwcFdadnBHaTJLYTZwZHNJTUdGWdIBoAFBVV95cUxNTnpDVXRteV9NTE03czRFeDFiV2hPWDVJYlBNTjBOekxtODdOTnAtQXJLN2RGLXhtdEtWblJlRlRDS0NCR214ZUhhc1V2X3pkWVZMTGxPelJsZmV5WEhYeC1TM2MyX2l1Vkw2ZlVLN0hlWWpvZnZXSURHUEhocDR4d0Q4LWJkT2ptcS00Z29ObHFXTndWMXRZc1ZpZ0JQcUFj?oc=5",
+   "date": "2026-10-26",
+   "source": "Inkorr",
+   "label": "Austria",
+   "snippet": "Three years of volunteering can shorten the path to Austrian citizenship - the latest news today. All events in Ukraine and the world on request Three years of volunteering can shorten the path to Austrian citizenship on the Inkorr website",
+   "lead": "Foreigners who have legal grounds for residence in Austria can qualify for citizenship after six years instead of the standard ten under certain conditions. One of the grounds is at least three years of volunteering in a socially beneficial non-profit organization. This is reported by The Local . The volunteering activity must demonstrate the applicant's sustainable personal integration. At the same time, it does not replace other ...",
+   "image": "https://media.inkorr.com/uploads/1793008695_6adf243750f32.jpg",
+   "why": [
+    "Affects citizenship"
    ],
    "tags": [
     "Citizenship",
-    "Denmark"
+    "Austria"
    ],
-   "rank": 19,
+   "rank": 21,
    "must_read": false
   },
   {
    "desk": "Policy",
    "score": 7,
-   "priority": 70,
+   "priority": 64,
    "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on October 26, 2026",
    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63861",
    "date": "2026-10-23",
@@ -892,71 +933,27 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 70,
-   "title": "Indians, Brits and Syrians top Norway's permanent residency list",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmdwZjNIMVpVT2VYWUNvbktncDBwcFpYWTZPV3NJQ01BTmU2RkMzSHd2NU1pMFpCY1p5WmhVbW10OUpxRE9IeGpSaFM5ck1wNmliZnBIZndHMXZKZWFWcjJkQXJZb29QMTI2R0thSlJGczRFS0l1R2g5b2Y4M3VVNXhxOEpUM3ZDTlJOeWJ4TVdpblJuYzhqeW92Yw?oc=5",
-   "date": "2026-10-20",
-   "source": "The Local Norway",
-   "label": "Norway",
-   "snippet": "Gaining permanent residency in Norway is a significant achievement for every foreigner who is building a new life in the nordic country; however some nationalities stand out for both the number of applicants and their high approval rates.",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Gaining permanent residency in Norway is a significant achievement for every foreigner who is building a new life in the nordic country; however some nationalities stand out for both the number of applicants and their ...",
-   "image": null,
-   "why": [
-    "Affects permanent residence",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Norway"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 6,
-   "priority": 60,
-   "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63837",
-   "date": "2026-10-21",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "",
-   "image": null,
-   "why": [
-    "New law or act",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
    "rank": 22,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 5,
-   "priority": 50,
-   "title": "Factual Report on PM-DAKSH",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326437",
-   "date": "2026-10-22",
+   "score": 6,
+   "priority": 55,
+   "title": "Department of Commerce Extends RELIEF Initiative under Export Promotion Mission Until March 31, 2027",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2328402",
+   "date": "2026-10-26",
    "source": "PIB",
-   "label": "Banking & Rates",
-   "snippet": "Pradhan Mantri Dakshata Aur Kushalta Sampann Hitgrahi (PM-DAKSH), a Central Sector Scheme, w",
-   "lead": "Ministry of Social Justice & Empowerment Factual Report on PM-DAKSH Posted On: 22 OCT 2026 11:49AM by PIB Delhi 276.47 crores, actual expenditure to the tune of Rs. 309.5 crores has been incurred till date. -- words | -- min read Ministry of Social Justice & Empowerment Factual Report on PM-DAKSH Posted On: 22 OCT 2026 11:49AM by PIB Delhi",
+   "label": "Tax, Duties & Trade",
+   "snippet": "The Department of Commerce has extended the timelines under Component II of RELIEF (Resilience & Log",
+   "lead": "Ministry of Commerce & Industry Department of Commerce Extends RELIEF Initiative under Export Promotion Mission Until March 31, 2027 RELIEF Component II Offers 95% Risk Coverage to Encourage ECGC Cover for Export Shipments Posted On: 26 OCT 2026 1:50PM by PIB Delhi The Department of Commerce has extended the timelines under Component II of RELIEF (Resilience & Logistics Intervention for Export Facilitation), a time-bound intervention ...",
    "image": null,
    "why": [
-    "Rates and liquidity"
+    "Rule change",
+    "Commerce"
    ],
    "tags": [
-    "Banking & Rates"
+    "Tax, Duties & Trade"
    ],
    "rank": 23,
    "must_read": false
