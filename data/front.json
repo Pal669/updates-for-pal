@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-27",
- "built": "2026-10-27 02:43 IST",
+ "built": "2026-10-27 07:58 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22600.0,
-   "change_pct": -0.39,
+   "value": 22753.0,
+   "change_pct": 0.68,
    "asof": "26 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73124.0,
-   "change_pct": -0.17,
+   "value": 73607.0,
+   "change_pct": 0.66,
    "asof": "26 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
    "value": 95.18,
-   "change_pct": 0.49,
-   "asof": "26 Oct 23:40 IST"
+   "change_pct": 0.25,
+   "asof": "27 Oct 06:28 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 110.27,
-   "change_pct": -5.53,
-   "asof": "27 Oct 02:29 IST"
+   "value": 109.7,
+   "change_pct": -5.28,
+   "asof": "27 Oct 07:47 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4031.0,
-   "change_pct": 0.58,
-   "asof": "27 Oct 02:29 IST"
+   "value": 4030.0,
+   "change_pct": -0.21,
+   "asof": "27 Oct 07:48 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -162,13 +162,34 @@
    ]
   },
   "Startups": {
-   "total": 948,
-   "new_today": 1,
+   "total": 953,
+   "new_today": 6,
    "items": [
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 83,
+     "priority": 71,
+     "title": "Startup funding falls below $100M; Deeptech startups look to go global",
+     "url": "https://yourstory.com/2026/10/startup-funding-falls-below-100m",
+     "date": "2026-10-26",
+     "source": "YourStory",
+     "label": "India · AI & Deeptech",
+     "snippet": "Venture capital funding in the third week of October recorded a sharp fall due to lower number of deals and absence of large value transactions.",
+     "lead": "Startup funding falls below $100M; Deeptech startups look to go global Venture capital funding in the third week of October recorded a sharp fall due to lower number of deals and absence of large value transactions. Team YS 17419 Stories Monday October 26, 2026 , 4 min Read The AI boom is fuelling a datacentre expansion, but local communities are pushing back. In the UK, residents are raising concerns about noise, pollution, and ...",
+     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/LatestPPTTemplates1-1780148922353-1783177491831.jpg",
+     "why": [
+      "Funding",
+      "Large deal (about $100M)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 71,
      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
      "date": "2026-10-23",
@@ -190,7 +211,7 @@
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 83,
+     "priority": 71,
      "title": "[Update] Jio Platforms IPO Subscribed 22.19X On Final Day, QIB Portion Booked 70.55X",
      "url": "https://inc42.com/buzz/jio-platforms-ipo-booked-6-76x-on-day-3-so-far-qib-portion-subscribed-14-18x/",
      "date": "2026-10-23",
@@ -210,7 +231,7 @@
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 83,
+     "priority": 71,
      "title": "Zetwerk Makes NSE Debut At 5.5% Premium After ₹5,012 Cr IPO",
      "url": "https://inc42.com/buzz/zetwerk-makes-nse-debut-at-5-5-premium-after-%e2%82%b95012-cr-ipo/",
      "date": "2026-10-23",
@@ -227,33 +248,32 @@
       "IPO & Listing",
       "SaaS & Enterprise"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Zetwerk Manufacturing shares list at 5% premium over IPO price",
-     "url": "https://economictimes.indiatimes.com/tech/technology/zetwerk-manufacturing-business-shares-to-list-today-check-gmp-ahead-of-debut/articleshow/135134461.cms",
-     "date": "2026-10-23",
-     "source": "ET Startups",
-     "label": "India · Other",
-     "snippet": "The Rs 5,012.33 crore IPO comprises a fresh issue of shares worth Rs 2,830 crore and an offer for sale (OFS) of 14.45 crore shares worth approximately Rs 2,182 crore. While the proceeds from the fresh issue will go to the company, the OFS proceeds will accrue to the selling shareholders.",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1950109,resizemode-75,msid-135134461/tech/technology/zetwerk-manufacturing-business-shares-to-list-today-check-gmp-ahead-of-debut.jpg",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $528M: round or valuation)"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 1375,
-   "new_today": 5,
+   "total": 1398,
+   "new_today": 9,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 60,
+     "title": "Why is Japan tightening its immigration rules?",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLUFvMDAxNURVcmVscUUxS0haSGxsdXZvUHZwRDd3ODdkOXN5VGYwdnk2cnJrdmI5MWhEQkxuak05akNrUUZDYWZZNzFoTVNlRUMyS09RaS1PS0IxN3dyTWNoMDhSSHl2SFdoY1JvTWVjdUl5d1dKUmt5NXk0T3hjOQ?oc=5",
+     "date": "2026-10-26",
+     "source": "Nikkei Asia",
+     "label": "Japan",
+     "snippet": "Expert Naoko Hashimoto discusses why the nation is making it harder to stay",
+     "lead": "Japan India South Korea Indonesia Taiwan Thailand U.S. East Asia Hong Kong Macao Taiwan Mongolia Japan South Korea North Korea Southeast Asia Thailand Malaysia Singapore Philippines Vietnam Myanmar Cambodia Laos Brunei East Timor South Asia Pakistan Afghanistan Bangladesh Sri Lanka Nepal Bhutan Maldives Central Asia Uzbekistan Turkmenistan Tajikistan Kyrgyzstan Oceania New Zealand Papua New Guinea Pacific Islands Rest of the World ...",
+     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F6%2F2%2F4%2F13364268-1-eng-GB%2F3f2407c5a059-Thumbnail-Template-1.00_04_30_14.Still067.png?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+     "why": [
+      "Announces a change"
+     ],
+     "tags": [
+      "Japan"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 6,
@@ -287,7 +307,7 @@
      "lead": "News Politics Education Environment Traffic Crime Brainteaser Copy link Most Read 1. World's second most visited country sees nearly half its tourism activity outside peak season 2. Singaporean billionaire Peter Lim sells 42% stake in Valencia football club 3. Malaysian tourist falls into 10-meter-deep hole in Da Lat 4. Meet Nathan Chen, the 17-year-old Chinese AI prodigy turning heads in Silicon Valley 5. Indonesia imposes record ...",
      "image": "https://vcdn1-english.vnecdn.net/2026/10/24/pexelsmiami30224498500-1792822-5262-4156-1792824920.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=4Kve_AjfLzFG571f6E8RFA",
      "why": [
-      "Major story (8 headlines that day)"
+      "Major story (10 headlines that day)"
      ],
      "tags": [
       "Student / Graduate",
@@ -313,27 +333,6 @@
      "tags": [
       "Citizenship",
       "Denmark"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 60,
-     "title": "Japan’s permanent residency reform has a glaring blind spot",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdnM1dktlaFRqdVdJNHVGNldlZHNHci1NbTFqRVZFd3RHamUzT1A1bmpxZVhoMDhrejNCcGVQRVR3NmlfRk5qcHd0SjJZaHpiM3ZySGlKcXpyTWJTZVRfQWpSREJpWVZOYXd4Rzl3Y0NkTG5rTUhfV0duczY1WFZROWlaVHJfaXNaTmQ1OHZqNnVESzda?oc=5",
-     "date": "2026-10-20",
-     "source": "The Japan Times",
-     "label": "Japan",
-     "snippet": "Japan is moving toward implementation before it has clearly explained how those skills will be evaluated or demonstrated in practice.",
-     "lead": "",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/569442.jpg?v=3.1",
-     "why": [
-      "Affects permanent residence",
-      "Announces a change"
-     ],
-     "tags": [
-      "PR / Settlement",
-      "Japan"
      ]
     }
    ]
@@ -428,6 +427,30 @@
  },
  "items": [
   {
+   "desk": "Startups",
+   "score": 14,
+   "priority": 100,
+   "title": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion",
+   "url": "https://yourstory.com/2026/10/ather-turns-profitable-after-rs-154-cr-loss-meta-ai-expansion",
+   "date": "2026-10-27",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand.",
+   "lead": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand. Team YS 17432 Stories Tuesday October 27, 2026 , 4 min Read MakeMyTrip is back in the black! The travel booking platform reported a net profit of $1.8 ...",
+   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/2026-CopyofNewPPTTemplates6-1793024916362.png",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $35,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
    "desk": "Policy",
    "score": 10,
    "priority": 100,
@@ -446,29 +469,30 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
-   "desk": "Startups",
-   "score": 12,
+   "desk": "Immigration",
+   "score": 10,
    "priority": 100,
-   "title": "Anthropic files for IPO even as losses surge to $80B",
-   "url": "https://yourstory.com/2026/10/anthropic-files-for-ipo-even-as-losses-surge-to-80-billion",
+   "title": "Indian visa applicants to provide fingerprints, facial images under Australia's new rules",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV2swV0RhdlFCdHB0TG1FT29KWlZuWF9oMG95d3dRdUN4T2NRaGhTYks2MU5JN2ZVbEx2cm9BLXZKRmxwWVJHblNhOUMwc3ZQcXN1dnM3RzFibmNVQmRtY3RkWUd2aVJvMlFiVm9kR1huNl81cllnUzFkbWctcExicWo1UUdrRHlISGxtNlJzVGRQbUFBUEpCMFhUblJPVmozTGg1a2VHSDhOcDh0VzR4akNkTUpQM1hGVk5WZm5WLXh5a0dMN3dvdE5MaW52N2NfaDNiStIB4gFBVV95cUxOeExHOEhMdTlhcnQ0dzJQckozT3FwWmlvejlOOHdfSVRfUDZFXzZmMjMyNVl4QWtJX29uVUNlRF9pZmZqX3lBYVhPa2MyQWM3RktOdEtUbnE5SWdiZVE3REtKSjNMTUs1MGJWeW5SdHAtUWNZS0pMVXRham9odDM4ME9QaWlnOXhPSnpVRElxNUhwaUNrV3hNNXpxdjJ1U3BPTVVCVkpVSHlWdXBoSGFVVHFka0daOVh4azM1ZTVkc2l1RklqVWY0aVp5dG5vRnREV09hS0FNQVU1TFpQU2w5bVhB?oc=5",
    "date": "2026-10-26",
-   "source": "YourStory",
-   "label": "India · Other",
-   "snippet": "Anthropic will be listed on the Nasdaq stock exchange and will trade under the name of ANT.",
-   "lead": "Anthropic files for IPO even as losses surge to $80B Anthropic will be listed on the Nasdaq stock exchange and will trade under the name of ANT. Team YS 17430 Stories Monday October 26, 2026 , 2 min Read Anthropic, one of the leading artificial intelligence (AI) companies and the developer of the large language model Claude, has filed for an initial public offering (IPO), moving closer to becoming a publicly listed company. The company ...",
-   "image": "https://images.the-captable.com/cs/158/11718bd02d6d11e9aa979329348d4c3e/AnthropicFeatureImage-1791172568483.jpg",
+   "source": "The New Indian Express",
+   "label": "Australia",
+   "snippet": "NEW DELHI: Australia has expanded biometric requirements for visa applicants in India from Monday, requiring some applicants to provide fingerprints and facial",
+   "lead": "Copied NEW DELHI: Australia has expanded biometric requirements for visa applicants in India from Monday, requiring some applicants to provide fingerprints and facial images as part of the visa application process. The new requirements apply to Australian visa applications lodged on or after October 26, according to a media release issued by the Australian High Commission in India. Visas already granted and applications submitted ...",
+   "image": "https://cf-images.assettype.com/newindianexpress%2F2026-10-26%2Fkm8iftn1%2FVisa-application.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
    "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $80,000M: round or valuation)"
+    "Announces a change",
+    "Major story (9 headlines that day)",
+    "Mentions India or Indians"
    ],
    "tags": [
-    "IPO & Listing"
+    "Australia"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -491,7 +515,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -515,7 +539,7 @@
     "Citizenship",
     "United Kingdom"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -539,29 +563,6 @@
    "tags": [
     "Work visa",
     "New Zealand"
-   ],
-   "rank": 5,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "Exclusive: Imarticus Eyes Confidential Filing In 2-3 Months For ₹1,000 Cr IPO",
-   "url": "https://inc42.com/buzz/exclusive-imarticus-eyes-confidential-filing-in-2-3-months-for-%e2%82%b91000-cr-ipo/",
-   "date": "2026-10-26",
-   "source": "Inc42",
-   "label": "India · Edtech & Skills",
-   "snippet": "Imarticus Learning plans to file its DRHP with SEBI through the confidential route within the next two to three months for a ₹1,000 Cr IPO",
-   "lead": "Imarticus Learning plans to file draft papers confidentially for a ₹1,000 Cr IPO within two to three months, up from its earlier planned ₹750 Cr issue. The proposed fundraise would support the edtech startup’s expansion through acquisitions, new learning centres, and a stronger enterprise training business. Sources said its organic expansion could include more Centres of Excellence, additional offerings at its finance and business ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/imarticus-acquisition-social-.png",
-   "why": [
-    "IPO & Listing",
-    "Large deal (about $105M)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Edtech & Skills"
    ],
    "rank": 6,
    "must_read": false
@@ -614,54 +615,6 @@
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-   "date": "2026-10-23",
-   "source": "TechCrunch",
-   "label": "Global · Other",
-   "snippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-   "lead": "OpenAI is reportedly close to securing another mega round of private funding, rather than plowing ahead with an IPO. The AI lab is working on raising up to $30 billion at a $1.25 trillion pre-money valuation in a round led by Coatue and investors in UAE, sources told CNBC . This follows a similar report by Bloomberg a month ago which said the AI lab was working on raising $30 billion at a $1.4 trillion valuation. Terms are still being ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $30,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
-   "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
-   "date": "2026-10-22",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
-   "lead": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion. The company helps automate and assist with workflow tasks for legal professionals, as the industry moves beyond AI assistants to AI services that help them get work done. The news comes just a month after Harvey, Legora’s biggest competitor, announced a $550 million raise at a $15.5 billion valuation; back in March, ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2296593553.jpg?w=1024",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $8,800M: round or valuation)",
-    "Valuation, listing or profitability signal",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
    "desk": "Policy",
    "score": 9,
    "priority": 90,
@@ -680,53 +633,29 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 11,
+   "rank": 9,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Meta eyes record $95 billion equity raise to fund AI expansion",
-   "url": "https://economictimes.indiatimes.com/tech/technology/meta-eyes-record-95-billion-equity-raise-to-fund-ai-expansion/articleshow/135213020.cms",
-   "date": "2026-10-26",
-   "source": "ET Startups",
-   "label": "Global · AI & Deeptech",
-   "snippet": "The Facebook parent has launched public offerings worth about $35 billion in common and preferred stock, and said it also plans to launch a separate at-the-market share sale program worth up to $60 billion.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-118024,resizemode-75,msid-135213020/tech/technology/meta-eyes-record-95-billion-equity-raise-to-fund-ai-expansion.jpg",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $95,000M: round or valuation)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Startup funding falls below $100M; Deeptech startups look to go global",
-   "url": "https://yourstory.com/2026/10/startup-funding-falls-below-100m",
+   "score": 12,
+   "priority": 86,
+   "title": "Anthropic files for IPO even as losses surge to $80B",
+   "url": "https://yourstory.com/2026/10/anthropic-files-for-ipo-even-as-losses-surge-to-80-billion",
    "date": "2026-10-26",
    "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "Venture capital funding in the third week of October recorded a sharp fall due to lower number of deals and absence of large value transactions.",
-   "lead": "Startup funding falls below $100M; Deeptech startups look to go global Venture capital funding in the third week of October recorded a sharp fall due to lower number of deals and absence of large value transactions. Team YS 17419 Stories Monday October 26, 2026 , 4 min Read The AI boom is fuelling a datacentre expansion, but local communities are pushing back. In the UK, residents are raising concerns about noise, pollution, and ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/LatestPPTTemplates1-1780148922353-1783177491831.jpg",
+   "label": "India · Other",
+   "snippet": "Anthropic will be listed on the Nasdaq stock exchange and will trade under the name of ANT.",
+   "lead": "Anthropic files for IPO even as losses surge to $80B Anthropic will be listed on the Nasdaq stock exchange and will trade under the name of ANT. Team YS 17430 Stories Monday October 26, 2026 , 2 min Read Anthropic, one of the leading artificial intelligence (AI) companies and the developer of the large language model Claude, has filed for an initial public offering (IPO), moving closer to becoming a publicly listed company. The company ...",
+   "image": "https://images.the-captable.com/cs/158/11718bd02d6d11e9aa979329348d4c3e/AnthropicFeatureImage-1791172568483.jpg",
    "why": [
-    "Funding",
-    "Large deal (about $100M)"
+    "IPO & Listing",
+    "Very large figure in headline (about $80,000M: round or valuation)"
    ],
    "tags": [
-    "Funding",
-    "AI & Deeptech"
+    "IPO & Listing"
    ],
-   "rank": 13,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -749,7 +678,7 @@
     "Regulatory",
     "Banks & Financials"
    ],
-   "rank": 14,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -772,7 +701,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 15,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -795,7 +724,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 16,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -819,7 +748,7 @@
     "Work visa",
     "Canada"
    ],
-   "rank": 17,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -841,7 +770,101 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 79,
+   "title": "Exclusive: Imarticus Eyes Confidential Filing In 2-3 Months For ₹1,000 Cr IPO",
+   "url": "https://inc42.com/buzz/exclusive-imarticus-eyes-confidential-filing-in-2-3-months-for-%e2%82%b91000-cr-ipo/",
+   "date": "2026-10-26",
+   "source": "Inc42",
+   "label": "India · Edtech & Skills",
+   "snippet": "Imarticus Learning plans to file its DRHP with SEBI through the confidential route within the next two to three months for a ₹1,000 Cr IPO",
+   "lead": "Imarticus Learning plans to file draft papers confidentially for a ₹1,000 Cr IPO within two to three months, up from its earlier planned ₹750 Cr issue. The proposed fundraise would support the edtech startup’s expansion through acquisitions, new learning centres, and a stronger enterprise training business. Sources said its organic expansion could include more Centres of Excellence, additional offerings at its finance and business ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/imarticus-acquisition-social-.png",
+   "why": [
+    "IPO & Listing",
+    "Large deal (about $105M)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Edtech & Skills"
+   ],
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 79,
+   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+   "date": "2026-10-23",
+   "source": "TechCrunch",
+   "label": "Global · Other",
+   "snippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+   "lead": "OpenAI is reportedly close to securing another mega round of private funding, rather than plowing ahead with an IPO. The AI lab is working on raising up to $30 billion at a $1.25 trillion pre-money valuation in a round led by Coatue and investors in UAE, sources told CNBC . This follows a similar report by Bloomberg a month ago which said the AI lab was working on raising $30 billion at a $1.4 trillion valuation. Terms are still being ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $30,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 17,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 79,
+   "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+   "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+   "date": "2026-10-22",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+   "lead": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion. The company helps automate and assist with workflow tasks for legal professionals, as the industry moves beyond AI assistants to AI services that help them get work done. The news comes just a month after Harvey, Legora’s biggest competitor, announced a $550 million raise at a $15.5 billion valuation; back in March, ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2296593553.jpg?w=1024",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $8,800M: round or valuation)",
+    "Valuation, listing or profitability signal",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
    "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 71,
+   "title": "Meta eyes record $95 billion equity raise to fund AI expansion",
+   "url": "https://economictimes.indiatimes.com/tech/technology/meta-eyes-record-95-billion-equity-raise-to-fund-ai-expansion/articleshow/135213020.cms",
+   "date": "2026-10-26",
+   "source": "ET Startups",
+   "label": "Global · AI & Deeptech",
+   "snippet": "The Facebook parent has launched public offerings worth about $35 billion in common and preferred stock, and said it also plans to launch a separate at-the-market share sale program worth up to $60 billion.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-118024,resizemode-75,msid-135213020/tech/technology/meta-eyes-record-95-billion-equity-raise-to-fund-ai-expansion.jpg",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $95,000M: round or valuation)"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 19,
    "must_read": false
   },
   {
@@ -863,7 +886,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 19,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -885,27 +908,6 @@
    "tags": [
     "PR / Settlement",
     "Norway"
-   ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 60,
-   "title": "Australia expands biometric requirements for visa applicants in India from October 26",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdldraE9NTE45RW9xZnl4SGlHTzdNX3ZWM0lDZG5TYkJTMk5CS0V0Ui0xSUlXYUgyQUdZLXM1alJCbmpRdE1jbXQxd1NYajBPNkpkMmZxSndBcVc4QnpJZWplNGszVERRM01tdHBNZ3lIUlFwMldYSXZlLU9TN283RVlRbkplRnZLbmlid3l0S2FNRFRZREtFeGM0Y0lIakNGTkUyemNpMjllVXd3TlhNUlFpS1laTm04VWpzVEFFN21oWEUzRzRRdktGakpiZ3dDbUUxcE1nUXJtZXZQY28zZVFHM3RqN3Fn0gHuAUFVX3lxTFBkUlloNmdCdVZzTWVrcDFiOThXaTVCYlhPTjV0SGpJdndrWUsyYUFtWUxZWG9pN0M4aFRjVXJrUDA0S3llMmhfTkFiWU9ZZFlyMFdwYVQ3ZkgxbmYxaWhhNHpUYlVLT2dWU1NlclVpUENwSXM0eFBiWDM2VDdqYmhzTjVGQkNoY3AtZ1hzbmR1anQ1dlhRWllmZVRyMjlUQjJtVkV4TkpBeXBNTGsyLWgzN0NEWk9BdURUeTU4aDBpeDFuLUw3TDZiQVlBWnlfQUxCaXVSYjdUTGY5R1lxYThRSVVlTWxkWEZ5WklTOFE?oc=5",
-   "date": "2026-10-26",
-   "source": "The Times of India",
-   "label": "Australia",
-   "snippet": "The Australian government on Monday expanded biometric collection requirements for visa applicants in India from October 26, introducing fingerprint and facial image collection for certain new visa applications.",
-   "lead": "Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
-   "image": "https://static.toiimg.com/thumb/msid-135206332,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "why": [
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Australia"
    ],
    "rank": 21,
    "must_read": false
