@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-27",
- "built": "2026-10-27 11:02 IST",
+ "built": "2026-10-27 21:33 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,44 +12,44 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22757.0,
-   "change_pct": 0.02,
-   "asof": "27 Oct 11:02 IST"
+   "value": 22750.0,
+   "change_pct": -0.02,
+   "asof": "27 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73554.0,
-   "change_pct": -0.07,
-   "asof": "27 Oct 10:47 IST"
+   "value": 73599.0,
+   "change_pct": -0.01,
+   "asof": "27 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.17,
-   "change_pct": 0.24,
-   "asof": "27 Oct 11:02 IST"
+   "value": 95.11,
+   "change_pct": 0.18,
+   "asof": "27 Oct 19:45 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 109.77,
-   "change_pct": -5.22,
-   "asof": "27 Oct 10:51 IST"
+   "value": 109.49,
+   "change_pct": -5.46,
+   "asof": "27 Oct 21:23 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4020.0,
-   "change_pct": -0.45,
-   "asof": "27 Oct 10:52 IST"
+   "value": 4076.0,
+   "change_pct": 0.94,
+   "asof": "27 Oct 21:23 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
    "value": 4.99,
-   "change_pct": -0.04,
-   "asof": "27 Oct 00:29 IST"
+   "change_pct": 0.0,
+   "asof": "27 Oct 21:18 IST"
   }
  ],
  "features": {
@@ -79,9 +79,28 @@
  },
  "desks": {
   "Policy": {
-   "total": 250,
-   "new_today": 1,
+   "total": 253,
+   "new_today": 4,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 50,
+     "title": "Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13746&Mode=0",
+     "date": "2026-10-27",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Notifications - Reserve Bank of India",
+     "lead": "The Chairman / Managing Director & Chief Executive Officer Lead Banks concerned Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility The Government of National Capital Territory (NCT) of Delhi has notified re-organisation of districts in the NCT of Delhi vide Gazette Notification No. F.223/ SDM-II (HQ)/ Land/2025/285 dated December 25, 2025, whereby three new districts, viz., Old Delhi, ...",
+     "image": null,
+     "why": [
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 5,
@@ -140,32 +159,34 @@
      "tags": [
       "Banking & Rates"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 4,
-     "priority": 40,
-     "title": "TRAI releases Recommendations on ‘Authorisation Framework for Application-based Linear Television Distribution (ALTD) Services’",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2328480",
-     "date": "2026-10-26",
-     "source": "PIB",
-     "label": "Technology & Telecom",
-     "snippet": "The Telecom Regulatory Authority of India (TRAI) has today released Recommendations on ‘Authorisatio",
-     "lead": "Ministry of Communications TRAI releases Recommendations on ‘Authorisation Framework for Application-based Linear Television Distribution (ALTD) Services’ Posted On: 26 OCT 2026 4:13PM by PIB Delhi The Telecom Regulatory Authority of India (TRAI) has today released Recommendations on ‘Authorisation Framework for Application-based Linear Television Distribution (ALTD) Services’. In view of the evolving broadcasting landscape, Ministry ...",
-     "image": null,
-     "why": [
-      "Rule change"
-     ],
-     "tags": [
-      "Technology & Telecom"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 957,
-   "new_today": 10,
+   "total": 983,
+   "new_today": 36,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 79,
+     "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+     "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+     "date": "2026-10-23",
+     "source": "TechCrunch",
+     "label": "Global · Other",
+     "snippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+     "lead": "OpenAI is reportedly close to securing another mega round of private funding, rather than plowing ahead with an IPO. The AI lab is working on raising up to $30 billion at a $1.25 trillion pre-money valuation in a round led by Coatue and investors in UAE, sources told CNBC . This follows a similar report by Bloomberg a month ago which said the AI lab was working on raising $30 billion at a $1.4 trillion valuation. Terms are still being ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
+     "why": [
+      "IPO & Listing",
+      "Very large figure in headline (about $30,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "IPO & Listing"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 11,
@@ -193,6 +214,27 @@
      "desk": "Startups",
      "score": 10,
      "priority": 71,
+     "title": "Workshaala targets Rs 1,000 Cr revenue as it scales enterprise workspace business",
+     "url": "https://yourstory.com/2026/10/workshaala-targets-rs-1000-cr-revenue-scales-enterprise-workspace-business",
+     "date": "2026-10-27",
+     "source": "YourStory",
+     "label": "India · AI & Deeptech",
+     "snippet": "Workshaala targets Rs 1,000 Cr revenue as it scales enterprise workspace business\n\n\n\nIndia's offices are being reinvented, and Workshaala wants to be the company that runs them. The enterprise workspace provider has set out a Rs 1,000 crore revenue vision for its next phase of growth, built on a fo",
+     "lead": "Workshaala targets Rs 1,000 Cr revenue as it scales enterprise workspace business Operating 75,000 seats across 25 centres in 10 cities, Workshaala is betting on pan-India expansion, technology-led operations, and growing demand from GCCs to drive its next phase of growth. Press Releases 186 Stories Tuesday October 27, 2026 , 4 min Read India's offices are being reinvented, and Workshaala wants to be the company that runs them. The ...",
+     "image": "https://images.yourstory.com/cs/2/81f42290-b0f5-11ed-aa4d-75d0d1d6c429/1793077359948.png",
+     "why": [
+      "Financials",
+      "Large deal (about $105M)"
+     ],
+     "tags": [
+      "Financials",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 71,
      "title": "Meta eyes record $95 billion equity raise to fund AI expansion",
      "url": "https://economictimes.indiatimes.com/tech/technology/meta-eyes-record-95-billion-equity-raise-to-fund-ai-expansion/articleshow/135213020.cms",
      "date": "2026-10-26",
@@ -209,56 +251,72 @@
       "Funding",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 71,
-     "title": "Startup funding falls below $100M; Deeptech startups look to go global",
-     "url": "https://yourstory.com/2026/10/startup-funding-falls-below-100m",
-     "date": "2026-10-26",
-     "source": "YourStory",
-     "label": "India · AI & Deeptech",
-     "snippet": "Venture capital funding in the third week of October recorded a sharp fall due to lower number of deals and absence of large value transactions.",
-     "lead": "Startup funding falls below $100M; Deeptech startups look to go global Venture capital funding in the third week of October recorded a sharp fall due to lower number of deals and absence of large value transactions. Team YS 17419 Stories Monday October 26, 2026 , 4 min Read The AI boom is fuelling a datacentre expansion, but local communities are pushing back. In the UK, residents are raising concerns about noise, pollution, and ...",
-     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/LatestPPTTemplates1-1780148922353-1783177491831.jpg",
-     "why": [
-      "Funding",
-      "Large deal (about $100M)"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 71,
-     "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-     "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-     "date": "2026-10-23",
-     "source": "TechCrunch",
-     "label": "Global · SaaS & Enterprise",
-     "snippet": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
-     "lead": "Daytona Platforms announced on Friday that it had raised a $60 million Series B round at a $1 billion valuation led by FirstMark Growth. The company says it has now raised a total of $91 million. The New York-based startup has attracted not just FirstMark (which also led its $24 million Series A in February), but also a host of well-known angels in this latest round. Daytona says they include Stripe’s Patrick Collison, Shopify’s Tobi ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2023/11/Daytona_Founders-e1698845569762.jpg?resize=1200,676",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $1,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "SaaS & Enterprise"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 1417,
-   "new_today": 14,
+   "total": 1436,
+   "new_today": 30,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 7,
+     "priority": 70,
+     "title": "Indians, Brits and Syrians top Norway's permanent residency list",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmdwZjNIMVpVT2VYWUNvbktncDBwcFpYWTZPV3NJQ01BTmU2RkMzSHd2NU1pMFpCY1p5WmhVbW10OUpxRE9IeGpSaFM5ck1wNmliZnBIZndHMXZKZWFWcjJkQXJZb29QMTI2R0thSlJGczRFS0l1R2g5b2Y4M3VVNXhxOEpUM3ZDTlJOeWJ4TVdpblJuYzhqeW92Yw?oc=5",
+     "date": "2026-10-20",
+     "source": "The Local Norway",
+     "label": "Norway",
+     "snippet": "Gaining permanent residency in Norway is a significant achievement for every foreigner who is building a new life in the nordic country; however some nationalities stand out for both the number of applicants and their high approval rates.",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Gaining permanent residency in Norway is a significant achievement for every foreigner who is building a new life in the nordic country; however some nationalities stand out for both the number of applicants and their ...",
+     "image": null,
+     "why": [
+      "Affects permanent residence",
+      "Mentions India or Indians"
+     ],
+     "tags": [
+      "PR / Settlement",
+      "Norway"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 60,
+     "title": "S. Korean FM Cho, Rubio set to talk US visa delay",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM1R2clBoZVpWWlN0Q2FIZG5jMHJ0WmxmRkVYdEtZN2g5RkhzcE1kN2c4MGdkX2phaGlMMmpuTVpNWkQzU0pna01KN2JHRVV6cGtpNzNLSF9heDVRQnpMMDYyNmNQZ0N5SlRvRHlITnhmd3ZXZGx4ZkQ1aHlGY2s4cnVOZDh5N29nbWRBU0l5V09qUFJjVnh1cQ?oc=5",
+     "date": "2026-10-27",
+     "source": "Breakingthenews.net",
+     "label": "South Korea",
+     "snippet": "South Korean Foreign Minister Cho Hyun (pictured left) stated he plans to meet United States Secretary of State Marco Rubio (pictured right) during his upcoming trip to the US to hold bilateral talk, ...",
+     "lead": "",
+     "image": "https://cdn.ttweb.net/News/images/409134.jpg?preset=w800_q70",
+     "why": [
+      "Announces a change"
+     ],
+     "tags": [
+      "South Korea"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 60,
+     "title": "Why is Japan tightening its immigration rules?",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLUFvMDAxNURVcmVscUUxS0haSGxsdXZvUHZwRDd3ODdkOXN5VGYwdnk2cnJrdmI5MWhEQkxuak05akNrUUZDYWZZNzFoTVNlRUMyS09RaS1PS0IxN3dyTWNoMDhSSHl2SFdoY1JvTWVjdUl5d1dKUmt5NXk0T3hjOQ?oc=5",
+     "date": "2026-10-26",
+     "source": "Nikkei Asia",
+     "label": "Japan",
+     "snippet": "Expert Naoko Hashimoto discusses why the nation is making it harder to stay",
+     "lead": "Japan India South Korea Indonesia Taiwan Thailand U.S. East Asia Hong Kong Macao Taiwan Mongolia Japan South Korea North Korea Southeast Asia Thailand Malaysia Singapore Philippines Vietnam Myanmar Cambodia Laos Brunei East Timor South Asia Pakistan Afghanistan Bangladesh Sri Lanka Nepal Bhutan Maldives Central Asia Uzbekistan Turkmenistan Tajikistan Kyrgyzstan Oceania New Zealand Papua New Guinea Pacific Islands Rest of the World ...",
+     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F6%2F2%2F4%2F13364268-1-eng-GB%2F3f2407c5a059-Thumbnail-Template-1.00_04_30_14.Still067.png?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+     "why": [
+      "Announces a change"
+     ],
+     "tags": [
+      "Japan"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 6,
@@ -277,67 +335,6 @@
      "tags": [
       "Citizenship",
       "Austria"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 60,
-     "title": "Vietnamese students top South Korea's visa overstayers with over 26,200 cases",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcklYRlUya01QQ29EQTBpOVNEZEZCUUVsN0pHSWY2Sm4yTUNmSmpJczdic1h6bC1OazRvRWlEcUo2d1doRjZtQjE1VzdSOGstRzZIOWs4UG5xUnViLV9CZXNOcS1fZ3gwdjA4WXo1WXlkbER2STh5Mkk5azRPanQ5YzVZVXVkOHFUSUk1bDh1YUZ1aW5LLVotTEc2TEY0UUVlLWZfb0pFeVRnX3Y1UlEtemZGUGVhMEN4aUpHSG4waWVILUdSVEQ3YUh2Z3NtY2s?oc=5",
-     "date": "2026-10-26",
-     "source": "VnExpress International",
-     "label": "South Korea",
-     "snippet": "More than 26,200 Vietnamese students have overstayed their visas in South Korea, the highest number among all nationalities.",
-     "lead": "News Politics Education Environment Traffic Crime Brainteaser Copy link Most Read 1. World's second most visited country sees nearly half its tourism activity outside peak season 2. Singaporean billionaire Peter Lim sells 42% stake in Valencia football club 3. Malaysian tourist falls into 10-meter-deep hole in Da Lat 4. Meet Nathan Chen, the 17-year-old Chinese AI prodigy turning heads in Silicon Valley 5. Indonesia imposes record ...",
-     "image": "https://vcdn1-english.vnecdn.net/2026/10/24/pexelsmiami30224498500-1792822-5262-4156-1792824920.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=4Kve_AjfLzFG571f6E8RFA",
-     "why": [
-      "Major story (11 headlines that day)"
-     ],
-     "tags": [
-      "Student / Graduate",
-      "South Korea"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 60,
-     "title": "Denmark delays new citizenship screening model – what it means for applicants",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRlkybTdwQmdfUEFqS0VoMzJ5bEI0ZHFKc0hkMm9zeHlVVEdhajRGTVJrRE5Oc3RCTUFSOTFyX3FFNzE4WG0zQkhWT0YzbnI2R3NXaE5Tam1nZi1hNjhPdTVzWmRzWHViMDBWMm9aMDhCbTNaZ2xyU1Z0c0ZYN292azB3aDhkU0t6TzY2eVdTSXdIU3ZoVEhXMGI2VE8tVGdJTDV4TTl1NWQ3QWhjcWl6X0xRVU4?oc=5",
-     "date": "2026-10-24",
-     "source": "The Copenhagen Post",
-     "label": "Denmark",
-     "snippet": "The expert group tasked with examining the possibilities for a screening model for citizenship applicants is facing further delays in its work. The Ministry of Immigration and Integration writes this in a press release. – Due to the scope and complexity of the work, we cannot manage to deliver our recommendations around the turn of […]",
-     "lead": "The expert group tasked with examining the possibilities for a screening model for citizenship applicants is facing further delays in its work. The Ministry of Immigration and Integration writes this in a press release. – Due to the scope and complexity of the work, we cannot manage to deliver our recommendations around the turn of the year. Instead, I expect that we will conclude our work in mid-March next year, says Henrik Thomassen, ...",
-     "image": null,
-     "why": [
-      "Affects citizenship",
-      "Announces a change"
-     ],
-     "tags": [
-      "Citizenship",
-      "Denmark"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 50,
-     "title": "Does volunteering increase your chances of getting Swiss citizenship?",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMktfejN4bVVIc2JYZVNEd2licEhTY2F6SnZFcENrM1hiY1NmS2tTT3pELThZcjlLc0gtMnFrNlhPVnhJbldsSDlfcktZaXVONVJQRW5XS016Vmc4S1VucEFQRmp1SU1BbVp1UGZJMUNBNGRyOXpSSlFOYnBTSElNOWhiOS11YmwxR3NVTHM4OFJtZXdjaG95QTdlbTRzRkxNSUNn?oc=5",
-     "date": "2026-10-23",
-     "source": "The Local Switzerland",
-     "label": "Switzerland",
-     "snippet": "In Austria, foreign nationals may qualify for citizenship sooner if they have completed at least three years of voluntary work. Is there a similar rule in Switzerland as well?",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden 1 comment Add The Local as a preferred source In Austria, foreign nationals may qualify for citizenship sooner if they have completed at least three years of voluntary work. Is there a similar rule in Switzerland as well? Concretely, Austrian law ...",
-     "image": null,
-     "why": [
-      "Affects citizenship"
-     ],
-     "tags": [
-      "Citizenship",
-      "Switzerland"
      ]
     }
    ]
@@ -456,6 +453,29 @@
    "must_read": true
   },
   {
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 100,
+   "title": "Canada invites 5,000 francophones to apply for permanent residence",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ0ZDLUpfb2stMnRrQ2t0WFJ4c1VjOXlhNXpmaVVSLUI4M2VsajREUHBhX195R1ViZnZILW14WjA2SHdWTlN6eGhDSXRKd2QtMHRYNWs1TFQ3Y2RyQWxmXzE0cUlJeTEtR3ltbVA3NVJLRmFnc2sxaGpFS2xsT3VkczEzcTlTQU5rd3hGZFBON0ZWZ2ZqSDJPcnQ2dWdSaTZCVEFVVkhwdUtwTFZGdm5F?oc=5",
+   "date": "2026-10-27",
+   "source": "CIC News",
+   "label": "Canada",
+   "snippet": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) for permanent residence through the Express Entry system. The immigration department issued 5,000 ITAs in a draw for candidates with French-language abilities. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ran",
+   "lead": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) for permanent residence through the Express Entry system. The immigration department issued 5,000 ITAs in a draw for candidates with French-language abilities. In-Canada Express Entry candidates who have applied for permanent residence may be eligible for a Bridging Open Work Permit (BOWP).",
+   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/Express-Entry-Draw-64.jpg",
+   "why": [
+    "Affects permanent residence",
+    "Major story (12 headlines that day)"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Canada"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
    "desk": "Policy",
    "score": 10,
    "priority": 100,
@@ -474,7 +494,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -497,7 +517,7 @@
    "tags": [
     "Australia"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -520,7 +540,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -544,8 +564,8 @@
     "Citizenship",
     "United Kingdom"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Immigration",
@@ -569,7 +589,7 @@
     "Work visa",
     "New Zealand"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -592,7 +612,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -616,7 +636,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -638,7 +658,30 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 9,
+   "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 86,
+   "title": "Intel to buy quantum firm Classiq for about $2.3 billion: Report",
+   "url": "https://economictimes.indiatimes.com/tech/technology/intel-to-buy-quantum-firm-classiq-for-about-2-3-billion-report/articleshow/135236833.cms",
+   "date": "2026-10-27",
+   "source": "ET Startups",
+   "label": "Global · AI & Deeptech",
+   "snippet": "The Israeli startup would also add quantum processors to Intel's lineup, which already includes central processing units and graphics processors. Intel said it plans to keep Classiq's software compatible with other companies' hardware after the deal closes.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1348465,resizemode-75,msid-135236833/tech/technology/intel-to-buy-quantum-firm-classiq-for-about-2-3-billion-report.jpg",
+   "why": [
+    "Acquisition",
+    "Very large figure in headline (about $2,300M: round or valuation)"
+   ],
+   "tags": [
+    "Acquisition",
+    "AI & Deeptech"
+   ],
+   "rank": 11,
    "must_read": false
   },
   {
@@ -661,7 +704,7 @@
     "Acquisition",
     "Commerce & D2C"
    ],
-   "rank": 10,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -683,7 +726,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 11,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -706,7 +749,7 @@
     "Regulatory",
     "Banks & Financials"
    ],
-   "rank": 12,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -729,7 +772,30 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 13,
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 8,
+   "priority": 80,
+   "title": "Denmark introduces a new work permit scheme for foreign workers",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZmN6bWRyQ3FLMVVMdUpaSWN6RnBlWDhoZ3ljVkZfT0VldEotSEFIeUExUnpuVzl0TTZLazdWTktVUGJxOXlNYThiLXZJQjVLU3hCSHJlWXRPZVhfOERkZzhrcHJPalVVal9ZRW95UEpiRGlpQ2pLTU1sREVqZklpRnFqLU5feVc4VlZWa1hPM1F3eVBWTU13YlYxb0pSYUhTZ1I0NHJMcUZwZno2Q2NZV0dJeEFMSXFiYl9JMjBrYXFwalJlaGw3T3FoSkZjNnhZSUMzY3lR0gHcAUFVX3lxTE1rZjFOZExjZHV6SnlqZmVaSHpFSjZPcVNVNkZJMzI4Q0t6dzZxaVpyMjhUVm5MSGVXTEVpcnU1YXphM0RmbUYzaXVrRWhnSkFGcE9DSVhTWDlZSy1aMnBGa3FuZGY4TzN5ODVDT2t4NEFnMWV5RFVOQ1B2V2lQamw4WUIxVFY3UFpQeGRkZGlZSXZCN2laVDVoRW4zbXZNVFVOQU9DZ2VqQnd5MU1UMmtnYWdDZTNOWlFUb002LU0xYlpiS3ZvbmN4MmJZUGpKOXBGTGlXZ1hKUWNlckE?oc=5",
+   "date": "2026-10-27",
+   "source": "The Financial Express",
+   "label": "Denmark",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Affects work visas",
+    "Announces a change"
+   ],
+   "tags": [
+    "Work visa",
+    "Denmark"
+   ],
+   "rank": 16,
    "must_read": false
   },
   {
@@ -752,7 +818,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 14,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -774,7 +840,7 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 15,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -798,7 +864,7 @@
     "Financials",
     "Media, Gaming & Creators"
    ],
-   "rank": 16,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -821,30 +887,7 @@
     "IPO & Listing",
     "Edtech & Skills"
    ],
-   "rank": 17,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 79,
-   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-   "date": "2026-10-23",
-   "source": "TechCrunch",
-   "label": "Global · Other",
-   "snippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-   "lead": "OpenAI is reportedly close to securing another mega round of private funding, rather than plowing ahead with an IPO. The AI lab is working on raising up to $30 billion at a $1.25 trillion pre-money valuation in a round led by Coatue and investors in UAE, sources told CNBC . This follows a similar report by Bloomberg a month ago which said the AI lab was working on raising $30 billion at a $1.4 trillion valuation. Terms are still being ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $30,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 18,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -865,50 +908,6 @@
    ],
    "tags": [
     "Banking & Rates"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 70,
-   "title": "Indians, Brits and Syrians top Norway's permanent residency list",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmdwZjNIMVpVT2VYWUNvbktncDBwcFpYWTZPV3NJQ01BTmU2RkMzSHd2NU1pMFpCY1p5WmhVbW10OUpxRE9IeGpSaFM5ck1wNmliZnBIZndHMXZKZWFWcjJkQXJZb29QMTI2R0thSlJGczRFS0l1R2g5b2Y4M3VVNXhxOEpUM3ZDTlJOeWJ4TVdpblJuYzhqeW92Yw?oc=5",
-   "date": "2026-10-20",
-   "source": "The Local Norway",
-   "label": "Norway",
-   "snippet": "Gaining permanent residency in Norway is a significant achievement for every foreigner who is building a new life in the nordic country; however some nationalities stand out for both the number of applicants and their high approval rates.",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Gaining permanent residency in Norway is a significant achievement for every foreigner who is building a new life in the nordic country; however some nationalities stand out for both the number of applicants and their ...",
-   "image": null,
-   "why": [
-    "Affects permanent residence",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Norway"
-   ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 60,
-   "title": "Why is Japan tightening its immigration rules?",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLUFvMDAxNURVcmVscUUxS0haSGxsdXZvUHZwRDd3ODdkOXN5VGYwdnk2cnJrdmI5MWhEQkxuak05akNrUUZDYWZZNzFoTVNlRUMyS09RaS1PS0IxN3dyTWNoMDhSSHl2SFdoY1JvTWVjdUl5d1dKUmt5NXk0T3hjOQ?oc=5",
-   "date": "2026-10-26",
-   "source": "Nikkei Asia",
-   "label": "Japan",
-   "snippet": "Expert Naoko Hashimoto discusses why the nation is making it harder to stay",
-   "lead": "Japan India South Korea Indonesia Taiwan Thailand U.S. East Asia Hong Kong Macao Taiwan Mongolia Japan South Korea North Korea Southeast Asia Thailand Malaysia Singapore Philippines Vietnam Myanmar Cambodia Laos Brunei East Timor South Asia Pakistan Afghanistan Bangladesh Sri Lanka Nepal Bhutan Maldives Central Asia Uzbekistan Turkmenistan Tajikistan Kyrgyzstan Oceania New Zealand Papua New Guinea Pacific Islands Rest of the World ...",
-   "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F6%2F2%2F4%2F13364268-1-eng-GB%2F3f2407c5a059-Thumbnail-Template-1.00_04_30_14.Still067.png?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
-   "why": [
-    "Announces a change"
-   ],
-   "tags": [
-    "Japan"
    ],
    "rank": 21,
    "must_read": false
@@ -939,19 +938,19 @@
    "desk": "Policy",
    "score": 5,
    "priority": 50,
-   "title": "Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13746&Mode=0",
+   "title": "Extension of timeline for compliance with terms and conditions by Debenture Trustees (DTs) for carrying out activities outside the purview of SEBI",
+   "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-dts-for-carrying-out-activities-outside-the-purview-of-sebi_105454.html",
    "date": "2026-10-27",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "The Chairman / Managing Director & Chief Executive Officer Lead Banks concerned Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility The Government of National Capital Territory (NCT) of Delhi has notified re-organisation of districts in the NCT of Delhi vide Gazette Notification No. F.223/ SDM-II (HQ)/ Land/2025/285 dated December 25, 2025, whereby three new districts, viz., Old Delhi, ...",
+   "source": "SEBI",
+   "label": "Markets & Regulation",
+   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+   "lead": "",
    "image": null,
    "why": [
-    "Regulator: RBI"
+    "Regulator: SEBI"
    ],
    "tags": [
-    "Banking & Rates"
+    "Markets & Regulation"
    ],
    "rank": 23,
    "must_read": false
