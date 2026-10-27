@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-27",
- "built": "2026-10-27 07:58 IST",
+ "built": "2026-10-27 10:21 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22753.0,
-   "change_pct": 0.68,
-   "asof": "26 Oct 15:31 IST"
+   "value": 22700.0,
+   "change_pct": -0.24,
+   "asof": "27 Oct 10:21 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73607.0,
-   "change_pct": 0.66,
-   "asof": "26 Oct 15:32 IST"
+   "value": 73647.0,
+   "change_pct": 0.05,
+   "asof": "27 Oct 10:06 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.18,
-   "change_pct": 0.25,
-   "asof": "27 Oct 06:28 IST"
+   "value": 95.23,
+   "change_pct": 0.31,
+   "asof": "27 Oct 10:21 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 109.7,
-   "change_pct": -5.28,
-   "asof": "27 Oct 07:47 IST"
+   "value": 109.71,
+   "change_pct": -5.27,
+   "asof": "27 Oct 10:09 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
    "value": 4030.0,
-   "change_pct": -0.21,
-   "asof": "27 Oct 07:48 IST"
+   "change_pct": -0.2,
+   "asof": "27 Oct 10:11 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -162,9 +162,30 @@
    ]
   },
   "Startups": {
-   "total": 953,
-   "new_today": 6,
+   "total": 956,
+   "new_today": 9,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 71,
+     "title": "Meta eyes record $95 billion equity raise to fund AI expansion",
+     "url": "https://economictimes.indiatimes.com/tech/technology/meta-eyes-record-95-billion-equity-raise-to-fund-ai-expansion/articleshow/135213020.cms",
+     "date": "2026-10-26",
+     "source": "ET Startups",
+     "label": "Global · AI & Deeptech",
+     "snippet": "The Facebook parent has launched public offerings worth about $35 billion in common and preferred stock, and said it also plans to launch a separate at-the-market share sale program worth up to $60 billion.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-118024,resizemode-75,msid-135213020/tech/technology/meta-eyes-record-95-billion-equity-raise-to-fund-ai-expansion.jpg",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $95,000M: round or valuation)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -227,53 +248,13 @@
      "tags": [
       "IPO & Listing"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 71,
-     "title": "Zetwerk Makes NSE Debut At 5.5% Premium After ₹5,012 Cr IPO",
-     "url": "https://inc42.com/buzz/zetwerk-makes-nse-debut-at-5-5-premium-after-%e2%82%b95012-cr-ipo/",
-     "date": "2026-10-23",
-     "source": "Inc42",
-     "label": "India · SaaS & Enterprise",
-     "snippet": "Zetwerk made its stock market debut at a 5.46% premium on the NSE at ₹159.25 against its issue price of ₹151",
-     "lead": "Zetwerk made its stock market debut at a 5.46% premium on the NSE at ₹159.25 against its issue price of ₹151 The listing gives investors a public-market entry into the B2B manufacturing startup, while the IPO proceeds will help it reduce debt and fund acquisitions Zetwerk’s FY26 operating revenue rose 40.4% to ₹15,913.3 Cr, but its net loss widened to ₹1,606.2 Cr from ₹370.7 Cr in FY25",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Zetwerk-social.jpg",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $528M: round or valuation)"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "SaaS & Enterprise"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 1398,
-   "new_today": 9,
+   "total": 1411,
+   "new_today": 12,
    "items": [
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 60,
-     "title": "Why is Japan tightening its immigration rules?",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLUFvMDAxNURVcmVscUUxS0haSGxsdXZvUHZwRDd3ODdkOXN5VGYwdnk2cnJrdmI5MWhEQkxuak05akNrUUZDYWZZNzFoTVNlRUMyS09RaS1PS0IxN3dyTWNoMDhSSHl2SFdoY1JvTWVjdUl5d1dKUmt5NXk0T3hjOQ?oc=5",
-     "date": "2026-10-26",
-     "source": "Nikkei Asia",
-     "label": "Japan",
-     "snippet": "Expert Naoko Hashimoto discusses why the nation is making it harder to stay",
-     "lead": "Japan India South Korea Indonesia Taiwan Thailand U.S. East Asia Hong Kong Macao Taiwan Mongolia Japan South Korea North Korea Southeast Asia Thailand Malaysia Singapore Philippines Vietnam Myanmar Cambodia Laos Brunei East Timor South Asia Pakistan Afghanistan Bangladesh Sri Lanka Nepal Bhutan Maldives Central Asia Uzbekistan Turkmenistan Tajikistan Kyrgyzstan Oceania New Zealand Papua New Guinea Pacific Islands Rest of the World ...",
-     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F6%2F2%2F4%2F13364268-1-eng-GB%2F3f2407c5a059-Thumbnail-Template-1.00_04_30_14.Still067.png?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
-     "why": [
-      "Announces a change"
-     ],
-     "tags": [
-      "Japan"
-     ]
-    },
     {
      "desk": "Immigration",
      "score": 6,
@@ -333,6 +314,26 @@
      "tags": [
       "Citizenship",
       "Denmark"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 50,
+     "title": "Does volunteering increase your chances of getting Swiss citizenship?",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMktfejN4bVVIc2JYZVNEd2licEhTY2F6SnZFcENrM1hiY1NmS2tTT3pELThZcjlLc0gtMnFrNlhPVnhJbldsSDlfcktZaXVONVJQRW5XS016Vmc4S1VucEFQRmp1SU1BbVp1UGZJMUNBNGRyOXpSSlFOYnBTSElNOWhiOS11YmwxR3NVTHM4OFJtZXdjaG95QTdlbTRzRkxNSUNn?oc=5",
+     "date": "2026-10-23",
+     "source": "The Local Switzerland",
+     "label": "Switzerland",
+     "snippet": "In Austria, foreign nationals may qualify for citizenship sooner if they have completed at least three years of voluntary work. Is there a similar rule in Switzerland as well?",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden 1 comment Add The Local as a preferred source In Austria, foreign nationals may qualify for citizenship sooner if they have completed at least three years of voluntary work. Is there a similar rule in Switzerland as well? Concretely, Austrian law ...",
+     "image": null,
+     "why": [
+      "Affects citizenship"
+     ],
+     "tags": [
+      "Citizenship",
+      "Switzerland"
      ]
     }
    ]
@@ -640,6 +641,29 @@
    "desk": "Startups",
    "score": 12,
    "priority": 86,
+   "title": "DoorDash in talks to buy Instacart in roughly $17 billion deal",
+   "url": "https://economictimes.indiatimes.com/tech/technology/doordash-in-talks-to-buy-instacart-in-roughly-17-billion-deal/articleshow/135222954.cms",
+   "date": "2026-10-27",
+   "source": "ET Startups",
+   "label": "Global · Commerce & D2C",
+   "snippet": "DoorDash is in advanced talks to acquire Instacart in a deal that could value the grocery-delivery platform at about $17 billion, a source familiar with the matter told Reuters on Monday.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-33838,resizemode-75,msid-135222954/tech/technology/doordash-in-talks-to-buy-instacart-in-roughly-17-billion-deal.jpg",
+   "why": [
+    "Acquisition",
+    "Very large figure in headline (about $17,000M: round or valuation)"
+   ],
+   "tags": [
+    "Acquisition",
+    "Commerce & D2C"
+   ],
+   "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 86,
    "title": "Anthropic files for IPO even as losses surge to $80B",
    "url": "https://yourstory.com/2026/10/anthropic-files-for-ipo-even-as-losses-surge-to-80-billion",
    "date": "2026-10-26",
@@ -655,7 +679,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -678,7 +702,7 @@
     "Regulatory",
     "Banks & Financials"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -701,7 +725,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 12,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -723,30 +747,6 @@
    ],
    "tags": [
     "Banking & Rates"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 8,
-   "priority": 80,
-   "title": "Immigration policy cuts foreign job seeker interest in Canada by half: report",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQakZ3djBJOUFGSC10OWU0d2VFdEk2OW5KNnZRQ1RuNVBKa2UtTDR3aUFjdDhqTkx4QXAtejRuNktDR1lRNTJFTDMzQVM5V2hSUm5PWGF2NHpGbjR0MGVqcncyREdlcEdJbWtvcEFsX2tKbDktUWczMVR0bXFmT25vZUlqY3Q2anVtZHdNOUo3Um5Rc3RCdERVd2RjQ19RV2hJM1QtNzNOdTEtb3Q5VXpEVS1MWElNemgwTVFFMWlZMW1ad1NLOEZ0TERmX3ZGYlpn?oc=5",
-   "date": "2026-10-23",
-   "source": "Human Resources Director",
-   "label": "Canada",
-   "snippet": "Tighter temporary residency rules are thinning talent pools in some industries, raising hiring risks for Canadian employers",
-   "lead": "Tighter temporary residency rules are thinning talent pools in some industries, raising hiring risks for Canadian employers Tighter temporary residency rules are thinning talent pools in engineering, hospitality and retail, raising hiring risks for Canadian employers Canada's tighter immigration policy has cut foreign job seeker interest in Canadian roles by more than half since 2023, and employers in engineering, hospitality and ...",
-   "image": "https://cdn-res.keymedia.com/cms/images/us/036/0363_639283582538502797.png",
-   "why": [
-    "Affects work visas",
-    "Announces a change",
-    "Major story (9 headlines that day)"
-   ],
-   "tags": [
-    "Work visa",
-    "Canada"
    ],
    "rank": 14,
    "must_read": false
@@ -845,29 +845,6 @@
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 71,
-   "title": "Meta eyes record $95 billion equity raise to fund AI expansion",
-   "url": "https://economictimes.indiatimes.com/tech/technology/meta-eyes-record-95-billion-equity-raise-to-fund-ai-expansion/articleshow/135213020.cms",
-   "date": "2026-10-26",
-   "source": "ET Startups",
-   "label": "Global · AI & Deeptech",
-   "snippet": "The Facebook parent has launched public offerings worth about $35 billion in common and preferred stock, and said it also plans to launch a separate at-the-market share sale program worth up to $60 billion.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-118024,resizemode-75,msid-135213020/tech/technology/meta-eyes-record-95-billion-equity-raise-to-fund-ai-expansion.jpg",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $95,000M: round or valuation)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
    "desk": "Policy",
    "score": 7,
    "priority": 70,
@@ -886,7 +863,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 20,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -908,6 +885,27 @@
    "tags": [
     "PR / Settlement",
     "Norway"
+   ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 6,
+   "priority": 60,
+   "title": "Why is Japan tightening its immigration rules?",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLUFvMDAxNURVcmVscUUxS0haSGxsdXZvUHZwRDd3ODdkOXN5VGYwdnk2cnJrdmI5MWhEQkxuak05akNrUUZDYWZZNzFoTVNlRUMyS09RaS1PS0IxN3dyTWNoMDhSSHl2SFdoY1JvTWVjdUl5d1dKUmt5NXk0T3hjOQ?oc=5",
+   "date": "2026-10-26",
+   "source": "Nikkei Asia",
+   "label": "Japan",
+   "snippet": "Expert Naoko Hashimoto discusses why the nation is making it harder to stay",
+   "lead": "Japan India South Korea Indonesia Taiwan Thailand U.S. East Asia Hong Kong Macao Taiwan Mongolia Japan South Korea North Korea Southeast Asia Thailand Malaysia Singapore Philippines Vietnam Myanmar Cambodia Laos Brunei East Timor South Asia Pakistan Afghanistan Bangladesh Sri Lanka Nepal Bhutan Maldives Central Asia Uzbekistan Turkmenistan Tajikistan Kyrgyzstan Oceania New Zealand Papua New Guinea Pacific Islands Rest of the World ...",
+   "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F6%2F2%2F4%2F13364268-1-eng-GB%2F3f2407c5a059-Thumbnail-Template-1.00_04_30_14.Still067.png?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+   "why": [
+    "Announces a change"
+   ],
+   "tags": [
+    "Japan"
    ],
    "rank": 21,
    "must_read": false
