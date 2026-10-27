@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28 00:00 IST",
+ "updated": "2026-10-28 00:56 IST",
  "notes": [],
  "nse_stamp": "27-Oct-2026 15:30",
  "indices": [
@@ -464,24 +464,24 @@
  "global": [
   {
    "name": "S&P 500",
-   "value": 7717.0,
+   "value": 7728.0,
    "dp": 0,
-   "d1": 0.53,
-   "w1": 0.06,
-   "m1": -0.34,
-   "y1": 12.25,
-   "asof": "28 Oct 2026 00:00 IST",
+   "d1": 0.67,
+   "w1": 0.2,
+   "m1": -0.2,
+   "y1": 12.41,
+   "asof": "28 Oct 2026 00:56 IST",
    "source": "Yahoo Finance"
   },
   {
    "name": "Nasdaq Composite",
-   "value": 26455.0,
+   "value": 26505.0,
    "dp": 0,
-   "d1": 1.09,
-   "w1": 0.11,
-   "m1": -2.27,
-   "y1": 11.92,
-   "asof": "28 Oct 2026 00:00 IST",
+   "d1": 1.28,
+   "w1": 0.3,
+   "m1": -2.08,
+   "y1": 12.13,
+   "asof": "28 Oct 2026 00:56 IST",
    "source": "Yahoo Finance"
   },
   {
@@ -543,26 +543,26 @@
  "rates_fx": [
   {
    "name": "US 10-year yield (%)",
-   "value": 4.986,
+   "value": 4.993,
    "dp": 3,
    "unit": "bp",
-   "d1": -0.0,
-   "w1": -13.1,
-   "m1": -19.8,
-   "y1": 98.9,
-   "asof": "27 Oct 2026 23:45 IST",
+   "d1": 0.7,
+   "w1": -12.4,
+   "m1": -19.1,
+   "y1": 99.6,
+   "asof": "28 Oct 2026 00:29 IST",
    "source": "Yahoo Finance"
   },
   {
    "name": "US 5-year yield (%)",
-   "value": 4.833,
+   "value": 4.84,
    "dp": 3,
    "unit": "bp",
-   "d1": 0.9,
-   "w1": -10.2,
-   "m1": -17.4,
-   "y1": 121.9,
-   "asof": "27 Oct 2026 23:45 IST",
+   "d1": 1.6,
+   "w1": -9.5,
+   "m1": -16.7,
+   "y1": 122.6,
+   "asof": "28 Oct 2026 00:29 IST",
    "source": "Yahoo Finance"
   },
   {
@@ -574,18 +574,18 @@
    "w1": -4.0,
    "m1": -3.0,
    "y1": 32.2,
-   "asof": "27 Oct 2026 23:45 IST",
+   "asof": "28 Oct 2026 00:29 IST",
    "source": "Yahoo Finance"
   },
   {
    "name": "US Dollar Index",
-   "value": 102.32,
+   "value": 102.3,
    "dp": 2,
-   "d1": 0.35,
-   "w1": 0.58,
-   "m1": 1.34,
-   "y1": 3.58,
-   "asof": "27 Oct 2026 23:50 IST",
+   "d1": 0.33,
+   "w1": 0.56,
+   "m1": 1.31,
+   "y1": 3.56,
+   "asof": "28 Oct 2026 00:46 IST",
    "source": "Yahoo Finance"
   },
   {
@@ -614,46 +614,46 @@
  "commodities": [
   {
    "name": "Gold (USD/oz)",
-   "value": 4070.5,
+   "value": 4073.8,
    "dp": 2,
-   "d1": 0.79,
-   "w1": -1.74,
-   "m1": -5.8,
-   "y1": 1.26,
-   "asof": "27 Oct 2026 23:50 IST",
+   "d1": 0.88,
+   "w1": -1.66,
+   "m1": -5.73,
+   "y1": 1.35,
+   "asof": "28 Oct 2026 00:46 IST",
    "source": "Yahoo Finance"
   },
   {
    "name": "Silver (USD/oz)",
-   "value": 54.35,
+   "value": 54.45,
    "dp": 2,
-   "d1": 0.45,
-   "w1": -5.82,
-   "m1": -15.4,
-   "y1": 16.73,
-   "asof": "27 Oct 2026 23:50 IST",
+   "d1": 0.63,
+   "w1": -5.64,
+   "m1": -15.25,
+   "y1": 16.94,
+   "asof": "28 Oct 2026 00:46 IST",
    "source": "Yahoo Finance"
   },
   {
    "name": "Brent crude (USD/bbl)",
-   "value": 109.5,
+   "value": 109.24,
    "dp": 2,
-   "d1": -5.45,
-   "w1": 0.65,
-   "m1": 4.97,
-   "y1": 66.87,
-   "asof": "27 Oct 2026 23:50 IST",
+   "d1": -5.67,
+   "w1": 0.41,
+   "m1": 4.72,
+   "y1": 66.47,
+   "asof": "28 Oct 2026 00:46 IST",
    "source": "Yahoo Finance"
   },
   {
    "name": "WTI crude (USD/bbl)",
-   "value": 100.02,
+   "value": 99.62,
    "dp": 2,
-   "d1": -1.71,
-   "w1": -1.74,
-   "m1": 8.24,
-   "y1": 63.14,
-   "asof": "27 Oct 2026 23:50 IST",
+   "d1": -2.1,
+   "w1": -2.13,
+   "m1": 7.8,
+   "y1": 62.49,
+   "asof": "28 Oct 2026 00:46 IST",
    "source": "Yahoo Finance"
   },
   {
@@ -664,7 +664,7 @@
    "w1": 1.36,
    "m1": -0.59,
    "y1": 29.48,
-   "asof": "27 Oct 2026 23:50 IST",
+   "asof": "28 Oct 2026 00:46 IST",
    "source": "Yahoo Finance"
   },
   {
@@ -690,7 +690,7 @@
    "source": "Yahoo Finance"
   }
  ],
- "gold_silver_ratio": 74.89,
+ "gold_silver_ratio": 74.82,
  "reits": [
   {
    "name": "Embassy Office Parks REIT",
