@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-27",
- "built": "2026-10-27 10:21 IST",
+ "built": "2026-10-27 11:02 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22700.0,
-   "change_pct": -0.24,
-   "asof": "27 Oct 10:21 IST"
+   "value": 22757.0,
+   "change_pct": 0.02,
+   "asof": "27 Oct 11:02 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73647.0,
-   "change_pct": 0.05,
-   "asof": "27 Oct 10:06 IST"
+   "value": 73554.0,
+   "change_pct": -0.07,
+   "asof": "27 Oct 10:47 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.23,
-   "change_pct": 0.31,
-   "asof": "27 Oct 10:21 IST"
+   "value": 95.17,
+   "change_pct": 0.24,
+   "asof": "27 Oct 11:02 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 109.71,
-   "change_pct": -5.27,
-   "asof": "27 Oct 10:09 IST"
+   "value": 109.77,
+   "change_pct": -5.22,
+   "asof": "27 Oct 10:51 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4030.0,
-   "change_pct": -0.2,
-   "asof": "27 Oct 10:11 IST"
+   "value": 4020.0,
+   "change_pct": -0.45,
+   "asof": "27 Oct 10:52 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,9 +79,29 @@
  },
  "desks": {
   "Policy": {
-   "total": 249,
-   "new_today": 0,
+   "total": 250,
+   "new_today": 1,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 50,
+     "title": "Department of Commerce Extends RELIEF Initiative under Export Promotion Mission Until March 31, 2027",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2328402",
+     "date": "2026-10-26",
+     "source": "PIB",
+     "label": "Tax, Duties & Trade",
+     "snippet": "The Department of Commerce has extended the timelines under Component II of RELIEF (Resilience & Log",
+     "lead": "Ministry of Commerce & Industry Department of Commerce Extends RELIEF Initiative under Export Promotion Mission Until March 31, 2027 RELIEF Component II Offers 95% Risk Coverage to Encourage ECGC Cover for Export Shipments Posted On: 26 OCT 2026 1:50PM by PIB Delhi The Department of Commerce has extended the timelines under Component II of RELIEF (Resilience & Logistics Intervention for Export Facilitation), a time-bound intervention ...",
+     "image": null,
+     "why": [
+      "Rule change",
+      "Commerce"
+     ],
+     "tags": [
+      "Tax, Duties & Trade"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 5,
@@ -139,32 +159,36 @@
      "tags": [
       "Technology & Telecom"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 4,
-     "priority": 40,
-     "title": "Principal Controller of Communication Accounts releases schedule for Telecom Pensioners Jeevan Praman Camps across Delhi NCR for the month of November",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2328345",
-     "date": "2026-10-26",
-     "source": "PIB",
-     "label": "Technology & Telecom",
-     "snippet": "Principal Controller of Communication Accounts, Department of Telecom (DoT) is organizing Telecom Pe",
-     "lead": "Ministry of Communications Principal Controller of Communication Accounts releases schedule for Telecom Pensioners Jeevan Praman Camps across Delhi NCR for the month of November Posted On: 26 OCT 2026 12:20PM by PIB Delhi Principal Controller of Communication Accounts, Department of Telecom (DoT) is organizing Telecom Pensioners Jeevan Praman Camps during the month of November , 2026 in the premises O/o Pr. CCA Delhi, Delhi Sanchar ...",
-     "image": null,
-     "why": [
-      "Rule change"
-     ],
-     "tags": [
-      "Technology & Telecom"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 956,
-   "new_today": 9,
+   "total": 957,
+   "new_today": 10,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 79,
+     "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+     "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+     "date": "2026-10-22",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+     "lead": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion. The company helps automate and assist with workflow tasks for legal professionals, as the industry moves beyond AI assistants to AI services that help them get work done. The news comes just a month after Harvey, Legora’s biggest competitor, announced a $550 million raise at a $15.5 billion valuation; back in March, ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2296593553.jpg?w=1024",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $8,800M: round or valuation)",
+      "Valuation, listing or profitability signal",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -228,32 +252,12 @@
       "Funding",
       "SaaS & Enterprise"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 71,
-     "title": "[Update] Jio Platforms IPO Subscribed 22.19X On Final Day, QIB Portion Booked 70.55X",
-     "url": "https://inc42.com/buzz/jio-platforms-ipo-booked-6-76x-on-day-3-so-far-qib-portion-subscribed-14-18x/",
-     "date": "2026-10-23",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "Reliance Industries’ digital services arm Jio Platforms’ IPO was subscribed 6.76X as of 11:48 IST on the third and final day of bidding",
-     "lead": "Qualified institutional buyers (QIBs) led demand, subscribing their allotted portion 70.55X, with bids for 345.76 Cr shares against 4.90 Cr shares reserved for the category. Investors bid for 133.51 Cr shares against 19.75 Cr shares on offer, according to BSE subscription data. The overall subscription rose from 5.57X at the end of the second day . Within the institutional segment, domestic financial institutions, including banks and ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/jio-PC-social-.png",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $3,180M: round or valuation)"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 1411,
-   "new_today": 12,
+   "total": 1417,
+   "new_today": 14,
    "items": [
     {
      "desk": "Immigration",
@@ -288,7 +292,7 @@
      "lead": "News Politics Education Environment Traffic Crime Brainteaser Copy link Most Read 1. World's second most visited country sees nearly half its tourism activity outside peak season 2. Singaporean billionaire Peter Lim sells 42% stake in Valencia football club 3. Malaysian tourist falls into 10-meter-deep hole in Da Lat 4. Meet Nathan Chen, the 17-year-old Chinese AI prodigy turning heads in Silicon Valley 5. Indonesia imposes record ...",
      "image": "https://vcdn1-english.vnecdn.net/2026/10/24/pexelsmiami30224498500-1792822-5262-4156-1792824920.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=4Kve_AjfLzFG571f6E8RFA",
      "why": [
-      "Major story (10 headlines that day)"
+      "Major story (11 headlines that day)"
      ],
      "tags": [
       "Student / Graduate",
@@ -777,6 +781,30 @@
    "desk": "Startups",
    "score": 11,
    "priority": 79,
+   "title": "Nazara Technologies swings to profit in Q2; revenue jumps 53% to Rs 803 Cr",
+   "url": "https://yourstory.com/2026/10/nazara-technologies-profit-q2-revenue-jumps-to-803-cr",
+   "date": "2026-10-27",
+   "source": "YourStory",
+   "label": "India · Media, Gaming & Creators",
+   "snippet": "Nazara Technologies swung to a profit of Rs 35.3 crore in Q2 FY27, as revenue surged 53% year-on-year to a record Rs 803 crore. Gaming revenue more than doubled, driven by growth in mobile gaming and the consolidation of Bluetile and BestPlay.",
+   "lead": "Nazara Technologies swings to profit in Q2; revenue jumps 53% to Rs 803 Cr Nazara Technologies swung to a profit of Rs 35.3 crore in Q2 FY27, as revenue surged 53% year-on-year to a record Rs 803 crore. Gaming revenue more than doubled, driven by growth in mobile gaming and the consolidation of Bluetile and BestPlay. Press Trust of India 11239 Stories Tuesday October 27, 2026 , 2 min Read Nazara Technologies on Monday reported a profit ...",
+   "image": "https://images.yourstory.com/cs/120/11718bd02d6d11e9aa979329348d4c3e/shutterstock124913561-1745474933603.jpg",
+   "why": [
+    "Financials",
+    "Sizeable deal (about $85M)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Financials",
+    "Media, Gaming & Creators"
+   ],
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 79,
    "title": "Exclusive: Imarticus Eyes Confidential Filing In 2-3 Months For ₹1,000 Cr IPO",
    "url": "https://inc42.com/buzz/exclusive-imarticus-eyes-confidential-filing-in-2-3-months-for-%e2%82%b91000-cr-ipo/",
    "date": "2026-10-26",
@@ -793,7 +821,7 @@
     "IPO & Listing",
     "Edtech & Skills"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -815,31 +843,6 @@
    ],
    "tags": [
     "IPO & Listing"
-   ],
-   "rank": 17,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 79,
-   "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
-   "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
-   "date": "2026-10-22",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
-   "lead": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion. The company helps automate and assist with workflow tasks for legal professionals, as the industry moves beyond AI assistants to AI services that help them get work done. The news comes just a month after Harvey, Legora’s biggest competitor, announced a $550 million raise at a $15.5 billion valuation; back in March, ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2296593553.jpg?w=1024",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $8,800M: round or valuation)",
-    "Valuation, listing or profitability signal",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
    ],
    "rank": 18,
    "must_read": false
@@ -936,20 +939,19 @@
    "desk": "Policy",
    "score": 5,
    "priority": 50,
-   "title": "Department of Commerce Extends RELIEF Initiative under Export Promotion Mission Until March 31, 2027",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2328402",
-   "date": "2026-10-26",
-   "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "The Department of Commerce has extended the timelines under Component II of RELIEF (Resilience & Log",
-   "lead": "Ministry of Commerce & Industry Department of Commerce Extends RELIEF Initiative under Export Promotion Mission Until March 31, 2027 RELIEF Component II Offers 95% Risk Coverage to Encourage ECGC Cover for Export Shipments Posted On: 26 OCT 2026 1:50PM by PIB Delhi The Department of Commerce has extended the timelines under Component II of RELIEF (Resilience & Logistics Intervention for Export Facilitation), a time-bound intervention ...",
+   "title": "Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13746&Mode=0",
+   "date": "2026-10-27",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "The Chairman / Managing Director & Chief Executive Officer Lead Banks concerned Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility The Government of National Capital Territory (NCT) of Delhi has notified re-organisation of districts in the NCT of Delhi vide Gazette Notification No. F.223/ SDM-II (HQ)/ Land/2025/285 dated December 25, 2025, whereby three new districts, viz., Old Delhi, ...",
    "image": null,
    "why": [
-    "Rule change",
-    "Commerce"
+    "Regulator: RBI"
    ],
    "tags": [
-    "Tax, Duties & Trade"
+    "Banking & Rates"
    ],
    "rank": 23,
    "must_read": false
