@@ -1,6 +1,6 @@
 {
- "edition": "2026-10-27",
- "built": "2026-10-27 21:33 IST",
+ "edition": "2026-10-28",
+ "built": "2026-10-28 02:28 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,15 +12,15 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22750.0,
-   "change_pct": -0.02,
+   "value": 22753.0,
+   "change_pct": 0.68,
    "asof": "27 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73599.0,
-   "change_pct": -0.01,
+   "value": 73607.0,
+   "change_pct": 0.66,
    "asof": "27 Oct 15:32 IST"
   },
   {
@@ -33,59 +33,98 @@
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 109.49,
-   "change_pct": -5.46,
-   "asof": "27 Oct 21:23 IST"
+   "value": 109.74,
+   "change_pct": -5.24,
+   "asof": "28 Oct 02:18 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4076.0,
-   "change_pct": 0.94,
-   "asof": "27 Oct 21:23 IST"
+   "value": 4074.0,
+   "change_pct": 0.89,
+   "asof": "28 Oct 02:18 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
    "value": 4.99,
-   "change_pct": 0.0,
-   "asof": "27 Oct 21:18 IST"
+   "change_pct": 0.14,
+   "asof": "28 Oct 00:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "Kuku Technologies (Kuku FM)",
-   "tagline": "Audio and microdrama OTT, IPO cleared by SEBI",
-   "what": "Founded in 2018 by Lal Chand Bisu, Vikas Goyal and Vinod Meena. Offers audiobooks, podcasts and original audio shows under Kuku FM, plus microdrama platform Kuku TV and microlearning platform Guru. Content library of 20,000+ titles in seven languages; it claims 1 Cr+ listeners and creators and 400 Mn app downloads across its portfolio.",
+   "company": "DheyaTech",
+   "tagline": "Bengaluru aerospace propulsion startup",
+   "what": "Founded in 2018 by aerospace engineers Gurushankara KC, Abhinav Alva and Chetan Kumar. Develops small gas turbine engines (20 kgf to 400 kgf thrust) for aerial platforms and energy systems, with the design, assembly and testing pipeline and its engine control unit built in-house. Expanding into hydrogen-based technology and distributed power generation, including a 60 kW turbogenerator with a hydrogen flexi-fuel combustor developed with IISc.",
    "how": [
-    "The article does not explain the revenue model.",
-    "Not stated: whether income comes from subscriptions, pay-per-content or ads. Check the DRHP when it becomes public."
+    "Sells engines to OEMs: the company says it already has orders from Indian and global OEMs but did not disclose names or values.",
+    "Inferred: revenue is hardware sales; the article gives no pricing or revenue figures."
    ],
-   "watch": "Fresh-issue money is planned for tech, AI infrastructure, content production and geographic expansion. Competitors named: Pocket FM, Flick TV, ReelSaga, Miniplix and OTT majors (Amazon, JioHotstar, Zee5).",
-   "sector": "Media, Gaming & Creators",
+   "watch": "Pre-revenue-scale hardware: certification timelines and first commercial deliveries are the milestones to track. Article also notes rising investor interest in aerospace and spacetech (D-Propulse Rs 25 Cr in January; InspeCity Rs 100 Cr in August).",
+   "sector": "AI & Deeptech",
    "region": "India",
-   "url": "https://inc42.com/buzz/sebi-greenlights-kuku-technologies-%e2%82%b93500-cr-ipo/"
+   "url": "https://inc42.com/buzz/dheyatech-bags-%e2%82%b943-cr-to-scale-indigenous-gas-turbine-engines/"
   },
   "country": {
-   "id": "korea",
-   "name": "South Korea",
-   "trend": "Stable (not verified in detail)",
-   "pr": "F-5 permanent residence after 5 consecutive years on qualifying work or resident visas, or after 3+ years on F-2-7. Requires KIIP level 5 or a score of 60+ on the PR comprehensive evaluation.",
-   "citizenship": "Naturalisation after at least 3 years on F-5 (so 8 years or more overall); renunciation of original citizenship within 1 year is generally required.",
-   "pro": "Clear points-based PR route.",
-   "con": "Korean is single-country and hard.",
-   "watch": "Points-table changes"
+   "id": "germany",
+   "name": "Germany",
+   "trend": "Stable law, rising political risk",
+   "pr": "Settlement permit after 27 months on a Blue Card with A1 German, or 21 months with B1 German.",
+   "citizenship": "5 years of lawful residence, roughly B1 German, financial independence. The 3-year fast track was abolished on 30 October 2025. Dual citizenship is permitted by Germany.",
+   "pro": "Fastest realistic settlement on this list for a Blue Card holder: 21 to 27 months.",
+   "con": "Political risk: the AfD won 44% in Saxony-Anhalt (early September 2026) and polled around 37% ahead of the 20 September votes in Mecklenburg-Vorpommern and Berlin. Its manifesto calls for a points system with German-language criteria and quotas for non-EU skilled workers, and mass deportations.",
+   "watch": "Outcome of the 20 September regional elections"
   }
  },
  "desks": {
   "Policy": {
    "total": 253,
-   "new_today": 4,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
      "score": 5,
-     "priority": 50,
+     "priority": 56,
+     "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on October 23, 2026",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63844",
+     "date": "2026-10-22",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on October 23, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
+     "image": null,
+     "why": [
+      "Regulator: RBI",
+      "Large outlay (Rs 10,000 Cr or more)"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 4,
+     "priority": 44,
+     "title": "Extension of timeline for compliance with terms and conditions by Debenture Trustees (DTs) for carrying out activities outside the purview of SEBI",
+     "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-dts-for-carrying-out-activities-outside-the-purview-of-sebi_105454.html",
+     "date": "2026-10-27",
+     "source": "SEBI",
+     "label": "Markets & Regulation",
+     "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Regulator: SEBI"
+     ],
+     "tags": [
+      "Markets & Regulation"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 4,
+     "priority": 44,
      "title": "Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility",
      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13746&Mode=0",
      "date": "2026-10-27",
@@ -103,8 +142,8 @@
     },
     {
      "desk": "Policy",
-     "score": 5,
-     "priority": 50,
+     "score": 4,
+     "priority": 44,
      "title": "Department of Commerce Extends RELIEF Initiative under Export Promotion Mission Until March 31, 2027",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2328402",
      "date": "2026-10-26",
@@ -120,56 +159,17 @@
      "tags": [
       "Tax, Duties & Trade"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 5,
-     "priority": 50,
-     "title": "Factual Report on PM-DAKSH",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326437",
-     "date": "2026-10-22",
-     "source": "PIB",
-     "label": "Banking & Rates",
-     "snippet": "Pradhan Mantri Dakshata Aur Kushalta Sampann Hitgrahi (PM-DAKSH), a Central Sector Scheme, w",
-     "lead": "Ministry of Social Justice & Empowerment Factual Report on PM-DAKSH Posted On: 22 OCT 2026 11:49AM by PIB Delhi 276.47 crores, actual expenditure to the tune of Rs. 309.5 crores has been incurred till date. -- words | -- min read Ministry of Social Justice & Empowerment Factual Report on PM-DAKSH Posted On: 22 OCT 2026 11:49AM by PIB Delhi",
-     "image": null,
-     "why": [
-      "Rates and liquidity"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 5,
-     "priority": 50,
-     "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on October 23, 2026",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63844",
-     "date": "2026-10-22",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on October 23, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
-     "image": null,
-     "why": [
-      "Regulator: RBI",
-      "Large outlay (Rs 10,000 Cr or more)"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 983,
-   "new_today": 36,
+   "total": 986,
+   "new_today": 2,
    "items": [
     {
      "desk": "Startups",
      "score": 11,
-     "priority": 79,
+     "priority": 85,
      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
      "date": "2026-10-23",
@@ -190,7 +190,7 @@
     {
      "desk": "Startups",
      "score": 11,
-     "priority": 79,
+     "priority": 85,
      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
      "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
      "date": "2026-10-22",
@@ -213,76 +213,56 @@
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 71,
-     "title": "Workshaala targets Rs 1,000 Cr revenue as it scales enterprise workspace business",
-     "url": "https://yourstory.com/2026/10/workshaala-targets-rs-1000-cr-revenue-scales-enterprise-workspace-business",
+     "priority": 77,
+     "title": "Nazara Technologies swings to profit in Q2; revenue jumps 53% to Rs 803 Cr",
+     "url": "https://yourstory.com/2026/10/nazara-technologies-profit-q2-revenue-jumps-to-803-cr",
      "date": "2026-10-27",
      "source": "YourStory",
-     "label": "India · AI & Deeptech",
-     "snippet": "Workshaala targets Rs 1,000 Cr revenue as it scales enterprise workspace business\n\n\n\nIndia's offices are being reinvented, and Workshaala wants to be the company that runs them. The enterprise workspace provider has set out a Rs 1,000 crore revenue vision for its next phase of growth, built on a fo",
-     "lead": "Workshaala targets Rs 1,000 Cr revenue as it scales enterprise workspace business Operating 75,000 seats across 25 centres in 10 cities, Workshaala is betting on pan-India expansion, technology-led operations, and growing demand from GCCs to drive its next phase of growth. Press Releases 186 Stories Tuesday October 27, 2026 , 4 min Read India's offices are being reinvented, and Workshaala wants to be the company that runs them. The ...",
-     "image": "https://images.yourstory.com/cs/2/81f42290-b0f5-11ed-aa4d-75d0d1d6c429/1793077359948.png",
+     "label": "India · Media, Gaming & Creators",
+     "snippet": "Nazara Technologies swung to a profit of Rs 35.3 crore in Q2 FY27, as revenue surged 53% year-on-year to a record Rs 803 crore. Gaming revenue more than doubled, driven by growth in mobile gaming and the consolidation of Bluetile and BestPlay.",
+     "lead": "Nazara Technologies swings to profit in Q2; revenue jumps 53% to Rs 803 Cr Nazara Technologies swung to a profit of Rs 35.3 crore in Q2 FY27, as revenue surged 53% year-on-year to a record Rs 803 crore. Gaming revenue more than doubled, driven by growth in mobile gaming and the consolidation of Bluetile and BestPlay. Press Trust of India 11239 Stories Tuesday October 27, 2026 , 2 min Read Nazara Technologies on Monday reported a profit ...",
+     "image": "https://images.yourstory.com/cs/120/11718bd02d6d11e9aa979329348d4c3e/shutterstock124913561-1745474933603.jpg",
      "why": [
       "Financials",
-      "Large deal (about $105M)"
+      "Sizeable deal (about $85M)",
+      "Valuation, listing or profitability signal"
      ],
      "tags": [
       "Financials",
-      "AI & Deeptech"
+      "Media, Gaming & Creators"
      ]
     },
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 71,
-     "title": "Meta eyes record $95 billion equity raise to fund AI expansion",
-     "url": "https://economictimes.indiatimes.com/tech/technology/meta-eyes-record-95-billion-equity-raise-to-fund-ai-expansion/articleshow/135213020.cms",
+     "priority": 77,
+     "title": "Exclusive: Imarticus Eyes Confidential Filing In 2-3 Months For ₹1,000 Cr IPO",
+     "url": "https://inc42.com/buzz/exclusive-imarticus-eyes-confidential-filing-in-2-3-months-for-%e2%82%b91000-cr-ipo/",
      "date": "2026-10-26",
-     "source": "ET Startups",
-     "label": "Global · AI & Deeptech",
-     "snippet": "The Facebook parent has launched public offerings worth about $35 billion in common and preferred stock, and said it also plans to launch a separate at-the-market share sale program worth up to $60 billion.",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-118024,resizemode-75,msid-135213020/tech/technology/meta-eyes-record-95-billion-equity-raise-to-fund-ai-expansion.jpg",
+     "source": "Inc42",
+     "label": "India · Edtech & Skills",
+     "snippet": "Imarticus Learning plans to file its DRHP with SEBI through the confidential route within the next two to three months for a ₹1,000 Cr IPO",
+     "lead": "Imarticus Learning plans to file draft papers confidentially for a ₹1,000 Cr IPO within two to three months, up from its earlier planned ₹750 Cr issue. The proposed fundraise would support the edtech startup’s expansion through acquisitions, new learning centres, and a stronger enterprise training business. Sources said its organic expansion could include more Centres of Excellence, additional offerings at its finance and business ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/imarticus-acquisition-social-.png",
      "why": [
-      "Funding",
-      "Very large figure in headline (about $95,000M: round or valuation)"
+      "IPO & Listing",
+      "Large deal (about $105M)"
      ],
      "tags": [
-      "Funding",
-      "AI & Deeptech"
+      "IPO & Listing",
+      "Edtech & Skills"
      ]
     }
    ]
   },
   "Immigration": {
-   "total": 1436,
-   "new_today": 30,
+   "total": 1464,
+   "new_today": 6,
    "items": [
     {
      "desk": "Immigration",
-     "score": 7,
-     "priority": 70,
-     "title": "Indians, Brits and Syrians top Norway's permanent residency list",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmdwZjNIMVpVT2VYWUNvbktncDBwcFpYWTZPV3NJQ01BTmU2RkMzSHd2NU1pMFpCY1p5WmhVbW10OUpxRE9IeGpSaFM5ck1wNmliZnBIZndHMXZKZWFWcjJkQXJZb29QMTI2R0thSlJGczRFS0l1R2g5b2Y4M3VVNXhxOEpUM3ZDTlJOeWJ4TVdpblJuYzhqeW92Yw?oc=5",
-     "date": "2026-10-20",
-     "source": "The Local Norway",
-     "label": "Norway",
-     "snippet": "Gaining permanent residency in Norway is a significant achievement for every foreigner who is building a new life in the nordic country; however some nationalities stand out for both the number of applicants and their high approval rates.",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Gaining permanent residency in Norway is a significant achievement for every foreigner who is building a new life in the nordic country; however some nationalities stand out for both the number of applicants and their ...",
-     "image": null,
-     "why": [
-      "Affects permanent residence",
-      "Mentions India or Indians"
-     ],
-     "tags": [
-      "PR / Settlement",
-      "Norway"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 60,
+     "score": 5,
+     "priority": 45,
      "title": "S. Korean FM Cho, Rubio set to talk US visa delay",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM1R2clBoZVpWWlN0Q2FIZG5jMHJ0WmxmRkVYdEtZN2g5RkhzcE1kN2c4MGdkX2phaGlMMmpuTVpNWkQzU0pna01KN2JHRVV6cGtpNzNLSF9heDVRQnpMMDYyNmNQZ0N5SlRvRHlITnhmd3ZXZGx4ZkQ1aHlGY2s4cnVOZDh5N29nbWRBU0l5V09qUFJjVnh1cQ?oc=5",
      "date": "2026-10-27",
@@ -300,8 +280,8 @@
     },
     {
      "desk": "Immigration",
-     "score": 6,
-     "priority": 60,
+     "score": 5,
+     "priority": 45,
      "title": "Why is Japan tightening its immigration rules?",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLUFvMDAxNURVcmVscUUxS0haSGxsdXZvUHZwRDd3ODdkOXN5VGYwdnk2cnJrdmI5MWhEQkxuak05akNrUUZDYWZZNzFoTVNlRUMyS09RaS1PS0IxN3dyTWNoMDhSSHl2SFdoY1JvTWVjdUl5d1dKUmt5NXk0T3hjOQ?oc=5",
      "date": "2026-10-26",
@@ -319,8 +299,8 @@
     },
     {
      "desk": "Immigration",
-     "score": 6,
-     "priority": 60,
+     "score": 5,
+     "priority": 45,
      "title": "Three years of volunteering can shorten the path to Austrian citizenship",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXB4eUxlbXh6T1hiZ2dpRHhnUXlfcHZpR0JBclpVUDdwRzJBTTVkRXBzT2tlaE1zSTZGUzBOQlJ2bWVhNTloQjJXOGZjVVZUYUtJSk4zZDFJRmt1cUJ2ajZvYnNEZzBWUkVwWTFWN29Ib1hyT3RrQm9yM2VpWmtCQkM1RmpFbmNwcFdadnBHaTJLYTZwZHNJTUdGWdIBoAFBVV95cUxNTnpDVXRteV9NTE03czRFeDFiV2hPWDVJYlBNTjBOekxtODdOTnAtQXJLN2RGLXhtdEtWblJlRlRDS0NCR214ZUhhc1V2X3pkWVZMTGxPelJsZmV5WEhYeC1TM2MyX2l1Vkw2ZlVLN0hlWWpvZnZXSURHUEhocDR4d0Q4LWJkT2ptcS00Z29ObHFXTndWMXRZc1ZpZ0JQcUFj?oc=5",
      "date": "2026-10-26",
@@ -336,69 +316,70 @@
       "Citizenship",
       "Austria"
      ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 45,
+     "title": "Does volunteering increase your chances of getting Swiss citizenship?",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMktfejN4bVVIc2JYZVNEd2licEhTY2F6SnZFcENrM1hiY1NmS2tTT3pELThZcjlLc0gtMnFrNlhPVnhJbldsSDlfcktZaXVONVJQRW5XS016Vmc4S1VucEFQRmp1SU1BbVp1UGZJMUNBNGRyOXpSSlFOYnBTSElNOWhiOS11YmwxR3NVTHM4OFJtZXdjaG95QTdlbTRzRkxNSUNn?oc=5",
+     "date": "2026-10-23",
+     "source": "The Local Switzerland",
+     "label": "Switzerland",
+     "snippet": "In Austria, foreign nationals may qualify for citizenship sooner if they have completed at least three years of voluntary work. Is there a similar rule in Switzerland as well?",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden 1 comment Add The Local as a preferred source In Austria, foreign nationals may qualify for citizenship sooner if they have completed at least three years of voluntary work. Is there a similar rule in Switzerland as well? Concretely, Austrian law ...",
+     "image": null,
+     "why": [
+      "Affects citizenship"
+     ],
+     "tags": [
+      "Citizenship",
+      "Switzerland"
+     ]
     }
    ]
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 5,
+   "new_today": 10,
    "items": [
     {
      "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
-     "title": "JioBlackRock Mutual Fund files draft documents with Sebi for life cycle and debt funds",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPd09GaXBGVDJES2NQR0lSc2Zob3NwZDNXYmpMQVU3NGRWWDRPMjVlWDRBU1dVYTdkZDhPVVJwRFB0cjRteE1EdkpQazlBbnlZQ1piMU1WWmh1MmhIa2hBVEZMMlo1WUxYM0JZbmxMMl9BRC0zb1ZORTFOMUV6SXhqMW5vLVRJTm9tUTdyYnE3eGNiQzFSUGZzUXlyWFgtWk5COGg5ZUdzZnRwRk9RYTM1aGw0OTFUR3BxV0RYMmV1ZEp5SXRmeVFEQ3FucHl5cTRyZVVRS2xRT21NMUxGZ1NXcm8zS0dueVN2Z2VZ0gHrAUFVX3lxTE93T0ZpcEZUMkRLY1BHSVJzZmhvc3BkM1diakxBVTc0ZFZYNE8yNWVYNEFTV1VhN2RkOE9VUnBEUHRyNG14TUR2SlBrOUFueVlDWmIxTVZaaHUyaEhraEFURkwyWjVZTFgzQllubEwyX0FELTNvVk5FMU4xRXpJeGoxbm8tVElOb21RN3JicTd4Y2JDMVJQZnNReXJYWC1aTkI4aDllR3NmdHBGT1FhMzVobDQ5MVRHcHFXRFgyZXVkSnlJdGZ5UURDcW5weXlxNHJlVVFLbFFPbU0xTEZnU1dybzNLR255U3ZnZVk?oc=5",
-     "date": "2026-10-26",
-     "source": "The Economic Times",
-     "label": "Mutual Funds",
-     "snippet": "JioBlackRock Mutual Fund is set to unveil two new investment opportunities tailored for Indian investors. The JioBlackRock Life Cycle Fund 2056 aims to achieve long-term capital appreciation through strategic and diversified asset allocation. On the other hand, the JioBlackRock Ultra Short Term Fund prioritizes income generation while ens",
-     "lead": "",
-     "image": "https://m.economictimes.com/thumb/width-1200,height-900,imgsize-35366,msid-135208279/jioblackrock-mutual-fund-files-draft-documents-with-sebi-for-life-cycle-and-debt-fundsbr.jpg",
+     "score": 10,
+     "priority": 71,
+     "title": "Indian bonds tumble on oil surge, RBI rate hike fears",
+     "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-tumble-on-oil-surge-rbi-rate-hike-fears/articleshow/135118875.cms",
+     "date": "2026-10-22",
+     "source": "Economic Times",
+     "label": "Debt & Bonds",
+     "snippet": "Indian government bonds experienced a decline as the benchmark yield exceeded 7.45% on Thursday. Oil prices rose significantly, reaching $112.50 per barrel in Asian trading amid geopolitical tensions. The Reserve Bank of India has raised its repo rate to 5.50%, indicating a potential for further hikes. Inflation concerns are mounting, wit",
+     "lead": "India's JSW Paints is likely to raise funds through issuance of bonds maturing in four years and five years and should go ahead with the sale in the next couple of weeks, two merchant bankers with direct knowledge of the matter said on Thursday. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis ...",
+     "image": "https://img.etimg.com/thumb/msid-135118909,width-1200,height-900,imgsize-106958,overlay-etmarkets/articleshow.jpg",
      "why": [
       "Regulator: SEBI or RBI",
-      "Also covered by 2 other outlet(s)"
-     ],
-     "tags": [
-      "Mutual Funds"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
-     "title": "us markets fall crude oil 116 gold silver crash inflation",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1ltbHBZbnpqb1p6WHFLT3FBTE11c1NoV2lmQlI3Y0NVWllTSFI1SjQ2NHNPVzRkREpfdTlQLXZxMnFtR1JzNExUUmdYQ3lnR054eWtHSGp5YXMxdlAzRTZuNzNfd2dtV2pyemQ0ME1KWVFmX3FBQ2RTN01qNDhJN1BDcTN1UnBBZVMyS1R2bGs0a1ZmZS0wQWtOX2EwcUhYREdtd29UMDFFZUdkQlRhVUlzRUhQYXBq?oc=5",
-     "date": "2026-10-26",
-     "source": "Zee Business",
-     "label": "Gold & Silver",
-     "snippet": "Global equity benchmarks experienced widespread selling pressure during Friday's trading session, dragging Wall Street indices sharply lower amid escalating macroeconomic concerns. International energy markets witnessed an aggressive rally as persistent Middle East geopolitical tensions and maritime transit bottlenecks across the Strait o",
-     "lead": "Login v logout 10 Latest News Markets Your Money Economy Companies India World Videos Trending Home / Videos / Markets / Crude fuels inflation fears as oil nears $116 mark Crude fuels inflation fears as oil nears $116 mark Written By: Zee Business Video Team Updated: Mon, Oct 26, 2026, 12:58 PM IST Global equity benchmarks experienced widespread selling pressure during Friday's trading session, dragging Wall Street indices sharply ...",
-     "image": null,
-     "why": [
-      "Precious metals",
-      "Global macro driver",
+      "Interest-rate decision",
       "Sharp market move"
      ],
      "tags": [
-      "Gold & Silver"
+      "Debt & Bonds"
      ]
     },
     {
      "desk": "Advisory",
      "score": 8,
-     "priority": 67,
-     "title": "Fed Rate Decision October 2026: Why Another Rate Hike Is Still on the Table",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNekdSakdnVXZSWkdnTDJLRHl2c2w2MHVxNmNuN1hQTXpwS1hjcDh2MHlIaGVHWnhuZUtZZDViWDFadEx0U09aZnRSQXRyRVE5clFzaVJucUFEeHBTM3ZFRUNoWmJab0lRV0N5V2d2M21aaWFGT2dRalZ4ZnBuVklkanhMbk15d21nR2dkZE5YNGRJMkt0SDlLMnFHMlVZbEpJZGZ0LVc2bzIxMlBa?oc=5",
-     "date": "2026-10-26",
-     "source": "CryptoDaily",
+     "priority": 57,
+     "title": "These 3 stocks could rally after the Fed decision",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYmtnUXpDaUxZV1RLRVNHQUxpS1ZFMEhjcVBNSHV0LXBnWmtnYVNSR19TN21VWGwzT2dteWlxZ1ZVUlJwRVVtdnZjdVFYQzFqQmg1N3AxLW90SWpuTmlqT1ZJS2dibmtla0xEX253X0Y0eE5KOC1mTDl3RTAyeV9ZcXRaVS14ejhUX0xLSnlkMFZJQQ?oc=5",
+     "date": "2026-10-27",
+     "source": "Invezz",
      "label": "Global",
-     "snippet": "The Federal Reserve is expected to keep US interest rates unchanged at 3.75%–4.00% on October 28, 2026, but the pause may be temporary. Persistent inflation, resilient economic activity and expectations of another increase in December have shifted the monetary policy debate away from rate cuts.",
-     "lead": "The Federal Reserve is expected to keep US interest rates unchanged at 3.75%–4.00% on October 28, 2026 , but the pause may be temporary. Persistent inflation, resilient economic activity and expectations of another increase in December have shifted the monetary policy debate away from rate cuts. In a Reuters poll conducted October 16–20 , 94 of 100 economists expected the Fed to hold rates at its October meeting. All 100 respondents ...",
-     "image": "https://images.cryptodaily.co.uk/space/Pm9j1oHuEcLMhhz6m7V3VObtscrOCA2YanER5zn5.png",
+     "snippet": "These 3 stocks could rally after the Fed decision",
+     "lead": "This score is generated through AI-driven analysis of the article's content. Buy Tesla. A Fed pause should ease borrowing costs and improve auto-loan affordability, reducing the need for Tesla to subsidize financing. Lower Treasury yields also lift the valuation of long-dated growth bets like autonomy/robotics, and TSLA’s $1.53B Q3 free cash flow gives it cushion to ride out demand softness. Key Risk: Fed signals a December hike or ...",
+     "image": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/04/ChatGPT-Image-Apr-16-2026-06_49_54-AM.png",
      "why": [
-      "Interest-rate decision",
-      "Global macro driver"
+      "Global macro driver",
+      "Sharp market move",
+      "Also covered by 1 other outlet(s)"
      ],
      "tags": [
       "Global"
@@ -407,21 +388,42 @@
     {
      "desk": "Advisory",
      "score": 8,
-     "priority": 67,
-     "title": "Why the Fed may hold off on another rate hike despite high inflation",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRmpIemZMampsNnRvQ2l0MzhWa3huOWk5SGNOSkdMZTN2Sk9lY01fN1NNdW5aS1ZSUG9ZTXRtdHU1MjRlTnlOT1JiQUp5c2NaS2NsUFM0Tm9Jem9yLTdqVThEVTVxUk5CWEtaZTduZTVCMEluakJxblNvcG1iMngxVVBrTGlDMHNGUndoR2R1NkRnemEwcEhVU3RwWGhTTUxpNk9yNUNkSms0T2l6dVpYZHFubGdwZllZbkdhZjNtbkFqSFNOWlNv?oc=5",
-     "date": "2026-10-26",
-     "source": "USA Today",
+     "priority": 57,
+     "title": "US stocks: S&P 500, Nasdaq open higher as oil pulls back ahead of Fed decision",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOa2g5a2JEdTFuMkhNYjVWNlFueDZua19NMERrZW9WQlNUZWdhVkRGRWtmZDdLWDMxQ1Y4VGh4el9xZXRmaDQyRlUtMTdJTUhFQ0pGZjhQR01CTlMyb3BpUXE3REZEWE9TWVFTaG5uSEctNDBnV3NOSnI5U3NWMmxvZ2NtUnlZREtEODhNRUNidmMwc1owUXprWElNUE9nc1g4REIzaUpENWJ5cHk3dlNtXzdEZVloZGtTcC1tVk5wbnhIaDA4blI4akd5enUyZGh0Mld4MUZSRmVvemdIOWdnTw?oc=5",
+     "date": "2026-10-27",
+     "source": "The Business Times",
      "label": "Global",
-     "snippet": "",
-     "lead": "",
+     "snippet": "The three major indices opened the day’s session mixed Read more at The Business Times.",
+     "lead": "THE S&P 500 and the Nasdaq opened higher on Tuesday (Oct 27) as easing oil prices supported risk appetite ahead of a raft of key corporate earnings and the Federal Reserve’s interest-rate decision this week. The Dow Jones Industrial Average fell 84.1 points, or 0.16 per cent, to 52,277.49 at the open. The S&P 500 rose 22.7 points, or 0.3 per cent, to 7,699.47​, while the Nasdaq Composite gained 116.9 points, or 0.45 per cent, to ...",
+     "image": "https://cassette.sphdigital.com.sg/image/businesstimes/f72b8c16eb169f57c207c4dcea9f5939540858d4a10b14574be0638bbd416ea1?w=1200&f=webp",
+     "why": [
+      "Global macro driver",
+      "Also covered by 4 other outlet(s)"
+     ],
+     "tags": [
+      "Global",
+      "Energy & Power"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 8,
+     "priority": 57,
+     "title": "Ola Electric shares surge 16%, biggest 1-day gain since April; why is the stock rallying despite brokerage downgrades?",
+     "url": "https://www.livemint.com/market/stock-market-news/ola-electric-shares-surge-16-biggest-1-day-gain-since-april-why-is-the-stock-rallying-despite-brokerage-downgrades-11793103468902.html",
+     "date": "2026-10-27",
+     "source": "Mint",
+     "label": "Equity Markets",
+     "snippet": "Ola Electric shares jumped 16.3% on October 27, their biggest single-day gain since April, as trading volumes surged and auto-sector sentiment improved. The rebound followed a steep October decline and analyst downgrades, while the stock remains down about 4% for the month.",
+     "lead": "Ola Electric shares surge 16%, biggest 1-day gain since April; why is the stock rallying despite brokerage downgrades? ( AI generated image for representational purposes only ) AI Quick Read Shares of Ola Electric surged on Tuesday, October 27, rising 16.3% to close at ₹ 34.80 apiece. The rally marked the stock’s biggest single-day gain since April. Although there was no immediate fundamental trigger behind the rebound, a sharp spike ...",
      "image": null,
      "why": [
-      "Interest-rate decision",
-      "Global macro driver"
+      "Credit rating change or default",
+      "Sharp market move"
      ],
      "tags": [
-      "Global"
+      "Equity Markets"
      ]
     }
    ]
@@ -430,7 +432,7 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 14,
+   "score": 13,
    "priority": 100,
    "title": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion",
    "url": "https://yourstory.com/2026/10/ather-turns-profitable-after-rs-154-cr-loss-meta-ai-expansion",
@@ -454,30 +456,55 @@
   },
   {
    "desk": "Immigration",
-   "score": 10,
+   "score": 11,
    "priority": 100,
-   "title": "Canada invites 5,000 francophones to apply for permanent residence",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ0ZDLUpfb2stMnRrQ2t0WFJ4c1VjOXlhNXpmaVVSLUI4M2VsajREUHBhX195R1ViZnZILW14WjA2SHdWTlN6eGhDSXRKd2QtMHRYNWs1TFQ3Y2RyQWxmXzE0cUlJeTEtR3ltbVA3NVJLRmFnc2sxaGpFS2xsT3VkczEzcTlTQU5rd3hGZFBON0ZWZ2ZqSDJPcnQ2dWdSaTZCVEFVVkhwdUtwTFZGdm5F?oc=5",
+   "title": "Nigeria Immigration Service extends UK passport intervention exercise to November 27",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNVo1RlBoeW5HV1RLcWR2bzNtSDFZd3N3R29veFA1ZUFCZGhicnBDNVNTZE9mbmJXRVVTa2tUajFwTFFubjNsMS1xM3liUW9vNXdrX0dHYUtQd1AyOXdsS2JXblNRVkYzQng2S1hxYU1LNTRmR1Z4UWxYcU04SHRDR1MyNmszMjZobDBlSGg4aDc1WFIxTkxJclFmRVFLNUl4X1VCazk1TVR4a3NYVDFpZmpreXFCeDZNdFBkQml3?oc=5",
    "date": "2026-10-27",
-   "source": "CIC News",
-   "label": "Canada",
-   "snippet": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) for permanent residence through the Express Entry system. The immigration department issued 5,000 ITAs in a draw for candidates with French-language abilities. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ran",
-   "lead": "Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) for permanent residence through the Express Entry system. The immigration department issued 5,000 ITAs in a draw for candidates with French-language abilities. In-Canada Express Entry candidates who have applied for permanent residence may be eligible for a Bridging Open Work Permit (BOWP).",
-   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/Express-Entry-Draw-64.jpg",
+   "source": "Nairametrics",
+   "label": "United Kingdom",
+   "snippet": "The Nigeria Immigration Service (NIS) has further extended its Special Passport Intervention Exercise in the United Kingdom until November 27, 2026, following sustained demand from Nigerians seeking passport services.",
+   "lead": "UK to impose $1,200 levy on universities for Nigerian, other foreign students",
+   "image": "https://cdn.nairametrics.com/wp-content/uploads/2026/09/kemolala.webp",
    "why": [
-    "Affects permanent residence",
-    "Major story (12 headlines that day)"
+    "Affects citizenship",
+    "Announces a change",
+    "Major story (8 headlines that day)"
    ],
    "tags": [
-    "PR / Settlement",
-    "Canada"
+    "Citizenship",
+    "United Kingdom"
    ],
    "rank": 2,
    "must_read": true
   },
   {
+   "desk": "Advisory",
+   "score": 14,
+   "priority": 100,
+   "title": "RBI quietly effects another rate hike via tighter liquidity to counter crude surge and rupee fall",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRVlrUXRJR2JNQmxJSTNzbGxxcXZZSnFfU1VvMGx5dEo5Q204UnpWMU5PZE1JVlhfa3drak5aWmdMc09sZmdvR2FpTFJJOVNNbmlVcUQzNHBJZnV2SFhjN21GTzNDS2JIb2xkNGJ6bldhNTFWRURTakxOLWJNUkJJSkthcWU2OHRiazNWVV9yZVZSSU55dmVaenA2NEcwYlB6UGV6Ni1KZkJYaHF0UTUtWFUxd3Q4MFNuQm5Cc1o1NmNzRUpPaUxXeUlEbGt2SFFXT2hERktETUEzRXl0dG9RMHRaRm5ORjhY0gHuAUFVX3lxTFBjSlBtMk9DVW82cVpmRVk3UExiNmU5aExnbzM5ZHJmTWlUV05veWJzZUxyclFZVjMtM1l1dGl5SnMtR2FvVGZtNl9scm5TeWh4bnlnMnN5WU5vaTh3c2ozX3YzRUNNeHlpVnZGSzdUR1lTTzZfNVRQUm1tVjJjZmZSdFVzSXpLcHVxLXZSUEtGa1VZRTZ0cTZ3bmNPRVRLdGphNzRGVEpESDVWUEM5LU5sQUZMOWRGd251Tm8zSGcwaTNSN3J6OXJ2R01OMXVJMndaeG9LalVTM1pxUzd3MUVvaF9qR1U4cHlDUzIzclE?oc=5",
+   "date": "2026-10-27",
+   "source": "Moneycontrol.com",
+   "label": "Regulatory",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Global macro driver",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 3,
+   "must_read": true
+  },
+  {
    "desk": "Policy",
-   "score": 10,
+   "score": 9,
    "priority": 100,
    "title": "Monthly Flash Report on Central Sector Infrastructure Projects tracks 1,853 Infrastructure Projects worth ₹37.56 lakh crore as of September 2026",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2328472",
@@ -494,155 +521,13 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 3,
-   "must_read": true
-  },
-  {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 100,
-   "title": "Indian visa applicants to provide fingerprints, facial images under Australia's new rules",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV2swV0RhdlFCdHB0TG1FT29KWlZuWF9oMG95d3dRdUN4T2NRaGhTYks2MU5JN2ZVbEx2cm9BLXZKRmxwWVJHblNhOUMwc3ZQcXN1dnM3RzFibmNVQmRtY3RkWUd2aVJvMlFiVm9kR1huNl81cllnUzFkbWctcExicWo1UUdrRHlISGxtNlJzVGRQbUFBUEpCMFhUblJPVmozTGg1a2VHSDhOcDh0VzR4akNkTUpQM1hGVk5WZm5WLXh5a0dMN3dvdE5MaW52N2NfaDNiStIB4gFBVV95cUxOeExHOEhMdTlhcnQ0dzJQckozT3FwWmlvejlOOHdfSVRfUDZFXzZmMjMyNVl4QWtJX29uVUNlRF9pZmZqX3lBYVhPa2MyQWM3RktOdEtUbnE5SWdiZVE3REtKSjNMTUs1MGJWeW5SdHAtUWNZS0pMVXRham9odDM4ME9QaWlnOXhPSnpVRElxNUhwaUNrV3hNNXpxdjJ1U3BPTVVCVkpVSHlWdXBoSGFVVHFka0daOVh4azM1ZTVkc2l1RklqVWY0aVp5dG5vRnREV09hS0FNQVU1TFpQU2w5bVhB?oc=5",
-   "date": "2026-10-26",
-   "source": "The New Indian Express",
-   "label": "Australia",
-   "snippet": "NEW DELHI: Australia has expanded biometric requirements for visa applicants in India from Monday, requiring some applicants to provide fingerprints and facial",
-   "lead": "Copied NEW DELHI: Australia has expanded biometric requirements for visa applicants in India from Monday, requiring some applicants to provide fingerprints and facial images as part of the visa application process. The new requirements apply to Australian visa applications lodged on or after October 26, according to a media release issued by the Australian High Commission in India. Visas already granted and applications submitted ...",
-   "image": "https://cf-images.assettype.com/newindianexpress%2F2026-10-26%2Fkm8iftn1%2FVisa-application.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-   "why": [
-    "Announces a change",
-    "Major story (9 headlines that day)",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Australia"
-   ],
    "rank": 4,
    "must_read": true
   },
   {
-   "desk": "Advisory",
-   "score": 12,
-   "priority": 100,
-   "title": "RBI rate hikes: How short-duration funds and high-quality corporate bonds can protect your debt portfolio",
-   "url": "https://economictimes.indiatimes.com/mf/analysis/rbi-rate-hikes-how-short-duration-funds-and-high-quality-corporate-bonds-can-protect-your-debt-portfolio/articleshow/135203881.cms",
-   "date": "2026-10-26",
-   "source": "Economic Times",
-   "label": "Debt & Bonds",
-   "snippet": "Investors must position fixed income portfolio for further rate hikes. But this cycle may look different.",
-   "lead": "Looking for the best mutual funds to invest? Here are our recommendations. Will oil turn into a lingering problem? Is the world economy, India, or the market prepared? KYB and KYC: Business behind the wealth creator called ‘Divi’s Lab’ – Part 2, concluding",
-   "image": "https://img.etimg.com/thumb/msid-135161665,width-1200,height-900,imgsize-58152,overlay-etwealthmutualfunds/articleshow.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Also covered by 2 other outlet(s)"
-   ],
-   "tags": [
-    "Debt & Bonds"
-   ],
-   "rank": 5,
-   "must_read": true
-  },
-  {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 100,
-   "title": "UK national’s son cannot be denied Indian citizenship: Madurai Bench of the Madras High Court",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaFc4eFVSdWlheVQxMzExd1gzbzd2V2ttSVpKWXZaSERwNHZ4cTRfMFo4M0xyVEVXVTVOZTRkMW9oV2FvY29jdVRzNzA5NXdLSlk0MUVGM0c1TnZhWThGNWdaOUdkZVd5NDlpTUpFX2E5Y3NXcV9kaGNORGMxSjZiVE1hLTk2cnJ6MzdIUGJ3US1PVWJDSlRYOGd1TWczUXpBVlR2ZzlaeUl0SmdHdDA3Y3A5ZGJLTjJxN2E2bXFKY29NdmpyQUVUSzZldm1jRnluZTVVTjFmYnVfOHpub1BGTTZ1WmdZMUZaVlHSAfcBQVVfeXFMUFMxNWNtbE9namhHOGZ6dlJqc1ptRzBxd0VnbTBNUEFxWXlGQlF0WlFudFhkQXAteWV4QnhhUkFfZHNJUjg4VmJLdlcxX21iMm1mR2E4TFJpcFZLbzZpa2JUSy1LRGlIR0t0Q0t1Z2pQTUtsejJEWEpnaWE3cnVvN3c0SmtVZWJDbnJZUzhiRXhIbHlrQUt0U2stRmttOEw4YTF0WUtYcXVBQnA0YTREUE50Y3pWZ3Nhb1FMWk5QMXdVSGo3YlhGSW1GN1UzUFpIRk5VLWUxZi0yZjBFYXo0Z09KcmNwZkZHVVlKaXlGVkVCZEoyQzk1Yw?oc=5",
-   "date": "2026-10-21",
-   "source": "The New Indian Express",
-   "label": "United Kingdom",
-   "snippet": "MADURAI: Holding that a child cannot be stripped of citizenship merely because the father acquired foreign citizenship, the Madurai Bench of the Madras High Cou",
-   "lead": "Copied MADURAI: Holding that a child cannot be stripped of citizenship merely because the father acquired foreign citizenship, the Madurai Bench of the Madras High Court recently directed the authorities concerned to process the passport renewal application of an India-born boy within three months. Justice Senthilkumar Ramamoorthy passed the order on a petition filed by the 10-year-old boy, through his father. The boy’s parents were ...",
-   "image": "https://cf-images.assettype.com/newindianexpress%2F2026-06-11%2Fe91w2fnv%2FC_1_1_CH1344_120762713.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-   "why": [
-    "Affects citizenship",
-    "Major story (11 headlines that day)",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Citizenship",
-    "United Kingdom"
-   ],
-   "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 100,
-   "title": "New work visas announced under India-NZ FTA: The migration “tsunami” that wasn’t",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzRYQlZRSFpYekVaUWFYdF81UzRMTlhsbHJVOHI3VUtoaHBUR2lMLWVTNktsUkwxbHVaRWVhclI2TGZDZWlFem42UGV0WXdsaWwtTU12OVJhT2hBcnd0SW9NYU1OcktJVVJ5UDR6WXJVYWotaEVSS1pKbzhDWEJZeEZYT2syVWM4Umc4RUpVUFltUHFfeGVUWGlFNjd5MEFiNGozTW1pcFl6UEFRU1dV?oc=5",
-   "date": "2026-10-20",
-   "source": "https://awaaz.co.nz/",
-   "label": "New Zealand",
-   "snippet": "The gap between the political campaign and the actual policy demands an explanation.",
-   "lead": "s.setAttribute('style', 'filter: brightness(0) invert(1)'));\" onmouseout=\"this.style.backgroundColor='white'; this.style.color='#333'; this.querySelectorAll('svg').forEach(s => s.removeAttribute('style'));\" > FACEBOOK s.setAttribute('style', 'filter: brightness(0) invert(1)'));\" onmouseout=\"this.style.backgroundColor='white'; this.style.color='#333'; this.querySelectorAll('svg').forEach(s => s.removeAttribute('style'));\" > TWITTER ...",
-   "image": "https://prod-awaaz-mediatech-dam-assets.s3.ap-southeast-2.amazonaws.com/1522a358-80cb-4c0c-9a4d-76a29b0d3a5c-social_preview_5766455b-e56f-4172-a16b-46352d3f9cbf_1792465758912.jpg",
-   "why": [
-    "Affects work visas",
-    "Announces a change",
-    "Major story (15 headlines that day)",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Work visa",
-    "New Zealand"
-   ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "RBI starts new rate-hike cycle as inflation risks mount, raises repo rate to 5.50%",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZGhmNmpuRU9BNng0UGNoX3o2dHBfNFZaY2pTbS0yOG9WNG1mZjUxRUEtQkEwUVNEenBHeGxWbHAwWUpJbXBoX0ZIbHZiUnJreHpldVp1VEcyMVF1Rk9pZXRWVnlTZGFkTTUwOHNUaS05N2luWlExMGlzSHJRRTlfSEdsX29RODNyMUVEd0lfaGlBUW1Yb1FpOVpLUVdPNW16azVCSTBOVTYtcW14UnBXd2JyakhUTnI5SHJ0UWNoWElhQWJRMlZn?oc=5",
-   "date": "2026-10-26",
-   "source": "AgroSpectrum India",
-   "label": "Regulatory",
-   "snippet": "RBI raises repo rate by 25 bps to 5.50% and shifts stance to calibrated tightening, while raising FY27 GDP forecast to 7.1% and CPI inflation forecast to 5.2%",
-   "lead": "The Reserve Bank of India has reopened the rate-hike cycle, raising its policy rate for the first time in more than three years as a deteriorating inflation outlook begins to outweigh an otherwise resilient domestic growth picture. The Monetary Policy Committee (MPC) raised the repo rate by 25 basis points to 5.50 per cent at its October 7, 2026 review, marking the first increase since February 2023. The move also marks a clear shift ...",
-   "image": "https://agrospectrumindia.com/uploads/articles/istock_1351542181_1_-34939.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "New product or fund"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "Gold, silver face fresh test as oil surge puts Fed policy decision in focus",
-   "url": "https://www.business-standard.com/markets/news/gold-silver-face-fresh-test-as-oil-surge-puts-fed-policy-decision-in-focus-126102500493_1.html",
-   "date": "2026-10-25",
-   "source": "Business Standard",
-   "label": "Gold & Silver",
-   "snippet": "Gold and silver are expected to face fresh headwinds next week as surging crude oil prices revive inflation concerns, while the US Federal Reserve's policy decision could determine whether bullion rates stabilise or extend their downward trend, analysts said.",
-   "lead": "Gold and silver prices slide as rising crude oil prices and expectations of tighter US monetary policy weigh on bullion. | Image: Adobe Stock Gold and silver are expected to face fresh headwinds next week as surging crude oil prices revive inflation concerns, while the US Federal Reserve's policy decision could determine whether bullion rates stabilise or extend their downward trend, analysts said. The precious metals, already battered ...",
-   "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/07/thumb/fitandfill/1200X628/1775547425-5107.jpeg",
-   "why": [
-    "Precious metals",
-    "Global macro driver",
-    "Sharp market move",
-    "Also covered by 3 other outlet(s)"
-   ],
-   "tags": [
-    "Gold & Silver"
-   ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
    "desk": "Policy",
    "score": 9,
-   "priority": 90,
+   "priority": 100,
    "title": "Minutes of the Monetary Policy Committee Meeting, October 5 to 7, 2026",
    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63839",
    "date": "2026-10-21",
@@ -658,13 +543,129 @@
    "tags": [
     "Banking & Rates"
    ],
+   "rank": 5,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 92,
+   "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+   "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+   "date": "2026-10-28",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+   "lead": "The Dallas-based investment firm Disruptive, whose past bets include Palantir, Airbnb, and Spotify, announced a $10 billion fund to back at least 10 late-stage companies, with checks of up to $1 billion, it said Tuesday . It’s one of the biggest fundraises of the year so far, aiming to back (what else?!) the capital-intensive fields of AI and defense. The Wall Street Journal first reported earlier this month that the firm was seeking ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1191380440.jpg?resize=1200,800",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $10,000M: round or valuation)",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 91,
+   "title": "Australia tightens student visas again: What Indian students, parents should do now",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPb3A2UjFvVHVlc1ZOVDVCbUJTMkJvS0h4S3lpVEFoaXBpYVc5NFNNcDFoaDlrWXpINzRVZU5vRG5rbkVvRmhkcEZreDFJMlcwZWlyNlZ0Q2c3aEFUUXBOdEtLZ2hsdGQzVk8zdGJiRjltdk1nc0VIYTNMbnRVZDlfdzNfOGUxdk5UcXhJYU82WGZUTXRnTEloaWsxSHFqZV9FYTlqeURRTGwwMlhocnJGTjZhYm52T09uVGpCbEpadVZVS1RQQmMydVJ3MWdLdndIVm5tLW9sNmxjUzY5dkQ5V3ZRelFUaHN5cTM1M21ZRlJPRmZQSks1X21hSHk2a1QwclNDMV9QSW14ZDJIV1ZySFVsbERQN3PSAZwCQVVfeXFMUDEtUGs1VFp5T29LUVJ6b0xqME1kUE5Jc0tjQkVnZnM3d0FBLWFjMHhvOHRtTWxOOERHaVl2ZVQ5QnEwemhpTU5lbEFUbDVLRzF0WUdOaENKXzkzYVBwX1VfQWRUTjRBNXJnVVlCLVlGTFhWdjRaYlpBUTFSSTlyMDMzUG81UEN4RGo0bHo1akxrLWxvRU5TSDdQbTZ4WmlPNDJJbGl6dmwwUXJnZk1pa0djVTloX3JibHBoM0dCend5bmdfWjJGSWZTNzZ3MlBMQksyQ0pRUHFjOFFPNnZVLThiRkM2TGpySnQyRnZ4NjlDTWxEUjdBYWxOSlEtX2lja09QOEdwdjRLY1BlLXlIRGpxaHJhMjdwLTBiTmk?oc=5",
+   "date": "2026-10-27",
+   "source": "India Today",
+   "label": "Australia",
+   "snippet": "Australia has tightened provider-transfer and student visa rules while expanding biometric checks in India. The changes raise the stakes for Indian families assessing courses, costs and relocation plans.",
+   "lead": "According to Ankit Aggarwal, founder and CEO of Unstop, “Australia’s latest student visa changes have made it more important for Indian students and parents to think carefully before committing to an overseas education. Getting into a good university is one part of the decision, but families also need to consider the cost, the course they are choosing and what they can realistically expect after graduation.” Aggarwal said students ...",
+   "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/the-australian-government-has-said-the-higher-refusal-rate-reflects-increased-scrutiny-of-applicatio-122332100-16x9.jpg?VersionId=o2Jyc2VGBSADJB7eAmbXr4vl9BNw2Dmv",
+   "why": [
+    "Announces a change",
+    "Major story (9 headlines that day)",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Student / Graduate",
+    "Australia"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 8,
+   "priority": 89,
+   "title": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0",
+   "date": "2026-10-23",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026 Please refer to Chapter IV of the Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Directions, 2025 dated November 28, 2025 (hereinafter referred to as ‘the Directions’), on Minimum Capital Requirements for Operational Risk. 2. On a review, and in exercise of the powers conferred by Section 35A of the Banking ...",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 8,
+   "priority": 89,
+   "title": "India and New Zealand sign Memorandum of Cooperation (MoC) on Electronic Origin Data Exchange to Facilitate Bilateral Trade Under the India-New Zealand Free Trade Agreement (FTA)",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326043",
+   "date": "2026-10-21",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "The Central Board of Indirect Taxes and Customs (CBIC), India, and the New Zealand Customs Service (",
+   "lead": "Ministry of Finance India and New Zealand sign Memorandum of Cooperation (MoC) on Electronic Origin Data Exchange to Facilitate Bilateral Trade Under the India-New Zealand Free Trade Agreement (FTA) India-New Zealand MoC will deepen Customs cooperation and support effective implementation of trade facilitation measures Posted On: 21 OCT 2026 5:02PM by PIB Delhi The Central Board of Indirect Taxes and Customs (CBIC), India, and the New ...",
+   "image": null,
+   "why": [
+    "Trade agreement",
+    "Ministry of Finance"
+   ],
+   "tags": [
+    "Tax, Duties & Trade"
+   ],
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+   "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+   "date": "2026-10-28",
+   "source": "TechCrunch",
+   "label": "Global · Mobility & EV",
+   "snippet": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
+   "lead": "Re:Build, which spun out Slate Auto, raises $2.1B Sean O'Kane 1:31 PM PDT · October 27, 2026 Re:Build, the Massachusetts-based manufacturing accelerator that spun out EV startup Slate Auto in 2023, has raised $2.1 billion The company said Tuesday that it will use the funding to “expand Re:Build’s capacity to manufacture hard tech products and launch new industrial startups,” which will “ensure the most innovative products can be made ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/06/slate-auto-truck-tesla-charging.jpg?resize=1200,800",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $2,100M: round or valuation)"
+   ],
+   "tags": [
+    "Funding",
+    "Mobility & EV"
+   ],
    "rank": 10,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
-   "priority": 86,
+   "score": 11,
+   "priority": 85,
    "title": "Intel to buy quantum firm Classiq for about $2.3 billion: Report",
    "url": "https://economictimes.indiatimes.com/tech/technology/intel-to-buy-quantum-firm-classiq-for-about-2-3-billion-report/articleshow/135236833.cms",
    "date": "2026-10-27",
@@ -686,8 +687,8 @@
   },
   {
    "desk": "Startups",
-   "score": 12,
-   "priority": 86,
+   "score": 11,
+   "priority": 85,
    "title": "DoorDash in talks to buy Instacart in roughly $17 billion deal",
    "url": "https://economictimes.indiatimes.com/tech/technology/doordash-in-talks-to-buy-instacart-in-roughly-17-billion-deal/articleshow/135222954.cms",
    "date": "2026-10-27",
@@ -709,8 +710,8 @@
   },
   {
    "desk": "Startups",
-   "score": 12,
-   "priority": 86,
+   "score": 11,
+   "priority": 85,
    "title": "Anthropic files for IPO even as losses surge to $80B",
    "url": "https://yourstory.com/2026/10/anthropic-files-for-ipo-even-as-losses-surge-to-80-billion",
    "date": "2026-10-26",
@@ -730,55 +731,169 @@
    "must_read": false
   },
   {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "Banks Pass On Repo Rate Hikes More Completely Than Rate Cuts: RBI Study",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMUR6TGlYeG4wakwyS25jYTZ2SXpGTGZhMzkyOXFZc19oUG9vVkVmOEtZdi1VU2FRZ1pob3E2Q3NWX1llTnIwcmF3YTEwX3Z5b0M2bEdvdVdldE1mUDRPMGstYlBndXVsLUdxR2Z2V00wRUMyaG5CVGIzMVdyd2hJblpKTHI5U0tXZ2VMUnR1S0xvLWtuSGxkLXNCQTJ5dnR4WVN4aDNzemQyWUlLMHlhZlNvMlB4UUNLWUFWVHF6ZkV3eW9lcHBUX01HUXEyRm90QUHSAdIBQVVfeXFMTjFEekxpWHhuMGpMMktuY2E2dkl6RkxmYTM5MjlxWXNfaFBvb1ZFZjhLWXYtVVNhUWdaaG9xNkNzVl9ZZU5yMHJhd2ExMF92eW9DNmxHb3VXZXRNZlA0TzBrLWJQZ3V1bC1HcUdmdldNMEVDMmhuQlRiMzFXcndoSW5aSkxyOVNLV2dlTFJ0dUtMby1rbkhsZC1zQkEyeXZ0eFlTeGgzc3pkMllJSzB5YWZTbzJQeFFDS1lBVlRxemZFd3lvZXBwVF9NR1FxMkZvdEFB?oc=5",
-   "date": "2026-10-26",
-   "source": "News18",
-   "label": "Regulatory",
-   "snippet": "",
-   "lead": "",
-   "image": null,
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 82,
+   "title": "Canada Citizenship Process: New Policy Paper Calls for Stronger Requirements",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa2labVIxdUJZRWk1djV6U1BmQm9IX3lhejZTN0g4NzIxVVpIeFZmTVllNVd6TVJpd3JjZ1hxVFlfUGc3eldrdDhlakgxUFdxU0daTzE0UGY0dmN1bnlIaGJkVzcxUHM2RUVWYTdoa3dpT3NYZmdvRjd0enMzc1hXYnZITUhsY09oNGxYMzc0ZFRzVXRmQXB2V2pZM0pDdURZMVE?oc=5",
+   "date": "2026-10-27",
+   "source": "ImmigCanada Immigration Consulting Services",
+   "label": "Canada",
+   "snippet": "Canada citizenship process is facing a new policy debate after the Macdonald-Laurier Institute released a paper calling for stronger requirements around civic knowledge, constitutional responsibilities and participation in Canadian society.",
+   "lead": "Canada citizenship process is facing a new policy debate after the Macdonald-Laurier Institute released a paper calling for stronger requirements around civic knowledge, constitutional responsibilities and participation in Canadian society. The paper, published on October 20, 2026, argues that becoming a Canadian citizen should involve more than meeting residency requirements, passing a knowledge test and completing administrative ...",
+   "image": "https://immigcanada.com/wp-content/uploads/2026/10/Canada-Citizenship-Process-New-Policy-Paper-Calls-for-Stronger-Requirements-ImmigCanada.jpg",
    "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision"
+    "Affects citizenship",
+    "Major story (14 headlines that day)"
    ],
    "tags": [
-    "Regulatory",
-    "Banks & Financials"
+    "Citizenship",
+    "Canada"
    ],
    "rank": 14,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "Indian bonds tumble on oil surge, RBI rate hike fears",
-   "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-tumble-on-oil-surge-rbi-rate-hike-fears/articleshow/135118875.cms",
-   "date": "2026-10-22",
-   "source": "Economic Times",
-   "label": "Debt & Bonds",
-   "snippet": "Indian government bonds experienced a decline as the benchmark yield exceeded 7.45% on Thursday. Oil prices rose significantly, reaching $112.50 per barrel in Asian trading amid geopolitical tensions. The Reserve Bank of India has raised its repo rate to 5.50%, indicating a potential for further hikes. Inflation concerns are mounting, wit",
-   "lead": "India's JSW Paints is likely to raise funds through issuance of bonds maturing in four years and five years and should go ahead with the sale in the next couple of weeks, two merchant bankers with direct knowledge of the matter said on Thursday. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis ...",
-   "image": "https://img.etimg.com/thumb/msid-135118909,width-1200,height-900,imgsize-106958,overlay-etmarkets/articleshow.jpg",
+   "score": 11,
+   "priority": 79,
+   "title": "RBI may hike repo rate to 6.25% by H1 2027, warns Deutsche Bank as inflation risks persist",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUFNvVV9ZcVdISk1qdm8tOWMyWWJwUFB1eVpfVEd4czFrSTlaS0h6TUQtX0d0S1BoY3hEUlAxM3Atb3JxXzVBTnBJdzBrb0pQOHBXY2k2M2NFaTN4UE5HVldBVEd4VDBlaGRFX0FXVF9ZTjBwMnhrcEpmeUV0N3EzdVpjNGI4LXhIdmkwV3NlbkJNeWliOHpIYnh4SjZvNHFWU1RteGpfSWxHYzRjYTNxdWRlVm9SREswVnZUYjd4ZFhpVUtLVDVDb1JsSGxxQ3l0RE0xOHZZNXnSAd4BQVVfeXFMTXlaV1hRTWJ4MjBfTWFqelFyOWpNNlNkOEloem5DenFuSEY0bHE2MGlScGw5bmE0Vlh6VG1HX19vQ0ZlNVF6elkyYTYtNlpFWFFiVG1hd0VpT0Q1MkVtb3NDZEl4SnZzV2xrNUY0VmJuZlNnd1dCTXpxTEt6T3Flc0FkbmswTVlQLU5Xc01ac01DVFQ5UGd4NHZuYmQyeXNOVGhqUlJueVIwNUcxQmVkSGstcEs4QlZTd181ZTBhV3BzVXl4aGxXUVZfX3hnWnRNWHhVbHFndlpOaV8xQ1Rn?oc=5",
+   "date": "2026-10-27",
+   "source": "Livemint",
+   "label": "Regulatory",
+   "snippet": "The bank expects 100-basis-point monetary tightening as inflationary pressures persist; rupee may weaken beyond 97 per US dollar.",
+   "lead": "Deutsche Bank expects consumer price index inflation to average 6% in October-December 2026. (AI-generated image for representational purposes only) AI Quick Read The Reserve Bank of India (RBI) may raise the repo rate to 6.25% by the first half of 2027, implying cumulative monetary tightening of 100 basis points in the current cycle, as persistent inflationary pressures and resilient economic growth could warrant a tighter monetary ...",
+   "image": null,
    "why": [
     "Regulator: SEBI or RBI",
     "Interest-rate decision",
-    "Sharp market move"
+    "Also covered by 1 other outlet(s)"
    ],
    "tags": [
-    "Debt & Bonds"
+    "Regulatory",
+    "Banks & Financials"
    ],
    "rank": 15,
    "must_read": false
   },
   {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 79,
+   "title": "RBI rate hikes: How short-duration funds and high-quality corporate bonds can protect your debt portfolio",
+   "url": "https://economictimes.indiatimes.com/mf/analysis/rbi-rate-hikes-how-short-duration-funds-and-high-quality-corporate-bonds-can-protect-your-debt-portfolio/articleshow/135203881.cms",
+   "date": "2026-10-26",
+   "source": "Economic Times",
+   "label": "Debt & Bonds",
+   "snippet": "Investors must position fixed income portfolio for further rate hikes. But this cycle may look different.",
+   "lead": "Looking for the best mutual funds to invest? Here are our recommendations. Will oil turn into a lingering problem? Is the world economy, India, or the market prepared? KYB and KYC: Business behind the wealth creator called ‘Divi’s Lab’ – Part 2, concluding",
+   "image": "https://img.etimg.com/thumb/msid-135161665,width-1200,height-900,imgsize-58152,overlay-etwealthmutualfunds/articleshow.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Also covered by 2 other outlet(s)"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 7,
+   "priority": 78,
+   "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on October 26, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63861",
+   "date": "2026-10-23",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Monday, October 26, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "image": null,
+   "why": [
+    "Rates and liquidity",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 17,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 71,
+   "title": "Digital Gold Sales Surge To Rs 2,590 Crore This Festive Season As Retail Buyers Defy Sebi Warning",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQldpSXRwZmFOem0yVG4ya1FKMW56eU55TDFOVF95TC1Kdk9jYVd4MXcySHNjaTR0WDRxdllRNEVFN2VHVTBvUHRYbmpxZnRkVGwzOHI5R1lHc0k4eWhtRnl3UFlydF9fTjBuS0VGd3d4YXBtcnpIS1VtQ2dKYk1hUS1GQ1cwcFVJcEc1MTUxZlphcUJqUUNiRVdxalc4NmZJSG9oZnlXZW1Qai02OGNQZERfYm9xakFXYzV1Mnc1d004RGhlNUdmaXpqSHDSAdoBQVVfeXFMUF94amd2U09WQjBQclhmUFRWdy1qdmNNMnFXUktTVnIzUzBmNjJja2NDUDlMaHpBcVQ2Q2c4MzJ3c1FnTVJUMjdTV18xeGJzb3VTdmtmeGdWa01ub18wTml2cVdTWkFXTmxOaDc3b0ZYWHRROHgtQnlTZGpqVzN5aFk1eTFCVUNscl9PN193VjBYVV9MQ3ZkeHc3Ty1iNW9NUlFHTXZuelhMMldmM1Z3N3dFUE42N3dkcnhOaklybDI2Q3hwb1c2V2dSdnFLSE43c3NrTUpXZWFrMGc?oc=5",
+   "date": "2026-10-27",
+   "source": "Outlook Money",
+   "label": "Gold & Silver",
+   "snippet": "Digital gold sales in India surged 83% to Rs 2,590 crore this festive season despite Sebi's warning that the asset class is unregulated and risky",
+   "lead": "",
+   "image": "https://media.assettype.com/outlookmoney/2026-09-28/bztj560r/digital-gold-regulation.png?w=1200",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Precious metals",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Gold & Silver"
+   ],
+   "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 71,
+   "title": "Fed October Rate Decision Preview: Rate Hike Pause Has Become Consensus, How Will US Stocks, Dollar, and Gold React?",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaEJWVy1lekI1el91eHkwOXpycnN6MEhLNDRBVDhNWDNscmZsbldUYUhfV1pFcTNuWmlKWElIcXk5blJZNWl0VTFGS3hERjlUamJzeHltV2hBR2FBUVNyanc4UXZJOUtWMVY5OGUwZDhxZENHQkkzNW9aUC12dVFCbkdZUkJ3UTgzWGVDMlJ3eTZmaUtNa0JxOFFBaXV3ZGg0RGlHU0xucnlRcWZFbGlxbkZUYV9tWDladXZSQzJMQlJJYzNFZVViazAzaFk3cjJGU0tHN19NQVRCOHpVSjFFS0lTdHhXc0k?oc=5",
+   "date": "2026-10-27",
+   "source": "TradingKey",
+   "label": "Gold & Silver",
+   "snippet": "TradingKey - The Federal Reserve will announce its October interest rate decision at 14:00 Eastern Time on October 28, followed by a press conference by Fed Chair Warsh at 14:30. Markets currently widely expect the Fed to hold rates steady after raising rates by 25 basis points in September, maintaining the target range for the federal fu",
+   "lead": "The Federal Reserve is widely expected to maintain the federal funds rate at 3.75%-4.00% on October 28, pausing after a September hike. Stubborn inflation pressures support further tightening, while a cooling labor market and tighter financial conditions provide rationale for a temporary pause. Markets project a high probability of a December rate hike depending on Chair Warsh's commentary. A hawkish stance could strengthen the US ...",
+   "image": "https://resource.tradingkey.com/uploads/20261023/fed-1023-ef2e105d16d347d695e4978afa0489ed.jpg",
+   "why": [
+    "Interest-rate decision",
+    "Precious metals",
+    "Global macro driver"
+   ],
+   "tags": [
+    "Gold & Silver"
+   ],
+   "rank": 19,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 6,
+   "priority": 67,
+   "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63837",
+   "date": "2026-10-21",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "",
+   "image": null,
+   "why": [
+    "New law or act",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
    "desk": "Immigration",
-   "score": 8,
-   "priority": 80,
+   "score": 7,
+   "priority": 64,
    "title": "Denmark introduces a new work permit scheme for foreign workers",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZmN6bWRyQ3FLMVVMdUpaSWN6RnBlWDhoZ3ljVkZfT0VldEotSEFIeUExUnpuVzl0TTZLazdWTktVUGJxOXlNYThiLXZJQjVLU3hCSHJlWXRPZVhfOERkZzhrcHJPalVVal9ZRW95UEpiRGlpQ2pLTU1sREVqZklpRnFqLU5feVc4VlZWa1hPM1F3eVBWTU13YlYxb0pSYUhTZ1I0NHJMcUZwZno2Q2NZV0dJeEFMSXFiYl9JMjBrYXFwalJlaGw3T3FoSkZjNnhZSUMzY3lR0gHcAUFVX3lxTE1rZjFOZExjZHV6SnlqZmVaSHpFSjZPcVNVNkZJMzI4Q0t6dzZxaVpyMjhUVm5MSGVXTEVpcnU1YXphM0RmbUYzaXVrRWhnSkFGcE9DSVhTWDlZSy1aMnBGa3FuZGY4TzN5ODVDT2t4NEFnMWV5RFVOQ1B2V2lQamw4WUIxVFY3UFpQeGRkZGlZSXZCN2laVDVoRW4zbXZNVFVOQU9DZ2VqQnd5MU1UMmtnYWdDZTNOWlFUb002LU0xYlpiS3ZvbmN4MmJZUGpKOXBGTGlXZ1hKUWNlckE?oc=5",
    "date": "2026-10-27",
@@ -795,138 +910,23 @@
     "Work visa",
     "Denmark"
    ],
-   "rank": 16,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 80,
-   "title": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0",
-   "date": "2026-10-23",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026 Please refer to Chapter IV of the Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Directions, 2025 dated November 28, 2025 (hereinafter referred to as ‘the Directions’), on Minimum Capital Requirements for Operational Risk. 2. On a review, and in exercise of the powers conferred by Section 35A of the Banking ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 17,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 80,
-   "title": "India and New Zealand sign Memorandum of Cooperation (MoC) on Electronic Origin Data Exchange to Facilitate Bilateral Trade Under the India-New Zealand Free Trade Agreement (FTA)",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326043",
-   "date": "2026-10-21",
-   "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "The Central Board of Indirect Taxes and Customs (CBIC), India, and the New Zealand Customs Service (",
-   "lead": "Ministry of Finance India and New Zealand sign Memorandum of Cooperation (MoC) on Electronic Origin Data Exchange to Facilitate Bilateral Trade Under the India-New Zealand Free Trade Agreement (FTA) India-New Zealand MoC will deepen Customs cooperation and support effective implementation of trade facilitation measures Posted On: 21 OCT 2026 5:02PM by PIB Delhi The Central Board of Indirect Taxes and Customs (CBIC), India, and the New ...",
-   "image": null,
-   "why": [
-    "Trade agreement",
-    "Ministry of Finance"
-   ],
-   "tags": [
-    "Tax, Duties & Trade"
-   ],
-   "rank": 18,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 79,
-   "title": "Nazara Technologies swings to profit in Q2; revenue jumps 53% to Rs 803 Cr",
-   "url": "https://yourstory.com/2026/10/nazara-technologies-profit-q2-revenue-jumps-to-803-cr",
-   "date": "2026-10-27",
-   "source": "YourStory",
-   "label": "India · Media, Gaming & Creators",
-   "snippet": "Nazara Technologies swung to a profit of Rs 35.3 crore in Q2 FY27, as revenue surged 53% year-on-year to a record Rs 803 crore. Gaming revenue more than doubled, driven by growth in mobile gaming and the consolidation of Bluetile and BestPlay.",
-   "lead": "Nazara Technologies swings to profit in Q2; revenue jumps 53% to Rs 803 Cr Nazara Technologies swung to a profit of Rs 35.3 crore in Q2 FY27, as revenue surged 53% year-on-year to a record Rs 803 crore. Gaming revenue more than doubled, driven by growth in mobile gaming and the consolidation of Bluetile and BestPlay. Press Trust of India 11239 Stories Tuesday October 27, 2026 , 2 min Read Nazara Technologies on Monday reported a profit ...",
-   "image": "https://images.yourstory.com/cs/120/11718bd02d6d11e9aa979329348d4c3e/shutterstock124913561-1745474933603.jpg",
-   "why": [
-    "Financials",
-    "Sizeable deal (about $85M)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Financials",
-    "Media, Gaming & Creators"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 79,
-   "title": "Exclusive: Imarticus Eyes Confidential Filing In 2-3 Months For ₹1,000 Cr IPO",
-   "url": "https://inc42.com/buzz/exclusive-imarticus-eyes-confidential-filing-in-2-3-months-for-%e2%82%b91000-cr-ipo/",
-   "date": "2026-10-26",
-   "source": "Inc42",
-   "label": "India · Edtech & Skills",
-   "snippet": "Imarticus Learning plans to file its DRHP with SEBI through the confidential route within the next two to three months for a ₹1,000 Cr IPO",
-   "lead": "Imarticus Learning plans to file draft papers confidentially for a ₹1,000 Cr IPO within two to three months, up from its earlier planned ₹750 Cr issue. The proposed fundraise would support the edtech startup’s expansion through acquisitions, new learning centres, and a stronger enterprise training business. Sources said its organic expansion could include more Centres of Excellence, additional offerings at its finance and business ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/imarticus-acquisition-social-.png",
-   "why": [
-    "IPO & Listing",
-    "Large deal (about $105M)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Edtech & Skills"
-   ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 7,
-   "priority": 70,
-   "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on October 26, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63861",
-   "date": "2026-10-23",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Monday, October 26, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
-   "image": null,
-   "why": [
-    "Rates and liquidity",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
    "rank": 21,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 6,
-   "priority": 60,
-   "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63837",
-   "date": "2026-10-21",
-   "source": "RBI",
+   "score": 5,
+   "priority": 56,
+   "title": "Factual Report on PM-DAKSH",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326437",
+   "date": "2026-10-22",
+   "source": "PIB",
    "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "",
+   "snippet": "Pradhan Mantri Dakshata Aur Kushalta Sampann Hitgrahi (PM-DAKSH), a Central Sector Scheme, w",
+   "lead": "Ministry of Social Justice & Empowerment Factual Report on PM-DAKSH Posted On: 22 OCT 2026 11:49AM by PIB Delhi 276.47 crores, actual expenditure to the tune of Rs. 309.5 crores has been incurred till date. -- words | -- min read Ministry of Social Justice & Empowerment Factual Report on PM-DAKSH Posted On: 22 OCT 2026 11:49AM by PIB Delhi",
    "image": null,
    "why": [
-    "New law or act",
-    "Regulator: RBI"
+    "Rates and liquidity"
    ],
    "tags": [
     "Banking & Rates"
@@ -935,22 +935,23 @@
    "must_read": false
   },
   {
-   "desk": "Policy",
-   "score": 5,
-   "priority": 50,
-   "title": "Extension of timeline for compliance with terms and conditions by Debenture Trustees (DTs) for carrying out activities outside the purview of SEBI",
-   "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-dts-for-carrying-out-activities-outside-the-purview-of-sebi_105454.html",
-   "date": "2026-10-27",
-   "source": "SEBI",
-   "label": "Markets & Regulation",
-   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+   "desk": "Immigration",
+   "score": 6,
+   "priority": 55,
+   "title": "New Zealand Announces 4 Major Student Visa Changes",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4Njd2SUo0cEVxQjZmMi1QXzBCU0lhU05YRHJZRUljbXgwY0lDQ0M1RkpGTnNXX1lFNllDek9IVkMzdEl3YnR6Q2lQTmc0VVVEVXdhbEtEMjNETjF6OFlxdzA1Rlcyc1dQUEtPY1g2MXNFZw?oc=5",
+   "date": "2026-10-28",
+   "source": "Bloom Pakistan",
+   "label": "New Zealand",
+   "snippet": "New Zealand introduces four student visa changes from October 27, 2026, revising work rights, visa processing rules and post-study timelines.",
    "lead": "",
-   "image": null,
+   "image": "https://bloompakistan.com/wp-content/uploads/2026/10/New-Zealand-Announces-4-Major-Student-Visa-Changes.jpg",
    "why": [
-    "Regulator: SEBI"
+    "Announces a change"
    ],
    "tags": [
-    "Markets & Regulation"
+    "Student / Graduate",
+    "New Zealand"
    ],
    "rank": 23,
    "must_read": false
