@@ -1,6 +1,6 @@
 {
- "edition": "2026-10-28",
- "built": "2026-10-28 22:21 IST",
+ "edition": "2026-10-29",
+ "built": "2026-10-29 02:50 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,120 +12,80 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22699.0,
-   "change_pct": -0.22,
+   "value": 22750.0,
+   "change_pct": -0.02,
    "asof": "28 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73246.0,
-   "change_pct": -0.48,
+   "value": 73599.0,
+   "change_pct": -0.01,
    "asof": "28 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.22,
-   "change_pct": 0.03,
-   "asof": "28 Oct 21:59 IST"
+   "value": 95.21,
+   "change_pct": 0.02,
+   "asof": "29 Oct 02:37 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 112.42,
-   "change_pct": -1.28,
-   "asof": "28 Oct 22:11 IST"
+   "value": 110.44,
+   "change_pct": -3.02,
+   "asof": "29 Oct 02:29 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4053.0,
-   "change_pct": -0.54,
-   "asof": "28 Oct 22:11 IST"
+   "value": 4081.0,
+   "change_pct": 0.16,
+   "asof": "29 Oct 02:29 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.03,
-   "change_pct": 0.78,
-   "asof": "28 Oct 22:06 IST"
+   "value": 5.05,
+   "change_pct": 1.04,
+   "asof": "29 Oct 00:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "DheyaTech",
-   "tagline": "Bengaluru aerospace propulsion startup",
-   "what": "Founded in 2018 by aerospace engineers Gurushankara KC, Abhinav Alva and Chetan Kumar. Develops small gas turbine engines (20 kgf to 400 kgf thrust) for aerial platforms and energy systems, with the design, assembly and testing pipeline and its engine control unit built in-house. Expanding into hydrogen-based technology and distributed power generation, including a 60 kW turbogenerator with a hydrogen flexi-fuel combustor developed with IISc.",
+   "company": "Aakash Educational Services",
+   "tagline": "Test-prep coaching chain owned by BYJU'S parent",
+   "what": "Gurugram-based test-prep brand for engineering and medical entrance exams, owned by BYJU'S parent Think & Learn since its 2021 acquisition.",
    "how": [
-    "Sells engines to OEMs: the company says it already has orders from Indian and global OEMs but did not disclose names or values.",
-    "Inferred: revenue is hardware sales; the article gives no pricing or revenue figures."
+    "Coaching fees: Rs 1,956.2 Cr of Rs 2,040.5 Cr operating revenue in FY26 (about 96%, computed).",
+    "Franchisee revenue: Rs 84.4 Cr, up 4% (about 4%, computed)."
    ],
-   "watch": "Pre-revenue-scale hardware: certification timelines and first commercial deliveries are the milestones to track. Article also notes rising investor interest in aerospace and spacetech (D-Propulse Rs 25 Cr in January; InspeCity Rs 100 Cr in August).",
-   "sector": "AI & Deeptech",
+   "watch": "The smaller loss came from one-off accounting gains, not from the business growing: revenue is flat. Ownership is entangled in the BYJU'S group's disputes: Byju Raveendran proposed relinquishing his claimed interest in 17.89 Mn Aakash shares to settle Qatar Holding's arbitration claim of over $235 Mn; lenders (Global TLB lenders via GLAS Trust) are reportedly in advanced talks for a 30% stake valuing Aakash at about $2 Bn.",
+   "sector": "Edtech & Skills",
    "region": "India",
-   "url": "https://inc42.com/buzz/dheyatech-bags-%e2%82%b943-cr-to-scale-indigenous-gas-turbine-engines/"
+   "url": "https://inc42.com/buzz/aakash-trims-fy26-loss-by-16-to-%e2%82%b9186-5-cr-top-line-flat-at-%e2%82%b92040-cr/"
   },
   "country": {
-   "id": "germany",
-   "name": "Germany",
-   "trend": "Stable law, rising political risk",
-   "pr": "Settlement permit after 27 months on a Blue Card with A1 German, or 21 months with B1 German.",
-   "citizenship": "5 years of lawful residence, roughly B1 German, financial independence. The 3-year fast track was abolished on 30 October 2025. Dual citizenship is permitted by Germany.",
-   "pro": "Fastest realistic settlement on this list for a Blue Card holder: 21 to 27 months.",
-   "con": "Political risk: the AfD won 44% in Saxony-Anhalt (early September 2026) and polled around 37% ahead of the 20 September votes in Mecklenburg-Vorpommern and Berlin. Its manifesto calls for a points system with German-language criteria and quotas for non-EU skilled workers, and mass deportations.",
-   "watch": "Outcome of the 20 September regional elections"
+   "id": "uk",
+   "name": "United Kingdom",
+   "trend": "Tightening",
+   "pr": "Indefinite leave to remain (ILR) is still 5 years for Skilled Workers today (B1 English, Life in the UK test, fee GBP 3,226). The government proposes an 'earned settlement' model with a 10-year baseline, reducible or extendable by contribution, integration and compliance. It is NOT yet in force; the government said it would legislate around autumn 2026. Consultation closed 12 February 2026.",
+   "citizenship": "Citizenship usually follows ILR by about a year (general knowledge). If the 10-year baseline arrives, the total clock could roughly double. The UK allows dual citizenship.",
+   "pro": "English-speaking, no language exam beyond visa English.",
+   "con": "Real chance the settlement clock moves from 5 to 10 years, and the government signalled it may apply to people already in the UK who are not yet settled.",
+   "watch": "Autumn 2026 legislation on earned settlement"
   }
  },
  "desks": {
   "Policy": {
    "total": 266,
-   "new_today": 13,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
-     "score": 9,
-     "priority": 56,
-     "title": "Minutes of the Monetary Policy Committee Meeting, October 5 to 7, 2026",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63839",
-     "date": "2026-10-21",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "The sixty third meeting of the Monetary Policy Committee (MPC), constituted under Section 45ZB of the Reserve Bank of India Act, 1934, was held during October 5, 2026. 2. The meeting was chaired by Shri Sanjay Malhotra, Governor and was attended by all the members – Dr. Nagesh Kumar, Director and Chief Executive, Institute for Studies in Industrial Development, New Delhi; Shri Saugata Bhattacharya, Economist, Mumbai; Professor Ram ...",
-     "image": null,
-     "why": [
-      "Rates and liquidity",
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
      "score": 8,
-     "priority": 50,
-     "title": "India and Mexico launch Negotiations for Preferential Trade Agreement, Sign Terms of Reference",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329303",
-     "date": "2026-10-28",
-     "source": "PIB",
-     "label": "Tax, Duties & Trade",
-     "snippet": "Mexico and India take an important step towards strengthening their economic and trade relations wit",
-     "lead": "Ministry of Commerce & Industry India and Mexico launch Negotiations for Preferential Trade Agreement, Sign Terms of Reference India and Mexico Discuss Expanding Trade and Investment Ties; PTA Negotiations Cover Key Trade Areas Posted On: 28 OCT 2026 10:38AM by PIB Delhi Mexico and India take an important step towards strengthening their economic and trade relations with the signing of the Terms of Reference for negotiations on a ...",
-     "image": null,
-     "why": [
-      "Trade agreement",
-      "Commerce"
-     ],
-     "tags": [
-      "Tax, Duties & Trade"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 8,
-     "priority": 50,
+     "priority": 53,
      "title": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026",
      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0",
      "date": "2026-10-23",
@@ -145,34 +105,117 @@
     },
     {
      "desk": "Policy",
-     "score": 8,
-     "priority": 50,
-     "title": "India and New Zealand sign Memorandum of Cooperation (MoC) on Electronic Origin Data Exchange to Facilitate Bilateral Trade Under the India-New Zealand Free Trade Agreement (FTA)",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326043",
-     "date": "2026-10-21",
+     "score": 7,
+     "priority": 47,
+     "title": "India and Mexico launch Negotiations for Preferential Trade Agreement, Sign Terms of Reference",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329303",
+     "date": "2026-10-28",
      "source": "PIB",
      "label": "Tax, Duties & Trade",
-     "snippet": "The Central Board of Indirect Taxes and Customs (CBIC), India, and the New Zealand Customs Service (",
-     "lead": "Ministry of Finance India and New Zealand sign Memorandum of Cooperation (MoC) on Electronic Origin Data Exchange to Facilitate Bilateral Trade Under the India-New Zealand Free Trade Agreement (FTA) India-New Zealand MoC will deepen Customs cooperation and support effective implementation of trade facilitation measures Posted On: 21 OCT 2026 5:02PM by PIB Delhi The Central Board of Indirect Taxes and Customs (CBIC), India, and the New ...",
+     "snippet": "Mexico and India take an important step towards strengthening their economic and trade relations wit",
+     "lead": "Ministry of Commerce & Industry India and Mexico launch Negotiations for Preferential Trade Agreement, Sign Terms of Reference India and Mexico Discuss Expanding Trade and Investment Ties; PTA Negotiations Cover Key Trade Areas Posted On: 28 OCT 2026 10:38AM by PIB Delhi Mexico and India take an important step towards strengthening their economic and trade relations with the signing of the Terms of Reference for negotiations on a ...",
      "image": null,
      "why": [
       "Trade agreement",
-      "Ministry of Finance"
+      "Commerce"
      ],
      "tags": [
       "Tax, Duties & Trade"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 7,
+     "priority": 47,
+     "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on October 26, 2026",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63861",
+     "date": "2026-10-23",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Monday, October 26, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+     "image": null,
+     "why": [
+      "Rates and liquidity",
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 33,
+     "title": "Factual Report on PM-DAKSH",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326437",
+     "date": "2026-10-22",
+     "source": "PIB",
+     "label": "Banking & Rates",
+     "snippet": "Pradhan Mantri Dakshata Aur Kushalta Sampann Hitgrahi (PM-DAKSH), a Central Sector Scheme, w",
+     "lead": "Ministry of Social Justice & Empowerment Factual Report on PM-DAKSH Posted On: 22 OCT 2026 11:49AM by PIB Delhi 276.47 crores, actual expenditure to the tune of Rs. 309.5 crores has been incurred till date. -- words | -- min read Ministry of Social Justice & Empowerment Factual Report on PM-DAKSH Posted On: 22 OCT 2026 11:49AM by PIB Delhi",
+     "image": null,
+     "why": [
+      "Rates and liquidity"
+     ],
+     "tags": [
+      "Banking & Rates"
      ]
     }
    ]
   },
   "Startups": {
-   "total": 1015,
-   "new_today": 31,
+   "total": 1016,
+   "new_today": 0,
    "items": [
     {
      "desk": "Startups",
      "score": 11,
-     "priority": 79,
+     "priority": 85,
+     "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+     "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+     "date": "2026-10-23",
+     "source": "TechCrunch",
+     "label": "Global · Other",
+     "snippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+     "lead": "OpenAI is reportedly close to securing another mega round of private funding, rather than plowing ahead with an IPO. The AI lab is working on raising up to $30 billion at a $1.25 trillion pre-money valuation in a round led by Coatue and investors in UAE, sources told CNBC . This follows a similar report by Bloomberg a month ago which said the AI lab was working on raising $30 billion at a $1.4 trillion valuation. Terms are still being ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
+     "why": [
+      "IPO & Listing",
+      "Very large figure in headline (about $30,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "IPO & Listing"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+     "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+     "date": "2026-10-22",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+     "lead": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion. The company helps automate and assist with workflow tasks for legal professionals, as the industry moves beyond AI assistants to AI services that help them get work done. The news comes just a month after Harvey, Legora’s biggest competitor, announced a $550 million raise at a $15.5 billion valuation; back in March, ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2296593553.jpg?w=1024",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $8,800M: round or valuation)",
+      "Valuation, listing or profitability signal",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
      "title": "Info Edge Q2 Profit Jumps 87% YoY To ₹650 Cr, Declares ₹3 Interim Dividend",
      "url": "https://inc42.com/buzz/info-edge-q2-profit-jumps-87-yoy-to-%e2%82%b9650-cr-declares-%e2%82%b93-interim-dividend/",
      "date": "2026-10-28",
@@ -192,8 +235,8 @@
     },
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 79,
+     "score": 10,
+     "priority": 77,
      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
      "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
      "date": "2026-10-28",
@@ -210,123 +253,63 @@
       "Funding",
       "Mobility & EV"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 79,
-     "title": "Intel to buy quantum firm Classiq for about $2.3 billion: Report",
-     "url": "https://economictimes.indiatimes.com/tech/technology/intel-to-buy-quantum-firm-classiq-for-about-2-3-billion-report/articleshow/135236833.cms",
-     "date": "2026-10-27",
-     "source": "ET Startups",
-     "label": "Global · AI & Deeptech",
-     "snippet": "The Israeli startup would also add quantum processors to Intel's lineup, which already includes central processing units and graphics processors. Intel said it plans to keep Classiq's software compatible with other companies' hardware after the deal closes.",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1348465,resizemode-75,msid-135236833/tech/technology/intel-to-buy-quantum-firm-classiq-for-about-2-3-billion-report.jpg",
-     "why": [
-      "Acquisition",
-      "Very large figure in headline (about $2,300M: round or valuation)"
-     ],
-     "tags": [
-      "Acquisition",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 79,
-     "title": "DoorDash in talks to buy Instacart in roughly $17 billion deal",
-     "url": "https://economictimes.indiatimes.com/tech/technology/doordash-in-talks-to-buy-instacart-in-roughly-17-billion-deal/articleshow/135222954.cms",
-     "date": "2026-10-27",
-     "source": "ET Startups",
-     "label": "Global · Commerce & D2C",
-     "snippet": "DoorDash is in advanced talks to acquire Instacart in a deal that could value the grocery-delivery platform at about $17 billion, a source familiar with the matter told Reuters on Monday.",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-33838,resizemode-75,msid-135222954/tech/technology/doordash-in-talks-to-buy-instacart-in-roughly-17-billion-deal.jpg",
-     "why": [
-      "Acquisition",
-      "Very large figure in headline (about $17,000M: round or valuation)"
-     ],
-     "tags": [
-      "Acquisition",
-      "Commerce & D2C"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 43,
+   "new_today": 5,
    "items": [
     {
      "desk": "Immigration",
      "score": 5,
-     "priority": 42,
-     "title": "S. Korean FM Cho, Rubio set to talk US visa delay",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM1R2clBoZVpWWlN0Q2FIZG5jMHJ0WmxmRkVYdEtZN2g5RkhzcE1kN2c4MGdkX2phaGlMMmpuTVpNWkQzU0pna01KN2JHRVV6cGtpNzNLSF9heDVRQnpMMDYyNmNQZ0N5SlRvRHlITnhmd3ZXZGx4ZkQ1aHlGY2s4cnVOZDh5N29nbWRBU0l5V09qUFJjVnh1cQ?oc=5",
-     "date": "2026-10-27",
-     "source": "Breakingthenews.net",
-     "label": "South Korea",
-     "snippet": "South Korean Foreign Minister Cho Hyun (pictured left) stated he plans to meet United States Secretary of State Marco Rubio (pictured right) during his upcoming trip to the US to hold bilateral talk, ...",
+     "priority": 45,
+     "title": "Netherlands to introduce new rules for employers sponsoring foreign workers from November 1",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOelZtNl9ndlR5WC0tQndKbm1WYTV6OEhBMmUxNENZRkNUR3N6SjMtUDdBVVE0Q3BXNl9jWmlXYUxPSndfTktDc1czUXBpQi0tY01NdjJuMFRFbWkyVGxFUWlKQ3g2SHJhdkNqbFRWb3c3cFhDclJ0bFN3d1UzeXBzZ0d6NHJSUDV3SkdJaUw4enozSFhoUkdpZGtMRFZtdk55QUxLTVgwU1BkX2FRSVU4US1JWDN4UGZtT2Y2RGwwVjd0MTVOcTQw?oc=5",
+     "date": "2026-10-24",
+     "source": "Nairametrics",
+     "label": "Netherlands",
+     "snippet": "The Netherlands is set to introduce new immigration compliance rules for employers sponsoring foreign workers from November 1, 2026, allowing companies to correct certain administrative violations before facing financial penalties.",
      "lead": "",
-     "image": "https://cdn.ttweb.net/News/images/409134.jpg?preset=w800_q70",
+     "image": "https://cdn.nairametrics.com/wp-content/uploads/2026/10/Netherlands.webp",
      "why": [
+      "Affects work visas",
       "Announces a change"
      ],
      "tags": [
-      "South Korea"
+      "Work visa",
+      "Netherlands"
      ]
     },
     {
      "desk": "Immigration",
-     "score": 5,
-     "priority": 42,
-     "title": "Why is Japan tightening its immigration rules?",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLUFvMDAxNURVcmVscUUxS0haSGxsdXZvUHZwRDd3ODdkOXN5VGYwdnk2cnJrdmI5MWhEQkxuak05akNrUUZDYWZZNzFoTVNlRUMyS09RaS1PS0IxN3dyTWNoMDhSSHl2SFdoY1JvTWVjdUl5d1dKUmt5NXk0T3hjOQ?oc=5",
-     "date": "2026-10-26",
-     "source": "Nikkei Asia",
-     "label": "Japan",
-     "snippet": "Expert Naoko Hashimoto discusses why the nation is making it harder to stay",
-     "lead": "Japan India South Korea Indonesia Taiwan Thailand U.S. East Asia Hong Kong Macao Taiwan Mongolia Japan South Korea North Korea Southeast Asia Thailand Malaysia Singapore Philippines Vietnam Myanmar Cambodia Laos Brunei East Timor South Asia Pakistan Afghanistan Bangladesh Sri Lanka Nepal Bhutan Maldives Central Asia Uzbekistan Turkmenistan Tajikistan Kyrgyzstan Oceania New Zealand Papua New Guinea Pacific Islands Rest of the World ...",
-     "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F6%2F2%2F4%2F13364268-1-eng-GB%2F3f2407c5a059-Thumbnail-Template-1.00_04_30_14.Still067.png?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630",
+     "score": 4,
+     "priority": 36,
+     "title": "Spanish consulate in Rabat introduces new visa appointment procedures",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdC1nNEhWa3N6NXN1SkdBZ1dCZVI1N2pFSmlyd09KQ056VWsxbzJHNmVlOGtBMy02eTFVOHV2ZkQxbndHbnNfenMyRjRZTi0xai1tMUlqRWFzX3EwNXNYZ0NpcElGemZ6RkZ6QmhBOVN5WjlsZnYtVGU4Ml9GZDdVTURCN0loVFNNVzdYN2thcXhlV3VvUnlLcGdwSkpBLUFySUZSbU9GdnY?oc=5",
+     "date": "2026-10-28",
+     "source": "HESPRESS English - Morocco News",
+     "label": "Spain",
+     "snippet": "Spain's Consulate General in Rabat has updated its visa application procedures, introducing new appointment schedules and direct submission arrangements",
+     "lead": "Spain’s Consulate General in Rabat has updated its visa application procedures, introducing new appointment schedules and direct submission arrangements for Schengen and long-stay visas under instructions dated October 23, 2026. For short-stay Schengen visas, appointments through BLS will open on Tuesdays at 5 p.m. for certain first-time training applicants, Wednesdays at 4 p.m. for applicants who held a Schengen visa within the ...",
+     "image": "https://e2.hespress.com/wp-content/overlay/2022/07/visa.webp?v2",
      "why": [
       "Announces a change"
      ],
      "tags": [
-      "Japan"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 42,
-     "title": "Three years of volunteering can shorten the path to Austrian citizenship",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXB4eUxlbXh6T1hiZ2dpRHhnUXlfcHZpR0JBclpVUDdwRzJBTTVkRXBzT2tlaE1zSTZGUzBOQlJ2bWVhNTloQjJXOGZjVVZUYUtJSk4zZDFJRmt1cUJ2ajZvYnNEZzBWUkVwWTFWN29Ib1hyT3RrQm9yM2VpWmtCQkM1RmpFbmNwcFdadnBHaTJLYTZwZHNJTUdGWdIBoAFBVV95cUxNTnpDVXRteV9NTE03czRFeDFiV2hPWDVJYlBNTjBOekxtODdOTnAtQXJLN2RGLXhtdEtWblJlRlRDS0NCR214ZUhhc1V2X3pkWVZMTGxPelJsZmV5WEhYeC1TM2MyX2l1Vkw2ZlVLN0hlWWpvZnZXSURHUEhocDR4d0Q4LWJkT2ptcS00Z29ObHFXTndWMXRZc1ZpZ0JQcUFj?oc=5",
-     "date": "2026-10-26",
-     "source": "Inkorr",
-     "label": "Austria",
-     "snippet": "Three years of volunteering can shorten the path to Austrian citizenship - the latest news today. All events in Ukraine and the world on request Three years of volunteering can shorten the path to Austrian citizenship on the Inkorr website",
-     "lead": "Foreigners who have legal grounds for residence in Austria can qualify for citizenship after six years instead of the standard ten under certain conditions. One of the grounds is at least three years of volunteering in a socially beneficial non-profit organization. This is reported by The Local . The volunteering activity must demonstrate the applicant's sustainable personal integration. At the same time, it does not replace other ...",
-     "image": "https://media.inkorr.com/uploads/1793008695_6adf243750f32.jpg",
-     "why": [
-      "Affects citizenship"
-     ],
-     "tags": [
-      "Citizenship",
-      "Austria"
+      "Spain"
      ]
     }
    ]
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 10,
+   "new_today": 26,
    "items": [
     {
      "desk": "Advisory",
      "score": 10,
-     "priority": 71,
+     "priority": 77,
      "title": "Indian bonds tumble on oil surge, RBI rate hike fears",
      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-tumble-on-oil-surge-rbi-rate-hike-fears/articleshow/135118875.cms",
      "date": "2026-10-22",
@@ -346,19 +329,39 @@
     },
     {
      "desk": "Advisory",
-     "score": 8,
-     "priority": 57,
-     "title": "These 3 stocks could rally after the Fed decision",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYmtnUXpDaUxZV1RLRVNHQUxpS1ZFMEhjcVBNSHV0LXBnWmtnYVNSR19TN21VWGwzT2dteWlxZ1ZVUlJwRVVtdnZjdVFYQzFqQmg1N3AxLW90SWpuTmlqT1ZJS2dibmtla0xEX253X0Y0eE5KOC1mTDl3RTAyeV9ZcXRaVS14ejhUX0xLSnlkMFZJQQ?oc=5",
-     "date": "2026-10-27",
-     "source": "Invezz",
+     "score": 9,
+     "priority": 69,
+     "title": "Fed keeps interest rates unchanged, but two officials dissented in favor of a rate hike",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNndmeU5lMWh1SVo0SEhKTG5ud3haUGJhcDRVc3Q0ZmROaDVLMlRFM3VaRzJKdExkYm8wX0lPNmsxdU1nR1lnVTdnVDQxdThpR3FGRENvOGZyUGJnZC1GRkFkRVBPVGRocWNxeVQyY0hPZm9wSEgtY2NnVGtlUjQ0Y18zeE56cjRDeTZnZkF1ZkxYZWJBTlVMVkdsT2Q5QlRKUzFZY3h6S0ZUSXZwTmYteGdxWTZFWHNCS0ZIYVFMd25SQldtdndDSHFESnVYZ3RnUXZpMWtHNGdONGxOZlpXNlFUNjc4RXQxbU16aE93?oc=5",
+     "date": "2026-10-29",
+     "source": "WKOW",
      "label": "Global",
-     "snippet": "These 3 stocks could rally after the Fed decision",
-     "lead": "This score is generated through AI-driven analysis of the article's content. Buy Tesla. A Fed pause should ease borrowing costs and improve auto-loan affordability, reducing the need for Tesla to subsidize financing. Lower Treasury yields also lift the valuation of long-dated growth bets like autonomy/robotics, and TSLA’s $1.53B Q3 free cash flow gives it cushion to ride out demand softness. Key Risk: Fed signals a December hike or ...",
-     "image": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/04/ChatGPT-Image-Apr-16-2026-06_49_54-AM.png",
+     "snippet": "The Federal Reserve on Wednesday held interest rates steady, even as inflation continues to weigh on American households.",
+     "lead": "Federal Reserve Chairman Kevin Warsh speaks during a press conference following the Federal Open Market Committee's interest-rate decision in Washington, DC, on October 28. The Federal Reserve on Wednesday held interest rates steady, even as inflation continues to weigh on American households. The widely expected move leaves the Fed’s benchmark interest rate at a range between 3.75% and 4%.",
+     "image": "https://bloximages.newyork1.vip.townnews.com/wkow.com/content/tncms/assets/v3/editorial/9/5b/95b2686b-fcca-552a-b274-a2782e2433eb/6ae24cc352c2c.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
      "why": [
+      "Interest-rate decision",
+      "Global macro driver"
+     ],
+     "tags": [
+      "Global"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 69,
+     "title": "Federal Reserve skips rate hike despite elevated inflation",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORDVxcllaYkdrNHhwY0xTQ0hpelVxTTFRS1F5c2JmMHhIOVJlSk5ISS1NdFBiRmE2cmV0b1NUclc1RHdLdUNCVHNxR1dER3BJblJnd1c2WDVVQlZlZEw1VXM2dU9XbDdBWTFwT0VCMnNIck8xVlJ0Y0VlSzMwTDg1MlFvODdSTVlKeEJJUGRTdzNyZTBFOXJIQU9Ba0o?oc=5",
+     "date": "2026-10-28",
+     "source": "Spectrum News",
+     "label": "Global",
+     "snippet": "The Fed held the key rate at 3.75 to 4%",
+     "lead": "The Federal Reserve held interest rates steady Wednesday even though inflation has accelerated in the past couple of months as the Iran war has caused spikes in oil and gas prices. By a 10-2 vote, the Federal Open Market Committee said it decided to maintain the target range for the federal funds rate at 3.75% to 4%. “Economic activity is expanding at a strong pace,” the committee said in a statement. “While uncertainty remains ...",
+     "image": "https://s7d2.scene7.com/is/image/TWCNews/Kevin_Warsh_October_28",
+     "why": [
+      "Interest-rate decision",
       "Global macro driver",
-      "Sharp market move",
       "Also covered by 1 other outlet(s)"
      ],
      "tags": [
@@ -367,43 +370,23 @@
     },
     {
      "desk": "Advisory",
-     "score": 8,
-     "priority": 57,
-     "title": "US stocks: S&P 500, Nasdaq open higher as oil pulls back ahead of Fed decision",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOa2g5a2JEdTFuMkhNYjVWNlFueDZua19NMERrZW9WQlNUZWdhVkRGRWtmZDdLWDMxQ1Y4VGh4el9xZXRmaDQyRlUtMTdJTUhFQ0pGZjhQR01CTlMyb3BpUXE3REZEWE9TWVFTaG5uSEctNDBnV3NOSnI5U3NWMmxvZ2NtUnlZREtEODhNRUNidmMwc1owUXprWElNUE9nc1g4REIzaUpENWJ5cHk3dlNtXzdEZVloZGtTcC1tVk5wbnhIaDA4blI4akd5enUyZGh0Mld4MUZSRmVvemdIOWdnTw?oc=5",
-     "date": "2026-10-27",
-     "source": "The Business Times",
-     "label": "Global",
-     "snippet": "The three major indices opened the day’s session mixed Read more at The Business Times.",
-     "lead": "THE S&P 500 and the Nasdaq opened higher on Tuesday (Oct 27) as easing oil prices supported risk appetite ahead of a raft of key corporate earnings and the Federal Reserve’s interest-rate decision this week. The Dow Jones Industrial Average fell 84.1 points, or 0.16 per cent, to 52,277.49 at the open. The S&P 500 rose 22.7 points, or 0.3 per cent, to 7,699.47​, while the Nasdaq Composite gained 116.9 points, or 0.45 per cent, to ...",
-     "image": "https://cassette.sphdigital.com.sg/image/businesstimes/f72b8c16eb169f57c207c4dcea9f5939540858d4a10b14574be0638bbd416ea1?w=1200&f=webp",
-     "why": [
-      "Global macro driver",
-      "Also covered by 4 other outlet(s)"
-     ],
-     "tags": [
-      "Global",
-      "Energy & Power"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 8,
-     "priority": 57,
-     "title": "Ola Electric shares surge 16%, biggest 1-day gain since April; why is the stock rallying despite brokerage downgrades?",
-     "url": "https://www.livemint.com/market/stock-market-news/ola-electric-shares-surge-16-biggest-1-day-gain-since-april-why-is-the-stock-rallying-despite-brokerage-downgrades-11793103468902.html",
-     "date": "2026-10-27",
-     "source": "Mint",
-     "label": "Equity Markets",
-     "snippet": "Ola Electric shares jumped 16.3% on October 27, their biggest single-day gain since April, as trading volumes surged and auto-sector sentiment improved. The rebound followed a steep October decline and analyst downgrades, while the stock remains down about 4% for the month.",
-     "lead": "Ola Electric shares surge 16%, biggest 1-day gain since April; why is the stock rallying despite brokerage downgrades? ( AI generated image for representational purposes only ) AI Quick Read Shares of Ola Electric surged on Tuesday, October 27, rising 16.3% to close at ₹ 34.80 apiece. The rally marked the stock’s biggest single-day gain since April. Although there was no immediate fundamental trigger behind the rebound, a sharp spike ...",
+     "score": 9,
+     "priority": 69,
+     "title": "FOMC Rate Decision: Gold at Risk of a Steeper Fed-Driven Sell-Off",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUZnUDdMMzBGLXdEQ2NQX05BbExqQW9ZMjVWeXdKXzVTdllBZlpsQVBXa0kxb0dWM2xQd1pwd3NYbG5NR19keE9OajVzRC1sUEwzLXVudkk1X0UwSUY3SGpVRlZfMmV5Mnl2QmpBX0JhRmNWX1ptcEpEZUJqWHlBV1lMWlRHckN0QktYVC14R1RsV1B4eVNvNkVQRUh3RE5CTUhVZTR3d2ZWMWRJUm1rb3ZsUQ?oc=5",
+     "date": "2026-10-28",
+     "source": "www.tmgm.com",
+     "label": "Gold & Silver",
+     "snippet": "",
+     "lead": "",
      "image": null,
      "why": [
-      "Credit rating change or default",
+      "Precious metals",
+      "Global macro driver",
       "Sharp market move"
      ],
      "tags": [
-      "Equity Markets"
+      "Gold & Silver"
      ]
     }
    ]
@@ -412,7 +395,7 @@
  "items": [
   {
    "desk": "Policy",
-   "score": 16,
+   "score": 15,
    "priority": 100,
    "title": "Cabinet approves Container Manufacturing Promotion Scheme",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329476",
@@ -435,7 +418,7 @@
   },
   {
    "desk": "Startups",
-   "score": 14,
+   "score": 13,
    "priority": 100,
    "title": "Cognizant In Talks To Invest In Sarvam At $3.5 Bn To $4 Bn Valuation: Report",
    "url": "https://inc42.com/buzz/cognizant-in-talks-to-invest-in-sarvam-at-3-5-bn-to-4-bn-valuation-report/",
@@ -459,7 +442,7 @@
   },
   {
    "desk": "Advisory",
-   "score": 14,
+   "score": 13,
    "priority": 100,
    "title": "RBI quietly effects another rate hike via tighter liquidity to counter crude surge and rupee fall",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRVlrUXRJR2JNQmxJSTNzbGxxcXZZSnFfU1VvMGx5dEo5Q204UnpWMU5PZE1JVlhfa3drak5aWmdMc09sZmdvR2FpTFJJOVNNbmlVcUQzNHBJZnV2SFhjN21GTzNDS2JIb2xkNGJ6bldhNTFWRURTakxOLWJNUkJJSkthcWU2OHRiazNWVV9yZVZSSU55dmVaenA2NEcwYlB6UGV6Ni1KZkJYaHF0UTUtWFUxd3Q4MFNuQm5Cc1o1NmNzRUpPaUxXeUlEbGt2SFFXT2hERktETUEzRXl0dG9RMHRaRm5ORjhY0gHuAUFVX3lxTFBjSlBtMk9DVW82cVpmRVk3UExiNmU5aExnbzM5ZHJmTWlUV05veWJzZUxyclFZVjMtM1l1dGl5SnMtR2FvVGZtNl9scm5TeWh4bnlnMnN5WU5vaTh3c2ozX3YzRUNNeHlpVnZGSzdUR1lTTzZfNVRQUm1tVjJjZmZSdFVzSXpLcHVxLXZSUEtGa1VZRTZ0cTZ3bmNPRVRLdGphNzRGVEpESDVWUEM5LU5sQUZMOWRGd251Tm8zSGcwaTNSN3J6OXJ2R01OMXVJMndaeG9LalVTM1pxUzd3MUVvaF9qR1U4cHlDUzIzclE?oc=5",
@@ -483,8 +466,8 @@
   },
   {
    "desk": "Startups",
-   "score": 13,
-   "priority": 93,
+   "score": 12,
+   "priority": 92,
    "title": "Exclusive: Lovable offers employees $80m cash-out at $13.3bn valuation",
    "url": "https://sifted.eu/articles/lovable-employee-share-sale/",
    "date": "2026-10-28",
@@ -505,9 +488,32 @@
    "must_read": true
   },
   {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 92,
+   "title": "SEBI Chief: Direct MF Plans Default From Nov 1; IPO Rules, SME Framework Under Review",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWh3LW9NY3hlWUxPYUowTnVPb0x1djFkU0gxcGY5RVgybVltcnAtbWlCWHplSWNWLTdxMFJZWHlXMzZ4bko5RmFDR2RmNjc3VlY1LThsVi03NE1IeVJWS18zRlMxOXhBWjlfWm94cElvME91dFJpZVI3OUNnWTBzNnpPdU1mV00wZHJfZklvMW4wWUxFOVdBTjZwckNDVWo5VXNfTFdITUhGRjVxMFFMNjY0NW0zVzk1MUFnb2RQRy1EeXVf0gHMAUFVX3lxTE5xcm90Z2pMSVpyZWpZNkY2UmZsY1Ryc1dyYVRrUDdha0xORGFfM2l2MkVQZURVT0tYMzM0WVJEc0NSZnRjcDJOYTVzY0ZzZkdfQXdQQmp1TXBnWWIzY203Q3piLXItNzY3N3pZZzk0N2ZDckdnUXF5T3ZKZFo2SkJFbE43c01RMVZJNURKREc1SlFrVzdTV2VycXFyQXgxemdWMkxBcFZ1eVBwUlJzYjlQQkthbWY1YldXR090VGlpNEJHQk40N2FrX1FaRQ?oc=5",
+   "date": "2026-10-28",
+   "source": "NDTV Profit",
+   "label": "Regulatory",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Rule or framework change",
+    "Credit rating change or default"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 5,
+   "must_read": true
+  },
+  {
    "desk": "Startups",
-   "score": 13,
-   "priority": 93,
+   "score": 12,
+   "priority": 92,
    "title": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion",
    "url": "https://yourstory.com/2026/10/ather-turns-profitable-after-rs-154-cr-loss-meta-ai-expansion",
    "date": "2026-10-27",
@@ -525,37 +531,60 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 5,
-   "must_read": true
-  },
-  {
-   "desk": "Immigration",
-   "score": 11,
-   "priority": 92,
-   "title": "Nigeria Immigration Service extends UK passport intervention exercise to November 27",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNVo1RlBoeW5HV1RLcWR2bzNtSDFZd3N3R29veFA1ZUFCZGhicnBDNVNTZE9mbmJXRVVTa2tUajFwTFFubjNsMS1xM3liUW9vNXdrX0dHYUtQd1AyOXdsS2JXblNRVkYzQng2S1hxYU1LNTRmR1Z4UWxYcU04SHRDR1MyNmszMjZobDBlSGg4aDc1WFIxTkxJclFmRVFLNUl4X1VCazk1TVR4a3NYVDFpZmpreXFCeDZNdFBkQml3?oc=5",
-   "date": "2026-10-27",
-   "source": "Nairametrics",
-   "label": "United Kingdom",
-   "snippet": "The Nigeria Immigration Service (NIS) has further extended its Special Passport Intervention Exercise in the United Kingdom until November 27, 2026, following sustained demand from Nigerians seeking passport services.",
-   "lead": "UK to impose $1,200 levy on universities for Nigerian, other foreign students",
-   "image": "https://cdn.nairametrics.com/wp-content/uploads/2026/09/kemolala.webp",
-   "why": [
-    "Affects citizenship",
-    "Announces a change",
-    "Major story (13 headlines that day)"
-   ],
-   "tags": [
-    "Citizenship",
-    "United Kingdom"
-   ],
    "rank": 6,
    "must_read": false
   },
   {
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 91,
+   "title": "New penalties for fraudulent and unauthorized immigration and citizenship representatives",
+   "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/10/new-penalties-for-fraudulent-and-unauthorized-immigration-and-citizenship-representatives.html",
+   "date": "2026-10-28",
+   "source": "IRCC (Government of Canada)",
+   "label": "Canada",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Affects citizenship",
+    "Official government notice"
+   ],
+   "tags": [
+    "Citizenship",
+    "Canada"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 91,
+   "title": "UK Budget 2026: immigration changes offer targeted relief for employers and universities",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUEtN3o1NUdpSFBUR0o1OHM3VWhUUVE3WVBGaldWek9CSHRuQk04UzRwS0lLMkEwd0E1SkU4VTNMU3ZlV181U0hub2JPN2RJdUViZ3JwVkp6djc3dkhQTFUtRHJZSkVFUE1KRElxUjhVRUVYUHFwWnNUZlhULWVLX2FFcU8?oc=5",
+   "date": "2026-10-28",
+   "source": "Pinsent Masons",
+   "label": "United Kingdom",
+   "snippet": "A series of immigration measures announced by the UK government in its Budget 2026 could provide greater flexibility for employers recruiting overseas talent, despite maintaining the broader objective of reducing net migration, an expert has said.",
+   "lead": "Sectors Services Locations Explore all Sectors Defence & Security Energy & Natural Resources Financial Services Infrastructure Life Sciences & Healthcare Professional & Public Services Real Estate Retail & Consumer Sport & Hospitality Technology, Science & Industry Explore all Defence & Security Explore all Energy & Natural Resources CleanTech Hydrogen, Bioenergy & CCUS Nuclear Oil & Gas Renewables Water & Hydro Explore all Financial ...",
+   "image": "https://www.pinsentmasons.com/-/media/images/seo-social-media/editorial-use-only/government---parliament/social-budget-immigration-pic.jpg?rev=0db58d89e9a64fa9bd50d3a9fa1f3cb2",
+   "why": [
+    "Affects work visas",
+    "Announces a change",
+    "Major story (20 headlines that day)"
+   ],
+   "tags": [
+    "Work visa",
+    "United Kingdom"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
    "desk": "Startups",
-   "score": 12,
-   "priority": 86,
+   "score": 11,
+   "priority": 85,
    "title": "TPG pursues $5 billion acquisition of British data centre group Ark: FT",
    "url": "https://economictimes.indiatimes.com/tech/technology/tpg-pursues-5-billion-acquisition-of-british-data-centre-group-ark-ft/articleshow/135255354.cms",
    "date": "2026-10-28",
@@ -572,13 +601,13 @@
     "Acquisition",
     "Media, Gaming & Creators"
    ],
-   "rank": 7,
+   "rank": 9,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
-   "priority": 86,
+   "score": 11,
+   "priority": 85,
    "title": "US agency approves Amazon Leo's $11.5 billion acquisition of Globalstar",
    "url": "https://economictimes.indiatimes.com/tech/technology/us-agency-approves-amazon-leos-11-5-billion-acquisition-of-globalstar/articleshow/135251028.cms",
    "date": "2026-10-28",
@@ -595,13 +624,13 @@
     "Acquisition",
     "AI & Deeptech"
    ],
-   "rank": 8,
+   "rank": 10,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
-   "priority": 86,
+   "score": 11,
+   "priority": 85,
    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
    "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
    "date": "2026-10-28",
@@ -619,13 +648,13 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 9,
+   "rank": 11,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 13,
-   "priority": 81,
+   "score": 12,
+   "priority": 80,
    "title": "Cabinet approves Dearness Allowance to Central Government employees and Dearness Relief to Pensioners",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329484",
    "date": "2026-10-28",
@@ -641,13 +670,13 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 10,
+   "rank": 12,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 13,
-   "priority": 81,
+   "score": 12,
+   "priority": 80,
    "title": "Cabinet approves Pradhan Mantri Viksit Gram Swaraj Yojana as a Centrally Sponsored Scheme for 2026-27 to 2030-31",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329483",
    "date": "2026-10-28",
@@ -663,37 +692,35 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 11,
+   "rank": 13,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 11,
-   "priority": 79,
-   "title": "RBI may hike repo rate to 6.25% by H1 2027, warns Deutsche Bank as inflation risks persist",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUFNvVV9ZcVdISk1qdm8tOWMyWWJwUFB1eVpfVEd4czFrSTlaS0h6TUQtX0d0S1BoY3hEUlAxM3Atb3JxXzVBTnBJdzBrb0pQOHBXY2k2M2NFaTN4UE5HVldBVEd4VDBlaGRFX0FXVF9ZTjBwMnhrcEpmeUV0N3EzdVpjNGI4LXhIdmkwV3NlbkJNeWliOHpIYnh4SjZvNHFWU1RteGpfSWxHYzRjYTNxdWRlVm9SREswVnZUYjd4ZFhpVUtLVDVDb1JsSGxxQ3l0RE0xOHZZNXnSAd4BQVVfeXFMTXlaV1hRTWJ4MjBfTWFqelFyOWpNNlNkOEloem5DenFuSEY0bHE2MGlScGw5bmE0Vlh6VG1HX19vQ0ZlNVF6elkyYTYtNlpFWFFiVG1hd0VpT0Q1MkVtb3NDZEl4SnZzV2xrNUY0VmJuZlNnd1dCTXpxTEt6T3Flc0FkbmswTVlQLU5Xc01ac01DVFQ5UGd4NHZuYmQyeXNOVGhqUlJueVIwNUcxQmVkSGstcEs4QlZTd181ZTBhV3BzVXl4aGxXUVZfX3hnWnRNWHhVbHFndlpOaV8xQ1Rn?oc=5",
-   "date": "2026-10-27",
-   "source": "Livemint",
-   "label": "Regulatory",
-   "snippet": "The bank expects 100-basis-point monetary tightening as inflationary pressures persist; rupee may weaken beyond 97 per US dollar.",
-   "lead": "Deutsche Bank expects consumer price index inflation to average 6% in October-December 2026. (AI-generated image for representational purposes only) AI Quick Read The Reserve Bank of India (RBI) may raise the repo rate to 6.25% by the first half of 2027, implying cumulative monetary tightening of 100 basis points in the current cycle, as persistent inflationary pressures and resilient economic growth could warrant a tighter monetary ...",
+   "score": 10,
+   "priority": 77,
+   "title": "SEBI to make Direct Plans default on AMC digital platforms from November 1, says Tuhin Kanta Pandey",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZzJhZ2RzUkdZQ1o3S1lvWVVpRWtNT0drTXZpRjJDY3cxVUR4YVhkRmNnakxsdGptaDVEYUtqSUVxODliRTF6Vi1xVGc0OXlfY3FpQmdKNFp2TGJOWVRpZEhpQkNRMTQzbXBhRFlkRjFjdFAyT3JSYk5LT3JWT29mSlFRRXJMcFRqemcwdXBEQkpkNGR6a2NZdWVDZ0gzMm9ZN0tQTEw1ZFhBNVlfbWszT2dNWTcxWTVNX0NLak9jUkUzMzZPTWZKS1ZEVDhpU2F2bnh6YTExdU9UMVhCbTBOeDRBYmtrcXNLdnVWMDlTZDdaMXJuTlRjemV5QdIB-wFBVV95cUxOZzJhZ2RzUkdZQ1o3S1lvWVVpRWtNT0drTXZpRjJDY3cxVUR4YVhkRmNnakxsdGptaDVEYUtqSUVxODliRTF6Vi1xVGc0OXlfY3FpQmdKNFp2TGJOWVRpZEhpQkNRMTQzbXBhRFlkRjFjdFAyT3JSYk5LT3JWT29mSlFRRXJMcFRqemcwdXBEQkpkNGR6a2NZdWVDZ0gzMm9ZN0tQTEw1ZFhBNVlfbWszT2dNWTcxWTVNX0NLak9jUkUzMzZPTWZKS1ZEVDhpU2F2bnh6YTExdU9UMVhCbTBOeDRBYmtrcXNLdnVWMDlTZDdaMXJuTlRjemV5QQ?oc=5",
+   "date": "2026-10-28",
+   "source": "Moneycontrol.com",
+   "label": "Mutual Funds",
+   "snippet": "",
+   "lead": "",
    "image": null,
    "why": [
     "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Also covered by 1 other outlet(s)"
+    "Credit rating change or default"
    ],
    "tags": [
-    "Regulatory",
-    "Banks & Financials"
+    "Mutual Funds"
    ],
-   "rank": 12,
+   "rank": 14,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 11,
-   "priority": 79,
+   "score": 10,
+   "priority": 77,
    "title": "RBI rate hikes: How short-duration funds and high-quality corporate bonds can protect your debt portfolio",
    "url": "https://economictimes.indiatimes.com/mf/analysis/rbi-rate-hikes-how-short-duration-funds-and-high-quality-corporate-bonds-can-protect-your-debt-portfolio/articleshow/135203881.cms",
    "date": "2026-10-26",
@@ -710,71 +737,26 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 9,
-   "priority": 75,
-   "title": "Canada extends work permit measures for Haitians and Sudanese",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmR5UmdJOVZ5SlBNNzBzVnN3NF9JNUlUNlNNV1dJUGZoY3NsdmF4M2ZDbktIUUduVjdrc19fblg2RGNNbTVEb09EQXZzLXc5ei12VkNtMTlzYVZIWUpkclg4Z0VoNlYzNzZUUFRmaFhtaEVPNnMzR2VndVk4dm9xa3ZkWHlCY2pHbExLXzNzdXdnbHl2MEJoWFd4eURtclpoNEpEbklEeFVoUdIBrwFBVV95cUxQUnBSakcyTjVhSHlxNWhJdDJ1SjN1ckludWxPRURNX2w5VE85aURuNmZaZG5MaHZwXzBPSGpaajNKZ1FZa1pla3JKQlczUGtpdkNUcFhtMGFQcDAyOWZJd0s3NlZqM2prVnZILVNMRmFmUFlfZnNndjdERE4wSFZmTzFRcjlGVG55RjhkcG10LVVra1JrMmpaU1R5azBYc045UmZrVGhmR0ZvSmhUR1NF?oc=5",
-   "date": "2026-10-28",
-   "source": "CIC News",
-   "label": "Canada",
-   "snippet": "Canada’s immigration department has extended measures providing work permits for Haitian and Sudanese nationals. In a notice published in its online newsroom on Oct. 27, 2026, Immigration, Refugees and Citizenship Canada (IRCC) announced that the measures, which had been set to expire on the same day, would be extended until Dec. 30, 2027",
-   "lead": "Canada’s immigration department has extended measures providing work permits for Haitian and Sudanese nationals. In a notice published in its online newsroom on Oct. 27, 2026, Immigration, Refugees and Citizenship Canada (IRCC) announced that the measures, which had been set to expire on the same day, would be extended until Dec. 30, 2027. The measures will allow eligible foreign workers to apply to extend their work permits .",
-   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/Haitian-Sudanese-nationals-work-permit-extensions.jpg",
-   "why": [
-    "Affects work visas",
-    "Announces a change"
-   ],
-   "tags": [
-    "Work visa",
-    "Canada"
-   ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 71,
-   "title": "Digital Gold Sales Surge To Rs 2,590 Crore This Festive Season As Retail Buyers Defy Sebi Warning",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQldpSXRwZmFOem0yVG4ya1FKMW56eU55TDFOVF95TC1Kdk9jYVd4MXcySHNjaTR0WDRxdllRNEVFN2VHVTBvUHRYbmpxZnRkVGwzOHI5R1lHc0k4eWhtRnl3UFlydF9fTjBuS0VGd3d4YXBtcnpIS1VtQ2dKYk1hUS1GQ1cwcFVJcEc1MTUxZlphcUJqUUNiRVdxalc4NmZJSG9oZnlXZW1Qai02OGNQZERfYm9xakFXYzV1Mnc1d004RGhlNUdmaXpqSHDSAdoBQVVfeXFMUF94amd2U09WQjBQclhmUFRWdy1qdmNNMnFXUktTVnIzUzBmNjJja2NDUDlMaHpBcVQ2Q2c4MzJ3c1FnTVJUMjdTV18xeGJzb3VTdmtmeGdWa01ub18wTml2cVdTWkFXTmxOaDc3b0ZYWHRROHgtQnlTZGpqVzN5aFk1eTFCVUNscl9PN193VjBYVV9MQ3ZkeHc3Ty1iNW9NUlFHTXZuelhMMldmM1Z3N3dFUE42N3dkcnhOaklybDI2Q3hwb1c2V2dSdnFLSE43c3NrTUpXZWFrMGc?oc=5",
-   "date": "2026-10-27",
-   "source": "Outlook Money",
-   "label": "Gold & Silver",
-   "snippet": "Digital gold sales in India surged 83% to Rs 2,590 crore this festive season despite Sebi's warning that the asset class is unregulated and risky",
-   "lead": "",
-   "image": "https://media.assettype.com/outlookmoney/2026-09-28/bztj560r/digital-gold-regulation.png?w=1200",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Precious metals",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Gold & Silver"
-   ],
    "rank": 15,
    "must_read": false
   },
   {
    "desk": "Advisory",
    "score": 10,
-   "priority": 71,
-   "title": "Fed October Rate Decision Preview: Rate Hike Pause Has Become Consensus, How Will US Stocks, Dollar, and Gold React?",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaEJWVy1lekI1el91eHkwOXpycnN6MEhLNDRBVDhNWDNscmZsbldUYUhfV1pFcTNuWmlKWElIcXk5blJZNWl0VTFGS3hERjlUamJzeHltV2hBR2FBUVNyanc4UXZJOUtWMVY5OGUwZDhxZENHQkkzNW9aUC12dVFCbkdZUkJ3UTgzWGVDMlJ3eTZmaUtNa0JxOFFBaXV3ZGg0RGlHU0xucnlRcWZFbGlxbkZUYV9tWDladXZSQzJMQlJJYzNFZVViazAzaFk3cjJGU0tHN19NQVRCOHpVSjFFS0lTdHhXc0k?oc=5",
-   "date": "2026-10-27",
-   "source": "TradingKey",
+   "priority": 77,
+   "title": "Gold, silver face fresh test as oil surge puts Fed policy decision in focus",
+   "url": "https://www.business-standard.com/markets/news/gold-silver-face-fresh-test-as-oil-surge-puts-fed-policy-decision-in-focus-126102500493_1.html",
+   "date": "2026-10-25",
+   "source": "Business Standard",
    "label": "Gold & Silver",
-   "snippet": "TradingKey - The Federal Reserve will announce its October interest rate decision at 14:00 Eastern Time on October 28, followed by a press conference by Fed Chair Warsh at 14:30. Markets currently widely expect the Fed to hold rates steady after raising rates by 25 basis points in September, maintaining the target range for the federal fu",
-   "lead": "The Federal Reserve is widely expected to maintain the federal funds rate at 3.75%-4.00% on October 28, pausing after a September hike. Stubborn inflation pressures support further tightening, while a cooling labor market and tighter financial conditions provide rationale for a temporary pause. Markets project a high probability of a December rate hike depending on Chair Warsh's commentary. A hawkish stance could strengthen the US ...",
-   "image": "https://resource.tradingkey.com/uploads/20261023/fed-1023-ef2e105d16d347d695e4978afa0489ed.jpg",
+   "snippet": "Gold and silver are expected to face fresh headwinds next week as surging crude oil prices revive inflation concerns, while the US Federal Reserve's policy decision could determine whether bullion rates stabilise or extend their downward trend, analysts said.",
+   "lead": "Gold and silver prices slide as rising crude oil prices and expectations of tighter US monetary policy weigh on bullion. | Image: Adobe Stock Gold and silver are expected to face fresh headwinds next week as surging crude oil prices revive inflation concerns, while the US Federal Reserve's policy decision could determine whether bullion rates stabilise or extend their downward trend, analysts said. The precious metals, already battered ...",
+   "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/07/thumb/fitandfill/1200X628/1775547425-5107.jpeg",
    "why": [
-    "Interest-rate decision",
     "Precious metals",
-    "Global macro driver"
+    "Global macro driver",
+    "Sharp market move",
+    "Also covered by 3 other outlet(s)"
    ],
    "tags": [
     "Gold & Silver"
@@ -784,8 +766,8 @@
   },
   {
    "desk": "Policy",
-   "score": 10,
-   "priority": 62,
+   "score": 9,
+   "priority": 60,
    "title": "Union Minister for MSME Shri Jitan Ram Manjhi releases ₹1,000 Crore Margin Money Subsidy under PMEGP to support 11,333 new Micro Enterprises across India",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329819",
    "date": "2026-10-28",
@@ -806,16 +788,16 @@
   },
   {
    "desk": "Immigration",
-   "score": 7,
-   "priority": 58,
-   "title": "New Zealand introduces four student visa changes 2026",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONnFOWnJUVEpkVmFGTklzWVJSQkU3ckxaMjRFTDJJdnBxd2ZmUGdqU2M3SU1Od3NtQVdxcm5nXzlFcjY2c0loWlZoTDJscGRtV01tbjltUTRENERxdjJfTUdwNDh2a1d5Z0p4YlZhblhmWU9YR2ZTd2xNWkViVFlBZ201MGdOemhOSkprMkl3cEh0MzA5N2N1WW5WRHlBQQ?oc=5",
+   "score": 6,
+   "priority": 55,
+   "title": "Why is New Zealand tightening visa requirements for a group of international students?",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlE2SXlrRDc0QjZJR0pJY1Z0Sk80aUhNRHd6TmNad0F3ZG5qLUcyWnIxVklJZVE1Z3VEOXQ0Q25TOHBjOW1Bd0paOGx2SmVtQ1BnUG5peExrSVYzaGZmMGVTdEw5TlFNSm5SY2FNZWdZV04tbXNLNDNDTnRiN3U0MHhrVlE4SkNlbUFrVA?oc=5",
    "date": "2026-10-28",
-   "source": "Daily Pakistan",
+   "source": "Vietnam.vn",
    "label": "New Zealand",
-   "snippet": "",
-   "lead": "",
-   "image": null,
+   "snippet": "New Zealand has just introduced some adjustments to protect the integrity of student visas, effective from today (October 27), focusing on those not coming for the purpose of studying.",
+   "lead": "English Login Why is New Zealand tightening visa requirements for a group of international students? New Zealand has just introduced some adjustments to protect the integrity of student visas, effective from today (October 27), focusing on those not coming for the purpose of studying. 0 The announcement was made by the New Zealand Immigration Service (INZ) on the same day. Specifically, the agency will revoke the unlimited work permit ...",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/28/1793190633324_tnw-hoi-thao-new-zealand-2025-6-1760358293883439782084-1793188142734202709503-94-0-1434-2560-crop-1793188163418113338576.jpeg",
    "why": [
     "Announces a change"
    ],
@@ -828,8 +810,8 @@
   },
   {
    "desk": "Immigration",
-   "score": 7,
-   "priority": 58,
+   "score": 6,
+   "priority": 55,
    "title": "Switzerland to vote on nuclear power, foie gras and naturalisation in February 2027",
    "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPVDVpbHl2RFFfN1ZqdVF2VGtpcllYX1EzRlkxdlNEZEhibFEwZlVaQmwzLUdrV00ydEwxRVdNZGo3TDdyY3hmWHMwempVUDB2QXZVaXB3QVFHTUx3c0VjVnFSWDBKcU8wYlhRcC1JRFB2dHJNX2N1NVNfYVAxU0x6WFhSVUEwWEp0OFFXa1BlX3MyZFNwVVJCeUVTYzhwRlBKanZBeEh6T0U1TFFwZWtMbTU5RGh2Znc2aXk0OW1PdDRpWE00WUI4VjE5WDFqQ1NNZWlnNWRXVXR5Smtrd0RfS1BSNkZGQlZ0M3lucVJoYkVta2YwdFN5a0RmRWdid0R4NnlTOS0zMXBmM29mcTJPUXQxVUFKM3g4VEJqaXhUR0xMZS1SR3RRSnVQaU1CdndHZGNFTEVLZU1iSU5kTDJ4dTFiNHhQZ1NxM1lwbzJBWDhXcnRCWFhJSEdERDdlbmFLZy1WMU41cjZubjhlcEVn?oc=5",
    "date": "2026-10-28",
@@ -850,8 +832,8 @@
   },
   {
    "desk": "Policy",
-   "score": 9,
-   "priority": 56,
+   "score": 8,
+   "priority": 53,
    "title": "Ministry of Textiles to Open PLI Scheme Portal for accepting new applications from 1st November 2026",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329667",
    "date": "2026-10-28",
@@ -871,8 +853,8 @@
   },
   {
    "desk": "Policy",
-   "score": 9,
-   "priority": 56,
+   "score": 8,
+   "priority": 53,
    "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63876",
    "date": "2026-10-28",
@@ -893,8 +875,8 @@
   },
   {
    "desk": "Policy",
-   "score": 9,
-   "priority": 56,
+   "score": 8,
+   "priority": 53,
    "title": "Monthly Flash Report on Central Sector Infrastructure Projects tracks 1,853 Infrastructure Projects worth ₹37.56 lakh crore as of September 2026",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2328472",
    "date": "2026-10-26",
@@ -916,20 +898,22 @@
   {
    "desk": "Immigration",
    "score": 5,
-   "priority": 42,
-   "title": "Spanish consulate in Rabat introduces new visa appointment procedures",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdC1nNEhWa3N6NXN1SkdBZ1dCZVI1N2pFSmlyd09KQ056VWsxbzJHNmVlOGtBMy02eTFVOHV2ZkQxbndHbnNfenMyRjRZTi0xai1tMUlqRWFzX3EwNXNYZ0NpcElGemZ6RkZ6QmhBOVN5WjlsZnYtVGU4Ml9GZDdVTURCN0loVFNNVzdYN2thcXhlV3VvUnlLcGdwSkpBLUFySUZSbU9GdnY?oc=5",
+   "priority": 45,
+   "title": "Iceland Government Approves Major Residence Permit Bill",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZE1JWVdCWnFaV0V5eDBRUTNqZ3k3TUt3d0hqRFRtSUg3VzNUakU0QWtLUEZaOVhVcTBsMzBZUnhkVDJweHZLNFhZMGMzTmw5X3EyNFlsSldnLUNJakRZemhPWjdvdFhyNG91R3QzSXVVZU82cy03TWtnZ205dWJkdA?oc=5",
    "date": "2026-10-28",
-   "source": "HESPRESS English - Morocco News",
-   "label": "Spain",
-   "snippet": "Spain's Consulate General in Rabat has updated its visa application procedures, introducing new appointment schedules and direct submission arrangements",
-   "lead": "Spain’s Consulate General in Rabat has updated its visa application procedures, introducing new appointment schedules and direct submission arrangements for Schengen and long-stay visas under instructions dated October 23, 2026. For short-stay Schengen visas, appointments through BLS will open on Tuesdays at 5 p.m. for certain first-time training applicants, Wednesdays at 4 p.m. for applicants who held a Schengen visa within the ...",
-   "image": "https://e2.hespress.com/wp-content/overlay/2022/07/visa.webp?v2",
+   "source": "Erickson Immigration Group",
+   "label": "Iceland",
+   "snippet": "Iceland approves a residence permit reform bill covering family reunification, permanent residence, identity checks, and worker protections.",
+   "lead": "",
+   "image": "https://eiglaw.com/wp-content/uploads/2023/08/Iceland.png",
    "why": [
+    "Political signal on immigration",
     "Announces a change"
    ],
    "tags": [
-    "Spain"
+    "Politics / Election",
+    "Iceland"
    ],
    "rank": 23,
    "must_read": false
