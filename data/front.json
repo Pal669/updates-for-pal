@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-28",
- "built": "2026-10-28 11:45 IST",
+ "built": "2026-10-28 22:21 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,44 +12,44 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22616.0,
-   "change_pct": -0.59,
-   "asof": "28 Oct 11:45 IST"
+   "value": 22699.0,
+   "change_pct": -0.22,
+   "asof": "28 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 72992.0,
-   "change_pct": -0.82,
-   "asof": "28 Oct 11:29 IST"
+   "value": 73246.0,
+   "change_pct": -0.48,
+   "asof": "28 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.24,
-   "change_pct": 0.05,
-   "asof": "28 Oct 11:44 IST"
+   "value": 95.22,
+   "change_pct": 0.03,
+   "asof": "28 Oct 21:59 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 111.09,
-   "change_pct": -2.45,
-   "asof": "28 Oct 11:34 IST"
+   "value": 112.42,
+   "change_pct": -1.28,
+   "asof": "28 Oct 22:11 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4043.0,
-   "change_pct": -0.78,
-   "asof": "28 Oct 11:34 IST"
+   "value": 4053.0,
+   "change_pct": -0.54,
+   "asof": "28 Oct 22:11 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 4.99,
-   "change_pct": 0.14,
-   "asof": "28 Oct 00:29 IST"
+   "value": 5.03,
+   "change_pct": 0.78,
+   "asof": "28 Oct 22:06 IST"
   }
  ],
  "features": {
@@ -79,96 +79,163 @@
  },
  "desks": {
   "Policy": {
-   "total": 254,
-   "new_today": 1,
+   "total": 266,
+   "new_today": 13,
    "items": [
     {
      "desk": "Policy",
-     "score": 5,
+     "score": 9,
      "priority": 56,
-     "title": "Factual Report on PM-DAKSH",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326437",
-     "date": "2026-10-22",
-     "source": "PIB",
-     "label": "Banking & Rates",
-     "snippet": "Pradhan Mantri Dakshata Aur Kushalta Sampann Hitgrahi (PM-DAKSH), a Central Sector Scheme, w",
-     "lead": "Ministry of Social Justice & Empowerment Factual Report on PM-DAKSH Posted On: 22 OCT 2026 11:49AM by PIB Delhi 276.47 crores, actual expenditure to the tune of Rs. 309.5 crores has been incurred till date. -- words | -- min read Ministry of Social Justice & Empowerment Factual Report on PM-DAKSH Posted On: 22 OCT 2026 11:49AM by PIB Delhi",
-     "image": null,
-     "why": [
-      "Rates and liquidity"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 5,
-     "priority": 56,
-     "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on October 23, 2026",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63844",
-     "date": "2026-10-22",
+     "title": "Minutes of the Monetary Policy Committee Meeting, October 5 to 7, 2026",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63839",
+     "date": "2026-10-21",
      "source": "RBI",
      "label": "Banking & Rates",
      "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on October 23, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
+     "lead": "The sixty third meeting of the Monetary Policy Committee (MPC), constituted under Section 45ZB of the Reserve Bank of India Act, 1934, was held during October 5, 2026. 2. The meeting was chaired by Shri Sanjay Malhotra, Governor and was attended by all the members – Dr. Nagesh Kumar, Director and Chief Executive, Institute for Studies in Industrial Development, New Delhi; Shri Saugata Bhattacharya, Economist, Mumbai; Professor Ram ...",
      "image": null,
      "why": [
-      "Regulator: RBI",
-      "Large outlay (Rs 10,000 Cr or more)"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 4,
-     "priority": 44,
-     "title": "Extension of timeline for compliance with terms and conditions by Debenture Trustees (DTs) for carrying out activities outside the purview of SEBI",
-     "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-dts-for-carrying-out-activities-outside-the-purview-of-sebi_105454.html",
-     "date": "2026-10-27",
-     "source": "SEBI",
-     "label": "Markets & Regulation",
-     "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
-     "lead": "",
-     "image": null,
-     "why": [
-      "Regulator: SEBI"
-     ],
-     "tags": [
-      "Markets & Regulation"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 4,
-     "priority": 44,
-     "title": "Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility",
-     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13746&Mode=0",
-     "date": "2026-10-27",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Notifications - Reserve Bank of India",
-     "lead": "The Chairman / Managing Director & Chief Executive Officer Lead Banks concerned Re-organisation of districts in the NCT of Delhi – Assignment and Review of Lead Bank Responsibility The Government of National Capital Territory (NCT) of Delhi has notified re-organisation of districts in the NCT of Delhi vide Gazette Notification No. F.223/ SDM-II (HQ)/ Land/2025/285 dated December 25, 2025, whereby three new districts, viz., Old Delhi, ...",
-     "image": null,
-     "why": [
+      "Rates and liquidity",
       "Regulator: RBI"
      ],
      "tags": [
       "Banking & Rates"
      ]
+    },
+    {
+     "desk": "Policy",
+     "score": 8,
+     "priority": 50,
+     "title": "India and Mexico launch Negotiations for Preferential Trade Agreement, Sign Terms of Reference",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329303",
+     "date": "2026-10-28",
+     "source": "PIB",
+     "label": "Tax, Duties & Trade",
+     "snippet": "Mexico and India take an important step towards strengthening their economic and trade relations wit",
+     "lead": "Ministry of Commerce & Industry India and Mexico launch Negotiations for Preferential Trade Agreement, Sign Terms of Reference India and Mexico Discuss Expanding Trade and Investment Ties; PTA Negotiations Cover Key Trade Areas Posted On: 28 OCT 2026 10:38AM by PIB Delhi Mexico and India take an important step towards strengthening their economic and trade relations with the signing of the Terms of Reference for negotiations on a ...",
+     "image": null,
+     "why": [
+      "Trade agreement",
+      "Commerce"
+     ],
+     "tags": [
+      "Tax, Duties & Trade"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 8,
+     "priority": 50,
+     "title": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0",
+     "date": "2026-10-23",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Notifications - Reserve Bank of India",
+     "lead": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026 Please refer to Chapter IV of the Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Directions, 2025 dated November 28, 2025 (hereinafter referred to as ‘the Directions’), on Minimum Capital Requirements for Operational Risk. 2. On a review, and in exercise of the powers conferred by Section 35A of the Banking ...",
+     "image": null,
+     "why": [
+      "Regulator rulebook change",
+      "Rule change",
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 8,
+     "priority": 50,
+     "title": "India and New Zealand sign Memorandum of Cooperation (MoC) on Electronic Origin Data Exchange to Facilitate Bilateral Trade Under the India-New Zealand Free Trade Agreement (FTA)",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326043",
+     "date": "2026-10-21",
+     "source": "PIB",
+     "label": "Tax, Duties & Trade",
+     "snippet": "The Central Board of Indirect Taxes and Customs (CBIC), India, and the New Zealand Customs Service (",
+     "lead": "Ministry of Finance India and New Zealand sign Memorandum of Cooperation (MoC) on Electronic Origin Data Exchange to Facilitate Bilateral Trade Under the India-New Zealand Free Trade Agreement (FTA) India-New Zealand MoC will deepen Customs cooperation and support effective implementation of trade facilitation measures Posted On: 21 OCT 2026 5:02PM by PIB Delhi The Central Board of Indirect Taxes and Customs (CBIC), India, and the New ...",
+     "image": null,
+     "why": [
+      "Trade agreement",
+      "Ministry of Finance"
+     ],
+     "tags": [
+      "Tax, Duties & Trade"
+     ]
     }
    ]
   },
   "Startups": {
-   "total": 996,
-   "new_today": 12,
+   "total": 1015,
+   "new_today": 31,
    "items": [
     {
      "desk": "Startups",
      "score": 11,
-     "priority": 85,
+     "priority": 79,
+     "title": "Info Edge Q2 Profit Jumps 87% YoY To ₹650 Cr, Declares ₹3 Interim Dividend",
+     "url": "https://inc42.com/buzz/info-edge-q2-profit-jumps-87-yoy-to-%e2%82%b9650-cr-declares-%e2%82%b93-interim-dividend/",
+     "date": "2026-10-28",
+     "source": "Inc42",
+     "label": "India · Other",
+     "snippet": "Info Edge reported an 87% jump in its consolidated net profit for Q2 FY27 to ₹649.8 Cr from ₹347.5 Cr in the year-ago period",
+     "lead": "Info Edge’s consolidated net profit jumped 87% to ₹649.8 Cr in Q2 FY27 from ₹347.5 Cr a year earlier. Other income surged 164.8% to ₹428.4 Cr, helping profit growth outpace the 12.2% increase in operating revenue. The board declared a ₹3 interim dividend per share, with November 6 as the record date and payment on or after November 23.",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/02/Info-Edge-Q3-social.jpg",
+     "why": [
+      "Financials",
+      "Sizeable deal (about $68M)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Financials"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 79,
+     "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+     "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+     "date": "2026-10-28",
+     "source": "TechCrunch",
+     "label": "Global · Mobility & EV",
+     "snippet": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
+     "lead": "Re:Build, which spun out Slate Auto, raises $2.1B Sean O'Kane 1:31 PM PDT · October 27, 2026 Re:Build, the Massachusetts-based manufacturing accelerator that spun out EV startup Slate Auto in 2023, has raised $2.1 billion The company said Tuesday that it will use the funding to “expand Re:Build’s capacity to manufacture hard tech products and launch new industrial startups,” which will “ensure the most innovative products can be made ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/06/slate-auto-truck-tesla-charging.jpg?resize=1200,800",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $2,100M: round or valuation)"
+     ],
+     "tags": [
+      "Funding",
+      "Mobility & EV"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 79,
+     "title": "Intel to buy quantum firm Classiq for about $2.3 billion: Report",
+     "url": "https://economictimes.indiatimes.com/tech/technology/intel-to-buy-quantum-firm-classiq-for-about-2-3-billion-report/articleshow/135236833.cms",
+     "date": "2026-10-27",
+     "source": "ET Startups",
+     "label": "Global · AI & Deeptech",
+     "snippet": "The Israeli startup would also add quantum processors to Intel's lineup, which already includes central processing units and graphics processors. Intel said it plans to keep Classiq's software compatible with other companies' hardware after the deal closes.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1348465,resizemode-75,msid-135236833/tech/technology/intel-to-buy-quantum-firm-classiq-for-about-2-3-billion-report.jpg",
+     "why": [
+      "Acquisition",
+      "Very large figure in headline (about $2,300M: round or valuation)"
+     ],
+     "tags": [
+      "Acquisition",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 79,
      "title": "DoorDash in talks to buy Instacart in roughly $17 billion deal",
      "url": "https://economictimes.indiatimes.com/tech/technology/doordash-in-talks-to-buy-instacart-in-roughly-17-billion-deal/articleshow/135222954.cms",
      "date": "2026-10-27",
@@ -185,81 +252,36 @@
       "Acquisition",
       "Commerce & D2C"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 85,
-     "title": "Anthropic files for IPO even as losses surge to $80B",
-     "url": "https://yourstory.com/2026/10/anthropic-files-for-ipo-even-as-losses-surge-to-80-billion",
-     "date": "2026-10-26",
-     "source": "YourStory",
-     "label": "India · Other",
-     "snippet": "Anthropic will be listed on the Nasdaq stock exchange and will trade under the name of ANT.",
-     "lead": "Anthropic files for IPO even as losses surge to $80B Anthropic will be listed on the Nasdaq stock exchange and will trade under the name of ANT. Team YS 17430 Stories Monday October 26, 2026 , 2 min Read Anthropic, one of the leading artificial intelligence (AI) companies and the developer of the large language model Claude, has filed for an initial public offering (IPO), moving closer to becoming a publicly listed company. The company ...",
-     "image": "https://images.the-captable.com/cs/158/11718bd02d6d11e9aa979329348d4c3e/AnthropicFeatureImage-1791172568483.jpg",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $80,000M: round or valuation)"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 85,
-     "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-     "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-     "date": "2026-10-23",
-     "source": "TechCrunch",
-     "label": "Global · Other",
-     "snippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-     "lead": "OpenAI is reportedly close to securing another mega round of private funding, rather than plowing ahead with an IPO. The AI lab is working on raising up to $30 billion at a $1.25 trillion pre-money valuation in a round led by Coatue and investors in UAE, sources told CNBC . This follows a similar report by Bloomberg a month ago which said the AI lab was working on raising $30 billion at a $1.4 trillion valuation. Terms are still being ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $30,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 85,
-     "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
-     "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
-     "date": "2026-10-22",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
-     "lead": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion. The company helps automate and assist with workflow tasks for legal professionals, as the industry moves beyond AI assistants to AI services that help them get work done. The news comes just a month after Harvey, Legora’s biggest competitor, announced a $550 million raise at a $15.5 billion valuation; back in March, ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2296593553.jpg?w=1024",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $8,800M: round or valuation)",
-      "Valuation, listing or profitability signal",
-      "Also covered by 1 other outlet(s)"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 1489,
-   "new_today": 19,
+   "total": 1500,
+   "new_today": 43,
    "items": [
     {
      "desk": "Immigration",
      "score": 5,
-     "priority": 45,
+     "priority": 42,
+     "title": "S. Korean FM Cho, Rubio set to talk US visa delay",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM1R2clBoZVpWWlN0Q2FIZG5jMHJ0WmxmRkVYdEtZN2g5RkhzcE1kN2c4MGdkX2phaGlMMmpuTVpNWkQzU0pna01KN2JHRVV6cGtpNzNLSF9heDVRQnpMMDYyNmNQZ0N5SlRvRHlITnhmd3ZXZGx4ZkQ1aHlGY2s4cnVOZDh5N29nbWRBU0l5V09qUFJjVnh1cQ?oc=5",
+     "date": "2026-10-27",
+     "source": "Breakingthenews.net",
+     "label": "South Korea",
+     "snippet": "South Korean Foreign Minister Cho Hyun (pictured left) stated he plans to meet United States Secretary of State Marco Rubio (pictured right) during his upcoming trip to the US to hold bilateral talk, ...",
+     "lead": "",
+     "image": "https://cdn.ttweb.net/News/images/409134.jpg?preset=w800_q70",
+     "why": [
+      "Announces a change"
+     ],
+     "tags": [
+      "South Korea"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 42,
      "title": "Why is Japan tightening its immigration rules?",
      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLUFvMDAxNURVcmVscUUxS0haSGxsdXZvUHZwRDd3ODdkOXN5VGYwdnk2cnJrdmI5MWhEQkxuak05akNrUUZDYWZZNzFoTVNlRUMyS09RaS1PS0IxN3dyTWNoMDhSSHl2SFdoY1JvTWVjdUl5d1dKUmt5NXk0T3hjOQ?oc=5",
      "date": "2026-10-26",
@@ -278,7 +300,7 @@
     {
      "desk": "Immigration",
      "score": 5,
-     "priority": 45,
+     "priority": 42,
      "title": "Three years of volunteering can shorten the path to Austrian citizenship",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXB4eUxlbXh6T1hiZ2dpRHhnUXlfcHZpR0JBclpVUDdwRzJBTTVkRXBzT2tlaE1zSTZGUzBOQlJ2bWVhNTloQjJXOGZjVVZUYUtJSk4zZDFJRmt1cUJ2ajZvYnNEZzBWUkVwWTFWN29Ib1hyT3RrQm9yM2VpWmtCQkM1RmpFbmNwcFdadnBHaTJLYTZwZHNJTUdGWdIBoAFBVV95cUxNTnpDVXRteV9NTE03czRFeDFiV2hPWDVJYlBNTjBOekxtODdOTnAtQXJLN2RGLXhtdEtWblJlRlRDS0NCR214ZUhhc1V2X3pkWVZMTGxPelJsZmV5WEhYeC1TM2MyX2l1Vkw2ZlVLN0hlWWpvZnZXSURHUEhocDR4d0Q4LWJkT2ptcS00Z29ObHFXTndWMXRZc1ZpZ0JQcUFj?oc=5",
      "date": "2026-10-26",
@@ -293,26 +315,6 @@
      "tags": [
       "Citizenship",
       "Austria"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 45,
-     "title": "Does volunteering increase your chances of getting Swiss citizenship?",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMktfejN4bVVIc2JYZVNEd2licEhTY2F6SnZFcENrM1hiY1NmS2tTT3pELThZcjlLc0gtMnFrNlhPVnhJbldsSDlfcktZaXVONVJQRW5XS016Vmc4S1VucEFQRmp1SU1BbVp1UGZJMUNBNGRyOXpSSlFOYnBTSElNOWhiOS11YmwxR3NVTHM4OFJtZXdjaG95QTdlbTRzRkxNSUNn?oc=5",
-     "date": "2026-10-23",
-     "source": "The Local Switzerland",
-     "label": "Switzerland",
-     "snippet": "In Austria, foreign nationals may qualify for citizenship sooner if they have completed at least three years of voluntary work. Is there a similar rule in Switzerland as well?",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden 1 comment Add The Local as a preferred source In Austria, foreign nationals may qualify for citizenship sooner if they have completed at least three years of voluntary work. Is there a similar rule in Switzerland as well? Concretely, Austrian law ...",
-     "image": null,
-     "why": [
-      "Affects citizenship"
-     ],
-     "tags": [
-      "Citizenship",
-      "Switzerland"
      ]
     }
    ]
@@ -409,43 +411,43 @@
  },
  "items": [
   {
-   "desk": "Startups",
-   "score": 13,
+   "desk": "Policy",
+   "score": 16,
    "priority": 100,
-   "title": "Exclusive: Lovable offers employees $80m cash-out at $13.3bn valuation",
-   "url": "https://sifted.eu/articles/lovable-employee-share-sale/",
+   "title": "Cabinet approves Container Manufacturing Promotion Scheme",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329476",
    "date": "2026-10-28",
-   "source": "Sifted",
-   "label": "Global · Other",
-   "snippet": "Employees at Swedish vibe-coding startup Lovable have been given the chance to cash out $80m in shares between them.",
-   "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
-   "image": "https://content.sifted.eu/wp-content/uploads/2025/09/15155020/Summer-2025-Lovable-Team-Picture.webp",
+   "source": "PIB",
+   "label": "Industry & Manufacturing",
+   "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the Container Manu",
+   "lead": "Cabinet Cabinet approves Container Manufacturing Promotion Scheme Posted On: 28 OCT 2026 3:42PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the Container Manufacturing Promotion Scheme (CMPS) with budgetary outlay of Rs.10,000 crore upto FY 2039-40 envisages to establish a globally competitive container manufacturing ecosystem in India, reduce import dependence and strengthen ...",
+   "image": null,
    "why": [
-    "Funding",
-    "Very large figure in headline (about $13,300M: round or valuation)",
-    "Valuation, listing or profitability signal"
+    "Cabinet decision",
+    "Cabinet",
+    "Large outlay (Rs 10,000 Cr or more)"
    ],
    "tags": [
-    "Funding"
+    "Industry & Manufacturing"
    ],
    "rank": 1,
    "must_read": true
   },
   {
    "desk": "Startups",
-   "score": 13,
+   "score": 14,
    "priority": 100,
-   "title": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion",
-   "url": "https://yourstory.com/2026/10/ather-turns-profitable-after-rs-154-cr-loss-meta-ai-expansion",
-   "date": "2026-10-27",
-   "source": "YourStory",
+   "title": "Cognizant In Talks To Invest In Sarvam At $3.5 Bn To $4 Bn Valuation: Report",
+   "url": "https://inc42.com/buzz/cognizant-in-talks-to-invest-in-sarvam-at-3-5-bn-to-4-bn-valuation-report/",
+   "date": "2026-10-28",
+   "source": "Inc42",
    "label": "India · AI & Deeptech",
-   "snippet": "Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand.",
-   "lead": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand. Team YS 17432 Stories Tuesday October 27, 2026 , 4 min Read MakeMyTrip is back in the black! The travel booking platform reported a net profit of $1.8 ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/2026-CopyofNewPPTTemplates6-1793024916362.png",
+   "snippet": "Cognizant is reportedly in talks to invest in Sarvam AI at a $3.5-4 Bn valuation, following HCLTech’s $150 Mn investment in the AI unicorn",
+   "lead": "Cognizant is reportedly in talks to invest in Sarvam AI as part of a proposed $300 Mn fundraise at a $3.5-4 Bn valuation The investment could make Cognizant the second IT services major on Sarvam’s cap table after HCLTech, as IT companies seek to strengthen their AI capabilities Sarvam raised $234 Mn in the first close of its $300 Mn Series B in June at a $1.5 Bn valuation, with HCLTech investing $150 Mn",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Sarvam-Open-Source-Story-social.jpg",
    "why": [
     "Funding",
-    "Very large figure in headline (about $35,000M: round or valuation)",
+    "Very large figure in headline (about $4,000M: round or valuation)",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
@@ -453,30 +455,6 @@
     "AI & Deeptech"
    ],
    "rank": 2,
-   "must_read": true
-  },
-  {
-   "desk": "Immigration",
-   "score": 11,
-   "priority": 100,
-   "title": "Nigeria Immigration Service extends UK passport intervention exercise to November 27",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNVo1RlBoeW5HV1RLcWR2bzNtSDFZd3N3R29veFA1ZUFCZGhicnBDNVNTZE9mbmJXRVVTa2tUajFwTFFubjNsMS1xM3liUW9vNXdrX0dHYUtQd1AyOXdsS2JXblNRVkYzQng2S1hxYU1LNTRmR1Z4UWxYcU04SHRDR1MyNmszMjZobDBlSGg4aDc1WFIxTkxJclFmRVFLNUl4X1VCazk1TVR4a3NYVDFpZmpreXFCeDZNdFBkQml3?oc=5",
-   "date": "2026-10-27",
-   "source": "Nairametrics",
-   "label": "United Kingdom",
-   "snippet": "The Nigeria Immigration Service (NIS) has further extended its Special Passport Intervention Exercise in the United Kingdom until November 27, 2026, following sustained demand from Nigerians seeking passport services.",
-   "lead": "UK to impose $1,200 levy on universities for Nigerian, other foreign students",
-   "image": "https://cdn.nairametrics.com/wp-content/uploads/2026/09/kemolala.webp",
-   "why": [
-    "Affects citizenship",
-    "Announces a change",
-    "Major story (13 headlines that day)"
-   ],
-   "tags": [
-    "Citizenship",
-    "United Kingdom"
-   ],
-   "rank": 3,
    "must_read": true
   },
   {
@@ -500,49 +478,76 @@
    "tags": [
     "Regulatory"
    ],
+   "rank": 3,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 13,
+   "priority": 93,
+   "title": "Exclusive: Lovable offers employees $80m cash-out at $13.3bn valuation",
+   "url": "https://sifted.eu/articles/lovable-employee-share-sale/",
+   "date": "2026-10-28",
+   "source": "Sifted",
+   "label": "Global · Other",
+   "snippet": "Employees at Swedish vibe-coding startup Lovable have been given the chance to cash out $80m in shares between them.",
+   "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
+   "image": "https://content.sifted.eu/wp-content/uploads/2025/09/15155020/Summer-2025-Lovable-Team-Picture.webp",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $13,300M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding"
+   ],
    "rank": 4,
    "must_read": true
   },
   {
-   "desk": "Policy",
-   "score": 9,
-   "priority": 100,
-   "title": "Monthly Flash Report on Central Sector Infrastructure Projects tracks 1,853 Infrastructure Projects worth ₹37.56 lakh crore as of September 2026",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2328472",
-   "date": "2026-10-26",
-   "source": "PIB",
-   "label": "Banking & Rates",
-   "snippet": "Some of the Big-Ticket Projects completed\r\n\r\no Project – “Buxar Thermal Power Project [1320 MW]” (₹1",
-   "lead": "Ministry of Statistics & Programme Implementation Monthly Flash Report on Central Sector Infrastructure Projects tracks 1,853 Infrastructure Projects worth ₹37.56 lakh crore as of September 2026 ₹17.73 Lakh Crore Spent on Ongoing Infrastructure Projects, accounting for approx. 47% of Latest Project Cost (₹37.56 lakh crore) Transport & Logistics and Energy Sectors Account for 83.4% (1545) of the Total Projects 1853 under Monitoring ...",
-   "image": null,
+   "desk": "Startups",
+   "score": 13,
+   "priority": 93,
+   "title": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion",
+   "url": "https://yourstory.com/2026/10/ather-turns-profitable-after-rs-154-cr-loss-meta-ai-expansion",
+   "date": "2026-10-27",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand.",
+   "lead": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand. Team YS 17432 Stories Tuesday October 27, 2026 , 4 min Read MakeMyTrip is back in the black! The travel booking platform reported a net profit of $1.8 ...",
+   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/2026-CopyofNewPPTTemplates6-1793024916362.png",
    "why": [
-    "Rates and liquidity",
-    "Large outlay (Rs 10,000 Cr or more)"
+    "Funding",
+    "Very large figure in headline (about $35,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Banking & Rates"
+    "Funding",
+    "AI & Deeptech"
    ],
    "rank": 5,
    "must_read": true
   },
   {
-   "desk": "Policy",
-   "score": 9,
-   "priority": 100,
-   "title": "Minutes of the Monetary Policy Committee Meeting, October 5 to 7, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63839",
-   "date": "2026-10-21",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The sixty third meeting of the Monetary Policy Committee (MPC), constituted under Section 45ZB of the Reserve Bank of India Act, 1934, was held during October 5, 2026. 2. The meeting was chaired by Shri Sanjay Malhotra, Governor and was attended by all the members – Dr. Nagesh Kumar, Director and Chief Executive, Institute for Studies in Industrial Development, New Delhi; Shri Saugata Bhattacharya, Economist, Mumbai; Professor Ram ...",
-   "image": null,
+   "desk": "Immigration",
+   "score": 11,
+   "priority": 92,
+   "title": "Nigeria Immigration Service extends UK passport intervention exercise to November 27",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNVo1RlBoeW5HV1RLcWR2bzNtSDFZd3N3R29veFA1ZUFCZGhicnBDNVNTZE9mbmJXRVVTa2tUajFwTFFubjNsMS1xM3liUW9vNXdrX0dHYUtQd1AyOXdsS2JXblNRVkYzQng2S1hxYU1LNTRmR1Z4UWxYcU04SHRDR1MyNmszMjZobDBlSGg4aDc1WFIxTkxJclFmRVFLNUl4X1VCazk1TVR4a3NYVDFpZmpreXFCeDZNdFBkQml3?oc=5",
+   "date": "2026-10-27",
+   "source": "Nairametrics",
+   "label": "United Kingdom",
+   "snippet": "The Nigeria Immigration Service (NIS) has further extended its Special Passport Intervention Exercise in the United Kingdom until November 27, 2026, following sustained demand from Nigerians seeking passport services.",
+   "lead": "UK to impose $1,200 levy on universities for Nigerian, other foreign students",
+   "image": "https://cdn.nairametrics.com/wp-content/uploads/2026/09/kemolala.webp",
    "why": [
-    "Rates and liquidity",
-    "Regulator: RBI"
+    "Affects citizenship",
+    "Announces a change",
+    "Major story (13 headlines that day)"
    ],
    "tags": [
-    "Banking & Rates"
+    "Citizenship",
+    "United Kingdom"
    ],
    "rank": 6,
    "must_read": false
@@ -550,7 +555,30 @@
   {
    "desk": "Startups",
    "score": 12,
-   "priority": 92,
+   "priority": 86,
+   "title": "TPG pursues $5 billion acquisition of British data centre group Ark: FT",
+   "url": "https://economictimes.indiatimes.com/tech/technology/tpg-pursues-5-billion-acquisition-of-british-data-centre-group-ark-ft/articleshow/135255354.cms",
+   "date": "2026-10-28",
+   "source": "ET Startups",
+   "label": "Global · Media, Gaming & Creators",
+   "snippet": "Global alternative asset manager TPG is in talks to buy British data centre group Ark from Elliott Investment Management at a valuation of about $5 billion, the Financial Times reported on Wednesday, citing people familiar with the matter.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1166321,resizemode-75,msid-135255354/tech/technology/tpg-pursues-5-billion-acquisition-of-british-data-centre-group-ark-ft.jpg",
+   "why": [
+    "Acquisition",
+    "Very large figure in headline (about $5,000M: round or valuation)"
+   ],
+   "tags": [
+    "Acquisition",
+    "Media, Gaming & Creators"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 86,
    "title": "US agency approves Amazon Leo's $11.5 billion acquisition of Globalstar",
    "url": "https://economictimes.indiatimes.com/tech/technology/us-agency-approves-amazon-leos-11-5-billion-acquisition-of-globalstar/articleshow/135251028.cms",
    "date": "2026-10-28",
@@ -567,13 +595,13 @@
     "Acquisition",
     "AI & Deeptech"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
    "desk": "Startups",
    "score": 12,
-   "priority": 92,
+   "priority": 86,
    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
    "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
    "date": "2026-10-28",
@@ -591,143 +619,51 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 89,
-   "title": "India and Mexico launch Negotiations for Preferential Trade Agreement, Sign Terms of Reference",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329303",
-   "date": "2026-10-28",
-   "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "Mexico and India take an important step towards strengthening their economic and trade relations wit",
-   "lead": "Ministry of Commerce & Industry India and Mexico launch Negotiations for Preferential Trade Agreement, Sign Terms of Reference India and Mexico Discuss Expanding Trade and Investment Ties; PTA Negotiations Cover Key Trade Areas Posted On: 28 OCT 2026 10:38AM by PIB Delhi Mexico and India take an important step towards strengthening their economic and trade relations with the signing of the Terms of Reference for negotiations on a ...",
-   "image": null,
-   "why": [
-    "Trade agreement",
-    "Commerce"
-   ],
-   "tags": [
-    "Tax, Duties & Trade"
-   ],
    "rank": 9,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 8,
-   "priority": 89,
-   "title": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0",
-   "date": "2026-10-23",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026 Please refer to Chapter IV of the Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Directions, 2025 dated November 28, 2025 (hereinafter referred to as ‘the Directions’), on Minimum Capital Requirements for Operational Risk. 2. On a review, and in exercise of the powers conferred by Section 35A of the Banking ...",
+   "score": 13,
+   "priority": 81,
+   "title": "Cabinet approves Dearness Allowance to Central Government employees and Dearness Relief to Pensioners",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329484",
+   "date": "2026-10-28",
+   "source": "PIB",
+   "label": "Labour & Social",
+   "snippet": "The Union Cabinet chaired by the Prime Minister Shri Narendra Modi today has approved to release an",
+   "lead": "Cabinet Cabinet approves Dearness Allowance to Central Government employees and Dearness Relief to Pensioners Posted On: 28 OCT 2026 3:50PM by PIB Delhi The Union Cabinet chaired by the Prime Minister Shri Narendra Modi today has approved to release an additional instalment of Dearness Allowance (DA) to Central Government employees and Dearness Relief (DR) to pensioners w.e.f. 01.07.2026 representing an increase of 3% over the existing ...",
    "image": null,
    "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Regulator: RBI"
+    "Cabinet decision",
+    "Cabinet"
    ],
    "tags": [
-    "Banking & Rates"
+    "Labour & Social"
    ],
    "rank": 10,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 8,
-   "priority": 89,
-   "title": "India and New Zealand sign Memorandum of Cooperation (MoC) on Electronic Origin Data Exchange to Facilitate Bilateral Trade Under the India-New Zealand Free Trade Agreement (FTA)",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326043",
-   "date": "2026-10-21",
+   "score": 13,
+   "priority": 81,
+   "title": "Cabinet approves Pradhan Mantri Viksit Gram Swaraj Yojana as a Centrally Sponsored Scheme for 2026-27 to 2030-31",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329483",
+   "date": "2026-10-28",
    "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "The Central Board of Indirect Taxes and Customs (CBIC), India, and the New Zealand Customs Service (",
-   "lead": "Ministry of Finance India and New Zealand sign Memorandum of Cooperation (MoC) on Electronic Origin Data Exchange to Facilitate Bilateral Trade Under the India-New Zealand Free Trade Agreement (FTA) India-New Zealand MoC will deepen Customs cooperation and support effective implementation of trade facilitation measures Posted On: 21 OCT 2026 5:02PM by PIB Delhi The Central Board of Indirect Taxes and Customs (CBIC), India, and the New ...",
+   "label": "Labour & Social",
+   "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved a Centrally Sponso",
+   "lead": "Cabinet Cabinet approves Pradhan Mantri Viksit Gram Swaraj Yojana as a Centrally Sponsored Scheme for 2026-27 to 2030-31 Posted On: 28 OCT 2026 3:48PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved a Centrally Sponsored Scheme (CSS), namely, the Pradhan Mantri Viksit Gram Swaraj Yojana (PM VGSY), a next-generation governance transformation initiative aligned with the national vision of ...",
    "image": null,
    "why": [
-    "Trade agreement",
-    "Ministry of Finance"
+    "Cabinet decision",
+    "Cabinet"
    ],
    "tags": [
-    "Tax, Duties & Trade"
+    "Labour & Social"
    ],
    "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
-   "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
-   "date": "2026-10-28",
-   "source": "TechCrunch",
-   "label": "Global · Mobility & EV",
-   "snippet": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
-   "lead": "Re:Build, which spun out Slate Auto, raises $2.1B Sean O'Kane 1:31 PM PDT · October 27, 2026 Re:Build, the Massachusetts-based manufacturing accelerator that spun out EV startup Slate Auto in 2023, has raised $2.1 billion The company said Tuesday that it will use the funding to “expand Re:Build’s capacity to manufacture hard tech products and launch new industrial startups,” which will “ensure the most innovative products can be made ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/06/slate-auto-truck-tesla-charging.jpg?resize=1200,800",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $2,100M: round or valuation)"
-   ],
-   "tags": [
-    "Funding",
-    "Mobility & EV"
-   ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "Intel to buy quantum firm Classiq for about $2.3 billion: Report",
-   "url": "https://economictimes.indiatimes.com/tech/technology/intel-to-buy-quantum-firm-classiq-for-about-2-3-billion-report/articleshow/135236833.cms",
-   "date": "2026-10-27",
-   "source": "ET Startups",
-   "label": "Global · AI & Deeptech",
-   "snippet": "The Israeli startup would also add quantum processors to Intel's lineup, which already includes central processing units and graphics processors. Intel said it plans to keep Classiq's software compatible with other companies' hardware after the deal closes.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1348465,resizemode-75,msid-135236833/tech/technology/intel-to-buy-quantum-firm-classiq-for-about-2-3-billion-report.jpg",
-   "why": [
-    "Acquisition",
-    "Very large figure in headline (about $2,300M: round or valuation)"
-   ],
-   "tags": [
-    "Acquisition",
-    "AI & Deeptech"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 9,
-   "priority": 82,
-   "title": "Canada extends work permit measures for Haitians and Sudanese",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmR5UmdJOVZ5SlBNNzBzVnN3NF9JNUlUNlNNV1dJUGZoY3NsdmF4M2ZDbktIUUduVjdrc19fblg2RGNNbTVEb09EQXZzLXc5ei12VkNtMTlzYVZIWUpkclg4Z0VoNlYzNzZUUFRmaFhtaEVPNnMzR2VndVk4dm9xa3ZkWHlCY2pHbExLXzNzdXdnbHl2MEJoWFd4eURtclpoNEpEbklEeFVoUdIBrwFBVV95cUxQUnBSakcyTjVhSHlxNWhJdDJ1SjN1ckludWxPRURNX2w5VE85aURuNmZaZG5MaHZwXzBPSGpaajNKZ1FZa1pla3JKQlczUGtpdkNUcFhtMGFQcDAyOWZJd0s3NlZqM2prVnZILVNMRmFmUFlfZnNndjdERE4wSFZmTzFRcjlGVG55RjhkcG10LVVra1JrMmpaU1R5azBYc045UmZrVGhmR0ZvSmhUR1NF?oc=5",
-   "date": "2026-10-28",
-   "source": "CIC News",
-   "label": "Canada",
-   "snippet": "Canada’s immigration department has extended measures providing work permits for Haitian and Sudanese nationals. In a notice published in its online newsroom on Oct. 27, 2026, Immigration, Refugees and Citizenship Canada (IRCC) announced that the measures, which had been set to expire on the same day, would be extended until Dec. 30, 2027",
-   "lead": "Canada’s immigration department has extended measures providing work permits for Haitian and Sudanese nationals. In a notice published in its online newsroom on Oct. 27, 2026, Immigration, Refugees and Citizenship Canada (IRCC) announced that the measures, which had been set to expire on the same day, would be extended until Dec. 30, 2027. The measures will allow eligible foreign workers to apply to extend their work permits .",
-   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/Haitian-Sudanese-nationals-work-permit-extensions.jpg",
-   "why": [
-    "Affects work visas",
-    "Announces a change"
-   ],
-   "tags": [
-    "Work visa",
-    "Canada"
-   ],
-   "rank": 14,
    "must_read": false
   },
   {
@@ -751,7 +687,7 @@
     "Regulatory",
     "Banks & Financials"
    ],
-   "rank": 15,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -774,29 +710,30 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 16,
+   "rank": 13,
    "must_read": false
   },
   {
-   "desk": "Policy",
-   "score": 7,
-   "priority": 78,
-   "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on October 26, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63861",
-   "date": "2026-10-23",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Monday, October 26, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
-   "image": null,
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 75,
+   "title": "Canada extends work permit measures for Haitians and Sudanese",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmR5UmdJOVZ5SlBNNzBzVnN3NF9JNUlUNlNNV1dJUGZoY3NsdmF4M2ZDbktIUUduVjdrc19fblg2RGNNbTVEb09EQXZzLXc5ei12VkNtMTlzYVZIWUpkclg4Z0VoNlYzNzZUUFRmaFhtaEVPNnMzR2VndVk4dm9xa3ZkWHlCY2pHbExLXzNzdXdnbHl2MEJoWFd4eURtclpoNEpEbklEeFVoUdIBrwFBVV95cUxQUnBSakcyTjVhSHlxNWhJdDJ1SjN1ckludWxPRURNX2w5VE85aURuNmZaZG5MaHZwXzBPSGpaajNKZ1FZa1pla3JKQlczUGtpdkNUcFhtMGFQcDAyOWZJd0s3NlZqM2prVnZILVNMRmFmUFlfZnNndjdERE4wSFZmTzFRcjlGVG55RjhkcG10LVVra1JrMmpaU1R5azBYc045UmZrVGhmR0ZvSmhUR1NF?oc=5",
+   "date": "2026-10-28",
+   "source": "CIC News",
+   "label": "Canada",
+   "snippet": "Canada’s immigration department has extended measures providing work permits for Haitian and Sudanese nationals. In a notice published in its online newsroom on Oct. 27, 2026, Immigration, Refugees and Citizenship Canada (IRCC) announced that the measures, which had been set to expire on the same day, would be extended until Dec. 30, 2027",
+   "lead": "Canada’s immigration department has extended measures providing work permits for Haitian and Sudanese nationals. In a notice published in its online newsroom on Oct. 27, 2026, Immigration, Refugees and Citizenship Canada (IRCC) announced that the measures, which had been set to expire on the same day, would be extended until Dec. 30, 2027. The measures will allow eligible foreign workers to apply to extend their work permits .",
+   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/Haitian-Sudanese-nationals-work-permit-extensions.jpg",
    "why": [
-    "Rates and liquidity",
-    "Regulator: RBI"
+    "Affects work visas",
+    "Announces a change"
    ],
    "tags": [
-    "Banking & Rates"
+    "Work visa",
+    "Canada"
    ],
-   "rank": 17,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -819,7 +756,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 18,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -842,16 +779,103 @@
    "tags": [
     "Gold & Silver"
    ],
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 62,
+   "title": "Union Minister for MSME Shri Jitan Ram Manjhi releases ₹1,000 Crore Margin Money Subsidy under PMEGP to support 11,333 new Micro Enterprises across India",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329819",
+   "date": "2026-10-28",
+   "source": "PIB",
+   "label": "Infrastructure & Transport",
+   "snippet": "The Ministry of Micro, Small and Medium Enterprises (MSME), Government of India, achieved another si",
+   "lead": "Ministry of Micro,Small & Medium Enterprises Union Minister for MSME Shri Jitan Ram Manjhi releases ₹1,000 Crore Margin Money Subsidy under PMEGP to support 11,333 new Micro Enterprises across India Landmark PMEGP support facilitates Bank Credit of ₹3,260 Crore, generates over 1.02 lakh sustainable employment opportunities and promotes Inclusive Entrepreneurship in rural India Posted On: 28 OCT 2026 9:29PM by PIB Delhi The Ministry of ...",
+   "image": null,
+   "why": [
+    "Subsidy or incentive",
+    "Rule change"
+   ],
+   "tags": [
+    "Infrastructure & Transport"
+   ],
+   "rank": 17,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 58,
+   "title": "New Zealand introduces four student visa changes 2026",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONnFOWnJUVEpkVmFGTklzWVJSQkU3ckxaMjRFTDJJdnBxd2ZmUGdqU2M3SU1Od3NtQVdxcm5nXzlFcjY2c0loWlZoTDJscGRtV01tbjltUTRENERxdjJfTUdwNDh2a1d5Z0p4YlZhblhmWU9YR2ZTd2xNWkViVFlBZ201MGdOemhOSkprMkl3cEh0MzA5N2N1WW5WRHlBQQ?oc=5",
+   "date": "2026-10-28",
+   "source": "Daily Pakistan",
+   "label": "New Zealand",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Announces a change"
+   ],
+   "tags": [
+    "Student / Graduate",
+    "New Zealand"
+   ],
+   "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 58,
+   "title": "Switzerland to vote on nuclear power, foie gras and naturalisation in February 2027",
+   "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPVDVpbHl2RFFfN1ZqdVF2VGtpcllYX1EzRlkxdlNEZEhibFEwZlVaQmwzLUdrV00ydEwxRVdNZGo3TDdyY3hmWHMwempVUDB2QXZVaXB3QVFHTUx3c0VjVnFSWDBKcU8wYlhRcC1JRFB2dHJNX2N1NVNfYVAxU0x6WFhSVUEwWEp0OFFXa1BlX3MyZFNwVVJCeUVTYzhwRlBKanZBeEh6T0U1TFFwZWtMbTU5RGh2Znc2aXk0OW1PdDRpWE00WUI4VjE5WDFqQ1NNZWlnNWRXVXR5Smtrd0RfS1BSNkZGQlZ0M3lucVJoYkVta2YwdFN5a0RmRWdid0R4NnlTOS0zMXBmM29mcTJPUXQxVUFKM3g4VEJqaXhUR0xMZS1SR3RRSnVQaU1CdndHZGNFTEVLZU1iSU5kTDJ4dTFiNHhQZ1NxM1lwbzJBWDhXcnRCWFhJSEdERDdlbmFLZy1WMU41cjZubjhlcEVn?oc=5",
+   "date": "2026-10-28",
+   "source": "SWI swissinfo.ch",
+   "label": "Switzerland",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "Switzerland"
+   ],
    "rank": 19,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 6,
-   "priority": 67,
+   "score": 9,
+   "priority": 56,
+   "title": "Ministry of Textiles to Open PLI Scheme Portal for accepting new applications from 1st November 2026",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329667",
+   "date": "2026-10-28",
+   "source": "PIB",
+   "label": "Infrastructure & Transport",
+   "snippet": "Ministry of Textiles is set to reopen the application portal for the Production Linked Incentive (PL",
+   "lead": "Ministry of Textiles Ministry of Textiles to Open PLI Scheme Portal for accepting new applications from 1st November 2026 Minimum Turnover criterion for Part 2 of the Scheme reduced to ₹100 Crore Posted On: 28 OCT 2026 6:12PM by PIB Delhi Ministry of Textiles is set to reopen the application portal for the Production Linked Incentive (PLI) Scheme for Textiles for accepting new applications under Round 4 of the Scheme from 1st November ...",
+   "image": null,
+   "why": [
+    "Subsidy or incentive"
+   ],
+   "tags": [
+    "Infrastructure & Transport"
+   ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 9,
+   "priority": 56,
    "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63837",
-   "date": "2026-10-21",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63876",
+   "date": "2026-10-28",
    "source": "RBI",
    "label": "Banking & Rates",
    "snippet": "Press Releases - Reserve Bank of India",
@@ -864,35 +888,35 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 20,
+   "rank": 21,
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 55,
-   "title": "New Zealand Announces 4 Major Student Visa Changes",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4Njd2SUo0cEVxQjZmMi1QXzBCU0lhU05YRHJZRUljbXgwY0lDQ0M1RkpGTnNXX1lFNllDek9IVkMzdEl3YnR6Q2lQTmc0VVVEVXdhbEtEMjNETjF6OFlxdzA1Rlcyc1dQUEtPY1g2MXNFZw?oc=5",
-   "date": "2026-10-28",
-   "source": "Bloom Pakistan",
-   "label": "New Zealand",
-   "snippet": "New Zealand introduces four student visa changes from October 27, 2026, revising work rights, visa processing rules and post-study timelines.",
-   "lead": "",
-   "image": "https://bloompakistan.com/wp-content/uploads/2026/10/New-Zealand-Announces-4-Major-Student-Visa-Changes.jpg",
+   "desk": "Policy",
+   "score": 9,
+   "priority": 56,
+   "title": "Monthly Flash Report on Central Sector Infrastructure Projects tracks 1,853 Infrastructure Projects worth ₹37.56 lakh crore as of September 2026",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2328472",
+   "date": "2026-10-26",
+   "source": "PIB",
+   "label": "Banking & Rates",
+   "snippet": "Some of the Big-Ticket Projects completed\r\n\r\no Project – “Buxar Thermal Power Project [1320 MW]” (₹1",
+   "lead": "Ministry of Statistics & Programme Implementation Monthly Flash Report on Central Sector Infrastructure Projects tracks 1,853 Infrastructure Projects worth ₹37.56 lakh crore as of September 2026 ₹17.73 Lakh Crore Spent on Ongoing Infrastructure Projects, accounting for approx. 47% of Latest Project Cost (₹37.56 lakh crore) Transport & Logistics and Energy Sectors Account for 83.4% (1545) of the Total Projects 1853 under Monitoring ...",
+   "image": null,
    "why": [
-    "Announces a change"
+    "Rates and liquidity",
+    "Large outlay (Rs 10,000 Cr or more)"
    ],
    "tags": [
-    "Student / Graduate",
-    "New Zealand"
+    "Banking & Rates"
    ],
-   "rank": 21,
+   "rank": 22,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 5,
-   "priority": 45,
+   "priority": 42,
    "title": "Spanish consulate in Rabat introduces new visa appointment procedures",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdC1nNEhWa3N6NXN1SkdBZ1dCZVI1N2pFSmlyd09KQ056VWsxbzJHNmVlOGtBMy02eTFVOHV2ZkQxbndHbnNfenMyRjRZTi0xai1tMUlqRWFzX3EwNXNYZ0NpcElGemZ6RkZ6QmhBOVN5WjlsZnYtVGU4Ml9GZDdVTURCN0loVFNNVzdYN2thcXhlV3VvUnlLcGdwSkpBLUFySUZSbU9GdnY?oc=5",
    "date": "2026-10-28",
@@ -906,27 +930,6 @@
    ],
    "tags": [
     "Spain"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 5,
-   "priority": 45,
-   "title": "S. Korean FM Cho, Rubio set to talk US visa delay",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM1R2clBoZVpWWlN0Q2FIZG5jMHJ0WmxmRkVYdEtZN2g5RkhzcE1kN2c4MGdkX2phaGlMMmpuTVpNWkQzU0pna01KN2JHRVV6cGtpNzNLSF9heDVRQnpMMDYyNmNQZ0N5SlRvRHlITnhmd3ZXZGx4ZkQ1aHlGY2s4cnVOZDh5N29nbWRBU0l5V09qUFJjVnh1cQ?oc=5",
-   "date": "2026-10-27",
-   "source": "Breakingthenews.net",
-   "label": "South Korea",
-   "snippet": "South Korean Foreign Minister Cho Hyun (pictured left) stated he plans to meet United States Secretary of State Marco Rubio (pictured right) during his upcoming trip to the US to hold bilateral talk, ...",
-   "lead": "",
-   "image": "https://cdn.ttweb.net/News/images/409134.jpg?preset=w800_q70",
-   "why": [
-    "Announces a change"
-   ],
-   "tags": [
-    "South Korea"
    ],
    "rank": 23,
    "must_read": false
