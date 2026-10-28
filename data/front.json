@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-28",
- "built": "2026-10-28 08:10 IST",
+ "built": "2026-10-28 10:56 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22750.0,
-   "change_pct": -0.02,
-   "asof": "27 Oct 15:31 IST"
+   "value": 22568.0,
+   "change_pct": -0.8,
+   "asof": "28 Oct 10:56 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73599.0,
-   "change_pct": -0.01,
-   "asof": "27 Oct 15:32 IST"
+   "value": 72779.0,
+   "change_pct": -1.11,
+   "asof": "28 Oct 10:41 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.11,
-   "change_pct": -0.09,
-   "asof": "28 Oct 07:46 IST"
+   "value": 95.18,
+   "change_pct": -0.01,
+   "asof": "28 Oct 10:56 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 111.2,
-   "change_pct": -2.35,
-   "asof": "28 Oct 08:00 IST"
+   "value": 110.92,
+   "change_pct": -2.6,
+   "asof": "28 Oct 10:45 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4061.0,
-   "change_pct": -0.33,
-   "asof": "28 Oct 08:00 IST"
+   "value": 4050.0,
+   "change_pct": -0.59,
+   "asof": "28 Oct 10:46 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,9 +79,28 @@
  },
  "desks": {
   "Policy": {
-   "total": 253,
-   "new_today": 0,
+   "total": 254,
+   "new_today": 1,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 56,
+     "title": "Factual Report on PM-DAKSH",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326437",
+     "date": "2026-10-22",
+     "source": "PIB",
+     "label": "Banking & Rates",
+     "snippet": "Pradhan Mantri Dakshata Aur Kushalta Sampann Hitgrahi (PM-DAKSH), a Central Sector Scheme, w",
+     "lead": "Ministry of Social Justice & Empowerment Factual Report on PM-DAKSH Posted On: 22 OCT 2026 11:49AM by PIB Delhi 276.47 crores, actual expenditure to the tune of Rs. 309.5 crores has been incurred till date. -- words | -- min read Ministry of Social Justice & Empowerment Factual Report on PM-DAKSH Posted On: 22 OCT 2026 11:49AM by PIB Delhi",
+     "image": null,
+     "why": [
+      "Rates and liquidity"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 5,
@@ -139,33 +158,54 @@
      "tags": [
       "Banking & Rates"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 4,
-     "priority": 44,
-     "title": "Department of Commerce Extends RELIEF Initiative under Export Promotion Mission Until March 31, 2027",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2328402",
-     "date": "2026-10-26",
-     "source": "PIB",
-     "label": "Tax, Duties & Trade",
-     "snippet": "The Department of Commerce has extended the timelines under Component II of RELIEF (Resilience & Log",
-     "lead": "Ministry of Commerce & Industry Department of Commerce Extends RELIEF Initiative under Export Promotion Mission Until March 31, 2027 RELIEF Component II Offers 95% Risk Coverage to Encourage ECGC Cover for Export Shipments Posted On: 26 OCT 2026 1:50PM by PIB Delhi The Department of Commerce has extended the timelines under Component II of RELIEF (Resilience & Logistics Intervention for Export Facilitation), a time-bound intervention ...",
-     "image": null,
-     "why": [
-      "Rule change",
-      "Commerce"
-     ],
-     "tags": [
-      "Tax, Duties & Trade"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 989,
-   "new_today": 5,
+   "total": 995,
+   "new_today": 11,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "DoorDash in talks to buy Instacart in roughly $17 billion deal",
+     "url": "https://economictimes.indiatimes.com/tech/technology/doordash-in-talks-to-buy-instacart-in-roughly-17-billion-deal/articleshow/135222954.cms",
+     "date": "2026-10-27",
+     "source": "ET Startups",
+     "label": "Global · Commerce & D2C",
+     "snippet": "DoorDash is in advanced talks to acquire Instacart in a deal that could value the grocery-delivery platform at about $17 billion, a source familiar with the matter told Reuters on Monday.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-33838,resizemode-75,msid-135222954/tech/technology/doordash-in-talks-to-buy-instacart-in-roughly-17-billion-deal.jpg",
+     "why": [
+      "Acquisition",
+      "Very large figure in headline (about $17,000M: round or valuation)"
+     ],
+     "tags": [
+      "Acquisition",
+      "Commerce & D2C"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "Anthropic files for IPO even as losses surge to $80B",
+     "url": "https://yourstory.com/2026/10/anthropic-files-for-ipo-even-as-losses-surge-to-80-billion",
+     "date": "2026-10-26",
+     "source": "YourStory",
+     "label": "India · Other",
+     "snippet": "Anthropic will be listed on the Nasdaq stock exchange and will trade under the name of ANT.",
+     "lead": "Anthropic files for IPO even as losses surge to $80B Anthropic will be listed on the Nasdaq stock exchange and will trade under the name of ANT. Team YS 17430 Stories Monday October 26, 2026 , 2 min Read Anthropic, one of the leading artificial intelligence (AI) companies and the developer of the large language model Claude, has filed for an initial public offering (IPO), moving closer to becoming a publicly listed company. The company ...",
+     "image": "https://images.the-captable.com/cs/158/11718bd02d6d11e9aa979329348d4c3e/AnthropicFeatureImage-1791172568483.jpg",
+     "why": [
+      "IPO & Listing",
+      "Very large figure in headline (about $80,000M: round or valuation)"
+     ],
+     "tags": [
+      "IPO & Listing"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 11,
@@ -209,75 +249,13 @@
       "Funding",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Nazara Technologies swings to profit in Q2; revenue jumps 53% to Rs 803 Cr",
-     "url": "https://yourstory.com/2026/10/nazara-technologies-profit-q2-revenue-jumps-to-803-cr",
-     "date": "2026-10-27",
-     "source": "YourStory",
-     "label": "India · Media, Gaming & Creators",
-     "snippet": "Nazara Technologies swung to a profit of Rs 35.3 crore in Q2 FY27, as revenue surged 53% year-on-year to a record Rs 803 crore. Gaming revenue more than doubled, driven by growth in mobile gaming and the consolidation of Bluetile and BestPlay.",
-     "lead": "Nazara Technologies swings to profit in Q2; revenue jumps 53% to Rs 803 Cr Nazara Technologies swung to a profit of Rs 35.3 crore in Q2 FY27, as revenue surged 53% year-on-year to a record Rs 803 crore. Gaming revenue more than doubled, driven by growth in mobile gaming and the consolidation of Bluetile and BestPlay. Press Trust of India 11239 Stories Tuesday October 27, 2026 , 2 min Read Nazara Technologies on Monday reported a profit ...",
-     "image": "https://images.yourstory.com/cs/120/11718bd02d6d11e9aa979329348d4c3e/shutterstock124913561-1745474933603.jpg",
-     "why": [
-      "Financials",
-      "Sizeable deal (about $85M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Financials",
-      "Media, Gaming & Creators"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Exclusive: Imarticus Eyes Confidential Filing In 2-3 Months For ₹1,000 Cr IPO",
-     "url": "https://inc42.com/buzz/exclusive-imarticus-eyes-confidential-filing-in-2-3-months-for-%e2%82%b91000-cr-ipo/",
-     "date": "2026-10-26",
-     "source": "Inc42",
-     "label": "India · Edtech & Skills",
-     "snippet": "Imarticus Learning plans to file its DRHP with SEBI through the confidential route within the next two to three months for a ₹1,000 Cr IPO",
-     "lead": "Imarticus Learning plans to file draft papers confidentially for a ₹1,000 Cr IPO within two to three months, up from its earlier planned ₹750 Cr issue. The proposed fundraise would support the edtech startup’s expansion through acquisitions, new learning centres, and a stronger enterprise training business. Sources said its organic expansion could include more Centres of Excellence, additional offerings at its finance and business ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/imarticus-acquisition-social-.png",
-     "why": [
-      "IPO & Listing",
-      "Large deal (about $105M)"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "Edtech & Skills"
-     ]
     }
    ]
   },
   "Immigration": {
-   "total": 1473,
-   "new_today": 11,
+   "total": 1483,
+   "new_today": 16,
    "items": [
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 45,
-     "title": "S. Korean FM Cho, Rubio set to talk US visa delay",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM1R2clBoZVpWWlN0Q2FIZG5jMHJ0WmxmRkVYdEtZN2g5RkhzcE1kN2c4MGdkX2phaGlMMmpuTVpNWkQzU0pna01KN2JHRVV6cGtpNzNLSF9heDVRQnpMMDYyNmNQZ0N5SlRvRHlITnhmd3ZXZGx4ZkQ1aHlGY2s4cnVOZDh5N29nbWRBU0l5V09qUFJjVnh1cQ?oc=5",
-     "date": "2026-10-27",
-     "source": "Breakingthenews.net",
-     "label": "South Korea",
-     "snippet": "South Korean Foreign Minister Cho Hyun (pictured left) stated he plans to meet United States Secretary of State Marco Rubio (pictured right) during his upcoming trip to the US to hold bilateral talk, ...",
-     "lead": "",
-     "image": "https://cdn.ttweb.net/News/images/409134.jpg?preset=w800_q70",
-     "why": [
-      "Announces a change"
-     ],
-     "tags": [
-      "South Korea"
-     ]
-    },
     {
      "desk": "Immigration",
      "score": 5,
@@ -434,6 +412,29 @@
    "desk": "Startups",
    "score": 13,
    "priority": 100,
+   "title": "Exclusive: Lovable offers employees $80m cash-out at $13.3bn valuation",
+   "url": "https://sifted.eu/articles/lovable-employee-share-sale/",
+   "date": "2026-10-28",
+   "source": "Sifted",
+   "label": "Global · Other",
+   "snippet": "Employees at Swedish vibe-coding startup Lovable have been given the chance to cash out $80m in shares between them.",
+   "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
+   "image": "https://content.sifted.eu/wp-content/uploads/2025/09/15155020/Summer-2025-Lovable-Team-Picture.webp",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $13,300M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 13,
+   "priority": 100,
    "title": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion",
    "url": "https://yourstory.com/2026/10/ather-turns-profitable-after-rs-154-cr-loss-meta-ai-expansion",
    "date": "2026-10-27",
@@ -451,7 +452,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -469,13 +470,13 @@
    "why": [
     "Affects citizenship",
     "Announces a change",
-    "Major story (9 headlines that day)"
+    "Major story (13 headlines that day)"
    ],
    "tags": [
     "Citizenship",
     "United Kingdom"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -499,7 +500,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -521,7 +522,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -543,8 +544,31 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 92,
+   "title": "US agency approves Amazon Leo's $11.5 billion acquisition of Globalstar",
+   "url": "https://economictimes.indiatimes.com/tech/technology/us-agency-approves-amazon-leos-11-5-billion-acquisition-of-globalstar/articleshow/135251028.cms",
+   "date": "2026-10-28",
+   "source": "ET Startups",
+   "label": "Global · AI & Deeptech",
+   "snippet": "The Federal Communications Commission said Tuesday it has approved Amazon Leo's $11.5 billion deal to acquire Globalstar as the retail giant's satellite arm aims to build a satellite-based communications network to take on Elon Musk's SpaceX Starlink unit.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-567775,resizemode-75,msid-135251028/tech/technology/us-agency-approves-amazon-leos-11-5-billion-acquisition-of-globalstar.jpg",
+   "why": [
+    "Acquisition",
+    "Very large figure in headline (about $11,500M: round or valuation)"
+   ],
+   "tags": [
+    "Acquisition",
+    "AI & Deeptech"
+   ],
+   "rank": 7,
+   "must_read": false
   },
   {
    "desk": "Startups",
@@ -567,7 +591,29 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 6,
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 8,
+   "priority": 89,
+   "title": "India and Mexico launch Negotiations for Preferential Trade Agreement, Sign Terms of Reference",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329303",
+   "date": "2026-10-28",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "Mexico and India take an important step towards strengthening their economic and trade relations wit",
+   "lead": "Ministry of Commerce & Industry India and Mexico launch Negotiations for Preferential Trade Agreement, Sign Terms of Reference India and Mexico Discuss Expanding Trade and Investment Ties; PTA Negotiations Cover Key Trade Areas Posted On: 28 OCT 2026 10:38AM by PIB Delhi Mexico and India take an important step towards strengthening their economic and trade relations with the signing of the Terms of Reference for negotiations on a ...",
+   "image": null,
+   "why": [
+    "Trade agreement",
+    "Commerce"
+   ],
+   "tags": [
+    "Tax, Duties & Trade"
+   ],
+   "rank": 9,
    "must_read": false
   },
   {
@@ -590,7 +636,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 7,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -612,7 +658,7 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 8,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -635,7 +681,7 @@
     "Funding",
     "Mobility & EV"
    ],
-   "rank": 9,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -658,52 +704,7 @@
     "Acquisition",
     "AI & Deeptech"
    ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "DoorDash in talks to buy Instacart in roughly $17 billion deal",
-   "url": "https://economictimes.indiatimes.com/tech/technology/doordash-in-talks-to-buy-instacart-in-roughly-17-billion-deal/articleshow/135222954.cms",
-   "date": "2026-10-27",
-   "source": "ET Startups",
-   "label": "Global · Commerce & D2C",
-   "snippet": "DoorDash is in advanced talks to acquire Instacart in a deal that could value the grocery-delivery platform at about $17 billion, a source familiar with the matter told Reuters on Monday.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-33838,resizemode-75,msid-135222954/tech/technology/doordash-in-talks-to-buy-instacart-in-roughly-17-billion-deal.jpg",
-   "why": [
-    "Acquisition",
-    "Very large figure in headline (about $17,000M: round or valuation)"
-   ],
-   "tags": [
-    "Acquisition",
-    "Commerce & D2C"
-   ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "Anthropic files for IPO even as losses surge to $80B",
-   "url": "https://yourstory.com/2026/10/anthropic-files-for-ipo-even-as-losses-surge-to-80-billion",
-   "date": "2026-10-26",
-   "source": "YourStory",
-   "label": "India · Other",
-   "snippet": "Anthropic will be listed on the Nasdaq stock exchange and will trade under the name of ANT.",
-   "lead": "Anthropic files for IPO even as losses surge to $80B Anthropic will be listed on the Nasdaq stock exchange and will trade under the name of ANT. Team YS 17430 Stories Monday October 26, 2026 , 2 min Read Anthropic, one of the leading artificial intelligence (AI) companies and the developer of the large language model Claude, has filed for an initial public offering (IPO), moving closer to becoming a publicly listed company. The company ...",
-   "image": "https://images.the-captable.com/cs/158/11718bd02d6d11e9aa979329348d4c3e/AnthropicFeatureImage-1791172568483.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $80,000M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 12,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -726,7 +727,7 @@
     "Citizenship",
     "Canada"
    ],
-   "rank": 13,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -750,7 +751,7 @@
     "Regulatory",
     "Banks & Financials"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -773,7 +774,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 15,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -795,7 +796,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -818,7 +819,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -841,7 +842,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -863,51 +864,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 64,
-   "title": "Denmark introduces a new work permit scheme for foreign workers",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZmN6bWRyQ3FLMVVMdUpaSWN6RnBlWDhoZ3ljVkZfT0VldEotSEFIeUExUnpuVzl0TTZLazdWTktVUGJxOXlNYThiLXZJQjVLU3hCSHJlWXRPZVhfOERkZzhrcHJPalVVal9ZRW95UEpiRGlpQ2pLTU1sREVqZklpRnFqLU5feVc4VlZWa1hPM1F3eVBWTU13YlYxb0pSYUhTZ1I0NHJMcUZwZno2Q2NZV0dJeEFMSXFiYl9JMjBrYXFwalJlaGw3T3FoSkZjNnhZSUMzY3lR0gHcAUFVX3lxTE1rZjFOZExjZHV6SnlqZmVaSHpFSjZPcVNVNkZJMzI4Q0t6dzZxaVpyMjhUVm5MSGVXTEVpcnU1YXphM0RmbUYzaXVrRWhnSkFGcE9DSVhTWDlZSy1aMnBGa3FuZGY4TzN5ODVDT2t4NEFnMWV5RFVOQ1B2V2lQamw4WUIxVFY3UFpQeGRkZGlZSXZCN2laVDVoRW4zbXZNVFVOQU9DZ2VqQnd5MU1UMmtnYWdDZTNOWlFUb002LU0xYlpiS3ZvbmN4MmJZUGpKOXBGTGlXZ1hKUWNlckE?oc=5",
-   "date": "2026-10-27",
-   "source": "The Financial Express",
-   "label": "Denmark",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Affects work visas",
-    "Announces a change"
-   ],
-   "tags": [
-    "Work visa",
-    "Denmark"
-   ],
    "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 5,
-   "priority": 56,
-   "title": "Factual Report on PM-DAKSH",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326437",
-   "date": "2026-10-22",
-   "source": "PIB",
-   "label": "Banking & Rates",
-   "snippet": "Pradhan Mantri Dakshata Aur Kushalta Sampann Hitgrahi (PM-DAKSH), a Central Sector Scheme, w",
-   "lead": "Ministry of Social Justice & Empowerment Factual Report on PM-DAKSH Posted On: 22 OCT 2026 11:49AM by PIB Delhi 276.47 crores, actual expenditure to the tune of Rs. 309.5 crores has been incurred till date. -- words | -- min read Ministry of Social Justice & Empowerment Factual Report on PM-DAKSH Posted On: 22 OCT 2026 11:49AM by PIB Delhi",
-   "image": null,
-   "why": [
-    "Rates and liquidity"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 21,
    "must_read": false
   },
   {
@@ -929,7 +886,7 @@
     "Student / Graduate",
     "New Zealand"
    ],
-   "rank": 22,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -949,6 +906,27 @@
    ],
    "tags": [
     "Spain"
+   ],
+   "rank": 22,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 5,
+   "priority": 45,
+   "title": "S. Korean FM Cho, Rubio set to talk US visa delay",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM1R2clBoZVpWWlN0Q2FIZG5jMHJ0WmxmRkVYdEtZN2g5RkhzcE1kN2c4MGdkX2phaGlMMmpuTVpNWkQzU0pna01KN2JHRVV6cGtpNzNLSF9heDVRQnpMMDYyNmNQZ0N5SlRvRHlITnhmd3ZXZGx4ZkQ1aHlGY2s4cnVOZDh5N29nbWRBU0l5V09qUFJjVnh1cQ?oc=5",
+   "date": "2026-10-27",
+   "source": "Breakingthenews.net",
+   "label": "South Korea",
+   "snippet": "South Korean Foreign Minister Cho Hyun (pictured left) stated he plans to meet United States Secretary of State Marco Rubio (pictured right) during his upcoming trip to the US to hold bilateral talk, ...",
+   "lead": "",
+   "image": "https://cdn.ttweb.net/News/images/409134.jpg?preset=w800_q70",
+   "why": [
+    "Announces a change"
+   ],
+   "tags": [
+    "South Korea"
    ],
    "rank": 23,
    "must_read": false
