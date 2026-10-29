@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-29",
- "built": "2026-10-29 11:05 IST",
+ "built": "2026-10-29 11:55 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22835.0,
-   "change_pct": 0.6,
-   "asof": "29 Oct 11:05 IST"
+   "value": 22845.0,
+   "change_pct": 0.64,
+   "asof": "29 Oct 11:55 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73788.0,
-   "change_pct": 0.74,
-   "asof": "29 Oct 10:50 IST"
+   "value": 73799.0,
+   "change_pct": 0.76,
+   "asof": "29 Oct 11:40 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.28,
-   "change_pct": 0.11,
-   "asof": "29 Oct 11:05 IST"
+   "value": 95.36,
+   "change_pct": 0.19,
+   "asof": "29 Oct 11:55 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 110.08,
-   "change_pct": -4.54,
-   "asof": "29 Oct 10:55 IST"
+   "value": 110.17,
+   "change_pct": -4.47,
+   "asof": "29 Oct 11:44 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4056.0,
-   "change_pct": 0.1,
-   "asof": "29 Oct 10:55 IST"
+   "value": 4037.0,
+   "change_pct": -0.35,
+   "asof": "29 Oct 11:45 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -259,8 +259,28 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 12,
+   "new_today": 14,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 50,
+     "title": "Why is New Zealand tightening visa requirements for a group of international students?",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlE2SXlrRDc0QjZJR0pJY1Z0Sk80aUhNRHd6TmNad0F3ZG5qLUcyWnIxVklJZVE1Z3VEOXQ0Q25TOHBjOW1Bd0paOGx2SmVtQ1BnUG5peExrSVYzaGZmMGVTdEw5TlFNSm5SY2FNZWdZV04tbXNLNDNDTnRiN3U0MHhrVlE4SkNlbUFrVA?oc=5",
+     "date": "2026-10-28",
+     "source": "Vietnam.vn",
+     "label": "New Zealand",
+     "snippet": "New Zealand has just introduced some adjustments to protect the integrity of student visas, effective from today (October 27), focusing on those not coming for the purpose of studying.",
+     "lead": "English Login Why is New Zealand tightening visa requirements for a group of international students? New Zealand has just introduced some adjustments to protect the integrity of student visas, effective from today (October 27), focusing on those not coming for the purpose of studying. 0 The announcement was made by the New Zealand Immigration Service (INZ) on the same day. Specifically, the agency will revoke the unlimited work permit ...",
+     "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/28/1793190633324_tnw-hoi-thao-new-zealand-2025-6-1760358293883439782084-1793188142734202709503-94-0-1434-2560-crop-1793188163418113338576.jpeg",
+     "why": [
+      "Announces a change"
+     ],
+     "tags": [
+      "Student / Graduate",
+      "New Zealand"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 5,
@@ -301,25 +321,6 @@
      "tags": [
       "Work visa",
       "Netherlands"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 4,
-     "priority": 33,
-     "title": "Spanish consulate in Rabat introduces new visa appointment procedures",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdC1nNEhWa3N6NXN1SkdBZ1dCZVI1N2pFSmlyd09KQ056VWsxbzJHNmVlOGtBMy02eTFVOHV2ZkQxbndHbnNfenMyRjRZTi0xai1tMUlqRWFzX3EwNXNYZ0NpcElGemZ6RkZ6QmhBOVN5WjlsZnYtVGU4Ml9GZDdVTURCN0loVFNNVzdYN2thcXhlV3VvUnlLcGdwSkpBLUFySUZSbU9GdnY?oc=5",
-     "date": "2026-10-28",
-     "source": "HESPRESS English - Morocco News",
-     "label": "Spain",
-     "snippet": "Spain's Consulate General in Rabat has updated its visa application procedures, introducing new appointment schedules and direct submission arrangements",
-     "lead": "Spain’s Consulate General in Rabat has updated its visa application procedures, introducing new appointment schedules and direct submission arrangements for Schengen and long-stay visas under instructions dated October 23, 2026. For short-stay Schengen visas, appointments through BLS will open on Tuesdays at 5 p.m. for certain first-time training applicants, Wednesdays at 4 p.m. for applicants who held a Schengen visa within the ...",
-     "image": "https://e2.hespress.com/wp-content/overlay/2022/07/visa.webp?v2",
-     "why": [
-      "Announces a change"
-     ],
-     "tags": [
-      "Spain"
      ]
     }
    ]
@@ -665,7 +666,7 @@
    "why": [
     "Affects work visas",
     "Announces a change",
-    "Major story (21 headlines that day)"
+    "Major story (23 headlines that day)"
    ],
    "tags": [
     "Work visa",
@@ -788,6 +789,29 @@
    "must_read": false
   },
   {
+   "desk": "Immigration",
+   "score": 8,
+   "priority": 67,
+   "title": "Luxembourg visa overhaul sparks fears of longer waits and lost talent",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdTJWMmJQZjlzYkVJbVpIRDI4TkI5XzFNaHU4akdNczJ6cnIyQnlqR29NUUJkcWVTLTYyd252X2NDMU8zMEFCNU1TQnZ6UFdGcnRXRHpFX1Z2YTBnNzdLYUhScGdzWElBbTM4STBLbTZkSFl6OUh2eWJVRVBHREdMMVZuUlVjTGhidlV5ZFZrbUxPRHRrbDA5eG5EbkJhLXhmVEZRNXNNWlk2bHEwbFhYUXFFNkNya1R6RThN?oc=5",
+   "date": "2026-10-29",
+   "source": "Luxembourg Times",
+   "label": "Luxembourg",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Affects work visas",
+    "Announces a change"
+   ],
+   "tags": [
+    "Work visa",
+    "Luxembourg"
+   ],
+   "rank": 17,
+   "must_read": false
+  },
+  {
    "desk": "Policy",
    "score": 9,
    "priority": 60,
@@ -806,7 +830,7 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -828,7 +852,7 @@
     "Student / Graduate",
     "South Korea"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -849,7 +873,7 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 19,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -871,7 +895,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 20,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -893,7 +917,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 21,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -914,28 +938,6 @@
    "tags": [
     "Citizenship",
     "Switzerland"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 50,
-   "title": "Why is New Zealand tightening visa requirements for a group of international students?",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlE2SXlrRDc0QjZJR0pJY1Z0Sk80aUhNRHd6TmNad0F3ZG5qLUcyWnIxVklJZVE1Z3VEOXQ0Q25TOHBjOW1Bd0paOGx2SmVtQ1BnUG5peExrSVYzaGZmMGVTdEw5TlFNSm5SY2FNZWdZV04tbXNLNDNDTnRiN3U0MHhrVlE4SkNlbUFrVA?oc=5",
-   "date": "2026-10-28",
-   "source": "Vietnam.vn",
-   "label": "New Zealand",
-   "snippet": "New Zealand has just introduced some adjustments to protect the integrity of student visas, effective from today (October 27), focusing on those not coming for the purpose of studying.",
-   "lead": "English Login Why is New Zealand tightening visa requirements for a group of international students? New Zealand has just introduced some adjustments to protect the integrity of student visas, effective from today (October 27), focusing on those not coming for the purpose of studying. 0 The announcement was made by the New Zealand Immigration Service (INZ) on the same day. Specifically, the agency will revoke the unlimited work permit ...",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/28/1793190633324_tnw-hoi-thao-new-zealand-2025-6-1760358293883439782084-1793188142734202709503-94-0-1434-2560-crop-1793188163418113338576.jpeg",
-   "why": [
-    "Announces a change"
-   ],
-   "tags": [
-    "Student / Graduate",
-    "New Zealand"
    ],
    "rank": 23,
    "must_read": false
