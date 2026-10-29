@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-29",
- "built": "2026-10-29 08:27 IST",
+ "built": "2026-10-29 11:05 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22699.0,
-   "change_pct": -0.22,
-   "asof": "28 Oct 15:31 IST"
+   "value": 22835.0,
+   "change_pct": 0.6,
+   "asof": "29 Oct 11:05 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73246.0,
-   "change_pct": -0.48,
-   "asof": "28 Oct 15:32 IST"
+   "value": 73788.0,
+   "change_pct": 0.74,
+   "asof": "29 Oct 10:50 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.21,
-   "change_pct": 0.03,
-   "asof": "29 Oct 07:54 IST"
+   "value": 95.28,
+   "change_pct": 0.11,
+   "asof": "29 Oct 11:05 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 110.52,
-   "change_pct": -4.16,
-   "asof": "29 Oct 08:17 IST"
+   "value": 110.08,
+   "change_pct": -4.54,
+   "asof": "29 Oct 10:55 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4055.0,
-   "change_pct": 0.09,
-   "asof": "29 Oct 08:17 IST"
+   "value": 4056.0,
+   "change_pct": 0.1,
+   "asof": "29 Oct 10:55 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,8 +79,8 @@
  },
  "desks": {
   "Policy": {
-   "total": 266,
-   "new_today": 0,
+   "total": 267,
+   "new_today": 1,
    "items": [
     {
      "desk": "Policy",
@@ -147,27 +147,48 @@
      "desk": "Policy",
      "score": 5,
      "priority": 33,
-     "title": "Factual Report on PM-DAKSH",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2326437",
-     "date": "2026-10-22",
+     "title": "ESIC Extends the New Amnesty Scheme 2025 till 31 December 2026: More Time for Employers and Insured Persons to Resolve Pending Cases",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329854",
+     "date": "2026-10-29",
      "source": "PIB",
-     "label": "Banking & Rates",
-     "snippet": "Pradhan Mantri Dakshata Aur Kushalta Sampann Hitgrahi (PM-DAKSH), a Central Sector Scheme, w",
-     "lead": "Ministry of Social Justice & Empowerment Factual Report on PM-DAKSH Posted On: 22 OCT 2026 11:49AM by PIB Delhi 276.47 crores, actual expenditure to the tune of Rs. 309.5 crores has been incurred till date. -- words | -- min read Ministry of Social Justice & Empowerment Factual Report on PM-DAKSH Posted On: 22 OCT 2026 11:49AM by PIB Delhi",
+     "label": "Labour & Social",
+     "snippet": "Post review of representations from various stakeholders, the Employees’ State Insurance Corporation",
+     "lead": "Ministry of Labour & Employment ESIC Extends the New Amnesty Scheme 2025 till 31 December 2026: More Time for Employers and Insured Persons to Resolve Pending Cases Three-Month Extension Reinforces ESIC’s Commitment to Reducing Litigation and Promoting Voluntary Compliance Posted On: 29 OCT 2026 9:21AM by PIB Delhi Post review of representations from various stakeholders, the Employees’ State Insurance Corporation (ESIC) has extended ...",
      "image": null,
      "why": [
-      "Rates and liquidity"
+      "Rule change"
      ],
      "tags": [
-      "Banking & Rates"
+      "Labour & Social"
      ]
     }
    ]
   },
   "Startups": {
-   "total": 1021,
-   "new_today": 5,
+   "total": 1025,
+   "new_today": 9,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "US agency approves Amazon Leo's $11.5 billion acquisition of Globalstar",
+     "url": "https://economictimes.indiatimes.com/tech/technology/us-agency-approves-amazon-leos-11-5-billion-acquisition-of-globalstar/articleshow/135251028.cms",
+     "date": "2026-10-28",
+     "source": "ET Startups",
+     "label": "Global · AI & Deeptech",
+     "snippet": "The Federal Communications Commission said Tuesday it has approved Amazon Leo's $11.5 billion deal to acquire Globalstar as the retail giant's satellite arm aims to build a satellite-based communications network to take on Elon Musk's SpaceX Starlink unit.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-567775,resizemode-75,msid-135251028/tech/technology/us-agency-approves-amazon-leos-11-5-billion-acquisition-of-globalstar.jpg",
+     "why": [
+      "Acquisition",
+      "Very large figure in headline (about $11,500M: round or valuation)"
+     ],
+     "tags": [
+      "Acquisition",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 11,
@@ -233,34 +254,34 @@
       "Funding",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Info Edge Q2 Profit Jumps 87% YoY To ₹650 Cr, Declares ₹3 Interim Dividend",
-     "url": "https://inc42.com/buzz/info-edge-q2-profit-jumps-87-yoy-to-%e2%82%b9650-cr-declares-%e2%82%b93-interim-dividend/",
-     "date": "2026-10-28",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "Info Edge reported an 87% jump in its consolidated net profit for Q2 FY27 to ₹649.8 Cr from ₹347.5 Cr in the year-ago period",
-     "lead": "Info Edge’s consolidated net profit jumped 87% to ₹649.8 Cr in Q2 FY27 from ₹347.5 Cr a year earlier. Other income surged 164.8% to ₹428.4 Cr, helping profit growth outpace the 12.2% increase in operating revenue. The board declared a ₹3 interim dividend per share, with November 6 as the record date and payment on or after November 23.",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/02/Info-Edge-Q3-social.jpg",
-     "why": [
-      "Financials",
-      "Sizeable deal (about $68M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Financials"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 8,
+   "new_today": 12,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 42,
+     "title": "Iceland Government Approves Major Residence Permit Bill",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZE1JWVdCWnFaV0V5eDBRUTNqZ3k3TUt3d0hqRFRtSUg3VzNUakU0QWtLUEZaOVhVcTBsMzBZUnhkVDJweHZLNFhZMGMzTmw5X3EyNFlsSldnLUNJakRZemhPWjdvdFhyNG91R3QzSXVVZU82cy03TWtnZ205dWJkdA?oc=5",
+     "date": "2026-10-28",
+     "source": "Erickson Immigration Group",
+     "label": "Iceland",
+     "snippet": "Iceland approves a residence permit reform bill covering family reunification, permanent residence, identity checks, and worker protections.",
+     "lead": "",
+     "image": "https://eiglaw.com/wp-content/uploads/2023/08/Iceland.png",
+     "why": [
+      "Political signal on immigration",
+      "Announces a change"
+     ],
+     "tags": [
+      "Politics / Election",
+      "Iceland"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 5,
@@ -395,6 +416,30 @@
  },
  "items": [
   {
+   "desk": "Startups",
+   "score": 13,
+   "priority": 100,
+   "title": "This fintech wasn’t ‘actively’ fundraising. Then it closed a $90m round at an $800m valuation",
+   "url": "https://sifted.eu/articles/spiko-interview/",
+   "date": "2026-10-29",
+   "source": "Sifted",
+   "label": "Global · Fintech",
+   "snippet": "Despite European fintech facing choppy waters, money market fund Spiko raised a $90m Series B at an $800m valuation with the backing of some big-name investors.",
+   "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/28155718/Paul-Adrien-Hyppolite-portrait-scaled.jpg",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $800M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "Fintech"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
    "desk": "Policy",
    "score": 15,
    "priority": 100,
@@ -414,7 +459,7 @@
    "tags": [
     "Industry & Manufacturing"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -438,7 +483,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -456,13 +501,13 @@
    "why": [
     "Affects citizenship",
     "Official government notice",
-    "Major story (11 headlines that day)"
+    "Major story (15 headlines that day)"
    ],
    "tags": [
     "Citizenship",
     "Canada"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -486,7 +531,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -509,8 +554,8 @@
    "tags": [
     "Funding"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -532,7 +577,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -556,7 +601,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -579,7 +624,7 @@
     "Acquisition",
     "SaaS & Enterprise"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -601,29 +646,6 @@
    "tags": [
     "Acquisition",
     "Media, Gaming & Creators"
-   ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "US agency approves Amazon Leo's $11.5 billion acquisition of Globalstar",
-   "url": "https://economictimes.indiatimes.com/tech/technology/us-agency-approves-amazon-leos-11-5-billion-acquisition-of-globalstar/articleshow/135251028.cms",
-   "date": "2026-10-28",
-   "source": "ET Startups",
-   "label": "Global · AI & Deeptech",
-   "snippet": "The Federal Communications Commission said Tuesday it has approved Amazon Leo's $11.5 billion deal to acquire Globalstar as the retail giant's satellite arm aims to build a satellite-based communications network to take on Elon Musk's SpaceX Starlink unit.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-567775,resizemode-75,msid-135251028/tech/technology/us-agency-approves-amazon-leos-11-5-billion-acquisition-of-globalstar.jpg",
-   "why": [
-    "Acquisition",
-    "Very large figure in headline (about $11,500M: round or valuation)"
-   ],
-   "tags": [
-    "Acquisition",
-    "AI & Deeptech"
    ],
    "rank": 10,
    "must_read": false
@@ -788,6 +810,28 @@
    "must_read": false
   },
   {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 58,
+   "title": "South Korea targets 4 lakh international students with proposed visa, employment reforms",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdHhSSDh4OEloX0Mtd1gyWGo1OGoycHJtamt1S0c2WGFka3ROVHhlODI2OVZQczVSaFRJYkJNZFVXV1hWdnB2ZFp5UTVSVDA0bDFRWnhVZm90V0N5SWJmZkd3V0RMS3ZISXFQMVJhU2dNUFlPd2dYMG5VRVJfcnhTMVM5Y1J3ckNPbGFxOEl6SjQzNUtiaEpaNjFvVl9jaWluaXFjLTVKZVJhVS0wZ2U4N2RMWlctM0s5VjFRLTZCSGdVdkxTQVFxN2s3LWlzc0FqVDhNLVl0MjFQOTE3UmZrWGQyeHbSAeoBQVVfeXFMUF82VlpkLXVoNjJKQ3ZLOEVPNXpZNzUyakhvOWxESFpSUDNQZUctVnEtdVVlMEVfdG85Mm5wNjUtS0JVclFQMWJKRk8xVHMwZTM3TlUxcS1ZdDFoSEpMclc4YklqZHJqZmdodEVsbUlodTF3YnYzU0FQc3NlaU9pY2tMMURYQ1dEa3ppMllCWElabndpam5EZ2xtbGYxZnhmSllOenRxR1hKZFM4MW9VOTNCcHJ1c3VKMnZXa3JlQ1hRMTM0RWstTHFTdEVXeUpVZXRiYlY3dmVUbDNyWG8td2pDa1hKNm45Y0xB?oc=5",
+   "date": "2026-10-29",
+   "source": "Business Today",
+   "label": "South Korea",
+   "snippet": "Under the proposed framework, international students who demonstrate a specified level of Korean-language proficiency could be exempt from submitting documents proving they have sufficient funds to cover tuition and living expenses",
+   "lead": "Business Today Desk Updated Oct 29, 2026 2:10 AM IST The proposed reforms would simplify eligibility requirements for international students seeking part-time employment South Korea is planning changes to its international student visa system, linking Korean-language proficiency with financial documentation requirements, part-time employment opportunities and post-study career pathways. The proposed reforms aim to attract 400,000 ...",
+   "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ae1dd543e623-the-proposed-reforms-would-simplify-eligibility-requirements-for-international-students-seeking-part-283234958-16x9.png",
+   "why": [
+    "Announces a change"
+   ],
+   "tags": [
+    "Student / Graduate",
+    "South Korea"
+   ],
+   "rank": 18,
+   "must_read": false
+  },
+  {
    "desk": "Policy",
    "score": 8,
    "priority": 53,
@@ -805,7 +849,7 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -827,7 +871,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 19,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -849,7 +893,29 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 20,
+   "rank": 21,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 6,
+   "priority": 50,
+   "title": "Swiss to vote on nuclear power, foie gras and naturalisation in February 2027",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPenk0OWlMYThHYTJmd2d3TV9nbFo0ZFFDQkc4RlZYV0labGNYVUdNTlR0bGhDSlVremdaXzJHWUs1aER3bEFxd05obkh4MU5ycG5FNDV6aDAwU2lGNmhrWWU5VlBGVkRUaXlGUUphYkE4RHJzaTI1b0JZT2NJWHRxTTczREo5SjV2ZEVCcUFUeDh0Q0ltZVpMbVhCYXdFTmNxSHpxODB1V2JqRWRuWUhNbUtsT0dDNWZwSmxNN2xiT2k1bG5oRVhnT3U2RVpHNXJZ?oc=5",
+   "date": "2026-10-28",
+   "source": "SWI swissinfo.ch",
+   "label": "Switzerland",
+   "snippet": "Citizens will vote on February 28, 2027, whether new nuclear power stations can be built in Switzerland. Four other issues are on the agenda.",
+   "lead": "",
+   "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/10/9d30ca30d16b0f39811f51178587d0d6157502be-92288419.jpg?ver=28f32135&fit=1200,900",
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "Switzerland"
+   ],
+   "rank": 22,
    "must_read": false
   },
   {
@@ -870,51 +936,6 @@
    "tags": [
     "Student / Graduate",
     "New Zealand"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 50,
-   "title": "Switzerland to vote on nuclear power, foie gras and naturalisation in February 2027",
-   "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPVDVpbHl2RFFfN1ZqdVF2VGtpcllYX1EzRlkxdlNEZEhibFEwZlVaQmwzLUdrV00ydEwxRVdNZGo3TDdyY3hmWHMwempVUDB2QXZVaXB3QVFHTUx3c0VjVnFSWDBKcU8wYlhRcC1JRFB2dHJNX2N1NVNfYVAxU0x6WFhSVUEwWEp0OFFXa1BlX3MyZFNwVVJCeUVTYzhwRlBKanZBeEh6T0U1TFFwZWtMbTU5RGh2Znc2aXk0OW1PdDRpWE00WUI4VjE5WDFqQ1NNZWlnNWRXVXR5Smtrd0RfS1BSNkZGQlZ0M3lucVJoYkVta2YwdFN5a0RmRWdid0R4NnlTOS0zMXBmM29mcTJPUXQxVUFKM3g4VEJqaXhUR0xMZS1SR3RRSnVQaU1CdndHZGNFTEVLZU1iSU5kTDJ4dTFiNHhQZ1NxM1lwbzJBWDhXcnRCWFhJSEdERDdlbmFLZy1WMU41cjZubjhlcEVn?oc=5",
-   "date": "2026-10-28",
-   "source": "SWI swissinfo.ch",
-   "label": "Switzerland",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Affects citizenship"
-   ],
-   "tags": [
-    "Citizenship",
-    "Switzerland"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 5,
-   "priority": 42,
-   "title": "Iceland Government Approves Major Residence Permit Bill",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZE1JWVdCWnFaV0V5eDBRUTNqZ3k3TUt3d0hqRFRtSUg3VzNUakU0QWtLUEZaOVhVcTBsMzBZUnhkVDJweHZLNFhZMGMzTmw5X3EyNFlsSldnLUNJakRZemhPWjdvdFhyNG91R3QzSXVVZU82cy03TWtnZ205dWJkdA?oc=5",
-   "date": "2026-10-28",
-   "source": "Erickson Immigration Group",
-   "label": "Iceland",
-   "snippet": "Iceland approves a residence permit reform bill covering family reunification, permanent residence, identity checks, and worker protections.",
-   "lead": "",
-   "image": "https://eiglaw.com/wp-content/uploads/2023/08/Iceland.png",
-   "why": [
-    "Political signal on immigration",
-    "Announces a change"
-   ],
-   "tags": [
-    "Politics / Election",
-    "Iceland"
    ],
    "rank": 23,
    "must_read": false
