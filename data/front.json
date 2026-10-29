@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-29",
- "built": "2026-10-29 02:50 IST",
+ "built": "2026-10-29 08:27 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22750.0,
-   "change_pct": -0.02,
+   "value": 22699.0,
+   "change_pct": -0.22,
    "asof": "28 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73599.0,
-   "change_pct": -0.01,
+   "value": 73246.0,
+   "change_pct": -0.48,
    "asof": "28 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
    "value": 95.21,
-   "change_pct": 0.02,
-   "asof": "29 Oct 02:37 IST"
+   "change_pct": 0.03,
+   "asof": "29 Oct 07:54 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 110.44,
-   "change_pct": -3.02,
-   "asof": "29 Oct 02:29 IST"
+   "value": 110.52,
+   "change_pct": -4.16,
+   "asof": "29 Oct 08:17 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4081.0,
-   "change_pct": 0.16,
-   "asof": "29 Oct 02:29 IST"
+   "value": 4055.0,
+   "change_pct": 0.09,
+   "asof": "29 Oct 08:17 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -165,9 +165,31 @@
    ]
   },
   "Startups": {
-   "total": 1016,
-   "new_today": 0,
+   "total": 1021,
+   "new_today": 5,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+     "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+     "date": "2026-10-28",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+     "lead": "The Dallas-based investment firm Disruptive, whose past bets include Palantir, Airbnb, and Spotify, announced a $10 billion fund to back at least 10 late-stage companies, with checks of up to $1 billion, it said Tuesday . It’s one of the biggest fundraises of the year so far, aiming to back (what else?!) the capital-intensive fields of AI and defense. The Wall Street Journal first reported earlier this month that the firm was seeking ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1191380440.jpg?resize=1200,800",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $10,000M: round or valuation)",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 11,
@@ -232,38 +254,17 @@
      "tags": [
       "Financials"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
-     "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
-     "date": "2026-10-28",
-     "source": "TechCrunch",
-     "label": "Global · Mobility & EV",
-     "snippet": "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\"",
-     "lead": "Re:Build, which spun out Slate Auto, raises $2.1B Sean O'Kane 1:31 PM PDT · October 27, 2026 Re:Build, the Massachusetts-based manufacturing accelerator that spun out EV startup Slate Auto in 2023, has raised $2.1 billion The company said Tuesday that it will use the funding to “expand Re:Build’s capacity to manufacture hard tech products and launch new industrial startups,” which will “ensure the most innovative products can be made ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/06/slate-auto-truck-tesla-charging.jpg?resize=1200,800",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $2,100M: round or valuation)"
-     ],
-     "tags": [
-      "Funding",
-      "Mobility & EV"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 5,
+   "new_today": 8,
    "items": [
     {
      "desk": "Immigration",
      "score": 5,
-     "priority": 45,
+     "priority": 42,
      "title": "Netherlands to introduce new rules for employers sponsoring foreign workers from November 1",
      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOelZtNl9ndlR5WC0tQndKbm1WYTV6OEhBMmUxNENZRkNUR3N6SjMtUDdBVVE0Q3BXNl9jWmlXYUxPSndfTktDc1czUXBpQi0tY01NdjJuMFRFbWkyVGxFUWlKQ3g2SHJhdkNqbFRWb3c3cFhDclJ0bFN3d1UzeXBzZ0d6NHJSUDV3SkdJaUw4enozSFhoUkdpZGtMRFZtdk55QUxLTVgwU1BkX2FRSVU4US1JWDN4UGZtT2Y2RGwwVjd0MTVOcTQw?oc=5",
      "date": "2026-10-24",
@@ -284,7 +285,7 @@
     {
      "desk": "Immigration",
      "score": 4,
-     "priority": 36,
+     "priority": 33,
      "title": "Spanish consulate in Rabat introduces new visa appointment procedures",
      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdC1nNEhWa3N6NXN1SkdBZ1dCZVI1N2pFSmlyd09KQ056VWsxbzJHNmVlOGtBMy02eTFVOHV2ZkQxbndHbnNfenMyRjRZTi0xai1tMUlqRWFzX3EwNXNYZ0NpcElGemZ6RkZ6QmhBOVN5WjlsZnYtVGU4Ml9GZDdVTURCN0loVFNNVzdYN2thcXhlV3VvUnlLcGdwSkpBLUFySUZSbU9GdnY?oc=5",
      "date": "2026-10-28",
@@ -441,6 +442,30 @@
    "must_read": true
   },
   {
+   "desk": "Immigration",
+   "score": 12,
+   "priority": 100,
+   "title": "New penalties for fraudulent and unauthorized immigration and citizenship representatives",
+   "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/10/new-penalties-for-fraudulent-and-unauthorized-immigration-and-citizenship-representatives.html",
+   "date": "2026-10-28",
+   "source": "IRCC (Government of Canada)",
+   "label": "Canada",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Affects citizenship",
+    "Official government notice",
+    "Major story (11 headlines that day)"
+   ],
+   "tags": [
+    "Citizenship",
+    "Canada"
+   ],
+   "rank": 3,
+   "must_read": true
+  },
+  {
    "desk": "Advisory",
    "score": 13,
    "priority": 100,
@@ -461,7 +486,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -484,7 +509,7 @@
    "tags": [
     "Funding"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -507,8 +532,8 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Startups",
@@ -531,52 +556,28 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 91,
-   "title": "New penalties for fraudulent and unauthorized immigration and citizenship representatives",
-   "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/10/new-penalties-for-fraudulent-and-unauthorized-immigration-and-citizenship-representatives.html",
-   "date": "2026-10-28",
-   "source": "IRCC (Government of Canada)",
-   "label": "Canada",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Affects citizenship",
-    "Official government notice"
-   ],
-   "tags": [
-    "Citizenship",
-    "Canada"
-   ],
    "rank": 7,
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 91,
-   "title": "UK Budget 2026: immigration changes offer targeted relief for employers and universities",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUEtN3o1NUdpSFBUR0o1OHM3VWhUUVE3WVBGaldWek9CSHRuQk04UzRwS0lLMkEwd0E1SkU4VTNMU3ZlV181U0hub2JPN2RJdUViZ3JwVkp6djc3dkhQTFUtRHJZSkVFUE1KRElxUjhVRUVYUHFwWnNUZlhULWVLX2FFcU8?oc=5",
-   "date": "2026-10-28",
-   "source": "Pinsent Masons",
-   "label": "United Kingdom",
-   "snippet": "A series of immigration measures announced by the UK government in its Budget 2026 could provide greater flexibility for employers recruiting overseas talent, despite maintaining the broader objective of reducing net migration, an expert has said.",
-   "lead": "Sectors Services Locations Explore all Sectors Defence & Security Energy & Natural Resources Financial Services Infrastructure Life Sciences & Healthcare Professional & Public Services Real Estate Retail & Consumer Sport & Hospitality Technology, Science & Industry Explore all Defence & Security Explore all Energy & Natural Resources CleanTech Hydrogen, Bioenergy & CCUS Nuclear Oil & Gas Renewables Water & Hydro Explore all Financial ...",
-   "image": "https://www.pinsentmasons.com/-/media/images/seo-social-media/editorial-use-only/government---parliament/social-budget-immigration-pic.jpg?rev=0db58d89e9a64fa9bd50d3a9fa1f3cb2",
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+   "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+   "date": "2026-10-29",
+   "source": "TechCrunch",
+   "label": "Global · SaaS & Enterprise",
+   "snippet": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+   "lead": "Upwind raises $400M after walking away from Datadog acquisition offer Marina Temkin 4:15 PM PDT · October 28, 2026 Upwind, a San Francisco startup that uses AI to secure cloud infrastructure, has raised a $400 million Series C round at a $3.8 billion valuation led by Bessemer Venture Partners, with participation from existing backers including Greylock Partners and Craft Ventures. The round comes nine months after Upwind closed its ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1197780051.jpg?resize=1200,800",
    "why": [
-    "Affects work visas",
-    "Announces a change",
-    "Major story (20 headlines that day)"
+    "Acquisition",
+    "Large deal (about $400M)"
    ],
    "tags": [
-    "Work visa",
-    "United Kingdom"
+    "Acquisition",
+    "SaaS & Enterprise"
    ],
    "rank": 8,
    "must_read": false
@@ -628,25 +629,25 @@
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-   "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 83,
+   "title": "UK Budget 2026: immigration changes offer targeted relief for employers and universities",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUEtN3o1NUdpSFBUR0o1OHM3VWhUUVE3WVBGaldWek9CSHRuQk04UzRwS0lLMkEwd0E1SkU4VTNMU3ZlV181U0hub2JPN2RJdUViZ3JwVkp6djc3dkhQTFUtRHJZSkVFUE1KRElxUjhVRUVYUHFwWnNUZlhULWVLX2FFcU8?oc=5",
    "date": "2026-10-28",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-   "lead": "The Dallas-based investment firm Disruptive, whose past bets include Palantir, Airbnb, and Spotify, announced a $10 billion fund to back at least 10 late-stage companies, with checks of up to $1 billion, it said Tuesday . It’s one of the biggest fundraises of the year so far, aiming to back (what else?!) the capital-intensive fields of AI and defense. The Wall Street Journal first reported earlier this month that the firm was seeking ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1191380440.jpg?resize=1200,800",
+   "source": "Pinsent Masons",
+   "label": "United Kingdom",
+   "snippet": "A series of immigration measures announced by the UK government in its Budget 2026 could provide greater flexibility for employers recruiting overseas talent, despite maintaining the broader objective of reducing net migration, an expert has said.",
+   "lead": "Sectors Services Locations Explore all Sectors Defence & Security Energy & Natural Resources Financial Services Infrastructure Life Sciences & Healthcare Professional & Public Services Real Estate Retail & Consumer Sport & Hospitality Technology, Science & Industry Explore all Defence & Security Explore all Energy & Natural Resources CleanTech Hydrogen, Bioenergy & CCUS Nuclear Oil & Gas Renewables Water & Hydro Explore all Financial ...",
+   "image": "https://www.pinsentmasons.com/-/media/images/seo-social-media/editorial-use-only/government---parliament/social-budget-immigration-pic.jpg?rev=0db58d89e9a64fa9bd50d3a9fa1f3cb2",
    "why": [
-    "Funding",
-    "Very large figure in headline (about $10,000M: round or valuation)",
-    "Also covered by 1 other outlet(s)"
+    "Affects work visas",
+    "Announces a change",
+    "Major story (21 headlines that day)"
    ],
    "tags": [
-    "Funding",
-    "AI & Deeptech"
+    "Work visa",
+    "United Kingdom"
    ],
    "rank": 11,
    "must_read": false
@@ -704,9 +705,9 @@
    "date": "2026-10-28",
    "source": "Moneycontrol.com",
    "label": "Mutual Funds",
-   "snippet": "",
-   "lead": "",
-   "image": null,
+   "snippet": "Investors opting for Regular Plans will have to be informed about their higher expense ratios; regulator also plans to strengthen monitoring of IPO proceeds, review SME IPO rules and expand AI-based compliance checks.",
+   "lead": "Market regulator Securities and Exchange Board of India (SEBI) Chairman Tuhin Kanta Pandey on Wednesday said Direct Plans will become the default option on the digital platforms of asset management companies (AMCs) from November 1, with investors opting for Regular Plans to be informed about their higher expense ratios. The move aims to improve transparency in mutual fund investments and help investors understand the cost implications ...",
+   "image": "https://images.moneycontrol.com/static-mcnews/2025/11/20251106135200_Tuhin-K.jpg",
    "why": [
     "Regulator: SEBI or RBI",
     "Credit rating change or default"
@@ -787,50 +788,6 @@
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 55,
-   "title": "Why is New Zealand tightening visa requirements for a group of international students?",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlE2SXlrRDc0QjZJR0pJY1Z0Sk80aUhNRHd6TmNad0F3ZG5qLUcyWnIxVklJZVE1Z3VEOXQ0Q25TOHBjOW1Bd0paOGx2SmVtQ1BnUG5peExrSVYzaGZmMGVTdEw5TlFNSm5SY2FNZWdZV04tbXNLNDNDTnRiN3U0MHhrVlE4SkNlbUFrVA?oc=5",
-   "date": "2026-10-28",
-   "source": "Vietnam.vn",
-   "label": "New Zealand",
-   "snippet": "New Zealand has just introduced some adjustments to protect the integrity of student visas, effective from today (October 27), focusing on those not coming for the purpose of studying.",
-   "lead": "English Login Why is New Zealand tightening visa requirements for a group of international students? New Zealand has just introduced some adjustments to protect the integrity of student visas, effective from today (October 27), focusing on those not coming for the purpose of studying. 0 The announcement was made by the New Zealand Immigration Service (INZ) on the same day. Specifically, the agency will revoke the unlimited work permit ...",
-   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/28/1793190633324_tnw-hoi-thao-new-zealand-2025-6-1760358293883439782084-1793188142734202709503-94-0-1434-2560-crop-1793188163418113338576.jpeg",
-   "why": [
-    "Announces a change"
-   ],
-   "tags": [
-    "Student / Graduate",
-    "New Zealand"
-   ],
-   "rank": 18,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 55,
-   "title": "Switzerland to vote on nuclear power, foie gras and naturalisation in February 2027",
-   "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPVDVpbHl2RFFfN1ZqdVF2VGtpcllYX1EzRlkxdlNEZEhibFEwZlVaQmwzLUdrV00ydEwxRVdNZGo3TDdyY3hmWHMwempVUDB2QXZVaXB3QVFHTUx3c0VjVnFSWDBKcU8wYlhRcC1JRFB2dHJNX2N1NVNfYVAxU0x6WFhSVUEwWEp0OFFXa1BlX3MyZFNwVVJCeUVTYzhwRlBKanZBeEh6T0U1TFFwZWtMbTU5RGh2Znc2aXk0OW1PdDRpWE00WUI4VjE5WDFqQ1NNZWlnNWRXVXR5Smtrd0RfS1BSNkZGQlZ0M3lucVJoYkVta2YwdFN5a0RmRWdid0R4NnlTOS0zMXBmM29mcTJPUXQxVUFKM3g4VEJqaXhUR0xMZS1SR3RRSnVQaU1CdndHZGNFTEVLZU1iSU5kTDJ4dTFiNHhQZ1NxM1lwbzJBWDhXcnRCWFhJSEdERDdlbmFLZy1WMU41cjZubjhlcEVn?oc=5",
-   "date": "2026-10-28",
-   "source": "SWI swissinfo.ch",
-   "label": "Switzerland",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Affects citizenship"
-   ],
-   "tags": [
-    "Citizenship",
-    "Switzerland"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
    "desk": "Policy",
    "score": 8,
    "priority": 53,
@@ -848,7 +805,7 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 20,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -870,7 +827,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 21,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -892,13 +849,57 @@
    "tags": [
     "Banking & Rates"
    ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 6,
+   "priority": 50,
+   "title": "Why is New Zealand tightening visa requirements for a group of international students?",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlE2SXlrRDc0QjZJR0pJY1Z0Sk80aUhNRHd6TmNad0F3ZG5qLUcyWnIxVklJZVE1Z3VEOXQ0Q25TOHBjOW1Bd0paOGx2SmVtQ1BnUG5peExrSVYzaGZmMGVTdEw5TlFNSm5SY2FNZWdZV04tbXNLNDNDTnRiN3U0MHhrVlE4SkNlbUFrVA?oc=5",
+   "date": "2026-10-28",
+   "source": "Vietnam.vn",
+   "label": "New Zealand",
+   "snippet": "New Zealand has just introduced some adjustments to protect the integrity of student visas, effective from today (October 27), focusing on those not coming for the purpose of studying.",
+   "lead": "English Login Why is New Zealand tightening visa requirements for a group of international students? New Zealand has just introduced some adjustments to protect the integrity of student visas, effective from today (October 27), focusing on those not coming for the purpose of studying. 0 The announcement was made by the New Zealand Immigration Service (INZ) on the same day. Specifically, the agency will revoke the unlimited work permit ...",
+   "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/28/1793190633324_tnw-hoi-thao-new-zealand-2025-6-1760358293883439782084-1793188142734202709503-94-0-1434-2560-crop-1793188163418113338576.jpeg",
+   "why": [
+    "Announces a change"
+   ],
+   "tags": [
+    "Student / Graduate",
+    "New Zealand"
+   ],
+   "rank": 21,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 6,
+   "priority": 50,
+   "title": "Switzerland to vote on nuclear power, foie gras and naturalisation in February 2027",
+   "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPVDVpbHl2RFFfN1ZqdVF2VGtpcllYX1EzRlkxdlNEZEhibFEwZlVaQmwzLUdrV00ydEwxRVdNZGo3TDdyY3hmWHMwempVUDB2QXZVaXB3QVFHTUx3c0VjVnFSWDBKcU8wYlhRcC1JRFB2dHJNX2N1NVNfYVAxU0x6WFhSVUEwWEp0OFFXa1BlX3MyZFNwVVJCeUVTYzhwRlBKanZBeEh6T0U1TFFwZWtMbTU5RGh2Znc2aXk0OW1PdDRpWE00WUI4VjE5WDFqQ1NNZWlnNWRXVXR5Smtrd0RfS1BSNkZGQlZ0M3lucVJoYkVta2YwdFN5a0RmRWdid0R4NnlTOS0zMXBmM29mcTJPUXQxVUFKM3g4VEJqaXhUR0xMZS1SR3RRSnVQaU1CdndHZGNFTEVLZU1iSU5kTDJ4dTFiNHhQZ1NxM1lwbzJBWDhXcnRCWFhJSEdERDdlbmFLZy1WMU41cjZubjhlcEVn?oc=5",
+   "date": "2026-10-28",
+   "source": "SWI swissinfo.ch",
+   "label": "Switzerland",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "Switzerland"
+   ],
    "rank": 22,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 5,
-   "priority": 45,
+   "priority": 42,
    "title": "Iceland Government Approves Major Residence Permit Bill",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZE1JWVdCWnFaV0V5eDBRUTNqZ3k3TUt3d0hqRFRtSUg3VzNUakU0QWtLUEZaOVhVcTBsMzBZUnhkVDJweHZLNFhZMGMzTmw5X3EyNFlsSldnLUNJakRZemhPWjdvdFhyNG91R3QzSXVVZU82cy03TWtnZ205dWJkdA?oc=5",
    "date": "2026-10-28",
