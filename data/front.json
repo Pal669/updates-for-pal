@@ -1,6 +1,6 @@
 {
- "edition": "2026-10-30",
- "built": "2026-10-30 22:22 IST",
+ "edition": "2026-10-31",
+ "built": "2026-10-31 02:33 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,15 +12,15 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23053.0,
-   "change_pct": 0.51,
+   "value": 22937.0,
+   "change_pct": 1.05,
    "asof": "30 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74460.0,
-   "change_pct": 0.42,
+   "value": 74151.0,
+   "change_pct": 1.24,
    "asof": "30 Oct 15:32 IST"
   },
   {
@@ -28,85 +28,64 @@
    "dp": 2,
    "value": 94.94,
    "change_pct": -0.28,
-   "asof": "30 Oct 21:37 IST"
+   "asof": "31 Oct 01:15 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 113.81,
-   "change_pct": -0.93,
-   "asof": "30 Oct 22:12 IST"
+   "value": 112.26,
+   "change_pct": -2.28,
+   "asof": "31 Oct 02:20 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3905.0,
-   "change_pct": -3.14,
-   "asof": "30 Oct 22:12 IST"
+   "value": 3884.0,
+   "change_pct": -3.65,
+   "asof": "31 Oct 02:23 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 4.95,
-   "change_pct": -0.8,
-   "asof": "30 Oct 22:07 IST"
+   "value": 4.93,
+   "change_pct": -1.2,
+   "asof": "31 Oct 00:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "Curefoods and Rebel Foods",
-   "tagline": "Cloud-kitchen and restaurant-brand operators",
-   "what": "Curefoods runs brands such as EatFit, Nomad Pizza, Sharief Bhai Biryani, CakeZone, Frozen Bottle and Krispy Kreme (India rights acquired last year), with 500+ kitchens in 70 cities. Rebel Foods runs Faasos, Behrouz Biryani, Oven Story, Sweet Truth and 20+ other brands across 10 countries.",
+   "company": "Angle Health",
+   "tagline": "US health-insurance startup for small businesses (YC winter 2020)",
+   "what": "AI-powered platform that helps small businesses choose and manage 'level-funded' health plans, integrating with payroll and HR systems. Level-funded sits between fully insured (carrier bears all risk, higher and predictable cost) and self-funded (employer bears cost, unpredictable): the business makes predictable payments, is insured against unusually high costs, and may get a share of the surplus back if claims stay low.",
    "how": [
-    "Both report 'operating revenue' from operating cloud kitchens and restaurant chains, i.e. selling food under their own brands.",
-    "The article gives no split between delivery, dine-in or other channels."
+    "The article does not say how Angle itself earns its revenue.",
+    "It says the startup serves 5,000+ businesses and is profitable."
    ],
-   "watch": "Growth is above 20% but both still lose money. Rebel is narrowing losses; Curefoods' loss grew in absolute terms.",
-   "sector": "Commerce & D2C",
-   "region": "India",
-   "url": "https://economictimes.indiatimes.com/tech/technology/curefoods-revenue-grows-23-yoy-rebel-foods-revenue-up-20/articleshow/134338278.cms"
+   "watch": "A profitable, non-'AI agent' company raising a large Series C is unusual per TechCrunch. The tender offer is liquidity for staff, not money into the company.",
+   "sector": "Fintech",
+   "region": "Global",
+   "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/"
   },
   "country": {
-   "id": "canada",
-   "name": "Canada",
-   "trend": "Tightening on temporary; PR volumes steady",
-   "pr": "PR is granted on arrival through Express Entry or a provincial nomination (general knowledge). Levels plan 2026-2028: 380,000 new permanent residents a year; economic share rising to 64% in 2027-2028. A one-time measure fast-tracks PR for up to 33,000 temporary workers in 2026-2027.",
-   "citizenship": "About 3 years of physical presence within 5 years (general knowledge, not re-verified). Dual citizenship allowed.",
-   "pro": "Only country on this list where you can apply for PR from outside without an employer.",
-   "con": "New temporary arrivals cut to 385,000 in 2026 (study permits about 49% lower, worker permits about 37% lower); goal is temporary residents under 5% of population by end-2027.",
-   "watch": "Express Entry draw scores and categories"
+   "id": "australia",
+   "name": "Australia",
+   "trend": "Tightening at the edges; employer-sponsored expanding",
+   "pr": "2026-27 permanent program: 185,000 places, 132,240 (over 70%) in the skill stream; about 129,590 places for people already in Australia. Employer-sponsored places rise from 44,000 to 58,040. Time to PR through 482 then 186 was not verified this session; check the Department of Home Affairs.",
+   "citizenship": "About 4 years of residence including 12 months as a permanent resident (general knowledge, not re-verified). Dual citizenship allowed.",
+   "pro": "English-speaking; strong wages (general knowledge).",
+   "con": "Priority goes to people already onshore, so applying from India is harder.",
+   "watch": "Skills in Demand occupation lists"
   }
  },
  "desks": {
   "Policy": {
    "total": 280,
-   "new_today": 6,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
-     "score": 8,
-     "priority": 57,
-     "title": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026",
-     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0",
-     "date": "2026-10-23",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Notifications - Reserve Bank of India",
-     "lead": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026 Please refer to Chapter IV of the Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Directions, 2025 dated November 28, 2025 (hereinafter referred to as ‘the Directions’), on Minimum Capital Requirements for Operational Risk. 2. On a review, and in exercise of the powers conferred by Section 35A of the Banking ...",
-     "image": null,
-     "why": [
-      "Regulator rulebook change",
-      "Rule change",
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 7,
-     "priority": 50,
+     "score": 6,
+     "priority": 46,
      "title": "Lending and Deposit Rates of Scheduled Commercial Banks – October 2026",
      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63894",
      "date": "2026-10-30",
@@ -125,8 +104,8 @@
     },
     {
      "desk": "Policy",
-     "score": 7,
-     "priority": 50,
+     "score": 6,
+     "priority": 46,
      "title": "Ease of Compliance for FPIs – Rationalisation of KYC Review Periodicity",
      "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/ease-of-compliance-for-fpis-rationalisation-of-kyc-review-periodicity_105522.html",
      "date": "2026-10-30",
@@ -145,8 +124,8 @@
     },
     {
      "desk": "Policy",
-     "score": 7,
-     "priority": 50,
+     "score": 6,
+     "priority": 46,
      "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on October 30, 2026",
      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63880",
      "date": "2026-10-29",
@@ -162,17 +141,58 @@
      "tags": [
       "Banking & Rates"
      ]
+    },
+    {
+     "desk": "Policy",
+     "score": 6,
+     "priority": 46,
+     "title": "Ministry of Textiles to Open PLI Scheme Portal for accepting new applications from 1st November 2026",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329667",
+     "date": "2026-10-28",
+     "source": "PIB",
+     "label": "Infrastructure & Transport",
+     "snippet": "Ministry of Textiles is set to reopen the application portal for the Production Linked Incentive (PL",
+     "lead": "Ministry of Textiles Ministry of Textiles to Open PLI Scheme Portal for accepting new applications from 1st November 2026 Minimum Turnover criterion for Part 2 of the Scheme reduced to ₹100 Crore Posted On: 28 OCT 2026 6:12PM by PIB Delhi Ministry of Textiles is set to reopen the application portal for the Production Linked Incentive (PLI) Scheme for Textiles for accepting new applications under Round 4 of the Scheme from 1st November ...",
+     "image": null,
+     "why": [
+      "Subsidy or incentive"
+     ],
+     "tags": [
+      "Infrastructure & Transport"
+     ]
     }
    ]
   },
   "Startups": {
    "total": 1081,
-   "new_today": 31,
+   "new_today": 0,
    "items": [
     {
      "desk": "Startups",
      "score": 11,
-     "priority": 85,
+     "priority": 92,
+     "title": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion",
+     "url": "https://yourstory.com/2026/10/ather-turns-profitable-after-rs-154-cr-loss-meta-ai-expansion",
+     "date": "2026-10-27",
+     "source": "YourStory",
+     "label": "India · AI & Deeptech",
+     "snippet": "Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand.",
+     "lead": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand. Team YS 17432 Stories Tuesday October 27, 2026 , 4 min Read MakeMyTrip is back in the black! The travel booking platform reported a net profit of $1.8 ...",
+     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/2026-CopyofNewPPTTemplates6-1793024916362.png",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $35,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
      "title": "[Update] CCI Clears Navi’s $100 Mn Investment From Prosus",
      "url": "https://inc42.com/buzz/ipo-bound-navi-raises-100-mn-from-prosus-in-maiden-institutional-round/",
      "date": "2026-10-30",
@@ -191,8 +211,8 @@
     },
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 85,
+     "score": 10,
+     "priority": 83,
      "title": "SoftBank-backed OPay raises $304 million in US IPO",
      "url": "https://economictimes.indiatimes.com/tech/technology/softbank-backed-opay-raises-304-million-in-us-ipo/articleshow/135357135.cms",
      "date": "2026-10-30",
@@ -212,8 +232,8 @@
     },
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 85,
+     "score": 10,
+     "priority": 83,
      "title": "Binance estimates $6.3B impact from security breach, freezes $3B in crypto assets",
      "url": "https://yourstory.com/2026/10/binance-63-billion-impact-security-breach-freezes-3-billion-crypto-assets",
      "date": "2026-10-30",
@@ -230,39 +250,37 @@
       "Financials",
       "SaaS & Enterprise"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 85,
-     "title": "Shadowfax Q2 Profit Zooms Over 5X YoY To ₹68 Cr, Revenue Crosses ₹1,500 Cr",
-     "url": "https://inc42.com/buzz/shadowfax-q2-profit-zooms-over-5x-yoy-to-%e2%82%b968-cr-revenue-crosses-%e2%82%b91500-cr/",
-     "date": "2026-10-29",
-     "source": "Inc42",
-     "label": "India · Logistics & Supply Chain",
-     "snippet": "Shadowfax reported an over 5X year-on-year (YoY) jump in its net profit for the September quarter (Q2 FY27) to ₹68 Cr from ₹13 Cr",
-     "lead": "Shadowfax’s consolidated net profit jumped 421.9% YoY to ₹68 Cr in Q2 FY27 from ₹13 Cr, while operating revenue rose 56.6% to ₹1,537.7 Cr. Revenue growth outpaced the 52.8% increase in total expenses, lifting net profit margin. Sequentially, net profit grew 3.9% and operating revenue increased 13.2%.",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Shadowfax-Q4-ftr-1.jpg",
-     "why": [
-      "Financials",
-      "Large deal (about $158M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Financials",
-      "Logistics & Supply Chain"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 23,
+   "new_today": 3,
    "items": [
     {
      "desk": "Immigration",
-     "score": 8,
-     "priority": 73,
+     "score": 7,
+     "priority": 70,
+     "title": "\"Brought 10 Muslim Family Members to Korea on Work Visa\"... Checking the Viral Post",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NV0JsMjRvSmpTbEFKUF9rZmVsdk1WU09FVEVPeFBhSFgzcmlFZGtFclFlbHlLSTlfbDNONXYwVFlIRXFwOExPTndxVGJGdnRaa0FwRFhnN1dVOG4yN2lpRGtyU09pa3p0MHM2NEdB?oc=5",
+     "date": "2026-10-30",
+     "source": "news.sbs.co.kr",
+     "label": "South Korea",
+     "snippet": "",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Affects work visas"
+     ],
+     "tags": [
+      "Work visa",
+      "South Korea"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 7,
+     "priority": 70,
      "title": "Iceland Plans to Tighten Permanent Residency Rules for Foreigners",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ3B2OXVQVm0tbVhjbXlUb0FwZmVtMll0Y3p3bl9oTnUyb3l4c1pyUDloWnNxVGdhSTNTbG56T1c1WG12VUVLVXMyNUFMaHYwUnhZWGpab2hPT3FRZzNUampjRmJfRmtrMHZYM3V6ei1ldWVlMlFKOWJVOVpCWHRZV0ZRa2dURDh5RDJIWXJRcGdGQzRtbW1ybzZHalFEY2FEdWlz0gGoAUFVX3lxTE13Q3pEeWNISzdYWmhSYWliM1RIRUxxdVlfa3czcnZlNXlvOXJaN3RvNGdCYkZja1VmY0gzNkJDZUV6Ty00UVFKWDFwLU9qb19BdnN6Tmw0d1NodU1DcWhDQjBmNHJILU9JcTEzYTVnSGpIbnNNZDREWE8wRGhYUEl3cTZSV3htYklwRHVPay1VUHNvUEtwQVlmSjhKYzA5OUJjdW9XeXliNw?oc=5",
      "date": "2026-10-29",
@@ -282,15 +300,15 @@
     },
     {
      "desk": "Immigration",
-     "score": 7,
-     "priority": 64,
-     "title": "Danish court rejects disabled woman’s discrimination claim over citizenship refusal",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEhOb2F4RzZ5dTNhUExPRDZfR2FIcUtwUUlaVDFKMVJYdVdfeVg3UzRLaFIyd2phdG1QaWRsWTczMldjb0Z3MEpwcTBJU3phTWJLakJCWVcwdDkySGp5U3QzSTJzdVg2Z2xuM3poMDBBOGF0cm5lZk5BQUY5YkNYUGp3YkJuUEs3VXFidHlUYllrajVONnJlQ0NMN2tTc2hWNko5WGRteEo5eDl3MWJmNWhoWVNIdDdoMTJFMHdR?oc=5",
+     "score": 6,
+     "priority": 60,
+     "title": "Danish court rules citizenship denial to woman with disability was not discrimination",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU1oyZ3AwMFRxQ2Fyb01FcFFxdVJSSXY0R1BaUjNkWEwxbDduTWZBelVwTmNPZHNxak1XUHlzNDNGSmxWV01uSkVCOEk0djM3eEh1SzR5bVQ3eGFBaGtSZVB1c1E1UjJ2Ym8tUjBkdE1xWnNEMEtKa0I0WnBEb1E5MmZCdG5jZ19ibHlsU2RWQzJ6WHktRlBPeUhSUkxhaWUzUmhSRVM5aVNCRUpMajhPbllYcXl4dTZKanFpRFhvTjhHdw?oc=5",
      "date": "2026-10-30",
      "source": "The Copenhagen Post",
      "label": "Denmark",
-     "snippet": "Denmark’s Eastern High Court ruled Friday that a woman with a disability had not faced unlawful indirect discrimination when authorities rejected her application for Danish citizenship. The court ruled in favor of the Ministry of Immigration and Integration, according to a statement on its website. The Palestinian woman arrived in Denmark",
-     "lead": "Denmark’s Eastern High Court ruled Friday that a woman with a disability had not faced unlawful indirect discrimination when authorities rejected her application for Danish citizenship. The court ruled in favor of the Ministry of Immigration and Integration, according to a statement on its website. The Palestinian woman arrived in Denmark in 1999. Ten years later, she was involved in a traffic accident and was subsequently granted a ...",
+     "snippet": "A Palestinian woman who was denied Danish citizenship because she could not meet the country’s self-support requirement has lost her discrimination case against the Ministry of Immigration and Integration. Denmark’s Eastern High Court ruled Friday that the decision did not constitute unlawful indirect discrimination based on her disabilit",
+     "lead": "A Palestinian woman who was denied Danish citizenship because she could not meet the country’s self-support requirement has lost her discrimination case against the Ministry of Immigration and Integration. Denmark’s Eastern High Court ruled Friday that the decision did not constitute unlawful indirect discrimination based on her disability, according to a statement published on the court’s website. The woman arrived in Denmark in 1999 ...",
      "image": null,
      "why": [
       "Affects citizenship"
@@ -302,8 +320,8 @@
     },
     {
      "desk": "Immigration",
-     "score": 7,
-     "priority": 64,
+     "score": 6,
+     "priority": 60,
      "title": "New Zealand visa changes for Indian students: What the India–New Zealand trade deal means for studying and working abroad",
      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNUUNkNURmc21wN3JSQ1VTRi1pU0N3RllzNktVd1FPSW9KWWVTR1FDRnpFa3ZIU1FiYU5IWWZ4aHpFRF8ydjcyWHdDRjlrc2NXMWNKWHVTV2JRZXhJRTBqaXFLRlVrcU5paGppM3gyOHQ1ZXBnc0FfWFFTNXZCZVkzUEc5T0FMUUhtZmZYNmZ3NDJpSzk5eDIyd0VZYWtZUEFOQVdGbllPN1hCY24wM1JGS2gtaHVfQ3B4WEFkWDlNVlFReHd3ZVZiaVhRbElHcTBLTzIyUFo2czR6OFhKelI1Z2VGZHpXd1dmMUU5eTQtVWpJM2g0MzJVNVk1amQyOVZYZW0tUlYtOGZMUFdMNkk5VDc0OXB3ZTFP?oc=5",
      "date": "2026-10-29",
@@ -320,59 +338,59 @@
       "Student / Graduate",
       "New Zealand"
      ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 7,
-     "priority": 64,
-     "title": "Luxembourg visa overhaul sparks fears of longer waits and lost talent",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdTJWMmJQZjlzYkVJbVpIRDI4TkI5XzFNaHU4akdNczJ6cnIyQnlqR29NUUJkcWVTLTYyd252X2NDMU8zMEFCNU1TQnZ6UFdGcnRXRHpFX1Z2YTBnNzdLYUhScGdzWElBbTM4STBLbTZkSFl6OUh2eWJVRVBHREdMMVZuUlVjTGhidlV5ZFZrbUxPRHRrbDA5eG5EbkJhLXhmVEZRNXNNWlk2bHEwbFhYUXFFNkNya1R6RThN?oc=5",
-     "date": "2026-10-29",
-     "source": "Luxembourg Times",
-     "label": "Luxembourg",
-     "snippet": "",
-     "lead": "",
-     "image": null,
-     "why": [
-      "Affects work visas",
-      "Announces a change"
-     ],
-     "tags": [
-      "Work visa",
-      "Luxembourg"
-     ]
     }
    ]
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 11,
+   "new_today": 3,
    "items": [
     {
      "desk": "Advisory",
      "score": 10,
-     "priority": 77,
-     "title": "Gold Price Forecast: Why Are Gold Prices Still Falling After the Fed Pauses Rate Hikes? September PCE May Determine Gold's Direction",
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVlUVV84Y29zTEZ0WGVyWTdJUll5N1FSNTJ2S211YjNUajE3ZUhwdTZja3E3SWQ5Y2ZIam5maG55ZWptMU5UUTJCRTBRVnFYMl9Kd3BNaXpVaFY3VUtaeWtqQWh0S0hkOWFZMWl6SGUxekNob2gzYTBhcnpYNkN2bWtMdEVKbzJlRFJYcld4NFB6YjNSZndWZFhKb2RMRUpKZDJMSW9oQzlJZFlqUTlxeF9hajY?oc=5",
-     "date": "2026-10-29",
-     "source": "TradingKey",
-     "label": "Gold & Silver",
-     "snippet": "TradingKey - On Thursday (October 29), gold prices (XAUUSD) continued to pull back after the Federal Reserve announced its latest interest rate decision. As of the Asian trading session on October 29, gold was trading lower near $4,025, down approximately 1% on the day. Although the Fed held interest rates unchanged as expected, market pa",
-     "lead": "TradingKey - On Thursday (October 29), gold prices ( XAUUSD ) continued to pull back following the Federal Reserve's latest interest rate decision. As of the Asian trading session on October 29, gold was trading down near $4,025, with an intraday decline of around 1%. Although the Fed held interest rates steady as expected, the market remains cautious about the U.S. inflation outlook. The September PCE data scheduled for release today ...",
-     "image": "https://resource.tradingkey.com/uploads/20261029/xauusd-f2536b88310243be9f169eab40583a38.jpg",
+     "priority": 83,
+     "title": "Sebi Revises REIT Norms: Key Changes Investors Should Know Going Forward",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRXBjbjRRSF9FVzU3XzY5OTduUVBpM183c0ZsdGlVT0JzTzVpWEcybzJvTFJJMlkzdWh3ZkxlN1U0bFN0ZXM1TE1YdTFZcnN1VEgtZFpaaHZJZlA2QmRBbTZNWEcxcmliSmVfbnhaZVlVZnc0R2tnOEV6a1pfdGFBdHBPR1k0TjBsMDNDdHJNUXFUazZXT2JrbnNnQ2h4YjRiajlacjRjWDlzVC1IbGcxQlQ2cUJaSWVDVndPUENuTDB5UEJ3dWw1bXJFNGloLTdlbzgxag?oc=5",
+     "date": "2026-10-30",
+     "source": "cfo.economictimes.indiatimes.com",
+     "label": "REITs & InvITs",
+     "snippet": "The Securities and Exchange Board of India (Sebi) has revised REIT regulations, impacting voting requirements, sponsor exit options, and the issuance of depository receipts. Discover how these changes may affect REIT governance and investor protection.",
+     "lead": "We encourage you to review our Terms of Service , and Privacy Policy . By continuing, you agree to the Terms listed here. In case you want to opt out, please click \"Do Not Sell or Share My Personal Information\" link in the footer of this page. We won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or shared ...",
+     "image": "https://etimg.etb2bimg.com/thumb/msid-135350561,imgsize-4001943,width-1200,height=627,overlay-etcfo,resizemode-75/policy/sebi-revises-reit-norms-key-changes-investors-should-know-going-forward.jpg",
      "why": [
-      "Interest-rate decision",
-      "Precious metals",
-      "Global macro driver"
+      "REIT / InvIT news",
+      "Regulator: SEBI or RBI",
+      "Rule or framework change"
      ],
      "tags": [
-      "Gold & Silver"
+      "REITs & InvITs"
      ]
     },
     {
      "desk": "Advisory",
      "score": 10,
-     "priority": 77,
+     "priority": 83,
+     "title": "Indian bond yields spike 30 bps in October on rising oil prices, RBI rate hike fears",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSDhSRmxtLWh6Q3diZVJzQ0o0TEdGc0RSREYzRG9MdDY0WmV0N3lxcEkya1lPS1FSVURIUFRmdk80WG9xNTRYOGxCZS0wM3dGWEVpNTJLOWpGYnRiVkJJVU9FUnl0WVRGU3VvMUJPSlREcDBhWFVrZ2M3dk5uM0xhMmtOMVJIaWFEWVQ3MENuVlpBOEtrYVBWZVlzRDZHQ1RSejNIYWpfcjBCd0lFekk1cjE2M2M0Z9IBvAFBVV95cUxOcnRfZ0laVUFJWlo3Vkw5ZnBtdFUzQWJjd2pMMmMtZ19pQWoybEZBUHBseWJpX2htOTlTVzZCMGxpXzFrTWR0WlFyMmhKeWlPUzd0R0JXSVpvTENhcldKd3ZHT3NlLW55R3FmQkszLUNQV3FJTDR6U3hJN3NxamJfbWg5dlVHUlF0Um16UWEtZ3ZJVHhKcGNwTkVTVGdWaFNQRV8wc0FUbTVSTFEzeUhRbzZYbFd4UmxyVXRKaQ?oc=5",
+     "date": "2026-10-28",
+     "source": "The Financial Express",
+     "label": "Debt & Bonds",
+     "snippet": "",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Regulator: SEBI or RBI",
+      "Interest-rate decision",
+      "Government bond yields"
+     ],
+     "tags": [
+      "Debt & Bonds"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 83,
      "title": "RBI rate hikes: How short-duration funds and high-quality corporate bonds can protect your debt portfolio",
      "url": "https://economictimes.indiatimes.com/mf/analysis/rbi-rate-hikes-how-short-duration-funds-and-high-quality-corporate-bonds-can-protect-your-debt-portfolio/articleshow/135203881.cms",
      "date": "2026-10-26",
@@ -392,42 +410,24 @@
     },
     {
      "desk": "Advisory",
-     "score": 9,
-     "priority": 69,
-     "title": "SC dismisses Mahua Moitra plea seeking SEBI mandate for public disclosure of identities of ultimate owners of AIFs, FPIs",
-     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUlRhVU1NTFZJdHc2MTlGVlVTdGZpYmpVVzM1N2xhQ0FOOHdPRGdYTkthU1ZubnF1a3pqWHBCcnZ3bW0yU1pnTUsyVHlDZHI0Zk1INUx1VEhxODQ2UGpjNDVuR3JTeGlMSDdBdnA1Uno2UGQyWWN5MHotM25DWVQ2SHAzZUFwRFd3NnFjaFVSaFJINlpxWmNPb05yRU9jUEt0WEQzQXJJdG1iU3lkd19POEo3WHVaMXFDVTBqY1ZYSkJoVXVFeXRPNWxiV2tMWTU1RVQycFdEMm5xTGR0RWh0VVgyeGl2OGFuR1MtdWMwa2oxbkU?oc=5",
-     "date": "2026-10-29",
-     "source": "India's News.Net",
-     "label": "AIF",
-     "snippet": "The Supreme Court on Thursday dismissed TMC MP Mahua Moitra's plea seeking a direction to the securities market regulator SEBI to mandate public disclosure of the identities of the ultimate beneficial owners, or persons who ultimately own or control investments, in Alternative Investment Funds (AIFs) and Foreign Portfolio Investors (FPIs)",
-     "lead": "New Delhi [India], October 29 (ANI): The Supreme Court on Thursday dismissed TMC MP Mahua Moitra's plea seeking a direction to the securities market regulator SEBI to mandate public disclosure of the identities of the ultimate beneficial owners, or persons who ultimately own or control investments, in Alternative Investment Funds (AIFs) and Foreign Portfolio Investors (FPIs), holding that such a direction could not be issued by the ...",
-     "image": "https://chitra-api.kreatio.com/api/v1/wps/0ef9f01/542d6007-9ff0-4d68-acac-ce4bcdd8f8fa/0/ANI-20261029075300-600x315.jpg",
+     "score": 10,
+     "priority": 83,
+     "title": "Gold, silver face fresh test as oil surge puts Fed policy decision in focus",
+     "url": "https://www.business-standard.com/markets/news/gold-silver-face-fresh-test-as-oil-surge-puts-fed-policy-decision-in-focus-126102500493_1.html",
+     "date": "2026-10-25",
+     "source": "Business Standard",
+     "label": "Gold & Silver",
+     "snippet": "Gold and silver are expected to face fresh headwinds next week as surging crude oil prices revive inflation concerns, while the US Federal Reserve's policy decision could determine whether bullion rates stabilise or extend their downward trend, analysts said.",
+     "lead": "Gold and silver prices slide as rising crude oil prices and expectations of tighter US monetary policy weigh on bullion. | Image: Adobe Stock Gold and silver are expected to face fresh headwinds next week as surging crude oil prices revive inflation concerns, while the US Federal Reserve's policy decision could determine whether bullion rates stabilise or extend their downward trend, analysts said. The precious metals, already battered ...",
+     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/07/thumb/fitandfill/1200X628/1775547425-5107.jpeg",
      "why": [
-      "AIF news",
-      "Regulator: SEBI or RBI"
+      "Precious metals",
+      "Global macro driver",
+      "Sharp market move",
+      "Also covered by 3 other outlet(s)"
      ],
      "tags": [
-      "AIF"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 69,
-     "title": "Check latest update on Mutual Funds from SEBI Chairman Tuhin Kanta Pandey; to be implemented from Nov 1 | What he said",
-     "url": "https://www.livemint.com/money/check-latest-update-on-mutual-funds-from-sebi-chairman-tuhin-kanta-pandey-to-be-implemented-from-nov-1-what-he-said-11793266816517.html",
-     "date": "2026-10-29",
-     "source": "Mint",
-     "label": "Mutual Funds",
-     "snippet": "SEBI will make direct mutual fund plans the default on asset management companies' digital platforms from November 1, 2026. Investors may still choose regular plans but must be told they carry higher costs. Details here.",
-     "lead": "Check latest update on Mutual Funds from SEBI Chairman Tuhin Kanta Pandey; to be implemented from Nov 1 | What he said ( REUTERS ) AI Quick Read The Securities and Exchange Board of India (SEBI) will make direct mutual fund plans the default option on asset management companies’ (AMCs) digital platforms from November 1, 2026, markets regulator chairman Tuhin Kanta Pandey said at NDTV Profit Ignite’s Diwali event. Meanwhile, investors ...",
-     "image": null,
-     "why": [
-      "Regulator: SEBI or RBI",
-      "Also covered by 2 other outlet(s)"
-     ],
-     "tags": [
-      "Mutual Funds"
+      "Gold & Silver"
      ]
     }
    ]
@@ -436,7 +436,7 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 13,
+   "score": 12,
    "priority": 100,
    "title": "Jio Platforms Q2 Profit Rises 14% YoY To ₹8,387 Cr, Revenue Up 11%",
    "url": "https://inc42.com/buzz/jio-platforms-q2-profit-rises-14-yoy-to-%e2%82%b98387-cr-revenue-up-11/",
@@ -459,7 +459,7 @@
   },
   {
    "desk": "Startups",
-   "score": 13,
+   "score": 12,
    "priority": 100,
    "title": "SEBI Greenlights Atomberg’s ₹450 Cr+ IPO",
    "url": "https://inc42.com/buzz/sebi-greenlights-atombergs-%e2%82%b9450-cr-ipo/",
@@ -482,8 +482,55 @@
    "must_read": true
   },
   {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 100,
+   "title": "SEBI Eases KYC Norms For Foreign Investors, Extends Review Period To Eight Years",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGsyY2t2TU9YTVNyOFpkUlY2Q1dDM3ZPa3hxMlowcHZMSkVKNi1LWHpjNmxjdTgzOC15RWE3VjNJWG9jeDFSdEtsYU1BRU9ManF6UmNqSXFERUY5OURjODFId2hrQUJpdzd0RHBNaklZZGJha2piWGpoc19mb2VVbE9jOUh1UVZGMl80cFhpaUNlUExjdFV3cW5KVHFEX2FJSVNnOVNKNHQyZmRWMU5jU3RJbExRLVNFR3d2ckJ6M1Rnd9IBygFBVV95cUxQWUozUk1wczZhRXhWV21VdE1XbW4xYmtnQlJOa3IyVzZwR2ktMUpKQ1RlVGpGaGpfeEpJcTZ5TXRBMWsxWlRVdXVFQ2pPRUFyeDVUVmlZczhMZE5tRVVHUHQ2NUl0UVY4Qmk5WUV1QzJBZURLY2QyaW9iekp5UEx5RG1UUnRnZzlpdFFyLUVKdFFOVUR3RVF1MHhjWGdjVnRVN0JqWGdFWDJwQmNuRGJsQmR1VG96Z3A5LXlrcDJwQmpxWnVhWlNmck9B?oc=5",
+   "date": "2026-10-30",
+   "source": "NDTV Profit",
+   "label": "Regulatory",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Rule or framework change",
+    "Also covered by 4 other outlet(s)"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 3,
+   "must_read": true
+  },
+  {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 100,
+   "title": "Gold price crash accelerates as crude oil rises and odds of Fed rate hike jumps",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS1B3azI3dnVrUFY3RFlnQmRnSHpBVWUzc2RnaWZobzJoazBPb2JIcTlaclNrTEVmUkRiNHBZVV9ELWt1NnplQnNYbVZJVlpHVjhzXzZ3aXM1YmhaTUN6VFNIWTVHdWdLRXlmVUkyYmZDb2VIQ3lEYUVRbUJ6TnJ5TzV4aGloSzU2NEZIS0RNMzRsdVBIamlEV1ZjVkl3VWt0TjRJdnVjdHZJYlkwa21Bc0MyZU5TSDhkTktyR1Q4SDlRQ1VBS1loUDdhY1k1ZVZ1VVE?oc=5",
+   "date": "2026-10-30",
+   "source": "TradingView",
+   "label": "Gold & Silver",
+   "snippet": "Gold price continued its downward trend, reaching its lowest level in months as demand waned after the hawkish Federal Reserve interest rate decision. It dropped to $3,925, down modestly from the August high of $4,700. This sell-off may continue as President Donald Trump prepares to escalate his at…",
+   "lead": "XAUUSD Gold price continued its downward trend, reaching its lowest level in months as demand waned after the hawkish Federal Reserve interest rate decision. It dropped to $3,925, down modestly from the August high of $4,700. This sell-off may continue as President Donald Trump prepares to escalate his attacks against Iran. The daily chart shows that gold has come under pressure in the past few weeks, moving from a high of $4,700 in ...",
+   "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "why": [
+    "Interest-rate decision",
+    "Precious metals",
+    "Global macro driver",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Gold & Silver"
+   ],
+   "rank": 4,
+   "must_read": true
+  },
+  {
    "desk": "Immigration",
-   "score": 11,
+   "score": 10,
    "priority": 100,
    "title": "Canada introduces new fines for bogus, unlicensed immigration and citizenship advice",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWllnZHEyNmc4V1gwX0xTMnFwSnBPaVhYdC1mX0lxUS1peVNSU2RHVVdRaDNkbVRRWHlTZGkzZ003amFPYlFaMkJNdlVuMVJ6OXE3M2wtNmsydm5aYTYwbDlIdFBIc0NKRmFtWHVmUUZmYUdzTkNjRWZGUUpFWTFzVFJva2QtQks0U0thTHZzd0JHN0R2b21VNVpHX1BqSEpPOV9QVjlxTThzbDRMUGlCMzJsRzJTNlZrQXU0dlpMaUFHZE9uT3Fr?oc=5",
@@ -496,18 +543,18 @@
    "why": [
     "Affects citizenship",
     "Announces a change",
-    "Major story (17 headlines that day)"
+    "Major story (19 headlines that day)"
    ],
    "tags": [
     "Citizenship",
     "Canada"
    ],
-   "rank": 3,
+   "rank": 5,
    "must_read": true
   },
   {
    "desk": "Advisory",
-   "score": 13,
+   "score": 12,
    "priority": 100,
    "title": "SEBI makes direct mutual fund plans default on AMC digital platforms from November 1",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQUR3R2U3VHRuTGkwUzdQV2JKZ1c3TmZlZnd1RURhWGRWWUMxZC1UWTNpbTVISVJvd0k2WUNFckJ1Q1NwQzNXX2hXajhEd2lVTnJZNTQzcE9rTU55S25uWFg4THM2WFp5UkhOVmxlaWVLWVplemx5ZWtsZWRabDFHMUZ4YlBaa05xcUVubW04OFpuVVNYR2ZzeHFoZk45Y0RJMmNBTy03S0NOMGRMZjJHblAweU5QV0ZzU0hGVnpYc2JtR2RHRkE?oc=5",
@@ -525,12 +572,12 @@
    "tags": [
     "Mutual Funds"
    ],
-   "rank": 4,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 14,
+   "score": 13,
    "priority": 100,
    "title": "Cabinet approves Container Manufacturing Promotion Scheme",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329476",
@@ -548,12 +595,36 @@
    "tags": [
     "Industry & Manufacturing"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 100,
+   "title": "RBI quietly effects another rate hike via tighter liquidity to counter crude surge and rupee fall",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRVlrUXRJR2JNQmxJSTNzbGxxcXZZSnFfU1VvMGx5dEo5Q204UnpWMU5PZE1JVlhfa3drak5aWmdMc09sZmdvR2FpTFJJOVNNbmlVcUQzNHBJZnV2SFhjN21GTzNDS2JIb2xkNGJ6bldhNTFWRURTakxOLWJNUkJJSkthcWU2OHRiazNWVV9yZVZSSU55dmVaenA2NEcwYlB6UGV6Ni1KZkJYaHF0UTUtWFUxd3Q4MFNuQm5Cc1o1NmNzRUpPaUxXeUlEbGt2SFFXT2hERktETUEzRXl0dG9RMHRaRm5ORjhY0gHuAUFVX3lxTFBjSlBtMk9DVW82cVpmRVk3UExiNmU5aExnbzM5ZHJmTWlUV05veWJzZUxyclFZVjMtM1l1dGl5SnMtR2FvVGZtNl9scm5TeWh4bnlnMnN5WU5vaTh3c2ozX3YzRUNNeHlpVnZGSzdUR1lTTzZfNVRQUm1tVjJjZmZSdFVzSXpLcHVxLXZSUEtGa1VZRTZ0cTZ3bmNPRVRLdGphNzRGVEpESDVWUEM5LU5sQUZMOWRGd251Tm8zSGcwaTNSN3J6OXJ2R01OMXVJMndaeG9LalVTM1pxUzd3MUVvaF9qR1U4cHlDUzIzclE?oc=5",
+   "date": "2026-10-27",
+   "source": "Moneycontrol.com",
+   "label": "Regulatory",
+   "snippet": "The reason for the tightness is an obvious fall in liquidity due to a mix of factors: dollar sales by RBI along with GST payment outflows around Oct 20 plus cash withdrawals which are typical during the festive season.",
+   "lead": "Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account ->-> Go PRO Now PRO Start --> Start --> PRO Markets Start --> HOME INDIAN INDICES GLOBAL MARKETS STOCK ACTION All Stats Top Gainers Top Losers Only Buyers Only Sellers 52 Week High 52 Week Low Price Shockers ...",
+   "image": "https://images.moneycontrol.com/static-mcnews/2026/01/20260123153224_RBIRTR1.png",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Global macro driver",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 8,
+   "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 92,
    "title": "Delhivery Posts ₹41 Cr Profit In Q2, Revenue Crosses ₹3,000 Cr Mark",
    "url": "https://inc42.com/buzz/delhivery-posts-%e2%82%b941-cr-profit-in-q2-revenue-crosses-%e2%82%b93000-cr-mark/",
@@ -572,12 +643,12 @@
     "Financials",
     "Logistics & Supply Chain"
    ],
-   "rank": 6,
+   "rank": 9,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 92,
    "title": "OpenAI-backed Thrive Holdings acquires ADT",
    "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
@@ -595,12 +666,35 @@
     "Acquisition",
     "AI & Deeptech"
    ],
-   "rank": 7,
+   "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 92,
+   "title": "Sebi makes direct plans default: Know how much investors can save on SIPs",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOckRPWmk2SllQWUFzWFdlaFBHTE1wczFLUG9tem13Qm9jX2owdmo2Ym1XQXNObXVtQUtQNUg2QkZJOVhsTjM5emVid01sa3MtQ1poSkhPTTY5cTFqWGNwT2Y2Q3ljTXQ5eVlNOTNaU1FfV2I5SmQyVUVxZExLQVlIejNCdU96VGY3MkMycEtINjlXRTZ1TkZSSjM5ZmQ0Y3FqS0NHcnFSNFMtM0tSd05tOHgwM3VYeUFNZll0WUswY2JkWTlOUmhCY2RlQXM5NjRCNFFyaFJwMXNvaXJ0ZlVKWnZ3OG9vWnc5Rlh30gHrAUFVX3lxTE5yRE9aaTZKWVBZQXNYV2VoUEdMTXBzMUtQb216bXdCb2NfajB2ajZibVdBc05tdW1BS1A1SDZCRkk5WGxOMzl6ZWJ3TWxrcy1DWmhKSE9NNjlxMWpYY3BPZjZDeWNNdDl5WU05M1pTUV9XYjlKZDJVRXFkTEtBWUh6M0J1T3pUZjcyQzJwS0g2OVdFNnVORlJKMzlmZDRjcWpLQ0dycVI0Uy0zS1J3Tm04eDAzdVh5QU1mWXRZSzBjYmRZOU5SaEJjZGVBczk2NEI0UXJoUnAxc29pcnRmVUpadnc4b29adzlGWHc?oc=5",
+   "date": "2026-10-30",
+   "source": "Business Standard",
+   "label": "Mutual Funds",
+   "snippet": "SEBI Mutual Fund Rules: Investors opting for regular plans will have to be informed about their higher costs, as the regulator seeks to improve transparency and protect mutual fund investors",
+   "lead": "Investors opting for regular plans will have to be informed about their higher costs, as the regulator seeks to improve transparency and protect mutual fund investors",
+   "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/28/thumb/fitandfill/1200X628/1787909632-6876.JPG",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Credit rating change or default",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "Mutual Funds"
+   ],
+   "rank": 11,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 92,
    "title": "This fintech wasn’t ‘actively’ fundraising. Then it closed a $90m round at an $800m valuation",
    "url": "https://sifted.eu/articles/spiko-interview/",
@@ -619,59 +713,12 @@
     "Funding",
     "Fintech"
    ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 12,
-   "priority": 92,
-   "title": "US Fed FOMC pauses interest rates: Can Nifty bulls take charge or will RBI hike spoil the rally? Investors guide",
-   "url": "https://www.livemint.com/market/stock-market-news/us-fed-fomc-pauses-interest-rates-can-nifty-bulls-take-charge-or-will-rbi-hike-spoil-the-rally-investors-guide-11793260941657.html",
-   "date": "2026-10-29",
-   "source": "Mint",
-   "label": "Regulatory",
-   "snippet": "The Fed’s decision to hold rates offered temporary support to Indian equities, but Emkay expects the RBI to raise rates by 75 basis points by February 2027. Elevated oil prices, inflation and tighter domestic policy could limit gains, leaving the Nifty’s outlook uncertain.",
-   "lead": "US Fed keeps rates unchanged (AI-generated image for representational purposes) AI Quick Read The US Federal Reserve's decision to keep interest rates unchanged has offered some support to Indian equities, but the relief may prove short-lived if domestic interest rates rise in the coming months. Sensex jumped 762 points or 1% to the day's high of 74,007.70, while the broader Nifty 50 rose 210 points or 0.9% to an intra-day high of ...",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Global macro driver",
-    "Sharp market move",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 12,
-   "priority": 92,
-   "title": "RBI releases data on ECB / FCCB / RDB for August 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63882",
-   "date": "2026-10-29",
-   "source": "RBI",
-   "label": "Regulatory",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The Reserve Bank of India has today released the data on External Commercial Borrowings (ECB), Foreign Currency Convertible Bonds (FCCB) and Rupee Denominated Bonds (RDB) through General Permission and Special Permission for the month of August 2026.",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Global macro driver",
-    "Official notice"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 10,
+   "rank": 12,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 92,
    "title": "Cognizant In Talks To Invest In Sarvam At $3.5 Bn To $4 Bn Valuation: Report",
    "url": "https://inc42.com/buzz/cognizant-in-talks-to-invest-in-sarvam-at-3-5-bn-to-4-bn-valuation-report/",
@@ -690,13 +737,13 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 11,
+   "rank": 13,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 10,
-   "priority": 91,
+   "score": 9,
+   "priority": 90,
    "title": "Could Austria finally change its rules on citizenship for children born in the country?",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUlkRHhWc1Jzdk9UVkRPLXllZFZLOUtFZGpkRzFNdDdvUEZuVEdGVHc0anlxd0l5WVpUT25lZ0hEaldjZzgtMVlhNXIyWnp0OHhyYjdwb1p5d204VjloeHh4NEgtZGZWX0IzcHRhS1hncTBxa0djSVdzX3dkNFNzSE92UnVQelF1NU80MHFiMVk0ZkU3LTB0ZjZ5SF9XYldyMV9ud0I3RkhwTFFWXy00Q01nMHNVdW0tT0NR?oc=5",
    "date": "2026-10-30",
@@ -713,36 +760,60 @@
     "Citizenship",
     "Austria"
    ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 85,
-   "title": "Indian bond yields spike 30 bps in October on rising oil prices, RBI rate hike fears",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSDhSRmxtLWh6Q3diZVJzQ0o0TEdGc0RSREYzRG9MdDY0WmV0N3lxcEkya1lPS1FSVURIUFRmdk80WG9xNTRYOGxCZS0wM3dGWEVpNTJLOWpGYnRiVkJJVU9FUnl0WVRGU3VvMUJPSlREcDBhWFVrZ2M3dk5uM0xhMmtOMVJIaWFEWVQ3MENuVlpBOEtrYVBWZVlzRDZHQ1RSejNIYWpfcjBCd0lFekk1cjE2M2M0Z9IBvAFBVV95cUxOcnRfZ0laVUFJWlo3Vkw5ZnBtdFUzQWJjd2pMMmMtZ19pQWoybEZBUHBseWJpX2htOTlTVzZCMGxpXzFrTWR0WlFyMmhKeWlPUzd0R0JXSVpvTENhcldKd3ZHT3NlLW55R3FmQkszLUNQV3FJTDR6U3hJN3NxamJfbWg5dlVHUlF0Um16UWEtZ3ZJVHhKcGNwTkVTVGdWaFNQRV8wc0FUbTVSTFEzeUhRbzZYbFd4UmxyVXRKaQ?oc=5",
-   "date": "2026-10-28",
-   "source": "The Financial Express",
-   "label": "Debt & Bonds",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Government bond yields"
-   ],
-   "tags": [
-    "Debt & Bonds"
-   ],
-   "rank": 13,
+   "rank": 14,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 9,
-   "priority": 82,
+   "priority": 90,
+   "title": "Thailand revokes Jewish community leader's citizenship over 16 trips to Australia on US passport",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVG1ZZEFrN2dXZEtPdFpEM2FZVG5kNGlNRGtlWnkxcFlDcnJNaGtlTUxPeml6aDF1WXJ0eDFVSWVwWS1JMmJWd1ZMNmZSTGRYX2dlQjVDYWhVMjhNQWtQOC1KdWF1WTFaVVRCOFREaFZJcXdzcFo0LWpJV3kzc3BGVkJfemNzdUQ3U2VNLU1kVnRSU3ZZY1M5bE9aS24ta0dhdmRsZHpNOWt2VThIR3lUd09nNXVteU85MTM0TV85YjloUGg3QU9VaGdvQlY2djhQN2x1UTlZOFdxU2M?oc=5",
+   "date": "2026-10-30",
+   "source": "VnExpress International",
+   "label": "Australia",
+   "snippet": "Thailand has stripped Rabbi Yosef Chaim Kantor, a leader of its Jewish community, of his citizenship, saying he kept using his U.S. nationality after being naturalized.",
+   "lead": "News Politics Education Environment Traffic Crime Brainteaser Copy link Most Read 1. Hong Kong airport becomes first to earn international digital identity certification 2. Asia’s second-richest person among world’s biggest wealth losers following record IPO 3. Asia's most favorite island welcomes 2.1 million foreign tourists in 10 months, exceeding 2026 target 4. NUS scientists develop world's first washable touchscreen woven into ...",
+   "image": "https://vcdn1-english.vnecdn.net/2026/10/29/thairabbicitizenshipthumb1500x-7574-3485-1793272718.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=5jizo-VUA5EOpojmyfcthg",
+   "why": [
+    "Affects citizenship",
+    "Major story (8 headlines that day)"
+   ],
+   "tags": [
+    "Citizenship",
+    "Australia"
+   ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 90,
+   "title": "Nigeria Immigration Service extends UK passport intervention exercise to November 27",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNVo1RlBoeW5HV1RLcWR2bzNtSDFZd3N3R29veFA1ZUFCZGhicnBDNVNTZE9mbmJXRVVTa2tUajFwTFFubjNsMS1xM3liUW9vNXdrX0dHYUtQd1AyOXdsS2JXblNRVkYzQng2S1hxYU1LNTRmR1Z4UWxYcU04SHRDR1MyNmszMjZobDBlSGg4aDc1WFIxTkxJclFmRVFLNUl4X1VCazk1TVR4a3NYVDFpZmpreXFCeDZNdFBkQml3?oc=5",
+   "date": "2026-10-27",
+   "source": "Nairametrics",
+   "label": "United Kingdom",
+   "snippet": "The Nigeria Immigration Service (NIS) has further extended its Special Passport Intervention Exercise in the United Kingdom until November 27, 2026, following sustained demand from Nigerians seeking passport services.",
+   "lead": "UK to impose $1,200 levy on universities for Nigerian, other foreign students",
+   "image": "https://cdn.nairametrics.com/wp-content/uploads/2026/09/kemolala.webp",
+   "why": [
+    "Affects citizenship",
+    "Announces a change",
+    "Major story (13 headlines that day)"
+   ],
+   "tags": [
+    "Citizenship",
+    "United Kingdom"
+   ],
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 8,
+   "priority": 80,
    "title": "Switzerland sets date for vote on bid to cut wait times for Swiss citizenship",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYWhwLVFsSk5ZaDBiampxb2lvVWt4djdrM3Byc1pETEF4WWdkMnMteTdzcm5RZi15czBwWnltaDh4Vl9qbTJKczVNYmhOZmNJd0pIdFQ0YTJ2eGNJc285N1hQSFBtOTc2eUpYNGliZllXeml1cjhOaTdTRkJLNWlpRkF5LXpkbWw4MXFQM3MtS0FaN19SbE5WUlVNbU9DYS1ZVnZGbUNBWkVHNGpYZ2M4?oc=5",
    "date": "2026-10-29",
@@ -759,37 +830,13 @@
     "Citizenship",
     "Switzerland"
    ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 9,
-   "priority": 82,
-   "title": "UK Budget 2026: immigration changes offer targeted relief for employers and universities",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUEtN3o1NUdpSFBUR0o1OHM3VWhUUVE3WVBGaldWek9CSHRuQk04UzRwS0lLMkEwd0E1SkU4VTNMU3ZlV181U0hub2JPN2RJdUViZ3JwVkp6djc3dkhQTFUtRHJZSkVFUE1KRElxUjhVRUVYUHFwWnNUZlhULWVLX2FFcU8?oc=5",
-   "date": "2026-10-28",
-   "source": "Pinsent Masons",
-   "label": "United Kingdom",
-   "snippet": "A series of immigration measures announced by the UK government in its Budget 2026 could provide greater flexibility for employers recruiting overseas talent, despite maintaining the broader objective of reducing net migration, an expert has said.",
-   "lead": "Sectors Services Locations Explore all Sectors Defence & Security Energy & Natural Resources Financial Services Infrastructure Life Sciences & Healthcare Professional & Public Services Real Estate Retail & Consumer Sport & Hospitality Technology, Science & Industry Explore all Defence & Security Explore all Energy & Natural Resources CleanTech Hydrogen, Bioenergy & CCUS Nuclear Oil & Gas Renewables Water & Hydro Explore all Financial ...",
-   "image": "https://www.pinsentmasons.com/-/media/images/seo-social-media/editorial-use-only/government---parliament/social-budget-immigration-pic.jpg?rev=0db58d89e9a64fa9bd50d3a9fa1f3cb2",
-   "why": [
-    "Affects work visas",
-    "Announces a change",
-    "Major story (24 headlines that day)"
-   ],
-   "tags": [
-    "Work visa",
-    "United Kingdom"
-   ],
-   "rank": 15,
+   "rank": 17,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 11,
-   "priority": 79,
+   "score": 10,
+   "priority": 77,
    "title": "Government notifies National Social Security Board for Unorganised Workers and Gig & Platform Workers under the Labour Codes",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330299",
    "date": "2026-10-30",
@@ -805,13 +852,13 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 16,
+   "rank": 18,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 11,
-   "priority": 79,
+   "score": 10,
+   "priority": 77,
    "title": "Cabinet approves Dearness Allowance to Central Government employees and Dearness Relief to Pensioners",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329484",
    "date": "2026-10-28",
@@ -827,13 +874,13 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 17,
+   "rank": 19,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 11,
-   "priority": 79,
+   "score": 10,
+   "priority": 77,
    "title": "Cabinet approves Pradhan Mantri Viksit Gram Swaraj Yojana as a Centrally Sponsored Scheme for 2026-27 to 2030-31",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329483",
    "date": "2026-10-28",
@@ -849,58 +896,13 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 18,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 77,
-   "title": "US Fed decides no interest rate hike: Outcome impact on gold prices in India and your investments; experts weigh in",
-   "url": "https://www.livemint.com/money/personal-finance/us-fed-decides-no-interest-rate-hike-outcome-impact-on-gold-prices-in-india-and-your-investments-experts-weigh-in-11793263488280.html",
-   "date": "2026-10-29",
-   "source": "Mint",
-   "label": "Gold & Silver",
-   "snippet": "The US Fed has kept interest rates unchanged at 3.75%–4%. What does this mean for gold prices in India? Experts share their outlook for the coming months and 2027, explain the risks for investors, and discuss whether jewellery buyers should purchase now or wait for a price correction.",
-   "lead": "US Fed decides no interest rate hike: Outcome impact on gold prices in India and your investments; experts weigh in. (AI-generated image for representational purposes only) AI Quick Read The Federal Open Market Committee (FOMC) kept the target range for the federal funds rate unchanged at 3.75%–4% on October 28, after a 25-basis-point rate hike in September. The US Fed ’s decision could influence gold prices in India, as gold is a ...",
-   "image": null,
-   "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver"
-   ],
-   "tags": [
-    "Gold & Silver"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 8,
-   "priority": 73,
-   "title": "\"Brought 10 Muslim Family Members to Korea on Work Visa\"... Checking the Viral Post",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NV0JsMjRvSmpTbEFKUF9rZmVsdk1WU09FVEVPeFBhSFgzcmlFZGtFclFlbHlLSTlfbDNONXYwVFlIRXFwOExPTndxVGJGdnRaa0FwRFhnN1dVOG4yN2lpRGtyU09pa3p0MHM2NEdB?oc=5",
-   "date": "2026-10-30",
-   "source": "news.sbs.co.kr",
-   "label": "South Korea",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Affects work visas"
-   ],
-   "tags": [
-    "Work visa",
-    "South Korea"
-   ],
    "rank": 20,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 9,
-   "priority": 64,
+   "score": 8,
+   "priority": 62,
    "title": "Extension of timeline with respect to compliance of Digital Accessibility Circulars",
    "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-with-respect-to-compliance-of-digital-accessibility-circulars_105523.html",
    "date": "2026-10-30",
@@ -922,29 +924,7 @@
   {
    "desk": "Policy",
    "score": 8,
-   "priority": 57,
-   "title": "Union Minister for MSME Shri Jitan Ram Manjhi releases ₹1,000 Crore Margin Money Subsidy under PMEGP to support 11,333 new Micro Enterprises across India",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329819",
-   "date": "2026-10-28",
-   "source": "PIB",
-   "label": "Infrastructure & Transport",
-   "snippet": "The Ministry of Micro, Small and Medium Enterprises (MSME), Government of India, achieved another si",
-   "lead": "Ministry of Micro,Small & Medium Enterprises Union Minister for MSME Shri Jitan Ram Manjhi releases ₹1,000 Crore Margin Money Subsidy under PMEGP to support 11,333 new Micro Enterprises across India Landmark PMEGP support facilitates Bank Credit of ₹3,260 Crore, generates over 1.02 lakh sustainable employment opportunities and promotes Inclusive Entrepreneurship in rural India Posted On: 28 OCT 2026 9:29PM by PIB Delhi The Ministry of ...",
-   "image": null,
-   "why": [
-    "Subsidy or incentive",
-    "Rule change"
-   ],
-   "tags": [
-    "Infrastructure & Transport"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 57,
+   "priority": 62,
    "title": "Monthly Flash Report on Central Sector Infrastructure Projects tracks 1,853 Infrastructure Projects worth ₹37.56 lakh crore as of September 2026",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2328472",
    "date": "2026-10-26",
@@ -959,6 +939,28 @@
    ],
    "tags": [
     "Banking & Rates"
+   ],
+   "rank": 22,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 7,
+   "priority": 54,
+   "title": "Union Minister for MSME Shri Jitan Ram Manjhi releases ₹1,000 Crore Margin Money Subsidy under PMEGP to support 11,333 new Micro Enterprises across India",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329819",
+   "date": "2026-10-28",
+   "source": "PIB",
+   "label": "Infrastructure & Transport",
+   "snippet": "The Ministry of Micro, Small and Medium Enterprises (MSME), Government of India, achieved another si",
+   "lead": "Ministry of Micro,Small & Medium Enterprises Union Minister for MSME Shri Jitan Ram Manjhi releases ₹1,000 Crore Margin Money Subsidy under PMEGP to support 11,333 new Micro Enterprises across India Landmark PMEGP support facilitates Bank Credit of ₹3,260 Crore, generates over 1.02 lakh sustainable employment opportunities and promotes Inclusive Entrepreneurship in rural India Posted On: 28 OCT 2026 9:29PM by PIB Delhi The Ministry of ...",
+   "image": null,
+   "why": [
+    "Subsidy or incentive",
+    "Rule change"
+   ],
+   "tags": [
+    "Infrastructure & Transport"
    ],
    "rank": 23,
    "must_read": false
