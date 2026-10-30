@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-30",
- "built": "2026-10-30 02:56 IST",
+ "built": "2026-10-30 08:32 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22699.0,
-   "change_pct": -0.22,
+   "value": 22937.0,
+   "change_pct": 1.05,
    "asof": "29 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 73246.0,
-   "change_pct": -0.48,
+   "value": 74151.0,
+   "change_pct": 1.24,
    "asof": "29 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.21,
-   "change_pct": 0.03,
-   "asof": "30 Oct 02:18 IST"
+   "value": 95.18,
+   "change_pct": -0.03,
+   "asof": "30 Oct 08:19 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 111.54,
-   "change_pct": -3.28,
-   "asof": "30 Oct 02:29 IST"
+   "value": 112.3,
+   "change_pct": -2.25,
+   "asof": "30 Oct 08:22 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4033.0,
-   "change_pct": -0.45,
-   "asof": "30 Oct 02:29 IST"
+   "value": 4008.0,
+   "change_pct": -0.58,
+   "asof": "30 Oct 08:22 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -164,8 +164,8 @@
    ]
   },
   "Startups": {
-   "total": 1052,
-   "new_today": 2,
+   "total": 1055,
+   "new_today": 5,
    "items": [
     {
      "desk": "Startups",
@@ -254,8 +254,29 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 0,
+   "new_today": 5,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 7,
+     "priority": 64,
+     "title": "New Zealand visa changes for Indian students: What the India–New Zealand trade deal means for studying and working abroad",
+     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNUUNkNURmc21wN3JSQ1VTRi1pU0N3RllzNktVd1FPSW9KWWVTR1FDRnpFa3ZIU1FiYU5IWWZ4aHpFRF8ydjcyWHdDRjlrc2NXMWNKWHVTV2JRZXhJRTBqaXFLRlVrcU5paGppM3gyOHQ1ZXBnc0FfWFFTNXZCZVkzUEc5T0FMUUhtZmZYNmZ3NDJpSzk5eDIyd0VZYWtZUEFOQVdGbllPN1hCY24wM1JGS2gtaHVfQ3B4WEFkWDlNVlFReHd3ZVZiaVhRbElHcTBLTzIyUFo2czR6OFhKelI1Z2VGZHpXd1dmMUU5eTQtVWpJM2g0MzJVNVk1amQyOVZYZW0tUlYtOGZMUFdMNkk5VDc0OXB3ZTFP?oc=5",
+     "date": "2026-10-29",
+     "source": "Education Times",
+     "label": "New Zealand",
+     "snippet": "The India–New Zealand Free Trade Agreement (FTA) came into force on October 20, 2026.",
+     "lead": "The India–New Zealand Free Trade Agreement (FTA) came into force on October 20, 2026. Alongside tariff reductions, it introduces new visa categories, longer post-study work rights for some graduates and a working holiday scheme for young Indians. Immigration New Zealand says the new pathways are designed to support the country's economic and workforce needs. The main additions are the two new Temporary Employment Entry (TEE) visa ...",
+     "image": "https://static.toiimg.com/thumb/msid-135297081,width-1280,height-720,imgsize-190538,resizemode-6,y_pad-600/photo.jpg",
+     "why": [
+      "Announces a change",
+      "Mentions India or Indians"
+     ],
+     "tags": [
+      "Student / Graduate",
+      "New Zealand"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 7,
@@ -296,26 +317,6 @@
      "tags": [
       "Work visa",
       "Luxembourg"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 55,
-     "title": "South Korea targets 4 lakh international students with proposed visa, employment reforms",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdHhSSDh4OEloX0Mtd1gyWGo1OGoycHJtamt1S0c2WGFka3ROVHhlODI2OVZQczVSaFRJYkJNZFVXV1hWdnB2ZFp5UTVSVDA0bDFRWnhVZm90V0N5SWJmZkd3V0RMS3ZISXFQMVJhU2dNUFlPd2dYMG5VRVJfcnhTMVM5Y1J3ckNPbGFxOEl6SjQzNUtiaEpaNjFvVl9jaWluaXFjLTVKZVJhVS0wZ2U4N2RMWlctM0s5VjFRLTZCSGdVdkxTQVFxN2s3LWlzc0FqVDhNLVl0MjFQOTE3UmZrWGQyeHbSAeoBQVVfeXFMUF82VlpkLXVoNjJKQ3ZLOEVPNXpZNzUyakhvOWxESFpSUDNQZUctVnEtdVVlMEVfdG85Mm5wNjUtS0JVclFQMWJKRk8xVHMwZTM3TlUxcS1ZdDFoSEpMclc4YklqZHJqZmdodEVsbUlodTF3YnYzU0FQc3NlaU9pY2tMMURYQ1dEa3ppMllCWElabndpam5EZ2xtbGYxZnhmSllOenRxR1hKZFM4MW9VOTNCcHJ1c3VKMnZXa3JlQ1hRMTM0RWstTHFTdEVXeUpVZXRiYlY3dmVUbDNyWG8td2pDa1hKNm45Y0xB?oc=5",
-     "date": "2026-10-29",
-     "source": "Business Today",
-     "label": "South Korea",
-     "snippet": "Under the proposed framework, international students who demonstrate a specified level of Korean-language proficiency could be exempt from submitting documents proving they have sufficient funds to cover tuition and living expenses",
-     "lead": "Business Today Desk Updated Oct 29, 2026 2:10 AM IST The proposed reforms would simplify eligibility requirements for international students seeking part-time employment South Korea is planning changes to its international student visa system, linking Korean-language proficiency with financial documentation requirements, part-time employment opportunities and post-study career pathways. The proposed reforms aim to attract 400,000 ...",
-     "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ae1dd543e623-the-proposed-reforms-would-simplify-eligibility-requirements-for-international-students-seeking-part-283234958-16x9.png",
-     "why": [
-      "Announces a change"
-     ],
-     "tags": [
-      "Student / Graduate",
-      "South Korea"
      ]
     },
     {
@@ -511,9 +512,9 @@
    "date": "2026-10-29",
    "source": "Cafemutual",
    "label": "Mutual Funds",
-   "snippet": "",
-   "lead": "",
-   "image": null,
+   "snippet": "Investors opting for regular plans will have to be informed about their higher expense ratios, as the regulator seeks to improve transparency around mutual fund costs.",
+   "lead": "Investors who choose regular plans will have to be informed about their higher expense ratios, bringing the cost difference between the two options into sharper focus. Direct and regular plans invest in the same mutual fund scheme and follow the same portfolio strategy. However, direct plans do not carry distributor commissions, resulting in lower expense ratios than their regular counterparts. The move is aimed at making investors ...",
+   "image": "https://cafemutual.com/img/og-image.JPG",
    "why": [
     "Regulator: SEBI or RBI",
     "Credit rating change or default",
@@ -854,21 +855,20 @@
    "desk": "Immigration",
    "score": 7,
    "priority": 64,
-   "title": "New Zealand visa changes for Indian students: What the India–New Zealand trade deal means for studying and working abroad",
-   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNUUNkNURmc21wN3JSQ1VTRi1pU0N3RllzNktVd1FPSW9KWWVTR1FDRnpFa3ZIU1FiYU5IWWZ4aHpFRF8ydjcyWHdDRjlrc2NXMWNKWHVTV2JRZXhJRTBqaXFLRlVrcU5paGppM3gyOHQ1ZXBnc0FfWFFTNXZCZVkzUEc5T0FMUUhtZmZYNmZ3NDJpSzk5eDIyd0VZYWtZUEFOQVdGbllPN1hCY24wM1JGS2gtaHVfQ3B4WEFkWDlNVlFReHd3ZVZiaVhRbElHcTBLTzIyUFo2czR6OFhKelI1Z2VGZHpXd1dmMUU5eTQtVWpJM2g0MzJVNVk1amQyOVZYZW0tUlYtOGZMUFdMNkk5VDc0OXB3ZTFP?oc=5",
-   "date": "2026-10-29",
-   "source": "Education Times",
-   "label": "New Zealand",
-   "snippet": "The India–New Zealand Free Trade Agreement (FTA) came into force on October 20, 2026.",
-   "lead": "The India–New Zealand Free Trade Agreement (FTA) came into force on October 20, 2026. Alongside tariff reductions, it introduces new visa categories, longer post-study work rights for some graduates and a working holiday scheme for young Indians. Immigration New Zealand says the new pathways are designed to support the country's economic and workforce needs. The main additions are the two new Temporary Employment Entry (TEE) visa ...",
-   "image": "https://static.toiimg.com/thumb/msid-135297081,width-1280,height-720,imgsize-190538,resizemode-6,y_pad-600/photo.jpg",
+   "title": "How Korea's special citizenship for outstanding foreign talent works",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUkNkb3NMaXlMLTJhdnJtd2dZLUp2bWt0WU1LUWMtOEozazJvcGoxb3Rrc3NIVm4zSmhVUFNfXy1WUkx2MHh6MHZneE5JZW9Xb0lMUXlUanRpbjNZNVE1ZGdlUlpDZ3lTSUhENE54cndQQTNPcWVFVG9FUmdSVS1PSmp6VDd5NkFiMW5wU2VvVGh2OWg3MzdKRmY4amdvaVB5WnRFaEFXakowMGVGbGw1di1ac1NBZTFSaVlzemZKOGRwVVHSAcgBQVVfeXFMUHFpYVRwNHc1NGVjeDgwRnFrZWR6eXdyWU1hcHVrWlp1X1NRMmY4anJVMFNCZng0WEZnVktmUzRhZmJvTW42cGdudzc5aWl0eTB6NmQ4enVDMVhqOGRNbHF1WEtGUUFFQmMtb1pZSHpVVlVobnplWjVNQ3g0cVhwUmJiYVZoS3A0VDNDZF8yWnBSVldIaHg0b3ZTR0F0NkNORmRaSTcybXppUUY3VlBqTDJtUmJZVmZiSUpJbXNKaU15aVJvSUFNaGc?oc=5",
+   "date": "2026-10-30",
+   "source": "The Korea Times",
+   "label": "South Korea",
+   "snippet": "Korea offers a special route to citizenship for foreigners with exceptional achievements in fields ranging from science and technology to business,...",
+   "lead": "Politics How Korea's special citizenship for outstanding foreign talent works Listen Listen Text Size Print Summary Close summary Korea has granted citizenship to 458 people through special naturalization or nationality restoration for outstanding talent since the system began in 2011. The route covers foreign nationals with exceptional achievements and former Korean citizens who meet the same criteria, and allows recipients to retain ...",
+   "image": "https://newsimg.koreatimes.co.kr/2026/10/22/32de5da2-dfa0-4a13-9138-16799a3f1ba9.jpg",
    "why": [
-    "Announces a change",
-    "Mentions India or Indians"
+    "Affects citizenship"
    ],
    "tags": [
-    "Student / Graduate",
-    "New Zealand"
+    "Citizenship",
+    "South Korea"
    ],
    "rank": 19,
    "must_read": false
