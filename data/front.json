@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-30",
- "built": "2026-10-30 08:32 IST",
+ "built": "2026-10-30 11:05 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22937.0,
-   "change_pct": 1.05,
-   "asof": "29 Oct 15:31 IST"
+   "value": 22983.0,
+   "change_pct": 0.2,
+   "asof": "30 Oct 11:05 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74151.0,
-   "change_pct": 1.24,
-   "asof": "29 Oct 15:32 IST"
+   "value": 74156.0,
+   "change_pct": 0.01,
+   "asof": "30 Oct 10:50 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.18,
-   "change_pct": -0.03,
-   "asof": "30 Oct 08:19 IST"
+   "value": 95.26,
+   "change_pct": 0.05,
+   "asof": "30 Oct 11:05 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 112.3,
-   "change_pct": -2.25,
-   "asof": "30 Oct 08:22 IST"
+   "value": 111.88,
+   "change_pct": -2.61,
+   "asof": "30 Oct 10:54 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4008.0,
-   "change_pct": -0.58,
-   "asof": "30 Oct 08:22 IST"
+   "value": 4012.0,
+   "change_pct": -0.48,
+   "asof": "30 Oct 10:55 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,9 +79,29 @@
  },
  "desks": {
   "Policy": {
-   "total": 274,
-   "new_today": 0,
+   "total": 275,
+   "new_today": 1,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 7,
+     "priority": 50,
+     "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on October 30, 2026",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63880",
+     "date": "2026-10-29",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on October 30, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
+     "image": null,
+     "why": [
+      "Regulator: RBI",
+      "Large outlay (Rs 10,000 Cr or more)"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 7,
@@ -140,33 +160,35 @@
      "tags": [
       "Banking & Rates"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 6,
-     "priority": 43,
-     "title": "RBI releases data on ECB / FCCB / RDB for August 2026",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63882",
-     "date": "2026-10-29",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "The Reserve Bank of India has today released the data on External Commercial Borrowings (ECB), Foreign Currency Convertible Bonds (FCCB) and Rupee Denominated Bonds (RDB) through General Permission and Special Permission for the month of August 2026.",
-     "image": null,
-     "why": [
-      "Rule change",
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 1055,
-   "new_today": 5,
+   "total": 1061,
+   "new_today": 11,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 92,
+     "title": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion",
+     "url": "https://yourstory.com/2026/10/ather-turns-profitable-after-rs-154-cr-loss-meta-ai-expansion",
+     "date": "2026-10-27",
+     "source": "YourStory",
+     "label": "India · AI & Deeptech",
+     "snippet": "Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand.",
+     "lead": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand. Team YS 17432 Stories Tuesday October 27, 2026 , 4 min Read MakeMyTrip is back in the black! The travel booking platform reported a net profit of $1.8 ...",
+     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/2026-CopyofNewPPTTemplates6-1793024916362.png",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $35,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 11,
@@ -228,33 +250,12 @@
       "Acquisition",
       "SaaS & Enterprise"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "TPG pursues $5 billion acquisition of British data centre group Ark: FT",
-     "url": "https://economictimes.indiatimes.com/tech/technology/tpg-pursues-5-billion-acquisition-of-british-data-centre-group-ark-ft/articleshow/135255354.cms",
-     "date": "2026-10-28",
-     "source": "ET Startups",
-     "label": "Global · Media, Gaming & Creators",
-     "snippet": "Global alternative asset manager TPG is in talks to buy British data centre group Ark from Elliott Investment Management at a valuation of about $5 billion, the Financial Times reported on Wednesday, citing people familiar with the matter.",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1166321,resizemode-75,msid-135255354/tech/technology/tpg-pursues-5-billion-acquisition-of-british-data-centre-group-ark-ft.jpg",
-     "why": [
-      "Acquisition",
-      "Very large figure in headline (about $5,000M: round or valuation)"
-     ],
-     "tags": [
-      "Acquisition",
-      "Media, Gaming & Creators"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 5,
+   "new_today": 7,
    "items": [
     {
      "desk": "Immigration",
@@ -494,7 +495,7 @@
    "why": [
     "Affects citizenship",
     "Announces a change",
-    "Major story (13 headlines that day)"
+    "Major story (17 headlines that day)"
    ],
    "tags": [
     "Citizenship",
@@ -577,6 +578,29 @@
    "desk": "Startups",
    "score": 11,
    "priority": 92,
+   "title": "Binance estimates $6.3B impact from security breach, freezes $3B in crypto assets",
+   "url": "https://yourstory.com/2026/10/binance-63-billion-impact-security-breach-freezes-3-billion-crypto-assets",
+   "date": "2026-10-30",
+   "source": "YourStory",
+   "label": "India · SaaS & Enterprise",
+   "snippet": "Binance said a preliminary investigation pointed to a compromised DevOps engineer's laptop as the possible entry point for the breach. The exchange has suspended deposits and withdrawals and pledged to cover customer losses.",
+   "lead": "Binance estimates $6.3B impact from security breach, freezes $3B in crypto assets Binance said a preliminary investigation pointed to a compromised DevOps engineer's laptop as the possible entry point for the breach. The exchange has suspended deposits and withdrawals and pledged to cover customer losses. Team YS 17467 Stories Friday October 30, 2026 , 2 min Read Cryptocurrency exchange Binance has estimated the total impact of a major ...",
+   "image": "https://images.yourstory.com/cs/121/a0bad530ce5d11e9a3fb4360e4b9139b/Imagepnup-1648795767517.jpg",
+   "why": [
+    "Financials",
+    "Very large figure in headline (about $6,300M: round or valuation)"
+   ],
+   "tags": [
+    "Financials",
+    "SaaS & Enterprise"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 92,
    "title": "Shadowfax Q2 Profit Zooms Over 5X YoY To ₹68 Cr, Revenue Crosses ₹1,500 Cr",
    "url": "https://inc42.com/buzz/shadowfax-q2-profit-zooms-over-5x-yoy-to-%e2%82%b968-cr-revenue-crosses-%e2%82%b91500-cr/",
    "date": "2026-10-29",
@@ -594,7 +618,7 @@
     "Financials",
     "Logistics & Supply Chain"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -618,7 +642,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -641,7 +665,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -663,30 +687,6 @@
    ],
    "tags": [
     "Funding"
-   ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion",
-   "url": "https://yourstory.com/2026/10/ather-turns-profitable-after-rs-154-cr-loss-meta-ai-expansion",
-   "date": "2026-10-27",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand.",
-   "lead": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand. Team YS 17432 Stories Tuesday October 27, 2026 , 4 min Read MakeMyTrip is back in the black! The travel booking platform reported a net profit of $1.8 ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/2026-CopyofNewPPTTemplates6-1793024916362.png",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $35,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
    ],
    "rank": 11,
    "must_read": false
@@ -765,6 +765,28 @@
    "desk": "Policy",
    "score": 11,
    "priority": 79,
+   "title": "Government notifies National Social Security Board for Unorganised Workers and Gig & Platform Workers under the Labour Codes",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330299",
+   "date": "2026-10-30",
+   "source": "PIB",
+   "label": "Labour & Social",
+   "snippet": "In a landmark step toward ensuring comprehensive social security for India's massive informal workfo",
+   "lead": "Ministry of Labour & Employment Government notifies National Social Security Board for Unorganised Workers and Gig & Platform Workers under the Labour Codes Posted On: 30 OCT 2026 10:29AM by PIB Delhi In a landmark step toward ensuring comprehensive social security for India's massive informal workforce, the Ministry of Labour & Employment has notified the official constitution of the National Social Security Board for U norganised W ...",
+   "image": null,
+   "why": [
+    "Labour and pension rule",
+    "Rule change"
+   ],
+   "tags": [
+    "Labour & Social"
+   ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 11,
+   "priority": 79,
    "title": "Cabinet approves Dearness Allowance to Central Government employees and Dearness Relief to Pensioners",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329484",
    "date": "2026-10-28",
@@ -780,7 +802,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 15,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -802,7 +824,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -825,7 +847,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -848,29 +870,29 @@
     "PR / Settlement",
     "Iceland"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 7,
    "priority": 64,
-   "title": "How Korea's special citizenship for outstanding foreign talent works",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUkNkb3NMaXlMLTJhdnJtd2dZLUp2bWt0WU1LUWMtOEozazJvcGoxb3Rrc3NIVm4zSmhVUFNfXy1WUkx2MHh6MHZneE5JZW9Xb0lMUXlUanRpbjNZNVE1ZGdlUlpDZ3lTSUhENE54cndQQTNPcWVFVG9FUmdSVS1PSmp6VDd5NkFiMW5wU2VvVGh2OWg3MzdKRmY4amdvaVB5WnRFaEFXakowMGVGbGw1di1ac1NBZTFSaVlzemZKOGRwVVHSAcgBQVVfeXFMUHFpYVRwNHc1NGVjeDgwRnFrZWR6eXdyWU1hcHVrWlp1X1NRMmY4anJVMFNCZng0WEZnVktmUzRhZmJvTW42cGdudzc5aWl0eTB6NmQ4enVDMVhqOGRNbHF1WEtGUUFFQmMtb1pZSHpVVlVobnplWjVNQ3g0cVhwUmJiYVZoS3A0VDNDZF8yWnBSVldIaHg0b3ZTR0F0NkNORmRaSTcybXppUUY3VlBqTDJtUmJZVmZiSUpJbXNKaU15aVJvSUFNaGc?oc=5",
+   "title": "\"Brought 10 Muslim Family Members to Korea on Work Visa\"... Checking the Viral Post",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NV0JsMjRvSmpTbEFKUF9rZmVsdk1WU09FVEVPeFBhSFgzcmlFZGtFclFlbHlLSTlfbDNONXYwVFlIRXFwOExPTndxVGJGdnRaa0FwRFhnN1dVOG4yN2lpRGtyU09pa3p0MHM2NEdB?oc=5",
    "date": "2026-10-30",
-   "source": "The Korea Times",
+   "source": "news.sbs.co.kr",
    "label": "South Korea",
-   "snippet": "Korea offers a special route to citizenship for foreigners with exceptional achievements in fields ranging from science and technology to business,...",
-   "lead": "Politics How Korea's special citizenship for outstanding foreign talent works Listen Listen Text Size Print Summary Close summary Korea has granted citizenship to 458 people through special naturalization or nationality restoration for outstanding talent since the system began in 2011. The route covers foreign nationals with exceptional achievements and former Korean citizens who meet the same criteria, and allows recipients to retain ...",
-   "image": "https://newsimg.koreatimes.co.kr/2026/10/22/32de5da2-dfa0-4a13-9138-16799a3f1ba9.jpg",
+   "snippet": "",
+   "lead": "",
+   "image": null,
    "why": [
-    "Affects citizenship"
+    "Affects work visas"
    ],
    "tags": [
-    "Citizenship",
+    "Work visa",
     "South Korea"
    ],
-   "rank": 19,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -892,7 +914,7 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 20,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -914,7 +936,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 21,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -933,28 +955,6 @@
     "Regulator rulebook change",
     "Rule change",
     "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 7,
-   "priority": 50,
-   "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on October 30, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63880",
-   "date": "2026-10-29",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on October 30, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
-   "image": null,
-   "why": [
-    "Regulator: RBI",
-    "Large outlay (Rs 10,000 Cr or more)"
    ],
    "tags": [
     "Banking & Rates"
