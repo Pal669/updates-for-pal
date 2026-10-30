@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-30",
- "built": "2026-10-30 11:53 IST",
+ "built": "2026-10-30 22:22 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,44 +12,44 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23064.0,
-   "change_pct": 0.56,
-   "asof": "30 Oct 11:53 IST"
+   "value": 23053.0,
+   "change_pct": 0.51,
+   "asof": "30 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74547.0,
-   "change_pct": 0.53,
-   "asof": "30 Oct 11:38 IST"
+   "value": 74460.0,
+   "change_pct": 0.42,
+   "asof": "30 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.25,
-   "change_pct": 0.04,
-   "asof": "30 Oct 11:53 IST"
+   "value": 94.94,
+   "change_pct": -0.28,
+   "asof": "30 Oct 21:37 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 112.4,
-   "change_pct": -2.16,
-   "asof": "30 Oct 11:42 IST"
+   "value": 113.81,
+   "change_pct": -0.93,
+   "asof": "30 Oct 22:12 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3998.0,
-   "change_pct": -0.84,
-   "asof": "30 Oct 11:43 IST"
+   "value": 3905.0,
+   "change_pct": -3.14,
+   "asof": "30 Oct 22:12 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 4.99,
-   "change_pct": -1.11,
-   "asof": "30 Oct 00:29 IST"
+   "value": 4.95,
+   "change_pct": -0.8,
+   "asof": "30 Oct 22:07 IST"
   }
  ],
  "features": {
@@ -79,9 +79,70 @@
  },
  "desks": {
   "Policy": {
-   "total": 275,
-   "new_today": 1,
+   "total": 280,
+   "new_today": 6,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 8,
+     "priority": 57,
+     "title": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0",
+     "date": "2026-10-23",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Notifications - Reserve Bank of India",
+     "lead": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026 Please refer to Chapter IV of the Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Directions, 2025 dated November 28, 2025 (hereinafter referred to as ‘the Directions’), on Minimum Capital Requirements for Operational Risk. 2. On a review, and in exercise of the powers conferred by Section 35A of the Banking ...",
+     "image": null,
+     "why": [
+      "Regulator rulebook change",
+      "Rule change",
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 7,
+     "priority": 50,
+     "title": "Lending and Deposit Rates of Scheduled Commercial Banks – October 2026",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63894",
+     "date": "2026-10-30",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "Data on lending and deposit rates of scheduled commercial banks (SCBs) (excluding regional rural banks and small finance banks) received during October 2026 are set out in Tables 1 to 9. The weighted average lending rate (WALR) on outstanding rupee loans of SCBs remained unchanged at 8.96 per cent in September 2026 compared to August 2026. The WALR on fresh rupee loans of SCBs declined to 8.51 per cent in September 2026 from 8.61 per ...",
+     "image": null,
+     "why": [
+      "Touches financial markets",
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 7,
+     "priority": 50,
+     "title": "Ease of Compliance for FPIs – Rationalisation of KYC Review Periodicity",
+     "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/ease-of-compliance-for-fpis-rationalisation-of-kyc-review-periodicity_105522.html",
+     "date": "2026-10-30",
+     "source": "SEBI",
+     "label": "Markets & Regulation",
+     "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Touches financial markets",
+      "Regulator: SEBI"
+     ],
+     "tags": [
+      "Markets & Regulation"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 7,
@@ -101,130 +162,28 @@
      "tags": [
       "Banking & Rates"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 7,
-     "priority": 50,
-     "title": "Ministry of Textiles to Open PLI Scheme Portal for accepting new applications from 1st November 2026",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329667",
-     "date": "2026-10-28",
-     "source": "PIB",
-     "label": "Infrastructure & Transport",
-     "snippet": "Ministry of Textiles is set to reopen the application portal for the Production Linked Incentive (PL",
-     "lead": "Ministry of Textiles Ministry of Textiles to Open PLI Scheme Portal for accepting new applications from 1st November 2026 Minimum Turnover criterion for Part 2 of the Scheme reduced to ₹100 Crore Posted On: 28 OCT 2026 6:12PM by PIB Delhi Ministry of Textiles is set to reopen the application portal for the Production Linked Incentive (PLI) Scheme for Textiles for accepting new applications under Round 4 of the Scheme from 1st November ...",
-     "image": null,
-     "why": [
-      "Subsidy or incentive"
-     ],
-     "tags": [
-      "Infrastructure & Transport"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 7,
-     "priority": 50,
-     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63876",
-     "date": "2026-10-28",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "",
-     "image": null,
-     "why": [
-      "New law or act",
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 7,
-     "priority": 50,
-     "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on October 26, 2026",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63861",
-     "date": "2026-10-23",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Monday, October 26, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
-     "image": null,
-     "why": [
-      "Rates and liquidity",
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 1062,
-   "new_today": 12,
+   "total": 1081,
+   "new_today": 31,
    "items": [
     {
      "desk": "Startups",
      "score": 11,
-     "priority": 92,
-     "title": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion",
-     "url": "https://yourstory.com/2026/10/ather-turns-profitable-after-rs-154-cr-loss-meta-ai-expansion",
-     "date": "2026-10-27",
-     "source": "YourStory",
-     "label": "India · AI & Deeptech",
-     "snippet": "Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand.",
-     "lead": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand. Team YS 17432 Stories Tuesday October 27, 2026 , 4 min Read MakeMyTrip is back in the black! The travel booking platform reported a net profit of $1.8 ...",
-     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/2026-CopyofNewPPTTemplates6-1793024916362.png",
+     "priority": 85,
+     "title": "[Update] CCI Clears Navi’s $100 Mn Investment From Prosus",
+     "url": "https://inc42.com/buzz/ipo-bound-navi-raises-100-mn-from-prosus-in-maiden-institutional-round/",
+     "date": "2026-10-30",
+     "source": "Inc42",
+     "label": "India · Other",
+     "snippet": "VC firm Prosus has invested $100 Mn in Sachin Bansal-led fintech startup Navi, marking the latter’s first institutional capital raise.",
+     "lead": "Prosus has invested $100 Mn in Sachin Bansal-led fintech startup Navi, marking the company’s first institutional capital raise. The investment gives Navi fresh capital as it scales its lending and payments businesses and reportedly revives plans for a ₹3,000 Cr IPO. The Competition Commission of India cleared the investment on October 30.",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2023/04/Navi-IPO_Social-Image.jpg",
      "why": [
       "Funding",
-      "Very large figure in headline (about $35,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 92,
-     "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-     "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-     "date": "2026-10-23",
-     "source": "TechCrunch",
-     "label": "Global · Other",
-     "snippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-     "lead": "OpenAI is reportedly close to securing another mega round of private funding, rather than plowing ahead with an IPO. The AI lab is working on raising up to $30 billion at a $1.25 trillion pre-money valuation in a round led by Coatue and investors in UAE, sources told CNBC . This follows a similar report by Bloomberg a month ago which said the AI lab was working on raising $30 billion at a $1.4 trillion valuation. Terms are still being ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $30,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Microsoft to raise $25 billion in US bond sale: Report",
-     "url": "https://economictimes.indiatimes.com/tech/technology/microsoft-to-raise-25-billion-in-us-bond-sale-report/articleshow/135308798.cms",
-     "date": "2026-10-29",
-     "source": "ET Startups",
-     "label": "Global · Other",
-     "snippet": "Microsoft is selling the debt in as many as 10 tranches, with maturities ranging from two to 40 years, Bloomberg reported, adding that no final decision has been made on the offering's size and that it may change according to demand.",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-73982,resizemode-75,msid-135308798/tech/technology/microsoft-to-raise-25-billion-in-us-bond-sale-report.jpg",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $25,000M: round or valuation)"
+      "Large deal (about $100M)"
      ],
      "tags": [
       "Funding"
@@ -232,31 +191,115 @@
     },
     {
      "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-     "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-     "date": "2026-10-29",
-     "source": "TechCrunch",
-     "label": "Global · SaaS & Enterprise",
-     "snippet": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
-     "lead": "Upwind raises $400M after walking away from Datadog acquisition offer Marina Temkin 4:15 PM PDT · October 28, 2026 Upwind, a San Francisco startup that uses AI to secure cloud infrastructure, has raised a $400 million Series C round at a $3.8 billion valuation led by Bessemer Venture Partners, with participation from existing backers including Greylock Partners and Craft Ventures. The round comes nine months after Upwind closed its ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1197780051.jpg?resize=1200,800",
+     "score": 11,
+     "priority": 85,
+     "title": "SoftBank-backed OPay raises $304 million in US IPO",
+     "url": "https://economictimes.indiatimes.com/tech/technology/softbank-backed-opay-raises-304-million-in-us-ipo/articleshow/135357135.cms",
+     "date": "2026-10-30",
+     "source": "ET Startups",
+     "label": "Global · Fintech",
+     "snippet": "The Nigeria-focused firm sold 16 million American depositary shares at $19 apiece in the IPO, compared with its targeted range of $19 to $21, giving it a valuation of about $4 billion.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-46382,resizemode-75,msid-135357135/tech/technology/softbank-backed-opay-raises-304-million-in-us-ipo.jpg",
      "why": [
-      "Acquisition",
-      "Large deal (about $400M)"
+      "IPO & Listing",
+      "Large deal (about $304M)"
      ],
      "tags": [
-      "Acquisition",
+      "IPO & Listing",
+      "Fintech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "Binance estimates $6.3B impact from security breach, freezes $3B in crypto assets",
+     "url": "https://yourstory.com/2026/10/binance-63-billion-impact-security-breach-freezes-3-billion-crypto-assets",
+     "date": "2026-10-30",
+     "source": "YourStory",
+     "label": "India · SaaS & Enterprise",
+     "snippet": "Binance said a preliminary investigation pointed to a compromised DevOps engineer's laptop as the possible entry point for the breach. The exchange has suspended deposits and withdrawals and pledged to cover customer losses.",
+     "lead": "Binance estimates $6.3B impact from security breach, freezes $3B in crypto assets Binance said a preliminary investigation pointed to a compromised DevOps engineer's laptop as the possible entry point for the breach. The exchange has suspended deposits and withdrawals and pledged to cover customer losses. Team YS 17467 Stories Friday October 30, 2026 , 2 min Read Cryptocurrency exchange Binance has estimated the total impact of a major ...",
+     "image": "https://images.yourstory.com/cs/121/a0bad530ce5d11e9a3fb4360e4b9139b/Imagepnup-1648795767517.jpg",
+     "why": [
+      "Financials",
+      "Very large figure in headline (about $6,300M: round or valuation)"
+     ],
+     "tags": [
+      "Financials",
       "SaaS & Enterprise"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "Shadowfax Q2 Profit Zooms Over 5X YoY To ₹68 Cr, Revenue Crosses ₹1,500 Cr",
+     "url": "https://inc42.com/buzz/shadowfax-q2-profit-zooms-over-5x-yoy-to-%e2%82%b968-cr-revenue-crosses-%e2%82%b91500-cr/",
+     "date": "2026-10-29",
+     "source": "Inc42",
+     "label": "India · Logistics & Supply Chain",
+     "snippet": "Shadowfax reported an over 5X year-on-year (YoY) jump in its net profit for the September quarter (Q2 FY27) to ₹68 Cr from ₹13 Cr",
+     "lead": "Shadowfax’s consolidated net profit jumped 421.9% YoY to ₹68 Cr in Q2 FY27 from ₹13 Cr, while operating revenue rose 56.6% to ₹1,537.7 Cr. Revenue growth outpaced the 52.8% increase in total expenses, lifting net profit margin. Sequentially, net profit grew 3.9% and operating revenue increased 13.2%.",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Shadowfax-Q4-ftr-1.jpg",
+     "why": [
+      "Financials",
+      "Large deal (about $158M)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Financials",
+      "Logistics & Supply Chain"
      ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 9,
+   "new_today": 23,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 8,
+     "priority": 73,
+     "title": "Iceland Plans to Tighten Permanent Residency Rules for Foreigners",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ3B2OXVQVm0tbVhjbXlUb0FwZmVtMll0Y3p3bl9oTnUyb3l4c1pyUDloWnNxVGdhSTNTbG56T1c1WG12VUVLVXMyNUFMaHYwUnhZWGpab2hPT3FRZzNUampjRmJfRmtrMHZYM3V6ei1ldWVlMlFKOWJVOVpCWHRZV0ZRa2dURDh5RDJIWXJRcGdGQzRtbW1ybzZHalFEY2FEdWlz0gGoAUFVX3lxTE13Q3pEeWNISzdYWmhSYWliM1RIRUxxdVlfa3czcnZlNXlvOXJaN3RvNGdCYkZja1VmY0gzNkJDZUV6Ty00UVFKWDFwLU9qb19BdnN6Tmw0d1NodU1DcWhDQjBmNHJILU9JcTEzYTVnSGpIbnNNZDREWE8wRGhYUEl3cTZSV3htYklwRHVPay1VUHNvUEtwQVlmSjhKYzA5OUJjdW9XeXliNw?oc=5",
+     "date": "2026-10-29",
+     "source": "ProPakistani",
+     "label": "Iceland",
+     "snippet": "Iceland's government has approved a major immigration reform proposal that would introduce stricter requirements for permanent residency, family",
+     "lead": "Iceland’s government has approved a major immigration reform proposal that would introduce stricter requirements for permanent residency, family reunification, and residence permits. The government approved the bill proposed by the Minister of Justice, describing it as the biggest overhaul of the country’s residence permit system in a decade. The proposed changes aim to bring Iceland’s immigration rules in line with other Nordic ...",
+     "image": "https://propakistani.pk/wp-content/uploads/2026/10/iceland.jpg",
+     "why": [
+      "Affects permanent residence",
+      "Announces a change"
+     ],
+     "tags": [
+      "PR / Settlement",
+      "Iceland"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 7,
+     "priority": 64,
+     "title": "Danish court rejects disabled woman’s discrimination claim over citizenship refusal",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEhOb2F4RzZ5dTNhUExPRDZfR2FIcUtwUUlaVDFKMVJYdVdfeVg3UzRLaFIyd2phdG1QaWRsWTczMldjb0Z3MEpwcTBJU3phTWJLakJCWVcwdDkySGp5U3QzSTJzdVg2Z2xuM3poMDBBOGF0cm5lZk5BQUY5YkNYUGp3YkJuUEs3VXFidHlUYllrajVONnJlQ0NMN2tTc2hWNko5WGRteEo5eDl3MWJmNWhoWVNIdDdoMTJFMHdR?oc=5",
+     "date": "2026-10-30",
+     "source": "The Copenhagen Post",
+     "label": "Denmark",
+     "snippet": "Denmark’s Eastern High Court ruled Friday that a woman with a disability had not faced unlawful indirect discrimination when authorities rejected her application for Danish citizenship. The court ruled in favor of the Ministry of Immigration and Integration, according to a statement on its website. The Palestinian woman arrived in Denmark",
+     "lead": "Denmark’s Eastern High Court ruled Friday that a woman with a disability had not faced unlawful indirect discrimination when authorities rejected her application for Danish citizenship. The court ruled in favor of the Ministry of Immigration and Integration, according to a statement on its website. The Palestinian woman arrived in Denmark in 1999. Ten years later, she was involved in a traffic accident and was subsequently granted a ...",
+     "image": null,
+     "why": [
+      "Affects citizenship"
+     ],
+     "tags": [
+      "Citizenship",
+      "Denmark"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 7,
@@ -282,27 +325,6 @@
      "desk": "Immigration",
      "score": 7,
      "priority": 64,
-     "title": "Denmark to launch new work permit scheme in 2027: What it means for Indian jobseekers",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRjhjbXhUbHFwOF8zbjgzSkxmQk1UYngwU2ZwaFhLWHVlbEVRVGh1LU16MUs4MUtnYVNQYjB2dmxfbVp1N0VnYzlWS0VwTlhNSldJSm40Z0g4bk8zWGVLOExoNjBOWmVOTkpNSXNkYl9zaWNKc3diZllEam1pX2Z0Rmp6Vlc5dEZrMl9KaFNjaTk0Y2NlT0hjVkw2bXdWVU9DdW45ZktSVmVSRXhSbFFGUkJJWENZLTNiVTl6MTNJRXF3bEJjQUFiRlRUTFNYUmN2WF9MQ2xFWlDSAd4BQVVfeXFMTm95VUhHUmE0M3ZYOEFHUWdWaWJCaUlqUlg4Y2ppc3VkMkR1OTNqZEx1VVJLRGhFMHpYNUVuTUwybHE2Q2xHdUtmbFdHVEJPS1FseERJcDU0WnJKcERLeDNGejVkd2xBZXlKRVpuN2R0X0pic21tUVBpanNhdHZxbjRwVVVhYkE1TWpZS3djVjkzejY2bWFLSU1oTnJNUzNTZ1pNc0c3Y29PbzBzVnZTbDJZaFRuUEhocWhYN1N0UF9hWHBoYXJhRlViRVd5UzVqNndLelF5SVRVZlpSNGx3?oc=5",
-     "date": "2026-10-29",
-     "source": "Business Today",
-     "label": "Denmark",
-     "snippet": "The new Collective Agreement Scheme is designed to help eligible Danish companies recruit workers from abroad at a lower salary threshold than some existing work permit routes, provided the job meets specific employment conditions",
-     "lead": "Business Today Desk Updated Oct 29, 2026 9:56 PM IST India is among the 16 countries whose citizens are eligible to apply under the new scheme Denmark is set to introduce a new work permit pathway from January 1, 2027, allowing eligible foreign nationals, including Indians, to take up jobs with qualifying Danish employers under a scheme that sets a minimum annual salary of DKK 322,000 (approximately Rs 47 lakh at indicative exchange ...",
-     "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ae37188b5b06-india-is-among-the-16-countries-whose-citizens-are-eligible-to-apply-under-the-new-scheme-291711777-16x9.png",
-     "why": [
-      "Affects work visas",
-      "Mentions India or Indians"
-     ],
-     "tags": [
-      "Work visa",
-      "Denmark"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 7,
-     "priority": 64,
      "title": "Luxembourg visa overhaul sparks fears of longer waits and lost talent",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdTJWMmJQZjlzYkVJbVpIRDI4TkI5XzFNaHU4akdNczJ6cnIyQnlqR29NUUJkcWVTLTYyd252X2NDMU8zMEFCNU1TQnZ6UFdGcnRXRHpFX1Z2YTBnNzdLYUhScGdzWElBbTM4STBLbTZkSFl6OUh2eWJVRVBHREdMMVZuUlVjTGhidlV5ZFZrbUxPRHRrbDA5eG5EbkJhLXhmVEZRNXNNWlk2bHEwbFhYUXFFNkNya1R6RThN?oc=5",
      "date": "2026-10-29",
@@ -318,27 +340,6 @@
      "tags": [
       "Work visa",
       "Luxembourg"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 45,
-     "title": "Netherlands to introduce new rules for employers sponsoring foreign workers from November 1",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOelZtNl9ndlR5WC0tQndKbm1WYTV6OEhBMmUxNENZRkNUR3N6SjMtUDdBVVE0Q3BXNl9jWmlXYUxPSndfTktDc1czUXBpQi0tY01NdjJuMFRFbWkyVGxFUWlKQ3g2SHJhdkNqbFRWb3c3cFhDclJ0bFN3d1UzeXBzZ0d6NHJSUDV3SkdJaUw4enozSFhoUkdpZGtMRFZtdk55QUxLTVgwU1BkX2FRSVU4US1JWDN4UGZtT2Y2RGwwVjd0MTVOcTQw?oc=5",
-     "date": "2026-10-24",
-     "source": "Nairametrics",
-     "label": "Netherlands",
-     "snippet": "The Netherlands is set to introduce new immigration compliance rules for employers sponsoring foreign workers from November 1, 2026, allowing companies to correct certain administrative violations before facing financial penalties.",
-     "lead": "",
-     "image": "https://cdn.nairametrics.com/wp-content/uploads/2026/10/Netherlands.webp",
-     "why": [
-      "Affects work visas",
-      "Announces a change"
-     ],
-     "tags": [
-      "Work visa",
-      "Netherlands"
      ]
     }
    ]
@@ -435,47 +436,47 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 13,
    "priority": 100,
-   "title": "OpenAI-backed Thrive Holdings acquires ADT",
-   "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+   "title": "Jio Platforms Q2 Profit Rises 14% YoY To ₹8,387 Cr, Revenue Up 11%",
+   "url": "https://inc42.com/buzz/jio-platforms-q2-profit-rises-14-yoy-to-%e2%82%b98387-cr-revenue-up-11/",
    "date": "2026-10-30",
-   "source": "TechCrunch Venture",
-   "label": "Global · AI & Deeptech",
-   "snippet": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-   "lead": "Thrive Holdings has acquired physical security company ADT for $10 per share or about $7.6 billion in equity, the companies announced on Thursday. Beyond equity, the total enterprise value of the deal is $15.3 billion, ADT said. Thrive Holdings is the PE spinout from Josh Kushner’s powerhouse VC firm Thrive Capital. It also counts OpenAI as its partner , as well as an investor. The firm’s mission is to hold other companies long-term, ...",
-   "image": null,
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Jio Platforms recorded consolidated net profit of ₹8,387 Cr in Q2 FY27, while operating revenue rose 11.4% to ₹40,475 Cr.",
+   "lead": "Jio Platforms reported a 13.7% YoY increase in consolidated net profit to ₹8,387 Cr in Q2 FY27, while operating revenue rose 11.4% to ₹40,475 Cr Other income jumped 49.5% YoY to ₹978 Cr, supporting profit growth even as total expenses increased slightly faster than operating revenue Network operating expenses, its largest expense head, increased 3.3% to ₹8,813 Cr from ₹8,528 Cr",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/jio-PC-social-.png",
    "why": [
-    "Acquisition",
-    "Very large figure in headline (about $15,300M: round or valuation)"
+    "Financials",
+    "Very large figure in headline (about $883M: round or valuation)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Acquisition",
-    "AI & Deeptech"
+    "Financials"
    ],
    "rank": 1,
    "must_read": true
   },
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 13,
    "priority": 100,
-   "title": "This fintech wasn’t ‘actively’ fundraising. Then it closed a $90m round at an $800m valuation",
-   "url": "https://sifted.eu/articles/spiko-interview/",
-   "date": "2026-10-29",
-   "source": "Sifted",
-   "label": "Global · Fintech",
-   "snippet": "Despite European fintech facing choppy waters, money market fund Spiko raised a $90m Series B at an $800m valuation with the backing of some big-name investors.",
-   "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
-   "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/28155718/Paul-Adrien-Hyppolite-portrait-scaled.jpg",
+   "title": "SEBI Greenlights Atomberg’s ₹450 Cr+ IPO",
+   "url": "https://inc42.com/buzz/sebi-greenlights-atombergs-%e2%82%b9450-cr-ipo/",
+   "date": "2026-10-30",
+   "source": "Inc42",
+   "label": "India · Policy & Regulation",
+   "snippet": "SEBI informed that it had issued its observation letter to Atomberg on October 30, over a couple months after the company filed its draft IPO papers",
+   "lead": "SEBI informed that it had issued its observation letter to Atomberg on October 30, over a couple months after the company filed its draft IPO papers The public listing will comprise a fresh issue of equity shares worth up to ₹450 Cr and an offer for sale (OFS) of 7.65 Cr equity shares The company plans to use ₹90 Cr from the fresh issue proceeds to repay or prepay certain borrowings",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Atomberg-Financials-social-1.png",
    "why": [
-    "Funding",
-    "Very large figure in headline (about $800M: round or valuation)",
+    "IPO & Listing",
+    "Sizeable deal (about $47M)",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Funding",
-    "Fintech"
+    "IPO & Listing",
+    "Policy & Regulation"
    ],
    "rank": 2,
    "must_read": true
@@ -553,70 +554,70 @@
   {
    "desk": "Startups",
    "score": 12,
-   "priority": 100,
-   "title": "Cognizant In Talks To Invest In Sarvam At $3.5 Bn To $4 Bn Valuation: Report",
-   "url": "https://inc42.com/buzz/cognizant-in-talks-to-invest-in-sarvam-at-3-5-bn-to-4-bn-valuation-report/",
-   "date": "2026-10-28",
+   "priority": 92,
+   "title": "Delhivery Posts ₹41 Cr Profit In Q2, Revenue Crosses ₹3,000 Cr Mark",
+   "url": "https://inc42.com/buzz/delhivery-posts-%e2%82%b941-cr-profit-in-q2-revenue-crosses-%e2%82%b93000-cr-mark/",
+   "date": "2026-10-30",
    "source": "Inc42",
-   "label": "India · AI & Deeptech",
-   "snippet": "Cognizant is reportedly in talks to invest in Sarvam AI at a $3.5-4 Bn valuation, following HCLTech’s $150 Mn investment in the AI unicorn",
-   "lead": "Cognizant is reportedly in talks to invest in Sarvam AI as part of a proposed $300 Mn fundraise at a $3.5-4 Bn valuation The investment could make Cognizant the second IT services major on Sarvam’s cap table after HCLTech, as IT companies seek to strengthen their AI capabilities Sarvam raised $234 Mn in the first close of its $300 Mn Series B in June at a $1.5 Bn valuation, with HCLTech investing $150 Mn",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Sarvam-Open-Source-Story-social.jpg",
+   "label": "India · Logistics & Supply Chain",
+   "snippet": "Delhivery swung to a consolidated net profit of ₹40.6 Cr in Q2 FY27 from a ₹50.5 Cr loss a year earlier, while operating revenue grew 20%",
+   "lead": "Delhivery swung to a consolidated net profit of ₹40.6 Cr in Q2 FY27 from a ₹50.5 Cr loss a year earlier, while operating revenue grew 19.8% YoY. Operating revenue growth outpaced the 14.2% increase in total expenses, helping the logistics company turn profitable despite a decline in other income. The company’s board approved an investment of up to ₹36 Cr in wholly owned subsidiary Delhivery Fintech Distribution to fund its operational ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/Delhivery-financials-social.jpg",
    "why": [
-    "Funding",
-    "Very large figure in headline (about $4,000M: round or valuation)",
+    "Financials",
+    "Large deal (about $316M)",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Funding",
-    "AI & Deeptech"
+    "Financials",
+    "Logistics & Supply Chain"
    ],
    "rank": 6,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 11,
+   "score": 12,
    "priority": 92,
-   "title": "Binance estimates $6.3B impact from security breach, freezes $3B in crypto assets",
-   "url": "https://yourstory.com/2026/10/binance-63-billion-impact-security-breach-freezes-3-billion-crypto-assets",
+   "title": "OpenAI-backed Thrive Holdings acquires ADT",
+   "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
    "date": "2026-10-30",
-   "source": "YourStory",
-   "label": "India · SaaS & Enterprise",
-   "snippet": "Binance said a preliminary investigation pointed to a compromised DevOps engineer's laptop as the possible entry point for the breach. The exchange has suspended deposits and withdrawals and pledged to cover customer losses.",
-   "lead": "Binance estimates $6.3B impact from security breach, freezes $3B in crypto assets Binance said a preliminary investigation pointed to a compromised DevOps engineer's laptop as the possible entry point for the breach. The exchange has suspended deposits and withdrawals and pledged to cover customer losses. Team YS 17467 Stories Friday October 30, 2026 , 2 min Read Cryptocurrency exchange Binance has estimated the total impact of a major ...",
-   "image": "https://images.yourstory.com/cs/121/a0bad530ce5d11e9a3fb4360e4b9139b/Imagepnup-1648795767517.jpg",
+   "source": "TechCrunch Venture",
+   "label": "Global · AI & Deeptech",
+   "snippet": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+   "lead": "Thrive Holdings has acquired physical security company ADT for $10 per share or about $7.6 billion in equity, the companies announced on Thursday. Beyond equity, the total enterprise value of the deal is $15.3 billion, ADT said. Thrive Holdings is the PE spinout from Josh Kushner’s powerhouse VC firm Thrive Capital. It also counts OpenAI as its partner , as well as an investor. The firm’s mission is to hold other companies long-term, ...",
+   "image": null,
    "why": [
-    "Financials",
-    "Very large figure in headline (about $6,300M: round or valuation)"
+    "Acquisition",
+    "Very large figure in headline (about $15,300M: round or valuation)"
    ],
    "tags": [
-    "Financials",
-    "SaaS & Enterprise"
+    "Acquisition",
+    "AI & Deeptech"
    ],
    "rank": 7,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 11,
+   "score": 12,
    "priority": 92,
-   "title": "Shadowfax Q2 Profit Zooms Over 5X YoY To ₹68 Cr, Revenue Crosses ₹1,500 Cr",
-   "url": "https://inc42.com/buzz/shadowfax-q2-profit-zooms-over-5x-yoy-to-%e2%82%b968-cr-revenue-crosses-%e2%82%b91500-cr/",
+   "title": "This fintech wasn’t ‘actively’ fundraising. Then it closed a $90m round at an $800m valuation",
+   "url": "https://sifted.eu/articles/spiko-interview/",
    "date": "2026-10-29",
-   "source": "Inc42",
-   "label": "India · Logistics & Supply Chain",
-   "snippet": "Shadowfax reported an over 5X year-on-year (YoY) jump in its net profit for the September quarter (Q2 FY27) to ₹68 Cr from ₹13 Cr",
-   "lead": "Shadowfax’s consolidated net profit jumped 421.9% YoY to ₹68 Cr in Q2 FY27 from ₹13 Cr, while operating revenue rose 56.6% to ₹1,537.7 Cr. Revenue growth outpaced the 52.8% increase in total expenses, lifting net profit margin. Sequentially, net profit grew 3.9% and operating revenue increased 13.2%.",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Shadowfax-Q4-ftr-1.jpg",
+   "source": "Sifted",
+   "label": "Global · Fintech",
+   "snippet": "Despite European fintech facing choppy waters, money market fund Spiko raised a $90m Series B at an $800m valuation with the backing of some big-name investors.",
+   "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/28155718/Paul-Adrien-Hyppolite-portrait-scaled.jpg",
    "why": [
-    "Financials",
-    "Large deal (about $158M)",
+    "Funding",
+    "Very large figure in headline (about $800M: round or valuation)",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Financials",
-    "Logistics & Supply Chain"
+    "Funding",
+    "Fintech"
    ],
    "rank": 8,
    "must_read": false
@@ -670,25 +671,49 @@
   },
   {
    "desk": "Startups",
-   "score": 11,
+   "score": 12,
    "priority": 92,
-   "title": "Exclusive: Lovable offers employees $80m cash-out at $13.3bn valuation",
-   "url": "https://sifted.eu/articles/lovable-employee-share-sale/",
+   "title": "Cognizant In Talks To Invest In Sarvam At $3.5 Bn To $4 Bn Valuation: Report",
+   "url": "https://inc42.com/buzz/cognizant-in-talks-to-invest-in-sarvam-at-3-5-bn-to-4-bn-valuation-report/",
    "date": "2026-10-28",
-   "source": "Sifted",
-   "label": "Global · Other",
-   "snippet": "Employees at Swedish vibe-coding startup Lovable have been given the chance to cash out $80m in shares between them.",
-   "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
-   "image": "https://content.sifted.eu/wp-content/uploads/2025/09/15155020/Summer-2025-Lovable-Team-Picture.webp",
+   "source": "Inc42",
+   "label": "India · AI & Deeptech",
+   "snippet": "Cognizant is reportedly in talks to invest in Sarvam AI at a $3.5-4 Bn valuation, following HCLTech’s $150 Mn investment in the AI unicorn",
+   "lead": "Cognizant is reportedly in talks to invest in Sarvam AI as part of a proposed $300 Mn fundraise at a $3.5-4 Bn valuation The investment could make Cognizant the second IT services major on Sarvam’s cap table after HCLTech, as IT companies seek to strengthen their AI capabilities Sarvam raised $234 Mn in the first close of its $300 Mn Series B in June at a $1.5 Bn valuation, with HCLTech investing $150 Mn",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Sarvam-Open-Source-Story-social.jpg",
    "why": [
     "Funding",
-    "Very large figure in headline (about $13,300M: round or valuation)",
+    "Very large figure in headline (about $4,000M: round or valuation)",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Funding"
+    "Funding",
+    "AI & Deeptech"
    ],
    "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 91,
+   "title": "Could Austria finally change its rules on citizenship for children born in the country?",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUlkRHhWc1Jzdk9UVkRPLXllZFZLOUtFZGpkRzFNdDdvUEZuVEdGVHc0anlxd0l5WVpUT25lZ0hEaldjZzgtMVlhNXIyWnp0OHhyYjdwb1p5d204VjloeHh4NEgtZGZWX0IzcHRhS1hncTBxa0djSVdzX3dkNFNzSE92UnVQelF1NU80MHFiMVk0ZkU3LTB0ZjZ5SF9XYldyMV9ud0I3RkhwTFFWXy00Q01nMHNVdW0tT0NR?oc=5",
+   "date": "2026-10-30",
+   "source": "The Local Austria",
+   "label": "Austria",
+   "snippet": "Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change?",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change? The Austrian debate over citizenship for children ...",
+   "image": null,
+   "why": [
+    "Affects citizenship",
+    "Announces a change"
+   ],
+   "tags": [
+    "Citizenship",
+    "Austria"
+   ],
+   "rank": 12,
    "must_read": false
   },
   {
@@ -711,7 +736,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 12,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -734,7 +759,7 @@
     "Citizenship",
     "Switzerland"
    ],
-   "rank": 13,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -758,7 +783,7 @@
     "Work visa",
     "United Kingdom"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -780,7 +805,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 15,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -802,7 +827,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -824,7 +849,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -847,36 +872,13 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 8,
    "priority": 73,
-   "title": "Iceland Plans to Tighten Permanent Residency Rules for Foreigners",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ3B2OXVQVm0tbVhjbXlUb0FwZmVtMll0Y3p3bl9oTnUyb3l4c1pyUDloWnNxVGdhSTNTbG56T1c1WG12VUVLVXMyNUFMaHYwUnhZWGpab2hPT3FRZzNUampjRmJfRmtrMHZYM3V6ei1ldWVlMlFKOWJVOVpCWHRZV0ZRa2dURDh5RDJIWXJRcGdGQzRtbW1ybzZHalFEY2FEdWlz0gGoAUFVX3lxTE13Q3pEeWNISzdYWmhSYWliM1RIRUxxdVlfa3czcnZlNXlvOXJaN3RvNGdCYkZja1VmY0gzNkJDZUV6Ty00UVFKWDFwLU9qb19BdnN6Tmw0d1NodU1DcWhDQjBmNHJILU9JcTEzYTVnSGpIbnNNZDREWE8wRGhYUEl3cTZSV3htYklwRHVPay1VUHNvUEtwQVlmSjhKYzA5OUJjdW9XeXliNw?oc=5",
-   "date": "2026-10-29",
-   "source": "ProPakistani",
-   "label": "Iceland",
-   "snippet": "Iceland's government has approved a major immigration reform proposal that would introduce stricter requirements for permanent residency, family",
-   "lead": "Iceland’s government has approved a major immigration reform proposal that would introduce stricter requirements for permanent residency, family reunification, and residence permits. The government approved the bill proposed by the Minister of Justice, describing it as the biggest overhaul of the country’s residence permit system in a decade. The proposed changes aim to bring Iceland’s immigration rules in line with other Nordic ...",
-   "image": "https://propakistani.pk/wp-content/uploads/2026/10/iceland.jpg",
-   "why": [
-    "Affects permanent residence",
-    "Announces a change"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Iceland"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 64,
    "title": "\"Brought 10 Muslim Family Members to Korea on Work Visa\"... Checking the Viral Post",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NV0JsMjRvSmpTbEFKUF9rZmVsdk1WU09FVEVPeFBhSFgzcmlFZGtFclFlbHlLSTlfbDNONXYwVFlIRXFwOExPTndxVGJGdnRaa0FwRFhnN1dVOG4yN2lpRGtyU09pa3p0MHM2NEdB?oc=5",
    "date": "2026-10-30",
@@ -893,6 +895,28 @@
     "South Korea"
    ],
    "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 9,
+   "priority": 64,
+   "title": "Extension of timeline with respect to compliance of Digital Accessibility Circulars",
+   "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-with-respect-to-compliance-of-digital-accessibility-circulars_105523.html",
+   "date": "2026-10-30",
+   "source": "SEBI",
+   "label": "Markets & Regulation",
+   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Regulator: SEBI"
+   ],
+   "tags": [
+    "Markets & Regulation"
+   ],
+   "rank": 21,
    "must_read": false
   },
   {
@@ -914,7 +938,7 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 21,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -932,29 +956,6 @@
    "why": [
     "Rates and liquidity",
     "Large outlay (Rs 10,000 Cr or more)"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 57,
-   "title": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13744&Mode=0",
-   "date": "2026-10-23",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Second Amendment Directions, 2026 Please refer to Chapter IV of the Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Directions, 2025 dated November 28, 2025 (hereinafter referred to as ‘the Directions’), on Minimum Capital Requirements for Operational Risk. 2. On a review, and in exercise of the powers conferred by Section 35A of the Banking ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Regulator: RBI"
    ],
    "tags": [
     "Banking & Rates"
