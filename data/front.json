@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-31",
- "built": "2026-10-31 02:33 IST",
+ "built": "2026-10-31 08:17 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 22937.0,
-   "change_pct": 1.05,
+   "value": 23053.0,
+   "change_pct": 0.51,
    "asof": "30 Oct 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 74151.0,
-   "change_pct": 1.24,
+   "value": 74460.0,
+   "change_pct": 0.42,
    "asof": "30 Oct 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.94,
-   "change_pct": -0.28,
-   "asof": "31 Oct 01:15 IST"
+   "value": 95.15,
+   "change_pct": -0.06,
+   "asof": "31 Oct 03:38 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 112.26,
-   "change_pct": -2.28,
-   "asof": "31 Oct 02:20 IST"
+   "value": 112.33,
+   "change_pct": -2.22,
+   "asof": "31 Oct 02:29 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3884.0,
-   "change_pct": -3.65,
-   "asof": "31 Oct 02:23 IST"
+   "value": 3885.0,
+   "change_pct": -3.63,
+   "asof": "31 Oct 02:29 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -164,13 +164,57 @@
    ]
   },
   "Startups": {
-   "total": 1081,
-   "new_today": 0,
+   "total": 1086,
+   "new_today": 5,
    "items": [
     {
      "desk": "Startups",
      "score": 11,
-     "priority": 92,
+     "priority": 85,
+     "title": "This fintech wasn’t ‘actively’ fundraising. Then it closed a $90m round at an $800m valuation",
+     "url": "https://sifted.eu/articles/spiko-interview/",
+     "date": "2026-10-29",
+     "source": "Sifted",
+     "label": "Global · Fintech",
+     "snippet": "Despite European fintech facing choppy waters, money market fund Spiko raised a $90m Series B at an $800m valuation with the backing of some big-name investors.",
+     "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
+     "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/28155718/Paul-Adrien-Hyppolite-portrait-scaled.jpg",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $800M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "Fintech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "Cognizant In Talks To Invest In Sarvam At $3.5 Bn To $4 Bn Valuation: Report",
+     "url": "https://inc42.com/buzz/cognizant-in-talks-to-invest-in-sarvam-at-3-5-bn-to-4-bn-valuation-report/",
+     "date": "2026-10-28",
+     "source": "Inc42",
+     "label": "India · AI & Deeptech",
+     "snippet": "Cognizant is reportedly in talks to invest in Sarvam AI at a $3.5-4 Bn valuation, following HCLTech’s $150 Mn investment in the AI unicorn",
+     "lead": "Cognizant is reportedly in talks to invest in Sarvam AI as part of a proposed $300 Mn fundraise at a $3.5-4 Bn valuation The investment could make Cognizant the second IT services major on Sarvam’s cap table after HCLTech, as IT companies seek to strengthen their AI capabilities Sarvam raised $234 Mn in the first close of its $300 Mn Series B in June at a $1.5 Bn valuation, with HCLTech investing $150 Mn",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Sarvam-Open-Source-Story-social.jpg",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $4,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
      "title": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion",
      "url": "https://yourstory.com/2026/10/ather-turns-profitable-after-rs-154-cr-loss-meta-ai-expansion",
      "date": "2026-10-27",
@@ -192,7 +236,7 @@
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 83,
+     "priority": 77,
      "title": "[Update] CCI Clears Navi’s $100 Mn Investment From Prosus",
      "url": "https://inc42.com/buzz/ipo-bound-navi-raises-100-mn-from-prosus-in-maiden-institutional-round/",
      "date": "2026-10-30",
@@ -208,54 +252,12 @@
      "tags": [
       "Funding"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "SoftBank-backed OPay raises $304 million in US IPO",
-     "url": "https://economictimes.indiatimes.com/tech/technology/softbank-backed-opay-raises-304-million-in-us-ipo/articleshow/135357135.cms",
-     "date": "2026-10-30",
-     "source": "ET Startups",
-     "label": "Global · Fintech",
-     "snippet": "The Nigeria-focused firm sold 16 million American depositary shares at $19 apiece in the IPO, compared with its targeted range of $19 to $21, giving it a valuation of about $4 billion.",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-46382,resizemode-75,msid-135357135/tech/technology/softbank-backed-opay-raises-304-million-in-us-ipo.jpg",
-     "why": [
-      "IPO & Listing",
-      "Large deal (about $304M)"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "Fintech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Binance estimates $6.3B impact from security breach, freezes $3B in crypto assets",
-     "url": "https://yourstory.com/2026/10/binance-63-billion-impact-security-breach-freezes-3-billion-crypto-assets",
-     "date": "2026-10-30",
-     "source": "YourStory",
-     "label": "India · SaaS & Enterprise",
-     "snippet": "Binance said a preliminary investigation pointed to a compromised DevOps engineer's laptop as the possible entry point for the breach. The exchange has suspended deposits and withdrawals and pledged to cover customer losses.",
-     "lead": "Binance estimates $6.3B impact from security breach, freezes $3B in crypto assets Binance said a preliminary investigation pointed to a compromised DevOps engineer's laptop as the possible entry point for the breach. The exchange has suspended deposits and withdrawals and pledged to cover customer losses. Team YS 17467 Stories Friday October 30, 2026 , 2 min Read Cryptocurrency exchange Binance has estimated the total impact of a major ...",
-     "image": "https://images.yourstory.com/cs/121/a0bad530ce5d11e9a3fb4360e4b9139b/Imagepnup-1648795767517.jpg",
-     "why": [
-      "Financials",
-      "Very large figure in headline (about $6,300M: round or valuation)"
-     ],
-     "tags": [
-      "Financials",
-      "SaaS & Enterprise"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 3,
+   "new_today": 7,
    "items": [
     {
      "desk": "Immigration",
@@ -436,49 +438,26 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 13,
    "priority": 100,
-   "title": "Jio Platforms Q2 Profit Rises 14% YoY To ₹8,387 Cr, Revenue Up 11%",
-   "url": "https://inc42.com/buzz/jio-platforms-q2-profit-rises-14-yoy-to-%e2%82%b98387-cr-revenue-up-11/",
-   "date": "2026-10-30",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Jio Platforms recorded consolidated net profit of ₹8,387 Cr in Q2 FY27, while operating revenue rose 11.4% to ₹40,475 Cr.",
-   "lead": "Jio Platforms reported a 13.7% YoY increase in consolidated net profit to ₹8,387 Cr in Q2 FY27, while operating revenue rose 11.4% to ₹40,475 Cr Other income jumped 49.5% YoY to ₹978 Cr, supporting profit growth even as total expenses increased slightly faster than operating revenue Network operating expenses, its largest expense head, increased 3.3% to ₹8,813 Cr from ₹8,528 Cr",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/jio-PC-social-.png",
+   "title": "Binance hit with $6.3B breach; Delhivery reports net profit of Rs 41 Cr in Q2",
+   "url": "https://yourstory.com/2026/10/binance-hit-with-63b-breach-delhivery-reports-net-profit-of-rs-41-cr-in-q2",
+   "date": "2026-10-31",
+   "source": "YourStory",
+   "label": "India · Fintech",
+   "snippet": "Dear Reader,\n\nAtomberg Technologies is gearing up for its public outing. The smart appliance disruptor has officially secured SEBI's green light to float its initial public offering, blending a Rs 450 crore fresh issue with an offer for sale of over 76.5 million equity shares. Known for transformin",
+   "lead": "Binance hit with $6.3B breach; Delhivery reports net profit of Rs 41 Cr in Q2 Binance confirmed there is no evidence that wallet private keys were compromised. Team YS 17476 Stories Saturday October 31, 2026 , 4 min Read Atomberg Technologies is gearing up for its public outing. The smart appliance disruptor has officially secured SEBI's green light to float its initial public offering, blending a Rs 450 crore fresh issue with an offer ...",
+   "image": "https://images.yourstory.com/cs/2/47afd43024ec11ec9ecb9b7afb0df1da/BinanceforDC-1793374001980.jpg",
    "why": [
     "Financials",
-    "Very large figure in headline (about $883M: round or valuation)",
+    "Very large figure in headline (about $6,300M: round or valuation)",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Financials"
+    "Financials",
+    "Fintech"
    ],
    "rank": 1,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 100,
-   "title": "SEBI Greenlights Atomberg’s ₹450 Cr+ IPO",
-   "url": "https://inc42.com/buzz/sebi-greenlights-atombergs-%e2%82%b9450-cr-ipo/",
-   "date": "2026-10-30",
-   "source": "Inc42",
-   "label": "India · Policy & Regulation",
-   "snippet": "SEBI informed that it had issued its observation letter to Atomberg on October 30, over a couple months after the company filed its draft IPO papers",
-   "lead": "SEBI informed that it had issued its observation letter to Atomberg on October 30, over a couple months after the company filed its draft IPO papers The public listing will comprise a fresh issue of equity shares worth up to ₹450 Cr and an offer for sale (OFS) of 7.65 Cr equity shares The company plans to use ₹90 Cr from the fresh issue proceeds to repay or prepay certain borrowings",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Atomberg-Financials-social-1.png",
-   "why": [
-    "IPO & Listing",
-    "Sizeable deal (about $47M)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Policy & Regulation"
-   ],
-   "rank": 2,
    "must_read": true
   },
   {
@@ -501,7 +480,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 3,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -525,7 +504,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 4,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -543,13 +522,13 @@
    "why": [
     "Affects citizenship",
     "Announces a change",
-    "Major story (19 headlines that day)"
+    "Major story (20 headlines that day)"
    ],
    "tags": [
     "Citizenship",
     "Canada"
    ],
-   "rank": 5,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -572,8 +551,8 @@
    "tags": [
     "Mutual Funds"
    ],
-   "rank": 6,
-   "must_read": false
+   "rank": 5,
+   "must_read": true
   },
   {
    "desk": "Policy",
@@ -595,7 +574,7 @@
    "tags": [
     "Industry & Manufacturing"
    ],
-   "rank": 7,
+   "rank": 6,
    "must_read": false
   },
   {
@@ -619,54 +598,54 @@
    "tags": [
     "Regulatory"
    ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 92,
+   "title": "Jio Platforms Q2 Profit Rises 14% YoY To ₹8,387 Cr, Revenue Up 11%",
+   "url": "https://inc42.com/buzz/jio-platforms-q2-profit-rises-14-yoy-to-%e2%82%b98387-cr-revenue-up-11/",
+   "date": "2026-10-30",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Jio Platforms recorded consolidated net profit of ₹8,387 Cr in Q2 FY27, while operating revenue rose 11.4% to ₹40,475 Cr.",
+   "lead": "Jio Platforms reported a 13.7% YoY increase in consolidated net profit to ₹8,387 Cr in Q2 FY27, while operating revenue rose 11.4% to ₹40,475 Cr Other income jumped 49.5% YoY to ₹978 Cr, supporting profit growth even as total expenses increased slightly faster than operating revenue Network operating expenses, its largest expense head, increased 3.3% to ₹8,813 Cr from ₹8,528 Cr",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/jio-PC-social-.png",
+   "why": [
+    "Financials",
+    "Very large figure in headline (about $883M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Financials"
+   ],
    "rank": 8,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 11,
+   "score": 12,
    "priority": 92,
-   "title": "Delhivery Posts ₹41 Cr Profit In Q2, Revenue Crosses ₹3,000 Cr Mark",
-   "url": "https://inc42.com/buzz/delhivery-posts-%e2%82%b941-cr-profit-in-q2-revenue-crosses-%e2%82%b93000-cr-mark/",
+   "title": "SEBI Greenlights Atomberg’s ₹450 Cr+ IPO",
+   "url": "https://inc42.com/buzz/sebi-greenlights-atombergs-%e2%82%b9450-cr-ipo/",
    "date": "2026-10-30",
    "source": "Inc42",
-   "label": "India · Logistics & Supply Chain",
-   "snippet": "Delhivery swung to a consolidated net profit of ₹40.6 Cr in Q2 FY27 from a ₹50.5 Cr loss a year earlier, while operating revenue grew 20%",
-   "lead": "Delhivery swung to a consolidated net profit of ₹40.6 Cr in Q2 FY27 from a ₹50.5 Cr loss a year earlier, while operating revenue grew 19.8% YoY. Operating revenue growth outpaced the 14.2% increase in total expenses, helping the logistics company turn profitable despite a decline in other income. The company’s board approved an investment of up to ₹36 Cr in wholly owned subsidiary Delhivery Fintech Distribution to fund its operational ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/Delhivery-financials-social.jpg",
+   "label": "India · Policy & Regulation",
+   "snippet": "SEBI informed that it had issued its observation letter to Atomberg on October 30, over a couple months after the company filed its draft IPO papers",
+   "lead": "SEBI informed that it had issued its observation letter to Atomberg on October 30, over a couple months after the company filed its draft IPO papers The public listing will comprise a fresh issue of equity shares worth up to ₹450 Cr and an offer for sale (OFS) of 7.65 Cr equity shares The company plans to use ₹90 Cr from the fresh issue proceeds to repay or prepay certain borrowings",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Atomberg-Financials-social-1.png",
    "why": [
-    "Financials",
-    "Large deal (about $316M)",
+    "IPO & Listing",
+    "Sizeable deal (about $47M)",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Financials",
-    "Logistics & Supply Chain"
+    "IPO & Listing",
+    "Policy & Regulation"
    ],
    "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "OpenAI-backed Thrive Holdings acquires ADT",
-   "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-   "date": "2026-10-30",
-   "source": "TechCrunch Venture",
-   "label": "Global · AI & Deeptech",
-   "snippet": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-   "lead": "Thrive Holdings has acquired physical security company ADT for $10 per share or about $7.6 billion in equity, the companies announced on Thursday. Beyond equity, the total enterprise value of the deal is $15.3 billion, ADT said. Thrive Holdings is the PE spinout from Josh Kushner’s powerhouse VC firm Thrive Capital. It also counts OpenAI as its partner , as well as an investor. The firm’s mission is to hold other companies long-term, ...",
-   "image": null,
-   "why": [
-    "Acquisition",
-    "Very large figure in headline (about $15,300M: round or valuation)"
-   ],
-   "tags": [
-    "Acquisition",
-    "AI & Deeptech"
-   ],
-   "rank": 10,
    "must_read": false
   },
   {
@@ -689,55 +668,7 @@
    "tags": [
     "Mutual Funds"
    ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "This fintech wasn’t ‘actively’ fundraising. Then it closed a $90m round at an $800m valuation",
-   "url": "https://sifted.eu/articles/spiko-interview/",
-   "date": "2026-10-29",
-   "source": "Sifted",
-   "label": "Global · Fintech",
-   "snippet": "Despite European fintech facing choppy waters, money market fund Spiko raised a $90m Series B at an $800m valuation with the backing of some big-name investors.",
-   "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
-   "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/28155718/Paul-Adrien-Hyppolite-portrait-scaled.jpg",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $800M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "Fintech"
-   ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "Cognizant In Talks To Invest In Sarvam At $3.5 Bn To $4 Bn Valuation: Report",
-   "url": "https://inc42.com/buzz/cognizant-in-talks-to-invest-in-sarvam-at-3-5-bn-to-4-bn-valuation-report/",
-   "date": "2026-10-28",
-   "source": "Inc42",
-   "label": "India · AI & Deeptech",
-   "snippet": "Cognizant is reportedly in talks to invest in Sarvam AI at a $3.5-4 Bn valuation, following HCLTech’s $150 Mn investment in the AI unicorn",
-   "lead": "Cognizant is reportedly in talks to invest in Sarvam AI as part of a proposed $300 Mn fundraise at a $3.5-4 Bn valuation The investment could make Cognizant the second IT services major on Sarvam’s cap table after HCLTech, as IT companies seek to strengthen their AI capabilities Sarvam raised $234 Mn in the first close of its $300 Mn Series B in June at a $1.5 Bn valuation, with HCLTech investing $150 Mn",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Sarvam-Open-Source-Story-social.jpg",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $4,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 13,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -760,7 +691,7 @@
     "Citizenship",
     "Austria"
    ],
-   "rank": 14,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -783,7 +714,7 @@
     "Citizenship",
     "Australia"
    ],
-   "rank": 15,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -806,6 +737,76 @@
    "tags": [
     "Citizenship",
     "United Kingdom"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+   "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+   "date": "2026-10-31",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
+   "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Salesforce has agreed to acquire Rune Technologies, a startup that builds AI software to help the U.S. military predict supply needs and manage logistics from the field, for $375 million in cash and stock, Resilience Media reported . The acquisition underscores Salesforce’s push into defense tech through Missionforce, its business ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800",
+   "why": [
+    "IPO & Listing",
+    "Large deal (about $375M)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "AI & Deeptech"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "Delhivery Posts ₹41 Cr Profit In Q2, Revenue Crosses ₹3,000 Cr Mark",
+   "url": "https://inc42.com/buzz/delhivery-posts-%e2%82%b941-cr-profit-in-q2-revenue-crosses-%e2%82%b93000-cr-mark/",
+   "date": "2026-10-30",
+   "source": "Inc42",
+   "label": "India · Logistics & Supply Chain",
+   "snippet": "Delhivery swung to a consolidated net profit of ₹40.6 Cr in Q2 FY27 from a ₹50.5 Cr loss a year earlier, while operating revenue grew 20%",
+   "lead": "Delhivery swung to a consolidated net profit of ₹40.6 Cr in Q2 FY27 from a ₹50.5 Cr loss a year earlier, while operating revenue grew 19.8% YoY. Operating revenue growth outpaced the 14.2% increase in total expenses, helping the logistics company turn profitable despite a decline in other income. The company’s board approved an investment of up to ₹36 Cr in wholly owned subsidiary Delhivery Fintech Distribution to fund its operational ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/Delhivery-financials-social.jpg",
+   "why": [
+    "Financials",
+    "Large deal (about $316M)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Financials",
+    "Logistics & Supply Chain"
+   ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "OpenAI-backed Thrive Holdings acquires ADT",
+   "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+   "date": "2026-10-30",
+   "source": "TechCrunch Venture",
+   "label": "Global · AI & Deeptech",
+   "snippet": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+   "lead": "Thrive Holdings has acquired physical security company ADT for $10 per share or about $7.6 billion in equity, the companies announced on Thursday. Beyond equity, the total enterprise value of the deal is $15.3 billion, ADT said. Thrive Holdings is the PE spinout from Josh Kushner’s powerhouse VC firm Thrive Capital. It also counts OpenAI as its partner , as well as an investor. The firm’s mission is to hold other companies long-term, ...",
+   "image": null,
+   "why": [
+    "Acquisition",
+    "Very large figure in headline (about $15,300M: round or valuation)"
+   ],
+   "tags": [
+    "Acquisition",
+    "AI & Deeptech"
    ],
    "rank": 16,
    "must_read": false
