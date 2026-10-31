@@ -1,6 +1,6 @@
 {
  "edition": "2026-10-31",
- "built": "2026-10-31 08:17 IST",
+ "built": "2026-10-31 10:52 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -26,22 +26,22 @@
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 95.15,
-   "change_pct": -0.06,
-   "asof": "31 Oct 03:38 IST"
+   "value": 94.95,
+   "change_pct": -0.21,
+   "asof": "31 Oct 09:00 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 112.33,
-   "change_pct": -2.22,
+   "value": 117.64,
+   "change_pct": 2.4,
    "asof": "31 Oct 02:29 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3885.0,
-   "change_pct": -3.63,
+   "value": 3899.0,
+   "change_pct": -3.29,
    "asof": "31 Oct 02:29 IST"
   },
   {
@@ -164,9 +164,30 @@
    ]
   },
   "Startups": {
-   "total": 1086,
-   "new_today": 5,
+   "total": 1089,
+   "new_today": 8,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "OpenAI-backed Thrive Holdings acquires ADT",
+     "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+     "date": "2026-10-30",
+     "source": "TechCrunch Venture",
+     "label": "Global · AI & Deeptech",
+     "snippet": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+     "lead": "Thrive Holdings has acquired physical security company ADT for $10 per share or about $7.6 billion in equity, the companies announced on Thursday. Beyond equity, the total enterprise value of the deal is $15.3 billion, ADT said. Thrive Holdings is the PE spinout from Josh Kushner’s powerhouse VC firm Thrive Capital. It also counts OpenAI as its partner , as well as an investor. The firm’s mission is to hold other companies long-term, ...",
+     "image": null,
+     "why": [
+      "Acquisition",
+      "Very large figure in headline (about $15,300M: round or valuation)"
+     ],
+     "tags": [
+      "Acquisition",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 11,
@@ -232,32 +253,12 @@
       "Funding",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "[Update] CCI Clears Navi’s $100 Mn Investment From Prosus",
-     "url": "https://inc42.com/buzz/ipo-bound-navi-raises-100-mn-from-prosus-in-maiden-institutional-round/",
-     "date": "2026-10-30",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "VC firm Prosus has invested $100 Mn in Sachin Bansal-led fintech startup Navi, marking the latter’s first institutional capital raise.",
-     "lead": "Prosus has invested $100 Mn in Sachin Bansal-led fintech startup Navi, marking the company’s first institutional capital raise. The investment gives Navi fresh capital as it scales its lending and payments businesses and reportedly revives plans for a ₹3,000 Cr IPO. The Competition Commission of India cleared the investment on October 30.",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2023/04/Navi-IPO_Social-Image.jpg",
-     "why": [
-      "Funding",
-      "Large deal (about $100M)"
-     ],
-     "tags": [
-      "Funding"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 7,
+   "new_today": 10,
    "items": [
     {
      "desk": "Immigration",
@@ -745,6 +746,28 @@
    "desk": "Startups",
    "score": 11,
    "priority": 85,
+   "title": "From To Cent to Matiks — Indian Startups Raised Over $132 Mn This Week",
+   "url": "https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/",
+   "date": "2026-10-31",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Homegrown new-age tech ventures managed to raise $130.2 Mn between October 26 and October 30, down 29.2% from $184 Mn in the previous week",
+   "lead": "Indian startups managed to raise $130.2 Mn between October 26 and October 30, down 29.2% from $184 Mn in the previous week Ecommerce led the sectoral funding charts this week, with nine deals bringing in $33.4 Mn Blume Ventures and Antler emerged as the most active investors this week and backed three startups each",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Funding-Galore_Oct-Soc-100.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $132M)"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
    "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
    "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
    "date": "2026-10-31",
@@ -761,7 +784,7 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -784,29 +807,6 @@
    "tags": [
     "Financials",
     "Logistics & Supply Chain"
-   ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "OpenAI-backed Thrive Holdings acquires ADT",
-   "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-   "date": "2026-10-30",
-   "source": "TechCrunch Venture",
-   "label": "Global · AI & Deeptech",
-   "snippet": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-   "lead": "Thrive Holdings has acquired physical security company ADT for $10 per share or about $7.6 billion in equity, the companies announced on Thursday. Beyond equity, the total enterprise value of the deal is $15.3 billion, ADT said. Thrive Holdings is the PE spinout from Josh Kushner’s powerhouse VC firm Thrive Capital. It also counts OpenAI as its partner , as well as an investor. The firm’s mission is to hold other companies long-term, ...",
-   "image": null,
-   "why": [
-    "Acquisition",
-    "Very large figure in headline (about $15,300M: round or valuation)"
-   ],
-   "tags": [
-    "Acquisition",
-    "AI & Deeptech"
    ],
    "rank": 16,
    "must_read": false
