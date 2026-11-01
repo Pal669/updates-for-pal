@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-01",
- "built": "2026-11-01 08:10 IST",
+ "built": "2026-11-01 11:20 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -28,13 +28,13 @@
    "dp": 2,
    "value": 94.95,
    "change_pct": -0.21,
-   "asof": "31 Oct 09:00 IST"
+   "asof": "01 Nov 09:00 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 117.64,
-   "change_pct": 2.4,
+   "value": 113.43,
+   "change_pct": -1.26,
    "asof": "31 Oct 02:29 IST"
   },
   {
@@ -79,8 +79,8 @@
  },
  "desks": {
   "Policy": {
-   "total": 282,
-   "new_today": 0,
+   "total": 283,
+   "new_today": 1,
    "items": [
     {
      "desk": "Policy",
@@ -164,8 +164,8 @@
    ]
   },
   "Startups": {
-   "total": 1099,
-   "new_today": 1,
+   "total": 1100,
+   "new_today": 2,
    "items": [
     {
      "desk": "Startups",
@@ -255,7 +255,7 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 2,
+   "new_today": 4,
    "items": [
     {
      "desk": "Immigration",
@@ -603,21 +603,20 @@
    "desk": "Immigration",
    "score": 9,
    "priority": 90,
-   "title": "Nigeria Immigration Service extends UK passport intervention exercise to November 27",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNVo1RlBoeW5HV1RLcWR2bzNtSDFZd3N3R29veFA1ZUFCZGhicnBDNVNTZE9mbmJXRVVTa2tUajFwTFFubjNsMS1xM3liUW9vNXdrX0dHYUtQd1AyOXdsS2JXblNRVkYzQng2S1hxYU1LNTRmR1Z4UWxYcU04SHRDR1MyNmszMjZobDBlSGg4aDc1WFIxTkxJclFmRVFLNUl4X1VCazk1TVR4a3NYVDFpZmpreXFCeDZNdFBkQml3?oc=5",
-   "date": "2026-10-27",
-   "source": "Nairametrics",
+   "title": "UK Settlement Rules: Could Shabana Mahmood Give Migrant Care Workers a Break?",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa2VfVkd0aWJ1cXZrOWF6MmRIQkZwZkJNLVpVU2d0T3Q2UXJhOXdqOE9zSWdRYjR0UlVEZ2xXRndpX1JOT2d4NjlJbTFNYjhHeUdDbVRqempDd1hobXVITHluM0I1R2dmWmZNOXdJWTQxYjlaZ0xTSWxTalRlM3NGZ2pR?oc=5",
+   "date": "2026-10-31",
+   "source": "EasternEye",
    "label": "United Kingdom",
-   "snippet": "The Nigeria Immigration Service (NIS) has further extended its Special Passport Intervention Exercise in the United Kingdom until November 27, 2026, following sustained demand from Nigerians seeking passport services.",
-   "lead": "UK to impose $1,200 levy on universities for Nigerian, other foreign students",
-   "image": "https://cdn.nairametrics.com/wp-content/uploads/2026/09/kemolala.webp",
+   "snippet": "The home secretary is expected to keep a 10-year wait for most migrants seeking permanent settlement, but exempt social care workers already in the UK after opposition from cabinet colleagues.",
+   "lead": "The home secretary is expected to keep a 10-year wait for most migrants seeking permanent settlement, but exempt social care workers already in the UK after opposition from cabinet colleagues. Mahmood had been concerned about the number of people who would become eligible for settlement after a period of very high net migration under the previous government. Vivek Mishra is an assistant editor at Eastern Eye covering British Asian ...",
+   "image": "https://www.easterneye.biz/media-library/shabana-mahmood.jpg?id=55263536&width=1200&height=600&coordinates=0%2C85%2C0%2C86",
    "why": [
-    "Affects citizenship",
-    "Announces a change",
-    "Major story (13 headlines that day)"
+    "Affects permanent residence",
+    "Announces a change"
    ],
    "tags": [
-    "Citizenship",
+    "PR / Settlement",
     "United Kingdom"
    ],
    "rank": 8,
