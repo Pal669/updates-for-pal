@@ -1,6 +1,6 @@
 {
- "edition": "2026-11-01",
- "built": "2026-11-01 22:26 IST",
+ "edition": "2026-11-02",
+ "built": "2026-11-02 02:20 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -54,54 +54,34 @@
  ],
  "features": {
   "startup_file": {
-   "company": "Innov8 Workspaces",
-   "tagline": "Premium flexible office space operator",
-   "what": "Runs premium flexible and managed workspace centres across India. It had 58 operating centres at the end of FY26 and 72 by July 2026.",
+   "company": "Kissht",
+   "tagline": "Listed digital lender (NBFC)",
+   "what": "Lending-tech platform founded in 2015 by Ranvir Singh and Krishnan Vishwanathan. Offers digital personal and business loans up to Rs 5 lakh, health-related insurance products and secured loans against property. Got regulatory approval in July 2026 to distribute mutual funds through subsidiary Invincible Minds.",
    "how": [
-    "Rent from customers who use its centres: Rs 173.6 Cr of Rs 201.3 Cr operating revenue in FY26, about 86%.",
-    "Other operational income (ancillary services): Rs 27.6 Cr, up from Rs 5.4 Cr."
+    "The article does not give a revenue split.",
+    "Inferred, not from the article: as an NBFC, its core income is interest and fees on the loans it makes; insurance and mutual fund distribution would add commissions."
    ],
-   "watch": "Profit quality: other income was Rs 38.9 Cr, including a Rs 36.7 Cr gain on terminating lease contracts. Without that gain the profit jump would look much smaller. The article gives growth drivers as more centres, higher occupancy and better pricing.",
-   "sector": "Real Estate & Workspaces",
+   "watch": "The company did not say how it will use the money. Fresh capital for a lender usually funds loan growth, but that is inference.",
+   "sector": "Fintech",
    "region": "India",
-   "url": "https://inc42.com/buzz/innov8s-fy26-profit-zooms-multifold-to-%e2%82%b913-7-cr-revenue-crosses-%e2%82%b9200-cr-mark/"
+   "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/"
   },
   "country": {
-   "id": "new-zealand",
-   "name": "New Zealand",
-   "trend": "Loosening (new pathways from 24 Aug 2026)",
-   "pr": "Skilled Work Experience Pathway: skill level 1-3 role, 5 years relevant experience including 2 years in New Zealand at 1.1x the median wage. Trades and Technician Pathway: relevant Level 4+ qualification, 4 years experience including 18 months in NZ at or above the median wage. Applicants generally meet only one wage threshold, the one in force when they started accruing experience.",
-   "citizenship": "About 5 years as a resident (general knowledge, not re-verified). Dual citizenship allowed.",
-   "pro": "Eligibility widened and wage rules simplified in the 2026 reform.",
-   "con": "Small economy and job market; fewer senior finance roles (general knowledge).",
-   "watch": "How INZ implements the August 2026 changes"
+   "id": "netherlands",
+   "name": "Netherlands",
+   "trend": "Tightening proposed (citizenship 5 to 10 years)",
+   "pr": "Permanent residence or EU long-term residence after 5 years of continuous lawful residence.",
+   "citizenship": "Today: 5 years and A2 Dutch. The cabinet sent a bill to extend this to 10 years for consultation on 26 September 2025; it was aimed at parliament in Q3 2026. As of 14 September 2026 it is not law. The Netherlands generally requires giving up other citizenship (general knowledge), which India requires anyway.",
+   "pro": "5-year PR clock.",
+   "con": "Real risk citizenship doubles to 10 years; timing and transition rules unknown.",
+   "watch": "Whether the 10-year naturalisation bill reaches parliament"
   }
  },
  "desks": {
   "Policy": {
    "total": 283,
-   "new_today": 1,
+   "new_today": 0,
    "items": [
-    {
-     "desk": "Policy",
-     "score": 7,
-     "priority": 54,
-     "title": "Extension of timeline with respect to compliance of Digital Accessibility Circulars",
-     "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-with-respect-to-compliance-of-digital-accessibility-circulars_105523.html",
-     "date": "2026-10-30",
-     "source": "SEBI",
-     "label": "Markets & Regulation",
-     "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
-     "lead": "",
-     "image": null,
-     "why": [
-      "Regulator rulebook change",
-      "Regulator: SEBI"
-     ],
-     "tags": [
-      "Markets & Regulation"
-     ]
-    },
     {
      "desk": "Policy",
      "score": 7,
@@ -120,6 +100,26 @@
      ],
      "tags": [
       "Infrastructure & Transport"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 6,
+     "priority": 46,
+     "title": "Extension of timeline with respect to compliance of Digital Accessibility Circulars",
+     "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-with-respect-to-compliance-of-digital-accessibility-circulars_105523.html",
+     "date": "2026-10-30",
+     "source": "SEBI",
+     "label": "Markets & Regulation",
+     "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Regulator rulebook change",
+      "Regulator: SEBI"
+     ],
+     "tags": [
+      "Markets & Regulation"
      ]
     },
     {
@@ -165,66 +165,68 @@
   },
   "Startups": {
    "total": 1103,
-   "new_today": 5,
+   "new_today": 0,
    "items": [
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 79,
-     "title": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion",
-     "url": "https://yourstory.com/2026/10/ather-turns-profitable-after-rs-154-cr-loss-meta-ai-expansion",
-     "date": "2026-10-27",
-     "source": "YourStory",
-     "label": "India · AI & Deeptech",
-     "snippet": "Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand.",
-     "lead": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand. Team YS 17432 Stories Tuesday October 27, 2026 , 4 min Read MakeMyTrip is back in the black! The travel booking platform reported a net profit of $1.8 ...",
-     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/2026-CopyofNewPPTTemplates6-1793024916362.png",
+     "score": 10,
+     "priority": 77,
+     "title": "SEBI Greenlights Atomberg’s ₹450 Cr+ IPO",
+     "url": "https://inc42.com/buzz/sebi-greenlights-atombergs-%e2%82%b9450-cr-ipo/",
+     "date": "2026-10-30",
+     "source": "Inc42",
+     "label": "India · Policy & Regulation",
+     "snippet": "SEBI informed that it had issued its observation letter to Atomberg on October 30, over a couple months after the company filed its draft IPO papers",
+     "lead": "SEBI informed that it had issued its observation letter to Atomberg on October 30, over a couple months after the company filed its draft IPO papers The public listing will comprise a fresh issue of equity shares worth up to ₹450 Cr and an offer for sale (OFS) of 7.65 Cr equity shares The company plans to use ₹90 Cr from the fresh issue proceeds to repay or prepay certain borrowings",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Atomberg-Financials-social-1.png",
      "why": [
-      "Funding",
-      "Very large figure in headline (about $35,000M: round or valuation)",
+      "IPO & Listing",
+      "Sizeable deal (about $47M)",
       "Valuation, listing or profitability signal"
      ],
      "tags": [
-      "Funding",
-      "AI & Deeptech"
+      "IPO & Listing",
+      "Policy & Regulation"
      ]
     },
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 71,
-     "title": "IPO-Bound StockGro’s FY26 Profit Jumps 3.3X YoY To ₹113 Cr, Revenue Doubles",
-     "url": "https://inc42.com/buzz/ipo-bound-stockgros-fy26-profit-jumps-3-3x-yoy-to-%e2%82%b9113-cr-revenue-doubles/",
-     "date": "2026-10-31",
-     "source": "Inc42",
-     "label": "India · Fintech",
-     "snippet": "StockGro-parent AssetGro Fintech Ltd net profit for the fiscal year FY26 jumped threefold while its operating revenue doubled year-on-year",
-     "lead": "StockGro-parent AssetGro Fintech Ltd net profit for the fiscal year FY26 jumped threefold while its operating revenue doubled year-on-year The investment advisory company pre-filed its draft red herring prospectus (DRHP) with the SEBI back in September A majority of 99.9% of its operating revenue comes from subscription fees and the remaining is from service fees",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Untitled-Design-13-760x570-1.png",
+     "priority": 77,
+     "title": "This fintech wasn’t ‘actively’ fundraising. Then it closed a $90m round at an $800m valuation",
+     "url": "https://sifted.eu/articles/spiko-interview/",
+     "date": "2026-10-29",
+     "source": "Sifted",
+     "label": "Global · Fintech",
+     "snippet": "Despite European fintech facing choppy waters, money market fund Spiko raised a $90m Series B at an $800m valuation with the backing of some big-name investors.",
+     "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
+     "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/10/28155718/Paul-Adrien-Hyppolite-portrait-scaled.jpg",
      "why": [
-      "IPO & Listing",
+      "Funding",
+      "Very large figure in headline (about $800M: round or valuation)",
       "Valuation, listing or profitability signal"
      ],
      "tags": [
-      "IPO & Listing",
+      "Funding",
       "Fintech"
      ]
     },
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 71,
-     "title": "From To Cent to Matiks — Indian Startups Raised Over $132 Mn This Week",
-     "url": "https://inc42.com/buzz/from-to-cent-to-matiks-indian-startups-raised-over-132-mn-this-week/",
-     "date": "2026-10-31",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "Homegrown new-age tech ventures managed to raise $130.2 Mn between October 26 and October 30, down 29.2% from $184 Mn in the previous week",
-     "lead": "Indian startups managed to raise $130.2 Mn between October 26 and October 30, down 29.2% from $184 Mn in the previous week Ecommerce led the sectoral funding charts this week, with nine deals bringing in $33.4 Mn Blume Ventures and Antler emerged as the most active investors this week and backed three startups each",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Funding-Galore_Oct-Soc-100.jpg",
+     "priority": 77,
+     "title": "Exclusive: Lovable offers employees $80m cash-out at $13.3bn valuation",
+     "url": "https://sifted.eu/articles/lovable-employee-share-sale/",
+     "date": "2026-10-28",
+     "source": "Sifted",
+     "label": "Global · Other",
+     "snippet": "Employees at Swedish vibe-coding startup Lovable have been given the chance to cash out $80m in shares between them.",
+     "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
+     "image": "https://content.sifted.eu/wp-content/uploads/2025/09/15155020/Summer-2025-Lovable-Team-Picture.webp",
      "why": [
       "Funding",
-      "Large deal (about $132M)"
+      "Very large figure in headline (about $13,300M: round or valuation)",
+      "Valuation, listing or profitability signal"
      ],
      "tags": [
       "Funding"
@@ -233,49 +235,48 @@
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 71,
-     "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-     "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-     "date": "2026-10-31",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
-     "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Salesforce has agreed to acquire Rune Technologies, a startup that builds AI software to help the U.S. military predict supply needs and manage logistics from the field, for $375 million in cash and stock, Resilience Media reported . The acquisition underscores Salesforce’s push into defense tech through Missionforce, its business ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800",
+     "priority": 77,
+     "title": "Anthropic files for IPO even as losses surge to $80B",
+     "url": "https://yourstory.com/2026/10/anthropic-files-for-ipo-even-as-losses-surge-to-80-billion",
+     "date": "2026-10-26",
+     "source": "YourStory",
+     "label": "India · Other",
+     "snippet": "Anthropic will be listed on the Nasdaq stock exchange and will trade under the name of ANT.",
+     "lead": "Anthropic files for IPO even as losses surge to $80B Anthropic will be listed on the Nasdaq stock exchange and will trade under the name of ANT. Team YS 17430 Stories Monday October 26, 2026 , 2 min Read Anthropic, one of the leading artificial intelligence (AI) companies and the developer of the large language model Claude, has filed for an initial public offering (IPO), moving closer to becoming a publicly listed company. The company ...",
+     "image": "https://images.the-captable.com/cs/158/11718bd02d6d11e9aa979329348d4c3e/AnthropicFeatureImage-1791172568483.jpg",
      "why": [
       "IPO & Listing",
-      "Large deal (about $375M)"
+      "Very large figure in headline (about $80,000M: round or valuation)"
      ],
      "tags": [
-      "IPO & Listing",
-      "AI & Deeptech"
+      "IPO & Listing"
      ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 16,
+   "new_today": 2,
    "items": [
     {
      "desk": "Immigration",
      "score": 6,
      "priority": 60,
-     "title": "Iceland Plans to Tighten Permanent Residency Rules for Foreigners",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ3B2OXVQVm0tbVhjbXlUb0FwZmVtMll0Y3p3bl9oTnUyb3l4c1pyUDloWnNxVGdhSTNTbG56T1c1WG12VUVLVXMyNUFMaHYwUnhZWGpab2hPT3FRZzNUampjRmJfRmtrMHZYM3V6ei1ldWVlMlFKOWJVOVpCWHRZV0ZRa2dURDh5RDJIWXJRcGdGQzRtbW1ybzZHalFEY2FEdWlz0gGoAUFVX3lxTE13Q3pEeWNISzdYWmhSYWliM1RIRUxxdVlfa3czcnZlNXlvOXJaN3RvNGdCYkZja1VmY0gzNkJDZUV6Ty00UVFKWDFwLU9qb19BdnN6Tmw0d1NodU1DcWhDQjBmNHJILU9JcTEzYTVnSGpIbnNNZDREWE8wRGhYUEl3cTZSV3htYklwRHVPay1VUHNvUEtwQVlmSjhKYzA5OUJjdW9XeXliNw?oc=5",
+     "title": "South Korea targets 4 lakh international students with proposed visa, employment reforms",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdHhSSDh4OEloX0Mtd1gyWGo1OGoycHJtamt1S0c2WGFka3ROVHhlODI2OVZQczVSaFRJYkJNZFVXV1hWdnB2ZFp5UTVSVDA0bDFRWnhVZm90V0N5SWJmZkd3V0RMS3ZISXFQMVJhU2dNUFlPd2dYMG5VRVJfcnhTMVM5Y1J3ckNPbGFxOEl6SjQzNUtiaEpaNjFvVl9jaWluaXFjLTVKZVJhVS0wZ2U4N2RMWlctM0s5VjFRLTZCSGdVdkxTQVFxN2s3LWlzc0FqVDhNLVl0MjFQOTE3UmZrWGQyeHbSAeoBQVVfeXFMUF82VlpkLXVoNjJKQ3ZLOEVPNXpZNzUyakhvOWxESFpSUDNQZUctVnEtdVVlMEVfdG85Mm5wNjUtS0JVclFQMWJKRk8xVHMwZTM3TlUxcS1ZdDFoSEpMclc4YklqZHJqZmdodEVsbUlodTF3YnYzU0FQc3NlaU9pY2tMMURYQ1dEa3ppMllCWElabndpam5EZ2xtbGYxZnhmSllOenRxR1hKZFM4MW9VOTNCcHJ1c3VKMnZXa3JlQ1hRMTM0RWstTHFTdEVXeUpVZXRiYlY3dmVUbDNyWG8td2pDa1hKNm45Y0xB?oc=5",
      "date": "2026-10-29",
-     "source": "ProPakistani",
-     "label": "Iceland",
-     "snippet": "Iceland's government has approved a major immigration reform proposal that would introduce stricter requirements for permanent residency, family",
-     "lead": "Iceland’s government has approved a major immigration reform proposal that would introduce stricter requirements for permanent residency, family reunification, and residence permits. The government approved the bill proposed by the Minister of Justice, describing it as the biggest overhaul of the country’s residence permit system in a decade. The proposed changes aim to bring Iceland’s immigration rules in line with other Nordic ...",
-     "image": "https://propakistani.pk/wp-content/uploads/2026/10/iceland.jpg",
+     "source": "Business Today",
+     "label": "South Korea",
+     "snippet": "Under the proposed framework, international students who demonstrate a specified level of Korean-language proficiency could be exempt from submitting documents proving they have sufficient funds to cover tuition and living expenses",
+     "lead": "Business Today Desk Updated Oct 29, 2026 2:10 AM IST The proposed reforms would simplify eligibility requirements for international students seeking part-time employment South Korea is planning changes to its international student visa system, linking Korean-language proficiency with financial documentation requirements, part-time employment opportunities and post-study career pathways. The proposed reforms aim to attract 400,000 ...",
+     "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ae1dd543e623-the-proposed-reforms-would-simplify-eligibility-requirements-for-international-students-seeking-part-283234958-16x9.png",
      "why": [
-      "Affects permanent residence",
-      "Announces a change"
+      "Announces a change",
+      "Major story (8 headlines that day)"
      ],
      "tags": [
-      "PR / Settlement",
-      "Iceland"
+      "Student / Graduate",
+      "South Korea"
      ]
     },
     {
@@ -303,26 +304,6 @@
      "desk": "Immigration",
      "score": 5,
      "priority": 50,
-     "title": "Danish court rules citizenship denial to woman with disability was not discrimination",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU1oyZ3AwMFRxQ2Fyb01FcFFxdVJSSXY0R1BaUjNkWEwxbDduTWZBelVwTmNPZHNxak1XUHlzNDNGSmxWV01uSkVCOEk0djM3eEh1SzR5bVQ3eGFBaGtSZVB1c1E1UjJ2Ym8tUjBkdE1xWnNEMEtKa0I0WnBEb1E5MmZCdG5jZ19ibHlsU2RWQzJ6WHktRlBPeUhSUkxhaWUzUmhSRVM5aVNCRUpMajhPbllYcXl4dTZKanFpRFhvTjhHdw?oc=5",
-     "date": "2026-10-30",
-     "source": "The Copenhagen Post",
-     "label": "Denmark",
-     "snippet": "A Palestinian woman who was denied Danish citizenship because she could not meet the country’s self-support requirement has lost her discrimination case against the Ministry of Immigration and Integration. Denmark’s Eastern High Court ruled Friday that the decision did not constitute unlawful indirect discrimination based on her disabilit",
-     "lead": "A Palestinian woman who was denied Danish citizenship because she could not meet the country’s self-support requirement has lost her discrimination case against the Ministry of Immigration and Integration. Denmark’s Eastern High Court ruled Friday that the decision did not constitute unlawful indirect discrimination based on her disability, according to a statement published on the court’s website. The woman arrived in Denmark in 1999 ...",
-     "image": null,
-     "why": [
-      "Affects citizenship"
-     ],
-     "tags": [
-      "Citizenship",
-      "Denmark"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 50,
      "title": "New Zealand visa changes for Indian students: What the India–New Zealand trade deal means for studying and working abroad",
      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNUUNkNURmc21wN3JSQ1VTRi1pU0N3RllzNktVd1FPSW9KWWVTR1FDRnpFa3ZIU1FiYU5IWWZ4aHpFRF8ydjcyWHdDRjlrc2NXMWNKWHVTV2JRZXhJRTBqaXFLRlVrcU5paGppM3gyOHQ1ZXBnc0FfWFFTNXZCZVkzUEc5T0FMUUhtZmZYNmZ3NDJpSzk5eDIyd0VZYWtZUEFOQVdGbllPN1hCY24wM1JGS2gtaHVfQ3B4WEFkWDlNVlFReHd3ZVZiaVhRbElHcTBLTzIyUFo2czR6OFhKelI1Z2VGZHpXd1dmMUU5eTQtVWpJM2g0MzJVNVk1amQyOVZYZW0tUlYtOGZMUFdMNkk5VDc0OXB3ZTFP?oc=5",
      "date": "2026-10-29",
@@ -339,6 +320,27 @@
       "Student / Graduate",
       "New Zealand"
      ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 50,
+     "title": "Denmark to launch new work permit scheme in 2027: What it means for Indian jobseekers",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRjhjbXhUbHFwOF8zbjgzSkxmQk1UYngwU2ZwaFhLWHVlbEVRVGh1LU16MUs4MUtnYVNQYjB2dmxfbVp1N0VnYzlWS0VwTlhNSldJSm40Z0g4bk8zWGVLOExoNjBOWmVOTkpNSXNkYl9zaWNKc3diZllEam1pX2Z0Rmp6Vlc5dEZrMl9KaFNjaTk0Y2NlT0hjVkw2bXdWVU9DdW45ZktSVmVSRXhSbFFGUkJJWENZLTNiVTl6MTNJRXF3bEJjQUFiRlRUTFNYUmN2WF9MQ2xFWlDSAd4BQVVfeXFMTm95VUhHUmE0M3ZYOEFHUWdWaWJCaUlqUlg4Y2ppc3VkMkR1OTNqZEx1VVJLRGhFMHpYNUVuTUwybHE2Q2xHdUtmbFdHVEJPS1FseERJcDU0WnJKcERLeDNGejVkd2xBZXlKRVpuN2R0X0pic21tUVBpanNhdHZxbjRwVVVhYkE1TWpZS3djVjkzejY2bWFLSU1oTnJNUzNTZ1pNc0c3Y29PbzBzVnZTbDJZaFRuUEhocWhYN1N0UF9hWHBoYXJhRlViRVd5UzVqNndLelF5SVRVZlpSNGx3?oc=5",
+     "date": "2026-10-29",
+     "source": "Business Today",
+     "label": "Denmark",
+     "snippet": "The new Collective Agreement Scheme is designed to help eligible Danish companies recruit workers from abroad at a lower salary threshold than some existing work permit routes, provided the job meets specific employment conditions",
+     "lead": "Business Today Desk Updated Oct 29, 2026 9:56 PM IST India is among the 16 countries whose citizens are eligible to apply under the new scheme Denmark is set to introduce a new work permit pathway from January 1, 2027, allowing eligible foreign nationals, including Indians, to take up jobs with qualifying Danish employers under a scheme that sets a minimum annual salary of DKK 322,000 (approximately Rs 47 lakh at indicative exchange ...",
+     "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ae37188b5b06-india-is-among-the-16-countries-whose-citizens-are-eligible-to-apply-under-the-new-scheme-291711777-16x9.png",
+     "why": [
+      "Affects work visas",
+      "Mentions India or Indians"
+     ],
+     "tags": [
+      "Work visa",
+      "Denmark"
+     ]
     }
    ]
   },
@@ -350,21 +352,22 @@
      "desk": "Advisory",
      "score": 10,
      "priority": 83,
-     "title": "Sebi makes direct plans default: Know how much investors can save on SIPs",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOckRPWmk2SllQWUFzWFdlaFBHTE1wczFLUG9tem13Qm9jX2owdmo2Ym1XQXNObXVtQUtQNUg2QkZJOVhsTjM5emVid01sa3MtQ1poSkhPTTY5cTFqWGNwT2Y2Q3ljTXQ5eVlNOTNaU1FfV2I5SmQyVUVxZExLQVlIejNCdU96VGY3MkMycEtINjlXRTZ1TkZSSjM5ZmQ0Y3FqS0NHcnFSNFMtM0tSd05tOHgwM3VYeUFNZll0WUswY2JkWTlOUmhCY2RlQXM5NjRCNFFyaFJwMXNvaXJ0ZlVKWnZ3OG9vWnc5Rlh30gHrAUFVX3lxTE5yRE9aaTZKWVBZQXNYV2VoUEdMTXBzMUtQb216bXdCb2NfajB2ajZibVdBc05tdW1BS1A1SDZCRkk5WGxOMzl6ZWJ3TWxrcy1DWmhKSE9NNjlxMWpYY3BPZjZDeWNNdDl5WU05M1pTUV9XYjlKZDJVRXFkTEtBWUh6M0J1T3pUZjcyQzJwS0g2OVdFNnVORlJKMzlmZDRjcWpLQ0dycVI0Uy0zS1J3Tm04eDAzdVh5QU1mWXRZSzBjYmRZOU5SaEJjZGVBczk2NEI0UXJoUnAxc29pcnRmVUpadnc4b29adzlGWHc?oc=5",
+     "title": "Gold price crash accelerates as crude oil rises and odds of Fed rate hike jumps",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS1B3azI3dnVrUFY3RFlnQmRnSHpBVWUzc2RnaWZobzJoazBPb2JIcTlaclNrTEVmUkRiNHBZVV9ELWt1NnplQnNYbVZJVlpHVjhzXzZ3aXM1YmhaTUN6VFNIWTVHdWdLRXlmVUkyYmZDb2VIQ3lEYUVRbUJ6TnJ5TzV4aGloSzU2NEZIS0RNMzRsdVBIamlEV1ZjVkl3VWt0TjRJdnVjdHZJYlkwa21Bc0MyZU5TSDhkTktyR1Q4SDlRQ1VBS1loUDdhY1k1ZVZ1VVE?oc=5",
      "date": "2026-10-30",
-     "source": "Business Standard",
-     "label": "Mutual Funds",
-     "snippet": "SEBI Mutual Fund Rules: Investors opting for regular plans will have to be informed about their higher costs, as the regulator seeks to improve transparency and protect mutual fund investors",
-     "lead": "Investors opting for regular plans will have to be informed about their higher costs, as the regulator seeks to improve transparency and protect mutual fund investors",
-     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/28/thumb/fitandfill/1200X628/1787909632-6876.JPG",
+     "source": "TradingView",
+     "label": "Gold & Silver",
+     "snippet": "Gold price continued its downward trend, reaching its lowest level in months as demand waned after the hawkish Federal Reserve interest rate decision. It dropped to $3,925, down modestly from the August high of $4,700. This sell-off may continue as President Donald Trump prepares to escalate his at…",
+     "lead": "XAUUSD Gold price continued its downward trend, reaching its lowest level in months as demand waned after the hawkish Federal Reserve interest rate decision. It dropped to $3,925, down modestly from the August high of $4,700. This sell-off may continue as President Donald Trump prepares to escalate his attacks against Iran. The daily chart shows that gold has come under pressure in the past few weeks, moving from a high of $4,700 in ...",
+     "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
      "why": [
-      "Regulator: SEBI or RBI",
-      "Credit rating change or default",
-      "Also covered by 1 other outlet(s)"
+      "Interest-rate decision",
+      "Precious metals",
+      "Global macro driver",
+      "Sharp market move"
      ],
      "tags": [
-      "Mutual Funds"
+      "Gold & Silver"
      ]
     },
     {
@@ -390,21 +393,20 @@
     },
     {
      "desk": "Advisory",
-     "score": 10,
-     "priority": 83,
-     "title": "Gold, silver face fresh test as oil surge puts Fed policy decision in focus",
-     "url": "https://www.business-standard.com/markets/news/gold-silver-face-fresh-test-as-oil-surge-puts-fed-policy-decision-in-focus-126102500493_1.html",
-     "date": "2026-10-25",
-     "source": "Business Standard",
+     "score": 9,
+     "priority": 75,
+     "title": "Gold and Silver Plunge as Fed Rate-Hike Bets, Inflation Fears Weigh on Metals",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3SVUycURHbkpNR1RUaGR1SFA0Z1h2MG9oLW5fOGhDVHdQR1JfNkRTN0NFYzdJX3NmWDVMeEhoUTZIUVFmM3JCMktSNFRSblBDR2d2aDdiWTFmeUJVNXl5UDFRRzgyajh5QnZva19vVlNNZ003QkE?oc=5",
+     "date": "2026-11-01",
+     "source": "BigGo Finance",
      "label": "Gold & Silver",
-     "snippet": "Gold and silver are expected to face fresh headwinds next week as surging crude oil prices revive inflation concerns, while the US Federal Reserve's policy decision could determine whether bullion rates stabilise or extend their downward trend, analysts said.",
-     "lead": "Gold and silver prices slide as rising crude oil prices and expectations of tighter US monetary policy weigh on bullion. | Image: Adobe Stock Gold and silver are expected to face fresh headwinds next week as surging crude oil prices revive inflation concerns, while the US Federal Reserve's policy decision could determine whether bullion rates stabilise or extend their downward trend, analysts said. The precious metals, already battered ...",
-     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/07/thumb/fitandfill/1200X628/1775547425-5107.jpeg",
+     "snippet": "Gold and silver futures on India's MCX suffered a sharp sell-off Friday, with silver plunging ₹10,577 per kilogram (approximately $110) and gold…",
+     "lead": "Ask AI Real-time News Market Earnings Call Event Calendar Watchlist Podcast Market Influencers Earnings Call Event Calendar Watchlist Podcast Market Influencers More Ask AI Real-time News Watchlist Holdings Market Earnings Call Event Calendar Podcast Market Influencers Gold and Silver Plunge as Fed Rate-Hike Bets, Inflation Fears Weigh on Metals Add preferred source Gold and silver futures on India's MCX suffered a sharp sell-off ...",
+     "image": "https://img.biggo.com/vyVAz79h6mBMTuNjrhmS8iLxZLDUJYDQn-aaQVP_svA/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL3N0b2NrX2xpYnJhcnlfY292ZXJzLzIwMjYtMTEvN2Q5OTVlNmItZDczZC00NjY1LTg2MjgtZGM5NDQ4NjliYTE4XzE3OTM0OTg3NjBfZGVmYXVsdC53ZWJw.jpg",
      "why": [
       "Precious metals",
       "Global macro driver",
-      "Sharp market move",
-      "Also covered by 3 other outlet(s)"
+      "Sharp market move"
      ],
      "tags": [
       "Gold & Silver"
@@ -414,21 +416,21 @@
      "desk": "Advisory",
      "score": 9,
      "priority": 75,
-     "title": "Sebi Revises REIT Norms: Key Changes Investors Should Know Going Forward",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRXBjbjRRSF9FVzU3XzY5OTduUVBpM183c0ZsdGlVT0JzTzVpWEcybzJvTFJJMlkzdWh3ZkxlN1U0bFN0ZXM1TE1YdTFZcnN1VEgtZFpaaHZJZlA2QmRBbTZNWEcxcmliSmVfbnhaZVlVZnc0R2tnOEV6a1pfdGFBdHBPR1k0TjBsMDNDdHJNUXFUazZXT2JrbnNnQ2h4YjRiajlacjRjWDlzVC1IbGcxQlQ2cUJaSWVDVndPUENuTDB5UEJ3dWw1bXJFNGloLTdlbzgxag?oc=5",
+     "title": "Sebi makes direct plans default: Know how much investors can save on SIPs",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOckRPWmk2SllQWUFzWFdlaFBHTE1wczFLUG9tem13Qm9jX2owdmo2Ym1XQXNObXVtQUtQNUg2QkZJOVhsTjM5emVid01sa3MtQ1poSkhPTTY5cTFqWGNwT2Y2Q3ljTXQ5eVlNOTNaU1FfV2I5SmQyVUVxZExLQVlIejNCdU96VGY3MkMycEtINjlXRTZ1TkZSSjM5ZmQ0Y3FqS0NHcnFSNFMtM0tSd05tOHgwM3VYeUFNZll0WUswY2JkWTlOUmhCY2RlQXM5NjRCNFFyaFJwMXNvaXJ0ZlVKWnZ3OG9vWnc5Rlh30gHrAUFVX3lxTE5yRE9aaTZKWVBZQXNYV2VoUEdMTXBzMUtQb216bXdCb2NfajB2ajZibVdBc05tdW1BS1A1SDZCRkk5WGxOMzl6ZWJ3TWxrcy1DWmhKSE9NNjlxMWpYY3BPZjZDeWNNdDl5WU05M1pTUV9XYjlKZDJVRXFkTEtBWUh6M0J1T3pUZjcyQzJwS0g2OVdFNnVORlJKMzlmZDRjcWpLQ0dycVI0Uy0zS1J3Tm04eDAzdVh5QU1mWXRZSzBjYmRZOU5SaEJjZGVBczk2NEI0UXJoUnAxc29pcnRmVUpadnc4b29adzlGWHc?oc=5",
      "date": "2026-10-30",
-     "source": "cfo.economictimes.indiatimes.com",
-     "label": "REITs & InvITs",
-     "snippet": "The Securities and Exchange Board of India (Sebi) has revised REIT regulations, impacting voting requirements, sponsor exit options, and the issuance of depository receipts. Discover how these changes may affect REIT governance and investor protection.",
-     "lead": "We encourage you to review our Terms of Service , and Privacy Policy . By continuing, you agree to the Terms listed here. In case you want to opt out, please click \"Do Not Sell or Share My Personal Information\" link in the footer of this page. We won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or shared ...",
-     "image": "https://etimg.etb2bimg.com/thumb/msid-135350561,imgsize-4001943,width-1200,height=627,overlay-etcfo,resizemode-75/policy/sebi-revises-reit-norms-key-changes-investors-should-know-going-forward.jpg",
+     "source": "Business Standard",
+     "label": "Mutual Funds",
+     "snippet": "SEBI Mutual Fund Rules: Investors opting for regular plans will have to be informed about their higher costs, as the regulator seeks to improve transparency and protect mutual fund investors",
+     "lead": "Investors opting for regular plans will have to be informed about their higher costs, as the regulator seeks to improve transparency and protect mutual fund investors",
+     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/28/thumb/fitandfill/1200X628/1787909632-6876.JPG",
      "why": [
-      "REIT / InvIT news",
       "Regulator: SEBI or RBI",
-      "Rule or framework change"
+      "Credit rating change or default",
+      "Also covered by 1 other outlet(s)"
      ],
      "tags": [
-      "REITs & InvITs"
+      "Mutual Funds"
      ]
     }
    ]
@@ -437,7 +439,7 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 14,
+   "score": 13,
    "priority": 100,
    "title": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2",
    "url": "https://yourstory.com/2026/10/jio-platforms-first-post-listing-results-user-growth-higher-arpu-drive-137-pc-profit-rise-in-q2",
@@ -533,48 +535,24 @@
    "desk": "Advisory",
    "score": 11,
    "priority": 92,
-   "title": "SEBI eases KYC norms for foreign investors, extends review cycle to eight years for eligible FPIs",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcGpqbEtBNkk2RGs5d2JvX2prSTRaV2czQnpLWmQ1cEU2LVlmUUdJTkFpTURLWkhmMHdDN0dhVmNVM3FqQllFU2lUYWotSGFaVFVOUGlLc2RLWm9mTWlpcmZWa2t3ZFhtZHNrTzdUWG9iQXp4bVd4bThyZ1dQQWc2ampBMVU5ZzNaWl9nQzhyY0Zwd005SjVoV0V1R3lxWl81MGU0MjFubElYQ2NIMVRLSjdtZENzRVVaMUt4THdQZS1CRnVhM1hRSlduZDVLLS15VVp0blZLQm81OUJJMlkxczdkZlZSbzlsbXItZmw4OFRyelNOckNj0gH8AUFVX3lxTE54VV9jelEyeUdGNnA0cW9kSGJwWnJORWxlR2xlRF9CeXRMb0ZRdkNDMDdSdlBmZHpiMjNXcjQtemsxcW1DS0VXeTdUTjUxanRnSzhPVHZidzNrZ294ZTVPR2I2elczbnQ1aHlyYVJEOFZUUTRQR0RJNTJ3N1BmalNQM19qZWxxbUhFWjBwNk9FVTI5N2M3SG5lZkFfaHRHZ0s1MktGeHFDcVI1Y1dkRmYtZ2dxcndCS0VaWk5HakxpRnlvVjI5NURIbzlkS1BhUlZyVk9rS3dwQUlYWmF3T3MzSTZEWWdTZVJIZkdkRG81cWpRWUt0c1J3NGl4Tw?oc=5",
-   "date": "2026-10-30",
+   "title": "Sebi exploring framework to speed up regulatory approval for AIFs: Pandey",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUktiMndacGVoeG5lN2lGS1ZIbWlqekdxaWd3eVE4VWtYV1RoZEI2T3RPRlJkUEI3eXJPY0NXWlB6dU9kOHFkWElILVl2U1ExcXNJSFEwS25uUjE0ZGZVYVJ1TnJmSnVFZkpzZ1ZmVkNUWmJicmJXZmdralZNZXlvVmIzUVJsVmZrR014VVhHcXZPcE9sSV9qOWNnR2dHcDh5X0wyN3ZBakhPSjh1Qm1IN1M5T1FCSm82SzRPYjBwM29SNlVCd2pETnNjUnZseEpzZXUzM0lNV1BVRTNQQ002N3ZR0gHcAUFVX3lxTE5FMjlWQWdoSkJsRzgyZ1lKTldVeUcydlNHdEx6XzMxVHJUTm9hSW9Obk0zbVVwWkVweC0tWmphZzN6N0o4MXB4aWlzcXFMTUZ1dXdXLWlYNEhPakJ2cGlnRG5SWi1QNXRDQUtUVk9CekcxNlBSOG5aYk1ZaWFtRzVJdG0xQjBDMjNQVGFiZFV5QWVxdFpneDhoR0g2RkpSMm44YXdKWUF0dzBtLUpkTEl1aXNBVkdEOWxOczViODgxVkZMSHFDUGg3OHJSUjlRY1pvUl9CUjBMRm5Yc1Y?oc=5",
+   "date": "2026-11-01",
    "source": "ETLegalWorld.com",
-   "label": "Regulatory",
-   "snippet": "The Securities and Exchange Board of India (SEBI) has relaxed Know Your Customer (KYC) requirements for foreign portfolio investors (FPIs), extending the review cycle to eight years for eligible investors and removing certain registration-related compliance requirements to reduce paperwork and promote ease of doing business, the market re",
-   "lead": "\";inherits:false;initial-value:100%}@property --tw-inset-shadow{syntax:\"*\";inherits:false;initial-value:0 0 #0000}@property --tw-inset-shadow-color{syntax:\"*\";inherits:false}@property --tw-inset-shadow-alpha{syntax:\" \";inherits:false;initial-value:100%}@property --tw-ring-color{syntax:\"*\";inherits:false}@property --tw-ring-shadow{syntax:\"*\";inherits:false;initial-value:0 0 #0000}@property ...",
-   "image": "https://etimg.etb2bimg.com/thumb/msid-135372988,imgsize-49164,width-1200,height=627,overlay-etlegal,resizemode-75/regulators/sebi-eases-kyc-norms-for-foreign-investors-extends-review-cycle-to-eight-years-for-eligible-fpis.jpg",
+   "label": "AIF",
+   "snippet": "AIF Regulation: Sebi",
+   "lead": "We encourage you to review our Terms of Service , and Privacy Policy . By continuing, you agree to the Terms listed here. In case you want to opt out, please click \"Do Not Sell or Share My Personal Information\" link in the footer of this page. We won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or shared ...",
+   "image": "https://etimg.etb2bimg.com/thumb/msid-129475301,imgsize-39666,width-1200,height=627,overlay-etlegal,resizemode-75/regulators/sebi-exploring-framework-to-speed-up-regulatory-approval-for-aifs-pandey.jpg",
    "why": [
+    "AIF news",
     "Regulator: SEBI or RBI",
-    "Rule or framework change",
-    "Also covered by 3 other outlet(s)"
+    "Rule or framework change"
    ],
    "tags": [
-    "Regulatory"
+    "AIF"
    ],
    "rank": 5,
    "must_read": true
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "Gold price crash accelerates as crude oil rises and odds of Fed rate hike jumps",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS1B3azI3dnVrUFY3RFlnQmRnSHpBVWUzc2RnaWZobzJoazBPb2JIcTlaclNrTEVmUkRiNHBZVV9ELWt1NnplQnNYbVZJVlpHVjhzXzZ3aXM1YmhaTUN6VFNIWTVHdWdLRXlmVUkyYmZDb2VIQ3lEYUVRbUJ6TnJ5TzV4aGloSzU2NEZIS0RNMzRsdVBIamlEV1ZjVkl3VWt0TjRJdnVjdHZJYlkwa21Bc0MyZU5TSDhkTktyR1Q4SDlRQ1VBS1loUDdhY1k1ZVZ1VVE?oc=5",
-   "date": "2026-10-30",
-   "source": "TradingView",
-   "label": "Gold & Silver",
-   "snippet": "Gold price continued its downward trend, reaching its lowest level in months as demand waned after the hawkish Federal Reserve interest rate decision. It dropped to $3,925, down modestly from the August high of $4,700. This sell-off may continue as President Donald Trump prepares to escalate his at…",
-   "lead": "XAUUSD Gold price continued its downward trend, reaching its lowest level in months as demand waned after the hawkish Federal Reserve interest rate decision. It dropped to $3,925, down modestly from the August high of $4,700. This sell-off may continue as President Donald Trump prepares to escalate his attacks against Iran. The daily chart shows that gold has come under pressure in the past few weeks, moving from a high of $4,700 in ...",
-   "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-   "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Gold & Silver"
-   ],
-   "rank": 6,
-   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -596,36 +574,37 @@
    "tags": [
     "Mutual Funds"
    ],
-   "rank": 7,
+   "rank": 6,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 9,
    "priority": 90,
-   "title": "UK Settlement Rules: Could Shabana Mahmood Give Migrant Care Workers a Break?",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa2VfVkd0aWJ1cXZrOWF6MmRIQkZwZkJNLVpVU2d0T3Q2UXJhOXdqOE9zSWdRYjR0UlVEZ2xXRndpX1JOT2d4NjlJbTFNYjhHeUdDbVRqempDd1hobXVITHluM0I1R2dmWmZNOXdJWTQxYjlaZ0xTSWxTalRlM3NGZ2pR?oc=5",
-   "date": "2026-10-31",
-   "source": "EasternEye",
+   "title": "Nigeria Immigration Service extends UK passport intervention exercise to November 27",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNVo1RlBoeW5HV1RLcWR2bzNtSDFZd3N3R29veFA1ZUFCZGhicnBDNVNTZE9mbmJXRVVTa2tUajFwTFFubjNsMS1xM3liUW9vNXdrX0dHYUtQd1AyOXdsS2JXblNRVkYzQng2S1hxYU1LNTRmR1Z4UWxYcU04SHRDR1MyNmszMjZobDBlSGg4aDc1WFIxTkxJclFmRVFLNUl4X1VCazk1TVR4a3NYVDFpZmpreXFCeDZNdFBkQml3?oc=5",
+   "date": "2026-10-27",
+   "source": "Nairametrics",
    "label": "United Kingdom",
-   "snippet": "The home secretary is expected to keep a 10-year wait for most migrants seeking permanent settlement, but exempt social care workers already in the UK after opposition from cabinet colleagues.",
-   "lead": "The home secretary is expected to keep a 10-year wait for most migrants seeking permanent settlement, but exempt social care workers already in the UK after opposition from cabinet colleagues. Mahmood had been concerned about the number of people who would become eligible for settlement after a period of very high net migration under the previous government. Vivek Mishra is an assistant editor at Eastern Eye covering British Asian ...",
-   "image": "https://www.easterneye.biz/media-library/shabana-mahmood.jpg?id=55263536&width=1200&height=600&coordinates=0%2C85%2C0%2C86",
+   "snippet": "The Nigeria Immigration Service (NIS) has further extended its Special Passport Intervention Exercise in the United Kingdom until November 27, 2026, following sustained demand from Nigerians seeking passport services.",
+   "lead": "UK to impose $1,200 levy on universities for Nigerian, other foreign students",
+   "image": "https://cdn.nairametrics.com/wp-content/uploads/2026/09/kemolala.webp",
    "why": [
-    "Affects permanent residence",
-    "Announces a change"
+    "Affects citizenship",
+    "Announces a change",
+    "Major story (13 headlines that day)"
    ],
    "tags": [
-    "PR / Settlement",
+    "Citizenship",
     "United Kingdom"
    ],
-   "rank": 8,
+   "rank": 7,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
-   "priority": 86,
+   "score": 11,
+   "priority": 85,
    "title": "Binance hit with $6.3B breach; Delhivery reports net profit of Rs 41 Cr in Q2",
    "url": "https://yourstory.com/2026/10/binance-hit-with-63b-breach-delhivery-reports-net-profit-of-rs-41-cr-in-q2",
    "date": "2026-10-31",
@@ -643,27 +622,53 @@
     "Financials",
     "Fintech"
    ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "Cognizant In Talks To Invest In Sarvam At $3.5 Bn To $4 Bn Valuation: Report",
+   "url": "https://inc42.com/buzz/cognizant-in-talks-to-invest-in-sarvam-at-3-5-bn-to-4-bn-valuation-report/",
+   "date": "2026-10-28",
+   "source": "Inc42",
+   "label": "India · AI & Deeptech",
+   "snippet": "Cognizant is reportedly in talks to invest in Sarvam AI at a $3.5-4 Bn valuation, following HCLTech’s $150 Mn investment in the AI unicorn",
+   "lead": "Cognizant is reportedly in talks to invest in Sarvam AI as part of a proposed $300 Mn fundraise at a $3.5-4 Bn valuation The investment could make Cognizant the second IT services major on Sarvam’s cap table after HCLTech, as IT companies seek to strengthen their AI capabilities Sarvam raised $234 Mn in the first close of its $300 Mn Series B in June at a $1.5 Bn valuation, with HCLTech investing $150 Mn",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Sarvam-Open-Source-Story-social.jpg",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $4,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
    "rank": 9,
    "must_read": false
   },
   {
-   "desk": "Policy",
+   "desk": "Startups",
    "score": 11,
    "priority": 85,
-   "title": "Government of India extends Customs Duty Exemption on Cotton imports up to 31st December 2026",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330823",
-   "date": "2026-10-31",
-   "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "Keeping in view the raw material requirements of domestic textile industry, Government of India has",
-   "lead": "Ministry of Textiles Government of India extends Customs Duty Exemption on Cotton imports up to 31st December 2026 Posted On: 31 OCT 2026 2:38PM by PIB Delhi Keeping in view the raw material requirements of domestic textile industry, Government of India has extended the existing customs duty exemption on cotton imports until 31 st December 2026. The extension has been notified by the Department of Revenue, Ministry of Finance, vide ...",
-   "image": null,
+   "title": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion",
+   "url": "https://yourstory.com/2026/10/ather-turns-profitable-after-rs-154-cr-loss-meta-ai-expansion",
+   "date": "2026-10-27",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand.",
+   "lead": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand. Team YS 17432 Stories Tuesday October 27, 2026 , 4 min Read MakeMyTrip is back in the black! The travel booking platform reported a net profit of $1.8 ...",
+   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/2026-CopyofNewPPTTemplates6-1793024916362.png",
    "why": [
-    "Duty or tariff change",
-    "Rule change"
+    "Funding",
+    "Very large figure in headline (about $35,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Tax, Duties & Trade"
+    "Funding",
+    "AI & Deeptech"
    ],
    "rank": 10,
    "must_read": false
@@ -672,18 +677,18 @@
    "desk": "Advisory",
    "score": 10,
    "priority": 83,
-   "title": "Govt Raises 33K-cr at Weekly Bond Auction Mumbai: The RBI, on behalf",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUnczWDRycW9lVUZPNG1aRFFtcVNXYkxRLTlWV3ZZcVBFVDRsY1o3STB5MEpIV2RyQnFOOTUtVXI1UF9DQzg2bnNXTEFaRmhkSXlxbUNiT0tTU0pUUWt2cmRGWTNBTUFhWVN2cE5XeklrOVZUS08ycXV1Sks1V0NQMU1rVlhSU09waDNuMmkzRjl5TlZvOWVaSml6U2RZb2RhbHdJTTZ0UUN3OUFqREZxSVNpS1h2MkM3bGl0SEtSdS0?oc=5",
-   "date": "2026-10-31",
-   "source": "TradingView",
+   "title": "Indian 10-year bond yield may ease to 6.75-7% by March despite possible rate hike: SBI Research",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNT0s2MFBHQkVsdGFIN2hmN0JNM2dZZk14ZlEtNW40MzJuMEwwdkVUZG1kd25udlRnWG9ReWtWbVA2ZUhTVE8tY05FYWVZUlBtYTRBei1zU3c5VlU3aHhUcXRVeVpqeXBzdC1UQXhrR0dKZmp6NVVyRExsaENCanF5ajB6M2tvQ1ZtaE12NDExbDlzNG1IUkdZRWVJMWs0dmtZNVUycElRM3NtOGdpRy05dFJQZlV0V2lMZUt1OEt6MElJNUtGcXJTTXpCQkFTdGs2dGR1cHlrNjIwWXBpYlkwUkExS01oQdIB5gFBVV95cUxNT0s2MFBHQkVsdGFIN2hmN0JNM2dZZk14ZlEtNW40MzJuMEwwdkVUZG1kd25udlRnWG9ReWtWbVA2ZUhTVE8tY05FYWVZUlBtYTRBei1zU3c5VlU3aHhUcXRVeVpqeXBzdC1UQXhrR0dKZmp6NVVyRExsaENCanF5ajB6M2tvQ1ZtaE12NDExbDlzNG1IUkdZRWVJMWs0dmtZNVUycElRM3NtOGdpRy05dFJQZlV0V2lMZUt1OEt6MElJNUtGcXJTTXpCQkFTdGs2dGR1cHlrNjIwWXBpYlkwUkExS01oQQ?oc=5",
+   "date": "2026-11-01",
+   "source": "Moneycontrol.com",
    "label": "Debt & Bonds",
-   "snippet": "Govt Raises 33K-cr at Weekly Bond Auction Mumbai: The RBI, on behalf of the government, raised 33,000 crores via central government securities in its weekly auction. The auction had papers of 9,000 crores for three years which got a cut off yield of 7.12%, the 12,000 crores paper had a cutoff yield…",
-   "lead": "CDSL Govt Raises 33K-cr at Weekly Bond Auction Mumbai: The RBI, on behalf of the government, raised 33,000 crores via central government securities in its weekly auction. The auction had papers of 9,000 crores for three years which got a cut off yield of 7.12%, the 12,000 crores paper had a cutoff yield of 7.38% for seven years, while the 9,000 crore paper for 30 years had a cut off yield had 7.84%. IPOs of Punjab Carbonic, 3 Others ...",
-   "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "snippet": "",
+   "lead": "",
+   "image": null,
    "why": [
-    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
     "Government bond yields",
-    "New product or fund"
+    "Also covered by 1 other outlet(s)"
    ],
    "tags": [
     "Debt & Bonds"
@@ -692,32 +697,31 @@
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 8,
-   "priority": 80,
-   "title": "Could Austria finally change its rules on citizenship for children born in the country?",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUlkRHhWc1Jzdk9UVkRPLXllZFZLOUtFZGpkRzFNdDdvUEZuVEdGVHc0anlxd0l5WVpUT25lZ0hEaldjZzgtMVlhNXIyWnp0OHhyYjdwb1p5d204VjloeHh4NEgtZGZWX0IzcHRhS1hncTBxa0djSVdzX3dkNFNzSE92UnVQelF1NU80MHFiMVk0ZkU3LTB0ZjZ5SF9XYldyMV9ud0I3RkhwTFFWXy00Q01nMHNVdW0tT0NR?oc=5",
-   "date": "2026-10-30",
-   "source": "The Local Austria",
-   "label": "Austria",
-   "snippet": "Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change?",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change? The Austrian debate over citizenship for children ...",
-   "image": null,
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 83,
+   "title": "Sebi extends digital accessibility compliance deadline for regulated entities to Jan 31",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcTdOdHVHbXJMQS02dl9qdHR6Z3Bja284TTlBVW1ZQ2tXMEY2Vjk2TmdBcmR5ZVlxV01EWFJOZjVlZjRmSF8xZEhWUFFMdHB2TS1xc2laaV80dnhPUHVUTVVheUxfbEZDb0dTaFNXYXc4SXdaemRUcHBzZGhhcHdvaG1aMDQxSE1GbHRmbFMxU05LQnIxa2RvRngwSlRWTnFiMm4xZW5sZzhqb3JncC1fT1dWT25zOEF2NENDeE5KZmg4MXJPd2tyYnJ2MU8zYnYwOEVzanFPd1JSeUNZUmJRel9XbTTSAeoBQVVfeXFMTjlHNGEzZ0c1OS1CNHVEUnZ1QkNXa2hhUkpqck5NaDNNdHNGQXJ2OEtvTi1SRVNCY2R0V1lnYXk5dVYzVkNYVTZQWVVpWEhfaGZxNm9LMEpZQnh6blJMQWt6YjRuc09wQl94ZnhkMjNPNGZpV3FHdW5yWFVQQzBiVTZFZEktQlRIbUg4X3B3VVNhTlhLa3FFTi1uRFEtT1dxY2d4anU3NVFMM205QThoM2JsNHJtVnZYQVQtTHJ2Ym05S3I0Ym54Q25fQXBhQWxQS3ByMkNOUDMyODNISFY3NnhFeEhLTXdYb0d3?oc=5",
+   "date": "2026-11-01",
+   "source": "cfo.economictimes.indiatimes.com",
+   "label": "Regulatory",
+   "snippet": "The Securities and Exchange Board of India (Sebi) has extended the deadline for regulated entities to meet digital accessibility compliance requirements to January 31, 2024, ensuring protection and support for individuals with disabilities.",
+   "lead": "New Delhi, Sebi has extended the deadline for regulated entities to complete key digital accessibility compliance requirements to January 31 next year, following requests from market participants. In a circular dated October 30, Sebi said the extension covers the appointment of an International Association of Accessibility Professionals (IAAP) auditor, conducting accessibility audits of digital platforms and remediation of findings ...",
+   "image": "https://etimg.etb2bimg.com/thumb/msid-135422670,imgsize-94498,width-1200,height=627,overlay-etcfo,resizemode-75/policy/sebi-extends-digital-accessibility-compliance-deadline-for-regulated-entities-to-jan-31.jpg",
    "why": [
-    "Affects citizenship",
-    "Announces a change"
+    "Regulator: SEBI or RBI",
+    "Also covered by 3 other outlet(s)"
    ],
    "tags": [
-    "Citizenship",
-    "Austria"
+    "Regulatory"
    ],
    "rank": 12,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 11,
-   "priority": 79,
+   "score": 10,
+   "priority": 77,
    "title": "Prosus investment in Sachin Bansal's Navi gets CCI nod",
    "url": "https://yourstory.com/2026/11/prosus-investment-in-sachin-bansals-navi-gets-cci-nod",
    "date": "2026-11-01",
@@ -738,9 +742,31 @@
    "must_read": false
   },
   {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 77,
+   "title": "Government of India extends Customs Duty Exemption on Cotton imports up to 31st December 2026",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330823",
+   "date": "2026-10-31",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "Keeping in view the raw material requirements of domestic textile industry, Government of India has",
+   "lead": "Ministry of Textiles Government of India extends Customs Duty Exemption on Cotton imports up to 31st December 2026 Posted On: 31 OCT 2026 2:38PM by PIB Delhi Keeping in view the raw material requirements of domestic textile industry, Government of India has extended the existing customs duty exemption on cotton imports until 31 st December 2026. The extension has been notified by the Department of Revenue, Ministry of Finance, vide ...",
+   "image": null,
+   "why": [
+    "Duty or tariff change",
+    "Rule change"
+   ],
+   "tags": [
+    "Tax, Duties & Trade"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
    "desk": "Startups",
-   "score": 11,
-   "priority": 79,
+   "score": 10,
+   "priority": 77,
    "title": "Jio Platforms Q2 Profit Rises 14% YoY To ₹8,387 Cr, Revenue Up 11%",
    "url": "https://inc42.com/buzz/jio-platforms-q2-profit-rises-14-yoy-to-%e2%82%b98387-cr-revenue-up-11/",
    "date": "2026-10-30",
@@ -757,55 +783,7 @@
    "tags": [
     "Financials"
    ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 79,
-   "title": "SEBI Greenlights Atomberg’s ₹450 Cr+ IPO",
-   "url": "https://inc42.com/buzz/sebi-greenlights-atombergs-%e2%82%b9450-cr-ipo/",
-   "date": "2026-10-30",
-   "source": "Inc42",
-   "label": "India · Policy & Regulation",
-   "snippet": "SEBI informed that it had issued its observation letter to Atomberg on October 30, over a couple months after the company filed its draft IPO papers",
-   "lead": "SEBI informed that it had issued its observation letter to Atomberg on October 30, over a couple months after the company filed its draft IPO papers The public listing will comprise a fresh issue of equity shares worth up to ₹450 Cr and an offer for sale (OFS) of 7.65 Cr equity shares The company plans to use ₹90 Cr from the fresh issue proceeds to repay or prepay certain borrowings",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Atomberg-Financials-social-1.png",
-   "why": [
-    "IPO & Listing",
-    "Sizeable deal (about $47M)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Policy & Regulation"
-   ],
    "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 79,
-   "title": "Cognizant In Talks To Invest In Sarvam At $3.5 Bn To $4 Bn Valuation: Report",
-   "url": "https://inc42.com/buzz/cognizant-in-talks-to-invest-in-sarvam-at-3-5-bn-to-4-bn-valuation-report/",
-   "date": "2026-10-28",
-   "source": "Inc42",
-   "label": "India · AI & Deeptech",
-   "snippet": "Cognizant is reportedly in talks to invest in Sarvam AI at a $3.5-4 Bn valuation, following HCLTech’s $150 Mn investment in the AI unicorn",
-   "lead": "Cognizant is reportedly in talks to invest in Sarvam AI as part of a proposed $300 Mn fundraise at a $3.5-4 Bn valuation The investment could make Cognizant the second IT services major on Sarvam’s cap table after HCLTech, as IT companies seek to strengthen their AI capabilities Sarvam raised $234 Mn in the first close of its $300 Mn Series B in June at a $1.5 Bn valuation, with HCLTech investing $150 Mn",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Sarvam-Open-Source-Story-social.jpg",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $4,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 16,
    "must_read": false
   },
   {
@@ -827,7 +805,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 17,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -848,6 +826,29 @@
    ],
    "tags": [
     "Labour & Social"
+   ],
+   "rank": 17,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 70,
+   "title": "Could Austria finally change its rules on citizenship for children born in the country?",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUlkRHhWc1Jzdk9UVkRPLXllZFZLOUtFZGpkRzFNdDdvUEZuVEdGVHc0anlxd0l5WVpUT25lZ0hEaldjZzgtMVlhNXIyWnp0OHhyYjdwb1p5d204VjloeHh4NEgtZGZWX0IzcHRhS1hncTBxa0djSVdzX3dkNFNzSE92UnVQelF1NU80MHFiMVk0ZkU3LTB0ZjZ5SF9XYldyMV9ud0I3RkhwTFFWXy00Q01nMHNVdW0tT0NR?oc=5",
+   "date": "2026-10-30",
+   "source": "The Local Austria",
+   "label": "Austria",
+   "snippet": "Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change?",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change? The Austrian debate over citizenship for children ...",
+   "image": null,
+   "why": [
+    "Affects citizenship",
+    "Announces a change"
+   ],
+   "tags": [
+    "Citizenship",
+    "Austria"
    ],
    "rank": 18,
    "must_read": false
@@ -877,8 +878,8 @@
   },
   {
    "desk": "Policy",
-   "score": 9,
-   "priority": 69,
+   "score": 8,
+   "priority": 62,
    "title": "Union Government releases tax devolution of ₹1,09,019 crore to State Governments, as one advance instalment of tax devolution in view of upcoming festive season and to enable States to accelerate capital spending and finance their development/ welfare related expenditure",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330997",
    "date": "2026-10-31",
@@ -900,8 +901,8 @@
   },
   {
    "desk": "Policy",
-   "score": 9,
-   "priority": 69,
+   "score": 8,
+   "priority": 62,
    "title": "Government notifies National Social Security Board for Unorganised Workers and Gig & Platform Workers under the Labour Codes",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330299",
    "date": "2026-10-30",
@@ -946,19 +947,21 @@
    "desk": "Immigration",
    "score": 6,
    "priority": 60,
-   "title": "U.S. Secretary of State: “Foreign policy will remain unchanged even if the midterms are lost” ... What is his stance on North Korea-U.S. talks and South Korean lawmakers’ visa issues?",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kSzNvbEN2eU9YbWpidVFuazVMeDBCYUoyX2k3WkUyQXkzZ0NWWXBsb0RpUkg5S3ZmeU9JRFJldUNTZ3Z3eWpyZmJjLUtoSWhaMzZNRmhicjc?oc=5",
-   "date": "2026-11-01",
-   "source": "파이낸셜뉴스",
-   "label": "South Korea",
-   "snippet": "U.S. Secretary of State Marco Rubio. Reuters-Yonhap News Agency [Financial News]&nbsp;U.S. Secretary of State Marco Rubio said, “U.S. President Donald Trump is open to talks with North Korean leader Kim Jong Un, but no meeting has been scheduled ye",
-   "lead": "",
-   "image": "https://image.fnnews.com/resource/media/image/2026/10/29/202610292335478893_l.jpg",
+   "title": "Iceland Plans to Tighten Permanent Residency Rules for Foreigners",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ3B2OXVQVm0tbVhjbXlUb0FwZmVtMll0Y3p3bl9oTnUyb3l4c1pyUDloWnNxVGdhSTNTbG56T1c1WG12VUVLVXMyNUFMaHYwUnhZWGpab2hPT3FRZzNUampjRmJfRmtrMHZYM3V6ei1ldWVlMlFKOWJVOVpCWHRZV0ZRa2dURDh5RDJIWXJRcGdGQzRtbW1ybzZHalFEY2FEdWlz0gGoAUFVX3lxTE13Q3pEeWNISzdYWmhSYWliM1RIRUxxdVlfa3czcnZlNXlvOXJaN3RvNGdCYkZja1VmY0gzNkJDZUV6Ty00UVFKWDFwLU9qb19BdnN6Tmw0d1NodU1DcWhDQjBmNHJILU9JcTEzYTVnSGpIbnNNZDREWE8wRGhYUEl3cTZSV3htYklwRHVPay1VUHNvUEtwQVlmSjhKYzA5OUJjdW9XeXliNw?oc=5",
+   "date": "2026-10-29",
+   "source": "ProPakistani",
+   "label": "Iceland",
+   "snippet": "Iceland's government has approved a major immigration reform proposal that would introduce stricter requirements for permanent residency, family",
+   "lead": "Iceland’s government has approved a major immigration reform proposal that would introduce stricter requirements for permanent residency, family reunification, and residence permits. The government approved the bill proposed by the Minister of Justice, describing it as the biggest overhaul of the country’s residence permit system in a decade. The proposed changes aim to bring Iceland’s immigration rules in line with other Nordic ...",
+   "image": "https://propakistani.pk/wp-content/uploads/2026/10/iceland.jpg",
    "why": [
+    "Affects permanent residence",
     "Announces a change"
    ],
    "tags": [
-    "South Korea"
+    "PR / Settlement",
+    "Iceland"
    ],
    "rank": 23,
    "must_read": false
