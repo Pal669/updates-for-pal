@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-01",
- "built": "2026-11-01 12:17 IST",
+ "built": "2026-11-01 22:26 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -26,9 +26,9 @@
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.95,
-   "change_pct": -0.21,
-   "asof": "01 Nov 09:00 IST"
+   "value": 94.94,
+   "change_pct": -0.22,
+   "asof": "01 Nov 19:53 IST"
   },
   {
    "name": "Brent (USD)",
@@ -164,9 +164,31 @@
    ]
   },
   "Startups": {
-   "total": 1100,
-   "new_today": 2,
+   "total": 1103,
+   "new_today": 5,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 79,
+     "title": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion",
+     "url": "https://yourstory.com/2026/10/ather-turns-profitable-after-rs-154-cr-loss-meta-ai-expansion",
+     "date": "2026-10-27",
+     "source": "YourStory",
+     "label": "India · AI & Deeptech",
+     "snippet": "Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand.",
+     "lead": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand. Team YS 17432 Stories Tuesday October 27, 2026 , 4 min Read MakeMyTrip is back in the black! The travel booking platform reported a net profit of $1.8 ...",
+     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/2026-CopyofNewPPTTemplates6-1793024916362.png",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $35,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -228,34 +250,12 @@
       "IPO & Listing",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 71,
-     "title": "Delhivery Posts ₹41 Cr Profit In Q2, Revenue Crosses ₹3,000 Cr Mark",
-     "url": "https://inc42.com/buzz/delhivery-posts-%e2%82%b941-cr-profit-in-q2-revenue-crosses-%e2%82%b93000-cr-mark/",
-     "date": "2026-10-30",
-     "source": "Inc42",
-     "label": "India · Logistics & Supply Chain",
-     "snippet": "Delhivery swung to a consolidated net profit of ₹40.6 Cr in Q2 FY27 from a ₹50.5 Cr loss a year earlier, while operating revenue grew 20%",
-     "lead": "Delhivery swung to a consolidated net profit of ₹40.6 Cr in Q2 FY27 from a ₹50.5 Cr loss a year earlier, while operating revenue grew 19.8% YoY. Operating revenue growth outpaced the 14.2% increase in total expenses, helping the logistics company turn profitable despite a decline in other income. The company’s board approved an investment of up to ₹36 Cr in wholly owned subsidiary Delhivery Fintech Distribution to fund its operational ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/Delhivery-financials-social.jpg",
-     "why": [
-      "Financials",
-      "Large deal (about $316M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Financials",
-      "Logistics & Supply Chain"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 7,
+   "new_today": 16,
    "items": [
     {
      "desk": "Immigration",
@@ -718,6 +718,29 @@
    "desk": "Startups",
    "score": 11,
    "priority": 79,
+   "title": "Prosus investment in Sachin Bansal's Navi gets CCI nod",
+   "url": "https://yourstory.com/2026/11/prosus-investment-in-sachin-bansals-navi-gets-cci-nod",
+   "date": "2026-11-01",
+   "source": "YourStory",
+   "label": "India · Fintech",
+   "snippet": "CCI has approved Prosus’ proposal to acquire a stake in Navi Ltd, following the fintech firm’s $100 million fundraise from the Dutch investment group in August. The deal will deepen Prosus’ presence in India’s digital financial services sector.",
+   "lead": "Prosus investment in Sachin Bansal's Navi gets CCI nod CCI has approved Prosus’ proposal to acquire a stake in Navi Ltd, following the fintech firm’s $100 million fundraise from the Dutch investment group in August. The deal will deepen Prosus’ presence in India’s digital financial services sector. Press Trust of India 11250 Stories Sunday November 01, 2026 , 2 min Read Competition watchdog CCI has approved Dutch investment group ...",
+   "image": "https://images.yourstory.com/cs/2/ebefb4a0b2a011edb86579ca40e04503/CopyofNewPPTTemplates62-1737980102754.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $100M)"
+   ],
+   "tags": [
+    "Funding",
+    "Fintech"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 79,
    "title": "Jio Platforms Q2 Profit Rises 14% YoY To ₹8,387 Cr, Revenue Up 11%",
    "url": "https://inc42.com/buzz/jio-platforms-q2-profit-rises-14-yoy-to-%e2%82%b98387-cr-revenue-up-11/",
    "date": "2026-10-30",
@@ -734,7 +757,7 @@
    "tags": [
     "Financials"
    ],
-   "rank": 13,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -758,7 +781,7 @@
     "IPO & Listing",
     "Policy & Regulation"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -776,30 +799,6 @@
    "why": [
     "Funding",
     "Very large figure in headline (about $4,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 79,
-   "title": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion",
-   "url": "https://yourstory.com/2026/10/ather-turns-profitable-after-rs-154-cr-loss-meta-ai-expansion",
-   "date": "2026-10-27",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand.",
-   "lead": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand. Team YS 17432 Stories Tuesday October 27, 2026 , 4 min Read MakeMyTrip is back in the black! The travel booking platform reported a net profit of $1.8 ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/2026-CopyofNewPPTTemplates6-1793024916362.png",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $35,000M: round or valuation)",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
@@ -947,19 +946,18 @@
    "desk": "Immigration",
    "score": 6,
    "priority": 60,
-   "title": "\"Brought 10 Muslim Family Members to Korea on Work Visa\"... Checking the Viral Post",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NV0JsMjRvSmpTbEFKUF9rZmVsdk1WU09FVEVPeFBhSFgzcmlFZGtFclFlbHlLSTlfbDNONXYwVFlIRXFwOExPTndxVGJGdnRaa0FwRFhnN1dVOG4yN2lpRGtyU09pa3p0MHM2NEdB?oc=5",
-   "date": "2026-10-30",
-   "source": "news.sbs.co.kr",
+   "title": "U.S. Secretary of State: “Foreign policy will remain unchanged even if the midterms are lost” ... What is his stance on North Korea-U.S. talks and South Korean lawmakers’ visa issues?",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kSzNvbEN2eU9YbWpidVFuazVMeDBCYUoyX2k3WkUyQXkzZ0NWWXBsb0RpUkg5S3ZmeU9JRFJldUNTZ3Z3eWpyZmJjLUtoSWhaMzZNRmhicjc?oc=5",
+   "date": "2026-11-01",
+   "source": "파이낸셜뉴스",
    "label": "South Korea",
-   "snippet": "",
+   "snippet": "U.S. Secretary of State Marco Rubio. Reuters-Yonhap News Agency [Financial News]&nbsp;U.S. Secretary of State Marco Rubio said, “U.S. President Donald Trump is open to talks with North Korean leader Kim Jong Un, but no meeting has been scheduled ye",
    "lead": "",
-   "image": null,
+   "image": "https://image.fnnews.com/resource/media/image/2026/10/29/202610292335478893_l.jpg",
    "why": [
-    "Affects work visas"
+    "Announces a change"
    ],
    "tags": [
-    "Work visa",
     "South Korea"
    ],
    "rank": 23,
