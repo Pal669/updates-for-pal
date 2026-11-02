@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-03",
- "built": "2026-11-03 02:03 IST",
+ "built": "2026-11-03 05:13 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -26,23 +26,23 @@
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.9,
-   "change_pct": -0.27,
-   "asof": "03 Nov 01:58 IST"
+   "value": 94.89,
+   "change_pct": -0.28,
+   "asof": "03 Nov 02:10 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 104.36,
-   "change_pct": -11.29,
-   "asof": "03 Nov 01:53 IST"
+   "value": 104.37,
+   "change_pct": -11.28,
+   "asof": "03 Nov 05:02 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3950.0,
-   "change_pct": 1.31,
-   "asof": "03 Nov 01:53 IST"
+   "value": 3956.0,
+   "change_pct": 1.45,
+   "asof": "03 Nov 05:02 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -163,9 +163,30 @@
    ]
   },
   "Startups": {
-   "total": 1143,
-   "new_today": 2,
+   "total": 1144,
+   "new_today": 3,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
+     "title": "Lovable backer Creandum raises $750m for largest-ever fund to back AI boom",
+     "url": "https://sifted.eu/articles/creandum-750-largest-vc-fund-back-ai-san-francisco/",
+     "date": "2026-11-02",
+     "source": "Sifted",
+     "label": "Global · AI & Deeptech",
+     "snippet": "The fundraise comes as the firm has tripled its presence in San Francisco over the last two years",
+     "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
+     "image": "https://images.sifted.eu/cdn-cgi/image/width=1339,quality=75,fit=cover,format=auto/wp-content/uploads/2024/06/03081043/Creandum_Teamshooting_London_23.png",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $750M: round or valuation)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -228,35 +249,34 @@
      "tags": [
       "Financials"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "SEBI Greenlights Atomberg’s ₹450 Cr+ IPO",
-     "url": "https://inc42.com/buzz/sebi-greenlights-atombergs-%e2%82%b9450-cr-ipo/",
-     "date": "2026-10-30",
-     "source": "Inc42",
-     "label": "India · Policy & Regulation",
-     "snippet": "SEBI informed that it had issued its observation letter to Atomberg on October 30, over a couple months after the company filed its draft IPO papers",
-     "lead": "SEBI informed that it had issued its observation letter to Atomberg on October 30, over a couple months after the company filed its draft IPO papers The public listing will comprise a fresh issue of equity shares worth up to ₹450 Cr and an offer for sale (OFS) of 7.65 Cr equity shares The company plans to use ₹90 Cr from the fresh issue proceeds to repay or prepay certain borrowings",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Atomberg-Financials-social-1.png",
-     "why": [
-      "IPO & Listing",
-      "Sizeable deal (about $47M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "Policy & Regulation"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 5,
+   "new_today": 7,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 50,
+     "title": "Iceland Plans to Tighten Permanent Residency Rules for Foreigners",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ3B2OXVQVm0tbVhjbXlUb0FwZmVtMll0Y3p3bl9oTnUyb3l4c1pyUDloWnNxVGdhSTNTbG56T1c1WG12VUVLVXMyNUFMaHYwUnhZWGpab2hPT3FRZzNUampjRmJfRmtrMHZYM3V6ei1ldWVlMlFKOWJVOVpCWHRZV0ZRa2dURDh5RDJIWXJRcGdGQzRtbW1ybzZHalFEY2FEdWlz0gGoAUFVX3lxTE13Q3pEeWNISzdYWmhSYWliM1RIRUxxdVlfa3czcnZlNXlvOXJaN3RvNGdCYkZja1VmY0gzNkJDZUV6Ty00UVFKWDFwLU9qb19BdnN6Tmw0d1NodU1DcWhDQjBmNHJILU9JcTEzYTVnSGpIbnNNZDREWE8wRGhYUEl3cTZSV3htYklwRHVPay1VUHNvUEtwQVlmSjhKYzA5OUJjdW9XeXliNw?oc=5",
+     "date": "2026-10-29",
+     "source": "ProPakistani",
+     "label": "Iceland",
+     "snippet": "Iceland's government has approved a major immigration reform proposal that would introduce stricter requirements for permanent residency, family",
+     "lead": "Iceland’s government has approved a major immigration reform proposal that would introduce stricter requirements for permanent residency, family reunification, and residence permits. The government approved the bill proposed by the Minister of Justice, describing it as the biggest overhaul of the country’s residence permit system in a decade. The proposed changes aim to bring Iceland’s immigration rules in line with other Nordic ...",
+     "image": "https://propakistani.pk/wp-content/uploads/2026/10/iceland.jpg",
+     "why": [
+      "Affects permanent residence",
+      "Announces a change"
+     ],
+     "tags": [
+      "PR / Settlement",
+      "Iceland"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 6,
@@ -324,8 +344,51 @@
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 0,
+   "new_today": 32,
    "items": [
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 83,
+     "title": "Sebi exploring framework to speed up regulatory approval for AIFs: Pandey",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUktiMndacGVoeG5lN2lGS1ZIbWlqekdxaWd3eVE4VWtYV1RoZEI2T3RPRlJkUEI3eXJPY0NXWlB6dU9kOHFkWElILVl2U1ExcXNJSFEwS25uUjE0ZGZVYVJ1TnJmSnVFZkpzZ1ZmVkNUWmJicmJXZmdralZNZXlvVmIzUVJsVmZrR014VVhHcXZPcE9sSV9qOWNnR2dHcDh5X0wyN3ZBakhPSjh1Qm1IN1M5T1FCSm82SzRPYjBwM29SNlVCd2pETnNjUnZseEpzZXUzM0lNV1BVRTNQQ002N3ZR0gHcAUFVX3lxTE5FMjlWQWdoSkJsRzgyZ1lKTldVeUcydlNHdEx6XzMxVHJUTm9hSW9Obk0zbVVwWkVweC0tWmphZzN6N0o4MXB4aWlzcXFMTUZ1dXdXLWlYNEhPakJ2cGlnRG5SWi1QNXRDQUtUVk9CekcxNlBSOG5aYk1ZaWFtRzVJdG0xQjBDMjNQVGFiZFV5QWVxdFpneDhoR0g2RkpSMm44YXdKWUF0dzBtLUpkTEl1aXNBVkdEOWxOczViODgxVkZMSHFDUGg3OHJSUjlRY1pvUl9CUjBMRm5Yc1Y?oc=5",
+     "date": "2026-11-01",
+     "source": "ETLegalWorld.com",
+     "label": "AIF",
+     "snippet": "AIF Regulation: Sebi",
+     "lead": "We encourage you to review our Terms of Service , and Privacy Policy . By continuing, you agree to the Terms listed here. In case you want to opt out, please click \"Do Not Sell or Share My Personal Information\" link in the footer of this page. We won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or shared ...",
+     "image": "https://etimg.etb2bimg.com/thumb/msid-129475301,imgsize-39666,width-1200,height=627,overlay-etlegal,resizemode-75/regulators/sebi-exploring-framework-to-speed-up-regulatory-approval-for-aifs-pandey.jpg",
+     "why": [
+      "AIF news",
+      "Regulator: SEBI or RBI",
+      "Rule or framework change"
+     ],
+     "tags": [
+      "AIF"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 83,
+     "title": "Gold price crash accelerates as crude oil rises and odds of Fed rate hike jumps",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS1B3azI3dnVrUFY3RFlnQmRnSHpBVWUzc2RnaWZobzJoazBPb2JIcTlaclNrTEVmUkRiNHBZVV9ELWt1NnplQnNYbVZJVlpHVjhzXzZ3aXM1YmhaTUN6VFNIWTVHdWdLRXlmVUkyYmZDb2VIQ3lEYUVRbUJ6TnJ5TzV4aGloSzU2NEZIS0RNMzRsdVBIamlEV1ZjVkl3VWt0TjRJdnVjdHZJYlkwa21Bc0MyZU5TSDhkTktyR1Q4SDlRQ1VBS1loUDdhY1k1ZVZ1VVE?oc=5",
+     "date": "2026-10-30",
+     "source": "TradingView",
+     "label": "Gold & Silver",
+     "snippet": "Gold price continued its downward trend, reaching its lowest level in months as demand waned after the hawkish Federal Reserve interest rate decision. It dropped to $3,925, down modestly from the August high of $4,700. This sell-off may continue as President Donald Trump prepares to escalate his at…",
+     "lead": "XAUUSD Gold price continued its downward trend, reaching its lowest level in months as demand waned after the hawkish Federal Reserve interest rate decision. It dropped to $3,925, down modestly from the August high of $4,700. This sell-off may continue as President Donald Trump prepares to escalate his attacks against Iran. The daily chart shows that gold has come under pressure in the past few weeks, moving from a high of $4,700 in ...",
+     "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+     "why": [
+      "Interest-rate decision",
+      "Precious metals",
+      "Global macro driver",
+      "Sharp market move"
+     ],
+     "tags": [
+      "Gold & Silver"
+     ]
+    },
     {
      "desk": "Advisory",
      "score": 10,
@@ -351,63 +414,20 @@
      "desk": "Advisory",
      "score": 9,
      "priority": 75,
-     "title": "Indian 10-year bond yield may ease to 6.75-7% by March despite possible rate hike: SBI Research",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNT0s2MFBHQkVsdGFIN2hmN0JNM2dZZk14ZlEtNW40MzJuMEwwdkVUZG1kd25udlRnWG9ReWtWbVA2ZUhTVE8tY05FYWVZUlBtYTRBei1zU3c5VlU3aHhUcXRVeVpqeXBzdC1UQXhrR0dKZmp6NVVyRExsaENCanF5ajB6M2tvQ1ZtaE12NDExbDlzNG1IUkdZRWVJMWs0dmtZNVUycElRM3NtOGdpRy05dFJQZlV0V2lMZUt1OEt6MElJNUtGcXJTTXpCQkFTdGs2dGR1cHlrNjIwWXBpYlkwUkExS01oQdIB5gFBVV95cUxNT0s2MFBHQkVsdGFIN2hmN0JNM2dZZk14ZlEtNW40MzJuMEwwdkVUZG1kd25udlRnWG9ReWtWbVA2ZUhTVE8tY05FYWVZUlBtYTRBei1zU3c5VlU3aHhUcXRVeVpqeXBzdC1UQXhrR0dKZmp6NVVyRExsaENCanF5ajB6M2tvQ1ZtaE12NDExbDlzNG1IUkdZRWVJMWs0dmtZNVUycElRM3NtOGdpRy05dFJQZlV0V2lMZUt1OEt6MElJNUtGcXJTTXpCQkFTdGs2dGR1cHlrNjIwWXBpYlkwUkExS01oQQ?oc=5",
-     "date": "2026-11-01",
-     "source": "Moneycontrol.com",
-     "label": "Debt & Bonds",
-     "snippet": "The 10-year government security yield is currently at around 7.43 per cent, while the spread between Indian and US 10-year government bond yields is hovering at around 2.50 per cent.",
-     "lead": "Indian government bond yields could ease to 6.75-7 per cent by March 2027 even if the Reserve Bank of India (RBI) increases the benchmark interest rate by 0.50 per cent, as lower borrowing and historical yield trends are expected to support the market, according to a report. \"As per our calculation, India's 10-year G-sec yield could settle in the range of 6.75 per cent-7 per cent by end March '27,\" the SBI Research report said on ...",
-     "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260811133223_SEBI-pay-grow-bond-rule.png",
-     "why": [
-      "Interest-rate decision",
-      "Government bond yields",
-      "Also covered by 1 other outlet(s)"
-     ],
-     "tags": [
-      "Debt & Bonds"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
-     "title": "Sebi makes direct plans default: Know how much investors can save on SIPs",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOckRPWmk2SllQWUFzWFdlaFBHTE1wczFLUG9tem13Qm9jX2owdmo2Ym1XQXNObXVtQUtQNUg2QkZJOVhsTjM5emVid01sa3MtQ1poSkhPTTY5cTFqWGNwT2Y2Q3ljTXQ5eVlNOTNaU1FfV2I5SmQyVUVxZExLQVlIejNCdU96VGY3MkMycEtINjlXRTZ1TkZSSjM5ZmQ0Y3FqS0NHcnFSNFMtM0tSd05tOHgwM3VYeUFNZll0WUswY2JkWTlOUmhCY2RlQXM5NjRCNFFyaFJwMXNvaXJ0ZlVKWnZ3OG9vWnc5Rlh30gHrAUFVX3lxTE5yRE9aaTZKWVBZQXNYV2VoUEdMTXBzMUtQb216bXdCb2NfajB2ajZibVdBc05tdW1BS1A1SDZCRkk5WGxOMzl6ZWJ3TWxrcy1DWmhKSE9NNjlxMWpYY3BPZjZDeWNNdDl5WU05M1pTUV9XYjlKZDJVRXFkTEtBWUh6M0J1T3pUZjcyQzJwS0g2OVdFNnVORlJKMzlmZDRjcWpLQ0dycVI0Uy0zS1J3Tm04eDAzdVh5QU1mWXRZSzBjYmRZOU5SaEJjZGVBczk2NEI0UXJoUnAxc29pcnRmVUpadnc4b29adzlGWHc?oc=5",
-     "date": "2026-10-30",
-     "source": "Business Standard",
+     "title": "SEBI proposes scrapping LTCG tax on foreign investors, seeks relief for mutual fund investors",
+     "url": "https://www.thehindubusinessline.com/markets/sebi-proposes-scrapping-ltcg-tax-on-foreign-investors-seeks-relief-for-mutual-fund-investors/article71655619.ece",
+     "date": "2026-11-02",
+     "source": "BusinessLine",
      "label": "Mutual Funds",
-     "snippet": "SEBI Mutual Fund Rules: Investors opting for regular plans will have to be informed about their higher costs, as the regulator seeks to improve transparency and protect mutual fund investors",
-     "lead": "Investors opting for regular plans will have to be informed about their higher costs, as the regulator seeks to improve transparency and protect mutual fund investors",
-     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/28/thumb/fitandfill/1200X628/1787909632-6876.JPG",
+     "snippet": "SEBI has proposed scrapping LTCG tax on foreign investors and offering tax relief on mutual fund switches to attract investments and support India's equity markets.",
+     "lead": "' blCenterIconDiv.innerHTML = spanSvg blLoaderDiv.appendChild(blCenterLoadDiv) blLoaderDiv.appendChild(blCenterIconDiv) divInner.appendChild(blLoaderDiv) div.appendChild(divInner) var bodyIntravel = setInterval(() => { if(window.document.body) { clearInterval(bodyIntravel) window.document.body.insertBefore(div, window.document.body.firstChild) } }, 100) function addStyle(styles) { var css = document.createElement('style'); css.type = ...",
+     "image": "https://bl-i.thgim.com/public/incoming/92azc3/article71641247.ece/alternates/LANDSCAPE_1200/SEBIs-SME-IPO-GIDGMDP0N.4.jpg.jpg",
      "why": [
       "Regulator: SEBI or RBI",
-      "Credit rating change or default",
-      "Also covered by 1 other outlet(s)"
+      "Also covered by 2 other outlet(s)"
      ],
      "tags": [
       "Mutual Funds"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 8,
-     "priority": 67,
-     "title": "Gold and Silver Plunge as Fed Rate-Hike Bets, Inflation Fears Weigh on Metals",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3SVUycURHbkpNR1RUaGR1SFA0Z1h2MG9oLW5fOGhDVHdQR1JfNkRTN0NFYzdJX3NmWDVMeEhoUTZIUVFmM3JCMktSNFRSblBDR2d2aDdiWTFmeUJVNXl5UDFRRzgyajh5QnZva19vVlNNZ003QkE?oc=5",
-     "date": "2026-11-01",
-     "source": "BigGo Finance",
-     "label": "Gold & Silver",
-     "snippet": "Gold and silver futures on India's MCX suffered a sharp sell-off Friday, with silver plunging ₹10,577 per kilogram (approximately $110) and gold…",
-     "lead": "Ask AI Real-time News Market Earnings Call Event Calendar Watchlist Podcast Market Influencers Earnings Call Event Calendar Watchlist Podcast Market Influencers More Ask AI Real-time News Watchlist Holdings Market Earnings Call Event Calendar Podcast Market Influencers Gold and Silver Plunge as Fed Rate-Hike Bets, Inflation Fears Weigh on Metals Add preferred source Gold and silver futures on India's MCX suffered a sharp sell-off ...",
-     "image": "https://img.biggo.com/vyVAz79h6mBMTuNjrhmS8iLxZLDUJYDQn-aaQVP_svA/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL3N0b2NrX2xpYnJhcnlfY292ZXJzLzIwMjYtMTEvN2Q5OTVlNmItZDczZC00NjY1LTg2MjgtZGM5NDQ4NjliYTE4XzE3OTM0OTg3NjBfZGVmYXVsdC53ZWJw.jpg",
-     "why": [
-      "Precious metals",
-      "Global macro driver",
-      "Sharp market move"
-     ],
-     "tags": [
-      "Gold & Silver"
      ]
     }
    ]
@@ -440,6 +460,30 @@
    "must_read": true
   },
   {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 100,
+   "title": "SEBI Cuts Cooling-Off Period For Illiquid Private Listed InvIT OFS To Eight Weeks, New Rules Effective",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTUR4ekxwcExfdy1NOWNGQ3VzbFpRclBXY2VFcjQ2UGhuSlpOeFVxYVRzdWVVbjB0YmxoMW9aV1ZidTdkV3JiajQwOS1ER2Q2N3lKbTh0UmJnUjVnNmw1STVGaU5IemwzTXBHZnZjVWl0elJ1U0NxUzgzQXozZFZ1NGVnNnBmQmRXSzFIQXdXSmtQSnR3WDQxVWNjajNzS244LTBQV1hVWENUQk9EbUVpNjU2bmx6UmFTYzBiQkE3TXd3Y2U4cERHY1NPLTVqbWtrUzFPbU9zbF9jOGFXYTdlNWx4NV9NYlhhTnfSAe8BQVVfeXFMTzVmaTVrVS1aTXh6WU5teFpGQnFrVGlhTmVUV2QxR1RDdjVmMEFtcTNYUS02MFdHQ0tEcG85eVpOY0kzcHNhUEd3SE1kWnFVYmJpWXZXbnNZMmU2bkFIWUU4bmlFenZlSDVseXJHdWFWUGJiZDRVdkFUblBqMmZlVW56Y080Y3BKOTNWTGh6SDN6ckE0bEQzeHNUX0pQUWxyUHFjUkwtVlpwV19tdVFEVDZ5TjJfdm1UTTFtOXBlQWFWSHRyTXprTU5Da2ZoTWx4RnFYZDFNMjhNR25hVjdYbTZGbDA1algyVDBqODgzREU?oc=5",
+   "date": "2026-11-02",
+   "source": "Free Press Journal",
+   "label": "REITs & InvITs",
+   "snippet": "SEBI has reduced the cooling-off period for offer-for-sale transactions involving illiquid private listed InvIT units to eight weeks, effective November 2. The regulator said the change aims to ease business operations. Such offers will last one trading day, with retail investor provisions excluded. Stock exchanges must update their syste",
+   "lead": "New Delhi [India], November 2: The Securities and Exchange Board of India (SEBI) has reduced the cooling-off period for offer for sale (OFS) of units of illiquid private listed Infrastructure Investment Trusts (InvITs) to eight weeks, with the revised provision coming into immediate effect. The move is aimed at facilitating ease of doing business and follows feedback received from market participants, according to a circular issued by ...",
+   "image": "https://media.assettype.com/freepressjournal/2025-02-11/lfbn0fz3/SEBI;ll.jpeg",
+   "why": [
+    "REIT / InvIT news",
+    "Regulator: SEBI or RBI",
+    "Rule or framework change",
+    "Also covered by 2 other outlet(s)"
+   ],
+   "tags": [
+    "REITs & InvITs"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
    "desk": "Startups",
    "score": 12,
    "priority": 100,
@@ -459,7 +503,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -482,7 +526,7 @@
    "tags": [
     "Industry & Manufacturing"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -506,7 +550,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -530,8 +574,8 @@
     "Financials",
     "Fintech"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -553,7 +597,7 @@
    "tags": [
     "Mutual Funds"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -577,7 +621,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -601,7 +645,31 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 8,
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 83,
+   "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+   "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+   "date": "2026-11-03",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "The one-year-old startup is now valued at $300 million.",
+   "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Trajectory raises $45M to make AI model training accessible to nontechnical experts Marina Temkin 3:13 PM PST · November 2, 2026 Whether developed by OpenAI, Anthropic, or built on open-source alternatives, current AI models share a critical limitation: they don’t learn from their mistakes without further training. Businesses ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900",
+   "why": [
+    "Funding",
+    "Sizeable deal (about $45M)",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 10,
    "must_read": false
   },
   {
@@ -624,74 +692,29 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Lovable backer Creandum raises $750m for largest-ever fund to back AI boom",
-   "url": "https://sifted.eu/articles/creandum-750-largest-vc-fund-back-ai-san-francisco/",
-   "date": "2026-11-02",
-   "source": "Sifted",
-   "label": "Global · AI & Deeptech",
-   "snippet": "The fundraise comes as the firm has tripled its presence in San Francisco over the last two years",
-   "lead": "var element = document.currentScript; while(!(element.classList && element.classList.contains('zephr-form-container'))){ element = element.previousSibling; } window.Zephr.renderForm(element, window.Zephr.translateFormProps(\"main:1\", {\"formType\":\"REGISTRATION\",\"formConfig\":{\"parts\":[{\"type\":\"account-verification\",\"label\":\" ...",
-   "image": "https://images.sifted.eu/cdn-cgi/image/width=1339,quality=75,fit=cover,format=auto/wp-content/uploads/2024/06/03081043/Creandum_Teamshooting_London_23.png",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $750M: round or valuation)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "Sebi exploring framework to speed up regulatory approval for AIFs: Pandey",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUktiMndacGVoeG5lN2lGS1ZIbWlqekdxaWd3eVE4VWtYV1RoZEI2T3RPRlJkUEI3eXJPY0NXWlB6dU9kOHFkWElILVl2U1ExcXNJSFEwS25uUjE0ZGZVYVJ1TnJmSnVFZkpzZ1ZmVkNUWmJicmJXZmdralZNZXlvVmIzUVJsVmZrR014VVhHcXZPcE9sSV9qOWNnR2dHcDh5X0wyN3ZBakhPSjh1Qm1IN1M5T1FCSm82SzRPYjBwM29SNlVCd2pETnNjUnZseEpzZXUzM0lNV1BVRTNQQ002N3ZR0gHcAUFVX3lxTE5FMjlWQWdoSkJsRzgyZ1lKTldVeUcydlNHdEx6XzMxVHJUTm9hSW9Obk0zbVVwWkVweC0tWmphZzN6N0o4MXB4aWlzcXFMTUZ1dXdXLWlYNEhPakJ2cGlnRG5SWi1QNXRDQUtUVk9CekcxNlBSOG5aYk1ZaWFtRzVJdG0xQjBDMjNQVGFiZFV5QWVxdFpneDhoR0g2RkpSMm44YXdKWUF0dzBtLUpkTEl1aXNBVkdEOWxOczViODgxVkZMSHFDUGg3OHJSUjlRY1pvUl9CUjBMRm5Yc1Y?oc=5",
-   "date": "2026-11-01",
-   "source": "ETLegalWorld.com",
-   "label": "AIF",
-   "snippet": "AIF Regulation: Sebi",
-   "lead": "We encourage you to review our Terms of Service , and Privacy Policy . By continuing, you agree to the Terms listed here. In case you want to opt out, please click \"Do Not Sell or Share My Personal Information\" link in the footer of this page. We won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or shared ...",
-   "image": "https://etimg.etb2bimg.com/thumb/msid-129475301,imgsize-39666,width-1200,height=627,overlay-etlegal,resizemode-75/regulators/sebi-exploring-framework-to-speed-up-regulatory-approval-for-aifs-pandey.jpg",
-   "why": [
-    "AIF news",
-    "Regulator: SEBI or RBI",
-    "Rule or framework change"
-   ],
-   "tags": [
-    "AIF"
-   ],
    "rank": 11,
    "must_read": false
   },
   {
-   "desk": "Advisory",
+   "desk": "Immigration",
    "score": 10,
    "priority": 83,
-   "title": "SEBI eases KYC norms for foreign investors, extends review cycle to eight years for eligible FPIs",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcGpqbEtBNkk2RGs5d2JvX2prSTRaV2czQnpLWmQ1cEU2LVlmUUdJTkFpTURLWkhmMHdDN0dhVmNVM3FqQllFU2lUYWotSGFaVFVOUGlLc2RLWm9mTWlpcmZWa2t3ZFhtZHNrTzdUWG9iQXp4bVd4bThyZ1dQQWc2ampBMVU5ZzNaWl9nQzhyY0Zwd005SjVoV0V1R3lxWl81MGU0MjFubElYQ2NIMVRLSjdtZENzRVVaMUt4THdQZS1CRnVhM1hRSlduZDVLLS15VVp0blZLQm81OUJJMlkxczdkZlZSbzlsbXItZmw4OFRyelNOckNj0gH8AUFVX3lxTE54VV9jelEyeUdGNnA0cW9kSGJwWnJORWxlR2xlRF9CeXRMb0ZRdkNDMDdSdlBmZHpiMjNXcjQtemsxcW1DS0VXeTdUTjUxanRnSzhPVHZidzNrZ294ZTVPR2I2elczbnQ1aHlyYVJEOFZUUTRQR0RJNTJ3N1BmalNQM19qZWxxbUhFWjBwNk9FVTI5N2M3SG5lZkFfaHRHZ0s1MktGeHFDcVI1Y1dkRmYtZ2dxcndCS0VaWk5HakxpRnlvVjI5NURIbzlkS1BhUlZyVk9rS3dwQUlYWmF3T3MzSTZEWWdTZVJIZkdkRG81cWpRWUt0c1J3NGl4Tw?oc=5",
-   "date": "2026-10-30",
-   "source": "ETLegalWorld.com",
-   "label": "Regulatory",
-   "snippet": "The Securities and Exchange Board of India (SEBI) has relaxed Know Your Customer (KYC) requirements for foreign portfolio investors (FPIs), extending the review cycle to eight years for eligible investors and removing certain registration-related compliance requirements to reduce paperwork and promote ease of doing business, the market re",
-   "lead": "\";inherits:false;initial-value:100%}@property --tw-inset-shadow{syntax:\"*\";inherits:false;initial-value:0 0 #0000}@property --tw-inset-shadow-color{syntax:\"*\";inherits:false}@property --tw-inset-shadow-alpha{syntax:\" \";inherits:false;initial-value:100%}@property --tw-ring-color{syntax:\"*\";inherits:false}@property --tw-ring-shadow{syntax:\"*\";inherits:false;initial-value:0 0 #0000}@property ...",
-   "image": "https://etimg.etb2bimg.com/thumb/msid-135372988,imgsize-49164,width-1200,height=627,overlay-etlegal,resizemode-75/regulators/sebi-eases-kyc-norms-for-foreign-investors-extends-review-cycle-to-eight-years-for-eligible-fpis.jpg",
+   "title": "Australia Student Visa Rules Could Change: Indians May Have To Deposit Funds In Local Banks",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTHB3dzBPdXlSWjU1ZHl3VmF0YXFqMVRKMTRtUkFpbnhkbEtMLTF4U2lfYUxfN3Uza3psa1Q3a3p1NnVpVlVaMkNKUWo2SHpIVWJtc2ZFcVgtRWpZbDBoLTNGR3lpRElPS1ltZ01rSHFHNWg5MTFSM1V5ejhTeXh3Z1hYbVpHOVZVWUhtcmVnaTNvVnotVU9TMnBHY19CSGM1NHJqWFFmcnN4THdPckRJUElTVVpKYzhOTVktNkN0UFcxQ1pUQ3c2ZzVxN1J5NElHQmfSAdoBQVVfeXFMTzFpWHVZMW03dzRxak54cms4TVlNMmFHSEluYXZYODVQVk54aktWby1ZTkhGekxoMEtLWFpBSHNjdlFtTkFVMGVDZGlfcDNkd1QtOFozQUdQeGJqTGZCNDhpeENWUXc5VV9iejN2SU9kbEdYc214UHlkVnNwTllGMkEzakh3cVF2ZXhJZDNXWFlQcUxSdXFoNWo1a2FOZmFEM1RyTDNKQ2ZiTmRrSGhWWjFjSzJZRXJHcUl3cFp1WGdkMUotVS1CQWprMTBnOVhScE9tQVp0WUx4bXc?oc=5",
+   "date": "2026-11-02",
+   "source": "NDTV Profit",
+   "label": "Australia",
+   "snippet": "",
+   "lead": "",
+   "image": null,
    "why": [
-    "Regulator: SEBI or RBI",
-    "Rule or framework change",
-    "Also covered by 3 other outlet(s)"
+    "Announces a change",
+    "Major story (9 headlines that day)",
+    "Mentions India or Indians"
    ],
    "tags": [
-    "Regulatory"
+    "Student / Graduate",
+    "Australia"
    ],
    "rank": 12,
    "must_read": false
@@ -700,24 +723,45 @@
    "desk": "Advisory",
    "score": 10,
    "priority": 83,
-   "title": "Gold price crash accelerates as crude oil rises and odds of Fed rate hike jumps",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS1B3azI3dnVrUFY3RFlnQmRnSHpBVWUzc2RnaWZobzJoazBPb2JIcTlaclNrTEVmUkRiNHBZVV9ELWt1NnplQnNYbVZJVlpHVjhzXzZ3aXM1YmhaTUN6VFNIWTVHdWdLRXlmVUkyYmZDb2VIQ3lEYUVRbUJ6TnJ5TzV4aGloSzU2NEZIS0RNMzRsdVBIamlEV1ZjVkl3VWt0TjRJdnVjdHZJYlkwa21Bc0MyZU5TSDhkTktyR1Q4SDlRQ1VBS1loUDdhY1k1ZVZ1VVE?oc=5",
-   "date": "2026-10-30",
-   "source": "TradingView",
-   "label": "Gold & Silver",
-   "snippet": "Gold price continued its downward trend, reaching its lowest level in months as demand waned after the hawkish Federal Reserve interest rate decision. It dropped to $3,925, down modestly from the August high of $4,700. This sell-off may continue as President Donald Trump prepares to escalate his at…",
-   "lead": "XAUUSD Gold price continued its downward trend, reaching its lowest level in months as demand waned after the hawkish Federal Reserve interest rate decision. It dropped to $3,925, down modestly from the August high of $4,700. This sell-off may continue as President Donald Trump prepares to escalate his attacks against Iran. The daily chart shows that gold has come under pressure in the past few weeks, moving from a high of $4,700 in ...",
-   "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "title": "Sebi allows REITs, InvITs to issue depository receipts",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVXZpVFpBbDZLTFZDOURYaFR3OU9YaEhYcmo3NTl6NUY2dzN3UzBZNDR6LTlPdVA3U0Q5dk15U0lMMHROS1gyZ2sxOVVqN2E1QUQtWU5hcHdBV1V5c3hWWk1uVnVwc0hJNlN3RTVwc2tTOTBUUWVUdGJZeGl6OTdoWEl1QWwxb0IwVGZBSEZDYjVLSFYyNnFudkNtM0VCVGE4bjBsdm9majhSUUt2RGZPU2l6ejhkanFYeHdHM3g5MGpRd9IBxgFBVV95cUxOeXpXdm9ZdmdhVkxOeGZJTm81cWF4ak0xWG1EaXU1M2ZZZGoyQkdIQUZ0TmoyWTAwN2NseThmR0FvTl9Vb0VoYWdwQ3pOeEc0TTdfekl2OU0weUwzSDMtbndPNm9lRFlHcnptcUhKdklfTTZ1Q25ZRnp1N1lfbUVWZlRFTFFnUXRucHg1YlZOazZxZEczNWhFcjNMYkU5WXpZSWZFNm4xUHRmNkRpTlp0Vi1GMGNmbm1mM3JqN3UzMW9HXy0yYmc?oc=5",
+   "date": "2026-11-02",
+   "source": "ET Government",
+   "label": "REITs & InvITs",
+   "snippet": "Sebi has permitted the issuance of Depository Receipts against the units of Real Estate Investment Trusts and Infrastructure Investment Trusts. This move aims to draw more foreign investment into these financial instruments, enhancing capital inflow.",
+   "lead": "",
+   "image": "https://etimg.etb2bimg.com/thumb/msid-135467096,imgsize-56004,width-1200,height=627,overlay-etgovernment,resizemode-75/news/economy/sebi-allows-reits-invits-to-issue-depository-receipts.jpg",
    "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver",
-    "Sharp market move"
+    "REIT / InvIT news",
+    "Regulator: SEBI or RBI",
+    "Also covered by 2 other outlet(s)"
    ],
    "tags": [
-    "Gold & Silver"
+    "REITs & InvITs"
    ],
    "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 83,
+   "title": "SEBI backs removal of long-term capital gains tax for foreign investors: Report",
+   "url": "https://www.cnbctv18.com/market/sebi-backs-removal-of-long-term-capital-gains-tax-for-foreign-investors-report-20024807.htm",
+   "date": "2026-11-02",
+   "source": "CNBC-TV18",
+   "label": "Regulatory",
+   "snippet": "SEBI has recommended removing the long-term capital gains tax for foreign investors and offering tax relief for domestic mutual funds to boost equity markets.",
+   "lead": "Market SEBI backs removal of long-term capital gains tax for foreign investors: Report By : Reuters November 2, 2026 | 13:03 IST Published On Nov 2, 2026 | 13:01 IST Last Updated On Nov 2, 2026 | 13:03 IST Twitter Whatsapp Facebook LinkedIn Copy Link Summary SEBI has recommended removing the long-term capital gains tax for foreign investors and offering tax relief for domestic mutual funds to boost equity markets. + Follow on Google ...",
+   "image": "https://images.cnbctv18.com/uploads/2026/08/sebi-report-2026-08-f0daba84bb88246c23f6f5dd3e8d4a86.jpg?im=FitAndFill,width=1200,height=675",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Also covered by 3 other outlet(s)"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 14,
    "must_read": false
   },
   {
@@ -741,7 +785,7 @@
     "Citizenship",
     "Canada"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -763,7 +807,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 15,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -785,7 +829,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -807,7 +851,7 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -829,7 +873,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -852,7 +896,7 @@
     "Citizenship",
     "Austria"
    ],
-   "rank": 19,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -875,7 +919,7 @@
     "Citizenship",
     "Switzerland"
    ],
-   "rank": 20,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -898,7 +942,7 @@
    "tags": [
     "Tax, Duties & Trade"
    ],
-   "rank": 21,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -919,29 +963,6 @@
    ],
    "tags": [
     "Infrastructure & Transport"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 50,
-   "title": "Iceland Plans to Tighten Permanent Residency Rules for Foreigners",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ3B2OXVQVm0tbVhjbXlUb0FwZmVtMll0Y3p3bl9oTnUyb3l4c1pyUDloWnNxVGdhSTNTbG56T1c1WG12VUVLVXMyNUFMaHYwUnhZWGpab2hPT3FRZzNUampjRmJfRmtrMHZYM3V6ei1ldWVlMlFKOWJVOVpCWHRZV0ZRa2dURDh5RDJIWXJRcGdGQzRtbW1ybzZHalFEY2FEdWlz0gGoAUFVX3lxTE13Q3pEeWNISzdYWmhSYWliM1RIRUxxdVlfa3czcnZlNXlvOXJaN3RvNGdCYkZja1VmY0gzNkJDZUV6Ty00UVFKWDFwLU9qb19BdnN6Tmw0d1NodU1DcWhDQjBmNHJILU9JcTEzYTVnSGpIbnNNZDREWE8wRGhYUEl3cTZSV3htYklwRHVPay1VUHNvUEtwQVlmSjhKYzA5OUJjdW9XeXliNw?oc=5",
-   "date": "2026-10-29",
-   "source": "ProPakistani",
-   "label": "Iceland",
-   "snippet": "Iceland's government has approved a major immigration reform proposal that would introduce stricter requirements for permanent residency, family",
-   "lead": "Iceland’s government has approved a major immigration reform proposal that would introduce stricter requirements for permanent residency, family reunification, and residence permits. The government approved the bill proposed by the Minister of Justice, describing it as the biggest overhaul of the country’s residence permit system in a decade. The proposed changes aim to bring Iceland’s immigration rules in line with other Nordic ...",
-   "image": "https://propakistani.pk/wp-content/uploads/2026/10/iceland.jpg",
-   "why": [
-    "Affects permanent residence",
-    "Announces a change"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Iceland"
    ],
    "rank": 23,
    "must_read": false
