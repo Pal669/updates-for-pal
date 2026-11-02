@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-02",
- "built": "2026-11-02 11:19 IST",
+ "built": "2026-11-02 12:16 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23328.0,
-   "change_pct": 1.19,
-   "asof": "02 Nov 11:19 IST"
+   "value": 23343.0,
+   "change_pct": 1.26,
+   "asof": "02 Nov 12:16 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 75457.0,
-   "change_pct": 1.34,
-   "asof": "02 Nov 11:04 IST"
+   "value": 75361.0,
+   "change_pct": 1.21,
+   "asof": "02 Nov 12:01 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.81,
-   "change_pct": -0.36,
-   "asof": "02 Nov 11:19 IST"
+   "value": 94.89,
+   "change_pct": -0.28,
+   "asof": "02 Nov 12:16 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 109.72,
-   "change_pct": -6.73,
-   "asof": "02 Nov 11:09 IST"
+   "value": 109.99,
+   "change_pct": -6.5,
+   "asof": "02 Nov 12:06 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3924.0,
-   "change_pct": 0.65,
-   "asof": "02 Nov 11:09 IST"
+   "value": 3918.0,
+   "change_pct": 0.49,
+   "asof": "02 Nov 12:06 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,9 +79,28 @@
  },
  "desks": {
   "Policy": {
-   "total": 283,
-   "new_today": 0,
+   "total": 284,
+   "new_today": 1,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 7,
+     "priority": 54,
+     "title": "Ministry of Rural Development Notifies Grievance Redressal Rules, 2026 under VB–G RAM G Act",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2331390",
+     "date": "2026-11-02",
+     "source": "PIB",
+     "label": "Labour & Social",
+     "snippet": "The Ministry of Rural Development, Government of India, has notified the Viksit Bharat – Guarantee f",
+     "lead": "Ministry of Rural Development Ministry of Rural Development Notifies Grievance Redressal Rules, 2026 under VB–G RAM G Act Multi-tier mechanism and digital platform for prompt, transparent, and time-bound grievance redressal Multiple channels for grievance submission, mandatory registration, digital tracking and escalation of unresolved grievances Enquiry to be completed within 7 working days and grievances to be resolved within 15 days ...",
+     "image": null,
+     "why": [
+      "Rule change"
+     ],
+     "tags": [
+      "Labour & Social"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 7,
@@ -140,32 +159,12 @@
      "tags": [
       "Infrastructure & Transport"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 6,
-     "priority": 46,
-     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63876",
-     "date": "2026-10-28",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "",
-     "image": null,
-     "why": [
-      "New law or act",
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 1109,
-   "new_today": 6,
+   "total": 1111,
+   "new_today": 8,
    "items": [
     {
      "desk": "Startups",
@@ -256,7 +255,7 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 11,
+   "new_today": 12,
    "items": [
     {
      "desk": "Immigration",
@@ -304,6 +303,25 @@
      "desk": "Immigration",
      "score": 5,
      "priority": 50,
+     "title": "FIA Detains Two Passengers at Lahore Airport Over Fake Netherlands Visas",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMjdBaElWazVWd0lTN3FnM2hVR00tVmhHdDV3VVVYRTJqYjVPVU1sVTBfWGVBekNhYXdOQzNfai1yMW9HdjA2UU1QWkUwcEFPc1FqT1dfSzlNT1hTNjVmREl3X2JwcEhaXzBHQ2R5OGhjMmpobmtKdHZ1UzgtbllsU09ORTVGYkZ0dmtoNXk3V2lLSmczVE9zMlF1S0Q?oc=5",
+     "date": "2026-11-02",
+     "source": "NewzTodays",
+     "label": "Netherlands",
+     "snippet": "FIA arrests two passengers at Lahore airport for carrying fake Netherlands visas, highlighting efforts against visa fraud and human trafficking in Pakistan.",
+     "lead": "The Federal Investigation Agency (FIA) detained two men at Allama Iqbal International Airport in Lahore after uncovering counterfeit Netherlands visit visas in their passports. The incident occurred during routine immigration checks before the passengers boarded a Qatar Airways flight. The passengers, identified as Qaiser Munir and Ali Hassan, were stopped by FIA immigration officials who flagged their travel documents as fraudulent. ...",
+     "image": "https://newztodays.com/wp-content/uploads/2026/11/fia-detains-two-passengers-at-lahore-airport-over-fake-nethe-1793597314518-1.webp",
+     "why": [
+      "Announces a change"
+     ],
+     "tags": [
+      "Netherlands"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 50,
      "title": "New Zealand visa changes for Indian students: What the India–New Zealand trade deal means for studying and working abroad",
      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNUUNkNURmc21wN3JSQ1VTRi1pU0N3RllzNktVd1FPSW9KWWVTR1FDRnpFa3ZIU1FiYU5IWWZ4aHpFRF8ydjcyWHdDRjlrc2NXMWNKWHVTV2JRZXhJRTBqaXFLRlVrcU5paGppM3gyOHQ1ZXBnc0FfWFFTNXZCZVkzUEc5T0FMUUhtZmZYNmZ3NDJpSzk5eDIyd0VZYWtZUEFOQVdGbllPN1hCY24wM1JGS2gtaHVfQ3B4WEFkWDlNVlFReHd3ZVZiaVhRbElHcTBLTzIyUFo2czR6OFhKelI1Z2VGZHpXd1dmMUU5eTQtVWpJM2g0MzJVNVk1amQyOVZYZW0tUlYtOGZMUFdMNkk5VDc0OXB3ZTFP?oc=5",
      "date": "2026-10-29",
@@ -319,27 +337,6 @@
      "tags": [
       "Student / Graduate",
       "New Zealand"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 50,
-     "title": "Denmark to launch new work permit scheme in 2027: What it means for Indian jobseekers",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRjhjbXhUbHFwOF8zbjgzSkxmQk1UYngwU2ZwaFhLWHVlbEVRVGh1LU16MUs4MUtnYVNQYjB2dmxfbVp1N0VnYzlWS0VwTlhNSldJSm40Z0g4bk8zWGVLOExoNjBOWmVOTkpNSXNkYl9zaWNKc3diZllEam1pX2Z0Rmp6Vlc5dEZrMl9KaFNjaTk0Y2NlT0hjVkw2bXdWVU9DdW45ZktSVmVSRXhSbFFGUkJJWENZLTNiVTl6MTNJRXF3bEJjQUFiRlRUTFNYUmN2WF9MQ2xFWlDSAd4BQVVfeXFMTm95VUhHUmE0M3ZYOEFHUWdWaWJCaUlqUlg4Y2ppc3VkMkR1OTNqZEx1VVJLRGhFMHpYNUVuTUwybHE2Q2xHdUtmbFdHVEJPS1FseERJcDU0WnJKcERLeDNGejVkd2xBZXlKRVpuN2R0X0pic21tUVBpanNhdHZxbjRwVVVhYkE1TWpZS3djVjkzejY2bWFLSU1oTnJNUzNTZ1pNc0c3Y29PbzBzVnZTbDJZaFRuUEhocWhYN1N0UF9hWHBoYXJhRlViRVd5UzVqNndLelF5SVRVZlpSNGx3?oc=5",
-     "date": "2026-10-29",
-     "source": "Business Today",
-     "label": "Denmark",
-     "snippet": "The new Collective Agreement Scheme is designed to help eligible Danish companies recruit workers from abroad at a lower salary threshold than some existing work permit routes, provided the job meets specific employment conditions",
-     "lead": "Business Today Desk Updated Oct 29, 2026 9:56 PM IST India is among the 16 countries whose citizens are eligible to apply under the new scheme Denmark is set to introduce a new work permit pathway from January 1, 2027, allowing eligible foreign nationals, including Indians, to take up jobs with qualifying Danish employers under a scheme that sets a minimum annual salary of DKK 322,000 (approximately Rs 47 lakh at indicative exchange ...",
-     "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ae37188b5b06-india-is-among-the-16-countries-whose-citizens-are-eligible-to-apply-under-the-new-scheme-291711777-16x9.png",
-     "why": [
-      "Affects work visas",
-      "Mentions India or Indians"
-     ],
-     "tags": [
-      "Work visa",
-      "Denmark"
      ]
     }
    ]
