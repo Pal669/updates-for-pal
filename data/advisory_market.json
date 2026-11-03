@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04 01:25 IST",
+ "updated": "2026-11-04 02:00 IST",
  "notes": [],
  "nse_stamp": "03-Nov-2026 15:30",
  "indices": [
@@ -464,24 +464,24 @@
  "global": [
   {
    "name": "S&P 500",
-   "value": 7561.0,
+   "value": 7567.0,
    "dp": 0,
-   "d1": 0.25,
-   "w1": -2.1,
-   "m1": -2.1,
-   "y1": 10.34,
-   "asof": "04 Nov 2026 01:25 IST",
+   "d1": 0.34,
+   "w1": -2.02,
+   "m1": -2.02,
+   "y1": 10.43,
+   "asof": "04 Nov 2026 02:00 IST",
    "source": "Yahoo Finance"
   },
   {
    "name": "Nasdaq Composite",
-   "value": 25324.0,
+   "value": 25373.0,
    "dp": 0,
-   "d1": 0.64,
-   "w1": -4.36,
-   "m1": -6.87,
-   "y1": 6.25,
-   "asof": "04 Nov 2026 01:25 IST",
+   "d1": 0.83,
+   "w1": -4.17,
+   "m1": -6.68,
+   "y1": 6.45,
+   "asof": "04 Nov 2026 02:00 IST",
    "source": "Yahoo Finance"
   },
   {
@@ -543,26 +543,26 @@
  "rates_fx": [
   {
    "name": "US 10-year yield (%)",
-   "value": 4.946,
+   "value": 4.952,
    "dp": 3,
    "unit": "bp",
-   "d1": 5.2,
-   "w1": -4.7,
-   "m1": -33.1,
-   "y1": 84.0,
-   "asof": "04 Nov 2026 01:10 IST",
+   "d1": 5.8,
+   "w1": -4.1,
+   "m1": -32.5,
+   "y1": 84.6,
+   "asof": "04 Nov 2026 01:29 IST",
    "source": "Yahoo Finance"
   },
   {
    "name": "US 5-year yield (%)",
-   "value": 4.739,
+   "value": 4.743,
    "dp": 3,
    "unit": "bp",
-   "d1": 4.6,
-   "w1": -10.1,
-   "m1": -31.6,
-   "y1": 102.4,
-   "asof": "04 Nov 2026 01:10 IST",
+   "d1": 5.0,
+   "w1": -9.7,
+   "m1": -31.2,
+   "y1": 102.8,
+   "asof": "04 Nov 2026 01:29 IST",
    "source": "Yahoo Finance"
   },
   {
@@ -574,7 +574,7 @@
    "w1": -1.5,
    "m1": 3.2,
    "y1": 24.2,
-   "asof": "04 Nov 2026 01:10 IST",
+   "asof": "04 Nov 2026 01:29 IST",
    "source": "Yahoo Finance"
   },
   {
@@ -584,8 +584,8 @@
    "d1": 0.11,
    "w1": -0.45,
    "m1": -0.07,
-   "y1": 1.99,
-   "asof": "04 Nov 2026 01:15 IST",
+   "y1": 2.0,
+   "asof": "04 Nov 2026 01:50 IST",
    "source": "Yahoo Finance"
   },
   {
@@ -596,7 +596,7 @@
    "w1": -0.48,
    "m1": -1.55,
    "y1": 6.71,
-   "asof": "04 Nov 2026 00:41 IST",
+   "asof": "04 Nov 2026 01:43 IST",
    "source": "Yahoo Finance"
   },
   {
@@ -606,65 +606,65 @@
    "d1": 0.16,
    "w1": -0.21,
    "m1": -2.05,
-   "y1": 3.72,
-   "asof": "04 Nov 2026 01:09 IST",
+   "y1": 3.73,
+   "asof": "04 Nov 2026 01:59 IST",
    "source": "Yahoo Finance"
   }
  ],
  "commodities": [
   {
    "name": "Gold (USD/oz)",
-   "value": 3934.5,
+   "value": 3932.4,
    "dp": 2,
-   "d1": -0.88,
-   "w1": -3.44,
-   "m1": -5.47,
-   "y1": -1.98,
-   "asof": "04 Nov 2026 01:15 IST",
+   "d1": -0.94,
+   "w1": -3.49,
+   "m1": -5.52,
+   "y1": -2.03,
+   "asof": "04 Nov 2026 01:50 IST",
    "source": "Yahoo Finance"
   },
   {
    "name": "Silver (USD/oz)",
-   "value": 49.59,
+   "value": 49.6,
    "dp": 2,
-   "d1": -2.24,
-   "w1": -8.67,
-   "m1": -17.33,
-   "y1": 3.54,
-   "asof": "04 Nov 2026 01:15 IST",
+   "d1": -2.2,
+   "w1": -8.63,
+   "m1": -17.29,
+   "y1": 3.59,
+   "asof": "04 Nov 2026 01:50 IST",
    "source": "Yahoo Finance"
   },
   {
    "name": "Brent crude (USD/bbl)",
-   "value": 103.76,
+   "value": 104.33,
    "dp": 2,
-   "d1": -0.96,
-   "w1": -8.89,
-   "m1": 1.48,
-   "y1": 59.9,
-   "asof": "04 Nov 2026 01:14 IST",
+   "d1": -0.42,
+   "w1": -8.39,
+   "m1": 2.03,
+   "y1": 60.78,
+   "asof": "04 Nov 2026 01:50 IST",
    "source": "Yahoo Finance"
   },
   {
    "name": "WTI crude (USD/bbl)",
-   "value": 96.25,
+   "value": 96.67,
    "dp": 2,
-   "d1": -0.22,
-   "w1": -3.65,
-   "m1": 5.64,
-   "y1": 57.66,
-   "asof": "04 Nov 2026 01:15 IST",
+   "d1": 0.22,
+   "w1": -3.23,
+   "m1": 6.1,
+   "y1": 58.35,
+   "asof": "04 Nov 2026 01:50 IST",
    "source": "Yahoo Finance"
   },
   {
    "name": "Copper (USD/lb)",
-   "value": 6.388,
+   "value": 6.396,
    "dp": 3,
-   "d1": -2.38,
-   "w1": -3.54,
-   "m1": -1.61,
-   "y1": 26.56,
-   "asof": "04 Nov 2026 01:15 IST",
+   "d1": -2.25,
+   "w1": -3.41,
+   "m1": -1.47,
+   "y1": 26.74,
+   "asof": "04 Nov 2026 01:50 IST",
    "source": "Yahoo Finance"
   },
   {
@@ -690,7 +690,7 @@
    "source": "Yahoo Finance"
   }
  ],
- "gold_silver_ratio": 79.34,
+ "gold_silver_ratio": 79.28,
  "reits": [
   {
    "name": "Embassy Office Parks REIT",
