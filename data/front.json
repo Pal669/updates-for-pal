@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-03",
- "built": "2026-11-03 09:35 IST",
+ "built": "2026-11-03 12:01 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23622.0,
-   "change_pct": 0.77,
-   "asof": "03 Nov 09:35 IST"
+   "value": 23696.0,
+   "change_pct": 1.09,
+   "asof": "03 Nov 12:01 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 76300.0,
-   "change_pct": 0.8,
-   "asof": "03 Nov 09:20 IST"
+   "value": 76577.0,
+   "change_pct": 1.17,
+   "asof": "03 Nov 11:46 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.73,
-   "change_pct": -0.18,
-   "asof": "03 Nov 09:35 IST"
+   "value": 94.85,
+   "change_pct": -0.06,
+   "asof": "03 Nov 12:01 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 104.74,
-   "change_pct": -0.03,
-   "asof": "03 Nov 09:25 IST"
+   "value": 105.9,
+   "change_pct": 1.08,
+   "asof": "03 Nov 11:51 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3938.0,
-   "change_pct": -0.8,
-   "asof": "03 Nov 09:25 IST"
+   "value": 3928.0,
+   "change_pct": -1.04,
+   "asof": "03 Nov 11:51 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -163,9 +163,30 @@
    ]
   },
   "Startups": {
-   "total": 1150,
-   "new_today": 9,
+   "total": 1154,
+   "new_today": 13,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
+     "title": "ValueQuest Tristar Fund raises over Rs 2,100 Cr for advanced manufacturing",
+     "url": "https://yourstory.com/2026/11/funding-valuequest-tristar-fund-beats-target-greenshoe-15-months-first-close",
+     "date": "2026-11-02",
+     "source": "YourStory",
+     "label": "India · AI & Deeptech",
+     "snippet": "The private equity fund, which focuses on aerospace, defence, precision engineering and energy-transition-linked manufacturing, has secured commitments exceeding its original target and full greenshoe within 15 months of its first close.",
+     "lead": "ValueQuest Tristar Fund raises over Rs 2,100 Cr for advanced manufacturing The private equity fund, which focuses on aerospace, defence, precision engineering and energy-transition-linked manufacturing, has secured commitments exceeding its original target and full greenshoe within 15 months of its first close. Team YS 17489 Stories Monday November 02, 2026 , 2 min Read ValueQuest Tristar Fund, a private equity fund that backs India’s ...",
+     "image": "https://images.yourstory.com/cs/2/bd251c60-2d6a-11e9-aa97-9329348d4c3e/funding11557225301498.jpg",
+     "why": [
+      "Funding",
+      "Large deal (about $221M)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -228,33 +249,12 @@
       "Financials",
       "Fintech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Jio Platforms Q2 Profit Rises 14% YoY To ₹8,387 Cr, Revenue Up 11%",
-     "url": "https://inc42.com/buzz/jio-platforms-q2-profit-rises-14-yoy-to-%e2%82%b98387-cr-revenue-up-11/",
-     "date": "2026-10-30",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "Jio Platforms recorded consolidated net profit of ₹8,387 Cr in Q2 FY27, while operating revenue rose 11.4% to ₹40,475 Cr.",
-     "lead": "Jio Platforms reported a 13.7% YoY increase in consolidated net profit to ₹8,387 Cr in Q2 FY27, while operating revenue rose 11.4% to ₹40,475 Cr Other income jumped 49.5% YoY to ₹978 Cr, supporting profit growth even as total expenses increased slightly faster than operating revenue Network operating expenses, its largest expense head, increased 3.3% to ₹8,813 Cr from ₹8,528 Cr",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/jio-PC-social-.png",
-     "why": [
-      "Financials",
-      "Very large figure in headline (about $883M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Financials"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 13,
+   "new_today": 16,
    "items": [
     {
      "desk": "Immigration",
@@ -435,6 +435,30 @@
  },
  "items": [
   {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 100,
+   "title": "Exclusive: Nuuk To Raise ₹100 Cr From Wipro Consumer Care Ventures, RPSG At ₹500 Cr Valuation",
+   "url": "https://inc42.com/buzz/nuuk-to-raise-%e2%82%b9100-cr-from-wipro-consumer-care-ventures-rpsg-at-%e2%82%b9500-cr-valuation/",
+   "date": "2026-11-03",
+   "source": "Inc42",
+   "label": "India · Commerce & D2C",
+   "snippet": "Nuuk is raising around ₹100 Cr ($10.5 Mn) in a funding round led by Wipro Consumer Care Ventures and RPSG Capital Ventures at a valuation of approximately ₹500 Cr.",
+   "lead": "Nuuk is raising around ₹100 Cr ($10.5 Mn) in a funding round led by Wipro Consumer Care Ventures and RPSG Capital Ventures at a valuation of approximately ₹500 Cr. The proposed investment follows funding rounds in appliance startups such as Beyond Appliances and Nester, with investors backing product development, manufacturing, and distribution expansion. Nuuk closed its $6.6 Mn Series A round in August 2025 and sells home and kitchen ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/soc-47.jpg",
+   "why": [
+    "Funding",
+    "Sizeable deal (about $53M)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "Commerce & D2C"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
    "desk": "Immigration",
    "score": 12,
    "priority": 100,
@@ -449,14 +473,14 @@
    "why": [
     "Salary threshold change",
     "Announces a change",
-    "Major story (14 headlines that day)",
+    "Major story (17 headlines that day)",
     "Mentions India or Indians"
    ],
    "tags": [
     "Salary threshold",
     "United Kingdom"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -480,7 +504,7 @@
    "tags": [
     "REITs & InvITs"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -503,7 +527,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -526,7 +550,7 @@
    "tags": [
     "Industry & Manufacturing"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -550,8 +574,8 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Startups",
@@ -574,7 +598,7 @@
     "Financials",
     "Fintech"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -597,7 +621,7 @@
    "tags": [
     "Mutual Funds"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -621,7 +645,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -645,7 +669,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -669,29 +693,6 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "ValueQuest Tristar Fund raises over Rs 2,100 Cr for advanced manufacturing",
-   "url": "https://yourstory.com/2026/11/funding-valuequest-tristar-fund-beats-target-greenshoe-15-months-first-close",
-   "date": "2026-11-02",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "The private equity fund, which focuses on aerospace, defence, precision engineering and energy-transition-linked manufacturing, has secured commitments exceeding its original target and full greenshoe within 15 months of its first close.",
-   "lead": "ValueQuest Tristar Fund raises over Rs 2,100 Cr for advanced manufacturing The private equity fund, which focuses on aerospace, defence, precision engineering and energy-transition-linked manufacturing, has secured commitments exceeding its original target and full greenshoe within 15 months of its first close. Team YS 17489 Stories Monday November 02, 2026 , 2 min Read ValueQuest Tristar Fund, a private equity fund that backs India’s ...",
-   "image": "https://images.yourstory.com/cs/2/bd251c60-2d6a-11e9-aa97-9329348d4c3e/funding11557225301498.jpg",
-   "why": [
-    "Funding",
-    "Large deal (about $221M)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
    "rank": 11,
    "must_read": false
   },
@@ -709,7 +710,7 @@
    "image": null,
    "why": [
     "Announces a change",
-    "Major story (9 headlines that day)",
+    "Major story (11 headlines that day)",
     "Mentions India or Indians"
    ],
    "tags": [
