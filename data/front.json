@@ -1,6 +1,6 @@
 {
- "edition": "2026-11-03",
- "built": "2026-11-03 23:34 IST",
+ "edition": "2026-11-04",
+ "built": "2026-11-04 03:30 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,15 +12,15 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23811.0,
-   "change_pct": 1.58,
+   "value": 23441.0,
+   "change_pct": 1.68,
    "asof": "03 Nov 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 76918.0,
-   "change_pct": 1.62,
+   "value": 75693.0,
+   "change_pct": 1.66,
    "asof": "03 Nov 15:32 IST"
   },
   {
@@ -28,59 +28,59 @@
    "dp": 2,
    "value": 94.73,
    "change_pct": -0.18,
-   "asof": "03 Nov 23:07 IST"
+   "asof": "04 Nov 02:21 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 103.52,
-   "change_pct": -1.19,
-   "asof": "03 Nov 23:24 IST"
+   "value": 104.43,
+   "change_pct": -0.32,
+   "asof": "04 Nov 03:20 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3940.0,
-   "change_pct": -0.74,
-   "asof": "03 Nov 23:24 IST"
+   "value": 3938.0,
+   "change_pct": -0.79,
+   "asof": "04 Nov 03:20 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
    "value": 4.95,
-   "change_pct": 1.23,
-   "asof": "03 Nov 23:19 IST"
+   "change_pct": 1.19,
+   "asof": "04 Nov 01:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "Kuku Technologies (Kuku FM)",
-   "tagline": "Audio and microdrama OTT, IPO cleared by SEBI",
-   "what": "Founded in 2018 by Lal Chand Bisu, Vikas Goyal and Vinod Meena. Offers audiobooks, podcasts and original audio shows under Kuku FM, plus microdrama platform Kuku TV and microlearning platform Guru. Content library of 20,000+ titles in seven languages; it claims 1 Cr+ listeners and creators and 400 Mn app downloads across its portfolio.",
+   "company": "DheyaTech",
+   "tagline": "Bengaluru aerospace propulsion startup",
+   "what": "Founded in 2018 by aerospace engineers Gurushankara KC, Abhinav Alva and Chetan Kumar. Develops small gas turbine engines (20 kgf to 400 kgf thrust) for aerial platforms and energy systems, with the design, assembly and testing pipeline and its engine control unit built in-house. Expanding into hydrogen-based technology and distributed power generation, including a 60 kW turbogenerator with a hydrogen flexi-fuel combustor developed with IISc.",
    "how": [
-    "The article does not explain the revenue model.",
-    "Not stated: whether income comes from subscriptions, pay-per-content or ads. Check the DRHP when it becomes public."
+    "Sells engines to OEMs: the company says it already has orders from Indian and global OEMs but did not disclose names or values.",
+    "Inferred: revenue is hardware sales; the article gives no pricing or revenue figures."
    ],
-   "watch": "Fresh-issue money is planned for tech, AI infrastructure, content production and geographic expansion. Competitors named: Pocket FM, Flick TV, ReelSaga, Miniplix and OTT majors (Amazon, JioHotstar, Zee5).",
-   "sector": "Media, Gaming & Creators",
+   "watch": "Pre-revenue-scale hardware: certification timelines and first commercial deliveries are the milestones to track. Article also notes rising investor interest in aerospace and spacetech (D-Propulse Rs 25 Cr in January; InspeCity Rs 100 Cr in August).",
+   "sector": "AI & Deeptech",
    "region": "India",
-   "url": "https://inc42.com/buzz/sebi-greenlights-kuku-technologies-%e2%82%b93500-cr-ipo/"
+   "url": "https://inc42.com/buzz/dheyatech-bags-%e2%82%b943-cr-to-scale-indigenous-gas-turbine-engines/"
   },
   "country": {
-   "id": "switzerland",
-   "name": "Switzerland",
-   "trend": "Stable (population-cap vote rejected 14 June 2026)",
-   "pr": "C permit after 10 years for most non-EU nationals. The 5-year fast track applies only to certain nationalities (reported: US, Canada, UK), not India.",
-   "citizenship": "Needs the C permit or eligibility for it, typically 10 years of residence, plus canton and municipality conditions (general knowledge). Switzerland allows dual citizenship (general knowledge).",
-   "pro": "Highest pay levels and a global wealth-management centre (general knowledge).",
-   "con": "Quota system: only about 8,500 third-country places a year across the whole country.",
-   "watch": "Annual quota announcements for 2027"
+   "id": "sweden",
+   "name": "Sweden",
+   "trend": "Tightening",
+   "pr": "Work-based PR after 4 years (44 months), with net income of at least SEK 29,680 a month for the previous 12 months.",
+   "citizenship": "Since 6 June 2026: 8 years of residence, higher income test, and mandatory Swedish language and civics tests (first sitting August 2026). Adult fee rose from SEK 1,500 to SEK 2,900.",
+   "pro": "PR in 4 years.",
+   "con": "Citizenship clock stretched to 8 years with a language test.",
+   "watch": "Further income thresholds"
   }
  },
  "desks": {
   "Policy": {
    "total": 295,
-   "new_today": 8,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
@@ -127,50 +127,113 @@
      "desk": "Policy",
      "score": 6,
      "priority": 46,
-     "title": "Smt. Punya Salila Srivastava, Secretary, Union Health Ministry, selects part-time members of National Dental Commission and its Autonomous Boards through draw of lots as per procedure prescribed under the National Dental Commission Act, 2023",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332176",
-     "date": "2026-11-03",
-     "source": "PIB",
-     "label": "Industry & Manufacturing",
-     "snippet": "Union Ministry of Health and Family Welfare has undertaken the selection of part-time members of the",
-     "lead": "Ministry of Health and Family Welfare Smt. Punya Salila Srivastava, Secretary, Union Health Ministry, selects part-time members of National Dental Commission and its Autonomous Boards through draw of lots as per procedure prescribed under the National Dental Commission Act, 2023 Ten part-time members representing State/UT Governments and nine representing State Dental Councils selected to the National Dental Commission for a two-year ...",
+     "title": "Extension of timeline with respect to compliance of Digital Accessibility Circulars",
+     "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-with-respect-to-compliance-of-digital-accessibility-circulars_105523.html",
+     "date": "2026-10-30",
+     "source": "SEBI",
+     "label": "Markets & Regulation",
+     "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+     "lead": "",
      "image": null,
      "why": [
-      "New law or act"
+      "Regulator rulebook change",
+      "Regulator: SEBI"
      ],
      "tags": [
-      "Industry & Manufacturing"
+      "Markets & Regulation"
      ]
     },
     {
      "desk": "Policy",
      "score": 6,
      "priority": 46,
-     "title": "Ministry of Rural Development Notifies Grievance Redressal Rules, 2026 under VB–G RAM G Act",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2331390",
-     "date": "2026-11-02",
+     "title": "Ministry of Textiles to Open PLI Scheme Portal for accepting new applications from 1st November 2026",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329667",
+     "date": "2026-10-28",
      "source": "PIB",
-     "label": "Labour & Social",
-     "snippet": "The Ministry of Rural Development, Government of India, has notified the Viksit Bharat – Guarantee f",
-     "lead": "Ministry of Rural Development Ministry of Rural Development Notifies Grievance Redressal Rules, 2026 under VB–G RAM G Act Multi-tier mechanism and digital platform for prompt, transparent, and time-bound grievance redressal Multiple channels for grievance submission, mandatory registration, digital tracking and escalation of unresolved grievances Enquiry to be completed within 7 working days and grievances to be resolved within 15 days ...",
+     "label": "Infrastructure & Transport",
+     "snippet": "Ministry of Textiles is set to reopen the application portal for the Production Linked Incentive (PL",
+     "lead": "Ministry of Textiles Ministry of Textiles to Open PLI Scheme Portal for accepting new applications from 1st November 2026 Minimum Turnover criterion for Part 2 of the Scheme reduced to ₹100 Crore Posted On: 28 OCT 2026 6:12PM by PIB Delhi Ministry of Textiles is set to reopen the application portal for the Production Linked Incentive (PLI) Scheme for Textiles for accepting new applications under Round 4 of the Scheme from 1st November ...",
      "image": null,
      "why": [
-      "Rule change"
+      "Subsidy or incentive"
      ],
      "tags": [
-      "Labour & Social"
+      "Infrastructure & Transport"
      ]
     }
    ]
   },
   "Startups": {
-   "total": 1177,
-   "new_today": 36,
+   "total": 1185,
+   "new_today": 4,
    "items": [
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 79,
+     "score": 10,
+     "priority": 77,
+     "title": "[Update] Ola Electric Allots Rights Equity Shares For ₹1,000 Cr Fundraise",
+     "url": "https://inc42.com/buzz/ola-electrics-%e2%82%b91000-cr-rights-issue-to-open-on-october-22-issue-price-set-at-%e2%82%b927/",
+     "date": "2026-11-03",
+     "source": "Inc42",
+     "label": "India · Mobility & EV",
+     "snippet": "Ola Electric’s ₹1,000 Cr rights issue is set to open for subscription onOctober 22 and close on October 30, its board finalised today",
+     "lead": "Ola Electric has allotted 37.03 Cr partly paid-up equity shares under its rights issue, taking the total fundraise to about ₹999.7 Cr once fully paid. Shareholders have paid ₹16.2 per share on application, bringing in ₹599.8 Cr, while the remaining ₹10.8 per share will be collected through a subsequent call. The company’s rights issue committee approved the allotment yesterday, following board approvals for the fundraise in September ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/ola-electric-ebike-social-1-1.jpg",
+     "why": [
+      "Funding",
+      "Large deal (about $105M)"
+     ],
+     "tags": [
+      "Funding",
+      "Mobility & EV"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "GIVA Raises ₹975 Cr Led By Multiples PE, Eyes 160 New Stores In FY27",
+     "url": "https://inc42.com/buzz/giva-raises-%e2%82%b9975-cr-led-by-multiples-pe-eyes-160-new-stores-in-fy27/",
+     "date": "2026-11-03",
+     "source": "Inc42",
+     "label": "India · Commerce & D2C",
+     "snippet": "GIVA has raised ₹975 Cr in a funding round led by Multiples PE as it plans to add 160 stores in FY27 and expand manufacturing",
+     "lead": "GIVA has raised ₹975 Cr in a round led by Multiples Alternate Asset Management, with participation from existing investors Epiq Capital and Edelweiss Discovery Fund The jewellery brand plans to add 160 stores in FY27 and expand manufacturing and inventory, targeting an offline revenue share of 75-80% within three years GIVA reported ₹865 Cr in FY26 revenue, compared with ₹505 Cr in FY25, and narrowed its negative EBITDA margin to ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Untitled-Design-40.png",
+     "why": [
+      "Funding",
+      "Large deal (about $103M)"
+     ],
+     "tags": [
+      "Funding",
+      "Commerce & D2C"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "Jewellery brand GIVA raises $100M from Multiples PE",
+     "url": "https://yourstory.com/2026/11/jewellery-brand-giva-raises-100-million-from-multiples-pe",
+     "date": "2026-11-03",
+     "source": "YourStory",
+     "label": "India · Other",
+     "snippet": "Founded in 2019, Bengaluru-based GIVA focuses on everyday wear, catering primarily to Indian consumers for both self-consumption and gifting occasions. The fresh capital will be used to strengthen its leadership team, expand manufacturing and deepen its offline presence.",
+     "lead": "Jewellery brand GIVA raises $100M from Multiples PE Founded in 2019, Bengaluru-based GIVA focuses on everyday wear, catering primarily to Indian consumers for both self-consumption and gifting occasions. The fresh capital will be used to strengthen its leadership team, expand manufacturing and deepen its offline presence. Team YS 17497 Stories Tuesday November 03, 2026 , 2 min Read Multiples Alternate Asset Management along with its ...",
+     "image": "https://images.yourstory.com/cs/2/d72b5ef09db411ebb4167b901dac470c/Imagespyc-1621572757142.jpg",
+     "why": [
+      "Funding",
+      "Large deal (about $100M)"
+     ],
+     "tags": [
+      "Funding"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
      "title": "PB Fintech Q2: Profit jumps 43% to Rs 192 cr, revenue at Rs 2,178 cr",
      "url": "https://www.medianama.com/2026/11/223-pb-fintech-43-percent-profit-growth-q2/",
      "date": "2026-11-02",
@@ -188,104 +251,17 @@
       "Financials",
       "Fintech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 79,
-     "title": "Cognizant In Talks To Invest In Sarvam At $3.5 Bn To $4 Bn Valuation: Report",
-     "url": "https://inc42.com/buzz/cognizant-in-talks-to-invest-in-sarvam-at-3-5-bn-to-4-bn-valuation-report/",
-     "date": "2026-10-28",
-     "source": "Inc42",
-     "label": "India · AI & Deeptech",
-     "snippet": "Cognizant is reportedly in talks to invest in Sarvam AI at a $3.5-4 Bn valuation, following HCLTech’s $150 Mn investment in the AI unicorn",
-     "lead": "Cognizant is reportedly in talks to invest in Sarvam AI as part of a proposed $300 Mn fundraise at a $3.5-4 Bn valuation The investment could make Cognizant the second IT services major on Sarvam’s cap table after HCLTech, as IT companies seek to strengthen their AI capabilities Sarvam raised $234 Mn in the first close of its $300 Mn Series B in June at a $1.5 Bn valuation, with HCLTech investing $150 Mn",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Sarvam-Open-Source-Story-social.jpg",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $4,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 79,
-     "title": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion",
-     "url": "https://yourstory.com/2026/10/ather-turns-profitable-after-rs-154-cr-loss-meta-ai-expansion",
-     "date": "2026-10-27",
-     "source": "YourStory",
-     "label": "India · AI & Deeptech",
-     "snippet": "Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand.",
-     "lead": "Ather turns profitable after Rs 154 Cr loss; Meta plans to raise $35B for AI expansion Ather Energy swung to a consolidated net profit in Q2 FY27 as revenue from operations grew 63% year-on-year. The electric two-wheeler maker plans to expand production capacity to meet rising demand. Team YS 17432 Stories Tuesday October 27, 2026 , 4 min Read MakeMyTrip is back in the black! The travel booking platform reported a net profit of $1.8 ...",
-     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/2026-CopyofNewPPTTemplates6-1793024916362.png",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $35,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 71,
-     "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-     "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-     "date": "2026-11-03",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "The one-year-old startup is now valued at $300 million.",
-     "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Trajectory raises $45M to make AI model training accessible to nontechnical experts Marina Temkin 3:13 PM PST · November 2, 2026 Whether developed by OpenAI, Anthropic, or built on open-source alternatives, current AI models share a critical limitation: they don’t learn from their mistakes without further training. Businesses ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900",
-     "why": [
-      "Funding",
-      "Sizeable deal (about $45M)",
-      "Also covered by 1 other outlet(s)"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 40,
+   "new_today": 3,
    "items": [
     {
      "desk": "Immigration",
      "score": 7,
-     "priority": 58,
-     "title": "Could Austria finally change its rules on citizenship for children born in the country?",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUlkRHhWc1Jzdk9UVkRPLXllZFZLOUtFZGpkRzFNdDdvUEZuVEdGVHc0anlxd0l5WVpUT25lZ0hEaldjZzgtMVlhNXIyWnp0OHhyYjdwb1p5d204VjloeHh4NEgtZGZWX0IzcHRhS1hncTBxa0djSVdzX3dkNFNzSE92UnVQelF1NU80MHFiMVk0ZkU3LTB0ZjZ5SF9XYldyMV9ud0I3RkhwTFFWXy00Q01nMHNVdW0tT0NR?oc=5",
-     "date": "2026-10-30",
-     "source": "The Local Austria",
-     "label": "Austria",
-     "snippet": "Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change?",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change? The Austrian debate over citizenship for children ...",
-     "image": null,
-     "why": [
-      "Affects citizenship",
-      "Announces a change"
-     ],
-     "tags": [
-      "Citizenship",
-      "Austria"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 7,
-     "priority": 58,
+     "priority": 64,
      "title": "Switzerland sets date for vote on bid to cut wait times for Swiss citizenship",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYWhwLVFsSk5ZaDBiampxb2lvVWt4djdrM3Byc1pETEF4WWdkMnMteTdzcm5RZi15czBwWnltaDh4Vl9qbTJKczVNYmhOZmNJd0pIdFQ0YTJ2eGNJc285N1hQSFBtOTc2eUpYNGliZllXeml1cjhOaTdTRkJLNWlpRkF5LXpkbWw4MXFQM3MtS0FaN19SbE5WUlVNbU9DYS1ZVnZGbUNBWkVHNGpYZ2M4?oc=5",
      "date": "2026-10-29",
@@ -306,27 +282,27 @@
     {
      "desk": "Immigration",
      "score": 6,
-     "priority": 50,
-     "title": "Germany opens job opportunities for Pakistani IT professionals, offers work visa routes",
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMG54MlEzX2U2QXZGRTVOdkpfR2dNaFNFVlVwdGswX1VkRjlZNVZ6dG9wcG1pTkVkblRNYXZPZkV4eUp2VVhXcWtiMzcxTzV5ZnhLV25rSWdfaHY2OW5ZQVdEN012cXNOY1hsS0dDMVZIX3RHOTd5T1J3Uzh3a0hDZW1YX0tqeWtqN2tBR2FWb0N5a3lLRjJORWxpMVNfZTRBRDBIM1BKQU9VZEpvZnVSbWRBRWdza01jd1pXZWw1c9IBxAFBVV95cUxQZVV4RU1aZ05uRXBYU0djdmhBeThJR09rTVdqcjBNX25aaFVKS2VOVGM1V2ZqNEtBb2tlYlhIWmF2Mm0zc3RvYm1qMzlkT0FIMTRLbXZBU3hqR1JJem11NFZCd0VRNU1LOTJ1N204WmhFRWtGV0NncVFDREVzLWd5blpmV0t5ckF2TWpra2FfUDJTbG1IWTFzTFFnX3RfeHFOS1FvNk5ReExPRHBqSzZyWjRVb255MjI3dHJsWnlnZUVPZmFC?oc=5",
+     "priority": 55,
+     "title": "How will Denmark's new collective agreement-based work permit work?",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcGMwUklVWWl2N3hSVEc4bWhGMjNhemFOSkF4Vm03Z09na0plRHVYMU9rNlVtUl93Z3VjR05hXzg5X1RRMFNmU01PNkhvWi12VTNGT0pscXQ5QlFnVGowWXJrMWRwT0lLaDlpekdVODFqSEFFVC0yeVJLTkJMQzdmWEE3cENnYXlVTEZUZEtJc0xDYWtxSExnb2hhYUZ5TXM?oc=5",
      "date": "2026-11-03",
-     "source": "Daily Ausaf",
-     "label": "Germany",
-     "snippet": "",
-     "lead": "",
+     "source": "The Local Denmark",
+     "label": "Denmark",
+     "snippet": "Denmark is set to introduce a new collective agreement-based work permit scheme from the beginning of next year. Who is eligible and how will it work?",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Denmark is set to introduce a new collective agreement-based work permit scheme from the beginning of next year. Who is eligible and how will it work? The scheme – called overenskomstbaserede beløbsordning in Danish – ...",
      "image": null,
      "why": [
       "Affects work visas"
      ],
      "tags": [
       "Work visa",
-      "Germany"
+      "Denmark"
      ]
     },
     {
      "desk": "Immigration",
      "score": 6,
-     "priority": 50,
+     "priority": 55,
      "title": "Iceland Plans to Tighten Permanent Residency Rules for Foreigners",
      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ3B2OXVQVm0tbVhjbXlUb0FwZmVtMll0Y3p3bl9oTnUyb3l4c1pyUDloWnNxVGdhSTNTbG56T1c1WG12VUVLVXMyNUFMaHYwUnhZWGpab2hPT3FRZzNUampjRmJfRmtrMHZYM3V6ei1ldWVlMlFKOWJVOVpCWHRZV0ZRa2dURDh5RDJIWXJRcGdGQzRtbW1ybzZHalFEY2FEdWlz0gGoAUFVX3lxTE13Q3pEeWNISzdYWmhSYWliM1RIRUxxdVlfa3czcnZlNXlvOXJaN3RvNGdCYkZja1VmY0gzNkJDZUV6Ty00UVFKWDFwLU9qb19BdnN6Tmw0d1NodU1DcWhDQjBmNHJILU9JcTEzYTVnSGpIbnNNZDREWE8wRGhYUEl3cTZSV3htYklwRHVPay1VUHNvUEtwQVlmSjhKYzA5OUJjdW9XeXliNw?oc=5",
      "date": "2026-10-29",
@@ -343,34 +319,34 @@
       "PR / Settlement",
       "Iceland"
      ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 55,
+     "title": "South Korea targets 4 lakh international students with proposed visa, employment reforms",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdHhSSDh4OEloX0Mtd1gyWGo1OGoycHJtamt1S0c2WGFka3ROVHhlODI2OVZQczVSaFRJYkJNZFVXV1hWdnB2ZFp5UTVSVDA0bDFRWnhVZm90V0N5SWJmZkd3V0RMS3ZISXFQMVJhU2dNUFlPd2dYMG5VRVJfcnhTMVM5Y1J3ckNPbGFxOEl6SjQzNUtiaEpaNjFvVl9jaWluaXFjLTVKZVJhVS0wZ2U4N2RMWlctM0s5VjFRLTZCSGdVdkxTQVFxN2s3LWlzc0FqVDhNLVl0MjFQOTE3UmZrWGQyeHbSAeoBQVVfeXFMUF82VlpkLXVoNjJKQ3ZLOEVPNXpZNzUyakhvOWxESFpSUDNQZUctVnEtdVVlMEVfdG85Mm5wNjUtS0JVclFQMWJKRk8xVHMwZTM3TlUxcS1ZdDFoSEpMclc4YklqZHJqZmdodEVsbUlodTF3YnYzU0FQc3NlaU9pY2tMMURYQ1dEa3ppMllCWElabndpam5EZ2xtbGYxZnhmSllOenRxR1hKZFM4MW9VOTNCcHJ1c3VKMnZXa3JlQ1hRMTM0RWstTHFTdEVXeUpVZXRiYlY3dmVUbDNyWG8td2pDa1hKNm45Y0xB?oc=5",
+     "date": "2026-10-29",
+     "source": "Business Today",
+     "label": "South Korea",
+     "snippet": "Under the proposed framework, international students who demonstrate a specified level of Korean-language proficiency could be exempt from submitting documents proving they have sufficient funds to cover tuition and living expenses",
+     "lead": "Business Today Desk Updated Oct 29, 2026 2:10 AM IST The proposed reforms would simplify eligibility requirements for international students seeking part-time employment South Korea is planning changes to its international student visa system, linking Korean-language proficiency with financial documentation requirements, part-time employment opportunities and post-study career pathways. The proposed reforms aim to attract 400,000 ...",
+     "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ae1dd543e623-the-proposed-reforms-would-simplify-eligibility-requirements-for-international-students-seeking-part-283234958-16x9.png",
+     "why": [
+      "Announces a change",
+      "Major story (8 headlines that day)"
+     ],
+     "tags": [
+      "Student / Graduate",
+      "South Korea"
+     ]
     }
    ]
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 32,
+   "new_today": 10,
    "items": [
-    {
-     "desk": "Advisory",
-     "score": 10,
-     "priority": 83,
-     "title": "Sebi exploring framework to speed up regulatory approval for AIFs: Pandey",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUktiMndacGVoeG5lN2lGS1ZIbWlqekdxaWd3eVE4VWtYV1RoZEI2T3RPRlJkUEI3eXJPY0NXWlB6dU9kOHFkWElILVl2U1ExcXNJSFEwS25uUjE0ZGZVYVJ1TnJmSnVFZkpzZ1ZmVkNUWmJicmJXZmdralZNZXlvVmIzUVJsVmZrR014VVhHcXZPcE9sSV9qOWNnR2dHcDh5X0wyN3ZBakhPSjh1Qm1IN1M5T1FCSm82SzRPYjBwM29SNlVCd2pETnNjUnZseEpzZXUzM0lNV1BVRTNQQ002N3ZR0gHcAUFVX3lxTE5FMjlWQWdoSkJsRzgyZ1lKTldVeUcydlNHdEx6XzMxVHJUTm9hSW9Obk0zbVVwWkVweC0tWmphZzN6N0o4MXB4aWlzcXFMTUZ1dXdXLWlYNEhPakJ2cGlnRG5SWi1QNXRDQUtUVk9CekcxNlBSOG5aYk1ZaWFtRzVJdG0xQjBDMjNQVGFiZFV5QWVxdFpneDhoR0g2RkpSMm44YXdKWUF0dzBtLUpkTEl1aXNBVkdEOWxOczViODgxVkZMSHFDUGg3OHJSUjlRY1pvUl9CUjBMRm5Yc1Y?oc=5",
-     "date": "2026-11-01",
-     "source": "ETLegalWorld.com",
-     "label": "AIF",
-     "snippet": "AIF Regulation: Sebi",
-     "lead": "We encourage you to review our Terms of Service , and Privacy Policy . By continuing, you agree to the Terms listed here. In case you want to opt out, please click \"Do Not Sell or Share My Personal Information\" link in the footer of this page. We won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or shared ...",
-     "image": "https://etimg.etb2bimg.com/thumb/msid-129475301,imgsize-39666,width-1200,height=627,overlay-etlegal,resizemode-75/regulators/sebi-exploring-framework-to-speed-up-regulatory-approval-for-aifs-pandey.jpg",
-     "why": [
-      "AIF news",
-      "Regulator: SEBI or RBI",
-      "Rule or framework change"
-     ],
-     "tags": [
-      "AIF"
-     ]
-    },
     {
      "desk": "Advisory",
      "score": 10,
@@ -418,20 +394,41 @@
      "desk": "Advisory",
      "score": 9,
      "priority": 75,
-     "title": "SEBI proposes scrapping LTCG tax on foreign investors, seeks relief for mutual fund investors",
-     "url": "https://www.thehindubusinessline.com/markets/sebi-proposes-scrapping-ltcg-tax-on-foreign-investors-seeks-relief-for-mutual-fund-investors/article71655619.ece",
-     "date": "2026-11-02",
-     "source": "BusinessLine",
+     "title": "SEBI’s Mutual Fund Lite Framework (2025)",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRkNXZTRUcy1XNUhDRlRlSnM5YUhhTXNxZGlqSUxrczBaSTVJbjJid09lX296aFR4WW9aSTJydUtzRVJRMlo2U3ROY2cxS1BabnBlcWVzdkpvbk1CbHpZbV8wQ2dtd3BPaXRZVjFrS2lTNjA3bVpPbWJ6MHBQbmFlcHlvS1lOZFdZRG53VWhHbFBUUQ?oc=5",
+     "date": "2026-11-03",
+     "source": "IMPRI Impact and Policy Research Institute",
      "label": "Mutual Funds",
-     "snippet": "SEBI has proposed scrapping LTCG tax on foreign investors and offering tax relief on mutual fund switches to attract investments and support India's equity markets.",
-     "lead": "' blCenterIconDiv.innerHTML = spanSvg blLoaderDiv.appendChild(blCenterLoadDiv) blLoaderDiv.appendChild(blCenterIconDiv) divInner.appendChild(blLoaderDiv) div.appendChild(divInner) var bodyIntravel = setInterval(() => { if(window.document.body) { clearInterval(bodyIntravel) window.document.body.insertBefore(div, window.document.body.firstChild) } }, 100) function addStyle(styles) { var css = document.createElement('style'); css.type = ...",
-     "image": "https://bl-i.thgim.com/public/incoming/92azc3/article71641247.ece/alternates/LANDSCAPE_1200/SEBIs-SME-IPO-GIDGMDP0N.4.jpg.jpg",
+     "snippet": "A fund that tracks an index does not make the same investment decisions as a fund whose manager actively selects securities, yet both have historically faced the same regulatory requirements. The Securities and Exchange Board of India (SEBI) introduced the Mutual Fund Lite (MF Lite) framework to address this, creating a separate, lighter-",
+     "lead": "A fund that tracks an index does not make the same investment decisions as a fund whose manager actively selects securities, yet both have historically faced the same regulatory requirements. The Securities and Exchange Board of India (SEBI) introduced the Mutual Fund Lite (MF Lite) framework to address this, creating a separate, lighter-touch regulatory route for passively managed schemes. SEBI’s Board Memorandum on the proposal ...",
+     "image": "https://i0.wp.com/www.impriindia.com/wp-content/uploads/2026/11/image.jpg",
      "why": [
       "Regulator: SEBI or RBI",
-      "Also covered by 2 other outlet(s)"
+      "Rule or framework change"
      ],
      "tags": [
       "Mutual Funds"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 75,
+     "title": "RBI raises Floating Rate Bond rate to 7.26%: How much more will you earn",
+     "url": "https://www.business-standard.com/finance/personal-finance/rbi-raises-floating-rate-bond-rate-to-7-26-how-much-more-will-you-earn-126110300818_1.html",
+     "date": "2026-11-03",
+     "source": "Business Standard",
+     "label": "Debt & Bonds",
+     "snippet": "The revised rate will apply until April 29, 2027, boosting six-month interest payouts for existing bondholders",
+     "lead": "Don't miss the most important news and views of the day. Get them on our Telegram channel",
+     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/13/thumb/fitandfill/1200X628/1791878626-5236.JPG",
+     "why": [
+      "Regulator: SEBI or RBI",
+      "New product or fund",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "Debt & Bonds"
      ]
     }
    ]
@@ -439,31 +436,32 @@
  },
  "items": [
   {
-   "desk": "Policy",
+   "desk": "Startups",
    "score": 13,
    "priority": 100,
-   "title": "Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13750&Mode=0",
-   "date": "2026-11-03",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "RESERVE BANK OF INDIA FOREIGN EXCHANGE DEPARTMENT CENTRAL OFFICE Mumbai 400 001 Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026 In exercise of the powers conferred by Section 7, Section 8, sub-section (6) of Section 10 and sub-section (2) of Section 47 of the Foreign Exchange Management Act, 1999 (42 of 1999), the Reserve Bank of India makes the following amendments to the ...",
-   "image": null,
+   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+   "date": "2026-11-04",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+   "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Fal , a San Francisco-based startup that hosts and runs AI video, image, and audio models, has raised $1.3 billion in its latest funding round led by Bessemer Venture Partners, with participation from Nvidia, Sound Ventures, and T. Rowe Price. The deal values Fal at $16 billion, double its $8 billion valuation in April, Bloomberg ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1268605503.jpg?resize=1200,420",
    "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Regulator: RBI"
+    "Funding",
+    "Very large figure in headline (about $16,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Banking & Rates"
+    "Funding",
+    "AI & Deeptech"
    ],
    "rank": 1,
    "must_read": true
   },
   {
    "desk": "Startups",
-   "score": 14,
+   "score": 13,
    "priority": 100,
    "title": "India's next space unicorn may still be in college",
    "url": "https://yourstory.com/2026/10/indias-next-space-unicorn-may-still-be-in-college",
@@ -487,20 +485,20 @@
   },
   {
    "desk": "Immigration",
-   "score": 12,
+   "score": 11,
    "priority": 100,
-   "title": "UK’s 10-year settlement overhaul could delay over 500,000 migrants, but African care workers who joined the route before May 2025 can keep a five-year path if they earn £25,000 and meet visa conditions",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbVVoNjFvT2YtbUxydTNobnJ5NG1WWTJYckk0X1ZDWGtpdDhIRUlWT0NSVVRLelFVdjRQR3R1TnV3U1hIbTZORkNOdkJGX1BqcDZ6Vk5VNWg4akFVLUZkWDh6WFZIcHI0a2NKNzFhT3FzOXVGZ2VyNS13alpmSncxNF9tRTBoRV9LQ043WGhTMXJOZU1NZlpNWHo1TkoybTBjWXgzSDBlWjNIYUFWSVByVmpqSUVXUDFQbHExU2J3dUFHMERjaWpaMGhKWHdLNlRpYkFoTQ?oc=5",
+   "title": "UK Tightens Immigration Rules as Most Migrants Face 10-Year Settlement Wait",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSjlpeUhBT1Z3TEhiWXRyemxMVF9oNFR4OExZdEdRQkZZdlZsNWxuN2FtQ0c0aTlJOEo4cG9jV0FBcGk2SUtsUFlTVy04UDZGcnB4MUMxX3NsbGFfNmZoY3NDOG5wY0k0QXFIMGNHS3J0VVVZOXhlYjJ4ZnVNUm5RUFBDZ0pra0F2d1pZS0g0VEhIM1VUSDNUTlBiaENLWTZ1WVZv?oc=5",
    "date": "2026-11-03",
-   "source": "Business Insider Africa",
+   "source": "https://www.nigeriahousingmarket.com/",
    "label": "United Kingdom",
-   "snippet": "The UK’s new 10-year settlement framework could delay more than 500,000 migrants",
-   "lead": "The Home Office has not published a breakdown showing how many of the 500,000 are African. Settlement, also known as indefinite leave to remain , gives a person the right to live in the UK without a time limit. Under the announced framework, people earning more than £50,271 a year and some public-service workers, including doctors, nurses and teachers, could qualify after five years. The highest earners and some talent-visa holders ...",
-   "image": "https://ocdn.eu/pulscms-transforms/1/OZ8ktkpTURBXy9kYWY3MDk2MjY2Y2U4OGUwYTBjNzE1ZTJlMjRiODA1Zi5wbmeSlQMABM0F4M0DTpMFzQSwzQJ2",
+   "snippet": "The UK has announced new settlement rules that raise the standard permanent residency wait to 10 years for most migrants, with exceptions for eligible workers.",
+   "lead": "The UK government has announced new settlement rules that will make permanent residency depend on migrants’ income The United Kingdom government has announced a new immigration settlement policy that will increase the standard waiting period for permanent residency from five to 10 years for most migrants, making long-term residence more dependent on income, employment, conduct and compliance with immigration rules. The policy, known as ...",
+   "image": "http://static1.squarespace.com/static/665f92f354532c3140db9a8a/t/6ae9be8c23044b6ff439fb2d/1793703564182/UK-FLAG-FEH.webp?format=1500w",
    "why": [
     "Affects permanent residence",
     "Announces a change",
-    "Major story (16 headlines that day)"
+    "Major story (19 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
@@ -513,22 +511,22 @@
    "desk": "Advisory",
    "score": 12,
    "priority": 100,
-   "title": "SEBI Cuts Cooling-Off Period For Illiquid Private Listed InvIT OFS To Eight Weeks, New Rules Effective",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTUR4ekxwcExfdy1NOWNGQ3VzbFpRclBXY2VFcjQ2UGhuSlpOeFVxYVRzdWVVbjB0YmxoMW9aV1ZidTdkV3JiajQwOS1ER2Q2N3lKbTh0UmJnUjVnNmw1STVGaU5IemwzTXBHZnZjVWl0elJ1U0NxUzgzQXozZFZ1NGVnNnBmQmRXSzFIQXdXSmtQSnR3WDQxVWNjajNzS244LTBQV1hVWENUQk9EbUVpNjU2bmx6UmFTYzBiQkE3TXd3Y2U4cERHY1NPLTVqbWtrUzFPbU9zbF9jOGFXYTdlNWx4NV9NYlhhTnfSAe8BQVVfeXFMTzVmaTVrVS1aTXh6WU5teFpGQnFrVGlhTmVUV2QxR1RDdjVmMEFtcTNYUS02MFdHQ0tEcG85eVpOY0kzcHNhUEd3SE1kWnFVYmJpWXZXbnNZMmU2bkFIWUU4bmlFenZlSDVseXJHdWFWUGJiZDRVdkFUblBqMmZlVW56Y080Y3BKOTNWTGh6SDN6ckE0bEQzeHNUX0pQUWxyUHFjUkwtVlpwV19tdVFEVDZ5TjJfdm1UTTFtOXBlQWFWSHRyTXprTU5Da2ZoTWx4RnFYZDFNMjhNR25hVjdYbTZGbDA1algyVDBqODgzREU?oc=5",
-   "date": "2026-11-02",
-   "source": "Free Press Journal",
-   "label": "REITs & InvITs",
-   "snippet": "SEBI has reduced the cooling-off period for offer-for-sale transactions involving illiquid private listed InvIT units to eight weeks, effective November 2. The regulator said the change aims to ease business operations. Such offers will last one trading day, with retail investor provisions excluded. Stock exchanges must update their syste",
-   "lead": "New Delhi [India], November 2: The Securities and Exchange Board of India (SEBI) has reduced the cooling-off period for offer for sale (OFS) of units of illiquid private listed Infrastructure Investment Trusts (InvITs) to eight weeks, with the revised provision coming into immediate effect. The move is aimed at facilitating ease of doing business and follows feedback received from market participants, according to a circular issued by ...",
-   "image": "https://media.assettype.com/freepressjournal/2025-02-11/lfbn0fz3/SEBI;ll.jpeg",
+   "title": "RBI launches the November 2026 round of Urban Consumer Confidence Survey",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63908",
+   "date": "2026-11-03",
+   "source": "RBI",
+   "label": "Regulatory",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "The Reserve Bank of India has been regularly conducting Urban Consumer Confidence Survey (UCCS). The November 2026 round of the survey is being launched. The survey seeks qualitative responses from households, regarding their sentiments on general economic situation, employment scenario, price level, households’ income and spending. The survey is conducted regularly in 19 cities, viz., Ahmedabad, Bengaluru, Bhopal, Bhubaneswar, ...",
+   "image": null,
    "why": [
-    "REIT / InvIT news",
     "Regulator: SEBI or RBI",
-    "Rule or framework change",
-    "Also covered by 2 other outlet(s)"
+    "New product or fund",
+    "Official notice",
+    "Also covered by 1 other outlet(s)"
    ],
    "tags": [
-    "REITs & InvITs"
+    "Regulatory"
    ],
    "rank": 4,
    "must_read": true
@@ -557,27 +555,118 @@
    "must_read": true
   },
   {
-   "desk": "Advisory",
+   "desk": "Policy",
    "score": 12,
-   "priority": 100,
-   "title": "RBI quietly effects another rate hike via tighter liquidity to counter crude surge and rupee fall",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRVlrUXRJR2JNQmxJSTNzbGxxcXZZSnFfU1VvMGx5dEo5Q204UnpWMU5PZE1JVlhfa3drak5aWmdMc09sZmdvR2FpTFJJOVNNbmlVcUQzNHBJZnV2SFhjN21GTzNDS2JIb2xkNGJ6bldhNTFWRURTakxOLWJNUkJJSkthcWU2OHRiazNWVV9yZVZSSU55dmVaenA2NEcwYlB6UGV6Ni1KZkJYaHF0UTUtWFUxd3Q4MFNuQm5Cc1o1NmNzRUpPaUxXeUlEbGt2SFFXT2hERktETUEzRXl0dG9RMHRaRm5ORjhY0gHuAUFVX3lxTFBjSlBtMk9DVW82cVpmRVk3UExiNmU5aExnbzM5ZHJmTWlUV05veWJzZUxyclFZVjMtM1l1dGl5SnMtR2FvVGZtNl9scm5TeWh4bnlnMnN5WU5vaTh3c2ozX3YzRUNNeHlpVnZGSzdUR1lTTzZfNVRQUm1tVjJjZmZSdFVzSXpLcHVxLXZSUEtGa1VZRTZ0cTZ3bmNPRVRLdGphNzRGVEpESDVWUEM5LU5sQUZMOWRGd251Tm8zSGcwaTNSN3J6OXJ2R01OMXVJMndaeG9LalVTM1pxUzd3MUVvaF9qR1U4cHlDUzIzclE?oc=5",
-   "date": "2026-10-27",
-   "source": "Moneycontrol.com",
+   "priority": 92,
+   "title": "Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13750&Mode=0",
+   "date": "2026-11-03",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "RESERVE BANK OF INDIA FOREIGN EXCHANGE DEPARTMENT CENTRAL OFFICE Mumbai 400 001 Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026 In exercise of the powers conferred by Section 7, Section 8, sub-section (6) of Section 10 and sub-section (2) of Section 47 of the Foreign Exchange Management Act, 1999 (42 of 1999), the Reserve Bank of India makes the following amendments to the ...",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 92,
+   "title": "RBI raises repo rate by 25 bps to 5.50 amid challenging global environment",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYXQ1b1g1eHRVVlp6TnptWXBrRXIwb2ZlMC1CZlNJTnltVjNGV2s3NG82VTkwR1lXWmVuTUhmSWJYUWtMOEJBdlE4RzJKbk4wbUlZTjEzTnZ4ZnVzUjNQcHVBeHg0aXFYbUdsSDRzQ0VlOWVYRTJocU5fb2MxN1JSWHhib1BydUVxZzJuRGkxLVk4QjVORTR1dTdVcjVOS0R1Q3c2b0F3?oc=5",
+   "date": "2026-11-03",
+   "source": "MorungExpress",
    "label": "Regulatory",
-   "snippet": "The reason for the tightness is an obvious fall in liquidity due to a mix of factors: dollar sales by RBI along with GST payment outflows around Oct 20 plus cash withdrawals which are typical during the festive season.",
-   "lead": "Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account ->-> Go PRO Now PRO Start --> Start --> PRO Markets Start --> HOME INDIAN INDICES GLOBAL MARKETS STOCK ACTION All Stats Top Gainers Top Losers Only Buyers Only Sellers 52 Week High 52 Week Low Price Shockers ...",
-   "image": "https://images.moneycontrol.com/static-mcnews/2026/01/20260123153224_RBIRTR1.png",
+   "snippet": "New Delhi, October 7 (IANS) The Reserve Bank of India’s Monetary Policy Committee (MPC) meeting -- led by Governor Sanjay Malhotra -- on Wednesday announced to raise key policy rate by 25 basis-points (bps), taking it to 5.50 amid a challenging global env",
+   "lead": "New Delhi, October 7 (IANS) The Reserve Bank of India’s Monetary Policy Committee (MPC) meeting -- led by Governor Sanjay Malhotra -- on Wednesday announced to raise key policy rate by 25 basis-points (bps), taking it to 5.50 amid a challenging global environment. SDF rate stands adjusted at 5.25 per cent, and the marginal standing facility range and the bank rate to 5.75 per cent, said the RBI. After the three-day brainstorming, ...",
+   "image": "https://morungexpress.com/uploads/2026/10/91395261_1791353175_202610073969198.jpg",
    "why": [
     "Regulator: SEBI or RBI",
     "Interest-rate decision",
-    "Global macro driver",
-    "Sharp market move"
+    "New product or fund"
    ],
    "tags": [
     "Regulatory"
    ],
-   "rank": 6,
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 92,
+   "title": "SEBI Allows REITs and InvITs to Issue Depository Receipts Through GIFT City",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVm9EQ1cxQW9famdKSzI2WHpFSXN4b2ZaNkdnRC14MEJFakNBYmRHSm5lMVdHd3BMZnA0Z3pWcWQwUWFMZ3A3LUpveDdZb09EMHJjWXJwS2ljbmpjSC1Gai1lRmxlRTR1ZnBad1psSjFJMUowN0RmVDFnWlZROTdKUDNQLUxtVzV0N0VMWlhhVUtmWlpfRkFRNTRraktfSUpURnJhbVVucGtSVldZNy12MVp3?oc=5",
+   "date": "2026-11-03",
+   "source": "The Realty Today",
+   "label": "REITs & InvITs",
+   "snippet": "SEBI introduces a depository receipt framework for REITs and InvITs through GIFT City exchanges, creating an additional investment route for overseas investors and expanding access to India's real estate and infrastructure markets.",
+   "lead": "",
+   "image": "https://evoluxar-production-s3.s3.ap-south-1.amazonaws.com/trt/media/sebi_enables_reits_and_invits_depository_receipts_via_gift_city-1793690715407-106309.png",
+   "why": [
+    "REIT / InvIT news",
+    "Regulator: SEBI or RBI",
+    "Also covered by 3 other outlet(s)"
+   ],
+   "tags": [
+    "REITs & InvITs"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 92,
+   "title": "SEBI issues rules for depositary receipts on REITs, InvITs units",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONDI4cks0S2RLOUF2UEVTd1kzdUU2cndOUWRwYjVDQWRvMHUwOHZuWFJwS0htQ05FRjNuNGJRd25MN1JqZ1VUZTV5OEpkT1plYVJCWFZzVnRIZnoxTGhsZF9YeDlqN1JkSUxWWXRFQUQzTUJENVlwUjZ2NnNvRXpremhON1Y0UkJPenRSUlhqZHLSAZgBQVVfeXFMT1FmRl96TVd1eWlJMjRYMUdJME9mN2V4Q2JVWW5lbDhacEgxTmRDaWt5X3JRdEJpUUNjU2ZWMkpQQU9aYzRqZ29kZ01CRmJDajhmVzV0Mlh0eWNxVEZ6QmxrSk5tWU5DUExWVFJyOGFFbG1PdUhoSElBRHRsaTltNk5WeS1NdHdHZm5tU3RYeXE5ZjBYaVJ6dS0?oc=5",
+   "date": "2026-11-03",
+   "source": "VCCircle",
+   "label": "REITs & InvITs",
+   "snippet": "India&#39;s markets regulator on Monday issued a depositary receipts framework to let foreign investors buy into real estate investment trusts (REITs)...",
+   "lead": "",
+   "image": "https://assets.vccircle.com/uploads/2025/05/resized-TZLYNXMPELKXRTROPTPINDIASEBIINVESTMENTS.jpg",
+   "why": [
+    "REIT / InvIT news",
+    "Regulator: SEBI or RBI",
+    "Also covered by 3 other outlet(s)"
+   ],
+   "tags": [
+    "REITs & InvITs"
+   ],
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 92,
+   "title": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2",
+   "url": "https://yourstory.com/2026/10/jio-platforms-first-post-listing-results-user-growth-higher-arpu-drive-137-pc-profit-rise-in-q2",
+   "date": "2026-10-31",
+   "source": "YourStory",
+   "label": "India · Other",
+   "snippet": "The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review.",
+   "lead": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2 The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review. Press Trust of India 11249 Stories Saturday October 31, 2026 , 5 min Read The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review, ...",
+   "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/WhatsAppImage2026-10-28at11-1793168547436.jpeg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $4,261M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 10,
    "must_read": false
   },
   {
@@ -600,151 +689,13 @@
    "tags": [
     "Mutual Funds"
    ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 86,
-   "title": "Exclusive: Nuuk To Raise ₹100 Cr From Wipro Consumer Care Ventures, RPSG At ₹500 Cr Valuation",
-   "url": "https://inc42.com/buzz/nuuk-to-raise-%e2%82%b9100-cr-from-wipro-consumer-care-ventures-rpsg-at-%e2%82%b9500-cr-valuation/",
-   "date": "2026-11-03",
-   "source": "Inc42",
-   "label": "India · Commerce & D2C",
-   "snippet": "Nuuk is raising around ₹100 Cr ($10.5 Mn) in a funding round led by Wipro Consumer Care Ventures and RPSG Capital Ventures at a valuation of approximately ₹500 Cr.",
-   "lead": "Nuuk is raising around ₹100 Cr ($10.5 Mn) in a funding round led by Wipro Consumer Care Ventures and RPSG Capital Ventures at a valuation of approximately ₹500 Cr. The proposed investment follows funding rounds in appliance startups such as Beyond Appliances and Nester, with investors backing product development, manufacturing, and distribution expansion. Nuuk closed its $6.6 Mn Series A round in August 2025 and sells home and kitchen ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/soc-47.jpg",
-   "why": [
-    "Funding",
-    "Sizeable deal (about $53M)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "Commerce & D2C"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 86,
-   "title": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2",
-   "url": "https://yourstory.com/2026/10/jio-platforms-first-post-listing-results-user-growth-higher-arpu-drive-137-pc-profit-rise-in-q2",
-   "date": "2026-10-31",
-   "source": "YourStory",
-   "label": "India · Other",
-   "snippet": "The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review.",
-   "lead": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2 The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review. Press Trust of India 11249 Stories Saturday October 31, 2026 , 5 min Read The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review, ...",
-   "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/WhatsAppImage2026-10-28at11-1793168547436.jpeg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $4,261M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 11,
-   "priority": 85,
-   "title": "TRAI releases “The Telecommunication Interconnection (Third Amendment) Regulations, 2026”",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2331941",
-   "date": "2026-11-03",
-   "source": "PIB",
-   "label": "Technology & Telecom",
-   "snippet": "The Telecom Regulatory Authority of India (TRAI) today released “The Telecommunication Interconnecti",
-   "lead": "Ministry of Communications TRAI releases “The Telecommunication Interconnection (Third Amendment) Regulations, 2026” Posted On: 03 NOV 2026 12:37PM by PIB Delhi The Telecom Regulatory Authority of India (TRAI) today released “The Telecommunication Interconnection (Third Amendment) Regulations, 2026” . These regulations will take effect from 1 st January, 2027. Interconnection in telecommunications refers to the technical, operational, ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change"
-   ],
-   "tags": [
-    "Technology & Telecom"
-   ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 83,
-   "title": "Australia Student Visa Rules Could Change: Indians May Have To Deposit Funds In Local Banks",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTHB3dzBPdXlSWjU1ZHl3VmF0YXFqMVRKMTRtUkFpbnhkbEtMLTF4U2lfYUxfN3Uza3psa1Q3a3p1NnVpVlVaMkNKUWo2SHpIVWJtc2ZFcVgtRWpZbDBoLTNGR3lpRElPS1ltZ01rSHFHNWg5MTFSM1V5ejhTeXh3Z1hYbVpHOVZVWUhtcmVnaTNvVnotVU9TMnBHY19CSGM1NHJqWFFmcnN4THdPckRJUElTVVpKYzhOTVktNkN0UFcxQ1pUQ3c2ZzVxN1J5NElHQmfSAdoBQVVfeXFMTzFpWHVZMW03dzRxak54cms4TVlNMmFHSEluYXZYODVQVk54aktWby1ZTkhGekxoMEtLWFpBSHNjdlFtTkFVMGVDZGlfcDNkd1QtOFozQUdQeGJqTGZCNDhpeENWUXc5VV9iejN2SU9kbEdYc214UHlkVnNwTllGMkEzakh3cVF2ZXhJZDNXWFlQcUxSdXFoNWo1a2FOZmFEM1RyTDNKQ2ZiTmRrSGhWWjFjSzJZRXJHcUl3cFp1WGdkMUotVS1CQWprMTBnOVhScE9tQVp0WUx4bXc?oc=5",
-   "date": "2026-11-02",
-   "source": "NDTV Profit",
-   "label": "Australia",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Announces a change",
-    "Major story (11 headlines that day)",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Student / Graduate",
-    "Australia"
-   ],
    "rank": 11,
    "must_read": false
   },
   {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "Sebi allows REITs, InvITs to issue depository receipts",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVXZpVFpBbDZLTFZDOURYaFR3OU9YaEhYcmo3NTl6NUY2dzN3UzBZNDR6LTlPdVA3U0Q5dk15U0lMMHROS1gyZ2sxOVVqN2E1QUQtWU5hcHdBV1V5c3hWWk1uVnVwc0hJNlN3RTVwc2tTOTBUUWVUdGJZeGl6OTdoWEl1QWwxb0IwVGZBSEZDYjVLSFYyNnFudkNtM0VCVGE4bjBsdm9majhSUUt2RGZPU2l6ejhkanFYeHdHM3g5MGpRd9IBxgFBVV95cUxOeXpXdm9ZdmdhVkxOeGZJTm81cWF4ak0xWG1EaXU1M2ZZZGoyQkdIQUZ0TmoyWTAwN2NseThmR0FvTl9Vb0VoYWdwQ3pOeEc0TTdfekl2OU0weUwzSDMtbndPNm9lRFlHcnptcUhKdklfTTZ1Q25ZRnp1N1lfbUVWZlRFTFFnUXRucHg1YlZOazZxZEczNWhFcjNMYkU5WXpZSWZFNm4xUHRmNkRpTlp0Vi1GMGNmbm1mM3JqN3UzMW9HXy0yYmc?oc=5",
-   "date": "2026-11-02",
-   "source": "ET Government",
-   "label": "REITs & InvITs",
-   "snippet": "Sebi has permitted the issuance of Depository Receipts against the units of Real Estate Investment Trusts and Infrastructure Investment Trusts. This move aims to draw more foreign investment into these financial instruments, enhancing capital inflow.",
-   "lead": "",
-   "image": "https://etimg.etb2bimg.com/thumb/msid-135467096,imgsize-56004,width-1200,height=627,overlay-etgovernment,resizemode-75/news/economy/sebi-allows-reits-invits-to-issue-depository-receipts.jpg",
-   "why": [
-    "REIT / InvIT news",
-    "Regulator: SEBI or RBI",
-    "Also covered by 2 other outlet(s)"
-   ],
-   "tags": [
-    "REITs & InvITs"
-   ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "SEBI backs removal of long-term capital gains tax for foreign investors: Report",
-   "url": "https://www.cnbctv18.com/market/sebi-backs-removal-of-long-term-capital-gains-tax-for-foreign-investors-report-20024807.htm",
-   "date": "2026-11-02",
-   "source": "CNBC-TV18",
-   "label": "Regulatory",
-   "snippet": "SEBI has recommended removing the long-term capital gains tax for foreign investors and offering tax relief for domestic mutual funds to boost equity markets.",
-   "lead": "Market SEBI backs removal of long-term capital gains tax for foreign investors: Report By : Reuters November 2, 2026 | 13:03 IST Published On Nov 2, 2026 | 13:01 IST Last Updated On Nov 2, 2026 | 13:03 IST Twitter Whatsapp Facebook LinkedIn Copy Link Summary SEBI has recommended removing the long-term capital gains tax for foreign investors and offering tax relief for domestic mutual funds to boost equity markets. + Follow on Google ...",
-   "image": "https://images.cnbctv18.com/uploads/2026/08/sebi-report-2026-08-f0daba84bb88246c23f6f5dd3e8d4a86.jpg?im=FitAndFill,width=1200,height=675",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Also covered by 3 other outlet(s)"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
    "desk": "Immigration",
    "score": 10,
-   "priority": 83,
+   "priority": 91,
    "title": "New penalties for fraudulent and unauthorized immigration and citizenship representatives",
    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/10/new-penalties-for-fraudulent-and-unauthorized-immigration-and-citizenship-representatives.html",
    "date": "2026-10-28",
@@ -762,73 +713,122 @@
     "Citizenship",
     "Canada"
    ],
-   "rank": 14,
+   "rank": 12,
    "must_read": false
   },
   {
    "desk": "Startups",
    "score": 11,
-   "priority": 79,
-   "title": "[Update] Ola Electric Allots Rights Equity Shares For ₹1,000 Cr Fundraise",
-   "url": "https://inc42.com/buzz/ola-electrics-%e2%82%b91000-cr-rights-issue-to-open-on-october-22-issue-price-set-at-%e2%82%b927/",
+   "priority": 85,
+   "title": "Exclusive: Nuuk To Raise ₹100 Cr From Wipro Consumer Care Ventures, RPSG At ₹500 Cr Valuation",
+   "url": "https://inc42.com/buzz/nuuk-to-raise-%e2%82%b9100-cr-from-wipro-consumer-care-ventures-rpsg-at-%e2%82%b9500-cr-valuation/",
    "date": "2026-11-03",
    "source": "Inc42",
-   "label": "India · Mobility & EV",
-   "snippet": "Ola Electric’s ₹1,000 Cr rights issue is set to open for subscription onOctober 22 and close on October 30, its board finalised today",
-   "lead": "Ola Electric has allotted 37.03 Cr partly paid-up equity shares under its rights issue, taking the total fundraise to about ₹999.7 Cr once fully paid. Shareholders have paid ₹16.2 per share on application, bringing in ₹599.8 Cr, while the remaining ₹10.8 per share will be collected through a subsequent call. The company’s rights issue committee approved the allotment yesterday, following board approvals for the fundraise in September ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/ola-electric-ebike-social-1-1.jpg",
+   "label": "India · Commerce & D2C",
+   "snippet": "Nuuk is raising around ₹100 Cr ($10.5 Mn) in a funding round led by Wipro Consumer Care Ventures and RPSG Capital Ventures at a valuation of approximately ₹500 Cr.",
+   "lead": "Nuuk is raising around ₹100 Cr ($10.5 Mn) in a funding round led by Wipro Consumer Care Ventures and RPSG Capital Ventures at a valuation of approximately ₹500 Cr. The proposed investment follows funding rounds in appliance startups such as Beyond Appliances and Nester, with investors backing product development, manufacturing, and distribution expansion. Nuuk closed its $6.6 Mn Series A round in August 2025 and sells home and kitchen ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/soc-47.jpg",
    "why": [
     "Funding",
-    "Large deal (about $105M)"
+    "Sizeable deal (about $53M)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
     "Funding",
-    "Mobility & EV"
+    "Commerce & D2C"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "Cognizant In Talks To Invest In Sarvam At $3.5 Bn To $4 Bn Valuation: Report",
+   "url": "https://inc42.com/buzz/cognizant-in-talks-to-invest-in-sarvam-at-3-5-bn-to-4-bn-valuation-report/",
+   "date": "2026-10-28",
+   "source": "Inc42",
+   "label": "India · AI & Deeptech",
+   "snippet": "Cognizant is reportedly in talks to invest in Sarvam AI at a $3.5-4 Bn valuation, following HCLTech’s $150 Mn investment in the AI unicorn",
+   "lead": "Cognizant is reportedly in talks to invest in Sarvam AI as part of a proposed $300 Mn fundraise at a $3.5-4 Bn valuation The investment could make Cognizant the second IT services major on Sarvam’s cap table after HCLTech, as IT companies seek to strengthen their AI capabilities Sarvam raised $234 Mn in the first close of its $300 Mn Series B in June at a $1.5 Bn valuation, with HCLTech investing $150 Mn",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Sarvam-Open-Source-Story-social.jpg",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $4,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 82,
+   "title": "Australia Student Visa Rules Could Change: Indians May Have To Deposit Funds In Local Banks",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTHB3dzBPdXlSWjU1ZHl3VmF0YXFqMVRKMTRtUkFpbnhkbEtMLTF4U2lfYUxfN3Uza3psa1Q3a3p1NnVpVlVaMkNKUWo2SHpIVWJtc2ZFcVgtRWpZbDBoLTNGR3lpRElPS1ltZ01rSHFHNWg5MTFSM1V5ejhTeXh3Z1hYbVpHOVZVWUhtcmVnaTNvVnotVU9TMnBHY19CSGM1NHJqWFFmcnN4THdPckRJUElTVVpKYzhOTVktNkN0UFcxQ1pUQ3c2ZzVxN1J5NElHQmfSAdoBQVVfeXFMTzFpWHVZMW03dzRxak54cms4TVlNMmFHSEluYXZYODVQVk54aktWby1ZTkhGekxoMEtLWFpBSHNjdlFtTkFVMGVDZGlfcDNkd1QtOFozQUdQeGJqTGZCNDhpeENWUXc5VV9iejN2SU9kbEdYc214UHlkVnNwTllGMkEzakh3cVF2ZXhJZDNXWFlQcUxSdXFoNWo1a2FOZmFEM1RyTDNKQ2ZiTmRrSGhWWjFjSzJZRXJHcUl3cFp1WGdkMUotVS1CQWprMTBnOVhScE9tQVp0WUx4bXc?oc=5",
+   "date": "2026-11-02",
+   "source": "NDTV Profit",
+   "label": "Australia",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Announces a change",
+    "Major story (11 headlines that day)",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Student / Graduate",
+    "Australia"
    ],
    "rank": 15,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 11,
-   "priority": 79,
-   "title": "GIVA Raises ₹975 Cr Led By Multiples PE, Eyes 160 New Stores In FY27",
-   "url": "https://inc42.com/buzz/giva-raises-%e2%82%b9975-cr-led-by-multiples-pe-eyes-160-new-stores-in-fy27/",
-   "date": "2026-11-03",
-   "source": "Inc42",
-   "label": "India · Commerce & D2C",
-   "snippet": "GIVA has raised ₹975 Cr in a funding round led by Multiples PE as it plans to add 160 stores in FY27 and expand manufacturing",
-   "lead": "GIVA has raised ₹975 Cr in a round led by Multiples Alternate Asset Management, with participation from existing investors Epiq Capital and Edelweiss Discovery Fund The jewellery brand plans to add 160 stores in FY27 and expand manufacturing and inventory, targeting an offline revenue share of 75-80% within three years GIVA reported ₹865 Cr in FY26 revenue, compared with ₹505 Cr in FY25, and narrowed its negative EBITDA margin to ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Untitled-Design-40.png",
+   "score": 10,
+   "priority": 77,
+   "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+   "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+   "date": "2026-11-04",
+   "source": "TechCrunch Venture",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+   "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom Jagmeet Singh 1:43 PM PST · November 3, 2026 Ballistic Ventures, the cybersecurity-focused venture capital firm co-founded by former Kleiner Perkins partner Ted Schlein (pictured above, second from the right), is seeking to raise $490 ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/04/Ballistic-Ventures-GP-team.jpg?resize=1200,801",
    "why": [
     "Funding",
-    "Large deal (about $103M)"
+    "Large deal (about $490M)"
    ],
    "tags": [
     "Funding",
-    "Commerce & D2C"
+    "AI & Deeptech"
    ],
    "rank": 16,
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 79,
-   "title": "Jewellery brand GIVA raises $100M from Multiples PE",
-   "url": "https://yourstory.com/2026/11/jewellery-brand-giva-raises-100-million-from-multiples-pe",
+   "desk": "Policy",
+   "score": 10,
+   "priority": 77,
+   "title": "TRAI releases “The Telecommunication Interconnection (Third Amendment) Regulations, 2026”",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2331941",
    "date": "2026-11-03",
-   "source": "YourStory",
-   "label": "India · Other",
-   "snippet": "Founded in 2019, Bengaluru-based GIVA focuses on everyday wear, catering primarily to Indian consumers for both self-consumption and gifting occasions. The fresh capital will be used to strengthen its leadership team, expand manufacturing and deepen its offline presence.",
-   "lead": "Jewellery brand GIVA raises $100M from Multiples PE Founded in 2019, Bengaluru-based GIVA focuses on everyday wear, catering primarily to Indian consumers for both self-consumption and gifting occasions. The fresh capital will be used to strengthen its leadership team, expand manufacturing and deepen its offline presence. Team YS 17497 Stories Tuesday November 03, 2026 , 2 min Read Multiples Alternate Asset Management along with its ...",
-   "image": "https://images.yourstory.com/cs/2/d72b5ef09db411ebb4167b901dac470c/Imagespyc-1621572757142.jpg",
+   "source": "PIB",
+   "label": "Technology & Telecom",
+   "snippet": "The Telecom Regulatory Authority of India (TRAI) today released “The Telecommunication Interconnecti",
+   "lead": "Ministry of Communications TRAI releases “The Telecommunication Interconnection (Third Amendment) Regulations, 2026” Posted On: 03 NOV 2026 12:37PM by PIB Delhi The Telecom Regulatory Authority of India (TRAI) today released “The Telecommunication Interconnection (Third Amendment) Regulations, 2026” . These regulations will take effect from 1 st January, 2027. Interconnection in telecommunications refers to the technical, operational, ...",
+   "image": null,
    "why": [
-    "Funding",
-    "Large deal (about $100M)"
+    "Regulator rulebook change",
+    "Rule change"
    ],
    "tags": [
-    "Funding"
+    "Technology & Telecom"
    ],
    "rank": 17,
    "must_read": false
@@ -901,8 +901,8 @@
   },
   {
    "desk": "Immigration",
-   "score": 8,
-   "priority": 67,
+   "score": 7,
+   "priority": 64,
    "title": "Japan minister: Cap on foreign workers should eventually shrink",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tb2NSRE9RdWk5YzRHZFJmdlZ1aDdwcXBoeFIyZ0w4d2NzUnBqQTBZUklQVllpci1HY1VQUmNfM3RnUGRFUEh0SVpfSXB5VDBiTmFmNUZR?oc=5",
    "date": "2026-11-03",
@@ -923,6 +923,29 @@
    "must_read": false
   },
   {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 64,
+   "title": "Could Austria finally change its rules on citizenship for children born in the country?",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUlkRHhWc1Jzdk9UVkRPLXllZFZLOUtFZGpkRzFNdDdvUEZuVEdGVHc0anlxd0l5WVpUT25lZ0hEaldjZzgtMVlhNXIyWnp0OHhyYjdwb1p5d204VjloeHh4NEgtZGZWX0IzcHRhS1hncTBxa0djSVdzX3dkNFNzSE92UnVQelF1NU80MHFiMVk0ZkU3LTB0ZjZ5SF9XYldyMV9ud0I3RkhwTFFWXy00Q01nMHNVdW0tT0NR?oc=5",
+   "date": "2026-10-30",
+   "source": "The Local Austria",
+   "label": "Austria",
+   "snippet": "Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change?",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change? The Austrian debate over citizenship for children ...",
+   "image": null,
+   "why": [
+    "Affects citizenship",
+    "Announces a change"
+   ],
+   "tags": [
+    "Citizenship",
+    "Austria"
+   ],
+   "rank": 22,
+   "must_read": false
+  },
+  {
    "desk": "Policy",
    "score": 8,
    "priority": 62,
@@ -940,28 +963,6 @@
    ],
    "tags": [
     "Labour & Social"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 58,
-   "title": "How will Denmark's new collective agreement-based work permit work?",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcGMwUklVWWl2N3hSVEc4bWhGMjNhemFOSkF4Vm03Z09na0plRHVYMU9rNlVtUl93Z3VjR05hXzg5X1RRMFNmU01PNkhvWi12VTNGT0pscXQ5QlFnVGowWXJrMWRwT0lLaDlpekdVODFqSEFFVC0yeVJLTkJMQzdmWEE3cENnYXlVTEZUZEtJc0xDYWtxSExnb2hhYUZ5TXM?oc=5",
-   "date": "2026-11-03",
-   "source": "The Local Denmark",
-   "label": "Denmark",
-   "snippet": "Denmark is set to introduce a new collective agreement-based work permit scheme from the beginning of next year. Who is eligible and how will it work?",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Denmark is set to introduce a new collective agreement-based work permit scheme from the beginning of next year. Who is eligible and how will it work? The scheme – called overenskomstbaserede beløbsordning in Danish – ...",
-   "image": null,
-   "why": [
-    "Affects work visas"
-   ],
-   "tags": [
-    "Work visa",
-    "Denmark"
    ],
    "rank": 23,
    "must_read": false
