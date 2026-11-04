@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-04",
- "built": "2026-11-04 12:28 IST",
+ "built": "2026-11-04 23:49 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,44 +12,44 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23816.0,
-   "change_pct": 0.02,
-   "asof": "04 Nov 12:28 IST"
+   "value": 23961.0,
+   "change_pct": 0.63,
+   "asof": "04 Nov 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 76725.0,
-   "change_pct": -0.25,
-   "asof": "04 Nov 12:13 IST"
+   "value": 77301.0,
+   "change_pct": 0.5,
+   "asof": "04 Nov 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.78,
-   "change_pct": 0.05,
-   "asof": "04 Nov 12:28 IST"
+   "value": 94.63,
+   "change_pct": -0.1,
+   "asof": "04 Nov 23:02 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 104.29,
-   "change_pct": 0.67,
-   "asof": "04 Nov 12:18 IST"
+   "value": 94.74,
+   "change_pct": -8.55,
+   "asof": "04 Nov 23:39 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4030.0,
-   "change_pct": 2.26,
-   "asof": "04 Nov 12:18 IST"
+   "value": 4079.0,
+   "change_pct": 3.53,
+   "asof": "04 Nov 23:39 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 4.95,
-   "change_pct": 1.19,
-   "asof": "04 Nov 01:29 IST"
+   "value": 4.9,
+   "change_pct": -1.01,
+   "asof": "04 Nov 23:34 IST"
   }
  ],
  "features": {
@@ -79,128 +79,172 @@
  },
  "desks": {
   "Policy": {
-   "total": 297,
-   "new_today": 2,
+   "total": 307,
+   "new_today": 12,
    "items": [
     {
      "desk": "Policy",
-     "score": 7,
-     "priority": 54,
-     "title": "Union Government releases tax devolution of ₹1,09,019 crore to State Governments, as one advance instalment of tax devolution in view of upcoming festive season and to enable States to accelerate capital spending and finance their development/ welfare related expenditure",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330997",
-     "date": "2026-10-31",
-     "source": "PIB",
-     "label": "Tax, Duties & Trade",
-     "snippet": "The Union Government has released additional instalment of tax devolution to State Gover",
-     "lead": "Ministry of Finance Union Government releases tax devolution of ₹1,09,019 crore to State Governments, as one advance instalment of tax devolution in view of upcoming festive season and to enable States to accelerate capital spending and finance their development/ welfare related expenditure Posted On: 31 OCT 2026 8:09PM by PIB Delhi The Union Government has released additional instalment of tax devolution to State Governments amounting ...",
-     "image": null,
-     "why": [
-      "Rule change",
-      "Ministry of Finance",
-      "Large outlay (Rs 10,000 Cr or more)"
-     ],
-     "tags": [
-      "Tax, Duties & Trade"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 7,
-     "priority": 54,
-     "title": "Union Minister for MSME Shri Jitan Ram Manjhi releases ₹1,000 Crore Margin Money Subsidy under PMEGP to support 11,333 new Micro Enterprises across India",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329819",
+     "score": 10,
+     "priority": 62,
+     "title": "Cabinet approves Dearness Allowance to Central Government employees and Dearness Relief to Pensioners",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329484",
      "date": "2026-10-28",
      "source": "PIB",
-     "label": "Infrastructure & Transport",
-     "snippet": "The Ministry of Micro, Small and Medium Enterprises (MSME), Government of India, achieved another si",
-     "lead": "Ministry of Micro,Small & Medium Enterprises Union Minister for MSME Shri Jitan Ram Manjhi releases ₹1,000 Crore Margin Money Subsidy under PMEGP to support 11,333 new Micro Enterprises across India Landmark PMEGP support facilitates Bank Credit of ₹3,260 Crore, generates over 1.02 lakh sustainable employment opportunities and promotes Inclusive Entrepreneurship in rural India Posted On: 28 OCT 2026 9:29PM by PIB Delhi The Ministry of ...",
+     "label": "Labour & Social",
+     "snippet": "The Union Cabinet chaired by the Prime Minister Shri Narendra Modi today has approved to release an",
+     "lead": "Cabinet Cabinet approves Dearness Allowance to Central Government employees and Dearness Relief to Pensioners Posted On: 28 OCT 2026 3:50PM by PIB Delhi The Union Cabinet chaired by the Prime Minister Shri Narendra Modi today has approved to release an additional instalment of Dearness Allowance (DA) to Central Government employees and Dearness Relief (DR) to pensioners w.e.f. 01.07.2026 representing an increase of 3% over the existing ...",
      "image": null,
      "why": [
-      "Subsidy or incentive",
-      "Rule change"
+      "Cabinet decision",
+      "Cabinet"
      ],
      "tags": [
-      "Infrastructure & Transport"
+      "Labour & Social"
      ]
     },
     {
      "desk": "Policy",
-     "score": 6,
-     "priority": 46,
-     "title": "Extension of timeline with respect to compliance of Digital Accessibility Circulars",
-     "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-with-respect-to-compliance-of-digital-accessibility-circulars_105523.html",
-     "date": "2026-10-30",
-     "source": "SEBI",
-     "label": "Markets & Regulation",
-     "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+     "score": 10,
+     "priority": 62,
+     "title": "Cabinet approves Pradhan Mantri Viksit Gram Swaraj Yojana as a Centrally Sponsored Scheme for 2026-27 to 2030-31",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329483",
+     "date": "2026-10-28",
+     "source": "PIB",
+     "label": "Labour & Social",
+     "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved a Centrally Sponso",
+     "lead": "Cabinet Cabinet approves Pradhan Mantri Viksit Gram Swaraj Yojana as a Centrally Sponsored Scheme for 2026-27 to 2030-31 Posted On: 28 OCT 2026 3:48PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved a Centrally Sponsored Scheme (CSS), namely, the Pradhan Mantri Viksit Gram Swaraj Yojana (PM VGSY), a next-generation governance transformation initiative aligned with the national vision of ...",
+     "image": null,
+     "why": [
+      "Cabinet decision",
+      "Cabinet"
+     ],
+     "tags": [
+      "Labour & Social"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 9,
+     "priority": 56,
+     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63917",
+     "date": "2026-11-04",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
      "lead": "",
      "image": null,
      "why": [
-      "Regulator rulebook change",
-      "Regulator: SEBI"
+      "New law or act",
+      "Regulator: RBI"
      ],
      "tags": [
-      "Markets & Regulation"
+      "Banking & Rates"
      ]
     },
     {
      "desk": "Policy",
-     "score": 6,
-     "priority": 46,
-     "title": "Ministry of Textiles to Open PLI Scheme Portal for accepting new applications from 1st November 2026",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329667",
-     "date": "2026-10-28",
+     "score": 9,
+     "priority": 56,
+     "title": "Government of India extends Customs Duty Exemption on Cotton imports up to 31st December 2026",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330823",
+     "date": "2026-10-31",
      "source": "PIB",
-     "label": "Infrastructure & Transport",
-     "snippet": "Ministry of Textiles is set to reopen the application portal for the Production Linked Incentive (PL",
-     "lead": "Ministry of Textiles Ministry of Textiles to Open PLI Scheme Portal for accepting new applications from 1st November 2026 Minimum Turnover criterion for Part 2 of the Scheme reduced to ₹100 Crore Posted On: 28 OCT 2026 6:12PM by PIB Delhi Ministry of Textiles is set to reopen the application portal for the Production Linked Incentive (PLI) Scheme for Textiles for accepting new applications under Round 4 of the Scheme from 1st November ...",
+     "label": "Tax, Duties & Trade",
+     "snippet": "Keeping in view the raw material requirements of domestic textile industry, Government of India has",
+     "lead": "Ministry of Textiles Government of India extends Customs Duty Exemption on Cotton imports up to 31st December 2026 Posted On: 31 OCT 2026 2:38PM by PIB Delhi Keeping in view the raw material requirements of domestic textile industry, Government of India has extended the existing customs duty exemption on cotton imports until 31 st December 2026. The extension has been notified by the Department of Revenue, Ministry of Finance, vide ...",
      "image": null,
      "why": [
-      "Subsidy or incentive"
+      "Duty or tariff change",
+      "Rule change"
      ],
      "tags": [
-      "Infrastructure & Transport"
+      "Tax, Duties & Trade"
      ]
     }
    ]
   },
   "Startups": {
-   "total": 1198,
-   "new_today": 17,
+   "total": 1222,
+   "new_today": 41,
    "items": [
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 73,
-     "title": "Awfis Q2 profit jumps 93% to Rs 31 Cr, revenue rises to Rs 464 Cr",
-     "url": "https://yourstory.com/2026/11/awfis-q2-profit-jumps-93-to-rs-31-cr-revenue-rises-to-rs-464-cr",
+     "score": 12,
+     "priority": 80,
+     "title": "Freshworks Swings To $18 Mn Profit In Q3, Revenue Rises 14% YoY To $245 Mn",
+     "url": "https://inc42.com/buzz/freshworks-swings-to-18-mn-profit-in-q3-revenue-rises-14-yoy-to-245-mn/",
      "date": "2026-11-04",
-     "source": "YourStory",
-     "label": "India · Other",
-     "snippet": "During April-September period of FY27, the company's net profit rose to Rs 54.76 crore from Rs 25.95 crore in the year-ago period.",
-     "lead": "Awfis Q2 profit jumps 93% to Rs 31 Cr, revenue rises to Rs 464 Cr During April-September period of FY27, the company's net profit rose to Rs 54.76 crore from Rs 25.95 crore in the year-ago period. Press Trust of India 11255 Stories Wednesday November 04, 2026 , 2 min Read Realty firm Awfis Space Solutions Ltd has reported a 93% increase in its consolidated profit to Rs 30.8 crore for the quarter ended September on higher income amid ...",
-     "image": "https://images.yourstory.com/cs/2/3fb20ae02dc911e9af58c17e6cc3d915/Imagexq9t-1607597815820.jpg",
+     "source": "Inc42",
+     "label": "India · SaaS & Enterprise",
+     "snippet": "Nasdaq-listed SaaS company Freshworks swung to a consolidated net profit of $18.3 Mn in the third quarter of 2026 (Q3…",
+     "lead": "Freshworks reported a consolidated net profit of $18.3 Mn in Q3 2026 against a $4.7 Mn loss a year earlier, while revenue increased 14% to $245.4 Mn Higher revenue and lower operating expenses helped Freshworks sustain GAAP profitability, while its push towards larger customers gained traction Freshworks crossed $1 Bn in annual recurring revenue after the quarter ended, ahead of its year-end target",
+     "image": null,
      "why": [
       "Financials",
-      "Sizeable deal (about $49M)",
+      "Large deal (about $245M)",
       "Valuation, listing or profitability signal"
      ],
      "tags": [
-      "Financials"
+      "Financials",
+      "SaaS & Enterprise"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 12,
+     "priority": 80,
+     "title": "Fractal Q2: Profit Zooms 139% YoY to ₹79 Cr, Revenue At ₹957 Cr",
+     "url": "https://inc42.com/buzz/fractal-q2-profit-zooms-139-yoy-to-%e2%82%b979-cr-revenue-at-%e2%82%b9957-cr/",
+     "date": "2026-11-04",
+     "source": "Inc42",
+     "label": "India · AI & Deeptech",
+     "snippet": "AI and advanced analytics company Fractal's net profit zoomed 139% YoY to ₹79.2 Cr in Q2 FY27 from ₹33.2 Cr in the year ago quarter.",
+     "lead": "Revenue from operations rose nearly 20% to a record ₹956.5 Cr in the quarter under review as against ₹798.5 Cr in the preceding quarter Fractal attributed the growing profits to rising revenues, improving margins, increased spending by clients and broad-based growth across all its key verticals In line with its top line, the company’s total expenses also rose 15% to ₹858.9 Cr in Q2 FY27 as against ₹746.6 Cr in the quarter ending ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Fractal-FY24-social.jpg",
+     "why": [
+      "Financials",
+      "Large deal (about $101M)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Financials",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 12,
+     "priority": 80,
+     "title": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2",
+     "url": "https://yourstory.com/2026/10/jio-platforms-first-post-listing-results-user-growth-higher-arpu-drive-137-pc-profit-rise-in-q2",
+     "date": "2026-10-31",
+     "source": "YourStory",
+     "label": "India · Other",
+     "snippet": "The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review.",
+     "lead": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2 The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review. Press Trust of India 11249 Stories Saturday October 31, 2026 , 5 min Read The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review, ...",
+     "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/WhatsAppImage2026-10-28at11-1793168547436.jpeg",
+     "why": [
+      "IPO & Listing",
+      "Very large figure in headline (about $4,261M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "IPO & Listing"
      ]
     },
     {
      "desk": "Startups",
      "score": 11,
      "priority": 73,
-     "title": "Meta raises $15 billion in five-part US bond sale",
-     "url": "https://economictimes.indiatimes.com/tech/technology/meta-raises-15-billion-in-five-part-us-bond-sale/articleshow/135522649.cms",
+     "title": "Meta kicks off first euro bond sale in latest test for tech sector",
+     "url": "https://economictimes.indiatimes.com/tech/technology/meta-kicks-off-first-euro-bond-sale-in-latest-test-for-tech-sector/articleshow/135532717.cms",
      "date": "2026-11-04",
      "source": "ET Startups",
      "label": "Global · AI & Deeptech",
-     "snippet": "The tech giant's offering adds to a wave of fundraising as companies raise fresh capital to finance AI data centers, computing capacity and cloud expansion, despite traditionally relying on cash-rich balance sheets to fund growth.",
+     "snippet": "Meta Platforms has initiated a significant bond sale, marking its first offering of euro-denominated bonds aimed at financing its investments in AI and infrastructure development. In addition, the tech giant plans to raise $15 billion through a US dollar bond offering this week. Despite ongoing concerns about growth in the AI sector and r",
      "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-71652,resizemode-75,msid-135522649/tech/technology/meta-raises-15-billion-in-five-part-us-bond-sale.jpg",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-43616,resizemode-75,msid-135532717/tech/technology/meta-kicks-off-first-euro-bond-sale-in-latest-test-for-tech-sector.jpg",
      "why": [
       "Funding",
       "Very large figure in headline (about $15,000M: round or valuation)"
@@ -209,59 +253,38 @@
       "Funding",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 73,
-     "title": "GIVA raises $100M in Multiples-led round; India’s Rs 3 lakh Cr data centre buildout",
-     "url": "https://yourstory.com/2026/11/giva-raises-100m-in-multiples-led-round",
-     "date": "2026-11-04",
-     "source": "YourStory",
-     "label": "India · Other",
-     "snippet": "GIVAsaid the fresh capital will be used to strengthen its leadership team, expand manufacturing and deepen its offline presence.",
-     "lead": "GIVA raises $100M in Multiples-led round; India’s Rs 3 lakh Cr data centre buildout GIVAsaid the fresh capital will be used to strengthen its leadership team, expand manufacturing and deepen its offline presence. Team YS 17499 Stories Wednesday November 04, 2026 , 4 min Read India’s data centre industry is poised for a five-fold expansion, with installed capacity expected to reach 7.5 GW by March 2030, attracting investments of more ...",
-     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Nov4-DC-1793717613518.png",
-     "why": [
-      "Funding",
-      "Large deal (about $100M)"
-     ],
-     "tags": [
-      "Funding"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 73,
-     "title": "Exclusive: Nuuk To Raise ₹100 Cr From Wipro Consumer Care Ventures, RPSG At ₹500 Cr Valuation",
-     "url": "https://inc42.com/buzz/nuuk-to-raise-%e2%82%b9100-cr-from-wipro-consumer-care-ventures-rpsg-at-%e2%82%b9500-cr-valuation/",
-     "date": "2026-11-03",
-     "source": "Inc42",
-     "label": "India · Commerce & D2C",
-     "snippet": "Nuuk is raising around ₹100 Cr ($10.5 Mn) in a funding round led by Wipro Consumer Care Ventures and RPSG Capital Ventures at a valuation of approximately ₹500 Cr.",
-     "lead": "Nuuk is raising around ₹100 Cr ($10.5 Mn) in a funding round led by Wipro Consumer Care Ventures and RPSG Capital Ventures at a valuation of approximately ₹500 Cr. The proposed investment follows funding rounds in appliance startups such as Beyond Appliances and Nester, with investors backing product development, manufacturing, and distribution expansion. Nuuk closed its $6.6 Mn Series A round in August 2025 and sells home and kitchen ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/soc-47.jpg",
-     "why": [
-      "Funding",
-      "Sizeable deal (about $53M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "Commerce & D2C"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 13,
+   "new_today": 28,
    "items": [
     {
      "desk": "Immigration",
      "score": 7,
-     "priority": 64,
+     "priority": 58,
+     "title": "Japan minister: Cap on foreign workers should eventually shrink",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tb2NSRE9RdWk5YzRHZFJmdlZ1aDdwcXBoeFIyZ0w4d2NzUnBqQTBZUklQVllpci1HY1VQUmNfM3RnUGRFUEh0SVpfSXB5VDBiTmFmNUZR?oc=5",
+     "date": "2026-11-03",
+     "source": "朝日新聞",
+     "label": "Japan",
+     "snippet": "Japan should eventually reduce, rather than raise, its cap on foreign workers under a visa program designed to fill labor shortages, Kimi Onoda, minister of policy on foreign nationals, said Nov. 2.",
+     "lead": "Your browser does not support JavaScript, or it is disabled．Please check the site policy for more information. Kimi Onoda, the minister overseeing Japan’s policies on foreign nationals (Asahi Shimbun file photo) Japan should eventually reduce, rather than raise, its cap on foreign workers under a visa program designed to fill labor shortages, Kimi Onoda, minister of policy on foreign nationals, said Nov. 2.",
+     "image": "https://p.potaufeu.asahi.com/566b-p/picture/31521232/f605973c12945de0243e21b155565ee8.jpg",
+     "why": [
+      "Quota or cap change",
+      "Announces a change"
+     ],
+     "tags": [
+      "Quota / Caps",
+      "Japan"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 7,
+     "priority": 58,
      "title": "Could Austria finally change its rules on citizenship for children born in the country?",
      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUlkRHhWc1Jzdk9UVkRPLXllZFZLOUtFZGpkRzFNdDdvUEZuVEdGVHc0anlxd0l5WVpUT25lZ0hEaldjZzgtMVlhNXIyWnp0OHhyYjdwb1p5d204VjloeHh4NEgtZGZWX0IzcHRhS1hncTBxa0djSVdzX3dkNFNzSE92UnVQelF1NU80MHFiMVk0ZkU3LTB0ZjZ5SF9XYldyMV9ud0I3RkhwTFFWXy00Q01nMHNVdW0tT0NR?oc=5",
      "date": "2026-10-30",
@@ -282,48 +305,7 @@
     {
      "desk": "Immigration",
      "score": 6,
-     "priority": 55,
-     "title": "How will Denmark's new collective agreement-based work permit work?",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcGMwUklVWWl2N3hSVEc4bWhGMjNhemFOSkF4Vm03Z09na0plRHVYMU9rNlVtUl93Z3VjR05hXzg5X1RRMFNmU01PNkhvWi12VTNGT0pscXQ5QlFnVGowWXJrMWRwT0lLaDlpekdVODFqSEFFVC0yeVJLTkJMQzdmWEE3cENnYXlVTEZUZEtJc0xDYWtxSExnb2hhYUZ5TXM?oc=5",
-     "date": "2026-11-03",
-     "source": "The Local Denmark",
-     "label": "Denmark",
-     "snippet": "Denmark is set to introduce a new collective agreement-based work permit scheme from the beginning of next year. Who is eligible and how will it work?",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Denmark is set to introduce a new collective agreement-based work permit scheme from the beginning of next year. Who is eligible and how will it work? The scheme – called overenskomstbaserede beløbsordning in Danish – ...",
-     "image": null,
-     "why": [
-      "Affects work visas"
-     ],
-     "tags": [
-      "Work visa",
-      "Denmark"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 55,
-     "title": "Iceland Plans to Tighten Permanent Residency Rules for Foreigners",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ3B2OXVQVm0tbVhjbXlUb0FwZmVtMll0Y3p3bl9oTnUyb3l4c1pyUDloWnNxVGdhSTNTbG56T1c1WG12VUVLVXMyNUFMaHYwUnhZWGpab2hPT3FRZzNUampjRmJfRmtrMHZYM3V6ei1ldWVlMlFKOWJVOVpCWHRZV0ZRa2dURDh5RDJIWXJRcGdGQzRtbW1ybzZHalFEY2FEdWlz0gGoAUFVX3lxTE13Q3pEeWNISzdYWmhSYWliM1RIRUxxdVlfa3czcnZlNXlvOXJaN3RvNGdCYkZja1VmY0gzNkJDZUV6Ty00UVFKWDFwLU9qb19BdnN6Tmw0d1NodU1DcWhDQjBmNHJILU9JcTEzYTVnSGpIbnNNZDREWE8wRGhYUEl3cTZSV3htYklwRHVPay1VUHNvUEtwQVlmSjhKYzA5OUJjdW9XeXliNw?oc=5",
-     "date": "2026-10-29",
-     "source": "ProPakistani",
-     "label": "Iceland",
-     "snippet": "Iceland's government has approved a major immigration reform proposal that would introduce stricter requirements for permanent residency, family",
-     "lead": "Iceland’s government has approved a major immigration reform proposal that would introduce stricter requirements for permanent residency, family reunification, and residence permits. The government approved the bill proposed by the Minister of Justice, describing it as the biggest overhaul of the country’s residence permit system in a decade. The proposed changes aim to bring Iceland’s immigration rules in line with other Nordic ...",
-     "image": "https://propakistani.pk/wp-content/uploads/2026/10/iceland.jpg",
-     "why": [
-      "Affects permanent residence",
-      "Announces a change"
-     ],
-     "tags": [
-      "PR / Settlement",
-      "Iceland"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 55,
+     "priority": 50,
      "title": "South Korea targets 4 lakh international students with proposed visa, employment reforms",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdHhSSDh4OEloX0Mtd1gyWGo1OGoycHJtamt1S0c2WGFka3ROVHhlODI2OVZQczVSaFRJYkJNZFVXV1hWdnB2ZFp5UTVSVDA0bDFRWnhVZm90V0N5SWJmZkd3V0RMS3ZISXFQMVJhU2dNUFlPd2dYMG5VRVJfcnhTMVM5Y1J3ckNPbGFxOEl6SjQzNUtiaEpaNjFvVl9jaWluaXFjLTVKZVJhVS0wZ2U4N2RMWlctM0s5VjFRLTZCSGdVdkxTQVFxN2s3LWlzc0FqVDhNLVl0MjFQOTE3UmZrWGQyeHbSAeoBQVVfeXFMUF82VlpkLXVoNjJKQ3ZLOEVPNXpZNzUyakhvOWxESFpSUDNQZUctVnEtdVVlMEVfdG85Mm5wNjUtS0JVclFQMWJKRk8xVHMwZTM3TlUxcS1ZdDFoSEpMclc4YklqZHJqZmdodEVsbUlodTF3YnYzU0FQc3NlaU9pY2tMMURYQ1dEa3ppMllCWElabndpam5EZ2xtbGYxZnhmSllOenRxR1hKZFM4MW9VOTNCcHJ1c3VKMnZXa3JlQ1hRMTM0RWstTHFTdEVXeUpVZXRiYlY3dmVUbDNyWG8td2pDa1hKNm45Y0xB?oc=5",
      "date": "2026-10-29",
@@ -339,6 +321,25 @@
      "tags": [
       "Student / Graduate",
       "South Korea"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 42,
+     "title": "Immigration drives job growth in Spain: Social Security surpasses 22.6 million affiliates",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVlNIQi1sM040M0JacG4zME8weEcwMm9SSTBxdzFTQUMxR0d2UDdPdXZpZVM5RFFEelloSmtKXzBBZFNySzNmenI3d2NEVjhZaDZzUWlhRk5aVjk5NlZnU1lSa0NuYWh1Q3JuaUR4blU5bWx6TjhvOHpicWhoQ29BZUtwak5WZWlVYUQ3ajdwVVh6cmJWMDhqZ2phUFZNTVRQZjhYYnJNTlh0b1JqS0FkcHRKcW5fWEc4LWpBQzQzN0pDREtzdHNEV1gyNGY3cTZiakNXMEJDUXBLaVNtNmg4dGR3?oc=5",
+     "date": "2026-11-04",
+     "source": "El Constitucional",
+     "label": "Spain",
+     "snippet": "Employment adds 186,612 affiliates in October, the largest increase recorded in this month, while foreign workers already represent 16.4% of the total and contribute 598,378 more employed people than...",
+     "lead": "EuropaPress 7889813 fachada oficina empleo noviembre 2026 madrid espana paro registrado Add ElConstitucional.es as a preferred Google source for free. Stay informed about all the latest breaking news with the best information. Against disinformation, for democracy and social rights. Social Security closed October with an average of 22,624,165 affiliates, the highest figure in its historical series , after adding 186,612 employed people ...",
+     "image": null,
+     "why": [
+      "Announces a change"
+     ],
+     "tags": [
+      "Spain"
      ]
     }
    ]
@@ -436,51 +437,74 @@
  },
  "items": [
   {
-   "desk": "Startups",
-   "score": 15,
+   "desk": "Policy",
+   "score": 16,
    "priority": 100,
-   "title": "Razorpay Gets SEBI Nod For ₹6,000 Cr IPO",
-   "url": "https://inc42.com/buzz/razorpay-gets-sebi-nod-for-%e2%82%b96000-cr-ipo/",
+   "title": "Cabinet approves Rs.14,500 crore Viability Gap Funding Scheme for development of 92 GWh Grid-Scale Energy Storage Systems",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332474",
    "date": "2026-11-04",
-   "source": "Inc42",
-   "label": "India · Fintech",
-   "snippet": "Razorpay has received SEBI’s approval for its proposed ₹5,000-6,000 Cr IPO, with a listing likely between January and March 2027, sources told Inc42",
-   "lead": "Razorpay has received SEBI’s approval for its proposed ₹5,000-6,000 Cr IPO, with a listing likely between January and March 2027, sources told Inc42. The fintech major is targeting a valuation of around $5 Bn, below the $7.5 Bn valuation it commanded in its last funding round in 2021. The IPO is expected to comprise a fresh issue and an offer-for-sale, although the proposed split remains undisclosed.",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Razorpay-IPO-social-1.jpg",
+   "source": "PIB",
+   "label": "Labour & Social",
+   "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the Viability Gap",
+   "lead": "Cabinet Cabinet approves Rs.14,500 crore Viability Gap Funding Scheme for development of 92 GWh Grid-Scale Energy Storage Systems Scheme to support 30 GWh Battery Energy Storage Systems, 60 GWh Pumped Storage Projects and 2 GWh emerging storage technologies Will accelerate renewable energy integration, strengthen grid stability and ensure reliable and affordable round-the-clock power supply Mandatory domestic content requirement for ...",
+   "image": null,
    "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $632M: round or valuation)",
-    "Valuation, listing or profitability signal"
+    "Cabinet decision",
+    "Cabinet",
+    "Large outlay (Rs 10,000 Cr or more)"
    ],
    "tags": [
-    "IPO & Listing",
-    "Fintech"
+    "Labour & Social"
    ],
    "rank": 1,
    "must_read": true
   },
   {
-   "desk": "Immigration",
-   "score": 11,
+   "desk": "Startups",
+   "score": 15,
    "priority": 100,
-   "title": "UK Tightens Immigration Rules as Most Migrants Face 10-Year Settlement Wait",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSjlpeUhBT1Z3TEhiWXRyemxMVF9oNFR4OExZdEdRQkZZdlZsNWxuN2FtQ0c0aTlJOEo4cG9jV0FBcGk2SUtsUFlTVy04UDZGcnB4MUMxX3NsbGFfNmZoY3NDOG5wY0k0QXFIMGNHS3J0VVVZOXhlYjJ4ZnVNUm5RUFBDZ0pra0F2d1pZS0g0VEhIM1VUSDNUTlBiaENLWTZ1WVZv?oc=5",
-   "date": "2026-11-03",
-   "source": "https://www.nigeriahousingmarket.com/",
+   "title": "Razorpay gets Sebi nod for Rs 5,000-6,000 Cr IPO; eyes $5B valuation",
+   "url": "https://yourstory.com/2026/11/razorpay-gets-sebi-nod-for-rs-5000-6000-cr-ipo-eyes-5b-valuation",
+   "date": "2026-11-04",
+   "source": "YourStory",
+   "label": "India · Policy & Regulation",
+   "snippet": "The development comes after Razorpay submitted its draft IPO papers with Sebi through the confidential route in June, initiating the process to tap the public markets.",
+   "lead": "Razorpay gets Sebi nod for Rs 5,000-6,000 Cr IPO; eyes $5B valuation The development comes after Razorpay submitted its draft IPO papers with Sebi through the confidential route in June, initiating the process to tap the public markets. Press Trust of India 11260 Stories Wednesday November 04, 2026 , 2 min Read Fintech firm Razorpay has secured approval from markets regulator Sebi for its proposed initial public offering (IPO) of Rs ...",
+   "image": "https://images.yourstory.com/cs/286/d99b1110116911ed9e63f54395117598/RazorpayCEO1600x900-1787059930676.jpg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $5,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Policy & Regulation"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
+   "desk": "Immigration",
+   "score": 12,
+   "priority": 100,
+   "title": "Earned settlement: a faster route to permanent residence for the UK’s highest earners and global talent",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObEkxQmRLem1FQnlEd20tMy1ZVllFMWNfb3FZQ3RoSFdEbU1IZmM5aXBLUVd6TkFxS2lndGN5OTR0WHRyeU9UaXFMZDZhZXlBRENZMWZlamFmNVRoNkwzdTV5ZXpzZlVYOUVlZEx3YzZJZ3VVZjFkUkM5SjREbGk0ZGM2al9UQ1lrVWpwWThkNFBBREdMajdRRHlUVVpWMlFZeHJ0V2pKbmU3SG5Kb3NjenUxejFOYWNxalFfTTVEZFdEUQ?oc=5",
+   "date": "2026-11-04",
+   "source": "Macfarlanes",
    "label": "United Kingdom",
-   "snippet": "The UK has announced new settlement rules that raise the standard permanent residency wait to 10 years for most migrants, with exceptions for eligible workers.",
-   "lead": "The UK government has announced new settlement rules that will make permanent residency depend on migrants’ income The United Kingdom government has announced a new immigration settlement policy that will increase the standard waiting period for permanent residency from five to 10 years for most migrants, making long-term residence more dependent on income, employment, conduct and compliance with immigration rules. The policy, known as ...",
-   "image": "http://static1.squarespace.com/static/665f92f354532c3140db9a8a/t/6ae9be8c23044b6ff439fb2d/1793703564182/UK-FLAG-FEH.webp?format=1500w",
+   "snippet": "On 2 November 2026, the Home Secretary, Shabana Mahmood, set out the Government",
+   "lead": "Our people What we do Who we are Insights Join us Our people What we do Private Capital Private Wealth M&A Disputes All services Case studies Supporting Private Capital Managers Private Capital Solutions Tailored solutions for the private capital industry. C-suite HNW Individuals and Advisors Private Capital Professionals Tax Directors Featured theme",
+   "image": "https://cdn.cloudinary.com/macfarlanes/image/fetch/t_opengraph/t_watermark/https://images.passle.net/fit-in/2000x0/filters:crop(0,333,3990,2239)/Passle/MediaLibrary/Images/2026-01-09-17-39-34-012-69613d56d42b6e4a58415609.jpg",
    "why": [
     "Affects permanent residence",
     "Announces a change",
-    "Major story (20 headlines that day)"
+    "Major story (10 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -504,51 +528,29 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 3,
-   "must_read": true
-  },
-  {
-   "desk": "Policy",
-   "score": 13,
-   "priority": 100,
-   "title": "Cabinet approves Container Manufacturing Promotion Scheme",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329476",
-   "date": "2026-10-28",
-   "source": "PIB",
-   "label": "Industry & Manufacturing",
-   "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the Container Manu",
-   "lead": "Cabinet Cabinet approves Container Manufacturing Promotion Scheme Posted On: 28 OCT 2026 3:42PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the Container Manufacturing Promotion Scheme (CMPS) with budgetary outlay of Rs.10,000 crore upto FY 2039-40 envisages to establish a globally competitive container manufacturing ecosystem in India, reduce import dependence and strengthen ...",
-   "image": null,
-   "why": [
-    "Cabinet decision",
-    "Cabinet",
-    "Large outlay (Rs 10,000 Cr or more)"
-   ],
-   "tags": [
-    "Industry & Manufacturing"
-   ],
    "rank": 4,
    "must_read": true
   },
   {
-   "desk": "Policy",
-   "score": 12,
-   "priority": 92,
-   "title": "Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13750&Mode=0",
-   "date": "2026-11-03",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "RESERVE BANK OF INDIA FOREIGN EXCHANGE DEPARTMENT CENTRAL OFFICE Mumbai 400 001 Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026 In exercise of the powers conferred by Section 7, Section 8, sub-section (6) of Section 10 and sub-section (2) of Section 47 of the Foreign Exchange Management Act, 1999 (42 of 1999), the Reserve Bank of India makes the following amendments to the ...",
-   "image": null,
+   "desk": "Startups",
+   "score": 14,
+   "priority": 93,
+   "title": "Indian startups with over $500M valuation grow to 51 despite low number of AI entities: Report",
+   "url": "https://yourstory.com/2026/11/indian-startups-over-500m-valuation-grow-51-despite-low-number-ai-entities-report",
+   "date": "2026-11-04",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "The combined value of these 51 entities is about Rs 3.3 lakh crore ($34.1 billion), with an average valuation of about Rs 6,400 crore, and they employ over 60,000 people.",
+   "lead": "Indian startups with over $500M valuation grow to 51 despite low number of AI entities: Report The combined value of these 51 entities is about Rs 3.3 lakh crore ($34.1 billion), with an average valuation of about Rs 6,400 crore, and they employ over 60,000 people. Press Trust of India 11260 Stories Wednesday November 04, 2026 , 3 min Read Indian startups with a valuation of over $500 million have increased to 51 in 2026, from 47 in ...",
+   "image": "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/Imagespzl-1680421400903.jpg",
    "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Regulator: RBI"
+    "Funding",
+    "Very large figure in headline (about $500M: round or valuation)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Banking & Rates"
+    "Funding",
+    "AI & Deeptech"
    ],
    "rank": 5,
    "must_read": true
@@ -646,27 +648,93 @@
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 91,
-   "title": "New penalties for fraudulent and unauthorized immigration and citizenship representatives",
-   "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/10/new-penalties-for-fraudulent-and-unauthorized-immigration-and-citizenship-representatives.html",
-   "date": "2026-10-28",
-   "source": "IRCC (Government of Canada)",
-   "label": "Canada",
-   "snippet": "",
-   "lead": "",
+   "desk": "Policy",
+   "score": 14,
+   "priority": 88,
+   "title": "Cabinet approves continuation of the Centrally Sponsored Scheme for Fast Track Special Courts (FTSCs) for expeditious trial of cases of rape and POCSO (Protection of Children from Sexual Offences) Act for a further period of five years (FY 2026-27 to FY 2030-31)",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332483",
+   "date": "2026-11-04",
+   "source": "PIB",
+   "label": "Labour & Social",
+   "snippet": "The Union Cabinet, chaired by the Prime Minister, has approved the continuation of the Centrally Spo",
+   "lead": "Cabinet Cabinet approves continuation of the Centrally Sponsored Scheme for Fast Track Special Courts (FTSCs) for expeditious trial of cases of rape and POCSO (Protection of Children from Sexual Offences) Act for a further period of five years (FY 2026-27 to FY 2030-31) Posted On: 04 NOV 2026 3:34PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister, has approved the continuation of the Centrally Sponsored Scheme (CSS) for ...",
    "image": null,
    "why": [
-    "Affects citizenship",
-    "Official government notice",
-    "Major story (16 headlines that day)"
+    "Cabinet decision",
+    "Cabinet"
    ],
    "tags": [
-    "Citizenship",
-    "Canada"
+    "Labour & Social"
    ],
    "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 14,
+   "priority": 88,
+   "title": "Cabinet approves ‘Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR)’, a central sector scheme for the period 2026-27 to 2030-31",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332480",
+   "date": "2026-11-04",
+   "source": "PIB",
+   "label": "Labour & Social",
+   "snippet": "The Union Cabinet, chaired by Prime Minister Shri Narendra Modi, today approved the ‘Viksit Bharat I",
+   "lead": "Cabinet Cabinet approves ‘Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR)’, a central sector scheme for the period 2026-27 to 2030-31 Posted On: 04 NOV 2026 3:31PM by PIB Delhi The Union Cabinet, chaired by Prime Minister Shri Narendra Modi, today approved the ‘Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR)’ Scheme for the period FY 2026-27 to FY 2030-31 ...",
+   "image": null,
+   "why": [
+    "Cabinet decision",
+    "Cabinet"
+   ],
+   "tags": [
+    "Labour & Social"
+   ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 14,
+   "priority": 88,
+   "title": "Cabinet Approves Capex Support Scheme to Promote Critical Mineral Processing with an Outlay of Rs.2,814 Crore for Lithium and Nickel processing",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332476",
+   "date": "2026-11-04",
+   "source": "PIB",
+   "label": "Budget & Fiscal",
+   "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the ‘Capex Support",
+   "lead": "Cabinet Cabinet Approves Capex Support Scheme to Promote Critical Mineral Processing with an Outlay of Rs.2,814 Crore for Lithium and Nickel processing Posted On: 04 NOV 2026 3:29PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the ‘Capex Support Scheme to Promote Critical Mineral Processing’ with a financial outlay of Rs.2,814 crore over a period of five years. Processing of critical ...",
+   "image": null,
+   "why": [
+    "Cabinet decision",
+    "Cabinet"
+   ],
+   "tags": [
+    "Budget & Fiscal"
+   ],
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 13,
+   "priority": 87,
+   "title": "Revolut completes funding round at $115 billion valuation",
+   "url": "https://economictimes.indiatimes.com/tech/technology/revolut-completes-funding-round-at-115-billion-valuation/articleshow/135543134.cms",
+   "date": "2026-11-04",
+   "source": "ET Startups",
+   "label": "Global · Fintech",
+   "snippet": "The transaction, which Revolut said was led by Glade Brook Capital Partners, Coatue, Durable Capital Partners, T. Rowe Price Associates and Baillie Gifford, means private market investors value the 11-year-old business more highly than many publicly listed banks.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1277395,resizemode-75,msid-135543134/tech/technology/revolut-completes-funding-round-at-115-billion-valuation.jpg",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $115,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "Fintech"
+   ],
+   "rank": 13,
    "must_read": false
   },
   {
@@ -690,7 +758,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 11,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -714,13 +782,107 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 12,
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 83,
+   "title": "New penalties for fraudulent and unauthorized immigration and citizenship representatives",
+   "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/10/new-penalties-for-fraudulent-and-unauthorized-immigration-and-citizenship-representatives.html",
+   "date": "2026-10-28",
+   "source": "IRCC (Government of Canada)",
+   "label": "Canada",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Affects citizenship",
+    "Official government notice",
+    "Major story (16 headlines that day)"
+   ],
+   "tags": [
+    "Citizenship",
+    "Canada"
+   ],
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 13,
+   "priority": 81,
+   "title": "Cabinet approves Container Manufacturing Promotion Scheme",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329476",
+   "date": "2026-10-28",
+   "source": "PIB",
+   "label": "Industry & Manufacturing",
+   "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the Container Manu",
+   "lead": "Cabinet Cabinet approves Container Manufacturing Promotion Scheme Posted On: 28 OCT 2026 3:42PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the Container Manufacturing Promotion Scheme (CMPS) with budgetary outlay of Rs.10,000 crore upto FY 2039-40 envisages to establish a globally competitive container manufacturing ecosystem in India, reduce import dependence and strengthen ...",
+   "image": null,
+   "why": [
+    "Cabinet decision",
+    "Cabinet",
+    "Large outlay (Rs 10,000 Cr or more)"
+   ],
+   "tags": [
+    "Industry & Manufacturing"
+   ],
+   "rank": 17,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 80,
+   "title": "PhysicsWallah posts Rs 1,242 Cr top-line in Q2; net profit doubles",
+   "url": "https://yourstory.com/2026/11/physicswallah-posts-rs-1242-cr-top-line-in-q2-net-profit-doubles",
+   "date": "2026-11-04",
+   "source": "YourStory",
+   "label": "India · Policy & Regulation",
+   "snippet": "PhysicsWallah clocked an operational revenue of Rs 1,242.26 crore in Q2 FY27, up 18.2% YoY, while profit after tax doubled to Rs 142.29 crore, driven by digital scale and operating efficiencies.",
+   "lead": "PhysicsWallah posts Rs 1,242 Cr top-line in Q2; net profit doubles PhysicsWallah clocked an operational revenue of Rs 1,242.26 crore in Q2 FY27, up 18.2% YoY, while profit after tax doubled to Rs 142.29 crore, driven by digital scale and operating efficiencies. Team YS 17510 Stories Wednesday November 04, 2026 , 4 min Read The second quarter of the 2027 financial year marked a pivotal turn for PhysicsWallah (PW), as expanding scale and ...",
+   "image": "https://images.yourstory.com/cs/2/d99b1110116911ed9e63f54395117598/PWIPO1600x900-1757405223665.jpg",
+   "why": [
+    "Financials",
+    "Large deal (about $131M)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Financials",
+    "Policy & Regulation"
+   ],
+   "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 12,
+   "priority": 75,
+   "title": "Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13750&Mode=0",
+   "date": "2026-11-03",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "RESERVE BANK OF INDIA FOREIGN EXCHANGE DEPARTMENT CENTRAL OFFICE Mumbai 400 001 Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026 In exercise of the powers conferred by Section 7, Section 8, sub-section (6) of Section 10 and sub-section (2) of Section 47 of the Foreign Exchange Management Act, 1999 (42 of 1999), the Reserve Bank of India makes the following amendments to the ...",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 19,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 9,
-   "priority": 82,
+   "priority": 75,
    "title": "Australia Student Visa Rules Could Change: Indians May Have To Deposit Funds In Local Banks",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTHB3dzBPdXlSWjU1ZHl3VmF0YXFqMVRKMTRtUkFpbnhkbEtMLTF4U2lfYUxfN3Uza3psa1Q3a3p1NnVpVlVaMkNKUWo2SHpIVWJtc2ZFcVgtRWpZbDBoLTNGR3lpRElPS1ltZ01rSHFHNWg5MTFSM1V5ejhTeXh3Z1hYbVpHOVZVWUhtcmVnaTNvVnotVU9TMnBHY19CSGM1NHJqWFFmcnN4THdPckRJUElTVVpKYzhOTVktNkN0UFcxQ1pUQ3c2ZzVxN1J5NElHQmfSAdoBQVVfeXFMTzFpWHVZMW03dzRxak54cms4TVlNMmFHSEluYXZYODVQVk54aktWby1ZTkhGekxoMEtLWFpBSHNjdlFtTkFVMGVDZGlfcDNkd1QtOFozQUdQeGJqTGZCNDhpeENWUXc5VV9iejN2SU9kbEdYc214UHlkVnNwTllGMkEzakh3cVF2ZXhJZDNXWFlQcUxSdXFoNWo1a2FOZmFEM1RyTDNKQ2ZiTmRrSGhWWjFjSzJZRXJHcUl3cFp1WGdkMUotVS1CQWprMTBnOVhScE9tQVp0WUx4bXc?oc=5",
    "date": "2026-11-02",
@@ -738,84 +900,36 @@
     "Student / Graduate",
     "Australia"
    ],
-   "rank": 13,
+   "rank": 20,
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 80,
-   "title": "Freshworks Swings To $18 Mn Profit In Q3, Revenue Rises 14% YoY To $245 Mn",
-   "url": "https://inc42.com/buzz/freshworks-swings-to-18-mn-profit-in-q3-revenue-rises-14-yoy-to-245-mn/",
+   "desk": "Immigration",
+   "score": 8,
+   "priority": 67,
+   "title": "Iceland Proposes 93% Rise in Residence Permit Income Threshold",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2xubEdnc3BQSkRWSjNDTWpIY3oyakRENW5oTWN6OWNXQ1dHanYzQXNVQ0pYUWQ1N3Vvd2toNzQ3Zk56QUduMmJqRnNhZGpCQWlaSmlvanhQSFFxaE4wZkNtcXhReDNvS0R1RURsQmkyeUtLR0Rqa3h4MXpRQWZ3cmJRTlQyU2F3Smc?oc=5",
    "date": "2026-11-04",
-   "source": "Inc42",
-   "label": "India · SaaS & Enterprise",
-   "snippet": "Nasdaq-listed SaaS company Freshworks swung to a consolidated net profit of $18.3 Mn in the third quarter of 2026 (Q3…",
-   "lead": "Freshworks reported a consolidated net profit of $18.3 Mn in Q3 2026 against a $4.7 Mn loss a year earlier, while revenue increased 14% to $245.4 Mn Higher revenue and lower operating expenses helped Freshworks sustain GAAP profitability, while its push towards larger customers gained traction Freshworks crossed $1 Bn in annual recurring revenue after the quarter ended, ahead of its year-end target",
+   "source": "Iceland Review",
+   "label": "Iceland",
+   "snippet": "",
+   "lead": "",
    "image": null,
    "why": [
-    "Financials",
-    "Large deal (about $245M)",
-    "Valuation, listing or profitability signal"
+    "Salary threshold change",
+    "Announces a change"
    ],
    "tags": [
-    "Financials",
-    "SaaS & Enterprise"
+    "Salary threshold",
+    "Iceland"
    ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 80,
-   "title": "Fractal Q2: Profit Zooms 139% YoY to ₹79 Cr, Revenue At ₹957 Cr",
-   "url": "https://inc42.com/buzz/fractal-q2-profit-zooms-139-yoy-to-%e2%82%b979-cr-revenue-at-%e2%82%b9957-cr/",
-   "date": "2026-11-04",
-   "source": "Inc42",
-   "label": "India · AI & Deeptech",
-   "snippet": "AI and advanced analytics company Fractal's net profit zoomed 139% YoY to ₹79.2 Cr in Q2 FY27 from ₹33.2 Cr in the year ago quarter.",
-   "lead": "Revenue from operations rose nearly 20% to a record ₹956.5 Cr in the quarter under review as against ₹798.5 Cr in the preceding quarter Fractal attributed the growing profits to rising revenues, improving margins, increased spending by clients and broad-based growth across all its key verticals In line with its top line, the company’s total expenses also rose 15% to ₹858.9 Cr in Q2 FY27 as against ₹746.6 Cr in the quarter ending ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Fractal-FY24-social.jpg",
-   "why": [
-    "Financials",
-    "Large deal (about $101M)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Financials",
-    "AI & Deeptech"
-   ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 80,
-   "title": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2",
-   "url": "https://yourstory.com/2026/10/jio-platforms-first-post-listing-results-user-growth-higher-arpu-drive-137-pc-profit-rise-in-q2",
-   "date": "2026-10-31",
-   "source": "YourStory",
-   "label": "India · Other",
-   "snippet": "The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review.",
-   "lead": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2 The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review. Press Trust of India 11249 Stories Saturday October 31, 2026 , 5 min Read The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review, ...",
-   "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/WhatsAppImage2026-10-28at11-1793168547436.jpeg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $4,261M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 16,
+   "rank": 21,
    "must_read": false
   },
   {
    "desk": "Policy",
    "score": 10,
-   "priority": 77,
+   "priority": 62,
    "title": "TRAI releases “The Telecommunication Interconnection (Third Amendment) Regulations, 2026”",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2331941",
    "date": "2026-11-03",
@@ -831,79 +945,13 @@
    "tags": [
     "Technology & Telecom"
    ],
-   "rank": 17,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 77,
-   "title": "Cabinet approves Dearness Allowance to Central Government employees and Dearness Relief to Pensioners",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329484",
-   "date": "2026-10-28",
-   "source": "PIB",
-   "label": "Labour & Social",
-   "snippet": "The Union Cabinet chaired by the Prime Minister Shri Narendra Modi today has approved to release an",
-   "lead": "Cabinet Cabinet approves Dearness Allowance to Central Government employees and Dearness Relief to Pensioners Posted On: 28 OCT 2026 3:50PM by PIB Delhi The Union Cabinet chaired by the Prime Minister Shri Narendra Modi today has approved to release an additional instalment of Dearness Allowance (DA) to Central Government employees and Dearness Relief (DR) to pensioners w.e.f. 01.07.2026 representing an increase of 3% over the existing ...",
-   "image": null,
-   "why": [
-    "Cabinet decision",
-    "Cabinet"
-   ],
-   "tags": [
-    "Labour & Social"
-   ],
-   "rank": 18,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 77,
-   "title": "Cabinet approves Pradhan Mantri Viksit Gram Swaraj Yojana as a Centrally Sponsored Scheme for 2026-27 to 2030-31",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329483",
-   "date": "2026-10-28",
-   "source": "PIB",
-   "label": "Labour & Social",
-   "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved a Centrally Sponso",
-   "lead": "Cabinet Cabinet approves Pradhan Mantri Viksit Gram Swaraj Yojana as a Centrally Sponsored Scheme for 2026-27 to 2030-31 Posted On: 28 OCT 2026 3:48PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved a Centrally Sponsored Scheme (CSS), namely, the Pradhan Mantri Viksit Gram Swaraj Yojana (PM VGSY), a next-generation governance transformation initiative aligned with the national vision of ...",
-   "image": null,
-   "why": [
-    "Cabinet decision",
-    "Cabinet"
-   ],
-   "tags": [
-    "Labour & Social"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 9,
-   "priority": 69,
-   "title": "Government of India extends Customs Duty Exemption on Cotton imports up to 31st December 2026",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330823",
-   "date": "2026-10-31",
-   "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "Keeping in view the raw material requirements of domestic textile industry, Government of India has",
-   "lead": "Ministry of Textiles Government of India extends Customs Duty Exemption on Cotton imports up to 31st December 2026 Posted On: 31 OCT 2026 2:38PM by PIB Delhi Keeping in view the raw material requirements of domestic textile industry, Government of India has extended the existing customs duty exemption on cotton imports until 31 st December 2026. The extension has been notified by the Department of Revenue, Ministry of Finance, vide ...",
-   "image": null,
-   "why": [
-    "Duty or tariff change",
-    "Rule change"
-   ],
-   "tags": [
-    "Tax, Duties & Trade"
-   ],
-   "rank": 20,
+   "rank": 22,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 7,
-   "priority": 64,
+   "priority": 58,
    "title": "Switzerland may reduce citizenship residency requirement to five years – Experts Club",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMGh2bjR3RVkzMjRSNHUzTTM3WG5SZG05Z0pRYTJNOVp3NkRZYWJBcWpGMi1sRUl1amVvcnJ2S2tJSGd0ZzNlYzhGZEx5NktxWWpFSHlyVDEwdGJqZnVFbXNmVVR2OEkxTlp6MENFS21NS1IzcTBOS0xjckFHXzNIejNWZEwzOURCXzR1M1FsT2xVWFZKSTlubWZlMG5tOWJicEJaaEJSaHZtVFhyb01ZUG9CZzV4V28?oc=5",
    "date": "2026-11-04",
@@ -918,51 +966,6 @@
    "tags": [
     "Citizenship",
     "Switzerland"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 64,
-   "title": "Japan minister: Cap on foreign workers should eventually shrink",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tb2NSRE9RdWk5YzRHZFJmdlZ1aDdwcXBoeFIyZ0w4d2NzUnBqQTBZUklQVllpci1HY1VQUmNfM3RnUGRFUEh0SVpfSXB5VDBiTmFmNUZR?oc=5",
-   "date": "2026-11-03",
-   "source": "朝日新聞",
-   "label": "Japan",
-   "snippet": "Japan should eventually reduce, rather than raise, its cap on foreign workers under a visa program designed to fill labor shortages, Kimi Onoda, minister of policy on foreign nationals, said Nov. 2.",
-   "lead": "Your browser does not support JavaScript, or it is disabled．Please check the site policy for more information. Kimi Onoda, the minister overseeing Japan’s policies on foreign nationals (Asahi Shimbun file photo) Japan should eventually reduce, rather than raise, its cap on foreign workers under a visa program designed to fill labor shortages, Kimi Onoda, minister of policy on foreign nationals, said Nov. 2.",
-   "image": "https://p.potaufeu.asahi.com/566b-p/picture/31521232/f605973c12945de0243e21b155565ee8.jpg",
-   "why": [
-    "Quota or cap change",
-    "Announces a change"
-   ],
-   "tags": [
-    "Quota / Caps",
-    "Japan"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 62,
-   "title": "Government notifies National Social Security Board for Unorganised Workers and Gig & Platform Workers under the Labour Codes",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330299",
-   "date": "2026-10-30",
-   "source": "PIB",
-   "label": "Labour & Social",
-   "snippet": "In a landmark step toward ensuring comprehensive social security for India's massive informal workfo",
-   "lead": "Ministry of Labour & Employment Government notifies National Social Security Board for Unorganised Workers and Gig & Platform Workers under the Labour Codes Posted On: 30 OCT 2026 10:29AM by PIB Delhi In a landmark step toward ensuring comprehensive social security for India's massive informal workforce, the Ministry of Labour & Employment has notified the official constitution of the National Social Security Board for U norganised W ...",
-   "image": null,
-   "why": [
-    "Labour and pension rule",
-    "Rule change"
-   ],
-   "tags": [
-    "Labour & Social"
    ],
    "rank": 23,
    "must_read": false
