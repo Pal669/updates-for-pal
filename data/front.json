@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-04",
- "built": "2026-11-04 03:30 IST",
+ "built": "2026-11-04 08:52 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23441.0,
-   "change_pct": 1.68,
+   "value": 23811.0,
+   "change_pct": 1.58,
    "asof": "03 Nov 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 75693.0,
-   "change_pct": 1.66,
+   "value": 76918.0,
+   "change_pct": 1.62,
    "asof": "03 Nov 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
    "value": 94.73,
-   "change_pct": -0.18,
-   "asof": "04 Nov 02:21 IST"
+   "change_pct": 0.0,
+   "asof": "04 Nov 08:46 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 104.43,
-   "change_pct": -0.32,
-   "asof": "04 Nov 03:20 IST"
+   "value": 102.93,
+   "change_pct": -0.65,
+   "asof": "04 Nov 08:42 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3938.0,
-   "change_pct": -0.79,
-   "asof": "04 Nov 03:20 IST"
+   "value": 3946.0,
+   "change_pct": 0.14,
+   "asof": "04 Nov 08:42 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -165,9 +165,30 @@
    ]
   },
   "Startups": {
-   "total": 1185,
-   "new_today": 4,
+   "total": 1186,
+   "new_today": 5,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+     "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+     "date": "2026-11-04",
+     "source": "TechCrunch Venture",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+     "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom Jagmeet Singh 1:43 PM PST · November 3, 2026 Ballistic Ventures, the cybersecurity-focused venture capital firm co-founded by former Kleiner Perkins partner Ted Schlein (pictured above, second from the right), is seeking to raise $490 ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2025/04/Ballistic-Ventures-GP-team.jpg?resize=1200,801",
+     "why": [
+      "Funding",
+      "Large deal (about $490M)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -229,34 +250,12 @@
      "tags": [
       "Funding"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "PB Fintech Q2: Profit jumps 43% to Rs 192 cr, revenue at Rs 2,178 cr",
-     "url": "https://www.medianama.com/2026/11/223-pb-fintech-43-percent-profit-growth-q2/",
-     "date": "2026-11-02",
-     "source": "MediaNama",
-     "label": "India · Fintech",
-     "snippet": "PB Fintech reported a 43% rise in Q2 FY27 net profit to Rs 192.4 crore, while revenue from operations grew 35% to Rs 2,177.7 crore.",
-     "lead": "PB Fintech, which operates the insurance and credit marketplaces Policybazaar and Paisabazaar, reported a 43% year-on-year (YoY) jump in consolidated net profit to Rs 192.4 crore for the second quarter ended September 2026. The company had reported a profit of Rs 134.9 crore in the same quarter last year. Sequentially, its profit rose 18% from Rs 162.9 crore in Q1 FY27. Revenue from operations surged 35% to Rs 2,177.7 crore, compared ...",
-     "image": "https://www.medianama.com/wp-content/uploads/2018/02/insurancecmn-4.jpg.jpg",
-     "why": [
-      "Financials",
-      "Large deal (about $229M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Financials",
-      "Fintech"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 3,
+   "new_today": 10,
    "items": [
     {
      "desk": "Immigration",
@@ -498,7 +497,7 @@
    "why": [
     "Affects permanent residence",
     "Announces a change",
-    "Major story (19 headlines that day)"
+    "Major story (20 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
@@ -720,6 +719,28 @@
    "desk": "Startups",
    "score": 11,
    "priority": 85,
+   "title": "GIVA raises $100M in Multiples-led round; India’s Rs 3 lakh Cr data centre buildout",
+   "url": "https://yourstory.com/2026/11/giva-raises-100m-in-multiples-led-round",
+   "date": "2026-11-04",
+   "source": "YourStory",
+   "label": "India · Other",
+   "snippet": "GIVAsaid the fresh capital will be used to strengthen its leadership team, expand manufacturing and deepen its offline presence.",
+   "lead": "GIVA raises $100M in Multiples-led round; India’s Rs 3 lakh Cr data centre buildout GIVAsaid the fresh capital will be used to strengthen its leadership team, expand manufacturing and deepen its offline presence. Team YS 17499 Stories Wednesday November 04, 2026 , 4 min Read India’s data centre industry is poised for a five-fold expansion, with installed capacity expected to reach 7.5 GW by March 2030, attracting investments of more ...",
+   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Nov4-DC-1793717613518.png",
+   "why": [
+    "Funding",
+    "Large deal (about $100M)"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
    "title": "Exclusive: Nuuk To Raise ₹100 Cr From Wipro Consumer Care Ventures, RPSG At ₹500 Cr Valuation",
    "url": "https://inc42.com/buzz/nuuk-to-raise-%e2%82%b9100-cr-from-wipro-consumer-care-ventures-rpsg-at-%e2%82%b9500-cr-valuation/",
    "date": "2026-11-03",
@@ -737,7 +758,7 @@
     "Funding",
     "Commerce & D2C"
    ],
-   "rank": 13,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -761,7 +782,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -784,29 +805,6 @@
    "tags": [
     "Student / Graduate",
     "Australia"
-   ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 77,
-   "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-   "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-   "date": "2026-11-04",
-   "source": "TechCrunch Venture",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-   "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom Jagmeet Singh 1:43 PM PST · November 3, 2026 Ballistic Ventures, the cybersecurity-focused venture capital firm co-founded by former Kleiner Perkins partner Ted Schlein (pictured above, second from the right), is seeking to raise $490 ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/04/Ballistic-Ventures-GP-team.jpg?resize=1200,801",
-   "why": [
-    "Funding",
-    "Large deal (about $490M)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
    ],
    "rank": 16,
    "must_read": false
