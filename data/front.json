@@ -1,6 +1,6 @@
 {
- "edition": "2026-11-04",
- "built": "2026-11-04 23:49 IST",
+ "edition": "2026-11-05",
+ "built": "2026-11-05 03:42 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,15 +12,15 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23961.0,
-   "change_pct": 0.63,
+   "value": 23811.0,
+   "change_pct": 1.58,
    "asof": "04 Nov 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 77301.0,
-   "change_pct": 0.5,
+   "value": 76918.0,
+   "change_pct": 1.62,
    "asof": "04 Nov 15:32 IST"
   },
   {
@@ -28,104 +28,64 @@
    "dp": 2,
    "value": 94.63,
    "change_pct": -0.1,
-   "asof": "04 Nov 23:02 IST"
+   "asof": "05 Nov 00:13 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 94.74,
-   "change_pct": -8.55,
-   "asof": "04 Nov 23:39 IST"
+   "value": 94.63,
+   "change_pct": -8.66,
+   "asof": "05 Nov 03:29 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4079.0,
-   "change_pct": 3.53,
-   "asof": "04 Nov 23:39 IST"
+   "value": 4072.0,
+   "change_pct": 3.34,
+   "asof": "05 Nov 03:29 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 4.9,
-   "change_pct": -1.01,
-   "asof": "04 Nov 23:34 IST"
+   "value": 4.89,
+   "change_pct": -1.17,
+   "asof": "05 Nov 01:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "DheyaTech",
-   "tagline": "Bengaluru aerospace propulsion startup",
-   "what": "Founded in 2018 by aerospace engineers Gurushankara KC, Abhinav Alva and Chetan Kumar. Develops small gas turbine engines (20 kgf to 400 kgf thrust) for aerial platforms and energy systems, with the design, assembly and testing pipeline and its engine control unit built in-house. Expanding into hydrogen-based technology and distributed power generation, including a 60 kW turbogenerator with a hydrogen flexi-fuel combustor developed with IISc.",
+   "company": "Aakash Educational Services",
+   "tagline": "Test-prep coaching chain owned by BYJU'S parent",
+   "what": "Gurugram-based test-prep brand for engineering and medical entrance exams, owned by BYJU'S parent Think & Learn since its 2021 acquisition.",
    "how": [
-    "Sells engines to OEMs: the company says it already has orders from Indian and global OEMs but did not disclose names or values.",
-    "Inferred: revenue is hardware sales; the article gives no pricing or revenue figures."
+    "Coaching fees: Rs 1,956.2 Cr of Rs 2,040.5 Cr operating revenue in FY26 (about 96%, computed).",
+    "Franchisee revenue: Rs 84.4 Cr, up 4% (about 4%, computed)."
    ],
-   "watch": "Pre-revenue-scale hardware: certification timelines and first commercial deliveries are the milestones to track. Article also notes rising investor interest in aerospace and spacetech (D-Propulse Rs 25 Cr in January; InspeCity Rs 100 Cr in August).",
-   "sector": "AI & Deeptech",
+   "watch": "The smaller loss came from one-off accounting gains, not from the business growing: revenue is flat. Ownership is entangled in the BYJU'S group's disputes: Byju Raveendran proposed relinquishing his claimed interest in 17.89 Mn Aakash shares to settle Qatar Holding's arbitration claim of over $235 Mn; lenders (Global TLB lenders via GLAS Trust) are reportedly in advanced talks for a 30% stake valuing Aakash at about $2 Bn.",
+   "sector": "Edtech & Skills",
    "region": "India",
-   "url": "https://inc42.com/buzz/dheyatech-bags-%e2%82%b943-cr-to-scale-indigenous-gas-turbine-engines/"
+   "url": "https://inc42.com/buzz/aakash-trims-fy26-loss-by-16-to-%e2%82%b9186-5-cr-top-line-flat-at-%e2%82%b92040-cr/"
   },
   "country": {
-   "id": "sweden",
-   "name": "Sweden",
+   "id": "denmark",
+   "name": "Denmark",
    "trend": "Tightening",
-   "pr": "Work-based PR after 4 years (44 months), with net income of at least SEK 29,680 a month for the previous 12 months.",
-   "citizenship": "Since 6 June 2026: 8 years of residence, higher income test, and mandatory Swedish language and civics tests (first sitting August 2026). Adult fee rose from SEK 1,500 to SEK 2,900.",
-   "pro": "PR in 4 years.",
-   "con": "Citizenship clock stretched to 8 years with a language test.",
-   "watch": "Further income thresholds"
+   "pr": "8 years of legal residence in general; reducible to 4 years if you pass the Danish PD3 test, work full-time, are self-sufficient and meet active-citizenship conditions.",
+   "citizenship": "Granted by an Act of the Danish Parliament after conditions are met; the exact timeline was not verified this session. Denmark allows dual citizenship (general knowledge).",
+   "pro": "High pay and strong work-life balance (general knowledge).",
+   "con": "One of the strictest immigration regimes in Europe (general knowledge).",
+   "watch": "Annual indexation of pay limits"
   }
  },
  "desks": {
   "Policy": {
    "total": 307,
-   "new_today": 12,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
-     "score": 10,
-     "priority": 62,
-     "title": "Cabinet approves Dearness Allowance to Central Government employees and Dearness Relief to Pensioners",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329484",
-     "date": "2026-10-28",
-     "source": "PIB",
-     "label": "Labour & Social",
-     "snippet": "The Union Cabinet chaired by the Prime Minister Shri Narendra Modi today has approved to release an",
-     "lead": "Cabinet Cabinet approves Dearness Allowance to Central Government employees and Dearness Relief to Pensioners Posted On: 28 OCT 2026 3:50PM by PIB Delhi The Union Cabinet chaired by the Prime Minister Shri Narendra Modi today has approved to release an additional instalment of Dearness Allowance (DA) to Central Government employees and Dearness Relief (DR) to pensioners w.e.f. 01.07.2026 representing an increase of 3% over the existing ...",
-     "image": null,
-     "why": [
-      "Cabinet decision",
-      "Cabinet"
-     ],
-     "tags": [
-      "Labour & Social"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 10,
-     "priority": 62,
-     "title": "Cabinet approves Pradhan Mantri Viksit Gram Swaraj Yojana as a Centrally Sponsored Scheme for 2026-27 to 2030-31",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329483",
-     "date": "2026-10-28",
-     "source": "PIB",
-     "label": "Labour & Social",
-     "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved a Centrally Sponso",
-     "lead": "Cabinet Cabinet approves Pradhan Mantri Viksit Gram Swaraj Yojana as a Centrally Sponsored Scheme for 2026-27 to 2030-31 Posted On: 28 OCT 2026 3:48PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved a Centrally Sponsored Scheme (CSS), namely, the Pradhan Mantri Viksit Gram Swaraj Yojana (PM VGSY), a next-generation governance transformation initiative aligned with the national vision of ...",
-     "image": null,
-     "why": [
-      "Cabinet decision",
-      "Cabinet"
-     ],
-     "tags": [
-      "Labour & Social"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 9,
-     "priority": 56,
+     "score": 8,
+     "priority": 53,
      "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63917",
      "date": "2026-11-04",
@@ -144,34 +104,97 @@
     },
     {
      "desk": "Policy",
-     "score": 9,
-     "priority": 56,
-     "title": "Government of India extends Customs Duty Exemption on Cotton imports up to 31st December 2026",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330823",
-     "date": "2026-10-31",
+     "score": 8,
+     "priority": 53,
+     "title": "Government notifies National Social Security Board for Unorganised Workers and Gig & Platform Workers under the Labour Codes",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330299",
+     "date": "2026-10-30",
      "source": "PIB",
-     "label": "Tax, Duties & Trade",
-     "snippet": "Keeping in view the raw material requirements of domestic textile industry, Government of India has",
-     "lead": "Ministry of Textiles Government of India extends Customs Duty Exemption on Cotton imports up to 31st December 2026 Posted On: 31 OCT 2026 2:38PM by PIB Delhi Keeping in view the raw material requirements of domestic textile industry, Government of India has extended the existing customs duty exemption on cotton imports until 31 st December 2026. The extension has been notified by the Department of Revenue, Ministry of Finance, vide ...",
+     "label": "Labour & Social",
+     "snippet": "In a landmark step toward ensuring comprehensive social security for India's massive informal workfo",
+     "lead": "Ministry of Labour & Employment Government notifies National Social Security Board for Unorganised Workers and Gig & Platform Workers under the Labour Codes Posted On: 30 OCT 2026 10:29AM by PIB Delhi In a landmark step toward ensuring comprehensive social security for India's massive informal workforce, the Ministry of Labour & Employment has notified the official constitution of the National Social Security Board for U norganised W ...",
      "image": null,
      "why": [
-      "Duty or tariff change",
+      "Labour and pension rule",
       "Rule change"
      ],
      "tags": [
+      "Labour & Social"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 7,
+     "priority": 47,
+     "title": "Union Government releases tax devolution of ₹1,09,019 crore to State Governments, as one advance instalment of tax devolution in view of upcoming festive season and to enable States to accelerate capital spending and finance their development/ welfare related expenditure",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330997",
+     "date": "2026-10-31",
+     "source": "PIB",
+     "label": "Tax, Duties & Trade",
+     "snippet": "The Union Government has released additional instalment of tax devolution to State Gover",
+     "lead": "Ministry of Finance Union Government releases tax devolution of ₹1,09,019 crore to State Governments, as one advance instalment of tax devolution in view of upcoming festive season and to enable States to accelerate capital spending and finance their development/ welfare related expenditure Posted On: 31 OCT 2026 8:09PM by PIB Delhi The Union Government has released additional instalment of tax devolution to State Governments amounting ...",
+     "image": null,
+     "why": [
+      "Rule change",
+      "Ministry of Finance",
+      "Large outlay (Rs 10,000 Cr or more)"
+     ],
+     "tags": [
       "Tax, Duties & Trade"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 6,
+     "priority": 40,
+     "title": "Extension of timeline with respect to compliance of Digital Accessibility Circulars",
+     "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-with-respect-to-compliance-of-digital-accessibility-circulars_105523.html",
+     "date": "2026-10-30",
+     "source": "SEBI",
+     "label": "Markets & Regulation",
+     "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Regulator rulebook change",
+      "Regulator: SEBI"
+     ],
+     "tags": [
+      "Markets & Regulation"
      ]
     }
    ]
   },
   "Startups": {
-   "total": 1222,
-   "new_today": 41,
+   "total": 1225,
+   "new_today": 3,
    "items": [
     {
      "desk": "Startups",
-     "score": 12,
-     "priority": 80,
+     "score": 11,
+     "priority": 79,
+     "title": "PhysicsWallah posts Rs 1,242 Cr top-line in Q2; net profit doubles",
+     "url": "https://yourstory.com/2026/11/physicswallah-posts-rs-1242-cr-top-line-in-q2-net-profit-doubles",
+     "date": "2026-11-04",
+     "source": "YourStory",
+     "label": "India · Policy & Regulation",
+     "snippet": "PhysicsWallah clocked an operational revenue of Rs 1,242.26 crore in Q2 FY27, up 18.2% YoY, while profit after tax doubled to Rs 142.29 crore, driven by digital scale and operating efficiencies.",
+     "lead": "PhysicsWallah posts Rs 1,242 Cr top-line in Q2; net profit doubles PhysicsWallah clocked an operational revenue of Rs 1,242.26 crore in Q2 FY27, up 18.2% YoY, while profit after tax doubled to Rs 142.29 crore, driven by digital scale and operating efficiencies. Team YS 17510 Stories Wednesday November 04, 2026 , 4 min Read The second quarter of the 2027 financial year marked a pivotal turn for PhysicsWallah (PW), as expanding scale and ...",
+     "image": "https://images.yourstory.com/cs/2/d99b1110116911ed9e63f54395117598/PWIPO1600x900-1757405223665.jpg",
+     "why": [
+      "Financials",
+      "Large deal (about $131M)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Financials",
+      "Policy & Regulation"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 79,
      "title": "Freshworks Swings To $18 Mn Profit In Q3, Revenue Rises 14% YoY To $245 Mn",
      "url": "https://inc42.com/buzz/freshworks-swings-to-18-mn-profit-in-q3-revenue-rises-14-yoy-to-245-mn/",
      "date": "2026-11-04",
@@ -192,8 +215,8 @@
     },
     {
      "desk": "Startups",
-     "score": 12,
-     "priority": 80,
+     "score": 11,
+     "priority": 79,
      "title": "Fractal Q2: Profit Zooms 139% YoY to ₹79 Cr, Revenue At ₹957 Cr",
      "url": "https://inc42.com/buzz/fractal-q2-profit-zooms-139-yoy-to-%e2%82%b979-cr-revenue-at-%e2%82%b9957-cr/",
      "date": "2026-11-04",
@@ -214,29 +237,8 @@
     },
     {
      "desk": "Startups",
-     "score": 12,
-     "priority": 80,
-     "title": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2",
-     "url": "https://yourstory.com/2026/10/jio-platforms-first-post-listing-results-user-growth-higher-arpu-drive-137-pc-profit-rise-in-q2",
-     "date": "2026-10-31",
-     "source": "YourStory",
-     "label": "India · Other",
-     "snippet": "The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review.",
-     "lead": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2 The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review. Press Trust of India 11249 Stories Saturday October 31, 2026 , 5 min Read The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review, ...",
-     "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/WhatsAppImage2026-10-28at11-1793168547436.jpeg",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $4,261M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 73,
+     "score": 10,
+     "priority": 71,
      "title": "Meta kicks off first euro bond sale in latest test for tech sector",
      "url": "https://economictimes.indiatimes.com/tech/technology/meta-kicks-off-first-euro-bond-sale-in-latest-test-for-tech-sector/articleshow/135532717.cms",
      "date": "2026-11-04",
@@ -258,12 +260,33 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 28,
+   "new_today": 2,
    "items": [
     {
      "desk": "Immigration",
      "score": 7,
-     "priority": 58,
+     "priority": 64,
+     "title": "Switzerland sets date for vote on bid to cut wait times for Swiss citizenship",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYWhwLVFsSk5ZaDBiampxb2lvVWt4djdrM3Byc1pETEF4WWdkMnMteTdzcm5RZi15czBwWnltaDh4Vl9qbTJKczVNYmhOZmNJd0pIdFQ0YTJ2eGNJc285N1hQSFBtOTc2eUpYNGliZllXeml1cjhOaTdTRkJLNWlpRkF5LXpkbWw4MXFQM3MtS0FaN19SbE5WUlVNbU9DYS1ZVnZGbUNBWkVHNGpYZ2M4?oc=5",
+     "date": "2026-10-29",
+     "source": "The Local Switzerland",
+     "label": "Switzerland",
+     "snippet": "Switzerland's controversial initiative to shorten residency requirements for naturalisation will be voted on in a February 28th referendum.",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Switzerland's controversial initiative to shorten residency requirements for naturalisation will be voted on in a February 28th referendum. After a two-year wait to be scheduled for a national vote, ...",
+     "image": null,
+     "why": [
+      "Affects citizenship",
+      "Announces a change"
+     ],
+     "tags": [
+      "Citizenship",
+      "Switzerland"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 55,
      "title": "Japan minister: Cap on foreign workers should eventually shrink",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tb2NSRE9RdWk5YzRHZFJmdlZ1aDdwcXBoeFIyZ0w4d2NzUnBqQTBZUklQVllpci1HY1VQUmNfM3RnUGRFUEh0SVpfSXB5VDBiTmFmNUZR?oc=5",
      "date": "2026-11-03",
@@ -283,29 +306,8 @@
     },
     {
      "desk": "Immigration",
-     "score": 7,
-     "priority": 58,
-     "title": "Could Austria finally change its rules on citizenship for children born in the country?",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUlkRHhWc1Jzdk9UVkRPLXllZFZLOUtFZGpkRzFNdDdvUEZuVEdGVHc0anlxd0l5WVpUT25lZ0hEaldjZzgtMVlhNXIyWnp0OHhyYjdwb1p5d204VjloeHh4NEgtZGZWX0IzcHRhS1hncTBxa0djSVdzX3dkNFNzSE92UnVQelF1NU80MHFiMVk0ZkU3LTB0ZjZ5SF9XYldyMV9ud0I3RkhwTFFWXy00Q01nMHNVdW0tT0NR?oc=5",
-     "date": "2026-10-30",
-     "source": "The Local Austria",
-     "label": "Austria",
-     "snippet": "Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change?",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change? The Austrian debate over citizenship for children ...",
-     "image": null,
-     "why": [
-      "Affects citizenship",
-      "Announces a change"
-     ],
-     "tags": [
-      "Citizenship",
-      "Austria"
-     ]
-    },
-    {
-     "desk": "Immigration",
      "score": 6,
-     "priority": 50,
+     "priority": 55,
      "title": "South Korea targets 4 lakh international students with proposed visa, employment reforms",
      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdHhSSDh4OEloX0Mtd1gyWGo1OGoycHJtamt1S0c2WGFka3ROVHhlODI2OVZQczVSaFRJYkJNZFVXV1hWdnB2ZFp5UTVSVDA0bDFRWnhVZm90V0N5SWJmZkd3V0RMS3ZISXFQMVJhU2dNUFlPd2dYMG5VRVJfcnhTMVM5Y1J3ckNPbGFxOEl6SjQzNUtiaEpaNjFvVl9jaWluaXFjLTVKZVJhVS0wZ2U4N2RMWlctM0s5VjFRLTZCSGdVdkxTQVFxN2s3LWlzc0FqVDhNLVl0MjFQOTE3UmZrWGQyeHbSAeoBQVVfeXFMUF82VlpkLXVoNjJKQ3ZLOEVPNXpZNzUyakhvOWxESFpSUDNQZUctVnEtdVVlMEVfdG85Mm5wNjUtS0JVclFQMWJKRk8xVHMwZTM3TlUxcS1ZdDFoSEpMclc4YklqZHJqZmdodEVsbUlodTF3YnYzU0FQc3NlaU9pY2tMMURYQ1dEa3ppMllCWElabndpam5EZ2xtbGYxZnhmSllOenRxR1hKZFM4MW9VOTNCcHJ1c3VKMnZXa3JlQ1hRMTM0RWstTHFTdEVXeUpVZXRiYlY3dmVUbDNyWG8td2pDa1hKNm45Y0xB?oc=5",
      "date": "2026-10-29",
@@ -326,20 +328,21 @@
     {
      "desk": "Immigration",
      "score": 5,
-     "priority": 42,
-     "title": "Immigration drives job growth in Spain: Social Security surpasses 22.6 million affiliates",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVlNIQi1sM040M0JacG4zME8weEcwMm9SSTBxdzFTQUMxR0d2UDdPdXZpZVM5RFFEelloSmtKXzBBZFNySzNmenI3d2NEVjhZaDZzUWlhRk5aVjk5NlZnU1lSa0NuYWh1Q3JuaUR4blU5bWx6TjhvOHpicWhoQ29BZUtwak5WZWlVYUQ3ajdwVVh6cmJWMDhqZ2phUFZNTVRQZjhYYnJNTlh0b1JqS0FkcHRKcW5fWEc4LWpBQzQzN0pDREtzdHNEV1gyNGY3cTZiakNXMEJDUXBLaVNtNmg4dGR3?oc=5",
-     "date": "2026-11-04",
-     "source": "El Constitucional",
-     "label": "Spain",
-     "snippet": "Employment adds 186,612 affiliates in October, the largest increase recorded in this month, while foreign workers already represent 16.4% of the total and contribute 598,378 more employed people than...",
-     "lead": "EuropaPress 7889813 fachada oficina empleo noviembre 2026 madrid espana paro registrado Add ElConstitucional.es as a preferred Google source for free. Stay informed about all the latest breaking news with the best information. Against disinformation, for democracy and social rights. Social Security closed October with an average of 22,624,165 affiliates, the highest figure in its historical series , after adding 186,612 employed people ...",
+     "priority": 45,
+     "title": "France offers citizenship to Malian immigrant who scaled building to rescue child",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fVVBRdTFEdFdhLTgzMERGTUJzTHJ0YVMteG5zT1NHc1ZLZmJYT19nME40WWZKRllFcmV2VVlOdkRRUEE1UmltWF91Uk5TbWtCX3RnS2xBSFNtVjE0?oc=5",
+     "date": "2026-10-29",
+     "source": "Reuters",
+     "label": "France",
+     "snippet": "",
+     "lead": "",
      "image": null,
      "why": [
-      "Announces a change"
+      "Affects citizenship"
      ],
      "tags": [
-      "Spain"
+      "Citizenship",
+      "France"
      ]
     }
    ]
@@ -348,6 +351,27 @@
    "total": 3000,
    "new_today": 10,
    "items": [
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 83,
+     "title": "SEBI issues rules for depositary receipts on REITs, InvITs units",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONDI4cks0S2RLOUF2UEVTd1kzdUU2cndOUWRwYjVDQWRvMHUwOHZuWFJwS0htQ05FRjNuNGJRd25MN1JqZ1VUZTV5OEpkT1plYVJCWFZzVnRIZnoxTGhsZF9YeDlqN1JkSUxWWXRFQUQzTUJENVlwUjZ2NnNvRXpremhON1Y0UkJPenRSUlhqZHLSAZgBQVVfeXFMT1FmRl96TVd1eWlJMjRYMUdJME9mN2V4Q2JVWW5lbDhacEgxTmRDaWt5X3JRdEJpUUNjU2ZWMkpQQU9aYzRqZ29kZ01CRmJDajhmVzV0Mlh0eWNxVEZ6QmxrSk5tWU5DUExWVFJyOGFFbG1PdUhoSElBRHRsaTltNk5WeS1NdHdHZm5tU3RYeXE5ZjBYaVJ6dS0?oc=5",
+     "date": "2026-11-03",
+     "source": "VCCircle",
+     "label": "REITs & InvITs",
+     "snippet": "India&#39;s markets regulator on Monday issued a depositary receipts framework to let foreign investors buy into real estate investment trusts (REITs)...",
+     "lead": "",
+     "image": "https://assets.vccircle.com/uploads/2025/05/resized-TZLYNXMPELKXRTROPTPINDIASEBIINVESTMENTS.jpg",
+     "why": [
+      "REIT / InvIT news",
+      "Regulator: SEBI or RBI",
+      "Also covered by 3 other outlet(s)"
+     ],
+     "tags": [
+      "REITs & InvITs"
+     ]
+    },
     {
      "desk": "Advisory",
      "score": 10,
@@ -372,64 +396,43 @@
     },
     {
      "desk": "Advisory",
-     "score": 10,
-     "priority": 83,
-     "title": "Indian bond yields spike 30 bps in October on rising oil prices, RBI rate hike fears",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSDhSRmxtLWh6Q3diZVJzQ0o0TEdGc0RSREYzRG9MdDY0WmV0N3lxcEkya1lPS1FSVURIUFRmdk80WG9xNTRYOGxCZS0wM3dGWEVpNTJLOWpGYnRiVkJJVU9FUnl0WVRGU3VvMUJPSlREcDBhWFVrZ2M3dk5uM0xhMmtOMVJIaWFEWVQ3MENuVlpBOEtrYVBWZVlzRDZHQ1RSejNIYWpfcjBCd0lFekk1cjE2M2M0Z9IBvAFBVV95cUxOcnRfZ0laVUFJWlo3Vkw5ZnBtdFUzQWJjd2pMMmMtZ19pQWoybEZBUHBseWJpX2htOTlTVzZCMGxpXzFrTWR0WlFyMmhKeWlPUzd0R0JXSVpvTENhcldKd3ZHT3NlLW55R3FmQkszLUNQV3FJTDR6U3hJN3NxamJfbWg5dlVHUlF0Um16UWEtZ3ZJVHhKcGNwTkVTVGdWaFNQRV8wc0FUbTVSTFEzeUhRbzZYbFd4UmxyVXRKaQ?oc=5",
-     "date": "2026-10-28",
-     "source": "The Financial Express",
-     "label": "Debt & Bonds",
-     "snippet": "",
-     "lead": "",
-     "image": null,
+     "score": 9,
+     "priority": 75,
+     "title": "SEBI Settles Category III AIF Case for ₹9.37 Lakh",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOXM5Ml9Xbk5NSjlUYnF0NzRRcno5N2dlWFNGNXhfUGpTazZubG9sUk43UlhlSTVDaWlBOFVBUERtMkxfYWwtSW85T0ExUTVER1Y4UTFmM1NMT0JKRVhWbTJDQ0tqOEE1QV93YzdMMTJSUWFJSzFKQ3Y0NTc5QkNlWVhibFZVWWthaVVuM0dCZWdVOVNrRlFQX3BDQjJQQUNIS0txUTZ5YlNrYVNWQ3dtVmVFVG1mM2JRQUEySVIwb1Mzcm9FeDN6dXUzOWJVQW93a1U4TzlxbjVpc2NUN0p4by03OGo?oc=5",
+     "date": "2026-11-04",
+     "source": "Taxscan",
+     "label": "AIF",
+     "snippet": "SEBI settles proceedings against a Category III AIF manager for failing to maintain the required continuing interest, upon payment of ₹9.37 lakh.",
+     "lead": "A proficient and enthusiastic legal professional expertise in corporate laws, completed BALLB with specialization in corporate laws , have strong hold in corporate governance, legal research and cyber laws.",
+     "image": "https://documents.taxscan.in/cms/media/sebi-settles-proceedings-against-category-iii-aif-manager-for-937-lakh-over-cont-7273b3.jpg",
      "why": [
-      "Regulator: SEBI or RBI",
-      "Interest-rate decision",
-      "Government bond yields"
+      "AIF news",
+      "Regulator: SEBI or RBI"
      ],
      "tags": [
-      "Debt & Bonds"
+      "AIF"
      ]
     },
     {
      "desk": "Advisory",
      "score": 9,
      "priority": 75,
-     "title": "SEBI’s Mutual Fund Lite Framework (2025)",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRkNXZTRUcy1XNUhDRlRlSnM5YUhhTXNxZGlqSUxrczBaSTVJbjJid09lX296aFR4WW9aSTJydUtzRVJRMlo2U3ROY2cxS1BabnBlcWVzdkpvbk1CbHpZbV8wQ2dtd3BPaXRZVjFrS2lTNjA3bVpPbWJ6MHBQbmFlcHlvS1lOZFdZRG53VWhHbFBUUQ?oc=5",
-     "date": "2026-11-03",
-     "source": "IMPRI Impact and Policy Research Institute",
-     "label": "Mutual Funds",
-     "snippet": "A fund that tracks an index does not make the same investment decisions as a fund whose manager actively selects securities, yet both have historically faced the same regulatory requirements. The Securities and Exchange Board of India (SEBI) introduced the Mutual Fund Lite (MF Lite) framework to address this, creating a separate, lighter-",
-     "lead": "A fund that tracks an index does not make the same investment decisions as a fund whose manager actively selects securities, yet both have historically faced the same regulatory requirements. The Securities and Exchange Board of India (SEBI) introduced the Mutual Fund Lite (MF Lite) framework to address this, creating a separate, lighter-touch regulatory route for passively managed schemes. SEBI’s Board Memorandum on the proposal ...",
-     "image": "https://i0.wp.com/www.impriindia.com/wp-content/uploads/2026/11/image.jpg",
+     "title": "Sebi exploring framework to speed up regulatory approval for AIFs: Pandey",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUktiMndacGVoeG5lN2lGS1ZIbWlqekdxaWd3eVE4VWtYV1RoZEI2T3RPRlJkUEI3eXJPY0NXWlB6dU9kOHFkWElILVl2U1ExcXNJSFEwS25uUjE0ZGZVYVJ1TnJmSnVFZkpzZ1ZmVkNUWmJicmJXZmdralZNZXlvVmIzUVJsVmZrR014VVhHcXZPcE9sSV9qOWNnR2dHcDh5X0wyN3ZBakhPSjh1Qm1IN1M5T1FCSm82SzRPYjBwM29SNlVCd2pETnNjUnZseEpzZXUzM0lNV1BVRTNQQ002N3ZR0gHcAUFVX3lxTE5FMjlWQWdoSkJsRzgyZ1lKTldVeUcydlNHdEx6XzMxVHJUTm9hSW9Obk0zbVVwWkVweC0tWmphZzN6N0o4MXB4aWlzcXFMTUZ1dXdXLWlYNEhPakJ2cGlnRG5SWi1QNXRDQUtUVk9CekcxNlBSOG5aYk1ZaWFtRzVJdG0xQjBDMjNQVGFiZFV5QWVxdFpneDhoR0g2RkpSMm44YXdKWUF0dzBtLUpkTEl1aXNBVkdEOWxOczViODgxVkZMSHFDUGg3OHJSUjlRY1pvUl9CUjBMRm5Yc1Y?oc=5",
+     "date": "2026-11-01",
+     "source": "ETLegalWorld.com",
+     "label": "AIF",
+     "snippet": "AIF Regulation: Sebi",
+     "lead": "We encourage you to review our Terms of Service , and Privacy Policy . By continuing, you agree to the Terms listed here. In case you want to opt out, please click \"Do Not Sell or Share My Personal Information\" link in the footer of this page. We won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or shared ...",
+     "image": "https://etimg.etb2bimg.com/thumb/msid-129475301,imgsize-39666,width-1200,height=627,overlay-etlegal,resizemode-75/regulators/sebi-exploring-framework-to-speed-up-regulatory-approval-for-aifs-pandey.jpg",
      "why": [
+      "AIF news",
       "Regulator: SEBI or RBI",
       "Rule or framework change"
      ],
      "tags": [
-      "Mutual Funds"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
-     "title": "RBI raises Floating Rate Bond rate to 7.26%: How much more will you earn",
-     "url": "https://www.business-standard.com/finance/personal-finance/rbi-raises-floating-rate-bond-rate-to-7-26-how-much-more-will-you-earn-126110300818_1.html",
-     "date": "2026-11-03",
-     "source": "Business Standard",
-     "label": "Debt & Bonds",
-     "snippet": "The revised rate will apply until April 29, 2027, boosting six-month interest payouts for existing bondholders",
-     "lead": "Don't miss the most important news and views of the day. Get them on our Telegram channel",
-     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/13/thumb/fitandfill/1200X628/1791878626-5236.JPG",
-     "why": [
-      "Regulator: SEBI or RBI",
-      "New product or fund",
-      "Also covered by 1 other outlet(s)"
-     ],
-     "tags": [
-      "Debt & Bonds"
+      "AIF"
      ]
     }
    ]
@@ -438,7 +441,7 @@
  "items": [
   {
    "desk": "Policy",
-   "score": 16,
+   "score": 15,
    "priority": 100,
    "title": "Cabinet approves Rs.14,500 crore Viability Gap Funding Scheme for development of 92 GWh Grid-Scale Energy Storage Systems",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332474",
@@ -461,7 +464,7 @@
   },
   {
    "desk": "Startups",
-   "score": 15,
+   "score": 14,
    "priority": 100,
    "title": "Razorpay gets Sebi nod for Rs 5,000-6,000 Cr IPO; eyes $5B valuation",
    "url": "https://yourstory.com/2026/11/razorpay-gets-sebi-nod-for-rs-5000-6000-cr-ipo-eyes-5b-valuation",
@@ -485,20 +488,20 @@
   },
   {
    "desk": "Immigration",
-   "score": 12,
+   "score": 11,
    "priority": 100,
-   "title": "Earned settlement: a faster route to permanent residence for the UK’s highest earners and global talent",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObEkxQmRLem1FQnlEd20tMy1ZVllFMWNfb3FZQ3RoSFdEbU1IZmM5aXBLUVd6TkFxS2lndGN5OTR0WHRyeU9UaXFMZDZhZXlBRENZMWZlamFmNVRoNkwzdTV5ZXpzZlVYOUVlZEx3YzZJZ3VVZjFkUkM5SjREbGk0ZGM2al9UQ1lrVWpwWThkNFBBREdMajdRRHlUVVpWMlFZeHJ0V2pKbmU3SG5Kb3NjenUxejFOYWNxalFfTTVEZFdEUQ?oc=5",
+   "title": "UK Earned Settlement: When Immigration Status Becomes an Incentive for Growth and Compliance",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUGpFS3ZZRENueDliQk1uWjU5VG9jcWoxdWd6SUR2RDBPYzN2MVZLdUtadWhiNGhIMmFoeklUNGduNl9Ua2lYVXhLMDdjTzROdU9MZjNTUW5yTTNXbE5GSDEtTFlOcDlma2RzVFlyUkVJbGpsUXFvdVpPbkFzM09nY1JmTnFqYlMxc0EwRnd4a29vSFlZaThCaUtZemNENFJkU09mMW9XUzRxcWp4ZGt2VXM2a1p6VmUydGZ1VENNVHJHQ1hvLXQ0UGtR?oc=5",
    "date": "2026-11-04",
-   "source": "Macfarlanes",
+   "source": "Fragomen",
    "label": "United Kingdom",
-   "snippet": "On 2 November 2026, the Home Secretary, Shabana Mahmood, set out the Government",
-   "lead": "Our people What we do Who we are Insights Join us Our people What we do Private Capital Private Wealth M&A Disputes All services Case studies Supporting Private Capital Managers Private Capital Solutions Tailored solutions for the private capital industry. C-suite HNW Individuals and Advisors Private Capital Professionals Tax Directors Featured theme",
-   "image": "https://cdn.cloudinary.com/macfarlanes/image/fetch/t_opengraph/t_watermark/https://images.passle.net/fit-in/2000x0/filters:crop(0,333,3990,2239)/Passle/MediaLibrary/Images/2026-01-09-17-39-34-012-69613d56d42b6e4a58415609.jpg",
+   "snippet": "In a new blog, UK Government Affairs Strategy Director Shuyeb Muquit examines what the framework could mean for employers, including potential impacts on sponsorship costs, retention planning, employee communications and support for internationally mobile workers and their families.",
+   "lead": "Days after the Budget showed how immigration policy might support wider economic objectives , the Government's final Earned Settlement framework takes that approach further by using immigration status itself as a policy lever. Earlier permanent residence will reward economic and public-service contribution, while longer pathways will attach consequences to immigration non-compliance and specified use of public funds. Settlement is ...",
+   "image": "https://www.fragomen.com/a/web/5MaBUUbsT63wtF5ja1m5fg/eD4YJ8/uk-earned-settlement_-when-immigration-status-becomes-an-incentive-for-growth-and-compliances-cc.jpg",
    "why": [
     "Affects permanent residence",
     "Announces a change",
-    "Major story (10 headlines that day)"
+    "Major story (13 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
@@ -511,19 +514,18 @@
    "desk": "Advisory",
    "score": 12,
    "priority": 100,
-   "title": "RBI launches the November 2026 round of Urban Consumer Confidence Survey",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63908",
-   "date": "2026-11-03",
-   "source": "RBI",
+   "title": "SEBI forms working group to review Innovators Growth Platform framework",
+   "url": "https://www.thehindubusinessline.com/markets/sebi-forms-working-group-to-review-innovators-growth-platform-framework/article71666591.ece",
+   "date": "2026-11-04",
+   "source": "BusinessLine",
    "label": "Regulatory",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The Reserve Bank of India has been regularly conducting Urban Consumer Confidence Survey (UCCS). The November 2026 round of the survey is being launched. The survey seeks qualitative responses from households, regarding their sentiments on general economic situation, employment scenario, price level, households’ income and spending. The survey is conducted regularly in 19 cities, viz., Ahmedabad, Bengaluru, Bhopal, Bhubaneswar, ...",
-   "image": null,
+   "snippet": "SEBI forms an 18-member working group to review and upgrade Innovators Growth Platform rules for better access to capital for deep-tech and innovation-led firms.",
+   "lead": "' blCenterIconDiv.innerHTML = spanSvg blLoaderDiv.appendChild(blCenterLoadDiv) blLoaderDiv.appendChild(blCenterIconDiv) divInner.appendChild(blLoaderDiv) div.appendChild(divInner) var bodyIntravel = setInterval(() => { if(window.document.body) { clearInterval(bodyIntravel) window.document.body.insertBefore(div, window.document.body.firstChild) } }, 100) function addStyle(styles) { var css = document.createElement('style'); css.type = ...",
+   "image": "https://bl-i.thgim.com/public/incoming/9jew5t/article71663736.ece/alternates/LANDSCAPE_1200/2025-03-24T133634Z_1495740992_RC2LJDA9KT1O_RTRMADP_3_INDIA-SEBI-REGULATIONS.JPG",
    "why": [
     "Regulator: SEBI or RBI",
-    "New product or fund",
-    "Official notice",
-    "Also covered by 1 other outlet(s)"
+    "Rule or framework change",
+    "Also covered by 3 other outlet(s)"
    ],
    "tags": [
     "Regulatory"
@@ -533,7 +535,7 @@
   },
   {
    "desk": "Startups",
-   "score": 14,
+   "score": 13,
    "priority": 93,
    "title": "Indian startups with over $500M valuation grow to 51 despite low number of AI entities: Report",
    "url": "https://yourstory.com/2026/11/indian-startups-over-500m-valuation-grow-51-despite-low-number-ai-entities-report",
@@ -559,21 +561,22 @@
    "desk": "Advisory",
    "score": 11,
    "priority": 92,
-   "title": "RBI raises repo rate by 25 bps to 5.50 amid challenging global environment",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYXQ1b1g1eHRVVlp6TnptWXBrRXIwb2ZlMC1CZlNJTnltVjNGV2s3NG82VTkwR1lXWmVuTUhmSWJYUWtMOEJBdlE4RzJKbk4wbUlZTjEzTnZ4ZnVzUjNQcHVBeHg0aXFYbUdsSDRzQ0VlOWVYRTJocU5fb2MxN1JSWHhib1BydUVxZzJuRGkxLVk4QjVORTR1dTdVcjVOS0R1Q3c2b0F3?oc=5",
-   "date": "2026-11-03",
-   "source": "MorungExpress",
-   "label": "Regulatory",
-   "snippet": "New Delhi, October 7 (IANS) The Reserve Bank of India’s Monetary Policy Committee (MPC) meeting -- led by Governor Sanjay Malhotra -- on Wednesday announced to raise key policy rate by 25 basis-points (bps), taking it to 5.50 amid a challenging global env",
-   "lead": "New Delhi, October 7 (IANS) The Reserve Bank of India’s Monetary Policy Committee (MPC) meeting -- led by Governor Sanjay Malhotra -- on Wednesday announced to raise key policy rate by 25 basis-points (bps), taking it to 5.50 amid a challenging global environment. SDF rate stands adjusted at 5.25 per cent, and the marginal standing facility range and the bank rate to 5.75 per cent, said the RBI. After the three-day brainstorming, ...",
-   "image": "https://morungexpress.com/uploads/2026/10/91395261_1791353175_202610073969198.jpg",
+   "title": "Indian bond yields log strongest rally since April; 10-year yield closes at 7.19% on softer crude, US midterm election outcome",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPU1hRS0hJV09MX2JEOXdqQmNTTWhDTHhoYVdnazVEaERlOGNBekxwNEdlNzBsMm1TZzI4aWk0NUlHekZOdTRjNlJ0ZU11ZTBrT3FPN2djM0pDWHgwaURkX3RnaEVXa1ZKblB0ZW41RlIzdTNmb00xTlVja2h4Wi0taThhclRWOHJVcHRtQ3NfcDFOSnc5R3VCMGNYUmhjSkl4R0JGR1pDVlV6ZngxZzZQZVhpd3dva2VoVG9KSktlZW8xS2NvWEJOVms4SE9wcUNna0tGNjdtZzgyQndtbGRKMUVzbmxIQ2p1YXRHNzJRWjB3WUxHdHVCZTYxc0tkRjdObkE0MndMY09MN2dMMGlRSEkxVG0?oc=5",
+   "date": "2026-11-04",
+   "source": "Moneycontrol.com",
+   "label": "Debt & Bonds",
+   "snippet": "",
+   "lead": "",
+   "image": null,
    "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
+    "Government bond yields",
+    "Global macro driver",
+    "Sharp market move",
     "New product or fund"
    ],
    "tags": [
-    "Regulatory"
+    "Debt & Bonds"
    ],
    "rank": 6,
    "must_read": false
@@ -582,46 +585,23 @@
    "desk": "Advisory",
    "score": 11,
    "priority": 92,
-   "title": "SEBI Allows REITs and InvITs to Issue Depository Receipts Through GIFT City",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVm9EQ1cxQW9famdKSzI2WHpFSXN4b2ZaNkdnRC14MEJFakNBYmRHSm5lMVdHd3BMZnA0Z3pWcWQwUWFMZ3A3LUpveDdZb09EMHJjWXJwS2ljbmpjSC1Gai1lRmxlRTR1ZnBad1psSjFJMUowN0RmVDFnWlZROTdKUDNQLUxtVzV0N0VMWlhhVUtmWlpfRkFRNTRraktfSUpURnJhbVVucGtSVldZNy12MVp3?oc=5",
-   "date": "2026-11-03",
-   "source": "The Realty Today",
-   "label": "REITs & InvITs",
-   "snippet": "SEBI introduces a depository receipt framework for REITs and InvITs through GIFT City exchanges, creating an additional investment route for overseas investors and expanding access to India's real estate and infrastructure markets.",
+   "title": "Sensex falls, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRVVzOWRUTExHTmJOUFhzX0tmWDdhWm8ycVpaZ0FrR1FIMElpOHhua2gxWHdJWnpDRHRhVWowY0lUdk1BakVGMVlBZHpqR3BtamRiS1FXWUptWW5sdVp1MGFWQzFFanBhTUJVdWxicVRQN1ZZV3hKa2VLNHNvTExKMklwaTN3TWVjdWRHQ3hjRzVUSEhvSzk2UjI5LVRHX0JFOEs3d1Ewb2MwOWt2UHIw?oc=5",
+   "date": "2026-11-04",
+   "source": "DD News",
+   "label": "Regulatory",
+   "snippet": "",
    "lead": "",
-   "image": "https://evoluxar-production-s3.s3.ap-south-1.amazonaws.com/trt/media/sebi_enables_reits_and_invits_depository_receipts_via_gift_city-1793690715407-106309.png",
+   "image": null,
    "why": [
-    "REIT / InvIT news",
     "Regulator: SEBI or RBI",
-    "Also covered by 3 other outlet(s)"
+    "Global macro driver",
+    "Sharp market move"
    ],
    "tags": [
-    "REITs & InvITs"
+    "Regulatory"
    ],
    "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "SEBI issues rules for depositary receipts on REITs, InvITs units",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONDI4cks0S2RLOUF2UEVTd1kzdUU2cndOUWRwYjVDQWRvMHUwOHZuWFJwS0htQ05FRjNuNGJRd25MN1JqZ1VUZTV5OEpkT1plYVJCWFZzVnRIZnoxTGhsZF9YeDlqN1JkSUxWWXRFQUQzTUJENVlwUjZ2NnNvRXpremhON1Y0UkJPenRSUlhqZHLSAZgBQVVfeXFMT1FmRl96TVd1eWlJMjRYMUdJME9mN2V4Q2JVWW5lbDhacEgxTmRDaWt5X3JRdEJpUUNjU2ZWMkpQQU9aYzRqZ29kZ01CRmJDajhmVzV0Mlh0eWNxVEZ6QmxrSk5tWU5DUExWVFJyOGFFbG1PdUhoSElBRHRsaTltNk5WeS1NdHdHZm5tU3RYeXE5ZjBYaVJ6dS0?oc=5",
-   "date": "2026-11-03",
-   "source": "VCCircle",
-   "label": "REITs & InvITs",
-   "snippet": "India&#39;s markets regulator on Monday issued a depositary receipts framework to let foreign investors buy into real estate investment trusts (REITs)...",
-   "lead": "",
-   "image": "https://assets.vccircle.com/uploads/2025/05/resized-TZLYNXMPELKXRTROPTPINDIASEBIINVESTMENTS.jpg",
-   "why": [
-    "REIT / InvIT news",
-    "Regulator: SEBI or RBI",
-    "Also covered by 3 other outlet(s)"
-   ],
-   "tags": [
-    "REITs & InvITs"
-   ],
-   "rank": 8,
    "must_read": false
   },
   {
@@ -644,13 +624,13 @@
    "tags": [
     "Mutual Funds"
    ],
-   "rank": 9,
+   "rank": 8,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 14,
-   "priority": 88,
+   "score": 13,
+   "priority": 87,
    "title": "Cabinet approves continuation of the Centrally Sponsored Scheme for Fast Track Special Courts (FTSCs) for expeditious trial of cases of rape and POCSO (Protection of Children from Sexual Offences) Act for a further period of five years (FY 2026-27 to FY 2030-31)",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332483",
    "date": "2026-11-04",
@@ -666,13 +646,13 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 10,
+   "rank": 9,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 14,
-   "priority": 88,
+   "score": 13,
+   "priority": 87,
    "title": "Cabinet approves ‘Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR)’, a central sector scheme for the period 2026-27 to 2030-31",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332480",
    "date": "2026-11-04",
@@ -688,13 +668,13 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 11,
+   "rank": 10,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 14,
-   "priority": 88,
+   "score": 13,
+   "priority": 87,
    "title": "Cabinet Approves Capex Support Scheme to Promote Critical Mineral Processing with an Outlay of Rs.2,814 Crore for Lithium and Nickel processing",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332476",
    "date": "2026-11-04",
@@ -710,13 +690,13 @@
    "tags": [
     "Budget & Fiscal"
    ],
-   "rank": 12,
+   "rank": 11,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 13,
-   "priority": 87,
+   "score": 12,
+   "priority": 86,
    "title": "Revolut completes funding round at $115 billion valuation",
    "url": "https://economictimes.indiatimes.com/tech/technology/revolut-completes-funding-round-at-115-billion-valuation/articleshow/135543134.cms",
    "date": "2026-11-04",
@@ -734,13 +714,13 @@
     "Funding",
     "Fintech"
    ],
-   "rank": 13,
+   "rank": 12,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 13,
-   "priority": 87,
+   "score": 12,
+   "priority": 86,
    "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
    "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
    "date": "2026-11-04",
@@ -758,13 +738,13 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 14,
+   "rank": 13,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 13,
-   "priority": 87,
+   "score": 12,
+   "priority": 86,
    "title": "India's next space unicorn may still be in college",
    "url": "https://yourstory.com/2026/10/indias-next-space-unicorn-may-still-be-in-college",
    "date": "2026-11-03",
@@ -782,84 +762,83 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 83,
-   "title": "New penalties for fraudulent and unauthorized immigration and citizenship representatives",
-   "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/10/new-penalties-for-fraudulent-and-unauthorized-immigration-and-citizenship-representatives.html",
-   "date": "2026-10-28",
-   "source": "IRCC (Government of Canada)",
-   "label": "Canada",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Affects citizenship",
-    "Official government notice",
-    "Major story (16 headlines that day)"
-   ],
-   "tags": [
-    "Citizenship",
-    "Canada"
-   ],
-   "rank": 16,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 13,
-   "priority": 81,
-   "title": "Cabinet approves Container Manufacturing Promotion Scheme",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329476",
-   "date": "2026-10-28",
-   "source": "PIB",
-   "label": "Industry & Manufacturing",
-   "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the Container Manu",
-   "lead": "Cabinet Cabinet approves Container Manufacturing Promotion Scheme Posted On: 28 OCT 2026 3:42PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the Container Manufacturing Promotion Scheme (CMPS) with budgetary outlay of Rs.10,000 crore upto FY 2039-40 envisages to establish a globally competitive container manufacturing ecosystem in India, reduce import dependence and strengthen ...",
-   "image": null,
-   "why": [
-    "Cabinet decision",
-    "Cabinet",
-    "Large outlay (Rs 10,000 Cr or more)"
-   ],
-   "tags": [
-    "Industry & Manufacturing"
-   ],
-   "rank": 17,
+   "rank": 14,
    "must_read": false
   },
   {
    "desk": "Startups",
    "score": 12,
-   "priority": 80,
-   "title": "PhysicsWallah posts Rs 1,242 Cr top-line in Q2; net profit doubles",
-   "url": "https://yourstory.com/2026/11/physicswallah-posts-rs-1242-cr-top-line-in-q2-net-profit-doubles",
-   "date": "2026-11-04",
+   "priority": 86,
+   "title": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2",
+   "url": "https://yourstory.com/2026/10/jio-platforms-first-post-listing-results-user-growth-higher-arpu-drive-137-pc-profit-rise-in-q2",
+   "date": "2026-10-31",
    "source": "YourStory",
-   "label": "India · Policy & Regulation",
-   "snippet": "PhysicsWallah clocked an operational revenue of Rs 1,242.26 crore in Q2 FY27, up 18.2% YoY, while profit after tax doubled to Rs 142.29 crore, driven by digital scale and operating efficiencies.",
-   "lead": "PhysicsWallah posts Rs 1,242 Cr top-line in Q2; net profit doubles PhysicsWallah clocked an operational revenue of Rs 1,242.26 crore in Q2 FY27, up 18.2% YoY, while profit after tax doubled to Rs 142.29 crore, driven by digital scale and operating efficiencies. Team YS 17510 Stories Wednesday November 04, 2026 , 4 min Read The second quarter of the 2027 financial year marked a pivotal turn for PhysicsWallah (PW), as expanding scale and ...",
-   "image": "https://images.yourstory.com/cs/2/d99b1110116911ed9e63f54395117598/PWIPO1600x900-1757405223665.jpg",
+   "label": "India · Other",
+   "snippet": "The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review.",
+   "lead": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2 The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review. Press Trust of India 11249 Stories Saturday October 31, 2026 , 5 min Read The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review, ...",
+   "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/WhatsAppImage2026-10-28at11-1793168547436.jpeg",
    "why": [
-    "Financials",
-    "Large deal (about $131M)",
+    "IPO & Listing",
+    "Very large figure in headline (about $4,261M: round or valuation)",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Financials",
-    "Policy & Regulation"
+    "IPO & Listing"
    ],
-   "rank": 18,
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 83,
+   "title": "SEBI Allows REITs and InvITs to Issue Depository Receipts Through GIFT City",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVm9EQ1cxQW9famdKSzI2WHpFSXN4b2ZaNkdnRC14MEJFakNBYmRHSm5lMVdHd3BMZnA0Z3pWcWQwUWFMZ3A3LUpveDdZb09EMHJjWXJwS2ljbmpjSC1Gai1lRmxlRTR1ZnBad1psSjFJMUowN0RmVDFnWlZROTdKUDNQLUxtVzV0N0VMWlhhVUtmWlpfRkFRNTRraktfSUpURnJhbVVucGtSVldZNy12MVp3?oc=5",
+   "date": "2026-11-03",
+   "source": "The Realty Today",
+   "label": "REITs & InvITs",
+   "snippet": "SEBI introduces a depository receipt framework for REITs and InvITs through GIFT City exchanges, creating an additional investment route for overseas investors and expanding access to India's real estate and infrastructure markets.",
+   "lead": "",
+   "image": "https://evoluxar-production-s3.s3.ap-south-1.amazonaws.com/trt/media/sebi_enables_reits_and_invits_depository_receipts_via_gift_city-1793690715407-106309.png",
+   "why": [
+    "REIT / InvIT news",
+    "Regulator: SEBI or RBI",
+    "Also covered by 3 other outlet(s)"
+   ],
+   "tags": [
+    "REITs & InvITs"
+   ],
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 82,
+   "title": "Canada introduces penalties of up to $1.5 million for immigration and citizenship fraud",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb00tZnljWExScFo2MElrU2hnblg2eW9YSGtUYmJ0Qm54MTJyUmlRRWpib0t3Qjg5eE95N3ZPbnZfLTZKM0ZLczYtQWRqelZ4RTVtd1lHZGU4VktoSEg4d3dFOWJRRTZHaEctTUJlTmVkendIWXNVeFUzWkpJTVlXM0hKekVaVk4zZzF6c3ROLU52MkhhYUpEM1pHeE0waTJEQUgwT0lxWWpONWtIRl9FeHlDMExOdDA2a3Z4OVJVdFdfUmRlU1hxVTFHQ3U?oc=5",
+   "date": "2026-10-29",
+   "source": "RED FM Canada",
+   "label": "Canada",
+   "snippet": "",
+   "lead": "October 29, 2026 The Government of Canada has introduced new penalties of up to $1.5 million for individuals and representatives who break the law while providing paid immigration or citizenship advice and representation. The measures, which came into force on October 28, 2026, apply to licensed immigration consultants, lawyers, other authorized representatives and individuals who provide paid services without authorization. Under the ...",
+   "image": "https://cdn.redfm.ca/image/2026/10/Canadian-flag.png",
+   "why": [
+    "Affects citizenship",
+    "Announces a change",
+    "Major story (21 headlines that day)"
+   ],
+   "tags": [
+    "Citizenship",
+    "Canada"
+   ],
+   "rank": 17,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 12,
-   "priority": 75,
+   "score": 11,
+   "priority": 73,
    "title": "Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13750&Mode=0",
    "date": "2026-11-03",
@@ -876,13 +855,13 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 19,
+   "rank": 18,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 9,
-   "priority": 75,
+   "score": 8,
+   "priority": 73,
    "title": "Australia Student Visa Rules Could Change: Indians May Have To Deposit Funds In Local Banks",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTHB3dzBPdXlSWjU1ZHl3VmF0YXFqMVRKMTRtUkFpbnhkbEtMLTF4U2lfYUxfN3Uza3psa1Q3a3p1NnVpVlVaMkNKUWo2SHpIVWJtc2ZFcVgtRWpZbDBoLTNGR3lpRElPS1ltZ01rSHFHNWg5MTFSM1V5ejhTeXh3Z1hYbVpHOVZVWUhtcmVnaTNvVnotVU9TMnBHY19CSGM1NHJqWFFmcnN4THdPckRJUElTVVpKYzhOTVktNkN0UFcxQ1pUQ3c2ZzVxN1J5NElHQmfSAdoBQVVfeXFMTzFpWHVZMW03dzRxak54cms4TVlNMmFHSEluYXZYODVQVk54aktWby1ZTkhGekxoMEtLWFpBSHNjdlFtTkFVMGVDZGlfcDNkd1QtOFozQUdQeGJqTGZCNDhpeENWUXc5VV9iejN2SU9kbEdYc214UHlkVnNwTllGMkEzakh3cVF2ZXhJZDNXWFlQcUxSdXFoNWo1a2FOZmFEM1RyTDNKQ2ZiTmRrSGhWWjFjSzJZRXJHcUl3cFp1WGdkMUotVS1CQWprMTBnOVhScE9tQVp0WUx4bXc?oc=5",
    "date": "2026-11-02",
@@ -900,13 +879,13 @@
     "Student / Graduate",
     "Australia"
    ],
-   "rank": 20,
+   "rank": 19,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 8,
-   "priority": 67,
+   "score": 7,
+   "priority": 64,
    "title": "Iceland Proposes 93% Rise in Residence Permit Income Threshold",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2xubEdnc3BQSkRWSjNDTWpIY3oyakRENW5oTWN6OWNXQ1dHanYzQXNVQ0pYUWQ1N3Vvd2toNzQ3Zk56QUduMmJqRnNhZGpCQWlaSmlvanhQSFFxaE4wZkNtcXhReDNvS0R1RURsQmkyeUtLR0Rqa3h4MXpRQWZ3cmJRTlQyU2F3Smc?oc=5",
    "date": "2026-11-04",
@@ -923,13 +902,36 @@
     "Salary threshold",
     "Iceland"
    ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 64,
+   "title": "Could Austria finally change its rules on citizenship for children born in the country?",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUlkRHhWc1Jzdk9UVkRPLXllZFZLOUtFZGpkRzFNdDdvUEZuVEdGVHc0anlxd0l5WVpUT25lZ0hEaldjZzgtMVlhNXIyWnp0OHhyYjdwb1p5d204VjloeHh4NEgtZGZWX0IzcHRhS1hncTBxa0djSVdzX3dkNFNzSE92UnVQelF1NU80MHFiMVk0ZkU3LTB0ZjZ5SF9XYldyMV9ud0I3RkhwTFFWXy00Q01nMHNVdW0tT0NR?oc=5",
+   "date": "2026-10-30",
+   "source": "The Local Austria",
+   "label": "Austria",
+   "snippet": "Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change?",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change? The Austrian debate over citizenship for children ...",
+   "image": null,
+   "why": [
+    "Affects citizenship",
+    "Announces a change"
+   ],
+   "tags": [
+    "Citizenship",
+    "Austria"
+   ],
    "rank": 21,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 10,
-   "priority": 62,
+   "score": 9,
+   "priority": 60,
    "title": "TRAI releases “The Telecommunication Interconnection (Third Amendment) Regulations, 2026”",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2331941",
    "date": "2026-11-03",
@@ -949,23 +951,23 @@
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 58,
-   "title": "Switzerland may reduce citizenship residency requirement to five years – Experts Club",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMGh2bjR3RVkzMjRSNHUzTTM3WG5SZG05Z0pRYTJNOVp3NkRZYWJBcWpGMi1sRUl1amVvcnJ2S2tJSGd0ZzNlYzhGZEx5NktxWWpFSHlyVDEwdGJqZnVFbXNmVVR2OEkxTlp6MENFS21NS1IzcTBOS0xjckFHXzNIejNWZEwzOURCXzR1M1FsT2xVWFZKSTlubWZlMG5tOWJicEJaaEJSaHZtVFhyb01ZUG9CZzV4V28?oc=5",
-   "date": "2026-11-04",
-   "source": "Open4business.com.ua.",
-   "label": "Switzerland",
-   "snippet": "Switzerland will hold a nationwide referendum on February 28, 2027, on simplifying citizenship procedures for foreign residents. The proposed reform would reduce the minimum legal residency requirement from ten to five years, eliminate the mandatory permanent residence permit C and introduce uniform federal naturalization rules, reports t",
-   "lead": "Switzerland will hold a nationwide referendum on February 28, 2027, on simplifying citizenship procedures for foreign residents. The proposed reform would reduce the minimum legal residency requirement from ten to five years, eliminate the mandatory permanent residence permit C and introduce uniform federal naturalization rules, reports the Experts Club information and analytical center . The Swiss Federal Council decided on October ...",
-   "image": "https://open4business.com.ua/wp-content/uploads/2026/11/12.png",
+   "desk": "Policy",
+   "score": 9,
+   "priority": 60,
+   "title": "Government of India extends Customs Duty Exemption on Cotton imports up to 31st December 2026",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330823",
+   "date": "2026-10-31",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "Keeping in view the raw material requirements of domestic textile industry, Government of India has",
+   "lead": "Ministry of Textiles Government of India extends Customs Duty Exemption on Cotton imports up to 31st December 2026 Posted On: 31 OCT 2026 2:38PM by PIB Delhi Keeping in view the raw material requirements of domestic textile industry, Government of India has extended the existing customs duty exemption on cotton imports until 31 st December 2026. The extension has been notified by the Department of Revenue, Ministry of Finance, vide ...",
+   "image": null,
    "why": [
-    "Affects citizenship"
+    "Duty or tariff change",
+    "Rule change"
    ],
    "tags": [
-    "Citizenship",
-    "Switzerland"
+    "Tax, Duties & Trade"
    ],
    "rank": 23,
    "must_read": false
