@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-04",
- "built": "2026-11-04 11:32 IST",
+ "built": "2026-11-04 12:28 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23812.0,
-   "change_pct": 0.01,
-   "asof": "04 Nov 11:32 IST"
+   "value": 23816.0,
+   "change_pct": 0.02,
+   "asof": "04 Nov 12:28 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 76984.0,
-   "change_pct": 0.09,
-   "asof": "04 Nov 11:17 IST"
+   "value": 76725.0,
+   "change_pct": -0.25,
+   "asof": "04 Nov 12:13 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.82,
-   "change_pct": 0.1,
-   "asof": "04 Nov 11:32 IST"
+   "value": 94.78,
+   "change_pct": 0.05,
+   "asof": "04 Nov 12:28 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 103.54,
-   "change_pct": -0.06,
-   "asof": "04 Nov 11:21 IST"
+   "value": 104.29,
+   "change_pct": 0.67,
+   "asof": "04 Nov 12:18 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4009.0,
-   "change_pct": 1.74,
-   "asof": "04 Nov 11:22 IST"
+   "value": 4030.0,
+   "change_pct": 2.26,
+   "asof": "04 Nov 12:18 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,8 +79,8 @@
  },
  "desks": {
   "Policy": {
-   "total": 296,
-   "new_today": 1,
+   "total": 297,
+   "new_today": 2,
    "items": [
     {
      "desk": "Policy",
@@ -165,9 +165,51 @@
    ]
   },
   "Startups": {
-   "total": 1195,
-   "new_today": 14,
+   "total": 1198,
+   "new_today": 17,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 73,
+     "title": "Awfis Q2 profit jumps 93% to Rs 31 Cr, revenue rises to Rs 464 Cr",
+     "url": "https://yourstory.com/2026/11/awfis-q2-profit-jumps-93-to-rs-31-cr-revenue-rises-to-rs-464-cr",
+     "date": "2026-11-04",
+     "source": "YourStory",
+     "label": "India · Other",
+     "snippet": "During April-September period of FY27, the company's net profit rose to Rs 54.76 crore from Rs 25.95 crore in the year-ago period.",
+     "lead": "Awfis Q2 profit jumps 93% to Rs 31 Cr, revenue rises to Rs 464 Cr During April-September period of FY27, the company's net profit rose to Rs 54.76 crore from Rs 25.95 crore in the year-ago period. Press Trust of India 11255 Stories Wednesday November 04, 2026 , 2 min Read Realty firm Awfis Space Solutions Ltd has reported a 93% increase in its consolidated profit to Rs 30.8 crore for the quarter ended September on higher income amid ...",
+     "image": "https://images.yourstory.com/cs/2/3fb20ae02dc911e9af58c17e6cc3d915/Imagexq9t-1607597815820.jpg",
+     "why": [
+      "Financials",
+      "Sizeable deal (about $49M)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Financials"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 73,
+     "title": "Meta raises $15 billion in five-part US bond sale",
+     "url": "https://economictimes.indiatimes.com/tech/technology/meta-raises-15-billion-in-five-part-us-bond-sale/articleshow/135522649.cms",
+     "date": "2026-11-04",
+     "source": "ET Startups",
+     "label": "Global · AI & Deeptech",
+     "snippet": "The tech giant's offering adds to a wave of fundraising as companies raise fresh capital to finance AI data centers, computing capacity and cloud expansion, despite traditionally relying on cash-rich balance sheets to fund growth.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-71652,resizemode-75,msid-135522649/tech/technology/meta-raises-15-billion-in-five-part-us-bond-sale.jpg",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $15,000M: round or valuation)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 11,
@@ -209,54 +251,12 @@
       "Funding",
       "Commerce & D2C"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 73,
-     "title": "Cognizant In Talks To Invest In Sarvam At $3.5 Bn To $4 Bn Valuation: Report",
-     "url": "https://inc42.com/buzz/cognizant-in-talks-to-invest-in-sarvam-at-3-5-bn-to-4-bn-valuation-report/",
-     "date": "2026-10-28",
-     "source": "Inc42",
-     "label": "India · AI & Deeptech",
-     "snippet": "Cognizant is reportedly in talks to invest in Sarvam AI at a $3.5-4 Bn valuation, following HCLTech’s $150 Mn investment in the AI unicorn",
-     "lead": "Cognizant is reportedly in talks to invest in Sarvam AI as part of a proposed $300 Mn fundraise at a $3.5-4 Bn valuation The investment could make Cognizant the second IT services major on Sarvam’s cap table after HCLTech, as IT companies seek to strengthen their AI capabilities Sarvam raised $234 Mn in the first close of its $300 Mn Series B in June at a $1.5 Bn valuation, with HCLTech investing $150 Mn",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Sarvam-Open-Source-Story-social.jpg",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $4,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 67,
-     "title": "EloElo Group Bags $80 Mn From NBCUniversal, Others To Take Its Microdrama Biz Global",
-     "url": "https://inc42.com/buzz/eloelo-group-bags-80-mn-to-take-its-microdrama-biz-global/",
-     "date": "2026-11-04",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "Microdrama platform Story TV’s parent EloElo Group has raised $80 Mn in a Series C funding round led by Hornbill Capital and NBCUniversal.",
-     "lead": "Besides Hornbill Capital and NBCUniversal, the round also saw participation from MIT Investment, Play Ventures, Kalaari Capital, Waterbridge Ventures, among others The company will use the fresh capital to invest in premium original content across Indian languages, expand Story TV to international markets and strengthen its AI capabilities Founded in 2020, EloElo Group operates four products – Story TV (microdrama platform), Master ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/eloelo-funding-social-.png",
-     "why": [
-      "Funding",
-      "Sizeable deal (about $80M)"
-     ],
-     "tags": [
-      "Funding"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 12,
+   "new_today": 13,
    "items": [
     {
      "desk": "Immigration",
@@ -745,6 +745,30 @@
    "desk": "Startups",
    "score": 12,
    "priority": 80,
+   "title": "Freshworks Swings To $18 Mn Profit In Q3, Revenue Rises 14% YoY To $245 Mn",
+   "url": "https://inc42.com/buzz/freshworks-swings-to-18-mn-profit-in-q3-revenue-rises-14-yoy-to-245-mn/",
+   "date": "2026-11-04",
+   "source": "Inc42",
+   "label": "India · SaaS & Enterprise",
+   "snippet": "Nasdaq-listed SaaS company Freshworks swung to a consolidated net profit of $18.3 Mn in the third quarter of 2026 (Q3…",
+   "lead": "Freshworks reported a consolidated net profit of $18.3 Mn in Q3 2026 against a $4.7 Mn loss a year earlier, while revenue increased 14% to $245.4 Mn Higher revenue and lower operating expenses helped Freshworks sustain GAAP profitability, while its push towards larger customers gained traction Freshworks crossed $1 Bn in annual recurring revenue after the quarter ended, ahead of its year-end target",
+   "image": null,
+   "why": [
+    "Financials",
+    "Large deal (about $245M)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Financials",
+    "SaaS & Enterprise"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 80,
    "title": "Fractal Q2: Profit Zooms 139% YoY to ₹79 Cr, Revenue At ₹957 Cr",
    "url": "https://inc42.com/buzz/fractal-q2-profit-zooms-139-yoy-to-%e2%82%b979-cr-revenue-at-%e2%82%b9957-cr/",
    "date": "2026-11-04",
@@ -762,7 +786,7 @@
     "Financials",
     "AI & Deeptech"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -785,7 +809,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 15,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -807,7 +831,7 @@
    "tags": [
     "Technology & Telecom"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -829,7 +853,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -850,29 +874,6 @@
    ],
    "tags": [
     "Labour & Social"
-   ],
-   "rank": 18,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 73,
-   "title": "Meta raises $15 billion in five-part US bond sale",
-   "url": "https://economictimes.indiatimes.com/tech/technology/meta-raises-15-billion-in-five-part-us-bond-sale/articleshow/135522649.cms",
-   "date": "2026-11-04",
-   "source": "ET Startups",
-   "label": "Global · AI & Deeptech",
-   "snippet": "The tech giant's offering adds to a wave of fundraising as companies raise fresh capital to finance AI data centers, computing capacity and cloud expansion, despite traditionally relying on cash-rich balance sheets to fund growth.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-71652,resizemode-75,msid-135522649/tech/technology/meta-raises-15-billion-in-five-part-us-bond-sale.jpg",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $15,000M: round or valuation)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
    ],
    "rank": 19,
    "must_read": false
