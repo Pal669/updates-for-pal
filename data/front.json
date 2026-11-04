@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-04",
- "built": "2026-11-04 08:52 IST",
+ "built": "2026-11-04 11:32 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23811.0,
-   "change_pct": 1.58,
-   "asof": "03 Nov 15:31 IST"
+   "value": 23812.0,
+   "change_pct": 0.01,
+   "asof": "04 Nov 11:32 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 76918.0,
-   "change_pct": 1.62,
-   "asof": "03 Nov 15:32 IST"
+   "value": 76984.0,
+   "change_pct": 0.09,
+   "asof": "04 Nov 11:17 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.73,
-   "change_pct": 0.0,
-   "asof": "04 Nov 08:46 IST"
+   "value": 94.82,
+   "change_pct": 0.1,
+   "asof": "04 Nov 11:32 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 102.93,
-   "change_pct": -0.65,
-   "asof": "04 Nov 08:42 IST"
+   "value": 103.54,
+   "change_pct": -0.06,
+   "asof": "04 Nov 11:21 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3946.0,
-   "change_pct": 0.14,
-   "asof": "04 Nov 08:42 IST"
+   "value": 4009.0,
+   "change_pct": 1.74,
+   "asof": "04 Nov 11:22 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,8 +79,8 @@
  },
  "desks": {
   "Policy": {
-   "total": 295,
-   "new_today": 0,
+   "total": 296,
+   "new_today": 1,
    "items": [
     {
      "desk": "Policy",
@@ -165,24 +165,67 @@
    ]
   },
   "Startups": {
-   "total": 1186,
-   "new_today": 5,
+   "total": 1195,
+   "new_today": 14,
    "items": [
     {
      "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-     "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+     "score": 11,
+     "priority": 73,
+     "title": "GIVA raises $100M in Multiples-led round; India’s Rs 3 lakh Cr data centre buildout",
+     "url": "https://yourstory.com/2026/11/giva-raises-100m-in-multiples-led-round",
      "date": "2026-11-04",
-     "source": "TechCrunch Venture",
-     "label": "Global · AI & Deeptech",
-     "snippet": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-     "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom Jagmeet Singh 1:43 PM PST · November 3, 2026 Ballistic Ventures, the cybersecurity-focused venture capital firm co-founded by former Kleiner Perkins partner Ted Schlein (pictured above, second from the right), is seeking to raise $490 ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2025/04/Ballistic-Ventures-GP-team.jpg?resize=1200,801",
+     "source": "YourStory",
+     "label": "India · Other",
+     "snippet": "GIVAsaid the fresh capital will be used to strengthen its leadership team, expand manufacturing and deepen its offline presence.",
+     "lead": "GIVA raises $100M in Multiples-led round; India’s Rs 3 lakh Cr data centre buildout GIVAsaid the fresh capital will be used to strengthen its leadership team, expand manufacturing and deepen its offline presence. Team YS 17499 Stories Wednesday November 04, 2026 , 4 min Read India’s data centre industry is poised for a five-fold expansion, with installed capacity expected to reach 7.5 GW by March 2030, attracting investments of more ...",
+     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Nov4-DC-1793717613518.png",
      "why": [
       "Funding",
-      "Large deal (about $490M)"
+      "Large deal (about $100M)"
+     ],
+     "tags": [
+      "Funding"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 73,
+     "title": "Exclusive: Nuuk To Raise ₹100 Cr From Wipro Consumer Care Ventures, RPSG At ₹500 Cr Valuation",
+     "url": "https://inc42.com/buzz/nuuk-to-raise-%e2%82%b9100-cr-from-wipro-consumer-care-ventures-rpsg-at-%e2%82%b9500-cr-valuation/",
+     "date": "2026-11-03",
+     "source": "Inc42",
+     "label": "India · Commerce & D2C",
+     "snippet": "Nuuk is raising around ₹100 Cr ($10.5 Mn) in a funding round led by Wipro Consumer Care Ventures and RPSG Capital Ventures at a valuation of approximately ₹500 Cr.",
+     "lead": "Nuuk is raising around ₹100 Cr ($10.5 Mn) in a funding round led by Wipro Consumer Care Ventures and RPSG Capital Ventures at a valuation of approximately ₹500 Cr. The proposed investment follows funding rounds in appliance startups such as Beyond Appliances and Nester, with investors backing product development, manufacturing, and distribution expansion. Nuuk closed its $6.6 Mn Series A round in August 2025 and sells home and kitchen ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/soc-47.jpg",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $53M)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "Commerce & D2C"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 73,
+     "title": "Cognizant In Talks To Invest In Sarvam At $3.5 Bn To $4 Bn Valuation: Report",
+     "url": "https://inc42.com/buzz/cognizant-in-talks-to-invest-in-sarvam-at-3-5-bn-to-4-bn-valuation-report/",
+     "date": "2026-10-28",
+     "source": "Inc42",
+     "label": "India · AI & Deeptech",
+     "snippet": "Cognizant is reportedly in talks to invest in Sarvam AI at a $3.5-4 Bn valuation, following HCLTech’s $150 Mn investment in the AI unicorn",
+     "lead": "Cognizant is reportedly in talks to invest in Sarvam AI as part of a proposed $300 Mn fundraise at a $3.5-4 Bn valuation The investment could make Cognizant the second IT services major on Sarvam’s cap table after HCLTech, as IT companies seek to strengthen their AI capabilities Sarvam raised $234 Mn in the first close of its $300 Mn Series B in June at a $1.5 Bn valuation, with HCLTech investing $150 Mn",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Sarvam-Open-Source-Story-social.jpg",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $4,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
      ],
      "tags": [
       "Funding",
@@ -192,60 +235,18 @@
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 77,
-     "title": "[Update] Ola Electric Allots Rights Equity Shares For ₹1,000 Cr Fundraise",
-     "url": "https://inc42.com/buzz/ola-electrics-%e2%82%b91000-cr-rights-issue-to-open-on-october-22-issue-price-set-at-%e2%82%b927/",
-     "date": "2026-11-03",
+     "priority": 67,
+     "title": "EloElo Group Bags $80 Mn From NBCUniversal, Others To Take Its Microdrama Biz Global",
+     "url": "https://inc42.com/buzz/eloelo-group-bags-80-mn-to-take-its-microdrama-biz-global/",
+     "date": "2026-11-04",
      "source": "Inc42",
-     "label": "India · Mobility & EV",
-     "snippet": "Ola Electric’s ₹1,000 Cr rights issue is set to open for subscription onOctober 22 and close on October 30, its board finalised today",
-     "lead": "Ola Electric has allotted 37.03 Cr partly paid-up equity shares under its rights issue, taking the total fundraise to about ₹999.7 Cr once fully paid. Shareholders have paid ₹16.2 per share on application, bringing in ₹599.8 Cr, while the remaining ₹10.8 per share will be collected through a subsequent call. The company’s rights issue committee approved the allotment yesterday, following board approvals for the fundraise in September ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/ola-electric-ebike-social-1-1.jpg",
-     "why": [
-      "Funding",
-      "Large deal (about $105M)"
-     ],
-     "tags": [
-      "Funding",
-      "Mobility & EV"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "GIVA Raises ₹975 Cr Led By Multiples PE, Eyes 160 New Stores In FY27",
-     "url": "https://inc42.com/buzz/giva-raises-%e2%82%b9975-cr-led-by-multiples-pe-eyes-160-new-stores-in-fy27/",
-     "date": "2026-11-03",
-     "source": "Inc42",
-     "label": "India · Commerce & D2C",
-     "snippet": "GIVA has raised ₹975 Cr in a funding round led by Multiples PE as it plans to add 160 stores in FY27 and expand manufacturing",
-     "lead": "GIVA has raised ₹975 Cr in a round led by Multiples Alternate Asset Management, with participation from existing investors Epiq Capital and Edelweiss Discovery Fund The jewellery brand plans to add 160 stores in FY27 and expand manufacturing and inventory, targeting an offline revenue share of 75-80% within three years GIVA reported ₹865 Cr in FY26 revenue, compared with ₹505 Cr in FY25, and narrowed its negative EBITDA margin to ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Untitled-Design-40.png",
-     "why": [
-      "Funding",
-      "Large deal (about $103M)"
-     ],
-     "tags": [
-      "Funding",
-      "Commerce & D2C"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Jewellery brand GIVA raises $100M from Multiples PE",
-     "url": "https://yourstory.com/2026/11/jewellery-brand-giva-raises-100-million-from-multiples-pe",
-     "date": "2026-11-03",
-     "source": "YourStory",
      "label": "India · Other",
-     "snippet": "Founded in 2019, Bengaluru-based GIVA focuses on everyday wear, catering primarily to Indian consumers for both self-consumption and gifting occasions. The fresh capital will be used to strengthen its leadership team, expand manufacturing and deepen its offline presence.",
-     "lead": "Jewellery brand GIVA raises $100M from Multiples PE Founded in 2019, Bengaluru-based GIVA focuses on everyday wear, catering primarily to Indian consumers for both self-consumption and gifting occasions. The fresh capital will be used to strengthen its leadership team, expand manufacturing and deepen its offline presence. Team YS 17497 Stories Tuesday November 03, 2026 , 2 min Read Multiples Alternate Asset Management along with its ...",
-     "image": "https://images.yourstory.com/cs/2/d72b5ef09db411ebb4167b901dac470c/Imagespyc-1621572757142.jpg",
+     "snippet": "Microdrama platform Story TV’s parent EloElo Group has raised $80 Mn in a Series C funding round led by Hornbill Capital and NBCUniversal.",
+     "lead": "Besides Hornbill Capital and NBCUniversal, the round also saw participation from MIT Investment, Play Ventures, Kalaari Capital, Waterbridge Ventures, among others The company will use the fresh capital to invest in premium original content across Indian languages, expand Story TV to international markets and strengthen its AI capabilities Founded in 2020, EloElo Group operates four products – Story TV (microdrama platform), Master ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/eloelo-funding-social-.png",
      "why": [
       "Funding",
-      "Large deal (about $100M)"
+      "Sizeable deal (about $80M)"
      ],
      "tags": [
       "Funding"
@@ -255,19 +256,19 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 10,
+   "new_today": 12,
    "items": [
     {
      "desk": "Immigration",
      "score": 7,
      "priority": 64,
-     "title": "Switzerland sets date for vote on bid to cut wait times for Swiss citizenship",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYWhwLVFsSk5ZaDBiampxb2lvVWt4djdrM3Byc1pETEF4WWdkMnMteTdzcm5RZi15czBwWnltaDh4Vl9qbTJKczVNYmhOZmNJd0pIdFQ0YTJ2eGNJc285N1hQSFBtOTc2eUpYNGliZllXeml1cjhOaTdTRkJLNWlpRkF5LXpkbWw4MXFQM3MtS0FaN19SbE5WUlVNbU9DYS1ZVnZGbUNBWkVHNGpYZ2M4?oc=5",
-     "date": "2026-10-29",
-     "source": "The Local Switzerland",
-     "label": "Switzerland",
-     "snippet": "Switzerland's controversial initiative to shorten residency requirements for naturalisation will be voted on in a February 28th referendum.",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Switzerland's controversial initiative to shorten residency requirements for naturalisation will be voted on in a February 28th referendum. After a two-year wait to be scheduled for a national vote, ...",
+     "title": "Could Austria finally change its rules on citizenship for children born in the country?",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUlkRHhWc1Jzdk9UVkRPLXllZFZLOUtFZGpkRzFNdDdvUEZuVEdGVHc0anlxd0l5WVpUT25lZ0hEaldjZzgtMVlhNXIyWnp0OHhyYjdwb1p5d204VjloeHh4NEgtZGZWX0IzcHRhS1hncTBxa0djSVdzX3dkNFNzSE92UnVQelF1NU80MHFiMVk0ZkU3LTB0ZjZ5SF9XYldyMV9ud0I3RkhwTFFWXy00Q01nMHNVdW0tT0NR?oc=5",
+     "date": "2026-10-30",
+     "source": "The Local Austria",
+     "label": "Austria",
+     "snippet": "Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change?",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change? The Austrian debate over citizenship for children ...",
      "image": null,
      "why": [
       "Affects citizenship",
@@ -275,7 +276,7 @@
      ],
      "tags": [
       "Citizenship",
-      "Switzerland"
+      "Austria"
      ]
     },
     {
@@ -436,50 +437,26 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 13,
+   "score": 15,
    "priority": 100,
-   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+   "title": "Razorpay Gets SEBI Nod For ₹6,000 Cr IPO",
+   "url": "https://inc42.com/buzz/razorpay-gets-sebi-nod-for-%e2%82%b96000-cr-ipo/",
    "date": "2026-11-04",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-   "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Fal , a San Francisco-based startup that hosts and runs AI video, image, and audio models, has raised $1.3 billion in its latest funding round led by Bessemer Venture Partners, with participation from Nvidia, Sound Ventures, and T. Rowe Price. The deal values Fal at $16 billion, double its $8 billion valuation in April, Bloomberg ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1268605503.jpg?resize=1200,420",
+   "source": "Inc42",
+   "label": "India · Fintech",
+   "snippet": "Razorpay has received SEBI’s approval for its proposed ₹5,000-6,000 Cr IPO, with a listing likely between January and March 2027, sources told Inc42",
+   "lead": "Razorpay has received SEBI’s approval for its proposed ₹5,000-6,000 Cr IPO, with a listing likely between January and March 2027, sources told Inc42. The fintech major is targeting a valuation of around $5 Bn, below the $7.5 Bn valuation it commanded in its last funding round in 2021. The IPO is expected to comprise a fresh issue and an offer-for-sale, although the proposed split remains undisclosed.",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Razorpay-IPO-social-1.jpg",
    "why": [
-    "Funding",
-    "Very large figure in headline (about $16,000M: round or valuation)",
+    "IPO & Listing",
+    "Very large figure in headline (about $632M: round or valuation)",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Funding",
-    "AI & Deeptech"
+    "IPO & Listing",
+    "Fintech"
    ],
    "rank": 1,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 13,
-   "priority": 100,
-   "title": "India's next space unicorn may still be in college",
-   "url": "https://yourstory.com/2026/10/indias-next-space-unicorn-may-still-be-in-college",
-   "date": "2026-11-03",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "India already has its first space-tech unicorn. Skyroot Aerospace crossed the $1 billion valuation mark in May 2026 and, two months later, its Vikram-1 became the first privately developed Indian rocket to reach orbit. Those milestones confirm that India's private space ecosystem has moved well bey",
-   "lead": "India's next space unicorn may still be in college India's spacetech economy will be built in layers and will require investment across infrastructure, software, manufacturing, robotics and more. Richa Bajpai 1 Stories Tuesday November 03, 2026 , 7 min Read India already has its first space-tech unicorn. Skyroot Aerospace crossed the $1 billion valuation mark in May 2026 and, two months later, its Vikram-1 became the first privately ...",
-   "image": "https://images.yourstory.com/cs/2/94a03c40169611f0b4b0c5b62b4900c2/SpaceTecharticle-article1-1786357382704.jpg",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $1,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 2,
    "must_read": true
   },
   {
@@ -503,7 +480,7 @@
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 3,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -527,7 +504,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 4,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -550,7 +527,7 @@
    "tags": [
     "Industry & Manufacturing"
    ],
-   "rank": 5,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -573,8 +550,8 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 6,
-   "must_read": false
+   "rank": 5,
+   "must_read": true
   },
   {
    "desk": "Advisory",
@@ -596,7 +573,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 7,
+   "rank": 6,
    "must_read": false
   },
   {
@@ -619,7 +596,7 @@
    "tags": [
     "REITs & InvITs"
    ],
-   "rank": 8,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -642,30 +619,7 @@
    "tags": [
     "REITs & InvITs"
    ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 92,
-   "title": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2",
-   "url": "https://yourstory.com/2026/10/jio-platforms-first-post-listing-results-user-growth-higher-arpu-drive-137-pc-profit-rise-in-q2",
-   "date": "2026-10-31",
-   "source": "YourStory",
-   "label": "India · Other",
-   "snippet": "The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review.",
-   "lead": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2 The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review. Press Trust of India 11249 Stories Saturday October 31, 2026 , 5 min Read The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review, ...",
-   "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/WhatsAppImage2026-10-28at11-1793168547436.jpeg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $4,261M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 10,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -688,7 +642,7 @@
    "tags": [
     "Mutual Funds"
    ],
-   "rank": 11,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -712,77 +666,55 @@
     "Citizenship",
     "Canada"
    ],
-   "rank": 12,
+   "rank": 10,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "GIVA raises $100M in Multiples-led round; India’s Rs 3 lakh Cr data centre buildout",
-   "url": "https://yourstory.com/2026/11/giva-raises-100m-in-multiples-led-round",
+   "score": 13,
+   "priority": 87,
+   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
    "date": "2026-11-04",
-   "source": "YourStory",
-   "label": "India · Other",
-   "snippet": "GIVAsaid the fresh capital will be used to strengthen its leadership team, expand manufacturing and deepen its offline presence.",
-   "lead": "GIVA raises $100M in Multiples-led round; India’s Rs 3 lakh Cr data centre buildout GIVAsaid the fresh capital will be used to strengthen its leadership team, expand manufacturing and deepen its offline presence. Team YS 17499 Stories Wednesday November 04, 2026 , 4 min Read India’s data centre industry is poised for a five-fold expansion, with installed capacity expected to reach 7.5 GW by March 2030, attracting investments of more ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Nov4-DC-1793717613518.png",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+   "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Fal , a San Francisco-based startup that hosts and runs AI video, image, and audio models, has raised $1.3 billion in its latest funding round led by Bessemer Venture Partners, with participation from Nvidia, Sound Ventures, and T. Rowe Price. The deal values Fal at $16 billion, double its $8 billion valuation in April, Bloomberg ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1268605503.jpg?resize=1200,420",
    "why": [
     "Funding",
-    "Large deal (about $100M)"
-   ],
-   "tags": [
-    "Funding"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "Exclusive: Nuuk To Raise ₹100 Cr From Wipro Consumer Care Ventures, RPSG At ₹500 Cr Valuation",
-   "url": "https://inc42.com/buzz/nuuk-to-raise-%e2%82%b9100-cr-from-wipro-consumer-care-ventures-rpsg-at-%e2%82%b9500-cr-valuation/",
-   "date": "2026-11-03",
-   "source": "Inc42",
-   "label": "India · Commerce & D2C",
-   "snippet": "Nuuk is raising around ₹100 Cr ($10.5 Mn) in a funding round led by Wipro Consumer Care Ventures and RPSG Capital Ventures at a valuation of approximately ₹500 Cr.",
-   "lead": "Nuuk is raising around ₹100 Cr ($10.5 Mn) in a funding round led by Wipro Consumer Care Ventures and RPSG Capital Ventures at a valuation of approximately ₹500 Cr. The proposed investment follows funding rounds in appliance startups such as Beyond Appliances and Nester, with investors backing product development, manufacturing, and distribution expansion. Nuuk closed its $6.6 Mn Series A round in August 2025 and sells home and kitchen ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/soc-47.jpg",
-   "why": [
-    "Funding",
-    "Sizeable deal (about $53M)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "Commerce & D2C"
-   ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "Cognizant In Talks To Invest In Sarvam At $3.5 Bn To $4 Bn Valuation: Report",
-   "url": "https://inc42.com/buzz/cognizant-in-talks-to-invest-in-sarvam-at-3-5-bn-to-4-bn-valuation-report/",
-   "date": "2026-10-28",
-   "source": "Inc42",
-   "label": "India · AI & Deeptech",
-   "snippet": "Cognizant is reportedly in talks to invest in Sarvam AI at a $3.5-4 Bn valuation, following HCLTech’s $150 Mn investment in the AI unicorn",
-   "lead": "Cognizant is reportedly in talks to invest in Sarvam AI as part of a proposed $300 Mn fundraise at a $3.5-4 Bn valuation The investment could make Cognizant the second IT services major on Sarvam’s cap table after HCLTech, as IT companies seek to strengthen their AI capabilities Sarvam raised $234 Mn in the first close of its $300 Mn Series B in June at a $1.5 Bn valuation, with HCLTech investing $150 Mn",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/03/Sarvam-Open-Source-Story-social.jpg",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $4,000M: round or valuation)",
+    "Very large figure in headline (about $16,000M: round or valuation)",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 15,
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 13,
+   "priority": 87,
+   "title": "India's next space unicorn may still be in college",
+   "url": "https://yourstory.com/2026/10/indias-next-space-unicorn-may-still-be-in-college",
+   "date": "2026-11-03",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "India already has its first space-tech unicorn. Skyroot Aerospace crossed the $1 billion valuation mark in May 2026 and, two months later, its Vikram-1 became the first privately developed Indian rocket to reach orbit. Those milestones confirm that India's private space ecosystem has moved well bey",
+   "lead": "India's next space unicorn may still be in college India's spacetech economy will be built in layers and will require investment across infrastructure, software, manufacturing, robotics and more. Richa Bajpai 1 Stories Tuesday November 03, 2026 , 7 min Read India already has its first space-tech unicorn. Skyroot Aerospace crossed the $1 billion valuation mark in May 2026 and, two months later, its Vikram-1 became the first privately ...",
+   "image": "https://images.yourstory.com/cs/2/94a03c40169611f0b4b0c5b62b4900c2/SpaceTecharticle-article1-1786357382704.jpg",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $1,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 12,
    "must_read": false
   },
   {
@@ -806,7 +738,54 @@
     "Student / Graduate",
     "Australia"
    ],
-   "rank": 16,
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 80,
+   "title": "Fractal Q2: Profit Zooms 139% YoY to ₹79 Cr, Revenue At ₹957 Cr",
+   "url": "https://inc42.com/buzz/fractal-q2-profit-zooms-139-yoy-to-%e2%82%b979-cr-revenue-at-%e2%82%b9957-cr/",
+   "date": "2026-11-04",
+   "source": "Inc42",
+   "label": "India · AI & Deeptech",
+   "snippet": "AI and advanced analytics company Fractal's net profit zoomed 139% YoY to ₹79.2 Cr in Q2 FY27 from ₹33.2 Cr in the year ago quarter.",
+   "lead": "Revenue from operations rose nearly 20% to a record ₹956.5 Cr in the quarter under review as against ₹798.5 Cr in the preceding quarter Fractal attributed the growing profits to rising revenues, improving margins, increased spending by clients and broad-based growth across all its key verticals In line with its top line, the company’s total expenses also rose 15% to ₹858.9 Cr in Q2 FY27 as against ₹746.6 Cr in the quarter ending ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Fractal-FY24-social.jpg",
+   "why": [
+    "Financials",
+    "Large deal (about $101M)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Financials",
+    "AI & Deeptech"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 80,
+   "title": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2",
+   "url": "https://yourstory.com/2026/10/jio-platforms-first-post-listing-results-user-growth-higher-arpu-drive-137-pc-profit-rise-in-q2",
+   "date": "2026-10-31",
+   "source": "YourStory",
+   "label": "India · Other",
+   "snippet": "The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review.",
+   "lead": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2 The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review. Press Trust of India 11249 Stories Saturday October 31, 2026 , 5 min Read The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review, ...",
+   "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/WhatsAppImage2026-10-28at11-1793168547436.jpeg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $4,261M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 15,
    "must_read": false
   },
   {
@@ -828,7 +807,7 @@
    "tags": [
     "Technology & Telecom"
    ],
-   "rank": 17,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -850,7 +829,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 18,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -871,6 +850,29 @@
    ],
    "tags": [
     "Labour & Social"
+   ],
+   "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 73,
+   "title": "Meta raises $15 billion in five-part US bond sale",
+   "url": "https://economictimes.indiatimes.com/tech/technology/meta-raises-15-billion-in-five-part-us-bond-sale/articleshow/135522649.cms",
+   "date": "2026-11-04",
+   "source": "ET Startups",
+   "label": "Global · AI & Deeptech",
+   "snippet": "The tech giant's offering adds to a wave of fundraising as companies raise fresh capital to finance AI data centers, computing capacity and cloud expansion, despite traditionally relying on cash-rich balance sheets to fund growth.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-71652,resizemode-75,msid-135522649/tech/technology/meta-raises-15-billion-in-five-part-us-bond-sale.jpg",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $15,000M: round or valuation)"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
    ],
    "rank": 19,
    "must_read": false
@@ -901,6 +903,28 @@
    "desk": "Immigration",
    "score": 7,
    "priority": 64,
+   "title": "Switzerland may reduce citizenship residency requirement to five years – Experts Club",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMGh2bjR3RVkzMjRSNHUzTTM3WG5SZG05Z0pRYTJNOVp3NkRZYWJBcWpGMi1sRUl1amVvcnJ2S2tJSGd0ZzNlYzhGZEx5NktxWWpFSHlyVDEwdGJqZnVFbXNmVVR2OEkxTlp6MENFS21NS1IzcTBOS0xjckFHXzNIejNWZEwzOURCXzR1M1FsT2xVWFZKSTlubWZlMG5tOWJicEJaaEJSaHZtVFhyb01ZUG9CZzV4V28?oc=5",
+   "date": "2026-11-04",
+   "source": "Open4business.com.ua.",
+   "label": "Switzerland",
+   "snippet": "Switzerland will hold a nationwide referendum on February 28, 2027, on simplifying citizenship procedures for foreign residents. The proposed reform would reduce the minimum legal residency requirement from ten to five years, eliminate the mandatory permanent residence permit C and introduce uniform federal naturalization rules, reports t",
+   "lead": "Switzerland will hold a nationwide referendum on February 28, 2027, on simplifying citizenship procedures for foreign residents. The proposed reform would reduce the minimum legal residency requirement from ten to five years, eliminate the mandatory permanent residence permit C and introduce uniform federal naturalization rules, reports the Experts Club information and analytical center . The Swiss Federal Council decided on October ...",
+   "image": "https://open4business.com.ua/wp-content/uploads/2026/11/12.png",
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "Switzerland"
+   ],
+   "rank": 21,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 64,
    "title": "Japan minister: Cap on foreign workers should eventually shrink",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tb2NSRE9RdWk5YzRHZFJmdlZ1aDdwcXBoeFIyZ0w4d2NzUnBqQTBZUklQVllpci1HY1VQUmNfM3RnUGRFUEh0SVpfSXB5VDBiTmFmNUZR?oc=5",
    "date": "2026-11-03",
@@ -916,29 +940,6 @@
    "tags": [
     "Quota / Caps",
     "Japan"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 64,
-   "title": "Could Austria finally change its rules on citizenship for children born in the country?",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUlkRHhWc1Jzdk9UVkRPLXllZFZLOUtFZGpkRzFNdDdvUEZuVEdGVHc0anlxd0l5WVpUT25lZ0hEaldjZzgtMVlhNXIyWnp0OHhyYjdwb1p5d204VjloeHh4NEgtZGZWX0IzcHRhS1hncTBxa0djSVdzX3dkNFNzSE92UnVQelF1NU80MHFiMVk0ZkU3LTB0ZjZ5SF9XYldyMV9ud0I3RkhwTFFWXy00Q01nMHNVdW0tT0NR?oc=5",
-   "date": "2026-10-30",
-   "source": "The Local Austria",
-   "label": "Austria",
-   "snippet": "Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change?",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change? The Austrian debate over citizenship for children ...",
-   "image": null,
-   "why": [
-    "Affects citizenship",
-    "Announces a change"
-   ],
-   "tags": [
-    "Citizenship",
-    "Austria"
    ],
    "rank": 22,
    "must_read": false
