@@ -1,6 +1,6 @@
 {
- "edition": "2026-11-05",
- "built": "2026-11-05 23:49 IST",
+ "edition": "2026-11-06",
+ "built": "2026-11-06 03:47 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,15 +12,15 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 24537.0,
-   "change_pct": 2.4,
+   "value": 23961.0,
+   "change_pct": 0.63,
    "asof": "05 Nov 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 79310.0,
-   "change_pct": 2.6,
+   "value": 77301.0,
+   "change_pct": 0.5,
    "asof": "05 Nov 15:32 IST"
   },
   {
@@ -28,64 +28,64 @@
    "dp": 2,
    "value": 94.46,
    "change_pct": -0.3,
-   "asof": "05 Nov 21:10 IST"
+   "asof": "06 Nov 03:18 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 97.54,
-   "change_pct": 3.09,
-   "asof": "05 Nov 23:38 IST"
+   "value": 99.25,
+   "change_pct": 4.89,
+   "asof": "06 Nov 03:29 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4111.0,
-   "change_pct": 0.94,
-   "asof": "05 Nov 23:39 IST"
+   "value": 4098.0,
+   "change_pct": 0.61,
+   "asof": "06 Nov 03:29 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 4.81,
-   "change_pct": -1.63,
-   "asof": "05 Nov 23:33 IST"
+   "value": 4.84,
+   "change_pct": -1.16,
+   "asof": "06 Nov 01:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "Aakash Educational Services",
-   "tagline": "Test-prep coaching chain owned by BYJU'S parent",
-   "what": "Gurugram-based test-prep brand for engineering and medical entrance exams, owned by BYJU'S parent Think & Learn since its 2021 acquisition.",
+   "company": "Curefoods and Rebel Foods",
+   "tagline": "Cloud-kitchen and restaurant-brand operators",
+   "what": "Curefoods runs brands such as EatFit, Nomad Pizza, Sharief Bhai Biryani, CakeZone, Frozen Bottle and Krispy Kreme (India rights acquired last year), with 500+ kitchens in 70 cities. Rebel Foods runs Faasos, Behrouz Biryani, Oven Story, Sweet Truth and 20+ other brands across 10 countries.",
    "how": [
-    "Coaching fees: Rs 1,956.2 Cr of Rs 2,040.5 Cr operating revenue in FY26 (about 96%, computed).",
-    "Franchisee revenue: Rs 84.4 Cr, up 4% (about 4%, computed)."
+    "Both report 'operating revenue' from operating cloud kitchens and restaurant chains, i.e. selling food under their own brands.",
+    "The article gives no split between delivery, dine-in or other channels."
    ],
-   "watch": "The smaller loss came from one-off accounting gains, not from the business growing: revenue is flat. Ownership is entangled in the BYJU'S group's disputes: Byju Raveendran proposed relinquishing his claimed interest in 17.89 Mn Aakash shares to settle Qatar Holding's arbitration claim of over $235 Mn; lenders (Global TLB lenders via GLAS Trust) are reportedly in advanced talks for a 30% stake valuing Aakash at about $2 Bn.",
-   "sector": "Edtech & Skills",
+   "watch": "Growth is above 20% but both still lose money. Rebel is narrowing losses; Curefoods' loss grew in absolute terms.",
+   "sector": "Commerce & D2C",
    "region": "India",
-   "url": "https://inc42.com/buzz/aakash-trims-fy26-loss-by-16-to-%e2%82%b9186-5-cr-top-line-flat-at-%e2%82%b92040-cr/"
+   "url": "https://economictimes.indiatimes.com/tech/technology/curefoods-revenue-grows-23-yoy-rebel-foods-revenue-up-20/articleshow/134338278.cms"
   },
   "country": {
-   "id": "denmark",
-   "name": "Denmark",
-   "trend": "Tightening",
-   "pr": "8 years of legal residence in general; reducible to 4 years if you pass the Danish PD3 test, work full-time, are self-sufficient and meet active-citizenship conditions.",
-   "citizenship": "Granted by an Act of the Danish Parliament after conditions are met; the exact timeline was not verified this session. Denmark allows dual citizenship (general knowledge).",
-   "pro": "High pay and strong work-life balance (general knowledge).",
-   "con": "One of the strictest immigration regimes in Europe (general knowledge).",
-   "watch": "Annual indexation of pay limits"
+   "id": "belgium",
+   "name": "Belgium",
+   "trend": "Tightening (citizenship conditions and fee)",
+   "pr": "Long-term residence after 5 years (general knowledge, not re-verified).",
+   "citizenship": "5 years of legal residence if you also show integration, including at least 468 days of work while under 10 years' residence; without strong integration ties the period extends to 10 years. A July 2025 law raised the fee from EUR 150 to EUR 1,000 (EUR 1,030 in 2026).",
+   "pro": "5-year citizenship route.",
+   "con": "Three regions with different thresholds and procedures.",
+   "watch": "2026 indexation in Flanders"
   }
  },
  "desks": {
   "Policy": {
    "total": 318,
-   "new_today": 11,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
-     "score": 10,
-     "priority": 62,
+     "score": 9,
+     "priority": 60,
      "title": "In view of upcoming festive season and to enable States to accelerate capital spending and finance their development/ welfare related expenditure, Union Government releases regular tax devolution of ₹1,09,019 crore to State Governments in advance",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2333166",
      "date": "2026-11-05",
@@ -106,27 +106,7 @@
     {
      "desk": "Policy",
      "score": 9,
-     "priority": 56,
-     "title": "TRAI releases “The Telecommunication Interconnection (Third Amendment) Regulations, 2026”",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2331941",
-     "date": "2026-11-03",
-     "source": "PIB",
-     "label": "Technology & Telecom",
-     "snippet": "The Telecom Regulatory Authority of India (TRAI) today released “The Telecommunication Interconnecti",
-     "lead": "Ministry of Communications TRAI releases “The Telecommunication Interconnection (Third Amendment) Regulations, 2026” Posted On: 03 NOV 2026 12:37PM by PIB Delhi The Telecom Regulatory Authority of India (TRAI) today released “The Telecommunication Interconnection (Third Amendment) Regulations, 2026” . These regulations will take effect from 1 st January, 2027. Interconnection in telecommunications refers to the technical, operational, ...",
-     "image": null,
-     "why": [
-      "Regulator rulebook change",
-      "Rule change"
-     ],
-     "tags": [
-      "Technology & Telecom"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 9,
-     "priority": 56,
+     "priority": 60,
      "title": "Government of India extends Customs Duty Exemption on Cotton imports up to 31st December 2026",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330823",
      "date": "2026-10-31",
@@ -146,33 +126,75 @@
     {
      "desk": "Policy",
      "score": 8,
-     "priority": 50,
-     "title": "Underwriting Auction for sale of Government Securities for ₹36,000 crore on November 06, 2026",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63923",
-     "date": "2026-11-05",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on November 06, 2026 (Friday) . As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
+     "priority": 53,
+     "title": "TRAI releases “The Telecommunication Interconnection (Third Amendment) Regulations, 2026”",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2331941",
+     "date": "2026-11-03",
+     "source": "PIB",
+     "label": "Technology & Telecom",
+     "snippet": "The Telecom Regulatory Authority of India (TRAI) today released “The Telecommunication Interconnecti",
+     "lead": "Ministry of Communications TRAI releases “The Telecommunication Interconnection (Third Amendment) Regulations, 2026” Posted On: 03 NOV 2026 12:37PM by PIB Delhi The Telecom Regulatory Authority of India (TRAI) today released “The Telecommunication Interconnection (Third Amendment) Regulations, 2026” . These regulations will take effect from 1 st January, 2027. Interconnection in telecommunications refers to the technical, operational, ...",
      "image": null,
      "why": [
-      "Regulator: RBI",
-      "Large outlay (Rs 10,000 Cr or more)"
+      "Regulator rulebook change",
+      "Rule change"
      ],
      "tags": [
-      "Banking & Rates"
+      "Technology & Telecom"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 8,
+     "priority": 53,
+     "title": "Government notifies National Social Security Board for Unorganised Workers and Gig & Platform Workers under the Labour Codes",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330299",
+     "date": "2026-10-30",
+     "source": "PIB",
+     "label": "Labour & Social",
+     "snippet": "In a landmark step toward ensuring comprehensive social security for India's massive informal workfo",
+     "lead": "Ministry of Labour & Employment Government notifies National Social Security Board for Unorganised Workers and Gig & Platform Workers under the Labour Codes Posted On: 30 OCT 2026 10:29AM by PIB Delhi In a landmark step toward ensuring comprehensive social security for India's massive informal workforce, the Ministry of Labour & Employment has notified the official constitution of the National Social Security Board for U norganised W ...",
+     "image": null,
+     "why": [
+      "Labour and pension rule",
+      "Rule change"
+     ],
+     "tags": [
+      "Labour & Social"
      ]
     }
    ]
   },
   "Startups": {
-   "total": 1256,
-   "new_today": 34,
+   "total": 1258,
+   "new_today": 2,
    "items": [
     {
      "desk": "Startups",
-     "score": 12,
-     "priority": 86,
+     "score": 11,
+     "priority": 85,
+     "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+     "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+     "date": "2026-11-04",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+     "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Fal , a San Francisco-based startup that hosts and runs AI video, image, and audio models, has raised $1.3 billion in its latest funding round led by Bessemer Venture Partners, with participation from Nvidia, Sound Ventures, and T. Rowe Price. The deal values Fal at $16 billion, double its $8 billion valuation in April, Bloomberg ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1268605503.jpg?resize=1200,420",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $16,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
      "title": "India's next space unicorn may still be in college",
      "url": "https://yourstory.com/2026/10/indias-next-space-unicorn-may-still-be-in-college",
      "date": "2026-11-03",
@@ -193,29 +215,8 @@
     },
     {
      "desk": "Startups",
-     "score": 12,
-     "priority": 86,
-     "title": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2",
-     "url": "https://yourstory.com/2026/10/jio-platforms-first-post-listing-results-user-growth-higher-arpu-drive-137-pc-profit-rise-in-q2",
-     "date": "2026-10-31",
-     "source": "YourStory",
-     "label": "India · Other",
-     "snippet": "The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review.",
-     "lead": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2 The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review. Press Trust of India 11249 Stories Saturday October 31, 2026 , 5 min Read The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review, ...",
-     "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/WhatsAppImage2026-10-28at11-1793168547436.jpeg",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $4,261M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 79,
+     "score": 10,
+     "priority": 77,
      "title": "Shiprocket Turns Profitable In Q2, Revenue Jumps 35% YoY To ₹674 Cr",
      "url": "https://inc42.com/buzz/shiprocket-turns-profitable-in-q2-revenue-jumps-35-yoy-to-%e2%82%b9674-cr/",
      "date": "2026-11-05",
@@ -236,8 +237,8 @@
     },
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 79,
+     "score": 10,
+     "priority": 77,
      "title": "Apple seeks about $7 billion from bond sale: Bloomberg News",
      "url": "https://economictimes.indiatimes.com/tech/technology/apple-seeks-about-7-billion-from-bond-sale-bloomberg-news/articleshow/135578122.cms",
      "date": "2026-11-05",
@@ -259,54 +260,53 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 28,
+   "new_today": 3,
    "items": [
     {
      "desk": "Immigration",
-     "score": 7,
-     "priority": 64,
-     "title": "Could Austria finally change its rules on citizenship for children born in the country?",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUlkRHhWc1Jzdk9UVkRPLXllZFZLOUtFZGpkRzFNdDdvUEZuVEdGVHc0anlxd0l5WVpUT25lZ0hEaldjZzgtMVlhNXIyWnp0OHhyYjdwb1p5d204VjloeHh4NEgtZGZWX0IzcHRhS1hncTBxa0djSVdzX3dkNFNzSE92UnVQelF1NU80MHFiMVk0ZkU3LTB0ZjZ5SF9XYldyMV9ud0I3RkhwTFFWXy00Q01nMHNVdW0tT0NR?oc=5",
-     "date": "2026-10-30",
-     "source": "The Local Austria",
-     "label": "Austria",
-     "snippet": "Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change?",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change? The Austrian debate over citizenship for children ...",
-     "image": null,
+     "score": 6,
+     "priority": 50,
+     "title": "Japan – Revised Eligibility Criteria for Permanent Residence to Take Effect in April 2027",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0dWWGtSMjV6dWNEMk9uOFJkaV9nZXprcGI4blJkdkluUWdBb0lESmh2dGdja1JFMmVLMk1uUzBkdUhKRl93U01TS0UzN3ZFcmVFSENLUWdTWnNlR2JCcUVNdGx3aXgzNDVEaVBqX2kyN3Fsc24wbHFVN2dKUmtZMXVSTVg4X3pHUTlwWEgtOW8yUXRYeU03SWltZ1lHNTk3WFgwczh2RGJESVgzZmR3?oc=5",
+     "date": "2026-11-05",
+     "source": "WR Immigration",
+     "label": "Japan",
+     "snippet": "Our March global immigration recap includes the latest on the EU’s implementation of the digital Entry/Exit System (EES), the United Kingdom’s updated guidance for sponsors of foreign workers, Australia’s skilled visa nomination income thresholds, Singapore’s new AI & Tech ONE Pass, and more.",
+     "lead": "total views 0 ) { %> , views today Japan – Revised Eligibility Criteria for Permanent Residence to Take Effect in April 2027 - WR Immigration Client Payment Portal Japan – Revised Eligibility Criteria for Permanent Residence to Take Effect in April 2027 Nov 4, 2026 | Global Japan has updated its permanent residence requirements, expanding eligibility criteria to include the following for applications submitted on or after April 1, ...",
+     "image": "https://wolfsdorf.com/wp-content/uploads/2026/11/Vermilion-thresholds-in-Tokyo-7.png",
      "why": [
-      "Affects citizenship",
-      "Announces a change"
+      "Affects permanent residence"
      ],
      "tags": [
-      "Citizenship",
-      "Austria"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 7,
-     "priority": 64,
-     "title": "Switzerland sets date for vote on bid to cut wait times for Swiss citizenship",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYWhwLVFsSk5ZaDBiampxb2lvVWt4djdrM3Byc1pETEF4WWdkMnMteTdzcm5RZi15czBwWnltaDh4Vl9qbTJKczVNYmhOZmNJd0pIdFQ0YTJ2eGNJc285N1hQSFBtOTc2eUpYNGliZllXeml1cjhOaTdTRkJLNWlpRkF5LXpkbWw4MXFQM3MtS0FaN19SbE5WUlVNbU9DYS1ZVnZGbUNBWkVHNGpYZ2M4?oc=5",
-     "date": "2026-10-29",
-     "source": "The Local Switzerland",
-     "label": "Switzerland",
-     "snippet": "Switzerland's controversial initiative to shorten residency requirements for naturalisation will be voted on in a February 28th referendum.",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Switzerland's controversial initiative to shorten residency requirements for naturalisation will be voted on in a February 28th referendum. After a two-year wait to be scheduled for a national vote, ...",
-     "image": null,
-     "why": [
-      "Affects citizenship",
-      "Announces a change"
-     ],
-     "tags": [
-      "Citizenship",
-      "Switzerland"
+      "PR / Settlement",
+      "Japan"
      ]
     },
     {
      "desk": "Immigration",
      "score": 6,
-     "priority": 55,
+     "priority": 50,
+     "title": "Iceland Proposes 93% Rise in Residence Permit Income Threshold",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2xubEdnc3BQSkRWSjNDTWpIY3oyakRENW5oTWN6OWNXQ1dHanYzQXNVQ0pYUWQ1N3Vvd2toNzQ3Zk56QUduMmJqRnNhZGpCQWlaSmlvanhQSFFxaE4wZkNtcXhReDNvS0R1RURsQmkyeUtLR0Rqa3h4MXpRQWZ3cmJRTlQyU2F3Smc?oc=5",
+     "date": "2026-11-04",
+     "source": "Iceland Review",
+     "label": "Iceland",
+     "snippet": "",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Salary threshold change",
+      "Announces a change"
+     ],
+     "tags": [
+      "Salary threshold",
+      "Iceland"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 42,
      "title": "France – Standardized Issuance of 12-month Talent Visas Across Jurisdictions",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ1ZIaVlKWWF6eGZ4T1VYOGtva1VzcVlhUWJwYW1ZbkRMTk1sMlNydHA3cjVNNjBYLV83MFVvMXNzb01tZ28tX1hVekcxWTBTMDUwaloyejBDekZWbUhuQm43cXczUC1EOS0wR05jUmU3N1d2cDFwR1p4aUVIZzRpQTZ0ZFlTNG90WHVKLTJfVGU5MHROTDNMeW1ZN01fUQ?oc=5",
      "date": "2026-11-05",
@@ -325,47 +325,69 @@
     },
     {
      "desk": "Immigration",
-     "score": 6,
-     "priority": 55,
-     "title": "South Korea targets 4 lakh international students with proposed visa, employment reforms",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdHhSSDh4OEloX0Mtd1gyWGo1OGoycHJtamt1S0c2WGFka3ROVHhlODI2OVZQczVSaFRJYkJNZFVXV1hWdnB2ZFp5UTVSVDA0bDFRWnhVZm90V0N5SWJmZkd3V0RMS3ZISXFQMVJhU2dNUFlPd2dYMG5VRVJfcnhTMVM5Y1J3ckNPbGFxOEl6SjQzNUtiaEpaNjFvVl9jaWluaXFjLTVKZVJhVS0wZ2U4N2RMWlctM0s5VjFRLTZCSGdVdkxTQVFxN2s3LWlzc0FqVDhNLVl0MjFQOTE3UmZrWGQyeHbSAeoBQVVfeXFMUF82VlpkLXVoNjJKQ3ZLOEVPNXpZNzUyakhvOWxESFpSUDNQZUctVnEtdVVlMEVfdG85Mm5wNjUtS0JVclFQMWJKRk8xVHMwZTM3TlUxcS1ZdDFoSEpMclc4YklqZHJqZmdodEVsbUlodTF3YnYzU0FQc3NlaU9pY2tMMURYQ1dEa3ppMllCWElabndpam5EZ2xtbGYxZnhmSllOenRxR1hKZFM4MW9VOTNCcHJ1c3VKMnZXa3JlQ1hRMTM0RWstTHFTdEVXeUpVZXRiYlY3dmVUbDNyWG8td2pDa1hKNm45Y0xB?oc=5",
-     "date": "2026-10-29",
-     "source": "Business Today",
-     "label": "South Korea",
-     "snippet": "Under the proposed framework, international students who demonstrate a specified level of Korean-language proficiency could be exempt from submitting documents proving they have sufficient funds to cover tuition and living expenses",
-     "lead": "Business Today Desk Updated Oct 29, 2026 2:10 AM IST The proposed reforms would simplify eligibility requirements for international students seeking part-time employment South Korea is planning changes to its international student visa system, linking Korean-language proficiency with financial documentation requirements, part-time employment opportunities and post-study career pathways. The proposed reforms aim to attract 400,000 ...",
-     "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ae1dd543e623-the-proposed-reforms-would-simplify-eligibility-requirements-for-international-students-seeking-part-283234958-16x9.png",
+     "score": 5,
+     "priority": 42,
+     "title": "Switzerland may reduce citizenship residency requirement to five years – Experts Club",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMGh2bjR3RVkzMjRSNHUzTTM3WG5SZG05Z0pRYTJNOVp3NkRZYWJBcWpGMi1sRUl1amVvcnJ2S2tJSGd0ZzNlYzhGZEx5NktxWWpFSHlyVDEwdGJqZnVFbXNmVVR2OEkxTlp6MENFS21NS1IzcTBOS0xjckFHXzNIejNWZEwzOURCXzR1M1FsT2xVWFZKSTlubWZlMG5tOWJicEJaaEJSaHZtVFhyb01ZUG9CZzV4V28?oc=5",
+     "date": "2026-11-04",
+     "source": "Open4business.com.ua.",
+     "label": "Switzerland",
+     "snippet": "Switzerland will hold a nationwide referendum on February 28, 2027, on simplifying citizenship procedures for foreign residents. The proposed reform would reduce the minimum legal residency requirement from ten to five years, eliminate the mandatory permanent residence permit C and introduce uniform federal naturalization rules, reports t",
+     "lead": "Switzerland will hold a nationwide referendum on February 28, 2027, on simplifying citizenship procedures for foreign residents. The proposed reform would reduce the minimum legal residency requirement from ten to five years, eliminate the mandatory permanent residence permit C and introduce uniform federal naturalization rules, reports the Experts Club information and analytical center . The Swiss Federal Council decided on October ...",
+     "image": "https://open4business.com.ua/wp-content/uploads/2026/11/12.png",
      "why": [
-      "Announces a change",
-      "Major story (8 headlines that day)"
+      "Affects citizenship"
      ],
      "tags": [
-      "Student / Graduate",
-      "South Korea"
+      "Citizenship",
+      "Switzerland"
      ]
     }
    ]
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 10,
+   "new_today": 11,
    "items": [
     {
      "desk": "Advisory",
      "score": 10,
-     "priority": 83,
-     "title": "SEBI issues rules for depositary receipts on REITs, InvITs units",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONDI4cks0S2RLOUF2UEVTd1kzdUU2cndOUWRwYjVDQWRvMHUwOHZuWFJwS0htQ05FRjNuNGJRd25MN1JqZ1VUZTV5OEpkT1plYVJCWFZzVnRIZnoxTGhsZF9YeDlqN1JkSUxWWXRFQUQzTUJENVlwUjZ2NnNvRXpremhON1Y0UkJPenRSUlhqZHLSAZgBQVVfeXFMT1FmRl96TVd1eWlJMjRYMUdJME9mN2V4Q2JVWW5lbDhacEgxTmRDaWt5X3JRdEJpUUNjU2ZWMkpQQU9aYzRqZ29kZ01CRmJDajhmVzV0Mlh0eWNxVEZ6QmxrSk5tWU5DUExWVFJyOGFFbG1PdUhoSElBRHRsaTltNk5WeS1NdHdHZm5tU3RYeXE5ZjBYaVJ6dS0?oc=5",
-     "date": "2026-11-03",
-     "source": "VCCircle",
-     "label": "REITs & InvITs",
-     "snippet": "India&#39;s markets regulator on Monday issued a depositary receipts framework to let foreign investors buy into real estate investment trusts (REITs)...",
+     "priority": 91,
+     "title": "Indian bond yields log strongest rally since April; 10-year yield closes at 7.19% on softer crude, US...",
+     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPU1hRS0hJV09MX2JEOXdqQmNTTWhDTHhoYVdnazVEaERlOGNBekxwNEdlNzBsMm1TZzI4aWk0NUlHekZOdTRjNlJ0ZU11ZTBrT3FPN2djM0pDWHgwaURkX3RnaEVXa1ZKblB0ZW41RlIzdTNmb00xTlVja2h4Wi0taThhclRWOHJVcHRtQ3NfcDFOSnc5R3VCMGNYUmhjSkl4R0JGR1pDVlV6ZngxZzZQZVhpd3dva2VoVG9KSktlZW8xS2NvWEJOVms4SE9wcUNna0tGNjdtZzgyQndtbGRKMUVzbmxIQ2p1YXRHNzJRWjB3WUxHdHVCZTYxc0tkRjdObkE0MndMY09MN2dMMGlRSEkxVG3SAZoCQVVfeXFMTWFMakF5QnV3cGstc0syX2lDZ3ctS3NVYi1XZ3o3N2gyaHh6X0ZnVDlkMm0xWEFIUXR3UkxOVFd6QVg4dTAtMEpjZDhCOFFhNmVEQTBkLVd4M2tHTHVuVVpEek90aEJYNXBLcWpWRmhhaHBJa3BldjZlVlhYeXNVOWFxNEM0Zl9jQ1BZS2ZHdjUtX0g1eFlxNjFLbFNlTXNkMUVDOUJCeWh0UlhFeVZOMVpEOGp2T0Ztd1VpTHpHMWY5b3AtMWJvWGtFS285LTUtZ1NpMF9LSHBzdm5QUnVpUXpNMDRoWFY0cS1Db29xYmRydEYzZmRuWXVtbm50ZFNWWWs0WE53S0ZjXzBIdDVEM041VFExTGNzQUpn?oc=5",
+     "date": "2026-11-04",
+     "source": "Moneycontrol.com",
+     "label": "Debt & Bonds",
+     "snippet": "",
      "lead": "",
-     "image": "https://assets.vccircle.com/uploads/2025/05/resized-TZLYNXMPELKXRTROPTPINDIASEBIINVESTMENTS.jpg",
+     "image": null,
+     "why": [
+      "Government bond yields",
+      "Global macro driver",
+      "Sharp market move",
+      "New product or fund"
+     ],
+     "tags": [
+      "Debt & Bonds"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 91,
+     "title": "SEBI Cuts Cooling-Off Period For Illiquid Private Listed InvIT OFS To Eight Weeks, New Rules Effective",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTUR4ekxwcExfdy1NOWNGQ3VzbFpRclBXY2VFcjQ2UGhuSlpOeFVxYVRzdWVVbjB0YmxoMW9aV1ZidTdkV3JiajQwOS1ER2Q2N3lKbTh0UmJnUjVnNmw1STVGaU5IemwzTXBHZnZjVWl0elJ1U0NxUzgzQXozZFZ1NGVnNnBmQmRXSzFIQXdXSmtQSnR3WDQxVWNjajNzS244LTBQV1hVWENUQk9EbUVpNjU2bmx6UmFTYzBiQkE3TXd3Y2U4cERHY1NPLTVqbWtrUzFPbU9zbF9jOGFXYTdlNWx4NV9NYlhhTnfSAe8BQVVfeXFMTzVmaTVrVS1aTXh6WU5teFpGQnFrVGlhTmVUV2QxR1RDdjVmMEFtcTNYUS02MFdHQ0tEcG85eVpOY0kzcHNhUEd3SE1kWnFVYmJpWXZXbnNZMmU2bkFIWUU4bmlFenZlSDVseXJHdWFWUGJiZDRVdkFUblBqMmZlVW56Y080Y3BKOTNWTGh6SDN6ckE0bEQzeHNUX0pQUWxyUHFjUkwtVlpwV19tdVFEVDZ5TjJfdm1UTTFtOXBlQWFWSHRyTXprTU5Da2ZoTWx4RnFYZDFNMjhNR25hVjdYbTZGbDA1algyVDBqODgzREU?oc=5",
+     "date": "2026-11-02",
+     "source": "Free Press Journal",
+     "label": "REITs & InvITs",
+     "snippet": "SEBI has reduced the cooling-off period for offer-for-sale transactions involving illiquid private listed InvIT units to eight weeks, effective November 2. The regulator said the change aims to ease business operations. Such offers will last one trading day, with retail investor provisions excluded. Stock exchanges must update their syste",
+     "lead": "New Delhi [India], November 2: The Securities and Exchange Board of India (SEBI) has reduced the cooling-off period for offer for sale (OFS) of units of illiquid private listed Infrastructure Investment Trusts (InvITs) to eight weeks, with the revised provision coming into immediate effect. The move is aimed at facilitating ease of doing business and follows feedback received from market participants, according to a circular issued by ...",
+     "image": "https://media.assettype.com/freepressjournal/2025-02-11/lfbn0fz3/SEBI;ll.jpeg",
      "why": [
       "REIT / InvIT news",
       "Regulator: SEBI or RBI",
-      "Also covered by 3 other outlet(s)"
+      "Rule or framework change",
+      "Also covered by 2 other outlet(s)"
      ],
      "tags": [
       "REITs & InvITs"
@@ -374,7 +396,7 @@
     {
      "desk": "Advisory",
      "score": 10,
-     "priority": 83,
+     "priority": 91,
      "title": "Gold price crash accelerates as crude oil rises and odds of Fed rate hike jumps",
      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS1B3azI3dnVrUFY3RFlnQmRnSHpBVWUzc2RnaWZobzJoazBPb2JIcTlaclNrTEVmUkRiNHBZVV9ELWt1NnplQnNYbVZJVlpHVjhzXzZ3aXM1YmhaTUN6VFNIWTVHdWdLRXlmVUkyYmZDb2VIQ3lEYUVRbUJ6TnJ5TzV4aGloSzU2NEZIS0RNMzRsdVBIamlEV1ZjVkl3VWt0TjRJdnVjdHZJYlkwa21Bc0MyZU5TSDhkTktyR1Q4SDlRQ1VBS1loUDdhY1k1ZVZ1VVE?oc=5",
      "date": "2026-10-30",
@@ -396,42 +418,22 @@
     {
      "desk": "Advisory",
      "score": 9,
-     "priority": 75,
-     "title": "SEBI Settles Category III AIF Case for ₹9.37 Lakh",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOXM5Ml9Xbk5NSjlUYnF0NzRRcno5N2dlWFNGNXhfUGpTazZubG9sUk43UlhlSTVDaWlBOFVBUERtMkxfYWwtSW85T0ExUTVER1Y4UTFmM1NMT0JKRVhWbTJDQ0tqOEE1QV93YzdMMTJSUWFJSzFKQ3Y0NTc5QkNlWVhibFZVWWthaVVuM0dCZWdVOVNrRlFQX3BDQjJQQUNIS0txUTZ5YlNrYVNWQ3dtVmVFVG1mM2JRQUEySVIwb1Mzcm9FeDN6dXUzOWJVQW93a1U4TzlxbjVpc2NUN0p4by03OGo?oc=5",
-     "date": "2026-11-04",
-     "source": "Taxscan",
-     "label": "AIF",
-     "snippet": "SEBI settles proceedings against a Category III AIF manager for failing to maintain the required continuing interest, upon payment of ₹9.37 lakh.",
-     "lead": "A proficient and enthusiastic legal professional expertise in corporate laws, completed BALLB with specialization in corporate laws , have strong hold in corporate governance, legal research and cyber laws.",
-     "image": "https://documents.taxscan.in/cms/media/sebi-settles-proceedings-against-category-iii-aif-manager-for-937-lakh-over-cont-7273b3.jpg",
+     "priority": 82,
+     "title": "Gold loan provider IFL Finance receives SEBI approval to launch IPO",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVHNfSzdmcE5aTmtHamg1OHhFakNNbVF3RzhjQktRemdnOVZQaDl4VVE1TGVfajEybFZjWjhselZZTTV1QjlwVlZnUkR1YVlSWUM5cmRNTFdiaDdVMnhmUkZ6N1pjcDBOOVR2R3NqVHVtcXFWc3ZZQnNLM3RyUWk5bkJ5MWtheWxJbDFzekdWVC1vTkhUV1pqX3RTdUlNampfY2hGMjlkSG8xOWlNeVNERFBacEFQOUYwNS1XMjB4NkN0ZFBuS2Zn0gHMAUFVX3lxTE9FMno2T0NjQ19hY1plRHNkTlM5QWRFVmlPRFRxNUpiYjZzck9uc2k5dUZrNXRSWTFqS0NpdWRYeV92X2JLSE5hcFVPTWdCa1plNVJRNHlIYWhBa3hXZ2ZyWFJPS05ob1FuOWVBTVh1cWdmb2RBSnU4Qjl3bkRNbzNlZGV3V0pXLWl3WFR4M3NtNjlaR1BjelR6MEE0WUV2LU43Nk1PZFU2eHBtc0JWbUZXTFhYczBELXZMNlo2LTVMV21nSHNBTWNKeksyTA?oc=5",
+     "date": "2026-11-05",
+     "source": "Moneycontrol.com",
+     "label": "Gold & Silver",
+     "snippet": "",
+     "lead": "",
+     "image": null,
      "why": [
-      "AIF news",
-      "Regulator: SEBI or RBI"
-     ],
-     "tags": [
-      "AIF"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
-     "title": "Sebi exploring framework to speed up regulatory approval for AIFs: Pandey",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUktiMndacGVoeG5lN2lGS1ZIbWlqekdxaWd3eVE4VWtYV1RoZEI2T3RPRlJkUEI3eXJPY0NXWlB6dU9kOHFkWElILVl2U1ExcXNJSFEwS25uUjE0ZGZVYVJ1TnJmSnVFZkpzZ1ZmVkNUWmJicmJXZmdralZNZXlvVmIzUVJsVmZrR014VVhHcXZPcE9sSV9qOWNnR2dHcDh5X0wyN3ZBakhPSjh1Qm1IN1M5T1FCSm82SzRPYjBwM29SNlVCd2pETnNjUnZseEpzZXUzM0lNV1BVRTNQQ002N3ZR0gHcAUFVX3lxTE5FMjlWQWdoSkJsRzgyZ1lKTldVeUcydlNHdEx6XzMxVHJUTm9hSW9Obk0zbVVwWkVweC0tWmphZzN6N0o4MXB4aWlzcXFMTUZ1dXdXLWlYNEhPakJ2cGlnRG5SWi1QNXRDQUtUVk9CekcxNlBSOG5aYk1ZaWFtRzVJdG0xQjBDMjNQVGFiZFV5QWVxdFpneDhoR0g2RkpSMm44YXdKWUF0dzBtLUpkTEl1aXNBVkdEOWxOczViODgxVkZMSHFDUGg3OHJSUjlRY1pvUl9CUjBMRm5Yc1Y?oc=5",
-     "date": "2026-11-01",
-     "source": "ETLegalWorld.com",
-     "label": "AIF",
-     "snippet": "AIF Regulation: Sebi",
-     "lead": "We encourage you to review our Terms of Service , and Privacy Policy . By continuing, you agree to the Terms listed here. In case you want to opt out, please click \"Do Not Sell or Share My Personal Information\" link in the footer of this page. We won't sell or share your personal information to inform the ads you see. You may still see interest-based ads if your information is sold or shared by other companies or was sold or shared ...",
-     "image": "https://etimg.etb2bimg.com/thumb/msid-129475301,imgsize-39666,width-1200,height=627,overlay-etlegal,resizemode-75/regulators/sebi-exploring-framework-to-speed-up-regulatory-approval-for-aifs-pandey.jpg",
-     "why": [
-      "AIF news",
       "Regulator: SEBI or RBI",
-      "Rule or framework change"
+      "Precious metals",
+      "New product or fund"
      ],
      "tags": [
-      "AIF"
+      "Gold & Silver"
      ]
     }
    ]
@@ -440,7 +442,7 @@
  "items": [
   {
    "desk": "Policy",
-   "score": 16,
+   "score": 15,
    "priority": 100,
    "title": "Inter-Ministerial Group Recommends Asset Monetisation Proposals Worth Over ₹1,100 Crore for Approval by Cabinet-Delegated Alternative Mechanism",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332934",
@@ -463,7 +465,7 @@
   },
   {
    "desk": "Immigration",
-   "score": 11,
+   "score": 12,
    "priority": 100,
    "title": "Some permanent resident applicants left in limbo by changes to Canadian citizenship law",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYmJ2enBEQllsMnQzSzdZZV9pT2JVYTRfZHJlZXU4ai1kSkFNRGtSZzBRTGhYVTY4ZDJWVjJLMEp2Ny1XVnhEbXAwdHp5b1BGUFEyWk9lLUt6emVqaDNnQnB1OUdkRTVhZHNmNmZpMjNsLXdGVzc1Mjc2SlhJaGl0c1Z1dDBKLUE?oc=5",
@@ -475,7 +477,8 @@
    "image": null,
    "why": [
     "Affects citizenship",
-    "Announces a change"
+    "Announces a change",
+    "Major story (8 headlines that day)"
    ],
    "tags": [
     "Citizenship",
@@ -485,8 +488,99 @@
    "must_read": true
   },
   {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 100,
+   "title": "SEBI issues framework allowing AIF, SIF managers and portfolio managers to certify accredited investor...",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRldoSk5YcFpoSWtYdGNCSGZrOTJ0cHRqcVgwd1R2THVNQ2pBZ0lSZkhXSk1xcl93aTFjcXJ4cDFKajFLZFJsRVEydzI1V3FGeDNobW1MSmNVbUJKbDRQNVpLUjZ0SVBRbENEMEhYdEVKSWVVYXhyTkVhUi1pbXFlZ2lMcTl4dlRxU2ZhZTVkS0M3aWFQdWJLcW1UZXAtM2p5ZEo2YjctaXlrVFkwa2s2VW9kN2taUlByVWF5cEctX0Q2RTlJSUhEUjB3ZWkycXFIaTNfcUZQS2F3M3M5UlF5bjNhSHVETGVqQnc3TWQxYi1kT0lOMFlTSDZOZ2lFc0lRSGt30gGIAkFVX3lxTFB6SFRaRHc3c043MHJaci1UeGxoQmhOdVJRYUduOGl4eTlIV0RXdEwwZDQ0bFdXUENJZlE2RkJTTHkwSG5TR1FkZUFqRnh3blpaQmx2aUh1bGc1ZHBCZHNPd0lIR2ZWbnpWMHR5dHZGQllhdXJyZkJVTFlCZ2R5bUhldVl1clgwc3EwbWNtcFJaRzhuYmtEV1FBLWNMb3EyRUp6UVhyNk5MVkVIenRNOGpXSHlZc0hJTERJWDctekcwa0RybFo4Ry1zR082aS1RMnltOFRqMlIwMXNkSllHU2lRbHZuSXNJM0M5UkpWVXp6R1Eza05NSnNTMWI0aUd1WElrdHFiVHpVbg?oc=5",
+   "date": "2026-11-05",
+   "source": "Moneycontrol.com",
+   "label": "PMS",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "PMS news",
+    "Regulator: SEBI or RBI",
+    "Rule or framework change"
+   ],
+   "tags": [
+    "PMS"
+   ],
+   "rank": 3,
+   "must_read": true
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 100,
+   "title": "Sebi revises currency derivative norms for domestic investors, FPIs; allows to trade up to USD 5 mn",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-revises-currency-derivative-norms-for-domestic-investors-fpis-allows-to-trade-up-to-usd-5-mn/articleshow/135576552.cms",
+   "date": "2026-11-05",
+   "source": "Economic Times",
+   "label": "Regulatory",
+   "snippet": "Sebi has revised its regulations to permit domestic and foreign portfolio investors to take positions in currency derivatives. Investors can now hold up to USD 5 million without establishing underlying exposure. The new guidelines also require FPIs to ensure their short positions do not exceed this limit. For amounts above the threshold, ",
+   "lead": "Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Some elections matter more than you know: No crop changed in the fields, yet sugar, coffee and soya got cheaper in a day",
+   "image": "https://img.etimg.com/thumb/msid-135576578,width-1200,height-900,imgsize-78624,overlay-etmarkets/articleshow.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Rule or framework change",
+    "Also covered by 2 other outlet(s)"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 4,
+   "must_read": true
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 100,
+   "title": "Sebi eases investor accreditation norms, lets fund managers certify status",
+   "url": "https://www.business-standard.com/markets/news/sebi-eases-investor-accreditation-norms-lets-fund-managers-certify-status-126110501539_1.html",
+   "date": "2026-11-05",
+   "source": "Business Standard",
+   "label": "PMS",
+   "snippet": "Sebi has allowed AIF, SIF and portfolio managers to certify investor accreditation, simplifying the process while retaining verification and record-keeping requirements.",
+   "lead": "Sebi has eased its accredited investor framework, allowing fund and portfolio managers to verify and certify investor status, while also treating persons resident outside India as deemed accredited investors without a separate certificate. | Image: Bloomberg Don't miss the most important news and views of the day. Get them on our Telegram channel",
+   "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/09/thumb/fitandfill/1200X628/1788923552-0723.jpg",
+   "why": [
+    "PMS news",
+    "Regulator: SEBI or RBI",
+    "Rule or framework change"
+   ],
+   "tags": [
+    "PMS"
+   ],
+   "rank": 5,
+   "must_read": true
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 100,
+   "title": "Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13751&Mode=0",
+   "date": "2026-11-05",
+   "source": "RBI",
+   "label": "Regulatory",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Rule or framework change",
+    "Official notice"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
    "desk": "Startups",
-   "score": 14,
+   "score": 13,
    "priority": 100,
    "title": "Razorpay gets Sebi nod for Rs 5,000-6,000 Cr IPO; eyes $5B valuation",
    "url": "https://yourstory.com/2026/11/razorpay-gets-sebi-nod-for-rs-5000-6000-cr-ipo-eyes-5b-valuation",
@@ -505,60 +599,13 @@
     "IPO & Listing",
     "Policy & Regulation"
    ],
-   "rank": 3,
-   "must_read": true
-  },
-  {
-   "desk": "Immigration",
-   "score": 11,
-   "priority": 100,
-   "title": "UK Earned Settlement: When Immigration Status Becomes an Incentive for Growth and Compliance",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUGpFS3ZZRENueDliQk1uWjU5VG9jcWoxdWd6SUR2RDBPYzN2MVZLdUtadWhiNGhIMmFoeklUNGduNl9Ua2lYVXhLMDdjTzROdU9MZjNTUW5yTTNXbE5GSDEtTFlOcDlma2RzVFlyUkVJbGpsUXFvdVpPbkFzM09nY1JmTnFqYlMxc0EwRnd4a29vSFlZaThCaUtZemNENFJkU09mMW9XUzRxcWp4ZGt2VXM2a1p6VmUydGZ1VENNVHJHQ1hvLXQ0UGtR?oc=5",
-   "date": "2026-11-04",
-   "source": "Fragomen",
-   "label": "United Kingdom",
-   "snippet": "In a new blog, UK Government Affairs Strategy Director Shuyeb Muquit examines what the framework could mean for employers, including potential impacts on sponsorship costs, retention planning, employee communications and support for internationally mobile workers and their families.",
-   "lead": "Days after the Budget showed how immigration policy might support wider economic objectives , the Government's final Earned Settlement framework takes that approach further by using immigration status itself as a policy lever. Earlier permanent residence will reward economic and public-service contribution, while longer pathways will attach consequences to immigration non-compliance and specified use of public funds. Settlement is ...",
-   "image": "https://www.fragomen.com/a/web/5MaBUUbsT63wtF5ja1m5fg/eD4YJ8/uk-earned-settlement_-when-immigration-status-becomes-an-incentive-for-growth-and-compliances-cc.jpg",
-   "why": [
-    "Affects permanent residence",
-    "Announces a change",
-    "Major story (15 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "United Kingdom"
-   ],
-   "rank": 4,
-   "must_read": true
-  },
-  {
-   "desk": "Advisory",
-   "score": 12,
-   "priority": 100,
-   "title": "SEBI forms working group to review Innovators Growth Platform framework",
-   "url": "https://www.thehindubusinessline.com/markets/sebi-forms-working-group-to-review-innovators-growth-platform-framework/article71666591.ece",
-   "date": "2026-11-04",
-   "source": "BusinessLine",
-   "label": "Regulatory",
-   "snippet": "SEBI forms an 18-member working group to review and upgrade Innovators Growth Platform rules for better access to capital for deep-tech and innovation-led firms.",
-   "lead": "' blCenterIconDiv.innerHTML = spanSvg blLoaderDiv.appendChild(blCenterLoadDiv) blLoaderDiv.appendChild(blCenterIconDiv) divInner.appendChild(blLoaderDiv) div.appendChild(divInner) var bodyIntravel = setInterval(() => { if(window.document.body) { clearInterval(bodyIntravel) window.document.body.insertBefore(div, window.document.body.firstChild) } }, 100) function addStyle(styles) { var css = document.createElement('style'); css.type = ...",
-   "image": "https://bl-i.thgim.com/public/incoming/9jew5t/article71663736.ece/alternates/LANDSCAPE_1200/2025-03-24T133634Z_1495740992_RC2LJDA9KT1O_RTRMADP_3_INDIA-SEBI-REGULATIONS.JPG",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Rule or framework change",
-    "Also covered by 3 other outlet(s)"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 5,
-   "must_read": true
+   "rank": 7,
+   "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 15,
-   "priority": 94,
+   "score": 14,
+   "priority": 93,
    "title": "Cabinet approves Rs.14,500 crore Viability Gap Funding Scheme for development of 92 GWh Grid-Scale Energy Storage Systems",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332474",
    "date": "2026-11-04",
@@ -575,13 +622,13 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 6,
+   "rank": 8,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 13,
-   "priority": 93,
+   "score": 12,
+   "priority": 92,
    "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
    "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
    "date": "2026-11-05",
@@ -599,13 +646,13 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 7,
+   "rank": 9,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 13,
-   "priority": 93,
+   "score": 12,
+   "priority": 92,
    "title": "Indian startups with over $500M valuation grow to 51 despite low number of AI entities: Report",
    "url": "https://yourstory.com/2026/11/indian-startups-over-500m-valuation-grow-51-despite-low-number-ai-entities-report",
    "date": "2026-11-04",
@@ -623,83 +670,58 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "Indian bond yields log strongest rally since April; 10-year yield closes at 7.19% on softer crude, US midterm election outcome",
-   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPU1hRS0hJV09MX2JEOXdqQmNTTWhDTHhoYVdnazVEaERlOGNBekxwNEdlNzBsMm1TZzI4aWk0NUlHekZOdTRjNlJ0ZU11ZTBrT3FPN2djM0pDWHgwaURkX3RnaEVXa1ZKblB0ZW41RlIzdTNmb00xTlVja2h4Wi0taThhclRWOHJVcHRtQ3NfcDFOSnc5R3VCMGNYUmhjSkl4R0JGR1pDVlV6ZngxZzZQZVhpd3dva2VoVG9KSktlZW8xS2NvWEJOVms4SE9wcUNna0tGNjdtZzgyQndtbGRKMUVzbmxIQ2p1YXRHNzJRWjB3WUxHdHVCZTYxc0tkRjdObkE0MndMY09MN2dMMGlRSEkxVG0?oc=5",
-   "date": "2026-11-04",
-   "source": "Moneycontrol.com",
-   "label": "Debt & Bonds",
-   "snippet": "Yields have declined sharply over three sessions as falling oil prices and softer global bond yields improved sentiment, but dealers caution that the rally may not sustain amid persistent geopolitical and crude-related uncertainties.",
-   "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
-   "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260825072156_bond-yield.png",
-   "why": [
-    "Government bond yields",
-    "Global macro driver",
-    "Sharp market move",
-    "New product or fund"
-   ],
-   "tags": [
-    "Debt & Bonds"
-   ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "Sensex falls, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRVVzOWRUTExHTmJOUFhzX0tmWDdhWm8ycVpaZ0FrR1FIMElpOHhua2gxWHdJWnpDRHRhVWowY0lUdk1BakVGMVlBZHpqR3BtamRiS1FXWUptWW5sdVp1MGFWQzFFanBhTUJVdWxicVRQN1ZZV3hKa2VLNHNvTExKMklwaTN3TWVjdWRHQ3hjRzVUSEhvSzk2UjI5LVRHX0JFOEs3d1Ewb2MwOWt2UHIw?oc=5",
-   "date": "2026-11-04",
-   "source": "DD News",
-   "label": "Regulatory",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Global macro driver",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
    "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "SEBI makes direct mutual fund plans default on AMC digital platforms from November 1",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQUR3R2U3VHRuTGkwUzdQV2JKZ1c3TmZlZnd1RURhWGRWWUMxZC1UWTNpbTVISVJvd0k2WUNFckJ1Q1NwQzNXX2hXajhEd2lVTnJZNTQzcE9rTU55S25uWFg4THM2WFp5UkhOVmxlaWVLWVplemx5ZWtsZWRabDFHMUZ4YlBaa05xcUVubW04OFpuVVNYR2ZzeHFoZk45Y0RJMmNBTy03S0NOMGRMZjJHblAweU5QV0ZzU0hGVnpYc2JtR2RHRkE?oc=5",
-   "date": "2026-10-29",
-   "source": "Cafemutual",
-   "label": "Mutual Funds",
-   "snippet": "Investors opting for regular plans will have to be informed about their higher expense ratios, as the regulator seeks to improve transparency around mutual fund costs.",
-   "lead": "Investors who choose regular plans will have to be informed about their higher expense ratios, bringing the cost difference between the two options into sharper focus. Direct and regular plans invest in the same mutual fund scheme and follow the same portfolio strategy. However, direct plans do not carry distributor commissions, resulting in lower expense ratios than their regular counterparts. The move is aimed at making investors ...",
-   "image": "https://cafemutual.com/img/og-image.JPG",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Credit rating change or default",
-    "Also covered by 4 other outlet(s)"
-   ],
-   "tags": [
-    "Mutual Funds"
-   ],
-   "rank": 11,
    "must_read": false
   },
   {
    "desk": "Startups",
    "score": 12,
-   "priority": 86,
+   "priority": 92,
+   "title": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2",
+   "url": "https://yourstory.com/2026/10/jio-platforms-first-post-listing-results-user-growth-higher-arpu-drive-137-pc-profit-rise-in-q2",
+   "date": "2026-10-31",
+   "source": "YourStory",
+   "label": "India · Other",
+   "snippet": "The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review.",
+   "lead": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2 The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review. Press Trust of India 11249 Stories Saturday October 31, 2026 , 5 min Read The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review, ...",
+   "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/WhatsAppImage2026-10-28at11-1793168547436.jpeg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $4,261M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 91,
+   "title": "SEBI Allows Mutual Funds to Net Cash Market Settlements from April 2027, Boosting Efficiency",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUVVjOHlUc1huVlFVTU1kWVJoclA3OXluSG0tV3NnaTlYZ1FTNkRUdVNCT0RPVFV5eHhzVjB0UmtMSW1Ha2kxZ0h3aU1fczRBcllKQ1R0SXJYT1FHUHVFZzY2QWNCRUM5bVpWTHVzT2ZWbnYzcmh4MDFFelA3dWxRNW5qeWlHTlo4WG8ybXc0OWpwSm1uV0lfWm5NcDdMeVl5T1FxVHRlSTVhQXhERnYtNmtEcXlHT3pFOTZsX3RBeG5GSXQwUkVKeDNQZVNmZEk3NTM3Z9IB2gFBVV95cUxQTFVfdEZrc0lUOVpIdFNITDdLcEVuVmNkMzNVWVJWOXdncEczN2RnaHhtWnJqZndBZ1V5NFozX216SDZoT1dReGNfVDh5Z3UtOS1HNFlaWlp0TEZCeXpwTVJTNFlvTVlEMUEtSjZra0RhRjY5bjE3dGRVSUtRYXVIQjJtXzBkMGd2ZHcwRktDcUZrcFB4VDhfN0RqS1JfUnB6Q09ET2FnZFZvLVl1V0Rxb2hkZ0RaRW0tcTVGQWRoX1d1amlSd0tFdnpXRl9zMkFZeVJUcWR4NXhMdw?oc=5",
+   "date": "2026-11-05",
+   "source": "Lokmat Times",
+   "label": "Mutual Funds",
+   "snippet": "SEBI Allows Mutual Funds to Net Cash Market Settlements from April 2027, Boosting Efficiency - New Delhi: The Securities and Exchange Board of India (SEBI) has announced a significant change for mutual funds, allowing ... Get Latest News on Business only on lokmattimes.com",
+   "lead": "By ANI | Updated: November 5, 2026 21:00 IST 2026-11-06T02:29:40+5:30 2026-11-05T21:00:44+5:30 New Delhi: The Securities and Exchange Board of India (SEBI) has announced a significant change for mutual funds, allowing them to net fund obligations from outright purchase and sale transactions in the cash market starting April 1, 2027. This new framework aims to reduce temporary funding needs and make settlements more efficient for ...",
+   "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20261105151615_202611.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Also covered by 3 other outlet(s)"
+   ],
+   "tags": [
+    "Mutual Funds"
+   ],
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
    "title": "PhysicsWallah’s Q2 Profit Surge, Elo Elo Bags $80 Mn & More",
    "url": "https://inc42.com/buzz/physicswallahs-q2-profit-surge-elo-elo-bags-80-mn-more/",
    "date": "2026-11-05",
@@ -717,13 +739,13 @@
     "Funding",
     "Edtech & Skills"
    ],
-   "rank": 12,
+   "rank": 13,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
-   "priority": 86,
+   "score": 11,
+   "priority": 85,
    "title": "Revolut completes funding round at $115 billion valuation",
    "url": "https://economictimes.indiatimes.com/tech/technology/revolut-completes-funding-round-at-115-billion-valuation/articleshow/135543134.cms",
    "date": "2026-11-04",
@@ -741,60 +763,37 @@
     "Funding",
     "Fintech"
    ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 86,
-   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-   "date": "2026-11-04",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-   "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Fal , a San Francisco-based startup that hosts and runs AI video, image, and audio models, has raised $1.3 billion in its latest funding round led by Bessemer Venture Partners, with participation from Nvidia, Sound Ventures, and T. Rowe Price. The deal values Fal at $16 billion, double its $8 billion valuation in April, Bloomberg ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1268605503.jpg?resize=1200,420",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $16,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
    "rank": 14,
    "must_read": false
   },
   {
-   "desk": "Advisory",
+   "desk": "Immigration",
    "score": 10,
    "priority": 83,
-   "title": "SEBI Allows REITs and InvITs to Issue Depository Receipts Through GIFT City",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVm9EQ1cxQW9famdKSzI2WHpFSXN4b2ZaNkdnRC14MEJFakNBYmRHSm5lMVdHd3BMZnA0Z3pWcWQwUWFMZ3A3LUpveDdZb09EMHJjWXJwS2ljbmpjSC1Gai1lRmxlRTR1ZnBad1psSjFJMUowN0RmVDFnWlZROTdKUDNQLUxtVzV0N0VMWlhhVUtmWlpfRkFRNTRraktfSUpURnJhbVVucGtSVldZNy12MVp3?oc=5",
-   "date": "2026-11-03",
-   "source": "The Realty Today",
-   "label": "REITs & InvITs",
-   "snippet": "SEBI introduces a depository receipt framework for REITs and InvITs through GIFT City exchanges, creating an additional investment route for overseas investors and expanding access to India's real estate and infrastructure markets.",
-   "lead": "",
-   "image": "https://evoluxar-production-s3.s3.ap-south-1.amazonaws.com/trt/media/sebi_enables_reits_and_invits_depository_receipts_via_gift_city-1793690715407-106309.png",
+   "title": "UK Earned Settlement: When Immigration Status Becomes an Incentive for Growth and Compliance",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUGpFS3ZZRENueDliQk1uWjU5VG9jcWoxdWd6SUR2RDBPYzN2MVZLdUtadWhiNGhIMmFoeklUNGduNl9Ua2lYVXhLMDdjTzROdU9MZjNTUW5yTTNXbE5GSDEtTFlOcDlma2RzVFlyUkVJbGpsUXFvdVpPbkFzM09nY1JmTnFqYlMxc0EwRnd4a29vSFlZaThCaUtZemNENFJkU09mMW9XUzRxcWp4ZGt2VXM2a1p6VmUydGZ1VENNVHJHQ1hvLXQ0UGtR?oc=5",
+   "date": "2026-11-04",
+   "source": "Fragomen",
+   "label": "United Kingdom",
+   "snippet": "In a new blog, UK Government Affairs Strategy Director Shuyeb Muquit examines what the framework could mean for employers, including potential impacts on sponsorship costs, retention planning, employee communications and support for internationally mobile workers and their families.",
+   "lead": "Days after the Budget showed how immigration policy might support wider economic objectives , the Government's final Earned Settlement framework takes that approach further by using immigration status itself as a policy lever. Earlier permanent residence will reward economic and public-service contribution, while longer pathways will attach consequences to immigration non-compliance and specified use of public funds. Settlement is ...",
+   "image": "https://www.fragomen.com/a/web/5MaBUUbsT63wtF5ja1m5fg/eD4YJ8/uk-earned-settlement_-when-immigration-status-becomes-an-incentive-for-growth-and-compliances-cc.jpg",
    "why": [
-    "REIT / InvIT news",
-    "Regulator: SEBI or RBI",
-    "Also covered by 3 other outlet(s)"
+    "Affects permanent residence",
+    "Announces a change",
+    "Major story (15 headlines that day)"
    ],
    "tags": [
-    "REITs & InvITs"
+    "PR / Settlement",
+    "United Kingdom"
    ],
    "rank": 15,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 13,
-   "priority": 81,
+   "score": 12,
+   "priority": 80,
    "title": "Cabinet approves continuation of the Centrally Sponsored Scheme for Fast Track Special Courts (FTSCs) for expeditious trial of cases of rape and POCSO (Protection of Children from Sexual Offences) Act for a further period of five years (FY 2026-27 to FY 2030-31)",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332483",
    "date": "2026-11-04",
@@ -815,8 +814,8 @@
   },
   {
    "desk": "Policy",
-   "score": 13,
-   "priority": 81,
+   "score": 12,
+   "priority": 80,
    "title": "Cabinet approves ‘Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR)’, a central sector scheme for the period 2026-27 to 2030-31",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332480",
    "date": "2026-11-04",
@@ -837,8 +836,8 @@
   },
   {
    "desk": "Policy",
-   "score": 13,
-   "priority": 81,
+   "score": 12,
+   "priority": 80,
    "title": "Cabinet Approves Capex Support Scheme to Promote Critical Mineral Processing with an Outlay of Rs.2,814 Crore for Lithium and Nickel processing",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332476",
    "date": "2026-11-04",
@@ -858,31 +857,9 @@
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 8,
-   "priority": 73,
-   "title": "Last call to take Norway's citizenship and social studies tests in 2026",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYmVxaUtJMDdkU2R0YWUyUVRMTzl2STdXdkxxQURRNEh2Q0pXVUlMMUt6OGptczZfWkJBdDRnbUdva2lld1BHcm1ELVZnMFlKUmc5TnJid0NnemM4UlZfemxCdzNCRWh5WE5GaUVpU0RtYjA3ekFLeWFRNWlzMHBHemtrdTg5WU9iWjRkYlZDVVZNSWszanRBSWN6M3VHZzlkU1FwWU13?oc=5",
-   "date": "2026-11-05",
-   "source": "The Local Norway",
-   "label": "Norway",
-   "snippet": "If you want to complete your Norwegian social studies or citizenship test before the end of 2026 and keep your immigration or residency process moving, you are still in time to secure a place.",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source If you want to complete your Norwegian social studies or citizenship test before the end of 2026 and keep your immigration or residency process moving, you are still in time to secure a place. Whether you are ...",
-   "image": null,
-   "why": [
-    "Affects citizenship"
-   ],
-   "tags": [
-    "Citizenship",
-    "Norway"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
    "desk": "Policy",
-   "score": 11,
-   "priority": 69,
+   "score": 10,
+   "priority": 67,
    "title": "Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators",
    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13751&Mode=0",
    "date": "2026-11-05",
@@ -898,13 +875,13 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 20,
+   "rank": 19,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 11,
-   "priority": 69,
+   "score": 10,
+   "priority": 67,
    "title": "Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13750&Mode=0",
    "date": "2026-11-03",
@@ -921,27 +898,51 @@
    "tags": [
     "Banking & Rates"
    ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 8,
+   "priority": 67,
+   "title": "Australia Student Visa Rules Could Change: Indians May Have To Deposit Funds In Local Banks",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTHB3dzBPdXlSWjU1ZHl3VmF0YXFqMVRKMTRtUkFpbnhkbEtMLTF4U2lfYUxfN3Uza3psa1Q3a3p1NnVpVlVaMkNKUWo2SHpIVWJtc2ZFcVgtRWpZbDBoLTNGR3lpRElPS1ltZ01rSHFHNWg5MTFSM1V5ejhTeXh3Z1hYbVpHOVZVWUhtcmVnaTNvVnotVU9TMnBHY19CSGM1NHJqWFFmcnN4THdPckRJUElTVVpKYzhOTVktNkN0UFcxQ1pUQ3c2ZzVxN1J5NElHQmfSAdoBQVVfeXFMTzFpWHVZMW03dzRxak54cms4TVlNMmFHSEluYXZYODVQVk54aktWby1ZTkhGekxoMEtLWFpBSHNjdlFtTkFVMGVDZGlfcDNkd1QtOFozQUdQeGJqTGZCNDhpeENWUXc5VV9iejN2SU9kbEdYc214UHlkVnNwTllGMkEzakh3cVF2ZXhJZDNXWFlQcUxSdXFoNWo1a2FOZmFEM1RyTDNKQ2ZiTmRrSGhWWjFjSzJZRXJHcUl3cFp1WGdkMUotVS1CQWprMTBnOVhScE9tQVp0WUx4bXc?oc=5",
+   "date": "2026-11-02",
+   "source": "NDTV Profit",
+   "label": "Australia",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Announces a change",
+    "Major story (12 headlines that day)",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Student / Graduate",
+    "Australia"
+   ],
    "rank": 21,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 7,
-   "priority": 64,
-   "title": "Japan – Revised Eligibility Criteria for Permanent Residence to Take Effect in April 2027",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0dWWGtSMjV6dWNEMk9uOFJkaV9nZXprcGI4blJkdkluUWdBb0lESmh2dGdja1JFMmVLMk1uUzBkdUhKRl93U01TS0UzN3ZFcmVFSENLUWdTWnNlR2JCcUVNdGx3aXgzNDVEaVBqX2kyN3Fsc24wbHFVN2dKUmtZMXVSTVg4X3pHUTlwWEgtOW8yUXRYeU03SWltZ1lHNTk3WFgwczh2RGJESVgzZmR3?oc=5",
+   "priority": 58,
+   "title": "Last call to take Norway's citizenship and social studies tests in 2026",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYmVxaUtJMDdkU2R0YWUyUVRMTzl2STdXdkxxQURRNEh2Q0pXVUlMMUt6OGptczZfWkJBdDRnbUdva2lld1BHcm1ELVZnMFlKUmc5TnJid0NnemM4UlZfemxCdzNCRWh5WE5GaUVpU0RtYjA3ekFLeWFRNWlzMHBHemtrdTg5WU9iWjRkYlZDVVZNSWszanRBSWN6M3VHZzlkU1FwWU13?oc=5",
    "date": "2026-11-05",
-   "source": "WR Immigration",
-   "label": "Japan",
-   "snippet": "Our March global immigration recap includes the latest on the EU’s implementation of the digital Entry/Exit System (EES), the United Kingdom’s updated guidance for sponsors of foreign workers, Australia’s skilled visa nomination income thresholds, Singapore’s new AI & Tech ONE Pass, and more.",
-   "lead": "total views 0 ) { %> , views today Japan – Revised Eligibility Criteria for Permanent Residence to Take Effect in April 2027 - WR Immigration Client Payment Portal Japan – Revised Eligibility Criteria for Permanent Residence to Take Effect in April 2027 Nov 4, 2026 | Global Japan has updated its permanent residence requirements, expanding eligibility criteria to include the following for applications submitted on or after April 1, ...",
-   "image": "https://wolfsdorf.com/wp-content/uploads/2026/11/Vermilion-thresholds-in-Tokyo-7.png",
+   "source": "The Local Norway",
+   "label": "Norway",
+   "snippet": "If you want to complete your Norwegian social studies or citizenship test before the end of 2026 and keep your immigration or residency process moving, you are still in time to secure a place.",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source If you want to complete your Norwegian social studies or citizenship test before the end of 2026 and keep your immigration or residency process moving, you are still in time to secure a place. Whether you are ...",
+   "image": null,
    "why": [
-    "Affects permanent residence"
+    "Affects citizenship"
    ],
    "tags": [
-    "PR / Settlement",
-    "Japan"
+    "Citizenship",
+    "Norway"
    ],
    "rank": 22,
    "must_read": false
@@ -949,22 +950,22 @@
   {
    "desk": "Immigration",
    "score": 7,
-   "priority": 64,
-   "title": "Iceland Proposes 93% Rise in Residence Permit Income Threshold",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2xubEdnc3BQSkRWSjNDTWpIY3oyakRENW5oTWN6OWNXQ1dHanYzQXNVQ0pYUWQ1N3Vvd2toNzQ3Zk56QUduMmJqRnNhZGpCQWlaSmlvanhQSFFxaE4wZkNtcXhReDNvS0R1RURsQmkyeUtLR0Rqa3h4MXpRQWZ3cmJRTlQyU2F3Smc?oc=5",
-   "date": "2026-11-04",
-   "source": "Iceland Review",
-   "label": "Iceland",
-   "snippet": "",
-   "lead": "",
+   "priority": 58,
+   "title": "Could Austria finally change its rules on citizenship for children born in the country?",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUlkRHhWc1Jzdk9UVkRPLXllZFZLOUtFZGpkRzFNdDdvUEZuVEdGVHc0anlxd0l5WVpUT25lZ0hEaldjZzgtMVlhNXIyWnp0OHhyYjdwb1p5d204VjloeHh4NEgtZGZWX0IzcHRhS1hncTBxa0djSVdzX3dkNFNzSE92UnVQelF1NU80MHFiMVk0ZkU3LTB0ZjZ5SF9XYldyMV9ud0I3RkhwTFFWXy00Q01nMHNVdW0tT0NR?oc=5",
+   "date": "2026-10-30",
+   "source": "The Local Austria",
+   "label": "Austria",
+   "snippet": "Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change?",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change? The Austrian debate over citizenship for children ...",
    "image": null,
    "why": [
-    "Salary threshold change",
+    "Affects citizenship",
     "Announces a change"
    ],
    "tags": [
-    "Salary threshold",
-    "Iceland"
+    "Citizenship",
+    "Austria"
    ],
    "rank": 23,
    "must_read": false
