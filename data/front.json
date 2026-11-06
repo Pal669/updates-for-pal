@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-06",
- "built": "2026-11-06 03:47 IST",
+ "built": "2026-11-06 09:13 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 23961.0,
-   "change_pct": 0.63,
-   "asof": "05 Nov 15:31 IST"
+   "value": 24538.0,
+   "change_pct": 0.01,
+   "asof": "06 Nov 09:13 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 77301.0,
-   "change_pct": 0.5,
+   "value": 79310.0,
+   "change_pct": 2.6,
    "asof": "05 Nov 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.46,
-   "change_pct": -0.3,
-   "asof": "06 Nov 03:18 IST"
+   "value": 94.43,
+   "change_pct": -0.09,
+   "asof": "06 Nov 09:12 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 99.25,
-   "change_pct": 4.89,
-   "asof": "06 Nov 03:29 IST"
+   "value": 100.32,
+   "change_pct": 2.07,
+   "asof": "06 Nov 09:02 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4098.0,
-   "change_pct": 0.61,
-   "asof": "06 Nov 03:29 IST"
+   "value": 4058.0,
+   "change_pct": -1.36,
+   "asof": "06 Nov 09:03 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,8 +79,8 @@
  },
  "desks": {
   "Policy": {
-   "total": 318,
-   "new_today": 0,
+   "total": 319,
+   "new_today": 1,
    "items": [
     {
      "desk": "Policy",
@@ -166,8 +166,8 @@
    ]
   },
   "Startups": {
-   "total": 1258,
-   "new_today": 2,
+   "total": 1261,
+   "new_today": 5,
    "items": [
     {
      "desk": "Startups",
@@ -260,7 +260,7 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 3,
+   "new_today": 15,
    "items": [
     {
      "desk": "Immigration",
@@ -358,9 +358,9 @@
      "date": "2026-11-04",
      "source": "Moneycontrol.com",
      "label": "Debt & Bonds",
-     "snippet": "",
-     "lead": "",
-     "image": null,
+     "snippet": "Yields have declined sharply over three sessions as falling oil prices and softer global bond yields improved sentiment, but dealers caution that the rally may not sustain amid persistent geopolitical and crude-related uncertainties.",
+     "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
+     "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260825072156_bond-yield.png",
      "why": [
       "Government bond yields",
       "Global macro driver",
@@ -424,9 +424,9 @@
      "date": "2026-11-05",
      "source": "Moneycontrol.com",
      "label": "Gold & Silver",
-     "snippet": "",
-     "lead": "",
-     "image": null,
+     "snippet": "IFL Finance IPO | The company had approached SEBI in July 2026 by filing a draft red herring prospectus to raise funds through an IPO of 3.85 crore equity shares.",
+     "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
+     "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260804060510_Alpine-Texworld-IPO-Day-2.png",
      "why": [
       "Regulator: SEBI or RBI",
       "Precious metals",
@@ -440,6 +440,30 @@
   }
  },
  "items": [
+  {
+   "desk": "Immigration",
+   "score": 12,
+   "priority": 100,
+   "title": "BREAKING: Canada announces plans for up to 622,000 new permanent residents in 2027",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSm5JWVBtOUx3UmJPWkZRRndKcjU3WEFNTGlHMi0tNk1MOGdZMVdfVXRoNktDd243UXFhMG4xWHBEZ1BpeDFwUV9uMUtqN1B2NzhLbHY1akdsNERtOGUxYzNSaVNDZU95eDlCSl9FYWNrUzVPam14eHNpRF85ZTZZajJtQlBHTkJwSHhPYlBLcTloTWZpSGhhdWRXa1ZHLUU3LVBYOTd5U3BNcjZzMzJuWDZNelpJd21UNXo2UFJocFplNWvSAcgBQVVfeXFMTjV5QzBHcktld1pWdDFOVUFmNldyeklKV2E5RmtPMzJwNmRfS0k1OTV4NlNETEtCZ09OczZYQ0VpUWlWOU14Zkhfa0lsZFYzN18tbEt6S2p0QWs2V1hwR2g0UXplV0ZFcXRrNFZDeWx5X1ljVnhKQ0Q5akNFWGJSMVk5Zk5LcHhIcWh0Vm5XUlJ0c3FBalNpNTJlRDgwTjl1eDRpZGdmRTZVNGdGbzBYTlFTTm81LUNFZTFTSHFDVzZuMndHaVBzSUQ?oc=5",
+   "date": "2026-11-06",
+   "source": "CIC News",
+   "label": "Canada",
+   "snippet": "Canada plans to welcome up to 622,000 new permanent residents by the end of 2027, according to figures released in the latest federal budget and annual Immigration Levels Plan. Assess your Eligibility for 30+ Pathways to Permanent Residence On Nov 5., 2026 the government published Budget 2026, which announced measures to transition to per",
+   "lead": "Canada plans to welcome up to 622,000 new permanent residents by the end of 2027, according to figures released in the latest federal budget and annual Immigration Levels Plan. On Nov 5., 2026 the government published Budget 2026 , which announced measures to transition to permanent residence up to 200,000 in-Canada temporary residents by the end of 2027. On top of the 2027 TR-to-PR transition measures (2027 TPTMs), the government’s ...",
+   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/ILP-ANNOUNCEMENT.jpg",
+   "why": [
+    "Affects permanent residence",
+    "Announces a change",
+    "Major story (9 headlines that day)"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Canada"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
   {
    "desk": "Policy",
    "score": 15,
@@ -460,30 +484,6 @@
    "tags": [
     "Budget & Fiscal"
    ],
-   "rank": 1,
-   "must_read": true
-  },
-  {
-   "desk": "Immigration",
-   "score": 12,
-   "priority": 100,
-   "title": "Some permanent resident applicants left in limbo by changes to Canadian citizenship law",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYmJ2enBEQllsMnQzSzdZZV9pT2JVYTRfZHJlZXU4ai1kSkFNRGtSZzBRTGhYVTY4ZDJWVjJLMEp2Ny1XVnhEbXAwdHp5b1BGUFEyWk9lLUt6emVqaDNnQnB1OUdkRTVhZHNmNmZpMjNsLXdGVzc1Mjc2SlhJaGl0c1Z1dDBKLUE?oc=5",
-   "date": "2026-11-05",
-   "source": "CBC",
-   "label": "Canada",
-   "snippet": "CBC News has learned that Immigration, Refugees and Citizenship Canada quietly put permanent resident applications on hold for an unknown number of people who could now qualify for citizenship by descent.",
-   "lead": "Pottier made arrangements to transfer his job to Canada. His American-born wife, Lindsey Jade Higgins, applied for spousal permanent resident status. Originally, they expected it would only take a few months. A year later, Pottier has had to begin work in Halifax while his wife is in Portland, Maine, still waiting. A few days ago, Pottier learned that they could have to wait yet another year to live together in Canada — the result of ...",
-   "image": null,
-   "why": [
-    "Affects citizenship",
-    "Announces a change",
-    "Major story (8 headlines that day)"
-   ],
-   "tags": [
-    "Citizenship",
-    "Canada"
-   ],
    "rank": 2,
    "must_read": true
   },
@@ -496,9 +496,9 @@
    "date": "2026-11-05",
    "source": "Moneycontrol.com",
    "label": "PMS",
-   "snippet": "",
-   "lead": "",
-   "image": null,
+   "snippet": "New framework introduces manager-led accreditation as an additional route, provides three-year validity and expands the securities eligible for meeting the minimum exposure threshold",
+   "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
+   "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260924130823_sebi3.jpg",
    "why": [
     "PMS news",
     "Regulator: SEBI or RBI",
@@ -781,7 +781,7 @@
    "why": [
     "Affects permanent residence",
     "Announces a change",
-    "Major story (15 headlines that day)"
+    "Major story (16 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
