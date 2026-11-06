@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-06",
- "built": "2026-11-06 09:13 IST",
+ "built": "2026-11-06 11:53 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 24538.0,
-   "change_pct": 0.01,
-   "asof": "06 Nov 09:13 IST"
+   "value": 24594.0,
+   "change_pct": 0.24,
+   "asof": "06 Nov 11:53 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 79310.0,
-   "change_pct": 2.6,
-   "asof": "05 Nov 15:32 IST"
+   "value": 79742.0,
+   "change_pct": 0.54,
+   "asof": "06 Nov 11:38 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.43,
-   "change_pct": -0.09,
-   "asof": "06 Nov 09:12 IST"
+   "value": 94.14,
+   "change_pct": -0.4,
+   "asof": "06 Nov 11:53 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 100.32,
-   "change_pct": 2.07,
-   "asof": "06 Nov 09:02 IST"
+   "value": 99.78,
+   "change_pct": 1.52,
+   "asof": "06 Nov 11:43 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4058.0,
-   "change_pct": -1.36,
-   "asof": "06 Nov 09:03 IST"
+   "value": 4053.0,
+   "change_pct": -1.47,
+   "asof": "06 Nov 11:43 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -166,8 +166,8 @@
    ]
   },
   "Startups": {
-   "total": 1261,
-   "new_today": 5,
+   "total": 1262,
+   "new_today": 6,
    "items": [
     {
      "desk": "Startups",
@@ -260,8 +260,28 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 15,
+   "new_today": 20,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 50,
+     "title": "Korea grants temporary stay and work permits to foreign children seeking paternal recognition",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN3VXZTlLUkp3WUl3N0pYc2tkajdKUlpucVJkY2laM0hyUEpmNTBoOEtWT1VvMHVpdmNJQXltd3RJaWh6ZmE4Z0c1YVJwN0h6REJQV2dQUjdraXpPeUpNajYycjRnNVhxTktnT0NpOUlzU1FVWmg4ZVJkR0hOUWlWS3ZFVnBScjZCcmJ1U3liNEtNTXVuS3BiVFREWm9RUWRMZFhwd0NBV0pVZkpfMFpxWkNkU1gyQXBxWGJJbmc4ZUdUdmNlU2g5RUdkTUFuVHFQeU1SbjBrazlrRklodmFoX1lXODN5Y0nSAewBQVVfeXFMUElEX3ZSZWpJUUJiR3FKYklTNDU5SW41UHlpekM0VmRSbFhpMWRGZTFnRWhwdlBudlVfcGk2QU1VRDhPSk4ySmpvWi0ydS1ScWlCVWpJR1lrcDF1czRjRmdrX3doUDBQcERxcU5BYmczMTZNM2ZXSGh6NllnZFdKQ3Q2NVpLeW43VEtUb3cyQWNSbXZDQkpqZmRwV3BXRmFmN0Fvb2daREF4Y0tlYklJOUl5ZTFUM092VGc3VEc1U0FJbkFnY1BIaDc5WHhuUzVWelk4d2lTTUl0WGdodzMwRUx4bE16V2EwT1ozdnQ?oc=5",
+     "date": "2026-11-06",
+     "source": "The Korea Times",
+     "label": "South Korea",
+     "snippet": "Foreign children seeking legal recognition from Korean parents can now secure long-term stay rights and legal employment during court proceedings,...",
+     "lead": "Law & Crime Korea grants temporary stay and work permits to foreign children seeking paternal recognition Listen Listen Text Size Print Summary Close summary The Ministry of Justice introduced updated immigration guidelines Friday allowing foreign children seeking recognition from Korean parents and their custodial parents to obtain long-term stay status during paternity lawsuits. Eligible families can apply for G-1 status in six-month ...",
+     "image": "https://newsimg.koreatimes.co.kr/2026/11/06/ccf2ea3a-5631-4c36-adf6-95fc47db29ac.jpg",
+     "why": [
+      "Affects work visas"
+     ],
+     "tags": [
+      "Work visa",
+      "South Korea"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 6,
@@ -321,26 +341,6 @@
      "tags": [
       "Work visa",
       "France"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 42,
-     "title": "Switzerland may reduce citizenship residency requirement to five years – Experts Club",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMGh2bjR3RVkzMjRSNHUzTTM3WG5SZG05Z0pRYTJNOVp3NkRZYWJBcWpGMi1sRUl1amVvcnJ2S2tJSGd0ZzNlYzhGZEx5NktxWWpFSHlyVDEwdGJqZnVFbXNmVVR2OEkxTlp6MENFS21NS1IzcTBOS0xjckFHXzNIejNWZEwzOURCXzR1M1FsT2xVWFZKSTlubWZlMG5tOWJicEJaaEJSaHZtVFhyb01ZUG9CZzV4V28?oc=5",
-     "date": "2026-11-04",
-     "source": "Open4business.com.ua.",
-     "label": "Switzerland",
-     "snippet": "Switzerland will hold a nationwide referendum on February 28, 2027, on simplifying citizenship procedures for foreign residents. The proposed reform would reduce the minimum legal residency requirement from ten to five years, eliminate the mandatory permanent residence permit C and introduce uniform federal naturalization rules, reports t",
-     "lead": "Switzerland will hold a nationwide referendum on February 28, 2027, on simplifying citizenship procedures for foreign residents. The proposed reform would reduce the minimum legal residency requirement from ten to five years, eliminate the mandatory permanent residence permit C and introduce uniform federal naturalization rules, reports the Experts Club information and analytical center . The Swiss Federal Council decided on October ...",
-     "image": "https://open4business.com.ua/wp-content/uploads/2026/11/12.png",
-     "why": [
-      "Affects citizenship"
-     ],
-     "tags": [
-      "Citizenship",
-      "Switzerland"
      ]
     }
    ]
@@ -455,7 +455,7 @@
    "why": [
     "Affects permanent residence",
     "Announces a change",
-    "Major story (9 headlines that day)"
+    "Major story (11 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
