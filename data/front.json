@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-06",
- "built": "2026-11-06 12:50 IST",
+ "built": "2026-11-06 23:13 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,44 +12,44 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 24693.0,
-   "change_pct": 0.64,
-   "asof": "06 Nov 12:50 IST"
+   "value": 25030.0,
+   "change_pct": 2.01,
+   "asof": "06 Nov 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 79974.0,
-   "change_pct": 0.84,
-   "asof": "06 Nov 12:35 IST"
+   "value": 81028.0,
+   "change_pct": 2.17,
+   "asof": "06 Nov 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.03,
-   "change_pct": -0.51,
-   "asof": "06 Nov 12:50 IST"
+   "value": 93.89,
+   "change_pct": -0.66,
+   "asof": "06 Nov 22:43 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 99.33,
-   "change_pct": 1.06,
-   "asof": "06 Nov 12:40 IST"
+   "value": 97.59,
+   "change_pct": -0.71,
+   "asof": "06 Nov 23:03 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4056.0,
-   "change_pct": -1.41,
-   "asof": "06 Nov 12:40 IST"
+   "value": 4071.0,
+   "change_pct": -1.03,
+   "asof": "06 Nov 23:03 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 4.84,
-   "change_pct": -1.16,
-   "asof": "06 Nov 01:29 IST"
+   "value": 4.85,
+   "change_pct": 0.29,
+   "asof": "06 Nov 22:58 IST"
   }
  ],
  "features": {
@@ -79,9 +79,50 @@
  },
  "desks": {
   "Policy": {
-   "total": 319,
-   "new_today": 1,
+   "total": 327,
+   "new_today": 9,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 10,
+     "priority": 67,
+     "title": "Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13751&Mode=0",
+     "date": "2026-11-05",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Notifications - Reserve Bank of India",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Regulator rulebook change",
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 10,
+     "priority": 67,
+     "title": "Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13750&Mode=0",
+     "date": "2026-11-03",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Notifications - Reserve Bank of India",
+     "lead": "RESERVE BANK OF INDIA FOREIGN EXCHANGE DEPARTMENT CENTRAL OFFICE Mumbai 400 001 Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026 In exercise of the powers conferred by Section 7, Section 8, sub-section (6) of Section 10 and sub-section (2) of Section 47 of the Foreign Exchange Management Act, 1999 (42 of 1999), the Reserve Bank of India makes the following amendments to the ...",
+     "image": null,
+     "why": [
+      "Regulator rulebook change",
+      "Rule change",
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 9,
@@ -122,53 +163,78 @@
      "tags": [
       "Tax, Duties & Trade"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 8,
-     "priority": 53,
-     "title": "TRAI releases “The Telecommunication Interconnection (Third Amendment) Regulations, 2026”",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2331941",
-     "date": "2026-11-03",
-     "source": "PIB",
-     "label": "Technology & Telecom",
-     "snippet": "The Telecom Regulatory Authority of India (TRAI) today released “The Telecommunication Interconnecti",
-     "lead": "Ministry of Communications TRAI releases “The Telecommunication Interconnection (Third Amendment) Regulations, 2026” Posted On: 03 NOV 2026 12:37PM by PIB Delhi The Telecom Regulatory Authority of India (TRAI) today released “The Telecommunication Interconnection (Third Amendment) Regulations, 2026” . These regulations will take effect from 1 st January, 2027. Interconnection in telecommunications refers to the technical, operational, ...",
-     "image": null,
-     "why": [
-      "Regulator rulebook change",
-      "Rule change"
-     ],
-     "tags": [
-      "Technology & Telecom"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 8,
-     "priority": 53,
-     "title": "Government notifies National Social Security Board for Unorganised Workers and Gig & Platform Workers under the Labour Codes",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330299",
-     "date": "2026-10-30",
-     "source": "PIB",
-     "label": "Labour & Social",
-     "snippet": "In a landmark step toward ensuring comprehensive social security for India's massive informal workfo",
-     "lead": "Ministry of Labour & Employment Government notifies National Social Security Board for Unorganised Workers and Gig & Platform Workers under the Labour Codes Posted On: 30 OCT 2026 10:29AM by PIB Delhi In a landmark step toward ensuring comprehensive social security for India's massive informal workforce, the Ministry of Labour & Employment has notified the official constitution of the National Social Security Board for U norganised W ...",
-     "image": null,
-     "why": [
-      "Labour and pension rule",
-      "Rule change"
-     ],
-     "tags": [
-      "Labour & Social"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 1264,
-   "new_today": 8,
+   "total": 1284,
+   "new_today": 28,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "Binance $6.3 billion heist to prompt closer scrutiny by insurers",
+     "url": "https://economictimes.indiatimes.com/tech/technology/binance-6-3-billion-heist-to-prompt-closer-scrutiny-by-insurers/articleshow/135602986.cms",
+     "date": "2026-11-06",
+     "source": "ET Startups",
+     "label": "Global · Fintech",
+     "snippet": "Following the $6.3 billion Binance heist, insurers are stepping up their scrutiny of cryptocurrency firms' security measures. During policy renewals, they will inquire about vulnerabilities exposed by the Binance incident. This reassessment could lead to new security prerequisites and an overhaul of risk evaluations. The event underscores",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-76798,resizemode-75,msid-135602986/tech/technology/binance-6-3-billion-heist-to-prompt-closer-scrutiny-by-insurers.jpg",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $6,300M: round or valuation)"
+     ],
+     "tags": [
+      "Funding",
+      "Fintech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "PhysicsWallah’s Q2 Profit Surge, Elo Elo Bags $80 Mn & More",
+     "url": "https://inc42.com/buzz/physicswallahs-q2-profit-surge-elo-elo-bags-80-mn-more/",
+     "date": "2026-11-05",
+     "source": "Inc42",
+     "label": "India · Edtech & Skills",
+     "snippet": "PhysicsWallah had a blockbuster Q2 FY27. The quarter saw the edtech giant swing back to profitability and clock record quarterly revenues.",
+     "lead": "PW’s Growth Engines: The edtech major’s Q2 show was driven by healthy revenue growth, tighter cost control and improving operating leverage. Online business remained PW’s primary growth engine, while the offline network continued to add centres and enrolments. The company also benefited from a shift away from direct lending, reducing balance sheet risk. The startup’s next priority is its AI tutor (currently in pilot), which could ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Social-Daily-Brief-40.png",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $80M)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "Edtech & Skills"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 85,
+     "title": "Revolut completes funding round at $115 billion valuation",
+     "url": "https://economictimes.indiatimes.com/tech/technology/revolut-completes-funding-round-at-115-billion-valuation/articleshow/135543134.cms",
+     "date": "2026-11-04",
+     "source": "ET Startups",
+     "label": "Global · Fintech",
+     "snippet": "The transaction, which Revolut said was led by Glade Brook Capital Partners, Coatue, Durable Capital Partners, T. Rowe Price Associates and Baillie Gifford, means private market investors value the 11-year-old business more highly than many publicly listed banks.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1277395,resizemode-75,msid-135543134/tech/technology/revolut-completes-funding-round-at-115-billion-valuation.jpg",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $115,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "Fintech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 11,
@@ -190,78 +256,34 @@
       "Funding",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 85,
-     "title": "India's next space unicorn may still be in college",
-     "url": "https://yourstory.com/2026/10/indias-next-space-unicorn-may-still-be-in-college",
-     "date": "2026-11-03",
-     "source": "YourStory",
-     "label": "India · AI & Deeptech",
-     "snippet": "India already has its first space-tech unicorn. Skyroot Aerospace crossed the $1 billion valuation mark in May 2026 and, two months later, its Vikram-1 became the first privately developed Indian rocket to reach orbit. Those milestones confirm that India's private space ecosystem has moved well bey",
-     "lead": "India's next space unicorn may still be in college India's spacetech economy will be built in layers and will require investment across infrastructure, software, manufacturing, robotics and more. Richa Bajpai 1 Stories Tuesday November 03, 2026 , 7 min Read India already has its first space-tech unicorn. Skyroot Aerospace crossed the $1 billion valuation mark in May 2026 and, two months later, its Vikram-1 became the first privately ...",
-     "image": "https://images.yourstory.com/cs/2/94a03c40169611f0b4b0c5b62b4900c2/SpaceTecharticle-article1-1786357382704.jpg",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $1,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Shiprocket Turns Profitable In Q2, Revenue Jumps 35% YoY To ₹674 Cr",
-     "url": "https://inc42.com/buzz/shiprocket-turns-profitable-in-q2-revenue-jumps-35-yoy-to-%e2%82%b9674-cr/",
-     "date": "2026-11-05",
-     "source": "Inc42",
-     "label": "India · Commerce & D2C",
-     "snippet": "Shiprocket, which listed on the NSE and BSE in August, had posted a net loss of ₹13.7 Cr in Q1 FY27",
-     "lead": "Shiprocket turned profitable in Q2 FY27, posting a consolidated net profit of ₹0.6 Cr against a ₹20.3 Cr loss a year ago, while operating revenue rose 34.7%. Growth in its core business, improving margins in emerging businesses, and lower finance costs following repayment of borrowings supported the company’s turnaround. Emerging business revenue grew 61% to ₹212.2 Cr, led by martech and omnichannel offerings, while consolidated ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/Shiprocket-soc.jpg",
-     "why": [
-      "Financials",
-      "Sizeable deal (about $71M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Financials",
-      "Commerce & D2C"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Apple seeks about $7 billion from bond sale: Bloomberg News",
-     "url": "https://economictimes.indiatimes.com/tech/technology/apple-seeks-about-7-billion-from-bond-sale-bloomberg-news/articleshow/135578122.cms",
-     "date": "2026-11-05",
-     "source": "ET Startups",
-     "label": "Global · AI & Deeptech",
-     "snippet": "The iPhone maker is the latest major tech company to tap debt markets as the sector raises large sums to fund AI expansion. Apple did not immediately respond to a Reuters request for comment. Reuters could not independently verify the report.",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-3525189,resizemode-75,msid-135578122/tech/technology/apple-seeks-about-7-billion-from-bond-sale-bloomberg-news.jpg",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $7,000M: round or valuation)"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 21,
+   "new_today": 43,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 7,
+     "priority": 58,
+     "title": "Could Austria finally change its rules on citizenship for children born in the country?",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUlkRHhWc1Jzdk9UVkRPLXllZFZLOUtFZGpkRzFNdDdvUEZuVEdGVHc0anlxd0l5WVpUT25lZ0hEaldjZzgtMVlhNXIyWnp0OHhyYjdwb1p5d204VjloeHh4NEgtZGZWX0IzcHRhS1hncTBxa0djSVdzX3dkNFNzSE92UnVQelF1NU80MHFiMVk0ZkU3LTB0ZjZ5SF9XYldyMV9ud0I3RkhwTFFWXy00Q01nMHNVdW0tT0NR?oc=5",
+     "date": "2026-10-30",
+     "source": "The Local Austria",
+     "label": "Austria",
+     "snippet": "Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change?",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change? The Austrian debate over citizenship for children ...",
+     "image": null,
+     "why": [
+      "Affects citizenship",
+      "Announces a change"
+     ],
+     "tags": [
+      "Citizenship",
+      "Austria"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 6,
@@ -321,26 +343,6 @@
      "tags": [
       "Salary threshold",
       "Iceland"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 42,
-     "title": "France – Standardized Issuance of 12-month Talent Visas Across Jurisdictions",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ1ZIaVlKWWF6eGZ4T1VYOGtva1VzcVlhUWJwYW1ZbkRMTk1sMlNydHA3cjVNNjBYLV83MFVvMXNzb01tZ28tX1hVekcxWTBTMDUwaloyejBDekZWbUhuQm43cXczUC1EOS0wR05jUmU3N1d2cDFwR1p4aUVIZzRpQTZ0ZFlTNG90WHVKLTJfVGU5MHROTDNMeW1ZN01fUQ?oc=5",
-     "date": "2026-11-05",
-     "source": "WR Immigration",
-     "label": "France",
-     "snippet": "Our March global immigration recap includes the latest on the EU’s implementation of the digital Entry/Exit System (EES), the United Kingdom’s updated guidance for sponsors of foreign workers, Australia’s skilled visa nomination income thresholds, Singapore’s new AI & Tech ONE Pass, and more.",
-     "lead": "total views 0 ) { %> , views today France – Standardized Issuance of 12-month Talent Visas Across Jurisdictions - WR Immigration Client Payment Portal France – Standardized Issuance of 12-month Talent Visas Across Jurisdictions Nov 4, 2026 | Global The French Ministry of Interior has instructed its consulates around the world to issue long-stay “Talent” visas as documents with a validity of 12 months in cases where the applicant ...",
-     "image": "https://wolfsdorf.com/wp-content/uploads/2026/11/Parisian-Facade-in-Perfect-Alignment-5.png",
-     "why": [
-      "Affects work visas"
-     ],
-     "tags": [
-      "Work visa",
-      "France"
      ]
     }
    ]
@@ -441,27 +443,50 @@
  },
  "items": [
   {
+   "desk": "Startups",
+   "score": 13,
+   "priority": 100,
+   "title": "MDR And AI: Inside The Two Acronyms That Could Shape Razorpay’s ₹6,000 Cr IPO",
+   "url": "https://inc42.com/features/mdr-and-ai-inside-the-two-acronyms-that-could-shape-razorpays-%e2%82%b96000-cr-ipo/",
+   "date": "2026-11-06",
+   "source": "Inc42",
+   "label": "India · AI & Deeptech",
+   "snippet": "Razorpay's upcoming IPO might get a twofold push from the MDR on UPI payments implementation as well as fintech's AI product stack when it seeks public market investment for a ₹ 6000 Cr IPO",
+   "lead": "Razorpay has received SEBI’s approval for a ₹5,000-6,000 Cr IPO at a reported $5 Bn valuation, with a listing expected between January and March 2027. Razorpay is taking a profitability-led pitch to public investors, with its core payments business EBITDA profitable. The 0.4% MDR on large UPI transactions could provide an additional high-margin revenue stream, helping narrow the valuation gap. Analysts estimate MDR could generate ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Razorpay-IPO-social.jpg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $632M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "AI & Deeptech"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
    "desk": "Immigration",
    "score": 12,
    "priority": 100,
-   "title": "BREAKING: Canada announces plans for up to 622,000 new permanent residents in 2027",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSm5JWVBtOUx3UmJPWkZRRndKcjU3WEFNTGlHMi0tNk1MOGdZMVdfVXRoNktDd243UXFhMG4xWHBEZ1BpeDFwUV9uMUtqN1B2NzhLbHY1akdsNERtOGUxYzNSaVNDZU95eDlCSl9FYWNrUzVPam14eHNpRF85ZTZZajJtQlBHTkJwSHhPYlBLcTloTWZpSGhhdWRXa1ZHLUU3LVBYOTd5U3BNcjZzMzJuWDZNelpJd21UNXo2UFJocFplNWvSAcgBQVVfeXFMTjV5QzBHcktld1pWdDFOVUFmNldyeklKV2E5RmtPMzJwNmRfS0k1OTV4NlNETEtCZ09OczZYQ0VpUWlWOU14Zkhfa0lsZFYzN18tbEt6S2p0QWs2V1hwR2g0UXplV0ZFcXRrNFZDeWx5X1ljVnhKQ0Q5akNFWGJSMVk5Zk5LcHhIcWh0Vm5XUlJ0c3FBalNpNTJlRDgwTjl1eDRpZGdmRTZVNGdGbzBYTlFTTm81LUNFZTFTSHFDVzZuMndHaVBzSUQ?oc=5",
+   "title": "Immigration levels plan: Canada says intakes in permanent and temporary categories to remain unchanged | World News",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOEM5VE1mYWNxaE81LTM3aHNYelFta2xRTXloTjVsN1A0SGFlSzJ4OEh0ZXljX3V0Sk1qYzBYY3RMemRZOWpfOFU1SlVZdVhBV09jTERhdm1NQUlSdXd6azZHb0NDb0FEZGU0aFlDdUlucHk2NjhUX3lQdUVoa3ZrcmhXYXFPdTJ6S1l4TXJBMnM3ZS1MSWx6RlUxT0xVdkR0U04teUdRemhMZzc5WTZ2czNZOUIwS0p0cmpKVmN3X2dTTHp6NVRnbTR6blc0ZWxqTUtkZF94SE05LUpxY1Z2NElGTDhuaUVZTVpZTjJWZXFtLWthQXBj0gH8AUFVX3lxTFB5dHpndkQ0c0ZDMUFiQWhVSVI3VkFyM0JNakdTUWhvUDhlT3V4U0gxbnhyVkNLai14SlRTQlYzSGNLTjB2RGsxdExrX3RILWFVSGpDQmJaT1FTQVItU2xIX2RiN0VENmt3NE95OTFwc3o3Rnh5cmR2YXhwdEFBN2s5RVczSlZidXdCVWV4WkU1c2J1MVdjd21BYVlOcWJBSU9NdTFacHRUcjQ2dWt3ZFdVUUtHZ1I1VWZxaFJJbXFmZjZ2LW44d0FzSmQ0NDJpN0IyY0h4dlBwUkpyRXU4TXd2RnZXMVo2MjJfU01tbTVNeVdxS1BLdWNVSVJRWQ?oc=5",
    "date": "2026-11-06",
-   "source": "CIC News",
+   "source": "Hindustan Times",
    "label": "Canada",
-   "snippet": "Canada plans to welcome up to 622,000 new permanent residents by the end of 2027, according to figures released in the latest federal budget and annual Immigration Levels Plan. Assess your Eligibility for 30+ Pathways to Permanent Residence On Nov 5., 2026 the government published Budget 2026, which announced measures to transition to per",
-   "lead": "Canada plans to welcome up to 622,000 new permanent residents by the end of 2027, according to figures released in the latest federal budget and annual Immigration Levels Plan. On Nov 5., 2026 the government published Budget 2026 , which announced measures to transition to permanent residence up to 200,000 in-Canada temporary residents by the end of 2027. On top of the 2027 TR-to-PR transition measures (2027 TPTMs), the government’s ...",
-   "image": "https://www.cicnews.com/wp-content/uploads/2026/10/ILP-ANNOUNCEMENT.jpg",
+   "snippet": "In 2025, Indians were the largest country cohort availing of the economic PR opportunity, with 68,085 or 30.2% of all admissions, 225,680, in the category  | World News",
+   "lead": "Toronto: The new immigration levels plan tabled in Parliament on Thursday by Canada government will leave intakes in both permanent and temporary categories largely unchanged, belying speculation that the numbers were likely to rise. The Parliament Hill in Ottawa, Ontario, Canada. (Bloomberg) The annual report to Parliament on immigration noted that the government had a “commitment to sustainable immigration with the need for ...",
+   "image": null,
    "why": [
-    "Affects permanent residence",
+    "Quota or cap change",
     "Announces a change",
-    "Major story (12 headlines that day)"
+    "Major story (22 headlines that day)"
    ],
    "tags": [
-    "PR / Settlement",
+    "Quota / Caps",
     "Canada"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -484,7 +509,7 @@
    "tags": [
     "Budget & Fiscal"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -507,7 +532,7 @@
    "tags": [
     "PMS"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -530,7 +555,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -553,8 +578,8 @@
    "tags": [
     "PMS"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -575,7 +600,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -599,7 +624,7 @@
     "IPO & Listing",
     "Policy & Regulation"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -622,7 +647,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -646,7 +671,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -670,7 +695,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -693,7 +718,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -715,30 +740,6 @@
    "tags": [
     "Mutual Funds"
    ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "PhysicsWallah’s Q2 Profit Surge, Elo Elo Bags $80 Mn & More",
-   "url": "https://inc42.com/buzz/physicswallahs-q2-profit-surge-elo-elo-bags-80-mn-more/",
-   "date": "2026-11-05",
-   "source": "Inc42",
-   "label": "India · Edtech & Skills",
-   "snippet": "PhysicsWallah had a blockbuster Q2 FY27. The quarter saw the edtech giant swing back to profitability and clock record quarterly revenues.",
-   "lead": "PW’s Growth Engines: The edtech major’s Q2 show was driven by healthy revenue growth, tighter cost control and improving operating leverage. Online business remained PW’s primary growth engine, while the offline network continued to add centres and enrolments. The company also benefited from a shift away from direct lending, reducing balance sheet risk. The startup’s next priority is its AI tutor (currently in pilot), which could ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Social-Daily-Brief-40.png",
-   "why": [
-    "Funding",
-    "Sizeable deal (about $80M)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "Edtech & Skills"
-   ],
    "rank": 13,
    "must_read": false
   },
@@ -746,22 +747,21 @@
    "desk": "Startups",
    "score": 11,
    "priority": 85,
-   "title": "Revolut completes funding round at $115 billion valuation",
-   "url": "https://economictimes.indiatimes.com/tech/technology/revolut-completes-funding-round-at-115-billion-valuation/articleshow/135543134.cms",
-   "date": "2026-11-04",
-   "source": "ET Startups",
-   "label": "Global · Fintech",
-   "snippet": "The transaction, which Revolut said was led by Glade Brook Capital Partners, Coatue, Durable Capital Partners, T. Rowe Price Associates and Baillie Gifford, means private market investors value the 11-year-old business more highly than many publicly listed banks.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1277395,resizemode-75,msid-135543134/tech/technology/revolut-completes-funding-round-at-115-billion-valuation.jpg",
+   "title": "GIVA raises over $100 Mn in funding round led by Multiples PE",
+   "url": "https://startupstorymedia.com/giva-raises-over-100-mn-in-funding-round-led-by-multiples-pe/",
+   "date": "2026-11-06",
+   "source": "Startup Story",
+   "label": "India · Commerce & D2C",
+   "snippet": "Multiples Alternate Asset Management, along with its co-investors, has led a $100 million-plus funding round in fine jewellery brand GIVA. The investment will",
+   "lead": "Meteor Venture | promoting potential startups to reach their zenith of success Nexus backed Blueshift raises $30M in Series C round led by Fort Ross Ventures, Avatar Growth Capital Edtech startup Doubtnut raises Rs 224 Cr in Series B round led by SIG, Lupa Systems",
+   "image": "https://startupstorymedia.com/wp-content/uploads/2026/11/giva-ssm.webp",
    "why": [
     "Funding",
-    "Very large figure in headline (about $115,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
+    "Large deal (about $100M)"
    ],
    "tags": [
     "Funding",
-    "Fintech"
+    "Commerce & D2C"
    ],
    "rank": 14,
    "must_read": false
@@ -857,48 +857,70 @@
    "must_read": false
   },
   {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 67,
-   "title": "Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13751&Mode=0",
-   "date": "2026-11-05",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "",
-   "image": null,
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 75,
+   "title": "“Up to four years”: Spain approves new seasonal work permits for foreigners",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeXRDV2hLU25aeU1uQUtvRjVtZnkxY0pmYmMwaW1PWHhZRW4xTWI4VVdLVWJTSk83R1VYOTgteUpZUTVUY09HTTFqU3dCQUtBSzZ6aWxwd3BmYkNMam54c3JLcW9qS0JXSklrcGJNZEVnWkdOdFhaVUtnbHVsdXlsejNsLXZHNl8xaG9zLWxvMUxZMVcxZWhzNXc1WWtmQzRBeFJmWHctNmE1bldMUkE?oc=5",
+   "date": "2026-11-06",
+   "source": "Tuko News",
+   "label": "Spain",
+   "snippet": "Spain has approved a four-year seasonal work permit for foreign nationals, subject to six conditions. Here are the eligibility requirements applicants must meet.",
+   "lead": "Spain has approved a new framework for recruiting foreign seasonal workers, introducing permits valid for up to four years under its collective hiring and circular migration programmes. Spain opens a four-year seasonal work route for foreigners. Photo credit: Ludovic Marin Source: Getty Images The Ministry of Inclusion, Social Security and Migration published the 2026 Order for the Collective Management of Contracts in Origin (GECCO) ...",
+   "image": "https://cdn.tuko.co.ke/images/1200x675/e5b239986db47757.jpeg?v=1",
    "why": [
-    "Regulator rulebook change",
-    "Regulator: RBI"
+    "Affects work visas",
+    "Announces a change"
    ],
    "tags": [
-    "Banking & Rates"
+    "Work visa",
+    "Spain"
    ],
    "rank": 19,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 10,
-   "priority": 67,
-   "title": "Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13750&Mode=0",
-   "date": "2026-11-03",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "RESERVE BANK OF INDIA FOREIGN EXCHANGE DEPARTMENT CENTRAL OFFICE Mumbai 400 001 Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026 In exercise of the powers conferred by Section 7, Section 8, sub-section (6) of Section 10 and sub-section (2) of Section 47 of the Foreign Exchange Management Act, 1999 (42 of 1999), the Reserve Bank of India makes the following amendments to the ...",
+   "score": 11,
+   "priority": 73,
+   "title": "TRAI releases “The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026”",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2333541",
+   "date": "2026-11-06",
+   "source": "PIB",
+   "label": "Technology & Telecom",
+   "snippet": "The Telecom Regulatory Authority of India (TRAI) today released “The Register of Interconnect Agreem",
+   "lead": "Ministry of Communications TRAI releases “The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026” Posted On: 06 NOV 2026 2:22PM by PIB Delhi The Telecom Regulatory Authority of India (TRAI) today released “The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026” . These regulations will take effect from 1 st January 2027. Interconnection in telecommunications refers to the commercial and ...",
    "image": null,
    "why": [
     "Regulator rulebook change",
-    "Rule change",
+    "Rule change"
+   ],
+   "tags": [
+    "Technology & Telecom"
+   ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 67,
+   "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on November 09, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63943",
+   "date": "2026-11-06",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Monday, November 09, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "image": null,
+   "why": [
+    "Rates and liquidity",
     "Regulator: RBI"
    ],
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 20,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -922,7 +944,7 @@
     "Student / Graduate",
     "Australia"
    ],
-   "rank": 21,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -943,29 +965,6 @@
    "tags": [
     "Citizenship",
     "Norway"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 58,
-   "title": "Could Austria finally change its rules on citizenship for children born in the country?",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZUlkRHhWc1Jzdk9UVkRPLXllZFZLOUtFZGpkRzFNdDdvUEZuVEdGVHc0anlxd0l5WVpUT25lZ0hEaldjZzgtMVlhNXIyWnp0OHhyYjdwb1p5d204VjloeHh4NEgtZGZWX0IzcHRhS1hncTBxa0djSVdzX3dkNFNzSE92UnVQelF1NU80MHFiMVk0ZkU3LTB0ZjZ5SF9XYldyMV9ud0I3RkhwTFFWXy00Q01nMHNVdW0tT0NR?oc=5",
-   "date": "2026-10-30",
-   "source": "The Local Austria",
-   "label": "Austria",
-   "snippet": "Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change?",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Austrian President and a leading economist have both backed the idea of looking again at the rules on citizenship for children born in Austria. Could the rules change? The Austrian debate over citizenship for children ...",
-   "image": null,
-   "why": [
-    "Affects citizenship",
-    "Announces a change"
-   ],
-   "tags": [
-    "Citizenship",
-    "Austria"
    ],
    "rank": 23,
    "must_read": false
