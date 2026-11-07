@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-07",
- "built": "2026-11-07 12:02 IST",
+ "built": "2026-11-07 22:08 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -79,8 +79,8 @@
  },
  "desks": {
   "Policy": {
-   "total": 327,
-   "new_today": 0,
+   "total": 328,
+   "new_today": 1,
    "items": [
     {
      "desk": "Policy",
@@ -259,12 +259,12 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 9,
+   "new_today": 18,
    "items": [
     {
      "desk": "Immigration",
      "score": 5,
-     "priority": 45,
+     "priority": 38,
      "title": "Korea grants temporary stay and work permits to foreign children seeking paternal recognition",
      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN3VXZTlLUkp3WUl3N0pYc2tkajdKUlpucVJkY2laM0hyUEpmNTBoOEtWT1VvMHVpdmNJQXltd3RJaWh6ZmE4Z0c1YVJwN0h6REJQV2dQUjdraXpPeUpNajYycjRnNVhxTktnT0NpOUlzU1FVWmg4ZVJkR0hOUWlWS3ZFVnBScjZCcmJ1U3liNEtNTXVuS3BiVFREWm9RUWRMZFhwd0NBV0pVZkpfMFpxWkNkU1gyQXBxWGJJbmc4ZUdUdmNlU2g5RUdkTUFuVHFQeU1SbjBrazlrRklodmFoX1lXODN5Y0nSAewBQVVfeXFMUElEX3ZSZWpJUUJiR3FKYklTNDU5SW41UHlpekM0VmRSbFhpMWRGZTFnRWhwdlBudlVfcGk2QU1VRDhPSk4ySmpvWi0ydS1ScWlCVWpJR1lrcDF1czRjRmdrX3doUDBQcERxcU5BYmczMTZNM2ZXSGh6NllnZFdKQ3Q2NVpLeW43VEtUb3cyQWNSbXZDQkpqZmRwV3BXRmFmN0Fvb2daREF4Y0tlYklJOUl5ZTFUM092VGc3VEc1U0FJbkFnY1BIaDc5WHhuUzVWelk4d2lTTUl0WGdodzMwRUx4bE16V2EwT1ozdnQ?oc=5",
      "date": "2026-11-06",
@@ -284,7 +284,7 @@
     {
      "desk": "Immigration",
      "score": 5,
-     "priority": 45,
+     "priority": 38,
      "title": "Japan – Revised Eligibility Criteria for Permanent Residence to Take Effect in April 2027",
      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0dWWGtSMjV6dWNEMk9uOFJkaV9nZXprcGI4blJkdkluUWdBb0lESmh2dGdja1JFMmVLMk1uUzBkdUhKRl93U01TS0UzN3ZFcmVFSENLUWdTWnNlR2JCcUVNdGx3aXgzNDVEaVBqX2kyN3Fsc24wbHFVN2dKUmtZMXVSTVg4X3pHUTlwWEgtOW8yUXRYeU03SWltZ1lHNTk3WFgwczh2RGJESVgzZmR3?oc=5",
      "date": "2026-11-05",
@@ -304,7 +304,7 @@
     {
      "desk": "Immigration",
      "score": 5,
-     "priority": 45,
+     "priority": 38,
      "title": "Iceland Proposes 93% Rise in Residence Permit Income Threshold",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2xubEdnc3BQSkRWSjNDTWpIY3oyakRENW5oTWN6OWNXQ1dHanYzQXNVQ0pYUWQ1N3Vvd2toNzQ3Zk56QUduMmJqRnNhZGpCQWlaSmlvanhQSFFxaE4wZkNtcXhReDNvS0R1RURsQmkyeUtLR0Rqa3h4MXpRQWZ3cmJRTlQyU2F3Smc?oc=5",
      "date": "2026-11-04",
@@ -325,7 +325,7 @@
     {
      "desk": "Immigration",
      "score": 4,
-     "priority": 36,
+     "priority": 31,
      "title": "Indians can now explore Austria on a 12-month working holiday visa",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GVXRBVmJIS2lUR1ZoQnNIZ3dzN3AzNDFoeURTaWZiR0dzbFAweU50akJOUDMxWWJLdFNkcnBsdmR1eHlNeXVGRUc1emVIUEdoQ25GUmFTdFRlZVlpZmFMYkh1UDNycURIRUV0elc2SW1lZDdyUG4xZVhvclFqdWM?oc=5",
      "date": "2026-11-06",
@@ -434,6 +434,30 @@
  },
  "items": [
   {
+   "desk": "Immigration",
+   "score": 13,
+   "priority": 100,
+   "title": "Canada announces immigration plan for 2027–2029, adds 2 lakh permanent residence spaces | World News",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOakNXNFpqbjV4eGRYam9BNEhxLXNoMzNzbFJsUlY1a3ZWNG9ZcHpfSjJiYmVnc0lGRVF1Z0xINk44bmhFajFYSVZCcjhRZGdaZTV0bGZnaTVCNUxvYjVDVDBCQzl2dlY2LVlRanpaN0tVU1psTHhrdzNrekRXOVFUUllXYzVWUTE5emVKZjJ2cm5JWjBub0ZYOTZfMXpyb015UzNQNmhPSFhtcUNuU0xhS0tQcEFUOHNNOGEzd3hTRHpqdWxrVXF5LTBiYVdJMEtOSm1qakxEVEtkaU9tZmE5T1Frb9IB6AFBVV95cUxNWkNKLUVCQ0tBVENZdjRMTE13VEhldW9TSUtoZXRKWVpYVW93UGhkOWtMWjhLQ3F2LUhOUlQwZDNzeUNHVHlXeXB6bEc2RlU1eXRpTkI3MVZ2TVp6ZEw4Ukt0d25DMlZfaGg4NXdYRExzVWh0bGxGRnQtVUhXdnBEb3RSOHpXMDBPQ3hGYl9lY1Rjb0gyUnBXV3JtbTVRRjlJYUZhalZlUjZOU2gyMldDVGl4Z3F1VV9VY0VzOHdqekp5SjByTjVsZE9OaTRsT0N6THVXbG1zTEN5RmNpZ3J6bXNMQzk5VnlP?oc=5",
+   "date": "2026-11-07",
+   "source": "Hindustan Times",
+   "label": "Canada",
+   "snippet": "Canada will admit 380,000 permanent residents and 370,000 new temporary residents annually through 2029.&nbsp;  | World News",
+   "lead": "Canada has maintained its annual immigration targets for permanent and temporary residents through 2029 while announcing up to 200,000 additional permanent residence admissions in 2027 for eligible people already living in the country. The federal government, on November 6, 2026 unveiled the 2027–2029 Immigration Levels Plan as part of its budget, retaining the overall admission targets set out in last year's plan while revising ...",
+   "image": null,
+   "why": [
+    "Affects permanent residence",
+    "Announces a change",
+    "Major story (11 headlines that day)"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Canada"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
    "desk": "Startups",
    "score": 12,
    "priority": 100,
@@ -452,30 +476,6 @@
    "tags": [
     "IPO & Listing",
     "AI & Deeptech"
-   ],
-   "rank": 1,
-   "must_read": true
-  },
-  {
-   "desk": "Immigration",
-   "score": 11,
-   "priority": 100,
-   "title": "Immigration levels plan: Canada says intakes in permanent and temporary categories to remain unchanged | World News",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOEM5VE1mYWNxaE81LTM3aHNYelFta2xRTXloTjVsN1A0SGFlSzJ4OEh0ZXljX3V0Sk1qYzBYY3RMemRZOWpfOFU1SlVZdVhBV09jTERhdm1NQUlSdXd6azZHb0NDb0FEZGU0aFlDdUlucHk2NjhUX3lQdUVoa3ZrcmhXYXFPdTJ6S1l4TXJBMnM3ZS1MSWx6RlUxT0xVdkR0U04teUdRemhMZzc5WTZ2czNZOUIwS0p0cmpKVmN3X2dTTHp6NVRnbTR6blc0ZWxqTUtkZF94SE05LUpxY1Z2NElGTDhuaUVZTVpZTjJWZXFtLWthQXBj0gH8AUFVX3lxTFB5dHpndkQ0c0ZDMUFiQWhVSVI3VkFyM0JNakdTUWhvUDhlT3V4U0gxbnhyVkNLai14SlRTQlYzSGNLTjB2RGsxdExrX3RILWFVSGpDQmJaT1FTQVItU2xIX2RiN0VENmt3NE95OTFwc3o3Rnh5cmR2YXhwdEFBN2s5RVczSlZidXdCVWV4WkU1c2J1MVdjd21BYVlOcWJBSU9NdTFacHRUcjQ2dWt3ZFdVUUtHZ1I1VWZxaFJJbXFmZjZ2LW44d0FzSmQ0NDJpN0IyY0h4dlBwUkpyRXU4TXd2RnZXMVo2MjJfU01tbTVNeVdxS1BLdWNVSVJRWQ?oc=5",
-   "date": "2026-11-06",
-   "source": "Hindustan Times",
-   "label": "Canada",
-   "snippet": "In 2025, Indians were the largest country cohort availing of the economic PR opportunity, with 68,085 or 30.2% of all admissions, 225,680, in the category  | World News",
-   "lead": "Toronto: The new immigration levels plan tabled in Parliament on Thursday by Canada government will leave intakes in both permanent and temporary categories largely unchanged, belying speculation that the numbers were likely to rise. The Parliament Hill in Ottawa, Ontario, Canada. (Bloomberg) The annual report to Parliament on immigration noted that the government had a “commitment to sustainable immigration with the need for ...",
-   "image": null,
-   "why": [
-    "Quota or cap change",
-    "Announces a change",
-    "Major story (26 headlines that day)"
-   ],
-   "tags": [
-    "Quota / Caps",
-    "Canada"
    ],
    "rank": 2,
    "must_read": true
@@ -712,30 +712,6 @@
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 91,
-   "title": "UK Immigration Updates: Earned Settlement Reforms and Budget Immigration Measures",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbnRUV1ZPeXhSMTFqVjgzeTlEbVJYX0R1MWpOOUJ5NkUyWGk1OW5XTG5FUlRIbTVJSzFaVldhNFFVT2VrZWtMM1Zzbk1UN0FKSXc5dEVTOUw4YUgzZXhzT0cwZkliOW1RQlhrVEdjTkxfQ2xNX1dSQXVocWxzd0JaX0drRzF6MVNtT0RHR25ydWI3ZVJnejcxQ0d0QlBSQVhWeTZ0WUg3ejdRU09BdzNmWnJmSWdTVDVHcVdqYjJB?oc=5",
-   "date": "2026-11-05",
-   "source": "Morgan Lewis",
-   "label": "United Kingdom",
-   "snippet": "The UK government has confirmed plans for an \"earned settlement\" system, setting a standard 10-year qualifying period for permanent residence and shorter pathways for qualifying applicants. The settlement response establishes the government's policy rather than the detailed implementing rules. Further rules and guidance are needed before ",
-   "lead": "The Autumn Budget 2026 delivered on 28 October also announced changes to the Skilled Worker salary requirements, additional time for eligible workers to find a new sponsor, changes to graduate and talent visa routes, and tax relief for certain employer-paid sponsorship costs. The standard qualifying period for settlement, also known as \"indefinite leave to remain\", will increase from five to 10 years. For applicants on eligible routes, ...",
-   "image": null,
-   "why": [
-    "Affects permanent residence",
-    "Announces a change",
-    "Major story (9 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "United Kingdom"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
    "desk": "Advisory",
    "score": 10,
    "priority": 91,
@@ -755,7 +731,7 @@
    "tags": [
     "PMS"
    ],
-   "rank": 14,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -778,7 +754,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 15,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -800,7 +776,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 16,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -822,7 +798,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 17,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -844,54 +820,31 @@
    "tags": [
     "Budget & Fiscal"
    ],
-   "rank": 18,
+   "rank": 17,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 8,
-   "priority": 73,
-   "title": "“Up to four years”: Spain approves new seasonal work permits for foreigners",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeXRDV2hLU25aeU1uQUtvRjVtZnkxY0pmYmMwaW1PWHhZRW4xTWI4VVdLVWJTSk83R1VYOTgteUpZUTVUY09HTTFqU3dCQUtBSzZ6aWxwd3BmYkNMam54c3JLcW9qS0JXSklrcGJNZEVnWkdOdFhaVUtnbHVsdXlsejNsLXZHNl8xaG9zLWxvMUxZMVcxZWhzNXc1WWtmQzRBeFJmWHctNmE1bldMUkE?oc=5",
-   "date": "2026-11-06",
-   "source": "Tuko News",
-   "label": "Spain",
-   "snippet": "Spain has approved a four-year seasonal work permit for foreign nationals, subject to six conditions. Here are the eligibility requirements applicants must meet.",
-   "lead": "Spain has approved a new framework for recruiting foreign seasonal workers, introducing permits valid for up to four years under its collective hiring and circular migration programmes. Spain opens a four-year seasonal work route for foreigners. Photo credit: Ludovic Marin Source: Getty Images The Ministry of Inclusion, Social Security and Migration published the 2026 Order for the Collective Management of Contracts in Origin (GECCO) ...",
-   "image": "https://cdn.tuko.co.ke/images/1200x675/e5b239986db47757.jpeg?v=1",
-   "why": [
-    "Affects work visas",
-    "Announces a change"
-   ],
-   "tags": [
-    "Work visa",
-    "Spain"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 8,
-   "priority": 73,
-   "title": "Australia Student Visa Rules Could Change: Indians May Have To Deposit Funds In Local Banks",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTHB3dzBPdXlSWjU1ZHl3VmF0YXFqMVRKMTRtUkFpbnhkbEtMLTF4U2lfYUxfN3Uza3psa1Q3a3p1NnVpVlVaMkNKUWo2SHpIVWJtc2ZFcVgtRWpZbDBoLTNGR3lpRElPS1ltZ01rSHFHNWg5MTFSM1V5ejhTeXh3Z1hYbVpHOVZVWUhtcmVnaTNvVnotVU9TMnBHY19CSGM1NHJqWFFmcnN4THdPckRJUElTVVpKYzhOTVktNkN0UFcxQ1pUQ3c2ZzVxN1J5NElHQmfSAdoBQVVfeXFMTzFpWHVZMW03dzRxak54cms4TVlNMmFHSEluYXZYODVQVk54aktWby1ZTkhGekxoMEtLWFpBSHNjdlFtTkFVMGVDZGlfcDNkd1QtOFozQUdQeGJqTGZCNDhpeENWUXc5VV9iejN2SU9kbEdYc214UHlkVnNwTllGMkEzakh3cVF2ZXhJZDNXWFlQcUxSdXFoNWo1a2FOZmFEM1RyTDNKQ2ZiTmRrSGhWWjFjSzJZRXJHcUl3cFp1WGdkMUotVS1CQWprMTBnOVhScE9tQVp0WUx4bXc?oc=5",
-   "date": "2026-11-02",
-   "source": "NDTV Profit",
-   "label": "Australia",
-   "snippet": "",
-   "lead": "",
+   "score": 10,
+   "priority": 77,
+   "title": "UK Immigration Updates: Earned Settlement Reforms and Budget Immigration Measures",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbnRUV1ZPeXhSMTFqVjgzeTlEbVJYX0R1MWpOOUJ5NkUyWGk1OW5XTG5FUlRIbTVJSzFaVldhNFFVT2VrZWtMM1Zzbk1UN0FKSXc5dEVTOUw4YUgzZXhzT0cwZkliOW1RQlhrVEdjTkxfQ2xNX1dSQXVocWxzd0JaX0drRzF6MVNtT0RHR25ydWI3ZVJnejcxQ0d0QlBSQVhWeTZ0WUg3ejdRU09BdzNmWnJmSWdTVDVHcVdqYjJB?oc=5",
+   "date": "2026-11-05",
+   "source": "Morgan Lewis",
+   "label": "United Kingdom",
+   "snippet": "The UK government has confirmed plans for an \"earned settlement\" system, setting a standard 10-year qualifying period for permanent residence and shorter pathways for qualifying applicants. The settlement response establishes the government's policy rather than the detailed implementing rules. Further rules and guidance are needed before ",
+   "lead": "The Autumn Budget 2026 delivered on 28 October also announced changes to the Skilled Worker salary requirements, additional time for eligible workers to find a new sponsor, changes to graduate and talent visa routes, and tax relief for certain employer-paid sponsorship costs. The standard qualifying period for settlement, also known as \"indefinite leave to remain\", will increase from five to 10 years. For applicants on eligible routes, ...",
    "image": null,
    "why": [
+    "Affects permanent residence",
     "Announces a change",
-    "Major story (12 headlines that day)",
-    "Mentions India or Indians"
+    "Major story (9 headlines that day)"
    ],
    "tags": [
-    "Student / Graduate",
-    "Australia"
+    "PR / Settlement",
+    "United Kingdom"
    ],
-   "rank": 20,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -913,7 +866,7 @@
    "tags": [
     "Technology & Telecom"
    ],
-   "rank": 21,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -936,13 +889,60 @@
    "tags": [
     "Banking & Rates"
    ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 8,
+   "priority": 62,
+   "title": "“Up to four years”: Spain approves new seasonal work permits for foreigners",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeXRDV2hLU25aeU1uQUtvRjVtZnkxY0pmYmMwaW1PWHhZRW4xTWI4VVdLVWJTSk83R1VYOTgteUpZUTVUY09HTTFqU3dCQUtBSzZ6aWxwd3BmYkNMam54c3JLcW9qS0JXSklrcGJNZEVnWkdOdFhaVUtnbHVsdXlsejNsLXZHNl8xaG9zLWxvMUxZMVcxZWhzNXc1WWtmQzRBeFJmWHctNmE1bldMUkE?oc=5",
+   "date": "2026-11-06",
+   "source": "Tuko News",
+   "label": "Spain",
+   "snippet": "Spain has approved a four-year seasonal work permit for foreign nationals, subject to six conditions. Here are the eligibility requirements applicants must meet.",
+   "lead": "Spain has approved a new framework for recruiting foreign seasonal workers, introducing permits valid for up to four years under its collective hiring and circular migration programmes. Spain opens a four-year seasonal work route for foreigners. Photo credit: Ludovic Marin Source: Getty Images The Ministry of Inclusion, Social Security and Migration published the 2026 Order for the Collective Management of Contracts in Origin (GECCO) ...",
+   "image": "https://cdn.tuko.co.ke/images/1200x675/e5b239986db47757.jpeg?v=1",
+   "why": [
+    "Affects work visas",
+    "Announces a change"
+   ],
+   "tags": [
+    "Work visa",
+    "Spain"
+   ],
+   "rank": 21,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 8,
+   "priority": 62,
+   "title": "Australia Student Visa Rules Could Change: Indians May Have To Deposit Funds In Local Banks",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTHB3dzBPdXlSWjU1ZHl3VmF0YXFqMVRKMTRtUkFpbnhkbEtMLTF4U2lfYUxfN3Uza3psa1Q3a3p1NnVpVlVaMkNKUWo2SHpIVWJtc2ZFcVgtRWpZbDBoLTNGR3lpRElPS1ltZ01rSHFHNWg5MTFSM1V5ejhTeXh3Z1hYbVpHOVZVWUhtcmVnaTNvVnotVU9TMnBHY19CSGM1NHJqWFFmcnN4THdPckRJUElTVVpKYzhOTVktNkN0UFcxQ1pUQ3c2ZzVxN1J5NElHQmfSAdoBQVVfeXFMTzFpWHVZMW03dzRxak54cms4TVlNMmFHSEluYXZYODVQVk54aktWby1ZTkhGekxoMEtLWFpBSHNjdlFtTkFVMGVDZGlfcDNkd1QtOFozQUdQeGJqTGZCNDhpeENWUXc5VV9iejN2SU9kbEdYc214UHlkVnNwTllGMkEzakh3cVF2ZXhJZDNXWFlQcUxSdXFoNWo1a2FOZmFEM1RyTDNKQ2ZiTmRrSGhWWjFjSzJZRXJHcUl3cFp1WGdkMUotVS1CQWprMTBnOVhScE9tQVp0WUx4bXc?oc=5",
+   "date": "2026-11-02",
+   "source": "NDTV Profit",
+   "label": "Australia",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Announces a change",
+    "Major story (12 headlines that day)",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Student / Graduate",
+    "Australia"
+   ],
    "rank": 22,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 6,
-   "priority": 55,
+   "priority": 46,
    "title": "Last call to take Norway's citizenship and social studies tests in 2026",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYmVxaUtJMDdkU2R0YWUyUVRMTzl2STdXdkxxQURRNEh2Q0pXVUlMMUt6OGptczZfWkJBdDRnbUdva2lld1BHcm1ELVZnMFlKUmc5TnJid0NnemM4UlZfemxCdzNCRWh5WE5GaUVpU0RtYjA3ekFLeWFRNWlzMHBHemtrdTg5WU9iWjRkYlZDVVZNSWszanRBSWN6M3VHZzlkU1FwWU13?oc=5",
    "date": "2026-11-05",
