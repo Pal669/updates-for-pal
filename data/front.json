@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-07",
- "built": "2026-11-07 08:46 IST",
+ "built": "2026-11-07 11:18 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -26,22 +26,22 @@
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.46,
-   "change_pct": -0.06,
-   "asof": "07 Nov 03:06 IST"
+   "value": 93.91,
+   "change_pct": -0.58,
+   "asof": "07 Nov 09:00 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 97.76,
-   "change_pct": -0.54,
+   "value": 98.32,
+   "change_pct": 0.03,
    "asof": "07 Nov 03:29 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4080.0,
-   "change_pct": -0.83,
+   "value": 4075.0,
+   "change_pct": -0.94,
    "asof": "07 Nov 03:29 IST"
   },
   {
@@ -166,9 +166,31 @@
    ]
   },
   "Startups": {
-   "total": 1287,
-   "new_today": 2,
+   "total": 1289,
+   "new_today": 4,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 92,
+     "title": "Indian startups with over $500M valuation grow to 51 despite low number of AI entities: Report",
+     "url": "https://yourstory.com/2026/11/indian-startups-over-500m-valuation-grow-51-despite-low-number-ai-entities-report",
+     "date": "2026-11-04",
+     "source": "YourStory",
+     "label": "India · AI & Deeptech",
+     "snippet": "The combined value of these 51 entities is about Rs 3.3 lakh crore ($34.1 billion), with an average valuation of about Rs 6,400 crore, and they employ over 60,000 people.",
+     "lead": "Indian startups with over $500M valuation grow to 51 despite low number of AI entities: Report The combined value of these 51 entities is about Rs 3.3 lakh crore ($34.1 billion), with an average valuation of about Rs 6,400 crore, and they employ over 60,000 people. Press Trust of India 11260 Stories Wednesday November 04, 2026 , 3 min Read Indian startups with a valuation of over $500 million have increased to 51 in 2026, from 47 in ...",
+     "image": "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/Imagespzl-1680421400903.jpg",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $500M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 11,
@@ -232,34 +254,12 @@
       "Funding",
       "Fintech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "PhysicsWallah’s Q2 Profit Surge, Elo Elo Bags $80 Mn & More",
-     "url": "https://inc42.com/buzz/physicswallahs-q2-profit-surge-elo-elo-bags-80-mn-more/",
-     "date": "2026-11-05",
-     "source": "Inc42",
-     "label": "India · Edtech & Skills",
-     "snippet": "PhysicsWallah had a blockbuster Q2 FY27. The quarter saw the edtech giant swing back to profitability and clock record quarterly revenues.",
-     "lead": "PW’s Growth Engines: The edtech major’s Q2 show was driven by healthy revenue growth, tighter cost control and improving operating leverage. Online business remained PW’s primary growth engine, while the offline network continued to add centres and enrolments. The company also benefited from a shift away from direct lending, reducing balance sheet risk. The startup’s next priority is its AI tutor (currently in pilot), which could ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Social-Daily-Brief-40.png",
-     "why": [
-      "Funding",
-      "Sizeable deal (about $80M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "Edtech & Skills"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 6,
+   "new_today": 9,
    "items": [
     {
      "desk": "Immigration",
@@ -623,6 +623,28 @@
    "desk": "Startups",
    "score": 11,
    "priority": 92,
+   "title": "From GIVA To EloElo Group — Indian Startups Raised $255 Mn This Week",
+   "url": "https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week/",
+   "date": "2026-11-07",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Startup funding activity gathered steam in the first week of November. Twenty startups cumulatively raised $255 Mn between November 2 and 6.",
+   "lead": "Twenty startups cumulatively raised $255 Mn between November 2 and 6, up 96% uptick from $130.3 Mn raised last week. However, deal count declined 38% week-on-week to 20 On the back of GIVA’s mega $103 Mn fundraise, ecommerce emerged as the most funded sector this week Omnivore emerged as the most active investor this week, backing altM and Two Point O Capital",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Funding-Galore_Oct-Soc-100.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $255M)"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 92,
    "title": "OYO Parent PRISM’s Profit Jumps 17% YoY To ₹353 Cr In Q1",
    "url": "https://inc42.com/buzz/oyo-parent-prisms-profit-jumps-17-yoy-to-%e2%82%b9353-cr-in-q1/",
    "date": "2026-11-07",
@@ -640,7 +662,7 @@
     "Financials",
     "Health & Wellness"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -658,30 +680,6 @@
    "why": [
     "Funding",
     "Very large figure in headline (about $21,500M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "Indian startups with over $500M valuation grow to 51 despite low number of AI entities: Report",
-   "url": "https://yourstory.com/2026/11/indian-startups-over-500m-valuation-grow-51-despite-low-number-ai-entities-report",
-   "date": "2026-11-04",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "The combined value of these 51 entities is about Rs 3.3 lakh crore ($34.1 billion), with an average valuation of about Rs 6,400 crore, and they employ over 60,000 people.",
-   "lead": "Indian startups with over $500M valuation grow to 51 despite low number of AI entities: Report The combined value of these 51 entities is about Rs 3.3 lakh crore ($34.1 billion), with an average valuation of about Rs 6,400 crore, and they employ over 60,000 people. Press Trust of India 11260 Stories Wednesday November 04, 2026 , 3 min Read Indian startups with a valuation of over $500 million have increased to 51 in 2026, from 47 in ...",
-   "image": "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/Imagespzl-1680421400903.jpg",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $500M: round or valuation)",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
