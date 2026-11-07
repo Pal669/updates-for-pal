@@ -1,6 +1,6 @@
 {
- "edition": "2026-11-07",
- "built": "2026-11-07 22:08 IST",
+ "edition": "2026-11-08",
+ "built": "2026-11-08 02:01 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -54,38 +54,38 @@
  ],
  "features": {
   "startup_file": {
-   "company": "Angle Health",
-   "tagline": "US health-insurance startup for small businesses (YC winter 2020)",
-   "what": "AI-powered platform that helps small businesses choose and manage 'level-funded' health plans, integrating with payroll and HR systems. Level-funded sits between fully insured (carrier bears all risk, higher and predictable cost) and self-funded (employer bears cost, unpredictable): the business makes predictable payments, is insured against unusually high costs, and may get a share of the surplus back if claims stay low.",
+   "company": "Innov8 Workspaces",
+   "tagline": "Premium flexible office space operator",
+   "what": "Runs premium flexible and managed workspace centres across India. It had 58 operating centres at the end of FY26 and 72 by July 2026.",
    "how": [
-    "The article does not say how Angle itself earns its revenue.",
-    "It says the startup serves 5,000+ businesses and is profitable."
+    "Rent from customers who use its centres: Rs 173.6 Cr of Rs 201.3 Cr operating revenue in FY26, about 86%.",
+    "Other operational income (ancillary services): Rs 27.6 Cr, up from Rs 5.4 Cr."
    ],
-   "watch": "A profitable, non-'AI agent' company raising a large Series C is unusual per TechCrunch. The tender offer is liquidity for staff, not money into the company.",
-   "sector": "Fintech",
-   "region": "Global",
-   "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/"
+   "watch": "Profit quality: other income was Rs 38.9 Cr, including a Rs 36.7 Cr gain on terminating lease contracts. Without that gain the profit jump would look much smaller. The article gives growth drivers as more centres, higher occupancy and better pricing.",
+   "sector": "Real Estate & Workspaces",
+   "region": "India",
+   "url": "https://inc42.com/buzz/innov8s-fy26-profit-zooms-multifold-to-%e2%82%b913-7-cr-revenue-crosses-%e2%82%b9200-cr-mark/"
   },
   "country": {
-   "id": "luxembourg",
-   "name": "Luxembourg",
-   "trend": "Stable",
-   "pr": "Blue Card time counts toward long-term residence: reported PR after 2 years for Blue Card holders versus 5 years for standard work permits. One source reports A2 spoken and B1 listening Luxembourgish for PR; verify on guichet.lu.",
-   "citizenship": "5 years of legal residence, a Luxembourgish language test at B1 spoken and listening, and a 'Living Together' course or exam. A Blue Card holder's fastest total is reported as about 7 years from arrival.",
-   "pro": "Very high salaries and a fund-industry centre closely matched to your career (general knowledge).",
-   "con": "Very small country (about 0.66 million people, general knowledge): this touches your logged size criterion. It was on your 38-country watch list but not yet decided.",
-   "watch": "Blue Card threshold indexation"
+   "id": "iceland",
+   "name": "Iceland",
+   "trend": "Stable (not verified in detail)",
+   "pr": "Permanent residence generally after 4 years of continuous residence; often requires completing an Icelandic language course. An expedited route exists for doctorate holders with 3 years of expert-work permits.",
+   "citizenship": "Reported timeline of about 7 years; needs PR and the official Icelandic language test. Verify with the Directorate of Immigration.",
+   "pro": "High living standards, safety and equality (general knowledge).",
+   "con": "Tiny population (about 0.38 million, general knowledge): touches your size criterion.",
+   "watch": "Any 2026 Aliens Act amendments (not checked)"
   }
  },
  "desks": {
   "Policy": {
    "total": 328,
-   "new_today": 1,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
-     "score": 9,
-     "priority": 64,
+     "score": 8,
+     "priority": 62,
      "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on November 09, 2026",
      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63943",
      "date": "2026-11-06",
@@ -104,8 +104,8 @@
     },
     {
      "desk": "Policy",
-     "score": 9,
-     "priority": 64,
+     "score": 8,
+     "priority": 62,
      "title": "Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators",
      "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13751&Mode=0",
      "date": "2026-11-05",
@@ -124,28 +124,8 @@
     },
     {
      "desk": "Policy",
-     "score": 9,
-     "priority": 64,
-     "title": "Government of India extends Customs Duty Exemption on Cotton imports up to 31st December 2026",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330823",
-     "date": "2026-10-31",
-     "source": "PIB",
-     "label": "Tax, Duties & Trade",
-     "snippet": "Keeping in view the raw material requirements of domestic textile industry, Government of India has",
-     "lead": "Ministry of Textiles Government of India extends Customs Duty Exemption on Cotton imports up to 31st December 2026 Posted On: 31 OCT 2026 2:38PM by PIB Delhi Keeping in view the raw material requirements of domestic textile industry, Government of India has extended the existing customs duty exemption on cotton imports until 31 st December 2026. The extension has been notified by the Department of Revenue, Ministry of Finance, vide ...",
-     "image": null,
-     "why": [
-      "Duty or tariff change",
-      "Rule change"
-     ],
-     "tags": [
-      "Tax, Duties & Trade"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 8,
-     "priority": 57,
+     "score": 7,
+     "priority": 54,
      "title": "In view of upcoming festive season and to enable States to accelerate capital spending and finance their development/ welfare related expenditure, Union Government releases regular tax devolution of ₹1,09,019 crore to State Governments in advance",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2333166",
      "date": "2026-11-05",
@@ -162,50 +142,48 @@
      "tags": [
       "Tax, Duties & Trade"
      ]
+    },
+    {
+     "desk": "Policy",
+     "score": 6,
+     "priority": 46,
+     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63917",
+     "date": "2026-11-04",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "",
+     "image": null,
+     "why": [
+      "New law or act",
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
     }
    ]
   },
   "Startups": {
-   "total": 1289,
-   "new_today": 4,
+   "total": 1290,
+   "new_today": 0,
    "items": [
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 92,
-     "title": "Indian startups with over $500M valuation grow to 51 despite low number of AI entities: Report",
-     "url": "https://yourstory.com/2026/11/indian-startups-over-500m-valuation-grow-51-despite-low-number-ai-entities-report",
-     "date": "2026-11-04",
-     "source": "YourStory",
-     "label": "India · AI & Deeptech",
-     "snippet": "The combined value of these 51 entities is about Rs 3.3 lakh crore ($34.1 billion), with an average valuation of about Rs 6,400 crore, and they employ over 60,000 people.",
-     "lead": "Indian startups with over $500M valuation grow to 51 despite low number of AI entities: Report The combined value of these 51 entities is about Rs 3.3 lakh crore ($34.1 billion), with an average valuation of about Rs 6,400 crore, and they employ over 60,000 people. Press Trust of India 11260 Stories Wednesday November 04, 2026 , 3 min Read Indian startups with a valuation of over $500 million have increased to 51 in 2026, from 47 in ...",
-     "image": "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/Imagespzl-1680421400903.jpg",
+     "score": 10,
+     "priority": 83,
+     "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+     "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+     "date": "2026-11-05",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
+     "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Zipline hits $21.5B valuation as Walmart expands bet on drone delivery Kirsten Korosec 7:40 AM PST · November 5, 2026 Zipline has raised $1.5 billion and ramped up its partnership with Walmart, a pair of deals that have raised the autonomous drone delivery and logistics startup’s profile and valuation. Zipline and Walmart reached ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2022/09/Zipline-Package-Drop.jpg?resize=1200,675",
      "why": [
       "Funding",
-      "Very large figure in headline (about $500M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 11,
-     "priority": 92,
-     "title": "India's next space unicorn may still be in college",
-     "url": "https://yourstory.com/2026/10/indias-next-space-unicorn-may-still-be-in-college",
-     "date": "2026-11-03",
-     "source": "YourStory",
-     "label": "India · AI & Deeptech",
-     "snippet": "India already has its first space-tech unicorn. Skyroot Aerospace crossed the $1 billion valuation mark in May 2026 and, two months later, its Vikram-1 became the first privately developed Indian rocket to reach orbit. Those milestones confirm that India's private space ecosystem has moved well bey",
-     "lead": "India's next space unicorn may still be in college India's spacetech economy will be built in layers and will require investment across infrastructure, software, manufacturing, robotics and more. Richa Bajpai 1 Stories Tuesday November 03, 2026 , 7 min Read India already has its first space-tech unicorn. Skyroot Aerospace crossed the $1 billion valuation mark in May 2026 and, two months later, its Vikram-1 became the first privately ...",
-     "image": "https://images.yourstory.com/cs/2/94a03c40169611f0b4b0c5b62b4900c2/SpaceTecharticle-article1-1786357382704.jpg",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $1,000M: round or valuation)",
+      "Very large figure in headline (about $21,500M: round or valuation)",
       "Valuation, listing or profitability signal"
      ],
      "tags": [
@@ -217,6 +195,50 @@
      "desk": "Startups",
      "score": 10,
      "priority": 83,
+     "title": "Revolut completes funding round at $115 billion valuation",
+     "url": "https://economictimes.indiatimes.com/tech/technology/revolut-completes-funding-round-at-115-billion-valuation/articleshow/135543134.cms",
+     "date": "2026-11-04",
+     "source": "ET Startups",
+     "label": "Global · Fintech",
+     "snippet": "The transaction, which Revolut said was led by Glade Brook Capital Partners, Coatue, Durable Capital Partners, T. Rowe Price Associates and Baillie Gifford, means private market investors value the 11-year-old business more highly than many publicly listed banks.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1277395,resizemode-75,msid-135543134/tech/technology/revolut-completes-funding-round-at-115-billion-valuation.jpg",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $115,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "Fintech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
+     "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+     "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+     "date": "2026-11-04",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+     "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Fal , a San Francisco-based startup that hosts and runs AI video, image, and audio models, has raised $1.3 billion in its latest funding round led by Bessemer Venture Partners, with participation from Nvidia, Sound Ventures, and T. Rowe Price. The deal values Fal at $16 billion, double its $8 billion valuation in April, Bloomberg ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1268605503.jpg?resize=1200,420",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $16,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 75,
      "title": "GIVA raises over $100 Mn in funding round led by Multiples PE",
      "url": "https://startupstorymedia.com/giva-raises-over-100-mn-in-funding-round-led-by-multiples-pe/",
      "date": "2026-11-06",
@@ -233,78 +255,38 @@
       "Funding",
       "Commerce & D2C"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Binance $6.3 billion heist to prompt closer scrutiny by insurers",
-     "url": "https://economictimes.indiatimes.com/tech/technology/binance-6-3-billion-heist-to-prompt-closer-scrutiny-by-insurers/articleshow/135602986.cms",
-     "date": "2026-11-06",
-     "source": "ET Startups",
-     "label": "Global · Fintech",
-     "snippet": "Following the $6.3 billion Binance heist, insurers are stepping up their scrutiny of cryptocurrency firms' security measures. During policy renewals, they will inquire about vulnerabilities exposed by the Binance incident. This reassessment could lead to new security prerequisites and an overhaul of risk evaluations. The event underscores",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-76798,resizemode-75,msid-135602986/tech/technology/binance-6-3-billion-heist-to-prompt-closer-scrutiny-by-insurers.jpg",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $6,300M: round or valuation)"
-     ],
-     "tags": [
-      "Funding",
-      "Fintech"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 18,
+   "new_today": 2,
    "items": [
     {
      "desk": "Immigration",
      "score": 5,
-     "priority": 38,
-     "title": "Korea grants temporary stay and work permits to foreign children seeking paternal recognition",
-     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN3VXZTlLUkp3WUl3N0pYc2tkajdKUlpucVJkY2laM0hyUEpmNTBoOEtWT1VvMHVpdmNJQXltd3RJaWh6ZmE4Z0c1YVJwN0h6REJQV2dQUjdraXpPeUpNajYycjRnNVhxTktnT0NpOUlzU1FVWmg4ZVJkR0hOUWlWS3ZFVnBScjZCcmJ1U3liNEtNTXVuS3BiVFREWm9RUWRMZFhwd0NBV0pVZkpfMFpxWkNkU1gyQXBxWGJJbmc4ZUdUdmNlU2g5RUdkTUFuVHFQeU1SbjBrazlrRklodmFoX1lXODN5Y0nSAewBQVVfeXFMUElEX3ZSZWpJUUJiR3FKYklTNDU5SW41UHlpekM0VmRSbFhpMWRGZTFnRWhwdlBudlVfcGk2QU1VRDhPSk4ySmpvWi0ydS1ScWlCVWpJR1lrcDF1czRjRmdrX3doUDBQcERxcU5BYmczMTZNM2ZXSGh6NllnZFdKQ3Q2NVpLeW43VEtUb3cyQWNSbXZDQkpqZmRwV3BXRmFmN0Fvb2daREF4Y0tlYklJOUl5ZTFUM092VGc3VEc1U0FJbkFnY1BIaDc5WHhuUzVWelk4d2lTTUl0WGdodzMwRUx4bE16V2EwT1ozdnQ?oc=5",
-     "date": "2026-11-06",
-     "source": "The Korea Times",
-     "label": "South Korea",
-     "snippet": "Foreign children seeking legal recognition from Korean parents can now secure long-term stay rights and legal employment during court proceedings,...",
-     "lead": "Law & Crime Korea grants temporary stay and work permits to foreign children seeking paternal recognition Listen Listen Text Size Print Summary Close summary The Ministry of Justice introduced updated immigration guidelines Friday allowing foreign children seeking recognition from Korean parents and their custodial parents to obtain long-term stay status during paternity lawsuits. Eligible families can apply for G-1 status in six-month ...",
-     "image": "https://newsimg.koreatimes.co.kr/2026/11/06/ccf2ea3a-5631-4c36-adf6-95fc47db29ac.jpg",
-     "why": [
-      "Affects work visas"
-     ],
-     "tags": [
-      "Work visa",
-      "South Korea"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 38,
-     "title": "Japan – Revised Eligibility Criteria for Permanent Residence to Take Effect in April 2027",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0dWWGtSMjV6dWNEMk9uOFJkaV9nZXprcGI4blJkdkluUWdBb0lESmh2dGdja1JFMmVLMk1uUzBkdUhKRl93U01TS0UzN3ZFcmVFSENLUWdTWnNlR2JCcUVNdGx3aXgzNDVEaVBqX2kyN3Fsc24wbHFVN2dKUmtZMXVSTVg4X3pHUTlwWEgtOW8yUXRYeU03SWltZ1lHNTk3WFgwczh2RGJESVgzZmR3?oc=5",
-     "date": "2026-11-05",
-     "source": "WR Immigration",
+     "priority": 42,
+     "title": "Japan unlikely to raise cap for foreign workers despite labor shortages",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUl1ZUNIYVFMQWhJcVNLWFlBN2ROR2JiQmZSU2h3a2RYZTVrajAxOFo4MVV4V1F0ZkI4TEZ4d3g4R0RGRVloQm1rMi0wcjJDTVphZDFxVjR6Sk5sQ2lGeXJuOEdySXdCZ1g0Ym9FTlJqdHVIZFNqelJrcFlrWGhBVg?oc=5",
+     "date": "2026-11-04",
+     "source": "The Japan Times",
      "label": "Japan",
-     "snippet": "Our March global immigration recap includes the latest on the EU’s implementation of the digital Entry/Exit System (EES), the United Kingdom’s updated guidance for sponsors of foreign workers, Australia’s skilled visa nomination income thresholds, Singapore’s new AI & Tech ONE Pass, and more.",
-     "lead": "total views 0 ) { %> , views today Japan – Revised Eligibility Criteria for Permanent Residence to Take Effect in April 2027 - WR Immigration Client Payment Portal Japan – Revised Eligibility Criteria for Permanent Residence to Take Effect in April 2027 Nov 4, 2026 | Global Japan has updated its permanent residence requirements, expanding eligibility criteria to include the following for applications submitted on or after April 1, ...",
-     "image": "https://wolfsdorf.com/wp-content/uploads/2026/11/Vermilion-thresholds-in-Tokyo-7.png",
+     "snippet": "Kimi Onoda, minister in charge of policies related to foreign nationals, said demand for a special visa category is expected to eventually decline.",
+     "lead": "",
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572204.jpg?v=3.1",
      "why": [
-      "Affects permanent residence"
+      "Quota or cap change",
+      "Announces a change"
      ],
      "tags": [
-      "PR / Settlement",
+      "Quota / Caps",
       "Japan"
      ]
     },
     {
      "desk": "Immigration",
      "score": 5,
-     "priority": 38,
+     "priority": 42,
      "title": "Iceland Proposes 93% Rise in Residence Permit Income Threshold",
      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2xubEdnc3BQSkRWSjNDTWpIY3oyakRENW5oTWN6OWNXQ1dHanYzQXNVQ0pYUWQ1N3Vvd2toNzQ3Zk56QUduMmJqRnNhZGpCQWlaSmlvanhQSFFxaE4wZkNtcXhReDNvS0R1RURsQmkyeUtLR0Rqa3h4MXpRQWZ3cmJRTlQyU2F3Smc?oc=5",
      "date": "2026-11-04",
@@ -325,108 +307,132 @@
     {
      "desk": "Immigration",
      "score": 4,
-     "priority": 31,
-     "title": "Indians can now explore Austria on a 12-month working holiday visa",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GVXRBVmJIS2lUR1ZoQnNIZ3dzN3AzNDFoeURTaWZiR0dzbFAweU50akJOUDMxWWJLdFNkcnBsdmR1eHlNeXVGRUc1emVIUEdoQ25GUmFTdFRlZVlpZmFMYkh1UDNycURIRUV0elc2SW1lZDdyUG4xZVhvclFqdWM?oc=5",
+     "priority": 33,
+     "title": "Korea grants temporary stay and work permits to foreign children seeking paternal recognition",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN3VXZTlLUkp3WUl3N0pYc2tkajdKUlpucVJkY2laM0hyUEpmNTBoOEtWT1VvMHVpdmNJQXltd3RJaWh6ZmE4Z0c1YVJwN0h6REJQV2dQUjdraXpPeUpNajYycjRnNVhxTktnT0NpOUlzU1FVWmg4ZVJkR0hOUWlWS3ZFVnBScjZCcmJ1U3liNEtNTXVuS3BiVFREWm9RUWRMZFhwd0NBV0pVZkpfMFpxWkNkU1gyQXBxWGJJbmc4ZUdUdmNlU2g5RUdkTUFuVHFQeU1SbjBrazlrRklodmFoX1lXODN5Y0nSAewBQVVfeXFMUElEX3ZSZWpJUUJiR3FKYklTNDU5SW41UHlpekM0VmRSbFhpMWRGZTFnRWhwdlBudlVfcGk2QU1VRDhPSk4ySmpvWi0ydS1ScWlCVWpJR1lrcDF1czRjRmdrX3doUDBQcERxcU5BYmczMTZNM2ZXSGh6NllnZFdKQ3Q2NVpLeW43VEtUb3cyQWNSbXZDQkpqZmRwV3BXRmFmN0Fvb2daREF4Y0tlYklJOUl5ZTFUM092VGc3VEc1U0FJbkFnY1BIaDc5WHhuUzVWelk4d2lTTUl0WGdodzMwRUx4bE16V2EwT1ozdnQ?oc=5",
      "date": "2026-11-06",
-     "source": "Condé Nast Traveller India",
-     "label": "Austria",
-     "snippet": "What Indian passport holders need to know about the application process, visa fee, insurance and financial requirements",
-     "lead": "Getty Images Indian passport holders planning an extended stay in Europe can consider Austria’s Working Holiday Programme (WHP), which allows eligible applicants to live in the country for up to 12 months while travelling and taking up temporary work. The programme is open to citizens of 12 countries and territories, including Argentina, Canada, Hong Kong with India among them. The India-Austria Working Holiday Programme is designed ...",
-     "image": "https://assets.cntraveller.in/photos/6aeca0cdf078d707cb4ad002/16:9/w_1280,c_limit/GettyImages-1218969977.jpg",
+     "source": "The Korea Times",
+     "label": "South Korea",
+     "snippet": "Foreign children seeking legal recognition from Korean parents can now secure long-term stay rights and legal employment during court proceedings,...",
+     "lead": "Law & Crime Korea grants temporary stay and work permits to foreign children seeking paternal recognition Listen Listen Text Size Print Summary Close summary The Ministry of Justice introduced updated immigration guidelines Friday allowing foreign children seeking recognition from Korean parents and their custodial parents to obtain long-term stay status during paternity lawsuits. Eligible families can apply for G-1 status in six-month ...",
+     "image": "https://newsimg.koreatimes.co.kr/2026/11/06/ccf2ea3a-5631-4c36-adf6-95fc47db29ac.jpg",
      "why": [
-      "Mentions India or Indians"
+      "Affects work visas"
      ],
      "tags": [
-      "Austria"
+      "Work visa",
+      "South Korea"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 4,
+     "priority": 33,
+     "title": "Switzerland may reduce citizenship residency requirement to five years – Experts Club",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMGh2bjR3RVkzMjRSNHUzTTM3WG5SZG05Z0pRYTJNOVp3NkRZYWJBcWpGMi1sRUl1amVvcnJ2S2tJSGd0ZzNlYzhGZEx5NktxWWpFSHlyVDEwdGJqZnVFbXNmVVR2OEkxTlp6MENFS21NS1IzcTBOS0xjckFHXzNIejNWZEwzOURCXzR1M1FsT2xVWFZKSTlubWZlMG5tOWJicEJaaEJSaHZtVFhyb01ZUG9CZzV4V28?oc=5",
+     "date": "2026-11-04",
+     "source": "Open4business.com.ua.",
+     "label": "Switzerland",
+     "snippet": "Switzerland will hold a nationwide referendum on February 28, 2027, on simplifying citizenship procedures for foreign residents. The proposed reform would reduce the minimum legal residency requirement from ten to five years, eliminate the mandatory permanent residence permit C and introduce uniform federal naturalization rules, reports t",
+     "lead": "Switzerland will hold a nationwide referendum on February 28, 2027, on simplifying citizenship procedures for foreign residents. The proposed reform would reduce the minimum legal residency requirement from ten to five years, eliminate the mandatory permanent residence permit C and introduce uniform federal naturalization rules, reports the Experts Club information and analytical center . The Swiss Federal Council decided on October ...",
+     "image": "https://open4business.com.ua/wp-content/uploads/2026/11/12.png",
+     "why": [
+      "Affects citizenship"
+     ],
+     "tags": [
+      "Citizenship",
+      "Switzerland"
      ]
     }
    ]
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 9,
+   "new_today": 1,
    "items": [
     {
      "desk": "Advisory",
-     "score": 10,
-     "priority": 91,
-     "title": "SEBI Cuts Cooling-Off Period For Illiquid Private Listed InvIT OFS To Eight Weeks, New Rules Effective",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTUR4ekxwcExfdy1NOWNGQ3VzbFpRclBXY2VFcjQ2UGhuSlpOeFVxYVRzdWVVbjB0YmxoMW9aV1ZidTdkV3JiajQwOS1ER2Q2N3lKbTh0UmJnUjVnNmw1STVGaU5IemwzTXBHZnZjVWl0elJ1U0NxUzgzQXozZFZ1NGVnNnBmQmRXSzFIQXdXSmtQSnR3WDQxVWNjajNzS244LTBQV1hVWENUQk9EbUVpNjU2bmx6UmFTYzBiQkE3TXd3Y2U4cERHY1NPLTVqbWtrUzFPbU9zbF9jOGFXYTdlNWx4NV9NYlhhTnfSAe8BQVVfeXFMTzVmaTVrVS1aTXh6WU5teFpGQnFrVGlhTmVUV2QxR1RDdjVmMEFtcTNYUS02MFdHQ0tEcG85eVpOY0kzcHNhUEd3SE1kWnFVYmJpWXZXbnNZMmU2bkFIWUU4bmlFenZlSDVseXJHdWFWUGJiZDRVdkFUblBqMmZlVW56Y080Y3BKOTNWTGh6SDN6ckE0bEQzeHNUX0pQUWxyUHFjUkwtVlpwV19tdVFEVDZ5TjJfdm1UTTFtOXBlQWFWSHRyTXprTU5Da2ZoTWx4RnFYZDFNMjhNR25hVjdYbTZGbDA1algyVDBqODgzREU?oc=5",
-     "date": "2026-11-02",
-     "source": "Free Press Journal",
-     "label": "REITs & InvITs",
-     "snippet": "SEBI has reduced the cooling-off period for offer-for-sale transactions involving illiquid private listed InvIT units to eight weeks, effective November 2. The regulator said the change aims to ease business operations. Such offers will last one trading day, with retail investor provisions excluded. Stock exchanges must update their syste",
-     "lead": "New Delhi [India], November 2: The Securities and Exchange Board of India (SEBI) has reduced the cooling-off period for offer for sale (OFS) of units of illiquid private listed Infrastructure Investment Trusts (InvITs) to eight weeks, with the revised provision coming into immediate effect. The move is aimed at facilitating ease of doing business and follows feedback received from market participants, according to a circular issued by ...",
-     "image": "https://media.assettype.com/freepressjournal/2025-02-11/lfbn0fz3/SEBI;ll.jpeg",
-     "why": [
-      "REIT / InvIT news",
-      "Regulator: SEBI or RBI",
-      "Rule or framework change",
-      "Also covered by 2 other outlet(s)"
-     ],
-     "tags": [
-      "REITs & InvITs"
-     ]
-    },
-    {
-     "desk": "Advisory",
      "score": 9,
      "priority": 82,
-     "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
-     "url": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
+     "title": "Gold-backed agriculture loans: RBI proposes changes to priority sector lending rules; what could change for borrowers",
+     "url": "https://www.livemint.com/money/personal-finance/goldbacked-agriculture-loans-rbi-proposes-changes-to-priority-sector-lending-rules-what-could-change-for-borrowers-11794038739503.html",
      "date": "2026-11-07",
-     "source": "CNBC",
-     "label": "Global",
-     "snippet": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances",
-     "lead": "Livestream Menu Make It select USA INTL Livestream Search quotes, news & videos Livestream Watchlist SIGN IN Create free account Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu San Francisco Federal Reserve President Mary Daly said Friday she expects the central bank will need to raise interest rates further, but joined her fellow policymakers in saying the pace and timing remain ...",
-     "image": "https://image.cnbcfm.com/api/v1/image/108316930-1780595150373-gettyimages-2279065764-BLOOMBERG_TECH.jpeg?v=1780595171&w=1920&h=1080",
+     "source": "Mint",
+     "label": "Gold & Silver",
+     "snippet": "The RBI has proposed tighter checks for banks classifying gold-backed agricultural loans as priority sector lending (PSL). It has also proposed changes to the treatment of bills discounted under letters of credit, which could increase banks' PSL requirements.",
+     "lead": "Gold-backed agriculture loans: RBI proposes changes to priority sector lending rules; what could change for borrowers. (AI-generated image for representational purposes only) AI Quick Read The Reserve Bank of India ( RBI ) has proposed changes to priority sector lending (PSL) calculations and documentation requirements for banks, with implications for agricultural lending and the treatment of certain trade-credit exposures. The ...",
+     "image": null,
      "why": [
-      "Interest-rate decision",
-      "Global macro driver"
+      "Regulator: SEBI or RBI",
+      "Precious metals",
+      "Sector or flows signal"
      ],
      "tags": [
-      "Global"
+      "Gold & Silver"
      ]
     },
     {
      "desk": "Advisory",
      "score": 9,
      "priority": 82,
-     "title": "Sebi Overhauls Mutual Fund Rules With Net Settlement Framework To Boost Liquidity And Returns",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcmxYbXVwdUt3akF6TW5VZlU1bW90M1IzLWlYVXdTdUtoRHVSZGZWSlRFSkItb1BtR1VaRnhETm9pcXVXQkczU1NYeHJfa0N2UmZOWUpMWElYODBzMVo1SHJkczVnV2VFdmsxSkg5czkwZzV4ZmJrQ28yMWRBVDZQaUpwOE11OGVIcWZWckpBT0o3UnQyZHFjUzVyN2plaXk5dnQ0UUlZc3V4Y1laOHI2d0twWm5nMy1GNlhXZmw4cTl0Z2wxMkxXcdIB1gFBVV95cUxQamwxS3cxT1QtYlhRaV9GSFYyZ21BZV9DX2h5azV6bjh4Zzc0Ym9SQVRBRzQ5NVpoQlIxTzlJODZpbUFnM0lZVWN3Um96aHVzZTFyRTl6MzBJbm5CZHpLODI0ODlfbzdpSTFBZzFuSl9QOHlhZTIxQ0JjS3Vqc0J2d2NrQUxPMktCNFJDUE9GSjFWMTNYN01EWWVJb3YtdTF3Q3JQYTF0N1VzVS1hei1UYUpJOWhOUlVucnkxWjBXNjFOUUVoMGljZ0pNV0IteTd4M3M5RnpR?oc=5",
-     "date": "2026-11-06",
-     "source": "Outlook Money",
-     "label": "Mutual Funds",
-     "snippet": "SEBI introduces a net settlement framework for mutual funds starting April 2027 to boost liquidity, reduce cash drag, and maximize investor returns.",
-     "lead": "",
-     "image": "https://media.assettype.com/outlookmoney/2025-11-20/rqhjvgnr/sebi-mutual-fund-regulations.jpg?w=1200",
+     "title": "Gold prices surge 4.5 per cent for strongest weekly gain since August as crude oil plunges",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc19DVlZXQ1FaMi1aWDRwLV9mOVV4UmltdkdTMllWd1I5QVdlVWFFNV9SS0tDc3NlNlpGdS0yam5yMi1Hajk1VHFYdWM4blJ3ZnFRdHplcmRERk9RSzhpdTRzVjlMNkJoSDh1aFZCYnhtMUJkVUNYU1F1NlBERWV2bVVzZ19rNnp0UFJ1OTZ1QUJfWDJzb18zNmw3MWxmaE9tSlpXWDh6bjl3elVyNUJ0Z2tsOUZVWEMz?oc=5",
+     "date": "2026-11-07",
+     "source": "Telangana Today",
+     "label": "Gold & Silver",
+     "snippet": "Gold surged nearly 4.5 per cent during the week, recording its strongest gain since August, while crude oil suffered its steepest weekly decline since April 2020. Strong US employment data, Federal Reserve expectations and Diwali buying influenced bullion prices.",
+     "lead": "Search Hyderabad Telangana AP News India World Entertainment Sport Science and Tech Business Rewind ... NRI View Point cartoon My Space Education Today Reviews Property Lifestyle E-Paper NRI View Point cartoon My Space Reviews Education Today Property Lifestyle Home | Business | Gold Prices Surge 4 5 Per Cent For Strongest Weekly Gain Since August As Crude Oil Plunges Gold prices surge 4.5 per cent for strongest weekly gain since ...",
+     "image": "https://media.telanganatoday.com/wp-content/uploads/2026/11/Gold-ETF-inflows-jump-over-71-pc-to-Rs-4451-crore-in-September.jpg",
      "why": [
+      "Precious metals",
+      "Global macro driver",
+      "Sharp market move"
+     ],
+     "tags": [
+      "Gold & Silver"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 82,
+     "title": "SEBI issues framework allowing AIF, SIF managers and portfolio managers to certify accredited investor...",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRldoSk5YcFpoSWtYdGNCSGZrOTJ0cHRqcVgwd1R2THVNQ2pBZ0lSZkhXSk1xcl93aTFjcXJ4cDFKajFLZFJsRVEydzI1V3FGeDNobW1MSmNVbUJKbDRQNVpLUjZ0SVBRbENEMEhYdEVKSWVVYXhyTkVhUi1pbXFlZ2lMcTl4dlRxU2ZhZTVkS0M3aWFQdWJLcW1UZXAtM2p5ZEo2YjctaXlrVFkwa2s2VW9kN2taUlByVWF5cEctX0Q2RTlJSUhEUjB3ZWkycXFIaTNfcUZQS2F3M3M5UlF5bjNhSHVETGVqQnc3TWQxYi1kT0lOMFlTSDZOZ2lFc0lRSGt30gGIAkFVX3lxTFB6SFRaRHc3c043MHJaci1UeGxoQmhOdVJRYUduOGl4eTlIV0RXdEwwZDQ0bFdXUENJZlE2RkJTTHkwSG5TR1FkZUFqRnh3blpaQmx2aUh1bGc1ZHBCZHNPd0lIR2ZWbnpWMHR5dHZGQllhdXJyZkJVTFlCZ2R5bUhldVl1clgwc3EwbWNtcFJaRzhuYmtEV1FBLWNMb3EyRUp6UVhyNk5MVkVIenRNOGpXSHlZc0hJTERJWDctekcwa0RybFo4Ry1zR082aS1RMnltOFRqMlIwMXNkSllHU2lRbHZuSXNJM0M5UkpWVXp6R1Eza05NSnNTMWI0aUd1WElrdHFiVHpVbg?oc=5",
+     "date": "2026-11-05",
+     "source": "Moneycontrol.com",
+     "label": "PMS",
+     "snippet": "New framework introduces manager-led accreditation as an additional route, provides three-year validity and expands the securities eligible for meeting the minimum exposure threshold",
+     "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
+     "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260924130823_sebi3.jpg",
+     "why": [
+      "PMS news",
       "Regulator: SEBI or RBI",
       "Rule or framework change"
      ],
      "tags": [
-      "Mutual Funds"
+      "PMS"
      ]
     },
     {
      "desk": "Advisory",
      "score": 9,
      "priority": 82,
-     "title": "Sebi allows AIF managers to determine investor accreditation status for simplified processes",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPTmFOb09UTU5ncFVzVy16aTNNRVpnVjR1TW53SXpqanVsejhvZG1HemljbVE2clR2UDdLY2I3SFNRVWE5LTM2RnAwZ2RkQk9BR3VmLWNtRnlqWm5QbUlDZ28ySFE4YVMweEh1TE5GdHVQaGxzTlpodWZCUlgwMHRVT2xRMFhKOVJrdzY2ZEt4ODcxbklXdU5wRUcxRDRZZVcta2JaQkd2NzI0YVpncHI4dGhfUGo3RE5qN2trNlpIZHRSQXY1eWtKZTFiTngweHBiV2FZdVlzRGNwdTBpd2NFMmxET2gxRjdXLXhWMGtnczBHRGpzeEhlcE1n?oc=5",
-     "date": "2026-11-06",
-     "source": "The Economic Times",
-     "label": "AIF",
-     "snippet": "The Securities and Exchange Board of India has introduced a new regulation allowing alternative investment fund managers to handle investor accreditation. This initiative is designed to streamline the accreditation process for investors looking for investment options. Managers are now authorized to evaluate eligibility during onboarding o",
-     "lead": "The regulator said managers can assess an investor's eligibility either at the time of onboarding or during the tenure of a scheme. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price",
-     "image": "https://img.etimg.com/thumb/msid-135589858,width-1200,height-900,imgsize-94498,overlay-etmarkets/articleshow.jpg",
+     "title": "Indian bond yields log strongest rally since April; 10-year yield closes at 7.19% on softer crude, US...",
+     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPU1hRS0hJV09MX2JEOXdqQmNTTWhDTHhoYVdnazVEaERlOGNBekxwNEdlNzBsMm1TZzI4aWk0NUlHekZOdTRjNlJ0ZU11ZTBrT3FPN2djM0pDWHgwaURkX3RnaEVXa1ZKblB0ZW41RlIzdTNmb00xTlVja2h4Wi0taThhclRWOHJVcHRtQ3NfcDFOSnc5R3VCMGNYUmhjSkl4R0JGR1pDVlV6ZngxZzZQZVhpd3dva2VoVG9KSktlZW8xS2NvWEJOVms4SE9wcUNna0tGNjdtZzgyQndtbGRKMUVzbmxIQ2p1YXRHNzJRWjB3WUxHdHVCZTYxc0tkRjdObkE0MndMY09MN2dMMGlRSEkxVG3SAZoCQVVfeXFMTWFMakF5QnV3cGstc0syX2lDZ3ctS3NVYi1XZ3o3N2gyaHh6X0ZnVDlkMm0xWEFIUXR3UkxOVFd6QVg4dTAtMEpjZDhCOFFhNmVEQTBkLVd4M2tHTHVuVVpEek90aEJYNXBLcWpWRmhhaHBJa3BldjZlVlhYeXNVOWFxNEM0Zl9jQ1BZS2ZHdjUtX0g1eFlxNjFLbFNlTXNkMUVDOUJCeWh0UlhFeVZOMVpEOGp2T0Ztd1VpTHpHMWY5b3AtMWJvWGtFS285LTUtZ1NpMF9LSHBzdm5QUnVpUXpNMDRoWFY0cS1Db29xYmRydEYzZmRuWXVtbm50ZFNWWWs0WE53S0ZjXzBIdDVEM041VFExTGNzQUpn?oc=5",
+     "date": "2026-11-04",
+     "source": "Moneycontrol.com",
+     "label": "Debt & Bonds",
+     "snippet": "Yields have declined sharply over three sessions as falling oil prices and softer global bond yields improved sentiment, but dealers caution that the rally may not sustain amid persistent geopolitical and crude-related uncertainties.",
+     "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
+     "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260825072156_bond-yield.png",
      "why": [
-      "AIF news",
-      "Regulator: SEBI or RBI"
+      "Government bond yields",
+      "Global macro driver",
+      "Sharp market move",
+      "New product or fund"
      ],
      "tags": [
-      "AIF"
+      "Debt & Bonds"
      ]
     }
    ]
@@ -435,7 +441,7 @@
  "items": [
   {
    "desk": "Immigration",
-   "score": 13,
+   "score": 12,
    "priority": 100,
    "title": "Canada announces immigration plan for 2027–2029, adds 2 lakh permanent residence spaces | World News",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOakNXNFpqbjV4eGRYam9BNEhxLXNoMzNzbFJsUlY1a3ZWNG9ZcHpfSjJiYmVnc0lGRVF1Z0xINk44bmhFajFYSVZCcjhRZGdaZTV0bGZnaTVCNUxvYjVDVDBCQzl2dlY2LVlRanpaN0tVU1psTHhrdzNrekRXOVFUUllXYzVWUTE5emVKZjJ2cm5JWjBub0ZYOTZfMXpyb015UzNQNmhPSFhtcUNuU0xhS0tQcEFUOHNNOGEzd3hTRHpqdWxrVXF5LTBiYVdJMEtOSm1qakxEVEtkaU9tZmE5T1Frb9IB6AFBVV95cUxNWkNKLUVCQ0tBVENZdjRMTE13VEhldW9TSUtoZXRKWVpYVW93UGhkOWtMWjhLQ3F2LUhOUlQwZDNzeUNHVHlXeXB6bEc2RlU1eXRpTkI3MVZ2TVp6ZEw4Ukt0d25DMlZfaGg4NXdYRExzVWh0bGxGRnQtVUhXdnBEb3RSOHpXMDBPQ3hGYl9lY1Rjb0gyUnBXV3JtbTVRRjlJYUZhalZlUjZOU2gyMldDVGl4Z3F1VV9VY0VzOHdqekp5SjByTjVsZE9OaTRsT0N6THVXbG1zTEN5RmNpZ3J6bXNMQzk5VnlP?oc=5",
@@ -448,7 +454,7 @@
    "why": [
     "Affects permanent residence",
     "Announces a change",
-    "Major story (11 headlines that day)"
+    "Major story (12 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
@@ -458,63 +464,17 @@
    "must_read": true
   },
   {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 100,
-   "title": "MDR And AI: Inside The Two Acronyms That Could Shape Razorpay’s ₹6,000 Cr IPO",
-   "url": "https://inc42.com/features/mdr-and-ai-inside-the-two-acronyms-that-could-shape-razorpays-%e2%82%b96000-cr-ipo/",
-   "date": "2026-11-06",
-   "source": "Inc42",
-   "label": "India · AI & Deeptech",
-   "snippet": "Razorpay's upcoming IPO might get a twofold push from the MDR on UPI payments implementation as well as fintech's AI product stack when it seeks public market investment for a ₹ 6000 Cr IPO",
-   "lead": "Razorpay has received SEBI’s approval for a ₹5,000-6,000 Cr IPO at a reported $5 Bn valuation, with a listing expected between January and March 2027. Razorpay is taking a profitability-led pitch to public investors, with its core payments business EBITDA profitable. The 0.4% MDR on large UPI transactions could provide an additional high-margin revenue stream, helping narrow the valuation gap. Analysts estimate MDR could generate ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Razorpay-IPO-social.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $632M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "AI & Deeptech"
-   ],
-   "rank": 2,
-   "must_read": true
-  },
-  {
    "desk": "Advisory",
    "score": 11,
    "priority": 100,
-   "title": "Comprehensive Regulatory Analysis: SEBI’s Updated Master Circular for Alternative Investment Funds (November 2026 Framework)",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXlmQTNYbkVsVGFUajBweU5ldFd6N0RQelNEblFoaTJtNGtMeGs0YlNycG80ckl0YzBZdUw3WjdPNGFycnA0c3EycDR6ckpvckktNUY4eFlMalQxcUw5RDJmcVJJRUhseEtGLURzSWk5eXNJMjFBanBKWDAwQTN6UHkwX2ZrMUwzZC1DbHJhTU1VamFzSm1FRzFPM21tdVQwNVBaLWhMN25nZGJsbmc?oc=5",
-   "date": "2026-11-06",
-   "source": "TaxCorp AI",
-   "label": "AIF",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "AIF news",
-    "Regulator: SEBI or RBI",
-    "Rule or framework change"
-   ],
-   "tags": [
-    "AIF"
-   ],
-   "rank": 3,
-   "must_read": true
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 100,
-   "title": "Sebi eases accreditation norms for AIF, SIF and PMS investors",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-allows-aif-managers-to-determine-investor-accreditation-status-for-simplified-processes/articleshow/135589840.cms",
-   "date": "2026-11-06",
-   "source": "Economic Times",
+   "title": "SEBI Relaxes Accredited Investor Norms for AIF, SIF and PMS; Introduces Rs 5 Crore and Rs 20 Crore Securities Exposure Criteria",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRW1rVTYwNXBzWkJKU2pPRmpGNFlOUEgzeEFNODNqWDJGTjI3cjR2akFXSU8xcTRpRVlxMEtNT3VUNC1ma3JkSmJnUHBMSEVqWGFLMjVqWjhKRzlWclBpcGpIdGlmU3BfRlFJZUdrYi01Qk9jMkNLNVdEUm9kQlE5TmVKRUhHRXBGamJqOHBESUZuTm1wZ3JZWnp0SzlxZXBKZzZTWktxVUNNcXdVNnZod0pTR2N2QVMxQTBJOGZWZWF3STMydEgzbnFwMUUxbG5SN1Z1NUM2VGN4UGJQc0pUUVhObkM4eGQzU0pEbzZHRnA2VFl1QUc3WWgtOEZHM3k0V1pwYw?oc=5",
+   "date": "2026-11-07",
+   "source": "Dalal Street Investment Journal",
    "label": "PMS",
-   "snippet": "The Securities and Exchange Board of India has introduced a new regulation allowing alternative investment fund managers to handle investor accreditation. This initiative is designed to streamline the accreditation process for investors looking for investment options. Managers are now authorized to evaluate eligibility during onboarding o",
-   "lead": "The regulator said managers can assess an investor's eligibility either at the time of onboarding or during the tenure of a scheme. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price",
-   "image": "https://img.etimg.com/thumb/msid-135589858,width-1200,height-900,imgsize-94498,overlay-etmarkets/articleshow.jpg",
+   "snippet": "SEBI eases investor accreditation for AIFs, SIFs, and PMS, allowing managers to assess eligibility directly, simplifying the process and reducing delays.",
+   "lead": "The Securities and Exchange Board of India (SEBI) has relaxed the Accredited Investor framework to simplify eligibility verification for investors seeking to invest in Alternative Investment Funds (AIFs), Specialised Investment Funds (SIFs) and Portfolio Management Services (PMS). Announced on November 5, 2026, the revised framework allows investment managers to directly assess an investor's accreditation status, reducing dependence on ...",
+   "image": "https://site.dsij.in/Portals/0/EasyDNNNews/60354/SEBI1.jpg",
    "why": [
     "PMS news",
     "Regulator: SEBI or RBI",
@@ -523,12 +483,12 @@
    "tags": [
     "PMS"
    ],
-   "rank": 4,
+   "rank": 2,
    "must_read": true
   },
   {
    "desk": "Policy",
-   "score": 14,
+   "score": 13,
    "priority": 100,
    "title": "Inter-Ministerial Group Recommends Asset Monetisation Proposals Worth Over ₹1,100 Crore for Approval by Cabinet-Delegated Alternative Mechanism",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332934",
@@ -546,7 +506,30 @@
    "tags": [
     "Budget & Fiscal"
    ],
-   "rank": 5,
+   "rank": 3,
+   "must_read": true
+  },
+  {
+   "desk": "Policy",
+   "score": 13,
+   "priority": 100,
+   "title": "Cabinet approves Rs.14,500 crore Viability Gap Funding Scheme for development of 92 GWh Grid-Scale Energy Storage Systems",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332474",
+   "date": "2026-11-04",
+   "source": "PIB",
+   "label": "Labour & Social",
+   "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the Viability Gap",
+   "lead": "Cabinet Cabinet approves Rs.14,500 crore Viability Gap Funding Scheme for development of 92 GWh Grid-Scale Energy Storage Systems Scheme to support 30 GWh Battery Energy Storage Systems, 60 GWh Pumped Storage Projects and 2 GWh emerging storage technologies Will accelerate renewable energy integration, strengthen grid stability and ensure reliable and affordable round-the-clock power supply Mandatory domestic content requirement for ...",
+   "image": null,
+   "why": [
+    "Cabinet decision",
+    "Cabinet",
+    "Large outlay (Rs 10,000 Cr or more)"
+   ],
+   "tags": [
+    "Labour & Social"
+   ],
+   "rank": 4,
    "must_read": true
   },
   {
@@ -570,59 +553,244 @@
     "IPO & Listing",
     "Policy & Regulation"
    ],
-   "rank": 6,
-   "must_read": false
+   "rank": 5,
+   "must_read": true
   },
   {
    "desk": "Startups",
-   "score": 12,
-   "priority": 100,
-   "title": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2",
-   "url": "https://yourstory.com/2026/10/jio-platforms-first-post-listing-results-user-growth-higher-arpu-drive-137-pc-profit-rise-in-q2",
-   "date": "2026-10-31",
-   "source": "YourStory",
-   "label": "India · Other",
-   "snippet": "The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review.",
-   "lead": "Jio Platforms’ first post-listing results: User growth, higher ARPU drive 13.7% profit rise in Q2 The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review. Press Trust of India 11249 Stories Saturday October 31, 2026 , 5 min Read The digital and telecom company's consolidated revenue from operations rose 11.4% to Rs 40,475 crore during the quarter under review, ...",
-   "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/WhatsAppImage2026-10-28at11-1793168547436.jpeg",
+   "score": 11,
+   "priority": 92,
+   "title": "MDR And AI: Inside The Two Acronyms That Could Shape Razorpay’s ₹6,000 Cr IPO",
+   "url": "https://inc42.com/features/mdr-and-ai-inside-the-two-acronyms-that-could-shape-razorpays-%e2%82%b96000-cr-ipo/",
+   "date": "2026-11-06",
+   "source": "Inc42",
+   "label": "India · AI & Deeptech",
+   "snippet": "Razorpay's upcoming IPO might get a twofold push from the MDR on UPI payments implementation as well as fintech's AI product stack when it seeks public market investment for a ₹ 6000 Cr IPO",
+   "lead": "Razorpay has received SEBI’s approval for a ₹5,000-6,000 Cr IPO at a reported $5 Bn valuation, with a listing expected between January and March 2027. Razorpay is taking a profitability-led pitch to public investors, with its core payments business EBITDA profitable. The 0.4% MDR on large UPI transactions could provide an additional high-margin revenue stream, helping narrow the valuation gap. Analysts estimate MDR could generate ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Razorpay-IPO-social.jpg",
    "why": [
     "IPO & Listing",
-    "Very large figure in headline (about $4,261M: round or valuation)",
-    "Valuation, listing or profitability signal"
+    "Very large figure in headline (about $632M: round or valuation)"
    ],
    "tags": [
-    "IPO & Listing"
+    "IPO & Listing",
+    "AI & Deeptech"
    ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 13,
-   "priority": 93,
-   "title": "Cabinet approves Rs.14,500 crore Viability Gap Funding Scheme for development of 92 GWh Grid-Scale Energy Storage Systems",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332474",
-   "date": "2026-11-04",
-   "source": "PIB",
-   "label": "Labour & Social",
-   "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the Viability Gap",
-   "lead": "Cabinet Cabinet approves Rs.14,500 crore Viability Gap Funding Scheme for development of 92 GWh Grid-Scale Energy Storage Systems Scheme to support 30 GWh Battery Energy Storage Systems, 60 GWh Pumped Storage Projects and 2 GWh emerging storage technologies Will accelerate renewable energy integration, strengthen grid stability and ensure reliable and affordable round-the-clock power supply Mandatory domestic content requirement for ...",
-   "image": null,
-   "why": [
-    "Cabinet decision",
-    "Cabinet",
-    "Large outlay (Rs 10,000 Cr or more)"
-   ],
-   "tags": [
-    "Labour & Social"
-   ],
-   "rank": 8,
+   "rank": 6,
    "must_read": false
   },
   {
    "desk": "Startups",
    "score": 11,
    "priority": 92,
+   "title": "Indian startups with over $500M valuation grow to 51 despite low number of AI entities: Report",
+   "url": "https://yourstory.com/2026/11/indian-startups-over-500m-valuation-grow-51-despite-low-number-ai-entities-report",
+   "date": "2026-11-04",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "The combined value of these 51 entities is about Rs 3.3 lakh crore ($34.1 billion), with an average valuation of about Rs 6,400 crore, and they employ over 60,000 people.",
+   "lead": "Indian startups with over $500M valuation grow to 51 despite low number of AI entities: Report The combined value of these 51 entities is about Rs 3.3 lakh crore ($34.1 billion), with an average valuation of about Rs 6,400 crore, and they employ over 60,000 people. Press Trust of India 11260 Stories Wednesday November 04, 2026 , 3 min Read Indian startups with a valuation of over $500 million have increased to 51 in 2026, from 47 in ...",
+   "image": "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/Imagespzl-1680421400903.jpg",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $500M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 92,
+   "title": "India's next space unicorn may still be in college",
+   "url": "https://yourstory.com/2026/10/indias-next-space-unicorn-may-still-be-in-college",
+   "date": "2026-11-03",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "India already has its first space-tech unicorn. Skyroot Aerospace crossed the $1 billion valuation mark in May 2026 and, two months later, its Vikram-1 became the first privately developed Indian rocket to reach orbit. Those milestones confirm that India's private space ecosystem has moved well bey",
+   "lead": "India's next space unicorn may still be in college India's spacetech economy will be built in layers and will require investment across infrastructure, software, manufacturing, robotics and more. Richa Bajpai 1 Stories Tuesday November 03, 2026 , 7 min Read India already has its first space-tech unicorn. Skyroot Aerospace crossed the $1 billion valuation mark in May 2026 and, two months later, its Vikram-1 became the first privately ...",
+   "image": "https://images.yourstory.com/cs/2/94a03c40169611f0b4b0c5b62b4900c2/SpaceTecharticle-article1-1786357382704.jpg",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $1,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 91,
+   "title": "Comprehensive Regulatory Analysis: SEBI’s Updated Master Circular for Alternative Investment Funds (November 2026 Framework)",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXlmQTNYbkVsVGFUajBweU5ldFd6N0RQelNEblFoaTJtNGtMeGs0YlNycG80ckl0YzBZdUw3WjdPNGFycnA0c3EycDR6ckpvckktNUY4eFlMalQxcUw5RDJmcVJJRUhseEtGLURzSWk5eXNJMjFBanBKWDAwQTN6UHkwX2ZrMUwzZC1DbHJhTU1VamFzSm1FRzFPM21tdVQwNVBaLWhMN25nZGJsbmc?oc=5",
+   "date": "2026-11-06",
+   "source": "TaxCorp AI",
+   "label": "AIF",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "AIF news",
+    "Regulator: SEBI or RBI",
+    "Rule or framework change"
+   ],
+   "tags": [
+    "AIF"
+   ],
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 91,
+   "title": "SEBI forms working group to review Innovators Growth Platform framework",
+   "url": "https://www.thehindubusinessline.com/markets/sebi-forms-working-group-to-review-innovators-growth-platform-framework/article71666591.ece",
+   "date": "2026-11-04",
+   "source": "BusinessLine",
+   "label": "Regulatory",
+   "snippet": "SEBI forms an 18-member working group to review and upgrade Innovators Growth Platform rules for better access to capital for deep-tech and innovation-led firms.",
+   "lead": "' blCenterIconDiv.innerHTML = spanSvg blLoaderDiv.appendChild(blCenterLoadDiv) blLoaderDiv.appendChild(blCenterIconDiv) divInner.appendChild(blLoaderDiv) div.appendChild(divInner) var bodyIntravel = setInterval(() => { if(window.document.body) { clearInterval(bodyIntravel) window.document.body.insertBefore(div, window.document.body.firstChild) } }, 100) function addStyle(styles) { var css = document.createElement('style'); css.type = ...",
+   "image": "https://bl-i.thgim.com/public/incoming/9jew5t/article71663736.ece/alternates/LANDSCAPE_1200/2025-03-24T133634Z_1495740992_RC2LJDA9KT1O_RTRMADP_3_INDIA-SEBI-REGULATIONS.JPG",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Rule or framework change",
+    "Also covered by 3 other outlet(s)"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 91,
+   "title": "RBI launches the November 2026 round of Urban Consumer Confidence Survey",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63908",
+   "date": "2026-11-03",
+   "source": "RBI",
+   "label": "Regulatory",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "The Reserve Bank of India has been regularly conducting Urban Consumer Confidence Survey (UCCS). The November 2026 round of the survey is being launched. The survey seeks qualitative responses from households, regarding their sentiments on general economic situation, employment scenario, price level, households’ income and spending. The survey is conducted regularly in 19 cities, viz., Ahmedabad, Bengaluru, Bhopal, Bhubaneswar, ...",
+   "image": null,
+   "why": [
+    "Regulator: SEBI or RBI",
+    "New product or fund",
+    "Official notice",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 91,
+   "title": "SEBI Cuts Cooling-Off Period For Illiquid Private Listed InvIT OFS To Eight Weeks, New Rules Effective",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTUR4ekxwcExfdy1NOWNGQ3VzbFpRclBXY2VFcjQ2UGhuSlpOeFVxYVRzdWVVbjB0YmxoMW9aV1ZidTdkV3JiajQwOS1ER2Q2N3lKbTh0UmJnUjVnNmw1STVGaU5IemwzTXBHZnZjVWl0elJ1U0NxUzgzQXozZFZ1NGVnNnBmQmRXSzFIQXdXSmtQSnR3WDQxVWNjajNzS244LTBQV1hVWENUQk9EbUVpNjU2bmx6UmFTYzBiQkE3TXd3Y2U4cERHY1NPLTVqbWtrUzFPbU9zbF9jOGFXYTdlNWx4NV9NYlhhTnfSAe8BQVVfeXFMTzVmaTVrVS1aTXh6WU5teFpGQnFrVGlhTmVUV2QxR1RDdjVmMEFtcTNYUS02MFdHQ0tEcG85eVpOY0kzcHNhUEd3SE1kWnFVYmJpWXZXbnNZMmU2bkFIWUU4bmlFenZlSDVseXJHdWFWUGJiZDRVdkFUblBqMmZlVW56Y080Y3BKOTNWTGh6SDN6ckE0bEQzeHNUX0pQUWxyUHFjUkwtVlpwV19tdVFEVDZ5TjJfdm1UTTFtOXBlQWFWSHRyTXprTU5Da2ZoTWx4RnFYZDFNMjhNR25hVjdYbTZGbDA1algyVDBqODgzREU?oc=5",
+   "date": "2026-11-02",
+   "source": "Free Press Journal",
+   "label": "REITs & InvITs",
+   "snippet": "SEBI has reduced the cooling-off period for offer-for-sale transactions involving illiquid private listed InvIT units to eight weeks, effective November 2. The regulator said the change aims to ease business operations. Such offers will last one trading day, with retail investor provisions excluded. Stock exchanges must update their syste",
+   "lead": "New Delhi [India], November 2: The Securities and Exchange Board of India (SEBI) has reduced the cooling-off period for offer for sale (OFS) of units of illiquid private listed Infrastructure Investment Trusts (InvITs) to eight weeks, with the revised provision coming into immediate effect. The move is aimed at facilitating ease of doing business and follows feedback received from market participants, according to a circular issued by ...",
+   "image": "https://media.assettype.com/freepressjournal/2025-02-11/lfbn0fz3/SEBI;ll.jpeg",
+   "why": [
+    "REIT / InvIT news",
+    "Regulator: SEBI or RBI",
+    "Rule or framework change",
+    "Also covered by 2 other outlet(s)"
+   ],
+   "tags": [
+    "REITs & InvITs"
+   ],
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 11,
+   "priority": 85,
+   "title": "Cabinet approves continuation of the Centrally Sponsored Scheme for Fast Track Special Courts (FTSCs) for expeditious trial of cases of rape and POCSO (Protection of Children from Sexual Offences) Act for a further period of five years (FY 2026-27 to FY 2030-31)",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332483",
+   "date": "2026-11-04",
+   "source": "PIB",
+   "label": "Labour & Social",
+   "snippet": "The Union Cabinet, chaired by the Prime Minister, has approved the continuation of the Centrally Spo",
+   "lead": "Cabinet Cabinet approves continuation of the Centrally Sponsored Scheme for Fast Track Special Courts (FTSCs) for expeditious trial of cases of rape and POCSO (Protection of Children from Sexual Offences) Act for a further period of five years (FY 2026-27 to FY 2030-31) Posted On: 04 NOV 2026 3:34PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister, has approved the continuation of the Centrally Sponsored Scheme (CSS) for ...",
+   "image": null,
+   "why": [
+    "Cabinet decision",
+    "Cabinet"
+   ],
+   "tags": [
+    "Labour & Social"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 11,
+   "priority": 85,
+   "title": "Cabinet approves ‘Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR)’, a central sector scheme for the period 2026-27 to 2030-31",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332480",
+   "date": "2026-11-04",
+   "source": "PIB",
+   "label": "Labour & Social",
+   "snippet": "The Union Cabinet, chaired by Prime Minister Shri Narendra Modi, today approved the ‘Viksit Bharat I",
+   "lead": "Cabinet Cabinet approves ‘Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR)’, a central sector scheme for the period 2026-27 to 2030-31 Posted On: 04 NOV 2026 3:31PM by PIB Delhi The Union Cabinet, chaired by Prime Minister Shri Narendra Modi, today approved the ‘Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR)’ Scheme for the period FY 2026-27 to FY 2030-31 ...",
+   "image": null,
+   "why": [
+    "Cabinet decision",
+    "Cabinet"
+   ],
+   "tags": [
+    "Labour & Social"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 11,
+   "priority": 85,
+   "title": "Cabinet Approves Capex Support Scheme to Promote Critical Mineral Processing with an Outlay of Rs.2,814 Crore for Lithium and Nickel processing",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332476",
+   "date": "2026-11-04",
+   "source": "PIB",
+   "label": "Budget & Fiscal",
+   "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the ‘Capex Support",
+   "lead": "Cabinet Cabinet Approves Capex Support Scheme to Promote Critical Mineral Processing with an Outlay of Rs.2,814 Crore for Lithium and Nickel processing Posted On: 04 NOV 2026 3:29PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the ‘Capex Support Scheme to Promote Critical Mineral Processing’ with a financial outlay of Rs.2,814 crore over a period of five years. Processing of critical ...",
+   "image": null,
+   "why": [
+    "Cabinet decision",
+    "Cabinet"
+   ],
+   "tags": [
+    "Budget & Fiscal"
+   ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 83,
    "title": "From GIVA To EloElo Group — Indian Startups Raised $255 Mn This Week",
    "url": "https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week/",
    "date": "2026-11-07",
@@ -638,13 +806,13 @@
    "tags": [
     "Funding"
    ],
-   "rank": 9,
+   "rank": 16,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 11,
-   "priority": 92,
+   "score": 10,
+   "priority": 83,
    "title": "OYO Parent PRISM’s Profit Jumps 17% YoY To ₹353 Cr In Q1",
    "url": "https://inc42.com/buzz/oyo-parent-prisms-profit-jumps-17-yoy-to-%e2%82%b9353-cr-in-q1/",
    "date": "2026-11-07",
@@ -662,186 +830,29 @@
     "Financials",
     "Health & Wellness"
    ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
-   "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
-   "date": "2026-11-05",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
-   "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Zipline hits $21.5B valuation as Walmart expands bet on drone delivery Kirsten Korosec 7:40 AM PST · November 5, 2026 Zipline has raised $1.5 billion and ramped up its partnership with Walmart, a pair of deals that have raised the autonomous drone delivery and logistics startup’s profile and valuation. Zipline and Walmart reached ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2022/09/Zipline-Package-Drop.jpg?resize=1200,675",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $21,500M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 91,
-   "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on November 09, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63943",
-   "date": "2026-11-06",
-   "source": "RBI",
-   "label": "Regulatory",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Monday, November 09, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Official notice"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 91,
-   "title": "SEBI issues framework allowing AIF, SIF managers and portfolio managers to certify accredited investor...",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRldoSk5YcFpoSWtYdGNCSGZrOTJ0cHRqcVgwd1R2THVNQ2pBZ0lSZkhXSk1xcl93aTFjcXJ4cDFKajFLZFJsRVEydzI1V3FGeDNobW1MSmNVbUJKbDRQNVpLUjZ0SVBRbENEMEhYdEVKSWVVYXhyTkVhUi1pbXFlZ2lMcTl4dlRxU2ZhZTVkS0M3aWFQdWJLcW1UZXAtM2p5ZEo2YjctaXlrVFkwa2s2VW9kN2taUlByVWF5cEctX0Q2RTlJSUhEUjB3ZWkycXFIaTNfcUZQS2F3M3M5UlF5bjNhSHVETGVqQnc3TWQxYi1kT0lOMFlTSDZOZ2lFc0lRSGt30gGIAkFVX3lxTFB6SFRaRHc3c043MHJaci1UeGxoQmhOdVJRYUduOGl4eTlIV0RXdEwwZDQ0bFdXUENJZlE2RkJTTHkwSG5TR1FkZUFqRnh3blpaQmx2aUh1bGc1ZHBCZHNPd0lIR2ZWbnpWMHR5dHZGQllhdXJyZkJVTFlCZ2R5bUhldVl1clgwc3EwbWNtcFJaRzhuYmtEV1FBLWNMb3EyRUp6UVhyNk5MVkVIenRNOGpXSHlZc0hJTERJWDctekcwa0RybFo4Ry1zR082aS1RMnltOFRqMlIwMXNkSllHU2lRbHZuSXNJM0M5UkpWVXp6R1Eza05NSnNTMWI0aUd1WElrdHFiVHpVbg?oc=5",
-   "date": "2026-11-05",
-   "source": "Moneycontrol.com",
-   "label": "PMS",
-   "snippet": "New framework introduces manager-led accreditation as an additional route, provides three-year validity and expands the securities eligible for meeting the minimum exposure threshold",
-   "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
-   "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260924130823_sebi3.jpg",
-   "why": [
-    "PMS news",
-    "Regulator: SEBI or RBI",
-    "Rule or framework change"
-   ],
-   "tags": [
-    "PMS"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 91,
-   "title": "Sebi revises currency derivative norms for domestic investors, FPIs; allows to trade up to USD 5 mn",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-revises-currency-derivative-norms-for-domestic-investors-fpis-allows-to-trade-up-to-usd-5-mn/articleshow/135576552.cms",
-   "date": "2026-11-05",
-   "source": "Economic Times",
-   "label": "Regulatory",
-   "snippet": "Sebi has revised its regulations to permit domestic and foreign portfolio investors to take positions in currency derivatives. Investors can now hold up to USD 5 million without establishing underlying exposure. The new guidelines also require FPIs to ensure their short positions do not exceed this limit. For amounts above the threshold, ",
-   "lead": "Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Some elections matter more than you know: No crop changed in the fields, yet sugar, coffee and soya got cheaper in a day",
-   "image": "https://img.etimg.com/thumb/msid-135576578,width-1200,height-900,imgsize-78624,overlay-etmarkets/articleshow.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Rule or framework change",
-    "Also covered by 2 other outlet(s)"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 11,
-   "priority": 79,
-   "title": "Cabinet approves continuation of the Centrally Sponsored Scheme for Fast Track Special Courts (FTSCs) for expeditious trial of cases of rape and POCSO (Protection of Children from Sexual Offences) Act for a further period of five years (FY 2026-27 to FY 2030-31)",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332483",
-   "date": "2026-11-04",
-   "source": "PIB",
-   "label": "Labour & Social",
-   "snippet": "The Union Cabinet, chaired by the Prime Minister, has approved the continuation of the Centrally Spo",
-   "lead": "Cabinet Cabinet approves continuation of the Centrally Sponsored Scheme for Fast Track Special Courts (FTSCs) for expeditious trial of cases of rape and POCSO (Protection of Children from Sexual Offences) Act for a further period of five years (FY 2026-27 to FY 2030-31) Posted On: 04 NOV 2026 3:34PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister, has approved the continuation of the Centrally Sponsored Scheme (CSS) for ...",
-   "image": null,
-   "why": [
-    "Cabinet decision",
-    "Cabinet"
-   ],
-   "tags": [
-    "Labour & Social"
-   ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 11,
-   "priority": 79,
-   "title": "Cabinet approves ‘Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR)’, a central sector scheme for the period 2026-27 to 2030-31",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332480",
-   "date": "2026-11-04",
-   "source": "PIB",
-   "label": "Labour & Social",
-   "snippet": "The Union Cabinet, chaired by Prime Minister Shri Narendra Modi, today approved the ‘Viksit Bharat I",
-   "lead": "Cabinet Cabinet approves ‘Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR)’, a central sector scheme for the period 2026-27 to 2030-31 Posted On: 04 NOV 2026 3:31PM by PIB Delhi The Union Cabinet, chaired by Prime Minister Shri Narendra Modi, today approved the ‘Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR)’ Scheme for the period FY 2026-27 to FY 2030-31 ...",
-   "image": null,
-   "why": [
-    "Cabinet decision",
-    "Cabinet"
-   ],
-   "tags": [
-    "Labour & Social"
-   ],
-   "rank": 16,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 11,
-   "priority": 79,
-   "title": "Cabinet Approves Capex Support Scheme to Promote Critical Mineral Processing with an Outlay of Rs.2,814 Crore for Lithium and Nickel processing",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332476",
-   "date": "2026-11-04",
-   "source": "PIB",
-   "label": "Budget & Fiscal",
-   "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the ‘Capex Support",
-   "lead": "Cabinet Cabinet Approves Capex Support Scheme to Promote Critical Mineral Processing with an Outlay of Rs.2,814 Crore for Lithium and Nickel processing Posted On: 04 NOV 2026 3:29PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the ‘Capex Support Scheme to Promote Critical Mineral Processing’ with a financial outlay of Rs.2,814 crore over a period of five years. Processing of critical ...",
-   "image": null,
-   "why": [
-    "Cabinet decision",
-    "Cabinet"
-   ],
-   "tags": [
-    "Budget & Fiscal"
-   ],
    "rank": 17,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 10,
-   "priority": 77,
-   "title": "UK Immigration Updates: Earned Settlement Reforms and Budget Immigration Measures",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbnRUV1ZPeXhSMTFqVjgzeTlEbVJYX0R1MWpOOUJ5NkUyWGk1OW5XTG5FUlRIbTVJSzFaVldhNFFVT2VrZWtMM1Zzbk1UN0FKSXc5dEVTOUw4YUgzZXhzT0cwZkliOW1RQlhrVEdjTkxfQ2xNX1dSQXVocWxzd0JaX0drRzF6MVNtT0RHR25ydWI3ZVJnejcxQ0d0QlBSQVhWeTZ0WUg3ejdRU09BdzNmWnJmSWdTVDVHcVdqYjJB?oc=5",
-   "date": "2026-11-05",
-   "source": "Morgan Lewis",
+   "priority": 83,
+   "title": "UK visa rules are changing in 2027; Indian students and job seekers could see major changes to their stay, salary and work options",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPWFNwTzl0c08xZkFiaTg4OEgzU04yVV95WHhzZm5ocjg5cVcxLVdvY1d1YmoycTZvUGJIdUc1QmpRU3NXQ0NzaGd0SVoxZEdZNVExYm9XY05TUXBPOVFTZGNHbmdBSmRIdXc1eUtSQlRpYnlnMHFHS2VfR0x5QWR2QThPdktBeVZGYWVqWm5xQU1pVEdERnJSZFEwS2VWTnpfSUxDT0Jkc1hmaXNWWi1odGRSX2tsa1lKZXg4MWJPT1RkODZVdjhqN2xWTlpoa1Z4TEJuY1NfZjExRnZ0T29raldzZ0w2NE1MTEwzVWlxZ2twaWtxS2puSVRKZnh4R295NHotbXo5aXRmZUk0T3BzczZRSHVweUo5V1HSAZ8CQVVfeXFMTUc5RWRiQ0ZwNzVRRkxKb01qaGpGbDlKcmdBZ2x4eEx0djAwZmh0UzhlTk5ick1icEhsaGUyRnJzRDFkc2RfSl9FNWZvV2J4NDNDZ0F5bllrejRHb1RTdWU4WmVJbF8xQ0wxYWNGc1NwTHpJY3FBWGVwcjJKTHYzbWxaX01LZ3BlZ1EzLVlNNHBmUk8xcnBmakItVnZka3ZvbkdGUzhhWmFfQm9WaldDYkdQdmlvS01uY0lnZUtnT1l6amxpdjA4aFQyMnJRNUYxSC1XQlhMai1MYjRaUkYtNkYxeGx5R0laNUVnTnlCa2hUdThpTmMtUUZCbGFRVkhWZmZETlFRNTg2RFhtRkR5Mm54eFBIZmdhWEZwOUVZNlU?oc=5",
+   "date": "2026-11-02",
+   "source": "Business Today",
    "label": "United Kingdom",
-   "snippet": "The UK government has confirmed plans for an \"earned settlement\" system, setting a standard 10-year qualifying period for permanent residence and shorter pathways for qualifying applicants. The settlement response establishes the government's policy rather than the detailed implementing rules. Further rules and guidance are needed before ",
-   "lead": "The Autumn Budget 2026 delivered on 28 October also announced changes to the Skilled Worker salary requirements, additional time for eligible workers to find a new sponsor, changes to graduate and talent visa routes, and tax relief for certain employer-paid sponsorship costs. The standard qualifying period for settlement, also known as \"indefinite leave to remain\", will increase from five to 10 years. For applicants on eligible routes, ...",
-   "image": null,
+   "snippet": "The UK plans to expand its High Potential Individual visa to graduates with eligible qualifications from the world's top 150 universities.",
+   "lead": "Business Today Desk Updated Nov 2, 2026 12:21 PM IST This comes as the general Graduate visa duration is set to fall to 18 months for applications submitted from January 1, 2027. The UK government has announced a series of immigration changes for 2027 that could affect Indian professionals and international students planning to work or study in the country. The proposed changes include revised salary requirements for Skilled Worker ...",
+   "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202611/6ae832e38f1b5-this-comes-as-the-general-graduate-visa-duration-is-set-to-fall-to-18-months-for-applications-submit-025114232-16x9.jpg",
    "why": [
-    "Affects permanent residence",
+    "Salary threshold change",
     "Announces a change",
-    "Major story (9 headlines that day)"
+    "Major story (19 headlines that day)",
+    "Mentions India or Indians"
    ],
    "tags": [
-    "PR / Settlement",
+    "Salary threshold",
     "United Kingdom"
    ],
    "rank": 18,
@@ -850,29 +861,7 @@
   {
    "desk": "Policy",
    "score": 10,
-   "priority": 71,
-   "title": "TRAI releases “The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026”",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2333541",
-   "date": "2026-11-06",
-   "source": "PIB",
-   "label": "Technology & Telecom",
-   "snippet": "The Telecom Regulatory Authority of India (TRAI) today released “The Register of Interconnect Agreem",
-   "lead": "Ministry of Communications TRAI releases “The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026” Posted On: 06 NOV 2026 2:22PM by PIB Delhi The Telecom Regulatory Authority of India (TRAI) today released “The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026” . These regulations will take effect from 1 st January 2027. Interconnection in telecommunications refers to the commercial and ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change"
-   ],
-   "tags": [
-    "Technology & Telecom"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 71,
+   "priority": 77,
    "title": "Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13750&Mode=0",
    "date": "2026-11-03",
@@ -889,36 +878,35 @@
    "tags": [
     "Banking & Rates"
    ],
+   "rank": 19,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 9,
+   "priority": 69,
+   "title": "TRAI releases “The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026”",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2333541",
+   "date": "2026-11-06",
+   "source": "PIB",
+   "label": "Technology & Telecom",
+   "snippet": "The Telecom Regulatory Authority of India (TRAI) today released “The Register of Interconnect Agreem",
+   "lead": "Ministry of Communications TRAI releases “The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026” Posted On: 06 NOV 2026 2:22PM by PIB Delhi The Telecom Regulatory Authority of India (TRAI) today released “The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026” . These regulations will take effect from 1 st January 2027. Interconnection in telecommunications refers to the commercial and ...",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change"
+   ],
+   "tags": [
+    "Technology & Telecom"
+   ],
    "rank": 20,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 8,
-   "priority": 62,
-   "title": "“Up to four years”: Spain approves new seasonal work permits for foreigners",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeXRDV2hLU25aeU1uQUtvRjVtZnkxY0pmYmMwaW1PWHhZRW4xTWI4VVdLVWJTSk83R1VYOTgteUpZUTVUY09HTTFqU3dCQUtBSzZ6aWxwd3BmYkNMam54c3JLcW9qS0JXSklrcGJNZEVnWkdOdFhaVUtnbHVsdXlsejNsLXZHNl8xaG9zLWxvMUxZMVcxZWhzNXc1WWtmQzRBeFJmWHctNmE1bldMUkE?oc=5",
-   "date": "2026-11-06",
-   "source": "Tuko News",
-   "label": "Spain",
-   "snippet": "Spain has approved a four-year seasonal work permit for foreign nationals, subject to six conditions. Here are the eligibility requirements applicants must meet.",
-   "lead": "Spain has approved a new framework for recruiting foreign seasonal workers, introducing permits valid for up to four years under its collective hiring and circular migration programmes. Spain opens a four-year seasonal work route for foreigners. Photo credit: Ludovic Marin Source: Getty Images The Ministry of Inclusion, Social Security and Migration published the 2026 Order for the Collective Management of Contracts in Origin (GECCO) ...",
-   "image": "https://cdn.tuko.co.ke/images/1200x675/e5b239986db47757.jpeg?v=1",
-   "why": [
-    "Affects work visas",
-    "Announces a change"
-   ],
-   "tags": [
-    "Work visa",
-    "Spain"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 8,
-   "priority": 62,
+   "priority": 67,
    "title": "Australia Student Visa Rules Could Change: Indians May Have To Deposit Funds In Local Banks",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTHB3dzBPdXlSWjU1ZHl3VmF0YXFqMVRKMTRtUkFpbnhkbEtMLTF4U2lfYUxfN3Uza3psa1Q3a3p1NnVpVlVaMkNKUWo2SHpIVWJtc2ZFcVgtRWpZbDBoLTNGR3lpRElPS1ltZ01rSHFHNWg5MTFSM1V5ejhTeXh3Z1hYbVpHOVZVWUhtcmVnaTNvVnotVU9TMnBHY19CSGM1NHJqWFFmcnN4THdPckRJUElTVVpKYzhOTVktNkN0UFcxQ1pUQ3c2ZzVxN1J5NElHQmfSAdoBQVVfeXFMTzFpWHVZMW03dzRxak54cms4TVlNMmFHSEluYXZYODVQVk54aktWby1ZTkhGekxoMEtLWFpBSHNjdlFtTkFVMGVDZGlfcDNkd1QtOFozQUdQeGJqTGZCNDhpeENWUXc5VV9iejN2SU9kbEdYc214UHlkVnNwTllGMkEzakh3cVF2ZXhJZDNXWFlQcUxSdXFoNWo1a2FOZmFEM1RyTDNKQ2ZiTmRrSGhWWjFjSzJZRXJHcUl3cFp1WGdkMUotVS1CQWprMTBnOVhScE9tQVp0WUx4bXc?oc=5",
    "date": "2026-11-02",
@@ -936,13 +924,36 @@
     "Student / Graduate",
     "Australia"
    ],
+   "rank": 21,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 58,
+   "title": "“Up to four years”: Spain approves new seasonal work permits for foreigners",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeXRDV2hLU25aeU1uQUtvRjVtZnkxY0pmYmMwaW1PWHhZRW4xTWI4VVdLVWJTSk83R1VYOTgteUpZUTVUY09HTTFqU3dCQUtBSzZ6aWxwd3BmYkNMam54c3JLcW9qS0JXSklrcGJNZEVnWkdOdFhaVUtnbHVsdXlsejNsLXZHNl8xaG9zLWxvMUxZMVcxZWhzNXc1WWtmQzRBeFJmWHctNmE1bldMUkE?oc=5",
+   "date": "2026-11-06",
+   "source": "Tuko News",
+   "label": "Spain",
+   "snippet": "Spain has approved a four-year seasonal work permit for foreign nationals, subject to six conditions. Here are the eligibility requirements applicants must meet.",
+   "lead": "Spain has approved a new framework for recruiting foreign seasonal workers, introducing permits valid for up to four years under its collective hiring and circular migration programmes. Spain opens a four-year seasonal work route for foreigners. Photo credit: Ludovic Marin Source: Getty Images The Ministry of Inclusion, Social Security and Migration published the 2026 Order for the Collective Management of Contracts in Origin (GECCO) ...",
+   "image": "https://cdn.tuko.co.ke/images/1200x675/e5b239986db47757.jpeg?v=1",
+   "why": [
+    "Affects work visas",
+    "Announces a change"
+   ],
+   "tags": [
+    "Work visa",
+    "Spain"
+   ],
    "rank": 22,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 6,
-   "priority": 46,
+   "score": 5,
+   "priority": 42,
    "title": "Last call to take Norway's citizenship and social studies tests in 2026",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYmVxaUtJMDdkU2R0YWUyUVRMTzl2STdXdkxxQURRNEh2Q0pXVUlMMUt6OGptczZfWkJBdDRnbUdva2lld1BHcm1ELVZnMFlKUmc5TnJid0NnemM4UlZfemxCdzNCRWh5WE5GaUVpU0RtYjA3ekFLeWFRNWlzMHBHemtrdTg5WU9iWjRkYlZDVVZNSWszanRBSWN6M3VHZzlkU1FwWU13?oc=5",
    "date": "2026-11-05",
