@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-08",
- "built": "2026-11-08 12:09 IST",
+ "built": "2026-11-08 22:18 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,23 +12,23 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25030.0,
-   "change_pct": 2.01,
-   "asof": "06 Nov 15:31 IST"
+   "value": 24986.0,
+   "change_pct": -0.18,
+   "asof": "08 Nov 15:33 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 81028.0,
-   "change_pct": 2.17,
-   "asof": "06 Nov 15:32 IST"
+   "value": 80999.0,
+   "change_pct": -0.04,
+   "asof": "08 Nov 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 93.91,
-   "change_pct": -0.58,
-   "asof": "08 Nov 09:00 IST"
+   "value": 93.89,
+   "change_pct": -0.6,
+   "asof": "08 Nov 20:30 IST"
   },
   {
    "name": "Brent (USD)",
@@ -166,8 +166,8 @@
    ]
   },
   "Startups": {
-   "total": 1290,
-   "new_today": 0,
+   "total": 1291,
+   "new_today": 1,
    "items": [
     {
      "desk": "Startups",
@@ -260,27 +260,26 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 6,
+   "new_today": 10,
    "items": [
     {
      "desk": "Immigration",
      "score": 5,
      "priority": 42,
-     "title": "Japan unlikely to raise cap for foreign workers despite labor shortages",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUl1ZUNIYVFMQWhJcVNLWFlBN2ROR2JiQmZSU2h3a2RYZTVrajAxOFo4MVV4V1F0ZkI4TEZ4d3g4R0RGRVloQm1rMi0wcjJDTVphZDFxVjR6Sk5sQ2lGeXJuOEdySXdCZ1g0Ym9FTlJqdHVIZFNqelJrcFlrWGhBVg?oc=5",
-     "date": "2026-11-04",
-     "source": "The Japan Times",
-     "label": "Japan",
-     "snippet": "Kimi Onoda, minister in charge of policies related to foreign nationals, said demand for a special visa category is expected to eventually decline.",
-     "lead": "",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572204.jpg?v=3.1",
+     "title": "Last call to take Norway's citizenship and social studies tests in 2026",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYmVxaUtJMDdkU2R0YWUyUVRMTzl2STdXdkxxQURRNEh2Q0pXVUlMMUt6OGptczZfWkJBdDRnbUdva2lld1BHcm1ELVZnMFlKUmc5TnJid0NnemM4UlZfemxCdzNCRWh5WE5GaUVpU0RtYjA3ekFLeWFRNWlzMHBHemtrdTg5WU9iWjRkYlZDVVZNSWszanRBSWN6M3VHZzlkU1FwWU13?oc=5",
+     "date": "2026-11-05",
+     "source": "The Local Norway",
+     "label": "Norway",
+     "snippet": "If you want to complete your Norwegian social studies or citizenship test before the end of 2026 and keep your immigration or residency process moving, you are still in time to secure a place.",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source If you want to complete your Norwegian social studies or citizenship test before the end of 2026 and keep your immigration or residency process moving, you are still in time to secure a place. Whether you are ...",
+     "image": null,
      "why": [
-      "Quota or cap change",
-      "Announces a change"
+      "Affects citizenship"
      ],
      "tags": [
-      "Quota / Caps",
-      "Japan"
+      "Citizenship",
+      "Norway"
      ]
     },
     {
@@ -952,22 +951,22 @@
   },
   {
    "desk": "Immigration",
-   "score": 5,
-   "priority": 42,
-   "title": "Last call to take Norway's citizenship and social studies tests in 2026",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYmVxaUtJMDdkU2R0YWUyUVRMTzl2STdXdkxxQURRNEh2Q0pXVUlMMUt6OGptczZfWkJBdDRnbUdva2lld1BHcm1ELVZnMFlKUmc5TnJid0NnemM4UlZfemxCdzNCRWh5WE5GaUVpU0RtYjA3ekFLeWFRNWlzMHBHemtrdTg5WU9iWjRkYlZDVVZNSWszanRBSWN6M3VHZzlkU1FwWU13?oc=5",
-   "date": "2026-11-05",
-   "source": "The Local Norway",
-   "label": "Norway",
-   "snippet": "If you want to complete your Norwegian social studies or citizenship test before the end of 2026 and keep your immigration or residency process moving, you are still in time to secure a place.",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source If you want to complete your Norwegian social studies or citizenship test before the end of 2026 and keep your immigration or residency process moving, you are still in time to secure a place. Whether you are ...",
-   "image": null,
+   "score": 6,
+   "priority": 50,
+   "title": "Japan to use digital forensics to crack down on illegal foreign workers and employers",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNGRyNWpxdGFHRGh5b3RvaEIxWENmV1NhcldMYThaWmg0RHRRakYwUmExYzVXWWpES2xmODRpbzNwYm1Dc21lZnZmRmhwT2pWdnZZeS1lU1VNWmFwaVNPcFNwTXczU3ZaWDBKQVFMazRUVGNxTEhXUlBiLW42eDhXSC1SMGRGLVBZY2NWM20wV25UOXZtS1BkV09NOTBhc1VMdkNQWk0wUFJaMmNTZTdqOGhWcmZZSThhMDhiTXR2M1VZcjhZTmpaaGtUMkpwSzZRSzFCVFdZclE0RnZWenVVTW1B?oc=5",
+   "date": "2026-11-08",
+   "source": "The Star",
+   "label": "Japan",
+   "snippet": "TOKYO; Japan's Immigration Services Agency plans to introduce digital forensics from the next fiscal year to recover deleted electronic data during investigations, as it steps up efforts to crack down on foreign nationals residing illegally in the country and identify businesses employing them.",
+   "lead": "TOKYO; Japan's Immigration Services Agency plans to introduce digital forensics from the next fiscal year to recover deleted electronic data during investigations, as it steps up efforts to crack down on foreign nationals residing illegally in the country and identify businesses employing them. Digital forensics techniques will be used to analyse data extracted from computers and smartphones seized from foreign nationals suspected of ...",
+   "image": "https://apicms.thestar.com.my/uploads/images/2026/11/08/4201986.png",
    "why": [
-    "Affects citizenship"
+    "Affects work visas"
    ],
    "tags": [
-    "Citizenship",
-    "Norway"
+    "Work visa",
+    "Japan"
    ],
    "rank": 23,
    "must_read": false
