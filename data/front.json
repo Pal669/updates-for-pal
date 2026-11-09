@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-09",
- "built": "2026-11-09 02:16 IST",
+ "built": "2026-11-09 08:32 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -28,21 +28,21 @@
    "dp": 2,
    "value": 93.89,
    "change_pct": -0.6,
-   "asof": "08 Nov 20:30 IST"
+   "asof": "09 Nov 05:28 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 98.32,
-   "change_pct": 0.03,
-   "asof": "07 Nov 03:29 IST"
+   "value": 98.14,
+   "change_pct": -0.18,
+   "asof": "09 Nov 08:21 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4075.0,
-   "change_pct": -0.94,
-   "asof": "07 Nov 03:29 IST"
+   "value": 4132.0,
+   "change_pct": 1.41,
+   "asof": "09 Nov 08:22 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -166,8 +166,8 @@
    ]
   },
   "Startups": {
-   "total": 1292,
-   "new_today": 0,
+   "total": 1294,
+   "new_today": 2,
    "items": [
     {
      "desk": "Startups",
@@ -259,8 +259,29 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 1,
+   "new_today": 7,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 55,
+     "title": "Finland Plans Major Changes to Work Permits for Foreign Workers",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMnktblJhcnhZb05GRDR5bGJWRmpyUGtFZVBaNTYtdHR4OTR5TkEtUEZJc2Y2ZXBGOTk0TjEyWEZlUkxKTUJDVVktZi1LR1hwWlo1TkU5ekh4YmtTbTRQYUwwNllrU0hiNWtZUWxISHpnSjVPaDRBOFdVTVluUmRwQ001aDhSckZLcmo4eGxLWWtqZzBO?oc=5",
+     "date": "2026-11-07",
+     "source": "Bloom Pakistan",
+     "label": "Finland",
+     "snippet": "Finland has proposed stricter residence permit rules to protect foreign workers from workplace exploitation. The government submitted a bill to Parliament on November 5, 2026, and plans to implement the proposed changes in March 2027. Key Details Details Information Country Finland Bill submission date November 5, 2026 Expected implementa",
+     "lead": "",
+     "image": "https://bloompakistan.com/wp-content/uploads/2024/05/bloompak.png",
+     "why": [
+      "Affects work visas",
+      "Announces a change"
+     ],
+     "tags": [
+      "Work visa",
+      "Finland"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 6,
@@ -320,27 +341,6 @@
      "tags": [
       "Citizenship",
       "Norway"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 45,
-     "title": "Iceland Proposes 93% Rise in Residence Permit Income Threshold",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2xubEdnc3BQSkRWSjNDTWpIY3oyakRENW5oTWN6OWNXQ1dHanYzQXNVQ0pYUWQ1N3Vvd2toNzQ3Zk56QUduMmJqRnNhZGpCQWlaSmlvanhQSFFxaE4wZkNtcXhReDNvS0R1RURsQmkyeUtLR0Rqa3h4MXpRQWZ3cmJRTlQyU2F3Smc?oc=5",
-     "date": "2026-11-04",
-     "source": "Iceland Review",
-     "label": "Iceland",
-     "snippet": "",
-     "lead": "",
-     "image": null,
-     "why": [
-      "Salary threshold change",
-      "Announces a change"
-     ],
-     "tags": [
-      "Salary threshold",
-      "Iceland"
      ]
     }
    ]
@@ -907,6 +907,28 @@
    "desk": "Immigration",
    "score": 7,
    "priority": 64,
+   "title": "Hwang Woo-suk renounces Korea, gains UAE citizenship amid biotech role",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaVk3MTRQZEhyTjFkUXJfV2Z3aE43cmlDdERKbFJYWG1Ec0oyV1hvUlZ6X3hXOWh0WWo4RlVJQm95bGhhMFhYUVpBX0FmV0RUa1BxMjg1UjgtU3hYRHVZeVJhWnFDNUc2TklxcWpPTnRVVHVzQWNFY0tYdHV3UGFVNNIBlAFBVV95cUxPOEc5dWRxNlpkc0NXOFNKQmtWQzVjNXFzSDJ4STcwaHlwcHh2WWNaUnhvbVo2aEw5NHhuUzFlQU9WdUYzNGdMYkFCSVl0cUVqR2pHWkNWTi1wWFJWQndvc3B3bVZielFyRGU1dFF1QkxPY0Y3YmdCTW0tTmZMcmpyd25PWlR4Y25DWjdqWDdTOEtvV3BQ?oc=5",
+   "date": "2026-11-09",
+   "source": "Chosunbiz",
+   "label": "South Korea",
+   "snippet": "Hwang Woo-suk renounces Korea, gains UAE citizenship amid biotech role",
+   "lead": "조선비즈 구글 검색 먼저 보기 Former Seoul National University Professor Hwang Woo-suk, who was dismissed from his SNU post for fabricating stem cell papers and then left Korea, has reportedly lost his Korean nationality. Hwang Woo-suk, former Seoul National University veterinary professor. /Courtesy of News1 According to the electronic official gazette on the 9th, the Cheongju Immigration Office included \"Hwang Woo-suk,\" born in 1953 and from ...",
+   "image": "https://biz.chosun.com/resizer/v2/PQFH65YW3KR2JD7F4QJA4VB5LI.jpg?auth=501b6dfe56cc2651dd114e574b17f6eee14e4e469aa6f73e200203db8064882d&width=572&height=300&smart=true",
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "South Korea"
+   ],
+   "rank": 21,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 64,
    "title": "Luxembourg raises work permit salary requirements for foreign workers in 2027",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdFljUlQ2S0lpSDZ4SzMycEp5UmhhNFh0bDBwdkNNc0djT1VYU19KQU5sTDRfOWlhY3hqMkpROGFud2ZxTS10eVpHZS0wS1dRZnZWTEF4eGhkb1U5UDIwRGI5TUw2bV9HajJoeEdnUkVzcXFsZ29rNVFYUUFfem1KT0pDTTNBNzRQY0ctdm9pVVZ5MndOcmc1OHQ1TkdvM2ZmNUhEYk5vSzJvblo4c0xPR1N2dGo?oc=5",
    "date": "2026-11-08",
@@ -923,7 +945,7 @@
     "Salary threshold",
     "Luxembourg"
    ],
-   "rank": 21,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -944,29 +966,6 @@
    ],
    "tags": [
     "Technology & Telecom"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 55,
-   "title": "Finland Plans Major Changes to Work Permits for Foreign Workers",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMnktblJhcnhZb05GRDR5bGJWRmpyUGtFZVBaNTYtdHR4OTR5TkEtUEZJc2Y2ZXBGOTk0TjEyWEZlUkxKTUJDVVktZi1LR1hwWlo1TkU5ekh4YmtTbTRQYUwwNllrU0hiNWtZUWxISHpnSjVPaDRBOFdVTVluUmRwQ001aDhSckZLcmo4eGxLWWtqZzBO?oc=5",
-   "date": "2026-11-07",
-   "source": "Bloom Pakistan",
-   "label": "Finland",
-   "snippet": "Finland has proposed stricter residence permit rules to protect foreign workers from workplace exploitation. The government submitted a bill to Parliament on November 5, 2026, and plans to implement the proposed changes in March 2027. Key Details Details Information Country Finland Bill submission date November 5, 2026 Expected implementa",
-   "lead": "",
-   "image": "https://bloompakistan.com/wp-content/uploads/2024/05/bloompak.png",
-   "why": [
-    "Affects work visas",
-    "Announces a change"
-   ],
-   "tags": [
-    "Work visa",
-    "Finland"
    ],
    "rank": 23,
    "must_read": false
