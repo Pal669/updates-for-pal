@@ -1,6 +1,6 @@
 {
- "edition": "2026-11-09",
- "built": "2026-11-09 12:38 IST",
+ "edition": "2026-11-10",
+ "built": "2026-11-10 02:34 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,75 +12,75 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 24895.0,
-   "change_pct": -0.54,
-   "asof": "09 Nov 12:38 IST"
+   "value": 25030.0,
+   "change_pct": 2.01,
+   "asof": "09 Nov 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 80680.0,
-   "change_pct": -0.43,
-   "asof": "09 Nov 12:23 IST"
+   "value": 81028.0,
+   "change_pct": 2.17,
+   "asof": "09 Nov 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 93.81,
-   "change_pct": -0.69,
-   "asof": "09 Nov 12:37 IST"
+   "value": 93.92,
+   "change_pct": -0.57,
+   "asof": "10 Nov 01:56 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 96.75,
-   "change_pct": -1.6,
-   "asof": "09 Nov 12:28 IST"
+   "value": 92.64,
+   "change_pct": -5.78,
+   "asof": "10 Nov 02:21 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4116.0,
-   "change_pct": 1.02,
-   "asof": "09 Nov 12:28 IST"
+   "value": 4148.0,
+   "change_pct": 1.79,
+   "asof": "10 Nov 02:21 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
    "value": 4.86,
-   "change_pct": 0.45,
-   "asof": "07 Nov 01:29 IST"
+   "change_pct": 0.1,
+   "asof": "10 Nov 01:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "Kissht",
-   "tagline": "Listed digital lender (NBFC)",
-   "what": "Lending-tech platform founded in 2015 by Ranvir Singh and Krishnan Vishwanathan. Offers digital personal and business loans up to Rs 5 lakh, health-related insurance products and secured loans against property. Got regulatory approval in July 2026 to distribute mutual funds through subsidiary Invincible Minds.",
+   "company": "Kuku Technologies (Kuku FM)",
+   "tagline": "Audio and microdrama OTT, IPO cleared by SEBI",
+   "what": "Founded in 2018 by Lal Chand Bisu, Vikas Goyal and Vinod Meena. Offers audiobooks, podcasts and original audio shows under Kuku FM, plus microdrama platform Kuku TV and microlearning platform Guru. Content library of 20,000+ titles in seven languages; it claims 1 Cr+ listeners and creators and 400 Mn app downloads across its portfolio.",
    "how": [
-    "The article does not give a revenue split.",
-    "Inferred, not from the article: as an NBFC, its core income is interest and fees on the loans it makes; insurance and mutual fund distribution would add commissions."
+    "The article does not explain the revenue model.",
+    "Not stated: whether income comes from subscriptions, pay-per-content or ads. Check the DRHP when it becomes public."
    ],
-   "watch": "The company did not say how it will use the money. Fresh capital for a lender usually funds loan growth, but that is inference.",
-   "sector": "Fintech",
+   "watch": "Fresh-issue money is planned for tech, AI infrastructure, content production and geographic expansion. Competitors named: Pocket FM, Flick TV, ReelSaga, Miniplix and OTT majors (Amazon, JioHotstar, Zee5).",
+   "sector": "Media, Gaming & Creators",
    "region": "India",
-   "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/"
+   "url": "https://inc42.com/buzz/sebi-greenlights-kuku-technologies-%e2%82%b93500-cr-ipo/"
   },
   "country": {
-   "id": "finland",
-   "name": "Finland",
-   "trend": "Tightening",
-   "pr": "Since 8 January 2026 you need 6 years of continuous residence (previously 4), satisfactory Finnish or Swedish, and 2 years of work experience in Finland. 4-year alternatives exist, including an EUR 40,000 taxable-income pathway and a Finnish higher-education route. Not applied to applications filed before 8 January 2026.",
-   "citizenship": "8 years of residence since 1 October 2024, plus language requirements.",
-   "pro": "High quality of life, education and safety (general knowledge).",
-   "con": "Tightening at every stage: PR 4 to 6 years, citizenship 8 years, language proficiency required.",
-   "watch": "Implementation of the 2026 rules"
+   "id": "austria",
+   "name": "Austria",
+   "trend": "Stable but strict",
+   "pr": "Red-White-Red Card Plus after about 21 months (no longer tied to one employer). EU permanent residence after 5 years of continuous legal residence.",
+   "citizenship": "10 years standard, 6 years for well-integrated applicants (B2 German, volunteering or professional achievement). Needs B2 German, self-sufficiency and, in general, renunciation of prior citizenship (sources conflict on exceptions; India requires renunciation anyway).",
+   "pro": "Card Plus after about 21 months removes employer dependence.",
+   "con": "Citizenship takes 10 years (6 if well integrated) and needs B2 German.",
+   "watch": "Annual Red-White-Red quota"
   }
  },
  "desks": {
   "Policy": {
    "total": 329,
-   "new_today": 1,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
@@ -166,13 +166,35 @@
    ]
   },
   "Startups": {
-   "total": 1296,
-   "new_today": 4,
+   "total": 1302,
+   "new_today": 1,
    "items": [
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 83,
+     "priority": 77,
+     "title": "Revolut completes funding round at $115 billion valuation",
+     "url": "https://economictimes.indiatimes.com/tech/technology/revolut-completes-funding-round-at-115-billion-valuation/articleshow/135543134.cms",
+     "date": "2026-11-04",
+     "source": "ET Startups",
+     "label": "Global · Fintech",
+     "snippet": "The transaction, which Revolut said was led by Glade Brook Capital Partners, Coatue, Durable Capital Partners, T. Rowe Price Associates and Baillie Gifford, means private market investors value the 11-year-old business more highly than many publicly listed banks.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1277395,resizemode-75,msid-135543134/tech/technology/revolut-completes-funding-round-at-115-billion-valuation.jpg",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $115,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "Fintech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
      "date": "2026-11-04",
@@ -194,112 +216,86 @@
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 75,
-     "title": "From GIVA To EloElo Group — Indian Startups Raised $255 Mn This Week",
-     "url": "https://inc42.com/buzz/from-giva-to-eloelo-group-indian-startups-raised-255-mn-this-week/",
-     "date": "2026-11-07",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "Startup funding activity gathered steam in the first week of November. Twenty startups cumulatively raised $255 Mn between November 2 and 6.",
-     "lead": "Twenty startups cumulatively raised $255 Mn between November 2 and 6, up 96% uptick from $130.3 Mn raised last week. However, deal count declined 38% week-on-week to 20 On the back of GIVA’s mega $103 Mn fundraise, ecommerce emerged as the most funded sector this week Omnivore emerged as the most active investor this week, backing altM and Two Point O Capital",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Funding-Galore_Oct-Soc-100.jpg",
+     "priority": 69,
+     "title": "MakeMyTrip's India arm gets Sebi nod to float IPO",
+     "url": "https://yourstory.com/2026/11/makemytrip-india-arm-gets-sebi-nod-to-float-ipo",
+     "date": "2026-11-09",
+     "source": "YourStory",
+     "label": "India · Policy & Regulation",
+     "snippet": "MakeMyTrip is listed on Nasdaq stock exchange\n\nThe proceeds from the planned IPO will be utilised by MakeMyTrip for long term growth, inorganic opportunities and repurchase of different types shares\n\nNasdaq-listed travel booking platform MakeMyTrip's India subsidiary has received Sebi's approval to",
+     "lead": "MakeMyTrip's India arm gets Sebi nod to float IPO The proceeds from the planned IPO will be utilised by MakeMyTrip for long term growth, inorganic opportunities and repurchase of different types shares Press Trust of India 11266 Stories Monday November 09, 2026 , 2 min Read Nasdaq-listed travel booking platform MakeMyTrip's India subsidiary has received Sebi's approval to launch an initial public offering (IPO), according to an update ...",
+     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imageq2wc-1759136869668.jpg",
+     "why": [
+      "IPO & Listing",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "IPO & Listing",
+      "Policy & Regulation"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 69,
+     "title": "Onodrim raises $300m as European defence rollups heat up",
+     "url": "https://sifted.eu/articles/onodrim-300-european-defence-rollup/",
+     "date": "2026-11-09",
+     "source": "Sifted",
+     "label": "Global · Other",
+     "snippet": "The big fundraise comes as European defence ‘rollups’ are becoming a bigger trend",
+     "lead": "Amsterdam-based Onodrim raised $300m in Series A funding to buy up existing defence, space, and industrial manufacturing startups.",
+     "image": "https://content.sifted.eu/wp-content/uploads/2026/11/09093545/assets_MS2030185_000001_Cropped-image-936x1024.png",
      "why": [
       "Funding",
-      "Large deal (about $255M)"
+      "Large deal (about $300M)"
      ],
      "tags": [
       "Funding"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 75,
-     "title": "OYO Parent PRISM’s Profit Jumps 17% YoY To ₹353 Cr In Q1",
-     "url": "https://inc42.com/buzz/oyo-parent-prisms-profit-jumps-17-yoy-to-%e2%82%b9353-cr-in-q1/",
-     "date": "2026-11-07",
-     "source": "Inc42",
-     "label": "India · Health & Wellness",
-     "snippet": "IPO-bound hospitality chain PRISM reported a consolidated profit of ₹353 Cr in Q1 FY27), up 17.3% from ₹301 Cr in the year-ago period.",
-     "lead": "PRISM’s revenue from operations zoomed 35% to ₹2,814 Cr in Q1 FY27 as against ₹2,078 Cr reported in the year ago quarter The profitability came largely on the back of a deferred tax credit of nearly ₹244 Cr in the quarter under review and a sharp growth in the top line The numbers come as PRISM is gearing up to list on the bourses. The startup has already filed its UDRHP with SEBI for a ₹6,650 Cr IPO, which will consist entirely of a ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/soc-16.jpg",
-     "why": [
-      "Financials",
-      "Sizeable deal (about $37M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Financials",
-      "Health & Wellness"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 75,
-     "title": "PhysicsWallah’s Q2 Profit Surge, Elo Elo Bags $80 Mn & More",
-     "url": "https://inc42.com/buzz/physicswallahs-q2-profit-surge-elo-elo-bags-80-mn-more/",
-     "date": "2026-11-05",
-     "source": "Inc42",
-     "label": "India · Edtech & Skills",
-     "snippet": "PhysicsWallah had a blockbuster Q2 FY27. The quarter saw the edtech giant swing back to profitability and clock record quarterly revenues.",
-     "lead": "PW’s Growth Engines: The edtech major’s Q2 show was driven by healthy revenue growth, tighter cost control and improving operating leverage. Online business remained PW’s primary growth engine, while the offline network continued to add centres and enrolments. The company also benefited from a shift away from direct lending, reducing balance sheet risk. The startup’s next priority is its AI tutor (currently in pilot), which could ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Social-Daily-Brief-40.png",
-     "why": [
-      "Funding",
-      "Sizeable deal (about $80M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "Edtech & Skills"
      ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 19,
+   "new_today": 4,
    "items": [
     {
      "desk": "Immigration",
-     "score": 6,
-     "priority": 55,
-     "title": "“Up to four years”: Spain approves new seasonal work permits for foreigners",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeXRDV2hLU25aeU1uQUtvRjVtZnkxY0pmYmMwaW1PWHhZRW4xTWI4VVdLVWJTSk83R1VYOTgteUpZUTVUY09HTTFqU3dCQUtBSzZ6aWxwd3BmYkNMam54c3JLcW9qS0JXSklrcGJNZEVnWkdOdFhaVUtnbHVsdXlsejNsLXZHNl8xaG9zLWxvMUxZMVcxZWhzNXc1WWtmQzRBeFJmWHctNmE1bldMUkE?oc=5",
-     "date": "2026-11-06",
-     "source": "Tuko News",
-     "label": "Spain",
-     "snippet": "Spain has approved a four-year seasonal work permit for foreign nationals, subject to six conditions. Here are the eligibility requirements applicants must meet.",
-     "lead": "Spain has approved a new framework for recruiting foreign seasonal workers, introducing permits valid for up to four years under its collective hiring and circular migration programmes. Spain opens a four-year seasonal work route for foreigners. Photo credit: Ludovic Marin Source: Getty Images The Ministry of Inclusion, Social Security and Migration published the 2026 Order for the Collective Management of Contracts in Origin (GECCO) ...",
-     "image": "https://cdn.tuko.co.ke/images/1200x675/e5b239986db47757.jpeg?v=1",
+     "score": 5,
+     "priority": 45,
+     "title": "APAC Immigration Updates: Australia, India, Japan & More",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYmhTal84N1h0R3M2Skt4YWxURlhYVEhpcDRrd2RxR18yVTFWVVlQQUVQN3Frd0dFYUVnUHdQMGNoTGdsbmdNV0VYYXZYbC16QmU2aHVuOTN5dWhjRmpGRlU2eWY4NFJLajBkeXR5SWlLeHZQM1FvTHFZV3R5emJ2MEVvaklwbndqWVdSbENDWFBqeHJOd1BvcnpGVjNKc2NydFZxaDJqTG1pODY1?oc=5",
+     "date": "2026-11-09",
+     "source": "Clark Hill",
+     "label": "Australia",
+     "snippet": "Explore APAC immigration updates affecting employers and global mobility, including visa and work permit changes across Australia, India, Japan, New Zealand, and Vietnam.",
+     "lead": "Clark Hill’s Outbound Immigration & Global Mobility practice guides corporate clients and individuals through complex global immigration challenges worldwide. We pride ourselves on creative, compliant, and people-centered solutions – looking at global mobility from a holistic perspective in an ever-changing immigration environment. Our team assists with short-term assignments, long-term relocations, consular processing, document ...",
+     "image": "https://media.clarkhill.com/wp-content/uploads/2020/10/05134526/ClarkHillSocial.png",
      "why": [
-      "Affects work visas",
-      "Announces a change"
+      "Mentions India or Indians"
      ],
      "tags": [
-      "Work visa",
-      "Spain"
+      "Australia"
      ]
     },
     {
      "desk": "Immigration",
      "score": 5,
      "priority": 45,
-     "title": "Japan to use digital forensics to crack down on illegal foreign workers and employers",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNGRyNWpxdGFHRGh5b3RvaEIxWENmV1NhcldMYThaWmg0RHRRakYwUmExYzVXWWpES2xmODRpbzNwYm1Dc21lZnZmRmhwT2pWdnZZeS1lU1VNWmFwaVNPcFNwTXczU3ZaWDBKQVFMazRUVGNxTEhXUlBiLW42eDhXSC1SMGRGLVBZY2NWM20wV25UOXZtS1BkV09NOTBhc1VMdkNQWk0wUFJaMmNTZTdqOGhWcmZZSThhMDhiTXR2M1VZcjhZTmpaaGtUMkpwSzZRSzFCVFdZclE0RnZWenVVTW1B?oc=5",
-     "date": "2026-11-08",
-     "source": "The Star",
-     "label": "Japan",
-     "snippet": "TOKYO; Japan's Immigration Services Agency plans to introduce digital forensics from the next fiscal year to recover deleted electronic data during investigations, as it steps up efforts to crack down on foreign nationals residing illegally in the country and identify businesses employing them.",
-     "lead": "TOKYO; Japan's Immigration Services Agency plans to introduce digital forensics from the next fiscal year to recover deleted electronic data during investigations, as it steps up efforts to crack down on foreign nationals residing illegally in the country and identify businesses employing them. Digital forensics techniques will be used to analyse data extracted from computers and smartphones seized from foreign nationals suspected of ...",
-     "image": "https://apicms.thestar.com.my/uploads/images/2026/11/08/4201986.png",
+     "title": "17 occupations affected: New Zealand announces major immigration changes in 2027",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeURrSUQ3X2dRVUxZeUt5b3JzVEJlQjZEajdpejhUbFV5ZG5SWW16dnBtc2wxOXZCVlRJZFRqaGozRjlaSXg3WURXTkRMR29EVDRHS21SYnU3SmpQbXlkSm80YXhxQXRMeWNjWFZTbkRyZ21UM0RSYkFjNFhhVFg4N0pZa3VKcDFsUWlvWlpyQVpvWWJYQXBpX1ZLbk1xRl9QdHZ4LW9Vamc4Mmw2OGJjc2dmTQ?oc=5",
+     "date": "2026-11-09",
+     "source": "Tuko News",
+     "label": "New Zealand",
+     "snippet": "New Zealand will remove 17 occupations from its Green List Work to Residence pathway in March 2027, as new residency routes take effect for skilled migrants.",
+     "lead": "New Zealand has announced sweeping changes to its immigration Green List that will redirect 17 skilled trades and technical occupations away from the existing Work to Residence pathway, with the new rules set to come into force on March 8, 2027. New Zealand Announces Major Immigration Changes Affecting 17 Occupations in 2027 Source: UGC Immigration New Zealand (INZ) made the announcement on Tuesday, November 3, confirming that the ...",
+     "image": "https://cdn.tuko.co.ke/images/1200x675/e092bbb10d7bf65b.jpeg?v=1",
      "why": [
-      "Affects work visas"
+      "Announces a change"
      ],
      "tags": [
-      "Work visa",
-      "Japan"
+      "New Zealand"
      ]
     },
     {
@@ -326,21 +322,21 @@
      "desk": "Immigration",
      "score": 5,
      "priority": 45,
-     "title": "Iceland Proposes 93% Rise in Residence Permit Income Threshold",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2xubEdnc3BQSkRWSjNDTWpIY3oyakRENW5oTWN6OWNXQ1dHanYzQXNVQ0pYUWQ1N3Vvd2toNzQ3Zk56QUduMmJqRnNhZGpCQWlaSmlvanhQSFFxaE4wZkNtcXhReDNvS0R1RURsQmkyeUtLR0Rqa3h4MXpRQWZ3cmJRTlQyU2F3Smc?oc=5",
+     "title": "Japan unlikely to raise cap for foreign workers despite labor shortages",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUl1ZUNIYVFMQWhJcVNLWFlBN2ROR2JiQmZSU2h3a2RYZTVrajAxOFo4MVV4V1F0ZkI4TEZ4d3g4R0RGRVloQm1rMi0wcjJDTVphZDFxVjR6Sk5sQ2lGeXJuOEdySXdCZ1g0Ym9FTlJqdHVIZFNqelJrcFlrWGhBVg?oc=5",
      "date": "2026-11-04",
-     "source": "Iceland Review",
-     "label": "Iceland",
-     "snippet": "",
+     "source": "The Japan Times",
+     "label": "Japan",
+     "snippet": "Kimi Onoda, minister in charge of policies related to foreign nationals, said demand for a special visa category is expected to eventually decline.",
      "lead": "",
-     "image": null,
+     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572204.jpg?v=3.1",
      "why": [
-      "Salary threshold change",
+      "Quota or cap change",
       "Announces a change"
      ],
      "tags": [
-      "Salary threshold",
-      "Iceland"
+      "Quota / Caps",
+      "Japan"
      ]
     }
    ]
@@ -349,27 +345,6 @@
    "total": 3000,
    "new_today": 0,
    "items": [
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 90,
-     "title": "SEBI issues framework allowing AIF, SIF managers and portfolio managers to certify accredited investor...",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRldoSk5YcFpoSWtYdGNCSGZrOTJ0cHRqcVgwd1R2THVNQ2pBZ0lSZkhXSk1xcl93aTFjcXJ4cDFKajFLZFJsRVEydzI1V3FGeDNobW1MSmNVbUJKbDRQNVpLUjZ0SVBRbENEMEhYdEVKSWVVYXhyTkVhUi1pbXFlZ2lMcTl4dlRxU2ZhZTVkS0M3aWFQdWJLcW1UZXAtM2p5ZEo2YjctaXlrVFkwa2s2VW9kN2taUlByVWF5cEctX0Q2RTlJSUhEUjB3ZWkycXFIaTNfcUZQS2F3M3M5UlF5bjNhSHVETGVqQnc3TWQxYi1kT0lOMFlTSDZOZ2lFc0lRSGt30gGIAkFVX3lxTFB6SFRaRHc3c043MHJaci1UeGxoQmhOdVJRYUduOGl4eTlIV0RXdEwwZDQ0bFdXUENJZlE2RkJTTHkwSG5TR1FkZUFqRnh3blpaQmx2aUh1bGc1ZHBCZHNPd0lIR2ZWbnpWMHR5dHZGQllhdXJyZkJVTFlCZ2R5bUhldVl1clgwc3EwbWNtcFJaRzhuYmtEV1FBLWNMb3EyRUp6UVhyNk5MVkVIenRNOGpXSHlZc0hJTERJWDctekcwa0RybFo4Ry1zR082aS1RMnltOFRqMlIwMXNkSllHU2lRbHZuSXNJM0M5UkpWVXp6R1Eza05NSnNTMWI0aUd1WElrdHFiVHpVbg?oc=5",
-     "date": "2026-11-05",
-     "source": "Moneycontrol.com",
-     "label": "PMS",
-     "snippet": "New framework introduces manager-led accreditation as an additional route, provides three-year validity and expands the securities eligible for meeting the minimum exposure threshold",
-     "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
-     "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260924130823_sebi3.jpg",
-     "why": [
-      "PMS news",
-      "Regulator: SEBI or RBI",
-      "Rule or framework change"
-     ],
-     "tags": [
-      "PMS"
-     ]
-    },
     {
      "desk": "Advisory",
      "score": 9,
@@ -415,19 +390,40 @@
     },
     {
      "desk": "Advisory",
+     "score": 9,
+     "priority": 90,
+     "title": "SEBI issues rules for depositary receipts on REITs, InvITs units",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONDI4cks0S2RLOUF2UEVTd1kzdUU2cndOUWRwYjVDQWRvMHUwOHZuWFJwS0htQ05FRjNuNGJRd25MN1JqZ1VUZTV5OEpkT1plYVJCWFZzVnRIZnoxTGhsZF9YeDlqN1JkSUxWWXRFQUQzTUJENVlwUjZ2NnNvRXpremhON1Y0UkJPenRSUlhqZHLSAZgBQVVfeXFMT1FmRl96TVd1eWlJMjRYMUdJME9mN2V4Q2JVWW5lbDhacEgxTmRDaWt5X3JRdEJpUUNjU2ZWMkpQQU9aYzRqZ29kZ01CRmJDajhmVzV0Mlh0eWNxVEZ6QmxrSk5tWU5DUExWVFJyOGFFbG1PdUhoSElBRHRsaTltNk5WeS1NdHdHZm5tU3RYeXE5ZjBYaVJ6dS0?oc=5",
+     "date": "2026-11-03",
+     "source": "VCCircle",
+     "label": "REITs & InvITs",
+     "snippet": "India&#39;s markets regulator on Monday issued a depositary receipts framework to let foreign investors buy into real estate investment trusts (REITs)...",
+     "lead": "",
+     "image": "https://assets.vccircle.com/uploads/2025/05/resized-TZLYNXMPELKXRTROPTPINDIASEBIINVESTMENTS.jpg",
+     "why": [
+      "REIT / InvIT news",
+      "Regulator: SEBI or RBI",
+      "Also covered by 3 other outlet(s)"
+     ],
+     "tags": [
+      "REITs & InvITs"
+     ]
+    },
+    {
+     "desk": "Advisory",
      "score": 8,
      "priority": 80,
-     "title": "SEBI's new direct mutual fund rule kicks in from November 1. What changes for investors and should you switch?",
-     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxONVlfWDFhMmNoSTEzNmVWQVhPS2FUcl9SU2VweXlNRXpKcUhHbUdwcXJZRmx5TGJER2I3b3VoTFBydFlab0I2T1J1UGlKcS16bTZnUGVYeHVOM0FZbjJUN0pmN3hkanBTR3ROM3dJWGVoMjdOM3E0eDRmckh1d1NleUdVZzBFd1lNS1kzUTFmZU1EZ0pmemJXbWNPMmxOX0R5VjU5VnFKYXI1dkJJV1hGXzEtTjhncjVrUVFOU0JMNXlkdzF6TDFCNURIdXR6bVNic0ZzX2ViUTdqQkgyN2x6R2N4U2tMaWh2WlJEdHEtZVluT0kwMWlOWUR6NXNaN3lyTzlzLTNRdVpvaWot?oc=5",
-     "date": "2026-11-08",
-     "source": "The Economic Times",
+     "title": "SEBI Allows Mutual Funds to Net Cash Market Settlements from April 2027, Boosting Efficiency",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUVVjOHlUc1huVlFVTU1kWVJoclA3OXluSG0tV3NnaTlYZ1FTNkRUdVNCT0RPVFV5eHhzVjB0UmtMSW1Ha2kxZ0h3aU1fczRBcllKQ1R0SXJYT1FHUHVFZzY2QWNCRUM5bVpWTHVzT2ZWbnYzcmh4MDFFelA3dWxRNW5qeWlHTlo4WG8ybXc0OWpwSm1uV0lfWm5NcDdMeVl5T1FxVHRlSTVhQXhERnYtNmtEcXlHT3pFOTZsX3RBeG5GSXQwUkVKeDNQZVNmZEk3NTM3Z9IB2gFBVV95cUxQTFVfdEZrc0lUOVpIdFNITDdLcEVuVmNkMzNVWVJWOXdncEczN2RnaHhtWnJqZndBZ1V5NFozX216SDZoT1dReGNfVDh5Z3UtOS1HNFlaWlp0TEZCeXpwTVJTNFlvTVlEMUEtSjZra0RhRjY5bjE3dGRVSUtRYXVIQjJtXzBkMGd2ZHcwRktDcUZrcFB4VDhfN0RqS1JfUnB6Q09ET2FnZFZvLVl1V0Rxb2hkZ0RaRW0tcTVGQWRoX1d1amlSd0tFdnpXRl9zMkFZeVJUcWR4NXhMdw?oc=5",
+     "date": "2026-11-05",
+     "source": "Lokmat Times",
      "label": "Mutual Funds",
-     "snippet": "SEBI has directed mutual fund houses to make direct plans the default option on their digital platforms from 1 November. Here is what changes for investors and whether they should switch, as reported by ET Bureau. New rule",
-     "lead": "From 1 November, SEBI has directed mutual fund houses to make direct plans the default option on their websites and mobile apps. This means that when an investor visits a fund house's platform to invest in an equity scheme, the direct plan will be pre-selected or displayed as the primary option. However, investors can still opt for regular plans if they prefer investing through a distributor and need assistance with their investments. ...",
-     "image": "https://img.etimg.com/thumb/msid-135655048,width-1200,height-900,overlay-etwealthmutualfunds/slideshow.jpg",
+     "snippet": "SEBI Allows Mutual Funds to Net Cash Market Settlements from April 2027, Boosting Efficiency - New Delhi: The Securities and Exchange Board of India (SEBI) has announced a significant change for mutual funds, allowing ... Get Latest News on Business only on lokmattimes.com",
+     "lead": "By ANI | Updated: November 5, 2026 21:00 IST 2026-11-06T02:29:40+5:30 2026-11-05T21:00:44+5:30 New Delhi: The Securities and Exchange Board of India (SEBI) has announced a significant change for mutual funds, allowing them to net fund obligations from outright purchase and sale transactions in the cash market starting April 1, 2027. This new framework aims to reduce temporary funding needs and make settlements more efficient for ...",
+     "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20261105151615_202611.jpg",
      "why": [
       "Regulator: SEBI or RBI",
-      "Also covered by 1 other outlet(s)"
+      "Also covered by 3 other outlet(s)"
      ],
      "tags": [
       "Mutual Funds"
@@ -438,23 +434,25 @@
  },
  "items": [
   {
-   "desk": "Advisory",
-   "score": 10,
+   "desk": "Startups",
+   "score": 13,
    "priority": 100,
-   "title": "RBI Monetary Policy 2026: Repo Rate, CRR, SLR and Important Terms",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GTnJnTWctT3U1NTdNYXVPMkIzdXJwb1I4M0RQWHdrM2dwRDFNWk5MU0E3bWhMdVFLb2pDQVJmQnZ4eDJPX2JsTnJyUFlkaXdKX3I2NTVmMk4teFRoWVZXRUh4RQ?oc=5",
-   "date": "2026-11-08",
-   "source": "Bankersadda",
-   "label": "Regulatory",
-   "snippet": "",
-   "lead": "",
-   "image": null,
+   "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+   "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+   "date": "2026-11-10",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+   "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Nominal, a four-year-old, Austin-based startup that offers an AI platform purpose-built for engineering and testing complex hardware, like aircraft, nuclear reactors, and smart factories, has raised another big round of financing that triples its valuation. On Monday, it announced a $240 million Series C at a $3 billion valuation ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/09/Cameron-McCord.jpg?resize=1200,1200",
    "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision"
+    "Funding",
+    "Very large figure in headline (about $3,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Regulatory"
+    "Funding",
+    "AI & Deeptech"
    ],
    "rank": 1,
    "must_read": true
@@ -463,47 +461,24 @@
    "desk": "Immigration",
    "score": 11,
    "priority": 100,
-   "title": "Canada announces immigration plan for 2027–2029, adds 2 lakh permanent residence spaces | World News",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOakNXNFpqbjV4eGRYam9BNEhxLXNoMzNzbFJsUlY1a3ZWNG9ZcHpfSjJiYmVnc0lGRVF1Z0xINk44bmhFajFYSVZCcjhRZGdaZTV0bGZnaTVCNUxvYjVDVDBCQzl2dlY2LVlRanpaN0tVU1psTHhrdzNrekRXOVFUUllXYzVWUTE5emVKZjJ2cm5JWjBub0ZYOTZfMXpyb015UzNQNmhPSFhtcUNuU0xhS0tQcEFUOHNNOGEzd3hTRHpqdWxrVXF5LTBiYVdJMEtOSm1qakxEVEtkaU9tZmE5T1Frb9IB6AFBVV95cUxNWkNKLUVCQ0tBVENZdjRMTE13VEhldW9TSUtoZXRKWVpYVW93UGhkOWtMWjhLQ3F2LUhOUlQwZDNzeUNHVHlXeXB6bEc2RlU1eXRpTkI3MVZ2TVp6ZEw4Ukt0d25DMlZfaGg4NXdYRExzVWh0bGxGRnQtVUhXdnBEb3RSOHpXMDBPQ3hGYl9lY1Rjb0gyUnBXV3JtbTVRRjlJYUZhalZlUjZOU2gyMldDVGl4Z3F1VV9VY0VzOHdqekp5SjByTjVsZE9OaTRsT0N6THVXbG1zTEN5RmNpZ3J6bXNMQzk5VnlP?oc=5",
-   "date": "2026-11-07",
-   "source": "Hindustan Times",
+   "title": "Canada creates a permanent immigration pathway to help rural communities attract and retain talent",
+   "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/11/canada-creates-a-permanent-immigration-pathway-to-help-rural-communities-attract-and-retain-talent0.html",
+   "date": "2026-11-09",
+   "source": "IRCC (Government of Canada)",
    "label": "Canada",
-   "snippet": "Canada will admit 380,000 permanent residents and 370,000 new temporary residents annually through 2029.&nbsp;  | World News",
-   "lead": "Canada has maintained its annual immigration targets for permanent and temporary residents through 2029 while announcing up to 200,000 additional permanent residence admissions in 2027 for eligible people already living in the country. The federal government, on November 6, 2026 unveiled the 2027–2029 Immigration Levels Plan as part of its budget, retaining the overall admission targets set out in last year's plan while revising ...",
+   "snippet": "",
+   "lead": "",
    "image": null,
    "why": [
-    "Affects permanent residence",
-    "Announces a change",
-    "Major story (14 headlines that day)"
+    "Affects work visas",
+    "Official government notice",
+    "Major story (8 headlines that day)"
    ],
    "tags": [
-    "PR / Settlement",
+    "Work visa",
     "Canada"
    ],
    "rank": 2,
-   "must_read": true
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 100,
-   "title": "SEBI Relaxes Accredited Investor Norms for AIF, SIF and PMS; Introduces Rs 5 Crore and Rs 20 Crore Securities Exposure Criteria",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRW1rVTYwNXBzWkJKU2pPRmpGNFlOUEgzeEFNODNqWDJGTjI3cjR2akFXSU8xcTRpRVlxMEtNT3VUNC1ma3JkSmJnUHBMSEVqWGFLMjVqWjhKRzlWclBpcGpIdGlmU3BfRlFJZUdrYi01Qk9jMkNLNVdEUm9kQlE5TmVKRUhHRXBGamJqOHBESUZuTm1wZ3JZWnp0SzlxZXBKZzZTWktxVUNNcXdVNnZod0pTR2N2QVMxQTBJOGZWZWF3STMydEgzbnFwMUUxbG5SN1Z1NUM2VGN4UGJQc0pUUVhObkM4eGQzU0pEbzZHRnA2VFl1QUc3WWgtOEZHM3k0V1pwYw?oc=5",
-   "date": "2026-11-07",
-   "source": "Dalal Street Investment Journal",
-   "label": "PMS",
-   "snippet": "SEBI eases investor accreditation for AIFs, SIFs, and PMS, allowing managers to assess eligibility directly, simplifying the process and reducing delays.",
-   "lead": "The Securities and Exchange Board of India (SEBI) has relaxed the Accredited Investor framework to simplify eligibility verification for investors seeking to invest in Alternative Investment Funds (AIFs), Specialised Investment Funds (SIFs) and Portfolio Management Services (PMS). Announced on November 5, 2026, the revised framework allows investment managers to directly assess an investor's accreditation status, reducing dependence on ...",
-   "image": "https://site.dsij.in/Portals/0/EasyDNNNews/60354/SEBI1.jpg",
-   "why": [
-    "PMS news",
-    "Regulator: SEBI or RBI",
-    "Rule or framework change"
-   ],
-   "tags": [
-    "PMS"
-   ],
-   "rank": 3,
    "must_read": true
   },
   {
@@ -526,7 +501,7 @@
    "tags": [
     "Budget & Fiscal"
    ],
-   "rank": 4,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -549,32 +524,8 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 5,
+   "rank": 4,
    "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 100,
-   "title": "Razorpay gets Sebi nod for Rs 5,000-6,000 Cr IPO; eyes $5B valuation",
-   "url": "https://yourstory.com/2026/11/razorpay-gets-sebi-nod-for-rs-5000-6000-cr-ipo-eyes-5b-valuation",
-   "date": "2026-11-04",
-   "source": "YourStory",
-   "label": "India · Policy & Regulation",
-   "snippet": "The development comes after Razorpay submitted its draft IPO papers with Sebi through the confidential route in June, initiating the process to tap the public markets.",
-   "lead": "Razorpay gets Sebi nod for Rs 5,000-6,000 Cr IPO; eyes $5B valuation The development comes after Razorpay submitted its draft IPO papers with Sebi through the confidential route in June, initiating the process to tap the public markets. Press Trust of India 11260 Stories Wednesday November 04, 2026 , 2 min Read Fintech firm Razorpay has secured approval from markets regulator Sebi for its proposed initial public offering (IPO) of Rs ...",
-   "image": "https://images.yourstory.com/cs/286/d99b1110116911ed9e63f54395117598/RazorpayCEO1600x900-1787059930676.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $5,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Policy & Regulation"
-   ],
-   "rank": 6,
-   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -596,104 +547,78 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 7,
-   "must_read": false
+   "rank": 5,
+   "must_read": true
   },
   {
    "desk": "Advisory",
    "score": 10,
    "priority": 100,
-   "title": "SEBI Cuts Cooling-Off Period For Illiquid Private Listed InvIT OFS To Eight Weeks, New Rules Effective",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTUR4ekxwcExfdy1NOWNGQ3VzbFpRclBXY2VFcjQ2UGhuSlpOeFVxYVRzdWVVbjB0YmxoMW9aV1ZidTdkV3JiajQwOS1ER2Q2N3lKbTh0UmJnUjVnNmw1STVGaU5IemwzTXBHZnZjVWl0elJ1U0NxUzgzQXozZFZ1NGVnNnBmQmRXSzFIQXdXSmtQSnR3WDQxVWNjajNzS244LTBQV1hVWENUQk9EbUVpNjU2bmx6UmFTYzBiQkE3TXd3Y2U4cERHY1NPLTVqbWtrUzFPbU9zbF9jOGFXYTdlNWx4NV9NYlhhTnfSAe8BQVVfeXFMTzVmaTVrVS1aTXh6WU5teFpGQnFrVGlhTmVUV2QxR1RDdjVmMEFtcTNYUS02MFdHQ0tEcG85eVpOY0kzcHNhUEd3SE1kWnFVYmJpWXZXbnNZMmU2bkFIWUU4bmlFenZlSDVseXJHdWFWUGJiZDRVdkFUblBqMmZlVW56Y080Y3BKOTNWTGh6SDN6ckE0bEQzeHNUX0pQUWxyUHFjUkwtVlpwV19tdVFEVDZ5TjJfdm1UTTFtOXBlQWFWSHRyTXprTU5Da2ZoTWx4RnFYZDFNMjhNR25hVjdYbTZGbDA1algyVDBqODgzREU?oc=5",
-   "date": "2026-11-02",
-   "source": "Free Press Journal",
-   "label": "REITs & InvITs",
-   "snippet": "SEBI has reduced the cooling-off period for offer-for-sale transactions involving illiquid private listed InvIT units to eight weeks, effective November 2. The regulator said the change aims to ease business operations. Such offers will last one trading day, with retail investor provisions excluded. Stock exchanges must update their syste",
-   "lead": "New Delhi [India], November 2: The Securities and Exchange Board of India (SEBI) has reduced the cooling-off period for offer for sale (OFS) of units of illiquid private listed Infrastructure Investment Trusts (InvITs) to eight weeks, with the revised provision coming into immediate effect. The move is aimed at facilitating ease of doing business and follows feedback received from market participants, according to a circular issued by ...",
-   "image": "https://media.assettype.com/freepressjournal/2025-02-11/lfbn0fz3/SEBI;ll.jpeg",
+   "title": "RBI launches the November 2026 round of Urban Consumer Confidence Survey",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63908",
+   "date": "2026-11-03",
+   "source": "RBI",
+   "label": "Regulatory",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "The Reserve Bank of India has been regularly conducting Urban Consumer Confidence Survey (UCCS). The November 2026 round of the survey is being launched. The survey seeks qualitative responses from households, regarding their sentiments on general economic situation, employment scenario, price level, households’ income and spending. The survey is conducted regularly in 19 cities, viz., Ahmedabad, Bengaluru, Bhopal, Bhubaneswar, ...",
+   "image": null,
    "why": [
-    "REIT / InvIT news",
     "Regulator: SEBI or RBI",
-    "Rule or framework change",
-    "Also covered by 2 other outlet(s)"
+    "New product or fund",
+    "Official notice",
+    "Also covered by 1 other outlet(s)"
    ],
    "tags": [
-    "REITs & InvITs"
+    "Regulatory"
    ],
-   "rank": 8,
+   "rank": 6,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 11,
+   "score": 12,
    "priority": 92,
-   "title": "Indian startups with over $500M valuation grow to 51 despite low number of AI entities: Report",
-   "url": "https://yourstory.com/2026/11/indian-startups-over-500m-valuation-grow-51-despite-low-number-ai-entities-report",
+   "title": "Razorpay gets Sebi nod for Rs 5,000-6,000 Cr IPO; eyes $5B valuation",
+   "url": "https://yourstory.com/2026/11/razorpay-gets-sebi-nod-for-rs-5000-6000-cr-ipo-eyes-5b-valuation",
    "date": "2026-11-04",
    "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "The combined value of these 51 entities is about Rs 3.3 lakh crore ($34.1 billion), with an average valuation of about Rs 6,400 crore, and they employ over 60,000 people.",
-   "lead": "Indian startups with over $500M valuation grow to 51 despite low number of AI entities: Report The combined value of these 51 entities is about Rs 3.3 lakh crore ($34.1 billion), with an average valuation of about Rs 6,400 crore, and they employ over 60,000 people. Press Trust of India 11260 Stories Wednesday November 04, 2026 , 3 min Read Indian startups with a valuation of over $500 million have increased to 51 in 2026, from 47 in ...",
-   "image": "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/Imagespzl-1680421400903.jpg",
+   "label": "India · Policy & Regulation",
+   "snippet": "The development comes after Razorpay submitted its draft IPO papers with Sebi through the confidential route in June, initiating the process to tap the public markets.",
+   "lead": "Razorpay gets Sebi nod for Rs 5,000-6,000 Cr IPO; eyes $5B valuation The development comes after Razorpay submitted its draft IPO papers with Sebi through the confidential route in June, initiating the process to tap the public markets. Press Trust of India 11260 Stories Wednesday November 04, 2026 , 2 min Read Fintech firm Razorpay has secured approval from markets regulator Sebi for its proposed initial public offering (IPO) of Rs ...",
+   "image": "https://images.yourstory.com/cs/286/d99b1110116911ed9e63f54395117598/RazorpayCEO1600x900-1787059930676.jpg",
    "why": [
-    "Funding",
-    "Very large figure in headline (about $500M: round or valuation)",
+    "IPO & Listing",
+    "Very large figure in headline (about $5,000M: round or valuation)",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Funding",
-    "AI & Deeptech"
+    "IPO & Listing",
+    "Policy & Regulation"
    ],
-   "rank": 9,
+   "rank": 7,
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "India's next space unicorn may still be in college",
-   "url": "https://yourstory.com/2026/10/indias-next-space-unicorn-may-still-be-in-college",
-   "date": "2026-11-03",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "India already has its first space-tech unicorn. Skyroot Aerospace crossed the $1 billion valuation mark in May 2026 and, two months later, its Vikram-1 became the first privately developed Indian rocket to reach orbit. Those milestones confirm that India's private space ecosystem has moved well bey",
-   "lead": "India's next space unicorn may still be in college India's spacetech economy will be built in layers and will require investment across infrastructure, software, manufacturing, robotics and more. Richa Bajpai 1 Stories Tuesday November 03, 2026 , 7 min Read India already has its first space-tech unicorn. Skyroot Aerospace crossed the $1 billion valuation mark in May 2026 and, two months later, its Vikram-1 became the first privately ...",
-   "image": "https://images.yourstory.com/cs/2/94a03c40169611f0b4b0c5b62b4900c2/SpaceTecharticle-article1-1786357382704.jpg",
+   "desk": "Advisory",
+   "score": 9,
+   "priority": 90,
+   "title": "SEBI Relaxes Accredited Investor Norms for AIF, SIF and PMS; Introduces Rs 5 Crore and Rs 20 Crore Securities Exposure Criteria",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRW1rVTYwNXBzWkJKU2pPRmpGNFlOUEgzeEFNODNqWDJGTjI3cjR2akFXSU8xcTRpRVlxMEtNT3VUNC1ma3JkSmJnUHBMSEVqWGFLMjVqWjhKRzlWclBpcGpIdGlmU3BfRlFJZUdrYi01Qk9jMkNLNVdEUm9kQlE5TmVKRUhHRXBGamJqOHBESUZuTm1wZ3JZWnp0SzlxZXBKZzZTWktxVUNNcXdVNnZod0pTR2N2QVMxQTBJOGZWZWF3STMydEgzbnFwMUUxbG5SN1Z1NUM2VGN4UGJQc0pUUVhObkM4eGQzU0pEbzZHRnA2VFl1QUc3WWgtOEZHM3k0V1pwYw?oc=5",
+   "date": "2026-11-07",
+   "source": "Dalal Street Investment Journal",
+   "label": "PMS",
+   "snippet": "SEBI eases investor accreditation for AIFs, SIFs, and PMS, allowing managers to assess eligibility directly, simplifying the process and reducing delays.",
+   "lead": "The Securities and Exchange Board of India (SEBI) has relaxed the Accredited Investor framework to simplify eligibility verification for investors seeking to invest in Alternative Investment Funds (AIFs), Specialised Investment Funds (SIFs) and Portfolio Management Services (PMS). Announced on November 5, 2026, the revised framework allows investment managers to directly assess an investor's accreditation status, reducing dependence on ...",
+   "image": "https://site.dsij.in/Portals/0/EasyDNNNews/60354/SEBI1.jpg",
    "why": [
-    "Funding",
-    "Very large figure in headline (about $1,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
+    "PMS news",
+    "Regulator: SEBI or RBI",
+    "Rule or framework change"
    ],
    "tags": [
-    "Funding",
-    "AI & Deeptech"
+    "PMS"
    ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 91,
-   "title": "UK visa rules are changing in 2027; Indian students and job seekers could see major changes to their stay, salary and work options",
-   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPWFNwTzl0c08xZkFiaTg4OEgzU04yVV95WHhzZm5ocjg5cVcxLVdvY1d1YmoycTZvUGJIdUc1QmpRU3NXQ0NzaGd0SVoxZEdZNVExYm9XY05TUXBPOVFTZGNHbmdBSmRIdXc1eUtSQlRpYnlnMHFHS2VfR0x5QWR2QThPdktBeVZGYWVqWm5xQU1pVEdERnJSZFEwS2VWTnpfSUxDT0Jkc1hmaXNWWi1odGRSX2tsa1lKZXg4MWJPT1RkODZVdjhqN2xWTlpoa1Z4TEJuY1NfZjExRnZ0T29raldzZ0w2NE1MTEwzVWlxZ2twaWtxS2puSVRKZnh4R295NHotbXo5aXRmZUk0T3BzczZRSHVweUo5V1HSAZ8CQVVfeXFMTUc5RWRiQ0ZwNzVRRkxKb01qaGpGbDlKcmdBZ2x4eEx0djAwZmh0UzhlTk5ick1icEhsaGUyRnJzRDFkc2RfSl9FNWZvV2J4NDNDZ0F5bllrejRHb1RTdWU4WmVJbF8xQ0wxYWNGc1NwTHpJY3FBWGVwcjJKTHYzbWxaX01LZ3BlZ1EzLVlNNHBmUk8xcnBmakItVnZka3ZvbkdGUzhhWmFfQm9WaldDYkdQdmlvS01uY0lnZUtnT1l6amxpdjA4aFQyMnJRNUYxSC1XQlhMai1MYjRaUkYtNkYxeGx5R0laNUVnTnlCa2hUdThpTmMtUUZCbGFRVkhWZmZETlFRNTg2RFhtRkR5Mm54eFBIZmdhWEZwOUVZNlU?oc=5",
-   "date": "2026-11-02",
-   "source": "Business Today",
-   "label": "United Kingdom",
-   "snippet": "The UK plans to expand its High Potential Individual visa to graduates with eligible qualifications from the world's top 150 universities.",
-   "lead": "Business Today Desk Updated Nov 2, 2026 12:21 PM IST This comes as the general Graduate visa duration is set to fall to 18 months for applications submitted from January 1, 2027. The UK government has announced a series of immigration changes for 2027 that could affect Indian professionals and international students planning to work or study in the country. The proposed changes include revised salary requirements for Skilled Worker ...",
-   "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202611/6ae832e38f1b5-this-comes-as-the-general-graduate-visa-duration-is-set-to-fall-to-18-months-for-applications-submit-025114232-16x9.jpg",
-   "why": [
-    "Salary threshold change",
-    "Announces a change",
-    "Major story (19 headlines that day)",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Salary threshold",
-    "United Kingdom"
-   ],
-   "rank": 11,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -716,7 +641,30 @@
    "tags": [
     "AIF"
    ],
-   "rank": 12,
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 9,
+   "priority": 90,
+   "title": "SEBI issues framework allowing AIF, SIF managers and portfolio managers to certify accredited investor...",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRldoSk5YcFpoSWtYdGNCSGZrOTJ0cHRqcVgwd1R2THVNQ2pBZ0lSZkhXSk1xcl93aTFjcXJ4cDFKajFLZFJsRVEydzI1V3FGeDNobW1MSmNVbUJKbDRQNVpLUjZ0SVBRbENEMEhYdEVKSWVVYXhyTkVhUi1pbXFlZ2lMcTl4dlRxU2ZhZTVkS0M3aWFQdWJLcW1UZXAtM2p5ZEo2YjctaXlrVFkwa2s2VW9kN2taUlByVWF5cEctX0Q2RTlJSUhEUjB3ZWkycXFIaTNfcUZQS2F3M3M5UlF5bjNhSHVETGVqQnc3TWQxYi1kT0lOMFlTSDZOZ2lFc0lRSGt30gGIAkFVX3lxTFB6SFRaRHc3c043MHJaci1UeGxoQmhOdVJRYUduOGl4eTlIV0RXdEwwZDQ0bFdXUENJZlE2RkJTTHkwSG5TR1FkZUFqRnh3blpaQmx2aUh1bGc1ZHBCZHNPd0lIR2ZWbnpWMHR5dHZGQllhdXJyZkJVTFlCZ2R5bUhldVl1clgwc3EwbWNtcFJaRzhuYmtEV1FBLWNMb3EyRUp6UVhyNk5MVkVIenRNOGpXSHlZc0hJTERJWDctekcwa0RybFo4Ry1zR082aS1RMnltOFRqMlIwMXNkSllHU2lRbHZuSXNJM0M5UkpWVXp6R1Eza05NSnNTMWI0aUd1WElrdHFiVHpVbg?oc=5",
+   "date": "2026-11-05",
+   "source": "Moneycontrol.com",
+   "label": "PMS",
+   "snippet": "New framework introduces manager-led accreditation as an additional route, provides three-year validity and expands the securities eligible for meeting the minimum exposure threshold",
+   "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
+   "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260924130823_sebi3.jpg",
+   "why": [
+    "PMS news",
+    "Regulator: SEBI or RBI",
+    "Rule or framework change"
+   ],
+   "tags": [
+    "PMS"
+   ],
+   "rank": 10,
    "must_read": false
   },
   {
@@ -738,7 +686,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 13,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -760,7 +708,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 14,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -782,13 +730,84 @@
    "tags": [
     "Budget & Fiscal"
    ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "Indian startups with over $500M valuation grow to 51 despite low number of AI entities: Report",
+   "url": "https://yourstory.com/2026/11/indian-startups-over-500m-valuation-grow-51-despite-low-number-ai-entities-report",
+   "date": "2026-11-04",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "The combined value of these 51 entities is about Rs 3.3 lakh crore ($34.1 billion), with an average valuation of about Rs 6,400 crore, and they employ over 60,000 people.",
+   "lead": "Indian startups with over $500M valuation grow to 51 despite low number of AI entities: Report The combined value of these 51 entities is about Rs 3.3 lakh crore ($34.1 billion), with an average valuation of about Rs 6,400 crore, and they employ over 60,000 people. Press Trust of India 11260 Stories Wednesday November 04, 2026 , 3 min Read Indian startups with a valuation of over $500 million have increased to 51 in 2026, from 47 in ...",
+   "image": "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/Imagespzl-1680421400903.jpg",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $500M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "India's next space unicorn may still be in college",
+   "url": "https://yourstory.com/2026/10/indias-next-space-unicorn-may-still-be-in-college",
+   "date": "2026-11-03",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "India already has its first space-tech unicorn. Skyroot Aerospace crossed the $1 billion valuation mark in May 2026 and, two months later, its Vikram-1 became the first privately developed Indian rocket to reach orbit. Those milestones confirm that India's private space ecosystem has moved well bey",
+   "lead": "India's next space unicorn may still be in college India's spacetech economy will be built in layers and will require investment across infrastructure, software, manufacturing, robotics and more. Richa Bajpai 1 Stories Tuesday November 03, 2026 , 7 min Read India already has its first space-tech unicorn. Skyroot Aerospace crossed the $1 billion valuation mark in May 2026 and, two months later, its Vikram-1 became the first privately ...",
+   "image": "https://images.yourstory.com/cs/2/94a03c40169611f0b4b0c5b62b4900c2/SpaceTecharticle-article1-1786357382704.jpg",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $1,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
    "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 82,
+   "title": "UK lists categories of migrants who can secure permanent residence after 5 years",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNVNST1pFSm5pQ2t4QXdHMmdGMTBFOXh1eEJoNExkVkdtZHV1RG5YanEwVHpYNkRTZ0w4RDRKM2FzQUx0WUVXT0xyY0w0ODA3NFlWVDcySmNWbFdnM1lJSG9TUGtGYlZvOFl1MTF5OWVlSmFkaWpzTzlzSHRFblVDaWl1UW5vc2NEblBsNURQdnlpTXlJQ184NkZYT0pUUmFNTC1aU01GdTJaY2dNOWUzY1RmYkFXZVNn0gG-AUFVX3lxTE9aLUYwSkxGTHNIWXJKaWRVREk2Ymdnd2VGSkx5TldTclZaMmFYYzJYOVpiYmZwNmNtWl9MS08zU2NDRmMxd1dkXzJTdU9VY1VsRWtEeEhZR3ZpeERVMUVPMkRrOFhJLU5rR3BCRjZQNEtxbjQxNlBjSlV6V3diVWdDRl9VaVEyZVFMMFZYek8wS1E4UnZiVEdnT18zdlIzMVRVX29fSkVPTllsWTE4ZmhrMkUtdGJOdVRlbWdWSUE?oc=5",
+   "date": "2026-11-09",
+   "source": "Vanguard News",
+   "label": "United Kingdom",
+   "snippet": "The UK government has outlined categories of foreign nationals who will remain eligible to obtain permanent residence after five years",
+   "lead": "",
+   "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/09/UKJ.jpeg",
+   "why": [
+    "Affects permanent residence",
+    "Major story (9 headlines that day)"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "United Kingdom"
+   ],
+   "rank": 16,
    "must_read": false
   },
   {
    "desk": "Startups",
    "score": 10,
-   "priority": 83,
+   "priority": 77,
    "title": "MDR And AI: Inside The Two Acronyms That Could Shape Razorpay’s ₹6,000 Cr IPO",
    "url": "https://inc42.com/features/mdr-and-ai-inside-the-two-acronyms-that-could-shape-razorpays-%e2%82%b96000-cr-ipo/",
    "date": "2026-11-06",
@@ -805,13 +824,13 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
    "desk": "Startups",
    "score": 10,
-   "priority": 83,
+   "priority": 77,
    "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
    "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
    "date": "2026-11-05",
@@ -828,30 +847,6 @@
    "tags": [
     "Funding",
     "AI & Deeptech"
-   ],
-   "rank": 17,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Revolut completes funding round at $115 billion valuation",
-   "url": "https://economictimes.indiatimes.com/tech/technology/revolut-completes-funding-round-at-115-billion-valuation/articleshow/135543134.cms",
-   "date": "2026-11-04",
-   "source": "ET Startups",
-   "label": "Global · Fintech",
-   "snippet": "The transaction, which Revolut said was led by Glade Brook Capital Partners, Coatue, Durable Capital Partners, T. Rowe Price Associates and Baillie Gifford, means private market investors value the 11-year-old business more highly than many publicly listed banks.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1277395,resizemode-75,msid-135543134/tech/technology/revolut-completes-funding-round-at-115-billion-valuation.jpg",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $115,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "Fintech"
    ],
    "rank": 18,
    "must_read": false
@@ -880,53 +875,6 @@
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 8,
-   "priority": 73,
-   "title": "Australia Student Visa Rules Could Change: Indians May Have To Deposit Funds In Local Banks",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTHB3dzBPdXlSWjU1ZHl3VmF0YXFqMVRKMTRtUkFpbnhkbEtMLTF4U2lfYUxfN3Uza3psa1Q3a3p1NnVpVlVaMkNKUWo2SHpIVWJtc2ZFcVgtRWpZbDBoLTNGR3lpRElPS1ltZ01rSHFHNWg5MTFSM1V5ejhTeXh3Z1hYbVpHOVZVWUhtcmVnaTNvVnotVU9TMnBHY19CSGM1NHJqWFFmcnN4THdPckRJUElTVVpKYzhOTVktNkN0UFcxQ1pUQ3c2ZzVxN1J5NElHQmfSAdoBQVVfeXFMTzFpWHVZMW03dzRxak54cms4TVlNMmFHSEluYXZYODVQVk54aktWby1ZTkhGekxoMEtLWFpBSHNjdlFtTkFVMGVDZGlfcDNkd1QtOFozQUdQeGJqTGZCNDhpeENWUXc5VV9iejN2SU9kbEdYc214UHlkVnNwTllGMkEzakh3cVF2ZXhJZDNXWFlQcUxSdXFoNWo1a2FOZmFEM1RyTDNKQ2ZiTmRrSGhWWjFjSzJZRXJHcUl3cFp1WGdkMUotVS1CQWprMTBnOVhScE9tQVp0WUx4bXc?oc=5",
-   "date": "2026-11-02",
-   "source": "NDTV Profit",
-   "label": "Australia",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Announces a change",
-    "Major story (12 headlines that day)",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Student / Graduate",
-    "Australia"
-   ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 64,
-   "title": "Luxembourg raises work permit salary requirements for foreign workers in 2027",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdFljUlQ2S0lpSDZ4SzMycEp5UmhhNFh0bDBwdkNNc0djT1VYU19KQU5sTDRfOWlhY3hqMkpROGFud2ZxTS10eVpHZS0wS1dRZnZWTEF4eGhkb1U5UDIwRGI5TUw2bV9HajJoeEdnUkVzcXFsZ29rNVFYUUFfem1KT0pDTTNBNzRQY0ctdm9pVVZ5MndOcmc1OHQ1TkdvM2ZmNUhEYk5vSzJvblo4c0xPR1N2dGo?oc=5",
-   "date": "2026-11-08",
-   "source": "Nairametrics",
-   "label": "Luxembourg",
-   "snippet": "Luxembourg has announced an increase in the minimum salary requirements for foreign workers applying for employment permits, with new..",
-   "lead": "",
-   "image": "https://cdn.nairametrics.com/wp-content/uploads/2023/01/luxembourg_rea_205756_014.jpg",
-   "why": [
-    "Salary threshold change",
-    "Announces a change"
-   ],
-   "tags": [
-    "Salary threshold",
-    "Luxembourg"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
    "desk": "Policy",
    "score": 8,
    "priority": 62,
@@ -945,6 +893,51 @@
    "tags": [
     "Technology & Telecom"
    ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 6,
+   "priority": 55,
+   "title": "“Faster routes”: Finland lists 3 ways foreigners can obtain permanent residence",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcmxCbXRMZTZRU3ozYk1nc3l5Nm1mSTlTbUduMDQ5YXZ5OVpMbWVkTG0ySXp2dG01c2FvY0FWUzhWMDdzS1V4M0dRdUd6cDAyYkk5Zmp4SWpqV1dvcHo1Vm9zaF9vYTh1ZzF0NW9YbzlXclVuVU83X1lEWF9od2tWMHFscDZCY0gxeDR3RTQyYlV0NVFOUGdoSXRLYWZJU2pNUkdzUlJHUG5jM0xITVlSS0Vva3VMYmc?oc=5",
+   "date": "2026-11-09",
+   "source": "Tuko News",
+   "label": "Finland",
+   "snippet": "Finland offers three faster routes to permanent residence, including a two-year option; applicants must meet language, income and conduct requirements, too.",
+   "lead": "Finland has opened up three accelerated routes through which foreign nationals can obtain permanent residence, with each pathway tailored to a different applicant profile and carrying its own qualifying period. Finland outlines 3 faster paths to permanent residence. Photo: SOPA Images. Source: Getty Images The Finnish government laid out the pathways, which vary in eligibility requirements and timelines depending on an individual's ...",
+   "image": "https://cdn.tuko.co.ke/images/1200x675/bb3d62796a1c9772.jpeg?v=1",
+   "why": [
+    "Affects permanent residence"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Finland"
+   ],
+   "rank": 21,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 6,
+   "priority": 55,
+   "title": "Luxembourg raises work permit salary requirements for foreign workers in 2027",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdFljUlQ2S0lpSDZ4SzMycEp5UmhhNFh0bDBwdkNNc0djT1VYU19KQU5sTDRfOWlhY3hqMkpROGFud2ZxTS10eVpHZS0wS1dRZnZWTEF4eGhkb1U5UDIwRGI5TUw2bV9HajJoeEdnUkVzcXFsZ29rNVFYUUFfem1KT0pDTTNBNzRQY0ctdm9pVVZ5MndOcmc1OHQ1TkdvM2ZmNUhEYk5vSzJvblo4c0xPR1N2dGo?oc=5",
+   "date": "2026-11-08",
+   "source": "Nairametrics",
+   "label": "Luxembourg",
+   "snippet": "Luxembourg has announced an increase in the minimum salary requirements for foreign workers applying for employment permits, with new..",
+   "lead": "",
+   "image": "https://cdn.nairametrics.com/wp-content/uploads/2023/01/luxembourg_rea_205756_014.jpg",
+   "why": [
+    "Salary threshold change",
+    "Announces a change"
+   ],
+   "tags": [
+    "Salary threshold",
+    "Luxembourg"
+   ],
    "rank": 22,
    "must_read": false
   },
@@ -952,21 +945,21 @@
    "desk": "Immigration",
    "score": 6,
    "priority": 55,
-   "title": "Finland Plans Major Changes to Work Permits for Foreign Workers",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMnktblJhcnhZb05GRDR5bGJWRmpyUGtFZVBaNTYtdHR4OTR5TkEtUEZJc2Y2ZXBGOTk0TjEyWEZlUkxKTUJDVVktZi1LR1hwWlo1TkU5ekh4YmtTbTRQYUwwNllrU0hiNWtZUWxISHpnSjVPaDRBOFdVTVluUmRwQ001aDhSckZLcmo4eGxLWWtqZzBO?oc=5",
-   "date": "2026-11-07",
-   "source": "Bloom Pakistan",
-   "label": "Finland",
-   "snippet": "Finland has proposed stricter residence permit rules to protect foreign workers from workplace exploitation. The government submitted a bill to Parliament on November 5, 2026, and plans to implement the proposed changes in March 2027. Key Details Details Information Country Finland Bill submission date November 5, 2026 Expected implementa",
-   "lead": "",
-   "image": "https://bloompakistan.com/wp-content/uploads/2024/05/bloompak.png",
+   "title": "“Up to four years”: Spain approves new seasonal work permits for foreigners",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeXRDV2hLU25aeU1uQUtvRjVtZnkxY0pmYmMwaW1PWHhZRW4xTWI4VVdLVWJTSk83R1VYOTgteUpZUTVUY09HTTFqU3dCQUtBSzZ6aWxwd3BmYkNMam54c3JLcW9qS0JXSklrcGJNZEVnWkdOdFhaVUtnbHVsdXlsejNsLXZHNl8xaG9zLWxvMUxZMVcxZWhzNXc1WWtmQzRBeFJmWHctNmE1bldMUkE?oc=5",
+   "date": "2026-11-06",
+   "source": "Tuko News",
+   "label": "Spain",
+   "snippet": "Spain has approved a four-year seasonal work permit for foreign nationals, subject to six conditions. Here are the eligibility requirements applicants must meet.",
+   "lead": "Spain has approved a new framework for recruiting foreign seasonal workers, introducing permits valid for up to four years under its collective hiring and circular migration programmes. Spain opens a four-year seasonal work route for foreigners. Photo credit: Ludovic Marin Source: Getty Images The Ministry of Inclusion, Social Security and Migration published the 2026 Order for the Collective Management of Contracts in Origin (GECCO) ...",
+   "image": "https://cdn.tuko.co.ke/images/1200x675/e5b239986db47757.jpeg?v=1",
    "why": [
     "Affects work visas",
     "Announces a change"
    ],
    "tags": [
     "Work visa",
-    "Finland"
+    "Spain"
    ],
    "rank": 23,
    "must_read": false
