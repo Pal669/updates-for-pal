@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-10",
- "built": "2026-11-10 02:34 IST",
+ "built": "2026-11-10 05:57 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,8 +12,8 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25030.0,
-   "change_pct": 2.01,
+   "value": 25045.0,
+   "change_pct": 0.06,
    "asof": "09 Nov 15:31 IST"
   },
   {
@@ -26,23 +26,23 @@
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 93.92,
-   "change_pct": -0.57,
+   "value": 93.9,
+   "change_pct": -0.59,
    "asof": "10 Nov 01:56 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 92.64,
-   "change_pct": -5.78,
-   "asof": "10 Nov 02:21 IST"
+   "value": 92.34,
+   "change_pct": -6.08,
+   "asof": "10 Nov 05:46 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4148.0,
-   "change_pct": 1.79,
-   "asof": "10 Nov 02:21 IST"
+   "value": 4142.0,
+   "change_pct": 1.64,
+   "asof": "10 Nov 05:46 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -258,25 +258,27 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 4,
+   "new_today": 10,
    "items": [
     {
      "desk": "Immigration",
-     "score": 5,
-     "priority": 45,
-     "title": "APAC Immigration Updates: Australia, India, Japan & More",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYmhTal84N1h0R3M2Skt4YWxURlhYVEhpcDRrd2RxR18yVTFWVVlQQUVQN3Frd0dFYUVnUHdQMGNoTGdsbmdNV0VYYXZYbC16QmU2aHVuOTN5dWhjRmpGRlU2eWY4NFJLajBkeXR5SWlLeHZQM1FvTHFZV3R5emJ2MEVvaklwbndqWVdSbENDWFBqeHJOd1BvcnpGVjNKc2NydFZxaDJqTG1pODY1?oc=5",
-     "date": "2026-11-09",
-     "source": "Clark Hill",
-     "label": "Australia",
-     "snippet": "Explore APAC immigration updates affecting employers and global mobility, including visa and work permit changes across Australia, India, Japan, New Zealand, and Vietnam.",
-     "lead": "Clark Hill’s Outbound Immigration & Global Mobility practice guides corporate clients and individuals through complex global immigration challenges worldwide. We pride ourselves on creative, compliant, and people-centered solutions – looking at global mobility from a holistic perspective in an ever-changing immigration environment. Our team assists with short-term assignments, long-term relocations, consular processing, document ...",
-     "image": "https://media.clarkhill.com/wp-content/uploads/2020/10/05134526/ClarkHillSocial.png",
+     "score": 6,
+     "priority": 55,
+     "title": "“Up to four years”: Spain approves new seasonal work permits for foreigners",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeXRDV2hLU25aeU1uQUtvRjVtZnkxY0pmYmMwaW1PWHhZRW4xTWI4VVdLVWJTSk83R1VYOTgteUpZUTVUY09HTTFqU3dCQUtBSzZ6aWxwd3BmYkNMam54c3JLcW9qS0JXSklrcGJNZEVnWkdOdFhaVUtnbHVsdXlsejNsLXZHNl8xaG9zLWxvMUxZMVcxZWhzNXc1WWtmQzRBeFJmWHctNmE1bldMUkE?oc=5",
+     "date": "2026-11-06",
+     "source": "Tuko News",
+     "label": "Spain",
+     "snippet": "Spain has approved a four-year seasonal work permit for foreign nationals, subject to six conditions. Here are the eligibility requirements applicants must meet.",
+     "lead": "Spain has approved a new framework for recruiting foreign seasonal workers, introducing permits valid for up to four years under its collective hiring and circular migration programmes. Spain opens a four-year seasonal work route for foreigners. Photo credit: Ludovic Marin Source: Getty Images The Ministry of Inclusion, Social Security and Migration published the 2026 Order for the Collective Management of Contracts in Origin (GECCO) ...",
+     "image": "https://cdn.tuko.co.ke/images/1200x675/e5b239986db47757.jpeg?v=1",
      "why": [
-      "Mentions India or Indians"
+      "Affects work visas",
+      "Announces a change"
      ],
      "tags": [
-      "Australia"
+      "Work visa",
+      "Spain"
      ]
     },
     {
@@ -343,34 +345,75 @@
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 0,
+   "new_today": 24,
    "items": [
     {
      "desk": "Advisory",
      "score": 9,
-     "priority": 90,
-     "title": "Indian bond yields log strongest rally since April; 10-year yield closes at 7.19% on softer crude, US...",
-     "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPU1hRS0hJV09MX2JEOXdqQmNTTWhDTHhoYVdnazVEaERlOGNBekxwNEdlNzBsMm1TZzI4aWk0NUlHekZOdTRjNlJ0ZU11ZTBrT3FPN2djM0pDWHgwaURkX3RnaEVXa1ZKblB0ZW41RlIzdTNmb00xTlVja2h4Wi0taThhclRWOHJVcHRtQ3NfcDFOSnc5R3VCMGNYUmhjSkl4R0JGR1pDVlV6ZngxZzZQZVhpd3dva2VoVG9KSktlZW8xS2NvWEJOVms4SE9wcUNna0tGNjdtZzgyQndtbGRKMUVzbmxIQ2p1YXRHNzJRWjB3WUxHdHVCZTYxc0tkRjdObkE0MndMY09MN2dMMGlRSEkxVG3SAZoCQVVfeXFMTWFMakF5QnV3cGstc0syX2lDZ3ctS3NVYi1XZ3o3N2gyaHh6X0ZnVDlkMm0xWEFIUXR3UkxOVFd6QVg4dTAtMEpjZDhCOFFhNmVEQTBkLVd4M2tHTHVuVVpEek90aEJYNXBLcWpWRmhhaHBJa3BldjZlVlhYeXNVOWFxNEM0Zl9jQ1BZS2ZHdjUtX0g1eFlxNjFLbFNlTXNkMUVDOUJCeWh0UlhFeVZOMVpEOGp2T0Ztd1VpTHpHMWY5b3AtMWJvWGtFS285LTUtZ1NpMF9LSHBzdm5QUnVpUXpNMDRoWFY0cS1Db29xYmRydEYzZmRuWXVtbm50ZFNWWWs0WE53S0ZjXzBIdDVEM041VFExTGNzQUpn?oc=5",
-     "date": "2026-11-04",
-     "source": "Moneycontrol.com",
-     "label": "Debt & Bonds",
-     "snippet": "Yields have declined sharply over three sessions as falling oil prices and softer global bond yields improved sentiment, but dealers caution that the rally may not sustain amid persistent geopolitical and crude-related uncertainties.",
-     "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
-     "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260825072156_bond-yield.png",
+     "priority": 75,
+     "title": "SEBI Relaxes Accredited Investor Norms for AIF, SIF and PMS; Introduces Rs 5 Crore and Rs 20 Crore Securities Exposure Criteria",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRW1rVTYwNXBzWkJKU2pPRmpGNFlOUEgzeEFNODNqWDJGTjI3cjR2akFXSU8xcTRpRVlxMEtNT3VUNC1ma3JkSmJnUHBMSEVqWGFLMjVqWjhKRzlWclBpcGpIdGlmU3BfRlFJZUdrYi01Qk9jMkNLNVdEUm9kQlE5TmVKRUhHRXBGamJqOHBESUZuTm1wZ3JZWnp0SzlxZXBKZzZTWktxVUNNcXdVNnZod0pTR2N2QVMxQTBJOGZWZWF3STMydEgzbnFwMUUxbG5SN1Z1NUM2VGN4UGJQc0pUUVhObkM4eGQzU0pEbzZHRnA2VFl1QUc3WWgtOEZHM3k0V1pwYw?oc=5",
+     "date": "2026-11-07",
+     "source": "Dalal Street Investment Journal",
+     "label": "PMS",
+     "snippet": "SEBI eases investor accreditation for AIFs, SIFs, and PMS, allowing managers to assess eligibility directly, simplifying the process and reducing delays.",
+     "lead": "The Securities and Exchange Board of India (SEBI) has relaxed the Accredited Investor framework to simplify eligibility verification for investors seeking to invest in Alternative Investment Funds (AIFs), Specialised Investment Funds (SIFs) and Portfolio Management Services (PMS). Announced on November 5, 2026, the revised framework allows investment managers to directly assess an investor's accreditation status, reducing dependence on ...",
+     "image": "https://site.dsij.in/Portals/0/EasyDNNNews/60354/SEBI1.jpg",
      "why": [
-      "Government bond yields",
-      "Global macro driver",
-      "Sharp market move",
-      "New product or fund"
+      "PMS news",
+      "Regulator: SEBI or RBI",
+      "Rule or framework change"
      ],
      "tags": [
-      "Debt & Bonds"
+      "PMS"
      ]
     },
     {
      "desk": "Advisory",
      "score": 9,
-     "priority": 90,
+     "priority": 75,
+     "title": "Comprehensive Regulatory Analysis: SEBI’s Updated Master Circular for Alternative Investment Funds (November 2026 Framework)",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXlmQTNYbkVsVGFUajBweU5ldFd6N0RQelNEblFoaTJtNGtMeGs0YlNycG80ckl0YzBZdUw3WjdPNGFycnA0c3EycDR6ckpvckktNUY4eFlMalQxcUw5RDJmcVJJRUhseEtGLURzSWk5eXNJMjFBanBKWDAwQTN6UHkwX2ZrMUwzZC1DbHJhTU1VamFzSm1FRzFPM21tdVQwNVBaLWhMN25nZGJsbmc?oc=5",
+     "date": "2026-11-06",
+     "source": "TaxCorp AI",
+     "label": "AIF",
+     "snippet": "",
+     "lead": "",
+     "image": null,
+     "why": [
+      "AIF news",
+      "Regulator: SEBI or RBI",
+      "Rule or framework change"
+     ],
+     "tags": [
+      "AIF"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 75,
+     "title": "SEBI issues framework allowing AIF, SIF managers and portfolio managers to certify accredited investor...",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRldoSk5YcFpoSWtYdGNCSGZrOTJ0cHRqcVgwd1R2THVNQ2pBZ0lSZkhXSk1xcl93aTFjcXJ4cDFKajFLZFJsRVEydzI1V3FGeDNobW1MSmNVbUJKbDRQNVpLUjZ0SVBRbENEMEhYdEVKSWVVYXhyTkVhUi1pbXFlZ2lMcTl4dlRxU2ZhZTVkS0M3aWFQdWJLcW1UZXAtM2p5ZEo2YjctaXlrVFkwa2s2VW9kN2taUlByVWF5cEctX0Q2RTlJSUhEUjB3ZWkycXFIaTNfcUZQS2F3M3M5UlF5bjNhSHVETGVqQnc3TWQxYi1kT0lOMFlTSDZOZ2lFc0lRSGt30gGIAkFVX3lxTFB6SFRaRHc3c043MHJaci1UeGxoQmhOdVJRYUduOGl4eTlIV0RXdEwwZDQ0bFdXUENJZlE2RkJTTHkwSG5TR1FkZUFqRnh3blpaQmx2aUh1bGc1ZHBCZHNPd0lIR2ZWbnpWMHR5dHZGQllhdXJyZkJVTFlCZ2R5bUhldVl1clgwc3EwbWNtcFJaRzhuYmtEV1FBLWNMb3EyRUp6UVhyNk5MVkVIenRNOGpXSHlZc0hJTERJWDctekcwa0RybFo4Ry1zR082aS1RMnltOFRqMlIwMXNkSllHU2lRbHZuSXNJM0M5UkpWVXp6R1Eza05NSnNTMWI0aUd1WElrdHFiVHpVbg?oc=5",
+     "date": "2026-11-05",
+     "source": "Moneycontrol.com",
+     "label": "PMS",
+     "snippet": "New framework introduces manager-led accreditation as an additional route, provides three-year validity and expands the securities eligible for meeting the minimum exposure threshold",
+     "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
+     "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260924130823_sebi3.jpg",
+     "why": [
+      "PMS news",
+      "Regulator: SEBI or RBI",
+      "Rule or framework change"
+     ],
+     "tags": [
+      "PMS"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 75,
      "title": "SEBI Allows REITs and InvITs to Issue Depository Receipts Through GIFT City",
      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVm9EQ1cxQW9famdKSzI2WHpFSXN4b2ZaNkdnRC14MEJFakNBYmRHSm5lMVdHd3BMZnA0Z3pWcWQwUWFMZ3A3LUpveDdZb09EMHJjWXJwS2ljbmpjSC1Gai1lRmxlRTR1ZnBad1psSjFJMUowN0RmVDFnWlZROTdKUDNQLUxtVzV0N0VMWlhhVUtmWlpfRkFRNTRraktfSUpURnJhbVVucGtSVldZNy12MVp3?oc=5",
      "date": "2026-11-03",
@@ -386,47 +429,6 @@
      ],
      "tags": [
       "REITs & InvITs"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 90,
-     "title": "SEBI issues rules for depositary receipts on REITs, InvITs units",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONDI4cks0S2RLOUF2UEVTd1kzdUU2cndOUWRwYjVDQWRvMHUwOHZuWFJwS0htQ05FRjNuNGJRd25MN1JqZ1VUZTV5OEpkT1plYVJCWFZzVnRIZnoxTGhsZF9YeDlqN1JkSUxWWXRFQUQzTUJENVlwUjZ2NnNvRXpremhON1Y0UkJPenRSUlhqZHLSAZgBQVVfeXFMT1FmRl96TVd1eWlJMjRYMUdJME9mN2V4Q2JVWW5lbDhacEgxTmRDaWt5X3JRdEJpUUNjU2ZWMkpQQU9aYzRqZ29kZ01CRmJDajhmVzV0Mlh0eWNxVEZ6QmxrSk5tWU5DUExWVFJyOGFFbG1PdUhoSElBRHRsaTltNk5WeS1NdHdHZm5tU3RYeXE5ZjBYaVJ6dS0?oc=5",
-     "date": "2026-11-03",
-     "source": "VCCircle",
-     "label": "REITs & InvITs",
-     "snippet": "India&#39;s markets regulator on Monday issued a depositary receipts framework to let foreign investors buy into real estate investment trusts (REITs)...",
-     "lead": "",
-     "image": "https://assets.vccircle.com/uploads/2025/05/resized-TZLYNXMPELKXRTROPTPINDIASEBIINVESTMENTS.jpg",
-     "why": [
-      "REIT / InvIT news",
-      "Regulator: SEBI or RBI",
-      "Also covered by 3 other outlet(s)"
-     ],
-     "tags": [
-      "REITs & InvITs"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 8,
-     "priority": 80,
-     "title": "SEBI Allows Mutual Funds to Net Cash Market Settlements from April 2027, Boosting Efficiency",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUVVjOHlUc1huVlFVTU1kWVJoclA3OXluSG0tV3NnaTlYZ1FTNkRUdVNCT0RPVFV5eHhzVjB0UmtMSW1Ha2kxZ0h3aU1fczRBcllKQ1R0SXJYT1FHUHVFZzY2QWNCRUM5bVpWTHVzT2ZWbnYzcmh4MDFFelA3dWxRNW5qeWlHTlo4WG8ybXc0OWpwSm1uV0lfWm5NcDdMeVl5T1FxVHRlSTVhQXhERnYtNmtEcXlHT3pFOTZsX3RBeG5GSXQwUkVKeDNQZVNmZEk3NTM3Z9IB2gFBVV95cUxQTFVfdEZrc0lUOVpIdFNITDdLcEVuVmNkMzNVWVJWOXdncEczN2RnaHhtWnJqZndBZ1V5NFozX216SDZoT1dReGNfVDh5Z3UtOS1HNFlaWlp0TEZCeXpwTVJTNFlvTVlEMUEtSjZra0RhRjY5bjE3dGRVSUtRYXVIQjJtXzBkMGd2ZHcwRktDcUZrcFB4VDhfN0RqS1JfUnB6Q09ET2FnZFZvLVl1V0Rxb2hkZ0RaRW0tcTVGQWRoX1d1amlSd0tFdnpXRl9zMkFZeVJUcWR4NXhMdw?oc=5",
-     "date": "2026-11-05",
-     "source": "Lokmat Times",
-     "label": "Mutual Funds",
-     "snippet": "SEBI Allows Mutual Funds to Net Cash Market Settlements from April 2027, Boosting Efficiency - New Delhi: The Securities and Exchange Board of India (SEBI) has announced a significant change for mutual funds, allowing ... Get Latest News on Business only on lokmattimes.com",
-     "lead": "By ANI | Updated: November 5, 2026 21:00 IST 2026-11-06T02:29:40+5:30 2026-11-05T21:00:44+5:30 New Delhi: The Securities and Exchange Board of India (SEBI) has announced a significant change for mutual funds, allowing them to net fund obligations from outright purchase and sale transactions in the cash market starting April 1, 2027. This new framework aims to reduce temporary funding needs and make settlements more efficient for ...",
-     "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20261105151615_202611.jpg",
-     "why": [
-      "Regulator: SEBI or RBI",
-      "Also covered by 3 other outlet(s)"
-     ],
-     "tags": [
-      "Mutual Funds"
      ]
     }
    ]
@@ -472,13 +474,59 @@
    "why": [
     "Affects work visas",
     "Official government notice",
-    "Major story (8 headlines that day)"
+    "Major story (11 headlines that day)"
    ],
    "tags": [
     "Work visa",
     "Canada"
    ],
    "rank": 2,
+   "must_read": true
+  },
+  {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 100,
+   "title": "October 2026 Legislation Roundup: From RBI’s Repo Rate Hike to SEBI’s New Settlement Framework",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdzVmSWlQWTB3R3FLZWJGaWZwWW9wUHBBOGQwMHB1cnN4eWxUcFVZV3FwWlJSYkR4R05IaGt1bDlEeklLeUVhWUlabUpROFNVRFgwTlFrcTFITWU4M2RJZkpRcXdDQjRxMkgzaEdwUzBQTWpXQXRRN3YwQWxVZWdBRUNWZE41MXBIU09uNTMyc2M0LVJlTXZDX3FRYmYzS2RJRy0zSWxhUFVFSm93amdaYWo5VFdmTEJOUFE?oc=5",
+   "date": "2026-11-09",
+   "source": "SCC Online",
+   "label": "Regulatory",
+   "snippet": "Legislation Roundup October 2026 covers key developments in financial regulation, GST, data protection, social security, transport and governance.",
+   "lead": "36 updates across finance, GST, data protection, labour, transport, food safety and State governments. As we wrap up October 2026, it is important to take stock of the key legal, regulatory, judicial and economic developments that shaped the month. The Legislation Roundup October 2026 highlights significant updates, including the RBI’s repo rate hike to 5.50% and shift to a calibrated tightening stance, the retention of the 7.1% ...",
+   "image": "https://blog-images.scconline.com/blobblogscconl28830c17bf/blog/wp-content/uploads/2026/11/BLOG-58-28.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Rule or framework change",
+    "Interest-rate decision"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 3,
+   "must_read": true
+  },
+  {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 100,
+   "title": "RBI Rate Hike Expectations, Tight Liquidity Put Pressure On Short-Term Bond Yields",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRlM3NU14dUR6ZXFKMVJFZmI4QjZ5SkR2OG1xQWhuVkxmZF9jMzctM3dwTUxyMUpOam52em1rUi1UaENyRkJuclNXUVE0ajM3emlZOWdQVTVKWHFUbDlIU19nbWp1U0FoeU1KNlpBM3N6T3E5NVU3TVR2TDFCUjV1S210R2Z3d25jcFh1OS1JN09DcEFMN2FvRDh3UTZ2Z0o2RmFfQkdJcDNCQ3hPcVo5MjZ6NmVibXpkUWZ0ZWFhZTlHQmZpa1dkRw?oc=5",
+   "date": "2026-11-09",
+   "source": "KNN India",
+   "label": "Debt & Bonds",
+   "snippet": "Short-term Indian government bond yields are expected to face upward pressure amid tightening banking liquidity and expectations of further interest rate hikes by the Reserve Bank of India (RBI), potentially widening the gap with longer-term securiti",
+   "lead": "Your e-mail will be secure with us. We will not share your information with anyone ! RBI Rate Hike Expectations, Tight Liquidity Put Pressure On Short-Term Bond Yields New Delhi, Nov 9 (KNN) Short-term Indian government bond yields are expected to face upward pressure amid tightening banking liquidity and expectations of further interest rate hikes by the Reserve Bank of India (RBI), potentially widening the gap with longer-term ...",
+   "image": "https://knnindia.co.in/uploads/newsfiles/RBI-FIN-9-11-2026.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Government bond yields"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 4,
    "must_read": true
   },
   {
@@ -501,7 +549,7 @@
    "tags": [
     "Budget & Fiscal"
    ],
-   "rank": 3,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -524,54 +572,53 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 4,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 10,
-   "priority": 100,
-   "title": "SEBI forms working group to review Innovators Growth Platform framework",
-   "url": "https://www.thehindubusinessline.com/markets/sebi-forms-working-group-to-review-innovators-growth-platform-framework/article71666591.ece",
-   "date": "2026-11-04",
-   "source": "BusinessLine",
+   "score": 11,
+   "priority": 92,
+   "title": "Upcoming IPO: Veritas Finance gets Sebi nod to launch public issue – Top things for investors",
+   "url": "https://www.livemint.com/market/upcoming-ipo-veritas-finance-gets-sebi-nod-to-launch-public-issue-top-things-for-investors-11794247367964.html",
+   "date": "2026-11-10",
+   "source": "Mint",
    "label": "Regulatory",
-   "snippet": "SEBI forms an 18-member working group to review and upgrade Innovators Growth Platform rules for better access to capital for deep-tech and innovation-led firms.",
-   "lead": "' blCenterIconDiv.innerHTML = spanSvg blLoaderDiv.appendChild(blCenterLoadDiv) blLoaderDiv.appendChild(blCenterIconDiv) divInner.appendChild(blLoaderDiv) div.appendChild(divInner) var bodyIntravel = setInterval(() => { if(window.document.body) { clearInterval(bodyIntravel) window.document.body.insertBefore(div, window.document.body.firstChild) } }, 100) function addStyle(styles) { var css = document.createElement('style'); css.type = ...",
-   "image": "https://bl-i.thgim.com/public/incoming/9jew5t/article71663736.ece/alternates/LANDSCAPE_1200/2025-03-24T133634Z_1495740992_RC2LJDA9KT1O_RTRMADP_3_INDIA-SEBI-REGULATIONS.JPG",
+   "snippet": "Veritas Finance plans to use fresh issue proceeds to strengthen capital base and support future lending operations",
+   "lead": "(AI generated image) AI Quick Read Veritas Finance Ltd, a non-deposit-taking non-banking financial company (NBFC), has received approval from the Securities and Exchange Board of India (Sebi) to launch its initial public offering ( IPO ), comprising a fresh issue of equity shares worth ₹ 900 crore and an offer for sale (OFS) by existing shareholders. According to the company's latest draft red herring prospectus (DRHP), the OFS ...",
+   "image": "https://www.livemint.com/lm-img/img/2026/11/09/1600x900/ipos_1794247467595_LoOZ_1794247482797_n1dH_43f17536-4ff0-471c-97bb-3b6166f326b4_K2yG.jpg",
    "why": [
     "Regulator: SEBI or RBI",
-    "Rule or framework change",
+    "New debt issue",
+    "New product or fund"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 92,
+   "title": "India short bonds may underperform on rate hikes, cash squeeze",
+   "url": "https://economictimes.indiatimes.com/markets/bonds/india-short-bonds-may-underperform-on-rate-hikes-cash-squeeze/articleshow/135669996.cms",
+   "date": "2026-11-09",
+   "source": "Economic Times",
+   "label": "Debt & Bonds",
+   "snippet": "India",
+   "lead": "Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price KYC and KYB: Inside Pidilite, the company that turned Fevicol into a word for a strong bond – Part 1 of 3",
+   "image": "https://img.etimg.com/thumb/msid-135678097,width-1200,height-900,imgsize-31688,overlay-etmarkets/articleshow.jpg",
+   "why": [
+    "Interest-rate decision",
+    "Sector or flows signal",
     "Also covered by 3 other outlet(s)"
    ],
    "tags": [
-    "Regulatory"
+    "Debt & Bonds"
    ],
-   "rank": 5,
-   "must_read": true
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 100,
-   "title": "RBI launches the November 2026 round of Urban Consumer Confidence Survey",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63908",
-   "date": "2026-11-03",
-   "source": "RBI",
-   "label": "Regulatory",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The Reserve Bank of India has been regularly conducting Urban Consumer Confidence Survey (UCCS). The November 2026 round of the survey is being launched. The survey seeks qualitative responses from households, regarding their sentiments on general economic situation, employment scenario, price level, households’ income and spending. The survey is conducted regularly in 19 cities, viz., Ahmedabad, Bengaluru, Bhopal, Bhubaneswar, ...",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "New product or fund",
-    "Official notice",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 6,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -595,76 +642,7 @@
     "IPO & Listing",
     "Policy & Regulation"
    ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 9,
-   "priority": 90,
-   "title": "SEBI Relaxes Accredited Investor Norms for AIF, SIF and PMS; Introduces Rs 5 Crore and Rs 20 Crore Securities Exposure Criteria",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRW1rVTYwNXBzWkJKU2pPRmpGNFlOUEgzeEFNODNqWDJGTjI3cjR2akFXSU8xcTRpRVlxMEtNT3VUNC1ma3JkSmJnUHBMSEVqWGFLMjVqWjhKRzlWclBpcGpIdGlmU3BfRlFJZUdrYi01Qk9jMkNLNVdEUm9kQlE5TmVKRUhHRXBGamJqOHBESUZuTm1wZ3JZWnp0SzlxZXBKZzZTWktxVUNNcXdVNnZod0pTR2N2QVMxQTBJOGZWZWF3STMydEgzbnFwMUUxbG5SN1Z1NUM2VGN4UGJQc0pUUVhObkM4eGQzU0pEbzZHRnA2VFl1QUc3WWgtOEZHM3k0V1pwYw?oc=5",
-   "date": "2026-11-07",
-   "source": "Dalal Street Investment Journal",
-   "label": "PMS",
-   "snippet": "SEBI eases investor accreditation for AIFs, SIFs, and PMS, allowing managers to assess eligibility directly, simplifying the process and reducing delays.",
-   "lead": "The Securities and Exchange Board of India (SEBI) has relaxed the Accredited Investor framework to simplify eligibility verification for investors seeking to invest in Alternative Investment Funds (AIFs), Specialised Investment Funds (SIFs) and Portfolio Management Services (PMS). Announced on November 5, 2026, the revised framework allows investment managers to directly assess an investor's accreditation status, reducing dependence on ...",
-   "image": "https://site.dsij.in/Portals/0/EasyDNNNews/60354/SEBI1.jpg",
-   "why": [
-    "PMS news",
-    "Regulator: SEBI or RBI",
-    "Rule or framework change"
-   ],
-   "tags": [
-    "PMS"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 9,
-   "priority": 90,
-   "title": "Comprehensive Regulatory Analysis: SEBI’s Updated Master Circular for Alternative Investment Funds (November 2026 Framework)",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXlmQTNYbkVsVGFUajBweU5ldFd6N0RQelNEblFoaTJtNGtMeGs0YlNycG80ckl0YzBZdUw3WjdPNGFycnA0c3EycDR6ckpvckktNUY4eFlMalQxcUw5RDJmcVJJRUhseEtGLURzSWk5eXNJMjFBanBKWDAwQTN6UHkwX2ZrMUwzZC1DbHJhTU1VamFzSm1FRzFPM21tdVQwNVBaLWhMN25nZGJsbmc?oc=5",
-   "date": "2026-11-06",
-   "source": "TaxCorp AI",
-   "label": "AIF",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "AIF news",
-    "Regulator: SEBI or RBI",
-    "Rule or framework change"
-   ],
-   "tags": [
-    "AIF"
-   ],
    "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 9,
-   "priority": 90,
-   "title": "SEBI issues framework allowing AIF, SIF managers and portfolio managers to certify accredited investor...",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRldoSk5YcFpoSWtYdGNCSGZrOTJ0cHRqcVgwd1R2THVNQ2pBZ0lSZkhXSk1xcl93aTFjcXJ4cDFKajFLZFJsRVEydzI1V3FGeDNobW1MSmNVbUJKbDRQNVpLUjZ0SVBRbENEMEhYdEVKSWVVYXhyTkVhUi1pbXFlZ2lMcTl4dlRxU2ZhZTVkS0M3aWFQdWJLcW1UZXAtM2p5ZEo2YjctaXlrVFkwa2s2VW9kN2taUlByVWF5cEctX0Q2RTlJSUhEUjB3ZWkycXFIaTNfcUZQS2F3M3M5UlF5bjNhSHVETGVqQnc3TWQxYi1kT0lOMFlTSDZOZ2lFc0lRSGt30gGIAkFVX3lxTFB6SFRaRHc3c043MHJaci1UeGxoQmhOdVJRYUduOGl4eTlIV0RXdEwwZDQ0bFdXUENJZlE2RkJTTHkwSG5TR1FkZUFqRnh3blpaQmx2aUh1bGc1ZHBCZHNPd0lIR2ZWbnpWMHR5dHZGQllhdXJyZkJVTFlCZ2R5bUhldVl1clgwc3EwbWNtcFJaRzhuYmtEV1FBLWNMb3EyRUp6UVhyNk5MVkVIenRNOGpXSHlZc0hJTERJWDctekcwa0RybFo4Ry1zR082aS1RMnltOFRqMlIwMXNkSllHU2lRbHZuSXNJM0M5UkpWVXp6R1Eza05NSnNTMWI0aUd1WElrdHFiVHpVbg?oc=5",
-   "date": "2026-11-05",
-   "source": "Moneycontrol.com",
-   "label": "PMS",
-   "snippet": "New framework introduces manager-led accreditation as an additional route, provides three-year validity and expands the securities eligible for meeting the minimum exposure threshold",
-   "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
-   "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260924130823_sebi3.jpg",
-   "why": [
-    "PMS news",
-    "Regulator: SEBI or RBI",
-    "Rule or framework change"
-   ],
-   "tags": [
-    "PMS"
-   ],
-   "rank": 10,
    "must_read": false
   },
   {
@@ -686,7 +664,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 11,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -708,7 +686,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 12,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -730,7 +708,7 @@
    "tags": [
     "Budget & Fiscal"
    ],
-   "rank": 13,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -754,7 +732,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 14,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -778,7 +756,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 15,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -795,13 +773,13 @@
    "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/09/UKJ.jpeg",
    "why": [
     "Affects permanent residence",
-    "Major story (9 headlines that day)"
+    "Major story (11 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 16,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -824,7 +802,7 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 17,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -848,7 +826,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 18,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -871,7 +849,52 @@
    "tags": [
     "Banking & Rates"
    ],
+   "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 9,
+   "priority": 75,
+   "title": "Gold, silver rally up to 2 pc as softer crude, US dollar support bullion",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYkhIVEJmYW41UFJBM1hkTDFyZkk0d2pNajZRYV9ZdmZWTDZkY1c1TUtoVXVpWHlCR3lDbUNHb3FrVC1qYlREOG9Kc09KM2pIdTJrX2FJQWp0RklOa0I4OGo1elR0ZFoyb1kzVUt0YUpGbXVPME4xTVFQTHJtemEza2duTzR5eXRjZkt4SF9MY3lEWFdzLWxfeFBqYVJuSi14alBlMWtmdWVKTnBNNHQxUUVUZzdNLVMzdXo0?oc=5",
+   "date": "2026-11-09",
+   "source": "The Hawk",
+   "label": "Gold & Silver",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Precious metals",
+    "Global macro driver",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Gold & Silver"
+   ],
    "rank": 19,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 64,
+   "title": "APAC Immigration Updates: Australia, India, Japan & More",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYmhTal84N1h0R3M2Skt4YWxURlhYVEhpcDRrd2RxR18yVTFWVVlQQUVQN3Frd0dFYUVnUHdQMGNoTGdsbmdNV0VYYXZYbC16QmU2aHVuOTN5dWhjRmpGRlU2eWY4NFJLajBkeXR5SWlLeHZQM1FvTHFZV3R5emJ2MEVvaklwbndqWVdSbENDWFBqeHJOd1BvcnpGVjNKc2NydFZxaDJqTG1pODY1?oc=5",
+   "date": "2026-11-09",
+   "source": "Clark Hill",
+   "label": "Australia",
+   "snippet": "Explore APAC immigration updates affecting employers and global mobility, including visa and work permit changes across Australia, India, Japan, New Zealand, and Vietnam.",
+   "lead": "Clark Hill’s Outbound Immigration & Global Mobility practice guides corporate clients and individuals through complex global immigration challenges worldwide. We pride ourselves on creative, compliant, and people-centered solutions – looking at global mobility from a holistic perspective in an ever-changing immigration environment. Our team assists with short-term assignments, long-term relocations, consular processing, document ...",
+   "image": "https://media.clarkhill.com/wp-content/uploads/2020/10/05134526/ClarkHillSocial.png",
+   "why": [
+    "Major story (8 headlines that day)",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Australia"
+   ],
+   "rank": 20,
    "must_read": false
   },
   {
@@ -893,7 +916,7 @@
    "tags": [
     "Technology & Telecom"
    ],
-   "rank": 20,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -915,7 +938,7 @@
     "PR / Settlement",
     "Finland"
    ],
-   "rank": 21,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -937,29 +960,6 @@
    "tags": [
     "Salary threshold",
     "Luxembourg"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 55,
-   "title": "“Up to four years”: Spain approves new seasonal work permits for foreigners",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeXRDV2hLU25aeU1uQUtvRjVtZnkxY0pmYmMwaW1PWHhZRW4xTWI4VVdLVWJTSk83R1VYOTgteUpZUTVUY09HTTFqU3dCQUtBSzZ6aWxwd3BmYkNMam54c3JLcW9qS0JXSklrcGJNZEVnWkdOdFhaVUtnbHVsdXlsejNsLXZHNl8xaG9zLWxvMUxZMVcxZWhzNXc1WWtmQzRBeFJmWHctNmE1bldMUkE?oc=5",
-   "date": "2026-11-06",
-   "source": "Tuko News",
-   "label": "Spain",
-   "snippet": "Spain has approved a four-year seasonal work permit for foreign nationals, subject to six conditions. Here are the eligibility requirements applicants must meet.",
-   "lead": "Spain has approved a new framework for recruiting foreign seasonal workers, introducing permits valid for up to four years under its collective hiring and circular migration programmes. Spain opens a four-year seasonal work route for foreigners. Photo credit: Ludovic Marin Source: Getty Images The Ministry of Inclusion, Social Security and Migration published the 2026 Order for the Collective Management of Contracts in Origin (GECCO) ...",
-   "image": "https://cdn.tuko.co.ke/images/1200x675/e5b239986db47757.jpeg?v=1",
-   "why": [
-    "Affects work visas",
-    "Announces a change"
-   ],
-   "tags": [
-    "Work visa",
-    "Spain"
    ],
    "rank": 23,
    "must_read": false
