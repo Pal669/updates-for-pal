@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-10",
- "built": "2026-11-10 12:35 IST",
+ "built": "2026-11-10 13:13 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -33,16 +33,16 @@
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 90.97,
-   "change_pct": -1.73,
-   "asof": "10 Nov 12:24 IST"
+   "value": 91.42,
+   "change_pct": -1.24,
+   "asof": "10 Nov 13:03 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4129.0,
-   "change_pct": 0.36,
-   "asof": "10 Nov 12:25 IST"
+   "value": 4125.0,
+   "change_pct": 0.26,
+   "asof": "10 Nov 13:03 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -166,9 +166,30 @@
    ]
   },
   "Startups": {
-   "total": 1309,
-   "new_today": 8,
+   "total": 1311,
+   "new_today": 10,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "MDR And AI: Inside The Two Acronyms That Could Shape Razorpay’s ₹6,000 Cr IPO",
+     "url": "https://inc42.com/features/mdr-and-ai-inside-the-two-acronyms-that-could-shape-razorpays-%e2%82%b96000-cr-ipo/",
+     "date": "2026-11-06",
+     "source": "Inc42",
+     "label": "India · AI & Deeptech",
+     "snippet": "Razorpay's upcoming IPO might get a twofold push from the MDR on UPI payments implementation as well as fintech's AI product stack when it seeks public market investment for a ₹ 6000 Cr IPO",
+     "lead": "Razorpay has received SEBI’s approval for a ₹5,000-6,000 Cr IPO at a reported $5 Bn valuation, with a listing expected between January and March 2027. Razorpay is taking a profitability-led pitch to public investors, with its core payments business EBITDA profitable. The 0.4% MDR on large UPI transactions could provide an additional high-margin revenue stream, helping narrow the valuation gap. Analysts estimate MDR could generate ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Razorpay-IPO-social.jpg",
+     "why": [
+      "IPO & Listing",
+      "Very large figure in headline (about $632M: round or valuation)"
+     ],
+     "tags": [
+      "IPO & Listing",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -234,33 +255,12 @@
       "Funding",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 69,
-     "title": "AI accounting startup Sumary raises $25m seed",
-     "url": "https://sifted.eu/articles/sumary-seed-fundraise/",
-     "date": "2026-11-10",
-     "source": "Sifted",
-     "label": "Global · AI & Deeptech",
-     "snippet": "AI-native accounting platform Sumary has raised $25m in a seed funding round led by VC firm Singular.",
-     "lead": "AI-native accounting platform Sumary has raised $25m in a seed funding round led by VC firm Singular .",
-     "image": "https://images.sifted.eu/cdn-cgi/image/width=1536,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/09161225/Sumary_FoundersPortraits_18450_1-scaled.jpg",
-     "why": [
-      "Funding",
-      "Sizeable deal (about $25M)"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 22,
+   "new_today": 23,
    "items": [
     {
      "desk": "Immigration",
@@ -454,7 +454,7 @@
    "why": [
     "Affects permanent residence",
     "Announces a change",
-    "Major story (8 headlines that day)"
+    "Major story (9 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
@@ -743,6 +743,29 @@
    "desk": "Startups",
    "score": 10,
    "priority": 77,
+   "title": "Tech investor SoftBank Group logs $7 bn quarterly net loss",
+   "url": "https://economictimes.indiatimes.com/tech/technology/tech-investor-softbank-group-logs-7-bn-quarterly-net-loss/articleshow/135703058.cms",
+   "date": "2026-11-10",
+   "source": "ET Startups",
+   "label": "Global · Fintech",
+   "snippet": "The company's profits routinely see wild fluctuations linked to the volatile value of global technology stocks and its changing portfolio of investments and acquisitions.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-3264103,resizemode-75,msid-135703058/tech/technology/tech-investor-softbank-group-logs-7-bn-quarterly-net-loss.jpg",
+   "why": [
+    "Financials",
+    "Very large figure in headline (about $7,000M: round or valuation)"
+   ],
+   "tags": [
+    "Financials",
+    "Fintech"
+   ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 77,
    "title": "Arka Fincap raises Rs 525 Cr from The Rise Funds of TPG",
    "url": "https://yourstory.com/2026/11/arka-fincap-raises-rs-525-crore-from-the-rise-funds-of-tpg",
    "date": "2026-11-10",
@@ -758,29 +781,6 @@
    "tags": [
     "Funding",
     "Fintech"
-   ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 77,
-   "title": "MDR And AI: Inside The Two Acronyms That Could Shape Razorpay’s ₹6,000 Cr IPO",
-   "url": "https://inc42.com/features/mdr-and-ai-inside-the-two-acronyms-that-could-shape-razorpays-%e2%82%b96000-cr-ipo/",
-   "date": "2026-11-06",
-   "source": "Inc42",
-   "label": "India · AI & Deeptech",
-   "snippet": "Razorpay's upcoming IPO might get a twofold push from the MDR on UPI payments implementation as well as fintech's AI product stack when it seeks public market investment for a ₹ 6000 Cr IPO",
-   "lead": "Razorpay has received SEBI’s approval for a ₹5,000-6,000 Cr IPO at a reported $5 Bn valuation, with a listing expected between January and March 2027. Razorpay is taking a profitability-led pitch to public investors, with its core payments business EBITDA profitable. The 0.4% MDR on large UPI transactions could provide an additional high-margin revenue stream, helping narrow the valuation gap. Analysts estimate MDR could generate ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Razorpay-IPO-social.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $632M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "AI & Deeptech"
    ],
    "rank": 16,
    "must_read": false
