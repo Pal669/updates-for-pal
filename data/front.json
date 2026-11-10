@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-10",
- "built": "2026-11-10 13:13 IST",
+ "built": "2026-11-10 23:45 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -28,28 +28,28 @@
    "dp": 2,
    "value": 93.92,
    "change_pct": 0.02,
-   "asof": "10 Nov 09:25 IST"
+   "asof": "10 Nov 23:38 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 91.42,
-   "change_pct": -1.24,
-   "asof": "10 Nov 13:03 IST"
+   "value": 91.76,
+   "change_pct": -0.88,
+   "asof": "10 Nov 23:35 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4125.0,
-   "change_pct": 0.26,
-   "asof": "10 Nov 13:03 IST"
+   "value": 4025.0,
+   "change_pct": -2.17,
+   "asof": "10 Nov 23:35 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 4.86,
-   "change_pct": 0.1,
-   "asof": "10 Nov 01:29 IST"
+   "value": 5.01,
+   "change_pct": 2.92,
+   "asof": "10 Nov 23:30 IST"
   }
  ],
  "features": {
@@ -79,9 +79,29 @@
  },
  "desks": {
   "Policy": {
-   "total": 329,
-   "new_today": 0,
+   "total": 333,
+   "new_today": 4,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 8,
+     "priority": 62,
+     "title": "TRAI releases “The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026”",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2333541",
+     "date": "2026-11-06",
+     "source": "PIB",
+     "label": "Technology & Telecom",
+     "snippet": "The Telecom Regulatory Authority of India (TRAI) today released “The Register of Interconnect Agreem",
+     "lead": "Ministry of Communications TRAI releases “The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026” Posted On: 06 NOV 2026 2:22PM by PIB Delhi The Telecom Regulatory Authority of India (TRAI) today released “The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026” . These regulations will take effect from 1 st January 2027. Interconnection in telecommunications refers to the commercial and ...",
+     "image": null,
+     "why": [
+      "Regulator rulebook change",
+      "Rule change"
+     ],
+     "tags": [
+      "Technology & Telecom"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 8,
@@ -106,6 +126,26 @@
      "desk": "Policy",
      "score": 7,
      "priority": 54,
+     "title": "NLMC Releases RFP for E-Auction of 11 Government Residential Flats Across Three Prime Locations in Prayagraj",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334601",
+     "date": "2026-11-10",
+     "source": "PIB",
+     "label": "Budget & Fiscal",
+     "snippet": "The National Land Monetization Corporation (NLMC), a wholly owned Government of India company under",
+     "lead": "Ministry of Finance NLMC Releases RFP for E-Auction of 11 Government Residential Flats Across Three Prime Locations in Prayagraj Residential properties located at Muir Road, Thornhill Road and Civil Lines to be offered through a transparent and competitive e-auction process Pre-Bid Meeting Scheduled for 20 November 2026; E-Auction to be Held on 11 December 2026 Posted On: 10 NOV 2026 2:14PM by PIB Delhi The National Land Monetization ...",
+     "image": null,
+     "why": [
+      "Rule change",
+      "Ministry of Finance"
+     ],
+     "tags": [
+      "Budget & Fiscal"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 7,
+     "priority": 54,
      "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on November 09, 2026",
      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63943",
      "date": "2026-11-06",
@@ -121,54 +161,76 @@
      "tags": [
       "Banking & Rates"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 7,
-     "priority": 54,
-     "title": "In view of upcoming festive season and to enable States to accelerate capital spending and finance their development/ welfare related expenditure, Union Government releases regular tax devolution of ₹1,09,019 crore to State Governments in advance",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2333166",
-     "date": "2026-11-05",
-     "source": "PIB",
-     "label": "Tax, Duties & Trade",
-     "snippet": "The Union Government has released regular instalment of tax devolution to State Governments amountin",
-     "lead": "Ministry of Finance In view of upcoming festive season and to enable States to accelerate capital spending and finance their development/ welfare related expenditure, Union Government releases regular tax devolution of ₹1,09,019 crore to State Governments in advance Posted On: 05 NOV 2026 5:43PM by PIB Delhi The Union Government has released regular instalment of tax devolution to State Governments amounting to Rs. 1,09,019 crore on 5 ...",
-     "image": null,
-     "why": [
-      "Rule change",
-      "Ministry of Finance",
-      "Large outlay (Rs 10,000 Cr or more)"
-     ],
-     "tags": [
-      "Tax, Duties & Trade"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 6,
-     "priority": 46,
-     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63917",
-     "date": "2026-11-04",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "",
-     "image": null,
-     "why": [
-      "New law or act",
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 1311,
-   "new_today": 10,
+   "total": 1325,
+   "new_today": 24,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "ShareChat Parent Mohalla Tech’s FY26 Loss Widens 79% To ₹1,978 Cr, Revenue Inches Past ₹1,000 Cr Mark",
+     "url": "https://inc42.com/buzz/sharechat-parent-mohalla-techs-fy26-loss-widens-79-to-%e2%82%b91978-cr-revenue-inches-past-%e2%82%b91000-cr-mark/",
+     "date": "2026-11-10",
+     "source": "Inc42",
+     "label": "India · Media, Gaming & Creators",
+     "snippet": "ShareChat parent Mohalla Tech’s FY26 revenue grew 40% to ₹1,016 Cr driven by its microdrama vertical QuickTV's rising subscriptions",
+     "lead": "ShareChat parent Mohalla Tech's consolidated net loss widened 78.5% YoY to ₹1,978.4 Cr in FY26, even as operating revenue jumped 40.4% to ₹1,016.3 Cr Subscription revenue from its microdrama push helped offset declining advertising revenue, while the company narrowed its EBITDA loss by 58% Higher ESOP expenses, forex losses and finance costs weighed on profitability, with total expenses jumping 65.6% YoY",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Sharechat-FY26-social.jpg",
+     "why": [
+      "Financials",
+      "Large deal (about $208M)"
+     ],
+     "tags": [
+      "Financials",
+      "Media, Gaming & Creators"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "Tech investor SoftBank Group logs $7 bn quarterly net loss",
+     "url": "https://economictimes.indiatimes.com/tech/technology/tech-investor-softbank-group-logs-7-bn-quarterly-net-loss/articleshow/135703058.cms",
+     "date": "2026-11-10",
+     "source": "ET Startups",
+     "label": "Global · Fintech",
+     "snippet": "The company's profits routinely see wild fluctuations linked to the volatile value of global technology stocks and its changing portfolio of investments and acquisitions.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-3264103,resizemode-75,msid-135703058/tech/technology/tech-investor-softbank-group-logs-7-bn-quarterly-net-loss.jpg",
+     "why": [
+      "Financials",
+      "Very large figure in headline (about $7,000M: round or valuation)"
+     ],
+     "tags": [
+      "Financials",
+      "Fintech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "Arka Fincap raises Rs 525 Cr from The Rise Funds of TPG",
+     "url": "https://yourstory.com/2026/11/arka-fincap-raises-rs-525-crore-from-the-rise-funds-of-tpg",
+     "date": "2026-11-10",
+     "source": "YourStory",
+     "label": "India · Fintech",
+     "snippet": "Arka Fincap was founded in 2018\n\nArka Fincap will use this capital for expansion, investments into technology and risk management capabilities\n\nArka Fincap Limited, a Kirloskar Group-promoted non-banking financial company (NBFC) has raised an initial investment of Rs 525 crore from The Rise Funds,",
+     "lead": "Arka Fincap raises Rs 525 Cr from The Rise Funds of TPG Arka Fincap will use this capital for expansion, investments into technology and risk management capabilities Team YS 17543 Stories Tuesday November 10, 2026 , 2 min Read Arka Fincap Limited, a Kirloskar Group-promoted non-banking financial company (NBFC) has raised an initial investment of Rs 525 crore from The Rise Funds, the global impact investing arm of TPG. A statement said ...",
+     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/NBFC-1659964771497.png",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $55M)"
+     ],
+     "tags": [
+      "Funding",
+      "Fintech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -189,79 +251,53 @@
       "IPO & Listing",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
-     "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
-     "date": "2026-11-05",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
-     "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Zipline hits $21.5B valuation as Walmart expands bet on drone delivery Kirsten Korosec 7:40 AM PST · November 5, 2026 Zipline has raised $1.5 billion and ramped up its partnership with Walmart, a pair of deals that have raised the autonomous drone delivery and logistics startup’s profile and valuation. Zipline and Walmart reached ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2022/09/Zipline-Package-Drop.jpg?resize=1200,675",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $21,500M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Revolut completes funding round at $115 billion valuation",
-     "url": "https://economictimes.indiatimes.com/tech/technology/revolut-completes-funding-round-at-115-billion-valuation/articleshow/135543134.cms",
-     "date": "2026-11-04",
-     "source": "ET Startups",
-     "label": "Global · Fintech",
-     "snippet": "The transaction, which Revolut said was led by Glade Brook Capital Partners, Coatue, Durable Capital Partners, T. Rowe Price Associates and Baillie Gifford, means private market investors value the 11-year-old business more highly than many publicly listed banks.",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1277395,resizemode-75,msid-135543134/tech/technology/revolut-completes-funding-round-at-115-billion-valuation.jpg",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $115,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "Fintech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-     "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-     "date": "2026-11-04",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-     "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Fal , a San Francisco-based startup that hosts and runs AI video, image, and audio models, has raised $1.3 billion in its latest funding round led by Bessemer Venture Partners, with participation from Nvidia, Sound Ventures, and T. Rowe Price. The deal values Fal at $16 billion, double its $8 billion valuation in April, Bloomberg ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1268605503.jpg?resize=1200,420",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $16,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 23,
+   "new_today": 43,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 50,
+     "title": "Luxembourg Increases Minimum Salary Requirement for Work Visa",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa29ibFNmWUtKRmtYNFhiQnl5Q3RRd3MwVTRsMHJVeEh4VVJwOERhSEZFeDl6Q0Fzd1RXT05JeVlZdDVnZEpwcDdEaFI0aXJ2QnNERllIemp5ZGpqc2ktbEFSUloxU3NIdUFpVzRYb0J1eHRwdHRGMTBuX1pQd2FIUWZvVFlKY18xZjc3c2dxLW9GLXFtdXVWaVF5U2N3d9IBrgNBVV95cUxNU01uQ3ZNcEVzS3puTjJzUWdQVkh2SHJ0akhGLTRGdl9sMjEzXzdSc3JIMHROS01rd2JTQzN0NFNTT0VKWUtEYUR1RzlrYWdRSnZBal94SWw3bkhmS0R3QUNGQjI3Nnc1WG1uUkdrTE5aZk5aWXI2bHB4YW1rVExKZXhYN1BIUzVaSUpYZ01WaG93S09YalRKNzFuakpVSHkyMHhwMUJpdzZqZEx0SDg2cTFMWV9WWmdLXzcweE1zR0xXellpdTUxME95SkhaMjMzdU42Tm5XakZSU3I1Tkc0dklwbVB5Tm9SR0hUbkowUUJ5bmpFekVBRF9UVHNHdmVJVUJ4bmJpaV8wd05GSEhpTlZMU3JIVGs1VDhHMi1YY2FOZDFQa1h3S3h0ZnFGWXR2b1NOMU5qeXZMNkItRnBvUUNlOWFWV0cxc2hSQ081Q1BPbHRmUjFjWnlWTjhRek91eGZOYUlhd1RjSEh0dUQ3SGRQaWtrV3R2UlNoSUh2aE1UcXdTdXhTX1MwdUI2N2dlRXVKMHZabWNwWkExMHUycndJQmp6elUxbi1XNFNR?oc=5",
+     "date": "2026-11-10",
+     "source": "ProPakistani",
+     "label": "Luxembourg",
+     "snippet": "Luxembourg has announced higher minimum salary requirements for foreign workers applying for employment permits. The revised limits for skilled and",
+     "lead": "Luxembourg has announced higher minimum salary requirements for foreign workers applying for employment permits. The revised limits for skilled and unskilled workers will take effect on January 1, 2027. The changes will affect non-European Union nationals, including Pakistanis seeking jobs in Luxembourg. Employers must offer salaries that meet the applicable thresholds before sponsoring eligible overseas workers. The adjustment follows ...",
+     "image": "https://propakistani.pk/wp-content/uploads/2026/11/luxembourg.jpg",
+     "why": [
+      "Salary threshold change"
+     ],
+     "tags": [
+      "Salary threshold",
+      "Luxembourg"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 50,
+     "title": "“Faster routes”: Finland lists 3 ways foreigners can obtain permanent residence",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcmxCbXRMZTZRU3ozYk1nc3l5Nm1mSTlTbUduMDQ5YXZ5OVpMbWVkTG0ySXp2dG01c2FvY0FWUzhWMDdzS1V4M0dRdUd6cDAyYkk5Zmp4SWpqV1dvcHo1Vm9zaF9vYTh1ZzF0NW9YbzlXclVuVU83X1lEWF9od2tWMHFscDZCY0gxeDR3RTQyYlV0NVFOUGdoSXRLYWZJU2pNUkdzUlJHUG5jM0xITVlSS0Vva3VMYmc?oc=5",
+     "date": "2026-11-09",
+     "source": "Tuko News",
+     "label": "Finland",
+     "snippet": "Finland offers three faster routes to permanent residence, including a two-year option; applicants must meet language, income and conduct requirements, too.",
+     "lead": "Finland has opened up three accelerated routes through which foreign nationals can obtain permanent residence, with each pathway tailored to a different applicant profile and carrying its own qualifying period. Finland outlines 3 faster paths to permanent residence. Photo: SOPA Images. Source: Getty Images The Finnish government laid out the pathways, which vary in eligibility requirements and timelines depending on an individual's ...",
+     "image": "https://cdn.tuko.co.ke/images/1200x675/bb3d62796a1c9772.jpeg?v=1",
+     "why": [
+      "Affects permanent residence"
+     ],
+     "tags": [
+      "PR / Settlement",
+      "Finland"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 6,
@@ -281,44 +317,6 @@
      "tags": [
       "Work visa",
       "Spain"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 42,
-     "title": "France eases job-loss rules for foreign workers, cuts residence permit processing time",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNN19sTWdINU1DWTlqZlhFbGVWSmFEYTVFNU02TzFXN3cxbVFOVVF0dzh6MEFybGR4T1NOS3ktOTNSOTVvbzJwNWF2ZEtjRVBCTGNNeThWaS1GTEhjQ21VXy1PazlUTUdCNFRsNTNRYWZrOUk1bllMZnlMclRpSWkxdy11cU01RHhHS2xiOElvMUZTbGNUY1NSUUxzRFpiOFFiZHJLMHhOT3Y2SHpZVFRDcmx4dUlVbk40NmpndjJGdkV4dHFkVEItZ0w2Ukt5dEh4RFN1ZGFwODdnRXJQY01RNjJDY2NtN0EwaWdUaG82NNIB9AFBVV95cUxNYW1xMVdmdGJtNDlQTjhZbjRiZ1VHZmcweVF1c2djSHRyQm16QWY0SWxvV2pfbEFjckhtX3ppRTdLWi1xMzBZbE9leTJCU2ZlM0UtX1h1TlpFVmZfaVVSanB6R29UYTA5QXZhRDhOeEVSQXZ5RG9wR0ZiZmNURU0xcjE3REhsek1YakhXc2VWd1htNVJiMXlVbUpFbUZUX3dRWU5SVnJQTFNmU2ZNRUtxWWg0ZnpXX1RuYjNrTk43dXQ5WG5WY190MElQTWZydnhGZ00tenZDVXVxekVTczFQQm9ZYXR5blM2bDNqem5wMXhrRnRT?oc=5",
-     "date": "2026-11-10",
-     "source": "The Economic Times",
-     "label": "France",
-     "snippet": "France has introduced significant immigration changes from October 30, 2026, giving foreign workers more time to find new jobs after unemployment and reducing residence permit processing timelines. Under the revised rules, Temporary Worker permit holders get three months to secure new employment, while EU Blue Card holders get six months ",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1091715,resizemode-75,msid-135701400/nri/latest-updates/france-eases-job-loss-rules-for-foreign-workers-cuts-residence-permit-processing-time.jpg",
-     "why": [
-      "Announces a change"
-     ],
-     "tags": [
-      "France"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 42,
-     "title": "17 occupations affected: New Zealand announces major immigration changes in 2027",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeURrSUQ3X2dRVUxZeUt5b3JzVEJlQjZEajdpejhUbFV5ZG5SWW16dnBtc2wxOXZCVlRJZFRqaGozRjlaSXg3WURXTkRMR29EVDRHS21SYnU3SmpQbXlkSm80YXhxQXRMeWNjWFZTbkRyZ21UM0RSYkFjNFhhVFg4N0pZa3VKcDFsUWlvWlpyQVpvWWJYQXBpX1ZLbk1xRl9QdHZ4LW9Vamc4Mmw2OGJjc2dmTQ?oc=5",
-     "date": "2026-11-09",
-     "source": "Tuko News",
-     "label": "New Zealand",
-     "snippet": "New Zealand will remove 17 occupations from its Green List Work to Residence pathway in March 2027, as new residency routes take effect for skilled migrants.",
-     "lead": "New Zealand has announced sweeping changes to its immigration Green List that will redirect 17 skilled trades and technical occupations away from the existing Work to Residence pathway, with the new rules set to come into force on March 8, 2027. New Zealand Announces Major Immigration Changes Affecting 17 Occupations in 2027 Source: UGC Immigration New Zealand (INZ) made the announcement on Tuesday, November 3, confirming that the ...",
-     "image": "https://cdn.tuko.co.ke/images/1200x675/e092bbb10d7bf65b.jpeg?v=1",
-     "why": [
-      "Announces a change"
-     ],
-     "tags": [
-      "New Zealand"
      ]
     }
    ]
@@ -443,6 +441,30 @@
    "desk": "Immigration",
    "score": 12,
    "priority": 100,
+   "title": "Applying for ILR before earned settlement arrives? Get the absence count right first",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaTlYWVVWNDhCWDc1VjRKVzhoYWlsd2tfa3NlbFRCUWVvNTdhemM5RDNVR2w5NF92MG9iOGRtUnA5XzRKQlFjd21nVFR4eUhiUi1aYnlyQUNPTWNIQ0tpX1otYUpNd3F3U0h1RHlZZFVDV2pfNlZ0Z1NqMXE4U1p1VTZSRUZGdHMyOTVhUFdFU0dWNDJaNk1pcHZubmw?oc=5",
+   "date": "2026-11-10",
+   "source": "Electronic Immigration Network",
+   "label": "United Kingdom",
+   "snippet": "Written by Vishal Gautam, V Immigration Ltd",
+   "lead": "Since the government published its earned settlement response on 2 November 2026 (CP 1707), clients have been asking which path the new system would put them on, and whether they can still settle under today's rules. The plans are confirmed, but the Immigration Rules haven't changed and there's no start date. For a client who qualifies under the rules as they stand, the sensible course is usually to apply as soon as they can. That puts ...",
+   "image": null,
+   "why": [
+    "Affects permanent residence",
+    "Announces a change",
+    "Major story (9 headlines that day)"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "United Kingdom"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
+   "desk": "Immigration",
+   "score": 12,
+   "priority": 100,
    "title": "Canada extends rural immigration program offering permanent residency",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wWXFIU1ZHZXJOUFdXaXcxMFZnbnNCUHdaWlJ3Skd5bkxXX2lmQVZHTmpubDlsUndjQ3ZvNGJtd0dQV190SjlLQ093a3N1ZlB6UDVN?oc=5",
    "date": "2026-11-10",
@@ -454,13 +476,13 @@
    "why": [
     "Affects permanent residence",
     "Announces a change",
-    "Major story (9 headlines that day)"
+    "Major story (14 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -483,7 +505,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -506,7 +528,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -529,8 +551,8 @@
    "tags": [
     "Budget & Fiscal"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Policy",
@@ -552,7 +574,29 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 6,
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 92,
+   "title": "IIFL Finance to raise Rs 6,414 Cr led by Blackstone",
+   "url": "https://yourstory.com/2026/11/iifl-finance-to-raise-rs-6414-crore-with-blackstone-leading-rs-5000-crore-primary-infusion",
+   "date": "2026-11-10",
+   "source": "YourStory",
+   "label": "India · Other",
+   "snippet": "Promoters to put in Rs 1,264 crore through warrants; capital adequacy to rise to about 30%",
+   "lead": "IIFL Finance to raise Rs 6,414 Cr led by Blackstone Funds managed by Blackstone Private Equity will invest Rs 5,000 crore ($535 million) in compulsorily convertible preference shares. Team YS 17549 Stories Tuesday November 10, 2026 , 3 min Read IIFL Finance has approved a Rs 6,414 crore ($686 million) primary capital raise, with Blackstone leading the round. The board cleared the preferential issue at a meeting on Tuesday. The deal is ...",
+   "image": "https://images.yourstory.com/cs/wordpress/2018/03/yourstory-shopatplaces-funding.jpg",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $675M: round or valuation)"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 8,
    "must_read": false
   },
   {
@@ -575,7 +619,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 7,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -598,7 +642,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 8,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -622,7 +666,30 @@
     "IPO & Listing",
     "Policy & Regulation"
    ],
-   "rank": 9,
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "Anthropic targets upto $1.4T valuation with $70 to $78 IPO price range",
+   "url": "https://yourstory.com/2026/11/anthropic-sets-70-to-78-price-range-for-its-ipo",
+   "date": "2026-11-10",
+   "source": "YourStory",
+   "label": "India · Other",
+   "snippet": "Anthropic will be valued at $1.41 trillion at the upper end of its IPO price band and the shares will be traded on Nasdaq.",
+   "lead": "Anthropic targets upto $1.4T valuation with $70 to $78 IPO price range Anthropic will be valued at $1.41 trillion at the upper end of its IPO price band and the shares will be traded on Nasdaq. Team YS 17549 Stories Tuesday November 10, 2026 , 2 min Read AI company Anthropic has set $70 to $78 as the price band for its initial public offering (IPO) which potentially values the company in the range of $1.26 trillion to $1.41 trillion. ...",
+   "image": "https://images.yourstory.com/cs/2/a0bc5020250711f09884fb7189395d75/2-1747995493948.png",
+   "why": [
+    "IPO & Listing",
+    "Valuation, listing or profitability signal",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 12,
    "must_read": false
   },
   {
@@ -644,7 +711,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 10,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -666,7 +733,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 11,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -688,7 +755,7 @@
    "tags": [
     "Budget & Fiscal"
    ],
-   "rank": 12,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -712,7 +779,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 13,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -736,53 +803,28 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 14,
+   "rank": 17,
    "must_read": false
   },
   {
-   "desk": "Startups",
+   "desk": "Policy",
    "score": 10,
    "priority": 77,
-   "title": "Tech investor SoftBank Group logs $7 bn quarterly net loss",
-   "url": "https://economictimes.indiatimes.com/tech/technology/tech-investor-softbank-group-logs-7-bn-quarterly-net-loss/articleshow/135703058.cms",
+   "title": "PLI Scheme for Medical Devices extended up to 2035–36; Fresh applications invited",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334770",
    "date": "2026-11-10",
-   "source": "ET Startups",
-   "label": "Global · Fintech",
-   "snippet": "The company's profits routinely see wild fluctuations linked to the volatile value of global technology stocks and its changing portfolio of investments and acquisitions.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-3264103,resizemode-75,msid-135703058/tech/technology/tech-investor-softbank-group-logs-7-bn-quarterly-net-loss.jpg",
+   "source": "PIB",
+   "label": "Agriculture & Food",
+   "snippet": "The Government of India has invited fresh applications under the Production Linked Incentive Scheme",
+   "lead": "Ministry of Chemicals and Fertilizers : Department of Pharmaceuticals PLI Scheme for Medical Devices extended up to 2035–36; Fresh applications invited Focus on Critical Component Manufacturing Scheme guidelines made easier and investor friendly for Ease of Doing Business Minimum Sales Threshold Requirement to Claim Incentive Discontinued Minimum Investment Requirement Trimmed Posted On: 10 NOV 2026 6:30PM by PIB Delhi The Government ...",
+   "image": null,
    "why": [
-    "Financials",
-    "Very large figure in headline (about $7,000M: round or valuation)"
+    "Subsidy or incentive"
    ],
    "tags": [
-    "Financials",
-    "Fintech"
+    "Agriculture & Food"
    ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 77,
-   "title": "Arka Fincap raises Rs 525 Cr from The Rise Funds of TPG",
-   "url": "https://yourstory.com/2026/11/arka-fincap-raises-rs-525-crore-from-the-rise-funds-of-tpg",
-   "date": "2026-11-10",
-   "source": "YourStory",
-   "label": "India · Fintech",
-   "snippet": "Arka Fincap was founded in 2018\n\nArka Fincap will use this capital for expansion, investments into technology and risk management capabilities\n\nArka Fincap Limited, a Kirloskar Group-promoted non-banking financial company (NBFC) has raised an initial investment of Rs 525 crore from The Rise Funds,",
-   "lead": "Arka Fincap raises Rs 525 Cr from The Rise Funds of TPG Arka Fincap will use this capital for expansion, investments into technology and risk management capabilities Team YS 17543 Stories Tuesday November 10, 2026 , 2 min Read Arka Fincap Limited, a Kirloskar Group-promoted non-banking financial company (NBFC) has raised an initial investment of Rs 525 crore from The Rise Funds, the global impact investing arm of TPG. A statement said ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/NBFC-1659964771497.png",
-   "why": [
-    "Funding",
-    "Sizeable deal (about $55M)"
-   ],
-   "tags": [
-    "Funding",
-    "Fintech"
-   ],
-   "rank": 16,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -805,30 +847,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 17,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 9,
-   "priority": 75,
-   "title": "UK lists categories of migrants who can secure permanent residence after 5 years",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNVNST1pFSm5pQ2t4QXdHMmdGMTBFOXh1eEJoNExkVkdtZHV1RG5YanEwVHpYNkRTZ0w4RDRKM2FzQUx0WUVXT0xyY0w0ODA3NFlWVDcySmNWbFdnM1lJSG9TUGtGYlZvOFl1MTF5OWVlSmFkaWpzTzlzSHRFblVDaWl1UW5vc2NEblBsNURQdnlpTXlJQ184NkZYT0pUUmFNTC1aU01GdTJaY2dNOWUzY1RmYkFXZVNn0gG-AUFVX3lxTE9aLUYwSkxGTHNIWXJKaWRVREk2Ymdnd2VGSkx5TldTclZaMmFYYzJYOVpiYmZwNmNtWl9MS08zU2NDRmMxd1dkXzJTdU9VY1VsRWtEeEhZR3ZpeERVMUVPMkRrOFhJLU5rR3BCRjZQNEtxbjQxNlBjSlV6V3diVWdDRl9VaVEyZVFMMFZYek8wS1E4UnZiVEdnT18zdlIzMVRVX29fSkVPTllsWTE4ZmhrMkUtdGJOdVRlbWdWSUE?oc=5",
-   "date": "2026-11-09",
-   "source": "Vanguard News",
-   "label": "United Kingdom",
-   "snippet": "The UK government has outlined categories of foreign nationals who will remain eligible to obtain permanent residence after five years",
-   "lead": "",
-   "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/09/UKJ.jpeg",
-   "why": [
-    "Affects permanent residence",
-    "Major story (11 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "United Kingdom"
-   ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -851,29 +870,29 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 19,
+   "rank": 20,
    "must_read": false
   },
   {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 62,
-   "title": "TRAI releases “The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026”",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2333541",
-   "date": "2026-11-06",
-   "source": "PIB",
-   "label": "Technology & Telecom",
-   "snippet": "The Telecom Regulatory Authority of India (TRAI) today released “The Register of Interconnect Agreem",
-   "lead": "Ministry of Communications TRAI releases “The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026” Posted On: 06 NOV 2026 2:22PM by PIB Delhi The Telecom Regulatory Authority of India (TRAI) today released “The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026” . These regulations will take effect from 1 st January 2027. Interconnection in telecommunications refers to the commercial and ...",
-   "image": null,
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 58,
+   "title": "Germany Sets Minimum Age Requirement for Foreigners Seeking Citizenship",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTDdDM2VEUTU0YUZSTFJkb0RjdXBnTmxhcmdVeW5XeGlHd3pMbGFXcng5bU9RWFdlanlLYmc5R0RPYUxrdWV4WlU2Qm1hLUN4TWlHNnJVdnN3dlRkZHNfSjktU2FBeVFmZk5tX3FhZm8zUGF5RjF1OTctQ2NfMmFSTmhadzFyeXdaVG1FSzdZaW45VFpONDVMbTdwOE5sc0ZkWXZ4U2pXZkhTLUloZGoxaQ?oc=5",
+   "date": "2026-11-10",
+   "source": "Tuko News",
+   "label": "Germany",
+   "snippet": "Germany has outlined the minimum age requirement for foreign nationals seeking to become German citizens. Find out how old applicants must be to qualify.",
+   "lead": "Europe Germany Sets Minimum Age Requirement for Foreigners Seeking Citizenship Published 10 Nov 2026 at 1:15 PM by Shillah Mwadosho 2 min read Foreigners aged 16 and above can submit their own German citizenship applications in 2026 Applicants below 16 cannot apply independently and must have a legal representative handle the naturalization process Parents or other legally authorized representatives are generally responsible for ...",
+   "image": "https://cdn.tuko.co.ke/images/1200x675/8b3ce3dd254b6417.jpeg?v=1",
    "why": [
-    "Regulator rulebook change",
-    "Rule change"
+    "Affects citizenship"
    ],
    "tags": [
-    "Technology & Telecom"
+    "Citizenship",
+    "Germany"
    ],
-   "rank": 20,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -895,28 +914,6 @@
    "tags": [
     "Australia"
    ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 50,
-   "title": "“Faster routes”: Finland lists 3 ways foreigners can obtain permanent residence",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcmxCbXRMZTZRU3ozYk1nc3l5Nm1mSTlTbUduMDQ5YXZ5OVpMbWVkTG0ySXp2dG01c2FvY0FWUzhWMDdzS1V4M0dRdUd6cDAyYkk5Zmp4SWpqV1dvcHo1Vm9zaF9vYTh1ZzF0NW9YbzlXclVuVU83X1lEWF9od2tWMHFscDZCY0gxeDR3RTQyYlV0NVFOUGdoSXRLYWZJU2pNUkdzUlJHUG5jM0xITVlSS0Vva3VMYmc?oc=5",
-   "date": "2026-11-09",
-   "source": "Tuko News",
-   "label": "Finland",
-   "snippet": "Finland offers three faster routes to permanent residence, including a two-year option; applicants must meet language, income and conduct requirements, too.",
-   "lead": "Finland has opened up three accelerated routes through which foreign nationals can obtain permanent residence, with each pathway tailored to a different applicant profile and carrying its own qualifying period. Finland outlines 3 faster paths to permanent residence. Photo: SOPA Images. Source: Getty Images The Finnish government laid out the pathways, which vary in eligibility requirements and timelines depending on an individual's ...",
-   "image": "https://cdn.tuko.co.ke/images/1200x675/bb3d62796a1c9772.jpeg?v=1",
-   "why": [
-    "Affects permanent residence"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Finland"
-   ],
    "rank": 22,
    "must_read": false
   },
@@ -924,21 +921,19 @@
    "desk": "Immigration",
    "score": 6,
    "priority": 50,
-   "title": "Luxembourg raises work permit salary requirements for foreign workers in 2027",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdFljUlQ2S0lpSDZ4SzMycEp5UmhhNFh0bDBwdkNNc0djT1VYU19KQU5sTDRfOWlhY3hqMkpROGFud2ZxTS10eVpHZS0wS1dRZnZWTEF4eGhkb1U5UDIwRGI5TUw2bV9HajJoeEdnUkVzcXFsZ29rNVFYUUFfem1KT0pDTTNBNzRQY0ctdm9pVVZ5MndOcmc1OHQ1TkdvM2ZmNUhEYk5vSzJvblo4c0xPR1N2dGo?oc=5",
-   "date": "2026-11-08",
-   "source": "Nairametrics",
-   "label": "Luxembourg",
-   "snippet": "Luxembourg has announced an increase in the minimum salary requirements for foreign workers applying for employment permits, with new..",
-   "lead": "",
-   "image": "https://cdn.nairametrics.com/wp-content/uploads/2023/01/luxembourg_rea_205756_014.jpg",
+   "title": "New Zealand: Eligibility Tightened for Partnership-Based Visas",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeHpwNkpwZ25FcENUTjJ6cG5QZTdhR1RCNDJ2TTBLT0Vfa0xjZ2Iyd1dLNVNYVDEwR01pWnFRRGN0SHE0ak12VkdnTm5YajhnMkVkd0h4X0QtWTJoZU1pdUo3N3lKMlNXVFVHQTRaR0pkb1VfRFZvME44S3plNEM4Xzk0YVlvY1JoVFBOLWQ4N2lycXUxRGJhY3Yyc1NBLTlaTGc?oc=5",
+   "date": "2026-11-10",
+   "source": "Fragomen",
+   "label": "New Zealand",
+   "snippet": "Immigration New Zealand has introduced stricter eligibility requirements for dedicated partnership-based visas, effective immediately. Both the applicant and their supporting partner must now be at least 18 when filing and evidence relating to their partnership before both reached that age will no longer count toward eligibility. These ch",
+   "lead": "Immigration New Zealand has introduced stricter eligibility requirements for dedicated partnership-based visas, effective immediately. Both the applicant and their supporting partner must now be at least 18 when filing and evidence relating to their partnership before both reached that age will no longer count toward eligibility. These changes cover the Culturally Arranged Marriage Visitor Visa; partnership-based resident, visitor and ...",
+   "image": "https://www.fragomen.com/a/web/6neDND2DvH5cq9pLmAp2Ht/9PCium/open-graph-main-2025.jpg",
    "why": [
-    "Salary threshold change",
     "Announces a change"
    ],
    "tags": [
-    "Salary threshold",
-    "Luxembourg"
+    "New Zealand"
    ],
    "rank": 23,
    "must_read": false
