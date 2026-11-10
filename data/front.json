@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-10",
- "built": "2026-11-10 10:19 IST",
+ "built": "2026-11-10 12:35 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -33,16 +33,16 @@
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 91.62,
-   "change_pct": -1.03,
-   "asof": "10 Nov 10:09 IST"
+   "value": 90.97,
+   "change_pct": -1.73,
+   "asof": "10 Nov 12:24 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4125.0,
-   "change_pct": 0.25,
-   "asof": "10 Nov 10:09 IST"
+   "value": 4129.0,
+   "change_pct": 0.36,
+   "asof": "10 Nov 12:25 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -166,9 +166,31 @@
    ]
   },
   "Startups": {
-   "total": 1302,
-   "new_today": 1,
+   "total": 1309,
+   "new_today": 8,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+     "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+     "date": "2026-11-05",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
+     "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Zipline hits $21.5B valuation as Walmart expands bet on drone delivery Kirsten Korosec 7:40 AM PST · November 5, 2026 Zipline has raised $1.5 billion and ramped up its partnership with Walmart, a pair of deals that have raised the autonomous drone delivery and logistics startup’s profile and valuation. Zipline and Walmart reached ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2022/09/Zipline-Package-Drop.jpg?resize=1200,675",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $21,500M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -217,53 +239,33 @@
      "desk": "Startups",
      "score": 9,
      "priority": 69,
-     "title": "MakeMyTrip's India arm gets Sebi nod to float IPO",
-     "url": "https://yourstory.com/2026/11/makemytrip-india-arm-gets-sebi-nod-to-float-ipo",
-     "date": "2026-11-09",
-     "source": "YourStory",
-     "label": "India · Policy & Regulation",
-     "snippet": "MakeMyTrip is listed on Nasdaq stock exchange\n\nThe proceeds from the planned IPO will be utilised by MakeMyTrip for long term growth, inorganic opportunities and repurchase of different types shares\n\nNasdaq-listed travel booking platform MakeMyTrip's India subsidiary has received Sebi's approval to",
-     "lead": "MakeMyTrip's India arm gets Sebi nod to float IPO The proceeds from the planned IPO will be utilised by MakeMyTrip for long term growth, inorganic opportunities and repurchase of different types shares Press Trust of India 11266 Stories Monday November 09, 2026 , 2 min Read Nasdaq-listed travel booking platform MakeMyTrip's India subsidiary has received Sebi's approval to launch an initial public offering (IPO), according to an update ...",
-     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imageq2wc-1759136869668.jpg",
-     "why": [
-      "IPO & Listing",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "Policy & Regulation"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 69,
-     "title": "Onodrim raises $300m as European defence rollups heat up",
-     "url": "https://sifted.eu/articles/onodrim-300-european-defence-rollup/",
-     "date": "2026-11-09",
+     "title": "AI accounting startup Sumary raises $25m seed",
+     "url": "https://sifted.eu/articles/sumary-seed-fundraise/",
+     "date": "2026-11-10",
      "source": "Sifted",
-     "label": "Global · Other",
-     "snippet": "The big fundraise comes as European defence ‘rollups’ are becoming a bigger trend",
-     "lead": "Amsterdam-based Onodrim raised $300m in Series A funding to buy up existing defence, space, and industrial manufacturing startups.",
-     "image": "https://content.sifted.eu/wp-content/uploads/2026/11/09093545/assets_MS2030185_000001_Cropped-image-936x1024.png",
+     "label": "Global · AI & Deeptech",
+     "snippet": "AI-native accounting platform Sumary has raised $25m in a seed funding round led by VC firm Singular.",
+     "lead": "AI-native accounting platform Sumary has raised $25m in a seed funding round led by VC firm Singular .",
+     "image": "https://images.sifted.eu/cdn-cgi/image/width=1536,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/09161225/Sumary_FoundersPortraits_18450_1-scaled.jpg",
      "why": [
       "Funding",
-      "Large deal (about $300M)"
+      "Sizeable deal (about $25M)"
      ],
      "tags": [
-      "Funding"
+      "Funding",
+      "AI & Deeptech"
      ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 17,
+   "new_today": 22,
    "items": [
     {
      "desk": "Immigration",
      "score": 6,
-     "priority": 55,
+     "priority": 50,
      "title": "“Up to four years”: Spain approves new seasonal work permits for foreigners",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeXRDV2hLU25aeU1uQUtvRjVtZnkxY0pmYmMwaW1PWHhZRW4xTWI4VVdLVWJTSk83R1VYOTgteUpZUTVUY09HTTFqU3dCQUtBSzZ6aWxwd3BmYkNMam54c3JLcW9qS0JXSklrcGJNZEVnWkdOdFhaVUtnbHVsdXlsejNsLXZHNl8xaG9zLWxvMUxZMVcxZWhzNXc1WWtmQzRBeFJmWHctNmE1bldMUkE?oc=5",
      "date": "2026-11-06",
@@ -284,7 +286,26 @@
     {
      "desk": "Immigration",
      "score": 5,
-     "priority": 45,
+     "priority": 42,
+     "title": "France eases job-loss rules for foreign workers, cuts residence permit processing time",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNN19sTWdINU1DWTlqZlhFbGVWSmFEYTVFNU02TzFXN3cxbVFOVVF0dzh6MEFybGR4T1NOS3ktOTNSOTVvbzJwNWF2ZEtjRVBCTGNNeThWaS1GTEhjQ21VXy1PazlUTUdCNFRsNTNRYWZrOUk1bllMZnlMclRpSWkxdy11cU01RHhHS2xiOElvMUZTbGNUY1NSUUxzRFpiOFFiZHJLMHhOT3Y2SHpZVFRDcmx4dUlVbk40NmpndjJGdkV4dHFkVEItZ0w2Ukt5dEh4RFN1ZGFwODdnRXJQY01RNjJDY2NtN0EwaWdUaG82NNIB9AFBVV95cUxNYW1xMVdmdGJtNDlQTjhZbjRiZ1VHZmcweVF1c2djSHRyQm16QWY0SWxvV2pfbEFjckhtX3ppRTdLWi1xMzBZbE9leTJCU2ZlM0UtX1h1TlpFVmZfaVVSanB6R29UYTA5QXZhRDhOeEVSQXZ5RG9wR0ZiZmNURU0xcjE3REhsek1YakhXc2VWd1htNVJiMXlVbUpFbUZUX3dRWU5SVnJQTFNmU2ZNRUtxWWg0ZnpXX1RuYjNrTk43dXQ5WG5WY190MElQTWZydnhGZ00tenZDVXVxekVTczFQQm9ZYXR5blM2bDNqem5wMXhrRnRT?oc=5",
+     "date": "2026-11-10",
+     "source": "The Economic Times",
+     "label": "France",
+     "snippet": "France has introduced significant immigration changes from October 30, 2026, giving foreign workers more time to find new jobs after unemployment and reducing residence permit processing timelines. Under the revised rules, Temporary Worker permit holders get three months to secure new employment, while EU Blue Card holders get six months ",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1091715,resizemode-75,msid-135701400/nri/latest-updates/france-eases-job-loss-rules-for-foreign-workers-cuts-residence-permit-processing-time.jpg",
+     "why": [
+      "Announces a change"
+     ],
+     "tags": [
+      "France"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 42,
      "title": "17 occupations affected: New Zealand announces major immigration changes in 2027",
      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeURrSUQ3X2dRVUxZeUt5b3JzVEJlQjZEajdpejhUbFV5ZG5SWW16dnBtc2wxOXZCVlRJZFRqaGozRjlaSXg3WURXTkRMR29EVDRHS21SYnU3SmpQbXlkSm80YXhxQXRMeWNjWFZTbkRyZ21UM0RSYkFjNFhhVFg4N0pZa3VKcDFsUWlvWlpyQVpvWWJYQXBpX1ZLbk1xRl9QdHZ4LW9Vamc4Mmw2OGJjc2dmTQ?oc=5",
      "date": "2026-11-09",
@@ -298,26 +319,6 @@
      ],
      "tags": [
       "New Zealand"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 45,
-     "title": "Last call to take Norway's citizenship and social studies tests in 2026",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYmVxaUtJMDdkU2R0YWUyUVRMTzl2STdXdkxxQURRNEh2Q0pXVUlMMUt6OGptczZfWkJBdDRnbUdva2lld1BHcm1ELVZnMFlKUmc5TnJid0NnemM4UlZfemxCdzNCRWh5WE5GaUVpU0RtYjA3ekFLeWFRNWlzMHBHemtrdTg5WU9iWjRkYlZDVVZNSWszanRBSWN6M3VHZzlkU1FwWU13?oc=5",
-     "date": "2026-11-05",
-     "source": "The Local Norway",
-     "label": "Norway",
-     "snippet": "If you want to complete your Norwegian social studies or citizenship test before the end of 2026 and keep your immigration or residency process moving, you are still in time to secure a place.",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source If you want to complete your Norwegian social studies or citizenship test before the end of 2026 and keep your immigration or residency process moving, you are still in time to secure a place. Whether you are ...",
-     "image": null,
-     "why": [
-      "Affects citizenship"
-     ],
-     "tags": [
-      "Citizenship",
-      "Norway"
      ]
     }
    ]
@@ -440,23 +441,23 @@
   },
   {
    "desk": "Immigration",
-   "score": 11,
+   "score": 12,
    "priority": 100,
-   "title": "Canada creates a permanent immigration pathway to help rural communities attract and retain talent",
-   "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/11/canada-creates-a-permanent-immigration-pathway-to-help-rural-communities-attract-and-retain-talent0.html",
-   "date": "2026-11-09",
-   "source": "IRCC (Government of Canada)",
+   "title": "Canada extends rural immigration program offering permanent residency",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wWXFIU1ZHZXJOUFdXaXcxMFZnbnNCUHdaWlJ3Skd5bkxXX2lmQVZHTmpubDlsUndjQ3ZvNGJtd0dQV190SjlLQ093a3N1ZlB6UDVN?oc=5",
+   "date": "2026-11-10",
+   "source": "شبكة تواصل الإخبارية",
    "label": "Canada",
    "snippet": "",
    "lead": "",
    "image": null,
    "why": [
-    "Affects work visas",
-    "Official government notice",
-    "Major story (12 headlines that day)"
+    "Affects permanent residence",
+    "Announces a change",
+    "Major story (8 headlines that day)"
    ],
    "tags": [
-    "Work visa",
+    "PR / Settlement",
     "Canada"
    ],
    "rank": 2,
@@ -739,24 +740,24 @@
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 9,
-   "priority": 82,
-   "title": "UK lists categories of migrants who can secure permanent residence after 5 years",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNVNST1pFSm5pQ2t4QXdHMmdGMTBFOXh1eEJoNExkVkdtZHV1RG5YanEwVHpYNkRTZ0w4RDRKM2FzQUx0WUVXT0xyY0w0ODA3NFlWVDcySmNWbFdnM1lJSG9TUGtGYlZvOFl1MTF5OWVlSmFkaWpzTzlzSHRFblVDaWl1UW5vc2NEblBsNURQdnlpTXlJQ184NkZYT0pUUmFNTC1aU01GdTJaY2dNOWUzY1RmYkFXZVNn0gG-AUFVX3lxTE9aLUYwSkxGTHNIWXJKaWRVREk2Ymdnd2VGSkx5TldTclZaMmFYYzJYOVpiYmZwNmNtWl9MS08zU2NDRmMxd1dkXzJTdU9VY1VsRWtEeEhZR3ZpeERVMUVPMkRrOFhJLU5rR3BCRjZQNEtxbjQxNlBjSlV6V3diVWdDRl9VaVEyZVFMMFZYek8wS1E4UnZiVEdnT18zdlIzMVRVX29fSkVPTllsWTE4ZmhrMkUtdGJOdVRlbWdWSUE?oc=5",
-   "date": "2026-11-09",
-   "source": "Vanguard News",
-   "label": "United Kingdom",
-   "snippet": "The UK government has outlined categories of foreign nationals who will remain eligible to obtain permanent residence after five years",
-   "lead": "",
-   "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/09/UKJ.jpeg",
+   "desk": "Startups",
+   "score": 10,
+   "priority": 77,
+   "title": "Arka Fincap raises Rs 525 Cr from The Rise Funds of TPG",
+   "url": "https://yourstory.com/2026/11/arka-fincap-raises-rs-525-crore-from-the-rise-funds-of-tpg",
+   "date": "2026-11-10",
+   "source": "YourStory",
+   "label": "India · Fintech",
+   "snippet": "Arka Fincap was founded in 2018\n\nArka Fincap will use this capital for expansion, investments into technology and risk management capabilities\n\nArka Fincap Limited, a Kirloskar Group-promoted non-banking financial company (NBFC) has raised an initial investment of Rs 525 crore from The Rise Funds,",
+   "lead": "Arka Fincap raises Rs 525 Cr from The Rise Funds of TPG Arka Fincap will use this capital for expansion, investments into technology and risk management capabilities Team YS 17543 Stories Tuesday November 10, 2026 , 2 min Read Arka Fincap Limited, a Kirloskar Group-promoted non-banking financial company (NBFC) has raised an initial investment of Rs 525 crore from The Rise Funds, the global impact investing arm of TPG. A statement said ...",
+   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/NBFC-1659964771497.png",
    "why": [
-    "Affects permanent residence",
-    "Major story (11 headlines that day)"
+    "Funding",
+    "Sizeable deal (about $55M)"
    ],
    "tags": [
-    "PR / Settlement",
-    "United Kingdom"
+    "Funding",
+    "Fintech"
    ],
    "rank": 15,
    "must_read": false
@@ -785,30 +786,6 @@
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 77,
-   "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
-   "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
-   "date": "2026-11-05",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
-   "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Zipline hits $21.5B valuation as Walmart expands bet on drone delivery Kirsten Korosec 7:40 AM PST · November 5, 2026 Zipline has raised $1.5 billion and ramped up its partnership with Walmart, a pair of deals that have raised the autonomous drone delivery and logistics startup’s profile and valuation. Zipline and Walmart reached ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2022/09/Zipline-Package-Drop.jpg?resize=1200,675",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $21,500M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 17,
-   "must_read": false
-  },
-  {
    "desk": "Policy",
    "score": 10,
    "priority": 77,
@@ -827,6 +804,29 @@
    ],
    "tags": [
     "Banking & Rates"
+   ],
+   "rank": 17,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 75,
+   "title": "UK lists categories of migrants who can secure permanent residence after 5 years",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNVNST1pFSm5pQ2t4QXdHMmdGMTBFOXh1eEJoNExkVkdtZHV1RG5YanEwVHpYNkRTZ0w4RDRKM2FzQUx0WUVXT0xyY0w0ODA3NFlWVDcySmNWbFdnM1lJSG9TUGtGYlZvOFl1MTF5OWVlSmFkaWpzTzlzSHRFblVDaWl1UW5vc2NEblBsNURQdnlpTXlJQ184NkZYT0pUUmFNTC1aU01GdTJaY2dNOWUzY1RmYkFXZVNn0gG-AUFVX3lxTE9aLUYwSkxGTHNIWXJKaWRVREk2Ymdnd2VGSkx5TldTclZaMmFYYzJYOVpiYmZwNmNtWl9MS08zU2NDRmMxd1dkXzJTdU9VY1VsRWtEeEhZR3ZpeERVMUVPMkRrOFhJLU5rR3BCRjZQNEtxbjQxNlBjSlV6V3diVWdDRl9VaVEyZVFMMFZYek8wS1E4UnZiVEdnT18zdlIzMVRVX29fSkVPTllsWTE4ZmhrMkUtdGJOdVRlbWdWSUE?oc=5",
+   "date": "2026-11-09",
+   "source": "Vanguard News",
+   "label": "United Kingdom",
+   "snippet": "The UK government has outlined categories of foreign nationals who will remain eligible to obtain permanent residence after five years",
+   "lead": "",
+   "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/09/UKJ.jpeg",
+   "why": [
+    "Affects permanent residence",
+    "Major story (11 headlines that day)"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "United Kingdom"
    ],
    "rank": 18,
    "must_read": false
@@ -855,28 +855,6 @@
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 64,
-   "title": "APAC Immigration Updates: Australia, India, Japan & More",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYmhTal84N1h0R3M2Skt4YWxURlhYVEhpcDRrd2RxR18yVTFWVVlQQUVQN3Frd0dFYUVnUHdQMGNoTGdsbmdNV0VYYXZYbC16QmU2aHVuOTN5dWhjRmpGRlU2eWY4NFJLajBkeXR5SWlLeHZQM1FvTHFZV3R5emJ2MEVvaklwbndqWVdSbENDWFBqeHJOd1BvcnpGVjNKc2NydFZxaDJqTG1pODY1?oc=5",
-   "date": "2026-11-09",
-   "source": "Clark Hill",
-   "label": "Australia",
-   "snippet": "Explore APAC immigration updates affecting employers and global mobility, including visa and work permit changes across Australia, India, Japan, New Zealand, and Vietnam.",
-   "lead": "Clark Hill’s Outbound Immigration & Global Mobility practice guides corporate clients and individuals through complex global immigration challenges worldwide. We pride ourselves on creative, compliant, and people-centered solutions – looking at global mobility from a holistic perspective in an ever-changing immigration environment. Our team assists with short-term assignments, long-term relocations, consular processing, document ...",
-   "image": "https://media.clarkhill.com/wp-content/uploads/2020/10/05134526/ClarkHillSocial.png",
-   "why": [
-    "Major story (8 headlines that day)",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Australia"
-   ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
    "desk": "Policy",
    "score": 8,
    "priority": 62,
@@ -895,13 +873,35 @@
    "tags": [
     "Technology & Telecom"
    ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 58,
+   "title": "APAC Immigration Updates: Australia, India, Japan & More",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYmhTal84N1h0R3M2Skt4YWxURlhYVEhpcDRrd2RxR18yVTFWVVlQQUVQN3Frd0dFYUVnUHdQMGNoTGdsbmdNV0VYYXZYbC16QmU2aHVuOTN5dWhjRmpGRlU2eWY4NFJLajBkeXR5SWlLeHZQM1FvTHFZV3R5emJ2MEVvaklwbndqWVdSbENDWFBqeHJOd1BvcnpGVjNKc2NydFZxaDJqTG1pODY1?oc=5",
+   "date": "2026-11-09",
+   "source": "Clark Hill",
+   "label": "Australia",
+   "snippet": "Explore APAC immigration updates affecting employers and global mobility, including visa and work permit changes across Australia, India, Japan, New Zealand, and Vietnam.",
+   "lead": "Clark Hill’s Outbound Immigration & Global Mobility practice guides corporate clients and individuals through complex global immigration challenges worldwide. We pride ourselves on creative, compliant, and people-centered solutions – looking at global mobility from a holistic perspective in an ever-changing immigration environment. Our team assists with short-term assignments, long-term relocations, consular processing, document ...",
+   "image": "https://media.clarkhill.com/wp-content/uploads/2020/10/05134526/ClarkHillSocial.png",
+   "why": [
+    "Major story (8 headlines that day)",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Australia"
+   ],
    "rank": 21,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 6,
-   "priority": 55,
+   "priority": 50,
    "title": "“Faster routes”: Finland lists 3 ways foreigners can obtain permanent residence",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcmxCbXRMZTZRU3ozYk1nc3l5Nm1mSTlTbUduMDQ5YXZ5OVpMbWVkTG0ySXp2dG01c2FvY0FWUzhWMDdzS1V4M0dRdUd6cDAyYkk5Zmp4SWpqV1dvcHo1Vm9zaF9vYTh1ZzF0NW9YbzlXclVuVU83X1lEWF9od2tWMHFscDZCY0gxeDR3RTQyYlV0NVFOUGdoSXRLYWZJU2pNUkdzUlJHUG5jM0xITVlSS0Vva3VMYmc?oc=5",
    "date": "2026-11-09",
@@ -923,7 +923,7 @@
   {
    "desk": "Immigration",
    "score": 6,
-   "priority": 55,
+   "priority": 50,
    "title": "Luxembourg raises work permit salary requirements for foreign workers in 2027",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdFljUlQ2S0lpSDZ4SzMycEp5UmhhNFh0bDBwdkNNc0djT1VYU19KQU5sTDRfOWlhY3hqMkpROGFud2ZxTS10eVpHZS0wS1dRZnZWTEF4eGhkb1U5UDIwRGI5TUw2bV9HajJoeEdnUkVzcXFsZ29rNVFYUUFfem1KT0pDTTNBNzRQY0ctdm9pVVZ5MndOcmc1OHQ1TkdvM2ZmNUhEYk5vSzJvblo4c0xPR1N2dGo?oc=5",
    "date": "2026-11-08",
