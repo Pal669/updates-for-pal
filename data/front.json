@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-10",
- "built": "2026-11-10 05:57 IST",
+ "built": "2026-11-10 10:19 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -19,30 +19,30 @@
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 81028.0,
-   "change_pct": 2.17,
+   "value": 81107.0,
+   "change_pct": 0.1,
    "asof": "09 Nov 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 93.9,
-   "change_pct": -0.59,
-   "asof": "10 Nov 01:56 IST"
+   "value": 93.92,
+   "change_pct": 0.02,
+   "asof": "10 Nov 09:25 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 92.34,
-   "change_pct": -6.08,
-   "asof": "10 Nov 05:46 IST"
+   "value": 91.62,
+   "change_pct": -1.03,
+   "asof": "10 Nov 10:09 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4142.0,
-   "change_pct": 1.64,
-   "asof": "10 Nov 05:46 IST"
+   "value": 4125.0,
+   "change_pct": 0.25,
+   "asof": "10 Nov 10:09 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -258,7 +258,7 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 10,
+   "new_today": 17,
    "items": [
     {
      "desk": "Immigration",
@@ -318,27 +318,6 @@
      "tags": [
       "Citizenship",
       "Norway"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 45,
-     "title": "Japan unlikely to raise cap for foreign workers despite labor shortages",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeUl1ZUNIYVFMQWhJcVNLWFlBN2ROR2JiQmZSU2h3a2RYZTVrajAxOFo4MVV4V1F0ZkI4TEZ4d3g4R0RGRVloQm1rMi0wcjJDTVphZDFxVjR6Sk5sQ2lGeXJuOEdySXdCZ1g0Ym9FTlJqdHVIZFNqelJrcFlrWGhBVg?oc=5",
-     "date": "2026-11-04",
-     "source": "The Japan Times",
-     "label": "Japan",
-     "snippet": "Kimi Onoda, minister in charge of policies related to foreign nationals, said demand for a special visa category is expected to eventually decline.",
-     "lead": "",
-     "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572204.jpg?v=3.1",
-     "why": [
-      "Quota or cap change",
-      "Announces a change"
-     ],
-     "tags": [
-      "Quota / Caps",
-      "Japan"
      ]
     }
    ]
@@ -474,7 +453,7 @@
    "why": [
     "Affects work visas",
     "Official government notice",
-    "Major story (11 headlines that day)"
+    "Major story (12 headlines that day)"
    ],
    "tags": [
     "Work visa",
