@@ -1,6 +1,6 @@
 {
- "edition": "2026-11-11",
- "built": "2026-11-11 23:35 IST",
+ "edition": "2026-11-12",
+ "built": "2026-11-12 04:32 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,15 +12,15 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25255.0,
-   "change_pct": 0.84,
+   "value": 25045.0,
+   "change_pct": 0.06,
    "asof": "11 Nov 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 81879.0,
-   "change_pct": 0.95,
+   "value": 81107.0,
+   "change_pct": 0.1,
    "asof": "11 Nov 15:32 IST"
   },
   {
@@ -28,162 +28,160 @@
    "dp": 2,
    "value": 93.68,
    "change_pct": -0.28,
-   "asof": "11 Nov 23:22 IST"
+   "asof": "12 Nov 04:17 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 93.12,
-   "change_pct": 1.78,
-   "asof": "11 Nov 23:25 IST"
+   "value": 92.63,
+   "change_pct": 1.25,
+   "asof": "12 Nov 03:28 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4005.0,
-   "change_pct": -0.64,
-   "asof": "11 Nov 23:25 IST"
+   "value": 3994.0,
+   "change_pct": -0.89,
+   "asof": "12 Nov 03:29 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
    "value": 5.0,
    "change_pct": 0.3,
-   "asof": "11 Nov 23:19 IST"
+   "asof": "12 Nov 01:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "DheyaTech",
-   "tagline": "Bengaluru aerospace propulsion startup",
-   "what": "Founded in 2018 by aerospace engineers Gurushankara KC, Abhinav Alva and Chetan Kumar. Develops small gas turbine engines (20 kgf to 400 kgf thrust) for aerial platforms and energy systems, with the design, assembly and testing pipeline and its engine control unit built in-house. Expanding into hydrogen-based technology and distributed power generation, including a 60 kW turbogenerator with a hydrogen flexi-fuel combustor developed with IISc.",
+   "company": "Aakash Educational Services",
+   "tagline": "Test-prep coaching chain owned by BYJU'S parent",
+   "what": "Gurugram-based test-prep brand for engineering and medical entrance exams, owned by BYJU'S parent Think & Learn since its 2021 acquisition.",
    "how": [
-    "Sells engines to OEMs: the company says it already has orders from Indian and global OEMs but did not disclose names or values.",
-    "Inferred: revenue is hardware sales; the article gives no pricing or revenue figures."
+    "Coaching fees: Rs 1,956.2 Cr of Rs 2,040.5 Cr operating revenue in FY26 (about 96%, computed).",
+    "Franchisee revenue: Rs 84.4 Cr, up 4% (about 4%, computed)."
    ],
-   "watch": "Pre-revenue-scale hardware: certification timelines and first commercial deliveries are the milestones to track. Article also notes rising investor interest in aerospace and spacetech (D-Propulse Rs 25 Cr in January; InspeCity Rs 100 Cr in August).",
-   "sector": "AI & Deeptech",
+   "watch": "The smaller loss came from one-off accounting gains, not from the business growing: revenue is flat. Ownership is entangled in the BYJU'S group's disputes: Byju Raveendran proposed relinquishing his claimed interest in 17.89 Mn Aakash shares to settle Qatar Holding's arbitration claim of over $235 Mn; lenders (Global TLB lenders via GLAS Trust) are reportedly in advanced talks for a 30% stake valuing Aakash at about $2 Bn.",
+   "sector": "Edtech & Skills",
    "region": "India",
-   "url": "https://inc42.com/buzz/dheyatech-bags-%e2%82%b943-cr-to-scale-indigenous-gas-turbine-engines/"
+   "url": "https://inc42.com/buzz/aakash-trims-fy26-loss-by-16-to-%e2%82%b9186-5-cr-top-line-flat-at-%e2%82%b92040-cr/"
   },
   "country": {
-   "id": "norway",
-   "name": "Norway",
-   "trend": "Stable",
-   "pr": "Permanent residence after 3 years (fee NOK 4,000), requiring an oral Norwegian test at A2, a social studies test and self-support.",
-   "citizenship": "7 years of total residence (within the last 10), PR, Norwegian and social studies tests, clean record. Norway allows dual citizenship (general knowledge).",
-   "pro": "Fastest PR among the Nordic countries here: 3 years.",
-   "con": "Job offer required before applying; no job-seeker route.",
-   "watch": "Salary-floor updates"
+   "id": "spain",
+   "name": "Spain",
+   "trend": "Mixed",
+   "pr": "Long-term residence after 5 years of continuous legal residence.",
+   "citizenship": "10 years standard (2 years for Ibero-American nationals and a few others). Dual citizenship restricted for most nationalities (general knowledge); India requires renunciation anyway.",
+   "pro": "Spanish is a global language, giving optionality beyond Europe.",
+   "con": "10-year citizenship clock.",
+   "watch": "2026 immigration regulation changes"
   }
  },
  "desks": {
   "Policy": {
    "total": 343,
-   "new_today": 10,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
-     "score": 13,
-     "priority": 65,
-     "title": "Cabinet approves Rs.14,500 crore Viability Gap Funding Scheme for development of 92 GWh Grid-Scale Energy Storage Systems",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332474",
-     "date": "2026-11-04",
-     "source": "PIB",
-     "label": "Labour & Social",
-     "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the Viability Gap",
-     "lead": "Cabinet Cabinet approves Rs.14,500 crore Viability Gap Funding Scheme for development of 92 GWh Grid-Scale Energy Storage Systems Scheme to support 30 GWh Battery Energy Storage Systems, 60 GWh Pumped Storage Projects and 2 GWh emerging storage technologies Will accelerate renewable energy integration, strengthen grid stability and ensure reliable and affordable round-the-clock power supply Mandatory domestic content requirement for ...",
+     "score": 8,
+     "priority": 42,
+     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63955",
+     "date": "2026-11-11",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "",
      "image": null,
      "why": [
-      "Cabinet decision",
-      "Cabinet",
-      "Large outlay (Rs 10,000 Cr or more)"
+      "New law or act",
+      "Regulator: RBI"
      ],
      "tags": [
-      "Labour & Social"
+      "Banking & Rates"
      ]
     },
     {
      "desk": "Policy",
-     "score": 11,
-     "priority": 55,
-     "title": "Cabinet approves continuation of the Centrally Sponsored Scheme for Fast Track Special Courts (FTSCs) for expeditious trial of cases of rape and POCSO (Protection of Children from Sexual Offences) Act for a further period of five years (FY 2026-27 to FY 2030-31)",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332483",
-     "date": "2026-11-04",
+     "score": 8,
+     "priority": 42,
+     "title": "PLI Scheme for Medical Devices extended up to 2035–36; Fresh applications invited",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334770",
+     "date": "2026-11-10",
      "source": "PIB",
-     "label": "Labour & Social",
-     "snippet": "The Union Cabinet, chaired by the Prime Minister, has approved the continuation of the Centrally Spo",
-     "lead": "Cabinet Cabinet approves continuation of the Centrally Sponsored Scheme for Fast Track Special Courts (FTSCs) for expeditious trial of cases of rape and POCSO (Protection of Children from Sexual Offences) Act for a further period of five years (FY 2026-27 to FY 2030-31) Posted On: 04 NOV 2026 3:34PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister, has approved the continuation of the Centrally Sponsored Scheme (CSS) for ...",
+     "label": "Agriculture & Food",
+     "snippet": "The Government of India has invited fresh applications under the Production Linked Incentive Scheme",
+     "lead": "Ministry of Chemicals and Fertilizers : Department of Pharmaceuticals PLI Scheme for Medical Devices extended up to 2035–36; Fresh applications invited Focus on Critical Component Manufacturing Scheme guidelines made easier and investor friendly for Ease of Doing Business Minimum Sales Threshold Requirement to Claim Incentive Discontinued Minimum Investment Requirement Trimmed Posted On: 10 NOV 2026 6:30PM by PIB Delhi The Government ...",
      "image": null,
      "why": [
-      "Cabinet decision",
-      "Cabinet"
+      "Subsidy or incentive"
      ],
      "tags": [
-      "Labour & Social"
+      "Agriculture & Food"
      ]
     },
     {
      "desk": "Policy",
-     "score": 11,
-     "priority": 55,
-     "title": "Cabinet approves ‘Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR)’, a central sector scheme for the period 2026-27 to 2030-31",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332480",
-     "date": "2026-11-04",
+     "score": 8,
+     "priority": 42,
+     "title": "TRAI releases “The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026”",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2333541",
+     "date": "2026-11-06",
      "source": "PIB",
-     "label": "Labour & Social",
-     "snippet": "The Union Cabinet, chaired by Prime Minister Shri Narendra Modi, today approved the ‘Viksit Bharat I",
-     "lead": "Cabinet Cabinet approves ‘Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR)’, a central sector scheme for the period 2026-27 to 2030-31 Posted On: 04 NOV 2026 3:31PM by PIB Delhi The Union Cabinet, chaired by Prime Minister Shri Narendra Modi, today approved the ‘Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR)’ Scheme for the period FY 2026-27 to FY 2030-31 ...",
+     "label": "Technology & Telecom",
+     "snippet": "The Telecom Regulatory Authority of India (TRAI) today released “The Register of Interconnect Agreem",
+     "lead": "Ministry of Communications TRAI releases “The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026” Posted On: 06 NOV 2026 2:22PM by PIB Delhi The Telecom Regulatory Authority of India (TRAI) today released “The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026” . These regulations will take effect from 1 st January 2027. Interconnection in telecommunications refers to the commercial and ...",
      "image": null,
      "why": [
-      "Cabinet decision",
-      "Cabinet"
+      "Regulator rulebook change",
+      "Rule change"
      ],
      "tags": [
-      "Labour & Social"
+      "Technology & Telecom"
      ]
     },
     {
      "desk": "Policy",
-     "score": 11,
-     "priority": 55,
-     "title": "Cabinet Approves Capex Support Scheme to Promote Critical Mineral Processing with an Outlay of Rs.2,814 Crore for Lithium and Nickel processing",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332476",
-     "date": "2026-11-04",
-     "source": "PIB",
-     "label": "Budget & Fiscal",
-     "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the ‘Capex Support",
-     "lead": "Cabinet Cabinet Approves Capex Support Scheme to Promote Critical Mineral Processing with an Outlay of Rs.2,814 Crore for Lithium and Nickel processing Posted On: 04 NOV 2026 3:29PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the ‘Capex Support Scheme to Promote Critical Mineral Processing’ with a financial outlay of Rs.2,814 crore over a period of five years. Processing of critical ...",
+     "score": 8,
+     "priority": 42,
+     "title": "Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13751&Mode=0",
+     "date": "2026-11-05",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Notifications - Reserve Bank of India",
+     "lead": "",
      "image": null,
      "why": [
-      "Cabinet decision",
-      "Cabinet"
+      "Regulator rulebook change",
+      "Regulator: RBI"
      ],
      "tags": [
-      "Budget & Fiscal"
+      "Banking & Rates"
      ]
     }
    ]
   },
   "Startups": {
-   "total": 1352,
-   "new_today": 26,
+   "total": 1353,
+   "new_today": 1,
    "items": [
     {
      "desk": "Startups",
-     "score": 11,
-     "priority": 92,
-     "title": "Indian startups with over $500M valuation grow to 51 despite low number of AI entities: Report",
-     "url": "https://yourstory.com/2026/11/indian-startups-over-500m-valuation-grow-51-despite-low-number-ai-entities-report",
-     "date": "2026-11-04",
-     "source": "YourStory",
-     "label": "India · AI & Deeptech",
-     "snippet": "The combined value of these 51 entities is about Rs 3.3 lakh crore ($34.1 billion), with an average valuation of about Rs 6,400 crore, and they employ over 60,000 people.",
-     "lead": "Indian startups with over $500M valuation grow to 51 despite low number of AI entities: Report The combined value of these 51 entities is about Rs 3.3 lakh crore ($34.1 billion), with an average valuation of about Rs 6,400 crore, and they employ over 60,000 people. Press Trust of India 11260 Stories Wednesday November 04, 2026 , 3 min Read Indian startups with a valuation of over $500 million have increased to 51 in 2026, from 47 in ...",
-     "image": "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/Imagespzl-1680421400903.jpg",
+     "score": 10,
+     "priority": 91,
+     "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+     "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+     "date": "2026-11-05",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
+     "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Zipline hits $21.5B valuation as Walmart expands bet on drone delivery Kirsten Korosec 7:40 AM PST · November 5, 2026 Zipline has raised $1.5 billion and ramped up its partnership with Walmart, a pair of deals that have raised the autonomous drone delivery and logistics startup’s profile and valuation. Zipline and Walmart reached ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2022/09/Zipline-Package-Drop.jpg?resize=1200,675",
      "why": [
       "Funding",
-      "Very large figure in headline (about $500M: round or valuation)",
+      "Very large figure in headline (about $21,500M: round or valuation)",
       "Valuation, listing or profitability signal"
      ],
      "tags": [
@@ -193,8 +191,8 @@
     },
     {
      "desk": "Startups",
-     "score": 10,
-     "priority": 83,
+     "score": 9,
+     "priority": 82,
      "title": "Anthropic targets upto $1.4T valuation with $70 to $78 IPO price range",
      "url": "https://yourstory.com/2026/11/anthropic-sets-70-to-78-price-range-for-its-ipo",
      "date": "2026-11-10",
@@ -214,77 +212,57 @@
     },
     {
      "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "MDR And AI: Inside The Two Acronyms That Could Shape Razorpay’s ₹6,000 Cr IPO",
-     "url": "https://inc42.com/features/mdr-and-ai-inside-the-two-acronyms-that-could-shape-razorpays-%e2%82%b96000-cr-ipo/",
-     "date": "2026-11-06",
-     "source": "Inc42",
-     "label": "India · AI & Deeptech",
-     "snippet": "Razorpay's upcoming IPO might get a twofold push from the MDR on UPI payments implementation as well as fintech's AI product stack when it seeks public market investment for a ₹ 6000 Cr IPO",
-     "lead": "Razorpay has received SEBI’s approval for a ₹5,000-6,000 Cr IPO at a reported $5 Bn valuation, with a listing expected between January and March 2027. Razorpay is taking a profitability-led pitch to public investors, with its core payments business EBITDA profitable. The 0.4% MDR on large UPI transactions could provide an additional high-margin revenue stream, helping narrow the valuation gap. Analysts estimate MDR could generate ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Razorpay-IPO-social.jpg",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $632M: round or valuation)"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
-     "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+     "score": 9,
+     "priority": 82,
+     "title": "PhysicsWallah’s Q2 Profit Surge, Elo Elo Bags $80 Mn & More",
+     "url": "https://inc42.com/buzz/physicswallahs-q2-profit-surge-elo-elo-bags-80-mn-more/",
      "date": "2026-11-05",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
-     "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Zipline hits $21.5B valuation as Walmart expands bet on drone delivery Kirsten Korosec 7:40 AM PST · November 5, 2026 Zipline has raised $1.5 billion and ramped up its partnership with Walmart, a pair of deals that have raised the autonomous drone delivery and logistics startup’s profile and valuation. Zipline and Walmart reached ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2022/09/Zipline-Package-Drop.jpg?resize=1200,675",
+     "source": "Inc42",
+     "label": "India · Edtech & Skills",
+     "snippet": "PhysicsWallah had a blockbuster Q2 FY27. The quarter saw the edtech giant swing back to profitability and clock record quarterly revenues.",
+     "lead": "PW’s Growth Engines: The edtech major’s Q2 show was driven by healthy revenue growth, tighter cost control and improving operating leverage. Online business remained PW’s primary growth engine, while the offline network continued to add centres and enrolments. The company also benefited from a shift away from direct lending, reducing balance sheet risk. The startup’s next priority is its AI tutor (currently in pilot), which could ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Social-Daily-Brief-40.png",
      "why": [
       "Funding",
-      "Very large figure in headline (about $21,500M: round or valuation)",
+      "Sizeable deal (about $80M)",
       "Valuation, listing or profitability signal"
      ],
      "tags": [
       "Funding",
-      "AI & Deeptech"
+      "Edtech & Skills"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 8,
+     "priority": 73,
+     "title": "Rentomojo Q2 Revenue Jumps 53% YoY To ₹142 Cr, Net Profit Slumps 63%",
+     "url": "https://inc42.com/buzz/rentomojo-q2-fy27-revenue-jumps-53-yoy-to-%e2%82%b9142-cr-net-profit-slumps-63-to-%e2%82%b918-2-cr/",
+     "date": "2026-11-11",
+     "source": "Inc42",
+     "label": "India · Real Estate & Workspaces",
+     "snippet": "Rentomojo continued to scale its rental business through subscriber additions, higher asset utilisation and refurbishment-led operations",
+     "lead": "Rentomojo's Q2 FY27 revenue grew 52.8% YoY to ₹142.1 Cr, while PAT declined 62.6% to ₹18.2 Cr Rentomojo said its FY17 inventory cohort generated cumulative revenue of 5.3X its original value, while 54% of the cohort continues to generate revenue The decline was largely due to a deferred tax credit of ₹32.8 Cr recognised in the year-ago quarter, compared with a deferred tax expense of ₹6.2 Cr in Q2 FY27.",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Rentomojo-social-1.jpg",
+     "why": [
+      "Financials",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Financials",
+      "Real Estate & Workspaces"
      ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 41,
+   "new_today": 5,
    "items": [
     {
      "desk": "Immigration",
-     "score": 7,
-     "priority": 58,
-     "title": "Finland permanent residency: How Kenyans can qualify, requirements and application process",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbkJ2cDVWdTRBUDFEcE13NS1CTmEza3NkNmlTQnZhNjZzR3FuYVRmbE5PdEFwSGJlTWdxYlV1ZVlXazRRWTlwcEtKYWt0M0lfbkFTVEZPZ1NBNVJiN0lkNDFPTWZyMGxUSFRPVkJLUXZQSEV5akxuUWdhcWlfaGtIV3QwZEtOeGJrLTU2OFBMMTlaZ09IMHhRY1N4ZUFnYlZFd1Z4d256LUZZSFIxb0ZXYTJXU1BaT2ZIVFk2WXZBNVBTbndMNEJ2a3cwMmNVcVJ4TWRV?oc=5",
-     "date": "2026-11-11",
-     "source": "K24 Digital",
-     "label": "Finland",
-     "snippet": "Kenyans looking to relocate to Europe may consider Finland as a destination for work, education and family opportunities, but obtaining permanent residence…",
-     "lead": "Kenyans looking to relocate to Europe may consider Finland as a destination for work, education and family opportunities, but obtaining permanent residence requires meeting specific immigration conditions. Finland revised its permanent residence rules on January 8, 2026, introducing different pathways through which foreign nationals can qualify depending on their length of stay, income, education, work experience and knowledge of local ...",
-     "image": "https://k24.digital/wp-content/uploads/2026/11/Finland-2-1200x630.jpg",
-     "why": [
-      "Affects permanent residence"
-     ],
-     "tags": [
-      "PR / Settlement",
-      "Finland"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 50,
+     "score": 5,
+     "priority": 42,
      "title": "New Zealand Introduces Stricter Rules for Partner Visas",
      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUGQxY1BRWTNXRjEyY1FyRXUyY0dDbnF0N21rNlhfU1ZOVTVLMG9BamY4aHpNU1poWlM0dXlncUVBckpsa2p4WHhNMm9jLUZrbDlyeVZ1ZjhsV2dIZHNQU3VfQ3QzTE9yUE41Z2hjWEpGbUh3ZTZaaHRFb2FrcWFYLWtUcGxyd3JFbXZPSjBMSWZlT3FnU0HSAZsBQVVfeXFMTnBmb2NSNWtQMVRCV2hWb1pGcUhWRUFsaEJtSlRkajVjOU41d190azdvZktxLUpFUl9XSTRpV2NWbnNmdENMbGN5aDVYVEh6dURnaGxWR3BSbU80eU5JbDNBUkhmVE9pS3hOT3NtR00zdGJoZ0ZtejhPWWQ1OFlRR1NMdkMxbEZOU0NWR0dOb2NTMWEyUGdXdThLTms?oc=5",
      "date": "2026-11-11",
@@ -304,33 +282,54 @@
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 14,
+   "new_today": 12,
    "items": [
     {
      "desk": "Advisory",
      "score": 10,
-     "priority": 71,
-     "title": "RBI’s Rate Hike: Is the Central Bank Tightening Against Its Own Liquidity?",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdS1qRTZOZGlIbklPcVZ2MEFCa3dSOUdiNUZTbkliLUF6V01Xa09wX3JsWENpbW0xeExjWFAyRVJieXlDaWpGdEtJTl9yMFQyRVJlbzNZbldqWjMwclFtUVdGTGNXOElhUnRCbUFLYWNnTFVtMHBZYXdYU0hYT3cxQnJxRThSYUwyWkJfVnItdDNFS2NKRVpHN2ZBMUdiUVJpMXRnM1pLd2JHa01KeUhHb0h0NVJOaEXSAbcBQVVfeXFMT3UtakU2TmRpSG5JT3FWdjBBQmt3UjlHYjVGU25JYi1BeldNV2tPcF9ybFhDaW1tMXhMY1hQMkVSYnl5Q2lqRnRLSU5fcjBUMkVSZW8zWW5XalozMHJRbVFXRkxjVzhJYVJ0Qm1BS2FjZ0xVbTBwWWF3WFNIWE93MUJycUU4UmFMMlpCX1ZyLXQzRUtjSkVaRzdmQTFHYlFSaTF0ZzNaS3diR2tNSnlIR29IdDVSTmhF?oc=5",
-     "date": "2026-11-10",
-     "source": "MarketExpress",
-     "label": "Regulatory",
-     "snippet": "The RBI has raised interest rates while Indian banks continue to hold substantial surplus liquidity following its FCNR(B) dollar swap operations.Explore the conflict between monetary tightening, liquidity management, rupee defence and the challenge of controlling inflation.",
-     "lead": "Indian banks had excess cash on their books having averaged at ₹5.9 lakh crore daily since August on the same day. Both facts are self-inflicted by the RBI. The central bank is to tighten the money supply, but it’s also picking up money, that it has been printing for four months. The walk needs to be backed. However, if that liquidity isn’t taken off the market, the new rate will be a signal, not a limitation. The problem started ...",
-     "image": "http://www.marketexpress.in/wp-content/uploads/2026/11/RBI-Repo-Rate-Tightening-Display-marketexpress-in.jpg",
+     "priority": 77,
+     "title": "RBI Rate Hike Expectations, Tight Liquidity Put Pressure On Short-Term Bond Yields",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRlM3NU14dUR6ZXFKMVJFZmI4QjZ5SkR2OG1xQWhuVkxmZF9jMzctM3dwTUxyMUpOam52em1rUi1UaENyRkJuclNXUVE0ajM3emlZOWdQVTVKWHFUbDlIU19nbWp1U0FoeU1KNlpBM3N6T3E5NVU3TVR2TDFCUjV1S210R2Z3d25jcFh1OS1JN09DcEFMN2FvRDh3UTZ2Z0o2RmFfQkdJcDNCQ3hPcVo5MjZ6NmVibXpkUWZ0ZWFhZTlHQmZpa1dkRw?oc=5",
+     "date": "2026-11-09",
+     "source": "KNN India",
+     "label": "Debt & Bonds",
+     "snippet": "Short-term Indian government bond yields are expected to face upward pressure amid tightening banking liquidity and expectations of further interest rate hikes by the Reserve Bank of India (RBI), potentially widening the gap with longer-term securiti",
+     "lead": "Your e-mail will be secure with us. We will not share your information with anyone ! RBI Rate Hike Expectations, Tight Liquidity Put Pressure On Short-Term Bond Yields New Delhi, Nov 9 (KNN) Short-term Indian government bond yields are expected to face upward pressure amid tightening banking liquidity and expectations of further interest rate hikes by the Reserve Bank of India (RBI), potentially widening the gap with longer-term ...",
+     "image": "https://knnindia.co.in/uploads/newsfiles/RBI-FIN-9-11-2026.jpg",
      "why": [
       "Regulator: SEBI or RBI",
-      "Interest-rate decision"
+      "Interest-rate decision",
+      "Government bond yields"
      ],
      "tags": [
-      "Regulatory",
-      "Banks & Financials"
+      "Debt & Bonds"
      ]
     },
     {
      "desk": "Advisory",
      "score": 9,
-     "priority": 64,
+     "priority": 69,
+     "title": "HiLITE Group to Launch Rs. 200 Crore Shariah-Certified Category II AIF",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOEVRbnZac2h3M082NGVfTHhvRV8tUXpmajdyVFlGS2Y4QTZpNmZGNlhDNGlKcmtIT0g4MFpwLUg1R0c4eU9Rc284UURFN090OS1FX2llWjJmZEJ2bDZ4WW9MZ0xmbFFWUWRiSmxPR2N4bzgyTXFvLXFDVldLZ2dNTkJxbnVDWnFhV2RBeDh4OUE1eXZRR21tNENHYk03dXNGa1g5ZTl3R1FuNmgyXy1TYURIMXl1S0FzMkJqRi03NUZhOEZfa0haSlRwWnZsdDg1a2ZkdjhOb3liWUsycWJHZnM5VmTSAeoBQVVfeXFMUC10ci14Z0YyVGR6TmY4Rm1OZGJLb29PaFQ4LXZuTFNGRFU0R1pvYTRQb2FxMUNTZk9mWC1YcURaRnVTaFRQTVJLaWxKdHJQSGhsbUp2NU8xZ1VsR3MybGZiMzg4WHVWb0dSMFZ2NnF6X3AtNTBzZVJISjFFWFV0bldSX05EX1kyM3Uzakt0UjR2UXhZaFdGdEV0ZURBbEdNbXBzR2dhRVdhc3ZCajhyaTVhUzh0Zm5SUG0zc3pTdVFseWpLMVlYVENHU05VV29ucVUwbEUzdC1ES0FtZVkyX0hadTZ1bHdQbDl3?oc=5",
+     "date": "2026-11-11",
+     "source": "Business Standard",
+     "label": "AIF",
+     "snippet": "Kozhikode (Kerala) [India], November 11: Expanding its three-decade journey in real estate and development, HiLITE Group is set to enter the investment management sector with the introduction of its new vertical, HiLITE Investment Management. The venture marks an expansion of the Group's presence beyond real estate development, into a new",
+     "lead": "4 min read Last Updated : Nov 11 2026 | 11:30 PM IST NewsVoir Kozhikode (Kerala) [India], November 11: Expanding its three-decade journey in real estate and development, HiLITE Group is set to enter the investment management sector with the introduction of its new vertical, HiLITE Investment Management. The venture marks an expansion of the Group's presence beyond real estate development, into a new area of business. Its first ...",
+     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/11/full/20261111165245.jpg",
+     "why": [
+      "AIF news",
+      "New product or fund",
+      "Also covered by 2 other outlet(s)"
+     ],
+     "tags": [
+      "AIF"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 69,
      "title": "SEBI Relaxes Accredited Investor Norms for AIF, SIF and PMS; Introduces Rs 5 Crore and Rs 20 Crore Securities Exposure Criteria",
      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRW1rVTYwNXBzWkJKU2pPRmpGNFlOUEgzeEFNODNqWDJGTjI3cjR2akFXSU8xcTRpRVlxMEtNT3VUNC1ma3JkSmJnUHBMSEVqWGFLMjVqWjhKRzlWclBpcGpIdGlmU3BfRlFJZUdrYi01Qk9jMkNLNVdEUm9kQlE5TmVKRUhHRXBGamJqOHBESUZuTm1wZ3JZWnp0SzlxZXBKZzZTWktxVUNNcXdVNnZod0pTR2N2QVMxQTBJOGZWZWF3STMydEgzbnFwMUUxbG5SN1Z1NUM2VGN4UGJQc0pUUVhObkM4eGQzU0pEbzZHRnA2VFl1QUc3WWgtOEZHM3k0V1pwYw?oc=5",
      "date": "2026-11-07",
@@ -351,7 +350,7 @@
     {
      "desk": "Advisory",
      "score": 9,
-     "priority": 64,
+     "priority": 69,
      "title": "Comprehensive Regulatory Analysis: SEBI’s Updated Master Circular for Alternative Investment Funds (November 2026 Framework)",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXlmQTNYbkVsVGFUajBweU5ldFd6N0RQelNEblFoaTJtNGtMeGs0YlNycG80ckl0YzBZdUw3WjdPNGFycnA0c3EycDR6ckpvckktNUY4eFlMalQxcUw5RDJmcVJJRUhseEtGLURzSWk5eXNJMjFBanBKWDAwQTN6UHkwX2ZrMUwzZC1DbHJhTU1VamFzSm1FRzFPM21tdVQwNVBaLWhMN25nZGJsbmc?oc=5",
      "date": "2026-11-06",
@@ -368,27 +367,6 @@
      "tags": [
       "AIF"
      ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 64,
-     "title": "SEBI issues framework allowing AIF, SIF managers and portfolio managers to certify accredited investor...",
-     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRldoSk5YcFpoSWtYdGNCSGZrOTJ0cHRqcVgwd1R2THVNQ2pBZ0lSZkhXSk1xcl93aTFjcXJ4cDFKajFLZFJsRVEydzI1V3FGeDNobW1MSmNVbUJKbDRQNVpLUjZ0SVBRbENEMEhYdEVKSWVVYXhyTkVhUi1pbXFlZ2lMcTl4dlRxU2ZhZTVkS0M3aWFQdWJLcW1UZXAtM2p5ZEo2YjctaXlrVFkwa2s2VW9kN2taUlByVWF5cEctX0Q2RTlJSUhEUjB3ZWkycXFIaTNfcUZQS2F3M3M5UlF5bjNhSHVETGVqQnc3TWQxYi1kT0lOMFlTSDZOZ2lFc0lRSGt30gGIAkFVX3lxTFB6SFRaRHc3c043MHJaci1UeGxoQmhOdVJRYUduOGl4eTlIV0RXdEwwZDQ0bFdXUENJZlE2RkJTTHkwSG5TR1FkZUFqRnh3blpaQmx2aUh1bGc1ZHBCZHNPd0lIR2ZWbnpWMHR5dHZGQllhdXJyZkJVTFlCZ2R5bUhldVl1clgwc3EwbWNtcFJaRzhuYmtEV1FBLWNMb3EyRUp6UVhyNk5MVkVIenRNOGpXSHlZc0hJTERJWDctekcwa0RybFo4Ry1zR082aS1RMnltOFRqMlIwMXNkSllHU2lRbHZuSXNJM0M5UkpWVXp6R1Eza05NSnNTMWI0aUd1WElrdHFiVHpVbg?oc=5",
-     "date": "2026-11-05",
-     "source": "Moneycontrol.com",
-     "label": "PMS",
-     "snippet": "New framework introduces manager-led accreditation as an additional route, provides three-year validity and expands the securities eligible for meeting the minimum exposure threshold",
-     "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
-     "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260924130823_sebi3.jpg",
-     "why": [
-      "PMS news",
-      "Regulator: SEBI or RBI",
-      "Rule or framework change"
-     ],
-     "tags": [
-      "PMS"
-     ]
     }
    ]
   }
@@ -396,7 +374,7 @@
  "items": [
   {
    "desk": "Policy",
-   "score": 20,
+   "score": 19,
    "priority": 100,
    "title": "Cabinet approves Nutrient Based Subsidy (NBS) rates for Rabi 2026-27 (from 01.10.2026 to 31.03.2027) on Phosphatic and Potassic (P&K) fertilizers",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334972",
@@ -420,7 +398,7 @@
   },
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 100,
    "title": "UK AI startup Nscale weighs delaying $35bn IPO amid tech sell-off",
    "url": "https://sifted.eu/articles/nscale-ipo-nvidia-delay/",
@@ -443,7 +421,7 @@
   },
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 100,
    "title": "SoftBank Q2: Lenskart & Meesho Drive Valuation Gains, Ola Electric Books Losses",
    "url": "https://inc42.com/buzz/softbank-q2-lenskart-meesho-drive-valuation-gains-ola-electric-books-losses/",
@@ -466,56 +444,8 @@
    "must_read": true
   },
   {
-   "desk": "Immigration",
-   "score": 12,
-   "priority": 100,
-   "title": "UK Earned Settlement Rules: New Qualifying Periods Explained",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamtHZ0J4QmczMmpGMFNqemZtZ3BTYVpKTGRLQWVYRzVEVmJXajVJM1dTVkN3VzJVTXdEUEN0WTZTcjV0Q2JnTGJnRGQ2NUUyeFB4RXlFV3p0Z1ptRGdycFdpNHU5NGhlb2ZISG4zckE4U0FjdGdzVDNWSjNEcXMwVWR0UHMta2g0TlRTTkpIeXlJN2M?oc=5",
-   "date": "2026-11-11",
-   "source": "Clark Hill",
-   "label": "United Kingdom",
-   "snippet": "Earned settlement reforms introduce 3-, 5-, 10- and 20-year routes based on salary, contribution and character, with implementation now expected by early January 2027.",
-   "lead": "On November 2, 2026, the UK Home Office announced significant reforms to the UK settlement framework under a new “earned settlement” model following the November 2025 consultation. Under the reforms, the qualifying period for settlement will depend on an applicant’s contribution and character rather than generally becoming available after five years of residence: Home Secretary unveils new rules for migrants settling in the UK – GOV.UK ...",
-   "image": "https://media.clarkhill.com/wp-content/uploads/2020/10/05134526/ClarkHillSocial.png",
-   "why": [
-    "Affects permanent residence",
-    "Announces a change",
-    "Major story (8 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "United Kingdom"
-   ],
-   "rank": 4,
-   "must_read": true
-  },
-  {
-   "desk": "Immigration",
-   "score": 12,
-   "priority": 100,
-   "title": "Canada Announces Plans to Clear Major Permanent Residence Backlogs",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS0QzZXNQWjFscGVvNm9SVXFzSnY1ekFkbmRWOHEzNFpWb1Q1OENpeFdjUW5zMDFBeVpick5ocXRsWmNUN1V2RmIyMUJvTzMwczBZRUg0b3dCcmQ1TTQweWg4ZlFZTlRDYkFNMlJnenV5WDl0VXVIR00zeEU2b05pRVBpOE5xQ1ZaQ0s2em9qdjJPaXV3?oc=5",
-   "date": "2026-11-11",
-   "source": "Immigration.ca",
-   "label": "Canada",
-   "snippet": "Canada plans to fast-track permanent residence applications for Ukrainians, Hong Kongers, families and workers under new 2027 immigration measures.",
-   "lead": "",
-   "image": "https://immigration.ca/wp-content/uploads/2024/10/First-15-Things-to-Do-as-a-New-Immigrant-in-Vancouver-Canada.jpg",
-   "why": [
-    "Affects permanent residence",
-    "Announces a change",
-    "Major story (9 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Canada"
-   ],
-   "rank": 5,
-   "must_read": true
-  },
-  {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 100,
    "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
    "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
@@ -534,12 +464,12 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 6,
-   "must_read": false
+   "rank": 4,
+   "must_read": true
   },
   {
    "desk": "Advisory",
-   "score": 14,
+   "score": 13,
    "priority": 100,
    "title": "Easing Oil, Bond Yields May Support Bank Margins, RBI May Hike Repo Rate In December: Jefferies",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObTUtblN2OFNDVFZvNlBzWTZGTkdteVE4RVhOclBiUnIwMUtEX0xoYVQ3Y1Z6aFplLTZZWUJCeEU3bkRLREFvaUZyQnZBNTNndDNOTGJ3WUdkRjZvX29mRlducXhHQ3JEWFVHWEF0MDJTWi1VdFJXeXBXb2U0TUNRWlhBTDZiaWZsd2pVWWo2U2dUeWdINXJ2N0RhWlR4a25KeDY0RFowdG9NcVV4azlfdHZzOUhQVDRxZXM2SEwzTXVzRGJoR1RscXBBMm9oU1F2b1pJeDNMaU56a1V0eG1iNDZzd9IB4wFBVV95cUxObTUtblN2OFNDVFZvNlBzWTZGTkdteVE4RVhOclBiUnIwMUtEX0xoYVQ3Y1Z6aFplLTZZWUJCeEU3bkRLREFvaUZyQnZBNTNndDNOTGJ3WUdkRjZvX29mRlducXhHQ3JEWFVHWEF0MDJTWi1VdFJXeXBXb2U0TUNRWlhBTDZiaWZsd2pVWWo2U2dUeWdINXJ2N0RhWlR4a25KeDY0RFowdG9NcVV4azlfdHZzOUhQVDRxZXM2SEwzTXVzRGJoR1RscXBBMm9oU1F2b1pJeDNMaU56a1V0eG1iNDZzdw?oc=5",
@@ -558,37 +488,61 @@
    "tags": [
     "Debt & Bonds"
    ],
+   "rank": 5,
+   "must_read": true
+  },
+  {
+   "desk": "Immigration",
+   "score": 11,
+   "priority": 92,
+   "title": "Canada Announces Plans to Clear Major Permanent Residence Backlogs",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS0QzZXNQWjFscGVvNm9SVXFzSnY1ekFkbmRWOHEzNFpWb1Q1OENpeFdjUW5zMDFBeVpick5ocXRsWmNUN1V2RmIyMUJvTzMwczBZRUg0b3dCcmQ1TTQweWg4ZlFZTlRDYkFNMlJnenV5WDl0VXVIR00zeEU2b05pRVBpOE5xQ1ZaQ0s2em9qdjJPaXV3?oc=5",
+   "date": "2026-11-11",
+   "source": "Immigration.ca",
+   "label": "Canada",
+   "snippet": "Canada plans to fast-track permanent residence applications for Ukrainians, Hong Kongers, families and workers under new 2027 immigration measures.",
+   "lead": "",
+   "image": "https://immigration.ca/wp-content/uploads/2024/10/First-15-Things-to-Do-as-a-New-Immigrant-in-Vancouver-Canada.jpg",
+   "why": [
+    "Affects permanent residence",
+    "Announces a change",
+    "Major story (10 headlines that day)"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Canada"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 92,
+   "title": "Gold rate climbs after 3% drop: Is a rally likely as Fed Dec rate hike bets surge?",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVWVNQ2VqeGRfZ2xFd2lKM1hhWGlXSm5Dbk9YTFVkeTd5ZjBTSUwxSUF0WGg2XzJhT2xENnM2ZjNpRHY1a3JtcjVvd3VCSjQyR250dDRGMXZmUW1BRWo5RXRnOERyYjNveDV2Sm0wN2lTZFVybzlEYWJpWUg2cnRabVI4ckRURl84MFdnMDVxb3hwdENEVTFLaGx1VjhOZExUY0ZPS05OQk1fQWhBeHNtZ3lOYjBFRXRCM0xvRXVMZnA2Q3kxR1NHVXBmRXNrSGNScjh0S3NuMjR3RzhhV3lpVERQVjRISy05NU1kSmFxTEI1aE93cHFlMEdLdUFJZ00tV2fSAYgCQVVfeXFMTnFjWU42Y0w0X1VaYk1tM1hrZDV6ck9aMDBPMm1vbGlBVjhHek5nVnZ1R09hbVlFRE5jSGpXWHR0Nmp3VDI3Z2dpVC0wdVRzVnNpaGJvWWJXTlRGV241UjctWlI4NVZEbTFjYmNoYUNGY0d5Z3NON1U1Mkc0dnpFTGFjcXI1MDFKMFRCRnVpSFBOQjg5Z0phenpSdkZCdWdBcnhDWlNNdjVldWZtdkl4d2N6NHU0VzRjeEI2eFkxRXl2NEdnb1I0b1k5SGtKUUl5SHRjQUdYQk5vTjBvSDZiX0ZFZE1ZdVNKQkFwQWRwazlvRmNoN1NYaUJsemxkSGNiVEtXNWRianNH?oc=5",
+   "date": "2026-11-11",
+   "source": "The Financial Express",
+   "label": "Gold & Silver",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Interest-rate decision",
+    "Precious metals",
+    "Global macro driver",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Gold & Silver"
+   ],
    "rank": 7,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 12,
-   "priority": 100,
-   "title": "Razorpay gets Sebi nod for Rs 5,000-6,000 Cr IPO; eyes $5B valuation",
-   "url": "https://yourstory.com/2026/11/razorpay-gets-sebi-nod-for-rs-5000-6000-cr-ipo-eyes-5b-valuation",
-   "date": "2026-11-04",
-   "source": "YourStory",
-   "label": "India · Policy & Regulation",
-   "snippet": "The development comes after Razorpay submitted its draft IPO papers with Sebi through the confidential route in June, initiating the process to tap the public markets.",
-   "lead": "Razorpay gets Sebi nod for Rs 5,000-6,000 Cr IPO; eyes $5B valuation The development comes after Razorpay submitted its draft IPO papers with Sebi through the confidential route in June, initiating the process to tap the public markets. Press Trust of India 11260 Stories Wednesday November 04, 2026 , 2 min Read Fintech firm Razorpay has secured approval from markets regulator Sebi for its proposed initial public offering (IPO) of Rs ...",
-   "image": "https://images.yourstory.com/cs/286/d99b1110116911ed9e63f54395117598/RazorpayCEO1600x900-1787059930676.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $5,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Policy & Regulation"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
+   "score": 10,
+   "priority": 91,
    "title": "Exclusive: Nvidia and Unity join Emulate’s $700m fundraise",
    "url": "https://sifted.eu/articles/exclusive-unity-nvidia-emulate/",
    "date": "2026-11-11",
@@ -604,13 +558,13 @@
    "tags": [
     "Funding"
    ],
-   "rank": 9,
+   "rank": 8,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 11,
-   "priority": 92,
+   "score": 10,
+   "priority": 91,
    "title": "IIFL Finance to raise Rs 6,414 Cr led by Blackstone",
    "url": "https://yourstory.com/2026/11/iifl-finance-to-raise-rs-6414-crore-with-blackstone-leading-rs-5000-crore-primary-infusion",
    "date": "2026-11-10",
@@ -626,59 +580,104 @@
    "tags": [
     "Funding"
    ],
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "MDR And AI: Inside The Two Acronyms That Could Shape Razorpay’s ₹6,000 Cr IPO",
+   "url": "https://inc42.com/features/mdr-and-ai-inside-the-two-acronyms-that-could-shape-razorpays-%e2%82%b96000-cr-ipo/",
+   "date": "2026-11-06",
+   "source": "Inc42",
+   "label": "India · AI & Deeptech",
+   "snippet": "Razorpay's upcoming IPO might get a twofold push from the MDR on UPI payments implementation as well as fintech's AI product stack when it seeks public market investment for a ₹ 6000 Cr IPO",
+   "lead": "Razorpay has received SEBI’s approval for a ₹5,000-6,000 Cr IPO at a reported $5 Bn valuation, with a listing expected between January and March 2027. Razorpay is taking a profitability-led pitch to public investors, with its core payments business EBITDA profitable. The 0.4% MDR on large UPI transactions could provide an additional high-margin revenue stream, helping narrow the valuation gap. Analysts estimate MDR could generate ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Razorpay-IPO-social.jpg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $632M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "AI & Deeptech"
+   ],
    "rank": 10,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 11,
-   "priority": 79,
-   "title": "October 2026 Legislation Roundup: From RBI’s Repo Rate Hike to SEBI’s New Settlement Framework",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdzVmSWlQWTB3R3FLZWJGaWZwWW9wUHBBOGQwMHB1cnN4eWxUcFVZV3FwWlJSYkR4R05IaGt1bDlEeklLeUVhWUlabUpROFNVRFgwTlFrcTFITWU4M2RJZkpRcXdDQjRxMkgzaEdwUzBQTWpXQXRRN3YwQWxVZWdBRUNWZE41MXBIU09uNTMyc2M0LVJlTXZDX3FRYmYzS2RJRy0zSWxhUFVFSm93amdaYWo5VFdmTEJOUFE?oc=5",
-   "date": "2026-11-09",
-   "source": "SCC Online",
-   "label": "Regulatory",
-   "snippet": "Legislation Roundup October 2026 covers key developments in financial regulation, GST, data protection, social security, transport and governance.",
-   "lead": "36 updates across finance, GST, data protection, labour, transport, food safety and State governments. As we wrap up October 2026, it is important to take stock of the key legal, regulatory, judicial and economic developments that shaped the month. The Legislation Roundup October 2026 highlights significant updates, including the RBI’s repo rate hike to 5.50% and shift to a calibrated tightening stance, the retention of the 7.1% ...",
-   "image": "https://blog-images.scconline.com/blobblogscconl28830c17bf/blog/wp-content/uploads/2026/11/BLOG-58-28.jpg",
+   "score": 10,
+   "priority": 77,
+   "title": "Gold Prices Recover Above $4,040 as Investors Assess Federal Reserve Rate Hike Expectations",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbE9pY2xWMlFnbjZTNnNOU04tbE1fZzUzQ2xfS3JaUUZ3ZnM4bFpGLUM1QXJ1UEVSOVlzc3ctUUtkYVowR01lQTNEUExDMzlNTU53bnVYN0ZLTTB5ZXpzVE9rcDM3ME9ncTNYM3hoa21UY0trOG9IWHlOVzhHOFNONGtYOHF3WjZ2RXF4S0k5eDZpUEZWVU1IX1V5dGNzQQ?oc=5",
+   "date": "2026-11-11",
+   "source": "Yahoo Finance",
+   "label": "Gold & Silver",
+   "snippet": "Gold prices edged higher on Wednesday, recovering part of the previous session’s losses as investors assessed the possibility of further interest-rate increases by the Federal Reserve following stronger-than-expected US inflation data and comments from central bank officials. At 04:56 GMT, spot gold rose 0.",
+   "lead": "Gold Prices Recover Above $4,040 as Investors Assess Federal Reserve Rate Hike Expectations Fiona Craig Wed, November 11, 2026 at 4:13 AM CST 4 min read GC=F -0.89% Gold prices edged higher on Wednesday, recovering part of the previous session's losses as investors assessed the possibility of further interest-rate increases by the Federal Reserve following stronger-than-expected US inflation data and comments from central bank ...",
+   "image": "https://s.yimg.com/lo/mysterio/api/423ad3be929a6f78b2e50b81a6a3548e5836c0fbf768ab3d640c369a8f2e35a6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2Fd1f83586100d36d0c92826b2d2b00fb4.png",
    "why": [
-    "Regulator: SEBI or RBI",
-    "Rule or framework change",
-    "Interest-rate decision"
+    "Interest-rate decision",
+    "Precious metals",
+    "Global macro driver"
    ],
    "tags": [
-    "Regulatory"
+    "Gold & Silver"
    ],
    "rank": 11,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 11,
-   "priority": 79,
-   "title": "RBI Rate Hike Expectations, Tight Liquidity Put Pressure On Short-Term Bond Yields",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRlM3NU14dUR6ZXFKMVJFZmI4QjZ5SkR2OG1xQWhuVkxmZF9jMzctM3dwTUxyMUpOam52em1rUi1UaENyRkJuclNXUVE0ajM3emlZOWdQVTVKWHFUbDlIU19nbWp1U0FoeU1KNlpBM3N6T3E5NVU3TVR2TDFCUjV1S210R2Z3d25jcFh1OS1JN09DcEFMN2FvRDh3UTZ2Z0o2RmFfQkdJcDNCQ3hPcVo5MjZ6NmVibXpkUWZ0ZWFhZTlHQmZpa1dkRw?oc=5",
-   "date": "2026-11-09",
-   "source": "KNN India",
-   "label": "Debt & Bonds",
-   "snippet": "Short-term Indian government bond yields are expected to face upward pressure amid tightening banking liquidity and expectations of further interest rate hikes by the Reserve Bank of India (RBI), potentially widening the gap with longer-term securiti",
-   "lead": "Your e-mail will be secure with us. We will not share your information with anyone ! RBI Rate Hike Expectations, Tight Liquidity Put Pressure On Short-Term Bond Yields New Delhi, Nov 9 (KNN) Short-term Indian government bond yields are expected to face upward pressure amid tightening banking liquidity and expectations of further interest rate hikes by the Reserve Bank of India (RBI), potentially widening the gap with longer-term ...",
-   "image": "https://knnindia.co.in/uploads/newsfiles/RBI-FIN-9-11-2026.jpg",
+   "score": 10,
+   "priority": 77,
+   "title": "Large banks raise MCLR by up to 20 bps after RBI's repo rate hike",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZEJqMmY5dlh3MVo3M19DTjg3X0lwMGRBTXU5eTZCeEV5eGxCbGZwSTlhR2lYNFU2Wk94V2tCcTlIcjU0UUoyMlJOcWRVY21fdThYd3hfajlzaDVCV0QxYTdYX3NEUTZIaExiQWxHcjkyOFc1Z1FhaFNVNWRrTWZ5YzlaYkIxS1dyOFpySWRMbHRmSUVBUEZyb0NiR1lnanhSTDQxbkRCWFp3V2w1RFZoYld0THNITkpIU2pVNjdSbDZXSG_SAcgBQVVfeXFMT1Q3NkVvZ1dDaGFzY182MGxJN05qZ2JoX0xPdU9NMWFKSjl5U1VUMjFfX1ZsNF82SmRMUDFyOWFMOEtBMHREc2duSEpXWmN1NE5tbGNJcEt5XzRIZzVydi1wdzlYRG80cmhINTZrLVFLMUFNeDc1aUZwVlVCcXZ2QU03Z01NV1l2V3RPT29rYnZ1S3pRa0p4X3ZiMFdwamRtMjlBSjBEMEFqUmpYV0dmTkVVRkdlaHdHN1ZiVWpJYU0wcXViNFdTNVA?oc=5",
+   "date": "2026-11-11",
+   "source": "bfsi.economictimes.indiatimes.com",
+   "label": "Regulatory",
+   "snippet": "Explore how large Indian banks have responded to the RBI",
+   "lead": "Large banks have started raising their marginal cost of funds-based lending rates ( MCLR ), with seven lenders, including State Bank of India (SBI), HDFC Bank , Punjab National Bank (PNB), Bank of India , Indian Bank, Canara Bank and Bank of Baroda , revising their benchmark lending rates over October and November. The revisions come after the Reserve Bank of India (RBI) raised the policy repo rate by 25 basis points to 5.50 per cent ...",
+   "image": "https://etimg.etb2bimg.com/thumb/msid-135730558,imgsize-1954087,width-1200,height=627,overlay-etbfsi,resizemode-75/articles/large-banks-raise-mclr-by-up-to-20-bps-after-rbis-repo-rate-hike.jpg",
    "why": [
     "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Government bond yields"
+    "Interest-rate decision"
    ],
    "tags": [
-    "Debt & Bonds"
+    "Regulatory",
+    "Banks & Financials"
    ],
    "rank": 12,
    "must_read": false
   },
   {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 77,
+   "title": "Reserve Bank of India (Domestic Money Transfer) Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13752&Mode=0",
+   "date": "2026-11-11",
+   "source": "RBI",
+   "label": "Regulatory",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "All Scheduled Commercial Banks, including Regional Rural Banks / Urban Co-operative Banks / State Co-operative Banks / District Central Co-operative Banks / Authorised Payment System Operators and Participants (Banks and Non-banks) With a view to harmonising and consolidating the extant instructions relating to Domestic Money Transfer (DMT), it has been decided to issue the Reserve Bank of India (Domestic Money Transfer) Directions, ...",
+   "image": null,
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Official notice"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
    "desk": "Policy",
-   "score": 15,
-   "priority": 75,
+   "score": 14,
+   "priority": 74,
    "title": "Cabinet approves continuation of Credit Guarantee Fund for Micro Units",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334976",
    "date": "2026-11-11",
@@ -695,13 +694,13 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 13,
+   "rank": 14,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 15,
-   "priority": 75,
+   "score": 14,
+   "priority": 74,
    "title": "Reporting requirement under Foreign Account Tax Compliance Act (FATCA) and Common Reporting Standard (CRS) revised through Income-Tax Act, 2025 read with Income-Tax Rules, 2026",
    "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/reporting-requirement-under-foreign-account-tax-compliance-act-fatca-and-common-reporting-standard-crs-revised-through-income-tax-act-2025-read-with-income-tax-rules-2026_105705.html",
    "date": "2026-11-11",
@@ -719,13 +718,58 @@
    "tags": [
     "Markets & Regulation"
    ],
-   "rank": 14,
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 13,
+   "priority": 68,
+   "title": "Cabinet approves Development of Yuge Yugeen Bharat Museum at North and South Block Complex, New Delhi",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334961",
+   "date": "2026-11-11",
+   "source": "PIB",
+   "label": "Other Policy",
+   "snippet": "The Cabinet Committee on Economic Affairs, chaired by the Prime Minister Shri Narendra Modi, today h",
+   "lead": "Cabinet Committee on Economic Affairs (CCEA) Cabinet approves Development of Yuge Yugeen Bharat Museum at North and South Block Complex, New Delhi Posted On: 11 NOV 2026 3:05PM by PIB Delhi The Cabinet Committee on Economic Affairs, chaired by the Prime Minister Shri Narendra Modi, today has approved the development of the Yuge Yugeen Bharat Museum (YYBM) at the North and South Block Complex, New Delhi, at an estimated total project ...",
+   "image": null,
+   "why": [
+    "Cabinet decision",
+    "Cabinet"
+   ],
+   "tags": [
+    "Other Policy"
+   ],
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 13,
+   "priority": 68,
+   "title": "Inter-Ministerial Group Recommends Asset Monetisation Proposals Worth Over ₹1,100 Crore for Approval by Cabinet-Delegated Alternative Mechanism",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332934",
+   "date": "2026-11-05",
+   "source": "PIB",
+   "label": "Budget & Fiscal",
+   "snippet": "The Inter-Ministerial Group (IMG), chaired by the Secretary, Department of Public Enterprises (DPE),",
+   "lead": "Ministry of Finance Inter-Ministerial Group Recommends Asset Monetisation Proposals Worth Over ₹1,100 Crore for Approval by Cabinet-Delegated Alternative Mechanism Recommendations Cover Surplus Land and Building Assets of CPSEs; IMG Reviews Progress of Asset Monetisation Initiatives Facilitated by NLMC Posted On: 05 NOV 2026 1:16PM by PIB Delhi The Inter-Ministerial Group (IMG), chaired by the Secretary, Department of Public ...",
+   "image": null,
+   "why": [
+    "Cabinet decision",
+    "Capital and ownership policy",
+    "Ministry of Finance"
+   ],
+   "tags": [
+    "Budget & Fiscal"
+   ],
+   "rank": 17,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 9,
-   "priority": 75,
+   "score": 8,
+   "priority": 67,
    "title": "Spain's opposition pledges quotas to cap immigrants entering country",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdk9na1BlWUtPQjNFNXNEVzBxR2E1UkF0c2RVR0xid3RiNGNBM1U3N1N6R2hYeV9vY1R2NGdXSVhmaGZKTW50akU2VWlGMU9jRUJOd0FndDl2cTRoY25RS2dZbG94R1NrekVVcmNTM0hYNWx4dDF6NEkyN2cxZWFiU2ZYRk5TOURQTUVVRFhESnU2TFFlR21kSm5GQ3lfZWxINEE?oc=5",
    "date": "2026-11-11",
@@ -742,82 +786,13 @@
     "Quota / Caps",
     "Spain"
    ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 71,
-   "title": "Gold, silver prices slip after strong rally; US inflation data, Fed rate signals in focus",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPODlBSDc5UlhyaEpNUlNkWTNrQ0p0QzE5Z2JkTmJoeGMzeEtrZC1ZQy12NzEwZ3l1LUtPQlpPa3Fsb1VuQmJXNlpGV0VWWXRBMFZBeWRsZ0pDemNBakxtQnl5aGwwcVhlYjlYSFJOOEUwQ3Z0Mmhxd21GSFpjVVB6ZGVTdXo4VGllX25GandKM1RtWGdIWGpPTUVwb2pxT19uOGJydUtzWFEydVhrSmxMelBkQkxSejg?oc=5",
-   "date": "2026-11-10",
-   "source": "IBTimes India",
-   "label": "Gold & Silver",
-   "snippet": "Gold and silver prices slipped on November 10 after a strong rally in the previous session as investors booked profits and awaited US inflation data. Spot gold fell 0.3 per cent to $4,128.48 per ounce, while silver declined 0.3 per cent to $53.25",
-   "lead": "",
-   "image": "https://data1.ibtimes.co.in/en/full/840684/gold-silver-prices-today-november-3-gold-falls-0-81-silver-slips-2-06-check-24k-22k-rates.png?w=800&h=420",
-   "why": [
-    "Precious metals",
-    "Global macro driver",
-    "Sharp market move",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Gold & Silver"
-   ],
-   "rank": 16,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 71,
-   "title": "Gold, silver prices await US CPI data today as Fed rate hike bets jump to 99%",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUTdMNUJBdThJNTZEZkJ1bnh6WVdmeWRzYkFlOHFxaU9DbmZSS0lNTlg2ZHcwSzZqSEJRa3pNbFR2R01FdnhzVlhkMWNUYXVKMmhHcjBEMklvMnpIXzFsZmVmU094YUc3N1A5QnM3RkJaQmM5LWxOVHNKUy0tY2tRdU1GNkYtY1pJNk1NMV96emt3WlE1Vk03TzNzcUJNMUQ5VFR1TmRaVHdxYnhDbkwwclR0UUxfZkZRTUl0UHdWNUdHOGljVnFtQUJNTdIB0gFBVV95cUxQanZrTV85MWRvdTc4c3R6VEl5eEczb2w3SktSYmtUT0N0ZFhCUEp1d28tdnpqMlB2ek1LdTF5MFA5bnZiR2R6Y2UzOTROc193MmtmUG1zM3dENnVWTVVtS3lwNnpsWW4wMjI4QTZaS1RDR3Z5Q1BqUjRMR0hTV3I0ZDFSRlV2Z2NDSHA5NTRBakhyTTdaQTNNWFVQdmhuVFpydVJhY05fcDBEYUZNSVZiYVoyektxUnY1QTgtR3pvR1J4VXJ5THdUNzVxRHJUVzFKYVE?oc=5",
-   "date": "2026-11-10",
-   "source": "The Financial Express",
-   "label": "Gold & Silver",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver"
-   ],
-   "tags": [
-    "Gold & Silver"
-   ],
-   "rank": 17,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 14,
-   "priority": 70,
-   "title": "Cabinet approves Development of Yuge Yugeen Bharat Museum at North and South Block Complex, New Delhi",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334961",
-   "date": "2026-11-11",
-   "source": "PIB",
-   "label": "Other Policy",
-   "snippet": "The Cabinet Committee on Economic Affairs, chaired by the Prime Minister Shri Narendra Modi, today h",
-   "lead": "Cabinet Committee on Economic Affairs (CCEA) Cabinet approves Development of Yuge Yugeen Bharat Museum at North and South Block Complex, New Delhi Posted On: 11 NOV 2026 3:05PM by PIB Delhi The Cabinet Committee on Economic Affairs, chaired by the Prime Minister Shri Narendra Modi, today has approved the development of the Yuge Yugeen Bharat Museum (YYBM) at the North and South Block Complex, New Delhi, at an estimated total project ...",
-   "image": null,
-   "why": [
-    "Cabinet decision",
-    "Cabinet"
-   ],
-   "tags": [
-    "Other Policy"
-   ],
    "rank": 18,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 13,
-   "priority": 65,
+   "score": 12,
+   "priority": 63,
    "title": "Cabinet approves Continuation of Stand-Up India Scheme",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334978",
    "date": "2026-11-11",
@@ -838,8 +813,8 @@
   },
   {
    "desk": "Policy",
-   "score": 13,
-   "priority": 65,
+   "score": 12,
+   "priority": 63,
    "title": "Cabinet Approves extension of Aqua Line Metro Rail Corridor from Noida Sector-51 to Greater Noida Sector-04 of route length of 8.449 Km with 5 stations",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334969",
    "date": "2026-11-11",
@@ -859,32 +834,9 @@
    "must_read": false
   },
   {
-   "desk": "Policy",
-   "score": 13,
-   "priority": 65,
-   "title": "Inter-Ministerial Group Recommends Asset Monetisation Proposals Worth Over ₹1,100 Crore for Approval by Cabinet-Delegated Alternative Mechanism",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332934",
-   "date": "2026-11-05",
-   "source": "PIB",
-   "label": "Budget & Fiscal",
-   "snippet": "The Inter-Ministerial Group (IMG), chaired by the Secretary, Department of Public Enterprises (DPE),",
-   "lead": "Ministry of Finance Inter-Ministerial Group Recommends Asset Monetisation Proposals Worth Over ₹1,100 Crore for Approval by Cabinet-Delegated Alternative Mechanism Recommendations Cover Surplus Land and Building Assets of CPSEs; IMG Reviews Progress of Asset Monetisation Initiatives Facilitated by NLMC Posted On: 05 NOV 2026 1:16PM by PIB Delhi The Inter-Ministerial Group (IMG), chaired by the Secretary, Department of Public ...",
-   "image": null,
-   "why": [
-    "Cabinet decision",
-    "Capital and ownership policy",
-    "Ministry of Finance"
-   ],
-   "tags": [
-    "Budget & Fiscal"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
    "desk": "Immigration",
-   "score": 7,
-   "priority": 58,
+   "score": 6,
+   "priority": 50,
    "title": "From Singapore to Germany: Countries Ghanaians can visit visa-free with a service passport",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRHRuNG5PZU5lQWs1TGlodEw1SkJtNGVLUWZSTThJdF9LdXZYUi1rcElhRXVGOXFaX2EyaHczWEdzWjhjS3FfN1Z4bWNGb1BXZlM3aDc1cDZMX2tud1lodUNJcjFTaWJkeWdza1gyRjV5TTFyMmN2aVpubTUzeC1xdDZORG1JaXV6T1JWSjJsbGV1YUZPNjJiOG52UHZxUmdFaVlfb1l3SHVUTFpuZ2ZJY2JDRERsWFpSYkVsaTdWQVliaDFpLVZMNDJ0X1RoSVhlQVd1YUxfTTBGTmtOR0E?oc=5",
    "date": "2026-11-11",
@@ -900,13 +852,13 @@
     "Citizenship",
     "Germany"
    ],
-   "rank": 22,
+   "rank": 21,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 7,
-   "priority": 58,
+   "score": 6,
+   "priority": 50,
    "title": "Australian citizenship: Home Affairs clarifies age rules for young applicants",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZW12aWRSNjdKWi1hNVNrZUgxMzFfNVB5LVhkaWY0V2VRbUNVcExyazBrdl92LXQ1LVR2Y01iN3VzM1VRbHdENjFvV3NLa0ZKd0lNcngwSUJVVjVHSHVHMWJmMWRxRFQ2VzRDUzRaWmVaRnRqNVJuOU9mdzVXbnlkeUVHdkpSa05wUjU5WkI4NUJxVW5ieWtxZmpnYXNSU25VNW9vRy1SS1Y?oc=5",
    "date": "2026-11-11",
@@ -921,6 +873,28 @@
    "tags": [
     "Citizenship",
     "Australia"
+   ],
+   "rank": 22,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 6,
+   "priority": 50,
+   "title": "Finland permanent residency: How Kenyans can qualify, requirements and application process",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbkJ2cDVWdTRBUDFEcE13NS1CTmEza3NkNmlTQnZhNjZzR3FuYVRmbE5PdEFwSGJlTWdxYlV1ZVlXazRRWTlwcEtKYWt0M0lfbkFTVEZPZ1NBNVJiN0lkNDFPTWZyMGxUSFRPVkJLUXZQSEV5akxuUWdhcWlfaGtIV3QwZEtOeGJrLTU2OFBMMTlaZ09IMHhRY1N4ZUFnYlZFd1Z4d256LUZZSFIxb0ZXYTJXU1BaT2ZIVFk2WXZBNVBTbndMNEJ2a3cwMmNVcVJ4TWRV?oc=5",
+   "date": "2026-11-11",
+   "source": "K24 Digital",
+   "label": "Finland",
+   "snippet": "Kenyans looking to relocate to Europe may consider Finland as a destination for work, education and family opportunities, but obtaining permanent residence…",
+   "lead": "Kenyans looking to relocate to Europe may consider Finland as a destination for work, education and family opportunities, but obtaining permanent residence requires meeting specific immigration conditions. Finland revised its permanent residence rules on January 8, 2026, introducing different pathways through which foreign nationals can qualify depending on their length of stay, income, education, work experience and knowledge of local ...",
+   "image": "https://k24.digital/wp-content/uploads/2026/11/Finland-2-1200x630.jpg",
+   "why": [
+    "Affects permanent residence"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Finland"
    ],
    "rank": 23,
    "must_read": false
