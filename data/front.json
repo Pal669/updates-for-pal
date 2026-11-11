@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-11",
- "built": "2026-11-11 12:32 IST",
+ "built": "2026-11-11 23:35 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,44 +12,44 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25295.0,
-   "change_pct": 1.0,
-   "asof": "11 Nov 12:32 IST"
+   "value": 25255.0,
+   "change_pct": 0.84,
+   "asof": "11 Nov 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 82232.0,
-   "change_pct": 1.39,
-   "asof": "11 Nov 12:17 IST"
+   "value": 81879.0,
+   "change_pct": 0.95,
+   "asof": "11 Nov 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 93.78,
-   "change_pct": -0.18,
-   "asof": "11 Nov 12:32 IST"
+   "value": 93.68,
+   "change_pct": -0.28,
+   "asof": "11 Nov 23:22 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 92.39,
-   "change_pct": 0.98,
-   "asof": "11 Nov 12:22 IST"
+   "value": 93.12,
+   "change_pct": 1.78,
+   "asof": "11 Nov 23:25 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4065.0,
-   "change_pct": 0.86,
-   "asof": "11 Nov 12:22 IST"
+   "value": 4005.0,
+   "change_pct": -0.64,
+   "asof": "11 Nov 23:25 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 4.98,
-   "change_pct": 2.45,
-   "asof": "11 Nov 01:29 IST"
+   "value": 5.0,
+   "change_pct": 0.3,
+   "asof": "11 Nov 23:19 IST"
   }
  ],
  "features": {
@@ -79,85 +79,85 @@
  },
  "desks": {
   "Policy": {
-   "total": 334,
-   "new_today": 1,
+   "total": 343,
+   "new_today": 10,
    "items": [
     {
      "desk": "Policy",
-     "score": 8,
-     "priority": 62,
-     "title": "Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators",
-     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13751&Mode=0",
-     "date": "2026-11-05",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Notifications - Reserve Bank of India",
-     "lead": "",
-     "image": null,
-     "why": [
-      "Regulator rulebook change",
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 7,
-     "priority": 54,
-     "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on November 09, 2026",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63943",
-     "date": "2026-11-06",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Monday, November 09, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
-     "image": null,
-     "why": [
-      "Rates and liquidity",
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 7,
-     "priority": 54,
-     "title": "In view of upcoming festive season and to enable States to accelerate capital spending and finance their development/ welfare related expenditure, Union Government releases regular tax devolution of ₹1,09,019 crore to State Governments in advance",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2333166",
-     "date": "2026-11-05",
+     "score": 13,
+     "priority": 65,
+     "title": "Cabinet approves Rs.14,500 crore Viability Gap Funding Scheme for development of 92 GWh Grid-Scale Energy Storage Systems",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332474",
+     "date": "2026-11-04",
      "source": "PIB",
-     "label": "Tax, Duties & Trade",
-     "snippet": "The Union Government has released regular instalment of tax devolution to State Governments amountin",
-     "lead": "Ministry of Finance In view of upcoming festive season and to enable States to accelerate capital spending and finance their development/ welfare related expenditure, Union Government releases regular tax devolution of ₹1,09,019 crore to State Governments in advance Posted On: 05 NOV 2026 5:43PM by PIB Delhi The Union Government has released regular instalment of tax devolution to State Governments amounting to Rs. 1,09,019 crore on 5 ...",
+     "label": "Labour & Social",
+     "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the Viability Gap",
+     "lead": "Cabinet Cabinet approves Rs.14,500 crore Viability Gap Funding Scheme for development of 92 GWh Grid-Scale Energy Storage Systems Scheme to support 30 GWh Battery Energy Storage Systems, 60 GWh Pumped Storage Projects and 2 GWh emerging storage technologies Will accelerate renewable energy integration, strengthen grid stability and ensure reliable and affordable round-the-clock power supply Mandatory domestic content requirement for ...",
      "image": null,
      "why": [
-      "Rule change",
-      "Ministry of Finance",
+      "Cabinet decision",
+      "Cabinet",
       "Large outlay (Rs 10,000 Cr or more)"
      ],
      "tags": [
-      "Tax, Duties & Trade"
+      "Labour & Social"
      ]
     },
     {
      "desk": "Policy",
-     "score": 6,
-     "priority": 46,
-     "title": "NLMC Releases RFP for E-Auction of 11 Government Residential Flats Across Three Prime Locations in Prayagraj",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334601",
-     "date": "2026-11-10",
+     "score": 11,
+     "priority": 55,
+     "title": "Cabinet approves continuation of the Centrally Sponsored Scheme for Fast Track Special Courts (FTSCs) for expeditious trial of cases of rape and POCSO (Protection of Children from Sexual Offences) Act for a further period of five years (FY 2026-27 to FY 2030-31)",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332483",
+     "date": "2026-11-04",
      "source": "PIB",
-     "label": "Budget & Fiscal",
-     "snippet": "The National Land Monetization Corporation (NLMC), a wholly owned Government of India company under",
-     "lead": "Ministry of Finance NLMC Releases RFP for E-Auction of 11 Government Residential Flats Across Three Prime Locations in Prayagraj Residential properties located at Muir Road, Thornhill Road and Civil Lines to be offered through a transparent and competitive e-auction process Pre-Bid Meeting Scheduled for 20 November 2026; E-Auction to be Held on 11 December 2026 Posted On: 10 NOV 2026 2:14PM by PIB Delhi The National Land Monetization ...",
+     "label": "Labour & Social",
+     "snippet": "The Union Cabinet, chaired by the Prime Minister, has approved the continuation of the Centrally Spo",
+     "lead": "Cabinet Cabinet approves continuation of the Centrally Sponsored Scheme for Fast Track Special Courts (FTSCs) for expeditious trial of cases of rape and POCSO (Protection of Children from Sexual Offences) Act for a further period of five years (FY 2026-27 to FY 2030-31) Posted On: 04 NOV 2026 3:34PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister, has approved the continuation of the Centrally Sponsored Scheme (CSS) for ...",
      "image": null,
      "why": [
-      "Rule change",
-      "Ministry of Finance"
+      "Cabinet decision",
+      "Cabinet"
+     ],
+     "tags": [
+      "Labour & Social"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 11,
+     "priority": 55,
+     "title": "Cabinet approves ‘Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR)’, a central sector scheme for the period 2026-27 to 2030-31",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332480",
+     "date": "2026-11-04",
+     "source": "PIB",
+     "label": "Labour & Social",
+     "snippet": "The Union Cabinet, chaired by Prime Minister Shri Narendra Modi, today approved the ‘Viksit Bharat I",
+     "lead": "Cabinet Cabinet approves ‘Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR)’, a central sector scheme for the period 2026-27 to 2030-31 Posted On: 04 NOV 2026 3:31PM by PIB Delhi The Union Cabinet, chaired by Prime Minister Shri Narendra Modi, today approved the ‘Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR)’ Scheme for the period FY 2026-27 to FY 2030-31 ...",
+     "image": null,
+     "why": [
+      "Cabinet decision",
+      "Cabinet"
+     ],
+     "tags": [
+      "Labour & Social"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 11,
+     "priority": 55,
+     "title": "Cabinet Approves Capex Support Scheme to Promote Critical Mineral Processing with an Outlay of Rs.2,814 Crore for Lithium and Nickel processing",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332476",
+     "date": "2026-11-04",
+     "source": "PIB",
+     "label": "Budget & Fiscal",
+     "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the ‘Capex Support",
+     "lead": "Cabinet Cabinet Approves Capex Support Scheme to Promote Critical Mineral Processing with an Outlay of Rs.2,814 Crore for Lithium and Nickel processing Posted On: 04 NOV 2026 3:29PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the ‘Capex Support Scheme to Promote Critical Mineral Processing’ with a financial outlay of Rs.2,814 crore over a period of five years. Processing of critical ...",
+     "image": null,
+     "why": [
+      "Cabinet decision",
+      "Cabinet"
      ],
      "tags": [
       "Budget & Fiscal"
@@ -166,9 +166,52 @@
    ]
   },
   "Startups": {
-   "total": 1339,
-   "new_today": 13,
+   "total": 1352,
+   "new_today": 26,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 11,
+     "priority": 92,
+     "title": "Indian startups with over $500M valuation grow to 51 despite low number of AI entities: Report",
+     "url": "https://yourstory.com/2026/11/indian-startups-over-500m-valuation-grow-51-despite-low-number-ai-entities-report",
+     "date": "2026-11-04",
+     "source": "YourStory",
+     "label": "India · AI & Deeptech",
+     "snippet": "The combined value of these 51 entities is about Rs 3.3 lakh crore ($34.1 billion), with an average valuation of about Rs 6,400 crore, and they employ over 60,000 people.",
+     "lead": "Indian startups with over $500M valuation grow to 51 despite low number of AI entities: Report The combined value of these 51 entities is about Rs 3.3 lakh crore ($34.1 billion), with an average valuation of about Rs 6,400 crore, and they employ over 60,000 people. Press Trust of India 11260 Stories Wednesday November 04, 2026 , 3 min Read Indian startups with a valuation of over $500 million have increased to 51 in 2026, from 47 in ...",
+     "image": "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/Imagespzl-1680421400903.jpg",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $500M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
+     "title": "Anthropic targets upto $1.4T valuation with $70 to $78 IPO price range",
+     "url": "https://yourstory.com/2026/11/anthropic-sets-70-to-78-price-range-for-its-ipo",
+     "date": "2026-11-10",
+     "source": "YourStory",
+     "label": "India · Other",
+     "snippet": "Anthropic will be valued at $1.41 trillion at the upper end of its IPO price band and the shares will be traded on Nasdaq.",
+     "lead": "Anthropic targets upto $1.4T valuation with $70 to $78 IPO price range Anthropic will be valued at $1.41 trillion at the upper end of its IPO price band and the shares will be traded on Nasdaq. Team YS 17549 Stories Tuesday November 10, 2026 , 2 min Read AI company Anthropic has set $70 to $78 as the price band for its initial public offering (IPO) which potentially values the company in the range of $1.26 trillion to $1.41 trillion. ...",
+     "image": "https://images.yourstory.com/cs/2/a0bc5020250711f09884fb7189395d75/2-1747995493948.png",
+     "why": [
+      "IPO & Listing",
+      "Valuation, listing or profitability signal",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "IPO & Listing"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -211,89 +254,45 @@
       "Funding",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Revolut completes funding round at $115 billion valuation",
-     "url": "https://economictimes.indiatimes.com/tech/technology/revolut-completes-funding-round-at-115-billion-valuation/articleshow/135543134.cms",
-     "date": "2026-11-04",
-     "source": "ET Startups",
-     "label": "Global · Fintech",
-     "snippet": "The transaction, which Revolut said was led by Glade Brook Capital Partners, Coatue, Durable Capital Partners, T. Rowe Price Associates and Baillie Gifford, means private market investors value the 11-year-old business more highly than many publicly listed banks.",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1277395,resizemode-75,msid-135543134/tech/technology/revolut-completes-funding-round-at-115-billion-valuation.jpg",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $115,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "Fintech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-     "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-     "date": "2026-11-04",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-     "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Fal , a San Francisco-based startup that hosts and runs AI video, image, and audio models, has raised $1.3 billion in its latest funding round led by Bessemer Venture Partners, with participation from Nvidia, Sound Ventures, and T. Rowe Price. The deal values Fal at $16 billion, double its $8 billion valuation in April, Bloomberg ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1268605503.jpg?resize=1200,420",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $16,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 14,
+   "new_today": 41,
    "items": [
     {
      "desk": "Immigration",
-     "score": 5,
-     "priority": 45,
-     "title": "Japan's food service visa quota remained 98.2% full in August",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdHRzQjNCLVZSb3lseXJ3aDVUazZSNDZvR0tVRElTZ3ZSVDQ5X1NVRnA1dm9QTHZ5UWZvSTBWQzVRcGx5dnh2VzA5SnQ0a2ZPbDJWZ1ZfVjFPN2dXUFZXTkpjczV3N1A1anItLWhQdnZEdEFpRDlEZ2t1RTVZYUpjSGNGcHhURWFfWEQtZjk2SG1LOGtkcGk2dlRiUEN2emRsQnRiUmNaZXRWQdIBrwFBVV95cUxQekZHckx6akpPcFFSa1FnbzRlMF9vTS1INUhRRWxzSlhyODBmNXRLTDNXYXdueHgwdWtXcm1ZNmlYZjY1TzVJSFI4ZFUyVFRnTzR2S0htellHa1pZMlUwRUxUOUpMTjE5MDVGWnJtRVUtR3ZzMldpajNRbC1Cd3Q1LVNydGhiMDNGY2Nzem9nZVhpelljMXdrdG9oT2lYSXlTOEI2YkROYlVXNnFnUk4w?oc=5",
-     "date": "2026-11-10",
-     "source": "Vinetur",
-     "label": "Japan",
-     "snippet": "JITCO said the slight decline from July left the Specified Skilled Worker route effectively full after new entry certificates were suspended",
-     "lead": "",
-     "image": null,
+     "score": 7,
+     "priority": 58,
+     "title": "Finland permanent residency: How Kenyans can qualify, requirements and application process",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbkJ2cDVWdTRBUDFEcE13NS1CTmEza3NkNmlTQnZhNjZzR3FuYVRmbE5PdEFwSGJlTWdxYlV1ZVlXazRRWTlwcEtKYWt0M0lfbkFTVEZPZ1NBNVJiN0lkNDFPTWZyMGxUSFRPVkJLUXZQSEV5akxuUWdhcWlfaGtIV3QwZEtOeGJrLTU2OFBMMTlaZ09IMHhRY1N4ZUFnYlZFd1Z4d256LUZZSFIxb0ZXYTJXU1BaT2ZIVFk2WXZBNVBTbndMNEJ2a3cwMmNVcVJ4TWRV?oc=5",
+     "date": "2026-11-11",
+     "source": "K24 Digital",
+     "label": "Finland",
+     "snippet": "Kenyans looking to relocate to Europe may consider Finland as a destination for work, education and family opportunities, but obtaining permanent residence…",
+     "lead": "Kenyans looking to relocate to Europe may consider Finland as a destination for work, education and family opportunities, but obtaining permanent residence requires meeting specific immigration conditions. Finland revised its permanent residence rules on January 8, 2026, introducing different pathways through which foreign nationals can qualify depending on their length of stay, income, education, work experience and knowledge of local ...",
+     "image": "https://k24.digital/wp-content/uploads/2026/11/Finland-2-1200x630.jpg",
      "why": [
-      "Quota or cap change"
+      "Affects permanent residence"
      ],
      "tags": [
-      "Quota / Caps",
-      "Japan"
+      "PR / Settlement",
+      "Finland"
      ]
     },
     {
      "desk": "Immigration",
-     "score": 5,
-     "priority": 45,
-     "title": "New Zealand: Eligibility Tightened for Partnership-Based Visas",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeHpwNkpwZ25FcENUTjJ6cG5QZTdhR1RCNDJ2TTBLT0Vfa0xjZ2Iyd1dLNVNYVDEwR01pWnFRRGN0SHE0ak12VkdnTm5YajhnMkVkd0h4X0QtWTJoZU1pdUo3N3lKMlNXVFVHQTRaR0pkb1VfRFZvME44S3plNEM4Xzk0YVlvY1JoVFBOLWQ4N2lycXUxRGJhY3Yyc1NBLTlaTGc?oc=5",
-     "date": "2026-11-10",
-     "source": "Fragomen",
+     "score": 6,
+     "priority": 50,
+     "title": "New Zealand Introduces Stricter Rules for Partner Visas",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUGQxY1BRWTNXRjEyY1FyRXUyY0dDbnF0N21rNlhfU1ZOVTVLMG9BamY4aHpNU1poWlM0dXlncUVBckpsa2p4WHhNMm9jLUZrbDlyeVZ1ZjhsV2dIZHNQU3VfQ3QzTE9yUE41Z2hjWEpGbUh3ZTZaaHRFb2FrcWFYLWtUcGxyd3JFbXZPSjBMSWZlT3FnU0HSAZsBQVVfeXFMTnBmb2NSNWtQMVRCV2hWb1pGcUhWRUFsaEJtSlRkajVjOU41d190azdvZktxLUpFUl9XSTRpV2NWbnNmdENMbGN5aDVYVEh6dURnaGxWR3BSbU80eU5JbDNBUkhmVE9pS3hOT3NtR00zdGJoZ0ZtejhPWWQ1OFlRR1NMdkMxbEZOU0NWR0dOb2NTMWEyUGdXdThLTms?oc=5",
+     "date": "2026-11-11",
+     "source": "ProPakistani",
      "label": "New Zealand",
-     "snippet": "Immigration New Zealand has introduced stricter eligibility requirements for dedicated partnership-based visas, effective immediately. Both the applicant and their supporting partner must now be at least 18 when filing and evidence relating to their partnership before both reached that age will no longer count toward eligibility. These ch",
-     "lead": "Immigration New Zealand has introduced stricter eligibility requirements for dedicated partnership-based visas, effective immediately. Both the applicant and their supporting partner must now be at least 18 when filing and evidence relating to their partnership before both reached that age will no longer count toward eligibility. These changes cover the Culturally Arranged Marriage Visitor Visa; partnership-based resident, visitor and ...",
-     "image": "https://www.fragomen.com/a/web/6neDND2DvH5cq9pLmAp2Ht/9PCium/open-graph-main-2025.jpg",
+     "snippet": "New Zealand has introduced stricter requirements for partnership-based visas, which could force some couples to wait longer before becoming eligible.",
+     "lead": "New Zealand has introduced stricter requirements for partnership-based visas, which could force some couples to wait longer before becoming eligible. Under the new rules, both applicants and their supporting partners must be at least 18 years old when applying. Evidence of a relationship from before both partners turned 18 will no longer be accepted. The changes cover the Culturally Arranged Marriage Visitor Visa, partnership-based ...",
+     "image": "https://propakistani.pk/wp-content/uploads/2026/11/partner-visa.jpg",
      "why": [
       "Announces a change"
      ],
@@ -396,6 +395,53 @@
  },
  "items": [
   {
+   "desk": "Policy",
+   "score": 20,
+   "priority": 100,
+   "title": "Cabinet approves Nutrient Based Subsidy (NBS) rates for Rabi 2026-27 (from 01.10.2026 to 31.03.2027) on Phosphatic and Potassic (P&K) fertilizers",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334972",
+   "date": "2026-11-11",
+   "source": "PIB",
+   "label": "Agriculture & Food",
+   "snippet": "The Union Cabinet chaired by the Prime Minister Shri Narendra Modi today has approved the Nutrient B",
+   "lead": "Cabinet Cabinet approves Nutrient Based Subsidy (NBS) rates for Rabi 2026-27 (from 01.10.2026 to 31.03.2027) on Phosphatic and Potassic (P&K) fertilizers Posted On: 11 NOV 2026 3:11PM by PIB Delhi The Union Cabinet chaired by the Prime Minister Shri Narendra Modi today has approved the Nutrient Based Subsidy (NBS) rates for RABI Season, 2026-27 (from 01.10.2026 to 31.03.2027) on Phosphatic and Potassic (P&K) fertilizers. The tentative ...",
+   "image": null,
+   "why": [
+    "Cabinet decision",
+    "Subsidy or incentive",
+    "Cabinet",
+    "Large outlay (Rs 10,000 Cr or more)"
+   ],
+   "tags": [
+    "Agriculture & Food"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 100,
+   "title": "UK AI startup Nscale weighs delaying $35bn IPO amid tech sell-off",
+   "url": "https://sifted.eu/articles/nscale-ipo-nvidia-delay/",
+   "date": "2026-11-11",
+   "source": "Sifted",
+   "label": "Global · AI & Deeptech",
+   "snippet": "The Nvidia-backed data centre builder had been planning to list in New York imminently.",
+   "lead": "AI infrastructure startup Nscale is considering delaying its planned $35bn stock market listing until next year, following a global sell-off in technology stocks, according to reports.",
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=1600,quality=75,fit=cover,format=auto/wp-content/uploads/2025/04/29153551/Glomfjord-Data-Centre-2-1-scaled-e1745937378798.jpg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $35,000M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "AI & Deeptech"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
    "desk": "Startups",
    "score": 12,
    "priority": 100,
@@ -416,7 +462,55 @@
     "Funding",
     "Fintech"
    ],
-   "rank": 1,
+   "rank": 3,
+   "must_read": true
+  },
+  {
+   "desk": "Immigration",
+   "score": 12,
+   "priority": 100,
+   "title": "UK Earned Settlement Rules: New Qualifying Periods Explained",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamtHZ0J4QmczMmpGMFNqemZtZ3BTYVpKTGRLQWVYRzVEVmJXajVJM1dTVkN3VzJVTXdEUEN0WTZTcjV0Q2JnTGJnRGQ2NUUyeFB4RXlFV3p0Z1ptRGdycFdpNHU5NGhlb2ZISG4zckE4U0FjdGdzVDNWSjNEcXMwVWR0UHMta2g0TlRTTkpIeXlJN2M?oc=5",
+   "date": "2026-11-11",
+   "source": "Clark Hill",
+   "label": "United Kingdom",
+   "snippet": "Earned settlement reforms introduce 3-, 5-, 10- and 20-year routes based on salary, contribution and character, with implementation now expected by early January 2027.",
+   "lead": "On November 2, 2026, the UK Home Office announced significant reforms to the UK settlement framework under a new “earned settlement” model following the November 2025 consultation. Under the reforms, the qualifying period for settlement will depend on an applicant’s contribution and character rather than generally becoming available after five years of residence: Home Secretary unveils new rules for migrants settling in the UK – GOV.UK ...",
+   "image": "https://media.clarkhill.com/wp-content/uploads/2020/10/05134526/ClarkHillSocial.png",
+   "why": [
+    "Affects permanent residence",
+    "Announces a change",
+    "Major story (8 headlines that day)"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "United Kingdom"
+   ],
+   "rank": 4,
+   "must_read": true
+  },
+  {
+   "desk": "Immigration",
+   "score": 12,
+   "priority": 100,
+   "title": "Canada Announces Plans to Clear Major Permanent Residence Backlogs",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS0QzZXNQWjFscGVvNm9SVXFzSnY1ekFkbmRWOHEzNFpWb1Q1OENpeFdjUW5zMDFBeVpick5ocXRsWmNUN1V2RmIyMUJvTzMwczBZRUg0b3dCcmQ1TTQweWg4ZlFZTlRDYkFNMlJnenV5WDl0VXVIR00zeEU2b05pRVBpOE5xQ1ZaQ0s2em9qdjJPaXV3?oc=5",
+   "date": "2026-11-11",
+   "source": "Immigration.ca",
+   "label": "Canada",
+   "snippet": "Canada plans to fast-track permanent residence applications for Ukrainians, Hong Kongers, families and workers under new 2027 immigration measures.",
+   "lead": "",
+   "image": "https://immigration.ca/wp-content/uploads/2024/10/First-15-Things-to-Do-as-a-New-Immigrant-in-Vancouver-Canada.jpg",
+   "why": [
+    "Affects permanent residence",
+    "Announces a change",
+    "Major story (9 headlines that day)"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Canada"
+   ],
+   "rank": 5,
    "must_read": true
   },
   {
@@ -440,56 +534,8 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 2,
-   "must_read": true
-  },
-  {
-   "desk": "Immigration",
-   "score": 11,
-   "priority": 100,
-   "title": "UK names foreigners who can get permanent residence in 3 years under new rules",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT0ZId1NiV0tjYUpDSkhRbl9VMDhHRzRHNHBBdXo5UGlrU0oxTHZHOS1lbjRaS1ZPY2xsYUdEVGZpYldKSFVZVFpWQ2t5X0wwVHA2d19iSi1tc2ZZZkRuOGhza2JVSlQtWmkxbmhuOEpCbzZCS1hCdXJ4T1lpYzBybFY2bXpoZjZqcXF0OElDZG10Y1M1QUlxbWVlRTVaQXFlQ1k4U19qaw?oc=5",
-   "date": "2026-11-10",
-   "source": "GistReel",
-   "label": "United Kingdom",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Affects permanent residence",
-    "Announces a change",
-    "Major story (10 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "United Kingdom"
-   ],
-   "rank": 3,
-   "must_read": true
-  },
-  {
-   "desk": "Immigration",
-   "score": 11,
-   "priority": 100,
-   "title": "Full List: Canada Announces Six Requirements for Foreigners Seeking Rural Permanent Residence",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QYWEzaGhZMVFtcVJTWFpySGl5cHhDeVFOc2JlblY5MGpLWWZnTjVxRGxXcm8wU0JGankwaE1UcVdTX0s1WGMyb0thc1ZBcmtKdVE?oc=5",
-   "date": "2026-11-10",
-   "source": "Opinion Nigeria",
-   "label": "Canada",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Affects permanent residence",
-    "Announces a change",
-    "Major story (17 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Canada"
-   ],
-   "rank": 4,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -511,52 +557,6 @@
    ],
    "tags": [
     "Debt & Bonds"
-   ],
-   "rank": 5,
-   "must_read": true
-  },
-  {
-   "desk": "Policy",
-   "score": 13,
-   "priority": 100,
-   "title": "Inter-Ministerial Group Recommends Asset Monetisation Proposals Worth Over ₹1,100 Crore for Approval by Cabinet-Delegated Alternative Mechanism",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332934",
-   "date": "2026-11-05",
-   "source": "PIB",
-   "label": "Budget & Fiscal",
-   "snippet": "The Inter-Ministerial Group (IMG), chaired by the Secretary, Department of Public Enterprises (DPE),",
-   "lead": "Ministry of Finance Inter-Ministerial Group Recommends Asset Monetisation Proposals Worth Over ₹1,100 Crore for Approval by Cabinet-Delegated Alternative Mechanism Recommendations Cover Surplus Land and Building Assets of CPSEs; IMG Reviews Progress of Asset Monetisation Initiatives Facilitated by NLMC Posted On: 05 NOV 2026 1:16PM by PIB Delhi The Inter-Ministerial Group (IMG), chaired by the Secretary, Department of Public ...",
-   "image": null,
-   "why": [
-    "Cabinet decision",
-    "Capital and ownership policy",
-    "Ministry of Finance"
-   ],
-   "tags": [
-    "Budget & Fiscal"
-   ],
-   "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 13,
-   "priority": 100,
-   "title": "Cabinet approves Rs.14,500 crore Viability Gap Funding Scheme for development of 92 GWh Grid-Scale Energy Storage Systems",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332474",
-   "date": "2026-11-04",
-   "source": "PIB",
-   "label": "Labour & Social",
-   "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the Viability Gap",
-   "lead": "Cabinet Cabinet approves Rs.14,500 crore Viability Gap Funding Scheme for development of 92 GWh Grid-Scale Energy Storage Systems Scheme to support 30 GWh Battery Energy Storage Systems, 60 GWh Pumped Storage Projects and 2 GWh emerging storage technologies Will accelerate renewable energy integration, strengthen grid stability and ensure reliable and affordable round-the-clock power supply Mandatory domestic content requirement for ...",
-   "image": null,
-   "why": [
-    "Cabinet decision",
-    "Cabinet",
-    "Large outlay (Rs 10,000 Cr or more)"
-   ],
-   "tags": [
-    "Labour & Social"
    ],
    "rank": 7,
    "must_read": false
@@ -589,6 +589,28 @@
    "desk": "Startups",
    "score": 11,
    "priority": 92,
+   "title": "Exclusive: Nvidia and Unity join Emulate’s $700m fundraise",
+   "url": "https://sifted.eu/articles/exclusive-unity-nvidia-emulate/",
+   "date": "2026-11-11",
+   "source": "Sifted",
+   "label": "Global · Other",
+   "snippet": "Software maker Unity and NVentures, the investment arm of chip giant Nvidia, have joined a $700m round for Emulate.",
+   "lead": "Software maker Unity and NVentures, the investment arm of chip giant Nvidia , have joined a $700m round for London-based DeepMind offshoot Emulate .",
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=3200,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/12162039/jack-deepmind-1.png",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $700M: round or valuation)"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 92,
    "title": "IIFL Finance to raise Rs 6,414 Cr led by Blackstone",
    "url": "https://yourstory.com/2026/11/iifl-finance-to-raise-rs-6414-crore-with-blackstone-leading-rs-5000-crore-primary-infusion",
    "date": "2026-11-10",
@@ -604,120 +626,7 @@
    "tags": [
     "Funding"
    ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "Indian startups with over $500M valuation grow to 51 despite low number of AI entities: Report",
-   "url": "https://yourstory.com/2026/11/indian-startups-over-500m-valuation-grow-51-despite-low-number-ai-entities-report",
-   "date": "2026-11-04",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "The combined value of these 51 entities is about Rs 3.3 lakh crore ($34.1 billion), with an average valuation of about Rs 6,400 crore, and they employ over 60,000 people.",
-   "lead": "Indian startups with over $500M valuation grow to 51 despite low number of AI entities: Report The combined value of these 51 entities is about Rs 3.3 lakh crore ($34.1 billion), with an average valuation of about Rs 6,400 crore, and they employ over 60,000 people. Press Trust of India 11260 Stories Wednesday November 04, 2026 , 3 min Read Indian startups with a valuation of over $500 million have increased to 51 in 2026, from 47 in ...",
-   "image": "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/Imagespzl-1680421400903.jpg",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $500M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
    "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 11,
-   "priority": 85,
-   "title": "Cabinet approves continuation of the Centrally Sponsored Scheme for Fast Track Special Courts (FTSCs) for expeditious trial of cases of rape and POCSO (Protection of Children from Sexual Offences) Act for a further period of five years (FY 2026-27 to FY 2030-31)",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332483",
-   "date": "2026-11-04",
-   "source": "PIB",
-   "label": "Labour & Social",
-   "snippet": "The Union Cabinet, chaired by the Prime Minister, has approved the continuation of the Centrally Spo",
-   "lead": "Cabinet Cabinet approves continuation of the Centrally Sponsored Scheme for Fast Track Special Courts (FTSCs) for expeditious trial of cases of rape and POCSO (Protection of Children from Sexual Offences) Act for a further period of five years (FY 2026-27 to FY 2030-31) Posted On: 04 NOV 2026 3:34PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister, has approved the continuation of the Centrally Sponsored Scheme (CSS) for ...",
-   "image": null,
-   "why": [
-    "Cabinet decision",
-    "Cabinet"
-   ],
-   "tags": [
-    "Labour & Social"
-   ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 11,
-   "priority": 85,
-   "title": "Cabinet approves ‘Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR)’, a central sector scheme for the period 2026-27 to 2030-31",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332480",
-   "date": "2026-11-04",
-   "source": "PIB",
-   "label": "Labour & Social",
-   "snippet": "The Union Cabinet, chaired by Prime Minister Shri Narendra Modi, today approved the ‘Viksit Bharat I",
-   "lead": "Cabinet Cabinet approves ‘Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR)’, a central sector scheme for the period 2026-27 to 2030-31 Posted On: 04 NOV 2026 3:31PM by PIB Delhi The Union Cabinet, chaired by Prime Minister Shri Narendra Modi, today approved the ‘Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR)’ Scheme for the period FY 2026-27 to FY 2030-31 ...",
-   "image": null,
-   "why": [
-    "Cabinet decision",
-    "Cabinet"
-   ],
-   "tags": [
-    "Labour & Social"
-   ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 11,
-   "priority": 85,
-   "title": "Cabinet Approves Capex Support Scheme to Promote Critical Mineral Processing with an Outlay of Rs.2,814 Crore for Lithium and Nickel processing",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332476",
-   "date": "2026-11-04",
-   "source": "PIB",
-   "label": "Budget & Fiscal",
-   "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the ‘Capex Support",
-   "lead": "Cabinet Cabinet Approves Capex Support Scheme to Promote Critical Mineral Processing with an Outlay of Rs.2,814 Crore for Lithium and Nickel processing Posted On: 04 NOV 2026 3:29PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the ‘Capex Support Scheme to Promote Critical Mineral Processing’ with a financial outlay of Rs.2,814 crore over a period of five years. Processing of critical ...",
-   "image": null,
-   "why": [
-    "Cabinet decision",
-    "Cabinet"
-   ],
-   "tags": [
-    "Budget & Fiscal"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Anthropic targets upto $1.4T valuation with $70 to $78 IPO price range",
-   "url": "https://yourstory.com/2026/11/anthropic-sets-70-to-78-price-range-for-its-ipo",
-   "date": "2026-11-10",
-   "source": "YourStory",
-   "label": "India · Other",
-   "snippet": "Anthropic will be valued at $1.41 trillion at the upper end of its IPO price band and the shares will be traded on Nasdaq.",
-   "lead": "Anthropic targets upto $1.4T valuation with $70 to $78 IPO price range Anthropic will be valued at $1.41 trillion at the upper end of its IPO price band and the shares will be traded on Nasdaq. Team YS 17549 Stories Tuesday November 10, 2026 , 2 min Read AI company Anthropic has set $70 to $78 as the price band for its initial public offering (IPO) which potentially values the company in the range of $1.26 trillion to $1.41 trillion. ...",
-   "image": "https://images.yourstory.com/cs/2/a0bc5020250711f09884fb7189395d75/2-1747995493948.png",
-   "why": [
-    "IPO & Listing",
-    "Valuation, listing or profitability signal",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "IPO & Listing"
-   ],
-   "rank": 14,
    "must_read": false
   },
   {
@@ -740,7 +649,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 15,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -763,7 +672,77 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 16,
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 15,
+   "priority": 75,
+   "title": "Cabinet approves continuation of Credit Guarantee Fund for Micro Units",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334976",
+   "date": "2026-11-11",
+   "source": "PIB",
+   "label": "Banking & Rates",
+   "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved thecontinuation of",
+   "lead": "Cabinet Cabinet approves continuation of Credit Guarantee Fund for Micro Units Provides credit guarantee for loans extended under Pradhan Mantri Mudra Yojana Approval for corpus of Rs.5,000 crore facilitating PMMY loans amounting to Rs.12.6 lakh crore Posted On: 11 NOV 2026 3:14PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the continuation of Credit Guarantee Fund for Micro Units ...",
+   "image": null,
+   "why": [
+    "Cabinet decision",
+    "Touches financial markets",
+    "Cabinet"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 15,
+   "priority": 75,
+   "title": "Reporting requirement under Foreign Account Tax Compliance Act (FATCA) and Common Reporting Standard (CRS) revised through Income-Tax Act, 2025 read with Income-Tax Rules, 2026",
+   "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/reporting-requirement-under-foreign-account-tax-compliance-act-fatca-and-common-reporting-standard-crs-revised-through-income-tax-act-2025-read-with-income-tax-rules-2026_105705.html",
+   "date": "2026-11-11",
+   "source": "SEBI",
+   "label": "Markets & Regulation",
+   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Rates and liquidity",
+    "New law or act",
+    "Rule change",
+    "Regulator: SEBI"
+   ],
+   "tags": [
+    "Markets & Regulation"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 75,
+   "title": "Spain's opposition pledges quotas to cap immigrants entering country",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdk9na1BlWUtPQjNFNXNEVzBxR2E1UkF0c2RVR0xid3RiNGNBM1U3N1N6R2hYeV9vY1R2NGdXSVhmaGZKTW50akU2VWlGMU9jRUJOd0FndDl2cTRoY25RS2dZbG94R1NrekVVcmNTM0hYNWx4dDF6NEkyN2cxZWFiU2ZYRk5TOURQTUVVRFhESnU2TFFlR21kSm5GQ3lfZWxINEE?oc=5",
+   "date": "2026-11-11",
+   "source": "The Local Spain",
+   "label": "Spain",
+   "snippet": "The quotas were part of a raft of measures announced by the centre-right Partido Popular in its manifesto launch ahead of Spain's general election.",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden 1 comment Add The Local as a preferred source The quotas were part of a raft of measures announced by the centre-right Partido Popular in its manifesto launch ahead of Spain's general election. Spain's main opposition party and likely next government, the ...",
+   "image": null,
+   "why": [
+    "Quota or cap change",
+    "Announces a change"
+   ],
+   "tags": [
+    "Quota / Caps",
+    "Spain"
+   ],
+   "rank": 15,
    "must_read": false
   },
   {
@@ -787,7 +766,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 17,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -810,64 +789,110 @@
    "tags": [
     "Gold & Silver"
    ],
+   "rank": 17,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 14,
+   "priority": 70,
+   "title": "Cabinet approves Development of Yuge Yugeen Bharat Museum at North and South Block Complex, New Delhi",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334961",
+   "date": "2026-11-11",
+   "source": "PIB",
+   "label": "Other Policy",
+   "snippet": "The Cabinet Committee on Economic Affairs, chaired by the Prime Minister Shri Narendra Modi, today h",
+   "lead": "Cabinet Committee on Economic Affairs (CCEA) Cabinet approves Development of Yuge Yugeen Bharat Museum at North and South Block Complex, New Delhi Posted On: 11 NOV 2026 3:05PM by PIB Delhi The Cabinet Committee on Economic Affairs, chaired by the Prime Minister Shri Narendra Modi, today has approved the development of the Yuge Yugeen Bharat Museum (YYBM) at the North and South Block Complex, New Delhi, at an estimated total project ...",
+   "image": null,
+   "why": [
+    "Cabinet decision",
+    "Cabinet"
+   ],
+   "tags": [
+    "Other Policy"
+   ],
    "rank": 18,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 9,
-   "priority": 69,
-   "title": "PLI Scheme for Medical Devices extended up to 2035–36; Fresh applications invited",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334770",
-   "date": "2026-11-10",
+   "score": 13,
+   "priority": 65,
+   "title": "Cabinet approves Continuation of Stand-Up India Scheme",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334978",
+   "date": "2026-11-11",
    "source": "PIB",
-   "label": "Agriculture & Food",
-   "snippet": "The Government of India has invited fresh applications under the Production Linked Incentive Scheme",
-   "lead": "Ministry of Chemicals and Fertilizers : Department of Pharmaceuticals PLI Scheme for Medical Devices extended up to 2035–36; Fresh applications invited Focus on Critical Component Manufacturing Scheme guidelines made easier and investor friendly for Ease of Doing Business Minimum Sales Threshold Requirement to Claim Incentive Discontinued Minimum Investment Requirement Trimmed Posted On: 10 NOV 2026 6:30PM by PIB Delhi The Government ...",
+   "label": "Labour & Social",
+   "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved thecontinuation of",
+   "lead": "Cabinet Cabinet approves Continuation of Stand-Up India Scheme To promote entrepreneurship among Women, Scheduled Castes and Scheduled Tribes Targets to cover minimum 2.5 lakh beneficiaries Approval for Credit Guarantee Corpus of Rs.4,111 crore Posted On: 11 NOV 2026 3:17PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the continuation of Stand-Up India Scheme for a period of 5 years ...",
    "image": null,
    "why": [
-    "Subsidy or incentive"
+    "Cabinet decision",
+    "Cabinet"
    ],
    "tags": [
-    "Agriculture & Food"
+    "Labour & Social"
    ],
    "rank": 19,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 8,
-   "priority": 62,
-   "title": "TRAI releases “The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026”",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2333541",
-   "date": "2026-11-06",
+   "score": 13,
+   "priority": 65,
+   "title": "Cabinet Approves extension of Aqua Line Metro Rail Corridor from Noida Sector-51 to Greater Noida Sector-04 of route length of 8.449 Km with 5 stations",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334969",
+   "date": "2026-11-11",
    "source": "PIB",
-   "label": "Technology & Telecom",
-   "snippet": "The Telecom Regulatory Authority of India (TRAI) today released “The Register of Interconnect Agreem",
-   "lead": "Ministry of Communications TRAI releases “The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026” Posted On: 06 NOV 2026 2:22PM by PIB Delhi The Telecom Regulatory Authority of India (TRAI) today released “The Register of Interconnect Agreements (Fourth Amendment) Regulations, 2026” . These regulations will take effect from 1 st January 2027. Interconnection in telecommunications refers to the commercial and ...",
+   "label": "Infrastructure & Transport",
+   "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the extension of A",
+   "lead": "Cabinet Cabinet Approves extension of Aqua Line Metro Rail Corridor from Noida Sector-51 to Greater Noida Sector-04 of route length of 8.449 Km with 5 stations Posted On: 11 NOV 2026 3:08PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the extension of Aqua Line Metro Rail Corridor from Noida Sector-51 to Greater Noida Sector-04 of Noida Metro Rail Project with corridor for a length of ...",
    "image": null,
    "why": [
-    "Regulator rulebook change",
-    "Rule change"
+    "Cabinet decision",
+    "Cabinet"
    ],
    "tags": [
-    "Technology & Telecom"
+    "Infrastructure & Transport"
    ],
    "rank": 20,
    "must_read": false
   },
   {
+   "desk": "Policy",
+   "score": 13,
+   "priority": 65,
+   "title": "Inter-Ministerial Group Recommends Asset Monetisation Proposals Worth Over ₹1,100 Crore for Approval by Cabinet-Delegated Alternative Mechanism",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2332934",
+   "date": "2026-11-05",
+   "source": "PIB",
+   "label": "Budget & Fiscal",
+   "snippet": "The Inter-Ministerial Group (IMG), chaired by the Secretary, Department of Public Enterprises (DPE),",
+   "lead": "Ministry of Finance Inter-Ministerial Group Recommends Asset Monetisation Proposals Worth Over ₹1,100 Crore for Approval by Cabinet-Delegated Alternative Mechanism Recommendations Cover Surplus Land and Building Assets of CPSEs; IMG Reviews Progress of Asset Monetisation Initiatives Facilitated by NLMC Posted On: 05 NOV 2026 1:16PM by PIB Delhi The Inter-Ministerial Group (IMG), chaired by the Secretary, Department of Public ...",
+   "image": null,
+   "why": [
+    "Cabinet decision",
+    "Capital and ownership policy",
+    "Ministry of Finance"
+   ],
+   "tags": [
+    "Budget & Fiscal"
+   ],
+   "rank": 21,
+   "must_read": false
+  },
+  {
    "desk": "Immigration",
-   "score": 6,
-   "priority": 55,
-   "title": "Germany Sets Minimum Age Requirement for Foreigners Seeking Citizenship",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTDdDM2VEUTU0YUZSTFJkb0RjdXBnTmxhcmdVeW5XeGlHd3pMbGFXcng5bU9RWFdlanlLYmc5R0RPYUxrdWV4WlU2Qm1hLUN4TWlHNnJVdnN3dlRkZHNfSjktU2FBeVFmZk5tX3FhZm8zUGF5RjF1OTctQ2NfMmFSTmhadzFyeXdaVG1FSzdZaW45VFpONDVMbTdwOE5sc0ZkWXZ4U2pXZkhTLUloZGoxaQ?oc=5",
-   "date": "2026-11-10",
-   "source": "Tuko News",
+   "score": 7,
+   "priority": 58,
+   "title": "From Singapore to Germany: Countries Ghanaians can visit visa-free with a service passport",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRHRuNG5PZU5lQWs1TGlodEw1SkJtNGVLUWZSTThJdF9LdXZYUi1rcElhRXVGOXFaX2EyaHczWEdzWjhjS3FfN1Z4bWNGb1BXZlM3aDc1cDZMX2tud1lodUNJcjFTaWJkeWdza1gyRjV5TTFyMmN2aVpubTUzeC1xdDZORG1JaXV6T1JWSjJsbGV1YUZPNjJiOG52UHZxUmdFaVlfb1l3SHVUTFpuZ2ZJY2JDRERsWFpSYkVsaTdWQVliaDFpLVZMNDJ0X1RoSVhlQVd1YUxfTTBGTmtOR0E?oc=5",
+   "date": "2026-11-11",
+   "source": "GhanaWeb",
    "label": "Germany",
-   "snippet": "Germany has outlined the minimum age requirement for foreign nationals seeking to become German citizens. Find out how old applicants must be to qualify.",
-   "lead": "Europe Germany Sets Minimum Age Requirement for Foreigners Seeking Citizenship Published 10 Nov 2026 at 1:15 PM by Shillah Mwadosho 2 min read Foreigners aged 16 and above can submit their own German citizenship applications in 2026 Applicants below 16 cannot apply independently and must have a legal representative handle the naturalization process Parents or other legally authorized representatives are generally responsible for ...",
-   "image": "https://cdn.tuko.co.ke/images/1200x675/8b3ce3dd254b6417.jpeg?v=1",
+   "snippet": "",
+   "lead": "",
+   "image": null,
    "why": [
     "Affects citizenship"
    ],
@@ -875,50 +900,27 @@
     "Citizenship",
     "Germany"
    ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 55,
-   "title": "APAC Immigration Updates: Australia, India, Japan & More",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYmhTal84N1h0R3M2Skt4YWxURlhYVEhpcDRrd2RxR18yVTFWVVlQQUVQN3Frd0dFYUVnUHdQMGNoTGdsbmdNV0VYYXZYbC16QmU2aHVuOTN5dWhjRmpGRlU2eWY4NFJLajBkeXR5SWlLeHZQM1FvTHFZV3R5emJ2MEVvaklwbndqWVdSbENDWFBqeHJOd1BvcnpGVjNKc2NydFZxaDJqTG1pODY1?oc=5",
-   "date": "2026-11-09",
-   "source": "Clark Hill",
-   "label": "Australia",
-   "snippet": "Explore APAC immigration updates affecting employers and global mobility, including visa and work permit changes across Australia, India, Japan, New Zealand, and Vietnam.",
-   "lead": "Clark Hill’s Outbound Immigration & Global Mobility practice guides corporate clients and individuals through complex global immigration challenges worldwide. We pride ourselves on creative, compliant, and people-centered solutions – looking at global mobility from a holistic perspective in an ever-changing immigration environment. Our team assists with short-term assignments, long-term relocations, consular processing, document ...",
-   "image": "https://media.clarkhill.com/wp-content/uploads/2020/10/05134526/ClarkHillSocial.png",
-   "why": [
-    "Major story (8 headlines that day)",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Australia"
-   ],
    "rank": 22,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 6,
-   "priority": 55,
-   "title": "“Up to four years”: Spain approves new seasonal work permits for foreigners",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeXRDV2hLU25aeU1uQUtvRjVtZnkxY0pmYmMwaW1PWHhZRW4xTWI4VVdLVWJTSk83R1VYOTgteUpZUTVUY09HTTFqU3dCQUtBSzZ6aWxwd3BmYkNMam54c3JLcW9qS0JXSklrcGJNZEVnWkdOdFhaVUtnbHVsdXlsejNsLXZHNl8xaG9zLWxvMUxZMVcxZWhzNXc1WWtmQzRBeFJmWHctNmE1bldMUkE?oc=5",
-   "date": "2026-11-06",
+   "score": 7,
+   "priority": 58,
+   "title": "Australian citizenship: Home Affairs clarifies age rules for young applicants",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZW12aWRSNjdKWi1hNVNrZUgxMzFfNVB5LVhkaWY0V2VRbUNVcExyazBrdl92LXQ1LVR2Y01iN3VzM1VRbHdENjFvV3NLa0ZKd0lNcngwSUJVVjVHSHVHMWJmMWRxRFQ2VzRDUzRaWmVaRnRqNVJuOU9mdzVXbnlkeUVHdkpSa05wUjU5WkI4NUJxVW5ieWtxZmpnYXNSU25VNW9vRy1SS1Y?oc=5",
+   "date": "2026-11-11",
    "source": "Tuko News",
-   "label": "Spain",
-   "snippet": "Spain has approved a four-year seasonal work permit for foreign nationals, subject to six conditions. Here are the eligibility requirements applicants must meet.",
-   "lead": "Spain has approved a new framework for recruiting foreign seasonal workers, introducing permits valid for up to four years under its collective hiring and circular migration programmes. Spain opens a four-year seasonal work route for foreigners. Photo credit: Ludovic Marin Source: Getty Images The Ministry of Inclusion, Social Security and Migration published the 2026 Order for the Collective Management of Contracts in Origin (GECCO) ...",
-   "image": "https://cdn.tuko.co.ke/images/1200x675/e5b239986db47757.jpeg?v=1",
+   "label": "Australia",
+   "snippet": "Australia has outlined the minimum age requirement for foreign nationals seeking to become Australian citizens through its citizenship application process.",
+   "lead": "World Australia Clarifies Age Requirements for Foreigners Applying for Citizenship Published 11 Nov 2026 at 12:19 PM by Shillah Mwadosho 2 min read The Australian Government Department of Home Affairs has outlined the age requirements foreign nationals must meet when applying for citizenship Permanent residents aged 15 and under fall under a separate citizenship application category from those aged 16 or 17 Australia offers citizenship ...",
+   "image": "https://cdn.tuko.co.ke/images/1200x675/bbb9f39ce148583d.jpeg?v=1",
    "why": [
-    "Affects work visas",
-    "Announces a change"
+    "Affects citizenship"
    ],
    "tags": [
-    "Work visa",
-    "Spain"
+    "Citizenship",
+    "Australia"
    ],
    "rank": 23,
    "must_read": false
