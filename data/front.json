@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-11",
- "built": "2026-11-11 03:28 IST",
+ "built": "2026-11-11 08:36 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -27,22 +27,22 @@
    "name": "USD/INR",
    "dp": 2,
    "value": 93.92,
-   "change_pct": 0.02,
-   "asof": "11 Nov 03:10 IST"
+   "change_pct": -0.03,
+   "asof": "11 Nov 07:20 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 92.07,
-   "change_pct": -0.54,
-   "asof": "11 Nov 03:18 IST"
+   "value": 92.37,
+   "change_pct": 0.96,
+   "asof": "11 Nov 08:26 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 4039.0,
-   "change_pct": -1.84,
-   "asof": "11 Nov 03:18 IST"
+   "value": 4050.0,
+   "change_pct": 0.48,
+   "asof": "11 Nov 08:26 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -166,8 +166,8 @@
    ]
   },
   "Startups": {
-   "total": 1330,
-   "new_today": 4,
+   "total": 1333,
+   "new_today": 7,
    "items": [
     {
      "desk": "Startups",
@@ -260,7 +260,7 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 1,
+   "new_today": 6,
    "items": [
     {
      "desk": "Immigration",
