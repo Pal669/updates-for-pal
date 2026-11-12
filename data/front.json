@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-12",
- "built": "2026-11-12 09:52 IST",
+ "built": "2026-11-12 12:31 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25346.0,
-   "change_pct": 0.36,
-   "asof": "12 Nov 09:52 IST"
+   "value": 25231.0,
+   "change_pct": -0.1,
+   "asof": "12 Nov 12:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 82218.0,
-   "change_pct": 0.41,
-   "asof": "12 Nov 09:37 IST"
+   "value": 81794.0,
+   "change_pct": -0.1,
+   "asof": "12 Nov 12:16 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 93.72,
-   "change_pct": -0.22,
-   "asof": "12 Nov 09:51 IST"
+   "value": 93.79,
+   "change_pct": -0.14,
+   "asof": "12 Nov 12:31 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 91.5,
-   "change_pct": -1.36,
-   "asof": "12 Nov 09:40 IST"
+   "value": 92.68,
+   "change_pct": -0.09,
+   "asof": "12 Nov 12:20 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3984.0,
-   "change_pct": -0.41,
-   "asof": "12 Nov 09:41 IST"
+   "value": 3975.0,
+   "change_pct": -0.65,
+   "asof": "12 Nov 12:21 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,9 +79,29 @@
  },
  "desks": {
   "Policy": {
-   "total": 343,
-   "new_today": 0,
+   "total": 345,
+   "new_today": 2,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 8,
+     "priority": 42,
+     "title": "Underwriting Auction for sale of Government Security for ₹34,000 crore on November 13, 2026",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63963",
+     "date": "2026-11-12",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "Government of India has announced the sale (re-issue) of Government Security, as detailed below, through auction to be held on November 13, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
+     "image": null,
+     "why": [
+      "Regulator: RBI",
+      "Large outlay (Rs 10,000 Cr or more)"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 8,
@@ -140,33 +160,34 @@
      "tags": [
       "Technology & Telecom"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 8,
-     "priority": 42,
-     "title": "Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank Payment System Operators",
-     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13751&Mode=0",
-     "date": "2026-11-05",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Notifications - Reserve Bank of India",
-     "lead": "",
-     "image": null,
-     "why": [
-      "Regulator rulebook change",
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 1353,
-   "new_today": 1,
+   "total": 1359,
+   "new_today": 7,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 91,
+     "title": "MDR And AI: Inside The Two Acronyms That Could Shape Razorpay’s ₹6,000 Cr IPO",
+     "url": "https://inc42.com/features/mdr-and-ai-inside-the-two-acronyms-that-could-shape-razorpays-%e2%82%b96000-cr-ipo/",
+     "date": "2026-11-06",
+     "source": "Inc42",
+     "label": "India · AI & Deeptech",
+     "snippet": "Razorpay's upcoming IPO might get a twofold push from the MDR on UPI payments implementation as well as fintech's AI product stack when it seeks public market investment for a ₹ 6000 Cr IPO",
+     "lead": "Razorpay has received SEBI’s approval for a ₹5,000-6,000 Cr IPO at a reported $5 Bn valuation, with a listing expected between January and March 2027. Razorpay is taking a profitability-led pitch to public investors, with its core payments business EBITDA profitable. The 0.4% MDR on large UPI transactions could provide an additional high-margin revenue stream, helping narrow the valuation gap. Analysts estimate MDR could generate ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Razorpay-IPO-social.jpg",
+     "why": [
+      "IPO & Listing",
+      "Very large figure in headline (about $632M: round or valuation)"
+     ],
+     "tags": [
+      "IPO & Listing",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -193,6 +214,26 @@
      "desk": "Startups",
      "score": 9,
      "priority": 82,
+     "title": "Exclusive: Orakl Oncology raises $34m to test cancer drugs on ‘virtual patients’",
+     "url": "https://sifted.eu/articles/exclusive-orakl-oncology-fundraise/",
+     "date": "2026-11-12",
+     "source": "Sifted",
+     "label": "Global · Other",
+     "snippet": "Swedish investor Norrsken and Paris-based VC Singular co-led the round",
+     "lead": "Orakl Oncology , the Paris-based startup building AI-powered “virtual cancer patients” to test drugs and predict their efficiency before they reach clinical trials, has raised a $34m Series A.",
+     "image": "https://images.sifted.eu/cdn-cgi/image/width=2048,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/11144520/unnamed-scaled.jpg",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $34M)"
+     ],
+     "tags": [
+      "Funding"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 82,
      "title": "Anthropic targets upto $1.4T valuation with $70 to $78 IPO price range",
      "url": "https://yourstory.com/2026/11/anthropic-sets-70-to-78-price-range-for-its-ipo",
      "date": "2026-11-10",
@@ -209,56 +250,53 @@
      "tags": [
       "IPO & Listing"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 82,
-     "title": "PhysicsWallah’s Q2 Profit Surge, Elo Elo Bags $80 Mn & More",
-     "url": "https://inc42.com/buzz/physicswallahs-q2-profit-surge-elo-elo-bags-80-mn-more/",
-     "date": "2026-11-05",
-     "source": "Inc42",
-     "label": "India · Edtech & Skills",
-     "snippet": "PhysicsWallah had a blockbuster Q2 FY27. The quarter saw the edtech giant swing back to profitability and clock record quarterly revenues.",
-     "lead": "PW’s Growth Engines: The edtech major’s Q2 show was driven by healthy revenue growth, tighter cost control and improving operating leverage. Online business remained PW’s primary growth engine, while the offline network continued to add centres and enrolments. The company also benefited from a shift away from direct lending, reducing balance sheet risk. The startup’s next priority is its AI tutor (currently in pilot), which could ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Social-Daily-Brief-40.png",
-     "why": [
-      "Funding",
-      "Sizeable deal (about $80M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "Edtech & Skills"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 8,
-     "priority": 73,
-     "title": "Rentomojo Q2 Revenue Jumps 53% YoY To ₹142 Cr, Net Profit Slumps 63%",
-     "url": "https://inc42.com/buzz/rentomojo-q2-fy27-revenue-jumps-53-yoy-to-%e2%82%b9142-cr-net-profit-slumps-63-to-%e2%82%b918-2-cr/",
-     "date": "2026-11-11",
-     "source": "Inc42",
-     "label": "India · Real Estate & Workspaces",
-     "snippet": "Rentomojo continued to scale its rental business through subscriber additions, higher asset utilisation and refurbishment-led operations",
-     "lead": "Rentomojo's Q2 FY27 revenue grew 52.8% YoY to ₹142.1 Cr, while PAT declined 62.6% to ₹18.2 Cr Rentomojo said its FY17 inventory cohort generated cumulative revenue of 5.3X its original value, while 54% of the cohort continues to generate revenue The decline was largely due to a deferred tax credit of ₹32.8 Cr recognised in the year-ago quarter, compared with a deferred tax expense of ₹6.2 Cr in Q2 FY27.",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/Rentomojo-social-1.jpg",
-     "why": [
-      "Financials",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Financials",
-      "Real Estate & Workspaces"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 14,
+   "new_today": 24,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 50,
+     "title": "From Singapore to Germany: Countries Ghanaians can visit visa-free with a service passport",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRHRuNG5PZU5lQWs1TGlodEw1SkJtNGVLUWZSTThJdF9LdXZYUi1rcElhRXVGOXFaX2EyaHczWEdzWjhjS3FfN1Z4bWNGb1BXZlM3aDc1cDZMX2tud1lodUNJcjFTaWJkeWdza1gyRjV5TTFyMmN2aVpubTUzeC1xdDZORG1JaXV6T1JWSjJsbGV1YUZPNjJiOG52UHZxUmdFaVlfb1l3SHVUTFpuZ2ZJY2JDRERsWFpSYkVsaTdWQVliaDFpLVZMNDJ0X1RoSVhlQVd1YUxfTTBGTmtOR0E?oc=5",
+     "date": "2026-11-11",
+     "source": "GhanaWeb",
+     "label": "Germany",
+     "snippet": "",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Affects citizenship"
+     ],
+     "tags": [
+      "Citizenship",
+      "Germany"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 50,
+     "title": "Australian citizenship: Home Affairs clarifies age rules for young applicants",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZW12aWRSNjdKWi1hNVNrZUgxMzFfNVB5LVhkaWY0V2VRbUNVcExyazBrdl92LXQ1LVR2Y01iN3VzM1VRbHdENjFvV3NLa0ZKd0lNcngwSUJVVjVHSHVHMWJmMWRxRFQ2VzRDUzRaWmVaRnRqNVJuOU9mdzVXbnlkeUVHdkpSa05wUjU5WkI4NUJxVW5ieWtxZmpnYXNSU25VNW9vRy1SS1Y?oc=5",
+     "date": "2026-11-11",
+     "source": "Tuko News",
+     "label": "Australia",
+     "snippet": "Australia has outlined the minimum age requirement for foreign nationals seeking to become Australian citizens through its citizenship application process.",
+     "lead": "World Australia Clarifies Age Requirements for Foreigners Applying for Citizenship Published 11 Nov 2026 at 12:19 PM by Shillah Mwadosho 2 min read The Australian Government Department of Home Affairs has outlined the age requirements foreign nationals must meet when applying for citizenship Permanent residents aged 15 and under fall under a separate citizenship application category from those aged 16 or 17 Australia offers citizenship ...",
+     "image": "https://cdn.tuko.co.ke/images/1200x675/bbb9f39ce148583d.jpeg?v=1",
+     "why": [
+      "Affects citizenship"
+     ],
+     "tags": [
+      "Citizenship",
+      "Australia"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 6,
@@ -277,25 +315,6 @@
      "tags": [
       "PR / Settlement",
       "Finland"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 42,
-     "title": "New Zealand Introduces Stricter Rules for Partner Visas",
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUGQxY1BRWTNXRjEyY1FyRXUyY0dDbnF0N21rNlhfU1ZOVTVLMG9BamY4aHpNU1poWlM0dXlncUVBckpsa2p4WHhNMm9jLUZrbDlyeVZ1ZjhsV2dIZHNQU3VfQ3QzTE9yUE41Z2hjWEpGbUh3ZTZaaHRFb2FrcWFYLWtUcGxyd3JFbXZPSjBMSWZlT3FnU0HSAZsBQVVfeXFMTnBmb2NSNWtQMVRCV2hWb1pGcUhWRUFsaEJtSlRkajVjOU41d190azdvZktxLUpFUl9XSTRpV2NWbnNmdENMbGN5aDVYVEh6dURnaGxWR3BSbU80eU5JbDNBUkhmVE9pS3hOT3NtR00zdGJoZ0ZtejhPWWQ1OFlRR1NMdkMxbEZOU0NWR0dOb2NTMWEyUGdXdThLTms?oc=5",
-     "date": "2026-11-11",
-     "source": "ProPakistani",
-     "label": "New Zealand",
-     "snippet": "New Zealand has introduced stricter requirements for partnership-based visas, which could force some couples to wait longer before becoming eligible.",
-     "lead": "New Zealand has introduced stricter requirements for partnership-based visas, which could force some couples to wait longer before becoming eligible. Under the new rules, both applicants and their supporting partners must be at least 18 years old when applying. Evidence of a relationship from before both partners turned 18 will no longer be accepted. The changes cover the Culturally Arranged Marriage Visitor Visa, partnership-based ...",
-     "image": "https://propakistani.pk/wp-content/uploads/2026/11/partner-visa.jpg",
-     "why": [
-      "Announces a change"
-     ],
-     "tags": [
-      "New Zealand"
      ]
     }
    ]
@@ -393,6 +412,30 @@
  },
  "items": [
   {
+   "desk": "Immigration",
+   "score": 12,
+   "priority": 100,
+   "title": "As Canada tightens immigration, Americans with Canadian ancestry still have the most direct path to a second passport",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV1RpMTJnbHFra2ZrWF8xdnQ5MzBYcFNXMTY5eHVFZmhmdDREa1VKQkxMX0ZpNW9BWFZ1UFgxaFplNWFjSnEwNjFCV2ZZUE1yM2lUYkxNOWNGVnB6LTk4VW50NXNlM3RvZ2w2bVI4U0VmVEs2RGNfNXdtM1kxTXZBUmVzeGpjV0poOE0wVG9ZRVd0TXNXb3dKTFlSMENaMktTR01MLWItbGw2X0xydEtuQ2R0aFNPTXM5TEU1N0x4cWlwMmxLX0Q2YWtMOWJ6XzJsMldsNUx1MzZxZTN6VGxYV0cxcFZ6d2s5YUQwTWgydF9HMEXSAfgBQVVfeXFMTTh4S1pNOWdDS01hcXEtZFZPeTZoVHVIMERwbEhZc1BYcERtQWFFZnNrOFhhNG5NY1pJd1o3aUMtcjlDbFo5dnk1WUNYTjN2VU9DRVByQ2hHR0hueW9RMndJcGtGWUNhVWU5QUpvWkRsWVdsVXctOWxKUFhnZ2l2cktZWnNHZlMtc2pYYUFiellxbmZSV2VoQU5OV2psbWYxdVdpbkQ0VGVReEhyU3ppbWtRdTVQc3VRZXEwNHk3ejQzRXh4N2sxRXdIMFJjc20wcHZka2dvSEsyaGpLSzgxcGtudjNPRHlnZ3REdU1jdDZ2VU1qQm5VSEo?oc=5",
+   "date": "2026-11-12",
+   "source": "CIC News",
+   "label": "Canada",
+   "snippet": "On November 5, alongside the federal budget, Ottawa tabled its 2026 Annual Report to Parliament on Immigration. The report runs more than 60 pages. It covers study permits, work permits, and visitor visas, as well as permanent residency. It also lists the programs Canada ended, paused, or capped as it moves to further regulate its",
+   "lead": "On November 5, alongside the federal budget, Ottawa tabled its 2026 Annual Report to Parliament on Immigration. The report runs more than 60 pages. It covers study permits, work permits, and visitor visas, as well as permanent residency. It also lists the programs Canada ended, paused, or capped as it moves to further regulate its immigration system. However, the report contains no line or target for Americans proving citizenship by ...",
+   "image": "https://www.cicnews.com/wp-content/uploads/2026/11/image-6.jpg",
+   "why": [
+    "Affects citizenship",
+    "Announces a change",
+    "Major story (8 headlines that day)"
+   ],
+   "tags": [
+    "Citizenship",
+    "Canada"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
    "desk": "Policy",
    "score": 19,
    "priority": 100,
@@ -413,7 +456,7 @@
    "tags": [
     "Agriculture & Food"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -436,7 +479,7 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -460,7 +503,7 @@
     "Funding",
     "Fintech"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -484,7 +527,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -507,30 +550,6 @@
    ],
    "tags": [
     "Debt & Bonds"
-   ],
-   "rank": 5,
-   "must_read": true
-  },
-  {
-   "desk": "Immigration",
-   "score": 11,
-   "priority": 92,
-   "title": "Canada Announces Plans to Clear Major Permanent Residence Backlogs",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS0QzZXNQWjFscGVvNm9SVXFzSnY1ekFkbmRWOHEzNFpWb1Q1OENpeFdjUW5zMDFBeVpick5ocXRsWmNUN1V2RmIyMUJvTzMwczBZRUg0b3dCcmQ1TTQweWg4ZlFZTlRDYkFNMlJnenV5WDl0VXVIR00zeEU2b05pRVBpOE5xQ1ZaQ0s2em9qdjJPaXV3?oc=5",
-   "date": "2026-11-11",
-   "source": "Immigration.ca",
-   "label": "Canada",
-   "snippet": "Canada plans to fast-track permanent residence applications for Ukrainians, Hong Kongers, families and workers under new 2027 immigration measures.",
-   "lead": "",
-   "image": "https://immigration.ca/wp-content/uploads/2024/10/First-15-Things-to-Do-as-a-New-Immigrant-in-Vancouver-Canada.jpg",
-   "why": [
-    "Affects permanent residence",
-    "Announces a change",
-    "Major story (11 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Canada"
    ],
    "rank": 6,
    "must_read": false
@@ -563,6 +582,29 @@
    "desk": "Startups",
    "score": 10,
    "priority": 91,
+   "title": "Why CommonFloor’s $200M exit felt like a loss to co-founder Vikas Malpani",
+   "url": "https://yourstory.com/2026/11/why-commonfloors-200-million-exit-felt-like-a-loss-to-co-founder-vikas-malpani",
+   "date": "2026-11-12",
+   "source": "YourStory",
+   "label": "India · Real Estate & Workspaces",
+   "snippet": "A decade after Quikr bought the real estate portal, Malpani reflects on leaving the startup he had spent years building and why he chose to start again.",
+   "lead": "Why CommonFloor’s $200M exit felt like a loss to co-founder Vikas Malpani A decade after Quikr bought the real estate portal, Malpani reflects on leaving the startup he had spent years building and why he chose to start again. Team YS 17560 Stories Thursday November 12, 2026 , 3 min Read Vikas Malpani thought he would feel like he had won when Quikr bought CommonFloor in 2016. He had spent several years co-building the startup, which ...",
+   "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/VikasMalpani1600x900-1794460209296.jpeg",
+   "why": [
+    "Financials",
+    "Large deal (about $200M)"
+   ],
+   "tags": [
+    "Financials",
+    "Real Estate & Workspaces"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
    "title": "Exclusive: Nvidia and Unity join Emulate’s $700m fundraise",
    "url": "https://sifted.eu/articles/exclusive-unity-nvidia-emulate/",
    "date": "2026-11-11",
@@ -578,7 +620,7 @@
    "tags": [
     "Funding"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -599,29 +641,6 @@
    ],
    "tags": [
     "Funding"
-   ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "MDR And AI: Inside The Two Acronyms That Could Shape Razorpay’s ₹6,000 Cr IPO",
-   "url": "https://inc42.com/features/mdr-and-ai-inside-the-two-acronyms-that-could-shape-razorpays-%e2%82%b96000-cr-ipo/",
-   "date": "2026-11-06",
-   "source": "Inc42",
-   "label": "India · AI & Deeptech",
-   "snippet": "Razorpay's upcoming IPO might get a twofold push from the MDR on UPI payments implementation as well as fintech's AI product stack when it seeks public market investment for a ₹ 6000 Cr IPO",
-   "lead": "Razorpay has received SEBI’s approval for a ₹5,000-6,000 Cr IPO at a reported $5 Bn valuation, with a listing expected between January and March 2027. Razorpay is taking a profitability-led pitch to public investors, with its core payments business EBITDA profitable. The 0.4% MDR on large UPI transactions could provide an additional high-margin revenue stream, helping narrow the valuation gap. Analysts estimate MDR could generate ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Razorpay-IPO-social.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $632M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "AI & Deeptech"
    ],
    "rank": 10,
    "must_read": false
@@ -695,6 +714,29 @@
    "must_read": false
   },
   {
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 75,
+   "title": "Sweden Introduces Minimum Age Requirement for Foreigners Seeking Citizenship",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbDlWb0tKcWdtaHFMMWtrTklDVEtONEZ1a3lHbFhVdnpxdHg0aW50YURLb21IU2kxTUFMV29fd2RybGIzcURzZElxSENNSGdRa2ptS0Rnc2dhejVOcGxvNk95VUhpaS1NUUEzY2JSTW53SXRZTTZ2elFZYlRNWDhlYTRxXzFIUDNEOHV6bmJSOXc3NVNUMXZfZ3RpaGZHbTduMEJKTmpGXzZKZTA3NGc?oc=5",
+   "date": "2026-11-12",
+   "source": "Tuko News",
+   "label": "Sweden",
+   "snippet": "The government of Sweden has announced the minimum age limit for foreigners to apply for citizenship. Other requirements were also explained in the guide.",
+   "lead": "World Sweden Introduces Minimum Age Requirement for Foreigners Seeking Citizenship Published 12 Nov 2026 at 8:37 AM by Shillah Mwadosho 2 min read Foreign nationals must be at least 18 years old to apply for Swedish citizenship through the adult application route Applicants must meet identity, residence and immigration-status requirements, including appearing in person for identity verification Language, knowledge of Swedish society, ...",
+   "image": "https://cdn.tuko.co.ke/images/1200x675/76d8faaabc785513.jpeg?v=1",
+   "why": [
+    "Affects citizenship",
+    "Announces a change"
+   ],
+   "tags": [
+    "Citizenship",
+    "Sweden"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
    "desk": "Policy",
    "score": 14,
    "priority": 74,
@@ -714,7 +756,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -738,7 +780,7 @@
    "tags": [
     "Markets & Regulation"
    ],
-   "rank": 15,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -760,7 +802,7 @@
    "tags": [
     "Other Policy"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -783,7 +825,29 @@
    "tags": [
     "Budget & Fiscal"
    ],
-   "rank": 17,
+   "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 8,
+   "priority": 67,
+   "title": "Norwegian journalist alleges embassy stopped her from travelling to India, cancelled visa",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMG1lSG9BaFdGQ1N6NFh3cXNQY3BJb0w5Qi1SM1lRSElvYTVBNk4tOEJJVDZ3SEl3TGJZUV9Cb3h3NG5hRzh5QWJid2JfR3JOLWpMZGxacUVYNmFYbEowLXlQZ0pLTy1jd2JndzdXVXIxTVVac1l1U2dId18ydjQxQjdvNjFsWU9xM2RmZWMyVDV5YXh2WUlkNURCS2RZb3N3aHEwRm9zTmx0UGxuejBRZ2xaeHFzZGFxd3hCMEFn0gHDAUFVX3lxTE84UkROdGYtUDZickI4dmVWdnluWVowd0tsZ1hfQkxfRmxtdGRSU3FXSTBPWjl5dm5tOENDaFdmYjI3djVjMHIweWhxTFlnODhvb1J3NVNSb3dnbUFSV1FoSjNkU0JWQlFHdHdCU1pDNGhoLWpDRW5DTVRGRmtkekNJOG5vMzB5VXZDSmV2d1Q5ZGhONmVuV0JWclQ3enBfTUlZMXBHRHhiY3hVVDc2NWtyUVZ1dXNuaGN3cHI0SnB0eGhfcw?oc=5",
+   "date": "2026-11-12",
+   "source": "Scroll.in",
+   "label": "Norway",
+   "snippet": "Helle Lyng Svendsen said that New Delhi did not provide a reason for denying her entry, and alleged the decision felt ‘politically motivated’.",
+   "lead": "Share Share on Facebook Share on X Share on LinkedIn Share on BlueSky Share on Threads Share on Reddit Copy Link Email Print Add Scroll on Google iOS App Android App Norwegian journalist Helle Lyng Svendsen on Wednesday alleged that the Indian embassy in Oslo stopped her from travelling to India for a conference and cancelled her visa. Svendsen said that 10 minutes before she left for the airport, the embassy asked her not to travel. ...",
+   "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/book/216557-emeapdzsnp-1794450595.jpeg",
+   "why": [
+    "Major story (9 headlines that day)",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Norway"
+   ],
+   "rank": 19,
    "must_read": false
   },
   {
@@ -806,7 +870,7 @@
     "Quota / Caps",
     "Spain"
    ],
-   "rank": 18,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -828,7 +892,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 19,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -850,49 +914,6 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 50,
-   "title": "Norwegian journalist says India barred her despite valid visa",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYUtmNUdGNlF0bXVnYm1ZQ0RVblAtQ3NoUnZ3ZWRMV0FVX2drRG9lYWlacEEzVlZjaXdfVTM4SDJXcko1Z2tQbU9lXzJRZjdZTTNtTHVMMVlhd0c4Ym5waDFkVFFvVjg3Yk1GRktHMElNM2xPMDl6TDZxb3d2RzF3OXhUN09UQjF4V2M5VG50cGlDZ0NKX2xsSmkzOWYyazRlaFk1VkR30gGrAUFVX3lxTE5qRy1kTjJoWnp3TFRqQjBLbl9MZDVvbUhZRE1oeDViaWFhZXJnRU1rSG5fUGhkVm5lWExvYXVuWjlFSVhTN0RHdmNwTGdzdDM5Vmg2cklOd2REVndmaGdkNi1JUk40M21INVJ1VkdMR0VLbTg1TTYzUlZMLWtUUVViLUxsYWRkRlNNMnA3a3BHSGRYMXdoX2x0clVKSFlnY292QTFudVlnTGt6dw?oc=5",
-   "date": "2026-11-12",
-   "source": "Madhyamam",
-   "label": "Norway",
-   "snippet": "The journalist gained traction after confronting Prime Minister Narendra Modi on human rights violation in India during the latter’s visit to Oslo on May 18 as part of his Europe tour",
-   "lead": "Norwegian journalist Helle Lyng has alleged that Indian authorities prevented her from travelling to Hyderabad for a conference, despite her holding a valid visa. She said the Indian Embassy in Norway informed her shortly before her departure that she would not be allowed to enter the country. In a social-media post addressed to Union Home Minister Amit Shah, Lyng said she had been invited to speak in Hyderabad on media, press freedom ...",
-   "image": "https://madhyamamonline.com/h-upload/2026/11/12/2946786-untitled-design-2026-05-20t091309680-780x470-1.jpg",
-   "why": [
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Norway"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 50,
-   "title": "From Singapore to Germany: Countries Ghanaians can visit visa-free with a service passport",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRHRuNG5PZU5lQWs1TGlodEw1SkJtNGVLUWZSTThJdF9LdXZYUi1rcElhRXVGOXFaX2EyaHczWEdzWjhjS3FfN1Z4bWNGb1BXZlM3aDc1cDZMX2tud1lodUNJcjFTaWJkeWdza1gyRjV5TTFyMmN2aVpubTUzeC1xdDZORG1JaXV6T1JWSjJsbGV1YUZPNjJiOG52UHZxUmdFaVlfb1l3SHVUTFpuZ2ZJY2JDRERsWFpSYkVsaTdWQVliaDFpLVZMNDJ0X1RoSVhlQVd1YUxfTTBGTmtOR0E?oc=5",
-   "date": "2026-11-11",
-   "source": "GhanaWeb",
-   "label": "Germany",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Affects citizenship"
-   ],
-   "tags": [
-    "Citizenship",
-    "Germany"
-   ],
    "rank": 22,
    "must_read": false
   },
@@ -900,20 +921,20 @@
    "desk": "Immigration",
    "score": 6,
    "priority": 50,
-   "title": "Australian citizenship: Home Affairs clarifies age rules for young applicants",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZW12aWRSNjdKWi1hNVNrZUgxMzFfNVB5LVhkaWY0V2VRbUNVcExyazBrdl92LXQ1LVR2Y01iN3VzM1VRbHdENjFvV3NLa0ZKd0lNcngwSUJVVjVHSHVHMWJmMWRxRFQ2VzRDUzRaWmVaRnRqNVJuOU9mdzVXbnlkeUVHdkpSa05wUjU5WkI4NUJxVW5ieWtxZmpnYXNSU25VNW9vRy1SS1Y?oc=5",
-   "date": "2026-11-11",
-   "source": "Tuko News",
-   "label": "Australia",
-   "snippet": "Australia has outlined the minimum age requirement for foreign nationals seeking to become Australian citizens through its citizenship application process.",
-   "lead": "World Australia Clarifies Age Requirements for Foreigners Applying for Citizenship Published 11 Nov 2026 at 12:19 PM by Shillah Mwadosho 2 min read The Australian Government Department of Home Affairs has outlined the age requirements foreign nationals must meet when applying for citizenship Permanent residents aged 15 and under fall under a separate citizenship application category from those aged 16 or 17 Australia offers citizenship ...",
-   "image": "https://cdn.tuko.co.ke/images/1200x675/bbb9f39ce148583d.jpeg?v=1",
+   "title": "Netherlands work visa offers: Dutch Embassy issues important clarification",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdG1fTTV1by1lQTNQeFdzX01kY2IxWDhzMEZKci13dFJmajlfel9uNFBNSWN2b19Jb1YydGFET2xmeS1zMUYtMGZLcERiaXV3VGRCOExPSnVNY19ITVJLZDlFU192THFsbzhPYW9TYUNZczREUnBISHFoSHFDVlFzZE9vX2t2M2FqeVdXZ19GcTJTOEVRblNOb1BwVGNNN2tTcjJQRlBSb2pzSVk2cFE?oc=5",
+   "date": "2026-11-12",
+   "source": "Newswire",
+   "label": "Netherlands",
+   "snippet": "Netherlands work visa offers: Dutch Embassy issues important clarification News - Newswire",
+   "lead": "The Embassy of the Kingdom of the Netherlands in Sri Lanka has warned the public about fraudulent employment schemes offering jobs in the Netherlands, revealing that several individuals have already fallen victim to such scams. In a statement issued on Thursday (12), the embassy said certain parties were misleading job seekers with false employment promises and circulating forged letters purportedly issued by Dutch immigration ...",
+   "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Screenshot_20261112_105329_Chrome.jpg",
    "why": [
-    "Affects citizenship"
+    "Affects work visas"
    ],
    "tags": [
-    "Citizenship",
-    "Australia"
+    "Work visa",
+    "Netherlands"
    ],
    "rank": 23,
    "must_read": false
