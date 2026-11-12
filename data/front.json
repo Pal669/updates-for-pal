@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-13",
- "built": "2026-11-13 00:08 IST",
+ "built": "2026-11-13 03:59 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -26,30 +26,30 @@
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.03,
-   "change_pct": 0.11,
-   "asof": "12 Nov 21:10 IST"
+   "value": 94.04,
+   "change_pct": 0.12,
+   "asof": "13 Nov 03:34 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 95.1,
-   "change_pct": 2.52,
-   "asof": "12 Nov 23:58 IST"
+   "value": 95.77,
+   "change_pct": 3.24,
+   "asof": "13 Nov 03:29 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3886.0,
-   "change_pct": -2.87,
-   "asof": "12 Nov 23:58 IST"
+   "value": 3882.0,
+   "change_pct": -2.97,
+   "asof": "13 Nov 03:29 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.11,
-   "change_pct": 2.22,
-   "asof": "12 Nov 23:53 IST"
+   "value": 5.1,
+   "change_pct": 2.1,
+   "asof": "13 Nov 01:29 IST"
   }
  ],
  "features": {
@@ -164,8 +164,8 @@
    ]
   },
   "Startups": {
-   "total": 1378,
-   "new_today": 0,
+   "total": 1379,
+   "new_today": 1,
    "items": [
     {
      "desk": "Startups",
@@ -252,8 +252,28 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 0,
+   "new_today": 10,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 55,
+     "title": "Why Australia’s proposed student visa rules might hit Indian applicants hardest",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOGxObThqVUkzaktkR0JZNl9JV2dwSVpXdWJFSkQ5OXFZUnNTZFpHYmZsX1pvOWRmbzFPSHFEdHFEejFfeWY2cVBjamx3VFpWTVJjTFpUNGx4THBnQ1BobngxbkVfZ1E3bjN1RjN5SHFvYUNwVjMwQmI0ZTFiQWpudW5lQ1d6WUNrLVc2SHpucHNxUlhGT1p6RGVkd2hJRHJJUGhyN1BLcUNDdGx0aURIVk9ndWYxUl9wcWlSNFRNZHJJNzVUTUZkMFRoWEXSAdMBQVVfeXFMT3h1dzZtelpFd2ZJeEcwM1h3c2tqcHhoeFFrM3JQdl9JUFc0V3E1ZklyY0U5bno5bHhNSmcwOWFKY1lzRjk5a2hOcWVWTXU5ejg1Z0ZTTVppeTE4WkRBT25iN1VJNHhvZ3M4dmNPMG41UV9icnN6ajdQOFZkZTZwRXJHNndPQWlFVXFoQWdpQjlwTUR1cEU1OGtDNlQwVkJDd2xFQXY0NkEzMlpmZ2hBdEpnS2FfNC05Z3Z1bVZFdUswSldkZ3E1bjRpZjhtVUxuc1JLaw?oc=5",
+     "date": "2026-11-12",
+     "source": "The Indian Express",
+     "label": "Australia",
+     "snippet": "",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Mentions India or Indians"
+     ],
+     "tags": [
+      "Student / Graduate",
+      "Australia"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 5,
@@ -272,112 +292,91 @@
      "tags": [
       "Finland"
      ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 45,
-     "title": "Netherlands work visa offers: Dutch Embassy issues important clarification",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdG1fTTV1by1lQTNQeFdzX01kY2IxWDhzMEZKci13dFJmajlfel9uNFBNSWN2b19Jb1YydGFET2xmeS1zMUYtMGZLcERiaXV3VGRCOExPSnVNY19ITVJLZDlFU192THFsbzhPYW9TYUNZczREUnBISHFoSHFDVlFzZE9vX2t2M2FqeVdXZ19GcTJTOEVRblNOb1BwVGNNN2tTcjJQRlBSb2pzSVk2cFE?oc=5",
-     "date": "2026-11-12",
-     "source": "Newswire",
-     "label": "Netherlands",
-     "snippet": "Netherlands work visa offers: Dutch Embassy issues important clarification News - Newswire",
-     "lead": "The Embassy of the Kingdom of the Netherlands in Sri Lanka has warned the public about fraudulent employment schemes offering jobs in the Netherlands, revealing that several individuals have already fallen victim to such scams. In a statement issued on Thursday (12), the embassy said certain parties were misleading job seekers with false employment promises and circulating forged letters purportedly issued by Dutch immigration ...",
-     "image": "https://www.newswire.lk/wp-content/uploads/2026/11/Screenshot_20261112_105329_Chrome.jpg",
-     "why": [
-      "Affects work visas"
-     ],
-     "tags": [
-      "Work visa",
-      "Netherlands"
-     ]
     }
    ]
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 0,
+   "new_today": 19,
    "items": [
     {
      "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
-     "title": "Large banks raise MCLR by up to 20 bps after RBI's repo rate hike",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZEJqMmY5dlh3MVo3M19DTjg3X0lwMGRBTXU5eTZCeEV5eGxCbGZwSTlhR2lYNFU2Wk94V2tCcTlIcjU0UUoyMlJOcWRVY21fdThYd3hfajlzaDVCV0QxYTdYX3NEUTZIaExiQWxHcjkyOFc1Z1FhaFNVNWRrTWZ5YzlaYkIxS1dyOFpySWRMbHRmSUVBUEZyb0NiR1lnanhSTDQxbkRCWFp3V2w1RFZoYld0THNITkpIU2pVNjdSbDZXSG_SAcgBQVVfeXFMT1Q3NkVvZ1dDaGFzY182MGxJN05qZ2JoX0xPdU9NMWFKSjl5U1VUMjFfX1ZsNF82SmRMUDFyOWFMOEtBMHREc2duSEpXWmN1NE5tbGNJcEt5XzRIZzVydi1wdzlYRG80cmhINTZrLVFLMUFNeDc1aUZwVlVCcXZ2QU03Z01NV1l2V3RPT29rYnZ1S3pRa0p4X3ZiMFdwamRtMjlBSjBEMEFqUmpYV0dmTkVVRkdlaHdHN1ZiVWpJYU0wcXViNFdTNVA?oc=5",
-     "date": "2026-11-11",
-     "source": "bfsi.economictimes.indiatimes.com",
-     "label": "Regulatory",
-     "snippet": "Explore how large Indian banks have responded to the RBI",
-     "lead": "Large banks have started raising their marginal cost of funds-based lending rates ( MCLR ), with seven lenders, including State Bank of India (SBI), HDFC Bank , Punjab National Bank (PNB), Bank of India , Indian Bank, Canara Bank and Bank of Baroda , revising their benchmark lending rates over October and November. The revisions come after the Reserve Bank of India (RBI) raised the policy repo rate by 25 basis points to 5.50 per cent ...",
-     "image": "https://etimg.etb2bimg.com/thumb/msid-135730558,imgsize-1954087,width-1200,height=627,overlay-etbfsi,resizemode-75/articles/large-banks-raise-mclr-by-up-to-20-bps-after-rbis-repo-rate-hike.jpg",
+     "score": 10,
+     "priority": 77,
+     "title": "US Treasury Yields Surge as Inflation Revives Fed Rate Hike Fears: What It Means for Bitcoin",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN3VraGl6aTk3US1Eelo2SWh1RHNBQy1RZkJMcWtpdHRTclRXY0tYeHZlQThmR205UDE5ODdkZjVtZGhmQ1JZdG1BSnlFanFnb0NMeDNZSGJydTlyckxDVGVpbXdHUEltaHlaSC1fem4yMW02dzlkeUp2aFJ0UFZEa01PeWJqcFNvQWpGbGRxZUo1ajNac1l0eUtJYzZyQ0h2SXVUbnRRNTVYdGtaSV9PLXloOFRNQ0lvQzh0emp4VW0?oc=5",
+     "date": "2026-11-12",
+     "source": "Programming Insider",
+     "label": "Global",
+     "snippet": "One inflation report was enough to shift sentiment across the US bond market. On November 10, hotter-than-expected October CPI data sent the two-year Treasury yield, one of the market’s most sensitive indicators of Federal Reserve policy expectations, surging by as much as 21 basis points to 4.77%. It marked the sharpest single-day increa",
+     "lead": "Search for: Bitcoin Finance US Treasury Yields Surge as Inflation Revives Fed Rate Hike Fears: What It Means for Bitcoin Marc Berman November 12, 2026 © Ewan Kennedy for Unsplash+ Share Facebook Twitter Linkedin Email Threads Bluesky One inflation report was enough to shift sentiment across the US bond market. On November 10, hotter-than-expected October CPI data sent the two-year Treasury yield, one of the market’s most sensitive ...",
+     "image": "https://programminginsider.com/wp-content/uploads/2026/11/ewan-kennedy-97UZ3vPu8SA-unsplash-1024x683.jpg",
      "why": [
-      "Regulator: SEBI or RBI",
-      "Interest-rate decision"
+      "Interest-rate decision",
+      "Global macro driver",
+      "Sharp market move"
      ],
      "tags": [
-      "Regulatory",
-      "Banks & Financials"
+      "Global"
      ]
     },
     {
      "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
-     "title": "SEBI Relaxes Accredited Investor Norms for AIF, SIF and PMS; Introduces Rs 5 Crore and Rs 20 Crore Securities Exposure Criteria",
-     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRW1rVTYwNXBzWkJKU2pPRmpGNFlOUEgzeEFNODNqWDJGTjI3cjR2akFXSU8xcTRpRVlxMEtNT3VUNC1ma3JkSmJnUHBMSEVqWGFLMjVqWjhKRzlWclBpcGpIdGlmU3BfRlFJZUdrYi01Qk9jMkNLNVdEUm9kQlE5TmVKRUhHRXBGamJqOHBESUZuTm1wZ3JZWnp0SzlxZXBKZzZTWktxVUNNcXdVNnZod0pTR2N2QVMxQTBJOGZWZWF3STMydEgzbnFwMUUxbG5SN1Z1NUM2VGN4UGJQc0pUUVhObkM4eGQzU0pEbzZHRnA2VFl1QUc3WWgtOEZHM3k0V1pwYw?oc=5",
-     "date": "2026-11-07",
-     "source": "Dalal Street Investment Journal",
-     "label": "PMS",
-     "snippet": "SEBI eases investor accreditation for AIFs, SIFs, and PMS, allowing managers to assess eligibility directly, simplifying the process and reducing delays.",
-     "lead": "The Securities and Exchange Board of India (SEBI) has relaxed the Accredited Investor framework to simplify eligibility verification for investors seeking to invest in Alternative Investment Funds (AIFs), Specialised Investment Funds (SIFs) and Portfolio Management Services (PMS). Announced on November 5, 2026, the revised framework allows investment managers to directly assess an investor's accreditation status, reducing dependence on ...",
-     "image": "https://site.dsij.in/Portals/0/EasyDNNNews/60354/SEBI1.jpg",
-     "why": [
-      "PMS news",
-      "Regulator: SEBI or RBI",
-      "Rule or framework change"
-     ],
-     "tags": [
-      "PMS"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
-     "title": "Comprehensive Regulatory Analysis: SEBI’s Updated Master Circular for Alternative Investment Funds (November 2026 Framework)",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXlmQTNYbkVsVGFUajBweU5ldFd6N0RQelNEblFoaTJtNGtMeGs0YlNycG80ckl0YzBZdUw3WjdPNGFycnA0c3EycDR6ckpvckktNUY4eFlMalQxcUw5RDJmcVJJRUhseEtGLURzSWk5eXNJMjFBanBKWDAwQTN6UHkwX2ZrMUwzZC1DbHJhTU1VamFzSm1FRzFPM21tdVQwNVBaLWhMN25nZGJsbmc?oc=5",
-     "date": "2026-11-06",
-     "source": "TaxCorp AI",
-     "label": "AIF",
+     "score": 10,
+     "priority": 77,
+     "title": "Gold, silver slide in India as Fed rate hike bets hit 100%, rupee offers little relief",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSW9JVVd6a2dEbkE0Z1JkRWpqWTJHOS1LUDRQa29TU3ZYYTJTQVNUTktQOHl4Z0VSUU04Rk9NNXlxMklnWnBxc1RHM1B4R3p2Y19DYy1sTjdORjdGRFlWTFd1d0JHYUctc1h5cW05U2J3OGtMRDVhTnRWdFZ2dzJ3Y2VzQjA3U2dJZHRKQzZmVTk3OXlhWUtRTjZmWWNoRkNJMEYxRWVwQjdJZENfV0p2dUUxai1Ba24tdkt5NHhkTVpjSWhEWTFHd3FIZGp1Wkhna2JjLVVtc2U5Mk3SAeIBQVVfeXFMTmhoSkRUS2Jmck1henJwdnZpQklHc00xOTRkOF9CdlR1RkJLSzFRQXJ3anNienVyRWpXdEJ3eC1VaVZKaEJPTHFJVFYyTmtTQjJRNnpxLU1jY2pWTzdqZm9iTzVEczkxX0ZYMG9veDNpYmJXYmVkM2NYWVByb29kdXM4RDJEUmNTc3BaNkFGeEgzN3h3dExzbjhRN0JiU09mZVMyVTNoRzRHbmE2WHFaV3lvVXV0eWNvTUZHU2hVUkhfeXg3ZV8zalctQ2dRNm1zdjh2YkhMNjhyTklvdTdwYjNBUQ?oc=5",
+     "date": "2026-11-12",
+     "source": "The Financial Express",
+     "label": "Gold & Silver",
      "snippet": "",
      "lead": "",
      "image": null,
      "why": [
-      "AIF news",
-      "Regulator: SEBI or RBI",
-      "Rule or framework change"
+      "Interest-rate decision",
+      "Precious metals",
+      "Global macro driver"
      ],
      "tags": [
-      "AIF"
+      "Gold & Silver"
      ]
     },
     {
      "desk": "Advisory",
-     "score": 8,
-     "priority": 67,
-     "title": "HiLITE Group to Launch Rs. 200 Crore Shariah-Certified Category II AIF",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOEVRbnZac2h3M082NGVfTHhvRV8tUXpmajdyVFlGS2Y4QTZpNmZGNlhDNGlKcmtIT0g4MFpwLUg1R0c4eU9Rc284UURFN090OS1FX2llWjJmZEJ2bDZ4WW9MZ0xmbFFWUWRiSmxPR2N4bzgyTXFvLXFDVldLZ2dNTkJxbnVDWnFhV2RBeDh4OUE1eXZRR21tNENHYk03dXNGa1g5ZTl3R1FuNmgyXy1TYURIMXl1S0FzMkJqRi03NUZhOEZfa0haSlRwWnZsdDg1a2ZkdjhOb3liWUsycWJHZnM5VmTSAeoBQVVfeXFMUC10ci14Z0YyVGR6TmY4Rm1OZGJLb29PaFQ4LXZuTFNGRFU0R1pvYTRQb2FxMUNTZk9mWC1YcURaRnVTaFRQTVJLaWxKdHJQSGhsbUp2NU8xZ1VsR3MybGZiMzg4WHVWb0dSMFZ2NnF6X3AtNTBzZVJISjFFWFV0bldSX05EX1kyM3Uzakt0UjR2UXhZaFdGdEV0ZURBbEdNbXBzR2dhRVdhc3ZCajhyaTVhUzh0Zm5SUG0zc3pTdVFseWpLMVlYVENHU05VV29ucVUwbEUzdC1ES0FtZVkyX0hadTZ1bHdQbDl3?oc=5",
-     "date": "2026-11-11",
-     "source": "Business Standard",
+     "score": 10,
+     "priority": 77,
+     "title": "RBI Rate Hike Expectations, Tight Liquidity Put Pressure On Short-Term Bond Yields",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRlM3NU14dUR6ZXFKMVJFZmI4QjZ5SkR2OG1xQWhuVkxmZF9jMzctM3dwTUxyMUpOam52em1rUi1UaENyRkJuclNXUVE0ajM3emlZOWdQVTVKWHFUbDlIU19nbWp1U0FoeU1KNlpBM3N6T3E5NVU3TVR2TDFCUjV1S210R2Z3d25jcFh1OS1JN09DcEFMN2FvRDh3UTZ2Z0o2RmFfQkdJcDNCQ3hPcVo5MjZ6NmVibXpkUWZ0ZWFhZTlHQmZpa1dkRw?oc=5",
+     "date": "2026-11-09",
+     "source": "KNN India",
+     "label": "Debt & Bonds",
+     "snippet": "Short-term Indian government bond yields are expected to face upward pressure amid tightening banking liquidity and expectations of further interest rate hikes by the Reserve Bank of India (RBI), potentially widening the gap with longer-term securiti",
+     "lead": "Your e-mail will be secure with us. We will not share your information with anyone ! RBI Rate Hike Expectations, Tight Liquidity Put Pressure On Short-Term Bond Yields New Delhi, Nov 9 (KNN) Short-term Indian government bond yields are expected to face upward pressure amid tightening banking liquidity and expectations of further interest rate hikes by the Reserve Bank of India (RBI), potentially widening the gap with longer-term ...",
+     "image": "https://knnindia.co.in/uploads/newsfiles/RBI-FIN-9-11-2026.jpg",
+     "why": [
+      "Regulator: SEBI or RBI",
+      "Interest-rate decision",
+      "Government bond yields"
+     ],
+     "tags": [
+      "Debt & Bonds"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 69,
+     "title": "Eight Innovate Investment Trust and 3 Others Settle SEBI Proceedings for ₹12.75 Lakh Over AIF Regulatory Violations",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVVN4OXl5NlRyb3p6NkxsRDFxNWMyemFfd0NfYzNpZ0NxV3p0eW1lYlFJU3VSNVllWHA1cGhYdnkxQkhaaWZjZjFUbVhrLXQ4U1NqdEN2TTR4VE1vdzBEWm5QTktmdHBWNlRuWjJHMUE5d0JsdjA0S3dJaGJPelV0dEIwRFZBRGVTLVpZM2hEczdlanZ1U1V1WXlQN0JqTzhGZ3Rrc2ZXS0hUX2ROMmUzQURXZXNjRklrNDVMbV9JT2R2ZloxdDloTXhrYXBxZWFuS2xCUjlTd3BkV1ZPZmR0amhWVlhuOTFWSGhnRlJB?oc=5",
+     "date": "2026-11-12",
+     "source": "Moneylife",
      "label": "AIF",
-     "snippet": "Kozhikode (Kerala) [India], November 11: Expanding its three-decade journey in real estate and development, HiLITE Group is set to enter the investment management sector with the introduction of its new vertical, HiLITE Investment Management. The venture marks an expansion of the Group's presence beyond real estate development, into a new",
-     "lead": "4 min read Last Updated : Nov 11 2026 | 11:30 PM IST NewsVoir Kozhikode (Kerala) [India], November 11: Expanding its three-decade journey in real estate and development, HiLITE Group is set to enter the investment management sector with the introduction of its new vertical, HiLITE Investment Management. The venture marks an expansion of the Group's presence beyond real estate development, into a new area of business. Its first ...",
-     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/11/full/20261111165245.jpg",
+     "snippet": "Eight Innovate Investment Trust I and three others its investment manager, Eight I Advisory LLP and two key managerial personnel (KMPs)",
+     "lead": "Inside story of the National Stock Exchange’s amazing success, leading to hubris, regulatory capture and algo scam 29 Years Of The Scam: The Perennial Bestseller, reads like a Thriller! #Scam92: Read the actual story. Pathbreakers 1 & Pathbreakers 2 contain deep insights, unknown facts and captivating events in the life of 51 top achievers, in their own words.",
+     "image": "https://www.moneylife.in/site/userimage/image/responsive/Eight12112026Mian.jpg",
      "why": [
       "AIF news",
-      "New product or fund",
-      "Also covered by 2 other outlet(s)"
+      "Regulator: SEBI or RBI"
      ],
      "tags": [
       "AIF"
@@ -436,6 +435,30 @@
    "must_read": true
   },
   {
+   "desk": "Advisory",
+   "score": 13,
+   "priority": 100,
+   "title": "Rs 80,000 crore FII buying sparks explosive rally on Dalal Street. Will RBI rate hike worries kill the party?",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-80000-crore-fii-buying-sparks-explosive-rally-on-dalal-street-will-rbi-rate-hike-worries-kill-the-party/articleshow/135755863.cms",
+   "date": "2026-11-12",
+   "source": "Economic Times",
+   "label": "Regulatory",
+   "snippet": "The Sensex has staged a sharp 9,000-point rally since late October, crossing 82,000 for the first time since February, before the US-Iran conflict erupted. The rebound has been fuelled by a strong return of foreign investors, who have bought nearly Rs 69,000 crore worth of Indian equities in November so far and around Rs 80,000 crore sinc",
+   "lead": "The Sensex has staged a sharp 9,000-point rally since late October, crossing 82,000 for the first time since February. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price",
+   "image": "https://img.etimg.com/thumb/msid-135755921,width-1200,height-900,imgsize-313292,overlay-etmarkets/articleshow.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Sharp market move",
+    "Sector or flows signal"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 3,
+   "must_read": true
+  },
+  {
    "desk": "Policy",
    "score": 18,
    "priority": 100,
@@ -456,13 +479,36 @@
    "tags": [
     "Agriculture & Food"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
    "desk": "Advisory",
    "score": 12,
-   "priority": 100,
+   "priority": 92,
+   "title": "RBI releases data on ECB / FCCB / RDB for September 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63961",
+   "date": "2026-11-12",
+   "source": "RBI",
+   "label": "Regulatory",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "The Reserve Bank of India has today released the data on External Commercial Borrowings (ECB), Foreign Currency Convertible Bonds (FCCB) and Rupee Denominated Bonds (RDB) through General Permission and Special Permission for the month of September 2026.",
+   "image": null,
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Global macro driver",
+    "Official notice"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 5,
+   "must_read": true
+  },
+  {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 92,
    "title": "Easing Oil, Bond Yields May Support Bank Margins, RBI May Hike Repo Rate In December: Jefferies",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObTUtblN2OFNDVFZvNlBzWTZGTkdteVE4RVhOclBiUnIwMUtEX0xoYVQ3Y1Z6aFplLTZZWUJCeEU3bkRLREFvaUZyQnZBNTNndDNOTGJ3WUdkRjZvX29mRlducXhHQ3JEWFVHWEF0MDJTWi1VdFJXeXBXb2U0TUNRWlhBTDZiaWZsd2pVWWo2U2dUeWdINXJ2N0RhWlR4a25KeDY0RFowdG9NcVV4azlfdHZzOUhQVDRxZXM2SEwzTXVzRGJoR1RscXBBMm9oU1F2b1pJeDNMaU56a1V0eG1iNDZzd9IB4wFBVV95cUxObTUtblN2OFNDVFZvNlBzWTZGTkdteVE4RVhOclBiUnIwMUtEX0xoYVQ3Y1Z6aFplLTZZWUJCeEU3bkRLREFvaUZyQnZBNTNndDNOTGJ3WUdkRjZvX29mRlducXhHQ3JEWFVHWEF0MDJTWi1VdFJXeXBXb2U0TUNRWlhBTDZiaWZsd2pVWWo2U2dUeWdINXJ2N0RhWlR4a25KeDY0RFowdG9NcVV4azlfdHZzOUhQVDRxZXM2SEwzTXVzRGJoR1RscXBBMm9oU1F2b1pJeDNMaU56a1V0eG1iNDZzdw?oc=5",
    "date": "2026-11-10",
@@ -480,13 +526,36 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 4,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Advisory",
    "score": 11,
-   "priority": 92,
+   "priority": 85,
+   "title": "SEBI Settles AIF Norms Violation Case For ₹12.75 Lakh, Eight Innovate Fund And Officials Get Relief",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ05odi1vWWZfOVVSMzEtVzN5YjFmY0dETERwUFIxY04wWGhZTWJyaFM2ak4zLU1INzhVTEtRNEMwR25FcWVQUWF1aWRjMmhZMl9UT01qOGlOa0oxOU1XRUhUMDVGeGxPbXJJU2kwN1VBYml0WUI3ZTNhWHBSaXdsLUI3Tl84VUJPTEE3SFdBVU1sOVE4bXF5dVlBRUQ4b1RqaS1CaldZWm13a1hnU2l3ME9iQ3hqQUltdW91bDJsSTYxbHIzdWxOR0NzdWpabWZZem530gHYAUFVX3lxTE5KNXRTdEtHM3hYMHhfN1NrMDlBUkZzQnBBTGExdDlQUHdJMWpTX0M5elFfTS1hSlU4WUtXTGxnc0V3XzV0T1hubFU5ZlJTeGZvNkJuNnJOajVWNjluZGFjbGdGVHlCOExRWU5xaHlwOHlyNUZiY0o4YWZuaU55Qy1ObnA5RXNzcjZVVXFMbk1EY0hadW14dmhRb0p3eFVjZTlzYTZxelc4TGNQWTBCX05qQmdmRmFXN3plRVpPQ2JJRkFXdVBhTDFEcFYxcVR6RjNmSkFSbzBSbA?oc=5",
+   "date": "2026-11-12",
+   "source": "Free Press Journal",
+   "label": "AIF",
+   "snippet": "SEBI settles an alleged AIF rules violation case involving Eight Innovate Investment Trust I, its fund manager and two officials after a ₹12.75 lakh payment.",
+   "lead": "Mumbai: The Securities and Exchange Board of India (SEBI) has settled a case involving alleged violations of Alternative Investment Funds (AIF) regulations by Eight Innovate Investment Trust I, its investment manager and two officials following a settlement payment of ₹12.75 lakh. According to a settlement order issued on November 11, the proceedings concerned Eight Innovate Fund II, a scheme operated under Eight Innovate Investment ...",
+   "image": "https://media.assettype.com/freepressjournal/2025-07-08/5fj897gj/SEBI-SEBI-SEBI.jpg",
+   "why": [
+    "AIF news",
+    "Regulator: SEBI or RBI",
+    "Rule or framework change"
+   ],
+   "tags": [
+    "AIF"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 85,
    "title": "Gold rate climbs after 3% drop: Is a rally likely as Fed Dec rate hike bets surge?",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVWVNQ2VqeGRfZ2xFd2lKM1hhWGlXSm5Dbk9YTFVkeTd5ZjBTSUwxSUF0WGg2XzJhT2xENnM2ZjNpRHY1a3JtcjVvd3VCSjQyR250dDRGMXZmUW1BRWo5RXRnOERyYjNveDV2Sm0wN2lTZFVybzlEYWJpWUg2cnRabVI4ckRURl84MFdnMDVxb3hwdENEVTFLaGx1VjhOZExUY0ZPS05OQk1fQWhBeHNtZ3lOYjBFRXRCM0xvRXVMZnA2Q3kxR1NHVXBmRXNrSGNScjh0S3NuMjR3RzhhV3lpVERQVjRISy05NU1kSmFxTEI1aE93cHFlMEdLdUFJZ00tV2fSAYgCQVVfeXFMTnFjWU42Y0w0X1VaYk1tM1hrZDV6ck9aMDBPMm1vbGlBVjhHek5nVnZ1R09hbVlFRE5jSGpXWHR0Nmp3VDI3Z2dpVC0wdVRzVnNpaGJvWWJXTlRGV241UjctWlI4NVZEbTFjYmNoYUNGY0d5Z3NON1U1Mkc0dnpFTGFjcXI1MDFKMFRCRnVpSFBOQjg5Z0phenpSdkZCdWdBcnhDWlNNdjVldWZtdkl4d2N6NHU0VzRjeEI2eFkxRXl2NEdnb1I0b1k5SGtKUUl5SHRjQUdYQk5vTjBvSDZiX0ZFZE1ZdVNKQkFwQWRwazlvRmNoN1NYaUJsemxkSGNiVEtXNWRianNH?oc=5",
    "date": "2026-11-11",
@@ -504,8 +573,8 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 8,
+   "must_read": false
   },
   {
    "desk": "Startups",
@@ -527,7 +596,7 @@
     "Funding",
     "Fintech"
    ],
-   "rank": 6,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -550,7 +619,7 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 7,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -574,7 +643,7 @@
     "Funding",
     "Fintech"
    ],
-   "rank": 8,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -598,53 +667,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "October 2026 Legislation Roundup: From RBI’s Repo Rate Hike to SEBI’s New Settlement Framework",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdzVmSWlQWTB3R3FLZWJGaWZwWW9wUHBBOGQwMHB1cnN4eWxUcFVZV3FwWlJSYkR4R05IaGt1bDlEeklLeUVhWUlabUpROFNVRFgwTlFrcTFITWU4M2RJZkpRcXdDQjRxMkgzaEdwUzBQTWpXQXRRN3YwQWxVZWdBRUNWZE41MXBIU09uNTMyc2M0LVJlTXZDX3FRYmYzS2RJRy0zSWxhUFVFSm93amdaYWo5VFdmTEJOUFE?oc=5",
-   "date": "2026-11-09",
-   "source": "SCC Online",
-   "label": "Regulatory",
-   "snippet": "Legislation Roundup October 2026 covers key developments in financial regulation, GST, data protection, social security, transport and governance.",
-   "lead": "36 updates across finance, GST, data protection, labour, transport, food safety and State governments. As we wrap up October 2026, it is important to take stock of the key legal, regulatory, judicial and economic developments that shaped the month. The Legislation Roundup October 2026 highlights significant updates, including the RBI’s repo rate hike to 5.50% and shift to a calibrated tightening stance, the retention of the 7.1% ...",
-   "image": "https://blog-images.scconline.com/blobblogscconl28830c17bf/blog/wp-content/uploads/2026/11/BLOG-58-28.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Rule or framework change",
-    "Interest-rate decision"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "RBI Rate Hike Expectations, Tight Liquidity Put Pressure On Short-Term Bond Yields",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRlM3NU14dUR6ZXFKMVJFZmI4QjZ5SkR2OG1xQWhuVkxmZF9jMzctM3dwTUxyMUpOam52em1rUi1UaENyRkJuclNXUVE0ajM3emlZOWdQVTVKWHFUbDlIU19nbWp1U0FoeU1KNlpBM3N6T3E5NVU3TVR2TDFCUjV1S210R2Z3d25jcFh1OS1JN09DcEFMN2FvRDh3UTZ2Z0o2RmFfQkdJcDNCQ3hPcVo5MjZ6NmVibXpkUWZ0ZWFhZTlHQmZpa1dkRw?oc=5",
-   "date": "2026-11-09",
-   "source": "KNN India",
-   "label": "Debt & Bonds",
-   "snippet": "Short-term Indian government bond yields are expected to face upward pressure amid tightening banking liquidity and expectations of further interest rate hikes by the Reserve Bank of India (RBI), potentially widening the gap with longer-term securiti",
-   "lead": "Your e-mail will be secure with us. We will not share your information with anyone ! RBI Rate Hike Expectations, Tight Liquidity Put Pressure On Short-Term Bond Yields New Delhi, Nov 9 (KNN) Short-term Indian government bond yields are expected to face upward pressure amid tightening banking liquidity and expectations of further interest rate hikes by the Reserve Bank of India (RBI), potentially widening the gap with longer-term ...",
-   "image": "https://knnindia.co.in/uploads/newsfiles/RBI-FIN-9-11-2026.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Government bond yields"
-   ],
-   "tags": [
-    "Debt & Bonds"
-   ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -667,30 +690,29 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 12,
+   "rank": 13,
    "must_read": false
   },
   {
-   "desk": "Advisory",
-   "score": 9,
-   "priority": 75,
-   "title": "Gold Prices Recover Above $4,040 as Investors Assess Federal Reserve Rate Hike Expectations",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbE9pY2xWMlFnbjZTNnNOU04tbE1fZzUzQ2xfS3JaUUZ3ZnM4bFpGLUM1QXJ1UEVSOVlzc3ctUUtkYVowR01lQTNEUExDMzlNTU53bnVYN0ZLTTB5ZXpzVE9rcDM3ME9ncTNYM3hoa21UY0trOG9IWHlOVzhHOFNONGtYOHF3WjZ2RXF4S0k5eDZpUEZWVU1IX1V5dGNzQQ?oc=5",
-   "date": "2026-11-11",
-   "source": "Yahoo Finance",
-   "label": "Gold & Silver",
-   "snippet": "Gold prices edged higher on Wednesday, recovering part of the previous session’s losses as investors assessed the possibility of further interest-rate increases by the Federal Reserve following stronger-than-expected US inflation data and comments from central bank officials. At 04:56 GMT, spot gold rose 0.",
-   "lead": "Gold Prices Recover Above $4,040 as Investors Assess Federal Reserve Rate Hike Expectations Fiona Craig Wed, November 11, 2026 at 4:13 AM CST 4 min read GC=F -0.89% Gold prices edged higher on Wednesday, recovering part of the previous session's losses as investors assessed the possibility of further interest-rate increases by the Federal Reserve following stronger-than-expected US inflation data and comments from central bank ...",
-   "image": "https://s.yimg.com/lo/mysterio/api/423ad3be929a6f78b2e50b81a6a3548e5836c0fbf768ab3d640c369a8f2e35a6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2Fd1f83586100d36d0c92826b2d2b00fb4.png",
+   "desk": "Immigration",
+   "score": 8,
+   "priority": 73,
+   "title": "Congress, TMC slam Centre after Norwegian journalist claims visa revoked before India trip",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNG53UGxhSUdqeFdNSFBHWDBsNmZfSGdEZTM1NTF4WnF4NlBKQXNHMm9OXzlLMjhyaXQ5SmJvaERCYVNKZHBqNGl0ZkVlYXM2cTVOb21DS2h2SUkzR056TV80QnVob1VaN2laSklzN1k4T2hPZ2NIOGU5Y1ljaE5Nc1AtWm1xU09TMDNySFJmSHg0VmtES3NEMGVNaV9lRVQ4UHBtNVBTVXBKbzdHa1Y2OGNmUXhWS1Itak4tNUp2RWRoSGYwaTgzdjUxTjZwZmZTeGR4bkw3NNIB5AFBVV95cUxPUEdISFBObkt5WjVybmpXRHpuNkR0NEZyZzBwWmhBRU9TZWNYX2ZfM0JuSWtlVmRKRlR4eC1RMkFTcVBjTW50bjEybHZhaDlmN2JoTUkzOE5aeTBnME1hX25ZX2RIYWxvZ25WS0ZUekZ0WlJkUXpJaG5LajZKOFlSMVlObm05T2VYSDdLLXpYakVIWDR6ZXIyTV9nSEJKOWxpV2VyM1RsMFRGc1NjQzNxWkxWNzNzTUpNQUctakp2aExsY1J6Q0tMZENYUGlNTktLZFZMTGV5cFdjX2Y4eU9MWUdRb0s?oc=5",
+   "date": "2026-11-12",
+   "source": "The New Indian Express",
+   "label": "Norway",
+   "snippet": "The Congress and the Trinamool Congress (TMC) on Thursday questioned why the government was afraid of scrutiny after Norwegian journalist Helle Lyng, who was in",
+   "lead": "Copied The Congress and the Trinamool Congress (TMC) on Thursday questioned why the government was afraid of scrutiny after Norwegian journalist Helle Lyng, who was in the news during Prime Minister Narendra Modi's visit to Oslo in May, claimed her visa was cancelled minutes before she was due to leave for India. Lyng, an independent journalist based in Norway, said she was scheduled to attend and speak at the 'Bharat Summit', ...",
+   "image": "https://cf-images.assettype.com/newindianexpress%2F2026-11-12%2F9hayxh8d%2FNorwegian-journalist-Helle-Lyng.png?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
    "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver"
+    "Major story (18 headlines that day)",
+    "Mentions India or Indians"
    ],
    "tags": [
-    "Gold & Silver"
+    "Norway"
    ],
-   "rank": 13,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -713,7 +735,7 @@
     "Salary threshold",
     "Spain"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -736,7 +758,7 @@
     "Citizenship",
     "France"
    ],
-   "rank": 15,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -758,7 +780,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -781,7 +803,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -805,7 +827,7 @@
    "tags": [
     "Markets & Regulation"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -826,28 +848,6 @@
    ],
    "tags": [
     "Other Policy"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 64,
-   "title": "India cancels Norwegian journalist’s visa after she challenged Modi",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU2Y4TV9UWlVUNC0wVlc5ZVVsWmNYWm5iMGdyeVhtOXVZRUdkZTFVOC00MWxsbXV1MUJLT0tCSUQwMl9XaTBlR251LW14dWgzZW9HQjZTYi1tWkF3YTJsOVh3azNkSG5BVElyWVFIZHRzODc2TmpETzBBU2dHS2hFT0JHTnRodW5rc05INVVJOWpZdFU?oc=5",
-   "date": "2026-11-12",
-   "source": "Scandasia",
-   "label": "Norway",
-   "snippet": "India cancels Norwegian journalist's visa after she challenged Modi is an Article written by Scandasia, the only website, magazine and online publication that serves all the expats from Denmark, Sweden, Norway and Finland living in Southeast Asia and China.",
-   "lead": "Norwegian journalist Helle Lyng Svendsen has been prevented from travelling to India after Indian authorities cancelled her visa shortly before her planned departure from Oslo on Wednesday, 11 November 2026. She was scheduled to speak about press freedom and the future of journalism at the Bharat Summit in Hyderabad. According to Indian news outlet The Wire, Svendsen, a commentator with Norwegian newspaper Dagsavisen, had already ...",
-   "image": "https://scandasia.com/wp-content/uploads/2026/11/Hellelyng.webp",
-   "why": [
-    "Major story (14 headlines that day)",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Norway"
    ],
    "rank": 20,
    "must_read": false
@@ -900,20 +900,20 @@
    "desk": "Immigration",
    "score": 6,
    "priority": 55,
-   "title": "Why Australia’s proposed student visa rules might hit Indian applicants hardest",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOGxObThqVUkzaktkR0JZNl9JV2dwSVpXdWJFSkQ5OXFZUnNTZFpHYmZsX1pvOWRmbzFPSHFEdHFEejFfeWY2cVBjamx3VFpWTVJjTFpUNGx4THBnQ1BobngxbkVfZ1E3bjN1RjN5SHFvYUNwVjMwQmI0ZTFiQWpudW5lQ1d6WUNrLVc2SHpucHNxUlhGT1p6RGVkd2hJRHJJUGhyN1BLcUNDdGx0aURIVk9ndWYxUl9wcWlSNFRNZHJJNzVUTUZkMFRoWEXSAdMBQVVfeXFMT3h1dzZtelpFd2ZJeEcwM1h3c2tqcHhoeFFrM3JQdl9JUFc0V3E1ZklyY0U5bno5bHhNSmcwOWFKY1lzRjk5a2hOcWVWTXU5ejg1Z0ZTTVppeTE4WkRBT25iN1VJNHhvZ3M4dmNPMG41UV9icnN6ajdQOFZkZTZwRXJHNndPQWlFVXFoQWdpQjlwTUR1cEU1OGtDNlQwVkJDd2xFQXY0NkEzMlpmZ2hBdEpnS2FfNC05Z3Z1bVZFdUswSldkZ3E1bjRpZjhtVUxuc1JLaw?oc=5",
-   "date": "2026-11-12",
-   "source": "The Indian Express",
-   "label": "Australia",
-   "snippet": "",
-   "lead": "",
-   "image": null,
+   "title": "\"No agent required\": Germany opens online work visa application for foreigners",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ1B6cWpiSWd2LUdEbmhRenVjWm9VUGd5OGxwc0xiZnRDMndOOFQ4ZXlnbExtR0NrYmZta3pnLWxfRXhyMUNYN1FhWnpnVFhTb1Y5M0JrX0VSVllZb0t4RDJWQmtDQlZzVDU4ZVVWVE9oZURRbXVVRHR5aWZXT2ZQYUNJWmp0ay04VnFsczdNcG5vME12MlltcHhta0p3WkJCMV9oMFpNU1VnX0t4VmF4VmJCSnE1MjJzTEE?oc=5",
+   "date": "2026-11-13",
+   "source": "Tuko News",
+   "label": "Germany",
+   "snippet": "Germany outlines work visa requirements for skilled foreigners, including recognized qualifications, two years of experience and a confirmed job offer.",
+   "lead": "World Germany Details Steps Foreigners, Including Kenyans, Must Follow To Apply for Work Visas Online Published 12 Nov 2026 at 9:46 PM by Shillah Mwadosho 3 min read Germany has outlined the eligibility conditions for foreign nationals applying for a work visa through its work experience route Applicants generally need a recognized university degree or at least two years of vocational training, two years of relevant work experience and ...",
+   "image": "https://cdn.tuko.co.ke/images/1200x675/11037b1787273bdb.jpeg?v=1",
    "why": [
-    "Mentions India or Indians"
+    "Affects work visas"
    ],
    "tags": [
-    "Student / Graduate",
-    "Australia"
+    "Work visa",
+    "Germany"
    ],
    "rank": 23,
    "must_read": false
