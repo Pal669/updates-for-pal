@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-13",
- "built": "2026-11-13 11:56 IST",
+ "built": "2026-11-13 12:42 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25138.0,
-   "change_pct": -0.64,
-   "asof": "13 Nov 11:56 IST"
+   "value": 25115.0,
+   "change_pct": -0.73,
+   "asof": "13 Nov 12:42 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 81631.0,
-   "change_pct": -0.34,
-   "asof": "13 Nov 11:41 IST"
+   "value": 81426.0,
+   "change_pct": -0.59,
+   "asof": "13 Nov 12:27 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.24,
-   "change_pct": 0.58,
-   "asof": "13 Nov 11:56 IST"
+   "value": 94.21,
+   "change_pct": 0.55,
+   "asof": "13 Nov 12:42 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 96.0,
-   "change_pct": 0.19,
-   "asof": "13 Nov 11:45 IST"
+   "value": 96.5,
+   "change_pct": 0.71,
+   "asof": "13 Nov 12:32 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3903.0,
-   "change_pct": 0.46,
-   "asof": "13 Nov 11:46 IST"
+   "value": 3908.0,
+   "change_pct": 0.57,
+   "asof": "13 Nov 12:32 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -255,7 +255,7 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 22,
+   "new_today": 23,
    "items": [
     {
      "desk": "Immigration",
@@ -451,7 +451,7 @@
    "why": [
     "Affects permanent residence",
     "Announces a change",
-    "Major story (18 headlines that day)"
+    "Major story (19 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
@@ -699,6 +699,28 @@
    "desk": "Immigration",
    "score": 8,
    "priority": 73,
+   "title": "Australian permanent residents urged to check visa travel rights before overseas holidays",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ2xRaFc5NFAwczRVTWY5V2M5YjNhTkVPUEJqNVR1N3hTU0hib0tUeWpIN0RFWllpLUJYTHJ6OU1DNlBjVGl0d3dzX0taODg1dEI4bldhSnQ5d1FQSmsydWRJeFo1c2xsUnJycWdtUERfU1dpbWdJWXB1ZVpCU1VqaW0xZl9qNWxtRmpOTHZfb2RXZnRGZzdUa1JXdVNxNVpmdnBVUmhoYnc1bkptU2I2aTQyb1ZwQ3hXWXVHVzdlVElaOF9KR3Zxc2xZM2JfZw?oc=5",
+   "date": "2026-11-13",
+   "source": "The Indian Sun",
+   "label": "Australia",
+   "snippet": "Australian permanent residents planning overseas holidays have been urged to check their visa travel facilities before leaving the country, with the Department of Home Affairs warning that an expired travel facility can prevent them from returning to Australia. Permanent residents do not have an automatic right to re-enter Australia after",
+   "lead": "Australian permanent residents planning overseas holidays have been urged to check their visa travel facilities before leaving the country, with the Department of Home Affairs warning that an expired travel facility can prevent them from returning to Australia. Permanent residents do not have an automatic right to re-enter Australia after travelling overseas. Their ability to return depends on the validity of the travel facility ...",
+   "image": "https://www.theindiansun.com.au/wp-content/uploads/2026/08/ResidentVisa-1.png",
+   "why": [
+    "Affects permanent residence"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Australia"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 8,
+   "priority": 73,
    "title": "Congress, TMC slam Centre after Norwegian journalist claims visa revoked before India trip",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNG53UGxhSUdqeFdNSFBHWDBsNmZfSGdEZTM1NTF4WnF4NlBKQXNHMm9OXzlLMjhyaXQ5SmJvaERCYVNKZHBqNGl0ZkVlYXM2cTVOb21DS2h2SUkzR056TV80QnVob1VaN2laSklzN1k4T2hPZ2NIOGU5Y1ljaE5Nc1AtWm1xU09TMDNySFJmSHg0VmtES3NEMGVNaV9lRVQ4UHBtNVBTVXBKbzdHa1Y2OGNmUXhWS1Itak4tNUp2RWRoSGYwaTgzdjUxTjZwZmZTeGR4bkw3NNIB5AFBVV95cUxPUEdISFBObkt5WjVybmpXRHpuNkR0NEZyZzBwWmhBRU9TZWNYX2ZfM0JuSWtlVmRKRlR4eC1RMkFTcVBjTW50bjEybHZhaDlmN2JoTUkzOE5aeTBnME1hX25ZX2RIYWxvZ25WS0ZUekZ0WlJkUXpJaG5LajZKOFlSMVlObm05T2VYSDdLLXpYakVIWDR6ZXIyTV9nSEJKOWxpV2VyM1RsMFRGc1NjQzNxWkxWNzNzTUpNQUctakp2aExsY1J6Q0tMZENYUGlNTktLZFZMTGV5cFdjX2Y4eU9MWUdRb0s?oc=5",
    "date": "2026-11-12",
@@ -714,7 +736,7 @@
    "tags": [
     "Norway"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -737,7 +759,7 @@
     "Salary threshold",
     "Spain"
    ],
-   "rank": 15,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -760,7 +782,7 @@
     "Citizenship",
     "France"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -782,7 +804,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -805,7 +827,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -829,7 +851,7 @@
    "tags": [
     "Markets & Regulation"
    ],
-   "rank": 19,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -850,28 +872,6 @@
    ],
    "tags": [
     "Other Policy"
-   ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 64,
-   "title": "Australian permanent residents urged to check visa travel rights before overseas holidays",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ2xRaFc5NFAwczRVTWY5V2M5YjNhTkVPUEJqNVR1N3hTU0hib0tUeWpIN0RFWllpLUJYTHJ6OU1DNlBjVGl0d3dzX0taODg1dEI4bldhSnQ5d1FQSmsydWRJeFo1c2xsUnJycWdtUERfU1dpbWdJWXB1ZVpCU1VqaW0xZl9qNWxtRmpOTHZfb2RXZnRGZzdUa1JXdVNxNVpmdnBVUmhoYnc1bkptU2I2aTQyb1ZwQ3hXWXVHVzdlVElaOF9KR3Zxc2xZM2JfZw?oc=5",
-   "date": "2026-11-13",
-   "source": "The Indian Sun",
-   "label": "Australia",
-   "snippet": "Australian permanent residents planning overseas holidays have been urged to check their visa travel facilities before leaving the country, with the Department of Home Affairs warning that an expired travel facility can prevent them from returning to Australia. Permanent residents do not have an automatic right to re-enter Australia after",
-   "lead": "Australian permanent residents planning overseas holidays have been urged to check their visa travel facilities before leaving the country, with the Department of Home Affairs warning that an expired travel facility can prevent them from returning to Australia. Permanent residents do not have an automatic right to re-enter Australia after travelling overseas. Their ability to return depends on the validity of the travel facility ...",
-   "image": "https://www.theindiansun.com.au/wp-content/uploads/2026/08/ResidentVisa-1.png",
-   "why": [
-    "Affects permanent residence"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Australia"
    ],
    "rank": 21,
    "must_read": false
