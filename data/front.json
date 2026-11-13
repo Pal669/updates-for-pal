@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-13",
- "built": "2026-11-13 03:59 IST",
+ "built": "2026-11-13 09:09 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25255.0,
-   "change_pct": 0.84,
-   "asof": "12 Nov 15:31 IST"
+   "value": 25210.0,
+   "change_pct": -0.35,
+   "asof": "13 Nov 09:09 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 81879.0,
-   "change_pct": 0.95,
+   "value": 81911.0,
+   "change_pct": 0.04,
    "asof": "12 Nov 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.04,
-   "change_pct": 0.12,
-   "asof": "13 Nov 03:34 IST"
+   "value": 94.1,
+   "change_pct": 0.43,
+   "asof": "13 Nov 09:09 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 95.77,
-   "change_pct": 3.24,
-   "asof": "13 Nov 03:29 IST"
+   "value": 95.42,
+   "change_pct": -0.42,
+   "asof": "13 Nov 08:57 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3882.0,
-   "change_pct": -2.97,
-   "asof": "13 Nov 03:29 IST"
+   "value": 3920.0,
+   "change_pct": 0.91,
+   "asof": "13 Nov 08:59 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -164,9 +164,30 @@
    ]
   },
   "Startups": {
-   "total": 1379,
-   "new_today": 1,
+   "total": 1381,
+   "new_today": 3,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
+     "title": "MDR And AI: Inside The Two Acronyms That Could Shape Razorpay’s ₹6,000 Cr IPO",
+     "url": "https://inc42.com/features/mdr-and-ai-inside-the-two-acronyms-that-could-shape-razorpays-%e2%82%b96000-cr-ipo/",
+     "date": "2026-11-06",
+     "source": "Inc42",
+     "label": "India · AI & Deeptech",
+     "snippet": "Razorpay's upcoming IPO might get a twofold push from the MDR on UPI payments implementation as well as fintech's AI product stack when it seeks public market investment for a ₹ 6000 Cr IPO",
+     "lead": "Razorpay has received SEBI’s approval for a ₹5,000-6,000 Cr IPO at a reported $5 Bn valuation, with a listing expected between January and March 2027. Razorpay is taking a profitability-led pitch to public investors, with its core payments business EBITDA profitable. The 0.4% MDR on large UPI transactions could provide an additional high-margin revenue stream, helping narrow the valuation gap. Analysts estimate MDR could generate ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Razorpay-IPO-social.jpg",
+     "why": [
+      "IPO & Listing",
+      "Very large figure in headline (about $632M: round or valuation)"
+     ],
+     "tags": [
+      "IPO & Listing",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 9,
@@ -227,70 +248,50 @@
      "tags": [
       "Funding"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 8,
-     "priority": 67,
-     "title": "Ola Electric Q2 Loss Down 13% To ₹362 Cr, Revenue Dips 39%",
-     "url": "https://inc42.com/buzz/ola-electric-q2-loss-down-13-to-%e2%82%b9362-cr-revenue-dips-39/",
-     "date": "2026-11-12",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "Ola Electric reported a 13% YoY decline in net loss to ₹362 Cr in Q2 FY27, even as operating revenue fell 39% to ₹421 Cr",
-     "lead": "Ola Electric reported a 13% YoY decline in net loss to ₹362 Cr in Q2 FY27, even as operating revenue fell 39% to ₹421 Cr The decline in revenue and sequential widening of losses point to continued pressure on the EV maker’s financial performance Total income fell 41% YoY to ₹448 Cr, while total expenses declined 28% to ₹639 Cr",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/outline-ola-electric.jpg",
-     "why": [
-      "Financials",
-      "Sizeable deal (about $38M)"
-     ],
-     "tags": [
-      "Financials"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 10,
+   "new_today": 18,
    "items": [
     {
      "desk": "Immigration",
      "score": 6,
      "priority": 55,
-     "title": "Why Australia’s proposed student visa rules might hit Indian applicants hardest",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOGxObThqVUkzaktkR0JZNl9JV2dwSVpXdWJFSkQ5OXFZUnNTZFpHYmZsX1pvOWRmbzFPSHFEdHFEejFfeWY2cVBjamx3VFpWTVJjTFpUNGx4THBnQ1BobngxbkVfZ1E3bjN1RjN5SHFvYUNwVjMwQmI0ZTFiQWpudW5lQ1d6WUNrLVc2SHpucHNxUlhGT1p6RGVkd2hJRHJJUGhyN1BLcUNDdGx0aURIVk9ndWYxUl9wcWlSNFRNZHJJNzVUTUZkMFRoWEXSAdMBQVVfeXFMT3h1dzZtelpFd2ZJeEcwM1h3c2tqcHhoeFFrM3JQdl9JUFc0V3E1ZklyY0U5bno5bHhNSmcwOWFKY1lzRjk5a2hOcWVWTXU5ejg1Z0ZTTVppeTE4WkRBT25iN1VJNHhvZ3M4dmNPMG41UV9icnN6ajdQOFZkZTZwRXJHNndPQWlFVXFoQWdpQjlwTUR1cEU1OGtDNlQwVkJDd2xFQXY0NkEzMlpmZ2hBdEpnS2FfNC05Z3Z1bVZFdUswSldkZ3E1bjRpZjhtVUxuc1JLaw?oc=5",
-     "date": "2026-11-12",
-     "source": "The Indian Express",
-     "label": "Australia",
-     "snippet": "",
-     "lead": "",
-     "image": null,
+     "title": "\"No agent required\": Germany opens online work visa application for foreigners",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ1B6cWpiSWd2LUdEbmhRenVjWm9VUGd5OGxwc0xiZnRDMndOOFQ4ZXlnbExtR0NrYmZta3pnLWxfRXhyMUNYN1FhWnpnVFhTb1Y5M0JrX0VSVllZb0t4RDJWQmtDQlZzVDU4ZVVWVE9oZURRbXVVRHR5aWZXT2ZQYUNJWmp0ay04VnFsczdNcG5vME12MlltcHhta0p3WkJCMV9oMFpNU1VnX0t4VmF4VmJCSnE1MjJzTEE?oc=5",
+     "date": "2026-11-13",
+     "source": "Tuko News",
+     "label": "Germany",
+     "snippet": "Germany outlines work visa requirements for skilled foreigners, including recognized qualifications, two years of experience and a confirmed job offer.",
+     "lead": "World Germany Details Steps Foreigners, Including Kenyans, Must Follow To Apply for Work Visas Online Published 12 Nov 2026 at 9:46 PM by Shillah Mwadosho 3 min read Germany has outlined the eligibility conditions for foreign nationals applying for a work visa through its work experience route Applicants generally need a recognized university degree or at least two years of vocational training, two years of relevant work experience and ...",
+     "image": "https://cdn.tuko.co.ke/images/1200x675/11037b1787273bdb.jpeg?v=1",
      "why": [
-      "Mentions India or Indians"
+      "Affects work visas"
      ],
      "tags": [
-      "Student / Graduate",
-      "Australia"
+      "Work visa",
+      "Germany"
      ]
     },
     {
      "desk": "Immigration",
      "score": 5,
      "priority": 45,
-     "title": "Finland changes visa rules to block Russian athletes from competitions",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFZ5V01COFQxYjZXd2dURVAwQWtIWEhXcWU3ZzA4bE9FcTZKRkM0MDR5elZwZ2VLNkRLY2ZvdkloamIwWHkwdXhpVVFZQkJFb1JqTDJSQVc5c0dkNVZWOTZ3em1LWUg0YlhJZkY4Mm5ibkozYVB6bTV2Uk1EV0Mxd1VsSV9XMmF1UWZDTklHQ0NEWUtTdW5XeUVWckx6LUlVU2hsTFZ0NWpvaDZL?oc=5",
-     "date": "2026-11-12",
-     "source": "The Copenhagen Post",
-     "label": "Finland",
-     "snippet": "Finland has adopted new visa rules aimed at preventing Russian athletes and national teams from entering the country to compete, regardless of whether they participate under the Russian flag or as neutral athletes. The decision was announced by the Finnish government on Thursday as part of a new policy under which short-term visas will be",
-     "lead": "Share on Facebook Share on Telegram Share on WhatsApp Share on SMS Share on LinkedIn Email this Page Finland has adopted new visa rules aimed at preventing Russian athletes and national teams from entering the country to compete, regardless of whether they participate under the Russian flag or as neutral athletes. The decision was announced by the Finnish government on Thursday as part of a new policy under which short-term visas will ...",
-     "image": null,
+     "title": "New Zealand Introduces Tough New Visa Rules That Could Separate Families Seeking Residency",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOajNqZEV4TndldGd0S2UwbHdUYWRFTVFrc1BacldvaE5wMXR1Q2dHeE9aeDg1OWNtWUhUTmpVbGNUdVZ5ei02UDN4cExCcmxTck9CTVRkLTJmZmJ0dnRpdExobm1pd0UwY2dFelJUZFN1R183YkJoLTBQLWhuZ1lrRWxDVGxJYUl0MUt3V1dnakYtVEJDLVJQTDVqSE5DQ1dqMkxmeUxuU2xsLUdHa0dES3FLRVZZQ3cweGxNV3Q5Y3BaWGludHlsejNCSElRS25JZ1E?oc=5",
+     "date": "2026-11-13",
+     "source": "Aviation A2Z",
+     "label": "New Zealand",
+     "snippet": "New Zealand's new November 12 rules could affect fewer than 35 residence applications annually, according to Minister Erica Stanford.",
+     "lead": "WELLINGTON- New Zealand has introduced stricter immigration requirements that could prevent parents from obtaining residence if their dependent children remain in the country without valid visas. The new requirements could affect foreign nationals, including Indian families, whose children entered New Zealand on temporary visas but later became ineligible for further permission to stay. Parents and other secondary applicants will ...",
+     "image": "https://aviationa2z.com/wp-content/uploads/2025/12/1920_airnewzealanda320aircraft_cropped_processed_by_imagy.webp",
      "why": [
       "Announces a change"
      ],
      "tags": [
-      "Finland"
+      "New Zealand"
      ]
     }
    ]
@@ -483,6 +484,29 @@
    "must_read": true
   },
   {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 92,
+   "title": "Wakefit Q2: Profit Remains Flat YoY At ₹16 Cr, Revenue Crosses ₹450 Cr",
+   "url": "https://inc42.com/buzz/wakefit-q2-profit-remains-flat-yoy-at-%e2%82%b916-cr-revenue-crosses-%e2%82%b9450-cr/",
+   "date": "2026-11-13",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Listed mattress brand Wakefit reported a net profit of ₹15.9 Cr in Q1 FY27, almost flat from nearly ₹16 Cr in the year-ago quarter.",
+   "lead": "Operating revenue rose nearly 20% to a record ₹452 Cr in the quarter under review as against ₹376.9 Cr in Q2 FY26 The company attributed the sequential decline in profitability to rising commodity prices, geopolitical disruptions and the “challenging” operating environment Meanwhile, total expenses for the quarter under review also shot up 19% to ₹441.4 Cr compared to ₹370.5 Cr in Q2 FY26",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Wakefit-social.png",
+   "why": [
+    "Financials",
+    "Sizeable deal (about $47M)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Financials"
+   ],
+   "rank": 5,
+   "must_read": true
+  },
+  {
    "desk": "Advisory",
    "score": 12,
    "priority": 92,
@@ -502,8 +526,8 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -526,7 +550,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -549,7 +573,7 @@
    "tags": [
     "AIF"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -573,7 +597,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -596,7 +620,7 @@
     "Funding",
     "Fintech"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -619,7 +643,7 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -643,7 +667,7 @@
     "Funding",
     "Fintech"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -667,29 +691,6 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "MDR And AI: Inside The Two Acronyms That Could Shape Razorpay’s ₹6,000 Cr IPO",
-   "url": "https://inc42.com/features/mdr-and-ai-inside-the-two-acronyms-that-could-shape-razorpays-%e2%82%b96000-cr-ipo/",
-   "date": "2026-11-06",
-   "source": "Inc42",
-   "label": "India · AI & Deeptech",
-   "snippet": "Razorpay's upcoming IPO might get a twofold push from the MDR on UPI payments implementation as well as fintech's AI product stack when it seeks public market investment for a ₹ 6000 Cr IPO",
-   "lead": "Razorpay has received SEBI’s approval for a ₹5,000-6,000 Cr IPO at a reported $5 Bn valuation, with a listing expected between January and March 2027. Razorpay is taking a profitability-led pitch to public investors, with its core payments business EBITDA profitable. The 0.4% MDR on large UPI transactions could provide an additional high-margin revenue stream, helping narrow the valuation gap. Analysts estimate MDR could generate ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Razorpay-IPO-social.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $632M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "AI & Deeptech"
-   ],
    "rank": 13,
    "must_read": false
   },
@@ -706,7 +707,7 @@
    "lead": "Copied The Congress and the Trinamool Congress (TMC) on Thursday questioned why the government was afraid of scrutiny after Norwegian journalist Helle Lyng, who was in the news during Prime Minister Narendra Modi's visit to Oslo in May, claimed her visa was cancelled minutes before she was due to leave for India. Lyng, an independent journalist based in Norway, said she was scheduled to attend and speak at the 'Bharat Summit', ...",
    "image": "https://cf-images.assettype.com/newindianexpress%2F2026-11-12%2F9hayxh8d%2FNorwegian-journalist-Helle-Lyng.png?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
    "why": [
-    "Major story (18 headlines that day)",
+    "Major story (22 headlines that day)",
     "Mentions India or Indians"
    ],
    "tags": [
@@ -853,6 +854,28 @@
    "must_read": false
   },
   {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 64,
+   "title": "Australian permanent residents urged to check visa travel rights before overseas holidays",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ2xRaFc5NFAwczRVTWY5V2M5YjNhTkVPUEJqNVR1N3hTU0hib0tUeWpIN0RFWllpLUJYTHJ6OU1DNlBjVGl0d3dzX0taODg1dEI4bldhSnQ5d1FQSmsydWRJeFo1c2xsUnJycWdtUERfU1dpbWdJWXB1ZVpCU1VqaW0xZl9qNWxtRmpOTHZfb2RXZnRGZzdUa1JXdVNxNVpmdnBVUmhoYnc1bkptU2I2aTQyb1ZwQ3hXWXVHVzdlVElaOF9KR3Zxc2xZM2JfZw?oc=5",
+   "date": "2026-11-13",
+   "source": "The Indian Sun",
+   "label": "Australia",
+   "snippet": "Australian permanent residents planning overseas holidays have been urged to check their visa travel facilities before leaving the country, with the Department of Home Affairs warning that an expired travel facility can prevent them from returning to Australia. Permanent residents do not have an automatic right to re-enter Australia after",
+   "lead": "Australian permanent residents planning overseas holidays have been urged to check their visa travel facilities before leaving the country, with the Department of Home Affairs warning that an expired travel facility can prevent them from returning to Australia. Permanent residents do not have an automatic right to re-enter Australia after travelling overseas. Their ability to return depends on the validity of the travel facility ...",
+   "image": "https://www.theindiansun.com.au/wp-content/uploads/2026/08/ResidentVisa-1.png",
+   "why": [
+    "Affects permanent residence"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Australia"
+   ],
+   "rank": 21,
+   "must_read": false
+  },
+  {
    "desk": "Policy",
    "score": 11,
    "priority": 61,
@@ -871,7 +894,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 21,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -892,28 +915,6 @@
    ],
    "tags": [
     "Infrastructure & Transport"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 55,
-   "title": "\"No agent required\": Germany opens online work visa application for foreigners",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ1B6cWpiSWd2LUdEbmhRenVjWm9VUGd5OGxwc0xiZnRDMndOOFQ4ZXlnbExtR0NrYmZta3pnLWxfRXhyMUNYN1FhWnpnVFhTb1Y5M0JrX0VSVllZb0t4RDJWQmtDQlZzVDU4ZVVWVE9oZURRbXVVRHR5aWZXT2ZQYUNJWmp0ay04VnFsczdNcG5vME12MlltcHhta0p3WkJCMV9oMFpNU1VnX0t4VmF4VmJCSnE1MjJzTEE?oc=5",
-   "date": "2026-11-13",
-   "source": "Tuko News",
-   "label": "Germany",
-   "snippet": "Germany outlines work visa requirements for skilled foreigners, including recognized qualifications, two years of experience and a confirmed job offer.",
-   "lead": "World Germany Details Steps Foreigners, Including Kenyans, Must Follow To Apply for Work Visas Online Published 12 Nov 2026 at 9:46 PM by Shillah Mwadosho 3 min read Germany has outlined the eligibility conditions for foreign nationals applying for a work visa through its work experience route Applicants generally need a recognized university degree or at least two years of vocational training, two years of relevant work experience and ...",
-   "image": "https://cdn.tuko.co.ke/images/1200x675/11037b1787273bdb.jpeg?v=1",
-   "why": [
-    "Affects work visas"
-   ],
-   "tags": [
-    "Work visa",
-    "Germany"
    ],
    "rank": 23,
    "must_read": false
