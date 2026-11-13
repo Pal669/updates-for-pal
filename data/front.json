@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-13",
- "built": "2026-11-13 09:09 IST",
+ "built": "2026-11-13 11:56 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25210.0,
-   "change_pct": -0.35,
-   "asof": "13 Nov 09:09 IST"
+   "value": 25138.0,
+   "change_pct": -0.64,
+   "asof": "13 Nov 11:56 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 81911.0,
-   "change_pct": 0.04,
-   "asof": "12 Nov 15:32 IST"
+   "value": 81631.0,
+   "change_pct": -0.34,
+   "asof": "13 Nov 11:41 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.1,
-   "change_pct": 0.43,
-   "asof": "13 Nov 09:09 IST"
+   "value": 94.24,
+   "change_pct": 0.58,
+   "asof": "13 Nov 11:56 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 95.42,
-   "change_pct": -0.42,
-   "asof": "13 Nov 08:57 IST"
+   "value": 96.0,
+   "change_pct": 0.19,
+   "asof": "13 Nov 11:45 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3920.0,
-   "change_pct": 0.91,
-   "asof": "13 Nov 08:59 IST"
+   "value": 3903.0,
+   "change_pct": 0.46,
+   "asof": "13 Nov 11:46 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -164,9 +164,31 @@
    ]
   },
   "Startups": {
-   "total": 1381,
-   "new_today": 3,
+   "total": 1382,
+   "new_today": 4,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
+     "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+     "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+     "date": "2026-11-10",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+     "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Nominal, a four-year-old, Austin-based startup that offers an AI platform purpose-built for engineering and testing complex hardware, like aircraft, nuclear reactors, and smart factories, has raised another big round of financing that triples its valuation. On Monday, it announced a $240 million Series C at a $3 billion valuation ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2023/09/Cameron-McCord.jpg?resize=1200,1200",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $3,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -228,32 +250,12 @@
      "tags": [
       "Funding"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 75,
-     "title": "IIFL Finance to raise Rs 6,414 Cr led by Blackstone",
-     "url": "https://yourstory.com/2026/11/iifl-finance-to-raise-rs-6414-crore-with-blackstone-leading-rs-5000-crore-primary-infusion",
-     "date": "2026-11-10",
-     "source": "YourStory",
-     "label": "India · Other",
-     "snippet": "Promoters to put in Rs 1,264 crore through warrants; capital adequacy to rise to about 30%",
-     "lead": "IIFL Finance to raise Rs 6,414 Cr led by Blackstone Funds managed by Blackstone Private Equity will invest Rs 5,000 crore ($535 million) in compulsorily convertible preference shares. Team YS 17549 Stories Tuesday November 10, 2026 , 3 min Read IIFL Finance has approved a Rs 6,414 crore ($686 million) primary capital raise, with Blackstone leading the round. The board cleared the preferential issue at a meeting on Tuesday. The deal is ...",
-     "image": "https://images.yourstory.com/cs/wordpress/2018/03/yourstory-shopatplaces-funding.jpg",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $675M: round or valuation)"
-     ],
-     "tags": [
-      "Funding"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 18,
+   "new_today": 22,
    "items": [
     {
      "desk": "Immigration",
@@ -391,6 +393,29 @@
    "desk": "Startups",
    "score": 12,
    "priority": 100,
+   "title": "Bodhi Tree Systems acquires majority stake in Adyar Ananda Bhavan for $180M",
+   "url": "https://yourstory.com/2026/11/bodhi-tree-systems-acquires-majority-stake-in-adyar-ananda-bhavan",
+   "date": "2026-11-13",
+   "source": "YourStory",
+   "label": "India · Media, Gaming & Creators",
+   "snippet": "Bodhi Tree Systems is a strategic investment and operating platform founded in 2021 by James Murdoch, son of media mogul Rupert Murdoch, and Uday Shankar, former Star India and Disney executive.",
+   "lead": "Bodhi Tree Systems acquires majority stake in Adyar Ananda Bhavan for $180M Bodhi Tree Systems is a strategic investment and operating platform founded in 2021 by James Murdoch, son of media mogul Rupert Murdoch, and Uday Shankar, former Star India and Disney executive. Team YS 17571 Stories Friday November 13, 2026 , 2 min Read Chennai-headquartered restaurant chain Adyar Ananda Bhavan (A2B), which has a presence in India and ...",
+   "image": "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Adyar-1794543600245.png",
+   "why": [
+    "Acquisition",
+    "Large deal (about $180M)"
+   ],
+   "tags": [
+    "Acquisition",
+    "Media, Gaming & Creators"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 100,
    "title": "Exclusive: Sofina To Lead PlatinumRx’s $32 Mn Funding At $200 Mn Valuation",
    "url": "https://inc42.com/buzz/sofina-to-lead-platinumrxs-32-mn-funding-at-200-mn-valuation/",
    "date": "2026-11-12",
@@ -408,7 +433,7 @@
     "Funding",
     "Health & Wellness"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -426,13 +451,13 @@
    "why": [
     "Affects permanent residence",
     "Announces a change",
-    "Major story (17 headlines that day)"
+    "Major story (18 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -456,7 +481,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -480,7 +505,7 @@
    "tags": [
     "Agriculture & Food"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -503,8 +528,8 @@
    "tags": [
     "Financials"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -526,7 +551,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -550,7 +575,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -573,7 +598,7 @@
    "tags": [
     "AIF"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -597,7 +622,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -620,7 +645,7 @@
     "Funding",
     "Fintech"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -643,7 +668,7 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -667,30 +692,6 @@
     "Funding",
     "Fintech"
    ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-   "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-   "date": "2026-11-10",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
-   "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Nominal, a four-year-old, Austin-based startup that offers an AI platform purpose-built for engineering and testing complex hardware, like aircraft, nuclear reactors, and smart factories, has raised another big round of financing that triples its valuation. On Monday, it announced a $240 million Series C at a $3 billion valuation ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/09/Cameron-McCord.jpg?resize=1200,1200",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $3,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
    "rank": 13,
    "must_read": false
   },
@@ -707,7 +708,7 @@
    "lead": "Copied The Congress and the Trinamool Congress (TMC) on Thursday questioned why the government was afraid of scrutiny after Norwegian journalist Helle Lyng, who was in the news during Prime Minister Narendra Modi's visit to Oslo in May, claimed her visa was cancelled minutes before she was due to leave for India. Lyng, an independent journalist based in Norway, said she was scheduled to attend and speak at the 'Bharat Summit', ...",
    "image": "https://cf-images.assettype.com/newindianexpress%2F2026-11-12%2F9hayxh8d%2FNorwegian-journalist-Helle-Lyng.png?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
    "why": [
-    "Major story (22 headlines that day)",
+    "Major story (23 headlines that day)",
     "Mentions India or Indians"
    ],
    "tags": [
