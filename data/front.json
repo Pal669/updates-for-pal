@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-13",
- "built": "2026-11-13 12:42 IST",
+ "built": "2026-11-13 23:35 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,44 +12,44 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25115.0,
-   "change_pct": -0.73,
-   "asof": "13 Nov 12:42 IST"
+   "value": 25144.0,
+   "change_pct": -0.61,
+   "asof": "13 Nov 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 81426.0,
-   "change_pct": -0.59,
-   "asof": "13 Nov 12:27 IST"
+   "value": 81592.0,
+   "change_pct": -0.39,
+   "asof": "13 Nov 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.21,
-   "change_pct": 0.55,
-   "asof": "13 Nov 12:42 IST"
+   "value": 94.23,
+   "change_pct": 0.57,
+   "asof": "13 Nov 20:09 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 96.5,
-   "change_pct": 0.71,
-   "asof": "13 Nov 12:32 IST"
+   "value": 95.67,
+   "change_pct": -0.16,
+   "asof": "13 Nov 23:25 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3908.0,
-   "change_pct": 0.57,
-   "asof": "13 Nov 12:32 IST"
+   "value": 3891.0,
+   "change_pct": 0.14,
+   "asof": "13 Nov 23:25 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.1,
-   "change_pct": 2.1,
-   "asof": "13 Nov 01:29 IST"
+   "value": 5.13,
+   "change_pct": 0.51,
+   "asof": "13 Nov 23:20 IST"
   }
  ],
  "features": {
@@ -79,9 +79,28 @@
  },
  "desks": {
   "Policy": {
-   "total": 349,
-   "new_today": 0,
+   "total": 352,
+   "new_today": 3,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 8,
+     "priority": 44,
+     "title": "Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335785",
+     "date": "2026-11-13",
+     "source": "PIB",
+     "label": "Banking & Rates",
+     "snippet": "The development of a systematic framework to measure the contribution of knowledge and knowledge pro",
+     "lead": "Ministry of Statistics & Programme Implementation Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems Posted On: 13 NOV 2026 2:40PM by PIB Delhi The development of a systematic framework to measure the contribution of knowledge and knowledge products to the Indian economy assumes significance in the context of the growing role of knowledge in driving economic activity, productivity and value ...",
+     "image": null,
+     "why": [
+      "Rates and liquidity"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 8,
@@ -140,33 +159,35 @@
      "tags": [
       "Banking & Rates"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 7,
-     "priority": 39,
-     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63955",
-     "date": "2026-11-11",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "",
-     "image": null,
-     "why": [
-      "New law or act",
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 1382,
-   "new_today": 4,
+   "total": 1391,
+   "new_today": 13,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
+     "title": "SoftBank Q2: Lenskart & Meesho Drive Valuation Gains, Ola Electric Books Losses",
+     "url": "https://inc42.com/buzz/softbank-q2-lenskart-meesho-drive-valuation-gains-ola-electric-books-losses/",
+     "date": "2026-11-11",
+     "source": "Inc42",
+     "label": "India · Fintech",
+     "snippet": "Two listed Indian startups – Lenskart and Meesho – together contributed valuation gains worth $394 Mn to SVF2's kitty in Q2 FY26.",
+     "lead": "SoftBank said that the EV maker’s gross return to the SVF2 stood at $370 Mn in the quarter under review, down $42 Mn from $412 Mn in the preceding Q1 FY26 This means that SoftBank made hefty gains from its Indian listed startup portfolio in Q2 FY26, but the booked some valuation losses on account of Ola Electric, Delhivery and FirstCry In contrast, other listed Indian startups in SVF2’s portfolio – Lenskart and Meesho – together ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/sofftbank-q2-social-.png",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $42M)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "Fintech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -230,67 +251,27 @@
       "Financials",
       "Real Estate & Workspaces"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 75,
-     "title": "Exclusive: Nvidia and Unity join Emulate’s $700m fundraise",
-     "url": "https://sifted.eu/articles/exclusive-unity-nvidia-emulate/",
-     "date": "2026-11-11",
-     "source": "Sifted",
-     "label": "Global · Other",
-     "snippet": "Software maker Unity and NVentures, the investment arm of chip giant Nvidia, have joined a $700m round for Emulate.",
-     "lead": "Software maker Unity and NVentures, the investment arm of chip giant Nvidia , have joined a $700m round for London-based DeepMind offshoot Emulate .",
-     "image": "https://images.sifted.eu/cdn-cgi/image/width=3200,quality=75,fit=cover,format=auto/wp-content/uploads/2026/08/12162039/jack-deepmind-1.png",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $700M: round or valuation)"
-     ],
-     "tags": [
-      "Funding"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 23,
+   "new_today": 59,
    "items": [
     {
      "desk": "Immigration",
-     "score": 6,
-     "priority": 55,
-     "title": "\"No agent required\": Germany opens online work visa application for foreigners",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ1B6cWpiSWd2LUdEbmhRenVjWm9VUGd5OGxwc0xiZnRDMndOOFQ4ZXlnbExtR0NrYmZta3pnLWxfRXhyMUNYN1FhWnpnVFhTb1Y5M0JrX0VSVllZb0t4RDJWQmtDQlZzVDU4ZVVWVE9oZURRbXVVRHR5aWZXT2ZQYUNJWmp0ay04VnFsczdNcG5vME12MlltcHhta0p3WkJCMV9oMFpNU1VnX0t4VmF4VmJCSnE1MjJzTEE?oc=5",
+     "score": 7,
+     "priority": 64,
+     "title": "Why Single Out Indian Immigrants? New Zealand Leader's 'Go Back To India' Rant Faces Fierce Backlash",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQY01vYWRQLUFCUnVGcHdKZVVGTFkwY0dTekI5bmhoTmJEb3hXTmFBY25LLXFpVFB1U2VYNGlKUmxnS2pmUDJzWGFlVks1bWpzYWI1SFlRd3Q4U3BlcHJRTUM5b0VNaThKenVQcTRiQlhIdGlLaE55T19uU1VVYjdVc3hvMThzQnNHMmZ4cXVEcnJJa3BtaFMzNU1nUmwyMUtXMko1eG4xbDlJa2YzYjV0eXZUd2VpbVNlbmF5cmJFb05UbTd0cFFDY3NLMlpiTGZwRUdzaGpkTHdOSDhKRnlaRkFTa1RzM20xV0xoT2Q3VHdaeWwtZjNRMFJsb3VpLTd4XzZpVNIBigJBVV95cUxPVGpBNENUekV6ZWk2MENVMWpLWlQ0VVVsdDZsaDVSY3B1QnkwTVoySVltVkJ1ek1EMlhiMm5LZjJvemkzQ2xRLU5aZTJRZkN4dk4zeGx5M2t5cW9RNnBKTlo3NnAyVUt2ZVk5ZTFoNnF6T1B5RUgzUHl3d05KeFNNMVhHTkI5dndVbkk1VUl5c2UyMXY2alVTaTlUbGNvZHJmejA1Zm5vMXFlSWdBWE45UmtfSjhZNXdmOXppbm16M0NJeGpvQTlMMVZxMUVmd01GVVYybGxsYko3UGZjbWxkUU1IYTViRzEtdklLLTNpekF2blgwa0llek1Wa1MxVzJGWV9aRHp4VVpfQQ?oc=5",
      "date": "2026-11-13",
-     "source": "Tuko News",
-     "label": "Germany",
-     "snippet": "Germany outlines work visa requirements for skilled foreigners, including recognized qualifications, two years of experience and a confirmed job offer.",
-     "lead": "World Germany Details Steps Foreigners, Including Kenyans, Must Follow To Apply for Work Visas Online Published 12 Nov 2026 at 9:46 PM by Shillah Mwadosho 3 min read Germany has outlined the eligibility conditions for foreign nationals applying for a work visa through its work experience route Applicants generally need a recognized university degree or at least two years of vocational training, two years of relevant work experience and ...",
-     "image": "https://cdn.tuko.co.ke/images/1200x675/11037b1787273bdb.jpeg?v=1",
-     "why": [
-      "Affects work visas"
-     ],
-     "tags": [
-      "Work visa",
-      "Germany"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 45,
-     "title": "New Zealand Introduces Tough New Visa Rules That Could Separate Families Seeking Residency",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOajNqZEV4TndldGd0S2UwbHdUYWRFTVFrc1BacldvaE5wMXR1Q2dHeE9aeDg1OWNtWUhUTmpVbGNUdVZ5ei02UDN4cExCcmxTck9CTVRkLTJmZmJ0dnRpdExobm1pd0UwY2dFelJUZFN1R183YkJoLTBQLWhuZ1lrRWxDVGxJYUl0MUt3V1dnakYtVEJDLVJQTDVqSE5DQ1dqMkxmeUxuU2xsLUdHa0dES3FLRVZZQ3cweGxNV3Q5Y3BaWGludHlsejNCSElRS25JZ1E?oc=5",
-     "date": "2026-11-13",
-     "source": "Aviation A2Z",
+     "source": "The Times of India",
      "label": "New Zealand",
-     "snippet": "New Zealand's new November 12 rules could affect fewer than 35 residence applications annually, according to Minister Erica Stanford.",
-     "lead": "WELLINGTON- New Zealand has introduced stricter immigration requirements that could prevent parents from obtaining residence if their dependent children remain in the country without valid visas. The new requirements could affect foreign nationals, including Indian families, whose children entered New Zealand on temporary visas but later became ineligible for further permission to stay. Parents and other secondary applicants will ...",
-     "image": "https://aviationa2z.com/wp-content/uploads/2025/12/1920_airnewzealanda320aircraft_cropped_processed_by_imagy.webp",
+     "snippet": "Why are Indian immigrants in New Zealand increasingly finding themselves in the firing line?From the controversial “butter chicken tsunami” remark to a politician telling Indians to go back where they came from, anti-Indian rhetoric is becoming part of New Zealand's immigration debate. But do the numbers support these claims? We look at I",
+     "lead": "Sonia Gandhi's autobiography, Belonging: A Journey of Love, has triggered a fresh political confrontation between the BJP and the Congress. The book revisits several contentious chapters of India's political history, including the 1984 anti-Sikh violence, the Babri Masjid demolition, the 1975 Emergency and the 2002 Gujarat riots. It also makes striking revelations about former Prime Minister Pranab Mukherjee's reported ambitions to ...",
+     "image": "https://static.toiimg.com/thumb/msid-135801609,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
      "why": [
-      "Announces a change"
+      "Mentions India or Indians"
      ],
      "tags": [
       "New Zealand"
@@ -413,6 +394,29 @@
    "must_read": true
   },
   {
+   "desk": "Immigration",
+   "score": 11,
+   "priority": 100,
+   "title": "Canada announces plan to provide permanent residence to 100,000 workers and families | World News",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdXNDS1VNMWx4T3BzOExhbjBMRFhBMnU3ZEpSU0daM1lHTHRoNlk4OFZ0TnFRc2FlX3NnOG5yZmc2cWh5ZGkwVk1FUFRkQm5IcnZpVGlYZVl3c1J6WlliM2VvYVZ4VkhOaldhRERVQXZYQmh2bHc2aUNXOGcya2h1T1RuU3c3WjZTX2xqQzZCUVRrNlhGOHlNNGNrcUNBaGI0YnpnSEladktzV2RnSDh5bzJIRjUtZjFXcHhhbm8zRTZjUUhoOTVmdUhTVmZhUDdWbkhVRzd0VS1rc0M1Q2Y2UNIB5gFBVV95cUxOTmhIeTFnS0tQY0FRMXhSdWwzTDN4Wl92bjlUSWdwYlRYaW5tYXVfOHAxX0dOOVRtNGlFdW5GQmprY0IwU3AzNEtZSEpLWkEwLWZ0OW1MUTgteU40UHBXYWwwcEEtOVVqZWRROF9fbGlZY25KcEhQeENMbk1mZzZfZ0QzdEM4ejR0REtneXllMVRUUTRBY0F6eWxRemZ1QW1qXzRMZTFpYjc5QWRldzBlSjM2djRjVFgxMjZPSnltZkx3dGdxdGhzaXRNQWJua0p1ZXQzamNBUy1sY1JhdlRVN25JeWFHZw?oc=5",
+   "date": "2026-11-13",
+   "source": "Hindustan Times",
+   "label": "Canada",
+   "snippet": "Canada to give provinces additional PNP allocations to help transition up to 100,000 established workers and their families to PR in 2027.  | World News",
+   "lead": "Canada will offer provinces and territories additional immigration nomination allocations to transition up to 100,000 workers and their families to permanent residence in 2027. Canada plans permanent residence for 100,000 workers and family members in 2027. (Unsplash) Immigration Minister Lena Metlege Diab announced details of the time-limited measure on November 12, saying provincial and territorial governments would be given ...",
+   "image": null,
+   "why": [
+    "Affects permanent residence",
+    "Announces a change"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Canada"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
    "desk": "Startups",
    "score": 12,
    "priority": 100,
@@ -432,30 +436,6 @@
    "tags": [
     "Funding",
     "Health & Wellness"
-   ],
-   "rank": 2,
-   "must_read": true
-  },
-  {
-   "desk": "Immigration",
-   "score": 11,
-   "priority": 100,
-   "title": "Canada Announces 100,000 Permanent Residence Pathways for Workers",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPekpsRmtYajAyZ1FHT1NsazhRdmdtWUpvamlrOThUd05uX1J3ZDNzaHZnckpYb1pFcmtKQUx1eHRBMHBNR1VBdnpoWXlLbFdXSl9yQVlTaXpucGRESnJpQzZyR3ZrdTZ0S1VLQUxhNC02aXZFZjVrb2dlZm1PMU9qRlR6NGhBUXBwOGRhUXZGd0FCazRuQnBFUTNIdTBxQQ?oc=5",
-   "date": "2026-11-12",
-   "source": "Head Topics",
-   "label": "Canada",
-   "snippet": "Canada unveils time-limited measures to grant permanent residence to 100,000 workers and 45,000 family members, accelerating processing for Hong Kong and Ukrainian applicants by 2027.",
-   "lead": "Canada unveils time-limited measures to grant permanent residence to 100,000 workers and 45,000 family members, accelerating processing for Hong Kong and Ukrainian applicants by 2027. Share on WhatsApp The Canadian government announced a significant expansion of immigration pathways on Tuesday, introducing time-limited measures to transition up to 100,000 workers and their eligible family members already residing in the country to ...",
-   "image": "https://i.headtopics.com/images/2026/11/12/mobilepunch/canada-announces-100-000-permanent-residence-pathw-canada-announces-100-000-permanent-residence-pathw-84C046DB3AD5697E2A467BB9992A91ED-16x9.webp",
-   "why": [
-    "Affects permanent residence",
-    "Announces a change",
-    "Major story (19 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Canada"
    ],
    "rank": 3,
    "must_read": true
@@ -629,6 +609,29 @@
    "desk": "Startups",
    "score": 10,
    "priority": 83,
+   "title": "Razorpay, Sembcorp Green Infra get Sebi nod to float IPOs",
+   "url": "https://yourstory.com/2026/11/razorpay-sembcorp-green-infra-get-sebi-nod-float-ipos",
+   "date": "2026-11-13",
+   "source": "YourStory",
+   "label": "India · Policy & Regulation",
+   "snippet": "Razorpay filed draft documents with Sebi via the confidential route in June for an IPO.",
+   "lead": "Razorpay, Sembcorp Green Infra get Sebi nod to float IPOs Razorpay filed draft documents with Sebi via the confidential route in June for an IPO. Press Trust of India 11278 Stories Friday November 13, 2026 , 3 min Read Fintech firm Razorpay Software Ltd and Sembcorp Green Infra, a renewable energy independent power producer, have secured Sebi's approval to launch initial public offerings (IPO), an update with the markets regulator ...",
+   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imageq2wc-1759136869668.jpg",
+   "why": [
+    "IPO & Listing",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Policy & Regulation"
+   ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 83,
    "title": "Drone startup Uforce raises $700m backed by Valor Equity Partners, UK National Wealth Fund",
    "url": "https://sifted.eu/articles/drone-startup-uforce-fundraise-uk-national-wealth-fund-scoop/",
    "date": "2026-11-12",
@@ -645,7 +648,7 @@
     "Funding",
     "Fintech"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -668,30 +671,6 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "SoftBank Q2: Lenskart & Meesho Drive Valuation Gains, Ola Electric Books Losses",
-   "url": "https://inc42.com/buzz/softbank-q2-lenskart-meesho-drive-valuation-gains-ola-electric-books-losses/",
-   "date": "2026-11-11",
-   "source": "Inc42",
-   "label": "India · Fintech",
-   "snippet": "Two listed Indian startups – Lenskart and Meesho – together contributed valuation gains worth $394 Mn to SVF2's kitty in Q2 FY26.",
-   "lead": "SoftBank said that the EV maker’s gross return to the SVF2 stood at $370 Mn in the quarter under review, down $42 Mn from $412 Mn in the preceding Q1 FY26 This means that SoftBank made hefty gains from its Indian listed startup portfolio in Q2 FY26, but the booked some valuation losses on account of Ola Electric, Delhivery and FirstCry In contrast, other listed Indian startups in SVF2’s portfolio – Lenskart and Meesho – together ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/sofftbank-q2-social-.png",
-   "why": [
-    "Funding",
-    "Sizeable deal (about $42M)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "Fintech"
-   ],
    "rank": 13,
    "must_read": false
   },
@@ -699,20 +678,21 @@
    "desk": "Immigration",
    "score": 8,
    "priority": 73,
-   "title": "Australian permanent residents urged to check visa travel rights before overseas holidays",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ2xRaFc5NFAwczRVTWY5V2M5YjNhTkVPUEJqNVR1N3hTU0hib0tUeWpIN0RFWllpLUJYTHJ6OU1DNlBjVGl0d3dzX0taODg1dEI4bldhSnQ5d1FQSmsydWRJeFo1c2xsUnJycWdtUERfU1dpbWdJWXB1ZVpCU1VqaW0xZl9qNWxtRmpOTHZfb2RXZnRGZzdUa1JXdVNxNVpmdnBVUmhoYnc1bkptU2I2aTQyb1ZwQ3hXWXVHVzdlVElaOF9KR3Zxc2xZM2JfZw?oc=5",
+   "title": "Germany Work Visa: Opportunity Card Points Calculator & Application Guide",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS1VvekV5eXVmajVseTFVek02bWhLeXZtdFBQWEtScHhEZzhpQXJFZ1dIRzZ1S3FDLTdvSnA3ZXVIQXFCYXJmeDVWbURoY2haSGhfWFdIYXBYcVBHR2VwSC1IdEhkenZaamVDTWRRQWlERmZnbG40RkR2eENkcU9sRjFOclhlWDhnZlJZLTdxV0dDUQ?oc=5",
    "date": "2026-11-13",
-   "source": "The Indian Sun",
-   "label": "Australia",
-   "snippet": "Australian permanent residents planning overseas holidays have been urged to check their visa travel facilities before leaving the country, with the Department of Home Affairs warning that an expired travel facility can prevent them from returning to Australia. Permanent residents do not have an automatic right to re-enter Australia after",
-   "lead": "Australian permanent residents planning overseas holidays have been urged to check their visa travel facilities before leaving the country, with the Department of Home Affairs warning that an expired travel facility can prevent them from returning to Australia. Permanent residents do not have an automatic right to re-enter Australia after travelling overseas. Their ability to return depends on the validity of the travel facility ...",
-   "image": "https://www.theindiansun.com.au/wp-content/uploads/2026/08/ResidentVisa-1.png",
+   "source": "openPR.com",
+   "label": "Germany",
+   "snippet": "",
+   "lead": "",
+   "image": null,
    "why": [
-    "Affects permanent residence"
+    "Affects work visas",
+    "Announces a change"
    ],
    "tags": [
-    "PR / Settlement",
-    "Australia"
+    "Work visa",
+    "Germany"
    ],
    "rank": 14,
    "must_read": false
