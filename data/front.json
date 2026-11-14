@@ -1,6 +1,6 @@
 {
- "edition": "2026-11-14",
- "built": "2026-11-14 22:16 IST",
+ "edition": "2026-11-15",
+ "built": "2026-11-15 02:27 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -54,72 +54,34 @@
  ],
  "features": {
   "startup_file": {
-   "company": "Angle Health",
-   "tagline": "US health-insurance startup for small businesses (YC winter 2020)",
-   "what": "AI-powered platform that helps small businesses choose and manage 'level-funded' health plans, integrating with payroll and HR systems. Level-funded sits between fully insured (carrier bears all risk, higher and predictable cost) and self-funded (employer bears cost, unpredictable): the business makes predictable payments, is insured against unusually high costs, and may get a share of the surplus back if claims stay low.",
+   "company": "Innov8 Workspaces",
+   "tagline": "Premium flexible office space operator",
+   "what": "Runs premium flexible and managed workspace centres across India. It had 58 operating centres at the end of FY26 and 72 by July 2026.",
    "how": [
-    "The article does not say how Angle itself earns its revenue.",
-    "It says the startup serves 5,000+ businesses and is profitable."
+    "Rent from customers who use its centres: Rs 173.6 Cr of Rs 201.3 Cr operating revenue in FY26, about 86%.",
+    "Other operational income (ancillary services): Rs 27.6 Cr, up from Rs 5.4 Cr."
    ],
-   "watch": "A profitable, non-'AI agent' company raising a large Series C is unusual per TechCrunch. The tender offer is liquidity for staff, not money into the company.",
-   "sector": "Fintech",
-   "region": "Global",
-   "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/"
+   "watch": "Profit quality: other income was Rs 38.9 Cr, including a Rs 36.7 Cr gain on terminating lease contracts. Without that gain the profit jump would look much smaller. The article gives growth drivers as more centres, higher occupancy and better pricing.",
+   "sector": "Real Estate & Workspaces",
+   "region": "India",
+   "url": "https://inc42.com/buzz/innov8s-fy26-profit-zooms-multifold-to-%e2%82%b913-7-cr-revenue-crosses-%e2%82%b9200-cr-mark/"
   },
   "country": {
-   "id": "japan",
-   "name": "Japan",
-   "trend": "Mixed (fast PR, slower citizenship)",
-   "pr": "PR after 3 years at 70 points, or 1 year at 80 points. J-Skip: PR after 1 year with a master's or 10+ years of experience and annual income of at least JPY 20 million.",
-   "citizenship": "One source reports naturalisation now needs 10 years of residence from April 2026 (verify). Requires giving up the original nationality, adequate Japanese, and a clean tax and pension record.",
-   "pro": "Fastest PR on this list for high scorers: 1 to 3 years.",
-   "con": "Citizenship reportedly 10 years plus renunciation.",
-   "watch": "Confirm the April 2026 naturalisation change"
+   "id": "korea",
+   "name": "South Korea",
+   "trend": "Stable (not verified in detail)",
+   "pr": "F-5 permanent residence after 5 consecutive years on qualifying work or resident visas, or after 3+ years on F-2-7. Requires KIIP level 5 or a score of 60+ on the PR comprehensive evaluation.",
+   "citizenship": "Naturalisation after at least 3 years on F-5 (so 8 years or more overall); renunciation of original citizenship within 1 year is generally required.",
+   "pro": "Clear points-based PR route.",
+   "con": "Korean is single-country and hard.",
+   "watch": "Points-table changes"
   }
  },
  "desks": {
   "Policy": {
    "total": 356,
-   "new_today": 4,
+   "new_today": 0,
    "items": [
-    {
-     "desk": "Policy",
-     "score": 7,
-     "priority": 41,
-     "title": "Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335785",
-     "date": "2026-11-13",
-     "source": "PIB",
-     "label": "Banking & Rates",
-     "snippet": "The development of a systematic framework to measure the contribution of knowledge and knowledge pro",
-     "lead": "Ministry of Statistics & Programme Implementation Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems Posted On: 13 NOV 2026 2:40PM by PIB Delhi The development of a systematic framework to measure the contribution of knowledge and knowledge products to the Indian economy assumes significance in the context of the growing role of knowledge in driving economic activity, productivity and value ...",
-     "image": null,
-     "why": [
-      "Rates and liquidity"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 7,
-     "priority": 41,
-     "title": "Ministry of Heavy Industries (MHI) receives 22 bids for 10 GWh Advanced Chemistry Cell manufacturing capacity under PLI ACC Scheme",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335459",
-     "date": "2026-11-12",
-     "source": "PIB",
-     "label": "Industry & Manufacturing",
-     "snippet": "The Ministry of Heavy Industries (MHI) has received 22 bids from prospective bidders for 10 GWh capa",
-     "lead": "Ministry of Heavy Industries Ministry of Heavy Industries (MHI) receives 22 bids for 10 GWh Advanced Chemistry Cell manufacturing capacity under PLI ACC Scheme Strong Industry Response Reflects Growing Interest in Establishing Domestic ACC Manufacturing Capacity Bid opening marks a significant step towards strengthening India’s Domestic ACC Manufacturing Ecosystem Posted On: 12 NOV 2026 4:48PM by PIB Delhi The Ministry of Heavy ...",
-     "image": null,
-     "why": [
-      "Subsidy or incentive"
-     ],
-     "tags": [
-      "Industry & Manufacturing"
-     ]
-    },
     {
      "desk": "Policy",
      "score": 7,
@@ -143,17 +105,55 @@
      "desk": "Policy",
      "score": 6,
      "priority": 35,
-     "title": "Underwriting Auction for sale of Government Security for ₹34,000 crore on November 13, 2026",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63963",
+     "title": "Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335785",
+     "date": "2026-11-13",
+     "source": "PIB",
+     "label": "Banking & Rates",
+     "snippet": "The development of a systematic framework to measure the contribution of knowledge and knowledge pro",
+     "lead": "Ministry of Statistics & Programme Implementation Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems Posted On: 13 NOV 2026 2:40PM by PIB Delhi The development of a systematic framework to measure the contribution of knowledge and knowledge products to the Indian economy assumes significance in the context of the growing role of knowledge in driving economic activity, productivity and value ...",
+     "image": null,
+     "why": [
+      "Rates and liquidity"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 6,
+     "priority": 35,
+     "title": "Ministry of Heavy Industries (MHI) receives 22 bids for 10 GWh Advanced Chemistry Cell manufacturing capacity under PLI ACC Scheme",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335459",
      "date": "2026-11-12",
+     "source": "PIB",
+     "label": "Industry & Manufacturing",
+     "snippet": "The Ministry of Heavy Industries (MHI) has received 22 bids from prospective bidders for 10 GWh capa",
+     "lead": "Ministry of Heavy Industries Ministry of Heavy Industries (MHI) receives 22 bids for 10 GWh Advanced Chemistry Cell manufacturing capacity under PLI ACC Scheme Strong Industry Response Reflects Growing Interest in Establishing Domestic ACC Manufacturing Capacity Bid opening marks a significant step towards strengthening India’s Domestic ACC Manufacturing Ecosystem Posted On: 12 NOV 2026 4:48PM by PIB Delhi The Ministry of Heavy ...",
+     "image": null,
+     "why": [
+      "Subsidy or incentive"
+     ],
+     "tags": [
+      "Industry & Manufacturing"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 6,
+     "priority": 35,
+     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63955",
+     "date": "2026-11-11",
      "source": "RBI",
      "label": "Banking & Rates",
      "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "Government of India has announced the sale (re-issue) of Government Security, as detailed below, through auction to be held on November 13, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
+     "lead": "",
      "image": null,
      "why": [
-      "Regulator: RBI",
-      "Large outlay (Rs 10,000 Cr or more)"
+      "New law or act",
+      "Regulator: RBI"
      ],
      "tags": [
       "Banking & Rates"
@@ -163,76 +163,33 @@
   },
   "Startups": {
    "total": 1409,
-   "new_today": 18,
+   "new_today": 0,
    "items": [
     {
      "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-     "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-     "date": "2026-11-10",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
-     "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Nominal, a four-year-old, Austin-based startup that offers an AI platform purpose-built for engineering and testing complex hardware, like aircraft, nuclear reactors, and smart factories, has raised another big round of financing that triples its valuation. On Monday, it announced a $240 million Series C at a $3 billion valuation ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2023/09/Cameron-McCord.jpg?resize=1200,1200",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $3,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
      "score": 9,
-     "priority": 69,
-     "title": "Razorpay, Sembcorp Green Infra get Sebi nod to float IPOs",
-     "url": "https://yourstory.com/2026/11/razorpay-sembcorp-green-infra-get-sebi-nod-float-ipos",
+     "priority": 75,
+     "title": "Wakefit Q2: Profit Remains Flat YoY At ₹16 Cr, Revenue Crosses ₹450 Cr",
+     "url": "https://inc42.com/buzz/wakefit-q2-profit-remains-flat-yoy-at-%e2%82%b916-cr-revenue-crosses-%e2%82%b9450-cr/",
      "date": "2026-11-13",
-     "source": "YourStory",
-     "label": "India · Policy & Regulation",
-     "snippet": "Razorpay filed draft documents with Sebi via the confidential route in June for an IPO.",
-     "lead": "Razorpay, Sembcorp Green Infra get Sebi nod to float IPOs Razorpay filed draft documents with Sebi via the confidential route in June for an IPO. Press Trust of India 11278 Stories Friday November 13, 2026 , 3 min Read Fintech firm Razorpay Software Ltd and Sembcorp Green Infra, a renewable energy independent power producer, have secured Sebi's approval to launch initial public offerings (IPO), an update with the markets regulator ...",
-     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imageq2wc-1759136869668.jpg",
+     "source": "Inc42",
+     "label": "India · Other",
+     "snippet": "Listed mattress brand Wakefit reported a net profit of ₹15.9 Cr in Q1 FY27, almost flat from nearly ₹16 Cr in the year-ago quarter.",
+     "lead": "Operating revenue rose nearly 20% to a record ₹452 Cr in the quarter under review as against ₹376.9 Cr in Q2 FY26 The company attributed the sequential decline in profitability to rising commodity prices, geopolitical disruptions and the “challenging” operating environment Meanwhile, total expenses for the quarter under review also shot up 19% to ₹441.4 Cr compared to ₹370.5 Cr in Q2 FY26",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Wakefit-social.png",
      "why": [
-      "IPO & Listing",
+      "Financials",
+      "Sizeable deal (about $47M)",
       "Valuation, listing or profitability signal"
      ],
      "tags": [
-      "IPO & Listing",
-      "Policy & Regulation"
+      "Financials"
      ]
     },
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 69,
-     "title": "Drone startup Uforce raises $700m backed by Valor Equity Partners, UK National Wealth Fund",
-     "url": "https://sifted.eu/articles/drone-startup-uforce-fundraise-uk-national-wealth-fund-scoop/",
-     "date": "2026-11-12",
-     "source": "Sifted",
-     "label": "Global · Fintech",
-     "snippet": "The announcement confirms Sifted’s scoop from August that Uforce was raising a blockbuster new round",
-     "lead": "London-based defence startup Uforce , which builds autonomous drones for the land, air, and sea, has raised $700m in Series A funding co-led by the UK National Wealth Fund and Valor Equity Partners, confirming Sifted’s scoop from August that the startup was raising a large new round.",
-     "image": "https://content.sifted.eu/wp-content/uploads/2026/08/11124151/Screenshot-2026-08-11-at-12.40.38-1024x505.png",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $700M: round or valuation)"
-     ],
-     "tags": [
-      "Funding",
-      "Fintech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 69,
+     "priority": 75,
      "title": "UK AI startup Nscale weighs delaying $35bn IPO amid tech sell-off",
      "url": "https://sifted.eu/articles/nscale-ipo-nvidia-delay/",
      "date": "2026-11-11",
@@ -249,38 +206,59 @@
       "IPO & Listing",
       "AI & Deeptech"
      ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 75,
+     "title": "SoftBank Q2: Lenskart & Meesho Drive Valuation Gains, Ola Electric Books Losses",
+     "url": "https://inc42.com/buzz/softbank-q2-lenskart-meesho-drive-valuation-gains-ola-electric-books-losses/",
+     "date": "2026-11-11",
+     "source": "Inc42",
+     "label": "India · Fintech",
+     "snippet": "Two listed Indian startups – Lenskart and Meesho – together contributed valuation gains worth $394 Mn to SVF2's kitty in Q2 FY26.",
+     "lead": "SoftBank said that the EV maker’s gross return to the SVF2 stood at $370 Mn in the quarter under review, down $42 Mn from $412 Mn in the preceding Q1 FY26 This means that SoftBank made hefty gains from its Indian listed startup portfolio in Q2 FY26, but the booked some valuation losses on account of Ola Electric, Delhivery and FirstCry In contrast, other listed Indian startups in SVF2’s portfolio – Lenskart and Meesho – together ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/sofftbank-q2-social-.png",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $42M)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "Fintech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 75,
+     "title": "IIFL Finance to raise Rs 6,414 Cr led by Blackstone",
+     "url": "https://yourstory.com/2026/11/iifl-finance-to-raise-rs-6414-crore-with-blackstone-leading-rs-5000-crore-primary-infusion",
+     "date": "2026-11-10",
+     "source": "YourStory",
+     "label": "India · Other",
+     "snippet": "Promoters to put in Rs 1,264 crore through warrants; capital adequacy to rise to about 30%",
+     "lead": "IIFL Finance to raise Rs 6,414 Cr led by Blackstone Funds managed by Blackstone Private Equity will invest Rs 5,000 crore ($535 million) in compulsorily convertible preference shares. Team YS 17549 Stories Tuesday November 10, 2026 , 3 min Read IIFL Finance has approved a Rs 6,414 crore ($686 million) primary capital raise, with Blackstone leading the round. The board cleared the preferential issue at a meeting on Tuesday. The deal is ...",
+     "image": "https://images.yourstory.com/cs/wordpress/2018/03/yourstory-shopatplaces-funding.jpg",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $675M: round or valuation)"
+     ],
+     "tags": [
+      "Funding"
+     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 25,
+   "new_today": 0,
    "items": [
     {
      "desk": "Immigration",
-     "score": 7,
-     "priority": 58,
-     "title": "France Announces Age Requirement For Foreigners Applying For Citizenship",
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNek0zbDAwS3FXZ1ZuSzFfTGxzV0dLU29naE1aUWNsN1FLZ3BKVHVkWUtHR3V3dnN5blR5R1ZKMzNSN3Z1ZFpEZHA4WWE2QnJpaEFPUDloa2tMOGVHMEljUmZVcEl2V2JPbVNMYWU0UG1rUXA4MGZoVFV5WmJ0N0VaOUg4cDZzNGJ0UHVKaHdQd1AxZ3ROYk5MMU1pd0F6WTNubXQw?oc=5",
-     "date": "2026-11-12",
-     "source": "Tuko News",
-     "label": "France",
-     "snippet": "France explains naturalization rules for foreign nationals, covering application procedures, residence requirements and eligibility for children of new citizens.",
-     "lead": "France has set 18 as the minimum age for foreign nationals seeking citizenship through naturalization by decree, according to the country's official public service portal. France clarifies age requirement for citizenship applicants. Photo credit: Reuters. Source: Getty Images The requirement is outlined on the French government's website , which provides information on administrative procedures and eligibility requirements. However, ...",
-     "image": "https://cdn.tuko.co.ke/images/1200x675/bec4b072872caa5c.jpeg?v=1",
-     "why": [
-      "Affects citizenship",
-      "Announces a change"
-     ],
-     "tags": [
-      "Citizenship",
-      "France"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 50,
+     "score": 5,
+     "priority": 45,
      "title": "Why Single Out Indian Immigrants? New Zealand Leader's 'Go Back To India' Rant Faces Fierce Backlash",
      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQY01vYWRQLUFCUnVGcHdKZVVGTFkwY0dTekI5bmhoTmJEb3hXTmFBY25LLXFpVFB1U2VYNGlKUmxnS2pmUDJzWGFlVks1bWpzYWI1SFlRd3Q4U3BlcHJRTUM5b0VNaThKenVQcTRiQlhIdGlLaE55T19uU1VVYjdVc3hvMThzQnNHMmZ4cXVEcnJJa3BtaFMzNU1nUmwyMUtXMko1eG4xbDlJa2YzYjV0eXZUd2VpbVNlbmF5cmJFb05UbTd0cFFDY3NLMlpiTGZwRUdzaGpkTHdOSDhKRnlaRkFTa1RzM20xV0xoT2Q3VHdaeWwtZjNRMFJsb3VpLTd4XzZpVNIBigJBVV95cUxPVGpBNENUekV6ZWk2MENVMWpLWlQ0VVVsdDZsaDVSY3B1QnkwTVoySVltVkJ1ek1EMlhiMm5LZjJvemkzQ2xRLU5aZTJRZkN4dk4zeGx5M2t5cW9RNnBKTlo3NnAyVUt2ZVk5ZTFoNnF6T1B5RUgzUHl3d05KeFNNMVhHTkI5dndVbkk1VUl5c2UyMXY2alVTaTlUbGNvZHJmejA1Zm5vMXFlSWdBWE45UmtfSjhZNXdmOXppbm16M0NJeGpvQTlMMVZxMUVmd01GVVYybGxsYko3UGZjbWxkUU1IYTViRzEtdklLLTNpekF2blgwa0llek1Wa1MxVzJGWV9aRHp4VVpfQQ?oc=5",
      "date": "2026-11-13",
@@ -300,12 +278,33 @@
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 15,
+   "new_today": 0,
    "items": [
     {
      "desk": "Advisory",
      "score": 10,
      "priority": 83,
+     "title": "RBI Rate Hike Expectations, Tight Liquidity Put Pressure On Short-Term Bond Yields",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRlM3NU14dUR6ZXFKMVJFZmI4QjZ5SkR2OG1xQWhuVkxmZF9jMzctM3dwTUxyMUpOam52em1rUi1UaENyRkJuclNXUVE0ajM3emlZOWdQVTVKWHFUbDlIU19nbWp1U0FoeU1KNlpBM3N6T3E5NVU3TVR2TDFCUjV1S210R2Z3d25jcFh1OS1JN09DcEFMN2FvRDh3UTZ2Z0o2RmFfQkdJcDNCQ3hPcVo5MjZ6NmVibXpkUWZ0ZWFhZTlHQmZpa1dkRw?oc=5",
+     "date": "2026-11-09",
+     "source": "KNN India",
+     "label": "Debt & Bonds",
+     "snippet": "Short-term Indian government bond yields are expected to face upward pressure amid tightening banking liquidity and expectations of further interest rate hikes by the Reserve Bank of India (RBI), potentially widening the gap with longer-term securiti",
+     "lead": "Your e-mail will be secure with us. We will not share your information with anyone ! RBI Rate Hike Expectations, Tight Liquidity Put Pressure On Short-Term Bond Yields New Delhi, Nov 9 (KNN) Short-term Indian government bond yields are expected to face upward pressure amid tightening banking liquidity and expectations of further interest rate hikes by the Reserve Bank of India (RBI), potentially widening the gap with longer-term ...",
+     "image": "https://knnindia.co.in/uploads/newsfiles/RBI-FIN-9-11-2026.jpg",
+     "why": [
+      "Regulator: SEBI or RBI",
+      "Interest-rate decision",
+      "Government bond yields"
+     ],
+     "tags": [
+      "Debt & Bonds"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 75,
      "title": "Arihant Capital Markets gets SEBI nod to launch mutual fund biz",
      "url": "https://www.thehindubusinessline.com/markets/arihant-capital-markets-gets-sebi-nod-to-launch-mutual-fund-biz/article71697257.ece",
      "date": "2026-11-13",
@@ -325,29 +324,8 @@
     },
     {
      "desk": "Advisory",
-     "score": 10,
-     "priority": 83,
-     "title": "Gold prices rise above Rs 1.36 lakh/10g, silver slides Rs 5,600/kg on MCX amid Fed rate hike worries. Chec",
-     "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQdE15cVJLT3I3QjZoUkltWVdtSkFqX1ExVTFsX1FmTEE3Y3EwNktnLWEyT0RrSTJFUmxNSWZDekVSdkxvSjBKNDBvSWtZYWhxTklXVVlVdm40a3JyRWVvTGhEWUw2LU93ZUxXQVJsUjVNQUhIZ1lieVJRWkI2S3Z5endXTzlfZzlVZVpPdzMyMk0tSnpDcW9tVjgxc3BZcEt3UTVzajRhZTZDU1o2NkNtai12ZmpWcVlOMk5GNld3a01ZUHVGcUFzWkxDTGNPUXJ1ZzI2Tnl1Z3I3Z1djLTR4eU5PcjhFaGxWSFNGOWdZUGVaaGVrRDRSNjJaX1U5VGlRX1VJWF8tY0JONG5IbG5wckpjS19fdEQ3S21QT1ZDNjl5VkswdmxfSk91RXZlb2xWeWRWckR30gG7AkFVX3lxTE5rME8ydUVObmhzZGVVd3NmckJjZ2NwbG1UX2hpSWE5QlU2b1hvVWJqUmJRYk5HcjVqLTg2R2t4SktRYlVDU09rV1NBNDg1ZzlNc092YldxSVlwTFA1NWc2Mnc2Q0tGM2xndkpBSDI0dndoRzBJcEdpcnNlclhsdDBVVzJyeUwzbXMzOWFKSnRhZllJb2NfUzdZZlkwWmh5aFB1RkVSRVEwdHppZjhLanU1N0ptYkdaSEN3QmFORGw4ZTAxbkdHeV9idDdLeFpzUFZNb29WLU8tem12TlRfdlZkRUVfNklENE9TQjJMYmpEZFpuclZXUzJ5c0l0Y2NKSmxkTGZQeGMyZ3RiaHdMVHdNZEh1Y1JsR2lXaVdBamdpYkpNSXdHVGk4MzU0RWRfczNlb0VYZ3dhMTMxSQ?oc=5",
-     "date": "2026-11-13",
-     "source": "The Economic Times",
-     "label": "Gold & Silver",
-     "snippet": "Gold prices edged higher while silver plunged over 3% on MCX as rising oil prices fuelled inflation concerns and expectations of higher-for-longer interest rates. With India",
-     "lead": "Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Business of Odd Things: The farm that needs no land, freshwater, or fertiliser",
-     "image": "https://img.etimg.com/thumb/msid-135791369,width-1200,height-900,imgsize-253030,overlay-etmarkets/articleshow.jpg",
-     "why": [
-      "Interest-rate decision",
-      "Precious metals",
-      "Global macro driver"
-     ],
-     "tags": [
-      "Gold & Silver"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 10,
-     "priority": 83,
+     "score": 9,
+     "priority": 75,
      "title": "SEBI Settles AIF Norms Violation Case For ₹12.75 Lakh, Eight Innovate Fund And Officials Get Relief",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ05odi1vWWZfOVVSMzEtVzN5YjFmY0dETERwUFIxY04wWGhZTWJyaFM2ak4zLU1INzhVTEtRNEMwR25FcWVQUWF1aWRjMmhZMl9UT01qOGlOa0oxOU1XRUhUMDVGeGxPbXJJU2kwN1VBYml0WUI3ZTNhWHBSaXdsLUI3Tl84VUJPTEE3SFdBVU1sOVE4bXF5dVlBRUQ4b1RqaS1CaldZWm13a1hnU2l3ME9iQ3hqQUltdW91bDJsSTYxbHIzdWxOR0NzdWpabWZZem530gHYAUFVX3lxTE5KNXRTdEtHM3hYMHhfN1NrMDlBUkZzQnBBTGExdDlQUHdJMWpTX0M5elFfTS1hSlU4WUtXTGxnc0V3XzV0T1hubFU5ZlJTeGZvNkJuNnJOajVWNjluZGFjbGdGVHlCOExRWU5xaHlwOHlyNUZiY0o4YWZuaU55Qy1ObnA5RXNzcjZVVXFMbk1EY0hadW14dmhRb0p3eFVjZTlzYTZxelc4TGNQWTBCX05qQmdmRmFXN3plRVpPQ2JJRkFXdVBhTDFEcFYxcVR6RjNmSkFSbzBSbA?oc=5",
      "date": "2026-11-12",
@@ -367,16 +345,16 @@
     },
     {
      "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
-     "title": "Fed turns hawkish as CPI beats and officials back further rate hikes",
-     "url": "https://www.investing.com/news/stock-market-news/fed-turns-hawkish-as-cpi-beats-and-officials-back-further-rate-hikes-93CH-5026435",
+     "score": 8,
+     "priority": 67,
+     "title": "Fed Rate Hike: Daly Signals a December Move as Bitcoin Faces Pressure",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX0EzRUJxdjVvYVRzLXlrOWxxZDRLU2JwVTVtNG85TjVCRmx0bG5KaEprUVBEUUJ6UGduWmpOQUthTTYyT0ZReEJ6a0ROamZiVXBOb2NRMnBXb2Z6MFR3TDJtWkhteUNQN0lnaGFGUEp3T1pDazhDWU50Qk1WU1BaRTFZMTFxd0lGaW1wdg?oc=5",
      "date": "2026-11-14",
-     "source": "Investing.com",
+     "source": "Coin Gabbar",
      "label": "Global",
-     "snippet": "",
-     "lead": "",
-     "image": null,
+     "snippet": "Fed Rate Hike signals grow as Mary Daly leans toward a December increase. See the current Fed rate, decision date in IST and possible Bitcoin impact.",
+     "lead": "Fed Rate Hike: Daly Signals a December Move as Bitcoin Faces Pressure Bablu Singh Nirwan Published: November 14, 2026 Last Updated: 14 Nov 2026 Share: TWITTER Linkedin FACEBOOK Fed Rate Hike: What Daly’s December Warning Could Mean for Bitcoin Now A top central banker says higher borrowing costs are probably coming. This Fed Rate Hike update explains what she said, where the policy rate stands, what other officials are saying, when the ...",
+     "image": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/November2026/fed-rate-hike-daly-december-2026-bitcoin-market-impact-6944.webp",
      "why": [
       "Interest-rate decision",
       "Global macro driver"
@@ -391,7 +369,7 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 13,
+   "score": 12,
    "priority": 100,
    "title": "AI agent startup LangChain hits $3B valuation",
    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
@@ -415,7 +393,7 @@
   },
   {
    "desk": "Immigration",
-   "score": 12,
+   "score": 11,
    "priority": 100,
    "title": "Canada announces plan to provide permanent residence to 100,000 workers and families | World News",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdXNDS1VNMWx4T3BzOExhbjBMRFhBMnU3ZEpSU0daM1lHTHRoNlk4OFZ0TnFRc2FlX3NnOG5yZmc2cWh5ZGkwVk1FUFRkQm5IcnZpVGlYZVl3c1J6WlliM2VvYVZ4VkhOaldhRERVQXZYQmh2bHc2aUNXOGcya2h1T1RuU3c3WjZTX2xqQzZCUVRrNlhGOHlNNGNrcUNBaGI0YnpnSEladktzV2RnSDh5bzJIRjUtZjFXcHhhbm8zRTZjUUhoOTVmdUhTVmZhUDdWbkhVRzd0VS1rc0M1Q2Y2UNIB5gFBVV95cUxOTmhIeTFnS0tQY0FRMXhSdWwzTDN4Wl92bjlUSWdwYlRYaW5tYXVfOHAxX0dOOVRtNGlFdW5GQmprY0IwU3AzNEtZSEpLWkEwLWZ0OW1MUTgteU40UHBXYWwwcEEtOVVqZWRROF9fbGlZY25KcEhQeENMbk1mZzZfZ0QzdEM4ejR0REtneXllMVRUUTRBY0F6eWxRemZ1QW1qXzRMZTFpYjc5QWRldzBlSjM2djRjVFgxMjZPSnltZkx3dGdxdGhzaXRNQWJua0p1ZXQzamNBUy1sY1JhdlRVN25JeWFHZw?oc=5",
@@ -435,54 +413,6 @@
     "Canada"
    ],
    "rank": 2,
-   "must_read": true
-  },
-  {
-   "desk": "Advisory",
-   "score": 12,
-   "priority": 100,
-   "title": "Gold near 13-month low as Fed rate hike fears grow, oil surges towards $96",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN3FGdFFJdno4THRVX3Y3djF1bFNMSXlrZkNPZ3NKZEQtaThVNTZVQ0ZaYk9ZTVZTMnRYdzdwWW9IQlFIT3ExZk1IdGg1VFo0X3lRTWlmdHA2ajU5RTVmTmRZbXMzb25hODRuUGFvaUVkSWIwYnJiY0FxS1NIZlBvS1JVZVRDUFVESmtQVHd0b0djdHVGM290bEViSzdBWVBsOFlkMTdVdGxoRXZMV1h4QkE0SEZfNU5TNjZqanM3NlY3TG9XMWctQ9IBzgFBVV95cUxNZVN6eEx3NWFmRGc1ZmlJRnFPTzNjdWlTUkZiSkczWUtlaW5UWGJrQ3hRNml1SjlzSng5NHpoTE10N3A1aFgtUmctQ2VIN1JnTjRtRzdJSGpaYUtWZmNxMUxzaVlGVmh1emdRdFVFYXJWUWZWYzZCMFpxNlN0a3lrU09FcWxUYXZjMUY2czZBb3VYVmY1c2Fhcl8zYkdZTGNfclJtVnpZSlVjRUJXTjBmcFlPVC1WY3lYMEoyRDNqUmpLM2tJTjFpZHhGbHZxUQ?oc=5",
-   "date": "2026-11-13",
-   "source": "Moneycontrol.com",
-   "label": "Gold & Silver",
-   "snippet": "Gold hovered near $3,880 an ounce after hitting a 13-month low, as stubborn US inflation fuelled Fed rate hike bets and rising Treasury yields pressured bullion.",
-   "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
-   "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261113012637_474892754-scaled.jpg",
-   "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Gold & Silver"
-   ],
-   "rank": 3,
-   "must_read": true
-  },
-  {
-   "desk": "Advisory",
-   "score": 12,
-   "priority": 100,
-   "title": "Rs 80,000 crore FII buying sparks explosive rally on Dalal Street. Will RBI rate hike worries kill the party?",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-80000-crore-fii-buying-sparks-explosive-rally-on-dalal-street-will-rbi-rate-hike-worries-kill-the-party/articleshow/135755863.cms",
-   "date": "2026-11-12",
-   "source": "Economic Times",
-   "label": "Regulatory",
-   "snippet": "The Sensex has staged a sharp 9,000-point rally since late October, crossing 82,000 for the first time since February, before the US-Iran conflict erupted. The rebound has been fuelled by a strong return of foreign investors, who have bought nearly Rs 69,000 crore worth of Indian equities in November so far and around Rs 80,000 crore sinc",
-   "lead": "The Sensex has staged a sharp 9,000-point rally since late October, crossing 82,000 for the first time since February. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price",
-   "image": "https://img.etimg.com/thumb/msid-135755921,width-1200,height-900,imgsize-313292,overlay-etmarkets/articleshow.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Sharp market move",
-    "Sector or flows signal"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 4,
    "must_read": true
   },
   {
@@ -506,7 +436,7 @@
    "tags": [
     "Agriculture & Food"
    ],
-   "rank": 5,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -530,12 +460,12 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 6,
-   "must_read": false
+   "rank": 4,
+   "must_read": true
   },
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 92,
    "title": "SoftBank Offloads Meesho Shares Worth ₹1,855 Cr",
    "url": "https://inc42.com/buzz/softbank-offloads-meesho-shares-worth-%e2%82%b91855-cr/",
@@ -553,13 +483,84 @@
     "IPO & Listing",
     "Fintech"
    ],
+   "rank": 5,
+   "must_read": true
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 92,
+   "title": "Sensex falls, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRVVzOWRUTExHTmJOUFhzX0tmWDdhWm8ycVpaZ0FrR1FIMElpOHhua2gxWHdJWnpDRHRhVWowY0lUdk1BakVGMVlBZHpqR3BtamRiS1FXWUptWW5sdVp1MGFWQzFFanBhTUJVdWxicVRQN1ZZV3hKa2VLNHNvTExKMklwaTN3TWVjdWRHQ3hjRzVUSEhvSzk2UjI5LVRHX0JFOEs3d1Ewb2MwOWt2UHIw?oc=5",
+   "date": "2026-11-14",
+   "source": "DD News",
+   "label": "Regulatory",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Global macro driver",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 92,
+   "title": "Gold near 13-month low as Fed rate hike fears grow, oil surges towards $96",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN3FGdFFJdno4THRVX3Y3djF1bFNMSXlrZkNPZ3NKZEQtaThVNTZVQ0ZaYk9ZTVZTMnRYdzdwWW9IQlFIT3ExZk1IdGg1VFo0X3lRTWlmdHA2ajU5RTVmTmRZbXMzb25hODRuUGFvaUVkSWIwYnJiY0FxS1NIZlBvS1JVZVRDUFVESmtQVHd0b0djdHVGM290bEViSzdBWVBsOFlkMTdVdGxoRXZMV1h4QkE0SEZfNU5TNjZqanM3NlY3TG9XMWctQ9IBzgFBVV95cUxNZVN6eEx3NWFmRGc1ZmlJRnFPTzNjdWlTUkZiSkczWUtlaW5UWGJrQ3hRNml1SjlzSng5NHpoTE10N3A1aFgtUmctQ2VIN1JnTjRtRzdJSGpaYUtWZmNxMUxzaVlGVmh1emdRdFVFYXJWUWZWYzZCMFpxNlN0a3lrU09FcWxUYXZjMUY2czZBb3VYVmY1c2Fhcl8zYkdZTGNfclJtVnpZSlVjRUJXTjBmcFlPVC1WY3lYMEoyRDNqUmpLM2tJTjFpZHhGbHZxUQ?oc=5",
+   "date": "2026-11-13",
+   "source": "Moneycontrol.com",
+   "label": "Gold & Silver",
+   "snippet": "Gold hovered near $3,880 an ounce after hitting a 13-month low, as stubborn US inflation fuelled Fed rate hike bets and rising Treasury yields pressured bullion.",
+   "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
+   "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261113012637_474892754-scaled.jpg",
+   "why": [
+    "Interest-rate decision",
+    "Precious metals",
+    "Global macro driver",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Gold & Silver"
+   ],
    "rank": 7,
    "must_read": false
   },
   {
-   "desk": "Immigration",
+   "desk": "Advisory",
    "score": 11,
    "priority": 92,
+   "title": "Rs 80,000 crore FII buying sparks explosive rally on Dalal Street. Will RBI rate hike worries kill the party?",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-80000-crore-fii-buying-sparks-explosive-rally-on-dalal-street-will-rbi-rate-hike-worries-kill-the-party/articleshow/135755863.cms",
+   "date": "2026-11-12",
+   "source": "Economic Times",
+   "label": "Regulatory",
+   "snippet": "The Sensex has staged a sharp 9,000-point rally since late October, crossing 82,000 for the first time since February, before the US-Iran conflict erupted. The rebound has been fuelled by a strong return of foreign investors, who have bought nearly Rs 69,000 crore worth of Indian equities in November so far and around Rs 80,000 crore sinc",
+   "lead": "The Sensex has staged a sharp 9,000-point rally since late October, crossing 82,000 for the first time since February. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price",
+   "image": "https://img.etimg.com/thumb/msid-135755921,width-1200,height-900,imgsize-313292,overlay-etmarkets/articleshow.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Sharp market move",
+    "Sector or flows signal"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 91,
    "title": "'Doors close because of where I’m from': Indian creator misses sponsored London trip after UK visa...",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQUwwekR0b3d6ZjgwdlZaYzN4bmQ3UG5oeTgzNHU0TGMzd0dFcU9LY1EzdHBWLXl4bDlMUWRVY0dZX2toQjJTZ0JZeVRsNGZGRElFTjFiejdiMWVyVHpfdDBGYlBkaHZjVXh3WFVZY3M2ZDJYOGpIUXVid0pOZnN5SDBBdFlCTHh2R2NJWFNhZVJDVUF6cWZKUEp0Z0RzbnZHc0lVeG9ScmdrR1BYSEFQXzhXRWk5MVlTcTF3cHk4Rm54elJoV0hZWVRrV3Zob3A2U2Nuc2lXZFJVVkllNGd6bjR0ZUZaM2tZRnZoM28xY1U3Z9IB9wFBVV95cUxQaTJqNGEtaDFHYXhJZDhWcmxFVE9vRnpwa2VmeUFVNmtHcUxLUDAtWlV1UjRZdUhDb1N0NEtKTjV1X05PRC1iLXFjWTdYVUpZcmdfazFRbS0ybXhmYjlFc0dUTmNaZFYxa0pfd19nUUNSQ2FkbHVUZGRiaDlVRzZBejlUNmE1cE5jZ2N2d1o4NUEtbHdyYWFRNWxlRjFuNFdHT3ZFV3RtVkUyd3d0ZkRLN1lBNVZwdDk0MXA1ZHZ0VnFfcThJUzlfaXBFNWJWM2dSMkNleUlVT3FYdHZ4N1VZcWJrUmxiZkwtbVdOMGhXbjh4cEk1b19R?oc=5",
    "date": "2026-11-14",
@@ -577,36 +578,13 @@
     "Work visa",
     "United Kingdom"
    ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "RBI releases data on ECB / FCCB / RDB for September 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63961",
-   "date": "2026-11-12",
-   "source": "RBI",
-   "label": "Regulatory",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The Reserve Bank of India has today released the data on External Commercial Borrowings (ECB), Foreign Currency Convertible Bonds (FCCB) and Rupee Denominated Bonds (RDB) through General Permission and Special Permission for the month of September 2026.",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Global macro driver",
-    "Official notice"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
    "rank": 9,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 11,
-   "priority": 85,
+   "score": 10,
+   "priority": 83,
    "title": "Bodhi Tree Systems acquires majority stake in Adyar Ananda Bhavan for $180M",
    "url": "https://yourstory.com/2026/11/bodhi-tree-systems-acquires-majority-stake-in-adyar-ananda-bhavan",
    "date": "2026-11-13",
@@ -628,8 +606,8 @@
   },
   {
    "desk": "Startups",
-   "score": 11,
-   "priority": 85,
+   "score": 10,
+   "priority": 83,
    "title": "Exclusive: Sofina To Lead PlatinumRx’s $32 Mn Funding At $200 Mn Valuation",
    "url": "https://inc42.com/buzz/sofina-to-lead-platinumrxs-32-mn-funding-at-200-mn-valuation/",
    "date": "2026-11-12",
@@ -654,21 +632,22 @@
    "desk": "Advisory",
    "score": 10,
    "priority": 83,
-   "title": "Rupee weakens to 94.25/$, 10-year bond yield rises as crude prices surge",
-   "url": "https://www.business-standard.com/economy/news/rupee-weakens-to-94-25-10-year-bond-yield-rises-as-crude-prices-surge-126111301340_1.html",
-   "date": "2026-11-13",
-   "source": "Business Standard",
-   "label": "Debt & Bonds",
-   "snippet": "The rupee settled at 94.25 against the dollar, while the benchmark 10-year bond yield rose six basis points to 7.31 per cent amid higher crude prices and a firm dollar index",
-   "lead": "The rupee settled at 94.25 per dollar, compared with the previous close of 94.04 per dollar Don't miss the most important news and views of the day. Get them on our Telegram channel",
-   "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/25/thumb/fitandfill/1200X628/1782407878-7939.jpg",
+   "title": "Gold rate climbs after 3% drop: Is a rally likely as Fed Dec rate hike bets surge?",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVWVNQ2VqeGRfZ2xFd2lKM1hhWGlXSm5Dbk9YTFVkeTd5ZjBTSUwxSUF0WGg2XzJhT2xENnM2ZjNpRHY1a3JtcjVvd3VCSjQyR250dDRGMXZmUW1BRWo5RXRnOERyYjNveDV2Sm0wN2lTZFVybzlEYWJpWUg2cnRabVI4ckRURl84MFdnMDVxb3hwdENEVTFLaGx1VjhOZExUY0ZPS05OQk1fQWhBeHNtZ3lOYjBFRXRCM0xvRXVMZnA2Q3kxR1NHVXBmRXNrSGNScjh0S3NuMjR3RzhhV3lpVERQVjRISy05NU1kSmFxTEI1aE93cHFlMEdLdUFJZ00tV2fSAYgCQVVfeXFMTnFjWU42Y0w0X1VaYk1tM1hrZDV6ck9aMDBPMm1vbGlBVjhHek5nVnZ1R09hbVlFRE5jSGpXWHR0Nmp3VDI3Z2dpVC0wdVRzVnNpaGJvWWJXTlRGV241UjctWlI4NVZEbTFjYmNoYUNGY0d5Z3NON1U1Mkc0dnpFTGFjcXI1MDFKMFRCRnVpSFBOQjg5Z0phenpSdkZCdWdBcnhDWlNNdjVldWZtdkl4d2N6NHU0VzRjeEI2eFkxRXl2NEdnb1I0b1k5SGtKUUl5SHRjQUdYQk5vTjBvSDZiX0ZFZE1ZdVNKQkFwQWRwazlvRmNoN1NYaUJsemxkSGNiVEtXNWRianNH?oc=5",
+   "date": "2026-11-11",
+   "source": "The Financial Express",
+   "label": "Gold & Silver",
+   "snippet": "Gold Rate Today, November 11: Check gold and silver rates in India on November 11, MCX futures, spot prices and the impact of US inflation",
+   "lead": "",
+   "image": "https://images.financialexpressdigital.com/2026/11/Today-Gold-Rate-in-India.jpg",
    "why": [
-    "Government bond yields",
+    "Interest-rate decision",
+    "Precious metals",
     "Global macro driver",
     "Sharp market move"
    ],
    "tags": [
-    "Debt & Bonds"
+    "Gold & Silver"
    ],
    "rank": 12,
    "must_read": false
@@ -676,7 +655,31 @@
   {
    "desk": "Startups",
    "score": 10,
-   "priority": 77,
+   "priority": 83,
+   "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+   "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+   "date": "2026-11-10",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+   "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Nominal, a four-year-old, Austin-based startup that offers an AI platform purpose-built for engineering and testing complex hardware, like aircraft, nuclear reactors, and smart factories, has raised another big round of financing that triples its valuation. On Monday, it announced a $240 million Series C at a $3 billion valuation ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/09/Cameron-McCord.jpg?resize=1200,1200",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $3,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 9,
+   "priority": 75,
    "title": "From Greenjoules To mistEO — Indian Startups Raised Over $25 Mn This Week",
    "url": "https://inc42.com/buzz/from-greenjoules-to-misteo-indian-startups-raised-over-25-mn-this-week/",
    "date": "2026-11-14",
@@ -692,52 +695,7 @@
    "tags": [
     "Funding"
    ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 77,
-   "title": "Wakefit Q2: Profit Remains Flat YoY At ₹16 Cr, Revenue Crosses ₹450 Cr",
-   "url": "https://inc42.com/buzz/wakefit-q2-profit-remains-flat-yoy-at-%e2%82%b916-cr-revenue-crosses-%e2%82%b9450-cr/",
-   "date": "2026-11-13",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Listed mattress brand Wakefit reported a net profit of ₹15.9 Cr in Q1 FY27, almost flat from nearly ₹16 Cr in the year-ago quarter.",
-   "lead": "Operating revenue rose nearly 20% to a record ₹452 Cr in the quarter under review as against ₹376.9 Cr in Q2 FY26 The company attributed the sequential decline in profitability to rising commodity prices, geopolitical disruptions and the “challenging” operating environment Meanwhile, total expenses for the quarter under review also shot up 19% to ₹441.4 Cr compared to ₹370.5 Cr in Q2 FY26",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Wakefit-social.png",
-   "why": [
-    "Financials",
-    "Sizeable deal (about $47M)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Financials"
-   ],
    "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 12,
-   "priority": 71,
-   "title": "NITI Aayog Launches Report on “Impact Assessment of PLI Schemes”",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335594",
-   "date": "2026-11-12",
-   "source": "PIB",
-   "label": "Banking & Rates",
-   "snippet": "NITI Aayog today released the report titled “Impact Assessment of PLI Schemes”, prepared in collabor",
-   "lead": "NITI Aayog NITI Aayog Launches Report on “Impact Assessment of PLI Schemes” Posted On: 12 NOV 2026 7:45PM by PIB Delhi NITI Aayog today released the report titled “Impact Assessment of PLI Schemes”, prepared in collaboration with the Indian Institute of Management, Ahmedabad as the knowledge partner. The report recognizes the PLI Scheme as a flagship policy intervention launched by the Government of India to enhance India’s ...",
-   "image": null,
-   "why": [
-    "Rates and liquidity",
-    "Subsidy or incentive"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 15,
    "must_read": false
   },
   {
@@ -760,7 +718,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 16,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -783,6 +741,28 @@
    ],
    "tags": [
     "Markets & Regulation"
+   ],
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 11,
+   "priority": 65,
+   "title": "NITI Aayog Launches Report on “Impact Assessment of PLI Schemes”",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335594",
+   "date": "2026-11-12",
+   "source": "PIB",
+   "label": "Banking & Rates",
+   "snippet": "NITI Aayog today released the report titled “Impact Assessment of PLI Schemes”, prepared in collabor",
+   "lead": "NITI Aayog NITI Aayog Launches Report on “Impact Assessment of PLI Schemes” Posted On: 12 NOV 2026 7:45PM by PIB Delhi NITI Aayog today released the report titled “Impact Assessment of PLI Schemes”, prepared in collaboration with the Indian Institute of Management, Ahmedabad as the knowledge partner. The report recognizes the PLI Scheme as a flagship policy intervention launched by the Government of India to enhance India’s ...",
+   "image": null,
+   "why": [
+    "Rates and liquidity",
+    "Subsidy or incentive"
+   ],
+   "tags": [
+    "Banking & Rates"
    ],
    "rank": 17,
    "must_read": false
@@ -810,6 +790,28 @@
    "must_read": false
   },
   {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 64,
+   "title": "India offers no reason for Norwegian journalist's visa ban",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeUhyUnk3eG5yT3lNMWpwbGN4cUFPVkZIRktmNmlBNmVFbS0xWnlJcnI5czQ1LTNUZkRHYWRxSUlua01TUmxmdDg3Y25TNDBZNVNMdmlHQWEzQUllS0ZoSG9rWmo4bUJjakU5Tnl5aHRJZ3pCZzlnVF8wOFlzNXNIbmk0WkVvMnlHUHJPaDZkQThXaEp4bjBsZQ?oc=5",
+   "date": "2026-11-14",
+   "source": "Journalism Pakistan",
+   "label": "Norway",
+   "snippet": "India's foreign ministry called visas a sovereign function but gave no specific reason for journalist Helle Lyng's reported visa cancellation.",
+   "lead": "NEW DELHI — India's Ministry of External Affairs has declined to give a specific reason for cancelling the visa of Norwegian journalist Helle Lyng Svendsen, who was prevented from travelling to Hyderabad to speak at an international conference on journalism and press freedom. At a November 13 briefing, ministry spokesperson Randhir Jaiswal described visa decisions as a sovereign function of governments. His response came amid ...",
+   "image": "https://www.journalismpakistan.com/news/india-offers-no-reason-for-norwegian-journalist-s-visa-ban.jpg",
+   "why": [
+    "Announces a change",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Norway"
+   ],
+   "rank": 19,
+   "must_read": false
+  },
+  {
    "desk": "Policy",
    "score": 10,
    "priority": 59,
@@ -828,7 +830,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 19,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -850,35 +852,13 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 58,
-   "title": "Norwegian journalist Helle Lyng says India cancelled her visa before Hyderabad Bharat summit",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeEpodWplYVJ6WDh6MU9faExnM2VHcmVNWVRUYUdjV0JoMUVUN2ZVcnNjdUFNQTJtRUJMd3BWcFIxZmVCN2Q2bkRmZGFfTm1UM2FGcHkyWm0zNl9zZ09VazdjU2tQSVBMdE1HbHhNbTI5U0hPbkU1TDktSUtVMkx5VGQ3cTIzZVpLOWZPN2d6Mk1ORHh4YUthTVpHb184NW5zYzFOcEVTVGphYnFaaXdOdzZ0STdxMTFDQVRwaTZzcWhneThFX2JV?oc=5",
-   "date": "2026-11-13",
-   "source": "Business Upturn",
-   "label": "Norway",
-   "snippet": "The Dagsavisen journalist from Norway was set to speak at the Telangana government’s Bharat Summit in Hyderabad on media and press freedom but learned from the Indian Embassy in Oslo that the Ministry of Home Affairs had cancelled her visa due to ‘orders from above,’ with Svendsen",
-   "lead": "The Dagsavisen journalist from Norway was set to speak at the Telangana government ’s Bharat Summit in Hyderabad on media and press freedom but learned from the Indian Embassy in Oslo that the Ministry of Home Affairs had cancelled her visa due to ‘orders from above,’ with Svendsen having linked the decision to her questions to Prime Minister Narendra Modi during his May 2026 Oslo visit and her critical opinion pieces, with Indian ...",
-   "image": "https://businessupturn.com/uploads/media/1794548862384-igv4pm-1000410213.webp",
-   "why": [
-    "Major story (13 headlines that day)",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Norway"
-   ],
    "rank": 21,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 7,
-   "priority": 58,
+   "score": 6,
+   "priority": 55,
    "title": "Germany Work Visa: Opportunity Card Points Calculator & Application Guide",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS1VvekV5eXVmajVseTFVek02bWhLeXZtdFBQWEtScHhEZzhpQXJFZ1dIRzZ1S3FDLTdvSnA3ZXVIQXFCYXJmeDVWbURoY2haSGhfWFdIYXBYcVBHR2VwSC1IdEhkenZaamVDTWRRQWlERmZnbG40RkR2eENkcU9sRjFOclhlWDhnZlJZLTdxV0dDUQ?oc=5",
    "date": "2026-11-13",
@@ -900,8 +880,8 @@
   },
   {
    "desk": "Immigration",
-   "score": 7,
-   "priority": 58,
+   "score": 6,
+   "priority": 55,
    "title": "Immigration pushes Spain's population towards 50 million threshold",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRFRqZ1lZbGItalBZSXlFMmw0dTNGenVnY1Z1TS1ycnFqMkw4QkZreEZyNi1WQ09hd1BTMnNNSm1NNFVqdlRBeUFwa3NpODFRZnRlRElSUHcwajJ0emhqZmRudE9sSmh3Yl9NbXUxcWVIS2pxRmRuY0dzMjNoSHZ5VzR5cmt4Z3ptbnVzc3Q5T3RyTG82T0FfXzFRMmhKTzg?oc=5",
    "date": "2026-11-12",
