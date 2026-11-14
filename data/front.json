@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-14",
- "built": "2026-11-14 09:09 IST",
+ "built": "2026-11-14 11:36 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -33,15 +33,15 @@
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 96.08,
-   "change_pct": 0.27,
+   "value": 95.84,
+   "change_pct": 0.02,
    "asof": "14 Nov 03:29 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3888.0,
-   "change_pct": 0.06,
+   "value": 3886.0,
+   "change_pct": 0.03,
    "asof": "14 Nov 03:29 IST"
   },
   {
@@ -162,9 +162,31 @@
    ]
   },
   "Startups": {
-   "total": 1396,
-   "new_today": 5,
+   "total": 1397,
+   "new_today": 6,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+     "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+     "date": "2026-11-10",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+     "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Nominal, a four-year-old, Austin-based startup that offers an AI platform purpose-built for engineering and testing complex hardware, like aircraft, nuclear reactors, and smart factories, has raised another big round of financing that triples its valuation. On Monday, it announced a $240 million Series C at a $3 billion valuation ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2023/09/Cameron-McCord.jpg?resize=1200,1200",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $3,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 9,
@@ -227,34 +249,12 @@
       "IPO & Listing",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 69,
-     "title": "SoftBank Q2: Lenskart & Meesho Drive Valuation Gains, Ola Electric Books Losses",
-     "url": "https://inc42.com/buzz/softbank-q2-lenskart-meesho-drive-valuation-gains-ola-electric-books-losses/",
-     "date": "2026-11-11",
-     "source": "Inc42",
-     "label": "India · Fintech",
-     "snippet": "Two listed Indian startups – Lenskart and Meesho – together contributed valuation gains worth $394 Mn to SVF2's kitty in Q2 FY26.",
-     "lead": "SoftBank said that the EV maker’s gross return to the SVF2 stood at $370 Mn in the quarter under review, down $42 Mn from $412 Mn in the preceding Q1 FY26 This means that SoftBank made hefty gains from its Indian listed startup portfolio in Q2 FY26, but the booked some valuation losses on account of Ola Electric, Delhivery and FirstCry In contrast, other listed Indian startups in SVF2’s portfolio – Lenskart and Meesho – together ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/sofftbank-q2-social-.png",
-     "why": [
-      "Funding",
-      "Sizeable deal (about $42M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "Fintech"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 8,
+   "new_today": 11,
    "items": [
     {
      "desk": "Immigration",
@@ -677,6 +677,28 @@
    "desk": "Startups",
    "score": 10,
    "priority": 77,
+   "title": "From Greenjoules To mistEO — Indian Startups Raised Over $25 Mn This Week",
+   "url": "https://inc42.com/buzz/from-greenjoules-to-misteo-indian-startups-raised-over-25-mn-this-week/",
+   "date": "2026-11-14",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "This week, just nine startups raised a combined $25.2 Mn, marking a steep 90.1% decline from the $255 Mn raised in the previous week.",
+   "lead": "Indian startups cumulatively raised a mere $25.2 Mn between November 9 and November 13, down 90.1% from $255 Mn raised in the preceding week Clean tech led the funding charts this week, with three deals collectively bringing in $16.2 Mn. Meanwhile, early-stage startups ventures collectively bagged $2.1 Mn this week The number of deals also fell 55% to just nine this week compared to 20 in the previous week, pointing to a marked ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/WhatsApp-Image-2026-11-13-at-23.47.28.jpeg",
+   "why": [
+    "Funding",
+    "Sizeable deal (about $25M)"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 77,
    "title": "Wakefit Q2: Profit Remains Flat YoY At ₹16 Cr, Revenue Crosses ₹450 Cr",
    "url": "https://inc42.com/buzz/wakefit-q2-profit-remains-flat-yoy-at-%e2%82%b916-cr-revenue-crosses-%e2%82%b9450-cr/",
    "date": "2026-11-13",
@@ -692,30 +714,6 @@
    ],
    "tags": [
     "Financials"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 77,
-   "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-   "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-   "date": "2026-11-10",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
-   "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Nominal, a four-year-old, Austin-based startup that offers an AI platform purpose-built for engineering and testing complex hardware, like aircraft, nuclear reactors, and smart factories, has raised another big round of financing that triples its valuation. On Monday, it announced a $240 million Series C at a $3 billion valuation ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/09/Cameron-McCord.jpg?resize=1200,1200",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $3,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
    ],
    "rank": 14,
    "must_read": false
