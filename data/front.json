@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-14",
- "built": "2026-11-14 03:40 IST",
+ "built": "2026-11-14 09:09 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,23 +12,23 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25299.0,
-   "change_pct": 0.18,
+   "value": 25144.0,
+   "change_pct": -0.61,
    "asof": "13 Nov 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 81911.0,
-   "change_pct": 0.04,
+   "value": 81592.0,
+   "change_pct": -0.39,
    "asof": "13 Nov 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.23,
-   "change_pct": 0.57,
-   "asof": "14 Nov 02:56 IST"
+   "value": 94.24,
+   "change_pct": 0.22,
+   "asof": "14 Nov 09:00 IST"
   },
   {
    "name": "Brent (USD)",
@@ -162,9 +162,30 @@
    ]
   },
   "Startups": {
-   "total": 1393,
-   "new_today": 2,
+   "total": 1396,
+   "new_today": 5,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 69,
+     "title": "Razorpay, Sembcorp Green Infra get Sebi nod to float IPOs",
+     "url": "https://yourstory.com/2026/11/razorpay-sembcorp-green-infra-get-sebi-nod-float-ipos",
+     "date": "2026-11-13",
+     "source": "YourStory",
+     "label": "India · Policy & Regulation",
+     "snippet": "Razorpay filed draft documents with Sebi via the confidential route in June for an IPO.",
+     "lead": "Razorpay, Sembcorp Green Infra get Sebi nod to float IPOs Razorpay filed draft documents with Sebi via the confidential route in June for an IPO. Press Trust of India 11278 Stories Friday November 13, 2026 , 3 min Read Fintech firm Razorpay Software Ltd and Sembcorp Green Infra, a renewable energy independent power producer, have secured Sebi's approval to launch initial public offerings (IPO), an update with the markets regulator ...",
+     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imageq2wc-1759136869668.jpg",
+     "why": [
+      "IPO & Listing",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "IPO & Listing",
+      "Policy & Regulation"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 9,
@@ -228,32 +249,12 @@
       "Funding",
       "Fintech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 69,
-     "title": "IIFL Finance to raise Rs 6,414 Cr led by Blackstone",
-     "url": "https://yourstory.com/2026/11/iifl-finance-to-raise-rs-6414-crore-with-blackstone-leading-rs-5000-crore-primary-infusion",
-     "date": "2026-11-10",
-     "source": "YourStory",
-     "label": "India · Other",
-     "snippet": "Promoters to put in Rs 1,264 crore through warrants; capital adequacy to rise to about 30%",
-     "lead": "IIFL Finance to raise Rs 6,414 Cr led by Blackstone Funds managed by Blackstone Private Equity will invest Rs 5,000 crore ($535 million) in compulsorily convertible preference shares. Team YS 17549 Stories Tuesday November 10, 2026 , 3 min Read IIFL Finance has approved a Rs 6,414 crore ($686 million) primary capital raise, with Blackstone leading the round. The board cleared the preferential issue at a meeting on Tuesday. The deal is ...",
-     "image": "https://images.yourstory.com/cs/wordpress/2018/03/yourstory-shopatplaces-funding.jpg",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $675M: round or valuation)"
-     ],
-     "tags": [
-      "Funding"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 6,
+   "new_today": 8,
    "items": [
     {
      "desk": "Immigration",
@@ -445,9 +446,9 @@
    "date": "2026-11-13",
    "source": "Moneycontrol.com",
    "label": "Gold & Silver",
-   "snippet": "",
-   "lead": "",
-   "image": null,
+   "snippet": "Gold hovered near $3,880 an ounce after hitting a 13-month low, as stubborn US inflation fuelled Fed rate hike bets and rising Treasury yields pressured bullion.",
+   "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
+   "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261113012637_474892754-scaled.jpg",
    "why": [
     "Interest-rate decision",
     "Precious metals",
@@ -533,6 +534,29 @@
    "must_read": false
   },
   {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 92,
+   "title": "SoftBank Offloads Meesho Shares Worth ₹1,855 Cr",
+   "url": "https://inc42.com/buzz/softbank-offloads-meesho-shares-worth-%e2%82%b91855-cr/",
+   "date": "2026-11-14",
+   "source": "Inc42",
+   "label": "India · Fintech",
+   "snippet": "Japanese tech investor SoftBank yesterday offloaded 7.6 Cr shares of listed ecommerce giant Meesho in a block deal worth ₹1,885.2 Cr.",
+   "lead": "As per NSE data, the investment firm, via its affiliate SVF II Meerkat (DE) LLC, offloaded the stake at ₹246.75 per share to rake in the amount The bulk deal comes as the Japanese investor looks to book profits amid a sharp uptick in Meesho’s share prices in recent months and improving financials The shares that flooded the market were lapped up by Societe Generale, Morgan Stanley, Aditya Birla Sun Life Mutual Fund, Motilal Oswal ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/meesho-bulk-deal-social-.png",
+   "why": [
+    "IPO & Listing",
+    "Large deal (about $195M)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Fintech"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
    "desk": "Advisory",
    "score": 11,
    "priority": 92,
@@ -552,7 +576,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -575,7 +599,7 @@
     "Acquisition",
     "Media, Gaming & Creators"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -599,7 +623,7 @@
     "Funding",
     "Health & Wellness"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -623,7 +647,7 @@
     "Work visa",
     "United Kingdom"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -646,7 +670,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -669,7 +693,7 @@
    "tags": [
     "Financials"
    ],
-   "rank": 12,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -693,7 +717,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 13,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -715,7 +739,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -738,7 +762,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 15,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -761,29 +785,6 @@
    ],
    "tags": [
     "Markets & Regulation"
-   ],
-   "rank": 16,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 9,
-   "priority": 69,
-   "title": "Razorpay, Sembcorp Green Infra get Sebi nod to float IPOs",
-   "url": "https://yourstory.com/2026/11/razorpay-sembcorp-green-infra-get-sebi-nod-float-ipos",
-   "date": "2026-11-13",
-   "source": "YourStory",
-   "label": "India · Policy & Regulation",
-   "snippet": "Razorpay filed draft documents with Sebi via the confidential route in June for an IPO.",
-   "lead": "Razorpay, Sembcorp Green Infra get Sebi nod to float IPOs Razorpay filed draft documents with Sebi via the confidential route in June for an IPO. Press Trust of India 11278 Stories Friday November 13, 2026 , 3 min Read Fintech firm Razorpay Software Ltd and Sembcorp Green Infra, a renewable energy independent power producer, have secured Sebi's approval to launch initial public offerings (IPO), an update with the markets regulator ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imageq2wc-1759136869668.jpg",
-   "why": [
-    "IPO & Listing",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Policy & Regulation"
    ],
    "rank": 17,
    "must_read": false
@@ -867,7 +868,7 @@
    "lead": "New Delhi: The Editors Guild of India (EGi) has condemned the last-minute cancellation of the Indian visa of Norwegian journalist Helle Lyng, who was scheduled to travel to Hyderabad to speak at the Bharat Summit. The Guild has sought an explanation from the government and demanded that the cancellation be reversed. Lyng was to attend the Telangana government-organised Bharat Summit from November 12 to 14, where she was scheduled to ...",
    "image": "https://madhyamamonline.com/h-upload/2026/11/13/2947531-photofunia-1794493698.jpg",
    "why": [
-    "Major story (11 headlines that day)",
+    "Major story (12 headlines that day)",
     "Mentions India or Indians"
    ],
    "tags": [
@@ -885,9 +886,9 @@
    "date": "2026-11-13",
    "source": "openPR.com",
    "label": "Germany",
-   "snippet": "",
-   "lead": "",
-   "image": null,
+   "snippet": "Germany has become a popular destination for skilled workers wishing to obtain international job experience and long term career opportunities However finding a job from India without an existing employment offer can be really difficult To address this Germany introduced ...",
+   "lead": "Apply for a Germany Work Visa, germany opportunity card points calculator, best Germany Immigration Consultants in India 10-12-2026 | Politics, Law & Society Nationwide Immigration Services What is the Average Salary in the UK? Understanding where your income stands in today's economy is crucial for making smart financial and career decisions. Whether you are looking for a rise in pay, switching careers, work abroad from India or ...",
+   "image": "https://cdn.open-pr.com/L/b/Lb13345789_g.jpg",
    "why": [
     "Affects work visas",
     "Announces a change"
