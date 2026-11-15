@@ -1,6 +1,6 @@
 {
- "edition": "2026-11-15",
- "built": "2026-11-15 22:55 IST",
+ "edition": "2026-11-16",
+ "built": "2026-11-16 02:46 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -28,7 +28,7 @@
    "dp": 2,
    "value": 94.23,
    "change_pct": 0.21,
-   "asof": "15 Nov 22:47 IST"
+   "asof": "15 Nov 23:54 IST"
   },
   {
    "name": "Brent (USD)",
@@ -54,27 +54,27 @@
  ],
  "features": {
   "startup_file": {
-   "company": "Innov8 Workspaces",
-   "tagline": "Premium flexible office space operator",
-   "what": "Runs premium flexible and managed workspace centres across India. It had 58 operating centres at the end of FY26 and 72 by July 2026.",
+   "company": "Kissht",
+   "tagline": "Listed digital lender (NBFC)",
+   "what": "Lending-tech platform founded in 2015 by Ranvir Singh and Krishnan Vishwanathan. Offers digital personal and business loans up to Rs 5 lakh, health-related insurance products and secured loans against property. Got regulatory approval in July 2026 to distribute mutual funds through subsidiary Invincible Minds.",
    "how": [
-    "Rent from customers who use its centres: Rs 173.6 Cr of Rs 201.3 Cr operating revenue in FY26, about 86%.",
-    "Other operational income (ancillary services): Rs 27.6 Cr, up from Rs 5.4 Cr."
+    "The article does not give a revenue split.",
+    "Inferred, not from the article: as an NBFC, its core income is interest and fees on the loans it makes; insurance and mutual fund distribution would add commissions."
    ],
-   "watch": "Profit quality: other income was Rs 38.9 Cr, including a Rs 36.7 Cr gain on terminating lease contracts. Without that gain the profit jump would look much smaller. The article gives growth drivers as more centres, higher occupancy and better pricing.",
-   "sector": "Real Estate & Workspaces",
+   "watch": "The company did not say how it will use the money. Fresh capital for a lender usually funds loan growth, but that is inference.",
+   "sector": "Fintech",
    "region": "India",
-   "url": "https://inc42.com/buzz/innov8s-fy26-profit-zooms-multifold-to-%e2%82%b913-7-cr-revenue-crosses-%e2%82%b9200-cr-mark/"
+   "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/"
   },
   "country": {
-   "id": "korea",
-   "name": "South Korea",
-   "trend": "Stable (not verified in detail)",
-   "pr": "F-5 permanent residence after 5 consecutive years on qualifying work or resident visas, or after 3+ years on F-2-7. Requires KIIP level 5 or a score of 60+ on the PR comprehensive evaluation.",
-   "citizenship": "Naturalisation after at least 3 years on F-5 (so 8 years or more overall); renunciation of original citizenship within 1 year is generally required.",
-   "pro": "Clear points-based PR route.",
-   "con": "Korean is single-country and hard.",
-   "watch": "Points-table changes"
+   "id": "germany",
+   "name": "Germany",
+   "trend": "Stable law, rising political risk",
+   "pr": "Settlement permit after 27 months on a Blue Card with A1 German, or 21 months with B1 German.",
+   "citizenship": "5 years of lawful residence, roughly B1 German, financial independence. The 3-year fast track was abolished on 30 October 2025. Dual citizenship is permitted by Germany.",
+   "pro": "Fastest realistic settlement on this list for a Blue Card holder: 21 to 27 months.",
+   "con": "Political risk: the AfD won 44% in Saxony-Anhalt (early September 2026) and polled around 37% ahead of the 20 September votes in Mecklenburg-Vorpommern and Berlin. Its manifesto calls for a points system with German-language criteria and quotas for non-EU skilled workers, and mass deportations.",
+   "watch": "Outcome of the 20 September regional elections"
   }
  },
  "desks": {
@@ -99,25 +99,6 @@
      ],
      "tags": [
       "Agriculture & Food"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 6,
-     "priority": 35,
-     "title": "Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335785",
-     "date": "2026-11-13",
-     "source": "PIB",
-     "label": "Banking & Rates",
-     "snippet": "The development of a systematic framework to measure the contribution of knowledge and knowledge pro",
-     "lead": "Ministry of Statistics & Programme Implementation Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems Posted On: 13 NOV 2026 2:40PM by PIB Delhi The development of a systematic framework to measure the contribution of knowledge and knowledge products to the Indian economy assumes significance in the context of the growing role of knowledge in driving economic activity, productivity and value ...",
-     "image": null,
-     "why": [
-      "Rates and liquidity"
-     ],
-     "tags": [
-      "Banking & Rates"
      ]
     },
     {
@@ -158,58 +139,36 @@
      "tags": [
       "Banking & Rates"
      ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 29,
+     "title": "Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335785",
+     "date": "2026-11-13",
+     "source": "PIB",
+     "label": "Banking & Rates",
+     "snippet": "The development of a systematic framework to measure the contribution of knowledge and knowledge pro",
+     "lead": "Ministry of Statistics & Programme Implementation Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems Posted On: 13 NOV 2026 2:40PM by PIB Delhi The development of a systematic framework to measure the contribution of knowledge and knowledge products to the Indian economy assumes significance in the context of the growing role of knowledge in driving economic activity, productivity and value ...",
+     "image": null,
+     "why": [
+      "Rates and liquidity"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
     }
    ]
   },
   "Startups": {
    "total": 1412,
-   "new_today": 3,
+   "new_today": 0,
    "items": [
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 75,
-     "title": "From Greenjoules To mistEO — Indian Startups Raised Over $25 Mn This Week",
-     "url": "https://inc42.com/buzz/from-greenjoules-to-misteo-indian-startups-raised-over-25-mn-this-week/",
-     "date": "2026-11-14",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "This week, just nine startups raised a combined $25.2 Mn, marking a steep 90.1% decline from the $255 Mn raised in the previous week.",
-     "lead": "Indian startups cumulatively raised a mere $25.2 Mn between November 9 and November 13, down 90.1% from $255 Mn raised in the preceding week Clean tech led the funding charts this week, with three deals collectively bringing in $16.2 Mn. Meanwhile, early-stage startups ventures collectively bagged $2.1 Mn this week The number of deals also fell 55% to just nine this week compared to 20 in the previous week, pointing to a marked ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/WhatsApp-Image-2026-11-13-at-23.47.28.jpeg",
-     "why": [
-      "Funding",
-      "Sizeable deal (about $25M)"
-     ],
-     "tags": [
-      "Funding"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 75,
-     "title": "Wakefit Q2: Profit Remains Flat YoY At ₹16 Cr, Revenue Crosses ₹450 Cr",
-     "url": "https://inc42.com/buzz/wakefit-q2-profit-remains-flat-yoy-at-%e2%82%b916-cr-revenue-crosses-%e2%82%b9450-cr/",
-     "date": "2026-11-13",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "Listed mattress brand Wakefit reported a net profit of ₹15.9 Cr in Q1 FY27, almost flat from nearly ₹16 Cr in the year-ago quarter.",
-     "lead": "Operating revenue rose nearly 20% to a record ₹452 Cr in the quarter under review as against ₹376.9 Cr in Q2 FY26 The company attributed the sequential decline in profitability to rising commodity prices, geopolitical disruptions and the “challenging” operating environment Meanwhile, total expenses for the quarter under review also shot up 19% to ₹441.4 Cr compared to ₹370.5 Cr in Q2 FY26",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Wakefit-social.png",
-     "why": [
-      "Financials",
-      "Sizeable deal (about $47M)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Financials"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 75,
+     "priority": 82,
      "title": "UK AI startup Nscale weighs delaying $35bn IPO amid tech sell-off",
      "url": "https://sifted.eu/articles/nscale-ipo-nvidia-delay/",
      "date": "2026-11-11",
@@ -230,7 +189,7 @@
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 75,
+     "priority": 82,
      "title": "SoftBank Q2: Lenskart & Meesho Drive Valuation Gains, Ola Electric Books Losses",
      "url": "https://inc42.com/buzz/softbank-q2-lenskart-meesho-drive-valuation-gains-ola-electric-books-losses/",
      "date": "2026-11-11",
@@ -248,17 +207,57 @@
       "Funding",
       "Fintech"
      ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 82,
+     "title": "IIFL Finance to raise Rs 6,414 Cr led by Blackstone",
+     "url": "https://yourstory.com/2026/11/iifl-finance-to-raise-rs-6414-crore-with-blackstone-leading-rs-5000-crore-primary-infusion",
+     "date": "2026-11-10",
+     "source": "YourStory",
+     "label": "India · Other",
+     "snippet": "Promoters to put in Rs 1,264 crore through warrants; capital adequacy to rise to about 30%",
+     "lead": "IIFL Finance to raise Rs 6,414 Cr led by Blackstone Funds managed by Blackstone Private Equity will invest Rs 5,000 crore ($535 million) in compulsorily convertible preference shares. Team YS 17549 Stories Tuesday November 10, 2026 , 3 min Read IIFL Finance has approved a Rs 6,414 crore ($686 million) primary capital raise, with Blackstone leading the round. The board cleared the preferential issue at a meeting on Tuesday. The deal is ...",
+     "image": "https://images.yourstory.com/cs/wordpress/2018/03/yourstory-shopatplaces-funding.jpg",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $675M: round or valuation)"
+     ],
+     "tags": [
+      "Funding"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 8,
+     "priority": 73,
+     "title": "From Greenjoules To mistEO — Indian Startups Raised Over $25 Mn This Week",
+     "url": "https://inc42.com/buzz/from-greenjoules-to-misteo-indian-startups-raised-over-25-mn-this-week/",
+     "date": "2026-11-14",
+     "source": "Inc42",
+     "label": "India · Other",
+     "snippet": "This week, just nine startups raised a combined $25.2 Mn, marking a steep 90.1% decline from the $255 Mn raised in the previous week.",
+     "lead": "Indian startups cumulatively raised a mere $25.2 Mn between November 9 and November 13, down 90.1% from $255 Mn raised in the preceding week Clean tech led the funding charts this week, with three deals collectively bringing in $16.2 Mn. Meanwhile, early-stage startups ventures collectively bagged $2.1 Mn this week The number of deals also fell 55% to just nine this week compared to 20 in the previous week, pointing to a marked ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/WhatsApp-Image-2026-11-13-at-23.47.28.jpeg",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $25M)"
+     ],
+     "tags": [
+      "Funding"
+     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 18,
+   "new_today": 1,
    "items": [
     {
      "desk": "Immigration",
-     "score": 7,
-     "priority": 64,
+     "score": 6,
+     "priority": 60,
      "title": "India offers no reason for Norwegian journalist's visa ban",
      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeUhyUnk3eG5yT3lNMWpwbGN4cUFPVkZIRktmNmlBNmVFbS0xWnlJcnI5czQ1LTNUZkRHYWRxSUlua01TUmxmdDg3Y25TNDBZNVNMdmlHQWEzQUllS0ZoSG9rWmo4bUJjakU5Tnl5aHRJZ3pCZzlnVF8wOFlzNXNIbmk0WkVvMnlHUHJPaDZkQThXaEp4bjBsZQ?oc=5",
      "date": "2026-11-14",
@@ -278,7 +277,7 @@
     {
      "desk": "Immigration",
      "score": 6,
-     "priority": 55,
+     "priority": 60,
      "title": "Immigration pushes Spain's population towards 50 million threshold",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRFRqZ1lZbGItalBZSXlFMmw0dTNGenVnY1Z1TS1ycnFqMkw4QkZreEZyNi1WQ09hd1BTMnNNSm1NNFVqdlRBeUFwa3NpODFRZnRlRElSUHcwajJ0emhqZmRudE9sSmh3Yl9NbXUxcWVIS2pxRmRuY0dzMjNoSHZ5VzR5cmt4Z3ptbnVzc3Q5T3RyTG82T0FfXzFRMmhKTzg?oc=5",
      "date": "2026-11-12",
@@ -295,31 +294,12 @@
       "Salary threshold",
       "Spain"
      ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 45,
-     "title": "Why Single Out Indian Immigrants? New Zealand Leader's 'Go Back To India' Rant Faces Fierce Backlash",
-     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQY01vYWRQLUFCUnVGcHdKZVVGTFkwY0dTekI5bmhoTmJEb3hXTmFBY25LLXFpVFB1U2VYNGlKUmxnS2pmUDJzWGFlVks1bWpzYWI1SFlRd3Q4U3BlcHJRTUM5b0VNaThKenVQcTRiQlhIdGlLaE55T19uU1VVYjdVc3hvMThzQnNHMmZ4cXVEcnJJa3BtaFMzNU1nUmwyMUtXMko1eG4xbDlJa2YzYjV0eXZUd2VpbVNlbmF5cmJFb05UbTd0cFFDY3NLMlpiTGZwRUdzaGpkTHdOSDhKRnlaRkFTa1RzM20xV0xoT2Q3VHdaeWwtZjNRMFJsb3VpLTd4XzZpVNIBigJBVV95cUxPVGpBNENUekV6ZWk2MENVMWpLWlQ0VVVsdDZsaDVSY3B1QnkwTVoySVltVkJ1ek1EMlhiMm5LZjJvemkzQ2xRLU5aZTJRZkN4dk4zeGx5M2t5cW9RNnBKTlo3NnAyVUt2ZVk5ZTFoNnF6T1B5RUgzUHl3d05KeFNNMVhHTkI5dndVbkk1VUl5c2UyMXY2alVTaTlUbGNvZHJmejA1Zm5vMXFlSWdBWE45UmtfSjhZNXdmOXppbm16M0NJeGpvQTlMMVZxMUVmd01GVVYybGxsYko3UGZjbWxkUU1IYTViRzEtdklLLTNpekF2blgwa0llek1Wa1MxVzJGWV9aRHp4VVpfQQ?oc=5",
-     "date": "2026-11-13",
-     "source": "The Times of India",
-     "label": "New Zealand",
-     "snippet": "Why are Indian immigrants in New Zealand increasingly finding themselves in the firing line?From the controversial “butter chicken tsunami” remark to a politician telling Indians to go back where they came from, anti-Indian rhetoric is becoming part of New Zealand's immigration debate. But do the numbers support these claims? We look at I",
-     "lead": "Sonia Gandhi's autobiography, Belonging: A Journey of Love, has triggered a fresh political confrontation between the BJP and the Congress. The book revisits several contentious chapters of India's political history, including the 1984 anti-Sikh violence, the Babri Masjid demolition, the 1975 Emergency and the 2002 Gujarat riots. It also makes striking revelations about former Prime Minister Pranab Mukherjee's reported ambitions to ...",
-     "image": "https://static.toiimg.com/thumb/msid-135801609,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-     "why": [
-      "Mentions India or Indians"
-     ],
-     "tags": [
-      "New Zealand"
-     ]
     }
    ]
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 0,
+   "new_today": 3,
    "items": [
     {
      "desk": "Advisory",
@@ -340,27 +320,6 @@
      ],
      "tags": [
       "Debt & Bonds"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
-     "title": "Arihant Capital Markets gets SEBI nod to launch mutual fund biz",
-     "url": "https://www.thehindubusinessline.com/markets/arihant-capital-markets-gets-sebi-nod-to-launch-mutual-fund-biz/article71697257.ece",
-     "date": "2026-11-13",
-     "source": "BusinessLine",
-     "label": "Mutual Funds",
-     "snippet": "Arihant Capital gets SEBI in-principle approval to launch its own mutual fund, expanding accessible investment solutions nationwide.",
-     "lead": "' blCenterIconDiv.innerHTML = spanSvg blLoaderDiv.appendChild(blCenterLoadDiv) blLoaderDiv.appendChild(blCenterIconDiv) divInner.appendChild(blLoaderDiv) div.appendChild(divInner) var bodyIntravel = setInterval(() => { if(window.document.body) { clearInterval(bodyIntravel) window.document.body.insertBefore(div, window.document.body.firstChild) } }, 100) function addStyle(styles) { var css = document.createElement('style'); css.type = ...",
-     "image": "https://bl-i.thgim.com/public/incoming/2fa6cu/article71697480.ece/alternates/LANDSCAPE_1200/2026-11-04T134653Z_1236041378_RC2LJDAE99D5_RTRMADP_3_INDIA-SEBI-FUND-RAISING.JPG",
-     "why": [
-      "Regulator: SEBI or RBI",
-      "New product or fund",
-      "Also covered by 2 other outlet(s)"
-     ],
-     "tags": [
-      "Mutual Funds"
      ]
     },
     {
@@ -388,20 +347,40 @@
      "desk": "Advisory",
      "score": 8,
      "priority": 67,
-     "title": "Fed Rate Hike: Daly Signals a December Move as Bitcoin Faces Pressure",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX0EzRUJxdjVvYVRzLXlrOWxxZDRLU2JwVTVtNG85TjVCRmx0bG5KaEprUVBEUUJ6UGduWmpOQUthTTYyT0ZReEJ6a0ROamZiVXBOb2NRMnBXb2Z6MFR3TDJtWkhteUNQN0lnaGFGUEp3T1pDazhDWU50Qk1WU1BaRTFZMTFxd0lGaW1wdg?oc=5",
-     "date": "2026-11-14",
-     "source": "Coin Gabbar",
+     "title": "Fed Rate Hikes Threaten U.S. Farm Margins as Debt Hits $605 Billion",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzeVIwRHdsY045UWNkZThtVkhWb2QwWVhVSlVFaUM1TTRCV1dNRVh5ZDJEV1JqZnNGYlBlam5sS2RhVkJ1dWUwTVhLRmNfdEpUeDVpVldtcDZibUJ5eHdOUTVOa0U3eTBpSFlQaGpVSVZoXzZMUGtjelBHQQ?oc=5",
+     "date": "2026-11-15",
+     "source": "AgroLatam",
      "label": "Global",
-     "snippet": "Fed Rate Hike signals grow as Mary Daly leans toward a December increase. See the current Fed rate, decision date in IST and possible Bitcoin impact.",
-     "lead": "Fed Rate Hike: Daly Signals a December Move as Bitcoin Faces Pressure Bablu Singh Nirwan Published: November 14, 2026 Last Updated: 14 Nov 2026 Share: TWITTER Linkedin FACEBOOK Fed Rate Hike: What Daly’s December Warning Could Mean for Bitcoin Now A top central banker says higher borrowing costs are probably coming. This Fed Rate Hike update explains what she said, where the policy rate stands, what other officials are saying, when the ...",
-     "image": "https://d3iuzwoiyg9qa8.cloudfront.net/webadmin/storage/public/crypto-news/November2026/fed-rate-hike-daly-december-2026-bitcoin-market-impact-6944.webp",
+     "snippet": "The Fed signals more rate hikes as U.S. farm debt nears $605 billion, raising concerns over credit costs, shrinking margins and 2027 planting decisions.",
+     "lead": "Marcus Ellington Marcus Ellington is a U.S.-based journalist covering agricultural markets, global trade, and agricultural policy, with an international perspective on their impact across the global agri-food system. Fuente: AgroLatam.com Autor: AgroLatam.com Facebook 0 Twitter 0 e-Mail 0 WhatsApp 0 M�s Federal Reserve Bank of Boston President Susan Collins supported gradual interest rate increases on November 14, 2026 , citing ...",
+     "image": "https://www.agrolatam.com/files/image/84/84213/6af8cb0036d40_600_315!.jpg?s=0e724eae73a6fa1f6ecf8b866296a593&d=1794690032",
      "why": [
       "Interest-rate decision",
       "Global macro driver"
      ],
      "tags": [
       "Global"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 8,
+     "priority": 67,
+     "title": "SEBI–NISM 2026: New Certification Pathways Open Doors for Mutual Fund and PMS Distributors Aged 50 and Above",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORmZESTVmS0o1ODVCRUEzTkItbWVuOGNmOVJDaDNwbzB3MTl3MkY1cHMwSG9zNDNZZ1NqSDVxN2tQWXROanVDWmxDS0E3RUhMaU9hU1ZsYXltdHNKU0hvSzE4TE95a1ppVmlkYzd1THFQV21QUVBKVGdmVzdYdkxxUjZTVmFKQ3hOcnpVYkZYbnoxdzEtUThYRGNkVjUyNWRycVpqVXpZNm9JTHNrS3R0WWwxTy10Wlg4dnhNLU42TkdtQldtUUdheEJ2YkkxNUpiMXZ2TTY3OG93MG5Hbmd4YjVn0gHnAUFVX3lxTFBuOUdkWXRzZWluZzJuQmdsbnVNdWR0UkJULUUyNTNhOGppUWU3ZV9UdHZsc0U0R1RsS1N5QVJoNVpneHNtSGFvQ0c3MXI0aUlOMHJSVFJOZXpRajJSNFV5SXgyS0FnazFsT3hLSlBQdXJVRzZmNUJUR2wtOWxERXZLYkNoWnBUMDJUX1ZfZF9wb1dCZVNlSHo3bzRYZmFIcVpXY0V4d09MY3BpVFN5aU8wWEcxUmlhWjNiNzJTRXBacXZDVmFLX1ljZkRYdXJSM3N0dWZQY1VHQXlGbERVS2FEXzhiUWhDTQ?oc=5",
+     "date": "2026-11-14",
+     "source": "NE India Broadcast",
+     "label": "PMS",
+     "snippet": "India’s securities market is witnessing an important development for experienced professionals in the mutual fund and Portfolio Management Services (PMS) distribution industry. The SEBI–NISM…",
+     "lead": "India’s securities market is witnessing an important development for experienced professionals in the mutual fund and Portfolio Management Services (PMS) distribution industry. The SEBI–NISM certification framework provides an alternative route for eligible individuals aged 50 years and above, allowing them to obtain the relevant certification through Continuing Professional Education (CPE), instead of necessarily appearing for the ...",
+     "image": "https://neindiabroadcast.com/wp-content/uploads/2026/11/TCSQYaTK.jpg",
+     "why": [
+      "PMS news",
+      "Regulator: SEBI or RBI"
+     ],
+     "tags": [
+      "PMS"
      ]
     }
    ]
@@ -410,7 +389,7 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 100,
    "title": "AI agent startup LangChain hits $3B valuation",
    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
@@ -434,7 +413,7 @@
   },
   {
    "desk": "Immigration",
-   "score": 11,
+   "score": 10,
    "priority": 100,
    "title": "Canada announces plan to provide permanent residence to 100,000 workers and families | World News",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdXNDS1VNMWx4T3BzOExhbjBMRFhBMnU3ZEpSU0daM1lHTHRoNlk4OFZ0TnFRc2FlX3NnOG5yZmc2cWh5ZGkwVk1FUFRkQm5IcnZpVGlYZVl3c1J6WlliM2VvYVZ4VkhOaldhRERVQXZYQmh2bHc2aUNXOGcya2h1T1RuU3c3WjZTX2xqQzZCUVRrNlhGOHlNNGNrcUNBaGI0YnpnSEladktzV2RnSDh5bzJIRjUtZjFXcHhhbm8zRTZjUUhoOTVmdUhTVmZhUDdWbkhVRzd0VS1rc0M1Q2Y2UNIB5gFBVV95cUxOTmhIeTFnS0tQY0FRMXhSdWwzTDN4Wl92bjlUSWdwYlRYaW5tYXVfOHAxX0dOOVRtNGlFdW5GQmprY0IwU3AzNEtZSEpLWkEwLWZ0OW1MUTgteU40UHBXYWwwcEEtOVVqZWRROF9fbGlZY25KcEhQeENMbk1mZzZfZ0QzdEM4ejR0REtneXllMVRUUTRBY0F6eWxRemZ1QW1qXzRMZTFpYjc5QWRldzBlSjM2djRjVFgxMjZPSnltZkx3dGdxdGhzaXRNQWJua0p1ZXQzamNBUy1sY1JhdlRVN25JeWFHZw?oc=5",
@@ -505,99 +484,6 @@
    "must_read": true
   },
   {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "Urban Company shareholders approve Rs 2,500 crore fundraise plan",
-   "url": "https://economictimes.indiatimes.com/tech/technology/urban-company-shareholders-approve-rs-2500-crore-fundraise-plan/articleshow/135859583.cms",
-   "date": "2026-11-15",
-   "source": "ET Startups",
-   "label": "India · Fintech",
-   "snippet": "Urban Company has appointed Morgan Stanley and Kotak Mahindra Capital as bankers to manage the QIP and begun roadshows for the fundraise. A significant portion of the proceeds is expected to be deployed towards InstaHelp, its instant househelp business, which has been incurring heavy losses as the company invests in expanding the segment.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-15676,resizemode-75,msid-135859583/tech/technology/urban-company-shareholders-approve-rs-2500-crore-fundraise-plan.jpg",
-   "why": [
-    "Funding",
-    "Large deal (about $263M)"
-   ],
-   "tags": [
-    "Funding",
-    "Fintech"
-   ],
-   "rank": 5,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 92,
-   "title": "SoftBank Offloads Meesho Shares Worth ₹1,855 Cr",
-   "url": "https://inc42.com/buzz/softbank-offloads-meesho-shares-worth-%e2%82%b91855-cr/",
-   "date": "2026-11-14",
-   "source": "Inc42",
-   "label": "India · Fintech",
-   "snippet": "Japanese tech investor SoftBank yesterday offloaded 7.6 Cr shares of listed ecommerce giant Meesho in a block deal worth ₹1,885.2 Cr.",
-   "lead": "As per NSE data, the investment firm, via its affiliate SVF II Meerkat (DE) LLC, offloaded the stake at ₹246.75 per share to rake in the amount The bulk deal comes as the Japanese investor looks to book profits amid a sharp uptick in Meesho’s share prices in recent months and improving financials The shares that flooded the market were lapped up by Societe Generale, Morgan Stanley, Aditya Birla Sun Life Mutual Fund, Motilal Oswal ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/meesho-bulk-deal-social-.png",
-   "why": [
-    "IPO & Listing",
-    "Large deal (about $195M)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Fintech"
-   ],
-   "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "Sensex falls, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRVVzOWRUTExHTmJOUFhzX0tmWDdhWm8ycVpaZ0FrR1FIMElpOHhua2gxWHdJWnpDRHRhVWowY0lUdk1BakVGMVlBZHpqR3BtamRiS1FXWUptWW5sdVp1MGFWQzFFanBhTUJVdWxicVRQN1ZZV3hKa2VLNHNvTExKMklwaTN3TWVjdWRHQ3hjRzVUSEhvSzk2UjI5LVRHX0JFOEs3d1Ewb2MwOWt2UHIw?oc=5",
-   "date": "2026-11-14",
-   "source": "DD News",
-   "label": "Regulatory",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Global macro driver",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "Gold near 13-month low as Fed rate hike fears grow, oil surges towards $96",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN3FGdFFJdno4THRVX3Y3djF1bFNMSXlrZkNPZ3NKZEQtaThVNTZVQ0ZaYk9ZTVZTMnRYdzdwWW9IQlFIT3ExZk1IdGg1VFo0X3lRTWlmdHA2ajU5RTVmTmRZbXMzb25hODRuUGFvaUVkSWIwYnJiY0FxS1NIZlBvS1JVZVRDUFVESmtQVHd0b0djdHVGM290bEViSzdBWVBsOFlkMTdVdGxoRXZMV1h4QkE0SEZfNU5TNjZqanM3NlY3TG9XMWctQ9IBzgFBVV95cUxNZVN6eEx3NWFmRGc1ZmlJRnFPTzNjdWlTUkZiSkczWUtlaW5UWGJrQ3hRNml1SjlzSng5NHpoTE10N3A1aFgtUmctQ2VIN1JnTjRtRzdJSGpaYUtWZmNxMUxzaVlGVmh1emdRdFVFYXJWUWZWYzZCMFpxNlN0a3lrU09FcWxUYXZjMUY2czZBb3VYVmY1c2Fhcl8zYkdZTGNfclJtVnpZSlVjRUJXTjBmcFlPVC1WY3lYMEoyRDNqUmpLM2tJTjFpZHhGbHZxUQ?oc=5",
-   "date": "2026-11-13",
-   "source": "Moneycontrol.com",
-   "label": "Gold & Silver",
-   "snippet": "Gold hovered near $3,880 an ounce after hitting a 13-month low, as stubborn US inflation fuelled Fed rate hike bets and rising Treasury yields pressured bullion.",
-   "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
-   "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261113012637_474892754-scaled.jpg",
-   "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Gold & Silver"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
    "desk": "Advisory",
    "score": 11,
    "priority": 92,
@@ -618,36 +504,59 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 9,
-   "must_read": false
+   "rank": 5,
+   "must_read": true
   },
   {
    "desk": "Startups",
    "score": 10,
-   "priority": 83,
-   "title": "Bodhi Tree Systems acquires majority stake in Adyar Ananda Bhavan for $180M",
-   "url": "https://yourstory.com/2026/11/bodhi-tree-systems-acquires-majority-stake-in-adyar-ananda-bhavan",
-   "date": "2026-11-13",
-   "source": "YourStory",
-   "label": "India · Media, Gaming & Creators",
-   "snippet": "Bodhi Tree Systems is a strategic investment and operating platform founded in 2021 by James Murdoch, son of media mogul Rupert Murdoch, and Uday Shankar, former Star India and Disney executive.",
-   "lead": "Bodhi Tree Systems acquires majority stake in Adyar Ananda Bhavan for $180M Bodhi Tree Systems is a strategic investment and operating platform founded in 2021 by James Murdoch, son of media mogul Rupert Murdoch, and Uday Shankar, former Star India and Disney executive. Team YS 17571 Stories Friday November 13, 2026 , 2 min Read Chennai-headquartered restaurant chain Adyar Ananda Bhavan (A2B), which has a presence in India and ...",
-   "image": "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Adyar-1794543600245.png",
+   "priority": 91,
+   "title": "Urban Company shareholders approve Rs 2,500 crore fundraise plan",
+   "url": "https://economictimes.indiatimes.com/tech/technology/urban-company-shareholders-approve-rs-2500-crore-fundraise-plan/articleshow/135859583.cms",
+   "date": "2026-11-15",
+   "source": "ET Startups",
+   "label": "India · Fintech",
+   "snippet": "Urban Company has appointed Morgan Stanley and Kotak Mahindra Capital as bankers to manage the QIP and begun roadshows for the fundraise. A significant portion of the proceeds is expected to be deployed towards InstaHelp, its instant househelp business, which has been incurring heavy losses as the company invests in expanding the segment.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-15676,resizemode-75,msid-135859583/tech/technology/urban-company-shareholders-approve-rs-2500-crore-fundraise-plan.jpg",
    "why": [
-    "Acquisition",
-    "Large deal (about $180M)"
+    "Funding",
+    "Large deal (about $263M)"
    ],
    "tags": [
-    "Acquisition",
-    "Media, Gaming & Creators"
+    "Funding",
+    "Fintech"
    ],
-   "rank": 10,
+   "rank": 6,
    "must_read": false
   },
   {
    "desk": "Startups",
    "score": 10,
-   "priority": 83,
+   "priority": 91,
+   "title": "SoftBank Offloads Meesho Shares Worth ₹1,855 Cr",
+   "url": "https://inc42.com/buzz/softbank-offloads-meesho-shares-worth-%e2%82%b91855-cr/",
+   "date": "2026-11-14",
+   "source": "Inc42",
+   "label": "India · Fintech",
+   "snippet": "Japanese tech investor SoftBank yesterday offloaded 7.6 Cr shares of listed ecommerce giant Meesho in a block deal worth ₹1,885.2 Cr.",
+   "lead": "As per NSE data, the investment firm, via its affiliate SVF II Meerkat (DE) LLC, offloaded the stake at ₹246.75 per share to rake in the amount The bulk deal comes as the Japanese investor looks to book profits amid a sharp uptick in Meesho’s share prices in recent months and improving financials The shares that flooded the market were lapped up by Societe Generale, Morgan Stanley, Aditya Birla Sun Life Mutual Fund, Motilal Oswal ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/meesho-bulk-deal-social-.png",
+   "why": [
+    "IPO & Listing",
+    "Large deal (about $195M)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Fintech"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
    "title": "Exclusive: Sofina To Lead PlatinumRx’s $32 Mn Funding At $200 Mn Valuation",
    "url": "https://inc42.com/buzz/sofina-to-lead-platinumrxs-32-mn-funding-at-200-mn-valuation/",
    "date": "2026-11-12",
@@ -664,6 +573,76 @@
    "tags": [
     "Funding",
     "Health & Wellness"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+   "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+   "date": "2026-11-10",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+   "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Nominal, a four-year-old, Austin-based startup that offers an AI platform purpose-built for engineering and testing complex hardware, like aircraft, nuclear reactors, and smart factories, has raised another big round of financing that triples its valuation. On Monday, it announced a $240 million Series C at a $3 billion valuation ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/09/Cameron-McCord.jpg?resize=1200,1200",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $3,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 83,
+   "title": "As inflation stays elevated, RBI's Dec repo rate increase appears certain",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTGxzbkRiZXplSlZSVHpWc1A5Wnc1X0J3NHBJc2FJejdhcHVpZFE3WXo4MnVtSF9VMFdtaEpDSFFLeUR5RGZkNTV1NGhLWXAxOGxUNlRnSmFNNnpBb1dPT1diWU8yU3UzeUlHcGtBWFpYRHMzY0t5TEp3ZTVVSjhZcS1Yd0dHT3FMOW54SnhJbDRKOW1fT2NrVVBrcjFZblNKRUhyZTM3TDR3enQwQnNVZS1pV1lVVmRZUExhSXpMLUw5STVNQ295dTUzaVJQbEE4c0h3RVVacnRROVUx0gHiAUFVX3lxTE01bTJ2d2gwYm1RN0ZTeE5iTHVlSG5pXzBLUDBKY3dBZkdHa1ozSnF1V3FUT1FHR2tweDU3Ymk1NkZyZ3BJV0w3NF9HRjZEV3A4bjEzX0JlQk5wTjVucEdLV2dnQmsxeTU2dzVSQlcwakpYZV83aUFqc1Q4VzlIMjFPQmprNzFvVzA0dkRVYkstUHUtR1c5ODNzZDRXZk5RaG4xQXRvcDBTR0tiOGl1akN0Q3ZnTzZaeU5ZaFJxT2xGbEU4VGxBbFFfNVI2eUREeHo1Mjc1THdIZlBVYkdRR0JwY3c?oc=5",
+   "date": "2026-11-15",
+   "source": "Business Standard",
+   "label": "Regulatory",
+   "snippet": "The MPC in October had projected the retail-inflation rate at 6 per cent for this quarter and 5.7 per cent for the next",
+   "lead": "",
+   "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/04/thumb/fitandfill/1200X628/1793780659-2742.JPG",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 83,
+   "title": "Gold near 13-month low as Fed rate hike fears grow, oil surges towards $96",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN3FGdFFJdno4THRVX3Y3djF1bFNMSXlrZkNPZ3NKZEQtaThVNTZVQ0ZaYk9ZTVZTMnRYdzdwWW9IQlFIT3ExZk1IdGg1VFo0X3lRTWlmdHA2ajU5RTVmTmRZbXMzb25hODRuUGFvaUVkSWIwYnJiY0FxS1NIZlBvS1JVZVRDUFVESmtQVHd0b0djdHVGM290bEViSzdBWVBsOFlkMTdVdGxoRXZMV1h4QkE0SEZfNU5TNjZqanM3NlY3TG9XMWctQ9IBzgFBVV95cUxNZVN6eEx3NWFmRGc1ZmlJRnFPTzNjdWlTUkZiSkczWUtlaW5UWGJrQ3hRNml1SjlzSng5NHpoTE10N3A1aFgtUmctQ2VIN1JnTjRtRzdJSGpaYUtWZmNxMUxzaVlGVmh1emdRdFVFYXJWUWZWYzZCMFpxNlN0a3lrU09FcWxUYXZjMUY2czZBb3VYVmY1c2Fhcl8zYkdZTGNfclJtVnpZSlVjRUJXTjBmcFlPVC1WY3lYMEoyRDNqUmpLM2tJTjFpZHhGbHZxUQ?oc=5",
+   "date": "2026-11-13",
+   "source": "Moneycontrol.com",
+   "label": "Gold & Silver",
+   "snippet": "Gold hovered near $3,880 an ounce after hitting a 13-month low, as stubborn US inflation fuelled Fed rate hike bets and rising Treasury yields pressured bullion.",
+   "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
+   "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261113012637_474892754-scaled.jpg",
+   "why": [
+    "Interest-rate decision",
+    "Precious metals",
+    "Global macro driver",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Gold & Silver"
    ],
    "rank": 11,
    "must_read": false
@@ -694,24 +673,23 @@
   },
   {
    "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-   "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-   "date": "2026-11-10",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
-   "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Nominal, a four-year-old, Austin-based startup that offers an AI platform purpose-built for engineering and testing complex hardware, like aircraft, nuclear reactors, and smart factories, has raised another big round of financing that triples its valuation. On Monday, it announced a $240 million Series C at a $3 billion valuation ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/09/Cameron-McCord.jpg?resize=1200,1200",
+   "score": 9,
+   "priority": 82,
+   "title": "Bodhi Tree Systems acquires majority stake in Adyar Ananda Bhavan for $180M",
+   "url": "https://yourstory.com/2026/11/bodhi-tree-systems-acquires-majority-stake-in-adyar-ananda-bhavan",
+   "date": "2026-11-13",
+   "source": "YourStory",
+   "label": "India · Media, Gaming & Creators",
+   "snippet": "Bodhi Tree Systems is a strategic investment and operating platform founded in 2021 by James Murdoch, son of media mogul Rupert Murdoch, and Uday Shankar, former Star India and Disney executive.",
+   "lead": "Bodhi Tree Systems acquires majority stake in Adyar Ananda Bhavan for $180M Bodhi Tree Systems is a strategic investment and operating platform founded in 2021 by James Murdoch, son of media mogul Rupert Murdoch, and Uday Shankar, former Star India and Disney executive. Team YS 17571 Stories Friday November 13, 2026 , 2 min Read Chennai-headquartered restaurant chain Adyar Ananda Bhavan (A2B), which has a presence in India and ...",
+   "image": "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Adyar-1794543600245.png",
    "why": [
-    "Funding",
-    "Very large figure in headline (about $3,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
+    "Acquisition",
+    "Large deal (about $180M)"
    ],
    "tags": [
-    "Funding",
-    "AI & Deeptech"
+    "Acquisition",
+    "Media, Gaming & Creators"
    ],
    "rank": 13,
    "must_read": false
@@ -764,6 +742,28 @@
    "must_read": false
   },
   {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 70,
+   "title": "Australian citizenship travel limits: what Greek Australians need to know",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSE5sYzg3SEhCQUV0ZlhNdlQxbE1kR0dfYlpBOHBfX2NHNWJ0cTVuUHVrY0ZDNjhFRHA0ME9WbDZEa0xIMklINVB6d1dvS01VNGN1TThpS3lXM09EZHFGcU5ZUGRoQlhia1RDMTZLV01zYWUtaFBfZUVjWjRWUWJ3Tl9NSTAtMjU2bDBySWQ2aHNLOXlCVVV4Uw?oc=5",
+   "date": "2026-11-16",
+   "source": "Greek City Times",
+   "label": "Australia",
+   "snippet": "A long summer in Greece could delay your Australian citizenship application. The 90-day rule explained.",
+   "lead": "Headlines circulating this week claim Australia has “set travel limits” for foreigners applying for citizenship. The Australian citizenship travel limits are real, but they are not new. They are the long-standing residence rules in the Australian Citizenship Act, and they catch out applicants every year. For Greek Australians on permanent visas, the rules matter more than most. A long summer in Greece in the year before you apply can ...",
+   "image": "https://greekcitytimes.com/wp-content/uploads/2026/11/2d8a715eb1274dec.webp",
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "Australia"
+   ],
+   "rank": 16,
+   "must_read": false
+  },
+  {
    "desk": "Policy",
    "score": 11,
    "priority": 65,
@@ -782,7 +782,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -804,13 +804,13 @@
    "tags": [
     "Other Policy"
    ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 7,
-   "priority": 64,
+   "score": 6,
+   "priority": 60,
    "title": "Germany simplifies visa application process for Bangladeshi students",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44d09XZjNUVWFhSXZqY2duenpsZ3hWaTdLYTg3Y0JibG1jb21wY1FLWFB0enlRYS1ObFRfSmt4cDBPemVyTHltTFhtanZHUWxscjJKZlBwSm5nWWdNS3BicmF30gFvQVVfeXFMTVVVcUt3Y3JIX2dCUHZ0LW9FeVl0MVdoRm11SkhoQUwxaG0zVDBKcDBhT3dqMjlqcnNoRFhJYjdaOTNrREpGU1JtR3ZlXzUzczFnWFdIc0RDSzNmRHRXeTJ5b0lBdF8wY0x5RUltOGZj?oc=5",
    "date": "2026-11-15",
@@ -826,35 +826,13 @@
     "Student / Graduate",
     "Germany"
    ],
-   "rank": 18,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 64,
-   "title": "\"Travel limits apply\": Australia sets rules for foreigners seeking citizenship",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaDNQTUFyMkRtVjB5Q1Y5T1BNTWpmQzBTREFfYWVxdzY0VkY0S3RGemVzU3lwVFU2NEFzX2xzQ1QxemhHVVdDbGVvQlZtbm1Ma1JCOVBJaE1Xb2pYYUljRTk1SjBGSVoxZzJTSjBkbm55M3c2dGdyb2h1dWJiVzdsUUUtS1l6SW1oRmNXN0s5NE5ORENvRUhscHJTZ09ZcUtPTlZ1U2R1Y0lKLWU4elZjYndWT3VIX0hi?oc=5",
-   "date": "2026-11-15",
-   "source": "Tuko News",
-   "label": "Australia",
-   "snippet": "Australia has outlined citizenship residency rules for foreigners, including a four-year stay requirement and limits on time spent abroad before applying.",
-   "lead": "World Australia Introduces Travel Restrictions for Kenyans, Other Foreigners Applying for Citizenship Published 15 Nov 2026 at 3:55 PM by Shillah Mwadosho 3 min read Applicants must have lived in Australia on a valid visa for four continuous years before applying for citizenship They must not have spent more than 12 months outside the country during that four-year period Time spent abroad in the final 12 months before applying must not ...",
-   "image": "https://cdn.tuko.co.ke/images/1200x675/533670cfdfb53e3f.jpeg?v=1",
-   "why": [
-    "Affects citizenship"
-   ],
-   "tags": [
-    "Citizenship",
-    "Australia"
-   ],
    "rank": 19,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 7,
-   "priority": 64,
+   "score": 6,
+   "priority": 60,
    "title": "Six groups can get Dutch citizenship after three years instead of five",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZldlM21NT1NLV0lZM0F1YWJFYzRvQnRCX1JkNUlzbGFURlkyTzJDN2cxVWdlTTRGNG4tSzVVeVg1SHZXaFJ3OWNxckJHT2dMMG1CbWJodjA3Z1BfVkllUEg4SGRqTnV4NllQTktYM2ctYldZaHN0RklUQVFVdGc2dmg0NEoxcllKMkE?oc=5",
    "date": "2026-11-15",
@@ -875,8 +853,8 @@
   },
   {
    "desk": "Immigration",
-   "score": 7,
-   "priority": 64,
+   "score": 6,
+   "priority": 60,
    "title": "Belgium Sets Official Application Fee for Foreign Nationals Seeking Citizenship",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaDl2N2NJTkpGM3dDT3RsNVZIZ0tTN0c3akp6eW1ON0NVTjBiU0RDV1BFdGFkMXhYTVNYQVVzcWRvRmxzY2w2TmpEaDZZaE94Qk1SVnFrUzVQNjA1WmFWODdraGRDenBIQXJNNU1ENWxzMHhGX21tN2ZNcjNfVEo1X2VFOUpsWGVlM1NpNEd1emc1X2ZQLWFyVjdwNHZha0F0NDFFTkRHVGE?oc=5",
    "date": "2026-11-15",
