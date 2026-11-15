@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-15",
- "built": "2026-11-15 12:37 IST",
+ "built": "2026-11-15 22:55 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -26,9 +26,9 @@
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.24,
-   "change_pct": 0.22,
-   "asof": "15 Nov 09:00 IST"
+   "value": 94.23,
+   "change_pct": 0.21,
+   "asof": "15 Nov 22:47 IST"
   },
   {
    "name": "Brent (USD)",
@@ -162,9 +162,29 @@
    ]
   },
   "Startups": {
-   "total": 1409,
-   "new_today": 0,
+   "total": 1412,
+   "new_today": 3,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 75,
+     "title": "From Greenjoules To mistEO — Indian Startups Raised Over $25 Mn This Week",
+     "url": "https://inc42.com/buzz/from-greenjoules-to-misteo-indian-startups-raised-over-25-mn-this-week/",
+     "date": "2026-11-14",
+     "source": "Inc42",
+     "label": "India · Other",
+     "snippet": "This week, just nine startups raised a combined $25.2 Mn, marking a steep 90.1% decline from the $255 Mn raised in the previous week.",
+     "lead": "Indian startups cumulatively raised a mere $25.2 Mn between November 9 and November 13, down 90.1% from $255 Mn raised in the preceding week Clean tech led the funding charts this week, with three deals collectively bringing in $16.2 Mn. Meanwhile, early-stage startups ventures collectively bagged $2.1 Mn this week The number of deals also fell 55% to just nine this week compared to 20 in the previous week, pointing to a marked ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/WhatsApp-Image-2026-11-13-at-23.47.28.jpeg",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $25M)"
+     ],
+     "tags": [
+      "Funding"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 9,
@@ -228,33 +248,74 @@
       "Funding",
       "Fintech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 75,
-     "title": "IIFL Finance to raise Rs 6,414 Cr led by Blackstone",
-     "url": "https://yourstory.com/2026/11/iifl-finance-to-raise-rs-6414-crore-with-blackstone-leading-rs-5000-crore-primary-infusion",
-     "date": "2026-11-10",
-     "source": "YourStory",
-     "label": "India · Other",
-     "snippet": "Promoters to put in Rs 1,264 crore through warrants; capital adequacy to rise to about 30%",
-     "lead": "IIFL Finance to raise Rs 6,414 Cr led by Blackstone Funds managed by Blackstone Private Equity will invest Rs 5,000 crore ($535 million) in compulsorily convertible preference shares. Team YS 17549 Stories Tuesday November 10, 2026 , 3 min Read IIFL Finance has approved a Rs 6,414 crore ($686 million) primary capital raise, with Blackstone leading the round. The board cleared the preferential issue at a meeting on Tuesday. The deal is ...",
-     "image": "https://images.yourstory.com/cs/wordpress/2018/03/yourstory-shopatplaces-funding.jpg",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $675M: round or valuation)"
-     ],
-     "tags": [
-      "Funding"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 5,
-   "items": []
+   "new_today": 18,
+   "items": [
+    {
+     "desk": "Immigration",
+     "score": 7,
+     "priority": 64,
+     "title": "India offers no reason for Norwegian journalist's visa ban",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeUhyUnk3eG5yT3lNMWpwbGN4cUFPVkZIRktmNmlBNmVFbS0xWnlJcnI5czQ1LTNUZkRHYWRxSUlua01TUmxmdDg3Y25TNDBZNVNMdmlHQWEzQUllS0ZoSG9rWmo4bUJjakU5Tnl5aHRJZ3pCZzlnVF8wOFlzNXNIbmk0WkVvMnlHUHJPaDZkQThXaEp4bjBsZQ?oc=5",
+     "date": "2026-11-14",
+     "source": "Journalism Pakistan",
+     "label": "Norway",
+     "snippet": "India's foreign ministry called visas a sovereign function but gave no specific reason for journalist Helle Lyng's reported visa cancellation.",
+     "lead": "NEW DELHI — India's Ministry of External Affairs has declined to give a specific reason for cancelling the visa of Norwegian journalist Helle Lyng Svendsen, who was prevented from travelling to Hyderabad to speak at an international conference on journalism and press freedom. At a November 13 briefing, ministry spokesperson Randhir Jaiswal described visa decisions as a sovereign function of governments. His response came amid ...",
+     "image": "https://www.journalismpakistan.com/news/india-offers-no-reason-for-norwegian-journalist-s-visa-ban.jpg",
+     "why": [
+      "Announces a change",
+      "Mentions India or Indians"
+     ],
+     "tags": [
+      "Norway"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 55,
+     "title": "Immigration pushes Spain's population towards 50 million threshold",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRFRqZ1lZbGItalBZSXlFMmw0dTNGenVnY1Z1TS1ycnFqMkw4QkZreEZyNi1WQ09hd1BTMnNNSm1NNFVqdlRBeUFwa3NpODFRZnRlRElSUHcwajJ0emhqZmRudE9sSmh3Yl9NbXUxcWVIS2pxRmRuY0dzMjNoSHZ5VzR5cmt4Z3ptbnVzc3Q5T3RyTG82T0FfXzFRMmhKTzg?oc=5",
+     "date": "2026-11-12",
+     "source": "The Local Spain",
+     "label": "Spain",
+     "snippet": "This comes as both immigration and housing are politicised topics on Spain's general election campaign.",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source This comes as both immigration and housing are politicised topics on Spain's general election campaign. Spain is fast approaching the 50 million threshold, with population growth spurred almost entirely by immigration ...",
+     "image": null,
+     "why": [
+      "Salary threshold change",
+      "Announces a change"
+     ],
+     "tags": [
+      "Salary threshold",
+      "Spain"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 45,
+     "title": "Why Single Out Indian Immigrants? New Zealand Leader's 'Go Back To India' Rant Faces Fierce Backlash",
+     "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQY01vYWRQLUFCUnVGcHdKZVVGTFkwY0dTekI5bmhoTmJEb3hXTmFBY25LLXFpVFB1U2VYNGlKUmxnS2pmUDJzWGFlVks1bWpzYWI1SFlRd3Q4U3BlcHJRTUM5b0VNaThKenVQcTRiQlhIdGlLaE55T19uU1VVYjdVc3hvMThzQnNHMmZ4cXVEcnJJa3BtaFMzNU1nUmwyMUtXMko1eG4xbDlJa2YzYjV0eXZUd2VpbVNlbmF5cmJFb05UbTd0cFFDY3NLMlpiTGZwRUdzaGpkTHdOSDhKRnlaRkFTa1RzM20xV0xoT2Q3VHdaeWwtZjNRMFJsb3VpLTd4XzZpVNIBigJBVV95cUxPVGpBNENUekV6ZWk2MENVMWpLWlQ0VVVsdDZsaDVSY3B1QnkwTVoySVltVkJ1ek1EMlhiMm5LZjJvemkzQ2xRLU5aZTJRZkN4dk4zeGx5M2t5cW9RNnBKTlo3NnAyVUt2ZVk5ZTFoNnF6T1B5RUgzUHl3d05KeFNNMVhHTkI5dndVbkk1VUl5c2UyMXY2alVTaTlUbGNvZHJmejA1Zm5vMXFlSWdBWE45UmtfSjhZNXdmOXppbm16M0NJeGpvQTlMMVZxMUVmd01GVVYybGxsYko3UGZjbWxkUU1IYTViRzEtdklLLTNpekF2blgwa0llek1Wa1MxVzJGWV9aRHp4VVpfQQ?oc=5",
+     "date": "2026-11-13",
+     "source": "The Times of India",
+     "label": "New Zealand",
+     "snippet": "Why are Indian immigrants in New Zealand increasingly finding themselves in the firing line?From the controversial “butter chicken tsunami” remark to a politician telling Indians to go back where they came from, anti-Indian rhetoric is becoming part of New Zealand's immigration debate. But do the numbers support these claims? We look at I",
+     "lead": "Sonia Gandhi's autobiography, Belonging: A Journey of Love, has triggered a fresh political confrontation between the BJP and the Congress. The book revisits several contentious chapters of India's political history, including the 1984 anti-Sikh violence, the Babri Masjid demolition, the 1975 Emergency and the 2002 Gujarat riots. It also makes striking revelations about former Prime Minister Pranab Mukherjee's reported ambitions to ...",
+     "image": "https://static.toiimg.com/thumb/msid-135801609,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+     "why": [
+      "Mentions India or Indians"
+     ],
+     "tags": [
+      "New Zealand"
+     ]
+    }
+   ]
   },
   "Advisory": {
    "total": 3000,
@@ -386,7 +447,7 @@
    "why": [
     "Affects permanent residence",
     "Announces a change",
-    "Major story (8 headlines that day)"
+    "Major story (9 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
@@ -447,6 +508,29 @@
    "desk": "Startups",
    "score": 11,
    "priority": 92,
+   "title": "Urban Company shareholders approve Rs 2,500 crore fundraise plan",
+   "url": "https://economictimes.indiatimes.com/tech/technology/urban-company-shareholders-approve-rs-2500-crore-fundraise-plan/articleshow/135859583.cms",
+   "date": "2026-11-15",
+   "source": "ET Startups",
+   "label": "India · Fintech",
+   "snippet": "Urban Company has appointed Morgan Stanley and Kotak Mahindra Capital as bankers to manage the QIP and begun roadshows for the fundraise. A significant portion of the proceeds is expected to be deployed towards InstaHelp, its instant househelp business, which has been incurring heavy losses as the company invests in expanding the segment.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-15676,resizemode-75,msid-135859583/tech/technology/urban-company-shareholders-approve-rs-2500-crore-fundraise-plan.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $263M)"
+   ],
+   "tags": [
+    "Funding",
+    "Fintech"
+   ],
+   "rank": 5,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 92,
    "title": "SoftBank Offloads Meesho Shares Worth ₹1,855 Cr",
    "url": "https://inc42.com/buzz/softbank-offloads-meesho-shares-worth-%e2%82%b91855-cr/",
    "date": "2026-11-14",
@@ -463,8 +547,8 @@
     "IPO & Listing",
     "Fintech"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -486,7 +570,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -510,7 +594,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -534,7 +618,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -557,7 +641,7 @@
     "Acquisition",
     "Media, Gaming & Creators"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -581,7 +665,7 @@
     "Funding",
     "Health & Wellness"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -605,7 +689,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -628,28 +712,6 @@
    "tags": [
     "Funding",
     "AI & Deeptech"
-   ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 9,
-   "priority": 75,
-   "title": "From Greenjoules To mistEO — Indian Startups Raised Over $25 Mn This Week",
-   "url": "https://inc42.com/buzz/from-greenjoules-to-misteo-indian-startups-raised-over-25-mn-this-week/",
-   "date": "2026-11-14",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "This week, just nine startups raised a combined $25.2 Mn, marking a steep 90.1% decline from the $255 Mn raised in the previous week.",
-   "lead": "Indian startups cumulatively raised a mere $25.2 Mn between November 9 and November 13, down 90.1% from $255 Mn raised in the preceding week Clean tech led the funding charts this week, with three deals collectively bringing in $16.2 Mn. Meanwhile, early-stage startups ventures collectively bagged $2.1 Mn this week The number of deals also fell 55% to just nine this week compared to 20 in the previous week, pointing to a marked ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/WhatsApp-Image-2026-11-13-at-23.47.28.jpeg",
-   "why": [
-    "Funding",
-    "Sizeable deal (about $25M)"
-   ],
-   "tags": [
-    "Funding"
    ],
    "rank": 13,
    "must_read": false
@@ -749,22 +811,88 @@
    "desk": "Immigration",
    "score": 7,
    "priority": 64,
-   "title": "India offers no reason for Norwegian journalist's visa ban",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeUhyUnk3eG5yT3lNMWpwbGN4cUFPVkZIRktmNmlBNmVFbS0xWnlJcnI5czQ1LTNUZkRHYWRxSUlua01TUmxmdDg3Y25TNDBZNVNMdmlHQWEzQUllS0ZoSG9rWmo4bUJjakU5Tnl5aHRJZ3pCZzlnVF8wOFlzNXNIbmk0WkVvMnlHUHJPaDZkQThXaEp4bjBsZQ?oc=5",
-   "date": "2026-11-14",
-   "source": "Journalism Pakistan",
-   "label": "Norway",
-   "snippet": "India's foreign ministry called visas a sovereign function but gave no specific reason for journalist Helle Lyng's reported visa cancellation.",
-   "lead": "NEW DELHI — India's Ministry of External Affairs has declined to give a specific reason for cancelling the visa of Norwegian journalist Helle Lyng Svendsen, who was prevented from travelling to Hyderabad to speak at an international conference on journalism and press freedom. At a November 13 briefing, ministry spokesperson Randhir Jaiswal described visa decisions as a sovereign function of governments. His response came amid ...",
-   "image": "https://www.journalismpakistan.com/news/india-offers-no-reason-for-norwegian-journalist-s-visa-ban.jpg",
+   "title": "Germany simplifies visa application process for Bangladeshi students",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44d09XZjNUVWFhSXZqY2duenpsZ3hWaTdLYTg3Y0JibG1jb21wY1FLWFB0enlRYS1ObFRfSmt4cDBPemVyTHltTFhtanZHUWxscjJKZlBwSm5nWWdNS3BicmF30gFvQVVfeXFMTVVVcUt3Y3JIX2dCUHZ0LW9FeVl0MVdoRm11SkhoQUwxaG0zVDBKcDBhT3dqMjlqcnNoRFhJYjdaOTNrREpGU1JtR3ZlXzUzczFnWFdIc0RDSzNmRHRXeTJ5b0lBdF8wY0x5RUltOGZj?oc=5",
+   "date": "2026-11-15",
+   "source": "Prothom Alo English",
+   "label": "Germany",
+   "snippet": "Germany is making the visa application process easier for Bangladeshi students seeking higher education in the country. To this end, the German Embassy in Dhaka is introducing a digital system. \n\nFrom 1 January 2027, Germany will introduce the digital “Consular Services Portal” (Auslandsportal) for visa applications from students seeking ",
+   "lead": "Login Search ই-পেপার বাংলা Login Education Germany simplifies visa application process for Bangladeshi students Staff Correspondent Dhaka Published: 15 Nov 2026, 07: 07 Germany is making the visa application process easier for Bangladeshi students. Freepik Germany is making the visa application process easier for Bangladeshi students seeking higher education in the country. To this end, the German Embassy in Dhaka is introducing a ...",
+   "image": "https://media.prothomalo.com/prothomalo-english%2F2026-11-15%2F7fvyy6dd%2Fprothomalo-bangla2025-10-10od3veuskImage-Online-Tourism-MelaArticle05.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=&overlay_position=bottom&overlay_width_pct=1",
    "why": [
-    "Announces a change",
-    "Mentions India or Indians"
+    "Announces a change"
    ],
    "tags": [
-    "Norway"
+    "Student / Graduate",
+    "Germany"
    ],
    "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 64,
+   "title": "\"Travel limits apply\": Australia sets rules for foreigners seeking citizenship",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaDNQTUFyMkRtVjB5Q1Y5T1BNTWpmQzBTREFfYWVxdzY0VkY0S3RGemVzU3lwVFU2NEFzX2xzQ1QxemhHVVdDbGVvQlZtbm1Ma1JCOVBJaE1Xb2pYYUljRTk1SjBGSVoxZzJTSjBkbm55M3c2dGdyb2h1dWJiVzdsUUUtS1l6SW1oRmNXN0s5NE5ORENvRUhscHJTZ09ZcUtPTlZ1U2R1Y0lKLWU4elZjYndWT3VIX0hi?oc=5",
+   "date": "2026-11-15",
+   "source": "Tuko News",
+   "label": "Australia",
+   "snippet": "Australia has outlined citizenship residency rules for foreigners, including a four-year stay requirement and limits on time spent abroad before applying.",
+   "lead": "World Australia Introduces Travel Restrictions for Kenyans, Other Foreigners Applying for Citizenship Published 15 Nov 2026 at 3:55 PM by Shillah Mwadosho 3 min read Applicants must have lived in Australia on a valid visa for four continuous years before applying for citizenship They must not have spent more than 12 months outside the country during that four-year period Time spent abroad in the final 12 months before applying must not ...",
+   "image": "https://cdn.tuko.co.ke/images/1200x675/533670cfdfb53e3f.jpeg?v=1",
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "Australia"
+   ],
+   "rank": 19,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 64,
+   "title": "Six groups can get Dutch citizenship after three years instead of five",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZldlM21NT1NLV0lZM0F1YWJFYzRvQnRCX1JkNUlzbGFURlkyTzJDN2cxVWdlTTRGNG4tSzVVeVg1SHZXaFJ3OWNxckJHT2dMMG1CbWJodjA3Z1BfVkllUEg4SGRqTnV4NllQTktYM2ctYldZaHN0RklUQVFVdGc2dmg0NEoxcllKMkE?oc=5",
+   "date": "2026-11-15",
+   "source": "3News",
+   "label": "Netherlands",
+   "snippet": "The Netherlands' IND allows spouses, cohabiting partners, legitimised adults and stateless residents to apply for Dutch citizenship after three years.",
+   "lead": "The Dutch IND lists six groups, from spouses of Dutch nationals to stateless residents, who can apply for naturalisation after three years, not five. The Immigration and Naturalisation Service (IND) spells out the shorter term among the exceptions to its standard rule: five uninterrupted years in the Kingdom with a valid residence permit, or EU-law residency, the whole time. The three-year route is a long-standing exception in Dutch ...",
+   "image": "https://media.3news.com/dutch-citizenship-after-three-years-six--1200x630.jpg",
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "Netherlands"
+   ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 64,
+   "title": "Belgium Sets Official Application Fee for Foreign Nationals Seeking Citizenship",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaDl2N2NJTkpGM3dDT3RsNVZIZ0tTN0c3akp6eW1ON0NVTjBiU0RDV1BFdGFkMXhYTVNYQVVzcWRvRmxzY2w2TmpEaDZZaE94Qk1SVnFrUzVQNjA1WmFWODdraGRDenBIQXJNNU1ENWxzMHhGX21tN2ZNcjNfVEo1X2VFOUpsWGVlM1NpNEd1emc1X2ZQLWFyVjdwNHZha0F0NDFFTkRHVGE?oc=5",
+   "date": "2026-11-15",
+   "source": "GistReel",
+   "label": "Belgium",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "Belgium"
+   ],
+   "rank": 21,
    "must_read": false
   },
   {
@@ -786,7 +914,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 19,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -807,72 +935,6 @@
    ],
    "tags": [
     "Infrastructure & Transport"
-   ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 55,
-   "title": "Germany announces new visa rules for Bangladeshi students",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04WndQdUpIMnl2MFlGdnRkSDFhVUI4SVRYRlNLUGtJdnlJeURQYUhuVVBLbm9aeFBISGdZcTVsd1p0R0RrXzBFU3dTc0w3SWxWSDZJbmFiX3ZRNlBoY2l1eDctT3J3MllXZjZXVQ?oc=5",
-   "date": "2026-11-15",
-   "source": "Banglanews24",
-   "label": "Germany",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Announces a change"
-   ],
-   "tags": [
-    "Student / Graduate",
-    "Germany"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 55,
-   "title": "Immigration pushes Spain's population towards 50 million threshold",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRFRqZ1lZbGItalBZSXlFMmw0dTNGenVnY1Z1TS1ycnFqMkw4QkZreEZyNi1WQ09hd1BTMnNNSm1NNFVqdlRBeUFwa3NpODFRZnRlRElSUHcwajJ0emhqZmRudE9sSmh3Yl9NbXUxcWVIS2pxRmRuY0dzMjNoSHZ5VzR5cmt4Z3ptbnVzc3Q5T3RyTG82T0FfXzFRMmhKTzg?oc=5",
-   "date": "2026-11-12",
-   "source": "The Local Spain",
-   "label": "Spain",
-   "snippet": "This comes as both immigration and housing are politicised topics on Spain's general election campaign.",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source This comes as both immigration and housing are politicised topics on Spain's general election campaign. Spain is fast approaching the 50 million threshold, with population growth spurred almost entirely by immigration ...",
-   "image": null,
-   "why": [
-    "Salary threshold change",
-    "Announces a change"
-   ],
-   "tags": [
-    "Salary threshold",
-    "Spain"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 5,
-   "priority": 45,
-   "title": "Why Single Out Indian Immigrants? New Zealand Leader's 'Go Back To India' Rant Faces Fierce Backlash",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQY01vYWRQLUFCUnVGcHdKZVVGTFkwY0dTekI5bmhoTmJEb3hXTmFBY25LLXFpVFB1U2VYNGlKUmxnS2pmUDJzWGFlVks1bWpzYWI1SFlRd3Q4U3BlcHJRTUM5b0VNaThKenVQcTRiQlhIdGlLaE55T19uU1VVYjdVc3hvMThzQnNHMmZ4cXVEcnJJa3BtaFMzNU1nUmwyMUtXMko1eG4xbDlJa2YzYjV0eXZUd2VpbVNlbmF5cmJFb05UbTd0cFFDY3NLMlpiTGZwRUdzaGpkTHdOSDhKRnlaRkFTa1RzM20xV0xoT2Q3VHdaeWwtZjNRMFJsb3VpLTd4XzZpVNIBigJBVV95cUxPVGpBNENUekV6ZWk2MENVMWpLWlQ0VVVsdDZsaDVSY3B1QnkwTVoySVltVkJ1ek1EMlhiMm5LZjJvemkzQ2xRLU5aZTJRZkN4dk4zeGx5M2t5cW9RNnBKTlo3NnAyVUt2ZVk5ZTFoNnF6T1B5RUgzUHl3d05KeFNNMVhHTkI5dndVbkk1VUl5c2UyMXY2alVTaTlUbGNvZHJmejA1Zm5vMXFlSWdBWE45UmtfSjhZNXdmOXppbm16M0NJeGpvQTlMMVZxMUVmd01GVVYybGxsYko3UGZjbWxkUU1IYTViRzEtdklLLTNpekF2blgwa0llek1Wa1MxVzJGWV9aRHp4VVpfQQ?oc=5",
-   "date": "2026-11-13",
-   "source": "The Times of India",
-   "label": "New Zealand",
-   "snippet": "Why are Indian immigrants in New Zealand increasingly finding themselves in the firing line?From the controversial “butter chicken tsunami” remark to a politician telling Indians to go back where they came from, anti-Indian rhetoric is becoming part of New Zealand's immigration debate. But do the numbers support these claims? We look at I",
-   "lead": "Sonia Gandhi's autobiography, Belonging: A Journey of Love, has triggered a fresh political confrontation between the BJP and the Congress. The book revisits several contentious chapters of India's political history, including the 1984 anti-Sikh violence, the Babri Masjid demolition, the 1975 Emergency and the 2002 Gujarat riots. It also makes striking revelations about former Prime Minister Pranab Mukherjee's reported ambitions to ...",
-   "image": "https://static.toiimg.com/thumb/msid-135801609,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "why": [
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "New Zealand"
    ],
    "rank": 23,
    "must_read": false
