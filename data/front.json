@@ -1,6 +1,6 @@
 {
- "edition": "2026-11-16",
- "built": "2026-11-16 12:43 IST",
+ "edition": "2026-11-17",
+ "built": "2026-11-17 02:13 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,69 +12,69 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25254.0,
-   "change_pct": 0.44,
-   "asof": "16 Nov 12:43 IST"
+   "value": 25144.0,
+   "change_pct": -0.61,
+   "asof": "16 Nov 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 82041.0,
-   "change_pct": 0.55,
-   "asof": "16 Nov 12:28 IST"
+   "value": 81592.0,
+   "change_pct": -0.39,
+   "asof": "16 Nov 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 94.03,
-   "change_pct": -0.0,
-   "asof": "16 Nov 12:43 IST"
+   "value": 93.91,
+   "change_pct": -0.13,
+   "asof": "17 Nov 02:13 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 96.38,
-   "change_pct": 0.56,
-   "asof": "16 Nov 12:33 IST"
+   "value": 92.39,
+   "change_pct": -3.6,
+   "asof": "17 Nov 02:03 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3854.0,
-   "change_pct": -0.82,
-   "asof": "16 Nov 12:33 IST"
+   "value": 3861.0,
+   "change_pct": -0.66,
+   "asof": "17 Nov 02:03 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.15,
-   "change_pct": 1.0,
-   "asof": "14 Nov 01:29 IST"
+   "value": 5.12,
+   "change_pct": -0.64,
+   "asof": "17 Nov 01:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "Kissht",
-   "tagline": "Listed digital lender (NBFC)",
-   "what": "Lending-tech platform founded in 2015 by Ranvir Singh and Krishnan Vishwanathan. Offers digital personal and business loans up to Rs 5 lakh, health-related insurance products and secured loans against property. Got regulatory approval in July 2026 to distribute mutual funds through subsidiary Invincible Minds.",
+   "company": "Kuku Technologies (Kuku FM)",
+   "tagline": "Audio and microdrama OTT, IPO cleared by SEBI",
+   "what": "Founded in 2018 by Lal Chand Bisu, Vikas Goyal and Vinod Meena. Offers audiobooks, podcasts and original audio shows under Kuku FM, plus microdrama platform Kuku TV and microlearning platform Guru. Content library of 20,000+ titles in seven languages; it claims 1 Cr+ listeners and creators and 400 Mn app downloads across its portfolio.",
    "how": [
-    "The article does not give a revenue split.",
-    "Inferred, not from the article: as an NBFC, its core income is interest and fees on the loans it makes; insurance and mutual fund distribution would add commissions."
+    "The article does not explain the revenue model.",
+    "Not stated: whether income comes from subscriptions, pay-per-content or ads. Check the DRHP when it becomes public."
    ],
-   "watch": "The company did not say how it will use the money. Fresh capital for a lender usually funds loan growth, but that is inference.",
-   "sector": "Fintech",
+   "watch": "Fresh-issue money is planned for tech, AI infrastructure, content production and geographic expansion. Competitors named: Pocket FM, Flick TV, ReelSaga, Miniplix and OTT majors (Amazon, JioHotstar, Zee5).",
+   "sector": "Media, Gaming & Creators",
    "region": "India",
-   "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/"
+   "url": "https://inc42.com/buzz/sebi-greenlights-kuku-technologies-%e2%82%b93500-cr-ipo/"
   },
   "country": {
-   "id": "germany",
-   "name": "Germany",
-   "trend": "Stable law, rising political risk",
-   "pr": "Settlement permit after 27 months on a Blue Card with A1 German, or 21 months with B1 German.",
-   "citizenship": "5 years of lawful residence, roughly B1 German, financial independence. The 3-year fast track was abolished on 30 October 2025. Dual citizenship is permitted by Germany.",
-   "pro": "Fastest realistic settlement on this list for a Blue Card holder: 21 to 27 months.",
-   "con": "Political risk: the AfD won 44% in Saxony-Anhalt (early September 2026) and polled around 37% ahead of the 20 September votes in Mecklenburg-Vorpommern and Berlin. Its manifesto calls for a points system with German-language criteria and quotas for non-EU skilled workers, and mass deportations.",
-   "watch": "Outcome of the 20 September regional elections"
+   "id": "uk",
+   "name": "United Kingdom",
+   "trend": "Tightening",
+   "pr": "Indefinite leave to remain (ILR) is still 5 years for Skilled Workers today (B1 English, Life in the UK test, fee GBP 3,226). The government proposes an 'earned settlement' model with a 10-year baseline, reducible or extendable by contribution, integration and compliance. It is NOT yet in force; the government said it would legislate around autumn 2026. Consultation closed 12 February 2026.",
+   "citizenship": "Citizenship usually follows ILR by about a year (general knowledge). If the 10-year baseline arrives, the total clock could roughly double. The UK allows dual citizenship.",
+   "pro": "English-speaking, no language exam beyond visa English.",
+   "con": "Real chance the settlement clock moves from 5 to 10 years, and the government signalled it may apply to people already in the UK who are not yet settled.",
+   "watch": "Autumn 2026 legislation on earned settlement"
   }
  },
  "desks": {
@@ -162,48 +162,27 @@
    ]
   },
   "Startups": {
-   "total": 1424,
-   "new_today": 12,
+   "total": 1441,
+   "new_today": 1,
    "items": [
     {
      "desk": "Startups",
      "score": 9,
      "priority": 82,
-     "title": "Bodhi Tree Systems acquires majority stake in Adyar Ananda Bhavan for $180M",
-     "url": "https://yourstory.com/2026/11/bodhi-tree-systems-acquires-majority-stake-in-adyar-ananda-bhavan",
-     "date": "2026-11-13",
+     "title": "Former Freshworks executives-founded AI startup Dreamteam raises $53M",
+     "url": "https://yourstory.com/2026/11/ex-freshworks-executives-founded-ai-native-crm-startup-dreamteam-raises-53-million-in-funding",
+     "date": "2026-11-16",
      "source": "YourStory",
-     "label": "India · Media, Gaming & Creators",
-     "snippet": "Bodhi Tree Systems is a strategic investment and operating platform founded in 2021 by James Murdoch, son of media mogul Rupert Murdoch, and Uday Shankar, former Star India and Disney executive.",
-     "lead": "Bodhi Tree Systems acquires majority stake in Adyar Ananda Bhavan for $180M Bodhi Tree Systems is a strategic investment and operating platform founded in 2021 by James Murdoch, son of media mogul Rupert Murdoch, and Uday Shankar, former Star India and Disney executive. Team YS 17571 Stories Friday November 13, 2026 , 2 min Read Chennai-headquartered restaurant chain Adyar Ananda Bhavan (A2B), which has a presence in India and ...",
-     "image": "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Adyar-1794543600245.png",
+     "label": "India · AI & Deeptech",
+     "snippet": "Dreamteam raised this funding from Together Fund, Accel and Premji Invest and this capital will be primarily used to enhance its tech platform",
+     "lead": "Former Freshworks executives-founded AI startup Dreamteam raises $53M Dreamteam raised this funding from Together Fund, Accel and Premji Invest and this capital will be primarily used to enhance its tech platform Team YS 17587 Stories Monday November 16, 2026 , 2 min Read Dreamteam, an AI native customer relationship management (CRM) startup founded by former executives of Freshworks, has raised $53 million in funding from Together ...",
+     "image": "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Dreamteam-FINAL-1794840148368.png",
      "why": [
-      "Acquisition",
-      "Large deal (about $180M)"
+      "Funding",
+      "Sizeable deal (about $53M)"
      ],
      "tags": [
-      "Acquisition",
-      "Media, Gaming & Creators"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 82,
-     "title": "UK AI startup Nscale weighs delaying $35bn IPO amid tech sell-off",
-     "url": "https://sifted.eu/articles/nscale-ipo-nvidia-delay/",
-     "date": "2026-11-11",
-     "source": "Sifted",
-     "label": "Global · AI & Deeptech",
-     "snippet": "The Nvidia-backed data centre builder had been planning to list in New York imminently.",
-     "lead": "AI infrastructure startup Nscale is considering delaying its planned $35bn stock market listing until next year, following a global sell-off in technology stocks, according to reports.",
-     "image": "https://images.sifted.eu/cdn-cgi/image/width=1600,quality=75,fit=cover,format=auto/wp-content/uploads/2025/04/29153551/Glomfjord-Data-Centre-2-1-scaled-e1745937378798.jpg",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $35,000M: round or valuation)"
-     ],
-     "tags": [
-      "IPO & Listing",
+      "Funding",
       "AI & Deeptech"
      ]
     },
@@ -211,18 +190,37 @@
      "desk": "Startups",
      "score": 9,
      "priority": 82,
-     "title": "SoftBank Q2: Lenskart & Meesho Drive Valuation Gains, Ola Electric Books Losses",
-     "url": "https://inc42.com/buzz/softbank-q2-lenskart-meesho-drive-valuation-gains-ola-electric-books-losses/",
-     "date": "2026-11-11",
-     "source": "Inc42",
+     "title": "Trump's Nvidia stake grew to as much as $62 million, Washington Post reports",
+     "url": "https://economictimes.indiatimes.com/tech/technology/trumps-nvidia-stake-grew-to-as-much-as-62-million-washington-post-reports/articleshow/135889131.cms",
+     "date": "2026-11-16",
+     "source": "ET Startups",
+     "label": "Global · Other",
+     "snippet": "The disclosure comes amid heightened scrutiny of Nvidia and its ties to the Trump administration, as Nvidia co-founder Jensen Huang resigned last week as CEO amid a scandal over his relationship with Chinese businesswoman Alice Huang, who is suspected by US authorities of intelligence ties to Beijing.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1673263,resizemode-75,msid-135889131/tech/technology/trumps-nvidia-stake-grew-to-as-much-as-62-million-washington-post-reports.jpg",
+     "why": [
+      "IPO & Listing",
+      "Sizeable deal (about $62M)"
+     ],
+     "tags": [
+      "IPO & Listing"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 82,
+     "title": "Urban Company shareholders approve Rs 2,500 crore fundraise plan",
+     "url": "https://economictimes.indiatimes.com/tech/technology/urban-company-shareholders-approve-rs-2500-crore-fundraise-plan/articleshow/135859583.cms",
+     "date": "2026-11-15",
+     "source": "ET Startups",
      "label": "India · Fintech",
-     "snippet": "Two listed Indian startups – Lenskart and Meesho – together contributed valuation gains worth $394 Mn to SVF2's kitty in Q2 FY26.",
-     "lead": "SoftBank said that the EV maker’s gross return to the SVF2 stood at $370 Mn in the quarter under review, down $42 Mn from $412 Mn in the preceding Q1 FY26 This means that SoftBank made hefty gains from its Indian listed startup portfolio in Q2 FY26, but the booked some valuation losses on account of Ola Electric, Delhivery and FirstCry In contrast, other listed Indian startups in SVF2’s portfolio – Lenskart and Meesho – together ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/sofftbank-q2-social-.png",
+     "snippet": "Urban Company has appointed Morgan Stanley and Kotak Mahindra Capital as bankers to manage the QIP and begun roadshows for the fundraise. A significant portion of the proceeds is expected to be deployed towards InstaHelp, its instant househelp business, which has been incurring heavy losses as the company invests in expanding the segment.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-15676,resizemode-75,msid-135859583/tech/technology/urban-company-shareholders-approve-rs-2500-crore-fundraise-plan.jpg",
      "why": [
       "Funding",
-      "Sizeable deal (about $42M)",
-      "Valuation, listing or profitability signal"
+      "Large deal (about $263M)"
      ],
      "tags": [
       "Funding",
@@ -233,96 +231,34 @@
      "desk": "Startups",
      "score": 9,
      "priority": 82,
-     "title": "IIFL Finance to raise Rs 6,414 Cr led by Blackstone",
-     "url": "https://yourstory.com/2026/11/iifl-finance-to-raise-rs-6414-crore-with-blackstone-leading-rs-5000-crore-primary-infusion",
-     "date": "2026-11-10",
-     "source": "YourStory",
-     "label": "India · Other",
-     "snippet": "Promoters to put in Rs 1,264 crore through warrants; capital adequacy to rise to about 30%",
-     "lead": "IIFL Finance to raise Rs 6,414 Cr led by Blackstone Funds managed by Blackstone Private Equity will invest Rs 5,000 crore ($535 million) in compulsorily convertible preference shares. Team YS 17549 Stories Tuesday November 10, 2026 , 3 min Read IIFL Finance has approved a Rs 6,414 crore ($686 million) primary capital raise, with Blackstone leading the round. The board cleared the preferential issue at a meeting on Tuesday. The deal is ...",
-     "image": "https://images.yourstory.com/cs/wordpress/2018/03/yourstory-shopatplaces-funding.jpg",
+     "title": "SoftBank Offloads Meesho Shares Worth ₹1,855 Cr",
+     "url": "https://inc42.com/buzz/softbank-offloads-meesho-shares-worth-%e2%82%b91855-cr/",
+     "date": "2026-11-14",
+     "source": "Inc42",
+     "label": "India · Fintech",
+     "snippet": "Japanese tech investor SoftBank yesterday offloaded 7.6 Cr shares of listed ecommerce giant Meesho in a block deal worth ₹1,885.2 Cr.",
+     "lead": "As per NSE data, the investment firm, via its affiliate SVF II Meerkat (DE) LLC, offloaded the stake at ₹246.75 per share to rake in the amount The bulk deal comes as the Japanese investor looks to book profits amid a sharp uptick in Meesho’s share prices in recent months and improving financials The shares that flooded the market were lapped up by Societe Generale, Morgan Stanley, Aditya Birla Sun Life Mutual Fund, Motilal Oswal ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/meesho-bulk-deal-social-.png",
      "why": [
-      "Funding",
-      "Very large figure in headline (about $675M: round or valuation)"
+      "IPO & Listing",
+      "Large deal (about $195M)"
      ],
      "tags": [
-      "Funding"
+      "IPO & Listing",
+      "Fintech"
      ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 25,
-   "items": [
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 50,
-     "title": "Belgium Sets Official Application Fee for Foreign Nationals Seeking Citizenship",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaDl2N2NJTkpGM3dDT3RsNVZIZ0tTN0c3akp6eW1ON0NVTjBiU0RDV1BFdGFkMXhYTVNYQVVzcWRvRmxzY2w2TmpEaDZZaE94Qk1SVnFrUzVQNjA1WmFWODdraGRDenBIQXJNNU1ENWxzMHhGX21tN2ZNcjNfVEo1X2VFOUpsWGVlM1NpNEd1emc1X2ZQLWFyVjdwNHZha0F0NDFFTkRHVGE?oc=5",
-     "date": "2026-11-15",
-     "source": "GistReel",
-     "label": "Belgium",
-     "snippet": "",
-     "lead": "",
-     "image": null,
-     "why": [
-      "Affects citizenship"
-     ],
-     "tags": [
-      "Citizenship",
-      "Belgium"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 50,
-     "title": "Immigration pushes Spain's population towards 50 million threshold",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRFRqZ1lZbGItalBZSXlFMmw0dTNGenVnY1Z1TS1ycnFqMkw4QkZreEZyNi1WQ09hd1BTMnNNSm1NNFVqdlRBeUFwa3NpODFRZnRlRElSUHcwajJ0emhqZmRudE9sSmh3Yl9NbXUxcWVIS2pxRmRuY0dzMjNoSHZ5VzR5cmt4Z3ptbnVzc3Q5T3RyTG82T0FfXzFRMmhKTzg?oc=5",
-     "date": "2026-11-12",
-     "source": "The Local Spain",
-     "label": "Spain",
-     "snippet": "This comes as both immigration and housing are politicised topics on Spain's general election campaign.",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source This comes as both immigration and housing are politicised topics on Spain's general election campaign. Spain is fast approaching the 50 million threshold, with population growth spurred almost entirely by immigration ...",
-     "image": null,
-     "why": [
-      "Salary threshold change",
-      "Announces a change"
-     ],
-     "tags": [
-      "Salary threshold",
-      "Spain"
-     ]
-    }
-   ]
+   "new_today": 5,
+   "items": []
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 3,
+   "new_today": 0,
    "items": [
-    {
-     "desk": "Advisory",
-     "score": 10,
-     "priority": 83,
-     "title": "RBI Rate Hike Expectations, Tight Liquidity Put Pressure On Short-Term Bond Yields",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRlM3NU14dUR6ZXFKMVJFZmI4QjZ5SkR2OG1xQWhuVkxmZF9jMzctM3dwTUxyMUpOam52em1rUi1UaENyRkJuclNXUVE0ajM3emlZOWdQVTVKWHFUbDlIU19nbWp1U0FoeU1KNlpBM3N6T3E5NVU3TVR2TDFCUjV1S210R2Z3d25jcFh1OS1JN09DcEFMN2FvRDh3UTZ2Z0o2RmFfQkdJcDNCQ3hPcVo5MjZ6NmVibXpkUWZ0ZWFhZTlHQmZpa1dkRw?oc=5",
-     "date": "2026-11-09",
-     "source": "KNN India",
-     "label": "Debt & Bonds",
-     "snippet": "Short-term Indian government bond yields are expected to face upward pressure amid tightening banking liquidity and expectations of further interest rate hikes by the Reserve Bank of India (RBI), potentially widening the gap with longer-term securiti",
-     "lead": "Your e-mail will be secure with us. We will not share your information with anyone ! RBI Rate Hike Expectations, Tight Liquidity Put Pressure On Short-Term Bond Yields New Delhi, Nov 9 (KNN) Short-term Indian government bond yields are expected to face upward pressure amid tightening banking liquidity and expectations of further interest rate hikes by the Reserve Bank of India (RBI), potentially widening the gap with longer-term ...",
-     "image": "https://knnindia.co.in/uploads/newsfiles/RBI-FIN-9-11-2026.jpg",
-     "why": [
-      "Regulator: SEBI or RBI",
-      "Interest-rate decision",
-      "Government bond yields"
-     ],
-     "tags": [
-      "Debt & Bonds"
-     ]
-    },
     {
      "desk": "Advisory",
      "score": 9,
@@ -348,40 +284,63 @@
      "desk": "Advisory",
      "score": 8,
      "priority": 67,
-     "title": "Fed Rate Hikes Threaten U.S. Farm Margins as Debt Hits $605 Billion",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzeVIwRHdsY045UWNkZThtVkhWb2QwWVhVSlVFaUM1TTRCV1dNRVh5ZDJEV1JqZnNGYlBlam5sS2RhVkJ1dWUwTVhLRmNfdEpUeDVpVldtcDZibUJ5eHdOUTVOa0U3eTBpSFlQaGpVSVZoXzZMUGtjelBHQQ?oc=5",
-     "date": "2026-11-15",
-     "source": "AgroLatam",
-     "label": "Global",
-     "snippet": "The Fed signals more rate hikes as U.S. farm debt nears $605 billion, raising concerns over credit costs, shrinking margins and 2027 planting decisions.",
-     "lead": "Marcus Ellington Marcus Ellington is a U.S.-based journalist covering agricultural markets, global trade, and agricultural policy, with an international perspective on their impact across the global agri-food system. Fuente: AgroLatam.com Autor: AgroLatam.com Facebook 0 Twitter 0 e-Mail 0 WhatsApp 0 M�s Federal Reserve Bank of Boston President Susan Collins supported gradual interest rate increases on November 14, 2026 , citing ...",
-     "image": "https://www.agrolatam.com/files/image/84/84213/6af8cb0036d40_600_315!.jpg?s=0e724eae73a6fa1f6ecf8b866296a593&d=1794690032",
+     "title": "Rupee weakens to 94.25/$, 10-year bond yield rises as crude prices surge",
+     "url": "https://www.business-standard.com/economy/news/rupee-weakens-to-94-25-10-year-bond-yield-rises-as-crude-prices-surge-126111301340_1.html",
+     "date": "2026-11-13",
+     "source": "Business Standard",
+     "label": "Debt & Bonds",
+     "snippet": "The rupee settled at 94.25 against the dollar, while the benchmark 10-year bond yield rose six basis points to 7.31 per cent amid higher crude prices and a firm dollar index",
+     "lead": "The rupee settled at 94.25 per dollar, compared with the previous close of 94.04 per dollar Don't miss the most important news and views of the day. Get them on our Telegram channel",
+     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/25/thumb/fitandfill/1200X628/1782407878-7939.jpg",
      "why": [
-      "Interest-rate decision",
-      "Global macro driver"
+      "Government bond yields",
+      "Global macro driver",
+      "Sharp market move"
      ],
      "tags": [
-      "Global"
+      "Debt & Bonds"
      ]
     },
     {
      "desk": "Advisory",
      "score": 8,
      "priority": 67,
-     "title": "SEBI–NISM 2026: New Certification Pathways Open Doors for Mutual Fund and PMS Distributors Aged 50 and Above",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORmZESTVmS0o1ODVCRUEzTkItbWVuOGNmOVJDaDNwbzB3MTl3MkY1cHMwSG9zNDNZZ1NqSDVxN2tQWXROanVDWmxDS0E3RUhMaU9hU1ZsYXltdHNKU0hvSzE4TE95a1ppVmlkYzd1THFQV21QUVBKVGdmVzdYdkxxUjZTVmFKQ3hOcnpVYkZYbnoxdzEtUThYRGNkVjUyNWRycVpqVXpZNm9JTHNrS3R0WWwxTy10Wlg4dnhNLU42TkdtQldtUUdheEJ2YkkxNUpiMXZ2TTY3OG93MG5Hbmd4YjVn0gHnAUFVX3lxTFBuOUdkWXRzZWluZzJuQmdsbnVNdWR0UkJULUUyNTNhOGppUWU3ZV9UdHZsc0U0R1RsS1N5QVJoNVpneHNtSGFvQ0c3MXI0aUlOMHJSVFJOZXpRajJSNFV5SXgyS0FnazFsT3hLSlBQdXJVRzZmNUJUR2wtOWxERXZLYkNoWnBUMDJUX1ZfZF9wb1dCZVNlSHo3bzRYZmFIcVpXY0V4d09MY3BpVFN5aU8wWEcxUmlhWjNiNzJTRXBacXZDVmFLX1ljZkRYdXJSM3N0dWZQY1VHQXlGbERVS2FEXzhiUWhDTQ?oc=5",
-     "date": "2026-11-14",
-     "source": "NE India Broadcast",
-     "label": "PMS",
-     "snippet": "India’s securities market is witnessing an important development for experienced professionals in the mutual fund and Portfolio Management Services (PMS) distribution industry. The SEBI–NISM…",
-     "lead": "India’s securities market is witnessing an important development for experienced professionals in the mutual fund and Portfolio Management Services (PMS) distribution industry. The SEBI–NISM certification framework provides an alternative route for eligible individuals aged 50 years and above, allowing them to obtain the relevant certification through Continuing Professional Education (CPE), instead of necessarily appearing for the ...",
-     "image": "https://neindiabroadcast.com/wp-content/uploads/2026/11/TCSQYaTK.jpg",
+     "title": "Arihant Capital Markets gets SEBI nod to launch mutual fund biz",
+     "url": "https://www.thehindubusinessline.com/markets/arihant-capital-markets-gets-sebi-nod-to-launch-mutual-fund-biz/article71697257.ece",
+     "date": "2026-11-13",
+     "source": "BusinessLine",
+     "label": "Mutual Funds",
+     "snippet": "Arihant Capital gets SEBI in-principle approval to launch its own mutual fund, expanding accessible investment solutions nationwide.",
+     "lead": "' blCenterIconDiv.innerHTML = spanSvg blLoaderDiv.appendChild(blCenterLoadDiv) blLoaderDiv.appendChild(blCenterIconDiv) divInner.appendChild(blLoaderDiv) div.appendChild(divInner) var bodyIntravel = setInterval(() => { if(window.document.body) { clearInterval(bodyIntravel) window.document.body.insertBefore(div, window.document.body.firstChild) } }, 100) function addStyle(styles) { var css = document.createElement('style'); css.type = ...",
+     "image": "https://bl-i.thgim.com/public/incoming/2fa6cu/article71697480.ece/alternates/LANDSCAPE_1200/2026-11-04T134653Z_1236041378_RC2LJDAE99D5_RTRMADP_3_INDIA-SEBI-FUND-RAISING.JPG",
      "why": [
-      "PMS news",
-      "Regulator: SEBI or RBI"
+      "Regulator: SEBI or RBI",
+      "New product or fund",
+      "Also covered by 2 other outlet(s)"
      ],
      "tags": [
-      "PMS"
+      "Mutual Funds"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 8,
+     "priority": 67,
+     "title": "US Treasury Yields Surge as Inflation Revives Fed Rate Hike Fears: What It Means for Bitcoin",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN3VraGl6aTk3US1Eelo2SWh1RHNBQy1RZkJMcWtpdHRTclRXY0tYeHZlQThmR205UDE5ODdkZjVtZGhmQ1JZdG1BSnlFanFnb0NMeDNZSGJydTlyckxDVGVpbXdHUEltaHlaSC1fem4yMW02dzlkeUp2aFJ0UFZEa01PeWJqcFNvQWpGbGRxZUo1ajNac1l0eUtJYzZyQ0h2SXVUbnRRNTVYdGtaSV9PLXloOFRNQ0lvQzh0emp4VW0?oc=5",
+     "date": "2026-11-12",
+     "source": "Programming Insider",
+     "label": "Global",
+     "snippet": "One inflation report was enough to shift sentiment across the US bond market. On November 10, hotter-than-expected October CPI data sent the two-year Treasury yield, one of the market’s most sensitive indicators of Federal Reserve policy expectations, surging by as much as 21 basis points to 4.77%. It marked the sharpest single-day increa",
+     "lead": "Search for: Bitcoin Finance US Treasury Yields Surge as Inflation Revives Fed Rate Hike Fears: What It Means for Bitcoin Marc Berman November 12, 2026 © Ewan Kennedy for Unsplash+ Share Facebook Twitter Linkedin Email Threads Bluesky One inflation report was enough to shift sentiment across the US bond market. On November 10, hotter-than-expected October CPI data sent the two-year Treasury yield, one of the market’s most sensitive ...",
+     "image": "https://programminginsider.com/wp-content/uploads/2026/11/ewan-kennedy-97UZ3vPu8SA-unsplash-1024x683.jpg",
+     "why": [
+      "Interest-rate decision",
+      "Global macro driver",
+      "Sharp market move"
+     ],
+     "tags": [
+      "Global"
      ]
     }
    ]
@@ -392,27 +351,52 @@
    "desk": "Startups",
    "score": 11,
    "priority": 100,
-   "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
-   "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+   "title": "India’s deeptech funding record faces a test of scale: Speciale Invest report",
+   "url": "https://yourstory.com/2026/11/indias-deeptech-funding-record-faces-a-test-of-scale-speciale-invest-report",
    "date": "2026-11-16",
-   "source": "TechCrunch Venture",
-   "label": "Global · Other",
-   "snippet": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund.",
-   "lead": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots Anna Heim 11:00 PM PST · November 15, 2026 Operator-led VC firm Plural has raised €1 billion ($1.1 billion) in new capital, joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund . Despite its size, Plural’s fundraise isn’t (only) for a growth fund: two thirds will go to its third early-stage ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Plural-Partner-Photo-Fund-III.jpg?resize=1200,800",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "India’s deeptech funding hit $914 million in 2025, but limited growth capital, manufacturing dependencies and weak commercialisation pathways continue to hinder startups from scaling.",
+   "lead": "India’s deeptech funding record faces a test of scale: Speciale Invest report India’s deeptech funding hit $914 million in 2025, but limited growth capital, manufacturing dependencies and weak commercialisation pathways continue to hinder startups from scaling. Team YS 17587 Stories Monday November 16, 2026 , 3 min Read India’s deeptech companies raised $914 million in 257 rounds in 2025, 34 times the 2016 level. The harder test is ...",
+   "image": "https://images.yourstory.com/cs/2/c2cedff02d6111ef9021856619e24ca1/IMG0470-1744635312325.jpeg",
    "why": [
     "Funding",
-    "Very large figure in headline (about $1,100M: round or valuation)"
+    "Very large figure in headline (about $914M: round or valuation)"
    ],
    "tags": [
-    "Funding"
+    "Funding",
+    "AI & Deeptech"
    ],
    "rank": 1,
    "must_read": true
   },
   {
    "desk": "Immigration",
-   "score": 12,
+   "score": 11,
+   "priority": 100,
+   "title": "New Zealand student visa data: Only 64% of Indian applications approved in 2026; what applicants should k",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPOGZVcXNOTm1WdWFnVjVZSVY5OTdGV1otWWdiWE1IbmFqMGVrNTZCcTVHT2RsbFQxWFhzZWlDNGpudXNUTFNkeFdNZ3ppejFYUG9lTXBxcG9hWVo2TXBpZElmdGI5cDRSaXd4SFplN3NYS091UHRQVGxpenFxT3YwaFB0empzTExpRHZja25sTWhHZC1pNTJJb3JUYlE2ZkYxc3hMekMyWGdSdE9EdndaVGEzUzJnaVZMdHFIaURWaEpuZi1UUGpLa0pDUmM0cDNvUzA4R1Bqb2JPTjhpblpRWDkzYjFYUnVJQkoza2FScV9VdVZIVHdGVXJZZXA1U3N1ZmlFR2t3TUNjREgyVnZjVGFGX09Wa3Y5RGfSAZ8CQVVfeXFMTlhMdXlHdzY1SmZhVnJ3ckJfdDBQWVNQLUtQT1M1TUFkc0dGcTkxZmp6SldNMTRuaDRXYU5TQzFta2Zjak5SRHd6bHExXy1RcXBMM01PZElVZ2tYal9FMVBDZVlZWnpVXzBaSHBVTUpHV3YwY0d6aEpBbEtLbktnVDlsSUlRNUkxR01uWlVQUWtYN2Rtb3M4RlJJS2tTVEJycmJ4NzVNYmxpYVVJVmpGS2xBVTBRX2J1TFJhWGg2dWNRVjZLYkZMTnpna3VBdl9jSzU3cHFBdmttR3BPZDJaT2llN1NhcTlPU0pSWlBRTURRQ1dXYnJqWlk4NG00MjVjeFJGV0Y0NTFVUGNOUVEteU5VcnhPSFNwYWM4ZzZPcHc?oc=5",
+   "date": "2026-11-16",
+   "source": "The Times of India",
+   "label": "New Zealand",
+   "snippet": "Indian students looking to study in New Zealand are facing a more challenging visa approval environment, with just 64.1% of student visa applications from India approved between January and September 2026, according to the latest figures released by Immigration New Zealand (INZ).",
+   "lead": "Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
+   "image": "https://static.toiimg.com/thumb/msid-135885391,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "why": [
+    "Announces a change",
+    "Major story (14 headlines that day)",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Student / Graduate",
+    "New Zealand"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
+   "desk": "Immigration",
+   "score": 11,
    "priority": 100,
    "title": "Australia Announces Date for Citizenship Application Fee Increase Affecting Foreigners",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVnEyczdSX3ZJYUZWNWdoQV9jdGxLaHlvYWdES1E3cjE4UkhUVTVGLUVCVHNvSHJQRzd1R3hCWEZVSEVBZWxPejV0WG5VWm8xX0RXV0E2S3lkMEI1U21vRlFDQ0R5aGVFSldDQnVOUDBkUi02UTVRZDRLZ1BwcjUwd2d3eUptcTRmQkdXQXJmLURDaWN1djhqYXdOcWk2VTRLcHlWMDhCNmE0ZFFzZm5tOTd0OWFhZDFscmxJ?oc=5",
@@ -425,61 +409,13 @@
    "why": [
     "Affects citizenship",
     "Announces a change",
-    "Major story (9 headlines that day)"
+    "Major story (13 headlines that day)"
    ],
    "tags": [
     "Citizenship",
     "Australia"
    ],
-   "rank": 2,
-   "must_read": true
-  },
-  {
-   "desk": "Immigration",
-   "score": 12,
-   "priority": 100,
-   "title": "New Zealand extends post-study work visa to four years for Indian PhD graduates from today; check details",
-   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQYzE2djQ4ZGdEMUdPbzBEMGY5OE1SdXB6bUFhU0JzTGtmMzJ4UW5leTVCMTVqbkV3ZlpwQXFSYUZ5cmVGN3RmNFQ3R0dFZkl5a3VvX09KVGVqRF9ZaEdJMWVQeGhkV0IwM0RjdWdIbXVMa3F0MVZNeDVzUXY0MURuVEwwZGpQWV9NVzRTYWxxNnpzQUxYUTYzOUxzdHFNLUszRHNYbFd6RXdyb0VNc2xqRS1SQTBkYWZpNFlNS1J5ZjRfRDRMZ0xYUjhiTTJIMWZ0S3cwY1ZkcVZkMlVYdEtmYlBJRGRoYW56R3lId0o3bVNfRkxsQ3ZoNFYtNGpuM0NKYWNrOGNkNmc0V1ZKUTkwNWVMSGFDRTRjRVlKRlN1d9IBpAJBVV95cUxNNl9NTkg0aG1DRDdHU2VmSE1jQkhQbi1PbEJ1bGpJUklqaGtROTNfT0lUY3A5MEpvWDRwQ2ltQ3V4Q01rRlFzZDM0TE1oUjk2OVh0QlhabXM2bktNMGR4SndZV3hiNjhRcWNmdVF5ZjlsR2JnTjZabGlaQk1odkxkbXZxM01uNXpMYkJDdVhMcnloNVNWdUdVUzM4RVFEQXZMRm04cVAyUnFCb0lMRWNZMG8zWmJzYjlIMERTdXZZMDJqRlJnTjczT3E1RnVkekxGQWhRX2ZpV3JzOFhJMzR4OEZ4enpic2g2MEo1S0U2Nk9JYm9pTTNYeDlibGNSQ0tkS050c3oxbDdmaFZWdF9MQVdSajBiN1BxblVVMGp3M29PbmFY?oc=5",
-   "date": "2026-11-16",
-   "source": "The Times of India",
-   "label": "New Zealand",
-   "snippet": "Indian students completing doctoral degrees in New Zealand will be eligible for post-study work visas of up to four years from November 16, 2026, following the implementation of new provisions under the India–New Zealand Free Trade Agreement (FTA).",
-   "lead": "Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
-   "image": "https://static.toiimg.com/thumb/msid-135872179,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "why": [
-    "Announces a change",
-    "Major story (8 headlines that day)",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Student / Graduate",
-    "New Zealand"
-   ],
    "rank": 3,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 100,
-   "title": "AI agent startup LangChain hits $3B valuation",
-   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-   "date": "2026-11-14",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-   "lead": "Agent management startup LangChain has raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from investors, including Singapore’s GIC, DFJ Growth, IVP, and Sapphire Ventures, the company announced on Friday. That’s more than double its $1.25 billion valuation when it raised $125 million about a year ago , led by IVP. LangChain began in 2022 as a popular open source project that handled the kinds ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $3,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 4,
    "must_read": true
   },
   {
@@ -503,7 +439,7 @@
    "tags": [
     "Agriculture & Food"
    ],
-   "rank": 5,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -527,8 +463,8 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 6,
-   "must_read": false
+   "rank": 5,
+   "must_read": true
   },
   {
    "desk": "Advisory",
@@ -551,6 +487,29 @@
    "tags": [
     "Regulatory"
    ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "Dreamteam Bags $53 Mn To Disrupt The CRM Space With AI",
+   "url": "https://inc42.com/buzz/dreamteam-bags-53-mn-to-disrupt-the-crm-space-with-ai/",
+   "date": "2026-11-17",
+   "source": "Inc42",
+   "label": "India · AI & Deeptech",
+   "snippet": "AI-native CRM platform Dreamteam has raised $53 Mn in a strategic round from Together Fund, Accel and Premji Invest.",
+   "lead": "Going forward, Dreamteam said that it plans to focus on expanding its use cases across the entire customer lifecycle, including prospecting, onboarding and upselling The fundraise points to growing investor appetite for homegrown startups that help enterprises put AI to work across business functions Founded in 2025, Dreamteam is building an AI-powered CRM platform. Its four AI agents help enterprises track commitments, flag pipeline ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/dreamteam-funding-social-.png",
+   "why": [
+    "Funding",
+    "Sizeable deal (about $53M)"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
    "rank": 7,
    "must_read": false
   },
@@ -558,21 +517,20 @@
    "desk": "Startups",
    "score": 10,
    "priority": 91,
-   "title": "Urban Company shareholders approve Rs 2,500 crore fundraise plan",
-   "url": "https://economictimes.indiatimes.com/tech/technology/urban-company-shareholders-approve-rs-2500-crore-fundraise-plan/articleshow/135859583.cms",
-   "date": "2026-11-15",
-   "source": "ET Startups",
-   "label": "India · Fintech",
-   "snippet": "Urban Company has appointed Morgan Stanley and Kotak Mahindra Capital as bankers to manage the QIP and begun roadshows for the fundraise. A significant portion of the proceeds is expected to be deployed towards InstaHelp, its instant househelp business, which has been incurring heavy losses as the company invests in expanding the segment.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-15676,resizemode-75,msid-135859583/tech/technology/urban-company-shareholders-approve-rs-2500-crore-fundraise-plan.jpg",
+   "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+   "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+   "date": "2026-11-16",
+   "source": "TechCrunch Venture",
+   "label": "Global · Other",
+   "snippet": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund.",
+   "lead": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots Anna Heim 11:00 PM PST · November 15, 2026 Operator-led VC firm Plural has raised €1 billion ($1.1 billion) in new capital, joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund . Despite its size, Plural’s fundraise isn’t (only) for a growth fund: two thirds will go to its third early-stage ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Plural-Partner-Photo-Fund-III.jpg?resize=1200,800",
    "why": [
     "Funding",
-    "Large deal (about $263M)"
+    "Very large figure in headline (about $1,100M: round or valuation)"
    ],
    "tags": [
-    "Funding",
-    "Fintech"
+    "Funding"
    ],
    "rank": 8,
    "must_read": false
@@ -581,23 +539,48 @@
    "desk": "Startups",
    "score": 10,
    "priority": 91,
-   "title": "SoftBank Offloads Meesho Shares Worth ₹1,855 Cr",
-   "url": "https://inc42.com/buzz/softbank-offloads-meesho-shares-worth-%e2%82%b91855-cr/",
+   "title": "AI agent startup LangChain hits $3B valuation",
+   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
    "date": "2026-11-14",
-   "source": "Inc42",
-   "label": "India · Fintech",
-   "snippet": "Japanese tech investor SoftBank yesterday offloaded 7.6 Cr shares of listed ecommerce giant Meesho in a block deal worth ₹1,885.2 Cr.",
-   "lead": "As per NSE data, the investment firm, via its affiliate SVF II Meerkat (DE) LLC, offloaded the stake at ₹246.75 per share to rake in the amount The bulk deal comes as the Japanese investor looks to book profits amid a sharp uptick in Meesho’s share prices in recent months and improving financials The shares that flooded the market were lapped up by Societe Generale, Morgan Stanley, Aditya Birla Sun Life Mutual Fund, Motilal Oswal ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/meesho-bulk-deal-social-.png",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+   "lead": "Agent management startup LangChain has raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from investors, including Singapore’s GIC, DFJ Growth, IVP, and Sapphire Ventures, the company announced on Friday. That’s more than double its $1.25 billion valuation when it raised $125 million about a year ago , led by IVP. LangChain began in 2022 as a popular open source project that handled the kinds ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
    "why": [
-    "IPO & Listing",
-    "Large deal (about $195M)"
+    "Funding",
+    "Very large figure in headline (about $3,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "IPO & Listing",
-    "Fintech"
+    "Funding",
+    "AI & Deeptech"
    ],
    "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 91,
+   "title": "Canada announces plan to provide permanent residence to 100,000 workers and families | World News",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdXNDS1VNMWx4T3BzOExhbjBMRFhBMnU3ZEpSU0daM1lHTHRoNlk4OFZ0TnFRc2FlX3NnOG5yZmc2cWh5ZGkwVk1FUFRkQm5IcnZpVGlYZVl3c1J6WlliM2VvYVZ4VkhOaldhRERVQXZYQmh2bHc2aUNXOGcya2h1T1RuU3c3WjZTX2xqQzZCUVRrNlhGOHlNNGNrcUNBaGI0YnpnSEladktzV2RnSDh5bzJIRjUtZjFXcHhhbm8zRTZjUUhoOTVmdUhTVmZhUDdWbkhVRzd0VS1rc0M1Q2Y2UNIB5gFBVV95cUxOTmhIeTFnS0tQY0FRMXhSdWwzTDN4Wl92bjlUSWdwYlRYaW5tYXVfOHAxX0dOOVRtNGlFdW5GQmprY0IwU3AzNEtZSEpLWkEwLWZ0OW1MUTgteU40UHBXYWwwcEEtOVVqZWRROF9fbGlZY25KcEhQeENMbk1mZzZfZ0QzdEM4ejR0REtneXllMVRUUTRBY0F6eWxRemZ1QW1qXzRMZTFpYjc5QWRldzBlSjM2djRjVFgxMjZPSnltZkx3dGdxdGhzaXRNQWJua0p1ZXQzamNBUy1sY1JhdlRVN25JeWFHZw?oc=5",
+   "date": "2026-11-13",
+   "source": "Hindustan Times",
+   "label": "Canada",
+   "snippet": "Canada to give provinces additional PNP allocations to help transition up to 100,000 established workers and their families to PR in 2027.  | World News",
+   "lead": "Canada will offer provinces and territories additional immigration nomination allocations to transition up to 100,000 workers and their families to permanent residence in 2027. Canada plans permanent residence for 100,000 workers and family members in 2027. (Unsplash) Immigration Minister Lena Metlege Diab announced details of the time-limited measure on November 12, saying provincial and territorial governments would be given ...",
+   "image": null,
+   "why": [
+    "Affects permanent residence",
+    "Announces a change",
+    "Major story (10 headlines that day)"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Canada"
+   ],
+   "rank": 10,
    "must_read": false
   },
   {
@@ -621,7 +604,7 @@
     "Funding",
     "Health & Wellness"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -645,53 +628,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "As inflation stays elevated, RBI's Dec repo rate increase appears certain",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTGxzbkRiZXplSlZSVHpWc1A5Wnc1X0J3NHBJc2FJejdhcHVpZFE3WXo4MnVtSF9VMFdtaEpDSFFLeUR5RGZkNTV1NGhLWXAxOGxUNlRnSmFNNnpBb1dPT1diWU8yU3UzeUlHcGtBWFpYRHMzY0t5TEp3ZTVVSjhZcS1Yd0dHT3FMOW54SnhJbDRKOW1fT2NrVVBrcjFZblNKRUhyZTM3TDR3enQwQnNVZS1pV1lVVmRZUExhSXpMLUw5STVNQ295dTUzaVJQbEE4c0h3RVVacnRROVUx0gHiAUFVX3lxTE01bTJ2d2gwYm1RN0ZTeE5iTHVlSG5pXzBLUDBKY3dBZkdHa1ozSnF1V3FUT1FHR2tweDU3Ymk1NkZyZ3BJV0w3NF9HRjZEV3A4bjEzX0JlQk5wTjVucEdLV2dnQmsxeTU2dzVSQlcwakpYZV83aUFqc1Q4VzlIMjFPQmprNzFvVzA0dkRVYkstUHUtR1c5ODNzZDRXZk5RaG4xQXRvcDBTR0tiOGl1akN0Q3ZnTzZaeU5ZaFJxT2xGbEU4VGxBbFFfNVI2eUREeHo1Mjc1THdIZlBVYkdRR0JwY3c?oc=5",
-   "date": "2026-11-15",
-   "source": "Business Standard",
-   "label": "Regulatory",
-   "snippet": "The MPC in October had projected the retail-inflation rate at 6 per cent for this quarter and 5.7 per cent for the next",
-   "lead": "",
-   "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/04/thumb/fitandfill/1200X628/1793780659-2742.JPG",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
    "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 83,
-   "title": "Canada announces plan to provide permanent residence to 100,000 workers and families | World News",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdXNDS1VNMWx4T3BzOExhbjBMRFhBMnU3ZEpSU0daM1lHTHRoNlk4OFZ0TnFRc2FlX3NnOG5yZmc2cWh5ZGkwVk1FUFRkQm5IcnZpVGlYZVl3c1J6WlliM2VvYVZ4VkhOaldhRERVQXZYQmh2bHc2aUNXOGcya2h1T1RuU3c3WjZTX2xqQzZCUVRrNlhGOHlNNGNrcUNBaGI0YnpnSEladktzV2RnSDh5bzJIRjUtZjFXcHhhbm8zRTZjUUhoOTVmdUhTVmZhUDdWbkhVRzd0VS1rc0M1Q2Y2UNIB5gFBVV95cUxOTmhIeTFnS0tQY0FRMXhSdWwzTDN4Wl92bjlUSWdwYlRYaW5tYXVfOHAxX0dOOVRtNGlFdW5GQmprY0IwU3AzNEtZSEpLWkEwLWZ0OW1MUTgteU40UHBXYWwwcEEtOVVqZWRROF9fbGlZY25KcEhQeENMbk1mZzZfZ0QzdEM4ejR0REtneXllMVRUUTRBY0F6eWxRemZ1QW1qXzRMZTFpYjc5QWRldzBlSjM2djRjVFgxMjZPSnltZkx3dGdxdGhzaXRNQWJua0p1ZXQzamNBUy1sY1JhdlRVN25JeWFHZw?oc=5",
-   "date": "2026-11-13",
-   "source": "Hindustan Times",
-   "label": "Canada",
-   "snippet": "Canada to give provinces additional PNP allocations to help transition up to 100,000 established workers and their families to PR in 2027.  | World News",
-   "lead": "Canada will offer provinces and territories additional immigration nomination allocations to transition up to 100,000 workers and their families to permanent residence in 2027. Canada plans permanent residence for 100,000 workers and family members in 2027. (Unsplash) Immigration Minister Lena Metlege Diab announced details of the time-limited measure on November 12, saying provincial and territorial governments would be given ...",
-   "image": null,
-   "why": [
-    "Affects permanent residence",
-    "Announces a change",
-    "Major story (10 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Canada"
-   ],
-   "rank": 13,
    "must_read": false
   },
   {
@@ -714,6 +651,29 @@
    ],
    "tags": [
     "Gold & Silver"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 83,
+   "title": "RBI releases data on ECB / FCCB / RDB for September 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63961",
+   "date": "2026-11-12",
+   "source": "RBI",
+   "label": "Regulatory",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "The Reserve Bank of India has today released the data on External Commercial Borrowings (ECB), Foreign Currency Convertible Bonds (FCCB) and Rupee Denominated Bonds (RDB) through General Permission and Special Permission for the month of September 2026.",
+   "image": null,
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Global macro driver",
+    "Official notice"
+   ],
+   "tags": [
+    "Regulatory"
    ],
    "rank": 14,
    "must_read": false
@@ -834,6 +794,28 @@
    "must_read": false
   },
   {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 64,
+   "title": "German citizenship: Government outlines 2 grounds for waiving key requirements",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUVhOZ2xSQy1BR2V1dW15VmxwbWJKSENiZkxRZ0s5ekJyRW0xWFA2eFV0aVh0bzJWRVdoWklyZlJlVGxZbEp1aFRwMFZlUEpMMUcxY0laQTgzMGF0SHV2MzdjNTF0akhvQmJ1STJZTEpjQnQ4R0Q4RU5mMmc4UVo4V1dKREQ4RklmdGdBTm9yMDFMUWpOSXg1WUE0RlAyUmk1SUtabHNsaFF0dXJjdWhzcUp2ZUEyeUVUeGc?oc=5",
+   "date": "2026-11-17",
+   "source": "Tuko News",
+   "label": "Germany",
+   "snippet": "Germany has announced two reasons foreigners may be granted citizenship without meeting the full conditions. Other requirements were also explained.",
+   "lead": "World Germany Mentions 2 Reasons Foreigners May Be Granted Citizenship Without Meeting Full Conditions Published 16 Nov 2026 at 9:44 PM by Shillah Mwadosho 3 min read Germany's Citizenship Act provides several routes through which foreigners can acquire German citizenship, including naturalization under Section 8 Applicants seeking discretionary naturalization must generally meet conditions relating to their identity, legal residence, ...",
+   "image": "https://cdn.tuko.co.ke/images/1200x675/64e2a3984c33b8bb.jpeg?v=1",
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "Germany"
+   ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
    "desk": "Policy",
    "score": 10,
    "priority": 59,
@@ -852,7 +834,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 20,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -874,43 +856,21 @@
    "tags": [
     "Infrastructure & Transport"
    ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 50,
-   "title": "Germany simplifies visa application process for Bangladeshi students",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44d09XZjNUVWFhSXZqY2duenpsZ3hWaTdLYTg3Y0JibG1jb21wY1FLWFB0enlRYS1ObFRfSmt4cDBPemVyTHltTFhtanZHUWxscjJKZlBwSm5nWWdNS3BicmF30gFvQVVfeXFMTVVVcUt3Y3JIX2dCUHZ0LW9FeVl0MVdoRm11SkhoQUwxaG0zVDBKcDBhT3dqMjlqcnNoRFhJYjdaOTNrREpGU1JtR3ZlXzUzczFnWFdIc0RDSzNmRHRXeTJ5b0lBdF8wY0x5RUltOGZj?oc=5",
-   "date": "2026-11-15",
-   "source": "Prothom Alo English",
-   "label": "Germany",
-   "snippet": "Germany is making the visa application process easier for Bangladeshi students seeking higher education in the country. To this end, the German Embassy in Dhaka is introducing a digital system. \n\nFrom 1 January 2027, Germany will introduce the digital “Consular Services Portal” (Auslandsportal) for visa applications from students seeking ",
-   "lead": "Login Search ই-পেপার বাংলা Login Education Germany simplifies visa application process for Bangladeshi students Staff Correspondent Dhaka Published: 15 Nov 2026, 07: 07 Germany is making the visa application process easier for Bangladeshi students. Freepik Germany is making the visa application process easier for Bangladeshi students seeking higher education in the country. To this end, the German Embassy in Dhaka is introducing a ...",
-   "image": "https://media.prothomalo.com/prothomalo-english%2F2026-11-15%2F7fvyy6dd%2Fprothomalo-bangla2025-10-10od3veuskImage-Online-Tourism-MelaArticle05.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&overlay=&overlay_position=bottom&overlay_width_pct=1",
-   "why": [
-    "Announces a change"
-   ],
-   "tags": [
-    "Student / Graduate",
-    "Germany"
-   ],
    "rank": 22,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 6,
-   "priority": 50,
-   "title": "Six groups can get Dutch citizenship after three years instead of five",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZldlM21NT1NLV0lZM0F1YWJFYzRvQnRCX1JkNUlzbGFURlkyTzJDN2cxVWdlTTRGNG4tSzVVeVg1SHZXaFJ3OWNxckJHT2dMMG1CbWJodjA3Z1BfVkllUEg4SGRqTnV4NllQTktYM2ctYldZaHN0RklUQVFVdGc2dmg0NEoxcllKMkE?oc=5",
-   "date": "2026-11-15",
-   "source": "3News",
+   "priority": 55,
+   "title": "Dutch citizenship in 3 years: Netherlands outlines 6 ways foreigners can qualify",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ3N1OWdLYWZJMncyM0ZRTHcxcnU0SmlXNnJJdGw1WkVUNTQwaUszQXdpeTRzX1piaGd0b0M5T1NvVE1Tc0tmQklENW85cUhrYURwLWQ3bGxfLUJHRUZxcl94M2g4dUVmY3g0dU55U1hwNlJYUzg0NFhGWG9BYUVfZG82QjZyb0RUVUVoZmZmQnV5WC1LMTVVNFNlWFB2bHM?oc=5",
+   "date": "2026-11-16",
+   "source": "Tuko News",
    "label": "Netherlands",
-   "snippet": "The Netherlands' IND allows spouses, cohabiting partners, legitimised adults and stateless residents to apply for Dutch citizenship after three years.",
-   "lead": "The Dutch IND lists six groups, from spouses of Dutch nationals to stateless residents, who can apply for naturalisation after three years, not five. The Immigration and Naturalisation Service (IND) spells out the shorter term among the exceptions to its standard rule: five uninterrupted years in the Kingdom with a valid residence permit, or EU-law residency, the whole time. The three-year route is a long-standing exception in Dutch ...",
-   "image": "https://media.3news.com/dutch-citizenship-after-three-years-six--1200x630.jpg",
+   "snippet": "The Netherlands allows six groups, including Dutch partners and stateless people, to apply for citizenship after three years instead of the usual five-year wait.",
+   "lead": "Foreign nationals living in the Netherlands may qualify for citizenship after three years instead of waiting for the standard five-year period. Netherlands lists 6 groups of foreigners who can get citizenship after 3 years. Photo: Getty Images. Source: Getty Images The country's Immigration and Naturalization Service (IND) has outlined six categories of people who can apply for Dutch citizenship through this shorter route. Under the ...",
+   "image": "https://cdn.tuko.co.ke/images/1200x675/c607bd2f9f83ebcb.jpeg?v=1",
    "why": [
     "Affects citizenship"
    ],
