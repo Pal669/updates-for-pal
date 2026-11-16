@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-16",
- "built": "2026-11-16 02:46 IST",
+ "built": "2026-11-16 08:43 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -28,21 +28,21 @@
    "dp": 2,
    "value": 94.23,
    "change_pct": 0.21,
-   "asof": "15 Nov 23:54 IST"
+   "asof": "16 Nov 08:32 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 95.84,
-   "change_pct": 0.02,
-   "asof": "14 Nov 03:29 IST"
+   "value": 94.74,
+   "change_pct": -1.15,
+   "asof": "16 Nov 08:33 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3886.0,
-   "change_pct": 0.03,
-   "asof": "14 Nov 03:29 IST"
+   "value": 3875.0,
+   "change_pct": -0.28,
+   "asof": "16 Nov 08:33 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -162,8 +162,8 @@
    ]
   },
   "Startups": {
-   "total": 1412,
-   "new_today": 0,
+   "total": 1415,
+   "new_today": 3,
    "items": [
     {
      "desk": "Startups",
@@ -252,28 +252,8 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 1,
+   "new_today": 10,
    "items": [
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 60,
-     "title": "India offers no reason for Norwegian journalist's visa ban",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeUhyUnk3eG5yT3lNMWpwbGN4cUFPVkZIRktmNmlBNmVFbS0xWnlJcnI5czQ1LTNUZkRHYWRxSUlua01TUmxmdDg3Y25TNDBZNVNMdmlHQWEzQUllS0ZoSG9rWmo4bUJjakU5Tnl5aHRJZ3pCZzlnVF8wOFlzNXNIbmk0WkVvMnlHUHJPaDZkQThXaEp4bjBsZQ?oc=5",
-     "date": "2026-11-14",
-     "source": "Journalism Pakistan",
-     "label": "Norway",
-     "snippet": "India's foreign ministry called visas a sovereign function but gave no specific reason for journalist Helle Lyng's reported visa cancellation.",
-     "lead": "NEW DELHI — India's Ministry of External Affairs has declined to give a specific reason for cancelling the visa of Norwegian journalist Helle Lyng Svendsen, who was prevented from travelling to Hyderabad to speak at an international conference on journalism and press freedom. At a November 13 briefing, ministry spokesperson Randhir Jaiswal described visa decisions as a sovereign function of governments. His response came amid ...",
-     "image": "https://www.journalismpakistan.com/news/india-offers-no-reason-for-norwegian-journalist-s-visa-ban.jpg",
-     "why": [
-      "Announces a change",
-      "Mentions India or Indians"
-     ],
-     "tags": [
-      "Norway"
-     ]
-    },
     {
      "desk": "Immigration",
      "score": 6,
@@ -426,7 +406,7 @@
    "why": [
     "Affects permanent residence",
     "Announces a change",
-    "Major story (9 headlines that day)"
+    "Major story (10 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
@@ -742,28 +722,6 @@
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 70,
-   "title": "Australian citizenship travel limits: what Greek Australians need to know",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSE5sYzg3SEhCQUV0ZlhNdlQxbE1kR0dfYlpBOHBfX2NHNWJ0cTVuUHVrY0ZDNjhFRHA0ME9WbDZEa0xIMklINVB6d1dvS01VNGN1TThpS3lXM09EZHFGcU5ZUGRoQlhia1RDMTZLV01zYWUtaFBfZUVjWjRWUWJ3Tl9NSTAtMjU2bDBySWQ2aHNLOXlCVVV4Uw?oc=5",
-   "date": "2026-11-16",
-   "source": "Greek City Times",
-   "label": "Australia",
-   "snippet": "A long summer in Greece could delay your Australian citizenship application. The 90-day rule explained.",
-   "lead": "Headlines circulating this week claim Australia has “set travel limits” for foreigners applying for citizenship. The Australian citizenship travel limits are real, but they are not new. They are the long-standing residence rules in the Australian Citizenship Act, and they catch out applicants every year. For Greek Australians on permanent visas, the rules matter more than most. A long summer in Greece in the year before you apply can ...",
-   "image": "https://greekcitytimes.com/wp-content/uploads/2026/11/2d8a715eb1274dec.webp",
-   "why": [
-    "Affects citizenship"
-   ],
-   "tags": [
-    "Citizenship",
-    "Australia"
-   ],
-   "rank": 16,
-   "must_read": false
-  },
-  {
    "desk": "Policy",
    "score": 11,
    "priority": 65,
@@ -782,7 +740,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 17,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -804,7 +762,7 @@
    "tags": [
     "Other Policy"
    ],
-   "rank": 18,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -826,7 +784,7 @@
     "Student / Graduate",
     "Germany"
    ],
-   "rank": 19,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -848,7 +806,7 @@
     "Citizenship",
     "Netherlands"
    ],
-   "rank": 20,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -869,6 +827,28 @@
    "tags": [
     "Citizenship",
     "Belgium"
+   ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 6,
+   "priority": 60,
+   "title": "India offers no reason for Norwegian journalist's visa ban",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeUhyUnk3eG5yT3lNMWpwbGN4cUFPVkZIRktmNmlBNmVFbS0xWnlJcnI5czQ1LTNUZkRHYWRxSUlua01TUmxmdDg3Y25TNDBZNVNMdmlHQWEzQUllS0ZoSG9rWmo4bUJjakU5Tnl5aHRJZ3pCZzlnVF8wOFlzNXNIbmk0WkVvMnlHUHJPaDZkQThXaEp4bjBsZQ?oc=5",
+   "date": "2026-11-14",
+   "source": "Journalism Pakistan",
+   "label": "Norway",
+   "snippet": "India's foreign ministry called visas a sovereign function but gave no specific reason for journalist Helle Lyng's reported visa cancellation.",
+   "lead": "NEW DELHI — India's Ministry of External Affairs has declined to give a specific reason for cancelling the visa of Norwegian journalist Helle Lyng Svendsen, who was prevented from travelling to Hyderabad to speak at an international conference on journalism and press freedom. At a November 13 briefing, ministry spokesperson Randhir Jaiswal described visa decisions as a sovereign function of governments. His response came amid ...",
+   "image": "https://www.journalismpakistan.com/news/india-offers-no-reason-for-norwegian-journalist-s-visa-ban.jpg",
+   "why": [
+    "Announces a change",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Norway"
    ],
    "rank": 21,
    "must_read": false
