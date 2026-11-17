@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-17",
- "built": "2026-11-17 02:13 IST",
+ "built": "2026-11-17 06:01 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -26,23 +26,23 @@
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 93.91,
-   "change_pct": -0.13,
-   "asof": "17 Nov 02:13 IST"
+   "value": 94.24,
+   "change_pct": 0.22,
+   "asof": "17 Nov 02:35 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 92.39,
-   "change_pct": -3.6,
-   "asof": "17 Nov 02:03 IST"
+   "value": 92.01,
+   "change_pct": -4.0,
+   "asof": "17 Nov 05:44 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3861.0,
-   "change_pct": -0.66,
-   "asof": "17 Nov 02:03 IST"
+   "value": 3862.0,
+   "change_pct": -0.63,
+   "asof": "17 Nov 05:51 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -162,13 +162,35 @@
    ]
   },
   "Startups": {
-   "total": 1441,
-   "new_today": 1,
+   "total": 1443,
+   "new_today": 3,
    "items": [
     {
      "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+     "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+     "date": "2026-11-10",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+     "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Nominal, a four-year-old, Austin-based startup that offers an AI platform purpose-built for engineering and testing complex hardware, like aircraft, nuclear reactors, and smart factories, has raised another big round of financing that triples its valuation. On Monday, it announced a $240 million Series C at a $3 billion valuation ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2023/09/Cameron-McCord.jpg?resize=1200,1200",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $3,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
      "score": 9,
-     "priority": 82,
+     "priority": 69,
      "title": "Former Freshworks executives-founded AI startup Dreamteam raises $53M",
      "url": "https://yourstory.com/2026/11/ex-freshworks-executives-founded-ai-native-crm-startup-dreamteam-raises-53-million-in-funding",
      "date": "2026-11-16",
@@ -189,7 +211,7 @@
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 82,
+     "priority": 69,
      "title": "Trump's Nvidia stake grew to as much as $62 million, Washington Post reports",
      "url": "https://economictimes.indiatimes.com/tech/technology/trumps-nvidia-stake-grew-to-as-much-as-62-million-washington-post-reports/articleshow/135889131.cms",
      "date": "2026-11-16",
@@ -209,7 +231,7 @@
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 82,
+     "priority": 69,
      "title": "Urban Company shareholders approve Rs 2,500 crore fundraise plan",
      "url": "https://economictimes.indiatimes.com/tech/technology/urban-company-shareholders-approve-rs-2500-crore-fundraise-plan/articleshow/135859583.cms",
      "date": "2026-11-15",
@@ -226,39 +248,60 @@
       "Funding",
       "Fintech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 82,
-     "title": "SoftBank Offloads Meesho Shares Worth ₹1,855 Cr",
-     "url": "https://inc42.com/buzz/softbank-offloads-meesho-shares-worth-%e2%82%b91855-cr/",
-     "date": "2026-11-14",
-     "source": "Inc42",
-     "label": "India · Fintech",
-     "snippet": "Japanese tech investor SoftBank yesterday offloaded 7.6 Cr shares of listed ecommerce giant Meesho in a block deal worth ₹1,885.2 Cr.",
-     "lead": "As per NSE data, the investment firm, via its affiliate SVF II Meerkat (DE) LLC, offloaded the stake at ₹246.75 per share to rake in the amount The bulk deal comes as the Japanese investor looks to book profits amid a sharp uptick in Meesho’s share prices in recent months and improving financials The shares that flooded the market were lapped up by Societe Generale, Morgan Stanley, Aditya Birla Sun Life Mutual Fund, Motilal Oswal ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/meesho-bulk-deal-social-.png",
-     "why": [
-      "IPO & Listing",
-      "Large deal (about $195M)"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "Fintech"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 5,
+   "new_today": 9,
    "items": []
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 0,
+   "new_today": 15,
    "items": [
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 83,
+     "title": "Gold near 13-month low as Fed rate hike fears grow, oil surges towards $96",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN3FGdFFJdno4THRVX3Y3djF1bFNMSXlrZkNPZ3NKZEQtaThVNTZVQ0ZaYk9ZTVZTMnRYdzdwWW9IQlFIT3ExZk1IdGg1VFo0X3lRTWlmdHA2ajU5RTVmTmRZbXMzb25hODRuUGFvaUVkSWIwYnJiY0FxS1NIZlBvS1JVZVRDUFVESmtQVHd0b0djdHVGM290bEViSzdBWVBsOFlkMTdVdGxoRXZMV1h4QkE0SEZfNU5TNjZqanM3NlY3TG9XMWctQ9IBzgFBVV95cUxNZVN6eEx3NWFmRGc1ZmlJRnFPTzNjdWlTUkZiSkczWUtlaW5UWGJrQ3hRNml1SjlzSng5NHpoTE10N3A1aFgtUmctQ2VIN1JnTjRtRzdJSGpaYUtWZmNxMUxzaVlGVmh1emdRdFVFYXJWUWZWYzZCMFpxNlN0a3lrU09FcWxUYXZjMUY2czZBb3VYVmY1c2Fhcl8zYkdZTGNfclJtVnpZSlVjRUJXTjBmcFlPVC1WY3lYMEoyRDNqUmpLM2tJTjFpZHhGbHZxUQ?oc=5",
+     "date": "2026-11-13",
+     "source": "Moneycontrol.com",
+     "label": "Gold & Silver",
+     "snippet": "Gold hovered near $3,880 an ounce after hitting a 13-month low, as stubborn US inflation fuelled Fed rate hike bets and rising Treasury yields pressured bullion.",
+     "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
+     "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261113012637_474892754-scaled.jpg",
+     "why": [
+      "Interest-rate decision",
+      "Precious metals",
+      "Global macro driver",
+      "Sharp market move"
+     ],
+     "tags": [
+      "Gold & Silver"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 75,
+     "title": "SIF Vs PMS Vs AIF: Where SEBI’s Specialised Investment Fund Sits In The Investment Landscape",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ0lsenZod1Y3MEhuUHR5OXRZRW03SUo1Y0xaVEVQOHZRRXpOMUxjREYtYVUyUnFCOHdqNG9HMXg1Y2xtTlZYaV9EcEVDMXV0aFR3VVRIVDlIakNOLXJCVEJpbGxNZkR1cXQ0aG5CNkhqSjZHekZJeW80UkNNc0pHMTdfME9rTkRjbXA4a9IBmgFBVV95cUxOUUJaRjJ5ay1ia1pRamw3UUtQdGVnNDV1dG1yYWpuakMwMDZhcnFyUGFVTVp2aVdlTDBxeU1ta3BxS0g4VnRSMVNnV2FsZjhKLTlJUGFGZEstVWpEQjNQRW8xb1dHcFNsUlBSZjNuS0RzZVpwU2tFQUk4Y1VBanpNOFJOdmoyc29oQUQwdWhfcTVCM0dzcWJFVXZR?oc=5",
+     "date": "2026-11-16",
+     "source": "NewsGram",
+     "label": "PMS",
+     "snippet": "For about a decade, Indian investors with real money but not quite PMS money had nowhere interesting to go. Mutual funds would take anything from a few hundred",
+     "lead": "Copied Follow NewsGram WhatsApp Channel For about a decade, Indian investors with real money but not quite PMS money had nowhere interesting to go. Mutual funds would take anything from a few hundred rupees up. Portfolio management services started at ₹50 lakh. Alternative investment funds started at ₹1 crore. In between sat a lot of people with ₹10 lakh to ₹40 lakh who were told, politely, to keep buying flexi-cap funds. The SIF is ...",
+     "image": "https://media.assettype.com/newsgram%2F2026-11-16%2F8mwiarvl%2FSEBIBhavan.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+     "why": [
+      "PMS news",
+      "Regulator: SEBI or RBI"
+     ],
+     "tags": [
+      "PMS"
+     ]
+    },
     {
      "desk": "Advisory",
      "score": 9,
@@ -284,63 +327,21 @@
      "desk": "Advisory",
      "score": 8,
      "priority": 67,
-     "title": "Rupee weakens to 94.25/$, 10-year bond yield rises as crude prices surge",
-     "url": "https://www.business-standard.com/economy/news/rupee-weakens-to-94-25-10-year-bond-yield-rises-as-crude-prices-surge-126111301340_1.html",
-     "date": "2026-11-13",
-     "source": "Business Standard",
-     "label": "Debt & Bonds",
-     "snippet": "The rupee settled at 94.25 against the dollar, while the benchmark 10-year bond yield rose six basis points to 7.31 per cent amid higher crude prices and a firm dollar index",
-     "lead": "The rupee settled at 94.25 per dollar, compared with the previous close of 94.04 per dollar Don't miss the most important news and views of the day. Get them on our Telegram channel",
-     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/25/thumb/fitandfill/1200X628/1782407878-7939.jpg",
-     "why": [
-      "Government bond yields",
-      "Global macro driver",
-      "Sharp market move"
-     ],
-     "tags": [
-      "Debt & Bonds"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 8,
-     "priority": 67,
-     "title": "Arihant Capital Markets gets SEBI nod to launch mutual fund biz",
-     "url": "https://www.thehindubusinessline.com/markets/arihant-capital-markets-gets-sebi-nod-to-launch-mutual-fund-biz/article71697257.ece",
-     "date": "2026-11-13",
-     "source": "BusinessLine",
-     "label": "Mutual Funds",
-     "snippet": "Arihant Capital gets SEBI in-principle approval to launch its own mutual fund, expanding accessible investment solutions nationwide.",
-     "lead": "' blCenterIconDiv.innerHTML = spanSvg blLoaderDiv.appendChild(blCenterLoadDiv) blLoaderDiv.appendChild(blCenterIconDiv) divInner.appendChild(blLoaderDiv) div.appendChild(divInner) var bodyIntravel = setInterval(() => { if(window.document.body) { clearInterval(bodyIntravel) window.document.body.insertBefore(div, window.document.body.firstChild) } }, 100) function addStyle(styles) { var css = document.createElement('style'); css.type = ...",
-     "image": "https://bl-i.thgim.com/public/incoming/2fa6cu/article71697480.ece/alternates/LANDSCAPE_1200/2026-11-04T134653Z_1236041378_RC2LJDAE99D5_RTRMADP_3_INDIA-SEBI-FUND-RAISING.JPG",
-     "why": [
-      "Regulator: SEBI or RBI",
-      "New product or fund",
-      "Also covered by 2 other outlet(s)"
-     ],
-     "tags": [
-      "Mutual Funds"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 8,
-     "priority": 67,
-     "title": "US Treasury Yields Surge as Inflation Revives Fed Rate Hike Fears: What It Means for Bitcoin",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN3VraGl6aTk3US1Eelo2SWh1RHNBQy1RZkJMcWtpdHRTclRXY0tYeHZlQThmR205UDE5ODdkZjVtZGhmQ1JZdG1BSnlFanFnb0NMeDNZSGJydTlyckxDVGVpbXdHUEltaHlaSC1fem4yMW02dzlkeUp2aFJ0UFZEa01PeWJqcFNvQWpGbGRxZUo1ajNac1l0eUtJYzZyQ0h2SXVUbnRRNTVYdGtaSV9PLXloOFRNQ0lvQzh0emp4VW0?oc=5",
-     "date": "2026-11-12",
-     "source": "Programming Insider",
+     "title": "Daily Summary: Tech Stock Selloff Weighs on Markets, Fed Outlines AI Scenarios",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOU9MWks1cGhtTmxmcGVSMVJPS29TQno0TVJvakJBaEZrREY0NThOUUdCSTdfaGNJNW1wUHpaVC0tRGpSVkxvaGo1LTFJX2lyeDFsLUdiUUZpQUJnUXlfWUlfd2VLZzhXZnk4SURJcGtZbU8zZFAzOElmbVY5Z0JpS2J5TnR4QmtYMFFEaDExNDJ5WVZyM2g5eGczc05oVThtbjJmaGRZd2xqTEJyV1BQNlE1bFBTN1pzdmxOY0VMcFJzWk04STd5LWdoZjdvUQ?oc=5",
+     "date": "2026-11-17",
+     "source": "XTB.com",
      "label": "Global",
-     "snippet": "One inflation report was enough to shift sentiment across the US bond market. On November 10, hotter-than-expected October CPI data sent the two-year Treasury yield, one of the market’s most sensitive indicators of Federal Reserve policy expectations, surging by as much as 21 basis points to 4.77%. It marked the sharpest single-day increa",
-     "lead": "Search for: Bitcoin Finance US Treasury Yields Surge as Inflation Revives Fed Rate Hike Fears: What It Means for Bitcoin Marc Berman November 12, 2026 © Ewan Kennedy for Unsplash+ Share Facebook Twitter Linkedin Email Threads Bluesky One inflation report was enough to shift sentiment across the US bond market. On November 10, hotter-than-expected October CPI data sent the two-year Treasury yield, one of the market’s most sensitive ...",
-     "image": "https://programminginsider.com/wp-content/uploads/2026/11/ewan-kennedy-97UZ3vPu8SA-unsplash-1024x683.jpg",
+     "snippet": "Macroeconomics and Monetary Policy \r\n\r\nFederal Reserve Chair Kevin Warsh spoke at the opening of the Productivity and Jobs Task Force conference hosted by the San Francisco Fed.",
+     "lead": "CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. 79% of retail investor accounts lose money when trading CFDs with this provider. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money. Options are complex financial instruments and come with a high risk of losing the entire premium. Crypto is highly volatile and carry ...",
+     "image": "https://xas-new-cdn.xtb.com/branch_configuration_og_image/0104/61/07d34950-8225-4e35-aef2-30800a06d48f/og-image.png",
      "why": [
-      "Interest-rate decision",
       "Global macro driver",
       "Sharp market move"
      ],
      "tags": [
-      "Global"
+      "Global",
+      "IT & Tech"
      ]
     }
    ]
@@ -349,19 +350,20 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 11,
+   "score": 13,
    "priority": 100,
-   "title": "India’s deeptech funding record faces a test of scale: Speciale Invest report",
-   "url": "https://yourstory.com/2026/11/indias-deeptech-funding-record-faces-a-test-of-scale-speciale-invest-report",
-   "date": "2026-11-16",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "India’s deeptech funding hit $914 million in 2025, but limited growth capital, manufacturing dependencies and weak commercialisation pathways continue to hinder startups from scaling.",
-   "lead": "India’s deeptech funding record faces a test of scale: Speciale Invest report India’s deeptech funding hit $914 million in 2025, but limited growth capital, manufacturing dependencies and weak commercialisation pathways continue to hinder startups from scaling. Team YS 17587 Stories Monday November 16, 2026 , 3 min Read India’s deeptech companies raised $914 million in 257 rounds in 2025, 34 times the 2016 level. The harder test is ...",
-   "image": "https://images.yourstory.com/cs/2/c2cedff02d6111ef9021856619e24ca1/IMG0470-1744635312325.jpeg",
+   "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+   "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+   "date": "2026-11-17",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+   "lead": "Three months after introducing its product, AI cybersecurity startup Corma has raised a $125 million Series A round at a $1 billion valuation led by NEA, the company said. Corma offers AI models and agents trained for cybersecurity defense. It has now raised a total of $185 million from backers, including Sequoia Capital, Khosla Ventures, and Coatue. The startup came out of stealth in August. Interest in its product skyrocketed after a ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
    "why": [
     "Funding",
-    "Very large figure in headline (about $914M: round or valuation)"
+    "Very large figure in headline (about $1,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
     "Funding",
@@ -384,7 +386,7 @@
    "image": "https://static.toiimg.com/thumb/msid-135885391,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
    "why": [
     "Announces a change",
-    "Major story (14 headlines that day)",
+    "Major story (17 headlines that day)",
     "Mentions India or Indians"
    ],
    "tags": [
@@ -470,6 +472,29 @@
    "desk": "Advisory",
    "score": 11,
    "priority": 92,
+   "title": "AIF commitments hit a high of ₹18.68 trillion as of September: Sebi data",
+   "url": "https://www.business-standard.com/markets/news/aif-commitments-hit-a-high-of-18-68-trillion-as-of-september-sebi-data-126111601365_1.html",
+   "date": "2026-11-16",
+   "source": "Business Standard",
+   "label": "AIF",
+   "snippet": "In comparison, the total commitments in this segment catering to the affluent stood at ₹17.53 trillion at the end of June while it was ₹15.05 trillion a year ago",
+   "lead": "AIF commitments are usually drawn segments by fund managers when investment opportunities are identified, and get reflected progressively in the funds raised and investments made Don't miss the most important news and views of the day. Get them on our Telegram channel",
+   "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-12/26/thumb/fitandfill/1200X628/1766768985-157.jpg",
+   "why": [
+    "AIF news",
+    "Regulator: SEBI or RBI",
+    "Also covered by 2 other outlet(s)"
+   ],
+   "tags": [
+    "AIF"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 92,
    "title": "Rs 80,000 crore FII buying sparks explosive rally on Dalal Street. Will RBI rate hike worries kill the party?",
    "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-80000-crore-fii-buying-sparks-explosive-rally-on-dalal-street-will-rbi-rate-hike-worries-kill-the-party/articleshow/135755863.cms",
    "date": "2026-11-12",
@@ -487,76 +512,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "Dreamteam Bags $53 Mn To Disrupt The CRM Space With AI",
-   "url": "https://inc42.com/buzz/dreamteam-bags-53-mn-to-disrupt-the-crm-space-with-ai/",
-   "date": "2026-11-17",
-   "source": "Inc42",
-   "label": "India · AI & Deeptech",
-   "snippet": "AI-native CRM platform Dreamteam has raised $53 Mn in a strategic round from Together Fund, Accel and Premji Invest.",
-   "lead": "Going forward, Dreamteam said that it plans to focus on expanding its use cases across the entire customer lifecycle, including prospecting, onboarding and upselling The fundraise points to growing investor appetite for homegrown startups that help enterprises put AI to work across business functions Founded in 2025, Dreamteam is building an AI-powered CRM platform. Its four AI agents help enterprises track commitments, flag pipeline ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/dreamteam-funding-social-.png",
-   "why": [
-    "Funding",
-    "Sizeable deal (about $53M)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
    "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
-   "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
-   "date": "2026-11-16",
-   "source": "TechCrunch Venture",
-   "label": "Global · Other",
-   "snippet": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund.",
-   "lead": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots Anna Heim 11:00 PM PST · November 15, 2026 Operator-led VC firm Plural has raised €1 billion ($1.1 billion) in new capital, joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund . Despite its size, Plural’s fundraise isn’t (only) for a growth fund: two thirds will go to its third early-stage ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Plural-Partner-Photo-Fund-III.jpg?resize=1200,800",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $1,100M: round or valuation)"
-   ],
-   "tags": [
-    "Funding"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "AI agent startup LangChain hits $3B valuation",
-   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-   "date": "2026-11-14",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-   "lead": "Agent management startup LangChain has raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from investors, including Singapore’s GIC, DFJ Growth, IVP, and Sapphire Ventures, the company announced on Friday. That’s more than double its $1.25 billion valuation when it raised $125 million about a year ago , led by IVP. LangChain began in 2022 as a popular open source project that handled the kinds ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $3,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 9,
    "must_read": false
   },
   {
@@ -580,13 +536,151 @@
     "PR / Settlement",
     "Canada"
    ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "India’s deeptech funding record faces a test of scale: Speciale Invest report",
+   "url": "https://yourstory.com/2026/11/indias-deeptech-funding-record-faces-a-test-of-scale-speciale-invest-report",
+   "date": "2026-11-16",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "India’s deeptech funding hit $914 million in 2025, but limited growth capital, manufacturing dependencies and weak commercialisation pathways continue to hinder startups from scaling.",
+   "lead": "India’s deeptech funding record faces a test of scale: Speciale Invest report India’s deeptech funding hit $914 million in 2025, but limited growth capital, manufacturing dependencies and weak commercialisation pathways continue to hinder startups from scaling. Team YS 17587 Stories Monday November 16, 2026 , 3 min Read India’s deeptech companies raised $914 million in 257 rounds in 2025, 34 times the 2016 level. The harder test is ...",
+   "image": "https://images.yourstory.com/cs/2/c2cedff02d6111ef9021856619e24ca1/IMG0470-1744635312325.jpeg",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $914M: round or valuation)"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 83,
+   "title": "SEBI sets panel to review IPO rules, examine disclosure norms and capital-raising framework",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM01ORHhoLXZXZGFWaU9nNVNZX0NYeEE1endEc1h6N0ItTm0xNnlRb0dpUnJUX3Fvd2ZzMFQ2SElCa2lfZGFnalVoblBQc09GSDJjb2tyNWhRUVdHN3dQUFJVTGI4Vk9FTHUyVktNVWJCOEFYWXNqMmtlbmc1a1R1elk4ZGJyMUNwRUtyaFY0bkRVQ3Q5cTdiYzgzTnk4Q3VQQ1BnZXMtNHQyaEdQR1hrS3U4aHl5a2xVb1RBQmJWVmNIWWpYWm0tUjlZNkxfVzdxS0ZFQXZ3Ti1RQdIB3wFBVV95cUxPOTBqM2RkUXRpM0tXeUt3bGxNOHNTRE5DQno4Z21iTmpUSnRJYTEzRnAtV2M3NmJWdDNqaXF6MWhLcTJPcDdJQ3ZlYkk3dWlyMi1pZHFXbUM1YS1kMzNWSG85ek4zZE5zTmlUNTBHampqbWVTblB4Zzl3bWkwLUJZS0RiekdZT1hVR3V3cThGcnRiTURKQmU3ZGtETTBnTlp3TlBjc25OdmQ5ejFmLU5YXzNsdklWN3FUYzFUclZ5ZDhHeDR3NUE2bXlPY1c1aUV6UTBwc1JKVjk3bkVZT3ZZ?oc=5",
+   "date": "2026-11-16",
+   "source": "ET Now",
+   "label": "Regulatory",
+   "snippet": "SEBI has formed an expert panel led by NSE chief Ashish Chauhan to review IPO regulations, simplify disclosure requirements and examine fundraising rules while maintaining investor protection and market integrity.",
+   "lead": "Get the latest financial news and personalised updates to stay ahead ofthe rest! Budget 2027: पीएम किसान की किस्त बढ़े, दालों की पूरी खरीद हो और गाय पालने पर मिले पैसा, सरकार से किसानों की बड़ी मांगें Ayushman Card: मोतियाबिंद से लिवर के इलाज तक, 112 बीमारियों का सरकारी अस्पतालों में होगा इलाज! आयुष्मान कार्डहोल्डर्स के लिए क्या बदला?",
+   "image": "https://images.etnownews.com/thumb/msid-156519995,thumbsize-95188,width-1280,height-720,resizemode-75/156519995.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Rule or framework change",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
    "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 83,
+   "title": "Silver ETFs slide up to 5% as Fed rate hike fears weigh on prices. Should investors buy, hold or exit?",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNlQyTHpXdEhoLTNmeGYwYlBwWG9fZDdmWWcxRE9qMlFBSkUzeThrVVZJRmVpVEoyM3ViQk9TMUxHTHdPX1ViNmQxN3Q1d2hLbWRWOVZjc2xaR3RVeGF4YXd4V2R2SVRkOUtZeDV2Yy04LVFFTXRSTEFObDlfejdoREQ4VWd5b201TDFKUWY1WUpOeTRMOEtHaVY5bU1Qb2d2VzBUcEtjeTBwTjFUYnZRek1xMnFDcHloMkk0LTIyTzFIVHV3RkZuR3ZXMnhLR2pUQmZ6Q1Zpc0ZMbFlBbUY2cTJTYnc3d3RzSUV2WDVEZFZCN2hoVnfSAfsBQVVfeXFMTjNLZG1wLUh0WWlSMDRnYlkycHhQVXpGV05EdmlwVW9RWlg1S0Y4T2p0N21pNHNJaDFOYU5nZTFtSUlWNFBzRkdSbGxVZWZ1MDByeFRFQ0tCTnFiY0Vqd0EwakxFRUZONkpMZEl1NzZUVHM1a3dqY0t1b1lUTzZZLXZKckxQVE16VHBBQm1vV3IweHktTUFLblRCZVFVRlBRZmxpaXNWVWUzZ0hEUjU0QUJzdEM1eE9VM0RvUS1hbk9pbWZPNnc1blBnZ05zWWFBMlgzTVR1d05UVi1Ic21GUk5oZkFZT1pqQzF3RXRJUklQNW51dUx0eHdXRUE?oc=5",
+   "date": "2026-11-16",
+   "source": "The Economic Times",
+   "label": "Gold & Silver",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Interest-rate decision",
+    "Precious metals",
+    "Global macro driver"
+   ],
+   "tags": [
+    "Gold & Silver"
+   ],
+   "rank": 11,
    "must_read": false
   },
   {
    "desk": "Startups",
    "score": 10,
-   "priority": 91,
+   "priority": 77,
+   "title": "Dreamteam Bags $53 Mn To Disrupt The CRM Space With AI",
+   "url": "https://inc42.com/buzz/dreamteam-bags-53-mn-to-disrupt-the-crm-space-with-ai/",
+   "date": "2026-11-17",
+   "source": "Inc42",
+   "label": "India · AI & Deeptech",
+   "snippet": "AI-native CRM platform Dreamteam has raised $53 Mn in a strategic round from Together Fund, Accel and Premji Invest.",
+   "lead": "Going forward, Dreamteam said that it plans to focus on expanding its use cases across the entire customer lifecycle, including prospecting, onboarding and upselling The fundraise points to growing investor appetite for homegrown startups that help enterprises put AI to work across business functions Founded in 2025, Dreamteam is building an AI-powered CRM platform. Its four AI agents help enterprises track commitments, flag pipeline ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/dreamteam-funding-social-.png",
+   "why": [
+    "Funding",
+    "Sizeable deal (about $53M)"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 77,
+   "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+   "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+   "date": "2026-11-16",
+   "source": "TechCrunch Venture",
+   "label": "Global · Other",
+   "snippet": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund.",
+   "lead": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots Anna Heim 11:00 PM PST · November 15, 2026 Operator-led VC firm Plural has raised €1 billion ($1.1 billion) in new capital, joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund . Despite its size, Plural’s fundraise isn’t (only) for a growth fund: two thirds will go to its third early-stage ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Plural-Partner-Photo-Fund-III.jpg?resize=1200,800",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $1,100M: round or valuation)"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 77,
+   "title": "AI agent startup LangChain hits $3B valuation",
+   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+   "date": "2026-11-14",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+   "lead": "Agent management startup LangChain has raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from investors, including Singapore’s GIC, DFJ Growth, IVP, and Sapphire Ventures, the company announced on Friday. That’s more than double its $1.25 billion valuation when it raised $125 million about a year ago , led by IVP. LangChain began in 2022 as a popular open source project that handled the kinds ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $3,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 77,
    "title": "Exclusive: Sofina To Lead PlatinumRx’s $32 Mn Funding At $200 Mn Valuation",
    "url": "https://inc42.com/buzz/sofina-to-lead-platinumrxs-32-mn-funding-at-200-mn-valuation/",
    "date": "2026-11-12",
@@ -603,101 +697,6 @@
    "tags": [
     "Funding",
     "Health & Wellness"
-   ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-   "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-   "date": "2026-11-10",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
-   "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Nominal, a four-year-old, Austin-based startup that offers an AI platform purpose-built for engineering and testing complex hardware, like aircraft, nuclear reactors, and smart factories, has raised another big round of financing that triples its valuation. On Monday, it announced a $240 million Series C at a $3 billion valuation ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/09/Cameron-McCord.jpg?resize=1200,1200",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $3,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "Gold near 13-month low as Fed rate hike fears grow, oil surges towards $96",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN3FGdFFJdno4THRVX3Y3djF1bFNMSXlrZkNPZ3NKZEQtaThVNTZVQ0ZaYk9ZTVZTMnRYdzdwWW9IQlFIT3ExZk1IdGg1VFo0X3lRTWlmdHA2ajU5RTVmTmRZbXMzb25hODRuUGFvaUVkSWIwYnJiY0FxS1NIZlBvS1JVZVRDUFVESmtQVHd0b0djdHVGM290bEViSzdBWVBsOFlkMTdVdGxoRXZMV1h4QkE0SEZfNU5TNjZqanM3NlY3TG9XMWctQ9IBzgFBVV95cUxNZVN6eEx3NWFmRGc1ZmlJRnFPTzNjdWlTUkZiSkczWUtlaW5UWGJrQ3hRNml1SjlzSng5NHpoTE10N3A1aFgtUmctQ2VIN1JnTjRtRzdJSGpaYUtWZmNxMUxzaVlGVmh1emdRdFVFYXJWUWZWYzZCMFpxNlN0a3lrU09FcWxUYXZjMUY2czZBb3VYVmY1c2Fhcl8zYkdZTGNfclJtVnpZSlVjRUJXTjBmcFlPVC1WY3lYMEoyRDNqUmpLM2tJTjFpZHhGbHZxUQ?oc=5",
-   "date": "2026-11-13",
-   "source": "Moneycontrol.com",
-   "label": "Gold & Silver",
-   "snippet": "Gold hovered near $3,880 an ounce after hitting a 13-month low, as stubborn US inflation fuelled Fed rate hike bets and rising Treasury yields pressured bullion.",
-   "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
-   "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261113012637_474892754-scaled.jpg",
-   "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Gold & Silver"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "RBI releases data on ECB / FCCB / RDB for September 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63961",
-   "date": "2026-11-12",
-   "source": "RBI",
-   "label": "Regulatory",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The Reserve Bank of India has today released the data on External Commercial Borrowings (ECB), Foreign Currency Convertible Bonds (FCCB) and Rupee Denominated Bonds (RDB) through General Permission and Special Permission for the month of September 2026.",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Global macro driver",
-    "Official notice"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "Gold rate climbs after 3% drop: Is a rally likely as Fed Dec rate hike bets surge?",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVWVNQ2VqeGRfZ2xFd2lKM1hhWGlXSm5Dbk9YTFVkeTd5ZjBTSUwxSUF0WGg2XzJhT2xENnM2ZjNpRHY1a3JtcjVvd3VCSjQyR250dDRGMXZmUW1BRWo5RXRnOERyYjNveDV2Sm0wN2lTZFVybzlEYWJpWUg2cnRabVI4ckRURl84MFdnMDVxb3hwdENEVTFLaGx1VjhOZExUY0ZPS05OQk1fQWhBeHNtZ3lOYjBFRXRCM0xvRXVMZnA2Q3kxR1NHVXBmRXNrSGNScjh0S3NuMjR3RzhhV3lpVERQVjRISy05NU1kSmFxTEI1aE93cHFlMEdLdUFJZ00tV2fSAYgCQVVfeXFMTnFjWU42Y0w0X1VaYk1tM1hrZDV6ck9aMDBPMm1vbGlBVjhHek5nVnZ1R09hbVlFRE5jSGpXWHR0Nmp3VDI3Z2dpVC0wdVRzVnNpaGJvWWJXTlRGV241UjctWlI4NVZEbTFjYmNoYUNGY0d5Z3NON1U1Mkc0dnpFTGFjcXI1MDFKMFRCRnVpSFBOQjg5Z0phenpSdkZCdWdBcnhDWlNNdjVldWZtdkl4d2N6NHU0VzRjeEI2eFkxRXl2NEdnb1I0b1k5SGtKUUl5SHRjQUdYQk5vTjBvSDZiX0ZFZE1ZdVNKQkFwQWRwazlvRmNoN1NYaUJsemxkSGNiVEtXNWRianNH?oc=5",
-   "date": "2026-11-11",
-   "source": "The Financial Express",
-   "label": "Gold & Silver",
-   "snippet": "Gold Rate Today, November 11: Check gold and silver rates in India on November 11, MCX futures, spot prices and the impact of US inflation",
-   "lead": "",
-   "image": "https://images.financialexpressdigital.com/2026/11/Today-Gold-Rate-in-India.jpg",
-   "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Gold & Silver"
    ],
    "rank": 15,
    "must_read": false
