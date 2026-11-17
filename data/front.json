@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-17",
- "built": "2026-11-17 13:17 IST",
+ "built": "2026-11-17 13:56 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25396.0,
-   "change_pct": 0.42,
-   "asof": "17 Nov 13:17 IST"
+   "value": 25458.0,
+   "change_pct": 0.66,
+   "asof": "17 Nov 13:56 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 82750.0,
-   "change_pct": 0.79,
-   "asof": "17 Nov 13:02 IST"
+   "value": 82652.0,
+   "change_pct": 0.67,
+   "asof": "17 Nov 13:41 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 93.57,
-   "change_pct": -0.71,
-   "asof": "17 Nov 13:17 IST"
+   "value": 93.46,
+   "change_pct": -0.83,
+   "asof": "17 Nov 13:56 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 91.9,
-   "change_pct": -0.58,
-   "asof": "17 Nov 13:06 IST"
+   "value": 91.96,
+   "change_pct": -0.52,
+   "asof": "17 Nov 13:45 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3879.0,
-   "change_pct": 0.66,
-   "asof": "17 Nov 13:07 IST"
+   "value": 3866.0,
+   "change_pct": 0.33,
+   "asof": "17 Nov 13:46 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -162,8 +162,8 @@
    ]
   },
   "Startups": {
-   "total": 1451,
-   "new_today": 11,
+   "total": 1454,
+   "new_today": 14,
    "items": [
     {
      "desk": "Startups",
@@ -185,6 +185,27 @@
      "tags": [
       "Funding",
       "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 69,
+     "title": "Mamaearth parent Honasa’s Q2 profit jumps 87% to Rs 73 cr, revenue up 36%",
+     "url": "https://www.medianama.com/2026/11/223-mamaearth-honasas-profit-revenue/",
+     "date": "2026-11-17",
+     "source": "MediaNama",
+     "label": "India · Health & Wellness",
+     "snippet": "Mamaearth parent Honasa's Q2 FY27 profit rose 87% to Rs 73.2 crore as revenue grew 36%. It also called off the Fluence deal.",
+     "lead": "Honasa Consumer, which owns beauty and personal care brands such as Mamaearth, The Derma Co and BBlunt, posted a consolidated net profit of Rs 73.2 crore in the second quarter (Q2) of the fiscal year 2026-27 (FY27), up 87% from Rs 39.2 crore in the corresponding period a year earlier. Revenue from operations surged 36% to Rs 731.2 crore during the September quarter of FY27 from Rs 538.1 crore in the same quarter last year, according to ...",
+     "image": "https://www.medianama.com/wp-content/uploads/2015/10/beauty-e1444034645122.jpg.jpg",
+     "why": [
+      "Financials",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Financials",
+      "Health & Wellness"
      ]
     },
     {
@@ -227,33 +248,12 @@
      "tags": [
       "IPO & Listing"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 69,
-     "title": "Urban Company shareholders approve Rs 2,500 crore fundraise plan",
-     "url": "https://economictimes.indiatimes.com/tech/technology/urban-company-shareholders-approve-rs-2500-crore-fundraise-plan/articleshow/135859583.cms",
-     "date": "2026-11-15",
-     "source": "ET Startups",
-     "label": "India · Fintech",
-     "snippet": "Urban Company has appointed Morgan Stanley and Kotak Mahindra Capital as bankers to manage the QIP and begun roadshows for the fundraise. A significant portion of the proceeds is expected to be deployed towards InstaHelp, its instant househelp business, which has been incurring heavy losses as the company invests in expanding the segment.",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-15676,resizemode-75,msid-135859583/tech/technology/urban-company-shareholders-approve-rs-2500-crore-fundraise-plan.jpg",
-     "why": [
-      "Funding",
-      "Large deal (about $263M)"
-     ],
-     "tags": [
-      "Funding",
-      "Fintech"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 32,
+   "new_today": 34,
    "items": [
     {
      "desk": "Immigration",
@@ -408,7 +408,7 @@
    "why": [
     "Quota or cap change",
     "Announces a change",
-    "Major story (12 headlines that day)"
+    "Major story (13 headlines that day)"
    ],
    "tags": [
     "Quota / Caps",
