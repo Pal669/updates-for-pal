@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-17",
- "built": "2026-11-17 10:48 IST",
+ "built": "2026-11-17 13:17 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25392.0,
-   "change_pct": 0.4,
-   "asof": "17 Nov 10:48 IST"
+   "value": 25396.0,
+   "change_pct": 0.42,
+   "asof": "17 Nov 13:17 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 82445.0,
-   "change_pct": 0.41,
-   "asof": "17 Nov 10:33 IST"
+   "value": 82750.0,
+   "change_pct": 0.79,
+   "asof": "17 Nov 13:02 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 93.63,
-   "change_pct": -0.65,
-   "asof": "17 Nov 10:48 IST"
+   "value": 93.57,
+   "change_pct": -0.71,
+   "asof": "17 Nov 13:17 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 91.68,
-   "change_pct": -0.82,
-   "asof": "17 Nov 10:35 IST"
+   "value": 91.9,
+   "change_pct": -0.58,
+   "asof": "17 Nov 13:06 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3878.0,
-   "change_pct": 0.64,
-   "asof": "17 Nov 10:38 IST"
+   "value": 3879.0,
+   "change_pct": 0.66,
+   "asof": "17 Nov 13:07 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,8 +79,8 @@
  },
  "desks": {
   "Policy": {
-   "total": 356,
-   "new_today": 0,
+   "total": 358,
+   "new_today": 2,
    "items": [
     {
      "desk": "Policy",
@@ -144,26 +144,26 @@
      "desk": "Policy",
      "score": 5,
      "priority": 29,
-     "title": "Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335785",
-     "date": "2026-11-13",
+     "title": "India’s Horticulture Production Set to Reach Record 386.9 Million Tonnes in 2025-26: Shri Shivraj Singh Chouhan Releases Third Advance Estimates",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2337301",
+     "date": "2026-11-17",
      "source": "PIB",
-     "label": "Banking & Rates",
-     "snippet": "The development of a systematic framework to measure the contribution of knowledge and knowledge pro",
-     "lead": "Ministry of Statistics & Programme Implementation Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems Posted On: 13 NOV 2026 2:40PM by PIB Delhi The development of a systematic framework to measure the contribution of knowledge and knowledge products to the Indian economy assumes significance in the context of the growing role of knowledge in driving economic activity, productivity and value ...",
+     "label": "Agriculture & Food",
+     "snippet": "Union Minister for Agriculture and Farmers’ Welfare and Rural Development, Shri Shivraj Singh Chouhan, today released the Third Advance Estimates of area and production of horticultural crops for 2025",
+     "lead": "Ministry of Agriculture & Farmers Welfare India’s Horticulture Production Set to Reach Record 386.9 Million Tonnes in 2025-26: Shri Shivraj Singh Chouhan Releases Third Advance Estimates Horticulture production estimated to rise by 4.36% despite a decline in cultivated area; fruits, vegetables, flowers and plantation crops register strong growth Potato production projected to increase by nearly 12%; overall horticulture output expected ...",
      "image": null,
      "why": [
-      "Rates and liquidity"
+      "Rule change"
      ],
      "tags": [
-      "Banking & Rates"
+      "Agriculture & Food"
      ]
     }
    ]
   },
   "Startups": {
-   "total": 1449,
-   "new_today": 9,
+   "total": 1451,
+   "new_today": 11,
    "items": [
     {
      "desk": "Startups",
@@ -253,7 +253,7 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 19,
+   "new_today": 32,
    "items": [
     {
      "desk": "Immigration",
@@ -397,6 +397,30 @@
    "desk": "Immigration",
    "score": 11,
    "priority": 100,
+   "title": "Australia Backpacker Visa Changes: Third-Year Cap Raised to 25,000 After Backlash",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY19PeVdZOVBkNURpU2tHMkhFTWFac3p6U2VZMmtfRldyU01MYmoxaEFzTk5tam9nYS04M3VNSXR4clRZbEkxRGxla3lYR1JjVHlkbkpvNDlGYnRXWmxMcEVmRnhFSWlXc0RJeFRDNFBySF8tdVQ3NkVldVhQelNNa212V0ZZOEtxVzY4SDA2aEhCaDRyaGtvUVZkcDM3TjRqTmVTcDBwWlB6bkduSWdiZFdnbkV5aDhFRVE?oc=5",
+   "date": "2026-11-17",
+   "source": "Around Prague",
+   "label": "Australia",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Quota or cap change",
+    "Announces a change",
+    "Major story (12 headlines that day)"
+   ],
+   "tags": [
+    "Quota / Caps",
+    "Australia"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
+   "desk": "Immigration",
+   "score": 11,
+   "priority": 100,
    "title": "New Zealand student visa data: Only 64% of Indian applications approved in 2026; what applicants should k",
    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPOGZVcXNOTm1WdWFnVjVZSVY5OTdGV1otWWdiWE1IbmFqMGVrNTZCcTVHT2RsbFQxWFhzZWlDNGpudXNUTFNkeFdNZ3ppejFYUG9lTXBxcG9hWVo2TXBpZElmdGI5cDRSaXd4SFplN3NYS091UHRQVGxpenFxT3YwaFB0empzTExpRHZja25sTWhHZC1pNTJJb3JUYlE2ZkYxc3hMekMyWGdSdE9EdndaVGEzUzJnaVZMdHFIaURWaEpuZi1UUGpLa0pDUmM0cDNvUzA4R1Bqb2JPTjhpblpRWDkzYjFYUnVJQkoza2FScV9VdVZIVHdGVXJZZXA1U3N1ZmlFR2t3TUNjREgyVnZjVGFGX09Wa3Y5RGfSAZ8CQVVfeXFMTlhMdXlHdzY1SmZhVnJ3ckJfdDBQWVNQLUtQT1M1TUFkc0dGcTkxZmp6SldNMTRuaDRXYU5TQzFta2Zjak5SRHd6bHExXy1RcXBMM01PZElVZ2tYal9FMVBDZVlZWnpVXzBaSHBVTUpHV3YwY0d6aEpBbEtLbktnVDlsSUlRNUkxR01uWlVQUWtYN2Rtb3M4RlJJS2tTVEJycmJ4NzVNYmxpYVVJVmpGS2xBVTBRX2J1TFJhWGg2dWNRVjZLYkZMTnpna3VBdl9jSzU3cHFBdmttR3BPZDJaT2llN1NhcTlPU0pSWlBRTURRQ1dXYnJqWlk4NG00MjVjeFJGV0Y0NTFVUGNOUVEteU5VcnhPSFNwYWM4ZzZPcHc?oc=5",
    "date": "2026-11-16",
@@ -407,36 +431,12 @@
    "image": "https://static.toiimg.com/thumb/msid-135885391,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
    "why": [
     "Announces a change",
-    "Major story (17 headlines that day)",
+    "Major story (18 headlines that day)",
     "Mentions India or Indians"
    ],
    "tags": [
     "Student / Graduate",
     "New Zealand"
-   ],
-   "rank": 2,
-   "must_read": true
-  },
-  {
-   "desk": "Immigration",
-   "score": 11,
-   "priority": 100,
-   "title": "Australia Announces Date for Citizenship Application Fee Increase Affecting Foreigners",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVnEyczdSX3ZJYUZWNWdoQV9jdGxLaHlvYWdES1E3cjE4UkhUVTVGLUVCVHNvSHJQRzd1R3hCWEZVSEVBZWxPejV0WG5VWm8xX0RXV0E2S3lkMEI1U21vRlFDQ0R5aGVFSldDQnVOUDBkUi02UTVRZDRLZ1BwcjUwd2d3eUptcTRmQkdXQXJmLURDaWN1djhqYXdOcWk2VTRLcHlWMDhCNmE0ZFFzZm5tOTd0OWFhZDFscmxJ?oc=5",
-   "date": "2026-11-16",
-   "source": "Tuko News",
-   "label": "Australia",
-   "snippet": "Australia has announced an upcoming change affecting people who hope to become citizens, signalling a shift in how citizenship applications will cost.",
-   "lead": "World Australia Announces Date for Citizenship Application Fee Increase Affecting Foreigners Published 16 Nov 2026 at 9:37 AM by Shillah Mwadosho 3 min read Australia’s Department of Home Affairs says citizenship application fees increase every year on July 1 Applicants with a valid government-issued Pensioner Concession Card may qualify for a reduced fee Certain former child migrants, former permanent force members and stateless ...",
-   "image": "https://cdn.tuko.co.ke/images/1200x675/29c1e59c2e4625a5.jpeg?v=1",
-   "why": [
-    "Affects citizenship",
-    "Announces a change",
-    "Major story (13 headlines that day)"
-   ],
-   "tags": [
-    "Citizenship",
-    "Australia"
    ],
    "rank": 3,
    "must_read": true
@@ -883,19 +883,20 @@
    "desk": "Immigration",
    "score": 6,
    "priority": 55,
-   "title": "Moroccans could lose Spanish citizenship under Vox proposal to review naturalizations",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZTJmYXJiQnVKOEYzVUQ0REh2cVJ1azlJc2hWTWlETWVldlJJMktUSWZxclFMSXdRMlRpblVhdS1RM2xqTzdvOU9NbllDVU9COUVoUzBud2R0bW50NS13UTV1SFdWOUhWakNtcnhfSTkzaENLZkptS3lHakIweW81SjdSMGtYU25hbUxWRGlidzNjWm11bW5nanpIWlpPRkFPSDZ5dlczVVhwSVpPU1MwalBSMXdyb2w1cTZZOHJB?oc=5",
-   "date": "2026-11-16",
-   "source": "HESPRESS English - Morocco News",
+   "title": "Spain's Election Sparks Cuban Debate Over Vox's Immigration and Remittance Plans",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GU3NmRm5UMjQ1c2ZiUlVBVE1TVWFFWmZSdjJiM3RFdEtrOENxR3hENFNOamtHUHBWTXR3Y25jZTFVSTZtcnJGeTZkYjBIdXU4ZFYwV1BkQ1c?oc=5",
+   "date": "2026-11-17",
+   "source": "CubaHeadlines",
    "label": "Spain",
-   "snippet": "Spain’s far-right Vox party wants to review more than 300,000 citizenship grants to people of Moroccan origin, arguing that their naturalizations may have",
-   "lead": "",
-   "image": "https://e2.hespress.com/wp-content/overlay/2026/01/vox2.jpg?v2",
+   "snippet": "Vox's controversial proposals to tax remittances sent abroad and tighten rules on housing, healthcare, and social benefits for certain immigrants have...",
+   "lead": "Vox's controversial proposals to tax remittances sent abroad and tighten rules on housing, healthcare, and social benefits for certain immigrants have ignited a heated discussion among Cubans on social media, particularly on CiberCuba. These debates feature a mix of opinions, including those from Cubans currently residing in Spain, who find themselves divided over the electoral promises of Santiago Abascal's party. On Sunday, November ...",
+   "image": null,
    "why": [
-    "Affects citizenship"
+    "Political signal on immigration",
+    "Announces a change"
    ],
    "tags": [
-    "Citizenship",
+    "Politics / Election",
     "Spain"
    ],
    "rank": 23,
