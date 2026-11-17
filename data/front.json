@@ -1,6 +1,6 @@
 {
- "edition": "2026-11-17",
- "built": "2026-11-17 13:56 IST",
+ "edition": "2026-11-18",
+ "built": "2026-11-18 00:54 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,95 +12,76 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25458.0,
-   "change_pct": 0.66,
-   "asof": "17 Nov 13:56 IST"
+   "value": 25291.0,
+   "change_pct": 0.58,
+   "asof": "17 Nov 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 82652.0,
-   "change_pct": 0.67,
-   "asof": "17 Nov 13:41 IST"
+   "value": 82105.0,
+   "change_pct": 0.63,
+   "asof": "17 Nov 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
    "value": 93.46,
    "change_pct": -0.83,
-   "asof": "17 Nov 13:56 IST"
+   "asof": "18 Nov 00:21 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 91.96,
-   "change_pct": -0.52,
-   "asof": "17 Nov 13:45 IST"
+   "value": 93.39,
+   "change_pct": 1.03,
+   "asof": "18 Nov 00:44 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3866.0,
-   "change_pct": 0.33,
-   "asof": "17 Nov 13:46 IST"
+   "value": 3857.0,
+   "change_pct": 0.11,
+   "asof": "18 Nov 00:44 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.12,
-   "change_pct": -0.64,
-   "asof": "17 Nov 01:29 IST"
+   "value": 5.11,
+   "change_pct": -0.27,
+   "asof": "18 Nov 00:39 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "Kuku Technologies (Kuku FM)",
-   "tagline": "Audio and microdrama OTT, IPO cleared by SEBI",
-   "what": "Founded in 2018 by Lal Chand Bisu, Vikas Goyal and Vinod Meena. Offers audiobooks, podcasts and original audio shows under Kuku FM, plus microdrama platform Kuku TV and microlearning platform Guru. Content library of 20,000+ titles in seven languages; it claims 1 Cr+ listeners and creators and 400 Mn app downloads across its portfolio.",
+   "company": "DheyaTech",
+   "tagline": "Bengaluru aerospace propulsion startup",
+   "what": "Founded in 2018 by aerospace engineers Gurushankara KC, Abhinav Alva and Chetan Kumar. Develops small gas turbine engines (20 kgf to 400 kgf thrust) for aerial platforms and energy systems, with the design, assembly and testing pipeline and its engine control unit built in-house. Expanding into hydrogen-based technology and distributed power generation, including a 60 kW turbogenerator with a hydrogen flexi-fuel combustor developed with IISc.",
    "how": [
-    "The article does not explain the revenue model.",
-    "Not stated: whether income comes from subscriptions, pay-per-content or ads. Check the DRHP when it becomes public."
+    "Sells engines to OEMs: the company says it already has orders from Indian and global OEMs but did not disclose names or values.",
+    "Inferred: revenue is hardware sales; the article gives no pricing or revenue figures."
    ],
-   "watch": "Fresh-issue money is planned for tech, AI infrastructure, content production and geographic expansion. Competitors named: Pocket FM, Flick TV, ReelSaga, Miniplix and OTT majors (Amazon, JioHotstar, Zee5).",
-   "sector": "Media, Gaming & Creators",
+   "watch": "Pre-revenue-scale hardware: certification timelines and first commercial deliveries are the milestones to track. Article also notes rising investor interest in aerospace and spacetech (D-Propulse Rs 25 Cr in January; InspeCity Rs 100 Cr in August).",
+   "sector": "AI & Deeptech",
    "region": "India",
-   "url": "https://inc42.com/buzz/sebi-greenlights-kuku-technologies-%e2%82%b93500-cr-ipo/"
+   "url": "https://inc42.com/buzz/dheyatech-bags-%e2%82%b943-cr-to-scale-indigenous-gas-turbine-engines/"
   },
   "country": {
-   "id": "uk",
-   "name": "United Kingdom",
-   "trend": "Tightening",
-   "pr": "Indefinite leave to remain (ILR) is still 5 years for Skilled Workers today (B1 English, Life in the UK test, fee GBP 3,226). The government proposes an 'earned settlement' model with a 10-year baseline, reducible or extendable by contribution, integration and compliance. It is NOT yet in force; the government said it would legislate around autumn 2026. Consultation closed 12 February 2026.",
-   "citizenship": "Citizenship usually follows ILR by about a year (general knowledge). If the 10-year baseline arrives, the total clock could roughly double. The UK allows dual citizenship.",
-   "pro": "English-speaking, no language exam beyond visa English.",
-   "con": "Real chance the settlement clock moves from 5 to 10 years, and the government signalled it may apply to people already in the UK who are not yet settled.",
-   "watch": "Autumn 2026 legislation on earned settlement"
+   "id": "canada",
+   "name": "Canada",
+   "trend": "Tightening on temporary; PR volumes steady",
+   "pr": "PR is granted on arrival through Express Entry or a provincial nomination (general knowledge). Levels plan 2026-2028: 380,000 new permanent residents a year; economic share rising to 64% in 2027-2028. A one-time measure fast-tracks PR for up to 33,000 temporary workers in 2026-2027.",
+   "citizenship": "About 3 years of physical presence within 5 years (general knowledge, not re-verified). Dual citizenship allowed.",
+   "pro": "Only country on this list where you can apply for PR from outside without an employer.",
+   "con": "New temporary arrivals cut to 385,000 in 2026 (study permits about 49% lower, worker permits about 37% lower); goal is temporary residents under 5% of population by end-2027.",
+   "watch": "Express Entry draw scores and categories"
   }
  },
  "desks": {
   "Policy": {
-   "total": 358,
-   "new_today": 2,
+   "total": 359,
+   "new_today": 0,
    "items": [
-    {
-     "desk": "Policy",
-     "score": 7,
-     "priority": 41,
-     "title": "PLI Scheme for Medical Devices extended up to 2035–36; Fresh applications invited",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334770",
-     "date": "2026-11-10",
-     "source": "PIB",
-     "label": "Agriculture & Food",
-     "snippet": "The Government of India has invited fresh applications under the Production Linked Incentive Scheme",
-     "lead": "Ministry of Chemicals and Fertilizers : Department of Pharmaceuticals PLI Scheme for Medical Devices extended up to 2035–36; Fresh applications invited Focus on Critical Component Manufacturing Scheme guidelines made easier and investor friendly for Ease of Doing Business Minimum Sales Threshold Requirement to Claim Incentive Discontinued Minimum Investment Requirement Trimmed Posted On: 10 NOV 2026 6:30PM by PIB Delhi The Government ...",
-     "image": null,
-     "why": [
-      "Subsidy or incentive"
-     ],
-     "tags": [
-      "Agriculture & Food"
-     ]
-    },
     {
      "desk": "Policy",
      "score": 6,
@@ -144,39 +125,80 @@
      "desk": "Policy",
      "score": 5,
      "priority": 29,
-     "title": "India’s Horticulture Production Set to Reach Record 386.9 Million Tonnes in 2025-26: Shri Shivraj Singh Chouhan Releases Third Advance Estimates",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2337301",
-     "date": "2026-11-17",
+     "title": "Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335785",
+     "date": "2026-11-13",
      "source": "PIB",
-     "label": "Agriculture & Food",
-     "snippet": "Union Minister for Agriculture and Farmers’ Welfare and Rural Development, Shri Shivraj Singh Chouhan, today released the Third Advance Estimates of area and production of horticultural crops for 2025",
-     "lead": "Ministry of Agriculture & Farmers Welfare India’s Horticulture Production Set to Reach Record 386.9 Million Tonnes in 2025-26: Shri Shivraj Singh Chouhan Releases Third Advance Estimates Horticulture production estimated to rise by 4.36% despite a decline in cultivated area; fruits, vegetables, flowers and plantation crops register strong growth Potato production projected to increase by nearly 12%; overall horticulture output expected ...",
+     "label": "Banking & Rates",
+     "snippet": "The development of a systematic framework to measure the contribution of knowledge and knowledge pro",
+     "lead": "Ministry of Statistics & Programme Implementation Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems Posted On: 13 NOV 2026 2:40PM by PIB Delhi The development of a systematic framework to measure the contribution of knowledge and knowledge products to the Indian economy assumes significance in the context of the growing role of knowledge in driving economic activity, productivity and value ...",
      "image": null,
      "why": [
-      "Rule change"
+      "Rates and liquidity"
      ],
      "tags": [
-      "Agriculture & Food"
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 29,
+     "title": "Underwriting Auction for sale of Government Security for ₹34,000 crore on November 13, 2026",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63963",
+     "date": "2026-11-12",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "Government of India has announced the sale (re-issue) of Government Security, as detailed below, through auction to be held on November 13, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
+     "image": null,
+     "why": [
+      "Regulator: RBI",
+      "Large outlay (Rs 10,000 Cr or more)"
+     ],
+     "tags": [
+      "Banking & Rates"
      ]
     }
    ]
   },
   "Startups": {
-   "total": 1454,
-   "new_today": 14,
+   "total": 1473,
+   "new_today": 0,
    "items": [
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 77,
-     "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-     "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-     "date": "2026-11-10",
+     "priority": 83,
+     "title": "India’s deeptech funding record faces a test of scale: Speciale Invest report",
+     "url": "https://yourstory.com/2026/11/indias-deeptech-funding-record-faces-a-test-of-scale-speciale-invest-report",
+     "date": "2026-11-16",
+     "source": "YourStory",
+     "label": "India · AI & Deeptech",
+     "snippet": "India’s deeptech funding hit $914 million in 2025, but limited growth capital, manufacturing dependencies and weak commercialisation pathways continue to hinder startups from scaling.",
+     "lead": "India’s deeptech funding record faces a test of scale: Speciale Invest report India’s deeptech funding hit $914 million in 2025, but limited growth capital, manufacturing dependencies and weak commercialisation pathways continue to hinder startups from scaling. Team YS 17587 Stories Monday November 16, 2026 , 3 min Read India’s deeptech companies raised $914 million in 257 rounds in 2025, 34 times the 2016 level. The harder test is ...",
+     "image": "https://images.yourstory.com/cs/2/c2cedff02d6111ef9021856619e24ca1/IMG0470-1744635312325.jpeg",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $914M: round or valuation)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
+     "title": "AI agent startup LangChain hits $3B valuation",
+     "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+     "date": "2026-11-14",
      "source": "TechCrunch",
      "label": "Global · AI & Deeptech",
-     "snippet": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
-     "lead": "Founder Summit begins Nov. 4, 9:00 a.m. ET. Get your pass savings & deals before it starts. REGISTER HERE. Nominal, a four-year-old, Austin-based startup that offers an AI platform purpose-built for engineering and testing complex hardware, like aircraft, nuclear reactors, and smart factories, has raised another big round of financing that triples its valuation. On Monday, it announced a $240 million Series C at a $3 billion valuation ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2023/09/Cameron-McCord.jpg?resize=1200,1200",
+     "snippet": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+     "lead": "Agent management startup LangChain has raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from investors, including Singapore’s GIC, DFJ Growth, IVP, and Sapphire Ventures, the company announced on Friday. That’s more than double its $1.25 billion valuation when it raised $125 million about a year ago , led by IVP. LangChain began in 2022 as a popular open source project that handled the kinds ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
      "why": [
       "Funding",
       "Very large figure in headline (about $3,000M: round or valuation)",
@@ -189,76 +211,98 @@
     },
     {
      "desk": "Startups",
-     "score": 9,
-     "priority": 69,
-     "title": "Mamaearth parent Honasa’s Q2 profit jumps 87% to Rs 73 cr, revenue up 36%",
-     "url": "https://www.medianama.com/2026/11/223-mamaearth-honasas-profit-revenue/",
-     "date": "2026-11-17",
-     "source": "MediaNama",
+     "score": 10,
+     "priority": 83,
+     "title": "Exclusive: Sofina To Lead PlatinumRx’s $32 Mn Funding At $200 Mn Valuation",
+     "url": "https://inc42.com/buzz/sofina-to-lead-platinumrxs-32-mn-funding-at-200-mn-valuation/",
+     "date": "2026-11-12",
+     "source": "Inc42",
      "label": "India · Health & Wellness",
-     "snippet": "Mamaearth parent Honasa's Q2 FY27 profit rose 87% to Rs 73.2 crore as revenue grew 36%. It also called off the Fluence deal.",
-     "lead": "Honasa Consumer, which owns beauty and personal care brands such as Mamaearth, The Derma Co and BBlunt, posted a consolidated net profit of Rs 73.2 crore in the second quarter (Q2) of the fiscal year 2026-27 (FY27), up 87% from Rs 39.2 crore in the corresponding period a year earlier. Revenue from operations surged 36% to Rs 731.2 crore during the September quarter of FY27 from Rs 538.1 crore in the same quarter last year, according to ...",
-     "image": "https://www.medianama.com/wp-content/uploads/2015/10/beauty-e1444034645122.jpg.jpg",
+     "snippet": "Online pharmacy startup PlatinumRx is in talks to raise around $32 Mn (over ₹300 Cr) in a funding round led…",
+     "lead": "PlatinumRx is in talks to raise $32 Mn in a round led by Sofina Ventures at a $150 Mn - $200 Mn valuation. The proposed fundraise signals investor interest in specialised online pharmacy models focused on affordable medicines and substitutes. Founded in 2023, PlatinumRx previously raised $6 Mn in Series A in 2025, while rival Plazza raised $15 Mn in Series A earlier this year.",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/PlatinumRX-Funding-social.jpg",
      "why": [
-      "Financials",
+      "Funding",
+      "Large deal (about $200M)",
       "Valuation, listing or profitability signal"
      ],
      "tags": [
-      "Financials",
+      "Funding",
       "Health & Wellness"
      ]
     },
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 69,
-     "title": "Former Freshworks executives-founded AI startup Dreamteam raises $53M",
-     "url": "https://yourstory.com/2026/11/ex-freshworks-executives-founded-ai-native-crm-startup-dreamteam-raises-53-million-in-funding",
-     "date": "2026-11-16",
+     "priority": 75,
+     "title": "Redbrick Offices raises Rs 630 Cr in equity led by India SME Investments and Abakkus",
+     "url": "https://yourstory.com/2026/11/redbrick-offices-rs-630-crore-india-sme-investments-abakkus",
+     "date": "2026-11-17",
      "source": "YourStory",
-     "label": "India · AI & Deeptech",
-     "snippet": "Dreamteam raised this funding from Together Fund, Accel and Premji Invest and this capital will be primarily used to enhance its tech platform",
-     "lead": "Former Freshworks executives-founded AI startup Dreamteam raises $53M Dreamteam raised this funding from Together Fund, Accel and Premji Invest and this capital will be primarily used to enhance its tech platform Team YS 17587 Stories Monday November 16, 2026 , 2 min Read Dreamteam, an AI native customer relationship management (CRM) startup founded by former executives of Freshworks, has raised $53 million in funding from Together ...",
-     "image": "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Dreamteam-FINAL-1794840148368.png",
+     "label": "India · SaaS & Enterprise",
+     "snippet": "Redbrick said it plans to use the capital to expand its managed offices portfolio from about 6.5 million sq. ft. to more than 10 million sq. ft. over the next 18 to 24 months, while investing in technology, design and service delivery to cater to enterprise and GCC clients.",
+     "lead": "Redbrick Offices raises Rs 630 Cr in equity led by India SME Investments and Abakkus Redbrick said it plans to use the capital to expand its managed offices portfolio from about 6.5 million sq. ft. to more than 10 million sq. ft. over the next 18 to 24 months, while investing in technology, design and service delivery to cater to enterprise and GCC clients. Team YS 17595 Stories Tuesday November 17, 2026 , 3 min Read Redbrick Offices ...",
+     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Image8xe6-1627385001592.jpg",
      "why": [
       "Funding",
-      "Sizeable deal (about $53M)"
+      "Sizeable deal (about $66M)"
      ],
      "tags": [
       "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 69,
-     "title": "Trump's Nvidia stake grew to as much as $62 million, Washington Post reports",
-     "url": "https://economictimes.indiatimes.com/tech/technology/trumps-nvidia-stake-grew-to-as-much-as-62-million-washington-post-reports/articleshow/135889131.cms",
-     "date": "2026-11-16",
-     "source": "ET Startups",
-     "label": "Global · Other",
-     "snippet": "The disclosure comes amid heightened scrutiny of Nvidia and its ties to the Trump administration, as Nvidia co-founder Jensen Huang resigned last week as CEO amid a scandal over his relationship with Chinese businesswoman Alice Huang, who is suspected by US authorities of intelligence ties to Beijing.",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1673263,resizemode-75,msid-135889131/tech/technology/trumps-nvidia-stake-grew-to-as-much-as-62-million-washington-post-reports.jpg",
-     "why": [
-      "IPO & Listing",
-      "Sizeable deal (about $62M)"
-     ],
-     "tags": [
-      "IPO & Listing"
+      "SaaS & Enterprise"
      ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 34,
+   "new_today": 4,
    "items": [
     {
      "desk": "Immigration",
      "score": 6,
-     "priority": 55,
+     "priority": 60,
+     "title": "Spain's Election Sparks Cuban Debate Over Vox's Immigration and Remittance Plans",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GU3NmRm5UMjQ1c2ZiUlVBVE1TVWFFWmZSdjJiM3RFdEtrOENxR3hENFNOamtHUHBWTXR3Y25jZTFVSTZtcnJGeTZkYjBIdXU4ZFYwV1BkQ1c?oc=5",
+     "date": "2026-11-17",
+     "source": "CubaHeadlines",
+     "label": "Spain",
+     "snippet": "Vox's controversial proposals to tax remittances sent abroad and tighten rules on housing, healthcare, and social benefits for certain immigrants have...",
+     "lead": "Vox's controversial proposals to tax remittances sent abroad and tighten rules on housing, healthcare, and social benefits for certain immigrants have ignited a heated discussion among Cubans on social media, particularly on CiberCuba. These debates feature a mix of opinions, including those from Cubans currently residing in Spain, who find themselves divided over the electoral promises of Santiago Abascal's party. On Sunday, November ...",
+     "image": null,
+     "why": [
+      "Political signal on immigration",
+      "Announces a change"
+     ],
+     "tags": [
+      "Politics / Election",
+      "Spain"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 60,
+     "title": "Congress, TMC slam Centre after Norwegian journalist claims visa revoked before India trip",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNG53UGxhSUdqeFdNSFBHWDBsNmZfSGdEZTM1NTF4WnF4NlBKQXNHMm9OXzlLMjhyaXQ5SmJvaERCYVNKZHBqNGl0ZkVlYXM2cTVOb21DS2h2SUkzR056TV80QnVob1VaN2laSklzN1k4T2hPZ2NIOGU5Y1ljaE5Nc1AtWm1xU09TMDNySFJmSHg0VmtES3NEMGVNaV9lRVQ4UHBtNVBTVXBKbzdHa1Y2OGNmUXhWS1Itak4tNUp2RWRoSGYwaTgzdjUxTjZwZmZTeGR4bkw3NNIB5AFBVV95cUxPUEdISFBObkt5WjVybmpXRHpuNkR0NEZyZzBwWmhBRU9TZWNYX2ZfM0JuSWtlVmRKRlR4eC1RMkFTcVBjTW50bjEybHZhaDlmN2JoTUkzOE5aeTBnME1hX25ZX2RIYWxvZ25WS0ZUekZ0WlJkUXpJaG5LajZKOFlSMVlObm05T2VYSDdLLXpYakVIWDR6ZXIyTV9nSEJKOWxpV2VyM1RsMFRGc1NjQzNxWkxWNzNzTUpNQUctakp2aExsY1J6Q0tMZENYUGlNTktLZFZMTGV5cFdjX2Y4eU9MWUdRb0s?oc=5",
+     "date": "2026-11-12",
+     "source": "The New Indian Express",
+     "label": "Norway",
+     "snippet": "The Congress and the Trinamool Congress (TMC) on Thursday questioned why the government was afraid of scrutiny after Norwegian journalist Helle Lyng, who was in",
+     "lead": "Copied The Congress and the Trinamool Congress (TMC) on Thursday questioned why the government was afraid of scrutiny after Norwegian journalist Helle Lyng, who was in the news during Prime Minister Narendra Modi's visit to Oslo in May, claimed her visa was cancelled minutes before she was due to leave for India. Lyng, an independent journalist based in Norway, said she was scheduled to attend and speak at the 'Bharat Summit', ...",
+     "image": "https://cf-images.assettype.com/newindianexpress%2F2026-11-12%2F9hayxh8d%2FNorwegian-journalist-Helle-Lyng.png?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+     "why": [
+      "Major story (26 headlines that day)",
+      "Mentions India or Indians"
+     ],
+     "tags": [
+      "Norway"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 50,
      "title": "Dutch citizenship in 3 years: Netherlands outlines 6 ways foreigners can qualify",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ3N1OWdLYWZJMncyM0ZRTHcxcnU0SmlXNnJJdGw1WkVUNTQwaUszQXdpeTRzX1piaGd0b0M5T1NvVE1Tc0tmQklENW85cUhrYURwLWQ3bGxfLUJHRUZxcl94M2g4dUVmY3g0dU55U1hwNlJYUzg0NFhGWG9BYUVfZG82QjZyb0RUVUVoZmZmQnV5WC1LMTVVNFNlWFB2bHM?oc=5",
      "date": "2026-11-16",
@@ -279,54 +323,12 @@
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 15,
+   "new_today": 0,
    "items": [
     {
      "desk": "Advisory",
-     "score": 10,
-     "priority": 83,
-     "title": "Gold near 13-month low as Fed rate hike fears grow, oil surges towards $96",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN3FGdFFJdno4THRVX3Y3djF1bFNMSXlrZkNPZ3NKZEQtaThVNTZVQ0ZaYk9ZTVZTMnRYdzdwWW9IQlFIT3ExZk1IdGg1VFo0X3lRTWlmdHA2ajU5RTVmTmRZbXMzb25hODRuUGFvaUVkSWIwYnJiY0FxS1NIZlBvS1JVZVRDUFVESmtQVHd0b0djdHVGM290bEViSzdBWVBsOFlkMTdVdGxoRXZMV1h4QkE0SEZfNU5TNjZqanM3NlY3TG9XMWctQ9IBzgFBVV95cUxNZVN6eEx3NWFmRGc1ZmlJRnFPTzNjdWlTUkZiSkczWUtlaW5UWGJrQ3hRNml1SjlzSng5NHpoTE10N3A1aFgtUmctQ2VIN1JnTjRtRzdJSGpaYUtWZmNxMUxzaVlGVmh1emdRdFVFYXJWUWZWYzZCMFpxNlN0a3lrU09FcWxUYXZjMUY2czZBb3VYVmY1c2Fhcl8zYkdZTGNfclJtVnpZSlVjRUJXTjBmcFlPVC1WY3lYMEoyRDNqUmpLM2tJTjFpZHhGbHZxUQ?oc=5",
-     "date": "2026-11-13",
-     "source": "Moneycontrol.com",
-     "label": "Gold & Silver",
-     "snippet": "Gold hovered near $3,880 an ounce after hitting a 13-month low, as stubborn US inflation fuelled Fed rate hike bets and rising Treasury yields pressured bullion.",
-     "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
-     "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261113012637_474892754-scaled.jpg",
-     "why": [
-      "Interest-rate decision",
-      "Precious metals",
-      "Global macro driver",
-      "Sharp market move"
-     ],
-     "tags": [
-      "Gold & Silver"
-     ]
-    },
-    {
-     "desk": "Advisory",
      "score": 9,
-     "priority": 75,
-     "title": "SIF Vs PMS Vs AIF: Where SEBI’s Specialised Investment Fund Sits In The Investment Landscape",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ0lsenZod1Y3MEhuUHR5OXRZRW03SUo1Y0xaVEVQOHZRRXpOMUxjREYtYVUyUnFCOHdqNG9HMXg1Y2xtTlZYaV9EcEVDMXV0aFR3VVRIVDlIakNOLXJCVEJpbGxNZkR1cXQ0aG5CNkhqSjZHekZJeW80UkNNc0pHMTdfME9rTkRjbXA4a9IBmgFBVV95cUxOUUJaRjJ5ay1ia1pRamw3UUtQdGVnNDV1dG1yYWpuakMwMDZhcnFyUGFVTVp2aVdlTDBxeU1ta3BxS0g4VnRSMVNnV2FsZjhKLTlJUGFGZEstVWpEQjNQRW8xb1dHcFNsUlBSZjNuS0RzZVpwU2tFQUk4Y1VBanpNOFJOdmoyc29oQUQwdWhfcTVCM0dzcWJFVXZR?oc=5",
-     "date": "2026-11-16",
-     "source": "NewsGram",
-     "label": "PMS",
-     "snippet": "For about a decade, Indian investors with real money but not quite PMS money had nowhere interesting to go. Mutual funds would take anything from a few hundred",
-     "lead": "Copied Follow NewsGram WhatsApp Channel For about a decade, Indian investors with real money but not quite PMS money had nowhere interesting to go. Mutual funds would take anything from a few hundred rupees up. Portfolio management services started at ₹50 lakh. Alternative investment funds started at ₹1 crore. In between sat a lot of people with ₹10 lakh to ₹40 lakh who were told, politely, to keep buying flexi-cap funds. The SIF is ...",
-     "image": "https://media.assettype.com/newsgram%2F2026-11-16%2F8mwiarvl%2FSEBIBhavan.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-     "why": [
-      "PMS news",
-      "Regulator: SEBI or RBI"
-     ],
-     "tags": [
-      "PMS"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
+     "priority": 82,
      "title": "SEBI Settles AIF Norms Violation Case For ₹12.75 Lakh, Eight Innovate Fund And Officials Get Relief",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ05odi1vWWZfOVVSMzEtVzN5YjFmY0dETERwUFIxY04wWGhZTWJyaFM2ak4zLU1INzhVTEtRNEMwR25FcWVQUWF1aWRjMmhZMl9UT01qOGlOa0oxOU1XRUhUMDVGeGxPbXJJU2kwN1VBYml0WUI3ZTNhWHBSaXdsLUI3Tl84VUJPTEE3SFdBVU1sOVE4bXF5dVlBRUQ4b1RqaS1CaldZWm13a1hnU2l3ME9iQ3hqQUltdW91bDJsSTYxbHIzdWxOR0NzdWpabWZZem530gHYAUFVX3lxTE5KNXRTdEtHM3hYMHhfN1NrMDlBUkZzQnBBTGExdDlQUHdJMWpTX0M5elFfTS1hSlU4WUtXTGxnc0V3XzV0T1hubFU5ZlJTeGZvNkJuNnJOajVWNjluZGFjbGdGVHlCOExRWU5xaHlwOHlyNUZiY0o4YWZuaU55Qy1ObnA5RXNzcjZVVXFMbk1EY0hadW14dmhRb0p3eFVjZTlzYTZxelc4TGNQWTBCX05qQmdmRmFXN3plRVpPQ2JJRkFXdVBhTDFEcFYxcVR6RjNmSkFSbzBSbA?oc=5",
      "date": "2026-11-12",
@@ -347,22 +349,63 @@
     {
      "desk": "Advisory",
      "score": 8,
-     "priority": 67,
-     "title": "Daily Summary: Tech Stock Selloff Weighs on Markets, Fed Outlines AI Scenarios",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOU9MWks1cGhtTmxmcGVSMVJPS29TQno0TVJvakJBaEZrREY0NThOUUdCSTdfaGNJNW1wUHpaVC0tRGpSVkxvaGo1LTFJX2lyeDFsLUdiUUZpQUJnUXlfWUlfd2VLZzhXZnk4SURJcGtZbU8zZFAzOElmbVY5Z0JpS2J5TnR4QmtYMFFEaDExNDJ5WVZyM2g5eGczc05oVThtbjJmaGRZd2xqTEJyV1BQNlE1bFBTN1pzdmxOY0VMcFJzWk04STd5LWdoZjdvUQ?oc=5",
-     "date": "2026-11-17",
-     "source": "XTB.com",
-     "label": "Global",
-     "snippet": "Macroeconomics and Monetary Policy \r\n\r\nFederal Reserve Chair Kevin Warsh spoke at the opening of the Productivity and Jobs Task Force conference hosted by the San Francisco Fed.",
-     "lead": "CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. 79% of retail investor accounts lose money when trading CFDs with this provider. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money. Options are complex financial instruments and come with a high risk of losing the entire premium. Crypto is highly volatile and carry ...",
-     "image": "https://xas-new-cdn.xtb.com/branch_configuration_og_image/0104/61/07d34950-8225-4e35-aef2-30800a06d48f/og-image.png",
+     "priority": 73,
+     "title": "SIF Vs PMS Vs AIF: Where SEBI’s Specialised Investment Fund Sits In The Investment Landscape",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ0lsenZod1Y3MEhuUHR5OXRZRW03SUo1Y0xaVEVQOHZRRXpOMUxjREYtYVUyUnFCOHdqNG9HMXg1Y2xtTlZYaV9EcEVDMXV0aFR3VVRIVDlIakNOLXJCVEJpbGxNZkR1cXQ0aG5CNkhqSjZHekZJeW80UkNNc0pHMTdfME9rTkRjbXA4a9IBmgFBVV95cUxOUUJaRjJ5ay1ia1pRamw3UUtQdGVnNDV1dG1yYWpuakMwMDZhcnFyUGFVTVp2aVdlTDBxeU1ta3BxS0g4VnRSMVNnV2FsZjhKLTlJUGFGZEstVWpEQjNQRW8xb1dHcFNsUlBSZjNuS0RzZVpwU2tFQUk4Y1VBanpNOFJOdmoyc29oQUQwdWhfcTVCM0dzcWJFVXZR?oc=5",
+     "date": "2026-11-16",
+     "source": "NewsGram",
+     "label": "PMS",
+     "snippet": "For about a decade, Indian investors with real money but not quite PMS money had nowhere interesting to go. Mutual funds would take anything from a few hundred",
+     "lead": "Copied Follow NewsGram WhatsApp Channel For about a decade, Indian investors with real money but not quite PMS money had nowhere interesting to go. Mutual funds would take anything from a few hundred rupees up. Portfolio management services started at ₹50 lakh. Alternative investment funds started at ₹1 crore. In between sat a lot of people with ₹10 lakh to ₹40 lakh who were told, politely, to keep buying flexi-cap funds. The SIF is ...",
+     "image": "https://media.assettype.com/newsgram%2F2026-11-16%2F8mwiarvl%2FSEBIBhavan.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
      "why": [
+      "PMS news",
+      "Regulator: SEBI or RBI"
+     ],
+     "tags": [
+      "PMS"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 8,
+     "priority": 73,
+     "title": "Rupee weakens to 94.25/$, 10-year bond yield rises as crude prices surge",
+     "url": "https://www.business-standard.com/economy/news/rupee-weakens-to-94-25-10-year-bond-yield-rises-as-crude-prices-surge-126111301340_1.html",
+     "date": "2026-11-13",
+     "source": "Business Standard",
+     "label": "Debt & Bonds",
+     "snippet": "The rupee settled at 94.25 against the dollar, while the benchmark 10-year bond yield rose six basis points to 7.31 per cent amid higher crude prices and a firm dollar index",
+     "lead": "The rupee settled at 94.25 per dollar, compared with the previous close of 94.04 per dollar Don't miss the most important news and views of the day. Get them on our Telegram channel",
+     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/25/thumb/fitandfill/1200X628/1782407878-7939.jpg",
+     "why": [
+      "Government bond yields",
       "Global macro driver",
       "Sharp market move"
      ],
      "tags": [
-      "Global",
-      "IT & Tech"
+      "Debt & Bonds"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 8,
+     "priority": 73,
+     "title": "Arihant Capital Markets gets SEBI nod to launch mutual fund biz",
+     "url": "https://www.thehindubusinessline.com/markets/arihant-capital-markets-gets-sebi-nod-to-launch-mutual-fund-biz/article71697257.ece",
+     "date": "2026-11-13",
+     "source": "BusinessLine",
+     "label": "Mutual Funds",
+     "snippet": "Arihant Capital gets SEBI in-principle approval to launch its own mutual fund, expanding accessible investment solutions nationwide.",
+     "lead": "' blCenterIconDiv.innerHTML = spanSvg blLoaderDiv.appendChild(blCenterLoadDiv) blLoaderDiv.appendChild(blCenterIconDiv) divInner.appendChild(blLoaderDiv) div.appendChild(divInner) var bodyIntravel = setInterval(() => { if(window.document.body) { clearInterval(bodyIntravel) window.document.body.insertBefore(div, window.document.body.firstChild) } }, 100) function addStyle(styles) { var css = document.createElement('style'); css.type = ...",
+     "image": "https://bl-i.thgim.com/public/incoming/2fa6cu/article71697480.ece/alternates/LANDSCAPE_1200/2026-11-04T134653Z_1236041378_RC2LJDAE99D5_RTRMADP_3_INDIA-SEBI-FUND-RAISING.JPG",
+     "why": [
+      "Regulator: SEBI or RBI",
+      "New product or fund",
+      "Also covered by 2 other outlet(s)"
+     ],
+     "tags": [
+      "Mutual Funds"
      ]
     }
    ]
@@ -371,7 +414,7 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 13,
+   "score": 12,
    "priority": 100,
    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
@@ -395,20 +438,20 @@
   },
   {
    "desk": "Immigration",
-   "score": 11,
+   "score": 10,
    "priority": 100,
-   "title": "Australia Backpacker Visa Changes: Third-Year Cap Raised to 25,000 After Backlash",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY19PeVdZOVBkNURpU2tHMkhFTWFac3p6U2VZMmtfRldyU01MYmoxaEFzTk5tam9nYS04M3VNSXR4clRZbEkxRGxla3lYR1JjVHlkbkpvNDlGYnRXWmxMcEVmRnhFSWlXc0RJeFRDNFBySF8tdVQ3NkVldVhQelNNa212V0ZZOEtxVzY4SDA2aEhCaDRyaGtvUVZkcDM3TjRqTmVTcDBwWlB6bkduSWdiZFdnbkV5aDhFRVE?oc=5",
+   "title": "Australia Eases Backpacker Visa Cuts: Third-Year Cap Rises to 25,000 - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdTBNU21DR3NPM2g3YmV0VVlWS1pkVlhNR0oyX0ZhbFZuVHhoX3BHSUlNMUFZNzAxQ29FQ2xVdndpak81M1JEYUhhRUhKUG9ENTFudzBWbWhsVWF5SjRWNW5aM2pkajB6eEI4SG1ZMDJEVTl5TXFDcThIMERvRTkwN3I2a2Jzelc2MjdYYndnUG92R21BYzlUNmExaElraXFrbHFkMnY5dUs?oc=5",
    "date": "2026-11-17",
-   "source": "Around Prague",
+   "source": "IndexBox",
    "label": "Australia",
-   "snippet": "",
-   "lead": "",
-   "image": null,
+   "snippet": "Australia is softening planned cuts to working holiday visas, raising the third-year cap to 25,000 and extending rural work to four months, as regional employers push back and talks with the UK continue.",
+   "lead": "All Reports Market insights Blog Type at least 3 characters to see fast results. Press / or ⌘K anytime. Searching… No fast matches found. Press Enter to see full results. Search Nov 17, 2026 Australia Softens Working Holiday Visa Curbs, Raises Third-Year Cap to 25,000 Australia has confirmed it will permit a larger number of backpackers to remain in the country through working holiday visas, though they will be obliged to spend more ...",
+   "image": "https://www.indexbox.io/landing/img/blog/telegram-fallback/142c8a588e15e4e5327d8a24fb376e5e.webp",
    "why": [
     "Quota or cap change",
     "Announces a change",
-    "Major story (13 headlines that day)"
+    "Major story (20 headlines that day)"
    ],
    "tags": [
     "Quota / Caps",
@@ -419,7 +462,7 @@
   },
   {
    "desk": "Immigration",
-   "score": 11,
+   "score": 10,
    "priority": 100,
    "title": "New Zealand student visa data: Only 64% of Indian applications approved in 2026; what applicants should k",
    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPOGZVcXNOTm1WdWFnVjVZSVY5OTdGV1otWWdiWE1IbmFqMGVrNTZCcTVHT2RsbFQxWFhzZWlDNGpudXNUTFNkeFdNZ3ppejFYUG9lTXBxcG9hWVo2TXBpZElmdGI5cDRSaXd4SFplN3NYS091UHRQVGxpenFxT3YwaFB0empzTExpRHZja25sTWhHZC1pNTJJb3JUYlE2ZkYxc3hMekMyWGdSdE9EdndaVGEzUzJnaVZMdHFIaURWaEpuZi1UUGpLa0pDUmM0cDNvUzA4R1Bqb2JPTjhpblpRWDkzYjFYUnVJQkoza2FScV9VdVZIVHdGVXJZZXA1U3N1ZmlFR2t3TUNjREgyVnZjVGFGX09Wa3Y5RGfSAZ8CQVVfeXFMTlhMdXlHdzY1SmZhVnJ3ckJfdDBQWVNQLUtQT1M1TUFkc0dGcTkxZmp6SldNMTRuaDRXYU5TQzFta2Zjak5SRHd6bHExXy1RcXBMM01PZElVZ2tYal9FMVBDZVlZWnpVXzBaSHBVTUpHV3YwY0d6aEpBbEtLbktnVDlsSUlRNUkxR01uWlVQUWtYN2Rtb3M4RlJJS2tTVEJycmJ4NzVNYmxpYVVJVmpGS2xBVTBRX2J1TFJhWGg2dWNRVjZLYkZMTnpna3VBdl9jSzU3cHFBdmttR3BPZDJaT2llN1NhcTlPU0pSWlBRTURRQ1dXYnJqWlk4NG00MjVjeFJGV0Y0NTFVUGNOUVEteU5VcnhPSFNwYWM4ZzZPcHc?oc=5",
@@ -439,6 +482,54 @@
     "New Zealand"
    ],
    "rank": 3,
+   "must_read": true
+  },
+  {
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 100,
+   "title": "Canada announces plan to provide permanent residence to 100,000 workers and families | World News",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdXNDS1VNMWx4T3BzOExhbjBMRFhBMnU3ZEpSU0daM1lHTHRoNlk4OFZ0TnFRc2FlX3NnOG5yZmc2cWh5ZGkwVk1FUFRkQm5IcnZpVGlYZVl3c1J6WlliM2VvYVZ4VkhOaldhRERVQXZYQmh2bHc2aUNXOGcya2h1T1RuU3c3WjZTX2xqQzZCUVRrNlhGOHlNNGNrcUNBaGI0YnpnSEladktzV2RnSDh5bzJIRjUtZjFXcHhhbm8zRTZjUUhoOTVmdUhTVmZhUDdWbkhVRzd0VS1rc0M1Q2Y2UNIB5gFBVV95cUxOTmhIeTFnS0tQY0FRMXhSdWwzTDN4Wl92bjlUSWdwYlRYaW5tYXVfOHAxX0dOOVRtNGlFdW5GQmprY0IwU3AzNEtZSEpLWkEwLWZ0OW1MUTgteU40UHBXYWwwcEEtOVVqZWRROF9fbGlZY25KcEhQeENMbk1mZzZfZ0QzdEM4ejR0REtneXllMVRUUTRBY0F6eWxRemZ1QW1qXzRMZTFpYjc5QWRldzBlSjM2djRjVFgxMjZPSnltZkx3dGdxdGhzaXRNQWJua0p1ZXQzamNBUy1sY1JhdlRVN25JeWFHZw?oc=5",
+   "date": "2026-11-13",
+   "source": "Hindustan Times",
+   "label": "Canada",
+   "snippet": "Canada to give provinces additional PNP allocations to help transition up to 100,000 established workers and their families to PR in 2027.  | World News",
+   "lead": "Canada will offer provinces and territories additional immigration nomination allocations to transition up to 100,000 workers and their families to permanent residence in 2027. Canada plans permanent residence for 100,000 workers and family members in 2027. (Unsplash) Immigration Minister Lena Metlege Diab announced details of the time-limited measure on November 12, saying provincial and territorial governments would be given ...",
+   "image": null,
+   "why": [
+    "Affects permanent residence",
+    "Announces a change",
+    "Major story (10 headlines that day)"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Canada"
+   ],
+   "rank": 4,
+   "must_read": true
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 100,
+   "title": "Rs 80,000 crore FII buying sparks explosive rally on Dalal Street. Will RBI rate hike worries kill the party?",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-80000-crore-fii-buying-sparks-explosive-rally-on-dalal-street-will-rbi-rate-hike-worries-kill-the-party/articleshow/135755863.cms",
+   "date": "2026-11-12",
+   "source": "Economic Times",
+   "label": "Regulatory",
+   "snippet": "The Sensex has staged a sharp 9,000-point rally since late October, crossing 82,000 for the first time since February, before the US-Iran conflict erupted. The rebound has been fuelled by a strong return of foreign investors, who have bought nearly Rs 69,000 crore worth of Indian equities in November so far and around Rs 80,000 crore sinc",
+   "lead": "The Sensex has staged a sharp 9,000-point rally since late October, crossing 82,000 for the first time since February. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price",
+   "image": "https://img.etimg.com/thumb/msid-135755921,width-1200,height-900,imgsize-313292,overlay-etmarkets/articleshow.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Sharp market move",
+    "Sector or flows signal"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 5,
    "must_read": true
   },
   {
@@ -462,37 +553,13 @@
    "tags": [
     "Agriculture & Food"
    ],
-   "rank": 4,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 12,
-   "priority": 100,
-   "title": "Easing Oil, Bond Yields May Support Bank Margins, RBI May Hike Repo Rate In December: Jefferies",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObTUtblN2OFNDVFZvNlBzWTZGTkdteVE4RVhOclBiUnIwMUtEX0xoYVQ3Y1Z6aFplLTZZWUJCeEU3bkRLREFvaUZyQnZBNTNndDNOTGJ3WUdkRjZvX29mRlducXhHQ3JEWFVHWEF0MDJTWi1VdFJXeXBXb2U0TUNRWlhBTDZiaWZsd2pVWWo2U2dUeWdINXJ2N0RhWlR4a25KeDY0RFowdG9NcVV4azlfdHZzOUhQVDRxZXM2SEwzTXVzRGJoR1RscXBBMm9oU1F2b1pJeDNMaU56a1V0eG1iNDZzd9IB4wFBVV95cUxObTUtblN2OFNDVFZvNlBzWTZGTkdteVE4RVhOclBiUnIwMUtEX0xoYVQ3Y1Z6aFplLTZZWUJCeEU3bkRLREFvaUZyQnZBNTNndDNOTGJ3WUdkRjZvX29mRlducXhHQ3JEWFVHWEF0MDJTWi1VdFJXeXBXb2U0TUNRWlhBTDZiaWZsd2pVWWo2U2dUeWdINXJ2N0RhWlR4a25KeDY0RFowdG9NcVV4azlfdHZzOUhQVDRxZXM2SEwzTXVzRGJoR1RscXBBMm9oU1F2b1pJeDNMaU56a1V0eG1iNDZzdw?oc=5",
-   "date": "2026-11-10",
-   "source": "ETV Bharat",
-   "label": "Debt & Bonds",
-   "snippet": "Jefferies expects the RBI's December 4, 2026, MPC meeting to provide a window for a rate hike, as system liquidity surplus moderates.",
-   "lead": "New Delhi: Indian banks could see support to their margins from easing crude oil prices and bond yields, even as credit growth is expected to moderate over the coming quarters, according to a report by global brokerage Jefferies, which also expects the Reserve Bank of India (RBI) to raise the repo rate by 25-50 basis points at its December monetary policy meeting. The brokerage expects the RBI's December 4, 2026, Monetary Policy ...",
-   "image": "https://imgs.etvbharat.com/etvbharat/prod-images/10-11-2026/1200-675-28076113-thumbnail-16x9-rbireporate-aspera.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Government bond yields",
-    "Also covered by 2 other outlet(s)"
-   ],
-   "tags": [
-    "Debt & Bonds"
-   ],
-   "rank": 5,
-   "must_read": true
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
+   "score": 10,
+   "priority": 91,
    "title": "AIF commitments hit a high of ₹18.68 trillion as of September: Sebi data",
    "url": "https://www.business-standard.com/markets/news/aif-commitments-hit-a-high-of-18-68-trillion-as-of-september-sebi-data-126111601365_1.html",
    "date": "2026-11-16",
@@ -509,76 +576,52 @@
    "tags": [
     "AIF"
    ],
-   "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "Rs 80,000 crore FII buying sparks explosive rally on Dalal Street. Will RBI rate hike worries kill the party?",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-80000-crore-fii-buying-sparks-explosive-rally-on-dalal-street-will-rbi-rate-hike-worries-kill-the-party/articleshow/135755863.cms",
-   "date": "2026-11-12",
-   "source": "Economic Times",
-   "label": "Regulatory",
-   "snippet": "The Sensex has staged a sharp 9,000-point rally since late October, crossing 82,000 for the first time since February, before the US-Iran conflict erupted. The rebound has been fuelled by a strong return of foreign investors, who have bought nearly Rs 69,000 crore worth of Indian equities in November so far and around Rs 80,000 crore sinc",
-   "lead": "The Sensex has staged a sharp 9,000-point rally since late October, crossing 82,000 for the first time since February. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price",
-   "image": "https://img.etimg.com/thumb/msid-135755921,width-1200,height-900,imgsize-313292,overlay-etmarkets/articleshow.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Sharp market move",
-    "Sector or flows signal"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
    "rank": 7,
    "must_read": false
   },
   {
-   "desk": "Immigration",
+   "desk": "Advisory",
    "score": 10,
    "priority": 91,
-   "title": "Canada announces plan to provide permanent residence to 100,000 workers and families | World News",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdXNDS1VNMWx4T3BzOExhbjBMRFhBMnU3ZEpSU0daM1lHTHRoNlk4OFZ0TnFRc2FlX3NnOG5yZmc2cWh5ZGkwVk1FUFRkQm5IcnZpVGlYZVl3c1J6WlliM2VvYVZ4VkhOaldhRERVQXZYQmh2bHc2aUNXOGcya2h1T1RuU3c3WjZTX2xqQzZCUVRrNlhGOHlNNGNrcUNBaGI0YnpnSEladktzV2RnSDh5bzJIRjUtZjFXcHhhbm8zRTZjUUhoOTVmdUhTVmZhUDdWbkhVRzd0VS1rc0M1Q2Y2UNIB5gFBVV95cUxOTmhIeTFnS0tQY0FRMXhSdWwzTDN4Wl92bjlUSWdwYlRYaW5tYXVfOHAxX0dOOVRtNGlFdW5GQmprY0IwU3AzNEtZSEpLWkEwLWZ0OW1MUTgteU40UHBXYWwwcEEtOVVqZWRROF9fbGlZY25KcEhQeENMbk1mZzZfZ0QzdEM4ejR0REtneXllMVRUUTRBY0F6eWxRemZ1QW1qXzRMZTFpYjc5QWRldzBlSjM2djRjVFgxMjZPSnltZkx3dGdxdGhzaXRNQWJua0p1ZXQzamNBUy1sY1JhdlRVN25JeWFHZw?oc=5",
+   "title": "Gold near 13-month low as Fed rate hike fears grow, oil surges towards $96",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN3FGdFFJdno4THRVX3Y3djF1bFNMSXlrZkNPZ3NKZEQtaThVNTZVQ0ZaYk9ZTVZTMnRYdzdwWW9IQlFIT3ExZk1IdGg1VFo0X3lRTWlmdHA2ajU5RTVmTmRZbXMzb25hODRuUGFvaUVkSWIwYnJiY0FxS1NIZlBvS1JVZVRDUFVESmtQVHd0b0djdHVGM290bEViSzdBWVBsOFlkMTdVdGxoRXZMV1h4QkE0SEZfNU5TNjZqanM3NlY3TG9XMWctQ9IBzgFBVV95cUxNZVN6eEx3NWFmRGc1ZmlJRnFPTzNjdWlTUkZiSkczWUtlaW5UWGJrQ3hRNml1SjlzSng5NHpoTE10N3A1aFgtUmctQ2VIN1JnTjRtRzdJSGpaYUtWZmNxMUxzaVlGVmh1emdRdFVFYXJWUWZWYzZCMFpxNlN0a3lrU09FcWxUYXZjMUY2czZBb3VYVmY1c2Fhcl8zYkdZTGNfclJtVnpZSlVjRUJXTjBmcFlPVC1WY3lYMEoyRDNqUmpLM2tJTjFpZHhGbHZxUQ?oc=5",
    "date": "2026-11-13",
-   "source": "Hindustan Times",
-   "label": "Canada",
-   "snippet": "Canada to give provinces additional PNP allocations to help transition up to 100,000 established workers and their families to PR in 2027.  | World News",
-   "lead": "Canada will offer provinces and territories additional immigration nomination allocations to transition up to 100,000 workers and their families to permanent residence in 2027. Canada plans permanent residence for 100,000 workers and family members in 2027. (Unsplash) Immigration Minister Lena Metlege Diab announced details of the time-limited measure on November 12, saying provincial and territorial governments would be given ...",
-   "image": null,
+   "source": "Moneycontrol.com",
+   "label": "Gold & Silver",
+   "snippet": "Gold hovered near $3,880 an ounce after hitting a 13-month low, as stubborn US inflation fuelled Fed rate hike bets and rising Treasury yields pressured bullion.",
+   "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
+   "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261113012637_474892754-scaled.jpg",
    "why": [
-    "Affects permanent residence",
-    "Announces a change",
-    "Major story (10 headlines that day)"
+    "Interest-rate decision",
+    "Precious metals",
+    "Global macro driver",
+    "Sharp market move"
    ],
    "tags": [
-    "PR / Settlement",
-    "Canada"
+    "Gold & Silver"
    ],
    "rank": 8,
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "India’s deeptech funding record faces a test of scale: Speciale Invest report",
-   "url": "https://yourstory.com/2026/11/indias-deeptech-funding-record-faces-a-test-of-scale-speciale-invest-report",
-   "date": "2026-11-16",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "India’s deeptech funding hit $914 million in 2025, but limited growth capital, manufacturing dependencies and weak commercialisation pathways continue to hinder startups from scaling.",
-   "lead": "India’s deeptech funding record faces a test of scale: Speciale Invest report India’s deeptech funding hit $914 million in 2025, but limited growth capital, manufacturing dependencies and weak commercialisation pathways continue to hinder startups from scaling. Team YS 17587 Stories Monday November 16, 2026 , 3 min Read India’s deeptech companies raised $914 million in 257 rounds in 2025, 34 times the 2016 level. The harder test is ...",
-   "image": "https://images.yourstory.com/cs/2/c2cedff02d6111ef9021856619e24ca1/IMG0470-1744635312325.jpeg",
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 91,
+   "title": "RBI releases data on ECB / FCCB / RDB for September 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63961",
+   "date": "2026-11-12",
+   "source": "RBI",
+   "label": "Regulatory",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "The Reserve Bank of India has today released the data on External Commercial Borrowings (ECB), Foreign Currency Convertible Bonds (FCCB) and Rupee Denominated Bonds (RDB) through General Permission and Special Permission for the month of September 2026.",
+   "image": null,
    "why": [
-    "Funding",
-    "Very large figure in headline (about $914M: round or valuation)"
+    "Regulator: SEBI or RBI",
+    "Global macro driver",
+    "Official notice"
    ],
    "tags": [
-    "Funding",
-    "AI & Deeptech"
+    "Regulatory"
    ],
    "rank": 9,
    "must_read": false
@@ -586,45 +629,46 @@
   {
    "desk": "Advisory",
    "score": 10,
-   "priority": 83,
-   "title": "SEBI sets panel to review IPO rules, examine disclosure norms and capital-raising framework",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM01ORHhoLXZXZGFWaU9nNVNZX0NYeEE1endEc1h6N0ItTm0xNnlRb0dpUnJUX3Fvd2ZzMFQ2SElCa2lfZGFnalVoblBQc09GSDJjb2tyNWhRUVdHN3dQUFJVTGI4Vk9FTHUyVktNVWJCOEFYWXNqMmtlbmc1a1R1elk4ZGJyMUNwRUtyaFY0bkRVQ3Q5cTdiYzgzTnk4Q3VQQ1BnZXMtNHQyaEdQR1hrS3U4aHl5a2xVb1RBQmJWVmNIWWpYWm0tUjlZNkxfVzdxS0ZFQXZ3Ti1RQdIB3wFBVV95cUxPOTBqM2RkUXRpM0tXeUt3bGxNOHNTRE5DQno4Z21iTmpUSnRJYTEzRnAtV2M3NmJWdDNqaXF6MWhLcTJPcDdJQ3ZlYkk3dWlyMi1pZHFXbUM1YS1kMzNWSG85ek4zZE5zTmlUNTBHampqbWVTblB4Zzl3bWkwLUJZS0RiekdZT1hVR3V3cThGcnRiTURKQmU3ZGtETTBnTlp3TlBjc25OdmQ5ejFmLU5YXzNsdklWN3FUYzFUclZ5ZDhHeDR3NUE2bXlPY1c1aUV6UTBwc1JKVjk3bkVZT3ZZ?oc=5",
-   "date": "2026-11-16",
-   "source": "ET Now",
-   "label": "Regulatory",
-   "snippet": "SEBI has formed an expert panel led by NSE chief Ashish Chauhan to review IPO regulations, simplify disclosure requirements and examine fundraising rules while maintaining investor protection and market integrity.",
-   "lead": "Get the latest financial news and personalised updates to stay ahead ofthe rest! Budget 2027: पीएम किसान की किस्त बढ़े, दालों की पूरी खरीद हो और गाय पालने पर मिले पैसा, सरकार से किसानों की बड़ी मांगें Ayushman Card: मोतियाबिंद से लिवर के इलाज तक, 112 बीमारियों का सरकारी अस्पतालों में होगा इलाज! आयुष्मान कार्डहोल्डर्स के लिए क्या बदला?",
-   "image": "https://images.etnownews.com/thumb/msid-156519995,thumbsize-95188,width-1280,height-720,resizemode-75/156519995.jpg",
+   "priority": 91,
+   "title": "Gold rate climbs after 3% drop: Is a rally likely as Fed Dec rate hike bets surge?",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOVWVNQ2VqeGRfZ2xFd2lKM1hhWGlXSm5Dbk9YTFVkeTd5ZjBTSUwxSUF0WGg2XzJhT2xENnM2ZjNpRHY1a3JtcjVvd3VCSjQyR250dDRGMXZmUW1BRWo5RXRnOERyYjNveDV2Sm0wN2lTZFVybzlEYWJpWUg2cnRabVI4ckRURl84MFdnMDVxb3hwdENEVTFLaGx1VjhOZExUY0ZPS05OQk1fQWhBeHNtZ3lOYjBFRXRCM0xvRXVMZnA2Q3kxR1NHVXBmRXNrSGNScjh0S3NuMjR3RzhhV3lpVERQVjRISy05NU1kSmFxTEI1aE93cHFlMEdLdUFJZ00tV2fSAYgCQVVfeXFMTnFjWU42Y0w0X1VaYk1tM1hrZDV6ck9aMDBPMm1vbGlBVjhHek5nVnZ1R09hbVlFRE5jSGpXWHR0Nmp3VDI3Z2dpVC0wdVRzVnNpaGJvWWJXTlRGV241UjctWlI4NVZEbTFjYmNoYUNGY0d5Z3NON1U1Mkc0dnpFTGFjcXI1MDFKMFRCRnVpSFBOQjg5Z0phenpSdkZCdWdBcnhDWlNNdjVldWZtdkl4d2N6NHU0VzRjeEI2eFkxRXl2NEdnb1I0b1k5SGtKUUl5SHRjQUdYQk5vTjBvSDZiX0ZFZE1ZdVNKQkFwQWRwazlvRmNoN1NYaUJsemxkSGNiVEtXNWRianNH?oc=5",
+   "date": "2026-11-11",
+   "source": "The Financial Express",
+   "label": "Gold & Silver",
+   "snippet": "Gold Rate Today, November 11: Check gold and silver rates in India on November 11, MCX futures, spot prices and the impact of US inflation",
+   "lead": "",
+   "image": "https://images.financialexpressdigital.com/2026/11/Today-Gold-Rate-in-India.jpg",
    "why": [
-    "Regulator: SEBI or RBI",
-    "Rule or framework change",
-    "Also covered by 1 other outlet(s)"
+    "Interest-rate decision",
+    "Precious metals",
+    "Global macro driver",
+    "Sharp market move"
    ],
    "tags": [
-    "Regulatory"
+    "Gold & Silver"
    ],
    "rank": 10,
    "must_read": false
   },
   {
-   "desk": "Advisory",
+   "desk": "Startups",
    "score": 10,
    "priority": 83,
-   "title": "Silver ETFs slide up to 5% as Fed rate hike fears weigh on prices. Should investors buy, hold or exit?",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNlQyTHpXdEhoLTNmeGYwYlBwWG9fZDdmWWcxRE9qMlFBSkUzeThrVVZJRmVpVEoyM3ViQk9TMUxHTHdPX1ViNmQxN3Q1d2hLbWRWOVZjc2xaR3RVeGF4YXd4V2R2SVRkOUtZeDV2Yy04LVFFTXRSTEFObDlfejdoREQ4VWd5b201TDFKUWY1WUpOeTRMOEtHaVY5bU1Qb2d2VzBUcEtjeTBwTjFUYnZRek1xMnFDcHloMkk0LTIyTzFIVHV3RkZuR3ZXMnhLR2pUQmZ6Q1Zpc0ZMbFlBbUY2cTJTYnc3d3RzSUV2WDVEZFZCN2hoVnfSAfsBQVVfeXFMTjNLZG1wLUh0WWlSMDRnYlkycHhQVXpGV05EdmlwVW9RWlg1S0Y4T2p0N21pNHNJaDFOYU5nZTFtSUlWNFBzRkdSbGxVZWZ1MDByeFRFQ0tCTnFiY0Vqd0EwakxFRUZONkpMZEl1NzZUVHM1a3dqY0t1b1lUTzZZLXZKckxQVE16VHBBQm1vV3IweHktTUFLblRCZVFVRlBRZmxpaXNWVWUzZ0hEUjU0QUJzdEM1eE9VM0RvUS1hbk9pbWZPNnc1blBnZ05zWWFBMlgzTVR1d05UVi1Ic21GUk5oZkFZT1pqQzF3RXRJUklQNW51dUx0eHdXRUE?oc=5",
-   "date": "2026-11-16",
-   "source": "The Economic Times",
-   "label": "Gold & Silver",
-   "snippet": "",
-   "lead": "",
-   "image": null,
+   "title": "Rediff Files Updated IPO Papers For ₹600 Cr Fresh Issue-Only IPO",
+   "url": "https://inc42.com/buzz/rediff-files-updated-ipo-papers-for-%e2%82%b9600-cr-fresh-issue-only-ipo/",
+   "date": "2026-11-17",
+   "source": "Inc42",
+   "label": "India · Policy & Regulation",
+   "snippet": "With the IPO, Rediff, which is one of India's earliest internet portals and digital media companies, intends to raise ₹600 Cr via a fresh issue of shares",
+   "lead": "Rediff has filed an updated IPO prospectus with SEBI, pegging the fresh issue at ₹600 Cr The IPO will fund the expansion of Rediff One, Rediff Pay and Rediff TV, alongside marketing and branding initiatives Rediff has earmarked ₹224.8 Cr for capital expenditure and ₹183.34 Cr for marketing and branding, with the remaining proceeds set aside for acquisitions and general corporate purposes",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/SEBI-task-force-social-.png",
    "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver"
+    "IPO & Listing",
+    "Sizeable deal (about $63M)"
    ],
    "tags": [
-    "Gold & Silver"
+    "IPO & Listing",
+    "Policy & Regulation"
    ],
    "rank": 11,
    "must_read": false
@@ -632,22 +676,21 @@
   {
    "desk": "Startups",
    "score": 10,
-   "priority": 77,
-   "title": "Dreamteam Bags $53 Mn To Disrupt The CRM Space With AI",
-   "url": "https://inc42.com/buzz/dreamteam-bags-53-mn-to-disrupt-the-crm-space-with-ai/",
+   "priority": 83,
+   "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+   "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
    "date": "2026-11-17",
-   "source": "Inc42",
-   "label": "India · AI & Deeptech",
-   "snippet": "AI-native CRM platform Dreamteam has raised $53 Mn in a strategic round from Together Fund, Accel and Premji Invest.",
-   "lead": "Going forward, Dreamteam said that it plans to focus on expanding its use cases across the entire customer lifecycle, including prospecting, onboarding and upselling The fundraise points to growing investor appetite for homegrown startups that help enterprises put AI to work across business functions Founded in 2025, Dreamteam is building an AI-powered CRM platform. Its four AI agents help enterprises track commitments, flag pipeline ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/dreamteam-funding-social-.png",
+   "source": "TechCrunch",
+   "label": "Global · Other",
+   "snippet": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
+   "lead": "Science Corporation , the medical technology startup founded by former Neuralink president Max Hodak in 2021, raised a $400 million Series D, the company said in a blog post . Investors in the new round valued the company at $3.5 billion, a person familiar with the deal told TechCrunch. Those backers included Khosla Ventures, the Ackman Oxman Institute, Tenet Healthcare, 885 Capital, Y Combinator, and PLC Neurotech. Hodak, who talked ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800",
    "why": [
     "Funding",
-    "Sizeable deal (about $53M)"
+    "Very large figure in headline (about $3,500M: round or valuation)"
    ],
    "tags": [
-    "Funding",
-    "AI & Deeptech"
+    "Funding"
    ],
    "rank": 12,
    "must_read": false
@@ -655,21 +698,22 @@
   {
    "desk": "Startups",
    "score": 10,
-   "priority": 77,
-   "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
-   "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
-   "date": "2026-11-16",
-   "source": "TechCrunch Venture",
-   "label": "Global · Other",
-   "snippet": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund.",
-   "lead": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots Anna Heim 11:00 PM PST · November 15, 2026 Operator-led VC firm Plural has raised €1 billion ($1.1 billion) in new capital, joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund . Despite its size, Plural’s fundraise isn’t (only) for a growth fund: two thirds will go to its third early-stage ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Plural-Partner-Photo-Fund-III.jpg?resize=1200,800",
+   "priority": 83,
+   "title": "Robotics startup Genesis AI raises $500m backed by Nvidia",
+   "url": "https://sifted.eu/articles/genesis-ai-raises-500m/",
+   "date": "2026-11-17",
+   "source": "Sifted",
+   "label": "Global · AI & Deeptech",
+   "snippet": "The physical AI company has hit a $3.5bn valuation just over a year after its $105m seed round",
+   "lead": "Genesis AI , which is building AI models designed to run across a wide range of robots, has raised a $500m Series A at a $3.5bn valuation, making it one of the largest robotics rounds in Europe this year.",
+   "image": "https://content.sifted.eu/wp-content/uploads/2026/11/17134637/image6-1024x686.png",
    "why": [
     "Funding",
-    "Very large figure in headline (about $1,100M: round or valuation)"
+    "Very large figure in headline (about $500M: round or valuation)"
    ],
    "tags": [
-    "Funding"
+    "Funding",
+    "AI & Deeptech"
    ],
    "rank": 13,
    "must_read": false
@@ -677,23 +721,21 @@
   {
    "desk": "Startups",
    "score": 10,
-   "priority": 77,
-   "title": "AI agent startup LangChain hits $3B valuation",
-   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-   "date": "2026-11-14",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-   "lead": "Agent management startup LangChain has raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from investors, including Singapore’s GIC, DFJ Growth, IVP, and Sapphire Ventures, the company announced on Friday. That’s more than double its $1.25 billion valuation when it raised $125 million about a year ago , led by IVP. LangChain began in 2022 as a popular open source project that handled the kinds ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
+   "priority": 83,
+   "title": "Isomorphic Labs raises $5bn backed by Sequoia and A16z",
+   "url": "https://sifted.eu/articles/isomorphic-labs-raises-5bn-backed-by-sequoia-and-a16z/",
+   "date": "2026-11-17",
+   "source": "Sifted",
+   "label": "Global · Other",
+   "snippet": "DeepMind spinout secures fresh funding as it races to bring AI-designed medicines into clinical trials.",
+   "lead": "London-based AI drug discovery company Isomorphic Labs has raised $5bn in fresh funding, just six months after its previous round, as investors pour billions into startups promising to transform the pharmaceutical industry.",
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=596,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/17123049/images.jpg",
    "why": [
     "Funding",
-    "Very large figure in headline (about $3,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
+    "Very large figure in headline (about $5,000M: round or valuation)"
    ],
    "tags": [
-    "Funding",
-    "AI & Deeptech"
+    "Funding"
    ],
    "rank": 14,
    "must_read": false
@@ -701,25 +743,47 @@
   {
    "desk": "Startups",
    "score": 10,
-   "priority": 77,
-   "title": "Exclusive: Sofina To Lead PlatinumRx’s $32 Mn Funding At $200 Mn Valuation",
-   "url": "https://inc42.com/buzz/sofina-to-lead-platinumrxs-32-mn-funding-at-200-mn-valuation/",
-   "date": "2026-11-12",
+   "priority": 83,
+   "title": "Fractal To Spend Up To ₹1,000 Cr To Acquire AI Startups",
+   "url": "https://inc42.com/buzz/fractal-to-spend-up-to-%e2%82%b91000-cr-to-acquire-ai-startups/",
+   "date": "2026-11-16",
    "source": "Inc42",
-   "label": "India · Health & Wellness",
-   "snippet": "Online pharmacy startup PlatinumRx is in talks to raise around $32 Mn (over ₹300 Cr) in a funding round led…",
-   "lead": "PlatinumRx is in talks to raise $32 Mn in a round led by Sofina Ventures at a $150 Mn - $200 Mn valuation. The proposed fundraise signals investor interest in specialised online pharmacy models focused on affordable medicines and substitutes. Founded in 2023, PlatinumRx previously raised $6 Mn in Series A in 2025, while rival Plazza raised $15 Mn in Series A earlier this year.",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/PlatinumRX-Funding-social.jpg",
+   "label": "India · AI & Deeptech",
+   "snippet": "The acquisition strategy is closely tied to Fractal's expectations of how enterprise AI adoption will evolve over the next few years",
+   "lead": "Fractal Analytics is in talks with 20-25 startups for potential acquisitions across healthcare, agentic AI and AI engineering The acquisitions could strengthen Fractal’s enterprise AI capabilities, expand its access to specialised talent and improve its competitive positioning Fractal is open to deals worth up to ₹1,000 Cr, with a preferred acquisition size of $50-100 Mn, and reported cash and cash equivalents of ₹1,728 Cr as of ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/fractal-soc-1.jpg",
    "why": [
-    "Funding",
-    "Large deal (about $200M)",
-    "Valuation, listing or profitability signal"
+    "Acquisition",
+    "Large deal (about $105M)"
    ],
    "tags": [
-    "Funding",
-    "Health & Wellness"
+    "Acquisition",
+    "AI & Deeptech"
    ],
    "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 8,
+   "priority": 80,
+   "title": "France Faces Fresh Strikes, Citizenship Changes and New Tax Deadlines: News Digest",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMk5Id2JJaFF0dU5ha1QxdzBlSWpQVm82ZjlFemdrV2dUYkZiZUptal9XT01xcVMyb1M0MmRhM2VlYjJUclVuNXpKYVRUUjk4anNjRzQyTXBaNEU3d254REEtcUpPa2MtM280VnpJNWhST1VJUzlxbWVsRXBQRGtwb1lZQW9tNW9ZbGFBb3lOY0VoTHUxNS1RamwxclphektQU1AxVXBoYnVMVmZWRFdVM2p6dmoydw?oc=5",
+   "date": "2026-11-17",
+   "source": "FrenchEntrée",
+   "label": "France",
+   "snippet": "France is heading into another week of industrial action, with demonstrations and school protests adding to tensions over public services and government policy. For foreign residents…",
+   "lead": "France is heading into another week of industrial action, with demonstrations and school protests adding to tensions over public services and government policy. For foreign residents, there is encouraging news on the citizenship front, with revised guidance offering fresh hope to some retirees receiving pensions from abroad. Meanwhile, property owners face several important tax deadlines as the end of the year approaches, and France’s ...",
+   "image": "https://www.frenchentree.com/wp-content/uploads/2026/11/shutterstock_4203179595-scaled.jpg",
+   "why": [
+    "Affects citizenship",
+    "Announces a change"
+   ],
+   "tags": [
+    "Citizenship",
+    "France"
+   ],
+   "rank": 16,
    "must_read": false
   },
   {
@@ -742,7 +806,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -766,7 +830,29 @@
    "tags": [
     "Markets & Regulation"
    ],
-   "rank": 17,
+   "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 70,
+   "title": "German citizenship: Government outlines 2 grounds for waiving key requirements",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUVhOZ2xSQy1BR2V1dW15VmxwbWJKSENiZkxRZ0s5ekJyRW0xWFA2eFV0aVh0bzJWRVdoWklyZlJlVGxZbEp1aFRwMFZlUEpMMUcxY0laQTgzMGF0SHV2MzdjNTF0akhvQmJ1STJZTEpjQnQ4R0Q4RU5mMmc4UVo4V1dKREQ4RklmdGdBTm9yMDFMUWpOSXg1WUE0RlAyUmk1SUtabHNsaFF0dXJjdWhzcUp2ZUEyeUVUeGc?oc=5",
+   "date": "2026-11-17",
+   "source": "Tuko News",
+   "label": "Germany",
+   "snippet": "Germany has announced two reasons foreigners may be granted citizenship without meeting the full conditions. Other requirements were also explained.",
+   "lead": "World Germany Mentions 2 Reasons Foreigners May Be Granted Citizenship Without Meeting Full Conditions Published 16 Nov 2026 at 9:44 PM by Shillah Mwadosho 3 min read Germany's Citizenship Act provides several routes through which foreigners can acquire German citizenship, including naturalization under Section 8 Applicants seeking discretionary naturalization must generally meet conditions relating to their identity, legal residence, ...",
+   "image": "https://cdn.tuko.co.ke/images/1200x675/64e2a3984c33b8bb.jpeg?v=1",
+   "why": [
+    "Affects citizenship"
+   ],
+   "tags": [
+    "Citizenship",
+    "Germany"
+   ],
+   "rank": 19,
    "must_read": false
   },
   {
@@ -788,7 +874,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 18,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -810,29 +896,7 @@
    "tags": [
     "Other Policy"
    ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 64,
-   "title": "German citizenship: Government outlines 2 grounds for waiving key requirements",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUVhOZ2xSQy1BR2V1dW15VmxwbWJKSENiZkxRZ0s5ekJyRW0xWFA2eFV0aVh0bzJWRVdoWklyZlJlVGxZbEp1aFRwMFZlUEpMMUcxY0laQTgzMGF0SHV2MzdjNTF0akhvQmJ1STJZTEpjQnQ4R0Q4RU5mMmc4UVo4V1dKREQ4RklmdGdBTm9yMDFMUWpOSXg1WUE0RlAyUmk1SUtabHNsaFF0dXJjdWhzcUp2ZUEyeUVUeGc?oc=5",
-   "date": "2026-11-17",
-   "source": "Tuko News",
-   "label": "Germany",
-   "snippet": "Germany has announced two reasons foreigners may be granted citizenship without meeting the full conditions. Other requirements were also explained.",
-   "lead": "World Germany Mentions 2 Reasons Foreigners May Be Granted Citizenship Without Meeting Full Conditions Published 16 Nov 2026 at 9:44 PM by Shillah Mwadosho 3 min read Germany's Citizenship Act provides several routes through which foreigners can acquire German citizenship, including naturalization under Section 8 Applicants seeking discretionary naturalization must generally meet conditions relating to their identity, legal residence, ...",
-   "image": "https://cdn.tuko.co.ke/images/1200x675/64e2a3984c33b8bb.jpeg?v=1",
-   "why": [
-    "Affects citizenship"
-   ],
-   "tags": [
-    "Citizenship",
-    "Germany"
-   ],
-   "rank": 20,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -854,7 +918,7 @@
    "tags": [
     "Labour & Social"
    ],
-   "rank": 21,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -875,29 +939,6 @@
    ],
    "tags": [
     "Infrastructure & Transport"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 6,
-   "priority": 55,
-   "title": "Spain's Election Sparks Cuban Debate Over Vox's Immigration and Remittance Plans",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GU3NmRm5UMjQ1c2ZiUlVBVE1TVWFFWmZSdjJiM3RFdEtrOENxR3hENFNOamtHUHBWTXR3Y25jZTFVSTZtcnJGeTZkYjBIdXU4ZFYwV1BkQ1c?oc=5",
-   "date": "2026-11-17",
-   "source": "CubaHeadlines",
-   "label": "Spain",
-   "snippet": "Vox's controversial proposals to tax remittances sent abroad and tighten rules on housing, healthcare, and social benefits for certain immigrants have...",
-   "lead": "Vox's controversial proposals to tax remittances sent abroad and tighten rules on housing, healthcare, and social benefits for certain immigrants have ignited a heated discussion among Cubans on social media, particularly on CiberCuba. These debates feature a mix of opinions, including those from Cubans currently residing in Spain, who find themselves divided over the electoral promises of Santiago Abascal's party. On Sunday, November ...",
-   "image": null,
-   "why": [
-    "Political signal on immigration",
-    "Announces a change"
-   ],
-   "tags": [
-    "Politics / Election",
-    "Spain"
    ],
    "rank": 23,
    "must_read": false
