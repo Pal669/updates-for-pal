@@ -1,6 +1,6 @@
 {
- "edition": "2026-11-18",
- "built": "2026-11-18 13:25 IST",
+ "edition": "2026-11-19",
+ "built": "2026-11-19 00:35 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,109 +12,89 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25178.0,
-   "change_pct": -0.83,
-   "asof": "18 Nov 13:25 IST"
+   "value": 25387.0,
+   "change_pct": 0.38,
+   "asof": "18 Nov 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 81845.0,
-   "change_pct": -0.83,
-   "asof": "18 Nov 13:10 IST"
+   "value": 82532.0,
+   "change_pct": 0.52,
+   "asof": "18 Nov 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 93.49,
-   "change_pct": -0.51,
-   "asof": "18 Nov 13:24 IST"
+   "value": 93.45,
+   "change_pct": -0.55,
+   "asof": "19 Nov 00:02 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 91.88,
-   "change_pct": -1.35,
-   "asof": "18 Nov 13:14 IST"
+   "value": 88.65,
+   "change_pct": -4.82,
+   "asof": "19 Nov 00:24 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3770.0,
-   "change_pct": -2.45,
-   "asof": "18 Nov 13:15 IST"
+   "value": 3741.0,
+   "change_pct": -3.2,
+   "asof": "19 Nov 00:24 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.1,
-   "change_pct": -0.35,
-   "asof": "18 Nov 01:29 IST"
+   "value": 5.06,
+   "change_pct": -0.8,
+   "asof": "19 Nov 00:19 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "DheyaTech",
-   "tagline": "Bengaluru aerospace propulsion startup",
-   "what": "Founded in 2018 by aerospace engineers Gurushankara KC, Abhinav Alva and Chetan Kumar. Develops small gas turbine engines (20 kgf to 400 kgf thrust) for aerial platforms and energy systems, with the design, assembly and testing pipeline and its engine control unit built in-house. Expanding into hydrogen-based technology and distributed power generation, including a 60 kW turbogenerator with a hydrogen flexi-fuel combustor developed with IISc.",
+   "company": "Aakash Educational Services",
+   "tagline": "Test-prep coaching chain owned by BYJU'S parent",
+   "what": "Gurugram-based test-prep brand for engineering and medical entrance exams, owned by BYJU'S parent Think & Learn since its 2021 acquisition.",
    "how": [
-    "Sells engines to OEMs: the company says it already has orders from Indian and global OEMs but did not disclose names or values.",
-    "Inferred: revenue is hardware sales; the article gives no pricing or revenue figures."
+    "Coaching fees: Rs 1,956.2 Cr of Rs 2,040.5 Cr operating revenue in FY26 (about 96%, computed).",
+    "Franchisee revenue: Rs 84.4 Cr, up 4% (about 4%, computed)."
    ],
-   "watch": "Pre-revenue-scale hardware: certification timelines and first commercial deliveries are the milestones to track. Article also notes rising investor interest in aerospace and spacetech (D-Propulse Rs 25 Cr in January; InspeCity Rs 100 Cr in August).",
-   "sector": "AI & Deeptech",
+   "watch": "The smaller loss came from one-off accounting gains, not from the business growing: revenue is flat. Ownership is entangled in the BYJU'S group's disputes: Byju Raveendran proposed relinquishing his claimed interest in 17.89 Mn Aakash shares to settle Qatar Holding's arbitration claim of over $235 Mn; lenders (Global TLB lenders via GLAS Trust) are reportedly in advanced talks for a 30% stake valuing Aakash at about $2 Bn.",
+   "sector": "Edtech & Skills",
    "region": "India",
-   "url": "https://inc42.com/buzz/dheyatech-bags-%e2%82%b943-cr-to-scale-indigenous-gas-turbine-engines/"
+   "url": "https://inc42.com/buzz/aakash-trims-fy26-loss-by-16-to-%e2%82%b9186-5-cr-top-line-flat-at-%e2%82%b92040-cr/"
   },
   "country": {
-   "id": "canada",
-   "name": "Canada",
-   "trend": "Tightening on temporary; PR volumes steady",
-   "pr": "PR is granted on arrival through Express Entry or a provincial nomination (general knowledge). Levels plan 2026-2028: 380,000 new permanent residents a year; economic share rising to 64% in 2027-2028. A one-time measure fast-tracks PR for up to 33,000 temporary workers in 2026-2027.",
-   "citizenship": "About 3 years of physical presence within 5 years (general knowledge, not re-verified). Dual citizenship allowed.",
-   "pro": "Only country on this list where you can apply for PR from outside without an employer.",
-   "con": "New temporary arrivals cut to 385,000 in 2026 (study permits about 49% lower, worker permits about 37% lower); goal is temporary residents under 5% of population by end-2027.",
-   "watch": "Express Entry draw scores and categories"
+   "id": "australia",
+   "name": "Australia",
+   "trend": "Tightening at the edges; employer-sponsored expanding",
+   "pr": "2026-27 permanent program: 185,000 places, 132,240 (over 70%) in the skill stream; about 129,590 places for people already in Australia. Employer-sponsored places rise from 44,000 to 58,040. Time to PR through 482 then 186 was not verified this session; check the Department of Home Affairs.",
+   "citizenship": "About 4 years of residence including 12 months as a permanent resident (general knowledge, not re-verified). Dual citizenship allowed.",
+   "pro": "English-speaking; strong wages (general knowledge).",
+   "con": "Priority goes to people already onshore, so applying from India is harder.",
+   "watch": "Skills in Demand occupation lists"
   }
  },
  "desks": {
   "Policy": {
-   "total": 361,
-   "new_today": 2,
+   "total": 362,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
-     "score": 6,
-     "priority": 35,
-     "title": "Ministry of Heavy Industries (MHI) receives 22 bids for 10 GWh Advanced Chemistry Cell manufacturing capacity under PLI ACC Scheme",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335459",
-     "date": "2026-11-12",
-     "source": "PIB",
-     "label": "Industry & Manufacturing",
-     "snippet": "The Ministry of Heavy Industries (MHI) has received 22 bids from prospective bidders for 10 GWh capa",
-     "lead": "Ministry of Heavy Industries Ministry of Heavy Industries (MHI) receives 22 bids for 10 GWh Advanced Chemistry Cell manufacturing capacity under PLI ACC Scheme Strong Industry Response Reflects Growing Interest in Establishing Domestic ACC Manufacturing Capacity Bid opening marks a significant step towards strengthening India’s Domestic ACC Manufacturing Ecosystem Posted On: 12 NOV 2026 4:48PM by PIB Delhi The Ministry of Heavy ...",
-     "image": null,
-     "why": [
-      "Subsidy or incentive"
-     ],
-     "tags": [
-      "Industry & Manufacturing"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 6,
-     "priority": 35,
-     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63955",
-     "date": "2026-11-11",
+     "score": 3,
+     "priority": 27,
+     "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Nagar Sahakari Bank Ltd., Etawah – Extension of Period",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63988",
+     "date": "2026-11-17",
      "source": "RBI",
      "label": "Banking & Rates",
      "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "",
+     "lead": "The Reserve Bank of India issued Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 to Nagar Sahakari Bank Ltd., Etawah, vide Directive No. LKO.DOS.SED.No.S29/12-03-000/2026-2027 dated May 15, 2026, for a period of six months up to close of business on November 18, 2026. The Reserve Bank of India is satisfied that in the public interest, it is necessary to further extend the period of operation of the ...",
      "image": null,
      "why": [
-      "New law or act",
       "Regulator: RBI"
      ],
      "tags": [
@@ -123,94 +103,71 @@
     },
     {
      "desk": "Policy",
-     "score": 5,
-     "priority": 29,
-     "title": "Ministry of Rural Development Issues Ombudsperson Guidelines to Strengthen Transparency and Accountability under VB-G RAM G",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2337720",
-     "date": "2026-11-18",
+     "score": 3,
+     "priority": 27,
+     "title": "India’s Horticulture Production Set to Reach Record 386.9 Million Tonnes in 2025-26: Shri Shivraj Singh Chouhan Releases Third Advance Estimates",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2337301",
+     "date": "2026-11-17",
      "source": "PIB",
-     "label": "Labour & Social",
-     "snippet": "The Ministry of Rural Development has strengthened the framework for transparency, accountability and citizen participation in the implementation of the Viksit Bharat – Guarantee for Rozgar and Ajeevi",
-     "lead": "Ministry of Rural Development Ministry of Rural Development Issues Ombudsperson Guidelines to Strengthen Transparency and Accountability under VB-G RAM G Stronger Grievance Redressal Mechanism to Safeguard Rural Workers’ Rights under VB-G RAM G Digital Monitoring, Social Audits and Citizen Participation to Strengthen Accountability under VB-G RAM G Posted On: 18 NOV 2026 10:29AM by PIB Delhi The Ministry of Rural Development has ...",
+     "label": "Agriculture & Food",
+     "snippet": "Union Minister for Agriculture and Farmers’ Welfare and Rural Development, Shri Shivraj Singh Chouhan, today released the Third Advance Estimates of area and production of horticultural crops for 2025",
+     "lead": "Ministry of Agriculture & Farmers Welfare India’s Horticulture Production Set to Reach Record 386.9 Million Tonnes in 2025-26: Shri Shivraj Singh Chouhan Releases Third Advance Estimates Horticulture production estimated to rise by 4.36% despite a decline in cultivated area; fruits, vegetables, flowers and plantation crops register strong growth Potato production projected to increase by nearly 12%; overall horticulture output expected ...",
      "image": null,
      "why": [
       "Rule change"
      ],
      "tags": [
-      "Labour & Social"
+      "Agriculture & Food"
      ]
     },
     {
      "desk": "Policy",
-     "score": 5,
-     "priority": 29,
-     "title": "Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335785",
-     "date": "2026-11-13",
+     "score": 2,
+     "priority": 18,
+     "title": "3rd DHR-ICMR Health Research Excellence Summit Brings Together Over 600 Scientists, Researchers and Policymakers in New Delhi",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2337773",
+     "date": "2026-11-18",
      "source": "PIB",
-     "label": "Banking & Rates",
-     "snippet": "The development of a systematic framework to measure the contribution of knowledge and knowledge pro",
-     "lead": "Ministry of Statistics & Programme Implementation Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems Posted On: 13 NOV 2026 2:40PM by PIB Delhi The development of a systematic framework to measure the contribution of knowledge and knowledge products to the Indian economy assumes significance in the context of the growing role of knowledge in driving economic activity, productivity and value ...",
+     "label": "Health & Pharma",
+     "snippet": "The Indian Council of Medical Research (ICMR) has achieved the milestone of 100 successful technology transfers deals, marking a significant step in translating indigenous health research into technol",
+     "lead": "Ministry of Health and Family Welfare 3rd DHR-ICMR Health Research Excellence Summit Brings Together Over 600 Scientists, Researchers and Policymakers in New Delhi ICMR Crosses 100 Technology Transfers Deals including 20 Licensing Agreements with Nine Indian Companies transferred today Three new initiatives launched to strengthen health research, disease surveillance and translation of research evidence into policy ICMR marks 115 years ...",
      "image": null,
      "why": [
-      "Rates and liquidity"
+      "High on the desk's ranking"
      ],
      "tags": [
-      "Banking & Rates"
+      "Health & Pharma"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 2,
+     "priority": 18,
+     "title": "NLMC Announces E-Auction of Residential Flat in Kilpauk, Chennai; Pre-Bid Meeting Rescheduled to 28 November 2026",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335853",
+     "date": "2026-11-13",
+     "source": "PIB",
+     "label": "Budget & Fiscal",
+     "snippet": "The National Land Monetization Corporation (NLMC), a wholly owned Government of India company under the Department of Public Enterprises (DPE), Ministry of Finance, has announced the e-auction of a re",
+     "lead": "Ministry of Finance NLMC Announces E-Auction of Residential Flat in Kilpauk, Chennai; Pre-Bid Meeting Rescheduled to 28 November 2026 RFP released on 5 November 2026 for residential property at Poonamallee High Road, Kilpauk, Chennai, with a reserve price of ₹1.64 crore Corrigendum issued on 13 November 2026 revising the Pre-Bid Meeting to 28 November 2026 at 11:00 AM Posted On: 13 NOV 2026 4:37PM by PIB Delhi The National Land ...",
+     "image": null,
+     "why": [
+      "Ministry of Finance"
+     ],
+     "tags": [
+      "Budget & Fiscal"
      ]
     }
    ]
   },
   "Startups": {
-   "total": 1483,
-   "new_today": 10,
+   "total": 1500,
+   "new_today": 0,
    "items": [
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 83,
-     "title": "Fractal To Spend Up To ₹1,000 Cr To Acquire AI Startups",
-     "url": "https://inc42.com/buzz/fractal-to-spend-up-to-%e2%82%b91000-cr-to-acquire-ai-startups/",
-     "date": "2026-11-16",
-     "source": "Inc42",
-     "label": "India · AI & Deeptech",
-     "snippet": "The acquisition strategy is closely tied to Fractal's expectations of how enterprise AI adoption will evolve over the next few years",
-     "lead": "Fractal Analytics is in talks with 20-25 startups for potential acquisitions across healthcare, agentic AI and AI engineering The acquisitions could strengthen Fractal’s enterprise AI capabilities, expand its access to specialised talent and improve its competitive positioning Fractal is open to deals worth up to ₹1,000 Cr, with a preferred acquisition size of $50-100 Mn, and reported cash and cash equivalents of ₹1,728 Cr as of ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/fractal-soc-1.jpg",
-     "why": [
-      "Acquisition",
-      "Large deal (about $105M)"
-     ],
-     "tags": [
-      "Acquisition",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "India’s deeptech funding record faces a test of scale: Speciale Invest report",
-     "url": "https://yourstory.com/2026/11/indias-deeptech-funding-record-faces-a-test-of-scale-speciale-invest-report",
-     "date": "2026-11-16",
-     "source": "YourStory",
-     "label": "India · AI & Deeptech",
-     "snippet": "India’s deeptech funding hit $914 million in 2025, but limited growth capital, manufacturing dependencies and weak commercialisation pathways continue to hinder startups from scaling.",
-     "lead": "India’s deeptech funding record faces a test of scale: Speciale Invest report India’s deeptech funding hit $914 million in 2025, but limited growth capital, manufacturing dependencies and weak commercialisation pathways continue to hinder startups from scaling. Team YS 17587 Stories Monday November 16, 2026 , 3 min Read India’s deeptech companies raised $914 million in 257 rounds in 2025, 34 times the 2016 level. The harder test is ...",
-     "image": "https://images.yourstory.com/cs/2/c2cedff02d6111ef9021856619e24ca1/IMG0470-1744635312325.jpeg",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $914M: round or valuation)"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
+     "priority": 91,
      "title": "AI agent startup LangChain hits $3B valuation",
      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
      "date": "2026-11-14",
@@ -232,7 +189,7 @@
     {
      "desk": "Startups",
      "score": 10,
-     "priority": 83,
+     "priority": 91,
      "title": "Exclusive: Sofina To Lead PlatinumRx’s $32 Mn Funding At $200 Mn Valuation",
      "url": "https://inc42.com/buzz/sofina-to-lead-platinumrxs-32-mn-funding-at-200-mn-valuation/",
      "date": "2026-11-12",
@@ -250,91 +207,93 @@
       "Funding",
       "Health & Wellness"
      ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 82,
+     "title": "Humyn Labs Raises $47 Mn To Collect Training Data For Robots",
+     "url": "https://inc42.com/buzz/humyn-labs-raises-47-mn-to-collect-training-data-for-robots/",
+     "date": "2026-11-18",
+     "source": "Inc42",
+     "label": "India · AI & Deeptech",
+     "snippet": "Physical AI startup Humyn Labs has raised $47 Mn (about ₹439 Cr) to expand its data collection and robot deployment operations",
+     "lead": "Physical AI startup Humyn Labs has raised $47 Mn in a funding round, comprising $26 Mn in equity led by Accel and $21 Mn in venture debt led by Lighthouse Canton. Humyn claims to have crossed $50 Mn in annualised revenue within six months of starting operations. The startup will use the capital to expand its robot deployment operations to Brazil, South Korea and India, strengthen its data collection hardware.",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Ref-Image-1.png",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $47M)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 82,
+     "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+     "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+     "date": "2026-11-18",
+     "source": "TechCrunch",
+     "label": "India · AI & Deeptech",
+     "snippet": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+     "lead": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need Jagmeet Singh 3:30 AM PST · November 18, 2026 As demand grows for real-world data to train robots, India’s Humyn Labs has raised $47 million in Series A financing to help U.S. AI and robotics companies build models that can operate in physical environments. The funding comprises $26 million in equity led by Accel, with participation from Prosus Ventures, ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/11/humyn-labs-co-founders_164602.jpg?resize=1200,800",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $47M)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 29,
+   "new_today": 0,
    "items": [
     {
      "desk": "Immigration",
-     "score": 8,
-     "priority": 80,
-     "title": "France Faces Fresh Strikes, Citizenship Changes and New Tax Deadlines: News Digest",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMk5Id2JJaFF0dU5ha1QxdzBlSWpQVm82ZjlFemdrV2dUYkZiZUptal9XT01xcVMyb1M0MmRhM2VlYjJUclVuNXpKYVRUUjk4anNjRzQyTXBaNEU3d254REEtcUpPa2MtM280VnpJNWhST1VJUzlxbWVsRXBQRGtwb1lZQW9tNW9ZbGFBb3lOY0VoTHUxNS1RamwxclphektQU1AxVXBoYnVMVmZWRFdVM2p6dmoydw?oc=5",
-     "date": "2026-11-17",
-     "source": "FrenchEntrée",
-     "label": "France",
-     "snippet": "France is heading into another week of industrial action, with demonstrations and school protests adding to tensions over public services and government policy. For foreign residents…",
-     "lead": "France is heading into another week of industrial action, with demonstrations and school protests adding to tensions over public services and government policy. For foreign residents, there is encouraging news on the citizenship front, with revised guidance offering fresh hope to some retirees receiving pensions from abroad. Meanwhile, property owners face several important tax deadlines as the end of the year approaches, and France’s ...",
-     "image": "https://www.frenchentree.com/wp-content/uploads/2026/11/shutterstock_4203179595-scaled.jpg",
+     "score": 6,
+     "priority": 55,
+     "title": "Congress, TMC slam Centre after Norwegian journalist claims visa revoked before India trip",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNG53UGxhSUdqeFdNSFBHWDBsNmZfSGdEZTM1NTF4WnF4NlBKQXNHMm9OXzlLMjhyaXQ5SmJvaERCYVNKZHBqNGl0ZkVlYXM2cTVOb21DS2h2SUkzR056TV80QnVob1VaN2laSklzN1k4T2hPZ2NIOGU5Y1ljaE5Nc1AtWm1xU09TMDNySFJmSHg0VmtES3NEMGVNaV9lRVQ4UHBtNVBTVXBKbzdHa1Y2OGNmUXhWS1Itak4tNUp2RWRoSGYwaTgzdjUxTjZwZmZTeGR4bkw3NNIB5AFBVV95cUxPUEdISFBObkt5WjVybmpXRHpuNkR0NEZyZzBwWmhBRU9TZWNYX2ZfM0JuSWtlVmRKRlR4eC1RMkFTcVBjTW50bjEybHZhaDlmN2JoTUkzOE5aeTBnME1hX25ZX2RIYWxvZ25WS0ZUekZ0WlJkUXpJaG5LajZKOFlSMVlObm05T2VYSDdLLXpYakVIWDR6ZXIyTV9nSEJKOWxpV2VyM1RsMFRGc1NjQzNxWkxWNzNzTUpNQUctakp2aExsY1J6Q0tMZENYUGlNTktLZFZMTGV5cFdjX2Y4eU9MWUdRb0s?oc=5",
+     "date": "2026-11-12",
+     "source": "The New Indian Express",
+     "label": "Norway",
+     "snippet": "The Congress and the Trinamool Congress (TMC) on Thursday questioned why the government was afraid of scrutiny after Norwegian journalist Helle Lyng, who was in",
+     "lead": "Copied The Congress and the Trinamool Congress (TMC) on Thursday questioned why the government was afraid of scrutiny after Norwegian journalist Helle Lyng, who was in the news during Prime Minister Narendra Modi's visit to Oslo in May, claimed her visa was cancelled minutes before she was due to leave for India. Lyng, an independent journalist based in Norway, said she was scheduled to attend and speak at the 'Bharat Summit', ...",
+     "image": "https://cf-images.assettype.com/newindianexpress%2F2026-11-12%2F9hayxh8d%2FNorwegian-journalist-Helle-Lyng.png?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
      "why": [
-      "Affects citizenship",
-      "Announces a change"
+      "Major story (26 headlines that day)",
+      "Mentions India or Indians"
      ],
      "tags": [
-      "Citizenship",
-      "France"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 7,
-     "priority": 70,
-     "title": "German citizenship: Government outlines 2 grounds for waiving key requirements",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUVhOZ2xSQy1BR2V1dW15VmxwbWJKSENiZkxRZ0s5ekJyRW0xWFA2eFV0aVh0bzJWRVdoWklyZlJlVGxZbEp1aFRwMFZlUEpMMUcxY0laQTgzMGF0SHV2MzdjNTF0akhvQmJ1STJZTEpjQnQ4R0Q4RU5mMmc4UVo4V1dKREQ4RklmdGdBTm9yMDFMUWpOSXg1WUE0RlAyUmk1SUtabHNsaFF0dXJjdWhzcUp2ZUEyeUVUeGc?oc=5",
-     "date": "2026-11-17",
-     "source": "Tuko News",
-     "label": "Germany",
-     "snippet": "Germany has announced two reasons foreigners may be granted citizenship without meeting the full conditions. Other requirements were also explained.",
-     "lead": "World Germany Mentions 2 Reasons Foreigners May Be Granted Citizenship Without Meeting Full Conditions Published 16 Nov 2026 at 9:44 PM by Shillah Mwadosho 3 min read Germany's Citizenship Act provides several routes through which foreigners can acquire German citizenship, including naturalization under Section 8 Applicants seeking discretionary naturalization must generally meet conditions relating to their identity, legal residence, ...",
-     "image": "https://cdn.tuko.co.ke/images/1200x675/64e2a3984c33b8bb.jpeg?v=1",
-     "why": [
-      "Affects citizenship"
-     ],
-     "tags": [
-      "Citizenship",
-      "Germany"
+      "Norway"
      ]
     },
     {
      "desk": "Immigration",
      "score": 6,
-     "priority": 60,
-     "title": "Japan Comments on Entry Ban on Cho Kuk: 'Immigration Bureau Decides in Accordance with Law'",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hcEtVOFZHVURQX1YtQWJ0UXNaUDJ0NGw1cFhZSmE0QUxzMHBCdzl3MDBxVlpDN19tczhpa1NQcEpNM2JVZEMzSWFSMzBDakpaUVg5ZHBEM3YxajdBaEozdXZUYzV5TktLUk5rU0p3?oc=5",
-     "date": "2026-11-18",
-     "source": "news.sbs.co.kr",
-     "label": "Japan",
-     "snippet": "",
-     "lead": "",
-     "image": null,
-     "why": [
-      "Announces a change"
-     ],
-     "tags": [
-      "Japan"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 60,
-     "title": "Spain's Election Sparks Cuban Debate Over Vox's Immigration and Remittance Plans",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GU3NmRm5UMjQ1c2ZiUlVBVE1TVWFFWmZSdjJiM3RFdEtrOENxR3hENFNOamtHUHBWTXR3Y25jZTFVSTZtcnJGeTZkYjBIdXU4ZFYwV1BkQ1c?oc=5",
-     "date": "2026-11-17",
-     "source": "CubaHeadlines",
+     "priority": 55,
+     "title": "Immigration pushes Spain's population towards 50 million threshold",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRFRqZ1lZbGItalBZSXlFMmw0dTNGenVnY1Z1TS1ycnFqMkw4QkZreEZyNi1WQ09hd1BTMnNNSm1NNFVqdlRBeUFwa3NpODFRZnRlRElSUHcwajJ0emhqZmRudE9sSmh3Yl9NbXUxcWVIS2pxRmRuY0dzMjNoSHZ5VzR5cmt4Z3ptbnVzc3Q5T3RyTG82T0FfXzFRMmhKTzg?oc=5",
+     "date": "2026-11-12",
+     "source": "The Local Spain",
      "label": "Spain",
-     "snippet": "Vox's controversial proposals to tax remittances sent abroad and tighten rules on housing, healthcare, and social benefits for certain immigrants have...",
-     "lead": "Vox's controversial proposals to tax remittances sent abroad and tighten rules on housing, healthcare, and social benefits for certain immigrants have ignited a heated discussion among Cubans on social media, particularly on CiberCuba. These debates feature a mix of opinions, including those from Cubans currently residing in Spain, who find themselves divided over the electoral promises of Santiago Abascal's party. On Sunday, November ...",
+     "snippet": "This comes as both immigration and housing are politicised topics on Spain's general election campaign.",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source This comes as both immigration and housing are politicised topics on Spain's general election campaign. Spain is fast approaching the 50 million threshold, with population growth spurred almost entirely by immigration ...",
      "image": null,
      "why": [
-      "Political signal on immigration",
+      "Salary threshold change",
       "Announces a change"
      ],
      "tags": [
-      "Politics / Election",
+      "Salary threshold",
       "Spain"
      ]
     }
@@ -342,12 +301,12 @@
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 13,
+   "new_today": 0,
    "items": [
     {
      "desk": "Advisory",
-     "score": 10,
-     "priority": 77,
+     "score": 9,
+     "priority": 75,
      "title": "AIF commitments hit a high of ₹18.68 trillion as of September: Sebi data",
      "url": "https://www.business-standard.com/markets/news/aif-commitments-hit-a-high-of-18-68-trillion-as-of-september-sebi-data-126111601365_1.html",
      "date": "2026-11-16",
@@ -368,27 +327,7 @@
     {
      "desk": "Advisory",
      "score": 9,
-     "priority": 69,
-     "title": "US 10-Year Yield Set for Historic Run Above 5% on Fed Cycle",
-     "url": "https://www.livemint.com/market/us-10-year-yield-set-for-historic-run-above-5-on-fed-cycle-11794948232494.html",
-     "date": "2026-11-18",
-     "source": "Mint",
-     "label": "Debt & Bonds",
-     "snippet": "The US’s 10-year Treasury yield is nearing its longest run above 5% in almost two decades as investors position for the Federal Reserve to hike interest rates more amid stubbornly elevated inflation.",
-     "lead": "US 10-Year Yield Set for Historic Run Above 5% on Fed Cycle AI Quick Read (Bloomberg) -- The US’s 10-year Treasury yield is nearing its longest run above 5% in almost two decades as investors position for the Federal Reserve to hike interest rates more amid stubbornly elevated inflation. The benchmark for borrowing costs in the world’s largest economy is holding above 5% for the 27th day this year, putting 2026 within striking distance ...",
-     "image": null,
-     "why": [
-      "Government bond yields",
-      "Global macro driver"
-     ],
-     "tags": [
-      "Debt & Bonds"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 69,
+     "priority": 75,
      "title": "SEBI Settles AIF Norms Violation Case For ₹12.75 Lakh, Eight Innovate Fund And Officials Get Relief",
      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ05odi1vWWZfOVVSMzEtVzN5YjFmY0dETERwUFIxY04wWGhZTWJyaFM2ak4zLU1INzhVTEtRNEMwR25FcWVQUWF1aWRjMmhZMl9UT01qOGlOa0oxOU1XRUhUMDVGeGxPbXJJU2kwN1VBYml0WUI3ZTNhWHBSaXdsLUI3Tl84VUJPTEE3SFdBVU1sOVE4bXF5dVlBRUQ4b1RqaS1CaldZWm13a1hnU2l3ME9iQ3hqQUltdW91bDJsSTYxbHIzdWxOR0NzdWpabWZZem530gHYAUFVX3lxTE5KNXRTdEtHM3hYMHhfN1NrMDlBUkZzQnBBTGExdDlQUHdJMWpTX0M5elFfTS1hSlU4WUtXTGxnc0V3XzV0T1hubFU5ZlJTeGZvNkJuNnJOajVWNjluZGFjbGdGVHlCOExRWU5xaHlwOHlyNUZiY0o4YWZuaU55Qy1ObnA5RXNzcjZVVXFMbk1EY0hadW14dmhRb0p3eFVjZTlzYTZxelc4TGNQWTBCX05qQmdmRmFXN3plRVpPQ2JJRkFXdVBhTDFEcFYxcVR6RjNmSkFSbzBSbA?oc=5",
      "date": "2026-11-12",
@@ -409,21 +348,42 @@
     {
      "desk": "Advisory",
      "score": 8,
-     "priority": 62,
-     "title": "SIF Vs PMS Vs AIF: Where SEBI’s Specialised Investment Fund Sits In The Investment Landscape",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ0lsenZod1Y3MEhuUHR5OXRZRW03SUo1Y0xaVEVQOHZRRXpOMUxjREYtYVUyUnFCOHdqNG9HMXg1Y2xtTlZYaV9EcEVDMXV0aFR3VVRIVDlIakNOLXJCVEJpbGxNZkR1cXQ0aG5CNkhqSjZHekZJeW80UkNNc0pHMTdfME9rTkRjbXA4a9IBmgFBVV95cUxOUUJaRjJ5ay1ia1pRamw3UUtQdGVnNDV1dG1yYWpuakMwMDZhcnFyUGFVTVp2aVdlTDBxeU1ta3BxS0g4VnRSMVNnV2FsZjhKLTlJUGFGZEstVWpEQjNQRW8xb1dHcFNsUlBSZjNuS0RzZVpwU2tFQUk4Y1VBanpNOFJOdmoyc29oQUQwdWhfcTVCM0dzcWJFVXZR?oc=5",
-     "date": "2026-11-16",
-     "source": "NewsGram",
-     "label": "PMS",
-     "snippet": "For about a decade, Indian investors with real money but not quite PMS money had nowhere interesting to go. Mutual funds would take anything from a few hundred",
-     "lead": "Copied Follow NewsGram WhatsApp Channel For about a decade, Indian investors with real money but not quite PMS money had nowhere interesting to go. Mutual funds would take anything from a few hundred rupees up. Portfolio management services started at ₹50 lakh. Alternative investment funds started at ₹1 crore. In between sat a lot of people with ₹10 lakh to ₹40 lakh who were told, politely, to keep buying flexi-cap funds. The SIF is ...",
-     "image": "https://media.assettype.com/newsgram%2F2026-11-16%2F8mwiarvl%2FSEBIBhavan.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+     "priority": 67,
+     "title": "US 10-Year Yield Set for Historic Run Above 5% on Fed Cycle",
+     "url": "https://www.livemint.com/market/us-10-year-yield-set-for-historic-run-above-5-on-fed-cycle-11794948232494.html",
+     "date": "2026-11-18",
+     "source": "Mint",
+     "label": "Debt & Bonds",
+     "snippet": "The US’s 10-year Treasury yield is nearing its longest run above 5% in almost two decades as investors position for the Federal Reserve to hike interest rates more amid stubbornly elevated inflation.",
+     "lead": "US 10-Year Yield Set for Historic Run Above 5% on Fed Cycle AI Quick Read (Bloomberg) -- The US’s 10-year Treasury yield is nearing its longest run above 5% in almost two decades as investors position for the Federal Reserve to hike interest rates more amid stubbornly elevated inflation. The benchmark for borrowing costs in the world’s largest economy is holding above 5% for the 27th day this year, putting 2026 within striking distance ...",
+     "image": null,
      "why": [
-      "PMS news",
-      "Regulator: SEBI or RBI"
+      "Government bond yields",
+      "Global macro driver"
      ],
      "tags": [
-      "PMS"
+      "Debt & Bonds"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 8,
+     "priority": 67,
+     "title": "Arihant Capital Markets gets SEBI nod to launch mutual fund biz",
+     "url": "https://www.thehindubusinessline.com/markets/arihant-capital-markets-gets-sebi-nod-to-launch-mutual-fund-biz/article71697257.ece",
+     "date": "2026-11-13",
+     "source": "BusinessLine",
+     "label": "Mutual Funds",
+     "snippet": "Arihant Capital gets SEBI in-principle approval to launch its own mutual fund, expanding accessible investment solutions nationwide.",
+     "lead": "' blCenterIconDiv.innerHTML = spanSvg blLoaderDiv.appendChild(blCenterLoadDiv) blLoaderDiv.appendChild(blCenterIconDiv) divInner.appendChild(blLoaderDiv) div.appendChild(divInner) var bodyIntravel = setInterval(() => { if(window.document.body) { clearInterval(bodyIntravel) window.document.body.insertBefore(div, window.document.body.firstChild) } }, 100) function addStyle(styles) { var css = document.createElement('style'); css.type = ...",
+     "image": "https://bl-i.thgim.com/public/incoming/2fa6cu/article71697480.ece/alternates/LANDSCAPE_1200/2026-11-04T134653Z_1236041378_RC2LJDAE99D5_RTRMADP_3_INDIA-SEBI-FUND-RAISING.JPG",
+     "why": [
+      "Regulator: SEBI or RBI",
+      "New product or fund",
+      "Also covered by 2 other outlet(s)"
+     ],
+     "tags": [
+      "Mutual Funds"
      ]
     }
    ]
@@ -432,7 +392,53 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
+   "priority": 100,
+   "title": "Bengaluru leads India in AI startup funding: Innovation Report 2026",
+   "url": "https://yourstory.com/2026/11/bengaluru-leads-india-in-ai-startup-funding-innovation-report-2026",
+   "date": "2026-11-18",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "$85 billion raised, a growing AI ecosystem and a strong deep-tech pipeline. The Bengaluru Innovation Report 2026 maps the city's startup growth as Karnataka looks to spread its tech ambitions beyond the capital.",
+   "lead": "Bengaluru leads India in AI startup funding: Innovation Report 2026 $85 billion raised, a growing AI ecosystem and a strong deep-tech pipeline. The Bengaluru Innovation Report 2026 maps the city's startup growth as Karnataka looks to spread its tech ambitions beyond the capital. Aasma Khan 482 Stories Wednesday November 18, 2026 , 4 min Read Bengaluru's position as India's technology hub is increasingly being shaped by artificial ...",
+   "image": "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/Untitleddesign50-1795004620644.jpg",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $85,000M: round or valuation)"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 100,
+   "title": "Anthropic IPO fever hits crypto: Binance launches $500 million tokenised share campaign",
+   "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-ipo-fever-hits-crypto-binance-launches-500-million-tokenised-share-campaign/articleshow/135964874.cms",
+   "date": "2026-11-18",
+   "source": "ET Startups",
+   "label": "Global · Fintech",
+   "snippet": "Binance Wallet has launched a campaign in collaboration with xStocks, allowing eligible users to use USDC, a digital currency designed to maintain a value of $1, to subscribe to tokens linked to Anthropic. The campaign has a limit of $500 million and runs for eight hours on November 18, Binance ...",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-98694,resizemode-75,msid-135964874/tech/technology/anthropic-ipo-fever-hits-crypto-binance-launches-500-million-tokenised-share-campaign.jpg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $500M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Fintech"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
    "priority": 100,
    "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
    "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
@@ -449,58 +455,12 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 1,
-   "must_read": true
-  },
-  {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 100,
-   "title": "New Zealand opens one-year open work visa to Graduate Diploma students; here are top points",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSXNjRU1yLXI1U3lzdjMzYzNFRmJBajJwTHVPakk1UFZLTE9YOF9zUVctOFo3d285cWFZeDJGVDRyclMtWGNvYmhVNzJ0c0E3YlFDelBXbVlUMWxHVEY2U21ZRUQ4TVQxN3lzaFBDaWkzVnU2ZjRoM083aTRUR1ZuUzNaSWplWHppTGNMV2hPMERvVng0MC02RXFOeEhxVnNkTWdHYzgxX0JXcFltTGt4RUZWblNwcTRTRG5vRzlRc2ZXTHdSVk5jNnNabTBFVnVTOHVhcjNrQmo4RjgyLUVHdEZrZnREcGhBZHRvd3VnR0M1dEEyM0h3S2d1Z1dRUdIBhAJBVV95cUxNUU5lZVN1bUNNUWtYRFM0YkhMMkd0VDMtRnRRMVZZV0RDUExidDZCYm5RM3lJQlRkc3ZxWjBmR3RDVzU1YzdXWGEwVmhiSUxiY2RiT2p3VDdDR0FVOWI4MDIycUZIdTR2N2NMdWtJUUcweWVMUENBXy0zQ0xkMVNyb1RyZGRrVkhGM0x6SGZqc1A2dVhpaHpqcElxSklyY3NjYkhER0dMbjNZblh3aHpabndUNkk2LVNRMDJQMnNvenE1RWV5TnhHYU1OdXEzQ3Z1bVlNVExIVDd1QkQ5VF9veFpfTmRUZWJqX08yZVB3REt6dklfTDNJOEVmUDR3R0hKMFh1UA?oc=5",
-   "date": "2026-11-18",
-   "source": "The Indian Express",
-   "label": "New Zealand",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Announces a change",
-    "Major story (9 headlines that day)"
-   ],
-   "tags": [
-    "Student / Graduate",
-    "New Zealand"
-   ],
-   "rank": 2,
-   "must_read": true
-  },
-  {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 100,
-   "title": "UK Commons passes immigration reform bill to extend settlement wait to 10 years",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdlJhcTBGcXctZUpyYk5YYXNBbTNLYmpfTGFOUlBFQjhXd1J5MDZ3Vnl1WnVscV9SWUp1em9WcEU0WFdiTmREREotTm9jeUhaSkJsblB2SWtzcDRNM2JSZ0F4RC1CNXE0TUxoMjZHY08wYXE2a244SWF5SzdBUWphSVdJaHVwb2oyY2xFbkI4dHZycHFjQkRIZHpIS0ZUYWpDenFmU0lqQUZqeGhVbWc0UERENA?oc=5",
-   "date": "2026-11-18",
-   "source": "联合早报",
-   "label": "United Kingdom",
-   "snippet": "The UK Labour government’s controversial immigration reform bill has passed the House of Commons without a backbench rebellion, temporarily defusing a political crisis and offering relief to Prime Minister Andy Burnham and Home Secretary Shabana Mahmood.",
-   "lead": "AI-translated article with transliterated names. Read original Chinese article here. The UK Labour government’s controversial immigration reform bill has passed the House of Commons without a backbench rebellion, temporarily defusing a political crisis and offering relief to Prime Minister Andy Burnham and Home Secretary Shabana Mahmood. Bloomberg reported that the House of Commons passed the Immigration and Asylum Bill by 290 votes to ...",
-   "image": "https://cassette.sphdigital.com.sg/image/zaobao/47689056846b6f38144217cc1b16ef72b379e8f7456b6b6f1664e832e0da94d0",
-   "why": [
-    "Affects permanent residence",
-    "Announces a change"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "United Kingdom"
-   ],
    "rank": 3,
    "must_read": true
   },
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 100,
    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
@@ -523,32 +483,8 @@
    "must_read": true
   },
   {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 100,
-   "title": "Backpacker visa cap raised to 25,000 in Australia",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZE1pY3JiczFFemlmSEhZd21XR0tTbHFyS25QRFdjQV90UjhYQUJRU19jQTRVTVVHaG1vcWhhNFJfd0gzZWE3cDNFbWxTcUFlM0V1cnhpLUY2bWlMLWJSVEFwTjNvNXVNTmI5Y0ZCNFF6ZVduMExmSlZMQXNhXzZyU3JWb2sydExIZ3ZIV05jQXN5emQ3bWFzdWlGNXZwRTdjbUE?oc=5",
-   "date": "2026-11-17",
-   "source": "FreshPlaza",
-   "label": "Australia",
-   "snippet": "The Australian government has revised its proposed Working Holiday Maker (WHM) visa restrictions following concerns from agricultural and regional industries about seasonal labor…",
-   "lead": "The Australian government has revised its proposed Working Holiday Maker (WHM) visa restrictions following concerns from agricultural and regional industries about seasonal labor availability. Home Affairs Minister Tony Burke announced that the cap on third-year visas would increase from the initially proposed 5,000 to 25,000 places, compared with approximately 31,000 previously. Second-year visas will be capped at 45,000. From March ...",
-   "image": "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/StockPhotos/Labor/Labor_FP_img_0189.jpg?preset=OgImage",
-   "why": [
-    "Quota or cap change",
-    "Announces a change",
-    "Major story (25 headlines that day)"
-   ],
-   "tags": [
-    "Quota / Caps",
-    "Australia"
-   ],
-   "rank": 5,
-   "must_read": true
-  },
-  {
    "desk": "Advisory",
-   "score": 13,
+   "score": 12,
    "priority": 100,
    "title": "WPI inflation rate in Oct surges to 12.29%: Raises pressure on RBI to raise Repo Rate",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa1dzSi1mNERodzhBdGl5cWRsX1VwRlkxOE9aVG5QWW03OUJMMEQ2ZkdNWEdmanRZNVFNLUJJd0pDdWVjWTBIS3JPSEpBUUdVR1Y5dFhtYVBCSU1wdzBONDhPSUE4ZTR3ajJOUGNfLUNfY0RxUHoybjhCeEs1dnVrZE5BWXMxd0NwOFdnX2l5T0ZSbEpVRkp0aG0yMnRhYmhPbzJyaFhsWU9Tc05aekYwRVJGa0h4ZkFZOG5rOHZLTWgtUHVoek16ejZsX1RpUTNU0gHWAUFVX3lxTE5tbEJRS0tEenNMMndRMzV5b082WE9INEhBd1hNbkxndU5rX21acFNLRTNQMnN3N201dGplclB6dXpYaGRZWXZ3VVVWTzcweUc1YWVKbjNQNkRWWnN3dXBMNEF6M015ZFkta29RTGJwN2JTV1FRLTVIWTBjU3JOaHpUazJVSWhpNjlvY1ZWdjI3RnRPeFdGMDV5cXlaUGJfMWZON0VNMkF1eWRGNnRtSmVySW42elFJWGhPVjRVZHJ3ZmIxbmRfRVRFZ2oxUmZ5VG04V3Axb3c?oc=5",
@@ -567,13 +503,104 @@
    "tags": [
     "Regulatory"
    ],
+   "rank": 5,
+   "must_read": true
+  },
+  {
+   "desk": "Policy",
+   "score": 11,
+   "priority": 100,
+   "title": "NITI Aayog Launches Report on “Impact Assessment of PLI Schemes”",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335594",
+   "date": "2026-11-12",
+   "source": "PIB",
+   "label": "Banking & Rates",
+   "snippet": "NITI Aayog today released the report titled “Impact Assessment of PLI Schemes”, prepared in collabor",
+   "lead": "NITI Aayog NITI Aayog Launches Report on “Impact Assessment of PLI Schemes” Posted On: 12 NOV 2026 7:45PM by PIB Delhi NITI Aayog today released the report titled “Impact Assessment of PLI Schemes”, prepared in collaboration with the Indian Institute of Management, Ahmedabad as the knowledge partner. The report recognizes the PLI Scheme as a flagship policy intervention launched by the Government of India to enhance India’s ...",
+   "image": null,
+   "why": [
+    "Rates and liquidity",
+    "Subsidy or incentive"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
    "rank": 6,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 92,
+   "title": "Rs 80,000 crore FII buying sparks explosive rally on Dalal Street. Will RBI rate hike worries kill the party?",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-80000-crore-fii-buying-sparks-explosive-rally-on-dalal-street-will-rbi-rate-hike-worries-kill-the-party/articleshow/135755863.cms",
+   "date": "2026-11-12",
+   "source": "Economic Times",
+   "label": "Regulatory",
+   "snippet": "The Sensex has staged a sharp 9,000-point rally since late October, crossing 82,000 for the first time since February, before the US-Iran conflict erupted. The rebound has been fuelled by a strong return of foreign investors, who have bought nearly Rs 69,000 crore worth of Indian equities in November so far and around Rs 80,000 crore sinc",
+   "lead": "The Sensex has staged a sharp 9,000-point rally since late October, crossing 82,000 for the first time since February. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price",
+   "image": "https://img.etimg.com/thumb/msid-135755921,width-1200,height-900,imgsize-313292,overlay-etmarkets/articleshow.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Sharp market move",
+    "Sector or flows signal"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "PhysicsWallah targets over Rs 9,000 Cr revenue by FY30",
+   "url": "https://yourstory.com/2026/11/physicswallah-targets-over-rs-9000-cr-revenue-by-fy30",
+   "date": "2026-11-18",
+   "source": "YourStory",
+   "label": "India · Other",
+   "snippet": "At its first Investor Day in Mumbai on November 18, the company targeted average annual revenue growth of about 25% or more between FY27 and FY30 and a pre-Ind AS EBITDA margin above 20%.",
+   "lead": "PhysicsWallah targets over Rs 9,000 Cr revenue by FY30 At its first Investor Day in Mumbai on November 18, the company targeted average annual revenue growth of about 25% or more between FY27 and FY30 and a pre-Ind AS EBITDA margin above 20%. Team YS 17606 Stories Wednesday November 18, 2026 , 2 min Read Edtech firm PhysicsWallah said it is targeting Rs 9,000-10,000 crore revenue by FY30, an ambition that will test whether an ...",
+   "image": "https://images.yourstory.com/cs/2/d99b1110116911ed9e63f54395117598/PWIPO1600x900-1757405223665.jpg",
+   "why": [
+    "Financials",
+    "Very large figure in headline (about $947M: round or valuation)"
+   ],
+   "tags": [
+    "Financials"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "Rediff.com files updated draft papers with SEBI for Rs 600 cr IPO",
+   "url": "https://www.medianama.com/2026/11/223-rediff-com-sebi-ipo/",
+   "date": "2026-11-18",
+   "source": "MediaNama",
+   "label": "India · Policy & Regulation",
+   "snippet": "Rediff.com has filed updated IPO papers with SEBI to raise Rs 600 crore. The company plans to use the proceeds to expand Rediff One, Rediff Pay and Rediff TV, alongside marketing and acquisitions.",
+   "lead": "Internet company Rediff.com India has filed updated draft papers with the Securities and Exchange Board of India (SEBI), seeking to raise up to Rs 600 crore through an initial public offering (IPO). According to its updated draft red herring prospectus (UDRHP), the IPO will consist entirely of a fresh issue of equity shares with a face value of Rs 5 each, aggregating up to Rs 600 crore, with no offer-for-sale (OFS) component. The price ...",
+   "image": "https://www.medianama.com/wp-content/uploads/2020/10/rediff-in.jpg.jpg",
+   "why": [
+    "IPO & Listing",
+    "Sizeable deal (about $63M)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Policy & Regulation"
+   ],
+   "rank": 9,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 10,
-   "priority": 100,
+   "priority": 91,
    "title": "Canada announces plan to provide permanent residence to 100,000 workers and families | World News",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdXNDS1VNMWx4T3BzOExhbjBMRFhBMnU3ZEpSU0daM1lHTHRoNlk4OFZ0TnFRc2FlX3NnOG5yZmc2cWh5ZGkwVk1FUFRkQm5IcnZpVGlYZVl3c1J6WlliM2VvYVZ4VkhOaldhRERVQXZYQmh2bHc2aUNXOGcya2h1T1RuU3c3WjZTX2xqQzZCUVRrNlhGOHlNNGNrcUNBaGI0YnpnSEladktzV2RnSDh5bzJIRjUtZjFXcHhhbm8zRTZjUUhoOTVmdUhTVmZhUDdWbkhVRzd0VS1rc0M1Q2Y2UNIB5gFBVV95cUxOTmhIeTFnS0tQY0FRMXhSdWwzTDN4Wl92bjlUSWdwYlRYaW5tYXVfOHAxX0dOOVRtNGlFdW5GQmprY0IwU3AzNEtZSEpLWkEwLWZ0OW1MUTgteU40UHBXYWwwcEEtOVVqZWRROF9fbGlZY25KcEhQeENMbk1mZzZfZ0QzdEM4ejR0REtneXllMVRUUTRBY0F6eWxRemZ1QW1qXzRMZTFpYjc5QWRldzBlSjM2djRjVFgxMjZPSnltZkx3dGdxdGhzaXRNQWJua0p1ZXQzamNBUy1sY1JhdlRVN25JeWFHZw?oc=5",
    "date": "2026-11-13",
@@ -591,37 +618,13 @@
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 17,
-   "priority": 100,
-   "title": "Cabinet approves Nutrient Based Subsidy (NBS) rates for Rabi 2026-27 (from 01.10.2026 to 31.03.2027) on Phosphatic and Potassic (P&K) fertilizers",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334972",
-   "date": "2026-11-11",
-   "source": "PIB",
-   "label": "Agriculture & Food",
-   "snippet": "The Union Cabinet chaired by the Prime Minister Shri Narendra Modi today has approved the Nutrient B",
-   "lead": "Cabinet Cabinet approves Nutrient Based Subsidy (NBS) rates for Rabi 2026-27 (from 01.10.2026 to 31.03.2027) on Phosphatic and Potassic (P&K) fertilizers Posted On: 11 NOV 2026 3:11PM by PIB Delhi The Union Cabinet chaired by the Prime Minister Shri Narendra Modi today has approved the Nutrient Based Subsidy (NBS) rates for RABI Season, 2026-27 (from 01.10.2026 to 31.03.2027) on Phosphatic and Potassic (P&K) fertilizers. The tentative ...",
-   "image": null,
-   "why": [
-    "Cabinet decision",
-    "Subsidy or incentive",
-    "Cabinet",
-    "Large outlay (Rs 10,000 Cr or more)"
-   ],
-   "tags": [
-    "Agriculture & Food"
-   ],
-   "rank": 8,
+   "rank": 10,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 11,
-   "priority": 85,
+   "score": 10,
+   "priority": 83,
    "title": "Indian bonds surge after oil slide eases aggressive rate hike concerns",
    "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-surge-after-oil-slide-eases-aggressive-rate-hike-concerns/articleshow/135924727.cms",
    "date": "2026-11-17",
@@ -638,150 +641,84 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 85,
-   "title": "Tata Sons IPO soon? Tata Chemicals, Tata Investment Corp shares rally up to 9% after RBI nudge to comply with listing norms",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-sons-ipo-soon-tata-chemicals-tata-investment-corp-shares-rally-up-to-9-after-rbi-nudge-to-comply-with-listing-norms/articleshow/135910417.cms",
-   "date": "2026-11-17",
-   "source": "Economic Times",
-   "label": "Regulatory",
-   "snippet": "Tata Chemicals and Tata Investment Corporation shares rallied on Tuesday after the RBI reiterated that Tata Sons must comply with listing requirements for upper-layer NBFCs. The central bank",
-   "lead": "Tata Sons has been included in the upper layer NBFC category since 2022. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price",
-   "image": "https://img.etimg.com/thumb/msid-135910453,width-1200,height-900,imgsize-251828,overlay-etmarkets/articleshow.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Rule or framework change",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Regulatory",
-    "Chemicals & Materials"
-   ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Rediff Files Updated IPO Papers For ₹600 Cr Fresh Issue-Only IPO",
-   "url": "https://inc42.com/buzz/rediff-files-updated-ipo-papers-for-%e2%82%b9600-cr-fresh-issue-only-ipo/",
-   "date": "2026-11-17",
-   "source": "Inc42",
-   "label": "India · Policy & Regulation",
-   "snippet": "With the IPO, Rediff, which is one of India's earliest internet portals and digital media companies, intends to raise ₹600 Cr via a fresh issue of shares",
-   "lead": "Rediff has filed an updated IPO prospectus with SEBI, pegging the fresh issue at ₹600 Cr The IPO will fund the expansion of Rediff One, Rediff Pay and Rediff TV, alongside marketing and branding initiatives Rediff has earmarked ₹224.8 Cr for capital expenditure and ₹183.34 Cr for marketing and branding, with the remaining proceeds set aside for acquisitions and general corporate purposes",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/SEBI-task-force-social-.png",
-   "why": [
-    "IPO & Listing",
-    "Sizeable deal (about $63M)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Policy & Regulation"
-   ],
    "rank": 11,
    "must_read": false
   },
   {
-   "desk": "Startups",
+   "desk": "Advisory",
    "score": 10,
    "priority": 83,
-   "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
-   "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-   "date": "2026-11-17",
-   "source": "TechCrunch",
-   "label": "Global · Other",
-   "snippet": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
-   "lead": "Science Corporation , the medical technology startup founded by former Neuralink president Max Hodak in 2021, raised a $400 million Series D, the company said in a blog post . Investors in the new round valued the company at $3.5 billion, a person familiar with the deal told TechCrunch. Those backers included Khosla Ventures, the Ackman Oxman Institute, Tenet Healthcare, 885 Capital, Y Combinator, and PLC Neurotech. Hodak, who talked ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800",
+   "title": "Gold near 13-month low as Fed rate hike fears grow, oil surges towards $96",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN3FGdFFJdno4THRVX3Y3djF1bFNMSXlrZkNPZ3NKZEQtaThVNTZVQ0ZaYk9ZTVZTMnRYdzdwWW9IQlFIT3ExZk1IdGg1VFo0X3lRTWlmdHA2ajU5RTVmTmRZbXMzb25hODRuUGFvaUVkSWIwYnJiY0FxS1NIZlBvS1JVZVRDUFVESmtQVHd0b0djdHVGM290bEViSzdBWVBsOFlkMTdVdGxoRXZMV1h4QkE0SEZfNU5TNjZqanM3NlY3TG9XMWctQ9IBzgFBVV95cUxNZVN6eEx3NWFmRGc1ZmlJRnFPTzNjdWlTUkZiSkczWUtlaW5UWGJrQ3hRNml1SjlzSng5NHpoTE10N3A1aFgtUmctQ2VIN1JnTjRtRzdJSGpaYUtWZmNxMUxzaVlGVmh1emdRdFVFYXJWUWZWYzZCMFpxNlN0a3lrU09FcWxUYXZjMUY2czZBb3VYVmY1c2Fhcl8zYkdZTGNfclJtVnpZSlVjRUJXTjBmcFlPVC1WY3lYMEoyRDNqUmpLM2tJTjFpZHhGbHZxUQ?oc=5",
+   "date": "2026-11-13",
+   "source": "Moneycontrol.com",
+   "label": "Gold & Silver",
+   "snippet": "Gold hovered near $3,880 an ounce after hitting a 13-month low, as stubborn US inflation fuelled Fed rate hike bets and rising Treasury yields pressured bullion.",
+   "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
+   "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261113012637_474892754-scaled.jpg",
    "why": [
-    "Funding",
-    "Very large figure in headline (about $3,500M: round or valuation)"
+    "Interest-rate decision",
+    "Precious metals",
+    "Global macro driver",
+    "Sharp market move"
    ],
    "tags": [
-    "Funding"
+    "Gold & Silver"
    ],
    "rank": 12,
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Robotics startup Genesis AI raises $500m backed by Nvidia",
-   "url": "https://sifted.eu/articles/genesis-ai-raises-500m/",
-   "date": "2026-11-17",
-   "source": "Sifted",
-   "label": "Global · AI & Deeptech",
-   "snippet": "The physical AI company has hit a $3.5bn valuation just over a year after its $105m seed round",
-   "lead": "Genesis AI , which is building AI models designed to run across a wide range of robots, has raised a $500m Series A at a $3.5bn valuation, making it one of the largest robotics rounds in Europe this year.",
-   "image": "https://content.sifted.eu/wp-content/uploads/2026/11/17134637/image6-1024x686.png",
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 82,
+   "title": "New Zealand opens one-year open work visa to Graduate Diploma students; here are top points",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSXNjRU1yLXI1U3lzdjMzYzNFRmJBajJwTHVPakk1UFZLTE9YOF9zUVctOFo3d285cWFZeDJGVDRyclMtWGNvYmhVNzJ0c0E3YlFDelBXbVlUMWxHVEY2U21ZRUQ4TVQxN3lzaFBDaWkzVnU2ZjRoM083aTRUR1ZuUzNaSWplWHppTGNMV2hPMERvVng0MC02RXFOeEhxVnNkTWdHYzgxX0JXcFltTGt4RUZWblNwcTRTRG5vRzlRc2ZXTHdSVk5jNnNabTBFVnVTOHVhcjNrQmo4RjgyLUVHdEZrZnREcGhBZHRvd3VnR0M1dEEyM0h3S2d1Z1dRUdIBhAJBVV95cUxNUU5lZVN1bUNNUWtYRFM0YkhMMkd0VDMtRnRRMVZZV0RDUExidDZCYm5RM3lJQlRkc3ZxWjBmR3RDVzU1YzdXWGEwVmhiSUxiY2RiT2p3VDdDR0FVOWI4MDIycUZIdTR2N2NMdWtJUUcweWVMUENBXy0zQ0xkMVNyb1RyZGRrVkhGM0x6SGZqc1A2dVhpaHpqcElxSklyY3NjYkhER0dMbjNZblh3aHpabndUNkk2LVNRMDJQMnNvenE1RWV5TnhHYU1OdXEzQ3Z1bVlNVExIVDd1QkQ5VF9veFpfTmRUZWJqX08yZVB3REt6dklfTDNJOEVmUDR3R0hKMFh1UA?oc=5",
+   "date": "2026-11-18",
+   "source": "The Indian Express",
+   "label": "New Zealand",
+   "snippet": "",
+   "lead": "",
+   "image": null,
    "why": [
-    "Funding",
-    "Very large figure in headline (about $500M: round or valuation)"
+    "Announces a change",
+    "Major story (13 headlines that day)"
    ],
    "tags": [
-    "Funding",
-    "AI & Deeptech"
+    "Student / Graduate",
+    "New Zealand"
    ],
    "rank": 13,
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Isomorphic Labs raises $5bn backed by Sequoia and A16z",
-   "url": "https://sifted.eu/articles/isomorphic-labs-raises-5bn-backed-by-sequoia-and-a16z/",
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 82,
+   "title": "Backpacker visa cap raised to 25,000 in Australia",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZE1pY3JiczFFemlmSEhZd21XR0tTbHFyS25QRFdjQV90UjhYQUJRU19jQTRVTVVHaG1vcWhhNFJfd0gzZWE3cDNFbWxTcUFlM0V1cnhpLUY2bWlMLWJSVEFwTjNvNXVNTmI5Y0ZCNFF6ZVduMExmSlZMQXNhXzZyU3JWb2sydExIZ3ZIV05jQXN5emQ3bWFzdWlGNXZwRTdjbUE?oc=5",
    "date": "2026-11-17",
-   "source": "Sifted",
-   "label": "Global · Other",
-   "snippet": "DeepMind spinout secures fresh funding as it races to bring AI-designed medicines into clinical trials.",
-   "lead": "London-based AI drug discovery company Isomorphic Labs has raised $5bn in fresh funding, just six months after its previous round, as investors pour billions into startups promising to transform the pharmaceutical industry.",
-   "image": "https://images.sifted.eu/cdn-cgi/image/width=596,quality=75,fit=cover,format=auto/wp-content/uploads/2026/11/17123049/images.jpg",
+   "source": "FreshPlaza",
+   "label": "Australia",
+   "snippet": "The Australian government has revised its proposed Working Holiday Maker (WHM) visa restrictions following concerns from agricultural and regional industries about seasonal labor…",
+   "lead": "The Australian government has revised its proposed Working Holiday Maker (WHM) visa restrictions following concerns from agricultural and regional industries about seasonal labor availability. Home Affairs Minister Tony Burke announced that the cap on third-year visas would increase from the initially proposed 5,000 to 25,000 places, compared with approximately 31,000 previously. Second-year visas will be capped at 45,000. From March ...",
+   "image": "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/StockPhotos/Labor/Labor_FP_img_0189.jpg?preset=OgImage",
    "why": [
-    "Funding",
-    "Very large figure in headline (about $5,000M: round or valuation)"
+    "Quota or cap change",
+    "Announces a change",
+    "Major story (25 headlines that day)"
    ],
    "tags": [
-    "Funding"
+    "Quota / Caps",
+    "Australia"
    ],
    "rank": 14,
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 8,
-   "priority": 80,
-   "title": "Sweden wants Indian tech talent: 18,000 STEM vacancies a year, work permit rules, salary and steps to apply",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeS1jZG1WUG9vRWE3aUZ0Q1YyUGluak1rLVl2c2dtRnFTbFlXNzBkLW1waExwUW5QaDctV2tHQmtqbElyeDVjbERBNU5kTmpYUms0OC1RU0tGblRIQXpCMjJCLVA4RWVSX3dEcjZfYnB4V01pcmdacWFkTlU0ZFdmV0t1c3dmTnUzQXpsUkIyVjN6RVljSzZmT0RUbkFrTDRZQndwLXFLcDdZdDBEZjBDTGNscks0Mmo2M3I1THd3VXhVZG1QUFo2TW1GYk1VZlFzTnBleVU5MWdIaGtOVEtyeXpiTU4wOHlVQjRGZ2lsTlc5dWZBckNQeQ?oc=5",
-   "date": "2026-11-18",
-   "source": "Education Times",
-   "label": "Sweden",
-   "snippet": "Sweden is on a lookout for Indian talent.",
-   "lead": "Sweden is on a lookout for Indian talent. Ambassador Petra Menander shared that Sweden is short of about 18,000 tech specialists and wants Indian STEM talent to fill the gap. The message comes as ties between the two countries deepen, and as India’s tech workforce looks beyond the traditional destinations. The two countries signed a Strategic Partnership Agreement in Gothenburg in May 2026, with the aim of doubling economic engagement ...",
-   "image": "https://static.toiimg.com/thumb/msid-135952000,width-1280,height-720,imgsize-68854,resizemode-6,y_pad-600/photo.jpg",
-   "why": [
-    "Salary threshold change",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Salary threshold",
-    "Sweden"
-   ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
    "desk": "Advisory",
-   "score": 10,
-   "priority": 77,
+   "score": 9,
+   "priority": 75,
    "title": "Gold, silver prices see cautious recovery as Fed rate hike fears weigh; key levels to watch",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTWdxZHA3RFVGQXhUQkJiQ2phcENKeEtLeGQ1WmxYc2J4T2ZONU55SFV2VGlQaHZKcElJSkJ5TTdyUzNRb3diY2lnRFlSMzhUVXNNQ2NtS0stWjhQNEZxMDVKemtjRzE5OUlIOHNONldqcTlkWkpRbWZRTWxQTkgzZll1RUthMTlGaDRiM0VvUkJWUTNocjA4Y2h3MHI1NnN4dXdEZnB0MUJwR1BrRGhFWmlzR1QzUGZFVU1NWm0zTlJqMjBiWWtKTHByMnBPaEJLUS1saGk4N1ZBbTktT0pLb3NkRTLSAeoBQVVfeXFMUG9nZFNWTEhNcU5nMEdwbE9Bdk1pQTk1RzhTbUdqQ0xOSnJCWHp5X0M0TzZXeE1yeWozUEhodTRMTURpZHg1d1dMUlA0ODJrSU5UTUt0MWFobjA3a3JndXppTnM4VlB2TWN2ZnpZOERVdlJxT2d4NnhwclExS3lFV0pVbmZydTMtamQxdjBwb3R0MXJ0NmlFX0Q5S0JRaUY0YWhySnVUZjFIWHpCVGU4UXBfYjR4WGhKSkM5UVFJamJHUnFkWVY4dlN4UERNNm5XdFBkRHBmODBMOWNoc05HaDFPM3FRRmQwbEdn?oc=5",
    "date": "2026-11-17",
@@ -798,94 +735,111 @@
    "tags": [
     "Gold & Silver"
    ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 8,
+   "priority": 73,
+   "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63994",
+   "date": "2026-11-18",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "",
+   "image": null,
+   "why": [
+    "New law or act",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
    "rank": 16,
    "must_read": false
   },
   {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 77,
-   "title": "Gold rises above Rs 1.35 lakh/10g, silver gains Rs 1,460/kg after sharp drop amid Fed rate hike worries. C",
-   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPdU9jNDJLV1BaeUllUDFaSjdHbi15YVZXVmlBUnExb1BDaXp5Z0xSSUZvajVSWUZsSWYxSUw0dmZYOWpTUnZobFo0b3VWT0ZodkZXVUZBNHp0U2NDUGF3aS1HcWJFc1FpeUhra0tVM3M3QlNpRl91RjBUOE1oamFEcVhkX1RhNnJHa2xSWkZ5SDVEalJ3UDd1Yl8weHhSMHQzbVEzMlVuU3cwYnpBM0F4cXpIekY4LXJRZnhZdVAxMjB2dE43d2I2NnRkd1RDdlVPVU5yNVB0c1dGenVfZGFHUXBFM3F1NU4yWWNvdUtfLTEyRDNJNW1jb0MxN0VUVDRFR1pGVWhsZWpadXRuUE5uMXlac2VpQ0I1T2xGX1p5aHJmdnRzeW1hRGY4ajZ6UdIBswJBVV95cUxOZ1Mzdml0S2ItdDlTOG43WWw5ZFF5QTFpcHU0eDNNRGFNUzFIZU11TkZJNTNPQ2tVRDZhRXZCSlVZRkdsLVpZWVkxb3lJdmdWMkpCcjJFSDEzQ0FBa3RxbjFtYVo1a0JPUW9zTDllX202TGhPbTdGMjFBUVBlWW5DMG5qMFJCNWJnQ2NzYVI1UzZqY3o4OG1XRnh0VG9NZHYwVXRDVDM4WktnRXh0ODhfZF9zbWZ2ajJMYVBvSmtRR2dWVGExUi1KODJacUFWZjFaSFJ1YTZIb3FTVUhJNEwzSERMN3N1Z1lBajRyOXgzWjUwNmdSTEZTdV85WlVsaHhzSzI0NElaaVhpS0VjT1ZGOVpNWkpKQ1RaOHAydWd6SXVSLWtuMkJoMnRsSEFLWk5TM2dJ?oc=5",
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 64,
+   "title": "France Faces Fresh Strikes, Citizenship Changes and New Tax Deadlines: News Digest",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMk5Id2JJaFF0dU5ha1QxdzBlSWpQVm82ZjlFemdrV2dUYkZiZUptal9XT01xcVMyb1M0MmRhM2VlYjJUclVuNXpKYVRUUjk4anNjRzQyTXBaNEU3d254REEtcUpPa2MtM280VnpJNWhST1VJUzlxbWVsRXBQRGtwb1lZQW9tNW9ZbGFBb3lOY0VoTHUxNS1RamwxclphektQU1AxVXBoYnVMVmZWRFdVM2p6dmoydw?oc=5",
    "date": "2026-11-17",
-   "source": "The Economic Times",
-   "label": "Gold & Silver",
-   "snippet": "Gold and silver edged higher after hitting multi-month lows as investors assessed hawkish Federal Reserve signals and expectations of further rate hikes. Analysts expect near-term consolidation, while wedding demand and central bank buying could support gold prices.",
-   "lead": "Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Gold still rules, but with a difference: How young India is redefining wedding jewellery",
-   "image": "https://img.etimg.com/thumb/msid-135909997,width-1200,height-900,imgsize-245322,overlay-etmarkets/articleshow.jpg",
+   "source": "FrenchEntrée",
+   "label": "France",
+   "snippet": "France is heading into another week of industrial action, with demonstrations and school protests adding to tensions over public services and government policy. For foreign residents…",
+   "lead": "France is heading into another week of industrial action, with demonstrations and school protests adding to tensions over public services and government policy. For foreign residents, there is encouraging news on the citizenship front, with revised guidance offering fresh hope to some retirees receiving pensions from abroad. Meanwhile, property owners face several important tax deadlines as the end of the year approaches, and France’s ...",
+   "image": "https://www.frenchentree.com/wp-content/uploads/2026/11/shutterstock_4203179595-scaled.jpg",
    "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver"
+    "Affects citizenship",
+    "Announces a change"
    ],
    "tags": [
-    "Gold & Silver"
+    "Citizenship",
+    "France"
    ],
    "rank": 17,
    "must_read": false
   },
   {
-   "desk": "Policy",
-   "score": 12,
-   "priority": 71,
-   "title": "Cabinet approves continuation of Credit Guarantee Fund for Micro Units",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334976",
-   "date": "2026-11-11",
-   "source": "PIB",
-   "label": "Banking & Rates",
-   "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved thecontinuation of",
-   "lead": "Cabinet Cabinet approves continuation of Credit Guarantee Fund for Micro Units Provides credit guarantee for loans extended under Pradhan Mantri Mudra Yojana Approval for corpus of Rs.5,000 crore facilitating PMMY loans amounting to Rs.12.6 lakh crore Posted On: 11 NOV 2026 3:14PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the continuation of Credit Guarantee Fund for Micro Units ...",
-   "image": null,
+   "desk": "Immigration",
+   "score": 6,
+   "priority": 55,
+   "title": "German citizenship: Government outlines 2 grounds for waiving key requirements",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUVhOZ2xSQy1BR2V1dW15VmxwbWJKSENiZkxRZ0s5ekJyRW0xWFA2eFV0aVh0bzJWRVdoWklyZlJlVGxZbEp1aFRwMFZlUEpMMUcxY0laQTgzMGF0SHV2MzdjNTF0akhvQmJ1STJZTEpjQnQ4R0Q4RU5mMmc4UVo4V1dKREQ4RklmdGdBTm9yMDFMUWpOSXg1WUE0RlAyUmk1SUtabHNsaFF0dXJjdWhzcUp2ZUEyeUVUeGc?oc=5",
+   "date": "2026-11-17",
+   "source": "Tuko News",
+   "label": "Germany",
+   "snippet": "Germany has announced two reasons foreigners may be granted citizenship without meeting the full conditions. Other requirements were also explained.",
+   "lead": "World Germany Mentions 2 Reasons Foreigners May Be Granted Citizenship Without Meeting Full Conditions Published 16 Nov 2026 at 9:44 PM by Shillah Mwadosho 3 min read Germany's Citizenship Act provides several routes through which foreigners can acquire German citizenship, including naturalization under Section 8 Applicants seeking discretionary naturalization must generally meet conditions relating to their identity, legal residence, ...",
+   "image": "https://cdn.tuko.co.ke/images/1200x675/64e2a3984c33b8bb.jpeg?v=1",
    "why": [
-    "Cabinet decision",
-    "Touches financial markets",
-    "Cabinet"
+    "Affects citizenship"
    ],
    "tags": [
-    "Banking & Rates"
+    "Citizenship",
+    "Germany"
    ],
    "rank": 18,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 12,
-   "priority": 71,
-   "title": "Reporting requirement under Foreign Account Tax Compliance Act (FATCA) and Common Reporting Standard (CRS) revised through Income-Tax Act, 2025 read with Income-Tax Rules, 2026",
-   "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/reporting-requirement-under-foreign-account-tax-compliance-act-fatca-and-common-reporting-standard-crs-revised-through-income-tax-act-2025-read-with-income-tax-rules-2026_105705.html",
-   "date": "2026-11-11",
-   "source": "SEBI",
-   "label": "Markets & Regulation",
-   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
-   "lead": "",
+   "score": 6,
+   "priority": 55,
+   "title": "Ministry of Heavy Industries (MHI) receives 22 bids for 10 GWh Advanced Chemistry Cell manufacturing capacity under PLI ACC Scheme",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335459",
+   "date": "2026-11-12",
+   "source": "PIB",
+   "label": "Industry & Manufacturing",
+   "snippet": "The Ministry of Heavy Industries (MHI) has received 22 bids from prospective bidders for 10 GWh capa",
+   "lead": "Ministry of Heavy Industries Ministry of Heavy Industries (MHI) receives 22 bids for 10 GWh Advanced Chemistry Cell manufacturing capacity under PLI ACC Scheme Strong Industry Response Reflects Growing Interest in Establishing Domestic ACC Manufacturing Capacity Bid opening marks a significant step towards strengthening India’s Domestic ACC Manufacturing Ecosystem Posted On: 12 NOV 2026 4:48PM by PIB Delhi The Ministry of Heavy ...",
    "image": null,
    "why": [
-    "Rates and liquidity",
-    "New law or act",
-    "Rule change",
-    "Regulator: SEBI"
+    "Subsidy or incentive"
    ],
    "tags": [
-    "Markets & Regulation"
+    "Industry & Manufacturing"
    ],
    "rank": 19,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 11,
-   "priority": 65,
-   "title": "NITI Aayog Launches Report on “Impact Assessment of PLI Schemes”",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335594",
-   "date": "2026-11-12",
+   "score": 5,
+   "priority": 45,
+   "title": "Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335785",
+   "date": "2026-11-13",
    "source": "PIB",
    "label": "Banking & Rates",
-   "snippet": "NITI Aayog today released the report titled “Impact Assessment of PLI Schemes”, prepared in collabor",
-   "lead": "NITI Aayog NITI Aayog Launches Report on “Impact Assessment of PLI Schemes” Posted On: 12 NOV 2026 7:45PM by PIB Delhi NITI Aayog today released the report titled “Impact Assessment of PLI Schemes”, prepared in collaboration with the Indian Institute of Management, Ahmedabad as the knowledge partner. The report recognizes the PLI Scheme as a flagship policy intervention launched by the Government of India to enhance India’s ...",
+   "snippet": "The development of a systematic framework to measure the contribution of knowledge and knowledge pro",
+   "lead": "Ministry of Statistics & Programme Implementation Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems Posted On: 13 NOV 2026 2:40PM by PIB Delhi The development of a systematic framework to measure the contribution of knowledge and knowledge products to the Indian economy assumes significance in the context of the growing role of knowledge in driving economic activity, productivity and value ...",
    "image": null,
    "why": [
-    "Rates and liquidity",
-    "Subsidy or incentive"
+    "Rates and liquidity"
    ],
    "tags": [
     "Banking & Rates"
@@ -895,41 +849,40 @@
   },
   {
    "desk": "Policy",
-   "score": 11,
-   "priority": 65,
-   "title": "Cabinet approves Development of Yuge Yugeen Bharat Museum at North and South Block Complex, New Delhi",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334961",
-   "date": "2026-11-11",
-   "source": "PIB",
-   "label": "Other Policy",
-   "snippet": "The Cabinet Committee on Economic Affairs, chaired by the Prime Minister Shri Narendra Modi, today h",
-   "lead": "Cabinet Committee on Economic Affairs (CCEA) Cabinet approves Development of Yuge Yugeen Bharat Museum at North and South Block Complex, New Delhi Posted On: 11 NOV 2026 3:05PM by PIB Delhi The Cabinet Committee on Economic Affairs, chaired by the Prime Minister Shri Narendra Modi, today has approved the development of the Yuge Yugeen Bharat Museum (YYBM) at the North and South Block Complex, New Delhi, at an estimated total project ...",
+   "score": 5,
+   "priority": 45,
+   "title": "Underwriting Auction for sale of Government Security for ₹34,000 crore on November 13, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63963",
+   "date": "2026-11-12",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "Government of India has announced the sale (re-issue) of Government Security, as detailed below, through auction to be held on November 13, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
    "image": null,
    "why": [
-    "Cabinet decision",
-    "Cabinet"
+    "Regulator: RBI",
+    "Large outlay (Rs 10,000 Cr or more)"
    ],
    "tags": [
-    "Other Policy"
+    "Banking & Rates"
    ],
    "rank": 21,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 10,
-   "priority": 59,
-   "title": "Cabinet approves Continuation of Stand-Up India Scheme",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334978",
-   "date": "2026-11-11",
+   "score": 4,
+   "priority": 36,
+   "title": "Ministry of Rural Development Issues Ombudsperson Guidelines to Strengthen Transparency and Accountability under VB-G RAM G",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2337720",
+   "date": "2026-11-18",
    "source": "PIB",
    "label": "Labour & Social",
-   "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved thecontinuation of",
-   "lead": "Cabinet Cabinet approves Continuation of Stand-Up India Scheme To promote entrepreneurship among Women, Scheduled Castes and Scheduled Tribes Targets to cover minimum 2.5 lakh beneficiaries Approval for Credit Guarantee Corpus of Rs.4,111 crore Posted On: 11 NOV 2026 3:17PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the continuation of Stand-Up India Scheme for a period of 5 years ...",
+   "snippet": "The Ministry of Rural Development has strengthened the framework for transparency, accountability and citizen participation in the implementation of the Viksit Bharat – Guarantee for Rozgar and Ajeevi",
+   "lead": "Ministry of Rural Development Ministry of Rural Development Issues Ombudsperson Guidelines to Strengthen Transparency and Accountability under VB-G RAM G Stronger Grievance Redressal Mechanism to Safeguard Rural Workers’ Rights under VB-G RAM G Digital Monitoring, Social Audits and Citizen Participation to Strengthen Accountability under VB-G RAM G Posted On: 18 NOV 2026 10:29AM by PIB Delhi The Ministry of Rural Development has ...",
    "image": null,
    "why": [
-    "Cabinet decision",
-    "Cabinet"
+    "Rule change"
    ],
    "tags": [
     "Labour & Social"
@@ -939,22 +892,22 @@
   },
   {
    "desk": "Policy",
-   "score": 10,
-   "priority": 59,
-   "title": "Cabinet Approves extension of Aqua Line Metro Rail Corridor from Noida Sector-51 to Greater Noida Sector-04 of route length of 8.449 Km with 5 stations",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2334969",
-   "date": "2026-11-11",
-   "source": "PIB",
-   "label": "Infrastructure & Transport",
-   "snippet": "The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the extension of A",
-   "lead": "Cabinet Cabinet Approves extension of Aqua Line Metro Rail Corridor from Noida Sector-51 to Greater Noida Sector-04 of route length of 8.449 Km with 5 stations Posted On: 11 NOV 2026 3:08PM by PIB Delhi The Union Cabinet, chaired by the Prime Minister Shri Narendra Modi, has approved the extension of Aqua Line Metro Rail Corridor from Noida Sector-51 to Greater Noida Sector-04 of Noida Metro Rail Project with corridor for a length of ...",
+   "score": 4,
+   "priority": 36,
+   "title": "RBI releases data on ECB / FCCB / RDB for September 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63961",
+   "date": "2026-11-12",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "The Reserve Bank of India has today released the data on External Commercial Borrowings (ECB), Foreign Currency Convertible Bonds (FCCB) and Rupee Denominated Bonds (RDB) through General Permission and Special Permission for the month of September 2026.",
    "image": null,
    "why": [
-    "Cabinet decision",
-    "Cabinet"
+    "Rule change",
+    "Regulator: RBI"
    ],
    "tags": [
-    "Infrastructure & Transport"
+    "Banking & Rates"
    ],
    "rank": 23,
    "must_read": false
