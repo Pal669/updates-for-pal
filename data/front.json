@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-18",
- "built": "2026-11-18 05:11 IST",
+ "built": "2026-11-18 10:15 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25291.0,
-   "change_pct": 0.58,
-   "asof": "17 Nov 15:31 IST"
+   "value": 25271.0,
+   "change_pct": -0.46,
+   "asof": "18 Nov 10:15 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 82105.0,
-   "change_pct": 0.63,
-   "asof": "17 Nov 15:32 IST"
+   "value": 82248.0,
+   "change_pct": -0.34,
+   "asof": "18 Nov 10:00 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 93.46,
-   "change_pct": -0.83,
-   "asof": "18 Nov 04:52 IST"
+   "value": 93.35,
+   "change_pct": -0.66,
+   "asof": "18 Nov 10:15 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 93.42,
-   "change_pct": 1.06,
-   "asof": "18 Nov 05:00 IST"
+   "value": 92.7,
+   "change_pct": -0.47,
+   "asof": "18 Nov 10:02 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3856.0,
-   "change_pct": 0.08,
-   "asof": "18 Nov 05:01 IST"
+   "value": 3786.0,
+   "change_pct": -2.03,
+   "asof": "18 Nov 10:05 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -163,9 +163,30 @@
    ]
   },
   "Startups": {
-   "total": 1474,
-   "new_today": 1,
+   "total": 1477,
+   "new_today": 4,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
+     "title": "Fractal To Spend Up To ₹1,000 Cr To Acquire AI Startups",
+     "url": "https://inc42.com/buzz/fractal-to-spend-up-to-%e2%82%b91000-cr-to-acquire-ai-startups/",
+     "date": "2026-11-16",
+     "source": "Inc42",
+     "label": "India · AI & Deeptech",
+     "snippet": "The acquisition strategy is closely tied to Fractal's expectations of how enterprise AI adoption will evolve over the next few years",
+     "lead": "Fractal Analytics is in talks with 20-25 startups for potential acquisitions across healthcare, agentic AI and AI engineering The acquisitions could strengthen Fractal’s enterprise AI capabilities, expand its access to specialised talent and improve its competitive positioning Fractal is open to deals worth up to ₹1,000 Cr, with a preferred acquisition size of $50-100 Mn, and reported cash and cash equivalents of ₹1,728 Cr as of ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/fractal-soc-1.jpg",
+     "why": [
+      "Acquisition",
+      "Large deal (about $105M)"
+     ],
+     "tags": [
+      "Acquisition",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -230,34 +251,33 @@
       "Funding",
       "Health & Wellness"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 75,
-     "title": "Redbrick Offices raises Rs 630 Cr in equity led by India SME Investments and Abakkus",
-     "url": "https://yourstory.com/2026/11/redbrick-offices-rs-630-crore-india-sme-investments-abakkus",
-     "date": "2026-11-17",
-     "source": "YourStory",
-     "label": "India · SaaS & Enterprise",
-     "snippet": "Redbrick said it plans to use the capital to expand its managed offices portfolio from about 6.5 million sq. ft. to more than 10 million sq. ft. over the next 18 to 24 months, while investing in technology, design and service delivery to cater to enterprise and GCC clients.",
-     "lead": "Redbrick Offices raises Rs 630 Cr in equity led by India SME Investments and Abakkus Redbrick said it plans to use the capital to expand its managed offices portfolio from about 6.5 million sq. ft. to more than 10 million sq. ft. over the next 18 to 24 months, while investing in technology, design and service delivery to cater to enterprise and GCC clients. Team YS 17595 Stories Tuesday November 17, 2026 , 3 min Read Redbrick Offices ...",
-     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Image8xe6-1627385001592.jpg",
-     "why": [
-      "Funding",
-      "Sizeable deal (about $66M)"
-     ],
-     "tags": [
-      "Funding",
-      "SaaS & Enterprise"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 14,
+   "new_today": 16,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 7,
+     "priority": 70,
+     "title": "German citizenship: Government outlines 2 grounds for waiving key requirements",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUVhOZ2xSQy1BR2V1dW15VmxwbWJKSENiZkxRZ0s5ekJyRW0xWFA2eFV0aVh0bzJWRVdoWklyZlJlVGxZbEp1aFRwMFZlUEpMMUcxY0laQTgzMGF0SHV2MzdjNTF0akhvQmJ1STJZTEpjQnQ4R0Q4RU5mMmc4UVo4V1dKREQ4RklmdGdBTm9yMDFMUWpOSXg1WUE0RlAyUmk1SUtabHNsaFF0dXJjdWhzcUp2ZUEyeUVUeGc?oc=5",
+     "date": "2026-11-17",
+     "source": "Tuko News",
+     "label": "Germany",
+     "snippet": "Germany has announced two reasons foreigners may be granted citizenship without meeting the full conditions. Other requirements were also explained.",
+     "lead": "World Germany Mentions 2 Reasons Foreigners May Be Granted Citizenship Without Meeting Full Conditions Published 16 Nov 2026 at 9:44 PM by Shillah Mwadosho 3 min read Germany's Citizenship Act provides several routes through which foreigners can acquire German citizenship, including naturalization under Section 8 Applicants seeking discretionary naturalization must generally meet conditions relating to their identity, legal residence, ...",
+     "image": "https://cdn.tuko.co.ke/images/1200x675/64e2a3984c33b8bb.jpeg?v=1",
+     "why": [
+      "Affects citizenship"
+     ],
+     "tags": [
+      "Citizenship",
+      "Germany"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 6,
@@ -414,6 +434,51 @@
    "desk": "Startups",
    "score": 12,
    "priority": 100,
+   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+   "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+   "date": "2026-11-18",
+   "source": "TechCrunch",
+   "label": "Global · Other",
+   "snippet": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+   "lead": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt Dominic-Madori Davis Marina Temkin 5:44 PM PST · November 17, 2026 Nvidia’s equity in private companies continues to grow: it revealed its stakes are now worth $65.5 billion on Tuesday , up from the $22 billion reported in January. The increase includes both new investments and significant markups of existing portfolio companies. The company invested ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150167239.jpg?resize=1200,771",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $65,000M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 100,
+   "title": "UK Commons passes immigration reform bill to extend settlement wait to 10 years",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdlJhcTBGcXctZUpyYk5YYXNBbTNLYmpfTGFOUlBFQjhXd1J5MDZ3Vnl1WnVscV9SWUp1em9WcEU0WFdiTmREREotTm9jeUhaSkJsblB2SWtzcDRNM2JSZ0F4RC1CNXE0TUxoMjZHY08wYXE2a244SWF5SzdBUWphSVdJaHVwb2oyY2xFbkI4dHZycHFjQkRIZHpIS0ZUYWpDenFmU0lqQUZqeGhVbWc0UERENA?oc=5",
+   "date": "2026-11-18",
+   "source": "联合早报",
+   "label": "United Kingdom",
+   "snippet": "The UK Labour government’s controversial immigration reform bill has passed the House of Commons without a backbench rebellion, temporarily defusing a political crisis and offering relief to Prime Minister Andy Burnham and Home Secretary Shabana Mahmood.",
+   "lead": "AI-translated article with transliterated names. Read original Chinese article here. The UK Labour government’s controversial immigration reform bill has passed the House of Commons without a backbench rebellion, temporarily defusing a political crisis and offering relief to Prime Minister Andy Burnham and Home Secretary Shabana Mahmood. Bloomberg reported that the House of Commons passed the Immigration and Asylum Bill by 290 votes to ...",
+   "image": "https://cassette.sphdigital.com.sg/image/zaobao/47689056846b6f38144217cc1b16ef72b379e8f7456b6b6f1664e832e0da94d0",
+   "why": [
+    "Affects permanent residence",
+    "Announces a change"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "United Kingdom"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 100,
    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
    "date": "2026-11-17",
@@ -431,7 +496,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 1,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -455,7 +520,7 @@
     "Quota / Caps",
     "Australia"
    ],
-   "rank": 2,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -479,7 +544,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 3,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -503,8 +568,8 @@
     "Student / Graduate",
     "New Zealand"
    ],
-   "rank": 4,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Immigration",
@@ -527,8 +592,8 @@
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 7,
+   "must_read": false
   },
   {
    "desk": "Policy",
@@ -551,7 +616,7 @@
    "tags": [
     "Agriculture & Food"
    ],
-   "rank": 6,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -574,7 +639,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 7,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -598,7 +663,7 @@
     "Regulatory",
     "Chemicals & Materials"
    ],
-   "rank": 8,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -621,7 +686,7 @@
     "IPO & Listing",
     "Policy & Regulation"
    ],
-   "rank": 9,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -643,7 +708,7 @@
    "tags": [
     "Funding"
    ],
-   "rank": 10,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -666,7 +731,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 11,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -688,30 +753,7 @@
    "tags": [
     "Funding"
    ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Fractal To Spend Up To ₹1,000 Cr To Acquire AI Startups",
-   "url": "https://inc42.com/buzz/fractal-to-spend-up-to-%e2%82%b91000-cr-to-acquire-ai-startups/",
-   "date": "2026-11-16",
-   "source": "Inc42",
-   "label": "India · AI & Deeptech",
-   "snippet": "The acquisition strategy is closely tied to Fractal's expectations of how enterprise AI adoption will evolve over the next few years",
-   "lead": "Fractal Analytics is in talks with 20-25 startups for potential acquisitions across healthcare, agentic AI and AI engineering The acquisitions could strengthen Fractal’s enterprise AI capabilities, expand its access to specialised talent and improve its competitive positioning Fractal is open to deals worth up to ₹1,000 Cr, with a preferred acquisition size of $50-100 Mn, and reported cash and cash equivalents of ₹1,728 Cr as of ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/fractal-soc-1.jpg",
-   "why": [
-    "Acquisition",
-    "Large deal (about $105M)"
-   ],
-   "tags": [
-    "Acquisition",
-    "AI & Deeptech"
-   ],
-   "rank": 13,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -734,7 +776,7 @@
     "Citizenship",
     "France"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -757,7 +799,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 15,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -780,7 +822,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -803,7 +845,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -826,28 +868,6 @@
    ],
    "tags": [
     "Markets & Regulation"
-   ],
-   "rank": 18,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 70,
-   "title": "German citizenship: Government outlines 2 grounds for waiving key requirements",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUVhOZ2xSQy1BR2V1dW15VmxwbWJKSENiZkxRZ0s5ekJyRW0xWFA2eFV0aVh0bzJWRVdoWklyZlJlVGxZbEp1aFRwMFZlUEpMMUcxY0laQTgzMGF0SHV2MzdjNTF0akhvQmJ1STJZTEpjQnQ4R0Q4RU5mMmc4UVo4V1dKREQ4RklmdGdBTm9yMDFMUWpOSXg1WUE0RlAyUmk1SUtabHNsaFF0dXJjdWhzcUp2ZUEyeUVUeGc?oc=5",
-   "date": "2026-11-17",
-   "source": "Tuko News",
-   "label": "Germany",
-   "snippet": "Germany has announced two reasons foreigners may be granted citizenship without meeting the full conditions. Other requirements were also explained.",
-   "lead": "World Germany Mentions 2 Reasons Foreigners May Be Granted Citizenship Without Meeting Full Conditions Published 16 Nov 2026 at 9:44 PM by Shillah Mwadosho 3 min read Germany's Citizenship Act provides several routes through which foreigners can acquire German citizenship, including naturalization under Section 8 Applicants seeking discretionary naturalization must generally meet conditions relating to their identity, legal residence, ...",
-   "image": "https://cdn.tuko.co.ke/images/1200x675/64e2a3984c33b8bb.jpeg?v=1",
-   "why": [
-    "Affects citizenship"
-   ],
-   "tags": [
-    "Citizenship",
-    "Germany"
    ],
    "rank": 19,
    "must_read": false
