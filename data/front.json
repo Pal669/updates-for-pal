@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-18",
- "built": "2026-11-18 10:15 IST",
+ "built": "2026-11-18 12:40 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25271.0,
-   "change_pct": -0.46,
-   "asof": "18 Nov 10:15 IST"
+   "value": 25192.0,
+   "change_pct": -0.77,
+   "asof": "18 Nov 12:40 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 82248.0,
-   "change_pct": -0.34,
-   "asof": "18 Nov 10:00 IST"
+   "value": 82088.0,
+   "change_pct": -0.54,
+   "asof": "18 Nov 12:25 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 93.35,
-   "change_pct": -0.66,
-   "asof": "18 Nov 10:15 IST"
+   "value": 93.4,
+   "change_pct": -0.6,
+   "asof": "18 Nov 12:40 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 92.7,
-   "change_pct": -0.47,
-   "asof": "18 Nov 10:02 IST"
+   "value": 91.84,
+   "change_pct": -1.4,
+   "asof": "18 Nov 12:30 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3786.0,
-   "change_pct": -2.03,
-   "asof": "18 Nov 10:05 IST"
+   "value": 3778.0,
+   "change_pct": -2.23,
+   "asof": "18 Nov 12:30 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,8 +79,8 @@
  },
  "desks": {
   "Policy": {
-   "total": 359,
-   "new_today": 0,
+   "total": 361,
+   "new_today": 2,
    "items": [
     {
      "desk": "Policy",
@@ -125,6 +125,25 @@
      "desk": "Policy",
      "score": 5,
      "priority": 29,
+     "title": "Ministry of Rural Development Issues Ombudsperson Guidelines to Strengthen Transparency and Accountability under VB-G RAM G",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2337720",
+     "date": "2026-11-18",
+     "source": "PIB",
+     "label": "Labour & Social",
+     "snippet": "The Ministry of Rural Development has strengthened the framework for transparency, accountability and citizen participation in the implementation of the Viksit Bharat – Guarantee for Rozgar and Ajeevi",
+     "lead": "Ministry of Rural Development Ministry of Rural Development Issues Ombudsperson Guidelines to Strengthen Transparency and Accountability under VB-G RAM G Stronger Grievance Redressal Mechanism to Safeguard Rural Workers’ Rights under VB-G RAM G Digital Monitoring, Social Audits and Citizen Participation to Strengthen Accountability under VB-G RAM G Posted On: 18 NOV 2026 10:29AM by PIB Delhi The Ministry of Rural Development has ...",
+     "image": null,
+     "why": [
+      "Rule change"
+     ],
+     "tags": [
+      "Labour & Social"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 29,
      "title": "Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335785",
      "date": "2026-11-13",
@@ -139,32 +158,12 @@
      "tags": [
       "Banking & Rates"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 5,
-     "priority": 29,
-     "title": "Underwriting Auction for sale of Government Security for ₹34,000 crore on November 13, 2026",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63963",
-     "date": "2026-11-12",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "Government of India has announced the sale (re-issue) of Government Security, as detailed below, through auction to be held on November 13, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
-     "image": null,
-     "why": [
-      "Regulator: RBI",
-      "Large outlay (Rs 10,000 Cr or more)"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
     }
    ]
   },
   "Startups": {
-   "total": 1477,
-   "new_today": 4,
+   "total": 1481,
+   "new_today": 8,
    "items": [
     {
      "desk": "Startups",
@@ -256,8 +255,29 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 16,
+   "new_today": 28,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 8,
+     "priority": 80,
+     "title": "France Faces Fresh Strikes, Citizenship Changes and New Tax Deadlines: News Digest",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMk5Id2JJaFF0dU5ha1QxdzBlSWpQVm82ZjlFemdrV2dUYkZiZUptal9XT01xcVMyb1M0MmRhM2VlYjJUclVuNXpKYVRUUjk4anNjRzQyTXBaNEU3d254REEtcUpPa2MtM280VnpJNWhST1VJUzlxbWVsRXBQRGtwb1lZQW9tNW9ZbGFBb3lOY0VoTHUxNS1RamwxclphektQU1AxVXBoYnVMVmZWRFdVM2p6dmoydw?oc=5",
+     "date": "2026-11-17",
+     "source": "FrenchEntrée",
+     "label": "France",
+     "snippet": "France is heading into another week of industrial action, with demonstrations and school protests adding to tensions over public services and government policy. For foreign residents…",
+     "lead": "France is heading into another week of industrial action, with demonstrations and school protests adding to tensions over public services and government policy. For foreign residents, there is encouraging news on the citizenship front, with revised guidance offering fresh hope to some retirees receiving pensions from abroad. Meanwhile, property owners face several important tax deadlines as the end of the year approaches, and France’s ...",
+     "image": "https://www.frenchentree.com/wp-content/uploads/2026/11/shutterstock_4203179595-scaled.jpg",
+     "why": [
+      "Affects citizenship",
+      "Announces a change"
+     ],
+     "tags": [
+      "Citizenship",
+      "France"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 7,
@@ -282,6 +302,25 @@
      "desk": "Immigration",
      "score": 6,
      "priority": 60,
+     "title": "Japan Comments on Entry Ban on Cho Kuk: 'Immigration Bureau Decides in Accordance with Law'",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hcEtVOFZHVURQX1YtQWJ0UXNaUDJ0NGw1cFhZSmE0QUxzMHBCdzl3MDBxVlpDN19tczhpa1NQcEpNM2JVZEMzSWFSMzBDakpaUVg5ZHBEM3YxajdBaEozdXZUYzV5TktLUk5rU0p3?oc=5",
+     "date": "2026-11-18",
+     "source": "news.sbs.co.kr",
+     "label": "Japan",
+     "snippet": "",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Announces a change"
+     ],
+     "tags": [
+      "Japan"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 60,
      "title": "Spain's Election Sparks Cuban Debate Over Vox's Immigration and Remittance Plans",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GU3NmRm5UMjQ1c2ZiUlVBVE1TVWFFWmZSdjJiM3RFdEtrOENxR3hENFNOamtHUHBWTXR3Y25jZTFVSTZtcnJGeTZkYjBIdXU4ZFYwV1BkQ1c?oc=5",
      "date": "2026-11-17",
@@ -297,45 +336,6 @@
      "tags": [
       "Politics / Election",
       "Spain"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 60,
-     "title": "Congress, TMC slam Centre after Norwegian journalist claims visa revoked before India trip",
-     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNG53UGxhSUdqeFdNSFBHWDBsNmZfSGdEZTM1NTF4WnF4NlBKQXNHMm9OXzlLMjhyaXQ5SmJvaERCYVNKZHBqNGl0ZkVlYXM2cTVOb21DS2h2SUkzR056TV80QnVob1VaN2laSklzN1k4T2hPZ2NIOGU5Y1ljaE5Nc1AtWm1xU09TMDNySFJmSHg0VmtES3NEMGVNaV9lRVQ4UHBtNVBTVXBKbzdHa1Y2OGNmUXhWS1Itak4tNUp2RWRoSGYwaTgzdjUxTjZwZmZTeGR4bkw3NNIB5AFBVV95cUxPUEdISFBObkt5WjVybmpXRHpuNkR0NEZyZzBwWmhBRU9TZWNYX2ZfM0JuSWtlVmRKRlR4eC1RMkFTcVBjTW50bjEybHZhaDlmN2JoTUkzOE5aeTBnME1hX25ZX2RIYWxvZ25WS0ZUekZ0WlJkUXpJaG5LajZKOFlSMVlObm05T2VYSDdLLXpYakVIWDR6ZXIyTV9nSEJKOWxpV2VyM1RsMFRGc1NjQzNxWkxWNzNzTUpNQUctakp2aExsY1J6Q0tMZENYUGlNTktLZFZMTGV5cFdjX2Y4eU9MWUdRb0s?oc=5",
-     "date": "2026-11-12",
-     "source": "The New Indian Express",
-     "label": "Norway",
-     "snippet": "The Congress and the Trinamool Congress (TMC) on Thursday questioned why the government was afraid of scrutiny after Norwegian journalist Helle Lyng, who was in",
-     "lead": "Copied The Congress and the Trinamool Congress (TMC) on Thursday questioned why the government was afraid of scrutiny after Norwegian journalist Helle Lyng, who was in the news during Prime Minister Narendra Modi's visit to Oslo in May, claimed her visa was cancelled minutes before she was due to leave for India. Lyng, an independent journalist based in Norway, said she was scheduled to attend and speak at the 'Bharat Summit', ...",
-     "image": "https://cf-images.assettype.com/newindianexpress%2F2026-11-12%2F9hayxh8d%2FNorwegian-journalist-Helle-Lyng.png?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-     "why": [
-      "Major story (26 headlines that day)",
-      "Mentions India or Indians"
-     ],
-     "tags": [
-      "Norway"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 50,
-     "title": "New development in Schengen visa: Denmark has changed the application requirements for Turkish citizens",
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRVBZZm56bl9XRHc1VEM1OVVDY0sybER2VHVBTm1vSm5rLWNhS0NDOWZvdTVKMWNleFpuS0tncU53SGRnZlpBbXRMMDM0ZmVVaTFDbnNmUG9kZ3NrcjFlSWdieE44UWdnMFh6bmhfSENWcVl4NV9lc3hPVDN2Unh4ZlBUQQ?oc=5",
-     "date": "2026-11-18",
-     "source": "Haberler.com",
-     "label": "Denmark",
-     "snippet": "Denmark is introducing a waiting list system for Schengen visa applications made from Turkey. In the new system, which covers only tourist travel, applicants will not hand over their passports until their processing turn comes. While the aim is to finalize visa files within 15 days, this period may extend up to 45 days for some applicatio",
-     "lead": "Search News New development in Schengen visa: Denmark has changed the application requirements for Turkish citizens New development in Schengen visa: Denmark has changed the application requirements for Turkish citizens 17.11.2026 22:32 Denmark's Embassy in Ankara announced that due to increasing demand for tourist visa applications from Türkiye, a new regulation has been introduced. With the waiting list system to be implemented, the ...",
-     "image": "https://foto.haberler.com/haber/2026/11/17/schengen-vizesinde-yeni-uygulama-danimarka-turk-20437150_1723_k.jpg",
-     "why": [
-      "Announces a change"
-     ],
-     "tags": [
-      "Denmark"
      ]
     }
    ]
@@ -456,6 +456,29 @@
    "desk": "Immigration",
    "score": 10,
    "priority": 100,
+   "title": "New Zealand opens one-year open work visa to Graduate Diploma students; here are top points",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSXNjRU1yLXI1U3lzdjMzYzNFRmJBajJwTHVPakk1UFZLTE9YOF9zUVctOFo3d285cWFZeDJGVDRyclMtWGNvYmhVNzJ0c0E3YlFDelBXbVlUMWxHVEY2U21ZRUQ4TVQxN3lzaFBDaWkzVnU2ZjRoM083aTRUR1ZuUzNaSWplWHppTGNMV2hPMERvVng0MC02RXFOeEhxVnNkTWdHYzgxX0JXcFltTGt4RUZWblNwcTRTRG5vRzlRc2ZXTHdSVk5jNnNabTBFVnVTOHVhcjNrQmo4RjgyLUVHdEZrZnREcGhBZHRvd3VnR0M1dEEyM0h3S2d1Z1dRUdIBhAJBVV95cUxNUU5lZVN1bUNNUWtYRFM0YkhMMkd0VDMtRnRRMVZZV0RDUExidDZCYm5RM3lJQlRkc3ZxWjBmR3RDVzU1YzdXWGEwVmhiSUxiY2RiT2p3VDdDR0FVOWI4MDIycUZIdTR2N2NMdWtJUUcweWVMUENBXy0zQ0xkMVNyb1RyZGRrVkhGM0x6SGZqc1A2dVhpaHpqcElxSklyY3NjYkhER0dMbjNZblh3aHpabndUNkk2LVNRMDJQMnNvenE1RWV5TnhHYU1OdXEzQ3Z1bVlNVExIVDd1QkQ5VF9veFpfTmRUZWJqX08yZVB3REt6dklfTDNJOEVmUDR3R0hKMFh1UA?oc=5",
+   "date": "2026-11-18",
+   "source": "The Indian Express",
+   "label": "New Zealand",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Announces a change",
+    "Major story (8 headlines that day)"
+   ],
+   "tags": [
+    "Student / Graduate",
+    "New Zealand"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 100,
    "title": "UK Commons passes immigration reform bill to extend settlement wait to 10 years",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdlJhcTBGcXctZUpyYk5YYXNBbTNLYmpfTGFOUlBFQjhXd1J5MDZ3Vnl1WnVscV9SWUp1em9WcEU0WFdiTmREREotTm9jeUhaSkJsblB2SWtzcDRNM2JSZ0F4RC1CNXE0TUxoMjZHY08wYXE2a244SWF5SzdBUWphSVdJaHVwb2oyY2xFbkI4dHZycHFjQkRIZHpIS0ZUYWpDenFmU0lqQUZqeGhVbWc0UERENA?oc=5",
    "date": "2026-11-18",
@@ -472,7 +495,7 @@
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -496,7 +519,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -520,7 +543,7 @@
     "Quota / Caps",
     "Australia"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -543,30 +566,6 @@
    ],
    "tags": [
     "Regulatory"
-   ],
-   "rank": 5,
-   "must_read": true
-  },
-  {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 100,
-   "title": "New Zealand student visa data: Only 64% of Indian applications approved in 2026; what applicants should k",
-   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPOGZVcXNOTm1WdWFnVjVZSVY5OTdGV1otWWdiWE1IbmFqMGVrNTZCcTVHT2RsbFQxWFhzZWlDNGpudXNUTFNkeFdNZ3ppejFYUG9lTXBxcG9hWVo2TXBpZElmdGI5cDRSaXd4SFplN3NYS091UHRQVGxpenFxT3YwaFB0empzTExpRHZja25sTWhHZC1pNTJJb3JUYlE2ZkYxc3hMekMyWGdSdE9EdndaVGEzUzJnaVZMdHFIaURWaEpuZi1UUGpLa0pDUmM0cDNvUzA4R1Bqb2JPTjhpblpRWDkzYjFYUnVJQkoza2FScV9VdVZIVHdGVXJZZXA1U3N1ZmlFR2t3TUNjREgyVnZjVGFGX09Wa3Y5RGfSAZ8CQVVfeXFMTlhMdXlHdzY1SmZhVnJ3ckJfdDBQWVNQLUtQT1M1TUFkc0dGcTkxZmp6SldNMTRuaDRXYU5TQzFta2Zjak5SRHd6bHExXy1RcXBMM01PZElVZ2tYal9FMVBDZVlZWnpVXzBaSHBVTUpHV3YwY0d6aEpBbEtLbktnVDlsSUlRNUkxR01uWlVQUWtYN2Rtb3M4RlJJS2tTVEJycmJ4NzVNYmxpYVVJVmpGS2xBVTBRX2J1TFJhWGg2dWNRVjZLYkZMTnpna3VBdl9jSzU3cHFBdmttR3BPZDJaT2llN1NhcTlPU0pSWlBRTURRQ1dXYnJqWlk4NG00MjVjeFJGV0Y0NTFVUGNOUVEteU5VcnhPSFNwYWM4ZzZPcHc?oc=5",
-   "date": "2026-11-16",
-   "source": "The Times of India",
-   "label": "New Zealand",
-   "snippet": "Indian students looking to study in New Zealand are facing a more challenging visa approval environment, with just 64.1% of student visa applications from India approved between January and September 2026, according to the latest figures released by Immigration New Zealand (INZ).",
-   "lead": "Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
-   "image": "https://static.toiimg.com/thumb/msid-135885391,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "why": [
-    "Announces a change",
-    "Major story (18 headlines that day)",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Student / Graduate",
-    "New Zealand"
    ],
    "rank": 6,
    "must_read": false
@@ -760,21 +759,21 @@
    "desk": "Immigration",
    "score": 8,
    "priority": 80,
-   "title": "France Faces Fresh Strikes, Citizenship Changes and New Tax Deadlines: News Digest",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMk5Id2JJaFF0dU5ha1QxdzBlSWpQVm82ZjlFemdrV2dUYkZiZUptal9XT01xcVMyb1M0MmRhM2VlYjJUclVuNXpKYVRUUjk4anNjRzQyTXBaNEU3d254REEtcUpPa2MtM280VnpJNWhST1VJUzlxbWVsRXBQRGtwb1lZQW9tNW9ZbGFBb3lOY0VoTHUxNS1RamwxclphektQU1AxVXBoYnVMVmZWRFdVM2p6dmoydw?oc=5",
-   "date": "2026-11-17",
-   "source": "FrenchEntrée",
-   "label": "France",
-   "snippet": "France is heading into another week of industrial action, with demonstrations and school protests adding to tensions over public services and government policy. For foreign residents…",
-   "lead": "France is heading into another week of industrial action, with demonstrations and school protests adding to tensions over public services and government policy. For foreign residents, there is encouraging news on the citizenship front, with revised guidance offering fresh hope to some retirees receiving pensions from abroad. Meanwhile, property owners face several important tax deadlines as the end of the year approaches, and France’s ...",
-   "image": "https://www.frenchentree.com/wp-content/uploads/2026/11/shutterstock_4203179595-scaled.jpg",
+   "title": "Sweden wants Indian tech talent: 18,000 STEM vacancies a year, work permit rules, salary and steps to apply",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOeS1jZG1WUG9vRWE3aUZ0Q1YyUGluak1rLVl2c2dtRnFTbFlXNzBkLW1waExwUW5QaDctV2tHQmtqbElyeDVjbERBNU5kTmpYUms0OC1RU0tGblRIQXpCMjJCLVA4RWVSX3dEcjZfYnB4V01pcmdacWFkTlU0ZFdmV0t1c3dmTnUzQXpsUkIyVjN6RVljSzZmT0RUbkFrTDRZQndwLXFLcDdZdDBEZjBDTGNscks0Mmo2M3I1THd3VXhVZG1QUFo2TW1GYk1VZlFzTnBleVU5MWdIaGtOVEtyeXpiTU4wOHlVQjRGZ2lsTlc5dWZBckNQeQ?oc=5",
+   "date": "2026-11-18",
+   "source": "Education Times",
+   "label": "Sweden",
+   "snippet": "Sweden is on a lookout for Indian talent.",
+   "lead": "Sweden is on a lookout for Indian talent. Ambassador Petra Menander shared that Sweden is short of about 18,000 tech specialists and wants Indian STEM talent to fill the gap. The message comes as ties between the two countries deepen, and as India’s tech workforce looks beyond the traditional destinations. The two countries signed a Strategic Partnership Agreement in Gothenburg in May 2026, with the aim of doubling economic engagement ...",
+   "image": "https://static.toiimg.com/thumb/msid-135952000,width-1280,height-720,imgsize-68854,resizemode-6,y_pad-600/photo.jpg",
    "why": [
-    "Affects citizenship",
-    "Announces a change"
+    "Salary threshold change",
+    "Mentions India or Indians"
    ],
    "tags": [
-    "Citizenship",
-    "France"
+    "Salary threshold",
+    "Sweden"
    ],
    "rank": 15,
    "must_read": false
