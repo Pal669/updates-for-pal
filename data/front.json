@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-19",
- "built": "2026-11-19 12:41 IST",
+ "built": "2026-11-19 13:23 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25381.0,
-   "change_pct": 0.61,
-   "asof": "19 Nov 12:41 IST"
+   "value": 25360.0,
+   "change_pct": 0.52,
+   "asof": "19 Nov 13:23 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 82441.0,
-   "change_pct": 0.5,
-   "asof": "19 Nov 12:26 IST"
+   "value": 82454.0,
+   "change_pct": 0.52,
+   "asof": "19 Nov 13:08 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 93.3,
-   "change_pct": -0.19,
-   "asof": "19 Nov 12:41 IST"
+   "value": 93.32,
+   "change_pct": -0.17,
+   "asof": "19 Nov 13:22 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 89.32,
-   "change_pct": -2.86,
-   "asof": "19 Nov 12:31 IST"
+   "value": 89.44,
+   "change_pct": -2.73,
+   "asof": "19 Nov 13:11 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3738.0,
-   "change_pct": -0.09,
-   "asof": "19 Nov 12:31 IST"
+   "value": 3733.0,
+   "change_pct": -0.24,
+   "asof": "19 Nov 13:13 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,9 +79,47 @@
  },
  "desks": {
   "Policy": {
-   "total": 365,
-   "new_today": 3,
+   "total": 367,
+   "new_today": 5,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 5,
+     "priority": 45,
+     "title": "Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335785",
+     "date": "2026-11-13",
+     "source": "PIB",
+     "label": "Banking & Rates",
+     "snippet": "The development of a systematic framework to measure the contribution of knowledge and knowledge pro",
+     "lead": "Ministry of Statistics & Programme Implementation Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems Posted On: 13 NOV 2026 2:40PM by PIB Delhi The development of a systematic framework to measure the contribution of knowledge and knowledge products to the Indian economy assumes significance in the context of the growing role of knowledge in driving economic activity, productivity and value ...",
+     "image": null,
+     "why": [
+      "Rates and liquidity"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 4,
+     "priority": 36,
+     "title": "Ministry of Rural Development Issues Ombudsperson Guidelines to Strengthen Transparency and Accountability under VB-G RAM G",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2337720",
+     "date": "2026-11-18",
+     "source": "PIB",
+     "label": "Labour & Social",
+     "snippet": "The Ministry of Rural Development has strengthened the framework for transparency, accountability and citizen participation in the implementation of the Viksit Bharat – Guarantee for Rozgar and Ajeevi",
+     "lead": "Ministry of Rural Development Ministry of Rural Development Issues Ombudsperson Guidelines to Strengthen Transparency and Accountability under VB-G RAM G Stronger Grievance Redressal Mechanism to Safeguard Rural Workers’ Rights under VB-G RAM G Digital Monitoring, Social Audits and Citizen Participation to Strengthen Accountability under VB-G RAM G Posted On: 18 NOV 2026 10:29AM by PIB Delhi The Ministry of Rural Development has ...",
+     "image": null,
+     "why": [
+      "Rule change"
+     ],
+     "tags": [
+      "Labour & Social"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 4,
@@ -120,51 +158,34 @@
      "tags": [
       "Health & Pharma"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 3,
-     "priority": 27,
-     "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Nagar Sahakari Bank Ltd., Etawah – Extension of Period",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63988",
-     "date": "2026-11-17",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "The Reserve Bank of India issued Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 to Nagar Sahakari Bank Ltd., Etawah, vide Directive No. LKO.DOS.SED.No.S29/12-03-000/2026-2027 dated May 15, 2026, for a period of six months up to close of business on November 18, 2026. The Reserve Bank of India is satisfied that in the public interest, it is necessary to further extend the period of operation of the ...",
-     "image": null,
-     "why": [
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 3,
-     "priority": 27,
-     "title": "India’s Horticulture Production Set to Reach Record 386.9 Million Tonnes in 2025-26: Shri Shivraj Singh Chouhan Releases Third Advance Estimates",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2337301",
-     "date": "2026-11-17",
-     "source": "PIB",
-     "label": "Agriculture & Food",
-     "snippet": "Union Minister for Agriculture and Farmers’ Welfare and Rural Development, Shri Shivraj Singh Chouhan, today released the Third Advance Estimates of area and production of horticultural crops for 2025",
-     "lead": "Ministry of Agriculture & Farmers Welfare India’s Horticulture Production Set to Reach Record 386.9 Million Tonnes in 2025-26: Shri Shivraj Singh Chouhan Releases Third Advance Estimates Horticulture production estimated to rise by 4.36% despite a decline in cultivated area; fruits, vegetables, flowers and plantation crops register strong growth Potato production projected to increase by nearly 12%; overall horticulture output expected ...",
-     "image": null,
-     "why": [
-      "Rule change"
-     ],
-     "tags": [
-      "Agriculture & Food"
-     ]
     }
    ]
   },
   "Startups": {
    "total": 1500,
-   "new_today": 18,
+   "new_today": 19,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "Physical AI startup Humyn Labs raises $47M in Series A",
+     "url": "https://yourstory.com/2026/11/physical-ai-startup-humyn-labs-raises-47-million-series-a",
+     "date": "2026-11-19",
+     "source": "YourStory",
+     "label": "India · AI & Deeptech",
+     "snippet": "Humyn Labs said it will use the funds across three areas: building deployment-readiness infrastructure in Brazil, South Korea and India; and expanding its R&D and market presence in San Francisco, London and Seoul.",
+     "lead": "Physical AI startup Humyn Labs raises $47M in Series A Humyn Labs said it will use the funds across three areas: building deployment-readiness infrastructure in Brazil, South Korea and India; and expanding its R&D and market presence in San Francisco, London and Seoul. Team YS 17614 Stories Thursday November 19, 2026 , 2 min Read Humyn Labs, a physical AI research and deployment startup, has raised $47 million in a Series A funding ...",
+     "image": "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/HumynLabs-1795005996504.png",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $47M)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -226,33 +247,34 @@
       "Funding",
       "Commerce & D2C"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "PhysicsWallah targets over Rs 9,000 Cr revenue by FY30",
-     "url": "https://yourstory.com/2026/11/physicswallah-targets-over-rs-9000-cr-revenue-by-fy30",
-     "date": "2026-11-18",
-     "source": "YourStory",
-     "label": "India · Other",
-     "snippet": "At its first Investor Day in Mumbai on November 18, the company targeted average annual revenue growth of about 25% or more between FY27 and FY30 and a pre-Ind AS EBITDA margin above 20%.",
-     "lead": "PhysicsWallah targets over Rs 9,000 Cr revenue by FY30 At its first Investor Day in Mumbai on November 18, the company targeted average annual revenue growth of about 25% or more between FY27 and FY30 and a pre-Ind AS EBITDA margin above 20%. Team YS 17606 Stories Wednesday November 18, 2026 , 2 min Read Edtech firm PhysicsWallah said it is targeting Rs 9,000-10,000 crore revenue by FY30, an ambition that will test whether an ...",
-     "image": "https://images.yourstory.com/cs/2/d99b1110116911ed9e63f54395117598/PWIPO1600x900-1757405223665.jpg",
-     "why": [
-      "Financials",
-      "Very large figure in headline (about $947M: round or valuation)"
-     ],
-     "tags": [
-      "Financials"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 18,
+   "new_today": 21,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 7,
+     "priority": 64,
+     "title": "France Faces Fresh Strikes, Citizenship Changes and New Tax Deadlines: News Digest",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMk5Id2JJaFF0dU5ha1QxdzBlSWpQVm82ZjlFemdrV2dUYkZiZUptal9XT01xcVMyb1M0MmRhM2VlYjJUclVuNXpKYVRUUjk4anNjRzQyTXBaNEU3d254REEtcUpPa2MtM280VnpJNWhST1VJUzlxbWVsRXBQRGtwb1lZQW9tNW9ZbGFBb3lOY0VoTHUxNS1RamwxclphektQU1AxVXBoYnVMVmZWRFdVM2p6dmoydw?oc=5",
+     "date": "2026-11-17",
+     "source": "FrenchEntrée",
+     "label": "France",
+     "snippet": "France is heading into another week of industrial action, with demonstrations and school protests adding to tensions over public services and government policy. For foreign residents…",
+     "lead": "France is heading into another week of industrial action, with demonstrations and school protests adding to tensions over public services and government policy. For foreign residents, there is encouraging news on the citizenship front, with revised guidance offering fresh hope to some retirees receiving pensions from abroad. Meanwhile, property owners face several important tax deadlines as the end of the year approaches, and France’s ...",
+     "image": "https://www.frenchentree.com/wp-content/uploads/2026/11/shutterstock_4203179595-scaled.jpg",
+     "why": [
+      "Affects citizenship",
+      "Announces a change"
+     ],
+     "tags": [
+      "Citizenship",
+      "France"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 6,
@@ -271,27 +293,6 @@
      ],
      "tags": [
       "Norway"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 55,
-     "title": "Immigration pushes Spain's population towards 50 million threshold",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRFRqZ1lZbGItalBZSXlFMmw0dTNGenVnY1Z1TS1ycnFqMkw4QkZreEZyNi1WQ09hd1BTMnNNSm1NNFVqdlRBeUFwa3NpODFRZnRlRElSUHcwajJ0emhqZmRudE9sSmh3Yl9NbXUxcWVIS2pxRmRuY0dzMjNoSHZ5VzR5cmt4Z3ptbnVzc3Q5T3RyTG82T0FfXzFRMmhKTzg?oc=5",
-     "date": "2026-11-12",
-     "source": "The Local Spain",
-     "label": "Spain",
-     "snippet": "This comes as both immigration and housing are politicised topics on Spain's general election campaign.",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source This comes as both immigration and housing are politicised topics on Spain's general election campaign. Spain is fast approaching the 50 million threshold, with population growth spurred almost entirely by immigration ...",
-     "image": null,
-     "why": [
-      "Salary threshold change",
-      "Announces a change"
-     ],
-     "tags": [
-      "Salary threshold",
-      "Spain"
      ]
     }
    ]
@@ -807,21 +808,20 @@
    "desk": "Immigration",
    "score": 7,
    "priority": 64,
-   "title": "France Faces Fresh Strikes, Citizenship Changes and New Tax Deadlines: News Digest",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMk5Id2JJaFF0dU5ha1QxdzBlSWpQVm82ZjlFemdrV2dUYkZiZUptal9XT01xcVMyb1M0MmRhM2VlYjJUclVuNXpKYVRUUjk4anNjRzQyTXBaNEU3d254REEtcUpPa2MtM280VnpJNWhST1VJUzlxbWVsRXBQRGtwb1lZQW9tNW9ZbGFBb3lOY0VoTHUxNS1RamwxclphektQU1AxVXBoYnVMVmZWRFdVM2p6dmoydw?oc=5",
-   "date": "2026-11-17",
-   "source": "FrenchEntrée",
-   "label": "France",
-   "snippet": "France is heading into another week of industrial action, with demonstrations and school protests adding to tensions over public services and government policy. For foreign residents…",
-   "lead": "France is heading into another week of industrial action, with demonstrations and school protests adding to tensions over public services and government policy. For foreign residents, there is encouraging news on the citizenship front, with revised guidance offering fresh hope to some retirees receiving pensions from abroad. Meanwhile, property owners face several important tax deadlines as the end of the year approaches, and France’s ...",
-   "image": "https://www.frenchentree.com/wp-content/uploads/2026/11/shutterstock_4203179595-scaled.jpg",
+   "title": "Japan Names 5 Categories of Foreigners Exempt From Language Requirement for Permanent Residence",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSm1fSWRteGI4cHlqbm9nUzB2dEp6akdqVGFlOEFUNWRIZmFvcWM3LVhmYWgwVTVTSTl6TnNTZzQ1d1pTbDZwQlNPU1VrYVZDN0Qyc3JLeFF4UjIzUUtqRV85elFWdEx1Tll4TW5kSnRXelZaN2p1Szgwc0VuNEtNSjZLc0xCVjZLcGNBdGt5QW1CTTdnU0RQSFM2bkdCUnNlbmtjX3FNV0RaLWdXVUR0NWU0N1hTaVp6eVNNb0ZzdEdBUUE?oc=5",
+   "date": "2026-11-19",
+   "source": "Tuko News",
+   "label": "Japan",
+   "snippet": "Japan has announced five categories of foreigners who are exempt from language requirements for permanent residence. Reasons for the exemption were also explained.",
+   "lead": "Asia Japan Names 5 Categories of Foreigners Exempt From Language Requirement for Permanent Residence Published 19 Nov 2026 at 10:10 AM by Shillah Mwadosho 3 min read Japan has introduced a Japanese language proficiency requirement of B1 level or higher for foreign nationals applying for permanent residence Five categories of applicants are exempt, including certain highly skilled professionals, their qualifying family members and some ...",
+   "image": "https://cdn.tuko.co.ke/images/1200x675/69307de395e5863e.jpeg?v=1",
    "why": [
-    "Affects citizenship",
-    "Announces a change"
+    "Affects permanent residence"
    ],
    "tags": [
-    "Citizenship",
-    "France"
+    "PR / Settlement",
+    "Japan"
    ],
    "rank": 19,
    "must_read": false
@@ -851,6 +851,48 @@
    "desk": "Policy",
    "score": 5,
    "priority": 45,
+   "title": "Union Ministry of Health Proposes Incorporation of Good Storage and Distribution Practices into Drugs Rules, 1945",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338316",
+   "date": "2026-11-19",
+   "source": "PIB",
+   "label": "Health & Pharma",
+   "snippet": "The Union Ministry of Health and Family Welfare has proposed the incorporation of Good Storage and Distribution Practices (GSDP) guidelines for pharmaceutical products into the Drugs Rules, 1945. The",
+   "lead": "Ministry of Health and Family Welfare Union Ministry of Health Proposes Incorporation of Good Storage and Distribution Practices into Drugs Rules, 1945 GSDP Framework to Enhance Regulatory Oversight and Accountability in Pharmaceutical Supply Chain Proposed Measures to Ensure Quality, Safety and Integrity of Pharmaceutical Products from Manufacturer to Patient Posted On: 19 NOV 2026 1:02PM by PIB Delhi The Union Ministry of Health and ...",
+   "image": null,
+   "why": [
+    "Rule change"
+   ],
+   "tags": [
+    "Health & Pharma"
+   ],
+   "rank": 21,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 5,
+   "priority": 45,
+   "title": "Union Health Ministry Proposes Amendment to Drugs Rules, 1945 to Provide Regulatory Flexibility for Medicinal Gases, Empty Gelatin Capsules and Disinfectant Fluids",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338313",
+   "date": "2026-11-19",
+   "source": "PIB",
+   "label": "Energy & Power",
+   "snippet": "Union Ministry of Health and Family Welfare has proposed an amendment to the Drugs Rules, 1945, through a draft Gazette Notification G.S.R. 985 (E) dated 6th November, published in the Gazette of Indi",
+   "lead": "Ministry of Health and Family Welfare Union Health Ministry Proposes Amendment to Drugs Rules, 1945 to Provide Regulatory Flexibility for Medicinal Gases, Empty Gelatin Capsules and Disinfectant Fluids Proposed amendment seeks to continue exemptions available under the pre-revised Schedule M Posted On: 19 NOV 2026 1:01PM by PIB Delhi Union Ministry of Health and Family Welfare has proposed an amendment to the Drugs Rules, 1945, through ...",
+   "image": null,
+   "why": [
+    "Rule change"
+   ],
+   "tags": [
+    "Energy & Power"
+   ],
+   "rank": 22,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 5,
+   "priority": 45,
    "title": "Union Health Ministry Proposes Amendment to New Drugs and Clinical Trials Rules, 2019 to Bring Antimicrobials under Central Regulatory Oversight",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338243",
    "date": "2026-11-19",
@@ -864,48 +906,6 @@
    ],
    "tags": [
     "Industry & Manufacturing"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 5,
-   "priority": 45,
-   "title": "Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335785",
-   "date": "2026-11-13",
-   "source": "PIB",
-   "label": "Banking & Rates",
-   "snippet": "The development of a systematic framework to measure the contribution of knowledge and knowledge pro",
-   "lead": "Ministry of Statistics & Programme Implementation Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems Posted On: 13 NOV 2026 2:40PM by PIB Delhi The development of a systematic framework to measure the contribution of knowledge and knowledge products to the Indian economy assumes significance in the context of the growing role of knowledge in driving economic activity, productivity and value ...",
-   "image": null,
-   "why": [
-    "Rates and liquidity"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 4,
-   "priority": 36,
-   "title": "Ministry of Rural Development Issues Ombudsperson Guidelines to Strengthen Transparency and Accountability under VB-G RAM G",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2337720",
-   "date": "2026-11-18",
-   "source": "PIB",
-   "label": "Labour & Social",
-   "snippet": "The Ministry of Rural Development has strengthened the framework for transparency, accountability and citizen participation in the implementation of the Viksit Bharat – Guarantee for Rozgar and Ajeevi",
-   "lead": "Ministry of Rural Development Ministry of Rural Development Issues Ombudsperson Guidelines to Strengthen Transparency and Accountability under VB-G RAM G Stronger Grievance Redressal Mechanism to Safeguard Rural Workers’ Rights under VB-G RAM G Digital Monitoring, Social Audits and Citizen Participation to Strengthen Accountability under VB-G RAM G Posted On: 18 NOV 2026 10:29AM by PIB Delhi The Ministry of Rural Development has ...",
-   "image": null,
-   "why": [
-    "Rule change"
-   ],
-   "tags": [
-    "Labour & Social"
    ],
    "rank": 23,
    "must_read": false
