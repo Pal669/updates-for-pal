@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-19",
- "built": "2026-11-19 10:04 IST",
+ "built": "2026-11-19 12:41 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25271.0,
-   "change_pct": 0.17,
-   "asof": "19 Nov 10:04 IST"
+   "value": 25381.0,
+   "change_pct": 0.61,
+   "asof": "19 Nov 12:41 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 82087.0,
-   "change_pct": 0.07,
-   "asof": "19 Nov 09:49 IST"
+   "value": 82441.0,
+   "change_pct": 0.5,
+   "asof": "19 Nov 12:26 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 93.5,
-   "change_pct": 0.02,
-   "asof": "19 Nov 10:04 IST"
+   "value": 93.3,
+   "change_pct": -0.19,
+   "asof": "19 Nov 12:41 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 89.34,
-   "change_pct": -2.84,
-   "asof": "19 Nov 09:52 IST"
+   "value": 89.32,
+   "change_pct": -2.86,
+   "asof": "19 Nov 12:31 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3726.0,
-   "change_pct": -0.41,
-   "asof": "19 Nov 09:54 IST"
+   "value": 3738.0,
+   "change_pct": -0.09,
+   "asof": "19 Nov 12:31 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,9 +79,48 @@
  },
  "desks": {
   "Policy": {
-   "total": 362,
-   "new_today": 0,
+   "total": 365,
+   "new_today": 3,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 4,
+     "priority": 36,
+     "title": "RBI releases data on ECB / FCCB / RDB for September 2026",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63961",
+     "date": "2026-11-12",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "The Reserve Bank of India has today released the data on External Commercial Borrowings (ECB), Foreign Currency Convertible Bonds (FCCB) and Rupee Denominated Bonds (RDB) through General Permission and Special Permission for the month of September 2026.",
+     "image": null,
+     "why": [
+      "Rule change",
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 3,
+     "priority": 27,
+     "title": "Union Ministry of Health Proposes Separate Licensing Framework for Wholesale of Bulk Drugs",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338242",
+     "date": "2026-11-19",
+     "source": "PIB",
+     "label": "Health & Pharma",
+     "snippet": "The Union Ministry of Health and Family Welfare has proposed amendments to the Drugs Rules, 1945, vide Draft Gazette Notification G.S.R. No. 987 (E) dated 2nd November, 2026, to introduce a separate a",
+     "lead": "Ministry of Health and Family Welfare Union Ministry of Health Proposes Separate Licensing Framework for Wholesale of Bulk Drugs Proposed Amendments to Drugs Rules, 1945, to Enhance Accountability and Control in Bulk Drug Distribution; strengthen Supply Chain Oversight Posted On: 19 NOV 2026 10:29AM by PIB Delhi The Union Ministry of Health and Family Welfare has proposed amendments to the Drugs Rules, 1945, vide Draft Gazette ...",
+     "image": null,
+     "why": [
+      "High on the desk's ranking"
+     ],
+     "tags": [
+      "Health & Pharma"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 3,
@@ -119,51 +158,54 @@
      "tags": [
       "Agriculture & Food"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 2,
-     "priority": 18,
-     "title": "3rd DHR-ICMR Health Research Excellence Summit Brings Together Over 600 Scientists, Researchers and Policymakers in New Delhi",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2337773",
-     "date": "2026-11-18",
-     "source": "PIB",
-     "label": "Health & Pharma",
-     "snippet": "The Indian Council of Medical Research (ICMR) has achieved the milestone of 100 successful technology transfers deals, marking a significant step in translating indigenous health research into technol",
-     "lead": "Ministry of Health and Family Welfare 3rd DHR-ICMR Health Research Excellence Summit Brings Together Over 600 Scientists, Researchers and Policymakers in New Delhi ICMR Crosses 100 Technology Transfers Deals including 20 Licensing Agreements with Nine Indian Companies transferred today Three new initiatives launched to strengthen health research, disease surveillance and translation of research evidence into policy ICMR marks 115 years ...",
-     "image": null,
-     "why": [
-      "High on the desk's ranking"
-     ],
-     "tags": [
-      "Health & Pharma"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 2,
-     "priority": 18,
-     "title": "NLMC Announces E-Auction of Residential Flat in Kilpauk, Chennai; Pre-Bid Meeting Rescheduled to 28 November 2026",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335853",
-     "date": "2026-11-13",
-     "source": "PIB",
-     "label": "Budget & Fiscal",
-     "snippet": "The National Land Monetization Corporation (NLMC), a wholly owned Government of India company under the Department of Public Enterprises (DPE), Ministry of Finance, has announced the e-auction of a re",
-     "lead": "Ministry of Finance NLMC Announces E-Auction of Residential Flat in Kilpauk, Chennai; Pre-Bid Meeting Rescheduled to 28 November 2026 RFP released on 5 November 2026 for residential property at Poonamallee High Road, Kilpauk, Chennai, with a reserve price of ₹1.64 crore Corrigendum issued on 13 November 2026 revising the Pre-Bid Meeting to 28 November 2026 at 11:00 AM Posted On: 13 NOV 2026 4:37PM by PIB Delhi The National Land ...",
-     "image": null,
-     "why": [
-      "Ministry of Finance"
-     ],
-     "tags": [
-      "Budget & Fiscal"
-     ]
     }
    ]
   },
   "Startups": {
    "total": 1500,
-   "new_today": 13,
+   "new_today": 18,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "Style Union raises Rs 485 Cr to expand beyond southern India",
+     "url": "https://yourstory.com/2026/11/style-union-raises-rs-485-cr-to-expand-beyond-southern-india",
+     "date": "2026-11-19",
+     "source": "YourStory",
+     "label": "India · Other",
+     "snippet": "Style Union’s parent has raised Rs 485 crore from Venturi Partners and Elev8 Venture Partners to expand nationally, targeting 450 stores by March 2030.",
+     "lead": "Style Union raises Rs 485 Cr to expand beyond southern India Style Union’s parent has raised Rs 485 crore from Venturi Partners and Elev8 Venture Partners to expand nationally, targeting 450 stores by March 2030. Team YS 17613 Stories Thursday November 19, 2026 , 3 min Read Nexon Omniverse Limited, the parent company of value-fashion retailer Style Union, has raised Rs 485 crore in a Series E round led by Venturi Partners, a ...",
+     "image": "https://images.yourstory.com/cs/2/d99b1110116911ed9e63f54395117598/StyleUnion-1795063713421.png",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $51M)"
+     ],
+     "tags": [
+      "Funding"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 77,
+     "title": "Humyn Labs’ $47 Mn Round, From Blinkit To Vice City & More",
+     "url": "https://inc42.com/buzz/humyn-labs-47-mn-round-from-blinkit-to-vice-city-more/",
+     "date": "2026-11-19",
+     "source": "Inc42",
+     "label": "India · AI & Deeptech",
+     "snippet": "Humyn Labs has raised $47 Mn, via debt and equity, to scale its business of recording humans for training robots.",
+     "lead": "Funding Global Ambition: The round comprised $26 Mn in equity investment, which was led by Accel. The remaining $21 Mn was raised via debt from Lighthouse Canton and Trifecta Capital. The infusion will go towards expanding robot deployment operations to Brazil, South Korea and India, while strengthening its data collection hardware and processing capabilities. The corpus will also help scale the startup’s presence in San Francisco, ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Social-Daily-Brief-48.png",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $47M)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -204,55 +246,12 @@
      "tags": [
       "Financials"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "Rediff.com files updated draft papers with SEBI for Rs 600 cr IPO",
-     "url": "https://www.medianama.com/2026/11/223-rediff-com-sebi-ipo/",
-     "date": "2026-11-18",
-     "source": "MediaNama",
-     "label": "India · Policy & Regulation",
-     "snippet": "Rediff.com has filed updated IPO papers with SEBI to raise Rs 600 crore. The company plans to use the proceeds to expand Rediff One, Rediff Pay and Rediff TV, alongside marketing and acquisitions.",
-     "lead": "Internet company Rediff.com India has filed updated draft papers with the Securities and Exchange Board of India (SEBI), seeking to raise up to Rs 600 crore through an initial public offering (IPO). According to its updated draft red herring prospectus (UDRHP), the IPO will consist entirely of a fresh issue of equity shares with a face value of Rs 5 each, aggregating up to Rs 600 crore, with no offer-for-sale (OFS) component. The price ...",
-     "image": "https://www.medianama.com/wp-content/uploads/2020/10/rediff-in.jpg.jpg",
-     "why": [
-      "IPO & Listing",
-      "Sizeable deal (about $63M)"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "Policy & Regulation"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 77,
-     "title": "AI agent startup LangChain hits $3B valuation",
-     "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-     "date": "2026-11-14",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-     "lead": "Agent management startup LangChain has raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from investors, including Singapore’s GIC, DFJ Growth, IVP, and Sapphire Ventures, the company announced on Friday. That’s more than double its $1.25 billion valuation when it raised $125 million about a year ago , led by IVP. LangChain began in 2022 as a popular open source project that handled the kinds ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $3,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 11,
+   "new_today": 18,
    "items": [
     {
      "desk": "Immigration",
@@ -391,6 +390,29 @@
    "desk": "Startups",
    "score": 13,
    "priority": 100,
+   "title": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering",
+   "url": "https://yourstory.com/2026/11/anthropic-raises-813-billion-from-ipo-with-valuation-of-15-trillion",
+   "date": "2026-11-19",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "Anthropic's IPO surpasses SpaceX's $75 billion offering. The company reported $16.2 billion in revenue in the first half of 2026, up from $1.16 billion in the same period last year, even as its reported net loss widened.",
+   "lead": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering Anthropic's IPO surpasses SpaceX's $75 billion offering. The company reported $16.2 billion in revenue in the first half of 2026, up from $1.16 billion in the same period last year, even as its reported net loss widened. Team YS 17613 Stories Thursday November 19, 2026 , 2 min Read Artificial intelligence (AI) company Anthropic has raised $81.3 billion through its ...",
+   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imagermlb-1795071459700.jpg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $81,300M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "AI & Deeptech"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 13,
+   "priority": 100,
    "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
    "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
    "date": "2026-11-19",
@@ -409,7 +431,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -433,7 +455,7 @@
     "Citizenship",
     "Germany"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -456,7 +478,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -480,7 +502,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -502,8 +524,8 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -524,7 +546,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -548,7 +570,7 @@
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -571,7 +593,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -594,7 +616,7 @@
     "IPO & Listing",
     "Fintech"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -616,7 +638,7 @@
    "tags": [
     "IPO & Listing"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -640,7 +662,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -663,7 +685,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 12,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -687,7 +709,7 @@
     "Global",
     "IT & Tech"
    ],
-   "rank": 13,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -710,7 +732,7 @@
     "Student / Graduate",
     "New Zealand"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -734,30 +756,29 @@
     "Quota / Caps",
     "Australia"
    ],
-   "rank": 15,
+   "rank": 16,
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 77,
-   "title": "Humyn Labs’ $47 Mn Round, From Blinkit To Vice City & More",
-   "url": "https://inc42.com/buzz/humyn-labs-47-mn-round-from-blinkit-to-vice-city-more/",
+   "desk": "Policy",
+   "score": 8,
+   "priority": 73,
+   "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on November 20, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63999",
    "date": "2026-11-19",
-   "source": "Inc42",
-   "label": "India · AI & Deeptech",
-   "snippet": "Humyn Labs has raised $47 Mn, via debt and equity, to scale its business of recording humans for training robots.",
-   "lead": "Funding Global Ambition: The round comprised $26 Mn in equity investment, which was led by Accel. The remaining $21 Mn was raised via debt from Lighthouse Canton and Trifecta Capital. The infusion will go towards expanding robot deployment operations to Brazil, South Korea and India, while strengthening its data collection hardware and processing capabilities. The corpus will also help scale the startup’s presence in San Francisco, ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Social-Daily-Brief-48.png",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on November 20, 2026 (Friday) . As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
+   "image": null,
    "why": [
-    "Funding",
-    "Sizeable deal (about $47M)"
+    "Regulator: RBI",
+    "Large outlay (Rs 10,000 Cr or more)"
    ],
    "tags": [
-    "Funding",
-    "AI & Deeptech"
+    "Banking & Rates"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -779,7 +800,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -802,7 +823,7 @@
     "Citizenship",
     "France"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -823,7 +844,28 @@
    "tags": [
     "Industry & Manufacturing"
    ],
-   "rank": 19,
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 5,
+   "priority": 45,
+   "title": "Union Health Ministry Proposes Amendment to New Drugs and Clinical Trials Rules, 2019 to Bring Antimicrobials under Central Regulatory Oversight",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338243",
+   "date": "2026-11-19",
+   "source": "PIB",
+   "label": "Industry & Manufacturing",
+   "snippet": "Union Ministry of Health and Family Welfare has proposed an amendment to the New Drugs and Clinical Trials Rules, 2019, through a draft Gazette Notification G.S.R. 983 (E) dated 6th November, to inclu",
+   "lead": "Ministry of Health and Family Welfare Union Health Ministry Proposes Amendment to New Drugs and Clinical Trials Rules, 2019 to Bring Antimicrobials under Central Regulatory Oversight Proposed Amendment to NDCT Rules, 2019 Aims to Strengthen Oversight of Antimicrobials and Address AMR Posted On: 19 NOV 2026 10:31AM by PIB Delhi Union Ministry of Health and Family Welfare has proposed an amendment to the New Drugs and Clinical Trials ...",
+   "image": null,
+   "why": [
+    "Rule change"
+   ],
+   "tags": [
+    "Industry & Manufacturing"
+   ],
+   "rank": 21,
    "must_read": false
   },
   {
@@ -844,29 +886,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 5,
-   "priority": 45,
-   "title": "Underwriting Auction for sale of Government Security for ₹34,000 crore on November 13, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63963",
-   "date": "2026-11-12",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "Government of India has announced the sale (re-issue) of Government Security, as detailed below, through auction to be held on November 13, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
-   "image": null,
-   "why": [
-    "Regulator: RBI",
-    "Large outlay (Rs 10,000 Cr or more)"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 21,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -886,28 +906,6 @@
    ],
    "tags": [
     "Labour & Social"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 4,
-   "priority": 36,
-   "title": "RBI releases data on ECB / FCCB / RDB for September 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63961",
-   "date": "2026-11-12",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The Reserve Bank of India has today released the data on External Commercial Borrowings (ECB), Foreign Currency Convertible Bonds (FCCB) and Rupee Denominated Bonds (RDB) through General Permission and Special Permission for the month of September 2026.",
-   "image": null,
-   "why": [
-    "Rule change",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
    ],
    "rank": 23,
    "must_read": false
