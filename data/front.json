@@ -1,6 +1,6 @@
 {
- "edition": "2026-11-20",
- "built": "2026-11-20 13:14 IST",
+ "edition": "2026-11-21",
+ "built": "2026-11-21 00:19 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,80 +12,80 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25716.0,
-   "change_pct": 0.79,
-   "asof": "20 Nov 13:14 IST"
+   "value": 25514.0,
+   "change_pct": 1.14,
+   "asof": "20 Nov 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 83676.0,
-   "change_pct": 0.79,
-   "asof": "20 Nov 12:59 IST"
+   "value": 83022.0,
+   "change_pct": 1.21,
+   "asof": "20 Nov 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 92.87,
-   "change_pct": -0.64,
-   "asof": "20 Nov 13:14 IST"
+   "value": 92.67,
+   "change_pct": -0.85,
+   "asof": "21 Nov 00:11 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 89.83,
-   "change_pct": -2.34,
-   "asof": "20 Nov 13:04 IST"
+   "value": 89.3,
+   "change_pct": -2.91,
+   "asof": "21 Nov 00:09 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3546.0,
-   "change_pct": -3.79,
-   "asof": "20 Nov 13:04 IST"
+   "value": 3516.0,
+   "change_pct": -4.61,
+   "asof": "21 Nov 00:09 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 5.05,
-   "change_pct": -0.28,
-   "asof": "20 Nov 01:29 IST"
+   "value": 4.95,
+   "change_pct": -2.1,
+   "asof": "21 Nov 00:04 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "Curefoods and Rebel Foods",
-   "tagline": "Cloud-kitchen and restaurant-brand operators",
-   "what": "Curefoods runs brands such as EatFit, Nomad Pizza, Sharief Bhai Biryani, CakeZone, Frozen Bottle and Krispy Kreme (India rights acquired last year), with 500+ kitchens in 70 cities. Rebel Foods runs Faasos, Behrouz Biryani, Oven Story, Sweet Truth and 20+ other brands across 10 countries.",
+   "company": "Angle Health",
+   "tagline": "US health-insurance startup for small businesses (YC winter 2020)",
+   "what": "AI-powered platform that helps small businesses choose and manage 'level-funded' health plans, integrating with payroll and HR systems. Level-funded sits between fully insured (carrier bears all risk, higher and predictable cost) and self-funded (employer bears cost, unpredictable): the business makes predictable payments, is insured against unusually high costs, and may get a share of the surplus back if claims stay low.",
    "how": [
-    "Both report 'operating revenue' from operating cloud kitchens and restaurant chains, i.e. selling food under their own brands.",
-    "The article gives no split between delivery, dine-in or other channels."
+    "The article does not say how Angle itself earns its revenue.",
+    "It says the startup serves 5,000+ businesses and is profitable."
    ],
-   "watch": "Growth is above 20% but both still lose money. Rebel is narrowing losses; Curefoods' loss grew in absolute terms.",
-   "sector": "Commerce & D2C",
-   "region": "India",
-   "url": "https://economictimes.indiatimes.com/tech/technology/curefoods-revenue-grows-23-yoy-rebel-foods-revenue-up-20/articleshow/134338278.cms"
+   "watch": "A profitable, non-'AI agent' company raising a large Series C is unusual per TechCrunch. The tender offer is liquidity for staff, not money into the company.",
+   "sector": "Fintech",
+   "region": "Global",
+   "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/"
   },
   "country": {
-   "id": "new-zealand",
-   "name": "New Zealand",
-   "trend": "Loosening (new pathways from 24 Aug 2026)",
-   "pr": "Skilled Work Experience Pathway: skill level 1-3 role, 5 years relevant experience including 2 years in New Zealand at 1.1x the median wage. Trades and Technician Pathway: relevant Level 4+ qualification, 4 years experience including 18 months in NZ at or above the median wage. Applicants generally meet only one wage threshold, the one in force when they started accruing experience.",
-   "citizenship": "About 5 years as a resident (general knowledge, not re-verified). Dual citizenship allowed.",
-   "pro": "Eligibility widened and wage rules simplified in the 2026 reform.",
-   "con": "Small economy and job market; fewer senior finance roles (general knowledge).",
-   "watch": "How INZ implements the August 2026 changes"
+   "id": "netherlands",
+   "name": "Netherlands",
+   "trend": "Tightening proposed (citizenship 5 to 10 years)",
+   "pr": "Permanent residence or EU long-term residence after 5 years of continuous lawful residence.",
+   "citizenship": "Today: 5 years and A2 Dutch. The cabinet sent a bill to extend this to 10 years for consultation on 26 September 2025; it was aimed at parliament in Q3 2026. As of 14 September 2026 it is not law. The Netherlands generally requires giving up other citizenship (general knowledge), which India requires anyway.",
+   "pro": "5-year PR clock.",
+   "con": "Real risk citizenship doubles to 10 years; timing and transition rules unknown.",
+   "watch": "Whether the 10-year naturalisation bill reaches parliament"
   }
  },
  "desks": {
   "Policy": {
-   "total": 369,
-   "new_today": 1,
+   "total": 371,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
-     "score": 3,
-     "priority": 30,
+     "score": 2,
+     "priority": 17,
      "title": "Ministry of Rural Development Issues Ombudsperson Guidelines to Strengthen Transparency and Accountability under VB-G RAM G",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2337720",
      "date": "2026-11-18",
@@ -104,26 +104,7 @@
     {
      "desk": "Policy",
      "score": 2,
-     "priority": 20,
-     "title": "Union Ministry of Health Proposes Separate Licensing Framework for Wholesale of Bulk Drugs",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338242",
-     "date": "2026-11-19",
-     "source": "PIB",
-     "label": "Health & Pharma",
-     "snippet": "The Union Ministry of Health and Family Welfare has proposed amendments to the Drugs Rules, 1945, vide Draft Gazette Notification G.S.R. No. 987 (E) dated 2nd November, 2026, to introduce a separate a",
-     "lead": "Ministry of Health and Family Welfare Union Ministry of Health Proposes Separate Licensing Framework for Wholesale of Bulk Drugs Proposed Amendments to Drugs Rules, 1945, to Enhance Accountability and Control in Bulk Drug Distribution; strengthen Supply Chain Oversight Posted On: 19 NOV 2026 10:29AM by PIB Delhi The Union Ministry of Health and Family Welfare has proposed amendments to the Drugs Rules, 1945, vide Draft Gazette ...",
-     "image": null,
-     "why": [
-      "High on the desk's ranking"
-     ],
-     "tags": [
-      "Health & Pharma"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 2,
-     "priority": 20,
+     "priority": 17,
      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Nagar Sahakari Bank Ltd., Etawah – Extension of Period",
      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63988",
      "date": "2026-11-17",
@@ -142,7 +123,7 @@
     {
      "desk": "Policy",
      "score": 2,
-     "priority": 20,
+     "priority": 17,
      "title": "India’s Horticulture Production Set to Reach Record 386.9 Million Tonnes in 2025-26: Shri Shivraj Singh Chouhan Releases Third Advance Estimates",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2337301",
      "date": "2026-11-17",
@@ -162,66 +143,44 @@
   },
   "Startups": {
    "total": 1500,
-   "new_today": 7,
+   "new_today": 0,
    "items": [
     {
      "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-     "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-     "date": "2026-11-18",
-     "source": "TechCrunch",
-     "label": "Global · Other",
-     "snippet": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-     "lead": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt Dominic-Madori Davis Marina Temkin 5:44 PM PST · November 17, 2026 Nvidia’s equity in private companies continues to grow: it revealed its stakes are now worth $65.5 billion on Tuesday , up from the $22 billion reported in January. The increase includes both new investments and significant markups of existing portfolio companies. The company invested ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150167239.jpg?resize=1200,771",
+     "score": 9,
+     "priority": 82,
+     "title": "How Barosi Is Building A ₹1,000 Cr ARR Ghee Empire In 10-Minute Economy",
+     "url": "https://inc42.com/startups/how-barosi-is-building-a-%e2%82%b91000-cr-arr-ghee-empire-in-10-minute-economy/",
+     "date": "2026-11-20",
+     "source": "Inc42",
+     "label": "India · Commerce & D2C",
+     "snippet": "Founded in 2016, Barosi is now present in 98% of Blinkit’s dark stores and sells across seven quick commerce platforms.",
+     "lead": "Barosi, a Delhi NCR-based premium ghee brand, entered quick commerce in 2022 despite steep platform commissions, aggressive discounting and competition from established FMCG brands. Founded in 2016, the bootstrapped dairy brand is now present in 98% of Blinkit’s dark stores and sells across seven quick commerce platforms. Barosi closed FY26 with ₹56 Cr in revenue and is now clocking an annualised revenue run rate of ₹180 Cr.",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Barosi-QCC-social.jpg",
      "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $65,000M: round or valuation)"
+      "Financials",
+      "Large deal (about $105M)"
      ],
      "tags": [
-      "IPO & Listing"
+      "Financials",
+      "Commerce & D2C"
      ]
     },
     {
      "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-     "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-     "date": "2026-11-17",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-     "lead": "Three months after introducing its product, AI cybersecurity startup Corma has raised a $125 million Series A round at a $1 billion valuation led by NEA, the company said. Corma offers AI models and agents trained for cybersecurity defense. It has now raised a total of $185 million from backers, including Sequoia Capital, Khosla Ventures, and Coatue. The startup came out of stealth in August. Interest in its product skyrocketed after a ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+     "score": 9,
+     "priority": 82,
+     "title": "Humyn Labs raises $47 mn to collect training data for physical AI",
+     "url": "https://www.medianama.com/2026/11/223-humyn-labs-training-data-physical-ai/",
+     "date": "2026-11-20",
+     "source": "MediaNama",
+     "label": "India · AI & Deeptech",
+     "snippet": "Humyn Labs raises $47 million to collect real-world training data for AI robots, raising privacy and data sovereignty concerns.",
+     "lead": "Physical AI startup Humyn Labs , which collects data from factories and people’s homes to train AI systems and humanoid robots, has raised $47 million in a Series A funding round. The funding includes $26 million in equity financing led by Accel, with participation from Prosus Ventures, which has previously backed Swiggy, Urban Company, Meesho, PayU, and PharmEasy, among others. BeeGlobal, Bajaj Finance’s Finserv Intelligence , Bajaj ...",
+     "image": "https://www.medianama.com/wp-content/uploads/2026/03/chatgpt-stock-image-AI-agents.jpg",
      "why": [
       "Funding",
-      "Very large figure in headline (about $1,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 83,
-     "title": "AI agent startup LangChain hits $3B valuation",
-     "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-     "date": "2026-11-14",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-     "lead": "Agent management startup LangChain has raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from investors, including Singapore’s GIC, DFJ Growth, IVP, and Sapphire Ventures, the company announced on Friday. That’s more than double its $1.25 billion valuation when it raised $125 million about a year ago , led by IVP. LangChain began in 2022 as a popular open source project that handled the kinds ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $3,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
+      "Sizeable deal (about $47M)"
      ],
      "tags": [
       "Funding",
@@ -231,121 +190,98 @@
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 75,
-     "title": "Razorpay To File UDRHP By Next Week, Eyes IPO By February 2027: Report",
-     "url": "https://inc42.com/buzz/razorpay-to-file-udrhp-by-next-week-eyes-ipo-by-february-2027-report/",
+     "priority": 82,
+     "title": "24 VCs commit Rs 1,050 cr to Karnataka deeptech startups at Bengaluru Tech Summit",
+     "url": "https://economictimes.indiatimes.com/tech/technology/24-vcs-commit-rs-1050-cr-to-karnataka-deeptech-startups-at-bengaluru-tech-summit/articleshow/135996753.cms",
      "date": "2026-11-19",
-     "source": "Inc42",
-     "label": "India · Fintech",
-     "snippet": "The report comes within days after the market regulator cleared the ₹6,000 Cr IPO that could potentially value Razorpay at around $5 Bn (₹47,000 Cr)",
-     "lead": "Razorpay is preparing to publicly file its draft IPO papers as early as next week, targeting a potential February 2027 listing The IPO could value the fintech major at around $5 Bn, marking a markdown from its $7.5 Bn valuation in 2021 The company is reportedly planning a $600 Mn IPO comprising fresh shares and an OFS, as it looks to tap India's buoyant IPO market",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Razorpay-IPO-ftr.jpg",
+     "source": "ET Startups",
+     "label": "India · AI & Deeptech",
+     "snippet": "The investment commitments, involving 24 venture capital firms, were announced during the flagship startup event of the Bengaluru Tech Summit, organised by the Karnataka government. The commitments mark a sharp increase from the Rs 400 crore disbursed for AI and deeptech startups at last year's conclave.",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-13198,resizemode-75,msid-135996753/tech/technology/24-vcs-commit-rs-1050-cr-to-karnataka-deeptech-startups-at-bengaluru-tech-summit.jpg",
      "why": [
-      "IPO & Listing",
-      "Valuation, listing or profitability signal"
+      "Funding",
+      "Large deal (about $111M)"
      ],
      "tags": [
-      "IPO & Listing",
-      "Fintech"
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 82,
+     "title": "Bengaluru leads India in AI startup funding: Innovation Report 2026",
+     "url": "https://yourstory.com/2026/11/bengaluru-leads-india-in-ai-startup-funding-innovation-report-2026",
+     "date": "2026-11-18",
+     "source": "YourStory",
+     "label": "India · AI & Deeptech",
+     "snippet": "$85 billion raised, a growing AI ecosystem and a strong deep-tech pipeline. The Bengaluru Innovation Report 2026 maps the city's startup growth as Karnataka looks to spread its tech ambitions beyond the capital.",
+     "lead": "Bengaluru leads India in AI startup funding: Innovation Report 2026 $85 billion raised, a growing AI ecosystem and a strong deep-tech pipeline. The Bengaluru Innovation Report 2026 maps the city's startup growth as Karnataka looks to spread its tech ambitions beyond the capital. Aasma Khan 482 Stories Wednesday November 18, 2026 , 4 min Read Bengaluru's position as India's technology hub is increasingly being shaped by artificial ...",
+     "image": "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/Untitleddesign50-1795004620644.jpg",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $85,000M: round or valuation)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
      ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 14,
+   "new_today": 0,
    "items": [
     {
      "desk": "Immigration",
-     "score": 5,
-     "priority": 50,
-     "title": "India offers no reason for Norwegian journalist's visa ban",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeUhyUnk3eG5yT3lNMWpwbGN4cUFPVkZIRktmNmlBNmVFbS0xWnlJcnI5czQ1LTNUZkRHYWRxSUlua01TUmxmdDg3Y25TNDBZNVNMdmlHQWEzQUllS0ZoSG9rWmo4bUJjakU5Tnl5aHRJZ3pCZzlnVF8wOFlzNXNIbmk0WkVvMnlHUHJPaDZkQThXaEp4bjBsZQ?oc=5",
-     "date": "2026-11-14",
-     "source": "Journalism Pakistan",
-     "label": "Norway",
-     "snippet": "India's foreign ministry called visas a sovereign function but gave no specific reason for journalist Helle Lyng's reported visa cancellation.",
-     "lead": "NEW DELHI — India's Ministry of External Affairs has declined to give a specific reason for cancelling the visa of Norwegian journalist Helle Lyng Svendsen, who was prevented from travelling to Hyderabad to speak at an international conference on journalism and press freedom. At a November 13 briefing, ministry spokesperson Randhir Jaiswal described visa decisions as a sovereign function of governments. His response came amid ...",
-     "image": "https://www.journalismpakistan.com/news/india-offers-no-reason-for-norwegian-journalist-s-visa-ban.jpg",
+     "score": 8,
+     "priority": 73,
+     "title": "France Officially Bans 2 Categories of Foreigners From Citizenship",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOGprVnBoWmlZVXAtdnMxeDAwSXA0allYckFoN3JkVktVVHR3T21qOVJpakkxbkJTeEF3eUo1S3dhRHJydkY3RENCQW45Q0FQRFl5MEJHaVdNSEN3RGFUbWRiYmFfdF9ab3JjR1NRMUIzTzFQTE9mTEJSb21QZjJoMXFxRDNSZGEzRkkwRzRlUzBMU0hVazAzTzNVQQ?oc=5",
+     "date": "2026-11-20",
+     "source": "Tuko News",
+     "label": "France",
+     "snippet": "France announced a policy on its website affecting citizenship applications for certain foreign nationals, a move that will deny them of citizenship.",
+     "lead": "World France Officially Bans 2 Categories of Foreigners From Citizenship Published 20 Nov 2026 at 6:31 PM by Shillah Mwadosho 3 min read France has confirmed two categories of foreign nationals who are disqualified from obtaining citizenship through naturalization by decree The restrictions cover certain prison sentences and convictions involving attacks on the country's fundamental interests or acts of terrorism Applicants must also ...",
+     "image": "https://cdn.tuko.co.ke/images/1200x675/2fd38cc08765f5f1.jpeg?v=1",
      "why": [
-      "Announces a change",
-      "Mentions India or Indians"
+      "Affects citizenship",
+      "Announces a change"
      ],
      "tags": [
-      "Norway"
+      "Citizenship",
+      "France"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 7,
+     "priority": 64,
+     "title": "Minister says timing of new Danish citizenship bills remains unclear",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDJtdWQxS0FzMG90a2NLVG1iSjJjdnlDM1p5TGxmcEFfUE5ZZjI2R19Ic0lfbUV4LXhkZ19pOERVM1ROUEl5Wjl1RjRLWm5QTV9tb0FUUUZKbzMzQlBwalAxd3c2VjN0ekpTOUN3bU8waDE3d2lVZ1VkVDRucUs0a2piZ0Z5N05BWlBnZVFDWlZESGIzRU1rTVNsSm11cFo0eXpvSHduX0JtdExVXzVVTV9MVQ?oc=5",
+     "date": "2026-11-20",
+     "source": "The Copenhagen Post",
+     "label": "Denmark",
+     "snippet": "Denmark’s immigration and integration minister says it is too early to say when the next citizenship bill will be introduced, while confirming that a previously submitted bill will return in spring 2027. The statement came in a written response on November 11 to Peder Hvelplund, a congressmember from Enhedslisten, the Red-Green Alliance, ",
+     "lead": "The minister said political discussions about future citizenship requirements would take place after an expert group studying the screening of applicants had finished its work. Share on Facebook Share on Telegram Share on WhatsApp Share on SMS Share on LinkedIn Email this Page Denmark’s immigration and integration minister says it is too early to say when the next citizenship bill will be introduced, while confirming that a previously ...",
+     "image": "https://cphpost.dk/wp-content/uploads/2026/09/DANISH_NEWS_IN_ENGLISH_1473606-e1795084694906.jpg",
+     "why": [
+      "Affects citizenship"
+     ],
+     "tags": [
+      "Citizenship",
+      "Denmark"
      ]
     }
    ]
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 18,
+   "new_today": 0,
    "items": [
-    {
-     "desk": "Advisory",
-     "score": 10,
-     "priority": 91,
-     "title": "Gold near 13-month low as Fed rate hike fears grow, oil surges towards $96",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN3FGdFFJdno4THRVX3Y3djF1bFNMSXlrZkNPZ3NKZEQtaThVNTZVQ0ZaYk9ZTVZTMnRYdzdwWW9IQlFIT3ExZk1IdGg1VFo0X3lRTWlmdHA2ajU5RTVmTmRZbXMzb25hODRuUGFvaUVkSWIwYnJiY0FxS1NIZlBvS1JVZVRDUFVESmtQVHd0b0djdHVGM290bEViSzdBWVBsOFlkMTdVdGxoRXZMV1h4QkE0SEZfNU5TNjZqanM3NlY3TG9XMWctQ9IBzgFBVV95cUxNZVN6eEx3NWFmRGc1ZmlJRnFPTzNjdWlTUkZiSkczWUtlaW5UWGJrQ3hRNml1SjlzSng5NHpoTE10N3A1aFgtUmctQ2VIN1JnTjRtRzdJSGpaYUtWZmNxMUxzaVlGVmh1emdRdFVFYXJWUWZWYzZCMFpxNlN0a3lrU09FcWxUYXZjMUY2czZBb3VYVmY1c2Fhcl8zYkdZTGNfclJtVnpZSlVjRUJXTjBmcFlPVC1WY3lYMEoyRDNqUmpLM2tJTjFpZHhGbHZxUQ?oc=5",
-     "date": "2026-11-13",
-     "source": "Moneycontrol.com",
-     "label": "Gold & Silver",
-     "snippet": "Gold hovered near $3,880 an ounce after hitting a 13-month low, as stubborn US inflation fuelled Fed rate hike bets and rising Treasury yields pressured bullion.",
-     "lead": "You are using an outdated browser. Please upgrade your browser to improve your experience and security. Start --> Quotes Mutual Funds ETFs Commodities Futures & Options Unlisted Shares Currency News Topic Cryptocurrency Forum Notices Videos Glossary All My Alerts Go Ad-Free Hello, Login Hello, Login Log-in or Sign-Up My Account Discover the secret world of unlisted shares — analyse India's top pre-IPO companies and invest before they ...",
-     "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261113012637_474892754-scaled.jpg",
-     "why": [
-      "Interest-rate decision",
-      "Precious metals",
-      "Global macro driver",
-      "Sharp market move"
-     ],
-     "tags": [
-      "Gold & Silver"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 82,
-     "title": "Gold Slumps 3% to Lowest in Over a Year on Hawkish Fed Signals",
-     "url": "https://www.livemint.com/market/gold-slumps-3-to-lowest-in-over-a-year-on-hawkish-fed-signals-11795036212650.html",
-     "date": "2026-11-19",
-     "source": "Mint",
-     "label": "Gold & Silver",
-     "snippet": "Gold tumbled over 3% to the lowest in over a year after Federal Reserve officials made the case for more interest-rate hikes to tackle stubborn inflation.",
-     "lead": "Gold Slumps 3% to Lowest in Over a Year on Hawkish Fed Signals AI Quick Read (Bloomberg) -- Gold tumbled over 3% to the lowest in over a year after Federal Reserve officials made the case for more interest-rate hikes to tackle stubborn inflation. Bullion fell as much as 3.1% on a third day of declines after Federal Reserve governor Christopher Waller said inflation remains headed in the wrong direction, urging the central bank to ...",
-     "image": null,
-     "why": [
-      "Precious metals",
-      "Global macro driver",
-      "Sharp market move"
-     ],
-     "tags": [
-      "Gold & Silver"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 82,
-     "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
-     "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
-     "date": "2026-11-19",
-     "source": "CNBC",
-     "label": "Global",
-     "snippet": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
-     "lead": "Livestream Menu Make It select USA INTL Livestream Search quotes, news & videos Livestream Watchlist SIGN IN Create free account Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Federal Reserve officials expressed confidence in October that further interest rate increases will be needed to stem inflation, though they decided to hold off while gathering more information, according to ...",
-     "image": "https://image.cnbcfm.com/api/v1/image/108476200-1793214642067-gettyimages-2301908904-AFP_D4QJ6NG.jpeg?v=1793214690&w=1920&h=1080",
-     "why": [
-      "Interest-rate decision",
-      "Global macro driver",
-      "Also covered by 1 other outlet(s)"
-     ],
-     "tags": [
-      "Global",
-      "IT & Tech"
-     ]
-    },
     {
      "desk": "Advisory",
      "score": 9,
@@ -366,6 +302,70 @@
      "tags": [
       "Debt & Bonds"
      ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 82,
+     "title": "AIF commitments hit a high of ₹18.68 trillion as of September: Sebi data",
+     "url": "https://www.business-standard.com/markets/news/aif-commitments-hit-a-high-of-18-68-trillion-as-of-september-sebi-data-126111601365_1.html",
+     "date": "2026-11-16",
+     "source": "Business Standard",
+     "label": "AIF",
+     "snippet": "In comparison, the total commitments in this segment catering to the affluent stood at ₹17.53 trillion at the end of June while it was ₹15.05 trillion a year ago",
+     "lead": "AIF commitments are usually drawn segments by fund managers when investment opportunities are identified, and get reflected progressively in the funds raised and investments made Don't miss the most important news and views of the day. Get them on our Telegram channel",
+     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-12/26/thumb/fitandfill/1200X628/1766768985-157.jpg",
+     "why": [
+      "AIF news",
+      "Regulator: SEBI or RBI",
+      "Also covered by 2 other outlet(s)"
+     ],
+     "tags": [
+      "AIF"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 8,
+     "priority": 73,
+     "title": "Gold Slumps 3% to Lowest in Over a Year on Hawkish Fed Signals",
+     "url": "https://www.livemint.com/market/gold-slumps-3-to-lowest-in-over-a-year-on-hawkish-fed-signals-11795036212650.html",
+     "date": "2026-11-19",
+     "source": "Mint",
+     "label": "Gold & Silver",
+     "snippet": "Gold tumbled over 3% to the lowest in over a year after Federal Reserve officials made the case for more interest-rate hikes to tackle stubborn inflation.",
+     "lead": "Gold Slumps 3% to Lowest in Over a Year on Hawkish Fed Signals AI Quick Read (Bloomberg) -- Gold tumbled over 3% to the lowest in over a year after Federal Reserve officials made the case for more interest-rate hikes to tackle stubborn inflation. Bullion fell as much as 3.1% on a third day of declines after Federal Reserve governor Christopher Waller said inflation remains headed in the wrong direction, urging the central bank to ...",
+     "image": null,
+     "why": [
+      "Precious metals",
+      "Global macro driver",
+      "Sharp market move"
+     ],
+     "tags": [
+      "Gold & Silver"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 8,
+     "priority": 73,
+     "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+     "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+     "date": "2026-11-19",
+     "source": "CNBC",
+     "label": "Global",
+     "snippet": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
+     "lead": "Livestream Menu Make It select USA INTL Livestream Search quotes, news & videos Livestream Watchlist SIGN IN Create free account Markets Business Investing Tech Politics & Policy Video Watchlist Investing Club PRO Livestream Menu Federal Reserve officials expressed confidence in October that further interest rate increases will be needed to stem inflation, though they decided to hold off while gathering more information, according to ...",
+     "image": "https://image.cnbcfm.com/api/v1/image/108476200-1793214642067-gettyimages-2301908904-AFP_D4QJ6NG.jpeg?v=1793214690&w=1920&h=1080",
+     "why": [
+      "Interest-rate decision",
+      "Global macro driver",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "Global",
+      "IT & Tech"
+     ]
     }
    ]
   }
@@ -373,18 +373,19 @@
  "items": [
   {
    "desk": "Policy",
-   "score": 10,
+   "score": 12,
    "priority": 100,
-   "title": "RBI to conduct Second 3-day Variable Rate Repo (VRR) auction under LAF on November 20, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64008",
+   "title": "Reserve Bank issues Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64009",
    "date": "2026-11-20",
    "source": "RBI",
    "label": "Banking & Rates",
    "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a second Variable Rate Repo (VRR) auction on Friday, November 20, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "lead": "The Foreign Exchange Management (Export of Goods and Services) Regulations, 2015 were superseded by the Foreign Exchange Management (Export and Import of Goods and Services) Regulations, 2026, which were issued on January 13, 2026 , and became effective from October 01, 2026. The new regulations are principle based; intended to promote ease of doing business, especially for small exporters and importers; and empower Authorised Dealers ...",
    "image": null,
    "why": [
-    "Rates and liquidity",
+    "Regulator rulebook change",
+    "Rule change",
     "Regulator: RBI"
    ],
    "tags": [
@@ -395,7 +396,29 @@
   },
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
+   "priority": 100,
+   "title": "Bending Spoons buys Mailchimp for $3.68B",
+   "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+   "date": "2026-11-20",
+   "source": "TechCrunch",
+   "label": "Global · Other",
+   "snippet": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
+   "lead": "Bending Spoons buys Mailchimp for $3.68B Russell Brandom 8:16 AM PST · November 20, 2026 Bending Spoons has bought up another distressed internet company. This time, it’s the email marketing firm Mailchimp, bought for $3.68 billion from the tax-preparation giant Intuit. Intuit acquired the company in 2021 for roughly $12 billion, so it’s taking quite a loss — and, perhaps, Bending Spoons is getting quite a bargain. At the time of the ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150300479.jpg?resize=1200,800",
+   "why": [
+    "Acquisition",
+    "Very large figure in headline (about $3,680M: round or valuation)"
+   ],
+   "tags": [
+    "Acquisition"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
    "priority": 100,
    "title": "Urban Company Raises ₹2,500 Cr Via QIP, Draws Bids Worth Over ₹15,000 Cr",
    "url": "https://inc42.com/buzz/urban-company-raises-%e2%82%b92500-cr-via-qip-draws-bids-worth-over-%e2%82%b915000-cr/",
@@ -413,12 +436,12 @@
     "Funding",
     "Commerce & D2C"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
    "desk": "Immigration",
-   "score": 10,
+   "score": 11,
    "priority": 100,
    "title": "Americans Face Major Delays in Claiming Canadian Citizenship",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcFZjUlg4RllGZ2tMNk5WZzJEbHBZZWx3VHNmUnFqNTloVnhCNW9SODh2SURJdExnZk1JU0RKYXVIZEhmMFhuRXZiOU5ULXItTUFhSGhKeE4zZndMSDM1Y0pjTWJ1Nk9tb0hReWlpcDl2eEVyRDE4QXBtYmZRSUdUeDZHUGJseGdFeGVSUg?oc=5",
@@ -430,18 +453,19 @@
    "image": "https://assets.newsweek.com/wp-content/uploads/2026/11/GettyImages-544955398.jpg?w=1200&crop=1",
    "why": [
     "Affects citizenship",
-    "Announces a change"
+    "Announces a change",
+    "Major story (10 headlines that day)"
    ],
    "tags": [
     "Citizenship",
     "Canada"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 100,
    "title": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering",
    "url": "https://yourstory.com/2026/11/anthropic-raises-813-billion-from-ipo-with-valuation-of-15-trillion",
@@ -459,12 +483,12 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
    "desk": "Startups",
-   "score": 12,
+   "score": 11,
    "priority": 100,
    "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
    "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
@@ -484,54 +508,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 5,
-   "must_read": true
-  },
-  {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 100,
-   "title": "Germany Plans to Tighten Citizenship Requirements",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVT0Q0ZTNhSHFZbHM2ZUJKX0w5VmxpR25NQmo0c1FiWmsxckFOcVoxdGkzcFllMlMtcGlfVDVUUEVVVGRkQ3J3VFRhNDd3QkZnXzBtb3RPbUNGRkFFYnhxMW9uQnhOQWJGMlBFQmUzYng2RHZ5Q2tBYWZ1WDM2Z9IBgwFBVV95cUxPckl4NkVKa0ctTldiMHY3WkxPNEs3X29uVDVnV1hFYlJjeUhQNHYwMlp4NkdaSzRyLUYydlU5OGJ0TDRPQWFYLVlTSVlQbkNqU1NDR1dJYUNRZ1lZSWU1ckwxbjgwUUVvS0JhOFYyWnp0RFY4S2xpTnJDb1loTGR4ODFtQQ?oc=5",
-   "date": "2026-11-18",
-   "source": "REFORM.news",
-   "label": "Germany",
-   "snippet": "Germany’s ruling coalition of the CDU/CSU and the Social Democratic Party (SPD) intends to tighten the requirements for obtaining citizenship. According to BILD…",
-   "lead": "No-VPN link Прослушать статью Germany’s ruling coalition of the CDU/CSU and the Social Democratic Party (SPD) intends to tighten the requirements for obtaining citizenship. According to BILD , politicians from the parties are discussing a package of reforms. One proposal is to increase the minimum period of residence in Germany from five to eight years. The residency requirement could also be extended to children of foreign nationals ...",
-   "image": "https://reform.news/wp-content/uploads/2026/11/6afd97a908ee2.jpg",
-   "why": [
-    "Affects citizenship",
-    "Announces a change",
-    "Major story (11 headlines that day)"
-   ],
-   "tags": [
-    "Citizenship",
-    "Germany"
-   ],
    "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 100,
-   "title": "Cooling crude lifts bond prices, but inflation may prompt 50-bps RBI rate hike: PGIM India's Puneet Pal",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTWVldnJBQ3BiWEI1M3dTLXl5UkRDa2R6MVd3dEdzUDh6SVdxTHk1azBmdGxsRmYwX0FjNzAtcEwxQ05UVk5GMHlnbTVfWEc4c1FpTFZJUkFWYkxKWjJuTU1EM0VhRzUyLTk1TmF2ck1HTl9WanVXaThqNWN4Z1JJY2ZTakJpb041cXc2OHJVdGRlNWczRzh0OEN6ZXFoblBuNVBXeFNBa0hUUFZkLW5pWFVGX1BtMVlfWjdwZWMxYlNHTVc2ZWlfbDFMNjVZRTJWNFpvR3NHVEQwVzZJaVlveWZHSmYza3A4MmNXdTBUR3FZRGl3ay11ZTIwVUfSAYICQVVfeXFMUHJzNS00TUZCcmZxT1d5U0ZzTklhSDlYZWVWR25Vb25QTm9JWVBpUFd4d3hNMDdRcXB5ejhRVTlvbV9uRHItZ0pLY09CZmhpdlNoVjVKT1NUU3lVZ19iS0FyMDVmUktwcWY4N3QxTmhLRFZxOWpwTXFKQ2NJMEdjd2JpaVhFRVpFaU5Hb1R5VjRMdUlqa0N5NVBTOGhZVU1hODBkQXZQdmlFN2tfX0xCLVZrNFlGVXd3UUdad1lQVmpVLVRieXJYM2hCZHc3cEpwcTVWRUZNQjZvMGtvaEVPZTFXejJRU29Hc1NiNnNrWjJFSUNydVFNT3ZReHdfcHpGX3Rn?oc=5",
-   "date": "2026-11-18",
-   "source": "The Economic Times",
-   "label": "Debt & Bonds",
-   "snippet": "Falling crude oil prices and a stronger rupee have lifted Indian bond prices in November, but persistent inflation could prompt the RBI to raise interest rates by as much as 50 basis points in its next policy meeting, says PGIM India",
-   "lead": "The Indian bond market is experiencing a positive shift, with bond yields decreasing as oil prices and Treasury yields fall. The 2036 benchmark bond yield is now at 7.2393%, reflecting a minor drop. Additionally, crude oil prices have plummeted more than 20% since their October peaks, providing a temporary buffer against inflation. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share ...",
-   "image": "https://img.etimg.com/thumb/msid-135954044,width-1200,height-900,imgsize-164136,overlay-etmarkets/articleshow.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Global macro driver"
-   ],
-   "tags": [
-    "Debt & Bonds"
-   ],
-   "rank": 7,
    "must_read": false
   },
   {
@@ -555,13 +532,107 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 8,
+   "rank": 7,
    "must_read": false
   },
   {
    "desk": "Advisory",
    "score": 10,
    "priority": 91,
+   "title": "Cooling crude lifts bond prices, but inflation may prompt 50-bps RBI rate hike: PGIM India's Puneet Pal",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTWVldnJBQ3BiWEI1M3dTLXl5UkRDa2R6MVd3dEdzUDh6SVdxTHk1azBmdGxsRmYwX0FjNzAtcEwxQ05UVk5GMHlnbTVfWEc4c1FpTFZJUkFWYkxKWjJuTU1EM0VhRzUyLTk1TmF2ck1HTl9WanVXaThqNWN4Z1JJY2ZTakJpb041cXc2OHJVdGRlNWczRzh0OEN6ZXFoblBuNVBXeFNBa0hUUFZkLW5pWFVGX1BtMVlfWjdwZWMxYlNHTVc2ZWlfbDFMNjVZRTJWNFpvR3NHVEQwVzZJaVlveWZHSmYza3A4MmNXdTBUR3FZRGl3ay11ZTIwVUfSAYICQVVfeXFMUHJzNS00TUZCcmZxT1d5U0ZzTklhSDlYZWVWR25Vb25QTm9JWVBpUFd4d3hNMDdRcXB5ejhRVTlvbV9uRHItZ0pLY09CZmhpdlNoVjVKT1NUU3lVZ19iS0FyMDVmUktwcWY4N3QxTmhLRFZxOWpwTXFKQ2NJMEdjd2JpaVhFRVpFaU5Hb1R5VjRMdUlqa0N5NVBTOGhZVU1hODBkQXZQdmlFN2tfX0xCLVZrNFlGVXd3UUdad1lQVmpVLVRieXJYM2hCZHc3cEpwcTVWRUZNQjZvMGtvaEVPZTFXejJRU29Hc1NiNnNrWjJFSUNydVFNT3ZReHdfcHpGX3Rn?oc=5",
+   "date": "2026-11-18",
+   "source": "The Economic Times",
+   "label": "Debt & Bonds",
+   "snippet": "Falling crude oil prices and a stronger rupee have lifted Indian bond prices in November, but persistent inflation could prompt the RBI to raise interest rates by as much as 50 basis points in its next policy meeting, says PGIM India",
+   "lead": "The Indian bond market is experiencing a positive shift, with bond yields decreasing as oil prices and Treasury yields fall. The 2036 benchmark bond yield is now at 7.2393%, reflecting a minor drop. Additionally, crude oil prices have plummeted more than 20% since their October peaks, providing a temporary buffer against inflation. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share ...",
+   "image": "https://img.etimg.com/thumb/msid-135954044,width-1200,height-900,imgsize-164136,overlay-etmarkets/articleshow.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Global macro driver"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+   "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+   "date": "2026-11-17",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+   "lead": "Three months after introducing its product, AI cybersecurity startup Corma has raised a $125 million Series A round at a $1 billion valuation led by NEA, the company said. Corma offers AI models and agents trained for cybersecurity defense. It has now raised a total of $185 million from backers, including Sequoia Capital, Khosla Ventures, and Coatue. The startup came out of stealth in August. Interest in its product skyrocketed after a ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $1,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "AI agent startup LangChain hits $3B valuation",
+   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+   "date": "2026-11-14",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+   "lead": "Agent management startup LangChain has raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from investors, including Singapore’s GIC, DFJ Growth, IVP, and Sapphire Ventures, the company announced on Friday. That’s more than double its $1.25 billion valuation when it raised $125 million about a year ago , led by IVP. LangChain began in 2022 as a popular open source project that handled the kinds ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $3,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 82,
+   "title": "Japan Introduces Stricter Permanent Residency Requirements for Foreign Nationals",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVENCVWFPN0xRd29zMGNKQmhRYWZZMExYYWZ2UFNCTTlJOUVibWFOUmVHRzJSSlJGS1pLRGhzMTVoNk5yeGNyOTRGbS1pa0dVTG00NlhoOUw3UDdrRE5UbENzSmp2T2NSMnhsWGZ1VnlLOE03d3l2enRKOFdNNlZDV0N6QkNSaEJ0MTRWanNxNEdTNGYxaTFydGs2bzdBdTA?oc=5",
+   "date": "2026-11-20",
+   "source": "Head Topics",
+   "label": "Japan",
+   "snippet": "Japan is proposing stricter permanent residency rules for foreign nationals, requiring Japanese language proficiency at B1 level or higher and an assessment of understanding of laws, rules, and social",
+   "lead": "Japan is proposing stricter permanent residency rules for foreign nationals, requiring Japanese language proficiency at B1 level or higher and an assessment of understanding of laws, rules, and social systems. Exemptions apply to highly skilled professionals, qualifying family members, those with six years of Japanese education, children with proficient parents, and cases with individual exemptions. Support us: Japan is introducing ...",
+   "image": "https://i.headtopics.com/images/2026/11/20/mobilepunch/japan-introduces-stricter-permanent-residency-requ-japan-introduces-stricter-permanent-residency-requ-2744337C42BD91F8574BFD14AC86BAE8-16x9.webp",
+   "why": [
+    "Affects permanent residence",
+    "Announces a change"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Japan"
+   ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 9,
+   "priority": 82,
    "title": "SEBI InvIT DR framework in IFSC: structuring, compliance and documentation guide",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYnVGRW1Ca3N6Nk1PSnZFREhkZmpwMjROM2ltWE9MWFVrM21wbmZYMkZxVEZoMnV5Vncxc2hiM0gtYUF1ZDVqc0pvM0lnRUdKbVFKOVZhbGxHSGJrdHU2YlM5TVBXckoxTE1NblIzYnhLWUxQUW80NV9TNTBrTU9sa2NsalRJS3l6VVhabjRvWWIyd1hwQXEtVlNNNmhKX0JRSWN1SEc1UHhvWTF6?oc=5",
    "date": "2026-11-19",
@@ -578,13 +649,13 @@
    "tags": [
     "REITs & InvITs"
    ],
-   "rank": 9,
+   "rank": 12,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 10,
-   "priority": 91,
+   "score": 9,
+   "priority": 82,
    "title": "India’s Retail Inflation Crosses 6%: Will RBI Raise Repo Rate Again, And What Could Happen To Your EMI?",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd1FpbVBzU0czUFFpblJKSGNMa3hKY1ZQekJBM3VTa0Z6VEhlb3M4M2VhTElBa1l5VzVWMDIyalFIa1ZPTXNsMU5uMnRZNWxGQnJFTGlMUUZJWUZCZnE5T3RjcFhhU3NlOGo1eHhDSFBraVRvTWhTeTQ2aUFOa2xwSUlCU0d1RmJxVmVwSUt3dUtCVzNOdGZsREFwQmk4U2NrOWVHclppS3UxSDMzS0tYcmE3UVAtZTNtNE1mNHF1ZGw?oc=5",
    "date": "2026-11-19",
@@ -601,13 +672,13 @@
     "Regulatory",
     "FMCG & Consumption"
    ],
-   "rank": 10,
+   "rank": 13,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 10,
-   "priority": 91,
+   "score": 9,
+   "priority": 82,
    "title": "Sebi approves transfer of ICICI Securities' PMS biz to ICICI Prudential AMC",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMmlPR1ZhX3FocC10X0xXSlB2NVZXeE9FdkY3RmRlVXQ2YTh2bW03UDlUVHgzSXRXRFVQa0hwQXpESzRURGtURE1tSlI3NkZHY2ZqRnN0MUpNbWhqLTAyaHNRc1BqbWo5R0hNaHZnVDlOOGZ4Mk1uWWNELTIwbi1KbVdTQ09Eb1dwbC1BdmlNTzVhT3U0TDRzMW5BNENRQmxnODM4WjllOUlBZHJWZFM3dEhNRkI0bkJ2M2hQd095RVZUM3gzWHVkS2FxUWN6dkNZSnBpU0lXRXVwRjTSAeABQVVfeXFMTzJUQmUtSE9HcjlzMzJ6aFRxUjVRMFBwLV9LZ3pxa0JZbGhzbkt6UktTOTJkc0VUOHQ4UWhUUVJzYkJJVWlSZU1uaTBuYXYxcVBjZ0MwaTd3d3o5SEVIT2lNRDRTSnJyUVRiSUxhU3NxbGlhM1BmSnFPQ1BhOExNcUZ2eVdGQk00aUY2b0l5bDdGVWpnZVM3YXprU3BtNG1rQjA2azZ0c1VjMi11NWtVRzEzd3ptS2JGSGRpX0poemxwZTlyZ0VFX0JBZktRUzRMeHplTXFjRkVOclNJSTBvVU8?oc=5",
    "date": "2026-11-19",
@@ -624,13 +695,37 @@
    "tags": [
     "PMS"
    ],
-   "rank": 11,
+   "rank": 14,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 9,
-   "priority": 90,
+   "priority": 82,
+   "title": "Germany Plans to Tighten Citizenship Requirements",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVT0Q0ZTNhSHFZbHM2ZUJKX0w5VmxpR25NQmo0c1FiWmsxckFOcVoxdGkzcFllMlMtcGlfVDVUUEVVVGRkQ3J3VFRhNDd3QkZnXzBtb3RPbUNGRkFFYnhxMW9uQnhOQWJGMlBFQmUzYng2RHZ5Q2tBYWZ1WDM2Z9IBgwFBVV95cUxPckl4NkVKa0ctTldiMHY3WkxPNEs3X29uVDVnV1hFYlJjeUhQNHYwMlp4NkdaSzRyLUYydlU5OGJ0TDRPQWFYLVlTSVlQbkNqU1NDR1dJYUNRZ1lZSWU1ckwxbjgwUUVvS0JhOFYyWnp0RFY4S2xpTnJDb1loTGR4ODFtQQ?oc=5",
+   "date": "2026-11-18",
+   "source": "REFORM.news",
+   "label": "Germany",
+   "snippet": "Germany’s ruling coalition of the CDU/CSU and the Social Democratic Party (SPD) intends to tighten the requirements for obtaining citizenship. According to BILD…",
+   "lead": "No-VPN link Прослушать статью Germany’s ruling coalition of the CDU/CSU and the Social Democratic Party (SPD) intends to tighten the requirements for obtaining citizenship. According to BILD , politicians from the parties are discussing a package of reforms. One proposal is to increase the minimum period of residence in Germany from five to eight years. The residency requirement could also be extended to children of foreign nationals ...",
+   "image": "https://reform.news/wp-content/uploads/2026/11/6afd97a908ee2.jpg",
+   "why": [
+    "Affects citizenship",
+    "Announces a change",
+    "Major story (11 headlines that day)"
+   ],
+   "tags": [
+    "Citizenship",
+    "Germany"
+   ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 82,
    "title": "New Zealand student visa data: Only 64% of Indian applications approved in 2026; what applicants should k",
    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPOGZVcXNOTm1WdWFnVjVZSVY5OTdGV1otWWdiWE1IbmFqMGVrNTZCcTVHT2RsbFQxWFhzZWlDNGpudXNUTFNkeFdNZ3ppejFYUG9lTXBxcG9hWVo2TXBpZElmdGI5cDRSaXd4SFplN3NYS091UHRQVGxpenFxT3YwaFB0empzTExpRHZja25sTWhHZC1pNTJJb3JUYlE2ZkYxc3hMekMyWGdSdE9EdndaVGEzUzJnaVZMdHFIaURWaEpuZi1UUGpLa0pDUmM0cDNvUzA4R1Bqb2JPTjhpblpRWDkzYjFYUnVJQkoza2FScV9VdVZIVHdGVXJZZXA1U3N1ZmlFR2t3TUNjREgyVnZjVGFGX09Wa3Y5RGfSAZ8CQVVfeXFMTlhMdXlHdzY1SmZhVnJ3ckJfdDBQWVNQLUtQT1M1TUFkc0dGcTkxZmp6SldNMTRuaDRXYU5TQzFta2Zjak5SRHd6bHExXy1RcXBMM01PZElVZ2tYal9FMVBDZVlZWnpVXzBaSHBVTUpHV3YwY0d6aEpBbEtLbktnVDlsSUlRNUkxR01uWlVQUWtYN2Rtb3M4RlJJS2tTVEJycmJ4NzVNYmxpYVVJVmpGS2xBVTBRX2J1TFJhWGg2dWNRVjZLYkZMTnpna3VBdl9jSzU3cHFBdmttR3BPZDJaT2llN1NhcTlPU0pSWlBRTURRQ1dXYnJqWlk4NG00MjVjeFJGV0Y0NTFVUGNOUVEteU5VcnhPSFNwYWM4ZzZPcHc?oc=5",
    "date": "2026-11-16",
@@ -648,13 +743,13 @@
     "Student / Graduate",
     "New Zealand"
    ],
-   "rank": 12,
+   "rank": 16,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 9,
-   "priority": 90,
+   "priority": 82,
    "title": "Australia Announces Date for Citizenship Application Fee Increase Affecting Foreigners",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVnEyczdSX3ZJYUZWNWdoQV9jdGxLaHlvYWdES1E3cjE4UkhUVTVGLUVCVHNvSHJQRzd1R3hCWEZVSEVBZWxPejV0WG5VWm8xX0RXV0E2S3lkMEI1U21vRlFDQ0R5aGVFSldDQnVOUDBkUi02UTVRZDRLZ1BwcjUwd2d3eUptcTRmQkdXQXJmLURDaWN1djhqYXdOcWk2VTRLcHlWMDhCNmE0ZFFzZm5tOTd0OWFhZDFscmxJ?oc=5",
    "date": "2026-11-16",
@@ -672,105 +767,35 @@
     "Citizenship",
     "Australia"
    ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "24 VCs commit Rs 1,050 cr to Karnataka deeptech startups at Bengaluru Tech Summit",
-   "url": "https://economictimes.indiatimes.com/tech/technology/24-vcs-commit-rs-1050-cr-to-karnataka-deeptech-startups-at-bengaluru-tech-summit/articleshow/135996753.cms",
-   "date": "2026-11-19",
-   "source": "ET Startups",
-   "label": "India · AI & Deeptech",
-   "snippet": "The investment commitments, involving 24 venture capital firms, were announced during the flagship startup event of the Bengaluru Tech Summit, organised by the Karnataka government. The commitments mark a sharp increase from the Rs 400 crore disbursed for AI and deeptech startups at last year's conclave.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-13198,resizemode-75,msid-135996753/tech/technology/24-vcs-commit-rs-1050-cr-to-karnataka-deeptech-startups-at-bengaluru-tech-summit.jpg",
-   "why": [
-    "Funding",
-    "Large deal (about $111M)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 14,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Bengaluru leads India in AI startup funding: Innovation Report 2026",
-   "url": "https://yourstory.com/2026/11/bengaluru-leads-india-in-ai-startup-funding-innovation-report-2026",
-   "date": "2026-11-18",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "$85 billion raised, a growing AI ecosystem and a strong deep-tech pipeline. The Bengaluru Innovation Report 2026 maps the city's startup growth as Karnataka looks to spread its tech ambitions beyond the capital.",
-   "lead": "Bengaluru leads India in AI startup funding: Innovation Report 2026 $85 billion raised, a growing AI ecosystem and a strong deep-tech pipeline. The Bengaluru Innovation Report 2026 maps the city's startup growth as Karnataka looks to spread its tech ambitions beyond the capital. Aasma Khan 482 Stories Wednesday November 18, 2026 , 4 min Read Bengaluru's position as India's technology hub is increasingly being shaped by artificial ...",
-   "image": "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/Untitleddesign50-1795004620644.jpg",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $85,000M: round or valuation)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Anthropic IPO fever hits crypto: Binance launches $500 million tokenised share campaign",
-   "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-ipo-fever-hits-crypto-binance-launches-500-million-tokenised-share-campaign/articleshow/135964874.cms",
-   "date": "2026-11-18",
-   "source": "ET Startups",
-   "label": "Global · Fintech",
-   "snippet": "Binance Wallet has launched a campaign in collaboration with xStocks, allowing eligible users to use USDC, a digital currency designed to maintain a value of $1, to subscribe to tokens linked to Anthropic. The campaign has a limit of $500 million and runs for eight hours on November 18, Binance ...",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-98694,resizemode-75,msid-135964874/tech/technology/anthropic-ipo-fever-hits-crypto-binance-launches-500-million-tokenised-share-campaign.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $500M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Fintech"
-   ],
-   "rank": 16,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 8,
-   "priority": 80,
-   "title": "Japan's fast track to permanent residence: who qualifies in under 10 years",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZWlLSEpZWnk1MzdNdmloMWI4RTFQYnNILWFVdmktdFdJS0I0NzRLSkY4WHV4dFY0UzF5Q2NGSFhTeWNfVUZ4b3E2NTk1VnpYYko5V05DU3E3dF96S0Rha3NpbWRkZ1ExSWRnLVU0ODJzclQwelNPYlR6RDRLTG56ZmNsdXFnWEZfNEJ4Q0hGOA?oc=5",
-   "date": "2026-11-19",
-   "source": "3News",
-   "label": "Japan",
-   "snippet": "Japan normally demands 10 years' residence for permanent residence. Its immigration guidelines list nine groups that can apply sooner, some after one year.",
-   "lead": "Spouses, refugees and highly skilled professionals can all apply early — some after a single year in Japan. The rulebook is the Immigration Services Agency's Guidelines for Permission for Permanent Residence, in the edition dated 1 October 2026. That edition governs applications lodged from 1 April 2027, the same month Japan acquires fresh powers to cancel permanent residency over wilfully unpaid tax . Spouses of Japanese nationals, ...",
-   "image": "https://media.3news.com/japan-jfind-kazakhstan-golden-visa-saudi-1200x630.jpg",
-   "why": [
-    "Affects permanent residence",
-    "Announces a change"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Japan"
-   ],
    "rank": 17,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 7,
-   "priority": 70,
+   "score": 9,
+   "priority": 75,
+   "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on November 23, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64016",
+   "date": "2026-11-20",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Monday, November 23, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "image": null,
+   "why": [
+    "Rates and liquidity",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 6,
+   "priority": 50,
    "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on November 20, 2026",
    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63999",
    "date": "2026-11-19",
@@ -786,13 +811,13 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 7,
-   "priority": 70,
+   "score": 6,
+   "priority": 50,
    "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63994",
    "date": "2026-11-18",
@@ -808,34 +833,13 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 5,
-   "priority": 50,
-   "title": "Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335785",
-   "date": "2026-11-13",
-   "source": "PIB",
-   "label": "Banking & Rates",
-   "snippet": "The development of a systematic framework to measure the contribution of knowledge and knowledge pro",
-   "lead": "Ministry of Statistics & Programme Implementation Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems Posted On: 13 NOV 2026 2:40PM by PIB Delhi The development of a systematic framework to measure the contribution of knowledge and knowledge products to the Indian economy assumes significance in the context of the growing role of knowledge in driving economic activity, productivity and value ...",
-   "image": null,
-   "why": [
-    "Rates and liquidity"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
    "rank": 20,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 4,
-   "priority": 40,
+   "score": 3,
+   "priority": 25,
    "title": "Union Ministry of Health Proposes Incorporation of Good Storage and Distribution Practices into Drugs Rules, 1945",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338316",
    "date": "2026-11-19",
@@ -855,8 +859,8 @@
   },
   {
    "desk": "Policy",
-   "score": 4,
-   "priority": 40,
+   "score": 3,
+   "priority": 25,
    "title": "Union Health Ministry Proposes Amendment to Drugs Rules, 1945 to Provide Regulatory Flexibility for Medicinal Gases, Empty Gelatin Capsules and Disinfectant Fluids",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338313",
    "date": "2026-11-19",
@@ -876,8 +880,8 @@
   },
   {
    "desk": "Policy",
-   "score": 4,
-   "priority": 40,
+   "score": 3,
+   "priority": 25,
    "title": "Union Health Ministry Proposes Amendment to New Drugs and Clinical Trials Rules, 2019 to Bring Antimicrobials under Central Regulatory Oversight",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338243",
    "date": "2026-11-19",
