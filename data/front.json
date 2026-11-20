@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-20",
- "built": "2026-11-20 09:52 IST",
+ "built": "2026-11-20 12:30 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25527.0,
-   "change_pct": 0.05,
-   "asof": "20 Nov 09:52 IST"
+   "value": 25702.0,
+   "change_pct": 0.74,
+   "asof": "20 Nov 12:30 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 82844.0,
-   "change_pct": -0.21,
-   "asof": "20 Nov 09:37 IST"
+   "value": 83499.0,
+   "change_pct": 0.57,
+   "asof": "20 Nov 12:15 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 93.14,
-   "change_pct": -0.35,
-   "asof": "20 Nov 09:52 IST"
+   "value": 92.97,
+   "change_pct": -0.53,
+   "asof": "20 Nov 12:30 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 90.04,
-   "change_pct": -2.11,
-   "asof": "20 Nov 09:39 IST"
+   "value": 89.88,
+   "change_pct": -2.28,
+   "asof": "20 Nov 12:20 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3545.0,
-   "change_pct": -3.81,
-   "asof": "20 Nov 09:42 IST"
+   "value": 3558.0,
+   "change_pct": -3.46,
+   "asof": "20 Nov 12:20 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -162,8 +162,28 @@
   },
   "Startups": {
    "total": 1500,
-   "new_today": 2,
+   "new_today": 6,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 83,
+     "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+     "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+     "date": "2026-11-18",
+     "source": "TechCrunch",
+     "label": "Global · Other",
+     "snippet": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+     "lead": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt Dominic-Madori Davis Marina Temkin 5:44 PM PST · November 17, 2026 Nvidia’s equity in private companies continues to grow: it revealed its stakes are now worth $65.5 billion on Tuesday , up from the $22 billion reported in January. The increase includes both new investments and significant markups of existing portfolio companies. The company invested ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150167239.jpg?resize=1200,771",
+     "why": [
+      "IPO & Listing",
+      "Very large figure in headline (about $65,000M: round or valuation)"
+     ],
+     "tags": [
+      "IPO & Listing"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -228,33 +248,12 @@
       "IPO & Listing",
       "Fintech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 75,
-     "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-     "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-     "date": "2026-11-19",
-     "source": "TechCrunch",
-     "label": "India · Commerce & D2C",
-     "snippet": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-     "lead": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories Kate Park 9:00 AM PST · November 19, 2026 Everful , a San Francisco- and Singapore-based startup that connects smaller retailers and brands with Chinese factories and manages the process from order to delivery, has raised $48.5 million in Series A funding. The round was led by Vertex Ventures Southeast Asia & India and January Capital, with ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/11/Everful-founders.jpg?resize=1200,800",
-     "why": [
-      "Funding",
-      "Sizeable deal (about $48M)"
-     ],
-     "tags": [
-      "Funding",
-      "Commerce & D2C"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 10,
+   "new_today": 13,
    "items": [
     {
      "desk": "Immigration",
@@ -373,6 +372,52 @@
  },
  "items": [
   {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 100,
+   "title": "Urban Company Raises ₹2,500 Cr Via QIP, Draws Bids Worth Over ₹15,000 Cr",
+   "url": "https://inc42.com/buzz/urban-company-raises-%e2%82%b92500-cr-via-qip-draws-bids-worth-over-%e2%82%b915000-cr/",
+   "date": "2026-11-20",
+   "source": "Inc42",
+   "label": "India · Commerce & D2C",
+   "snippet": "Urban Company has raised ₹2,500 Cr through a QIP, issue sees over 6X demand from domestic and global institutional investors",
+   "lead": "Urban Company has raised ₹2,500 Cr through a QIP, attracting bids worth over ₹15,000 Cr from more than 60 domestic and global institutional investors. The company plans to deploy ₹600 Cr towards InstaHelp’s service professional ecosystem, alongside investments in technology, marketing, and its Native products business. Shares were allocated at ₹156 apiece, a 3.1% discount to the floor price of ₹161.03, with mutual funds accounting for ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/Urban-company-social-1.jpg",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $1,579M: round or valuation)"
+   ],
+   "tags": [
+    "Funding",
+    "Commerce & D2C"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 100,
+   "title": "Americans Face Major Delays in Claiming Canadian Citizenship",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcFZjUlg4RllGZ2tMNk5WZzJEbHBZZWx3VHNmUnFqNTloVnhCNW9SODh2SURJdExnZk1JU0RKYXVIZEhmMFhuRXZiOU5ULXItTUFhSGhKeE4zZndMSDM1Y0pjTWJ1Nk9tb0hReWlpcDl2eEVyRDE4QXBtYmZRSUdUeDZHUGJseGdFeGVSUg?oc=5",
+   "date": "2026-11-20",
+   "source": "Newsweek",
+   "label": "Canada",
+   "snippet": "Americans claiming Canadian citizenship face waits of nearly three years as a record backlog overwhelms immigration authorities.",
+   "lead": "0 Share Newsweek is a Trust Project member See more of our trusted coverage when you search. Prefer Newsweek on Google to see more of our trusted coverage when you search. Americans seeking Canadian citizenship through their family ancestry face waits of almost three years as a record backlog overwhelms immigration authorities. Processing times for certificates proving Canadian citizenship have soared from five months in May 2025 to 35 ...",
+   "image": "https://assets.newsweek.com/wp-content/uploads/2026/11/GettyImages-544955398.jpg?w=1200&crop=1",
+   "why": [
+    "Affects citizenship",
+    "Announces a change"
+   ],
+   "tags": [
+    "Citizenship",
+    "Canada"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
    "desk": "Policy",
    "score": 9,
    "priority": 100,
@@ -391,7 +436,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 1,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -414,7 +459,7 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 2,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -439,7 +484,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 3,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -463,8 +508,8 @@
     "Citizenship",
     "Germany"
    ],
-   "rank": 4,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -486,8 +531,8 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 7,
+   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -510,31 +555,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 100,
-   "title": "Canada announces plan to provide permanent residence to 100,000 workers and families | World News",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdXNDS1VNMWx4T3BzOExhbjBMRFhBMnU3ZEpSU0daM1lHTHRoNlk4OFZ0TnFRc2FlX3NnOG5yZmc2cWh5ZGkwVk1FUFRkQm5IcnZpVGlYZVl3c1J6WlliM2VvYVZ4VkhOaldhRERVQXZYQmh2bHc2aUNXOGcya2h1T1RuU3c3WjZTX2xqQzZCUVRrNlhGOHlNNGNrcUNBaGI0YnpnSEladktzV2RnSDh5bzJIRjUtZjFXcHhhbm8zRTZjUUhoOTVmdUhTVmZhUDdWbkhVRzd0VS1rc0M1Q2Y2UNIB5gFBVV95cUxOTmhIeTFnS0tQY0FRMXhSdWwzTDN4Wl92bjlUSWdwYlRYaW5tYXVfOHAxX0dOOVRtNGlFdW5GQmprY0IwU3AzNEtZSEpLWkEwLWZ0OW1MUTgteU40UHBXYWwwcEEtOVVqZWRROF9fbGlZY25KcEhQeENMbk1mZzZfZ0QzdEM4ejR0REtneXllMVRUUTRBY0F6eWxRemZ1QW1qXzRMZTFpYjc5QWRldzBlSjM2djRjVFgxMjZPSnltZkx3dGdxdGhzaXRNQWJua0p1ZXQzamNBUy1sY1JhdlRVN25JeWFHZw?oc=5",
-   "date": "2026-11-13",
-   "source": "Hindustan Times",
-   "label": "Canada",
-   "snippet": "Canada to give provinces additional PNP allocations to help transition up to 100,000 established workers and their families to PR in 2027.  | World News",
-   "lead": "Canada will offer provinces and territories additional immigration nomination allocations to transition up to 100,000 workers and their families to permanent residence in 2027. Canada plans permanent residence for 100,000 workers and family members in 2027. (Unsplash) Immigration Minister Lena Metlege Diab announced details of the time-limited measure on November 12, saying provincial and territorial governments would be given ...",
-   "image": null,
-   "why": [
-    "Affects permanent residence",
-    "Announces a change",
-    "Major story (10 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Canada"
-   ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -557,7 +578,7 @@
    "tags": [
     "REITs & InvITs"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -580,7 +601,7 @@
     "Regulatory",
     "FMCG & Consumption"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -603,7 +624,7 @@
    "tags": [
     "PMS"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -627,7 +648,7 @@
     "Student / Graduate",
     "New Zealand"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -651,7 +672,7 @@
     "Citizenship",
     "Australia"
    ],
-   "rank": 12,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -674,7 +695,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 13,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -697,7 +718,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -719,28 +740,6 @@
    "tags": [
     "IPO & Listing",
     "Fintech"
-   ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 83,
-   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-   "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-   "date": "2026-11-18",
-   "source": "TechCrunch",
-   "label": "Global · Other",
-   "snippet": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-   "lead": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt Dominic-Madori Davis Marina Temkin 5:44 PM PST · November 17, 2026 Nvidia’s equity in private companies continues to grow: it revealed its stakes are now worth $65.5 billion on Tuesday , up from the $22 billion reported in January. The increase includes both new investments and significant markups of existing portfolio companies. The company invested ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150167239.jpg?resize=1200,771",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $65,000M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing"
    ],
    "rank": 16,
    "must_read": false
