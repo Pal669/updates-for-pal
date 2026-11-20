@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-20",
- "built": "2026-11-20 12:30 IST",
+ "built": "2026-11-20 13:14 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25702.0,
-   "change_pct": 0.74,
-   "asof": "20 Nov 12:30 IST"
+   "value": 25716.0,
+   "change_pct": 0.79,
+   "asof": "20 Nov 13:14 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 83499.0,
-   "change_pct": 0.57,
-   "asof": "20 Nov 12:15 IST"
+   "value": 83676.0,
+   "change_pct": 0.79,
+   "asof": "20 Nov 12:59 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 92.97,
-   "change_pct": -0.53,
-   "asof": "20 Nov 12:30 IST"
+   "value": 92.87,
+   "change_pct": -0.64,
+   "asof": "20 Nov 13:14 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 89.88,
-   "change_pct": -2.28,
-   "asof": "20 Nov 12:20 IST"
+   "value": 89.83,
+   "change_pct": -2.34,
+   "asof": "20 Nov 13:04 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3558.0,
-   "change_pct": -3.46,
-   "asof": "20 Nov 12:20 IST"
+   "value": 3546.0,
+   "change_pct": -3.79,
+   "asof": "20 Nov 13:04 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,13 +79,13 @@
  },
  "desks": {
   "Policy": {
-   "total": 368,
-   "new_today": 0,
+   "total": 369,
+   "new_today": 1,
    "items": [
     {
      "desk": "Policy",
      "score": 3,
-     "priority": 33,
+     "priority": 30,
      "title": "Ministry of Rural Development Issues Ombudsperson Guidelines to Strengthen Transparency and Accountability under VB-G RAM G",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2337720",
      "date": "2026-11-18",
@@ -104,7 +104,7 @@
     {
      "desk": "Policy",
      "score": 2,
-     "priority": 22,
+     "priority": 20,
      "title": "Union Ministry of Health Proposes Separate Licensing Framework for Wholesale of Bulk Drugs",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338242",
      "date": "2026-11-19",
@@ -123,7 +123,7 @@
     {
      "desk": "Policy",
      "score": 2,
-     "priority": 22,
+     "priority": 20,
      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Nagar Sahakari Bank Ltd., Etawah – Extension of Period",
      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63988",
      "date": "2026-11-17",
@@ -142,7 +142,7 @@
     {
      "desk": "Policy",
      "score": 2,
-     "priority": 22,
+     "priority": 20,
      "title": "India’s Horticulture Production Set to Reach Record 386.9 Million Tonnes in 2025-26: Shri Shivraj Singh Chouhan Releases Third Advance Estimates",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2337301",
      "date": "2026-11-17",
@@ -162,7 +162,7 @@
   },
   "Startups": {
    "total": 1500,
-   "new_today": 6,
+   "new_today": 7,
    "items": [
     {
      "desk": "Startups",
@@ -253,7 +253,7 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 13,
+   "new_today": 14,
    "items": [
     {
      "desk": "Immigration",
@@ -372,6 +372,28 @@
  },
  "items": [
   {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 100,
+   "title": "RBI to conduct Second 3-day Variable Rate Repo (VRR) auction under LAF on November 20, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64008",
+   "date": "2026-11-20",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a second Variable Rate Repo (VRR) auction on Friday, November 20, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "image": null,
+   "why": [
+    "Rates and liquidity",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
    "desk": "Startups",
    "score": 12,
    "priority": 100,
@@ -391,7 +413,7 @@
     "Funding",
     "Commerce & D2C"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -413,28 +435,6 @@
    "tags": [
     "Citizenship",
     "Canada"
-   ],
-   "rank": 2,
-   "must_read": true
-  },
-  {
-   "desk": "Policy",
-   "score": 9,
-   "priority": 100,
-   "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on November 20, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64003",
-   "date": "2026-11-19",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Friday, November 20, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022.",
-   "image": null,
-   "why": [
-    "Rates and liquidity",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
    ],
    "rank": 3,
    "must_read": true
@@ -770,7 +770,7 @@
   {
    "desk": "Policy",
    "score": 7,
-   "priority": 78,
+   "priority": 70,
    "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on November 20, 2026",
    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63999",
    "date": "2026-11-19",
@@ -792,7 +792,7 @@
   {
    "desk": "Policy",
    "score": 7,
-   "priority": 78,
+   "priority": 70,
    "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63994",
    "date": "2026-11-18",
@@ -814,7 +814,7 @@
   {
    "desk": "Policy",
    "score": 5,
-   "priority": 56,
+   "priority": 50,
    "title": "Inviting feedback and suggestions on the Report submitted by Committee on Knowledge Systems",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2335785",
    "date": "2026-11-13",
@@ -835,7 +835,7 @@
   {
    "desk": "Policy",
    "score": 4,
-   "priority": 44,
+   "priority": 40,
    "title": "Union Ministry of Health Proposes Incorporation of Good Storage and Distribution Practices into Drugs Rules, 1945",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338316",
    "date": "2026-11-19",
@@ -856,7 +856,7 @@
   {
    "desk": "Policy",
    "score": 4,
-   "priority": 44,
+   "priority": 40,
    "title": "Union Health Ministry Proposes Amendment to Drugs Rules, 1945 to Provide Regulatory Flexibility for Medicinal Gases, Empty Gelatin Capsules and Disinfectant Fluids",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338313",
    "date": "2026-11-19",
@@ -877,7 +877,7 @@
   {
    "desk": "Policy",
    "score": 4,
-   "priority": 44,
+   "priority": 40,
    "title": "Union Health Ministry Proposes Amendment to New Drugs and Clinical Trials Rules, 2019 to Bring Antimicrobials under Central Regulatory Oversight",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338243",
    "date": "2026-11-19",
