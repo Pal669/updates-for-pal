@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-21",
- "built": "2026-11-21 04:20 IST",
+ "built": "2026-11-21 09:50 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,23 +12,23 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25514.0,
-   "change_pct": 1.14,
-   "asof": "20 Nov 15:31 IST"
+   "value": 25801.0,
+   "change_pct": 1.12,
+   "asof": "20 Nov 15:30 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 83022.0,
-   "change_pct": 1.21,
+   "value": 83920.0,
+   "change_pct": 1.08,
    "asof": "20 Nov 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 92.66,
-   "change_pct": -0.86,
-   "asof": "21 Nov 04:06 IST"
+   "value": 92.67,
+   "change_pct": -0.67,
+   "asof": "21 Nov 09:00 IST"
   },
   {
    "name": "Brent (USD)",
@@ -143,8 +143,51 @@
   },
   "Startups": {
    "total": 1500,
-   "new_today": 1,
+   "new_today": 8,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 91,
+     "title": "AI agent startup LangChain hits $3B valuation",
+     "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+     "date": "2026-11-14",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+     "lead": "Agent management startup LangChain has raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from investors, including Singapore’s GIC, DFJ Growth, IVP, and Sapphire Ventures, the company announced on Friday. That’s more than double its $1.25 billion valuation when it raised $125 million about a year ago , led by IVP. LangChain began in 2022 as a popular open source project that handled the kinds ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $3,000M: round or valuation)",
+      "Valuation, listing or profitability signal"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 82,
+     "title": "EV Startup River Mobility’s FY26 Revenue Jumps 4.2X To ₹432 Cr",
+     "url": "https://inc42.com/buzz/ev-startup-river-mobilitys-fy26-revenue-jumps-4-2x-to-%e2%82%b9432-cr/",
+     "date": "2026-11-21",
+     "source": "Inc42",
+     "label": "India · Mobility & EV",
+     "snippet": "River Mobility recorded a 5X year-on-year jump in its escooter sales to 24,492 units in FY26, with a 46% increase in net loss to ₹285.7 Cr",
+     "lead": "River Mobility’s operating revenue rose 4.2X to ₹432.3 Cr in FY26, while its net loss widened 46% to ₹285.7 Cr. Revenue growth outpaced the increase in expenses, but the electric two-wheeler maker’s net cash outflow from operating activities increased to ₹235.5 Cr. Total expenses climbed 140.1% to ₹719.1 Cr, led by raw material and component costs of ₹419.5 Cr, while employee benefit expenses reached ₹110.9 Cr.",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/File-8.jpg",
+     "why": [
+      "Financials",
+      "Sizeable deal (about $45M)"
+     ],
+     "tags": [
+      "Financials",
+      "Mobility & EV"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 9,
@@ -186,54 +229,12 @@
       "Funding",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 82,
-     "title": "24 VCs commit Rs 1,050 cr to Karnataka deeptech startups at Bengaluru Tech Summit",
-     "url": "https://economictimes.indiatimes.com/tech/technology/24-vcs-commit-rs-1050-cr-to-karnataka-deeptech-startups-at-bengaluru-tech-summit/articleshow/135996753.cms",
-     "date": "2026-11-19",
-     "source": "ET Startups",
-     "label": "India · AI & Deeptech",
-     "snippet": "The investment commitments, involving 24 venture capital firms, were announced during the flagship startup event of the Bengaluru Tech Summit, organised by the Karnataka government. The commitments mark a sharp increase from the Rs 400 crore disbursed for AI and deeptech startups at last year's conclave.",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-13198,resizemode-75,msid-135996753/tech/technology/24-vcs-commit-rs-1050-cr-to-karnataka-deeptech-startups-at-bengaluru-tech-summit.jpg",
-     "why": [
-      "Funding",
-      "Large deal (about $111M)"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 82,
-     "title": "Bengaluru leads India in AI startup funding: Innovation Report 2026",
-     "url": "https://yourstory.com/2026/11/bengaluru-leads-india-in-ai-startup-funding-innovation-report-2026",
-     "date": "2026-11-18",
-     "source": "YourStory",
-     "label": "India · AI & Deeptech",
-     "snippet": "$85 billion raised, a growing AI ecosystem and a strong deep-tech pipeline. The Bengaluru Innovation Report 2026 maps the city's startup growth as Karnataka looks to spread its tech ambitions beyond the capital.",
-     "lead": "Bengaluru leads India in AI startup funding: Innovation Report 2026 $85 billion raised, a growing AI ecosystem and a strong deep-tech pipeline. The Bengaluru Innovation Report 2026 maps the city's startup growth as Karnataka looks to spread its tech ambitions beyond the capital. Aasma Khan 482 Stories Wednesday November 18, 2026 , 4 min Read Bengaluru's position as India's technology hub is increasingly being shaped by artificial ...",
-     "image": "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/Untitleddesign50-1795004620644.jpg",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $85,000M: round or valuation)"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 4,
+   "new_today": 7,
    "items": [
     {
      "desk": "Immigration",
@@ -367,6 +368,28 @@
  },
  "items": [
   {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 100,
+   "title": "From Dreamteam To Boba Bhai — Indian Startups Raised Over $291 Mn This Week",
+   "url": "https://inc42.com/buzz/from-dreamteam-to-boba-bhai-indian-startups-raised-over-291-mn-this-week/",
+   "date": "2026-11-21",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Indian startups raised $291.3 Mn between November 16 and November 20, up 1,056% from $25.2 Mn in the previous week.",
+   "lead": "Indian startups cumulatively raised $291.3 Mn across 22 deals between November 16 and November 20, up 1,056% from $25.2 Mn in the previous week Ecommerce emerged as the second-most funded sector as three startups raised a combined $66.8 Mn Accel was the most active investor this week, participating in the funding rounds of Dreamteam, Humyn Labs, August AI, among others",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/IMG_7682.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $291M)"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
    "desk": "Policy",
    "score": 12,
    "priority": 100,
@@ -386,7 +409,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -408,7 +431,7 @@
    "tags": [
     "Acquisition"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -431,7 +454,7 @@
     "Funding",
     "Commerce & D2C"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -449,13 +472,13 @@
    "why": [
     "Affects citizenship",
     "Announces a change",
-    "Major story (10 headlines that day)"
+    "Major story (11 headlines that day)"
    ],
    "tags": [
     "Citizenship",
     "Canada"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -477,8 +500,8 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Startups",
@@ -500,7 +523,7 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -525,7 +548,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -548,7 +571,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -572,7 +595,7 @@
     "Regulatory",
     "Banks & Financials"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -596,7 +619,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -614,30 +637,6 @@
    "why": [
     "Funding",
     "Very large figure in headline (about $1,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "AI agent startup LangChain hits $3B valuation",
-   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-   "date": "2026-11-14",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-   "lead": "Agent management startup LangChain has raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from investors, including Singapore’s GIC, DFJ Growth, IVP, and Sapphire Ventures, the company announced on Friday. That’s more than double its $1.25 billion valuation when it raised $125 million about a year ago , led by IVP. LangChain began in 2022 as a popular open source project that handled the kinds ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $3,000M: round or valuation)",
     "Valuation, listing or profitability signal"
    ],
    "tags": [
@@ -708,7 +707,7 @@
    "why": [
     "Affects citizenship",
     "Announces a change",
-    "Major story (11 headlines that day)"
+    "Major story (12 headlines that day)"
    ],
    "tags": [
     "Citizenship",
