@@ -1,6 +1,6 @@
 {
- "edition": "2026-11-21",
- "built": "2026-11-21 23:20 IST",
+ "edition": "2026-11-22",
+ "built": "2026-11-22 03:24 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -54,38 +54,38 @@
  ],
  "features": {
   "startup_file": {
-   "company": "Angle Health",
-   "tagline": "US health-insurance startup for small businesses (YC winter 2020)",
-   "what": "AI-powered platform that helps small businesses choose and manage 'level-funded' health plans, integrating with payroll and HR systems. Level-funded sits between fully insured (carrier bears all risk, higher and predictable cost) and self-funded (employer bears cost, unpredictable): the business makes predictable payments, is insured against unusually high costs, and may get a share of the surplus back if claims stay low.",
+   "company": "Innov8 Workspaces",
+   "tagline": "Premium flexible office space operator",
+   "what": "Runs premium flexible and managed workspace centres across India. It had 58 operating centres at the end of FY26 and 72 by July 2026.",
    "how": [
-    "The article does not say how Angle itself earns its revenue.",
-    "It says the startup serves 5,000+ businesses and is profitable."
+    "Rent from customers who use its centres: Rs 173.6 Cr of Rs 201.3 Cr operating revenue in FY26, about 86%.",
+    "Other operational income (ancillary services): Rs 27.6 Cr, up from Rs 5.4 Cr."
    ],
-   "watch": "A profitable, non-'AI agent' company raising a large Series C is unusual per TechCrunch. The tender offer is liquidity for staff, not money into the company.",
-   "sector": "Fintech",
-   "region": "Global",
-   "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/"
+   "watch": "Profit quality: other income was Rs 38.9 Cr, including a Rs 36.7 Cr gain on terminating lease contracts. Without that gain the profit jump would look much smaller. The article gives growth drivers as more centres, higher occupancy and better pricing.",
+   "sector": "Real Estate & Workspaces",
+   "region": "India",
+   "url": "https://inc42.com/buzz/innov8s-fy26-profit-zooms-multifold-to-%e2%82%b913-7-cr-revenue-crosses-%e2%82%b9200-cr-mark/"
   },
   "country": {
-   "id": "netherlands",
-   "name": "Netherlands",
-   "trend": "Tightening proposed (citizenship 5 to 10 years)",
-   "pr": "Permanent residence or EU long-term residence after 5 years of continuous lawful residence.",
-   "citizenship": "Today: 5 years and A2 Dutch. The cabinet sent a bill to extend this to 10 years for consultation on 26 September 2025; it was aimed at parliament in Q3 2026. As of 14 September 2026 it is not law. The Netherlands generally requires giving up other citizenship (general knowledge), which India requires anyway.",
-   "pro": "5-year PR clock.",
-   "con": "Real risk citizenship doubles to 10 years; timing and transition rules unknown.",
-   "watch": "Whether the 10-year naturalisation bill reaches parliament"
+   "id": "switzerland",
+   "name": "Switzerland",
+   "trend": "Stable (population-cap vote rejected 14 June 2026)",
+   "pr": "C permit after 10 years for most non-EU nationals. The 5-year fast track applies only to certain nationalities (reported: US, Canada, UK), not India.",
+   "citizenship": "Needs the C permit or eligibility for it, typically 10 years of residence, plus canton and municipality conditions (general knowledge). Switzerland allows dual citizenship (general knowledge).",
+   "pro": "Highest pay levels and a global wealth-management centre (general knowledge).",
+   "con": "Quota system: only about 8,500 third-country places a year across the whole country.",
+   "watch": "Annual quota announcements for 2027"
   }
  },
  "desks": {
   "Policy": {
    "total": 372,
-   "new_today": 1,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
-     "score": 3,
-     "priority": 25,
+     "score": 2,
+     "priority": 18,
      "title": "Union Health Ministry Proposes Amendment to New Drugs and Clinical Trials Rules, 2019 to Bring Antimicrobials under Central Regulatory Oversight",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338243",
      "date": "2026-11-19",
@@ -104,7 +104,7 @@
     {
      "desk": "Policy",
      "score": 2,
-     "priority": 17,
+     "priority": 18,
      "title": "Ministry of Rural Development Issues Ombudsperson Guidelines to Strengthen Transparency and Accountability under VB-G RAM G",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2337720",
      "date": "2026-11-18",
@@ -123,7 +123,7 @@
     {
      "desk": "Policy",
      "score": 2,
-     "priority": 17,
+     "priority": 18,
      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Nagar Sahakari Bank Ltd., Etawah – Extension of Period",
      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63988",
      "date": "2026-11-17",
@@ -142,7 +142,7 @@
     {
      "desk": "Policy",
      "score": 2,
-     "priority": 17,
+     "priority": 18,
      "title": "India’s Horticulture Production Set to Reach Record 386.9 Million Tonnes in 2025-26: Shri Shivraj Singh Chouhan Releases Third Advance Estimates",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2337301",
      "date": "2026-11-17",
@@ -162,24 +162,23 @@
   },
   "Startups": {
    "total": 1500,
-   "new_today": 23,
+   "new_today": 1,
    "items": [
     {
      "desk": "Startups",
-     "score": 10,
-     "priority": 91,
-     "title": "AI agent startup LangChain hits $3B valuation",
-     "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-     "date": "2026-11-14",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-     "lead": "Agent management startup LangChain has raised a $300 million Series C at a $3 billion valuation led by CapitalG, with participation from investors, including Singapore’s GIC, DFJ Growth, IVP, and Sapphire Ventures, the company announced on Friday. That’s more than double its $1.25 billion valuation when it raised $125 million about a year ago , led by IVP. LangChain began in 2022 as a popular open source project that handled the kinds ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
+     "score": 9,
+     "priority": 90,
+     "title": "Bengaluru leads India in AI startup funding: Innovation Report 2026",
+     "url": "https://yourstory.com/2026/11/bengaluru-leads-india-in-ai-startup-funding-innovation-report-2026",
+     "date": "2026-11-18",
+     "source": "YourStory",
+     "label": "India · AI & Deeptech",
+     "snippet": "$85 billion raised, a growing AI ecosystem and a strong deep-tech pipeline. The Bengaluru Innovation Report 2026 maps the city's startup growth as Karnataka looks to spread its tech ambitions beyond the capital.",
+     "lead": "Bengaluru leads India in AI startup funding: Innovation Report 2026 $85 billion raised, a growing AI ecosystem and a strong deep-tech pipeline. The Bengaluru Innovation Report 2026 maps the city's startup growth as Karnataka looks to spread its tech ambitions beyond the capital. Aasma Khan 482 Stories Wednesday November 18, 2026 , 4 min Read Bengaluru's position as India's technology hub is increasingly being shaped by artificial ...",
+     "image": "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/Untitleddesign50-1795004620644.jpg",
      "why": [
       "Funding",
-      "Very large figure in headline (about $3,000M: round or valuation)",
-      "Valuation, listing or profitability signal"
+      "Very large figure in headline (about $85,000M: round or valuation)"
      ],
      "tags": [
       "Funding",
@@ -189,141 +188,117 @@
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 82,
-     "title": "Traya’s FY26 Revenue Jumps 73% YoY To ₹585 Cr, Loss Up 23%",
-     "url": "https://inc42.com/buzz/trayas-fy26-revenue-jumps-73-yoy-to-%e2%82%b9585-cr-loss-up-23/",
-     "date": "2026-11-21",
-     "source": "Inc42",
-     "label": "India · Other",
-     "snippet": "Haircare brand Traya’s top line zoomed significantly in the fiscal year FY26, crossing the ₹500 Cr threshold",
-     "lead": "The Fireside-backed startup’s operating revenue jumped about 73% to ₹585.1 Cr from ₹338.4 Cr in the previous fiscal The startup's expenses grew 70.5% to ₹623.2 Cr during the year from ₹365.5 Cr in FY25, outpacing its total income and contributing to the higher losses The startup’s net loss for the fiscal also increased 23.4% to ₹29 Cr from ₹23.5 Cr in FY25",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Traya-WTF-Social.jpg",
+     "priority": 90,
+     "title": "Anthropic IPO fever hits crypto: Binance launches $500 million tokenised share campaign",
+     "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-ipo-fever-hits-crypto-binance-launches-500-million-tokenised-share-campaign/articleshow/135964874.cms",
+     "date": "2026-11-18",
+     "source": "ET Startups",
+     "label": "Global · Fintech",
+     "snippet": "Binance Wallet has launched a campaign in collaboration with xStocks, allowing eligible users to use USDC, a digital currency designed to maintain a value of $1, to subscribe to tokens linked to Anthropic. The campaign has a limit of $500 million and runs for eight hours on November 18, Binance ...",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-98694,resizemode-75,msid-135964874/tech/technology/anthropic-ipo-fever-hits-crypto-binance-launches-500-million-tokenised-share-campaign.jpg",
      "why": [
-      "Financials",
-      "Sizeable deal (about $62M)"
+      "IPO & Listing",
+      "Very large figure in headline (about $500M: round or valuation)"
      ],
      "tags": [
-      "Financials"
+      "IPO & Listing",
+      "Fintech"
      ]
     },
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 82,
-     "title": "EV Startup River Mobility’s FY26 Revenue Jumps 4.2X To ₹432 Cr",
-     "url": "https://inc42.com/buzz/ev-startup-river-mobilitys-fy26-revenue-jumps-4-2x-to-%e2%82%b9432-cr/",
-     "date": "2026-11-21",
-     "source": "Inc42",
-     "label": "India · Mobility & EV",
-     "snippet": "River Mobility recorded a 5X year-on-year jump in its escooter sales to 24,492 units in FY26, with a 46% increase in net loss to ₹285.7 Cr",
-     "lead": "River Mobility’s operating revenue rose 4.2X to ₹432.3 Cr in FY26, while its net loss widened 46% to ₹285.7 Cr. Revenue growth outpaced the increase in expenses, but the electric two-wheeler maker’s net cash outflow from operating activities increased to ₹235.5 Cr. Total expenses climbed 140.1% to ₹719.1 Cr, led by raw material and component costs of ₹419.5 Cr, while employee benefit expenses reached ₹110.9 Cr.",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/File-8.jpg",
+     "priority": 90,
+     "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+     "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+     "date": "2026-11-18",
+     "source": "TechCrunch",
+     "label": "Global · Other",
+     "snippet": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+     "lead": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt Dominic-Madori Davis Marina Temkin 5:44 PM PST · November 17, 2026 Nvidia’s equity in private companies continues to grow: it revealed its stakes are now worth $65.5 billion on Tuesday , up from the $22 billion reported in January. The increase includes both new investments and significant markups of existing portfolio companies. The company invested ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150167239.jpg?resize=1200,771",
      "why": [
-      "Financials",
-      "Sizeable deal (about $45M)"
+      "IPO & Listing",
+      "Very large figure in headline (about $65,000M: round or valuation)"
      ],
      "tags": [
-      "Financials",
-      "Mobility & EV"
+      "IPO & Listing"
      ]
     },
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 82,
-     "title": "How Barosi Is Building A ₹1,000 Cr ARR Ghee Empire In 10-Minute Economy",
-     "url": "https://inc42.com/startups/how-barosi-is-building-a-%e2%82%b91000-cr-arr-ghee-empire-in-10-minute-economy/",
-     "date": "2026-11-20",
+     "priority": 90,
+     "title": "Fractal To Spend Up To ₹1,000 Cr To Acquire AI Startups",
+     "url": "https://inc42.com/buzz/fractal-to-spend-up-to-%e2%82%b91000-cr-to-acquire-ai-startups/",
+     "date": "2026-11-16",
      "source": "Inc42",
-     "label": "India · Commerce & D2C",
-     "snippet": "Founded in 2016, Barosi is now present in 98% of Blinkit’s dark stores and sells across seven quick commerce platforms.",
-     "lead": "Barosi, a Delhi NCR-based premium ghee brand, entered quick commerce in 2022 despite steep platform commissions, aggressive discounting and competition from established FMCG brands. Founded in 2016, the bootstrapped dairy brand is now present in 98% of Blinkit’s dark stores and sells across seven quick commerce platforms. Barosi closed FY26 with ₹56 Cr in revenue and is now clocking an annualised revenue run rate of ₹180 Cr.",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Barosi-QCC-social.jpg",
+     "label": "India · AI & Deeptech",
+     "snippet": "The acquisition strategy is closely tied to Fractal's expectations of how enterprise AI adoption will evolve over the next few years",
+     "lead": "Fractal Analytics is in talks with 20-25 startups for potential acquisitions across healthcare, agentic AI and AI engineering The acquisitions could strengthen Fractal’s enterprise AI capabilities, expand its access to specialised talent and improve its competitive positioning Fractal is open to deals worth up to ₹1,000 Cr, with a preferred acquisition size of $50-100 Mn, and reported cash and cash equivalents of ₹1,728 Cr as of ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/fractal-soc-1.jpg",
      "why": [
-      "Financials",
+      "Acquisition",
       "Large deal (about $105M)"
      ],
      "tags": [
-      "Financials",
-      "Commerce & D2C"
+      "Acquisition",
+      "AI & Deeptech"
      ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 21,
+   "new_today": 1,
    "items": [
     {
      "desk": "Immigration",
-     "score": 9,
-     "priority": 82,
-     "title": "Germany Plans to Tighten Citizenship Requirements",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVT0Q0ZTNhSHFZbHM2ZUJKX0w5VmxpR25NQmo0c1FiWmsxckFOcVoxdGkzcFllMlMtcGlfVDVUUEVVVGRkQ3J3VFRhNDd3QkZnXzBtb3RPbUNGRkFFYnhxMW9uQnhOQWJGMlBFQmUzYng2RHZ5Q2tBYWZ1WDM2Z9IBgwFBVV95cUxPckl4NkVKa0ctTldiMHY3WkxPNEs3X29uVDVnV1hFYlJjeUhQNHYwMlp4NkdaSzRyLUYydlU5OGJ0TDRPQWFYLVlTSVlQbkNqU1NDR1dJYUNRZ1lZSWU1ckwxbjgwUUVvS0JhOFYyWnp0RFY4S2xpTnJDb1loTGR4ODFtQQ?oc=5",
-     "date": "2026-11-18",
-     "source": "REFORM.news",
-     "label": "Germany",
-     "snippet": "Germany’s ruling coalition of the CDU/CSU and the Social Democratic Party (SPD) intends to tighten the requirements for obtaining citizenship. According to BILD…",
-     "lead": "No-VPN link Прослушать статью Germany’s ruling coalition of the CDU/CSU and the Social Democratic Party (SPD) intends to tighten the requirements for obtaining citizenship. According to BILD , politicians from the parties are discussing a package of reforms. One proposal is to increase the minimum period of residence in Germany from five to eight years. The residency requirement could also be extended to children of foreign nationals ...",
-     "image": "https://reform.news/wp-content/uploads/2026/11/6afd97a908ee2.jpg",
+     "score": 8,
+     "priority": 80,
+     "title": "Pakistani Man’s Attempt to Reach France on Fake Indian Passport Foiled; Schengen Visa in Akshay Kumar’s Name",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORFlON0dRckI0bFU5UGt2UkpkejBWOG9nMWtXYjVfeWVzTzRGUy1HNV9QQzluQkk3aVlEMmlVbFJTZHEwdTdjVlUxbV9LMWdaX2oxWnNiM0lNb0xyb19wUU1NREVBMEd0LUJoM3V0SkxneTlnUVZza0NCYmlmS2wzeTVWMjJfeGdJSVJ0dEt0c014bDVjbnFNdG5fTGdVREJETHV5ZG55RVU?oc=5",
+     "date": "2026-11-21",
+     "source": "UrduPoint",
+     "label": "France",
+     "snippet": "The FIA detained Muhammad Qasim at Karachi Airport over an alleged attempt to travel to France with a fake Indian passport and a Schengen visa in Akshay Kumar’s name.",
+     "lead": "The passenger, stopped in Doha and returned to Karachi, was taken into FIA custody; an alleged €30,000 deal to send him abroad has emerged. KARACHI, (Pakistan Point News - 21st Nov, 2026) The Federal Investigation Agency (FIA) has taken a Pakistani citizen into custody at Karachi Airport for attempting to travel to France using a fake Indian passport and a suspicious Schengen visa. He was transferred to the FIA’s Anti-Human Trafficking ...",
+     "image": "https://photo-cdn.urdupoint.com/media-up/2026/_1/1200x630/pic_7f62e_1795278021.jpg",
      "why": [
       "Affects citizenship",
-      "Announces a change",
-      "Major story (12 headlines that day)"
-     ],
-     "tags": [
-      "Citizenship",
-      "Germany"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 9,
-     "priority": 82,
-     "title": "Australia eases backpacker visa cuts after backlash from regional employers",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb25uM3NPbElZcmNFVVpYcHpxUFVGRjJQVmIzX2JuQ1MxcWJRLXhhWFA1NFk3cXl1Z1BKWGNMVFlpcFgzNVdXeUFBc3dwcmM3R3pCZmtnNnVsSVlQR1ZvNUJIWVVITFlEQndqWW1QUHZFNUM2aUJXU2VOd3NOTFhVLWRSUERkbWd5U1luYWZYOVpFMVhXQlM3Q1NwZG1RYUFOb3JvclZSTURCTHdwY3hZNA?oc=5",
-     "date": "2026-11-17",
-     "source": "Euronews.com",
-     "label": "Australia",
-     "snippet": "Proposed cuts to tens of thousands of visas prompted a backlash from rural employers that rely on backpackers on farms for fruit picking, and for restaurant and tourism jobs.",
-     "lead": "",
-     "image": "https://images.euronews.com/articles/stories/09/99/56/23/1200x675_cmsv2_11941197-5ffb-56c6-9c27-7f6c3babf492-9995623.jpg",
-     "why": [
-      "Affects work visas",
-      "Announces a change",
-      "Major story (26 headlines that day)"
-     ],
-     "tags": [
-      "Work visa",
-      "Australia"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 9,
-     "priority": 82,
-     "title": "New Zealand student visa data: Only 64% of Indian applications approved in 2026; what applicants should k",
-     "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPOGZVcXNOTm1WdWFnVjVZSVY5OTdGV1otWWdiWE1IbmFqMGVrNTZCcTVHT2RsbFQxWFhzZWlDNGpudXNUTFNkeFdNZ3ppejFYUG9lTXBxcG9hWVo2TXBpZElmdGI5cDRSaXd4SFplN3NYS091UHRQVGxpenFxT3YwaFB0empzTExpRHZja25sTWhHZC1pNTJJb3JUYlE2ZkYxc3hMekMyWGdSdE9EdndaVGEzUzJnaVZMdHFIaURWaEpuZi1UUGpLa0pDUmM0cDNvUzA4R1Bqb2JPTjhpblpRWDkzYjFYUnVJQkoza2FScV9VdVZIVHdGVXJZZXA1U3N1ZmlFR2t3TUNjREgyVnZjVGFGX09Wa3Y5RGfSAZ8CQVVfeXFMTlhMdXlHdzY1SmZhVnJ3ckJfdDBQWVNQLUtQT1M1TUFkc0dGcTkxZmp6SldNMTRuaDRXYU5TQzFta2Zjak5SRHd6bHExXy1RcXBMM01PZElVZ2tYal9FMVBDZVlZWnpVXzBaSHBVTUpHV3YwY0d6aEpBbEtLbktnVDlsSUlRNUkxR01uWlVQUWtYN2Rtb3M4RlJJS2tTVEJycmJ4NzVNYmxpYVVJVmpGS2xBVTBRX2J1TFJhWGg2dWNRVjZLYkZMTnpna3VBdl9jSzU3cHFBdmttR3BPZDJaT2llN1NhcTlPU0pSWlBRTURRQ1dXYnJqWlk4NG00MjVjeFJGV0Y0NTFVUGNOUVEteU5VcnhPSFNwYWM4ZzZPcHc?oc=5",
-     "date": "2026-11-16",
-     "source": "The Times of India",
-     "label": "New Zealand",
-     "snippet": "Indian students looking to study in New Zealand are facing a more challenging visa approval environment, with just 64.1% of student visa applications from India approved between January and September 2026, according to the latest figures released by Immigration New Zealand (INZ).",
-     "lead": "Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
-     "image": "https://static.toiimg.com/thumb/msid-135885391,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-     "why": [
-      "Announces a change",
-      "Major story (19 headlines that day)",
       "Mentions India or Indians"
      ],
      "tags": [
-      "Student / Graduate",
-      "New Zealand"
+      "Citizenship",
+      "France"
      ]
     },
     {
      "desk": "Immigration",
-     "score": 7,
-     "priority": 64,
+     "score": 8,
+     "priority": 80,
+     "title": "Japan Introduces Stricter Permanent Residency Requirements for Foreign Nationals",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVENCVWFPN0xRd29zMGNKQmhRYWZZMExYYWZ2UFNCTTlJOUVibWFOUmVHRzJSSlJGS1pLRGhzMTVoNk5yeGNyOTRGbS1pa0dVTG00NlhoOUw3UDdrRE5UbENzSmp2T2NSMnhsWGZ1VnlLOE03d3l2enRKOFdNNlZDV0N6QkNSaEJ0MTRWanNxNEdTNGYxaTFydGs2bzdBdTA?oc=5",
+     "date": "2026-11-20",
+     "source": "Head Topics",
+     "label": "Japan",
+     "snippet": "Japan is proposing stricter permanent residency rules for foreign nationals, requiring Japanese language proficiency at B1 level or higher and an assessment of understanding of laws, rules, and social",
+     "lead": "Japan is proposing stricter permanent residency rules for foreign nationals, requiring Japanese language proficiency at B1 level or higher and an assessment of understanding of laws, rules, and social systems. Exemptions apply to highly skilled professionals, qualifying family members, those with six years of Japanese education, children with proficient parents, and cases with individual exemptions. Support us: Japan is introducing ...",
+     "image": "https://i.headtopics.com/images/2026/11/20/mobilepunch/japan-introduces-stricter-permanent-residency-requ-japan-introduces-stricter-permanent-residency-requ-2744337C42BD91F8574BFD14AC86BAE8-16x9.webp",
+     "why": [
+      "Affects permanent residence",
+      "Announces a change"
+     ],
+     "tags": [
+      "PR / Settlement",
+      "Japan"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 60,
      "title": "Spain's citizenship by residence: the three conditions and Ghana's ten-year wait",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdG9ZZkpZVTBtdTJFVlp2NjB0NlM3REloUEtDTl9SRnc5UTdvVlFvM1p5QVJXWGNUODFzUHp3aVYzZzh6am45TFM3ZFdsSWxXZkJLaEJhQ2VIbjJfc0ZGLXd6OUZoM1FrOGwya2NoeU9OWUZIT3ROSkhrR2loYlBVQlRkYmhkNk9LRUZv?oc=5",
      "date": "2026-11-21",
@@ -344,12 +319,75 @@
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 26,
+   "new_today": 3,
    "items": [
     {
      "desk": "Advisory",
      "score": 9,
-     "priority": 75,
+     "priority": 82,
+     "title": "SEBI AIF Regulations: Proposed Changes To Investor Consent And Related-Party Transaction Framework",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVTgtWndhZV9PSnFCRll3ajRpbXU0WjhEVF9YR0hJY2pVaHpwU2diTVQ0aUJzQWVYQkxKajF2TXJsRkdfV1dhMFdOeVNGY09hbTJtVHkyVTRId0VMTE5LM05WbExSRnZMWldIeGE2UVlpVHFLZGdYREg2Q0NXYW50ZVFRZWx2WHpNSHczeFN1RklJZUhzZF91eUJUQ3Fnek9OUDdJczFuRG9VZERWbUZ6RHE0cWxzNGtEUnJFd3ZlT1FjZjljSmhoOVQyclhrVHlNZU91SHlzVlJrYzVCS0VtUkttdURENWlvaFYwRFlEOWxURVU?oc=5",
+     "date": "2026-11-18",
+     "source": "Legal 500",
+     "label": "AIF",
+     "snippet": "The regulatory framework governing Alternative Investment Funds (AIFs) in India places considerable importance on investor participation, transparency and the…",
+     "lead": "King Stubb & Kasiva is few of the top corporate law firms in India with offices in Bengaluru,...",
+     "image": "https://www.legal500.com/assets/dynamic/6025c9610c1d842f9f8f6886b054cbc5ad0c4597e16a835de3dbdf9e54bb3014/ksk.jpg",
+     "why": [
+      "AIF news",
+      "Regulator: SEBI or RBI",
+      "Rule or framework change"
+     ],
+     "tags": [
+      "AIF"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 82,
+     "title": "Indian bonds surge after oil slide eases aggressive rate hike concerns",
+     "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-surge-after-oil-slide-eases-aggressive-rate-hike-concerns/articleshow/135924727.cms",
+     "date": "2026-11-17",
+     "source": "Economic Times",
+     "label": "Debt & Bonds",
+     "snippet": "On Tuesday, Indian government bonds rallied significantly, buoyed by falling oil prices that shifted market sentiment. The 6.94% 2036 bond",
+     "lead": "On Tuesday, Indian government bonds rallied significantly, buoyed by falling oil prices that shifted market sentiment. The 6.94% 2036 bond's yield dipped to 7.2528%, a drop from 7.3169% the previous day. Analysts posit that lower oil prices could relieve inflationary pressure and bolster the rupee, alongside speculation of an upcoming RBI rate hike based on fresh inflation reports. Top Trending Stocks: SBI Share Price , Axis Bank Share ...",
+     "image": "https://img.etimg.com/thumb/msid-135924756,width-1200,height-900,imgsize-111102,overlay-etmarkets/articleshow.jpg",
+     "why": [
+      "Interest-rate decision",
+      "Sharp market move",
+      "Also covered by 2 other outlet(s)"
+     ],
+     "tags": [
+      "Debt & Bonds"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 82,
+     "title": "AIF commitments hit a high of ₹18.68 trillion as of September: Sebi data",
+     "url": "https://www.business-standard.com/markets/news/aif-commitments-hit-a-high-of-18-68-trillion-as-of-september-sebi-data-126111601365_1.html",
+     "date": "2026-11-16",
+     "source": "Business Standard",
+     "label": "AIF",
+     "snippet": "In comparison, the total commitments in this segment catering to the affluent stood at ₹17.53 trillion at the end of June while it was ₹15.05 trillion a year ago",
+     "lead": "AIF commitments are usually drawn segments by fund managers when investment opportunities are identified, and get reflected progressively in the funds raised and investments made Don't miss the most important news and views of the day. Get them on our Telegram channel",
+     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-12/26/thumb/fitandfill/1200X628/1766768985-157.jpg",
+     "why": [
+      "AIF news",
+      "Regulator: SEBI or RBI",
+      "Also covered by 2 other outlet(s)"
+     ],
+     "tags": [
+      "AIF"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 8,
+     "priority": 73,
      "title": "December 2026 Fed Rate Hike: What 25 vs 50 bps Means for Bitcoin",
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnpXejhwX19FeUljZlVFYlVzQUcySHRUdndrUXlYU1psSzJEV1BaRVliVks3TDBhZHpIaWtVVHZXZmpmOTZVYzE3U3RSMFJJNXg5X3JWYXdxZHk2WTF6aHZDandYb2w2cDB1UTIxZnN1RWtQdnlPdW54bW41b1FMTDVacGU5WkJhYzdCd1Z5UUFid3JIc1IyZXFUaw?oc=5",
      "date": "2026-11-21",
@@ -365,66 +403,6 @@
      "tags": [
       "Global"
      ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
-     "title": "SEBI (Alternative Investment Funds) (Second Amendment) Regulations, 2026",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVHBUdEREYWdrZ2paWXhBOFlHeVAxWEM0RHFpd0FCYlplaVJRdzVZejhKdmRZYTI5OHV4aVlCbTZDRnd2UTZrLUhBVEw0VmJIMFJ3R0VqLWo0blFhOEpQQnczU0hHeS1oVlJOSC12SE9jWDVxcE5JeW54OHBqUHByZ01lMUprM2tya0t0Rmt1WmY4bTlFN2Z6eWtONDlsOEZ1OGNPcThKTmtqcUk4a3J5ZUNPbkFtcUMxa1lOY1l2UjBkMGpUMVEwam9KdFpaM2N6ZGc?oc=5",
-     "date": "2026-11-20",
-     "source": "Legal 500",
-     "label": "AIF",
-     "snippet": "Securities and Exchange Board of India (‘SEBI’), on July 10, 2026, has notified the SEBI (Alternative Investment Funds) (Second Amendment) Regulations, 2026…",
-     "lead": "AZB & Partners, one of India’s premier law firms was founded in 2004 with a clear purpose to...",
-     "image": "https://www.legal500.com/assets/dynamic/e858874ce0a46236631673442aa2e52d6368d32a3cf04b60c67d92f77a5d7736/32059.jpg",
-     "why": [
-      "AIF news",
-      "Regulator: SEBI or RBI"
-     ],
-     "tags": [
-      "AIF"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
-     "title": "GARUDA Mechanism For Processing Of Private Placement Memorandums Of AIFs Filed With SEBI",
-     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRkl4SEN4TWM0UDBSVTZCU1BFSHdRT09IbVJqbHZVaUxDQk04R21EQmdiUHFSeUlKZkFLNHVocW8zZlJ5ZTFOcktuYWFIT3pkRHN1c0F3NDZuNS1uVk9fdlVhLUV4b0VLNlRBNXJ3OTVhOFNkUHpZVnByT05MUzRLZW5iN0RFaTVQWWhiQXdfcWk2ZXVWOWdEV2RCX0hDRWpoczJGY1NqQnF0LVpuakRleXNOVkZJd2dueFJvODBoc2xiNGdydFEwNkNNUjM3akszRmJfbkx4d004emtlOGFpSG1VSHlqWFNPbG91bHdn?oc=5",
-     "date": "2026-11-20",
-     "source": "Legal 500",
-     "label": "AIF",
-     "snippet": "Securities and Exchange Board of India (‘SEBI’), by way of a Circular dated July 30, 2026, has prescribed operational modalities under the Green-Channel: AIF…",
-     "lead": "AZB & Partners, one of India’s premier law firms was founded in 2004 with a clear purpose to...",
-     "image": "https://www.legal500.com/assets/dynamic/e858874ce0a46236631673442aa2e52d6368d32a3cf04b60c67d92f77a5d7736/32059.jpg",
-     "why": [
-      "AIF news",
-      "Regulator: SEBI or RBI"
-     ],
-     "tags": [
-      "AIF"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
-     "title": "RBI releases results of government bond auctions worth ₹33,000 crore",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVjFFaU9TUnNOcU1VZDF3aTFURFVGVEFFOHNxSkRhWmYxZWxfemZfbGlJX0x4REhnZHdOb0FIX0NsVi1iUlBJZ0c0Q21aYlFjb2xmb1pXRFFPNHQxN3JzYW5pSVp5cEtnckJNTDc1cmN5TUl1N2F4d05pOW56djZXWmdNMTZLSUZWZTdjRUFuOVk?oc=5",
-     "date": "2026-11-20",
-     "source": "Traders Union",
-     "label": "Debt & Bonds",
-     "snippet": "",
-     "lead": "",
-     "image": null,
-     "why": [
-      "Regulator: SEBI or RBI",
-      "Government bond yields"
-     ],
-     "tags": [
-      "Debt & Bonds"
-     ]
     }
    ]
   }
@@ -432,7 +410,7 @@
  "items": [
   {
    "desk": "Startups",
-   "score": 11,
+   "score": 10,
    "priority": 100,
    "title": "From Dreamteam To Boba Bhai — Indian Startups Raised Over $291 Mn This Week",
    "url": "https://inc42.com/buzz/from-dreamteam-to-boba-bhai-indian-startups-raised-over-291-mn-this-week/",
@@ -454,7 +432,7 @@
   },
   {
    "desk": "Policy",
-   "score": 12,
+   "score": 11,
    "priority": 100,
    "title": "Reserve Bank issues Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64009",
@@ -477,7 +455,7 @@
   },
   {
    "desk": "Startups",
-   "score": 11,
+   "score": 10,
    "priority": 100,
    "title": "Bending Spoons buys Mailchimp for $3.68B",
    "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
@@ -499,7 +477,7 @@
   },
   {
    "desk": "Startups",
-   "score": 11,
+   "score": 10,
    "priority": 100,
    "title": "Urban Company Raises ₹2,500 Cr Via QIP, Draws Bids Worth Over ₹15,000 Cr",
    "url": "https://inc42.com/buzz/urban-company-raises-%e2%82%b92500-cr-via-qip-draws-bids-worth-over-%e2%82%b915000-cr/",
@@ -522,7 +500,7 @@
   },
   {
    "desk": "Immigration",
-   "score": 11,
+   "score": 10,
    "priority": 100,
    "title": "Americans Face Major Delays in Claiming Canadian Citizenship",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcFZjUlg4RllGZ2tMNk5WZzJEbHBZZWx3VHNmUnFqNTloVnhCNW9SODh2SURJdExnZk1JU0RKYXVIZEhmMFhuRXZiOU5ULXItTUFhSGhKeE4zZndMSDM1Y0pjTWJ1Nk9tb0hReWlpcDl2eEVyRDE4QXBtYmZRSUdUeDZHUGJseGdFeGVSUg?oc=5",
@@ -546,7 +524,7 @@
   },
   {
    "desk": "Advisory",
-   "score": 12,
+   "score": 11,
    "priority": 100,
    "title": "Reserve Bank issues Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64009",
@@ -568,7 +546,7 @@
   },
   {
    "desk": "Startups",
-   "score": 11,
+   "score": 10,
    "priority": 100,
    "title": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering",
    "url": "https://yourstory.com/2026/11/anthropic-raises-813-billion-from-ipo-with-valuation-of-15-trillion",
@@ -591,7 +569,7 @@
   },
   {
    "desk": "Startups",
-   "score": 11,
+   "score": 10,
    "priority": 100,
    "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
    "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
@@ -615,127 +593,9 @@
    "must_read": false
   },
   {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "Gold and Silver Slide as Fed Eyes Rate Hikes at Dec. 9 Meeting",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mNWFoeVE3YlRUWGU3dTFzNzVoYWFJMmRaM0UtVGtoYmtlZGtvUFZ4RXJDU1JDRGNncERzQ25Cc215SXpQVXZsU2x2OE1NQXFIazk0dUZSR3FVUDZmZ1lYSTVwLVhSd3JTYXNaOUJVNmRHekpt?oc=5",
-   "date": "2026-11-21",
-   "source": "JCK",
-   "label": "Gold & Silver",
-   "snippet": "Gold and silver prices had their worst week in eight months, which experts say is the result of a stronger U.S. dollar, shifting expectations around interest",
-   "lead": "Gold and silver prices had their worst week in eight months, which experts say is the result of a stronger U.S. dollar, shifting expectations around interest rates, and changes in the national and global economic outlook. Spot gold was down to $3,541.10 an ounce on Nov. 20 as of press time—a sharp decline from its January high of $5,589.38 an ounce. Spot silver had fallen to $41.64 an ounce, a dramatic decline from its high of $121.79 ...",
-   "image": "https://www.jckonline.com/wp-content/uploads/2026/11/GettyImages-Gold-Bars.jpg",
-   "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver"
-   ],
-   "tags": [
-    "Gold & Silver"
-   ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "Rate hikes ahead? Weaker rand raises inflation fears as Reserve Bank keeps door open",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVGUzblJ1OFg5LWxCbzZfR2s2ZFdyVzBOSTkzQzhFM0R4S09IVjVkME5YY1U4eTJ2YnlNZ2VxUEp5d2xNX1hWSVYtMjNLeHJrYVBnMUNvclp2N2taZEZvNTg5ZmtRODh5aGt6MmRQa1g2clotRUZOT2J2SXJXTS00b0I2MC1TMXVQN3VmUjhqb2xGV3RTRGdyX1lpQWpNRFU3by1nRmU2UGpzUQ?oc=5",
-   "date": "2026-11-20",
-   "source": "IOL",
-   "label": "Regulatory",
-   "snippet": "With the rand sliding towards R17.49, the South African Reserve Bank said it will not hesitate to hike again if needed, with inflation expected to stay above 5% into early 2027.",
-   "lead": "Ask AI 4 min Speaking after Thursday’s Monetary Policy Committee decision, Reserve Bank governor Lesetja Kganyago said the latest weakening of the rand had largely happened on Wednesday, after the committee had already made its decision to keep the repo rate unchanged at 7.25%. The rand’s slide to R17.49 against the dollar as of the bell on Thursday is adding to South Africa’s inflation risks, with the Reserve Bank warning that it will ...",
-   "image": "https://iol-prod.appspot.com/image/58a2e3eed1dcd3f294cf00e6e538176972a20a19/1000/jpeg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "New product or fund"
-   ],
-   "tags": [
-    "Regulatory",
-    "Banks & Financials"
-   ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "Zee Business. . Gold and Silver Price Crash: Gold 14 महीने के Low पर! Silver में 5% Crash, अब और गिरेगी कीमत? Gold and Silver Price Crash: Fed Rate Hike Fears, MCX Levels and Expert Investment Strategy Gold और Silver की कीमतों में ते",
-   "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxONXJCYVZrektJZE8yYTc3MDFhTXpFSjFjUDVONUtCZHpZUm0yUnhELWxNR19EaXdzdmNyV3cxcTE5V3pMQTc3aTlwMWVuNXVvNXZ3X2hfWHRTRHl5Z1ZGLXE1ZnFRQ290Y2R0RVpKY3NjSV9PdmwyLURDYnBwSFdEa3g4MVBBRnBwVm5FZFF2amg4OExsSnhCMHlzMFROVm9yVHZSc0Q1ZGN1OWFJVU5SZzBoN1RWbHp5eTctQjBycmI0RjZkVUN0SFpPUnc4SFN4dWtJQzBuUFcwakpoQTNOVWJIeHpROVE1X1J2YTQ1alhKb0xNSmVKSzBFenAwQzY1Y2NKUEJfRW9lRklmNVQ5YVQ3R2tjSGFyVnJrVW95R1FkQ1JIU0FZTjdRM2ljYV91bjFSemhGT0hMZ3Z3MHRBX05USFpBczlTQVM0QXpJb280LVNsMThuZkJGeDMtWjJQUGtHaExmdGIzZXZzRGVnd2ZndmxvVXdaYVhuUWI4QnJ0WHJBOU1oRnlvcWJNeGRvR295eTNVdE9lZVQ4clFFY0Q5b0V1R0ZfLTdfMQ?oc=5",
-   "date": "2026-11-19",
-   "source": "Facebook",
-   "label": "Gold & Silver",
-   "snippet": "Gold and Silver Price Crash: Gold 14 महीने के Low पर! Silver में 5% Crash, अब और गिरेगी कीमत?\n\nGold and Silver Price Crash: Fed Rate Hike Fears, MCX Levels and Expert Investment Strategy\n\nGold और...",
-   "lead": "",
-   "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/902333991_1773830774743153_7443153527458220887_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=VeVyFLP-uZkQ7kNvwHXxPNY&_nc_oc=AdoQ6KxG4i1R4_FM-e8mA4gltXvwbL2SPPueisjbHzl19FPxX9mOEv-aOxrPE3dGxuc&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=whi9cUEbOhOkY4bHE_cLng&_nc_ss=7920f&oh=00_AQS4JUnrnNZXNdC-7IIIENNHRX0HMYw13XY-mkC6JB3ZtQ&oe=6B068E53",
-   "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Gold & Silver"
-   ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 91,
-   "title": "Major Changes To UK Indefinite Leave To Remain ('ILR') Confirmed",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN1R0cXhiNndzM1NMa3BXM3FLM05Xb1RidWNDdWJNT1RucHJ3YVhSTWQ5cTQtUVBqN0d0Sm93azJtYlh1d01od2o1Q3FLc3h2SklETGc0eWRGOHVtNFZrOUR5NkphajI0eWNsaUlMN1ZqOG5XWTNScldBNXd6aDZzeVVITGRLbGZfNGM0SWs5ckhXTTcwNFhrT25DekY1aFh2eVZrNWtPN1hidS1PRmtrWXcyOEsxWFQ5WUQ3X1V3VEprQkk?oc=5",
-   "date": "2026-11-21",
-   "source": "Legal 500",
-   "label": "United Kingdom",
-   "snippet": "The UK Home Office has unveiled a comprehensive overhaul of its settlement framework, introducing tiered pathways ranging from 3 to 20 years based on earnings…",
-   "lead": "Withers is an international law firm focused on the personal, business and philanthropic interests...",
-   "image": "https://www.legal500.com/assets/dynamic/a4149ebc3ffe185eca4058cf0d8cf56825ae0b0a745392fbd029ec1b42bd2878/17702.jpg",
-   "why": [
-    "Affects permanent residence",
-    "Announces a change"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "United Kingdom"
-   ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 91,
-   "title": "Belgium raises 2027 work visa salary thresholds for foreign professionals, including Indians",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU0FmRFFucXlBTG5kWkxBQUlCWkNjdnpzejJKU3Nrbk02ZllXLXAyTy1OV0JDclNkZTM1bHhWT29MOVNuUXVtN0J2Y3BBNXJTT2lUcjBsNnQ4ZmlzdTk3bVBqWGg1enZMNHZnYWlicUJOQjlBdE9FTHB3NV9qUE1tSktVYnQ4NE9UX2h6QjhyU2RoTGJVRUsxTW9aM3JGMUhXa0FuU2s3V2thdFlGb0JDTVBZcHNEUXNjVE5jenoyU1RNLXAxV21NRTFSNUROeHBQZGFIV3FwaUlvVXlocXR6azM2c3BRbDVOaGfSAe8BQVVfeXFMTjhka2p6Z0xxM2s5QmZGTlYyRV9ROXkzSFI5N18zbTRzdkNCOVJicXlSbjUtQ3FQalg3dEJEYnByTmZxUVRoRVVpZmJBY3hBNnMyR190ZXZsVnM2UjFvVUt5RG9MX1I3V0F5Tkk0T3RBek1ubzFDaV91LWRvVEJpcTBzcWVBUWdyMkxaZTVVRl9iYURUOUZhSnpiU0hNTDZxVXZlSWJSNS00TnQwS3RpWmQxZmtsaHJ0cEpRVThUcFd0TEdESk5lblFSNGdSa3UzNnRBZTN2MGV1QjBuY0JNUGg0WGRuLWlNdU92UXJGaXc?oc=5",
-   "date": "2026-11-21",
-   "source": "The Economic Times",
-   "label": "Belgium",
-   "snippet": "Belgium's Wallonia region has announced higher minimum salary requirements for foreign workers applying for work authorisations and Work Permit B from January 1, 2027. The revised thresholds apply to several categories, including highly qualified professionals, management positions, EU Blue Card holders and intra-company transferees. Empl",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1973252,resizemode-75,msid-136049511/nri/work/belgium-raises-2027-work-visa-salary-thresholds-for-foreign-professionals-including-indians.jpg",
-   "why": [
-    "Salary threshold change",
-    "Announces a change",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Salary threshold",
-    "Belgium"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
    "desk": "Startups",
    "score": 10,
-   "priority": 91,
+   "priority": 100,
    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
    "date": "2026-11-17",
@@ -753,13 +613,84 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 14,
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 100,
+   "title": "WPI inflation rate in Oct surges to 12.29%: Raises pressure on RBI to raise Repo Rate",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa1dzSi1mNERodzhBdGl5cWRsX1VwRlkxOE9aVG5QWW03OUJMMEQ2ZkdNWEdmanRZNVFNLUJJd0pDdWVjWTBIS3JPSEpBUUdVR1Y5dFhtYVBCSU1wdzBONDhPSUE4ZTR3ajJOUGNfLUNfY0RxUHoybjhCeEs1dnVrZE5BWXMxd0NwOFdnX2l5T0ZSbEpVRkp0aG0yMnRhYmhPbzJyaFhsWU9Tc05aekYwRVJGa0h4ZkFZOG5rOHZLTWgtUHVoek16ejZsX1RpUTNU0gHWAUFVX3lxTE5tbEJRS0tEenNMMndRMzV5b082WE9INEhBd1hNbkxndU5rX21acFNLRTNQMnN3N201dGplclB6dXpYaGRZWXZ3VVVWTzcweUc1YWVKbjNQNkRWWnN3dXBMNEF6M015ZFkta29RTGJwN2JTV1FRLTVIWTBjU3JOaHpUazJVSWhpNjlvY1ZWdjI3RnRPeFdGMDV5cXlaUGJfMWZON0VNMkF1eWRGNnRtSmVySW42elFJWGhPVjRVZHJ3ZmIxbmRfRVRFZ2oxUmZ5VG04V3Axb3c?oc=5",
+   "date": "2026-11-17",
+   "source": "News9live",
+   "label": "Regulatory",
+   "snippet": "As predicted by the Reserve Bank of India, inflation has peaked in October. The retail or CPI-based inflation rose to 6.09% in October which is the highest since the new series that was launched in February this year. The WPI inflation has surged to 12.29% in October.",
+   "lead": "By signing in or creating an account, you agree with Associated Broadcasting Company's Terms & Conditions and Privacy Policy . The key driver of WPI inflation is the fuel and power category. This footprint surged to 32.84% and the rate of price rise in crude petroleum and natural gas was at an astronomical 71%. In October, the primary articles basket registered inflation of 9.24% which was a jump from 8.67% in September. Food inflation ...",
+   "image": "https://images.news9live.com/wp-content/uploads/2026/11/Inflation-impact-depositphotos.png",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Sharp market move",
+    "New product or fund"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 10,
    "must_read": false
   },
   {
    "desk": "Advisory",
    "score": 10,
-   "priority": 83,
+   "priority": 91,
+   "title": "Gold Logs Worst Week Since March on Hawkish Fed, AI Selloff",
+   "url": "https://www.livemint.com/market/gold-logs-worst-week-since-march-on-hawkish-fed-ai-selloff-11795214360197.html",
+   "date": "2026-11-21",
+   "source": "Mint",
+   "label": "Gold & Silver",
+   "snippet": "Gold slid for a fifth day — notching its biggest weekly decline since March — as a hawkish Federal Reserve signaled more interest-rate hikes and a rout in AI stocks spurred selling across metals markets.",
+   "lead": "Gold Logs Worst Week Since March on Hawkish Fed, AI Selloff AI Quick Read (Bloomberg) -- Gold slid for a fifth day — notching its biggest weekly decline since March — as a hawkish Federal Reserve signaled more interest-rate hikes and a rout in AI stocks spurred selling across metals markets. Bullion tumbled, trading near $3,500 an ounce Friday, and lost nearly 9% this week, after hitting its lowest level since September 2025. Silver ...",
+   "image": null,
+   "why": [
+    "Precious metals",
+    "Global macro driver",
+    "Sharp market move",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "Gold & Silver"
+   ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 91,
+   "title": "Gold and Silver Slide as Fed Eyes Rate Hikes at Dec. 9 Meeting",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mNWFoeVE3YlRUWGU3dTFzNzVoYWFJMmRaM0UtVGtoYmtlZGtvUFZ4RXJDU1JDRGNncERzQ25Cc215SXpQVXZsU2x2OE1NQXFIazk0dUZSR3FVUDZmZ1lYSTVwLVhSd3JTYXNaOUJVNmRHekpt?oc=5",
+   "date": "2026-11-21",
+   "source": "JCK",
+   "label": "Gold & Silver",
+   "snippet": "Gold and silver prices had their worst week in eight months, which experts say is the result of a stronger U.S. dollar, shifting expectations around interest",
+   "lead": "Gold and silver prices had their worst week in eight months, which experts say is the result of a stronger U.S. dollar, shifting expectations around interest rates, and changes in the national and global economic outlook. Spot gold was down to $3,541.10 an ounce on Nov. 20 as of press time—a sharp decline from its January high of $5,589.38 an ounce. Spot silver had fallen to $41.64 an ounce, a dramatic decline from its high of $121.79 ...",
+   "image": "https://www.jckonline.com/wp-content/uploads/2026/11/GettyImages-Gold-Bars.jpg",
+   "why": [
+    "Interest-rate decision",
+    "Precious metals",
+    "Global macro driver"
+   ],
+   "tags": [
+    "Gold & Silver"
+   ],
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 91,
    "title": "Cooling crude lifts bond prices, but inflation may prompt 50-bps RBI rate hike: PGIM India's Puneet Pal",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTWVldnJBQ3BiWEI1M3dTLXl5UkRDa2R6MVd3dEdzUDh6SVdxTHk1azBmdGxsRmYwX0FjNzAtcEwxQ05UVk5GMHlnbTVfWEc4c1FpTFZJUkFWYkxKWjJuTU1EM0VhRzUyLTk1TmF2ck1HTl9WanVXaThqNWN4Z1JJY2ZTakJpb041cXc2OHJVdGRlNWczRzh0OEN6ZXFoblBuNVBXeFNBa0hUUFZkLW5pWFVGX1BtMVlfWjdwZWMxYlNHTVc2ZWlfbDFMNjVZRTJWNFpvR3NHVEQwVzZJaVlveWZHSmYza3A4MmNXdTBUR3FZRGl3ay11ZTIwVUfSAYICQVVfeXFMUHJzNS00TUZCcmZxT1d5U0ZzTklhSDlYZWVWR25Vb25QTm9JWVBpUFd4d3hNMDdRcXB5ejhRVTlvbV9uRHItZ0pLY09CZmhpdlNoVjVKT1NUU3lVZ19iS0FyMDVmUktwcWY4N3QxTmhLRFZxOWpwTXFKQ2NJMEdjd2JpaVhFRVpFaU5Hb1R5VjRMdUlqa0N5NVBTOGhZVU1hODBkQXZQdmlFN2tfX0xCLVZrNFlGVXd3UUdad1lQVmpVLVRieXJYM2hCZHc3cEpwcTVWRUZNQjZvMGtvaEVPZTFXejJRU29Hc1NiNnNrWjJFSUNydVFNT3ZReHdfcHpGX3Rn?oc=5",
    "date": "2026-11-18",
@@ -776,28 +707,77 @@
    "tags": [
     "Debt & Bonds"
    ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 90,
+   "title": "Belgium raises 2027 work visa salary thresholds for foreign professionals, including Indians",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU0FmRFFucXlBTG5kWkxBQUlCWkNjdnpzejJKU3Nrbk02ZllXLXAyTy1OV0JDclNkZTM1bHhWT29MOVNuUXVtN0J2Y3BBNXJTT2lUcjBsNnQ4ZmlzdTk3bVBqWGg1enZMNHZnYWlicUJOQjlBdE9FTHB3NV9qUE1tSktVYnQ4NE9UX2h6QjhyU2RoTGJVRUsxTW9aM3JGMUhXa0FuU2s3V2thdFlGb0JDTVBZcHNEUXNjVE5jenoyU1RNLXAxV21NRTFSNUROeHBQZGFIV3FwaUlvVXlocXR6azM2c3BRbDVOaGfSAe8BQVVfeXFMTjhka2p6Z0xxM2s5QmZGTlYyRV9ROXkzSFI5N18zbTRzdkNCOVJicXlSbjUtQ3FQalg3dEJEYnByTmZxUVRoRVVpZmJBY3hBNnMyR190ZXZsVnM2UjFvVUt5RG9MX1I3V0F5Tkk0T3RBek1ubzFDaV91LWRvVEJpcTBzcWVBUWdyMkxaZTVVRl9iYURUOUZhSnpiU0hNTDZxVXZlSWJSNS00TnQwS3RpWmQxZmtsaHJ0cEpRVThUcFd0TEdESk5lblFSNGdSa3UzNnRBZTN2MGV1QjBuY0JNUGg0WGRuLWlNdU92UXJGaXc?oc=5",
+   "date": "2026-11-21",
+   "source": "The Economic Times",
+   "label": "Belgium",
+   "snippet": "Belgium's Wallonia region has announced higher minimum salary requirements for foreign workers applying for work authorisations and Work Permit B from January 1, 2027. The revised thresholds apply to several categories, including highly qualified professionals, management positions, EU Blue Card holders and intra-company transferees. Empl",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1973252,resizemode-75,msid-136049511/nri/work/belgium-raises-2027-work-visa-salary-thresholds-for-foreign-professionals-including-indians.jpg",
+   "why": [
+    "Salary threshold change",
+    "Announces a change",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Salary threshold",
+    "Belgium"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 90,
+   "title": "Germany Plans to Tighten Citizenship Requirements",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBVT0Q0ZTNhSHFZbHM2ZUJKX0w5VmxpR25NQmo0c1FiWmsxckFOcVoxdGkzcFllMlMtcGlfVDVUUEVVVGRkQ3J3VFRhNDd3QkZnXzBtb3RPbUNGRkFFYnhxMW9uQnhOQWJGMlBFQmUzYng2RHZ5Q2tBYWZ1WDM2Z9IBgwFBVV95cUxPckl4NkVKa0ctTldiMHY3WkxPNEs3X29uVDVnV1hFYlJjeUhQNHYwMlp4NkdaSzRyLUYydlU5OGJ0TDRPQWFYLVlTSVlQbkNqU1NDR1dJYUNRZ1lZSWU1ckwxbjgwUUVvS0JhOFYyWnp0RFY4S2xpTnJDb1loTGR4ODFtQQ?oc=5",
+   "date": "2026-11-18",
+   "source": "REFORM.news",
+   "label": "Germany",
+   "snippet": "Germany’s ruling coalition of the CDU/CSU and the Social Democratic Party (SPD) intends to tighten the requirements for obtaining citizenship. According to BILD…",
+   "lead": "No-VPN link Прослушать статью Germany’s ruling coalition of the CDU/CSU and the Social Democratic Party (SPD) intends to tighten the requirements for obtaining citizenship. According to BILD , politicians from the parties are discussing a package of reforms. One proposal is to increase the minimum period of residence in Germany from five to eight years. The residency requirement could also be extended to children of foreign nationals ...",
+   "image": "https://reform.news/wp-content/uploads/2026/11/6afd97a908ee2.jpg",
+   "why": [
+    "Affects citizenship",
+    "Announces a change",
+    "Major story (12 headlines that day)"
+   ],
+   "tags": [
+    "Citizenship",
+    "Germany"
+   ],
    "rank": 15,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 9,
-   "priority": 82,
-   "title": "Pakistani Man’s Attempt to Reach France on Fake Indian Passport Foiled; Schengen Visa in Akshay Kumar’s Name",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORFlON0dRckI0bFU5UGt2UkpkejBWOG9nMWtXYjVfeWVzTzRGUy1HNV9QQzluQkk3aVlEMmlVbFJTZHEwdTdjVlUxbV9LMWdaX2oxWnNiM0lNb0xyb19wUU1NREVBMEd0LUJoM3V0SkxneTlnUVZza0NCYmlmS2wzeTVWMjJfeGdJSVJ0dEt0c014bDVjbnFNdG5fTGdVREJETHV5ZG55RVU?oc=5",
-   "date": "2026-11-21",
-   "source": "UrduPoint",
-   "label": "France",
-   "snippet": "The FIA detained Muhammad Qasim at Karachi Airport over an alleged attempt to travel to France with a fake Indian passport and a Schengen visa in Akshay Kumar’s name.",
-   "lead": "The passenger, stopped in Doha and returned to Karachi, was taken into FIA custody; an alleged €30,000 deal to send him abroad has emerged. KARACHI, (Pakistan Point News - 21st Nov, 2026) The Federal Investigation Agency (FIA) has taken a Pakistani citizen into custody at Karachi Airport for attempting to travel to France using a fake Indian passport and a suspicious Schengen visa. He was transferred to the FIA’s Anti-Human Trafficking ...",
-   "image": "https://photo-cdn.urdupoint.com/media-up/2026/_1/1200x630/pic_7f62e_1795278021.jpg",
+   "priority": 90,
+   "title": "Australia eases backpacker visa cuts after backlash from regional employers",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb25uM3NPbElZcmNFVVpYcHpxUFVGRjJQVmIzX2JuQ1MxcWJRLXhhWFA1NFk3cXl1Z1BKWGNMVFlpcFgzNVdXeUFBc3dwcmM3R3pCZmtnNnVsSVlQR1ZvNUJIWVVITFlEQndqWW1QUHZFNUM2aUJXU2VOd3NOTFhVLWRSUERkbWd5U1luYWZYOVpFMVhXQlM3Q1NwZG1RYUFOb3JvclZSTURCTHdwY3hZNA?oc=5",
+   "date": "2026-11-17",
+   "source": "Euronews.com",
+   "label": "Australia",
+   "snippet": "Proposed cuts to tens of thousands of visas prompted a backlash from rural employers that rely on backpackers on farms for fruit picking, and for restaurant and tourism jobs.",
+   "lead": "",
+   "image": "https://images.euronews.com/articles/stories/09/99/56/23/1200x675_cmsv2_11941197-5ffb-56c6-9c27-7f6c3babf492-9995623.jpg",
    "why": [
-    "Affects citizenship",
-    "Mentions India or Indians"
+    "Affects work visas",
+    "Announces a change",
+    "Major story (26 headlines that day)"
    ],
    "tags": [
-    "Citizenship",
-    "France"
+    "Work visa",
+    "Australia"
    ],
    "rank": 16,
    "must_read": false
@@ -805,30 +785,31 @@
   {
    "desk": "Immigration",
    "score": 9,
-   "priority": 82,
-   "title": "Japan Introduces Stricter Permanent Residency Requirements for Foreign Nationals",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVENCVWFPN0xRd29zMGNKQmhRYWZZMExYYWZ2UFNCTTlJOUVibWFOUmVHRzJSSlJGS1pLRGhzMTVoNk5yeGNyOTRGbS1pa0dVTG00NlhoOUw3UDdrRE5UbENzSmp2T2NSMnhsWGZ1VnlLOE03d3l2enRKOFdNNlZDV0N6QkNSaEJ0MTRWanNxNEdTNGYxaTFydGs2bzdBdTA?oc=5",
-   "date": "2026-11-20",
-   "source": "Head Topics",
-   "label": "Japan",
-   "snippet": "Japan is proposing stricter permanent residency rules for foreign nationals, requiring Japanese language proficiency at B1 level or higher and an assessment of understanding of laws, rules, and social",
-   "lead": "Japan is proposing stricter permanent residency rules for foreign nationals, requiring Japanese language proficiency at B1 level or higher and an assessment of understanding of laws, rules, and social systems. Exemptions apply to highly skilled professionals, qualifying family members, those with six years of Japanese education, children with proficient parents, and cases with individual exemptions. Support us: Japan is introducing ...",
-   "image": "https://i.headtopics.com/images/2026/11/20/mobilepunch/japan-introduces-stricter-permanent-residency-requ-japan-introduces-stricter-permanent-residency-requ-2744337C42BD91F8574BFD14AC86BAE8-16x9.webp",
+   "priority": 90,
+   "title": "New Zealand student visa data: Only 64% of Indian applications approved in 2026; what applicants should k",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPOGZVcXNOTm1WdWFnVjVZSVY5OTdGV1otWWdiWE1IbmFqMGVrNTZCcTVHT2RsbFQxWFhzZWlDNGpudXNUTFNkeFdNZ3ppejFYUG9lTXBxcG9hWVo2TXBpZElmdGI5cDRSaXd4SFplN3NYS091UHRQVGxpenFxT3YwaFB0empzTExpRHZja25sTWhHZC1pNTJJb3JUYlE2ZkYxc3hMekMyWGdSdE9EdndaVGEzUzJnaVZMdHFIaURWaEpuZi1UUGpLa0pDUmM0cDNvUzA4R1Bqb2JPTjhpblpRWDkzYjFYUnVJQkoza2FScV9VdVZIVHdGVXJZZXA1U3N1ZmlFR2t3TUNjREgyVnZjVGFGX09Wa3Y5RGfSAZ8CQVVfeXFMTlhMdXlHdzY1SmZhVnJ3ckJfdDBQWVNQLUtQT1M1TUFkc0dGcTkxZmp6SldNMTRuaDRXYU5TQzFta2Zjak5SRHd6bHExXy1RcXBMM01PZElVZ2tYal9FMVBDZVlZWnpVXzBaSHBVTUpHV3YwY0d6aEpBbEtLbktnVDlsSUlRNUkxR01uWlVQUWtYN2Rtb3M4RlJJS2tTVEJycmJ4NzVNYmxpYVVJVmpGS2xBVTBRX2J1TFJhWGg2dWNRVjZLYkZMTnpna3VBdl9jSzU3cHFBdmttR3BPZDJaT2llN1NhcTlPU0pSWlBRTURRQ1dXYnJqWlk4NG00MjVjeFJGV0Y0NTFVUGNOUVEteU5VcnhPSFNwYWM4ZzZPcHc?oc=5",
+   "date": "2026-11-16",
+   "source": "The Times of India",
+   "label": "New Zealand",
+   "snippet": "Indian students looking to study in New Zealand are facing a more challenging visa approval environment, with just 64.1% of student visa applications from India approved between January and September 2026, according to the latest figures released by Immigration New Zealand (INZ).",
+   "lead": "Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
+   "image": "https://static.toiimg.com/thumb/msid-135885391,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
    "why": [
-    "Affects permanent residence",
-    "Announces a change"
+    "Announces a change",
+    "Major story (19 headlines that day)",
+    "Mentions India or Indians"
    ],
    "tags": [
-    "PR / Settlement",
-    "Japan"
+    "Student / Graduate",
+    "New Zealand"
    ],
    "rank": 17,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 9,
-   "priority": 75,
+   "score": 8,
+   "priority": 73,
    "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on November 23, 2026",
    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64016",
    "date": "2026-11-20",
@@ -850,29 +831,7 @@
   {
    "desk": "Policy",
    "score": 6,
-   "priority": 50,
-   "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on November 20, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63999",
-   "date": "2026-11-19",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on November 20, 2026 (Friday) . As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
-   "image": null,
-   "why": [
-    "Regulator: RBI",
-    "Large outlay (Rs 10,000 Cr or more)"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 6,
-   "priority": 50,
+   "priority": 55,
    "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63994",
    "date": "2026-11-18",
@@ -888,13 +847,35 @@
    "tags": [
     "Banking & Rates"
    ],
+   "rank": 19,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 5,
+   "priority": 45,
+   "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on November 20, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63999",
+   "date": "2026-11-19",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on November 20, 2026 (Friday) . As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
+   "image": null,
+   "why": [
+    "Regulator: RBI",
+    "Large outlay (Rs 10,000 Cr or more)"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
    "rank": 20,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 4,
-   "priority": 33,
+   "score": 3,
+   "priority": 27,
    "title": "Sixth Round of India–Canada CEPA Negotiations Concludes in New Delhi",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2339731",
    "date": "2026-11-21",
@@ -914,8 +895,8 @@
   },
   {
    "desk": "Policy",
-   "score": 3,
-   "priority": 25,
+   "score": 2,
+   "priority": 18,
    "title": "Union Ministry of Health Proposes Incorporation of Good Storage and Distribution Practices into Drugs Rules, 1945",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338316",
    "date": "2026-11-19",
@@ -935,8 +916,8 @@
   },
   {
    "desk": "Policy",
-   "score": 3,
-   "priority": 25,
+   "score": 2,
+   "priority": 18,
    "title": "Union Health Ministry Proposes Amendment to Drugs Rules, 1945 to Provide Regulatory Flexibility for Medicinal Gases, Empty Gelatin Capsules and Disinfectant Fluids",
    "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338313",
    "date": "2026-11-19",
