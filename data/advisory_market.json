@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22 02:03 IST",
+ "updated": "2026-11-23 01:35 IST",
  "notes": [],
  "nse_stamp": "20-Nov-2026 15:30",
  "indices": [
@@ -445,8 +445,8 @@
  "periods": {
   "previousDay": "20-Nov-2026",
   "oneWeekAgo": "13-Nov-2026",
-  "oneMonthAgo": "21-Oct-2026",
-  "oneYearAgo": "20-Nov-2025"
+  "oneMonthAgo": "22-Oct-2026",
+  "oneYearAgo": "21-Nov-2025"
  },
  "flows": {
   "date": "20-Nov-2026",
@@ -590,13 +590,13 @@
   },
   {
    "name": "USD/INR",
-   "value": 92.67,
+   "value": 92.66,
    "dp": 2,
-   "d1": -0.67,
-   "w1": -1.45,
-   "m1": -1.74,
-   "y1": 4.48,
-   "asof": "21 Nov 2026 09:00 IST",
+   "d1": -0.68,
+   "w1": -1.46,
+   "m1": -2.17,
+   "y1": 4.47,
+   "asof": "22 Nov 2026 19:55 IST",
    "source": "Yahoo Finance"
   },
   {
@@ -605,9 +605,9 @@
    "dp": 2,
    "d1": -0.64,
    "w1": -2.15,
-   "m1": -4.18,
+   "m1": -4.42,
    "y1": -0.6,
-   "asof": "21 Nov 2026 09:00 IST",
+   "asof": "22 Nov 2026 09:00 IST",
    "source": "Yahoo Finance"
   }
  ],
