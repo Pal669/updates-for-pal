@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-23",
- "built": "2026-11-23 03:32 IST",
+ "built": "2026-11-23 09:34 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25801.0,
-   "change_pct": 1.12,
-   "asof": "20 Nov 15:31 IST"
+   "value": 25623.0,
+   "change_pct": -0.69,
+   "asof": "23 Nov 09:34 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 83920.0,
-   "change_pct": 1.08,
-   "asof": "20 Nov 15:32 IST"
+   "value": 84195.0,
+   "change_pct": 0.33,
+   "asof": "23 Nov 09:19 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 92.66,
-   "change_pct": -0.68,
-   "asof": "22 Nov 19:55 IST"
+   "value": 92.85,
+   "change_pct": -0.48,
+   "asof": "23 Nov 09:34 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 89.95,
-   "change_pct": -2.21,
-   "asof": "21 Nov 03:29 IST"
+   "value": 89.76,
+   "change_pct": -3.04,
+   "asof": "23 Nov 09:23 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3515.0,
-   "change_pct": -4.62,
-   "asof": "21 Nov 03:29 IST"
+   "value": 3605.0,
+   "change_pct": 2.55,
+   "asof": "23 Nov 09:24 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -162,12 +162,33 @@
   },
   "Startups": {
    "total": 1500,
-   "new_today": 0,
+   "new_today": 4,
    "items": [
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 90,
+     "priority": 82,
+     "title": "Urban Company Raises ₹2,500 Cr Via QIP, Draws Bids Worth Over ₹15,000 Cr",
+     "url": "https://inc42.com/buzz/urban-company-raises-%e2%82%b92500-cr-via-qip-draws-bids-worth-over-%e2%82%b915000-cr/",
+     "date": "2026-11-20",
+     "source": "Inc42",
+     "label": "India · Commerce & D2C",
+     "snippet": "Urban Company has raised ₹2,500 Cr through a QIP, issue sees over 6X demand from domestic and global institutional investors",
+     "lead": "Urban Company has raised ₹2,500 Cr through a QIP, attracting bids worth over ₹15,000 Cr from more than 60 domestic and global institutional investors. The company plans to deploy ₹600 Cr towards InstaHelp’s service professional ecosystem, alongside investments in technology, marketing, and its Native products business. Shares were allocated at ₹156 apiece, a 3.1% discount to the floor price of ₹161.03, with mutual funds accounting for ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/Urban-company-social-1.jpg",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $1,579M: round or valuation)"
+     ],
+     "tags": [
+      "Funding",
+      "Commerce & D2C"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 82,
      "title": "Bengaluru leads India in AI startup funding: Innovation Report 2026",
      "url": "https://yourstory.com/2026/11/bengaluru-leads-india-in-ai-startup-funding-innovation-report-2026",
      "date": "2026-11-18",
@@ -188,7 +209,7 @@
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 90,
+     "priority": 82,
      "title": "Anthropic IPO fever hits crypto: Binance launches $500 million tokenised share campaign",
      "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-ipo-fever-hits-crypto-binance-launches-500-million-tokenised-share-campaign/articleshow/135964874.cms",
      "date": "2026-11-18",
@@ -209,7 +230,7 @@
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 90,
+     "priority": 82,
      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
      "date": "2026-11-18",
@@ -225,33 +246,12 @@
      "tags": [
       "IPO & Listing"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 90,
-     "title": "Fractal To Spend Up To ₹1,000 Cr To Acquire AI Startups",
-     "url": "https://inc42.com/buzz/fractal-to-spend-up-to-%e2%82%b91000-cr-to-acquire-ai-startups/",
-     "date": "2026-11-16",
-     "source": "Inc42",
-     "label": "India · AI & Deeptech",
-     "snippet": "The acquisition strategy is closely tied to Fractal's expectations of how enterprise AI adoption will evolve over the next few years",
-     "lead": "Fractal Analytics is in talks with 20-25 startups for potential acquisitions across healthcare, agentic AI and AI engineering The acquisitions could strengthen Fractal’s enterprise AI capabilities, expand its access to specialised talent and improve its competitive positioning Fractal is open to deals worth up to ₹1,000 Cr, with a preferred acquisition size of $50-100 Mn, and reported cash and cash equivalents of ₹1,728 Cr as of ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/fractal-soc-1.jpg",
-     "why": [
-      "Acquisition",
-      "Large deal (about $105M)"
-     ],
-     "tags": [
-      "Acquisition",
-      "AI & Deeptech"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 0,
+   "new_today": 6,
    "items": [
     {
      "desk": "Immigration",
@@ -298,22 +298,22 @@
     },
     {
      "desk": "Immigration",
-     "score": 5,
-     "priority": 50,
-     "title": "Spain's citizenship by residence: the three conditions and Ghana's ten-year wait",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdG9ZZkpZVTBtdTJFVlp2NjB0NlM3REloUEtDTl9SRnc5UTdvVlFvM1p5QVJXWGNUODFzUHp3aVYzZzh6am45TFM3ZFdsSWxXZkJLaEJhQ2VIbjJfc0ZGLXd6OUZoM1FrOGwya2NoeU9OWUZIT3ROSkhrR2loYlBVQlRkYmhkNk9LRUZv?oc=5",
-     "date": "2026-11-21",
-     "source": "3News",
-     "label": "Spain",
-     "snippet": "Spain grants citizenship by residence after 10 years for Ghanaians: legal residence, civic conduct, DELE A2 and CCSE tests, and a 104.05-euro fee.",
-     "lead": "Legal residence, good civic conduct and two Instituto Cervantes tests: Spain's three conditions for naturalisation, and why Ghanaians wait ten years. The country's own citizenship portal, last updated on 13 April 2026, describes the route as \"without doubt\" the one used by most foreign nationals, founded on a physical link to Spain. Its rules sit in Article 22 of the Civil Code, and a government guide to acquiring nationality lays them ...",
-     "image": "https://media.3news.com/up84-f48-gran-via-in-madrid-at-night.jpg",
+     "score": 6,
+     "priority": 60,
+     "title": "Work Permit Finland 2026: Step-by-Step Guide",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQkJFZjJTZ3psdGg5QXYtaTFndVVKb2hNSWNEY3dXS2ZiTjU3Q043LThlVG5Rcm5VU0k3Z3VXYjI4RjFWTUFuTGw5Zi1mWEgxeVhIbmY3cXpvX2F4dnNvSGNMTi1kU183WGszYjhYNF9TYk9HNmcxMFNmMFhhZThpVFAxUlotTlJo?oc=5",
+     "date": "2026-11-23",
+     "source": "Global Advisory Experts",
+     "label": "Finland",
+     "snippet": "Work permit Finland guide for 2026: permit types, step-by-step process, documents, fees, timelines and Migri",
+     "lead": "Anyone planning a work permit Finland application in 2026 should know that the Finnish Immigration Service (Migri) is reforming the guidelines it uses to apply the law, which changes how officers assess employment-based residence permits [1] . This guide serves two readers: employers and HR teams who must assemble compliant paperwork, and foreign nationals who will file the application themselves. It covers eligibility, a numbered ...",
+     "image": "https://globaladvisoryexperts.com/_ipx/f_jpeg&w_1200&b_ffffff&flatten_true/https://cdn.globallawexperts.com/media/2026/10/work-permit-finland-2026-10-07.webp",
      "why": [
-      "Affects citizenship"
+      "Affects work visas"
      ],
      "tags": [
-      "Citizenship",
-      "Spain"
+      "Work visa",
+      "Finland"
      ]
     }
    ]
@@ -410,6 +410,29 @@
  },
  "items": [
   {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 100,
+   "title": "VC funding rebounds as startups raise $255M; Women founders driving social change",
+   "url": "https://yourstory.com/2026/11/vc-funding-rebounds-women-founders-social-change",
+   "date": "2026-11-23",
+   "source": "YourStory",
+   "label": "India · Media, Gaming & Creators",
+   "snippet": "Venture capital funding in Indian startups saw a sharp rise this week, propped up by a couple of deals in the $50-million range.",
+   "lead": "VC funding rebounds as startups raise $255M; Women founders driving social change Venture capital funding in Indian startups saw a sharp rise this week, propped up by a couple of deals in the $50-million range. Team YS 17629 Stories Monday November 23, 2026 , 5 min Read India’s startup funding landscape showed signs of recovery in the third week of November, with investments jumping to $255 million from $26 million in the previous ...",
+   "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/CopyofNewPPTTemplates21-1775307633294.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $255M)"
+   ],
+   "tags": [
+    "Funding",
+    "Media, Gaming & Creators"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
    "desk": "Immigration",
    "score": 10,
    "priority": 100,
@@ -430,7 +453,7 @@
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -453,79 +476,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 2,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 100,
-   "title": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering",
-   "url": "https://yourstory.com/2026/11/anthropic-raises-813-billion-from-ipo-with-valuation-of-15-trillion",
-   "date": "2026-11-19",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "Anthropic's IPO surpasses SpaceX's $75 billion offering. The company reported $16.2 billion in revenue in the first half of 2026, up from $1.16 billion in the same period last year, even as its reported net loss widened.",
-   "lead": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering Anthropic's IPO surpasses SpaceX's $75 billion offering. The company reported $16.2 billion in revenue in the first half of 2026, up from $1.16 billion in the same period last year, even as its reported net loss widened. Team YS 17613 Stories Thursday November 19, 2026 , 2 min Read Artificial intelligence (AI) company Anthropic has raised $81.3 billion through its ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imagermlb-1795071459700.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $81,300M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "AI & Deeptech"
-   ],
    "rank": 3,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 100,
-   "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
-   "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
-   "date": "2026-11-19",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
-   "lead": "U.K.-based fintech Payhawk announced a $280 million Series C funding round Wednesday, led by Goldman Sachs’ growth equity arm, making it one of Europe’s largest Series C rounds this year, as noted by Sifted . The round values the company at $2 billion, bringing its total funding to more than $500 million to date. Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1414277307.jpg?resize=1200,776",
-   "why": [
-    "Funding",
-    "Large deal (about $280M)",
-    "Valuation, listing or profitability signal",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 4,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 100,
-   "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-   "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-   "date": "2026-11-17",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-   "lead": "Three months after introducing its product, AI cybersecurity startup Corma has raised a $125 million Series A round at a $1 billion valuation led by NEA, the company said. Corma offers AI models and agents trained for cybersecurity defense. It has now raised a total of $185 million from backers, including Sequoia Capital, Khosla Ventures, and Coatue. The startup came out of stealth in August. Interest in its product skyrocketed after a ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $1,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 5,
    "must_read": true
   },
   {
@@ -549,8 +500,8 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 6,
-   "must_read": false
+   "rank": 4,
+   "must_read": true
   },
   {
    "desk": "Advisory",
@@ -572,8 +523,8 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 7,
-   "must_read": false
+   "rank": 5,
+   "must_read": true
   },
   {
    "desk": "Advisory",
@@ -593,6 +544,54 @@
    ],
    "tags": [
     "Regulatory"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering",
+   "url": "https://yourstory.com/2026/11/anthropic-raises-813-billion-from-ipo-with-valuation-of-15-trillion",
+   "date": "2026-11-19",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "Anthropic's IPO surpasses SpaceX's $75 billion offering. The company reported $16.2 billion in revenue in the first half of 2026, up from $1.16 billion in the same period last year, even as its reported net loss widened.",
+   "lead": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering Anthropic's IPO surpasses SpaceX's $75 billion offering. The company reported $16.2 billion in revenue in the first half of 2026, up from $1.16 billion in the same period last year, even as its reported net loss widened. Team YS 17613 Stories Thursday November 19, 2026 , 2 min Read Artificial intelligence (AI) company Anthropic has raised $81.3 billion through its ...",
+   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imagermlb-1795071459700.jpg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $81,300M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "AI & Deeptech"
+   ],
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+   "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+   "date": "2026-11-19",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+   "lead": "U.K.-based fintech Payhawk announced a $280 million Series C funding round Wednesday, led by Goldman Sachs’ growth equity arm, making it one of Europe’s largest Series C rounds this year, as noted by Sifted . The round values the company at $2 billion, bringing its total funding to more than $500 million to date. Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1414277307.jpg?resize=1200,776",
+   "why": [
+    "Funding",
+    "Large deal (about $280M)",
+    "Valuation, listing or profitability signal",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
    ],
    "rank": 8,
    "must_read": false
@@ -646,69 +645,49 @@
   },
   {
    "desk": "Startups",
-   "score": 9,
-   "priority": 90,
-   "title": "From Dreamteam To Boba Bhai — Indian Startups Raised Over $291 Mn This Week",
-   "url": "https://inc42.com/buzz/from-dreamteam-to-boba-bhai-indian-startups-raised-over-291-mn-this-week/",
-   "date": "2026-11-21",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Indian startups raised $291.3 Mn between November 16 and November 20, up 1,056% from $25.2 Mn in the previous week.",
-   "lead": "Indian startups cumulatively raised $291.3 Mn across 22 deals between November 16 and November 20, up 1,056% from $25.2 Mn in the previous week Ecommerce emerged as the second-most funded sector as three startups raised a combined $66.8 Mn Accel was the most active investor this week, participating in the funding rounds of Dreamteam, Humyn Labs, August AI, among others",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/IMG_7682.jpg",
+   "score": 10,
+   "priority": 91,
+   "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+   "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+   "date": "2026-11-17",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+   "lead": "Three months after introducing its product, AI cybersecurity startup Corma has raised a $125 million Series A round at a $1 billion valuation led by NEA, the company said. Corma offers AI models and agents trained for cybersecurity defense. It has now raised a total of $185 million from backers, including Sequoia Capital, Khosla Ventures, and Coatue. The startup came out of stealth in August. Interest in its product skyrocketed after a ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
    "why": [
     "Funding",
-    "Large deal (about $291M)"
+    "Very large figure in headline (about $1,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Funding"
+    "Funding",
+    "AI & Deeptech"
    ],
    "rank": 11,
    "must_read": false
   },
   {
-   "desk": "Startups",
+   "desk": "Immigration",
    "score": 9,
    "priority": 90,
-   "title": "Bending Spoons buys Mailchimp for $3.68B",
-   "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-   "date": "2026-11-20",
-   "source": "TechCrunch",
-   "label": "Global · Other",
-   "snippet": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
-   "lead": "Bending Spoons buys Mailchimp for $3.68B Russell Brandom 8:16 AM PST · November 20, 2026 Bending Spoons has bought up another distressed internet company. This time, it’s the email marketing firm Mailchimp, bought for $3.68 billion from the tax-preparation giant Intuit. Intuit acquired the company in 2021 for roughly $12 billion, so it’s taking quite a loss — and, perhaps, Bending Spoons is getting quite a bargain. At the time of the ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150300479.jpg?resize=1200,800",
+   "title": "New Zealand moves graduate work visa applications online, extends post-study work rights for Indian PhD graduates",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOZUNiQndmX0xCOVdSbk4tbVZOaHVsZEdDUl8yT2JlRDd4akhzNXNEY0xIbF9ubjRYV0xPdHl5V2stWmVhOXd4U1dqZEsybmhtM0NZdmVLbkZfYlNyMUlHcGhMRktCcHFBTmJ0dHlmc0NteFIwRXlQRGJnd3l5Y0syZWxQd3hUUUhFcnNmX01QNVNyVHE0eHJfTFFxYjdiTHBvVTZsZkY0d2RfYWVndkhjU3hDVTVQejVPUkVXSWRkMEVkUmtkaHl6dXVjWGF0azVwV1JpYS1LbmFxUjdMU2xCc0x0OXB0aHdtcHZaS3BGNUNmS3ZyUE4zZlpqUllJeS03Y1EyamduUkExcy1PVGc1RjRtOFlDNUFyVFJiZmttMTZDN0k?oc=5",
+   "date": "2026-11-23",
+   "source": "The Times of India",
+   "label": "New Zealand",
+   "snippet": "International students graduating from New Zealand universities will now be able to apply for post-study and short-term graduate work visas through an upgraded online immigration system. Immigration New Zealand announced on November 23, 2026, that applications for both visa categories have moved to its enhanced Immigration Online platform",
+   "lead": "Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
+   "image": "https://static.toiimg.com/thumb/msid-136088400,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
    "why": [
-    "Acquisition",
-    "Very large figure in headline (about $3,680M: round or valuation)"
+    "Announces a change",
+    "Mentions India or Indians"
    ],
    "tags": [
-    "Acquisition"
+    "Student / Graduate",
+    "New Zealand"
    ],
    "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 9,
-   "priority": 90,
-   "title": "Urban Company Raises ₹2,500 Cr Via QIP, Draws Bids Worth Over ₹15,000 Cr",
-   "url": "https://inc42.com/buzz/urban-company-raises-%e2%82%b92500-cr-via-qip-draws-bids-worth-over-%e2%82%b915000-cr/",
-   "date": "2026-11-20",
-   "source": "Inc42",
-   "label": "India · Commerce & D2C",
-   "snippet": "Urban Company has raised ₹2,500 Cr through a QIP, issue sees over 6X demand from domestic and global institutional investors",
-   "lead": "Urban Company has raised ₹2,500 Cr through a QIP, attracting bids worth over ₹15,000 Cr from more than 60 domestic and global institutional investors. The company plans to deploy ₹600 Cr towards InstaHelp’s service professional ecosystem, alongside investments in technology, marketing, and its Native products business. Shares were allocated at ₹156 apiece, a 3.1% discount to the floor price of ₹161.03, with mutual funds accounting for ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/Urban-company-social-1.jpg",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $1,579M: round or valuation)"
-   ],
-   "tags": [
-    "Funding",
-    "Commerce & D2C"
-   ],
-   "rank": 13,
    "must_read": false
   },
   {
@@ -732,7 +711,7 @@
     "Citizenship",
     "Canada"
    ],
-   "rank": 14,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -756,7 +735,7 @@
     "Citizenship",
     "Germany"
    ],
-   "rank": 15,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -780,29 +759,49 @@
     "Work visa",
     "Australia"
    ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 9,
+   "priority": 82,
+   "title": "From Dreamteam To Boba Bhai — Indian Startups Raised Over $291 Mn This Week",
+   "url": "https://inc42.com/buzz/from-dreamteam-to-boba-bhai-indian-startups-raised-over-291-mn-this-week/",
+   "date": "2026-11-21",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Indian startups raised $291.3 Mn between November 16 and November 20, up 1,056% from $25.2 Mn in the previous week.",
+   "lead": "Indian startups cumulatively raised $291.3 Mn across 22 deals between November 16 and November 20, up 1,056% from $25.2 Mn in the previous week Ecommerce emerged as the second-most funded sector as three startups raised a combined $66.8 Mn Accel was the most active investor this week, participating in the funding rounds of Dreamteam, Humyn Labs, August AI, among others",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/IMG_7682.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $291M)"
+   ],
+   "tags": [
+    "Funding"
+   ],
    "rank": 16,
    "must_read": false
   },
   {
-   "desk": "Immigration",
+   "desk": "Startups",
    "score": 9,
-   "priority": 90,
-   "title": "New Zealand student visa data: Only 64% of Indian applications approved in 2026; what applicants should k",
-   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPOGZVcXNOTm1WdWFnVjVZSVY5OTdGV1otWWdiWE1IbmFqMGVrNTZCcTVHT2RsbFQxWFhzZWlDNGpudXNUTFNkeFdNZ3ppejFYUG9lTXBxcG9hWVo2TXBpZElmdGI5cDRSaXd4SFplN3NYS091UHRQVGxpenFxT3YwaFB0empzTExpRHZja25sTWhHZC1pNTJJb3JUYlE2ZkYxc3hMekMyWGdSdE9EdndaVGEzUzJnaVZMdHFIaURWaEpuZi1UUGpLa0pDUmM0cDNvUzA4R1Bqb2JPTjhpblpRWDkzYjFYUnVJQkoza2FScV9VdVZIVHdGVXJZZXA1U3N1ZmlFR2t3TUNjREgyVnZjVGFGX09Wa3Y5RGfSAZ8CQVVfeXFMTlhMdXlHdzY1SmZhVnJ3ckJfdDBQWVNQLUtQT1M1TUFkc0dGcTkxZmp6SldNMTRuaDRXYU5TQzFta2Zjak5SRHd6bHExXy1RcXBMM01PZElVZ2tYal9FMVBDZVlZWnpVXzBaSHBVTUpHV3YwY0d6aEpBbEtLbktnVDlsSUlRNUkxR01uWlVQUWtYN2Rtb3M4RlJJS2tTVEJycmJ4NzVNYmxpYVVJVmpGS2xBVTBRX2J1TFJhWGg2dWNRVjZLYkZMTnpna3VBdl9jSzU3cHFBdmttR3BPZDJaT2llN1NhcTlPU0pSWlBRTURRQ1dXYnJqWlk4NG00MjVjeFJGV0Y0NTFVUGNOUVEteU5VcnhPSFNwYWM4ZzZPcHc?oc=5",
-   "date": "2026-11-16",
-   "source": "The Times of India",
-   "label": "New Zealand",
-   "snippet": "Indian students looking to study in New Zealand are facing a more challenging visa approval environment, with just 64.1% of student visa applications from India approved between January and September 2026, according to the latest figures released by Immigration New Zealand (INZ).",
-   "lead": "Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
-   "image": "https://static.toiimg.com/thumb/msid-135885391,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "priority": 82,
+   "title": "Bending Spoons buys Mailchimp for $3.68B",
+   "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+   "date": "2026-11-20",
+   "source": "TechCrunch",
+   "label": "Global · Other",
+   "snippet": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
+   "lead": "Bending Spoons buys Mailchimp for $3.68B Russell Brandom 8:16 AM PST · November 20, 2026 Bending Spoons has bought up another distressed internet company. This time, it’s the email marketing firm Mailchimp, bought for $3.68 billion from the tax-preparation giant Intuit. Intuit acquired the company in 2021 for roughly $12 billion, so it’s taking quite a loss — and, perhaps, Bending Spoons is getting quite a bargain. At the time of the ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150300479.jpg?resize=1200,800",
    "why": [
-    "Announces a change",
-    "Major story (19 headlines that day)",
-    "Mentions India or Indians"
+    "Acquisition",
+    "Very large figure in headline (about $3,680M: round or valuation)"
    ],
    "tags": [
-    "Student / Graduate",
-    "New Zealand"
+    "Acquisition"
    ],
    "rank": 17,
    "must_read": false
