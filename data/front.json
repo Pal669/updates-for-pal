@@ -1,6 +1,6 @@
 {
- "edition": "2026-11-23",
- "built": "2026-11-23 13:38 IST",
+ "edition": "2026-11-24",
+ "built": "2026-11-24 03:45 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,76 +12,114 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25459.0,
-   "change_pct": -1.32,
-   "asof": "23 Nov 13:38 IST"
+   "value": 25801.0,
+   "change_pct": 1.12,
+   "asof": "23 Nov 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 82770.0,
-   "change_pct": -1.37,
-   "asof": "23 Nov 13:23 IST"
+   "value": 83920.0,
+   "change_pct": 1.08,
+   "asof": "23 Nov 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
    "value": 92.9,
    "change_pct": -0.42,
-   "asof": "23 Nov 13:38 IST"
+   "asof": "24 Nov 03:16 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 89.58,
-   "change_pct": -3.23,
-   "asof": "23 Nov 13:28 IST"
+   "value": 86.72,
+   "change_pct": -6.32,
+   "asof": "24 Nov 03:28 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3618.0,
-   "change_pct": 2.93,
-   "asof": "23 Nov 13:28 IST"
+   "value": 3634.0,
+   "change_pct": 3.39,
+   "asof": "24 Nov 03:29 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 4.91,
-   "change_pct": -2.77,
-   "asof": "21 Nov 01:29 IST"
+   "value": 4.92,
+   "change_pct": 0.12,
+   "asof": "24 Nov 01:29 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "Kissht",
-   "tagline": "Listed digital lender (NBFC)",
-   "what": "Lending-tech platform founded in 2015 by Ranvir Singh and Krishnan Vishwanathan. Offers digital personal and business loans up to Rs 5 lakh, health-related insurance products and secured loans against property. Got regulatory approval in July 2026 to distribute mutual funds through subsidiary Invincible Minds.",
+   "company": "Kuku Technologies (Kuku FM)",
+   "tagline": "Audio and microdrama OTT, IPO cleared by SEBI",
+   "what": "Founded in 2018 by Lal Chand Bisu, Vikas Goyal and Vinod Meena. Offers audiobooks, podcasts and original audio shows under Kuku FM, plus microdrama platform Kuku TV and microlearning platform Guru. Content library of 20,000+ titles in seven languages; it claims 1 Cr+ listeners and creators and 400 Mn app downloads across its portfolio.",
    "how": [
-    "The article does not give a revenue split.",
-    "Inferred, not from the article: as an NBFC, its core income is interest and fees on the loans it makes; insurance and mutual fund distribution would add commissions."
+    "The article does not explain the revenue model.",
+    "Not stated: whether income comes from subscriptions, pay-per-content or ads. Check the DRHP when it becomes public."
    ],
-   "watch": "The company did not say how it will use the money. Fresh capital for a lender usually funds loan growth, but that is inference.",
-   "sector": "Fintech",
+   "watch": "Fresh-issue money is planned for tech, AI infrastructure, content production and geographic expansion. Competitors named: Pocket FM, Flick TV, ReelSaga, Miniplix and OTT majors (Amazon, JioHotstar, Zee5).",
+   "sector": "Media, Gaming & Creators",
    "region": "India",
-   "url": "https://inc42.com/buzz/kissht-gets-board-nod-to-raise-%e2%82%b9832-cr-via-preferential-issue/"
+   "url": "https://inc42.com/buzz/sebi-greenlights-kuku-technologies-%e2%82%b93500-cr-ipo/"
   },
   "country": {
-   "id": "sweden",
-   "name": "Sweden",
+   "id": "denmark",
+   "name": "Denmark",
    "trend": "Tightening",
-   "pr": "Work-based PR after 4 years (44 months), with net income of at least SEK 29,680 a month for the previous 12 months.",
-   "citizenship": "Since 6 June 2026: 8 years of residence, higher income test, and mandatory Swedish language and civics tests (first sitting August 2026). Adult fee rose from SEK 1,500 to SEK 2,900.",
-   "pro": "PR in 4 years.",
-   "con": "Citizenship clock stretched to 8 years with a language test.",
-   "watch": "Further income thresholds"
+   "pr": "8 years of legal residence in general; reducible to 4 years if you pass the Danish PD3 test, work full-time, are self-sufficient and meet active-citizenship conditions.",
+   "citizenship": "Granted by an Act of the Danish Parliament after conditions are met; the exact timeline was not verified this session. Denmark allows dual citizenship (general knowledge).",
+   "pro": "High pay and strong work-life balance (general knowledge).",
+   "con": "One of the strictest immigration regimes in Europe (general knowledge).",
+   "watch": "Annual indexation of pay limits"
   }
  },
  "desks": {
   "Policy": {
-   "total": 373,
-   "new_today": 1,
+   "total": 378,
+   "new_today": 0,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 2,
+     "priority": 20,
+     "title": "Union Ministry of Health Proposes Incorporation of Good Storage and Distribution Practices into Drugs Rules, 1945",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338316",
+     "date": "2026-11-19",
+     "source": "PIB",
+     "label": "Health & Pharma",
+     "snippet": "The Union Ministry of Health and Family Welfare has proposed the incorporation of Good Storage and Distribution Practices (GSDP) guidelines for pharmaceutical products into the Drugs Rules, 1945. The",
+     "lead": "Ministry of Health and Family Welfare Union Ministry of Health Proposes Incorporation of Good Storage and Distribution Practices into Drugs Rules, 1945 GSDP Framework to Enhance Regulatory Oversight and Accountability in Pharmaceutical Supply Chain Proposed Measures to Ensure Quality, Safety and Integrity of Pharmaceutical Products from Manufacturer to Patient Posted On: 19 NOV 2026 1:02PM by PIB Delhi The Union Ministry of Health and ...",
+     "image": null,
+     "why": [
+      "Rule change"
+     ],
+     "tags": [
+      "Health & Pharma"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 2,
+     "priority": 20,
+     "title": "Union Health Ministry Proposes Amendment to Drugs Rules, 1945 to Provide Regulatory Flexibility for Medicinal Gases, Empty Gelatin Capsules and Disinfectant Fluids",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338313",
+     "date": "2026-11-19",
+     "source": "PIB",
+     "label": "Energy & Power",
+     "snippet": "Union Ministry of Health and Family Welfare has proposed an amendment to the Drugs Rules, 1945, through a draft Gazette Notification G.S.R. 985 (E) dated 6th November, published in the Gazette of Indi",
+     "lead": "Ministry of Health and Family Welfare Union Health Ministry Proposes Amendment to Drugs Rules, 1945 to Provide Regulatory Flexibility for Medicinal Gases, Empty Gelatin Capsules and Disinfectant Fluids Proposed amendment seeks to continue exemptions available under the pre-revised Schedule M Posted On: 19 NOV 2026 1:01PM by PIB Delhi Union Ministry of Health and Family Welfare has proposed an amendment to the Drugs Rules, 1945, through ...",
+     "image": null,
+     "why": [
+      "Rule change"
+     ],
+     "tags": [
+      "Energy & Power"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 2,
@@ -119,55 +157,17 @@
      "tags": [
       "Labour & Social"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 2,
-     "priority": 20,
-     "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Nagar Sahakari Bank Ltd., Etawah – Extension of Period",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63988",
-     "date": "2026-11-17",
-     "source": "RBI",
-     "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "The Reserve Bank of India issued Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 to Nagar Sahakari Bank Ltd., Etawah, vide Directive No. LKO.DOS.SED.No.S29/12-03-000/2026-2027 dated May 15, 2026, for a period of six months up to close of business on November 18, 2026. The Reserve Bank of India is satisfied that in the public interest, it is necessary to further extend the period of operation of the ...",
-     "image": null,
-     "why": [
-      "Regulator: RBI"
-     ],
-     "tags": [
-      "Banking & Rates"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 2,
-     "priority": 20,
-     "title": "India’s Horticulture Production Set to Reach Record 386.9 Million Tonnes in 2025-26: Shri Shivraj Singh Chouhan Releases Third Advance Estimates",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2337301",
-     "date": "2026-11-17",
-     "source": "PIB",
-     "label": "Agriculture & Food",
-     "snippet": "Union Minister for Agriculture and Farmers’ Welfare and Rural Development, Shri Shivraj Singh Chouhan, today released the Third Advance Estimates of area and production of horticultural crops for 2025",
-     "lead": "Ministry of Agriculture & Farmers Welfare India’s Horticulture Production Set to Reach Record 386.9 Million Tonnes in 2025-26: Shri Shivraj Singh Chouhan Releases Third Advance Estimates Horticulture production estimated to rise by 4.36% despite a decline in cultivated area; fruits, vegetables, flowers and plantation crops register strong growth Potato production projected to increase by nearly 12%; overall horticulture output expected ...",
-     "image": null,
-     "why": [
-      "Rule change"
-     ],
-     "tags": [
-      "Agriculture & Food"
-     ]
     }
    ]
   },
   "Startups": {
    "total": 1500,
-   "new_today": 9,
+   "new_today": 2,
    "items": [
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 82,
+     "priority": 75,
      "title": "Urban Company Raises ₹2,500 Cr Via QIP, Draws Bids Worth Over ₹15,000 Cr",
      "url": "https://inc42.com/buzz/urban-company-raises-%e2%82%b92500-cr-via-qip-draws-bids-worth-over-%e2%82%b915000-cr/",
      "date": "2026-11-20",
@@ -188,7 +188,7 @@
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 82,
+     "priority": 75,
      "title": "Bengaluru leads India in AI startup funding: Innovation Report 2026",
      "url": "https://yourstory.com/2026/11/bengaluru-leads-india-in-ai-startup-funding-innovation-report-2026",
      "date": "2026-11-18",
@@ -209,7 +209,7 @@
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 82,
+     "priority": 75,
      "title": "Anthropic IPO fever hits crypto: Binance launches $500 million tokenised share campaign",
      "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-ipo-fever-hits-crypto-binance-launches-500-million-tokenised-share-campaign/articleshow/135964874.cms",
      "date": "2026-11-18",
@@ -230,7 +230,7 @@
     {
      "desk": "Startups",
      "score": 9,
-     "priority": 82,
+     "priority": 75,
      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
      "date": "2026-11-18",
@@ -251,12 +251,33 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 9,
+   "new_today": 2,
    "items": [
     {
      "desk": "Immigration",
      "score": 8,
      "priority": 80,
+     "title": "New Zealand moves graduate work visa applications online, extends post-study work rights for Indian PhD graduates",
+     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOZUNiQndmX0xCOVdSbk4tbVZOaHVsZEdDUl8yT2JlRDd4akhzNXNEY0xIbF9ubjRYV0xPdHl5V2stWmVhOXd4U1dqZEsybmhtM0NZdmVLbkZfYlNyMUlHcGhMRktCcHFBTmJ0dHlmc0NteFIwRXlQRGJnd3l5Y0syZWxQd3hUUUhFcnNmX01QNVNyVHE0eHJfTFFxYjdiTHBvVTZsZkY0d2RfYWVndkhjU3hDVTVQejVPUkVXSWRkMEVkUmtkaHl6dXVjWGF0azVwV1JpYS1LbmFxUjdMU2xCc0x0OXB0aHdtcHZaS3BGNUNmS3ZyUE4zZlpqUllJeS03Y1EyamduUkExcy1PVGc1RjRtOFlDNUFyVFJiZmttMTZDN0k?oc=5",
+     "date": "2026-11-23",
+     "source": "The Times of India",
+     "label": "New Zealand",
+     "snippet": "International students graduating from New Zealand universities will now be able to apply for post-study and short-term graduate work visas through an upgraded online immigration system. Immigration New Zealand announced on November 23, 2026, that applications for both visa categories have moved to its enhanced Immigration Online platform",
+     "lead": "Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
+     "image": "https://static.toiimg.com/thumb/msid-136088400,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+     "why": [
+      "Announces a change",
+      "Mentions India or Indians"
+     ],
+     "tags": [
+      "Student / Graduate",
+      "New Zealand"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 7,
+     "priority": 70,
      "title": "Belgium raises 2027 work visa salary thresholds for foreign professionals, including Indians",
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU0FmRFFucXlBTG5kWkxBQUlCWkNjdnpzejJKU3Nrbk02ZllXLXAyTy1OV0JDclNkZTM1bHhWT29MOVNuUXVtN0J2Y3BBNXJTT2lUcjBsNnQ4ZmlzdTk3bVBqWGg1enZMNHZnYWlicUJOQjlBdE9FTHB3NV9qUE1tSktVYnQ4NE9UX2h6QjhyU2RoTGJVRUsxTW9aM3JGMUhXa0FuU2s3V2thdFlGb0JDTVBZcHNEUXNjVE5jenoyU1RNLXAxV21NRTFSNUROeHBQZGFIV3FwaUlvVXlocXR6azM2c3BRbDVOaGfSAe8BQVVfeXFMTjhka2p6Z0xxM2s5QmZGTlYyRV9ROXkzSFI5N18zbTRzdkNCOVJicXlSbjUtQ3FQalg3dEJEYnByTmZxUVRoRVVpZmJBY3hBNnMyR190ZXZsVnM2UjFvVUt5RG9MX1I3V0F5Tkk0T3RBek1ubzFDaV91LWRvVEJpcTBzcWVBUWdyMkxaZTVVRl9iYURUOUZhSnpiU0hNTDZxVXZlSWJSNS00TnQwS3RpWmQxZmtsaHJ0cEpRVThUcFd0TEdESk5lblFSNGdSa3UzNnRBZTN2MGV1QjBuY0JNUGg0WGRuLWlNdU92UXJGaXc?oc=5",
      "date": "2026-11-21",
@@ -277,8 +298,29 @@
     },
     {
      "desk": "Immigration",
-     "score": 6,
-     "priority": 60,
+     "score": 7,
+     "priority": 70,
+     "title": "Japan Introduces Stricter Permanent Residency Requirements for Foreign Nationals",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVENCVWFPN0xRd29zMGNKQmhRYWZZMExYYWZ2UFNCTTlJOUVibWFOUmVHRzJSSlJGS1pLRGhzMTVoNk5yeGNyOTRGbS1pa0dVTG00NlhoOUw3UDdrRE5UbENzSmp2T2NSMnhsWGZ1VnlLOE03d3l2enRKOFdNNlZDV0N6QkNSaEJ0MTRWanNxNEdTNGYxaTFydGs2bzdBdTA?oc=5",
+     "date": "2026-11-20",
+     "source": "Head Topics",
+     "label": "Japan",
+     "snippet": "Japan is proposing stricter permanent residency rules for foreign nationals, requiring Japanese language proficiency at B1 level or higher and an assessment of understanding of laws, rules, and social",
+     "lead": "Japan is proposing stricter permanent residency rules for foreign nationals, requiring Japanese language proficiency at B1 level or higher and an assessment of understanding of laws, rules, and social systems. Exemptions apply to highly skilled professionals, qualifying family members, those with six years of Japanese education, children with proficient parents, and cases with individual exemptions. Support us: Japan is introducing ...",
+     "image": "https://i.headtopics.com/images/2026/11/20/mobilepunch/japan-introduces-stricter-permanent-residency-requ-japan-introduces-stricter-permanent-residency-requ-2744337C42BD91F8574BFD14AC86BAE8-16x9.webp",
+     "why": [
+      "Affects permanent residence",
+      "Announces a change"
+     ],
+     "tags": [
+      "PR / Settlement",
+      "Japan"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 5,
+     "priority": 50,
      "title": "Work Permit Finland 2026: Step-by-Step Guide",
      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQkJFZjJTZ3psdGg5QXYtaTFndVVKb2hNSWNEY3dXS2ZiTjU3Q043LThlVG5Rcm5VU0k3Z3VXYjI4RjFWTUFuTGw5Zi1mWEgxeVhIbmY3cXpvX2F4dnNvSGNMTi1kU183WGszYjhYNF9TYk9HNmcxMFNmMFhhZThpVFAxUlotTlJo?oc=5",
      "date": "2026-11-23",
@@ -299,7 +341,7 @@
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 2,
+   "new_today": 0,
    "items": [
     {
      "desk": "Advisory",
@@ -345,43 +387,44 @@
     },
     {
      "desk": "Advisory",
-     "score": 9,
-     "priority": 82,
-     "title": "AIF commitments hit a high of ₹18.68 trillion as of September: Sebi data",
-     "url": "https://www.business-standard.com/markets/news/aif-commitments-hit-a-high-of-18-68-trillion-as-of-september-sebi-data-126111601365_1.html",
-     "date": "2026-11-16",
-     "source": "Business Standard",
-     "label": "AIF",
-     "snippet": "In comparison, the total commitments in this segment catering to the affluent stood at ₹17.53 trillion at the end of June while it was ₹15.05 trillion a year ago",
-     "lead": "AIF commitments are usually drawn segments by fund managers when investment opportunities are identified, and get reflected progressively in the funds raised and investments made Don't miss the most important news and views of the day. Get them on our Telegram channel",
-     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-12/26/thumb/fitandfill/1200X628/1766768985-157.jpg",
+     "score": 8,
+     "priority": 73,
+     "title": "SEBI InvIT DR framework in IFSC: structuring, compliance and documentation guide",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYnVGRW1Ca3N6Nk1PSnZFREhkZmpwMjROM2ltWE9MWFVrM21wbmZYMkZxVEZoMnV5Vncxc2hiM0gtYUF1ZDVqc0pvM0lnRUdKbVFKOVZhbGxHSGJrdHU2YlM5TVBXckoxTE1NblIzYnhLWUxQUW80NV9TNTBrTU9sa2NsalRJS3l6VVhabjRvWWIyd1hwQXEtVlNNNmhKX0JRSWN1SEc1UHhvWTF6?oc=5",
+     "date": "2026-11-19",
+     "source": "TaxCorp AI",
+     "label": "REITs & InvITs",
+     "snippet": "",
+     "lead": "",
+     "image": null,
      "why": [
-      "AIF news",
+      "REIT / InvIT news",
       "Regulator: SEBI or RBI",
-      "Also covered by 2 other outlet(s)"
+      "Rule or framework change"
      ],
      "tags": [
-      "AIF"
+      "REITs & InvITs"
      ]
     },
     {
      "desk": "Advisory",
      "score": 8,
      "priority": 73,
-     "title": "Only 5% of Cryptocurrencies Are Rising as Fed Rate Hike Fears Grow",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FWVE2LTdiaGMwZHNITXp4aDNUZ21wQlJfM3RuM3dxNGxmNURNWWFDaV9STUJLaEJtS010ZHV1bFBDUXFoMERvMDA2R1NXYjVudzJqcE9jU3NqMWYtMEVjRjJCNldwTHpXR3BDZEdsZmROaTUxY3RRNFVxNA?oc=5",
-     "date": "2026-11-22",
-     "source": "BeInCrypto",
-     "label": "Global",
-     "snippet": "",
-     "lead": "",
-     "image": null,
+     "title": "Sebi approves transfer of ICICI Securities' PMS biz to ICICI Prudential AMC",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMmlPR1ZhX3FocC10X0xXSlB2NVZXeE9FdkY3RmRlVXQ2YTh2bW03UDlUVHgzSXRXRFVQa0hwQXpESzRURGtURE1tSlI3NkZHY2ZqRnN0MUpNbWhqLTAyaHNRc1BqbWo5R0hNaHZnVDlOOGZ4Mk1uWWNELTIwbi1KbVdTQ09Eb1dwbC1BdmlNTzVhT3U0TDRzMW5BNENRQmxnODM4WjllOUlBZHJWZFM3dEhNRkI0bkJ2M2hQd095RVZUM3gzWHVkS2FxUWN6dkNZSnBpU0lXRXVwRjTSAeABQVVfeXFMTzJUQmUtSE9HcjlzMzJ6aFRxUjVRMFBwLV9LZ3pxa0JZbGhzbkt6UktTOTJkc0VUOHQ4UWhUUVJzYkJJVWlSZU1uaTBuYXYxcVBjZ0MwaTd3d3o5SEVIT2lNRDRTSnJyUVRiSUxhU3NxbGlhM1BmSnFPQ1BhOExNcUZ2eVdGQk00aUY2b0l5bDdGVWpnZVM3YXprU3BtNG1rQjA2azZ0c1VjMi11NWtVRzEzd3ptS2JGSGRpX0poemxwZTlyZ0VFX0JBZktRUzRMeHplTXFjRkVOclNJSTBvVU8?oc=5",
+     "date": "2026-11-19",
+     "source": "Business Standard",
+     "label": "PMS",
+     "snippet": "The proposed acquisition will be carried out through a slump sale on a going-concern basis",
+     "lead": "The closing of the transaction was subject to receipt of requisite regulatory approvals | Image: Bloomberg Market regulator Sebi has approved the proposed transfer of portfolio management services (PMS) business of ICICI Securities to ICICI Prudential Asset Management Company. The proposed acquisition will be carried out through a slump sale on a going-concern basis.",
+     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/07/thumb/fitandfill/1200X628/1791365134-9817.jpg",
      "why": [
-      "Interest-rate decision",
-      "Global macro driver"
+      "PMS news",
+      "Regulator: SEBI or RBI",
+      "Also covered by 1 other outlet(s)"
      ],
      "tags": [
-      "Global"
+      "PMS"
      ]
     }
    ]
@@ -392,16 +435,17 @@
    "desk": "Policy",
    "score": 10,
    "priority": 100,
-   "title": "RBI to conduct 2-day Variable Rate Repo (VRR) auction under LAF on November 23, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64019",
+   "title": "Reserve Bank of India (Securitisation Transactions) Amendment Directions, 2026: issued for 4 bank categories",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13756&Mode=0",
    "date": "2026-11-23",
    "source": "RBI",
    "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a second Variable Rate Repo (VRR) auction on Monday, November 23, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by the Section 45L of the Reserve Bank of India Act, 1934, the Reserve Bank being satisfied that it is necessary and expedient in the public ...",
    "image": null,
    "why": [
-    "Rates and liquidity",
+    "Regulator rulebook change",
+    "Rule change",
     "Regulator: RBI"
    ],
    "tags": [
@@ -411,50 +455,71 @@
    "must_read": true
   },
   {
-   "desk": "Startups",
-   "score": 11,
+   "desk": "Policy",
+   "score": 10,
    "priority": 100,
-   "title": "VC funding rebounds as startups raise $255M; Women founders driving social change",
-   "url": "https://yourstory.com/2026/11/vc-funding-rebounds-women-founders-social-change",
+   "title": "RBI issues Draft Amendment Directions for ‘Preventive Safeguards for Electronic Banking Transactions (EBTs)’",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64026",
    "date": "2026-11-23",
-   "source": "YourStory",
-   "label": "India · Media, Gaming & Creators",
-   "snippet": "Venture capital funding in Indian startups saw a sharp rise this week, propped up by a couple of deals in the $50-million range.",
-   "lead": "VC funding rebounds as startups raise $255M; Women founders driving social change Venture capital funding in Indian startups saw a sharp rise this week, propped up by a couple of deals in the $50-million range. Team YS 17629 Stories Monday November 23, 2026 , 5 min Read India’s startup funding landscape showed signs of recovery in the third week of November, with investments jumping to $255 million from $26 million in the previous ...",
-   "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/CopyofNewPPTTemplates21-1775307633294.jpg",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "The Reserve Bank had issued the Amendment Directions dated June 24, 2026 on ‘ Customer Protection in Fraudulent Electronic Banking Transactions ’ which, inter alia, strengthened the existing framework for limiting liability of customers in unauthorised Electronic Banking Transactions (EBTs). While the revised framework primarily addresses customer liability in the event of fraudulent EBTs, a need is felt to strengthen the same from a ...",
+   "image": null,
    "why": [
-    "Funding",
-    "Large deal (about $255M)"
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: RBI"
    ],
    "tags": [
-    "Funding",
-    "Media, Gaming & Creators"
+    "Banking & Rates"
    ],
    "rank": 2,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 100,
+   "title": "From a small Indian village to a $44 billion deal: The rise of Zscaler founder Jay Chaudhry",
+   "url": "https://economictimes.indiatimes.com/tech/technology/from-small-indian-village-to-44-billion-deal-the-rise-of-zscaler-founder-jay-chaudhry/articleshow/136103683.cms",
+   "date": "2026-11-23",
+   "source": "ET Startups",
+   "label": "India · Other",
+   "snippet": "Chaudhry has founded five technology companies in the US over the past three decades. Four of these companies were acquired by other businesses, with Zscaler now set to become part of CrowdStrike.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-657366,resizemode-75,msid-136103683/tech/technology/from-small-indian-village-to-44-billion-deal-the-rise-of-zscaler-founder-jay-chaudhry.jpg",
+   "why": [
+    "Acquisition",
+    "Very large figure in headline (about $44,000M: round or valuation)"
+   ],
+   "tags": [
+    "Acquisition"
+   ],
+   "rank": 3,
    "must_read": true
   },
   {
    "desk": "Immigration",
    "score": 10,
    "priority": 100,
-   "title": "Major Changes To UK Indefinite Leave To Remain ('ILR') Confirmed",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN1R0cXhiNndzM1NMa3BXM3FLM05Xb1RidWNDdWJNT1RucHJ3YVhSTWQ5cTQtUVBqN0d0Sm93azJtYlh1d01od2o1Q3FLc3h2SklETGc0eWRGOHVtNFZrOUR5NkphajI0eWNsaUlMN1ZqOG5XWTNScldBNXd6aDZzeVVITGRLbGZfNGM0SWs5ckhXTTcwNFhrT25DekY1aFh2eVZrNWtPN1hidS1PRmtrWXcyOEsxWFQ5WUQ3X1V3VEprQkk?oc=5",
-   "date": "2026-11-21",
-   "source": "Legal 500",
-   "label": "United Kingdom",
-   "snippet": "The UK Home Office has unveiled a comprehensive overhaul of its settlement framework, introducing tiered pathways ranging from 3 to 20 years based on earnings…",
-   "lead": "Withers is an international law firm focused on the personal, business and philanthropic interests...",
-   "image": "https://www.legal500.com/assets/dynamic/a4149ebc3ffe185eca4058cf0d8cf56825ae0b0a745392fbd029ec1b42bd2878/17702.jpg",
+   "title": "How extreme are the far-right FPÖ's proposals to tighten Austria's citizenship laws?",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdl95LW5INWl3UGt2VjhId20taTRDak1XTkEwbjkydTJsekY2blRQV1dtbTRWN1RtX1oyVFdZNEJFejZEUDJhcnFHSHgyRFJKUHhzNFFFc1h3VXpBSWlRTE45NGcwamw0bzAtY1o4aWJtU1hNLXBaLU4zOUw0TnlSaDBMRUROSm44ZnlXMUpBUmk5M19yN04xcXp3VW9OeGcyVjUyOS1OYkMwRGRHcDMxOHctVmo?oc=5",
+   "date": "2026-11-23",
+   "source": "The Local Austria",
+   "label": "Austria",
+   "snippet": "Austria's naturalisation laws are rarely out of the headlines. Today we look at how the far-right Freedom Party (FPÖ), the most popular party in Austria, wants to tighten the laws around citizenship, including proposals for a \"probationary period\".",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden 1 comment Add The Local as a preferred source Austria's naturalisation laws are rarely out of the headlines. Today we look at how the far-right Freedom Party (FPÖ), the most popular party in Austria, wants to tighten the laws around citizenship, including proposals ...",
+   "image": null,
    "why": [
-    "Affects permanent residence",
-    "Announces a change",
-    "Major story (8 headlines that day)"
+    "Affects citizenship",
+    "Announces a change"
    ],
    "tags": [
-    "PR / Settlement",
-    "United Kingdom"
+    "Citizenship",
+    "Austria"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -477,7 +542,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -500,29 +565,6 @@
    ],
    "tags": [
     "Regulatory"
-   ],
-   "rank": 5,
-   "must_read": true
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 91,
-   "title": "Gold Falls Nearly 11% on MCX as Traders Brace for Fed Rate Hike",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdlNJZ0NLM2w3RUc3X0dNcEhJZGJLREY5cXh0RUFnU3lucHh5YnpWekpnR0d5bnpKWHJOYVNqejNhSjZZbEkyZEU1bXpaRE90dXJfOGxzQ2VvUURzTUdvRDdtWGhfalBMcGs3TlFiaWFoRkZFanNXZ0drNkJOOExmblNScVR2REtVTFUwLXV3?oc=5",
-   "date": "2026-11-22",
-   "source": "IBTimes India",
-   "label": "Gold & Silver",
-   "snippet": "MCX gold fell nearly 11% last week as the rupee strengthened. With a Fed hike largely priced in, traders are watching whether ₹1.20 lakh holds.",
-   "lead": "",
-   "image": "https://data1.ibtimes.co.in/en/full/841674/gold-silver-tumble-6-6-strong-dollar-high-yields-dent-bullion-check-latest-rates-mumbai.png?w=800&h=420",
-   "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver"
-   ],
-   "tags": [
-    "Gold & Silver"
    ],
    "rank": 6,
    "must_read": false
@@ -550,54 +592,6 @@
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering",
-   "url": "https://yourstory.com/2026/11/anthropic-raises-813-billion-from-ipo-with-valuation-of-15-trillion",
-   "date": "2026-11-19",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "Anthropic's IPO surpasses SpaceX's $75 billion offering. The company reported $16.2 billion in revenue in the first half of 2026, up from $1.16 billion in the same period last year, even as its reported net loss widened.",
-   "lead": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering Anthropic's IPO surpasses SpaceX's $75 billion offering. The company reported $16.2 billion in revenue in the first half of 2026, up from $1.16 billion in the same period last year, even as its reported net loss widened. Team YS 17613 Stories Thursday November 19, 2026 , 2 min Read Artificial intelligence (AI) company Anthropic has raised $81.3 billion through its ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imagermlb-1795071459700.jpg",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $81,300M: round or valuation)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "AI & Deeptech"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
-   "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
-   "date": "2026-11-19",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
-   "lead": "U.K.-based fintech Payhawk announced a $280 million Series C funding round Wednesday, led by Goldman Sachs’ growth equity arm, making it one of Europe’s largest Series C rounds this year, as noted by Sifted . The round values the company at $2 billion, bringing its total funding to more than $500 million to date. Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1414277307.jpg?resize=1200,776",
-   "why": [
-    "Funding",
-    "Large deal (about $280M)",
-    "Valuation, listing or profitability signal",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
    "desk": "Advisory",
    "score": 10,
    "priority": 91,
@@ -618,7 +612,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 10,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -641,54 +635,53 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 11,
+   "rank": 9,
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 91,
-   "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-   "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-   "date": "2026-11-17",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-   "lead": "Three months after introducing its product, AI cybersecurity startup Corma has raised a $125 million Series A round at a $1 billion valuation led by NEA, the company said. Corma offers AI models and agents trained for cybersecurity defense. It has now raised a total of $185 million from backers, including Sequoia Capital, Khosla Ventures, and Coatue. The startup came out of stealth in August. Interest in its product skyrocketed after a ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+   "desk": "Policy",
+   "score": 9,
+   "priority": 90,
+   "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on November 25, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64033",
+   "date": "2026-11-23",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Wednesday, November 25, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "image": null,
    "why": [
-    "Funding",
-    "Very large figure in headline (about $1,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
+    "Rates and liquidity",
+    "Regulator: RBI"
    ],
    "tags": [
-    "Funding",
-    "AI & Deeptech"
+    "Banking & Rates"
    ],
-   "rank": 12,
+   "rank": 10,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 9,
    "priority": 90,
-   "title": "New Zealand moves graduate work visa applications online, extends post-study work rights for Indian PhD graduates",
-   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOZUNiQndmX0xCOVdSbk4tbVZOaHVsZEdDUl8yT2JlRDd4akhzNXNEY0xIbF9ubjRYV0xPdHl5V2stWmVhOXd4U1dqZEsybmhtM0NZdmVLbkZfYlNyMUlHcGhMRktCcHFBTmJ0dHlmc0NteFIwRXlQRGJnd3l5Y0syZWxQd3hUUUhFcnNmX01QNVNyVHE0eHJfTFFxYjdiTHBvVTZsZkY0d2RfYWVndkhjU3hDVTVQejVPUkVXSWRkMEVkUmtkaHl6dXVjWGF0azVwV1JpYS1LbmFxUjdMU2xCc0x0OXB0aHdtcHZaS3BGNUNmS3ZyUE4zZlpqUllJeS03Y1EyamduUkExcy1PVGc1RjRtOFlDNUFyVFJiZmttMTZDN0k?oc=5",
-   "date": "2026-11-23",
-   "source": "The Times of India",
-   "label": "New Zealand",
-   "snippet": "International students graduating from New Zealand universities will now be able to apply for post-study and short-term graduate work visas through an upgraded online immigration system. Immigration New Zealand announced on November 23, 2026, that applications for both visa categories have moved to its enhanced Immigration Online platform",
-   "lead": "Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
-   "image": "https://static.toiimg.com/thumb/msid-136088400,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "title": "Major Changes To UK Indefinite Leave To Remain ('ILR') Confirmed",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN1R0cXhiNndzM1NMa3BXM3FLM05Xb1RidWNDdWJNT1RucHJ3YVhSTWQ5cTQtUVBqN0d0Sm93azJtYlh1d01od2o1Q3FLc3h2SklETGc0eWRGOHVtNFZrOUR5NkphajI0eWNsaUlMN1ZqOG5XWTNScldBNXd6aDZzeVVITGRLbGZfNGM0SWs5ckhXTTcwNFhrT25DekY1aFh2eVZrNWtPN1hidS1PRmtrWXcyOEsxWFQ5WUQ3X1V3VEprQkk?oc=5",
+   "date": "2026-11-21",
+   "source": "Legal 500",
+   "label": "United Kingdom",
+   "snippet": "The UK Home Office has unveiled a comprehensive overhaul of its settlement framework, introducing tiered pathways ranging from 3 to 20 years based on earnings…",
+   "lead": "Withers is an international law firm focused on the personal, business and philanthropic interests...",
+   "image": "https://www.legal500.com/assets/dynamic/a4149ebc3ffe185eca4058cf0d8cf56825ae0b0a745392fbd029ec1b42bd2878/17702.jpg",
    "why": [
+    "Affects permanent residence",
     "Announces a change",
-    "Mentions India or Indians"
+    "Major story (8 headlines that day)"
    ],
    "tags": [
-    "Student / Graduate",
-    "New Zealand"
+    "PR / Settlement",
+    "United Kingdom"
    ],
-   "rank": 13,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -712,7 +705,7 @@
     "Citizenship",
     "Canada"
    ],
-   "rank": 14,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -736,7 +729,7 @@
     "Citizenship",
     "Germany"
    ],
-   "rank": 15,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -760,35 +753,131 @@
     "Work visa",
     "Australia"
    ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 83,
+   "title": "VC funding rebounds as startups raise $255M; Women founders driving social change",
+   "url": "https://yourstory.com/2026/11/vc-funding-rebounds-women-founders-social-change",
+   "date": "2026-11-23",
+   "source": "YourStory",
+   "label": "India · Media, Gaming & Creators",
+   "snippet": "Venture capital funding in Indian startups saw a sharp rise this week, propped up by a couple of deals in the $50-million range.",
+   "lead": "VC funding rebounds as startups raise $255M; Women founders driving social change Venture capital funding in Indian startups saw a sharp rise this week, propped up by a couple of deals in the $50-million range. Team YS 17629 Stories Monday November 23, 2026 , 5 min Read India’s startup funding landscape showed signs of recovery in the third week of November, with investments jumping to $255 million from $26 million in the previous ...",
+   "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/CopyofNewPPTTemplates21-1775307633294.jpg",
+   "why": [
+    "Funding",
+    "Large deal (about $255M)"
+   ],
+   "tags": [
+    "Funding",
+    "Media, Gaming & Creators"
+   ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 83,
+   "title": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering",
+   "url": "https://yourstory.com/2026/11/anthropic-raises-813-billion-from-ipo-with-valuation-of-15-trillion",
+   "date": "2026-11-19",
+   "source": "YourStory",
+   "label": "India · AI & Deeptech",
+   "snippet": "Anthropic's IPO surpasses SpaceX's $75 billion offering. The company reported $16.2 billion in revenue in the first half of 2026, up from $1.16 billion in the same period last year, even as its reported net loss widened.",
+   "lead": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering Anthropic's IPO surpasses SpaceX's $75 billion offering. The company reported $16.2 billion in revenue in the first half of 2026, up from $1.16 billion in the same period last year, even as its reported net loss widened. Team YS 17613 Stories Thursday November 19, 2026 , 2 min Read Artificial intelligence (AI) company Anthropic has raised $81.3 billion through its ...",
+   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imagermlb-1795071459700.jpg",
+   "why": [
+    "IPO & Listing",
+    "Very large figure in headline (about $81,300M: round or valuation)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "AI & Deeptech"
+   ],
    "rank": 16,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 9,
-   "priority": 82,
-   "title": "From Dreamteam To Boba Bhai — Indian Startups Raised Over $291 Mn This Week",
-   "url": "https://inc42.com/buzz/from-dreamteam-to-boba-bhai-indian-startups-raised-over-291-mn-this-week/",
-   "date": "2026-11-21",
-   "source": "Inc42",
-   "label": "India · Other",
-   "snippet": "Indian startups raised $291.3 Mn between November 16 and November 20, up 1,056% from $25.2 Mn in the previous week.",
-   "lead": "Indian startups cumulatively raised $291.3 Mn across 22 deals between November 16 and November 20, up 1,056% from $25.2 Mn in the previous week Ecommerce emerged as the second-most funded sector as three startups raised a combined $66.8 Mn Accel was the most active investor this week, participating in the funding rounds of Dreamteam, Humyn Labs, August AI, among others",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/IMG_7682.jpg",
+   "score": 10,
+   "priority": 83,
+   "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+   "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+   "date": "2026-11-19",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+   "lead": "U.K.-based fintech Payhawk announced a $280 million Series C funding round Wednesday, led by Goldman Sachs’ growth equity arm, making it one of Europe’s largest Series C rounds this year, as noted by Sifted . The round values the company at $2 billion, bringing its total funding to more than $500 million to date. Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1414277307.jpg?resize=1200,776",
    "why": [
     "Funding",
-    "Large deal (about $291M)"
+    "Large deal (about $280M)",
+    "Valuation, listing or profitability signal",
+    "Also covered by 1 other outlet(s)"
    ],
    "tags": [
-    "Funding"
+    "Funding",
+    "AI & Deeptech"
    ],
    "rank": 17,
    "must_read": false
   },
   {
    "desk": "Startups",
+   "score": 10,
+   "priority": 83,
+   "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+   "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+   "date": "2026-11-17",
+   "source": "TechCrunch",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+   "lead": "Three months after introducing its product, AI cybersecurity startup Corma has raised a $125 million Series A round at a $1 billion valuation led by NEA, the company said. Corma offers AI models and agents trained for cybersecurity defense. It has now raised a total of $185 million from backers, including Sequoia Capital, Khosla Ventures, and Coatue. The startup came out of stealth in August. Interest in its product skyrocketed after a ...",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $1,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding",
+    "AI & Deeptech"
+   ],
+   "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
    "score": 9,
    "priority": 82,
+   "title": "Gold Falls Nearly 11% on MCX as Traders Brace for Fed Rate Hike",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdlNJZ0NLM2w3RUc3X0dNcEhJZGJLREY5cXh0RUFnU3lucHh5YnpWekpnR0d5bnpKWHJOYVNqejNhSjZZbEkyZEU1bXpaRE90dXJfOGxzQ2VvUURzTUdvRDdtWGhfalBMcGs3TlFiaWFoRkZFanNXZ0drNkJOOExmblNScVR2REtVTFUwLXV3?oc=5",
+   "date": "2026-11-22",
+   "source": "IBTimes India",
+   "label": "Gold & Silver",
+   "snippet": "MCX gold fell nearly 11% last week as the rupee strengthened. With a Fed hike largely priced in, traders are watching whether ₹1.20 lakh holds.",
+   "lead": "",
+   "image": "https://data1.ibtimes.co.in/en/full/841674/gold-silver-tumble-6-6-strong-dollar-high-yields-dent-bullion-check-latest-rates-mumbai.png?w=800&h=420",
+   "why": [
+    "Interest-rate decision",
+    "Precious metals",
+    "Global macro driver"
+   ],
+   "tags": [
+    "Gold & Silver"
+   ],
+   "rank": 19,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 9,
+   "priority": 75,
    "title": "Bending Spoons buys Mailchimp for $3.68B",
    "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
    "date": "2026-11-20",
@@ -804,7 +893,29 @@
    "tags": [
     "Acquisition"
    ],
-   "rank": 18,
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 6,
+   "priority": 60,
+   "title": "RBI releases 2026 list of Domestic Systemically Important Banks (D-SIBs)",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64025",
+   "date": "2026-11-23",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "State Bank of India, HDFC Bank, and ICICI Bank continue to be identified as Domestic Systemically Important Banks (D-SIBs) under the same bucketing structure as in the 2025 list of D-SIBs . The additional Common Equity Tier 1 (CET1) requirement for these D-SIBs will be in addition to the capital conservation buffer. The Reserve Bank had issued the Framework for dealing with Domestic Systemically Important Banks (D-SIBs) on July 22, ...",
+   "image": null,
+   "why": [
+    "Rule change",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 21,
    "must_read": false
   },
   {
@@ -826,7 +937,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 19,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -847,69 +958,6 @@
    ],
    "tags": [
     "Banking & Rates"
-   ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 2,
-   "priority": 20,
-   "title": "Sixth Round of India–Canada CEPA Negotiations Concludes in New Delhi",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2339731",
-   "date": "2026-11-21",
-   "source": "PIB",
-   "label": "Tax, Duties & Trade",
-   "snippet": "The sixth round of negotiations for the India-Canada Comprehensive Economic Partnership Agreement (CEPA) was held in New Delhi from 11 to 20 November 2026. The Indian delegation was led by Dr. Brij Mo",
-   "lead": "Ministry of Commerce & Industry Sixth Round of India–Canada CEPA Negotiations Concludes in New Delhi Union Minister of Commerce and Industry Shri Piyush Goyal and Canadian Minister Maninder Sidhu Reaffirm Commitment to a Balanced and Mutually Beneficial CEPA Commerce Secretary Shri Rajesh Agrawal and Canadian Vice Minister Mr. Glenn Purves review status of talks Posted On: 21 NOV 2026 8:33PM by PIB Delhi The sixth round of negotiations ...",
-   "image": null,
-   "why": [
-    "Commerce"
-   ],
-   "tags": [
-    "Tax, Duties & Trade"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 2,
-   "priority": 20,
-   "title": "Union Ministry of Health Proposes Incorporation of Good Storage and Distribution Practices into Drugs Rules, 1945",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338316",
-   "date": "2026-11-19",
-   "source": "PIB",
-   "label": "Health & Pharma",
-   "snippet": "The Union Ministry of Health and Family Welfare has proposed the incorporation of Good Storage and Distribution Practices (GSDP) guidelines for pharmaceutical products into the Drugs Rules, 1945. The",
-   "lead": "Ministry of Health and Family Welfare Union Ministry of Health Proposes Incorporation of Good Storage and Distribution Practices into Drugs Rules, 1945 GSDP Framework to Enhance Regulatory Oversight and Accountability in Pharmaceutical Supply Chain Proposed Measures to Ensure Quality, Safety and Integrity of Pharmaceutical Products from Manufacturer to Patient Posted On: 19 NOV 2026 1:02PM by PIB Delhi The Union Ministry of Health and ...",
-   "image": null,
-   "why": [
-    "Rule change"
-   ],
-   "tags": [
-    "Health & Pharma"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 2,
-   "priority": 20,
-   "title": "Union Health Ministry Proposes Amendment to Drugs Rules, 1945 to Provide Regulatory Flexibility for Medicinal Gases, Empty Gelatin Capsules and Disinfectant Fluids",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338313",
-   "date": "2026-11-19",
-   "source": "PIB",
-   "label": "Energy & Power",
-   "snippet": "Union Ministry of Health and Family Welfare has proposed an amendment to the Drugs Rules, 1945, through a draft Gazette Notification G.S.R. 985 (E) dated 6th November, published in the Gazette of Indi",
-   "lead": "Ministry of Health and Family Welfare Union Health Ministry Proposes Amendment to Drugs Rules, 1945 to Provide Regulatory Flexibility for Medicinal Gases, Empty Gelatin Capsules and Disinfectant Fluids Proposed amendment seeks to continue exemptions available under the pre-revised Schedule M Posted On: 19 NOV 2026 1:01PM by PIB Delhi Union Ministry of Health and Family Welfare has proposed an amendment to the Drugs Rules, 1945, through ...",
-   "image": null,
-   "why": [
-    "Rule change"
-   ],
-   "tags": [
-    "Energy & Power"
    ],
    "rank": 23,
    "must_read": false
