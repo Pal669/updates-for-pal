@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-23",
- "built": "2026-11-23 09:34 IST",
+ "built": "2026-11-23 12:52 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25623.0,
-   "change_pct": -0.69,
-   "asof": "23 Nov 09:34 IST"
+   "value": 25488.0,
+   "change_pct": -1.21,
+   "asof": "23 Nov 12:52 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 84195.0,
-   "change_pct": 0.33,
-   "asof": "23 Nov 09:19 IST"
+   "value": 82955.0,
+   "change_pct": -1.15,
+   "asof": "23 Nov 12:37 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 92.85,
-   "change_pct": -0.48,
-   "asof": "23 Nov 09:34 IST"
+   "value": 92.87,
+   "change_pct": -0.46,
+   "asof": "23 Nov 12:52 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 89.76,
-   "change_pct": -3.04,
-   "asof": "23 Nov 09:23 IST"
+   "value": 89.41,
+   "change_pct": -3.41,
+   "asof": "23 Nov 12:41 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3605.0,
-   "change_pct": 2.55,
-   "asof": "23 Nov 09:24 IST"
+   "value": 3630.0,
+   "change_pct": 3.26,
+   "asof": "23 Nov 12:42 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,8 +79,8 @@
  },
  "desks": {
   "Policy": {
-   "total": 372,
-   "new_today": 0,
+   "total": 373,
+   "new_today": 1,
    "items": [
     {
      "desk": "Policy",
@@ -162,7 +162,7 @@
   },
   "Startups": {
    "total": 1500,
-   "new_today": 4,
+   "new_today": 7,
    "items": [
     {
      "desk": "Startups",
@@ -251,7 +251,7 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 6,
+   "new_today": 7,
    "items": [
     {
      "desk": "Immigration",
@@ -410,6 +410,28 @@
  },
  "items": [
   {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 100,
+   "title": "RBI to conduct 2-day Variable Rate Repo (VRR) auction under LAF on November 23, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64019",
+   "date": "2026-11-23",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a second Variable Rate Repo (VRR) auction on Monday, November 23, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "image": null,
+   "why": [
+    "Rates and liquidity",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
    "desk": "Startups",
    "score": 11,
    "priority": 100,
@@ -429,7 +451,7 @@
     "Funding",
     "Media, Gaming & Creators"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -453,7 +475,7 @@
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -476,7 +498,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -500,7 +522,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -523,8 +545,8 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -545,7 +567,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -568,7 +590,7 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -593,7 +615,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -617,7 +639,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -640,7 +662,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -664,7 +686,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -687,7 +709,7 @@
     "Student / Graduate",
     "New Zealand"
    ],
-   "rank": 12,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -711,7 +733,7 @@
     "Citizenship",
     "Canada"
    ],
-   "rank": 13,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -735,7 +757,7 @@
     "Citizenship",
     "Germany"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -753,13 +775,13 @@
    "why": [
     "Affects work visas",
     "Announces a change",
-    "Major story (26 headlines that day)"
+    "Major story (27 headlines that day)"
    ],
    "tags": [
     "Work visa",
     "Australia"
    ],
-   "rank": 15,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -781,7 +803,7 @@
    "tags": [
     "Funding"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -802,28 +824,6 @@
    ],
    "tags": [
     "Acquisition"
-   ],
-   "rank": 17,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 7,
-   "priority": 70,
-   "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on November 23, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64016",
-   "date": "2026-11-20",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Monday, November 23, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
-   "image": null,
-   "why": [
-    "Rates and liquidity",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
    ],
    "rank": 18,
    "must_read": false
