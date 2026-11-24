@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-24",
- "built": "2026-11-24 03:45 IST",
+ "built": "2026-11-24 08:34 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25801.0,
-   "change_pct": 1.12,
+   "value": 25350.0,
+   "change_pct": -1.75,
    "asof": "23 Nov 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 83920.0,
-   "change_pct": 1.08,
+   "value": 82436.0,
+   "change_pct": -1.77,
    "asof": "23 Nov 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
    "value": 92.9,
-   "change_pct": -0.42,
-   "asof": "24 Nov 03:16 IST"
+   "change_pct": 0.24,
+   "asof": "24 Nov 08:22 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 86.72,
-   "change_pct": -6.32,
-   "asof": "24 Nov 03:28 IST"
+   "value": 86.42,
+   "change_pct": -3.3,
+   "asof": "24 Nov 08:23 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3634.0,
-   "change_pct": 3.39,
-   "asof": "24 Nov 03:29 IST"
+   "value": 3638.0,
+   "change_pct": -0.36,
+   "asof": "24 Nov 08:24 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,7 +79,7 @@
  },
  "desks": {
   "Policy": {
-   "total": 378,
+   "total": 379,
    "new_today": 0,
    "items": [
     {
@@ -162,7 +162,7 @@
   },
   "Startups": {
    "total": 1500,
-   "new_today": 2,
+   "new_today": 3,
    "items": [
     {
      "desk": "Startups",
@@ -251,7 +251,7 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 2,
+   "new_today": 7,
    "items": [
     {
      "desk": "Immigration",
@@ -300,14 +300,14 @@
      "desk": "Immigration",
      "score": 7,
      "priority": 70,
-     "title": "Japan Introduces Stricter Permanent Residency Requirements for Foreign Nationals",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVENCVWFPN0xRd29zMGNKQmhRYWZZMExYYWZ2UFNCTTlJOUVibWFOUmVHRzJSSlJGS1pLRGhzMTVoNk5yeGNyOTRGbS1pa0dVTG00NlhoOUw3UDdrRE5UbENzSmp2T2NSMnhsWGZ1VnlLOE03d3l2enRKOFdNNlZDV0N6QkNSaEJ0MTRWanNxNEdTNGYxaTFydGs2bzdBdTA?oc=5",
+     "title": "Japan tightens permanent residency rules with language, integration checks",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWFlDbDgweEJvSEh3UkdRWDFpUjNwdk0zeFhFbW1OcG9qUFI3aFNyVjJ3dUZQTlhtdEREMXF6T1NBMFZZX09jMFBpelUxaXBGckxzbWJSNFI4UVhmUHRTT3ZMZGJXMlQ3OEQyRjg3VjIwN0N5WklRV3dFc2F1UFloMVNyYkZzMUstTjMydDhDejJlZ2dsaTdhLVp3?oc=5",
      "date": "2026-11-20",
-     "source": "Head Topics",
+     "source": "Punch Newspapers",
      "label": "Japan",
-     "snippet": "Japan is proposing stricter permanent residency rules for foreign nationals, requiring Japanese language proficiency at B1 level or higher and an assessment of understanding of laws, rules, and social",
-     "lead": "Japan is proposing stricter permanent residency rules for foreign nationals, requiring Japanese language proficiency at B1 level or higher and an assessment of understanding of laws, rules, and social systems. Exemptions apply to highly skilled professionals, qualifying family members, those with six years of Japanese education, children with proficient parents, and cases with individual exemptions. Support us: Japan is introducing ...",
-     "image": "https://i.headtopics.com/images/2026/11/20/mobilepunch/japan-introduces-stricter-permanent-residency-requ-japan-introduces-stricter-permanent-residency-requ-2744337C42BD91F8574BFD14AC86BAE8-16x9.webp",
+     "snippet": "Japan permanent residency rules will require B1 Japanese and a test of applicants' grasp of laws and social systems, with five exempt categories.",
+     "lead": "Add us to your Preferred Sources Japan tightens permanent residency rules with language, integration checks News November 20, 2026 9:39 am Japanese flag. Credit: Engoo | website Japan is introducing stricter requirements for foreign nationals seeking permanent residency, including a Japanese language proficiency standard of B1 or higher and an assessment of applicants’ understanding of the country’s laws, rules and social systems. As ...",
+     "image": "https://punchng.com/wp-content/uploads/2026/07/2YV6x0W21XFcAYvPbkO5qG_1785227963.webp",
      "why": [
       "Affects permanent residence",
       "Announces a change"
@@ -341,12 +341,73 @@
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 0,
+   "new_today": 40,
    "items": [
     {
      "desk": "Advisory",
      "score": 9,
-     "priority": 82,
+     "priority": 64,
+     "title": "NY Fed’s Williams says high inflation necessitates more rate hikes",
+     "url": "https://www.investing.com/news/stock-market-news/ny-feds-williams-says-high-inflation-necessitates-more-rate-hikes-93CH-5046727",
+     "date": "2026-11-24",
+     "source": "Investing.com",
+     "label": "Global",
+     "snippet": "",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Interest-rate decision",
+      "Global macro driver"
+     ],
+     "tags": [
+      "Global"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 64,
+     "title": "RBI cautions NBFCs over falling gold prices and rising loan-to-value ratios",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQT3dwYW5HbmRrQ19BTTB2V0Rsa2FJdUNSWHctMWxWVVVVNkl3ZGJTU3JkZHFKMlhjUC04cVA0TkU0d0dDT21faFlNYWI4TFF5UWhMeWNSX2VZRUdLTkFfMmVPbjhva1VuX3N6OHJYdVRtN2hwbWZPQnNuTnhhT0lENFR5M3JucmtxZ2F4OF9LdllhckMzcTJqaWFHbmRFZFBOeS1ZQzJ1UjZTWjlZN0xDNkMzMHNUVkFtUnBYMDE1bkdqR3R0dWtDRUotMjBNUkpmd0ZUR1o0R3R3bUdFTVRHYUhtQkx6U2IzZ0pkc0JZYkFNUXll0gH6AUFVX3lxTE1JUlhWblBybjVPWW44Tm9MVEp1QTE0Tm04Y0NfTTI1SFNkQloyLS1EZm10eTJDUHBKbGk3aWdWVlYzWElaUnpFNlFsRDRFUWpaaTdNQ0NDOENYNVh1TFpIY3hCelcxUkUtSkdaTGVCSEZTaDQyZnJvTEN6cWlHWFlRanZoYW9xa2VMXzF4WVIwczBrVk11U2hYaDlaQUxNS3I3U1RGVkJ0TDFXSFRfUjZqZ1NOdktxMGlYMlhlbThTaXhaWTI5RHRBemI0emR4SnI1Nm9ISlo4MDFQMXlWZ3VTRVhuMmlBcHZWSjMySDVEX19xbEMwWlBZZXc?oc=5",
+     "date": "2026-11-24",
+     "source": "The Economic Times",
+     "label": "Gold & Silver",
+     "snippet": "Reserve Bank of India has alerted non-banking finance companies about increased scrutiny of gold loans amid falling prices. Gold prices have decreased nearly 30%, impacting loan to value ratios and raising concerns for lenders. Non-performing asset ratios have doubled in the gold loan sector this fiscal year due to regulatory changes. RBI",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/msid-136113491,width-1200,height-900,imgsize-92746,overlay-economictimes/articleshow.jpg",
+     "why": [
+      "Regulator: SEBI or RBI",
+      "Precious metals"
+     ],
+     "tags": [
+      "Gold & Silver"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 64,
+     "title": "Bill Ackman Fed Rate Hike Warning Raises US Recession Concerns",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSc1pHQW1GZWFnUHA3cklKOVZDNjNhblBIZzFZUUVxd1NoNV8zRlJmWkJhWjRRMFNCY1FDbGhCQ3BkaklKcHNmdS1hY1BITW9zWVFJbGl2Z2c3Vmttay1jR1I0WVU1dXM5LVhSVjFEWUZmWEF4empHcUpETQ?oc=5",
+     "date": "2026-11-23",
+     "source": "TronWeekly",
+     "label": "Global",
+     "snippet": "Bill Ackman Fed rate hike warning highlights recession risks as inflation concerns intensify ahead of the Federal Reserve’s December decision.",
+     "lead": "Home - Cryptocurrency News - Bill Ackman Fed Rate Hike Warning Raises US Recession Concerns Billionaire investor Bill Ackman has warned that a Bill Ackman Fed Rate Hike concern could become a major issue for the US economy as the Federal Reserve prepares for its December 9 meeting. He argued that another increase in borrowing costs could push the United States and global economies into recession. The Pershing Square chief executive ...",
+     "image": "https://www.tronweekly.com/wp-content/uploads/2026/11/resized-1600-x-900-5.jpg",
+     "why": [
+      "Interest-rate decision",
+      "Global macro driver",
+      "New product or fund"
+     ],
+     "tags": [
+      "Global"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 64,
      "title": "SEBI AIF Regulations: Proposed Changes To Investor Consent And Related-Party Transaction Framework",
      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVTgtWndhZV9PSnFCRll3ajRpbXU0WjhEVF9YR0hJY2pVaHpwU2diTVQ0aUJzQWVYQkxKajF2TXJsRkdfV1dhMFdOeVNGY09hbTJtVHkyVTRId0VMTE5LM05WbExSRnZMWldIeGE2UVlpVHFLZGdYREg2Q0NXYW50ZVFRZWx2WHpNSHczeFN1RklJZUhzZF91eUJUQ3Fnek9OUDdJczFuRG9VZERWbUZ6RHE0cWxzNGtEUnJFd3ZlT1FjZjljSmhoOVQyclhrVHlNZU91SHlzVlJrYzVCS0VtUkttdURENWlvaFYwRFlEOWxURVU?oc=5",
      "date": "2026-11-18",
@@ -363,69 +424,6 @@
      "tags": [
       "AIF"
      ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 82,
-     "title": "Indian bonds surge after oil slide eases aggressive rate hike concerns",
-     "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-surge-after-oil-slide-eases-aggressive-rate-hike-concerns/articleshow/135924727.cms",
-     "date": "2026-11-17",
-     "source": "Economic Times",
-     "label": "Debt & Bonds",
-     "snippet": "On Tuesday, Indian government bonds rallied significantly, buoyed by falling oil prices that shifted market sentiment. The 6.94% 2036 bond",
-     "lead": "On Tuesday, Indian government bonds rallied significantly, buoyed by falling oil prices that shifted market sentiment. The 6.94% 2036 bond's yield dipped to 7.2528%, a drop from 7.3169% the previous day. Analysts posit that lower oil prices could relieve inflationary pressure and bolster the rupee, alongside speculation of an upcoming RBI rate hike based on fresh inflation reports. Top Trending Stocks: SBI Share Price , Axis Bank Share ...",
-     "image": "https://img.etimg.com/thumb/msid-135924756,width-1200,height-900,imgsize-111102,overlay-etmarkets/articleshow.jpg",
-     "why": [
-      "Interest-rate decision",
-      "Sharp market move",
-      "Also covered by 2 other outlet(s)"
-     ],
-     "tags": [
-      "Debt & Bonds"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 8,
-     "priority": 73,
-     "title": "SEBI InvIT DR framework in IFSC: structuring, compliance and documentation guide",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYnVGRW1Ca3N6Nk1PSnZFREhkZmpwMjROM2ltWE9MWFVrM21wbmZYMkZxVEZoMnV5Vncxc2hiM0gtYUF1ZDVqc0pvM0lnRUdKbVFKOVZhbGxHSGJrdHU2YlM5TVBXckoxTE1NblIzYnhLWUxQUW80NV9TNTBrTU9sa2NsalRJS3l6VVhabjRvWWIyd1hwQXEtVlNNNmhKX0JRSWN1SEc1UHhvWTF6?oc=5",
-     "date": "2026-11-19",
-     "source": "TaxCorp AI",
-     "label": "REITs & InvITs",
-     "snippet": "",
-     "lead": "",
-     "image": null,
-     "why": [
-      "REIT / InvIT news",
-      "Regulator: SEBI or RBI",
-      "Rule or framework change"
-     ],
-     "tags": [
-      "REITs & InvITs"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 8,
-     "priority": 73,
-     "title": "Sebi approves transfer of ICICI Securities' PMS biz to ICICI Prudential AMC",
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMmlPR1ZhX3FocC10X0xXSlB2NVZXeE9FdkY3RmRlVXQ2YTh2bW03UDlUVHgzSXRXRFVQa0hwQXpESzRURGtURE1tSlI3NkZHY2ZqRnN0MUpNbWhqLTAyaHNRc1BqbWo5R0hNaHZnVDlOOGZ4Mk1uWWNELTIwbi1KbVdTQ09Eb1dwbC1BdmlNTzVhT3U0TDRzMW5BNENRQmxnODM4WjllOUlBZHJWZFM3dEhNRkI0bkJ2M2hQd095RVZUM3gzWHVkS2FxUWN6dkNZSnBpU0lXRXVwRjTSAeABQVVfeXFMTzJUQmUtSE9HcjlzMzJ6aFRxUjVRMFBwLV9LZ3pxa0JZbGhzbkt6UktTOTJkc0VUOHQ4UWhUUVJzYkJJVWlSZU1uaTBuYXYxcVBjZ0MwaTd3d3o5SEVIT2lNRDRTSnJyUVRiSUxhU3NxbGlhM1BmSnFPQ1BhOExNcUZ2eVdGQk00aUY2b0l5bDdGVWpnZVM3YXprU3BtNG1rQjA2azZ0c1VjMi11NWtVRzEzd3ptS2JGSGRpX0poemxwZTlyZ0VFX0JBZktRUzRMeHplTXFjRkVOclNJSTBvVU8?oc=5",
-     "date": "2026-11-19",
-     "source": "Business Standard",
-     "label": "PMS",
-     "snippet": "The proposed acquisition will be carried out through a slump sale on a going-concern basis",
-     "lead": "The closing of the transaction was subject to receipt of requisite regulatory approvals | Image: Bloomberg Market regulator Sebi has approved the proposed transfer of portfolio management services (PMS) business of ICICI Securities to ICICI Prudential Asset Management Company. The proposed acquisition will be carried out through a slump sale on a going-concern basis.",
-     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/07/thumb/fitandfill/1200X628/1791365134-9817.jpg",
-     "why": [
-      "PMS news",
-      "Regulator: SEBI or RBI",
-      "Also covered by 1 other outlet(s)"
-     ],
-     "tags": [
-      "PMS"
-     ]
     }
    ]
   }
@@ -435,13 +433,13 @@
    "desk": "Policy",
    "score": 10,
    "priority": 100,
-   "title": "Reserve Bank of India (Securitisation Transactions) Amendment Directions, 2026: issued for 4 bank categories",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13756&Mode=0",
+   "title": "Reserve Bank of India (Securitisation Transactions) Amendment Directions, 2026: issued for 3 bank categories",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13755&Mode=0",
    "date": "2026-11-23",
    "source": "RBI",
    "label": "Banking & Rates",
    "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by the Section 45L of the Reserve Bank of India Act, 1934, the Reserve Bank being satisfied that it is necessary and expedient in the public ...",
+   "lead": "Reserve Bank of India (Non-Banking Financial Companies - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (Non-Banking Financial Companies - Securitisation Transactions) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by the Sections 45JA, 45K, 45L, 45M and 45MA of the Reserve Bank of India Act, 1934 (Act 2 of 1934), Sections 30A, 32 and 33 of the National Housing ...",
    "image": null,
    "why": [
     "Regulator rulebook change",
@@ -523,6 +521,30 @@
    "must_read": true
   },
   {
+   "desk": "Advisory",
+   "score": 14,
+   "priority": 100,
+   "title": "Bond Market Signals Softer RBI Rate Hikes as Crude Retreats and Long-Term Yields Begin to Rally",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGhxY2hzYzJZZEI5ZnBsYlphXy1oN0RXWkVPaTNRN29HUGpNWmRmVXU4YkZ0MVV2dFVmaExMaEVnVE9UTUNJTVh5Sk5MV2ZvaUdqaWpkNzdGYVpkSzdlQWthUlFXRHp3T1ZHcmxlel9xTnlJajZyNjlya2ZPNnlFN0JQc3g2aVlKQ3hxclhWNElmTl94c2xUUEV0MTIxUVpFc0Z5cGc1YUVvTmxjNGZfYm9Oaw?oc=5",
+   "date": "2026-11-23",
+   "source": "Kotak Neo",
+   "label": "Debt & Bonds",
+   "snippet": "Bond yields ease as crude oil prices retreat, prompting markets to reassess RBI rate hikes, inflation risks and demand for longer-dated government bonds.",
+   "lead": "",
+   "image": "https://www.kotakneo.com/uploads/bond_market_signals_softer_rbi_rate_hikes_14d333fdf4.webp",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Global macro driver",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 5,
+   "must_read": true
+  },
+  {
    "desk": "Policy",
    "score": 10,
    "priority": 100,
@@ -542,100 +564,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 5,
-   "must_read": true
-  },
-  {
-   "desk": "Advisory",
-   "score": 11,
-   "priority": 100,
-   "title": "WPI inflation rate in Oct surges to 12.29%: Raises pressure on RBI to raise Repo Rate",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPa1dzSi1mNERodzhBdGl5cWRsX1VwRlkxOE9aVG5QWW03OUJMMEQ2ZkdNWEdmanRZNVFNLUJJd0pDdWVjWTBIS3JPSEpBUUdVR1Y5dFhtYVBCSU1wdzBONDhPSUE4ZTR3ajJOUGNfLUNfY0RxUHoybjhCeEs1dnVrZE5BWXMxd0NwOFdnX2l5T0ZSbEpVRkp0aG0yMnRhYmhPbzJyaFhsWU9Tc05aekYwRVJGa0h4ZkFZOG5rOHZLTWgtUHVoek16ejZsX1RpUTNU0gHWAUFVX3lxTE5tbEJRS0tEenNMMndRMzV5b082WE9INEhBd1hNbkxndU5rX21acFNLRTNQMnN3N201dGplclB6dXpYaGRZWXZ3VVVWTzcweUc1YWVKbjNQNkRWWnN3dXBMNEF6M015ZFkta29RTGJwN2JTV1FRLTVIWTBjU3JOaHpUazJVSWhpNjlvY1ZWdjI3RnRPeFdGMDV5cXlaUGJfMWZON0VNMkF1eWRGNnRtSmVySW42elFJWGhPVjRVZHJ3ZmIxbmRfRVRFZ2oxUmZ5VG04V3Axb3c?oc=5",
-   "date": "2026-11-17",
-   "source": "News9live",
-   "label": "Regulatory",
-   "snippet": "As predicted by the Reserve Bank of India, inflation has peaked in October. The retail or CPI-based inflation rose to 6.09% in October which is the highest since the new series that was launched in February this year. The WPI inflation has surged to 12.29% in October.",
-   "lead": "By signing in or creating an account, you agree with Associated Broadcasting Company's Terms & Conditions and Privacy Policy . The key driver of WPI inflation is the fuel and power category. This footprint surged to 32.84% and the rate of price rise in crude petroleum and natural gas was at an astronomical 71%. In October, the primary articles basket registered inflation of 9.24% which was a jump from 8.67% in September. Food inflation ...",
-   "image": "https://images.news9live.com/wp-content/uploads/2026/11/Inflation-impact-depositphotos.png",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Sharp market move",
-    "New product or fund"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
    "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 91,
-   "title": "Reserve Bank issues Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64009",
-   "date": "2026-11-20",
-   "source": "RBI",
-   "label": "Regulatory",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The Foreign Exchange Management (Export of Goods and Services) Regulations, 2015 were superseded by the Foreign Exchange Management (Export and Import of Goods and Services) Regulations, 2026, which were issued on January 13, 2026 , and became effective from October 01, 2026. The new regulations are principle based; intended to promote ease of doing business, especially for small exporters and importers; and empower Authorised Dealers ...",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Official notice"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 91,
-   "title": "Zee Business. . Gold and Silver Price Crash: Gold 14 महीने के Low पर! Silver में 5% Crash, अब और गिरेगी कीमत? Gold and Silver Price Crash: Fed Rate Hike Fears, MCX Levels and Expert Investment Strategy Gold और Silver की कीमतों में ते",
-   "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxONXJCYVZrektJZE8yYTc3MDFhTXpFSjFjUDVONUtCZHpZUm0yUnhELWxNR19EaXdzdmNyV3cxcTE5V3pMQTc3aTlwMWVuNXVvNXZ3X2hfWHRTRHl5Z1ZGLXE1ZnFRQ290Y2R0RVpKY3NjSV9PdmwyLURDYnBwSFdEa3g4MVBBRnBwVm5FZFF2amg4OExsSnhCMHlzMFROVm9yVHZSc0Q1ZGN1OWFJVU5SZzBoN1RWbHp5eTctQjBycmI0RjZkVUN0SFpPUnc4SFN4dWtJQzBuUFcwakpoQTNOVWJIeHpROVE1X1J2YTQ1alhKb0xNSmVKSzBFenAwQzY1Y2NKUEJfRW9lRklmNVQ5YVQ3R2tjSGFyVnJrVW95R1FkQ1JIU0FZTjdRM2ljYV91bjFSemhGT0hMZ3Z3MHRBX05USFpBczlTQVM0QXpJb280LVNsMThuZkJGeDMtWjJQUGtHaExmdGIzZXZzRGVnd2ZndmxvVXdaYVhuUWI4QnJ0WHJBOU1oRnlvcWJNeGRvR295eTNVdE9lZVQ4clFFY0Q5b0V1R0ZfLTdfMQ?oc=5",
-   "date": "2026-11-19",
-   "source": "Facebook",
-   "label": "Gold & Silver",
-   "snippet": "Gold and Silver Price Crash: Gold 14 महीने के Low पर! Silver में 5% Crash, अब और गिरेगी कीमत?\n\nGold and Silver Price Crash: Fed Rate Hike Fears, MCX Levels and Expert Investment Strategy\n\nGold और...",
-   "lead": "",
-   "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/902333991_1773830774743153_7443153527458220887_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=VeVyFLP-uZkQ7kNvwHXxPNY&_nc_oc=AdoQ6KxG4i1R4_FM-e8mA4gltXvwbL2SPPueisjbHzl19FPxX9mOEv-aOxrPE3dGxuc&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=whi9cUEbOhOkY4bHE_cLng&_nc_ss=7920f&oh=00_AQS4JUnrnNZXNdC-7IIIENNHRX0HMYw13XY-mkC6JB3ZtQ&oe=6B068E53",
-   "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Gold & Silver"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 91,
-   "title": "Cooling crude lifts bond prices, but inflation may prompt 50-bps RBI rate hike: PGIM India's Puneet Pal",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTWVldnJBQ3BiWEI1M3dTLXl5UkRDa2R6MVd3dEdzUDh6SVdxTHk1azBmdGxsRmYwX0FjNzAtcEwxQ05UVk5GMHlnbTVfWEc4c1FpTFZJUkFWYkxKWjJuTU1EM0VhRzUyLTk1TmF2ck1HTl9WanVXaThqNWN4Z1JJY2ZTakJpb041cXc2OHJVdGRlNWczRzh0OEN6ZXFoblBuNVBXeFNBa0hUUFZkLW5pWFVGX1BtMVlfWjdwZWMxYlNHTVc2ZWlfbDFMNjVZRTJWNFpvR3NHVEQwVzZJaVlveWZHSmYza3A4MmNXdTBUR3FZRGl3ay11ZTIwVUfSAYICQVVfeXFMUHJzNS00TUZCcmZxT1d5U0ZzTklhSDlYZWVWR25Vb25QTm9JWVBpUFd4d3hNMDdRcXB5ejhRVTlvbV9uRHItZ0pLY09CZmhpdlNoVjVKT1NUU3lVZ19iS0FyMDVmUktwcWY4N3QxTmhLRFZxOWpwTXFKQ2NJMEdjd2JpaVhFRVpFaU5Hb1R5VjRMdUlqa0N5NVBTOGhZVU1hODBkQXZQdmlFN2tfX0xCLVZrNFlGVXd3UUdad1lQVmpVLVRieXJYM2hCZHc3cEpwcTVWRUZNQjZvMGtvaEVPZTFXejJRU29Hc1NiNnNrWjJFSUNydVFNT3ZReHdfcHpGX3Rn?oc=5",
-   "date": "2026-11-18",
-   "source": "The Economic Times",
-   "label": "Debt & Bonds",
-   "snippet": "Falling crude oil prices and a stronger rupee have lifted Indian bond prices in November, but persistent inflation could prompt the RBI to raise interest rates by as much as 50 basis points in its next policy meeting, says PGIM India",
-   "lead": "The Indian bond market is experiencing a positive shift, with bond yields decreasing as oil prices and Treasury yields fall. The 2036 benchmark bond yield is now at 7.2393%, reflecting a minor drop. Additionally, crude oil prices have plummeted more than 20% since their October peaks, providing a temporary buffer against inflation. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share ...",
-   "image": "https://img.etimg.com/thumb/msid-135954044,width-1200,height-900,imgsize-164136,overlay-etmarkets/articleshow.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Global macro driver"
-   ],
-   "tags": [
-    "Debt & Bonds"
-   ],
-   "rank": 9,
    "must_read": false
   },
   {
@@ -657,7 +586,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 10,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -681,7 +610,7 @@
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 11,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -705,7 +634,7 @@
     "Citizenship",
     "Canada"
    ],
-   "rank": 12,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -729,7 +658,7 @@
     "Citizenship",
     "Germany"
    ],
-   "rank": 13,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -753,7 +682,7 @@
     "Work visa",
     "Australia"
    ],
-   "rank": 14,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -776,7 +705,7 @@
     "Funding",
     "Media, Gaming & Creators"
    ],
-   "rank": 15,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -799,7 +728,7 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 16,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -824,7 +753,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 17,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -848,30 +777,53 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 18,
+   "rank": 15,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 9,
-   "priority": 82,
-   "title": "Gold Falls Nearly 11% on MCX as Traders Brace for Fed Rate Hike",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdlNJZ0NLM2w3RUc3X0dNcEhJZGJLREY5cXh0RUFnU3lucHh5YnpWekpnR0d5bnpKWHJOYVNqejNhSjZZbEkyZEU1bXpaRE90dXJfOGxzQ2VvUURzTUdvRDdtWGhfalBMcGs3TlFiaWFoRkZFanNXZ0drNkJOOExmblNScVR2REtVTFUwLXV3?oc=5",
-   "date": "2026-11-22",
-   "source": "IBTimes India",
-   "label": "Gold & Silver",
-   "snippet": "MCX gold fell nearly 11% last week as the rupee strengthened. With a Fed hike largely priced in, traders are watching whether ₹1.20 lakh holds.",
-   "lead": "",
-   "image": "https://data1.ibtimes.co.in/en/full/841674/gold-silver-tumble-6-6-strong-dollar-high-yields-dent-bullion-check-latest-rates-mumbai.png?w=800&h=420",
+   "score": 11,
+   "priority": 79,
+   "title": "Reserve Bank of India (Securitisation Transactions) Amendment Directions, 2026: issued for 4 bank categories",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13756&Mode=0",
+   "date": "2026-11-23",
+   "source": "RBI",
+   "label": "Regulatory",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by the Section 45L of the Reserve Bank of India Act, 1934, the Reserve Bank being satisfied that it is necessary and expedient in the public ...",
+   "image": null,
    "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver"
+    "Regulator: SEBI or RBI",
+    "Official notice",
+    "Also covered by 1 other outlet(s)"
    ],
    "tags": [
-    "Gold & Silver"
+    "Regulatory"
    ],
-   "rank": 19,
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 79,
+   "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on November 25, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64033",
+   "date": "2026-11-23",
+   "source": "RBI",
+   "label": "Regulatory",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Wednesday, November 25, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "image": null,
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Official notice",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 17,
    "must_read": false
   },
   {
@@ -892,6 +844,52 @@
    ],
    "tags": [
     "Acquisition"
+   ],
+   "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 71,
+   "title": "RBI Plans Government Bond Trading on Broker Apps in 2027",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6WDdTMWpNeFhkcFlNY0J3bTc5bXZYaEhIUGdLWklOSlBadU92RlJMcHRyMmMyMFJQd0Z3RHFRaVd5bWZzN0lEZV9EbWxUV1VfbFdseFowM1BJeWlxTVF3M1VMT2VkbHJrLW84aER2eTA3UXdDbnNHcg?oc=5",
+   "date": "2026-11-23",
+   "source": "Elets BFSI",
+   "label": "Debt & Bonds",
+   "snippet": "RBI plans to link broker apps such as Groww, Zerodha and Angel One to Retail Direct in 2027, opening government bond trading to more retail investors.",
+   "lead": "3 min Follow Facebook LinkedIn Instagram By BFSI Network · 23 November 2026 · News The Reserve Bank of India (RBI) plans to let online stockbrokers offer government bond trading to retail investors inside their own apps from 2027, Reuters reported on 23 November 2026, citing two people familiar with the matter. Brokerages would connect to the central bank’s RBI Retail Direct platform through an application programming interface (API), ...",
+   "image": "https://bfsi.eletsonline.com/wp-content/uploads/2026/11/rbi-government-bond-trading.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Also covered by 5 other outlet(s)"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 19,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 10,
+   "priority": 71,
+   "title": "Zee Business. . Gold and Silver Price Crash: Gold 14 महीने के Low पर! Silver में 5% Crash, अब और गिरेगी कीमत? Gold and Silver Price Crash: Fed Rate Hike Fears, MCX Levels and Expert Investment Strategy Gold और Silver की कीमतों में ते",
+   "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxONXJCYVZrektJZE8yYTc3MDFhTXpFSjFjUDVONUtCZHpZUm0yUnhELWxNR19EaXdzdmNyV3cxcTE5V3pMQTc3aTlwMWVuNXVvNXZ3X2hfWHRTRHl5Z1ZGLXE1ZnFRQ290Y2R0RVpKY3NjSV9PdmwyLURDYnBwSFdEa3g4MVBBRnBwVm5FZFF2amg4OExsSnhCMHlzMFROVm9yVHZSc0Q1ZGN1OWFJVU5SZzBoN1RWbHp5eTctQjBycmI0RjZkVUN0SFpPUnc4SFN4dWtJQzBuUFcwakpoQTNOVWJIeHpROVE1X1J2YTQ1alhKb0xNSmVKSzBFenAwQzY1Y2NKUEJfRW9lRklmNVQ5YVQ3R2tjSGFyVnJrVW95R1FkQ1JIU0FZTjdRM2ljYV91bjFSemhGT0hMZ3Z3MHRBX05USFpBczlTQVM0QXpJb280LVNsMThuZkJGeDMtWjJQUGtHaExmdGIzZXZzRGVnd2ZndmxvVXdaYVhuUWI4QnJ0WHJBOU1oRnlvcWJNeGRvR295eTNVdE9lZVQ4clFFY0Q5b0V1R0ZfLTdfMQ?oc=5",
+   "date": "2026-11-19",
+   "source": "Facebook",
+   "label": "Gold & Silver",
+   "snippet": "Gold and Silver Price Crash: Gold 14 महीने के Low पर! Silver में 5% Crash, अब और गिरेगी कीमत?\n\nGold and Silver Price Crash: Fed Rate Hike Fears, MCX Levels and Expert Investment Strategy\n\nGold और...",
+   "lead": "",
+   "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/902333991_1773830774743153_7443153527458220887_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=VeVyFLP-uZkQ7kNvwHXxPNY&_nc_oc=AdoQ6KxG4i1R4_FM-e8mA4gltXvwbL2SPPueisjbHzl19FPxX9mOEv-aOxrPE3dGxuc&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=whi9cUEbOhOkY4bHE_cLng&_nc_ss=7920f&oh=00_AQS4JUnrnNZXNdC-7IIIENNHRX0HMYw13XY-mkC6JB3ZtQ&oe=6B068E53",
+   "why": [
+    "Interest-rate decision",
+    "Precious metals",
+    "Global macro driver",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Gold & Silver"
    ],
    "rank": 20,
    "must_read": false
