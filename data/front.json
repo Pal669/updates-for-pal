@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-24",
- "built": "2026-11-24 08:34 IST",
+ "built": "2026-11-24 12:39 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -28,21 +28,21 @@
    "dp": 2,
    "value": 92.9,
    "change_pct": 0.24,
-   "asof": "24 Nov 08:22 IST"
+   "asof": "24 Nov 09:48 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 86.42,
-   "change_pct": -3.3,
-   "asof": "24 Nov 08:23 IST"
+   "value": 86.65,
+   "change_pct": -3.04,
+   "asof": "24 Nov 12:28 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3638.0,
-   "change_pct": -0.36,
-   "asof": "24 Nov 08:24 IST"
+   "value": 3624.0,
+   "change_pct": -0.76,
+   "asof": "24 Nov 12:28 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,7 +79,7 @@
  },
  "desks": {
   "Policy": {
-   "total": 379,
+   "total": 380,
    "new_today": 0,
    "items": [
     {
@@ -162,8 +162,48 @@
   },
   "Startups": {
    "total": 1500,
-   "new_today": 3,
+   "new_today": 10,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 75,
+     "title": "CortexSpark Ventures launches Rs 1,000 Cr deeptech fund",
+     "url": "https://yourstory.com/2026/11/cortexspark-ventures-launches-rs-1000-cr-deeptech-fund",
+     "date": "2026-11-24",
+     "source": "YourStory",
+     "label": "India · AI & Deeptech",
+     "snippet": "CortexSpark Ventures will back deeptech startups that have created IP and looking to translate this into commercial applications",
+     "lead": "CortexSpark Ventures launches Rs 1,000 Cr deeptech fund CortexSpark Ventures will back deeptech startups that have created IP and looking to translate this into commercial applications Team YS 17644 Stories Tuesday November 24, 2026 , 2 min Read CortexSpark Ventures, a venture capital firm focused on deeptech and artificial intelligence segment, has launched a Rs 1,000 crore fund with an additional greenshoe option of Rs 400 crore. ...",
+     "image": "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/CortexSpark-FINAL-1795500477674.png",
+     "why": [
+      "Large deal (about $105M)"
+     ],
+     "tags": [
+      "Launch & Product",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 75,
+     "title": "Bending Spoons buys Mailchimp for $3.68B",
+     "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+     "date": "2026-11-20",
+     "source": "TechCrunch",
+     "label": "Global · Other",
+     "snippet": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
+     "lead": "Bending Spoons buys Mailchimp for $3.68B Russell Brandom 8:16 AM PST · November 20, 2026 Bending Spoons has bought up another distressed internet company. This time, it’s the email marketing firm Mailchimp, bought for $3.68 billion from the tax-preparation giant Intuit. Intuit acquired the company in 2021 for roughly $12 billion, so it’s taking quite a loss — and, perhaps, Bending Spoons is getting quite a bargain. At the time of the ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150300479.jpg?resize=1200,800",
+     "why": [
+      "Acquisition",
+      "Very large figure in headline (about $3,680M: round or valuation)"
+     ],
+     "tags": [
+      "Acquisition"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 9,
@@ -205,53 +245,12 @@
       "Funding",
       "AI & Deeptech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 75,
-     "title": "Anthropic IPO fever hits crypto: Binance launches $500 million tokenised share campaign",
-     "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-ipo-fever-hits-crypto-binance-launches-500-million-tokenised-share-campaign/articleshow/135964874.cms",
-     "date": "2026-11-18",
-     "source": "ET Startups",
-     "label": "Global · Fintech",
-     "snippet": "Binance Wallet has launched a campaign in collaboration with xStocks, allowing eligible users to use USDC, a digital currency designed to maintain a value of $1, to subscribe to tokens linked to Anthropic. The campaign has a limit of $500 million and runs for eight hours on November 18, Binance ...",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-98694,resizemode-75,msid-135964874/tech/technology/anthropic-ipo-fever-hits-crypto-binance-launches-500-million-tokenised-share-campaign.jpg",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $500M: round or valuation)"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "Fintech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 75,
-     "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-     "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-     "date": "2026-11-18",
-     "source": "TechCrunch",
-     "label": "Global · Other",
-     "snippet": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-     "lead": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt Dominic-Madori Davis Marina Temkin 5:44 PM PST · November 17, 2026 Nvidia’s equity in private companies continues to grow: it revealed its stakes are now worth $65.5 billion on Tuesday , up from the $22 billion reported in January. The increase includes both new investments and significant markups of existing portfolio companies. The company invested ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150167239.jpg?resize=1200,771",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $65,000M: round or valuation)"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 7,
+   "new_today": 12,
    "items": [
     {
      "desk": "Immigration",
@@ -430,16 +429,39 @@
  },
  "items": [
   {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 100,
+   "title": "Why CrowdStrike is spending $44 billion to acquire cloud security platform Zscaler",
+   "url": "https://www.medianama.com/2026/11/223-crowdstrike-acquire-cloud-zscaler/",
+   "date": "2026-11-24",
+   "source": "MediaNama",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Why is CrowdStrike acquiring Zscaler for $43.9 billion, and how does the deal advance its ambitions in AI and cybersecurity?",
+   "lead": "Cybersecurity firm CrowdStrike announced on Monday, November 23, that it had entered into a definitive agreement to acquire cloud security platform Zscaler in an all-stock deal worth $43.9 billion. This exceeds the $32 billion Google agreed to pay for Wiz in March last year and makes it the largest acquisition in the cybersecurity industry to date. In filings with the US Securities and Exchange Commission (SEC), CrowdStrike said the ...",
+   "image": null,
+   "why": [
+    "Acquisition",
+    "Very large figure in headline (about $44,000M: round or valuation)"
+   ],
+   "tags": [
+    "Acquisition",
+    "AI & Deeptech"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
    "desk": "Policy",
    "score": 10,
    "priority": 100,
-   "title": "Reserve Bank of India (Securitisation Transactions) Amendment Directions, 2026: issued for 3 bank categories",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13755&Mode=0",
+   "title": "Reserve Bank of India (Securitisation Transactions) Amendment Directions, 2026: issued for 2 bank categories",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13754&Mode=0",
    "date": "2026-11-23",
    "source": "RBI",
    "label": "Banking & Rates",
    "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Non-Banking Financial Companies - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (Non-Banking Financial Companies - Securitisation Transactions) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by the Sections 45JA, 45K, 45L, 45M and 45MA of the Reserve Bank of India Act, 1934 (Act 2 of 1934), Sections 30A, 32 and 33 of the National Housing ...",
+   "lead": "Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by the section 21 and 35A of the Banking Regulation Act, 1949, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby ...",
    "image": null,
    "why": [
     "Regulator rulebook change",
@@ -449,7 +471,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -472,7 +494,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -494,7 +516,7 @@
    "tags": [
     "Acquisition"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -517,7 +539,7 @@
     "Citizenship",
     "Austria"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -541,8 +563,8 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Policy",
@@ -564,7 +586,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -586,31 +608,30 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 9,
    "priority": 90,
-   "title": "Major Changes To UK Indefinite Leave To Remain ('ILR') Confirmed",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN1R0cXhiNndzM1NMa3BXM3FLM05Xb1RidWNDdWJNT1RucHJ3YVhSTWQ5cTQtUVBqN0d0Sm93azJtYlh1d01od2o1Q3FLc3h2SklETGc0eWRGOHVtNFZrOUR5NkphajI0eWNsaUlMN1ZqOG5XWTNScldBNXd6aDZzeVVITGRLbGZfNGM0SWs5ckhXTTcwNFhrT25DekY1aFh2eVZrNWtPN1hidS1PRmtrWXcyOEsxWFQ5WUQ3X1V3VEprQkk?oc=5",
-   "date": "2026-11-21",
-   "source": "Legal 500",
+   "title": "UK settlement rules: Transitional arrangements for care workers",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EMmxlSDdRSkY3OGF2cEFzc05IWFd0ZlVPQXkyVXRUTnBZdlVCOVdjZTlCc3dWWEtLaWtGcDNqVXdyOUEtZ3JFeG05YVR4UUcwTzNwZHdJMmE1WHVHZDh3aXg1UnAtNF9rUzlGMTduVHpRTkdp?oc=5",
+   "date": "2026-11-23",
+   "source": "The House of Commons Library",
    "label": "United Kingdom",
-   "snippet": "The UK Home Office has unveiled a comprehensive overhaul of its settlement framework, introducing tiered pathways ranging from 3 to 20 years based on earnings…",
-   "lead": "Withers is an international law firm focused on the personal, business and philanthropic interests...",
-   "image": "https://www.legal500.com/assets/dynamic/a4149ebc3ffe185eca4058cf0d8cf56825ae0b0a745392fbd029ec1b42bd2878/17702.jpg",
+   "snippet": "",
+   "lead": "",
+   "image": null,
    "why": [
     "Affects permanent residence",
-    "Announces a change",
     "Major story (8 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
     "United Kingdom"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -628,13 +649,13 @@
    "why": [
     "Affects citizenship",
     "Announces a change",
-    "Major story (11 headlines that day)"
+    "Major story (12 headlines that day)"
    ],
    "tags": [
     "Citizenship",
     "Canada"
    ],
-   "rank": 9,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -658,7 +679,7 @@
     "Citizenship",
     "Germany"
    ],
-   "rank": 10,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -682,7 +703,7 @@
     "Work visa",
     "Australia"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -705,7 +726,7 @@
     "Funding",
     "Media, Gaming & Creators"
    ],
-   "rank": 12,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -728,7 +749,7 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 13,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -753,7 +774,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -777,7 +798,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 15,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -800,7 +821,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -822,28 +843,6 @@
    ],
    "tags": [
     "Regulatory"
-   ],
-   "rank": 17,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 9,
-   "priority": 75,
-   "title": "Bending Spoons buys Mailchimp for $3.68B",
-   "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-   "date": "2026-11-20",
-   "source": "TechCrunch",
-   "label": "Global · Other",
-   "snippet": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
-   "lead": "Bending Spoons buys Mailchimp for $3.68B Russell Brandom 8:16 AM PST · November 20, 2026 Bending Spoons has bought up another distressed internet company. This time, it’s the email marketing firm Mailchimp, bought for $3.68 billion from the tax-preparation giant Intuit. Intuit acquired the company in 2021 for roughly $12 billion, so it’s taking quite a loss — and, perhaps, Bending Spoons is getting quite a bargain. At the time of the ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150300479.jpg?resize=1200,800",
-   "why": [
-    "Acquisition",
-    "Very large figure in headline (about $3,680M: round or valuation)"
-   ],
-   "tags": [
-    "Acquisition"
    ],
    "rank": 18,
    "must_read": false
