@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-24",
- "built": "2026-11-24 15:13 IST",
+ "built": "2026-11-24 15:53 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -33,16 +33,16 @@
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 86.72,
-   "change_pct": -2.97,
-   "asof": "24 Nov 15:03 IST"
+   "value": 86.68,
+   "change_pct": -3.01,
+   "asof": "24 Nov 15:42 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3624.0,
-   "change_pct": -0.76,
-   "asof": "24 Nov 15:03 IST"
+   "value": 3621.0,
+   "change_pct": -0.82,
+   "asof": "24 Nov 15:43 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -162,7 +162,7 @@
   },
   "Startups": {
    "total": 1500,
-   "new_today": 15,
+   "new_today": 17,
    "items": [
     {
      "desk": "Startups",
@@ -250,7 +250,7 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 15,
+   "new_today": 17,
    "items": [
     {
      "desk": "Immigration",
