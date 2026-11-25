@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26 03:35 IST",
+ "updated": "2026-11-26 04:37 IST",
  "notes": [],
  "nse_stamp": "25-Nov-2026 15:30",
  "indices": [
@@ -481,7 +481,7 @@
    "w1": -3.46,
    "m1": -9.87,
    "y1": null,
-   "asof": "26 Nov 2026 03:35 IST",
+   "asof": "26 Nov 2026 03:45 IST",
    "source": "Yahoo Finance"
   },
   {
@@ -579,13 +579,13 @@
   },
   {
    "name": "US Dollar Index",
-   "value": 103.7,
+   "value": 103.69,
    "dp": 2,
-   "d1": -0.1,
-   "w1": -0.15,
-   "m1": 1.71,
+   "d1": -0.11,
+   "w1": -0.16,
+   "m1": 1.7,
    "y1": 4.05,
-   "asof": "26 Nov 2026 03:25 IST",
+   "asof": "26 Nov 2026 04:27 IST",
    "source": "Yahoo Finance"
   },
   {
@@ -596,75 +596,75 @@
    "w1": -1.34,
    "m1": -2.86,
    "y1": 3.45,
-   "asof": "26 Nov 2026 03:08 IST",
+   "asof": "26 Nov 2026 04:00 IST",
    "source": "Yahoo Finance"
   },
   {
    "name": "EUR/INR",
-   "value": 101.25,
+   "value": 101.26,
    "dp": 2,
-   "d1": -0.0,
-   "w1": -1.39,
-   "m1": -4.36,
-   "y1": -1.34,
-   "asof": "26 Nov 2026 03:31 IST",
+   "d1": 0.0,
+   "w1": -1.38,
+   "m1": -4.35,
+   "y1": -1.32,
+   "asof": "26 Nov 2026 04:21 IST",
    "source": "Yahoo Finance"
   }
  ],
  "commodities": [
   {
    "name": "Gold (USD/oz)",
-   "value": 3615.0,
+   "value": 3617.8,
    "dp": 2,
-   "d1": 1.49,
-   "w1": -3.39,
-   "m1": -10.48,
-   "y1": -12.68,
-   "asof": "26 Nov 2026 03:25 IST",
+   "d1": 1.57,
+   "w1": -3.32,
+   "m1": -10.42,
+   "y1": -12.61,
+   "asof": "26 Nov 2026 03:29 IST",
    "source": "Yahoo Finance"
   },
   {
    "name": "Silver (USD/oz)",
-   "value": 41.59,
+   "value": 41.67,
    "dp": 2,
-   "d1": 2.04,
-   "w1": -7.58,
-   "m1": -23.14,
-   "y1": -18.35,
-   "asof": "26 Nov 2026 03:25 IST",
+   "d1": 2.23,
+   "w1": -7.4,
+   "m1": -22.99,
+   "y1": -18.19,
+   "asof": "26 Nov 2026 03:29 IST",
    "source": "Yahoo Finance"
   },
   {
    "name": "Brent crude (USD/bbl)",
-   "value": 90.77,
+   "value": 90.82,
    "dp": 2,
-   "d1": -0.69,
-   "w1": -1.28,
-   "m1": -21.62,
-   "y1": 45.28,
-   "asof": "26 Nov 2026 03:24 IST",
+   "d1": -0.63,
+   "w1": -1.23,
+   "m1": -21.58,
+   "y1": 45.36,
+   "asof": "26 Nov 2026 03:29 IST",
    "source": "Yahoo Finance"
   },
   {
    "name": "WTI crude (USD/bbl)",
-   "value": 84.14,
+   "value": 84.15,
    "dp": 2,
-   "d1": 2.55,
-   "w1": 1.06,
-   "m1": -17.32,
-   "y1": 45.19,
-   "asof": "26 Nov 2026 03:25 IST",
+   "d1": 2.56,
+   "w1": 1.07,
+   "m1": -17.31,
+   "y1": 45.21,
+   "asof": "26 Nov 2026 03:29 IST",
    "source": "Yahoo Finance"
   },
   {
    "name": "Copper (USD/lb)",
-   "value": 5.478,
+   "value": 5.481,
    "dp": 3,
-   "d1": 2.15,
-   "w1": -3.21,
-   "m1": -15.83,
-   "y1": 9.57,
-   "asof": "26 Nov 2026 03:24 IST",
+   "d1": 2.22,
+   "w1": -3.15,
+   "m1": -15.77,
+   "y1": 9.64,
+   "asof": "26 Nov 2026 03:29 IST",
    "source": "Yahoo Finance"
   },
   {
@@ -690,7 +690,7 @@
    "source": "Yahoo Finance"
   }
  ],
- "gold_silver_ratio": 86.92,
+ "gold_silver_ratio": 86.82,
  "reits": [
   {
    "name": "Embassy Office Parks REIT",
