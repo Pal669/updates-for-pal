@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-25",
- "built": "2026-11-25 11:52 IST",
+ "built": "2026-11-25 13:46 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25929.0,
-   "change_pct": 2.29,
-   "asof": "25 Nov 11:52 IST"
+   "value": 25717.0,
+   "change_pct": 1.45,
+   "asof": "25 Nov 13:46 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 84370.0,
-   "change_pct": 2.35,
-   "asof": "25 Nov 11:37 IST"
+   "value": 83826.0,
+   "change_pct": 1.69,
+   "asof": "25 Nov 13:31 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 92.47,
-   "change_pct": -0.48,
-   "asof": "25 Nov 11:52 IST"
+   "value": 92.26,
+   "change_pct": -0.71,
+   "asof": "25 Nov 13:46 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 87.83,
-   "change_pct": -3.91,
-   "asof": "25 Nov 11:41 IST"
+   "value": 87.2,
+   "change_pct": -4.6,
+   "asof": "25 Nov 13:36 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3526.0,
-   "change_pct": -1.01,
-   "asof": "25 Nov 11:42 IST"
+   "value": 3518.0,
+   "change_pct": -1.25,
+   "asof": "25 Nov 13:36 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,8 +79,8 @@
  },
  "desks": {
   "Policy": {
-   "total": 381,
-   "new_today": 0,
+   "total": 382,
+   "new_today": 1,
    "items": [
     {
      "desk": "Policy",
@@ -162,8 +162,50 @@
   },
   "Startups": {
    "total": 1500,
-   "new_today": 5,
+   "new_today": 13,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 82,
+     "title": "AidenAI Nets $32 Mn To Scale Enterprise AI Workflows",
+     "url": "https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/",
+     "date": "2026-11-24",
+     "source": "Inc42",
+     "label": "India · AI & Deeptech",
+     "snippet": "Enterprise AI startup AidenAI has raised $32 Mn (₹297.1 Cr) in a Series A funding round led by growth investment firm A91 Partners",
+     "lead": "Enterprise AI startup AidenAI has raised $32 Mn in a Series A funding round led by A91 Partners. Founded in 2023, the company serves over 30 enterprise clients across six countries, offering AI agents and technology modernisation solutions. AidenAI plans to build a team of more than 1,000 frontier AI engineers through its AI Builder Academy.",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/AidenAI-Founder-SM.png",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $32M)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 82,
+     "title": "VC funding rebounds as startups raise $255M; Women founders driving social change",
+     "url": "https://yourstory.com/2026/11/vc-funding-rebounds-women-founders-social-change",
+     "date": "2026-11-23",
+     "source": "YourStory",
+     "label": "India · Media, Gaming & Creators",
+     "snippet": "Venture capital funding in Indian startups saw a sharp rise this week, propped up by a couple of deals in the $50-million range.",
+     "lead": "VC funding rebounds as startups raise $255M; Women founders driving social change Venture capital funding in Indian startups saw a sharp rise this week, propped up by a couple of deals in the $50-million range. Team YS 17629 Stories Monday November 23, 2026 , 5 min Read India’s startup funding landscape showed signs of recovery in the third week of November, with investments jumping to $255 million from $26 million in the previous ...",
+     "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/CopyofNewPPTTemplates21-1775307633294.jpg",
+     "why": [
+      "Funding",
+      "Large deal (about $255M)"
+     ],
+     "tags": [
+      "Funding",
+      "Media, Gaming & Creators"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 9,
@@ -204,54 +246,12 @@
       "Funding",
       "Commerce & D2C"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 82,
-     "title": "Bengaluru leads India in AI startup funding: Innovation Report 2026",
-     "url": "https://yourstory.com/2026/11/bengaluru-leads-india-in-ai-startup-funding-innovation-report-2026",
-     "date": "2026-11-18",
-     "source": "YourStory",
-     "label": "India · AI & Deeptech",
-     "snippet": "$85 billion raised, a growing AI ecosystem and a strong deep-tech pipeline. The Bengaluru Innovation Report 2026 maps the city's startup growth as Karnataka looks to spread its tech ambitions beyond the capital.",
-     "lead": "Bengaluru leads India in AI startup funding: Innovation Report 2026 $85 billion raised, a growing AI ecosystem and a strong deep-tech pipeline. The Bengaluru Innovation Report 2026 maps the city's startup growth as Karnataka looks to spread its tech ambitions beyond the capital. Aasma Khan 482 Stories Wednesday November 18, 2026 , 4 min Read Bengaluru's position as India's technology hub is increasingly being shaped by artificial ...",
-     "image": "https://images.yourstory.com/cs/2/07f6d7f0ed8e11ed819979969b4b51e2/Untitleddesign50-1795004620644.jpg",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $85,000M: round or valuation)"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 82,
-     "title": "Anthropic IPO fever hits crypto: Binance launches $500 million tokenised share campaign",
-     "url": "https://economictimes.indiatimes.com/tech/technology/anthropic-ipo-fever-hits-crypto-binance-launches-500-million-tokenised-share-campaign/articleshow/135964874.cms",
-     "date": "2026-11-18",
-     "source": "ET Startups",
-     "label": "Global · Fintech",
-     "snippet": "Binance Wallet has launched a campaign in collaboration with xStocks, allowing eligible users to use USDC, a digital currency designed to maintain a value of $1, to subscribe to tokens linked to Anthropic. The campaign has a limit of $500 million and runs for eight hours on November 18, Binance ...",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-98694,resizemode-75,msid-135964874/tech/technology/anthropic-ipo-fever-hits-crypto-binance-launches-500-million-tokenised-share-campaign.jpg",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $500M: round or valuation)"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "Fintech"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 3,
+   "new_today": 14,
    "items": [
     {
      "desk": "Immigration",
@@ -300,41 +300,20 @@
      "desk": "Immigration",
      "score": 6,
      "priority": 55,
-     "title": "Pakistani Man’s Attempt to Reach France on Fake Indian Passport Foiled; Schengen Visa in Akshay Kumar’s Name",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORFlON0dRckI0bFU5UGt2UkpkejBWOG9nMWtXYjVfeWVzTzRGUy1HNV9QQzluQkk3aVlEMmlVbFJTZHEwdTdjVlUxbV9LMWdaX2oxWnNiM0lNb0xyb19wUU1NREVBMEd0LUJoM3V0SkxneTlnUVZza0NCYmlmS2wzeTVWMjJfeGdJSVJ0dEt0c014bDVjbnFNdG5fTGdVREJETHV5ZG55RVU?oc=5",
-     "date": "2026-11-21",
-     "source": "UrduPoint",
-     "label": "France",
-     "snippet": "The FIA detained Muhammad Qasim at Karachi Airport over an alleged attempt to travel to France with a fake Indian passport and a Schengen visa in Akshay Kumar’s name.",
-     "lead": "The passenger, stopped in Doha and returned to Karachi, was taken into FIA custody; an alleged €30,000 deal to send him abroad has emerged. KARACHI, (Pakistan Point News - 21st Nov, 2026) The Federal Investigation Agency (FIA) has taken a Pakistani citizen into custody at Karachi Airport for attempting to travel to France using a fake Indian passport and a suspicious Schengen visa. He was transferred to the FIA’s Anti-Human Trafficking ...",
-     "image": "https://photo-cdn.urdupoint.com/media-up/2026/_1/1200x630/pic_7f62e_1795278021.jpg",
-     "why": [
-      "Affects citizenship",
-      "Mentions India or Indians"
-     ],
-     "tags": [
-      "Citizenship",
-      "France"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 5,
-     "priority": 45,
-     "title": "The Digital Nomad Visa Spain Route in 2026: A Guide for Remote Workers and Employers",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTnpDaTBNRENOekFwUTRPYm5WYk96X2VpV0RYQlFzai1LalFkSnd4SjVQaENfNUNqMlFfeUY0REg1SXhFMUJFZ1E2bFNJVU0wbnpuejZVeGo5bHpoR3R5RVRMX296SV9HR1RaT1MtcEM4UG56VVlVeUZEZ3dGdzdMN3JKS0FtaTA?oc=5",
-     "date": "2026-11-24",
+     "title": "Family Visa France 2026: Sponsoring a Spouse or Child Step by Step",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM1h6REZIZ2c4MFYycmJkZGE2am0za0w3YkdlekNCNzNCY1gxWjdlX1dxUTlwTC1ZOElFdFJuakU0cWNfNFJRc2p0RDhUR2RVYTl2QjdIQ3REU0ZzY1hoUkQ1R2RpYnR1U1U5YVp1WnJaTUh0RkV5dlVrSG92QXNKckswZVdFQzZtOUEw?oc=5",
+     "date": "2026-11-25",
      "source": "Global Advisory Experts",
-     "label": "Spain",
-     "snippet": "Understand the digital nomad visa spain route in 2026: eligibility, income, tax, family rights and employer duties for non-EU remote workers.",
-     "lead": "Spain has created one of Europe's most discussed residence options for people who work from a laptop. The digital nomad visa spain route is now a serious consideration for founders, remote employees, freelancers and the companies that engage them. As 2026 gets under way, the real questions are less about the headline appeal and more about eligibility, tax and compliance. This guide explains who qualifies, how the application works, ...",
-     "image": "https://globaladvisoryexperts.com/_ipx/f_jpeg&w_1200&b_ffffff&flatten_true/https://cdn.globallawexperts.com/media/2026/09/digital-nomad-visa-spain-route-2026-09-11.webp",
+     "label": "France",
+     "snippet": "",
+     "lead": "",
+     "image": null,
      "why": [
       "Affects work visas"
      ],
      "tags": [
       "Work visa",
-      "Spain"
+      "France"
      ]
     }
    ]
@@ -432,6 +411,28 @@
  },
  "items": [
   {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 100,
+   "title": "RBI to conduct Second Overnight Variable Rate Repo (VRR) auction under LAF on November 25, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64037",
+   "date": "2026-11-25",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a second Variable Rate Repo (VRR) auction on Wednesday, November 25, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "image": null,
+   "why": [
+    "Rates and liquidity",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
    "desk": "Startups",
    "score": 11,
    "priority": 100,
@@ -451,7 +452,7 @@
     "Acquisition",
     "AI & Deeptech"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -475,7 +476,7 @@
     "Student / Graduate",
     "United Kingdom"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -497,7 +498,7 @@
    "tags": [
     "Acquisition"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -521,7 +522,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -544,8 +545,8 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -568,7 +569,30 @@
    "tags": [
     "AIF"
    ],
-   "rank": 6,
+   "rank": 7,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 91,
+   "title": "Layoffs At JioStar, AidenAI Nets $32 Mn & More",
+   "url": "https://inc42.com/buzz/layoffs-at-jiostar-aidenai-nets-32-mn-more/",
+   "date": "2026-11-25",
+   "source": "Inc42",
+   "label": "India · Media, Gaming & Creators",
+   "snippet": "Media giant JioStar is trimming at least 150 jobs, while Google Cloud India confirmed that it slashed around 30 roles last week.",
+   "lead": "JioStar Draws Its Axe: Barely 18 months after cutting over 1,000 roles following the Viacom18-Star India merger, JioStar is initiating a second round of layoffs that will impact roles across marketing, production, studios and operations. Sources suggest that the final number could be higher than 150. The latest layoffs reflect mounting profitability pressures at the media giant. JioStar’s Margin Pressure: The media giant’s financials ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Social-Daily-Brief-52.png",
+   "why": [
+    "Shutdown & Layoffs",
+    "Sizeable deal (about $32M)"
+   ],
+   "tags": [
+    "Shutdown & Layoffs",
+    "Media, Gaming & Creators"
+   ],
+   "rank": 8,
    "must_read": false
   },
   {
@@ -591,7 +615,7 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 7,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -616,7 +640,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 8,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -639,7 +663,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 9,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -662,7 +686,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 10,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -686,7 +710,7 @@
     "Regulatory",
     "Realty & Infra"
    ],
-   "rank": 11,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -709,52 +733,6 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 9,
-   "priority": 82,
-   "title": "AidenAI Nets $32 Mn To Scale Enterprise AI Workflows",
-   "url": "https://inc42.com/buzz/aidenai-nets-32-mn-to-scale-enterprise-ai-workflows/",
-   "date": "2026-11-24",
-   "source": "Inc42",
-   "label": "India · AI & Deeptech",
-   "snippet": "Enterprise AI startup AidenAI has raised $32 Mn (₹297.1 Cr) in a Series A funding round led by growth investment firm A91 Partners",
-   "lead": "Enterprise AI startup AidenAI has raised $32 Mn in a Series A funding round led by A91 Partners. Founded in 2023, the company serves over 30 enterprise clients across six countries, offering AI agents and technology modernisation solutions. AidenAI plans to build a team of more than 1,000 frontier AI engineers through its AI Builder Academy.",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/AidenAI-Founder-SM.png",
-   "why": [
-    "Funding",
-    "Sizeable deal (about $32M)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 9,
-   "priority": 82,
-   "title": "Canada Immigration Fight Escalates as Conservatives Challenge Carney’s 2027 Permanent Resident Plan",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM2JaZ1VjTDFxbHFXVl9ySHlNcFpiTzB6bGxNWGVEcVl5a3NIbzc2VUpqWFJEZzF0X2NWU2J3UUtMbjJld0pNNFdnUDV2OFpwb3lZNHRmVE1WaGRydm5QRjFFOTdUVWdScGNlS3hMV2RhY3RqU091c2xVM0xrbTNtV0ViQTgtU2g3MUc0LUttdVR2UmVfbWRfb28yYTF4TzBHY3lQOW9qemoxVjRqb0l0aXlqNkh5dWYzZUIweW1taUE2YnA3LXFNYmdpRnQwQmtZdFE?oc=5",
-   "date": "2026-11-24",
-   "source": "kalkine.ca",
-   "label": "Canada",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Affects permanent residence",
-    "Major story (10 headlines that day)"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "Canada"
-   ],
    "rank": 14,
    "must_read": false
   },
@@ -762,23 +740,45 @@
    "desk": "Startups",
    "score": 9,
    "priority": 82,
-   "title": "VC funding rebounds as startups raise $255M; Women founders driving social change",
-   "url": "https://yourstory.com/2026/11/vc-funding-rebounds-women-founders-social-change",
-   "date": "2026-11-23",
-   "source": "YourStory",
-   "label": "India · Media, Gaming & Creators",
-   "snippet": "Venture capital funding in Indian startups saw a sharp rise this week, propped up by a couple of deals in the $50-million range.",
-   "lead": "VC funding rebounds as startups raise $255M; Women founders driving social change Venture capital funding in Indian startups saw a sharp rise this week, propped up by a couple of deals in the $50-million range. Team YS 17629 Stories Monday November 23, 2026 , 5 min Read India’s startup funding landscape showed signs of recovery in the third week of November, with investments jumping to $255 million from $26 million in the previous ...",
-   "image": "https://images.yourstory.com/cs/2/c5c652a0fb5a11eca125d7821ea2fbc4/CopyofNewPPTTemplates21-1775307633294.jpg",
+   "title": "Fintech Unicorn Oxyzo Posts 19% Rise In H1 FY27 Profit To ₹208 Cr",
+   "url": "https://inc42.com/buzz/fintech-unicorn-oxyzo-posts-19-rise-in-h1-fy27-profit-to-%e2%82%b9208-cr/",
+   "date": "2026-11-25",
+   "source": "Inc42",
+   "label": "India · Fintech",
+   "snippet": "Oxyzo Financial Services reported a 31% increase in consolidated revenue to ₹910 Cr, as its loan book expanded to ₹11,531 Cr",
+   "lead": "Oxyzo’s standalone net profit increased 19% to ₹208.2 Cr in H1 FY27, while operating revenue grew 28.4% to ₹874.9 Cr. Expenses rose faster than operating revenue, climbing 33.1% to ₹594.9 Cr, with higher finance, employee, and impairment costs weighing on profit growth. Its loan book expanded 33.6% to ₹11,531 Cr, while consolidated net profit rose 27% to ₹218 Cr on operating revenue of ₹910 Cr.",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/05/Oxyzo-FY26-social.jpg",
    "why": [
-    "Funding",
-    "Large deal (about $255M)"
+    "Financials",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Funding",
-    "Media, Gaming & Creators"
+    "Financials",
+    "Fintech"
    ],
    "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 82,
+   "title": "Minister defends 2027 permanent residency plan, says 'vast majority' are already in Canada",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWXZtWU1xcW9CaGtuUjBCTWxSVkZ3dGl3OE5DNzJvUHl3Q3FzRXB3M0p6OExKZXZobEVMNUlHX2hsSjEzYUozSXFMZi1iR1hGRWZjR3h0UElSaGNobW9QenhvRU42SnRSYlFCSW9IS3p3SmZ1djZOclVoX0dJRzdSMkFDLUt6YVl2?oc=5",
+   "date": "2026-11-25",
+   "source": "CBC",
+   "label": "Canada",
+   "snippet": "Immigration Minister Lena Diab says the federal government is managing newcomers responsibly as the Conservative Opposition seeks to block a plan that could see as many as 662,000 people receive permanent residency next year.",
+   "lead": "Ottawa has an annual target of 380,000 permanent resident admissions for the next three years. But up to 282,000 additional permanent admissions are planned through one-time measures in 2027. Diab's office says the \"vast majority of these admissions will be transitioning people who are already in Canada to permanent residence.\" As part of that total, Diab says 100,000 slots are for workers who will be nominated by provinces and ...",
+   "image": null,
+   "why": [
+    "Affects permanent residence"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Canada"
+   ],
+   "rank": 16,
    "must_read": false
   },
   {
@@ -801,7 +801,7 @@
     "Citizenship",
     "Austria"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -824,28 +824,6 @@
    "tags": [
     "Citizenship",
     "Germany"
-   ],
-   "rank": 17,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 80,
-   "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on November 25, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64033",
-   "date": "2026-11-23",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Wednesday, November 25, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
-   "image": null,
-   "why": [
-    "Rates and liquidity",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
    ],
    "rank": 18,
    "must_read": false
