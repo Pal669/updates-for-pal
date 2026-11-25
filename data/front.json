@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-25",
- "built": "2026-11-25 02:23 IST",
+ "built": "2026-11-25 06:34 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -26,23 +26,23 @@
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 92.91,
-   "change_pct": 0.26,
-   "asof": "25 Nov 01:03 IST"
+   "value": 92.9,
+   "change_pct": -0.02,
+   "asof": "25 Nov 06:06 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 88.18,
-   "change_pct": -1.33,
-   "asof": "25 Nov 02:13 IST"
+   "value": 88.58,
+   "change_pct": -0.88,
+   "asof": "25 Nov 06:24 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3549.0,
-   "change_pct": -2.82,
-   "asof": "25 Nov 02:13 IST"
+   "value": 3552.0,
+   "change_pct": -2.72,
+   "asof": "25 Nov 06:24 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -162,7 +162,7 @@
   },
   "Startups": {
    "total": 1500,
-   "new_today": 1,
+   "new_today": 3,
    "items": [
     {
      "desk": "Startups",
@@ -251,7 +251,7 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 1,
+   "new_today": 3,
    "items": [
     {
      "desk": "Immigration",
@@ -341,8 +341,71 @@
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 0,
+   "new_today": 20,
    "items": [
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 77,
+     "title": "Zee Business. . Gold and Silver Price Crash: Gold 14 महीने के Low पर! Silver में 5% Crash, अब और गिरेगी कीमत? Gold and Silver Price Crash: Fed Rate Hike Fears, MCX Levels and Expert Investment Strategy Gold और Silver की कीमतों में ते",
+     "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxONXJCYVZrektJZE8yYTc3MDFhTXpFSjFjUDVONUtCZHpZUm0yUnhELWxNR19EaXdzdmNyV3cxcTE5V3pMQTc3aTlwMWVuNXVvNXZ3X2hfWHRTRHl5Z1ZGLXE1ZnFRQ290Y2R0RVpKY3NjSV9PdmwyLURDYnBwSFdEa3g4MVBBRnBwVm5FZFF2amg4OExsSnhCMHlzMFROVm9yVHZSc0Q1ZGN1OWFJVU5SZzBoN1RWbHp5eTctQjBycmI0RjZkVUN0SFpPUnc4SFN4dWtJQzBuUFcwakpoQTNOVWJIeHpROVE1X1J2YTQ1alhKb0xNSmVKSzBFenAwQzY1Y2NKUEJfRW9lRklmNVQ5YVQ3R2tjSGFyVnJrVW95R1FkQ1JIU0FZTjdRM2ljYV91bjFSemhGT0hMZ3Z3MHRBX05USFpBczlTQVM0QXpJb280LVNsMThuZkJGeDMtWjJQUGtHaExmdGIzZXZzRGVnd2ZndmxvVXdaYVhuUWI4QnJ0WHJBOU1oRnlvcWJNeGRvR295eTNVdE9lZVQ4clFFY0Q5b0V1R0ZfLTdfMQ?oc=5",
+     "date": "2026-11-19",
+     "source": "Facebook",
+     "label": "Gold & Silver",
+     "snippet": "Gold and Silver Price Crash: Gold 14 महीने के Low पर! Silver में 5% Crash, अब और गिरेगी कीमत?\n\nGold and Silver Price Crash: Fed Rate Hike Fears, MCX Levels and Expert Investment Strategy\n\nGold और...",
+     "lead": "",
+     "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/902333991_1773830774743153_7443153527458220887_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=VeVyFLP-uZkQ7kNvwHXxPNY&_nc_oc=AdoQ6KxG4i1R4_FM-e8mA4gltXvwbL2SPPueisjbHzl19FPxX9mOEv-aOxrPE3dGxuc&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=whi9cUEbOhOkY4bHE_cLng&_nc_ss=7920f&oh=00_AQS4JUnrnNZXNdC-7IIIENNHRX0HMYw13XY-mkC6JB3ZtQ&oe=6B068E53",
+     "why": [
+      "Interest-rate decision",
+      "Precious metals",
+      "Global macro driver",
+      "Sharp market move"
+     ],
+     "tags": [
+      "Gold & Silver"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 69,
+     "title": "Gold & Silver Rates: MCX gold slumps by Rs 3,671, silver crashes 6% amid growing Fed hike bets",
+     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNnFKbWVJeTdwQlZEbnRTN0ZmSTZzZDhwT0R6bVdvbDVUblhIZmxFRXV6OXUwTDctTzJGUE1Id1NSOUF0Yk03WmpfTnotNkxwUU5LRHFyN2xkUktyaVdhcEhaTFNObERmUXo4TXo5SDFmS19TZ0ZQQ1lwa0gtOEppWGItQlhzUERSUUhHTGZjM0RrLXVLdDBqYWJaOHFXbHFOU0o4VUFQSFk3NFkyRW44VzFFeENMaVJlMzBzREhfdEtxdzJiX1RBQTQ1TDY3WGZCWGdDd3h2Z3JkZl9N?oc=5",
+     "date": "2026-11-24",
+     "source": "Zee Business",
+     "label": "Gold & Silver",
+     "snippet": "On MCX, gold futures (December 4) plunged by as much as Rs 3,671, or 2.9 per cent, to Rs 1,22,325, while silver futures (December 4) slid by as much as Rs 9,253, or 6.0 per cent, to Rs 1,44,964.",
+     "lead": "The Fed is scheduled to conduct its next policy review in the first half of December. On MCX, gold futures (December 4) plunged by as much as Rs 3,671, or 2.9 per cent, to Rs 1,22,325, while silver futures (December 4) slid by as much as Rs 9,253, or 6.0 per cent, to Rs 1,44,964. At around 10:15 pm, gold futures were down 2.8 per cent Rs 1,22,505 while the silver contract was down 5.7 per cent at Rs 1,45,406.",
+     "image": null,
+     "why": [
+      "Precious metals",
+      "Global macro driver",
+      "Sharp market move"
+     ],
+     "tags": [
+      "Gold & Silver"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 69,
+     "title": "SEBI's MF Lite Framework: Will India's Passive Mutual Fund Investors Finally Benefit From Lower Costs?",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdUx5eVFudExFSkdtVTAtV1hicC1kWTZDbHVQSnRtYkdER245THdLek0xTnl2dWJ1RFJtbmhWdzFPa21ZcnpYM1lVeXhWZi1hS3hRWk5XeEl0M0ZjTnlIeVpEMFlkVGUzTU5DWUVxT1dabXhNcXJrbUhmSE1GakZ4a2pSX1RhNU0xcE40dWtYRF9FRlBwUFI1REVpcE9JZ3VqX0otVjRVQlNnUFdPenpTNFd6UzR3eWNweUxHd2liQTdSaWJqSG1KT09DU0VKOVpQd3c?oc=5",
+     "date": "2026-11-24",
+     "source": "Trade Brains",
+     "label": "Mutual Funds",
+     "snippet": "SEBI's MF Lite framework aims to simplify regulations for passive mutual funds, encourage competition and potentially reduce costs for investors. But will lower compliance costs translate into cheaper passive funds?",
+     "lead": "Money SEBI's MF Lite Framework: Will India's Passive Mutual Fund Investors Finally Benefit From Lower Costs? SEBI's MF Lite framework aims to simplify regulations for passive mutual funds, encourage competition and potentially reduce costs for investors. But will lower compliance costs translate into cheaper passive funds? Advertisment Never miss a Trade Brains story Add Trade Brains as a preferred source to see more of our news on ...",
+     "image": "https://img-cdn.publive.online/fit-in/1200x675/trade-brains/media/media_files/2026/11/19/sebi-mf-lite-2026-11-19-15-42-32.png",
+     "why": [
+      "Regulator: SEBI or RBI",
+      "Rule or framework change"
+     ],
+     "tags": [
+      "Mutual Funds"
+     ]
+    },
     {
      "desk": "Advisory",
      "score": 9,
@@ -362,67 +425,6 @@
      ],
      "tags": [
       "AIF"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 8,
-     "priority": 62,
-     "title": "NY Fed’s Williams says high inflation necessitates more rate hikes",
-     "url": "https://www.investing.com/news/stock-market-news/ny-feds-williams-says-high-inflation-necessitates-more-rate-hikes-93CH-5046727",
-     "date": "2026-11-24",
-     "source": "Investing.com",
-     "label": "Global",
-     "snippet": "",
-     "lead": "",
-     "image": null,
-     "why": [
-      "Interest-rate decision",
-      "Global macro driver"
-     ],
-     "tags": [
-      "Global"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 8,
-     "priority": 62,
-     "title": "RBI cautions NBFCs over falling gold prices and rising loan-to-value ratios",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQT3dwYW5HbmRrQ19BTTB2V0Rsa2FJdUNSWHctMWxWVVVVNkl3ZGJTU3JkZHFKMlhjUC04cVA0TkU0d0dDT21faFlNYWI4TFF5UWhMeWNSX2VZRUdLTkFfMmVPbjhva1VuX3N6OHJYdVRtN2hwbWZPQnNuTnhhT0lENFR5M3JucmtxZ2F4OF9LdllhckMzcTJqaWFHbmRFZFBOeS1ZQzJ1UjZTWjlZN0xDNkMzMHNUVkFtUnBYMDE1bkdqR3R0dWtDRUotMjBNUkpmd0ZUR1o0R3R3bUdFTVRHYUhtQkx6U2IzZ0pkc0JZYkFNUXll0gH6AUFVX3lxTE1JUlhWblBybjVPWW44Tm9MVEp1QTE0Tm04Y0NfTTI1SFNkQloyLS1EZm10eTJDUHBKbGk3aWdWVlYzWElaUnpFNlFsRDRFUWpaaTdNQ0NDOENYNVh1TFpIY3hCelcxUkUtSkdaTGVCSEZTaDQyZnJvTEN6cWlHWFlRanZoYW9xa2VMXzF4WVIwczBrVk11U2hYaDlaQUxNS3I3U1RGVkJ0TDFXSFRfUjZqZ1NOdktxMGlYMlhlbThTaXhaWTI5RHRBemI0emR4SnI1Nm9ISlo4MDFQMXlWZ3VTRVhuMmlBcHZWSjMySDVEX19xbEMwWlBZZXc?oc=5",
-     "date": "2026-11-24",
-     "source": "The Economic Times",
-     "label": "Gold & Silver",
-     "snippet": "Reserve Bank of India has alerted non-banking finance companies about increased scrutiny of gold loans amid falling prices. Gold prices have decreased nearly 30%, impacting loan to value ratios and raising concerns for lenders. Non-performing asset ratios have doubled in the gold loan sector this fiscal year due to regulatory changes. RBI",
-     "lead": "",
-     "image": "https://img.etimg.com/thumb/msid-136113491,width-1200,height-900,imgsize-92746,overlay-economictimes/articleshow.jpg",
-     "why": [
-      "Regulator: SEBI or RBI",
-      "Precious metals"
-     ],
-     "tags": [
-      "Gold & Silver"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 8,
-     "priority": 62,
-     "title": "Bill Ackman Fed Rate Hike Warning Raises US Recession Concerns",
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSc1pHQW1GZWFnUHA3cklKOVZDNjNhblBIZzFZUUVxd1NoNV8zRlJmWkJhWjRRMFNCY1FDbGhCQ3BkaklKcHNmdS1hY1BITW9zWVFJbGl2Z2c3Vmttay1jR1I0WVU1dXM5LVhSVjFEWUZmWEF4empHcUpETQ?oc=5",
-     "date": "2026-11-23",
-     "source": "TronWeekly",
-     "label": "Global",
-     "snippet": "Bill Ackman Fed rate hike warning highlights recession risks as inflation concerns intensify ahead of the Federal Reserve’s December decision.",
-     "lead": "Home - Cryptocurrency News - Bill Ackman Fed Rate Hike Warning Raises US Recession Concerns Billionaire investor Bill Ackman has warned that a Bill Ackman Fed Rate Hike concern could become a major issue for the US economy as the Federal Reserve prepares for its December 9 meeting. He argued that another increase in borrowing costs could push the United States and global economies into recession. The Pershing Square chief executive ...",
-     "image": "https://www.tronweekly.com/wp-content/uploads/2026/11/resized-1600-x-900-5.jpg",
-     "why": [
-      "Interest-rate decision",
-      "Global macro driver",
-      "New product or fund"
-     ],
-     "tags": [
-      "Global"
      ]
     }
    ]
@@ -466,7 +468,7 @@
    "image": "https://static.toiimg.com/thumb/msid-136120643,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
    "why": [
     "Announces a change",
-    "Major story (12 headlines that day)",
+    "Major story (14 headlines that day)",
     "Mentions India or Indians"
    ],
    "tags": [
@@ -546,6 +548,30 @@
    "must_read": true
   },
   {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 92,
+   "title": "Private credit funds seek distinct status from Sebi under AIF framework",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZHltNWNyM21MYVRCOTNHSjFMQlR0bmlNY2dlRVhyZjFWMTBpbnk1MjZLMUgwUmN2Ri1hZ0hvMTBjdDVnSVpibVBFVlFTQmFsSzBkNi0xMWdFeWhFdWFGVWpsY1hfOEs1cE5GaUdnSUxjUXVyYnMwaDQ2eXJ5eXpqMzFYTHRvOGtqbEh5NW81TkZqcVJMQUw4UjBlUk1mcWVpZVk1cWxySVZPYUtVdHYzWWdvcjJuQ0dZTjJiLUQ3MU92ZXJoOGlscVNmMy0xckNJalFmbtIB2gFBVV95cUxOMFgwbHE4V05HTU5LTUpQM2Y3U2dycU41dHNOUWw1YW12Q2VqY0ZpSkJfTFI1dm5CdDROczBrcVJWb1d0VU85NEk4VUJ6U2hGbUxqSHowU3F1cEdUZElCcEFpd1Q1WmY2Q2pRMFdhNGEtMmRDSjZYbXR5ZlYxWG12NlZtdXlRNXdsWGlZXzE0cHlRcFhkdzFLNDNTZFpEZk9BdE1obUNzZHFxS3pxYnVESzhPSjAwcDZ2MGVjZ2FzeHJxVWZqM0c0TURwYW9pTzBxbVJEY2tkY21EZw?oc=5",
+   "date": "2026-11-24",
+   "source": "Business Standard",
+   "label": "AIF",
+   "snippet": "Private credit funds want a separate Sebi category, citing restrictions on leverage and tranching under Category II AIF rules and differences in cash flows and taxation.",
+   "lead": "",
+   "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/24/thumb/fitandfill/1200X628/1795538999-5932.jpg",
+   "why": [
+    "AIF news",
+    "Regulator: SEBI or RBI",
+    "Rule or framework change",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "AIF"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
    "desk": "Startups",
    "score": 10,
    "priority": 91,
@@ -565,7 +591,7 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -590,7 +616,7 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 7,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -613,7 +639,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 8,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -636,7 +662,54 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 9,
+   "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 85,
+   "title": "Real estate sector braces for another RBI rate hike in Dec: Will housing demand take a hit?",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbGRLM0FBOVlhNGdTY1RUNVJrMW42Q1g0OVo1SG0wVFlSdHBoeFNsZjBXN1NaX3lBNTZSUnpuR1hJUmlKMFVKc0otRmh6aGlXVE82eE5zS0dSVGZ1eDZNTWJoRnFpS3NYWDRkeXoyZ281dVRoZWwzTEZQNm1SaVF2VGZ1MURwZEJvRkt5WWRuRXRvUFlwTmJ6LTdBYjlLb1hlN3AwQTJqOS1Fb291ZzE4UTRzcmlUZTdQWGdBLVF5czFUYTI3S05faVRDTWZ5cGpMWWhR0gHgAUFVX3lxTFBIZGw1cDlBOHVoYnBJNlZJYlpuTW9oel84QWo2QzRnWjVuNTJtcldFdHpFeEdUdWlhLXZDVm8tMTRQQmVrcTY5aTJyLWJrcXJqVVN6MDZKY2JIOG53Q1VmNWQ4RFVxRVJoc2J4TkttUWJPbFJkOG1RNVJUT2JCdnRnSUsyZjBpLXNiUXYybVlYcVJUNEJBOU9uejVORmtXd2djaEVLQ1MtdnQ4WldFNEVNQ3ZyYWhIaTJvQVJhbHRKUVBsVEpKM2tyN19uQmp4NEM1ckZJREZ1MEFiQi0xTWdp?oc=5",
+   "date": "2026-11-24",
+   "source": "Fortune India",
+   "label": "Regulatory",
+   "snippet": "As the RBI gears up for another repo rate hike, concerns mount over its effects on homebuyer affordability and developer financing. Explore expert insights on the future of housing demand amidst economic shifts.",
+   "lead": "The Reserve Bank of India’s (RBI) Monetary Policy Committee (MPC) is scheduled to meet from December 2 to 4, with another repo rate hike on the cards, raising concerns about its potential impact on the real estate sector. While higher borrowing costs could affect homebuyer affordability and developers’ financing expenses, industry experts believe housing demand will remain supported by income growth, urbanisation and infrastructure ...",
+   "image": "https://media.fortuneindia.com/fortune-india/import/2021-12/06fcab90-b2fe-4664-a953-0dccc368de04/Real_estate.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Sector or flows signal"
+   ],
+   "tags": [
+    "Regulatory",
+    "Realty & Infra"
+   ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 85,
+   "title": "Reserve Bank of India (Commercial Banks - Securitisation Transactions) Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13753&Mode=0",
+   "date": "2026-11-23",
+   "source": "RBI",
+   "label": "Regulatory",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "Reserve Bank of India (Commercial Banks - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (Commercial Banks - Securitisation Transactions) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by the section 21 and 35A of the Banking Regulation Act, 1949, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby issues ...",
+   "image": null,
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Official notice",
+    "Also covered by 2 other outlet(s)"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 12,
    "must_read": false
   },
   {
@@ -659,7 +732,30 @@
     "Funding",
     "AI & Deeptech"
    ],
-   "rank": 10,
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 82,
+   "title": "Canada Immigration Fight Escalates as Conservatives Challenge Carney’s 2027 Permanent Resident Plan",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM2JaZ1VjTDFxbHFXVl9ySHlNcFpiTzB6bGxNWGVEcVl5a3NIbzc2VUpqWFJEZzF0X2NWU2J3UUtMbjJld0pNNFdnUDV2OFpwb3lZNHRmVE1WaGRydm5QRjFFOTdUVWdScGNlS3hMV2RhY3RqU091c2xVM0xrbTNtV0ViQTgtU2g3MUc0LUttdVR2UmVfbWRfb28yYTF4TzBHY3lQOW9qemoxVjRqb0l0aXlqNkh5dWYzZUIweW1taUE2YnA3LXFNYmdpRnQwQmtZdFE?oc=5",
+   "date": "2026-11-24",
+   "source": "kalkine.ca",
+   "label": "Canada",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Affects permanent residence",
+    "Major story (10 headlines that day)"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Canada"
+   ],
+   "rank": 14,
    "must_read": false
   },
   {
@@ -682,7 +778,7 @@
     "Funding",
     "Media, Gaming & Creators"
    ],
-   "rank": 11,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -705,31 +801,7 @@
     "Citizenship",
     "Austria"
    ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 9,
-   "priority": 82,
-   "title": "Americans Face Major Delays in Claiming Canadian Citizenship",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcFZjUlg4RllGZ2tMNk5WZzJEbHBZZWx3VHNmUnFqNTloVnhCNW9SODh2SURJdExnZk1JU0RKYXVIZEhmMFhuRXZiOU5ULXItTUFhSGhKeE4zZndMSDM1Y0pjTWJ1Nk9tb0hReWlpcDl2eEVyRDE4QXBtYmZRSUdUeDZHUGJseGdFeGVSUg?oc=5",
-   "date": "2026-11-20",
-   "source": "Newsweek",
-   "label": "Canada",
-   "snippet": "Americans claiming Canadian citizenship face waits of nearly three years as a record backlog overwhelms immigration authorities.",
-   "lead": "0 Share Newsweek is a Trust Project member See more of our trusted coverage when you search. Prefer Newsweek on Google to see more of our trusted coverage when you search. Americans seeking Canadian citizenship through their family ancestry face waits of almost three years as a record backlog overwhelms immigration authorities. Processing times for certificates proving Canadian citizenship have soared from five months in May 2025 to 35 ...",
-   "image": "https://assets.newsweek.com/wp-content/uploads/2026/11/GettyImages-544955398.jpg?w=1200&crop=1",
-   "why": [
-    "Affects citizenship",
-    "Announces a change",
-    "Major story (12 headlines that day)"
-   ],
-   "tags": [
-    "Citizenship",
-    "Canada"
-   ],
-   "rank": 13,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -753,7 +825,7 @@
     "Citizenship",
     "Germany"
    ],
-   "rank": 14,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -775,76 +847,6 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 15,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 77,
-   "title": "Reserve Bank of India (Securitisation Transactions) Amendment Directions, 2026: issued for 4 bank categories",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13756&Mode=0",
-   "date": "2026-11-23",
-   "source": "RBI",
-   "label": "Regulatory",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (All India Financial Institutions - Securitisation Transactions) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by the Section 45L of the Reserve Bank of India Act, 1934, the Reserve Bank being satisfied that it is necessary and expedient in the public ...",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Official notice",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 16,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 77,
-   "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on November 25, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64033",
-   "date": "2026-11-23",
-   "source": "RBI",
-   "label": "Regulatory",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Wednesday, November 25, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Official notice",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 17,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 77,
-   "title": "Zee Business. . Gold and Silver Price Crash: Gold 14 महीने के Low पर! Silver में 5% Crash, अब और गिरेगी कीमत? Gold and Silver Price Crash: Fed Rate Hike Fears, MCX Levels and Expert Investment Strategy Gold और Silver की कीमतों में ते",
-   "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxONXJCYVZrektJZE8yYTc3MDFhTXpFSjFjUDVONUtCZHpZUm0yUnhELWxNR19EaXdzdmNyV3cxcTE5V3pMQTc3aTlwMWVuNXVvNXZ3X2hfWHRTRHl5Z1ZGLXE1ZnFRQ290Y2R0RVpKY3NjSV9PdmwyLURDYnBwSFdEa3g4MVBBRnBwVm5FZFF2amg4OExsSnhCMHlzMFROVm9yVHZSc0Q1ZGN1OWFJVU5SZzBoN1RWbHp5eTctQjBycmI0RjZkVUN0SFpPUnc4SFN4dWtJQzBuUFcwakpoQTNOVWJIeHpROVE1X1J2YTQ1alhKb0xNSmVKSzBFenAwQzY1Y2NKUEJfRW9lRklmNVQ5YVQ3R2tjSGFyVnJrVW95R1FkQ1JIU0FZTjdRM2ljYV91bjFSemhGT0hMZ3Z3MHRBX05USFpBczlTQVM0QXpJb280LVNsMThuZkJGeDMtWjJQUGtHaExmdGIzZXZzRGVnd2ZndmxvVXdaYVhuUWI4QnJ0WHJBOU1oRnlvcWJNeGRvR295eTNVdE9lZVQ4clFFY0Q5b0V1R0ZfLTdfMQ?oc=5",
-   "date": "2026-11-19",
-   "source": "Facebook",
-   "label": "Gold & Silver",
-   "snippet": "Gold and Silver Price Crash: Gold 14 महीने के Low पर! Silver में 5% Crash, अब और गिरेगी कीमत?\n\nGold and Silver Price Crash: Fed Rate Hike Fears, MCX Levels and Expert Investment Strategy\n\nGold और...",
-   "lead": "",
-   "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/902333991_1773830774743153_7443153527458220887_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=VeVyFLP-uZkQ7kNvwHXxPNY&_nc_oc=AdoQ6KxG4i1R4_FM-e8mA4gltXvwbL2SPPueisjbHzl19FPxX9mOEv-aOxrPE3dGxuc&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=whi9cUEbOhOkY4bHE_cLng&_nc_ss=7920f&oh=00_AQS4JUnrnNZXNdC-7IIIENNHRX0HMYw13XY-mkC6JB3ZtQ&oe=6B068E53",
-   "why": [
-    "Interest-rate decision",
-    "Precious metals",
-    "Global macro driver",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Gold & Silver"
-   ],
    "rank": 18,
    "must_read": false
   },
@@ -852,18 +854,18 @@
    "desk": "Advisory",
    "score": 10,
    "priority": 77,
-   "title": "Cooling crude lifts bond prices, but inflation may prompt 50-bps RBI rate hike: PGIM India's Puneet Pal",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTWVldnJBQ3BiWEI1M3dTLXl5UkRDa2R6MVd3dEdzUDh6SVdxTHk1azBmdGxsRmYwX0FjNzAtcEwxQ05UVk5GMHlnbTVfWEc4c1FpTFZJUkFWYkxKWjJuTU1EM0VhRzUyLTk1TmF2ck1HTl9WanVXaThqNWN4Z1JJY2ZTakJpb041cXc2OHJVdGRlNWczRzh0OEN6ZXFoblBuNVBXeFNBa0hUUFZkLW5pWFVGX1BtMVlfWjdwZWMxYlNHTVc2ZWlfbDFMNjVZRTJWNFpvR3NHVEQwVzZJaVlveWZHSmYza3A4MmNXdTBUR3FZRGl3ay11ZTIwVUfSAYICQVVfeXFMUHJzNS00TUZCcmZxT1d5U0ZzTklhSDlYZWVWR25Vb25QTm9JWVBpUFd4d3hNMDdRcXB5ejhRVTlvbV9uRHItZ0pLY09CZmhpdlNoVjVKT1NUU3lVZ19iS0FyMDVmUktwcWY4N3QxTmhLRFZxOWpwTXFKQ2NJMEdjd2JpaVhFRVpFaU5Hb1R5VjRMdUlqa0N5NVBTOGhZVU1hODBkQXZQdmlFN2tfX0xCLVZrNFlGVXd3UUdad1lQVmpVLVRieXJYM2hCZHc3cEpwcTVWRUZNQjZvMGtvaEVPZTFXejJRU29Hc1NiNnNrWjJFSUNydVFNT3ZReHdfcHpGX3Rn?oc=5",
-   "date": "2026-11-18",
-   "source": "The Economic Times",
+   "title": "RBI DG asks primary dealers to bid responsibly in G-Sec underwriting auctions",
+   "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-dg-asks-primary-dealers-to-bid-responsibly-in-g-sec-underwriting-auctions/articleshow/136125661.cms",
+   "date": "2026-11-24",
+   "source": "Economic Times",
    "label": "Debt & Bonds",
-   "snippet": "Falling crude oil prices and a stronger rupee have lifted Indian bond prices in November, but persistent inflation could prompt the RBI to raise interest rates by as much as 50 basis points in its next policy meeting, says PGIM India",
-   "lead": "The Indian bond market is experiencing a positive shift, with bond yields decreasing as oil prices and Treasury yields fall. The 2036 benchmark bond yield is now at 7.2393%, reflecting a minor drop. Additionally, crude oil prices have plummeted more than 20% since their October peaks, providing a temporary buffer against inflation. Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share ...",
-   "image": "https://img.etimg.com/thumb/msid-135954044,width-1200,height-900,imgsize-164136,overlay-etmarkets/articleshow.jpg",
+   "snippet": "RBI Deputy Governor Rohit Jain has urged primary dealers to bid responsibly in government securities auctions. Jain noted instances of volatile pricing that misalign with orderly market conditions, impacting government borrowing costs. He highlighted the challenge of liquidity concentration in a few securities and called for improved mark",
+   "lead": "The demand for long-term government securities has seen a marginal decline recently. Insurance companies and pension funds are increasingly focusing on equities instead of sovereign debt. This change has impacted the stability of the government securities market and highlighted challenges in liquidity distribution. The Reserve Bank of India emphasizes the need for a coordinated approach and broader participation from institutional ...",
+   "image": "https://img.etimg.com/thumb/msid-136125715,width-1200,height-900,imgsize-234514,overlay-etmarkets/articleshow.jpg",
    "why": [
     "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Global macro driver"
+    "Government bond yields",
+    "Also covered by 1 other outlet(s)"
    ],
    "tags": [
     "Debt & Bonds"
