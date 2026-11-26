@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-26",
- "built": "2026-11-26 01:45 IST",
+ "built": "2026-11-26 06:11 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -26,23 +26,23 @@
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 92.22,
-   "change_pct": -0.75,
-   "asof": "26 Nov 00:34 IST"
+   "value": 92.81,
+   "change_pct": -0.12,
+   "asof": "26 Nov 04:00 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 90.47,
-   "change_pct": -1.02,
-   "asof": "26 Nov 01:35 IST"
+   "value": 90.64,
+   "change_pct": -0.83,
+   "asof": "26 Nov 05:53 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3580.0,
-   "change_pct": 0.5,
-   "asof": "26 Nov 01:35 IST"
+   "value": 3602.0,
+   "change_pct": 1.11,
+   "asof": "26 Nov 06:01 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -231,7 +231,7 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 4,
+   "new_today": 14,
    "items": [
     {
      "desk": "Immigration",
@@ -319,45 +319,67 @@
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 0,
+   "new_today": 30,
    "items": [
     {
      "desk": "Advisory",
-     "score": 9,
-     "priority": 75,
-     "title": "RBI DG asks primary dealers to bid responsibly in G-Sec underwriting auctions",
-     "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-dg-asks-primary-dealers-to-bid-responsibly-in-g-sec-underwriting-auctions/articleshow/136125661.cms",
+     "score": 11,
+     "priority": 79,
+     "title": "Private credit funds seek distinct status from Sebi under AIF framework",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZHltNWNyM21MYVRCOTNHSjFMQlR0bmlNY2dlRVhyZjFWMTBpbnk1MjZLMUgwUmN2Ri1hZ0hvMTBjdDVnSVpibVBFVlFTQmFsSzBkNi0xMWdFeWhFdWFGVWpsY1hfOEs1cE5GaUdnSUxjUXVyYnMwaDQ2eXJ5eXpqMzFYTHRvOGtqbEh5NW81TkZqcVJMQUw4UjBlUk1mcWVpZVk1cWxySVZPYUtVdHYzWWdvcjJuQ0dZTjJiLUQ3MU92ZXJoOGlscVNmMy0xckNJalFmbtIB2gFBVV95cUxOMFgwbHE4V05HTU5LTUpQM2Y3U2dycU41dHNOUWw1YW12Q2VqY0ZpSkJfTFI1dm5CdDROczBrcVJWb1d0VU85NEk4VUJ6U2hGbUxqSHowU3F1cEdUZElCcEFpd1Q1WmY2Q2pRMFdhNGEtMmRDSjZYbXR5ZlYxWG12NlZtdXlRNXdsWGlZXzE0cHlRcFhkdzFLNDNTZFpEZk9BdE1obUNzZHFxS3pxYnVESzhPSjAwcDZ2MGVjZ2FzeHJxVWZqM0c0TURwYW9pTzBxbVJEY2tkY21EZw?oc=5",
      "date": "2026-11-24",
-     "source": "Economic Times",
-     "label": "Debt & Bonds",
-     "snippet": "RBI Deputy Governor Rohit Jain has urged primary dealers to bid responsibly in government securities auctions. Jain noted instances of volatile pricing that misalign with orderly market conditions, impacting government borrowing costs. He highlighted the challenge of liquidity concentration in a few securities and called for improved mark",
-     "lead": "The demand for long-term government securities has seen a marginal decline recently. Insurance companies and pension funds are increasingly focusing on equities instead of sovereign debt. This change has impacted the stability of the government securities market and highlighted challenges in liquidity distribution. The Reserve Bank of India emphasizes the need for a coordinated approach and broader participation from institutional ...",
-     "image": "https://img.etimg.com/thumb/msid-136125715,width-1200,height-900,imgsize-234514,overlay-etmarkets/articleshow.jpg",
+     "source": "Business Standard",
+     "label": "AIF",
+     "snippet": "Private credit funds want a separate Sebi category, citing restrictions on leverage and tranching under Category II AIF rules and differences in cash flows and taxation.",
+     "lead": "",
+     "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/24/thumb/fitandfill/1200X628/1795538999-5932.jpg",
      "why": [
+      "AIF news",
       "Regulator: SEBI or RBI",
-      "Government bond yields",
+      "Rule or framework change",
       "Also covered by 1 other outlet(s)"
      ],
      "tags": [
-      "Debt & Bonds"
+      "AIF"
      ]
     },
     {
      "desk": "Advisory",
-     "score": 8,
-     "priority": 67,
-     "title": "Gold & Silver Rates: MCX gold slumps by Rs 3,671, silver crashes 6% amid growing Fed hike bets",
-     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNnFKbWVJeTdwQlZEbnRTN0ZmSTZzZDhwT0R6bVdvbDVUblhIZmxFRXV6OXUwTDctTzJGUE1Id1NSOUF0Yk03WmpfTnotNkxwUU5LRHFyN2xkUktyaVdhcEhaTFNObERmUXo4TXo5SDFmS19TZ0ZQQ1lwa0gtOEppWGItQlhzUERSUUhHTGZjM0RrLXVLdDBqYWJaOHFXbHFOU0o4VUFQSFk3NFkyRW44VzFFeENMaVJlMzBzREhfdEtxdzJiX1RBQTQ1TDY3WGZCWGdDd3h2Z3JkZl9N?oc=5",
-     "date": "2026-11-24",
-     "source": "Zee Business",
-     "label": "Gold & Silver",
-     "snippet": "On MCX, gold futures (December 4) plunged by as much as Rs 3,671, or 2.9 per cent, to Rs 1,22,325, while silver futures (December 4) slid by as much as Rs 9,253, or 6.0 per cent, to Rs 1,44,964.",
-     "lead": "The Fed is scheduled to conduct its next policy review in the first half of December. On MCX, gold futures (December 4) plunged by as much as Rs 3,671, or 2.9 per cent, to Rs 1,22,325, while silver futures (December 4) slid by as much as Rs 9,253, or 6.0 per cent, to Rs 1,44,964. At around 10:15 pm, gold futures were down 2.8 per cent Rs 1,22,505 while the silver contract was down 5.7 per cent at Rs 1,45,406.",
+     "score": 10,
+     "priority": 71,
+     "title": "Nasdaq-100 nears bear market as futures plunge 3.2%, Nvidia slides amid Fed rate hike concerns | Hindustan Times",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPM0piVVgxdllIOWQwc1lLeDBublR0cnlSYzgxYVIzeWJuUUxYMUQwNnFFa19pQk1EOFU3VkFWdmJVLTJHOFV0dVlUTVZVUG9ndk9SREZlT2k5YzhVaEZFWW1XWU9QaFZEaEkzN2lVdjRHc1o2cDBweElOeTBiTzJYSExKeDZXdVhXQzU3Z21uMGQxV3E0ZGlHQ2Q2cERsYXFhb2RUc2lhMVRUZm5iWkpVT3dSTHZ2REl4MDc4ZWFncXZaakhBbGJsSDIxUFR2WUtEeklsUllyX09PcUVKWl9TWGtOSVlTcmxMTy11dkFtemZmMWFy0gH6AUFVX3lxTFB6MTdSeWhNdUpiWWpPdGgtaGJfU3pBclNvZFlKUUVVMFBSWV9sdXp0UG11NnF0TWNZQklPSkFiRmFaa2p5WXJMamJEdVh6dkhubDl5aGZhTExUazdlRGFTUnZ0eXI1UHZ4LUJlYXZBODhCTC1BVlhsbVkybm1hRmZiT2JfaVd4My0teDRfZDFSUkdqa2w1R3RZZFFYQjNtYUtqUktYTzNLS3F3aDhZTVB3c3Ezend0WngzeXhaUU1IdDNXd3Q1TUdWRDRGOFpaMHZKX3NBZXlXWTNRbElKZzdGWHdEN2VSamQwdERYTUFRVmpNVHBYMlNTOXc?oc=5",
+     "date": "2026-11-25",
+     "source": "Hindustan Times",
+     "label": "Global",
+     "snippet": "Nasdaq-100 futures plunge 3.2% as Nvidia and AI stocks slide, while Fed rate hike concerns and inflation worries weigh on Wall Street.",
+     "lead": "Durva More is a Senior Content Producer at Hindustan Times, where she covers finance, and global news. She brings experience across digital and television journalism, with a strong focus on breaking news, business reporting, and international affairs. Before joining Hindustan Times, Durva worked as an International News Writer at The Economic Times, covering a diverse range of subjects including global politics, business, sports, ...",
      "image": null,
      "why": [
-      "Precious metals",
+      "Interest-rate decision",
       "Global macro driver",
       "Sharp market move"
+     ],
+     "tags": [
+      "Global"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 71,
+     "title": "Global gold prices fell 2% amid expectations of a Fed interest rate hike.",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSnRSblA3SjJCTTB3UDdfTGZZZ19MSUhNa3NpNkVrSFdZejNDWTdqRjkxUnlVdmVsNUlzc1ZqZ2lfVkxKaDV5dko0R1V4UjdhUDZOMmcwS05vRGJPUEZKaXVpVHhqQXBJbWcwWVl2OGhONmhzc1NGLTVUQlNPdXNTNHc1dlJtMEdPWDJz?oc=5",
+     "date": "2026-11-25",
+     "source": "Vietnam.vn",
+     "label": "Gold & Silver",
+     "snippet": "Spot gold prices fell 2% to $3,558.25 per ounce at 2:11 p.m. Eastern Time on November 24, after touching a low of $3,552.46 per ounce earlier in the session.",
+     "lead": "English Login Global gold prices fell 2% amid expectations of a Fed interest rate hike. Spot gold prices fell 2% to $3,558.25 per ounce at 2:11 p.m. Eastern Time on November 24, after touching a low of $3,552.46 per ounce earlier in the session. 0 Global gold prices fell by more than 2% on November 24th, due to signals indicating a hawkish stance from US Federal Reserve officials and a high likelihood of an interest rate hike in ...",
+     "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/09/1794190851956_vna-potal-gia-vang-tiep-tuc-lap-dinh-moi-8491548-jpg.webp",
+     "why": [
+      "Interest-rate decision",
+      "Precious metals",
+      "Global macro driver"
      ],
      "tags": [
       "Gold & Silver"
@@ -365,49 +387,51 @@
     },
     {
      "desk": "Advisory",
-     "score": 8,
-     "priority": 67,
-     "title": "SEBI's MF Lite Framework: Will India's Passive Mutual Fund Investors Finally Benefit From Lower Costs?",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdUx5eVFudExFSkdtVTAtV1hicC1kWTZDbHVQSnRtYkdER245THdLek0xTnl2dWJ1RFJtbmhWdzFPa21ZcnpYM1lVeXhWZi1hS3hRWk5XeEl0M0ZjTnlIeVpEMFlkVGUzTU5DWUVxT1dabXhNcXJrbUhmSE1GakZ4a2pSX1RhNU0xcE40dWtYRF9FRlBwUFI1REVpcE9JZ3VqX0otVjRVQlNnUFdPenpTNFd6UzR3eWNweUxHd2liQTdSaWJqSG1KT09DU0VKOVpQd3c?oc=5",
-     "date": "2026-11-24",
-     "source": "Trade Brains",
-     "label": "Mutual Funds",
-     "snippet": "SEBI's MF Lite framework aims to simplify regulations for passive mutual funds, encourage competition and potentially reduce costs for investors. But will lower compliance costs translate into cheaper passive funds?",
-     "lead": "Money SEBI's MF Lite Framework: Will India's Passive Mutual Fund Investors Finally Benefit From Lower Costs? SEBI's MF Lite framework aims to simplify regulations for passive mutual funds, encourage competition and potentially reduce costs for investors. But will lower compliance costs translate into cheaper passive funds? Advertisment Never miss a Trade Brains story Add Trade Brains as a preferred source to see more of our news on ...",
-     "image": "https://img-cdn.publive.online/fit-in/1200x675/trade-brains/media/media_files/2026/11/19/sebi-mf-lite-2026-11-19-15-42-32.png",
+     "score": 9,
+     "priority": 64,
+     "title": "US Inflation Hits 3.8% as Fed Prepares December Rate Hike",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0aEN2aXF3SnQ1b20tMTBFSjBUeDctVzBORENWcFBVS3NOWmlCMUVBeG9IQy1fSm5jSkQ4UG1SQ1RBOC1qUUZ4cFUza3FUY2JmaE9aZ0duM3UxQXREckM0WXlCamlxNHR0WFZpdFBud2c?oc=5",
+     "date": "2026-11-26",
+     "source": "Demokratis.co.id",
+     "label": "Global",
+     "snippet": "US inflation accelerated to 3.8% in October, while core PCE reached 3.3%, strengthening expectations of a Federal Reserve rate hike in December.",
+     "lead": "Home Economy US Inflation Hits 3.8% as Fed Prepares December Rate Hike US Inflation Hits 3.8% as Fed Prepares December Rate Hike Oliver Bennett Published Nov 26, 2026 - 03:50 9 Reads Last Update Nov 26, 2026 - 03:50 Share WhatsApp Smallest Font Largest Font Rising consumer prices have intensified pressure on the Federal Reserve to tighten monetary policy, after US inflation accelerated to 3.8% in October. The Commerce Department ...",
+     "image": "https://cdn.demokratis.co.id/media/images/2026/11/cx1iEIJbrz.jpeg?location=1&width=1200&height=674&quality=80&watermark=1",
      "why": [
-      "Regulator: SEBI or RBI",
-      "Rule or framework change"
+      "Interest-rate decision",
+      "Global macro driver"
      ],
      "tags": [
-      "Mutual Funds"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 8,
-     "priority": 67,
-     "title": "SEBI InvIT DR framework in IFSC: structuring, compliance and documentation guide",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYnVGRW1Ca3N6Nk1PSnZFREhkZmpwMjROM2ltWE9MWFVrM21wbmZYMkZxVEZoMnV5Vncxc2hiM0gtYUF1ZDVqc0pvM0lnRUdKbVFKOVZhbGxHSGJrdHU2YlM5TVBXckoxTE1NblIzYnhLWUxQUW80NV9TNTBrTU9sa2NsalRJS3l6VVhabjRvWWIyd1hwQXEtVlNNNmhKX0JRSWN1SEc1UHhvWTF6?oc=5",
-     "date": "2026-11-19",
-     "source": "TaxCorp AI",
-     "label": "REITs & InvITs",
-     "snippet": "",
-     "lead": "",
-     "image": null,
-     "why": [
-      "REIT / InvIT news",
-      "Regulator: SEBI or RBI",
-      "Rule or framework change"
-     ],
-     "tags": [
-      "REITs & InvITs"
+      "Global"
      ]
     }
    ]
   }
  },
  "items": [
+  {
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 100,
+   "title": "Canada invites 6,000 francophones to apply for permanent residence",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQME5aZXY2SUg4b1VyVTNXUzhhMFV5dlQ0cGVkN2xvUzFEVXBxY0swVHgtOG11YzRmNlJ2RFNUcVBsLUVhZ0NIY2lSN2VLZHhvM2QyVnhKbjZlN1hQTklUM19YNFE5T3ZVbUgyb29tVGlWb3kzRWJZZkRRaG4tSnAxc2htd2JjaldhX1poMktNY2p0MG1YSncwVzNfaUZjTWh6UjhSajRuaUxSb1NqcWFz0gG0AUFVX3lxTE9hYnJNZnNoVmFGUURiRGVBV0ZWa01ZdDlKZFZrbXRQd2Q3c053TkhNZ1F6UWZpZHN5TjUxWkR3LTVmRkFVbzhCWTFFYk5xdnQ3bXF4RDdJLXpPekQ2ekR0ZHhOeW5sR0wtc1ltaWJLUDRieWFDb0R4VzZvdEtHMlJIWVIwTWhwcE5PdGRaUjJMOVVWendCc09CQTBjbHp5TjZPWkk1M1hOdkhnUUhQaEEwU3dLTA?oc=5",
+   "date": "2026-11-26",
+   "source": "CIC News",
+   "label": "Canada",
+   "snippet": "Canada conducted its second Express Entry selection round under the revised Comprehensive Ranking System (CRS) on Nov. 25, issuing 6,000 invitations to apply (ITAs) to candidates with French-language abilities. To be considered in this draw, candidates needed to have: A minimum CRS score of 401; and Created an Express Entry candidate prof",
+   "lead": "Canada conducted its second Express Entry selection round under the revised Comprehensive Ranking System (CRS) on Nov. 25, issuing 6,000 invitations to apply (ITAs) to candidates with French-language abilities. Express Entry applicants residing in Canada may be eligible for a Bridging Open Work Permit (BOWP) while awaiting a decision on their permanent residence application. Those who apply before their current work permit expires may ...",
+   "image": "https://www.cicnews.com/wp-content/uploads/2026/11/Express-Entry-Draw-67.jpg",
+   "why": [
+    "Affects permanent residence",
+    "Major story (8 headlines that day)"
+   ],
+   "tags": [
+    "PR / Settlement",
+    "Canada"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
   {
    "desk": "Startups",
    "score": 14,
@@ -429,7 +453,31 @@
     "IPO & Listing",
     "Fintech"
    ],
-   "rank": 1,
+   "rank": 2,
+   "must_read": true
+  },
+  {
+   "desk": "Advisory",
+   "score": 14,
+   "priority": 100,
+   "title": "Fed's monetary policy signals linked to rupee depreciation, higher bond yields, according to RBI...",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOc2Z5Vi1hSW5pLVhaXy1FVE1PMFN6T3BMcEpkUkdJekd5ZUJKbUZNSlFJSHQta1hTTEJiVVJUdW5uYkhsQzBNVmJQTTFMSVNSbi1UVGFWWkhvY1lfcmNnMk5zZFJfdzN5R0NMcjhPRW9CYi0yV1NzLWpMcHRDREp1X2hlV1VFM0RGaFpPWktEQmhMSGJablJtU0E4LWplT2hnZE0yOXlXX2R1VFg4eEVnX0NQU194WXd1SDVIWUdSWGozYXAzVW16MFVzWnRCU3NXbFpscnVkeDE3SHFxdzZFTmNfRnAyVlg4ZVppaDE1QzhVZ3ZOWEHSAfsBQVVfeXFMUEdsTXgxdHZTRE1mdS1lZk04R2NkWUFxTlRvTHR2N25GbzdMQk44TDRzWWk5TVVCdDdtal9ncE10empHLWlRNTdtel8ydkROMHgzZ3Vld2NBRlJ3TG5ON2p2OVlkUnV6UFhIdVhIRmYtMXlfX0M0RTZONFFzTUltMW1PMHZva0lOZnJPZFZndWh5Z3JTNHVnUlBkWkozbXVheHlsalZlQnA1UHk3N3J1MExucFlNQ3RQcU5ZTHZpdEdMVWJwV2JHNThXOFNSREE0Z2lRYWNlVDhLVFpzRVVtN080aVFxTkdxRGRWcGc3OG9VWV9acEVmeVd3UFE?oc=5",
+   "date": "2026-11-25",
+   "source": "Moneycontrol.com",
+   "label": "Debt & Bonds",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Government bond yields",
+    "Global macro driver"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 3,
    "must_read": true
   },
   {
@@ -453,31 +501,7 @@
     "Student / Graduate",
     "United Kingdom"
    ],
-   "rank": 2,
-   "must_read": true
-  },
-  {
-   "desk": "Advisory",
-   "score": 12,
-   "priority": 100,
-   "title": "Bond Market Signals Softer RBI Rate Hikes as Crude Retreats and Long-Term Yields Begin to Rally",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGhxY2hzYzJZZEI5ZnBsYlphXy1oN0RXWkVPaTNRN29HUGpNWmRmVXU4YkZ0MVV2dFVmaExMaEVnVE9UTUNJTVh5Sk5MV2ZvaUdqaWpkNzdGYVpkSzdlQWthUlFXRHp3T1ZHcmxlel9xTnlJajZyNjlya2ZPNnlFN0JQc3g2aVlKQ3hxclhWNElmTl94c2xUUEV0MTIxUVpFc0Z5cGc1YUVvTmxjNGZfYm9Oaw?oc=5",
-   "date": "2026-11-23",
-   "source": "Kotak Neo",
-   "label": "Debt & Bonds",
-   "snippet": "Bond yields ease as crude oil prices retreat, prompting markets to reassess RBI rate hikes, inflation risks and demand for longer-dated government bonds.",
-   "lead": "",
-   "image": "https://www.kotakneo.com/uploads/bond_market_signals_softer_rbi_rate_hikes_14d333fdf4.webp",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Global macro driver",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Debt & Bonds"
-   ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -500,32 +524,32 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
    "desk": "Advisory",
-   "score": 11,
-   "priority": 92,
-   "title": "Private credit funds seek distinct status from Sebi under AIF framework",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZHltNWNyM21MYVRCOTNHSjFMQlR0bmlNY2dlRVhyZjFWMTBpbnk1MjZLMUgwUmN2Ri1hZ0hvMTBjdDVnSVpibVBFVlFTQmFsSzBkNi0xMWdFeWhFdWFGVWpsY1hfOEs1cE5GaUdnSUxjUXVyYnMwaDQ2eXJ5eXpqMzFYTHRvOGtqbEh5NW81TkZqcVJMQUw4UjBlUk1mcWVpZVk1cWxySVZPYUtVdHYzWWdvcjJuQ0dZTjJiLUQ3MU92ZXJoOGlscVNmMy0xckNJalFmbtIB2gFBVV95cUxOMFgwbHE4V05HTU5LTUpQM2Y3U2dycU41dHNOUWw1YW12Q2VqY0ZpSkJfTFI1dm5CdDROczBrcVJWb1d0VU85NEk4VUJ6U2hGbUxqSHowU3F1cEdUZElCcEFpd1Q1WmY2Q2pRMFdhNGEtMmRDSjZYbXR5ZlYxWG12NlZtdXlRNXdsWGlZXzE0cHlRcFhkdzFLNDNTZFpEZk9BdE1obUNzZHFxS3pxYnVESzhPSjAwcDZ2MGVjZ2FzeHJxVWZqM0c0TURwYW9pTzBxbVJEY2tkY21EZw?oc=5",
-   "date": "2026-11-24",
-   "source": "Business Standard",
-   "label": "AIF",
-   "snippet": "Private credit funds want a separate Sebi category, citing restrictions on leverage and tranching under Category II AIF rules and differences in cash flows and taxation.",
-   "lead": "",
-   "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/24/thumb/fitandfill/1200X628/1795538999-5932.jpg",
+   "score": 13,
+   "priority": 93,
+   "title": "MCX gold plunges ₹4,420/10g, silver sheds nearly ₹8,800/kg as PCE data fuels December Fed rate hike bets",
+   "url": "https://www.livemint.com/market/commodities/mcx-gold-plunges-rs-4-500-10g-silver-sheds-nearly-rs-8-800-kg-as-pce-data-fuels-december-fed-rate-hike-fears-11795621934097.html",
+   "date": "2026-11-25",
+   "source": "Mint",
+   "label": "Gold & Silver",
+   "snippet": "Gold and silver extended their sharp declines as hotter-than-target US inflation strengthened expectations of Federal Reserve rate hikes and lifted the dollar. MCX gold fell 3.6% to  ₹1,17,906 per 10 grams, while silver dropped  ₹8,800 to  ₹1,36,712 per kg.",
+   "lead": "MCX gold plunges ₹4,500/10g, silver sheds nearly ₹8,500/kg as PCE data fuels December Fed rate hike fears ( AI generated image ) AI Quick Read The sell-off in precious metals, gold and silver, accelerated in Wednesday's trade as the latest PCE inflation data reinforced expectations of US Federal Reserve rate hikes in December, making non-yielding assets such as precious metals less attractive to investors. In addition, a sharp rally in ...",
+   "image": null,
    "why": [
-    "AIF news",
-    "Regulator: SEBI or RBI",
-    "Rule or framework change",
-    "Also covered by 1 other outlet(s)"
+    "Interest-rate decision",
+    "Precious metals",
+    "Global macro driver",
+    "Sharp market move"
    ],
    "tags": [
-    "AIF"
+    "Gold & Silver"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Policy",
@@ -546,102 +570,31 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 9,
-   "priority": 90,
-   "title": "Americans Face Major Delays in Claiming Canadian Citizenship",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcFZjUlg4RllGZ2tMNk5WZzJEbHBZZWx3VHNmUnFqNTloVnhCNW9SODh2SURJdExnZk1JU0RKYXVIZEhmMFhuRXZiOU5ULXItTUFhSGhKeE4zZndMSDM1Y0pjTWJ1Nk9tb0hReWlpcDl2eEVyRDE4QXBtYmZRSUdUeDZHUGJseGdFeGVSUg?oc=5",
-   "date": "2026-11-20",
-   "source": "Newsweek",
-   "label": "Canada",
-   "snippet": "Americans claiming Canadian citizenship face waits of nearly three years as a record backlog overwhelms immigration authorities.",
-   "lead": "0 Share Newsweek is a Trust Project member See more of our trusted coverage when you search. Prefer Newsweek on Google to see more of our trusted coverage when you search. Americans seeking Canadian citizenship through their family ancestry face waits of almost three years as a record backlog overwhelms immigration authorities. Processing times for certificates proving Canadian citizenship have soared from five months in May 2025 to 35 ...",
-   "image": "https://assets.newsweek.com/wp-content/uploads/2026/11/GettyImages-544955398.jpg?w=1200&crop=1",
-   "why": [
-    "Affects citizenship",
-    "Announces a change",
-    "Major story (12 headlines that day)"
-   ],
-   "tags": [
-    "Citizenship",
-    "Canada"
-   ],
    "rank": 7,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "Real estate sector braces for another RBI rate hike in Dec: Will housing demand take a hit?",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbGRLM0FBOVlhNGdTY1RUNVJrMW42Q1g0OVo1SG0wVFlSdHBoeFNsZjBXN1NaX3lBNTZSUnpuR1hJUmlKMFVKc0otRmh6aGlXVE82eE5zS0dSVGZ1eDZNTWJoRnFpS3NYWDRkeXoyZ281dVRoZWwzTEZQNm1SaVF2VGZ1MURwZEJvRkt5WWRuRXRvUFlwTmJ6LTdBYjlLb1hlN3AwQTJqOS1Fb291ZzE4UTRzcmlUZTdQWGdBLVF5czFUYTI3S05faVRDTWZ5cGpMWWhR0gHgAUFVX3lxTFBIZGw1cDlBOHVoYnBJNlZJYlpuTW9oel84QWo2QzRnWjVuNTJtcldFdHpFeEdUdWlhLXZDVm8tMTRQQmVrcTY5aTJyLWJrcXJqVVN6MDZKY2JIOG53Q1VmNWQ4RFVxRVJoc2J4TkttUWJPbFJkOG1RNVJUT2JCdnRnSUsyZjBpLXNiUXYybVlYcVJUNEJBOU9uejVORmtXd2djaEVLQ1MtdnQ4WldFNEVNQ3ZyYWhIaTJvQVJhbHRKUVBsVEpKM2tyN19uQmp4NEM1ckZJREZ1MEFiQi0xTWdp?oc=5",
-   "date": "2026-11-24",
-   "source": "Fortune India",
-   "label": "Regulatory",
-   "snippet": "As the RBI gears up for another repo rate hike, concerns mount over its effects on homebuyer affordability and developer financing. Explore expert insights on the future of housing demand amidst economic shifts.",
-   "lead": "The Reserve Bank of India’s (RBI) Monetary Policy Committee (MPC) is scheduled to meet from December 2 to 4, with another repo rate hike on the cards, raising concerns about its potential impact on the real estate sector. While higher borrowing costs could affect homebuyer affordability and developers’ financing expenses, industry experts believe housing demand will remain supported by income growth, urbanisation and infrastructure ...",
-   "image": "https://media.fortuneindia.com/fortune-india/import/2021-12/06fcab90-b2fe-4664-a953-0dccc368de04/Real_estate.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Sector or flows signal"
-   ],
-   "tags": [
-    "Regulatory",
-    "Realty & Infra"
-   ],
-   "rank": 8,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "Reserve Bank of India (Commercial Banks - Securitisation Transactions) Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13753&Mode=0",
+   "score": 12,
+   "priority": 86,
+   "title": "Bond Market Signals Softer RBI Rate Hikes as Crude Retreats and Long-Term Yields Begin to Rally",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGhxY2hzYzJZZEI5ZnBsYlphXy1oN0RXWkVPaTNRN29HUGpNWmRmVXU4YkZ0MVV2dFVmaExMaEVnVE9UTUNJTVh5Sk5MV2ZvaUdqaWpkNzdGYVpkSzdlQWthUlFXRHp3T1ZHcmxlel9xTnlJajZyNjlya2ZPNnlFN0JQc3g2aVlKQ3hxclhWNElmTl94c2xUUEV0MTIxUVpFc0Z5cGc1YUVvTmxjNGZfYm9Oaw?oc=5",
    "date": "2026-11-23",
-   "source": "RBI",
-   "label": "Regulatory",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Commercial Banks - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (Commercial Banks - Securitisation Transactions) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by the section 21 and 35A of the Banking Regulation Act, 1949, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby issues ...",
-   "image": null,
+   "source": "Kotak Neo",
+   "label": "Debt & Bonds",
+   "snippet": "Bond yields ease as crude oil prices retreat, prompting markets to reassess RBI rate hikes, inflation risks and demand for longer-dated government bonds.",
+   "lead": "",
+   "image": "https://www.kotakneo.com/uploads/bond_market_signals_softer_rbi_rate_hikes_14d333fdf4.webp",
    "why": [
     "Regulator: SEBI or RBI",
-    "Official notice",
-    "Also covered by 2 other outlet(s)"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 9,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "Zee Business. . Gold and Silver Price Crash: Gold 14 महीने के Low पर! Silver में 5% Crash, अब और गिरेगी कीमत? Gold and Silver Price Crash: Fed Rate Hike Fears, MCX Levels and Expert Investment Strategy Gold और Silver की कीमतों में ते",
-   "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxONXJCYVZrektJZE8yYTc3MDFhTXpFSjFjUDVONUtCZHpZUm0yUnhELWxNR19EaXdzdmNyV3cxcTE5V3pMQTc3aTlwMWVuNXVvNXZ3X2hfWHRTRHl5Z1ZGLXE1ZnFRQ290Y2R0RVpKY3NjSV9PdmwyLURDYnBwSFdEa3g4MVBBRnBwVm5FZFF2amg4OExsSnhCMHlzMFROVm9yVHZSc0Q1ZGN1OWFJVU5SZzBoN1RWbHp5eTctQjBycmI0RjZkVUN0SFpPUnc4SFN4dWtJQzBuUFcwakpoQTNOVWJIeHpROVE1X1J2YTQ1alhKb0xNSmVKSzBFenAwQzY1Y2NKUEJfRW9lRklmNVQ5YVQ3R2tjSGFyVnJrVW95R1FkQ1JIU0FZTjdRM2ljYV91bjFSemhGT0hMZ3Z3MHRBX05USFpBczlTQVM0QXpJb280LVNsMThuZkJGeDMtWjJQUGtHaExmdGIzZXZzRGVnd2ZndmxvVXdaYVhuUWI4QnJ0WHJBOU1oRnlvcWJNeGRvR295eTNVdE9lZVQ4clFFY0Q5b0V1R0ZfLTdfMQ?oc=5",
-   "date": "2026-11-19",
-   "source": "Facebook",
-   "label": "Gold & Silver",
-   "snippet": "Gold and Silver Price Crash: Gold 14 महीने के Low पर! Silver में 5% Crash, अब और गिरेगी कीमत?\n\nGold and Silver Price Crash: Fed Rate Hike Fears, MCX Levels and Expert Investment Strategy\n\nGold और...",
-   "lead": "",
-   "image": "https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/902333991_1773830774743153_7443153527458220887_n.jpg?_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=596eb7&_nc_ohc=VeVyFLP-uZkQ7kNvwHXxPNY&_nc_oc=AdoQ6KxG4i1R4_FM-e8mA4gltXvwbL2SPPueisjbHzl19FPxX9mOEv-aOxrPE3dGxuc&_nc_zt=23&_nc_ht=scontent-sjc3-1.xx&_nc_gid=whi9cUEbOhOkY4bHE_cLng&_nc_ss=7920f&oh=00_AQS4JUnrnNZXNdC-7IIIENNHRX0HMYw13XY-mkC6JB3ZtQ&oe=6B068E53",
-   "why": [
     "Interest-rate decision",
-    "Precious metals",
     "Global macro driver",
     "Sharp market move"
    ],
    "tags": [
-    "Gold & Silver"
+    "Debt & Bonds"
    ],
-   "rank": 10,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -663,7 +616,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 11,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -686,7 +639,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 12,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -709,7 +662,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 13,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -731,6 +684,53 @@
    "tags": [
     "Citizenship",
     "Austria"
+   ],
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 79,
+   "title": "RBI may opt for 25 bps rate hike as oil eases, inflation risks persist: Baroda BNP Paribas MF CIO",
+   "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-opt-for-25-bps-rate-hike-as-oil-eases-inflation-risks-persist-baroda-bnp-paribas-mf-cio/articleshow/136162711.cms",
+   "date": "2026-11-25",
+   "source": "Economic Times",
+   "label": "Regulatory",
+   "snippet": "The Reserve Bank of India is projected to implement a 0.25 percent interest rate hike in December. While decreasing crude oil prices could alleviate some inflation worries, many senior executives advocate for a measured strategy due to the prevailing economic climate. Nevertheless, concerns regarding food inflation and supply chain issues",
+   "lead": "Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price The fall is new, the pattern is 11 years old: Making sense of gold's crash",
+   "image": "https://img.etimg.com/thumb/msid-136162838,width-1200,height-900,imgsize-113464,overlay-etmarkets/articleshow.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "Regulatory",
+    "Energy & Power"
+   ],
+   "rank": 13,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 79,
+   "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on November 26, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64043",
+   "date": "2026-11-25",
+   "source": "RBI",
+   "label": "Regulatory",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Thursday, November 26, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "image": null,
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Official notice",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "Regulatory"
    ],
    "rank": 14,
    "must_read": false
