@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-26",
- "built": "2026-11-26 11:01 IST",
+ "built": "2026-11-26 13:33 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25936.0,
-   "change_pct": 0.45,
-   "asof": "26 Nov 11:01 IST"
+   "value": 25820.0,
+   "change_pct": 0.0,
+   "asof": "26 Nov 13:33 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 84447.0,
-   "change_pct": 0.61,
-   "asof": "26 Nov 10:46 IST"
+   "value": 84172.0,
+   "change_pct": 0.28,
+   "asof": "26 Nov 13:18 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 92.54,
-   "change_pct": -0.28,
-   "asof": "26 Nov 11:01 IST"
+   "value": 92.46,
+   "change_pct": -0.37,
+   "asof": "26 Nov 13:33 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 91.16,
-   "change_pct": -3.65,
-   "asof": "26 Nov 10:51 IST"
+   "value": 90.61,
+   "change_pct": -4.23,
+   "asof": "26 Nov 13:22 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3627.0,
-   "change_pct": 2.58,
-   "asof": "26 Nov 10:51 IST"
+   "value": 3591.0,
+   "change_pct": 1.56,
+   "asof": "26 Nov 13:23 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,72 +79,118 @@
  },
  "desks": {
   "Policy": {
-   "total": 385,
-   "new_today": 1,
+   "total": 393,
+   "new_today": 4,
    "items": [
     {
      "desk": "Policy",
-     "score": 2,
-     "priority": 20,
-     "title": "Union Ministry of Health Proposes Incorporation of Good Storage and Distribution Practices into Drugs Rules, 1945",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338316",
-     "date": "2026-11-19",
-     "source": "PIB",
-     "label": "Health & Pharma",
-     "snippet": "The Union Ministry of Health and Family Welfare has proposed the incorporation of Good Storage and Distribution Practices (GSDP) guidelines for pharmaceutical products into the Drugs Rules, 1945. The",
-     "lead": "Ministry of Health and Family Welfare Union Ministry of Health Proposes Incorporation of Good Storage and Distribution Practices into Drugs Rules, 1945 GSDP Framework to Enhance Regulatory Oversight and Accountability in Pharmaceutical Supply Chain Proposed Measures to Ensure Quality, Safety and Integrity of Pharmaceutical Products from Manufacturer to Patient Posted On: 19 NOV 2026 1:02PM by PIB Delhi The Union Ministry of Health and ...",
+     "score": 8,
+     "priority": 80,
+     "title": "RBI issues Draft Amendment Directions for ‘Preventive Safeguards for Electronic Banking Transactions (EBTs)’",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64026",
+     "date": "2026-11-23",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "The Reserve Bank had issued the Amendment Directions dated June 24, 2026 on ‘ Customer Protection in Fraudulent Electronic Banking Transactions ’ which, inter alia, strengthened the existing framework for limiting liability of customers in unauthorised Electronic Banking Transactions (EBTs). While the revised framework primarily addresses customer liability in the event of fraudulent EBTs, a need is felt to strengthen the same from a ...",
      "image": null,
      "why": [
-      "Rule change"
+      "Regulator rulebook change",
+      "Rule change",
+      "Regulator: RBI"
      ],
      "tags": [
-      "Health & Pharma"
+      "Banking & Rates"
      ]
     },
     {
      "desk": "Policy",
-     "score": 2,
-     "priority": 20,
-     "title": "Union Health Ministry Proposes Amendment to Drugs Rules, 1945 to Provide Regulatory Flexibility for Medicinal Gases, Empty Gelatin Capsules and Disinfectant Fluids",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338313",
-     "date": "2026-11-19",
-     "source": "PIB",
-     "label": "Energy & Power",
-     "snippet": "Union Ministry of Health and Family Welfare has proposed an amendment to the Drugs Rules, 1945, through a draft Gazette Notification G.S.R. 985 (E) dated 6th November, published in the Gazette of Indi",
-     "lead": "Ministry of Health and Family Welfare Union Health Ministry Proposes Amendment to Drugs Rules, 1945 to Provide Regulatory Flexibility for Medicinal Gases, Empty Gelatin Capsules and Disinfectant Fluids Proposed amendment seeks to continue exemptions available under the pre-revised Schedule M Posted On: 19 NOV 2026 1:01PM by PIB Delhi Union Ministry of Health and Family Welfare has proposed an amendment to the Drugs Rules, 1945, through ...",
+     "score": 6,
+     "priority": 60,
+     "title": "Simplification of client on-boarding and rationalisation of risk management framework at KYC Registration Agencies",
+     "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/simplification-of-client-on-boarding-and-rationalisation-of-risk-management-framework-at-kyc-registration-agencies_105839.html",
+     "date": "2026-11-25",
+     "source": "SEBI",
+     "label": "Markets & Regulation",
+     "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+     "lead": "",
      "image": null,
      "why": [
-      "Rule change"
+      "Touches financial markets",
+      "Regulator: SEBI"
      ],
      "tags": [
-      "Energy & Power"
+      "Markets & Regulation"
      ]
     },
     {
      "desk": "Policy",
-     "score": 2,
-     "priority": 20,
-     "title": "Union Health Ministry Proposes Amendment to New Drugs and Clinical Trials Rules, 2019 to Bring Antimicrobials under Central Regulatory Oversight",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2338243",
-     "date": "2026-11-19",
+     "score": 5,
+     "priority": 50,
+     "title": "Telecom Regulatory Authority of India releases findings of Independent Drive Test conducted across city route of Una, Mandi, Joginder Nagar and highway route of Una to Mandi and Mandi to Una under HP LSA, during the month of September 2026",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341750",
+     "date": "2026-11-26",
      "source": "PIB",
-     "label": "Industry & Manufacturing",
-     "snippet": "Union Ministry of Health and Family Welfare has proposed an amendment to the New Drugs and Clinical Trials Rules, 2019, through a draft Gazette Notification G.S.R. 983 (E) dated 6th November, to inclu",
-     "lead": "Ministry of Health and Family Welfare Union Health Ministry Proposes Amendment to New Drugs and Clinical Trials Rules, 2019 to Bring Antimicrobials under Central Regulatory Oversight Proposed Amendment to NDCT Rules, 2019 Aims to Strengthen Oversight of Antimicrobials and Address AMR Posted On: 19 NOV 2026 10:31AM by PIB Delhi Union Ministry of Health and Family Welfare has proposed an amendment to the New Drugs and Clinical Trials ...",
+     "label": "Infrastructure & Transport",
+     "snippet": "The Telecom Regulatory Authority of India (TRAI) has released findings of Independent Drive Test (IDT) conducted across city route of Una, Mandi, Joginder Nagar and highway route of Una to Mandi and M",
+     "lead": "Ministry of Communications Telecom Regulatory Authority of India releases findings of Independent Drive Test conducted across city route of Una, Mandi, Joginder Nagar and highway route of Una to Mandi and Mandi to Una under HP LSA, during the month of September 2026 Posted On: 26 NOV 2026 12:26PM by PIB Delhi The Telecom Regulatory Authority of India (TRAI) has released findings of Independent Drive Test (IDT) conducted across city ...",
      "image": null,
      "why": [
       "Rule change"
      ],
      "tags": [
-      "Industry & Manufacturing"
+      "Infrastructure & Transport"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 4,
+     "priority": 40,
+     "title": "RBI releases 2026 list of Domestic Systemically Important Banks (D-SIBs)",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64025",
+     "date": "2026-11-23",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "State Bank of India, HDFC Bank, and ICICI Bank continue to be identified as Domestic Systemically Important Banks (D-SIBs) under the same bucketing structure as in the 2025 list of D-SIBs . The additional Common Equity Tier 1 (CET1) requirement for these D-SIBs will be in addition to the capital conservation buffer. The Reserve Bank had issued the Framework for dealing with Domestic Systemically Important Banks (D-SIBs) on July 22, ...",
+     "image": null,
+     "why": [
+      "Rule change",
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
      ]
     }
    ]
   },
   "Startups": {
    "total": 1500,
-   "new_today": 6,
+   "new_today": 10,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 71,
+     "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+     "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+     "date": "2026-11-19",
+     "source": "TechCrunch",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+     "lead": "U.K.-based fintech Payhawk announced a $280 million Series C funding round Wednesday, led by Goldman Sachs’ growth equity arm, making it one of Europe’s largest Series C rounds this year, as noted by Sifted . The round values the company at $2 billion, bringing its total funding to more than $500 million to date. Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1414277307.jpg?resize=1200,776",
+     "why": [
+      "Funding",
+      "Large deal (about $280M)",
+      "Valuation, listing or profitability signal",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "Funding",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 9,
@@ -205,33 +251,12 @@
      "tags": [
       "Acquisition"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 64,
-     "title": "Urban Company Raises ₹2,500 Cr Via QIP, Draws Bids Worth Over ₹15,000 Cr",
-     "url": "https://inc42.com/buzz/urban-company-raises-%e2%82%b92500-cr-via-qip-draws-bids-worth-over-%e2%82%b915000-cr/",
-     "date": "2026-11-20",
-     "source": "Inc42",
-     "label": "India · Commerce & D2C",
-     "snippet": "Urban Company has raised ₹2,500 Cr through a QIP, issue sees over 6X demand from domestic and global institutional investors",
-     "lead": "Urban Company has raised ₹2,500 Cr through a QIP, attracting bids worth over ₹15,000 Cr from more than 60 domestic and global institutional investors. The company plans to deploy ₹600 Cr towards InstaHelp’s service professional ecosystem, alongside investments in technology, marketing, and its Native products business. Shares were allocated at ₹156 apiece, a 3.1% discount to the floor price of ₹161.03, with mutual funds accounting for ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/Urban-company-social-1.jpg",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $1,579M: round or valuation)"
-     ],
-     "tags": [
-      "Funding",
-      "Commerce & D2C"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 21,
+   "new_today": 24,
    "items": [
     {
      "desk": "Immigration",
@@ -295,26 +320,6 @@
      "tags": [
       "Citizenship",
       "Germany"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 60,
-     "title": "Moving to the Netherlands? Work visa and residence permit fees to increase from 2027",
-     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPckxSTkRuLTE0RTBGbVh6YzFlTnRaNGVJVlB4d18teDcyZDhoSHhJaDI3MktqRTJWWll1ZzVrYmxTYW00ckVxdkVKb29DQWlJLVFObGhLS1FlY2NubzUtLUs4ZktSRGZZSnNLcjJQV0FkNXZ4MGVFSGY0Uy1NTkR1bGdtaGRORk1EQ0x1YURYbW51eUM2b1VyZjVHRXVDSEdUSno5eDFWUUJUckN2bTRwMTNPcmZZZld0dl91b2VsSXVrMUFaUm45Q196cWRNMTZlWEVhSENJTHJOQ0FEWXfSAeMBQVVfeXFMUHNXZERLYTRVeF9NLXFuU01ic0c5QkRVb0lfajRmRHltRTRaSTEyeHh0ZUNjSXlpSVd1b05GVWNqMVlCaVA0T0p6OU50REQ5RGtOYUFGQ0ppMzBBMjlDR2JjWFlCdWNwRjZXdUtxbGZlYkR3WTVSWU5BeEhUWHZmZDVsc18tekhob043dmZ6THBjMEs5SjdTS0dMcW05dGpfVkxiMndkd05BR21SV2hzMGdDcUFhUjVuQUpGSWM1a2VMQW9wRDBESGdrdmlybm9yQUZEbzk2UzNQdVFjbTlkbElIRkk?oc=5",
-     "date": "2026-11-26",
-     "source": "Business Today",
-     "label": "Netherlands",
-     "snippet": "The revised charges will also apply to several other work-related categories, including regular paid employment, self-employment, start-up permits and certain trainee and exchange-related applications",
-     "lead": "Business Today Desk Updated Nov 26, 2026 12:25 AM IST The Netherlands will increase immigration application fees for work-related visas The Netherlands will increase immigration application fees for work-related visas and several residence permits from January 1, 2027, raising the cost for foreign professionals, international workers and families planning to move to the country. The revised charges are part of the Dutch government's ...",
-     "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202611/6b06d8039172d-the-netherlands-will-increase-immigration-application-fees-for-work-related-visas-25434674-16x9.png",
-     "why": [
-      "Affects work visas"
-     ],
-     "tags": [
-      "Work visa",
-      "Netherlands"
      ]
     }
    ]
@@ -415,6 +420,28 @@
    "desk": "Policy",
    "score": 10,
    "priority": 100,
+   "title": "NLMC holds 22nd Board Meeting; Considers fresh asset monetisation and valuation proposals worth approximately ₹1,300 crore",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341730",
+   "date": "2026-11-26",
+   "source": "PIB",
+   "label": "Budget & Fiscal",
+   "snippet": "The National Land Monetization Corporation Limited (NLMC), under the Department of Public Enterprises (DPE), Ministry of Finance, Government of India, held its 22nd Meeting of the Board of Directors y",
+   "lead": "Ministry of Finance NLMC holds 22nd Board Meeting; Considers fresh asset monetisation and valuation proposals worth approximately ₹1,300 crore NLMC considers fresh proposals to further strengthen monetisation pipeline in addition to over ₹9,000 crore in assets monetised in FY2026-27 NLMC to advance monetisation of its own residential property portfolio in New Delhi and Mumbai Posted On: 26 NOV 2026 11:45AM by PIB Delhi The National ...",
+   "image": null,
+   "why": [
+    "Capital and ownership policy",
+    "Ministry of Finance"
+   ],
+   "tags": [
+    "Budget & Fiscal"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 100,
    "title": "RBI to conduct Second Overnight Variable Rate Repo (VRR) auction under LAF on November 26, 2026",
    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64046",
    "date": "2026-11-26",
@@ -430,7 +457,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -453,7 +480,29 @@
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 2,
+   "rank": 3,
+   "must_read": true
+  },
+  {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 100,
+   "title": "Half-yearly review of -Significant Indices- under SEBI (Index Providers) Regulations, 2024",
+   "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/half-yearly-review-of-significant-indices-under-sebi-index-providers-regulations-2024_105853.html",
+   "date": "2026-11-25",
+   "source": "SEBI",
+   "label": "Markets & Regulation",
+   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Regulator: SEBI"
+   ],
+   "tags": [
+    "Markets & Regulation"
+   ],
+   "rank": 4,
    "must_read": true
   },
   {
@@ -477,7 +526,7 @@
     "IPO & Listing",
     "Fintech"
    ],
-   "rank": 3,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -501,8 +550,8 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 4,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Immigration",
@@ -525,8 +574,8 @@
     "Student / Graduate",
     "United Kingdom"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 7,
+   "must_read": false
   },
   {
    "desk": "Policy",
@@ -548,7 +597,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 6,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -572,7 +621,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 7,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -596,7 +645,29 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 8,
+   "rank": 10,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 8,
+   "priority": 80,
+   "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on November 27, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64048",
+   "date": "2026-11-26",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on November 27, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
+   "image": null,
+   "why": [
+    "Regulator: RBI",
+    "Large outlay (Rs 10,000 Cr or more)"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 11,
    "must_read": false
   },
   {
@@ -618,7 +689,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 9,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -641,30 +712,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 80,
-   "title": "RBI issues Draft Amendment Directions for ‘Preventive Safeguards for Electronic Banking Transactions (EBTs)’",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64026",
-   "date": "2026-11-23",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The Reserve Bank had issued the Amendment Directions dated June 24, 2026 on ‘ Customer Protection in Fraudulent Electronic Banking Transactions ’ which, inter alia, strengthened the existing framework for limiting liability of customers in unauthorised Electronic Banking Transactions (EBTs). While the revised framework primarily addresses customer liability in the event of fraudulent EBTs, a need is felt to strengthen the same from a ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 11,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -687,7 +735,7 @@
     "Citizenship",
     "Austria"
    ],
-   "rank": 12,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -711,7 +759,7 @@
     "Regulatory",
     "Energy & Power"
    ],
-   "rank": 13,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -734,7 +782,30 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 14,
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 71,
+   "title": "Finnable raises Rs 405 Cr in Series C to expand multi-product lending",
+   "url": "https://yourstory.com/2026/11/finnable-raises-rs-405-crore-in-series-c-to-expand-multi-product-lending",
+   "date": "2026-11-26",
+   "source": "YourStory",
+   "label": "India · Fintech",
+   "snippet": "The Bengaluru-based lender has crossed Rs 4,600 crore in assets under management and says it made Rs 51 crore in profit after tax in the first half of FY27.",
+   "lead": "Finnable raises Rs 405 Cr in Series C to expand multi-product lending The Bengaluru-based lender has crossed Rs 4,600 crore in assets under management and says it made Rs 51 crore in profit after tax in the first half of FY27. Team YS 17665 Stories Thursday November 26, 2026 , 2 min Read Fintech company Finnable has raised Rs 405 crore in a Series C round. The new investors are Bharat Value Fund, part of the Pantomath Group, along with ...",
+   "image": "https://images.yourstory.com/cs/2/ebefb4a0b2a011edb86579ca40e04503/CopyofNewPPTTemplates-2025-11-11T101937-1762836588343.jpg",
+   "why": [
+    "Funding",
+    "Sizeable deal (about $43M)"
+   ],
+   "tags": [
+    "Funding",
+    "Fintech"
+   ],
+   "rank": 17,
    "must_read": false
   },
   {
@@ -757,7 +828,7 @@
     "Funding",
     "Media, Gaming & Creators"
    ],
-   "rank": 15,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -780,7 +851,7 @@
     "Acquisition",
     "AI & Deeptech"
    ],
-   "rank": 16,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -802,7 +873,7 @@
    "tags": [
     "Acquisition"
    ],
-   "rank": 17,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -825,42 +896,17 @@
     "IPO & Listing",
     "AI & Deeptech"
    ],
-   "rank": 18,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 71,
-   "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
-   "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
-   "date": "2026-11-19",
-   "source": "TechCrunch",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
-   "lead": "U.K.-based fintech Payhawk announced a $280 million Series C funding round Wednesday, led by Goldman Sachs’ growth equity arm, making it one of Europe’s largest Series C rounds this year, as noted by Sifted . The round values the company at $2 billion, bringing its total funding to more than $500 million to date. Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and ...",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1414277307.jpg?resize=1200,776",
-   "why": [
-    "Funding",
-    "Large deal (about $280M)",
-    "Valuation, listing or profitability signal",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Funding",
-    "AI & Deeptech"
-   ],
-   "rank": 19,
+   "rank": 21,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 7,
    "priority": 70,
-   "title": "New Zealand introduces 6-month job-search visa for international graduates",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORXlLMUhFdlVPb0Y1SnVnNTA4dno1QnFuZGZKc0FuRmd4SjJiendvNWZDQmpuQ3N6ZUJqc1l1VXJoZUdXYkxuLWNUY2JIZmpmdXpHb1daeDRHN2I1UHc1LWMwZ1lYaDJSLXdpcnV5UjNzb2lCOS1MVmxaSWxXOEZuWV95TWxKb3NMSDY5aXNDTGd3MXhEWURTS0RmODlkOHFVcjBDR1lUX3RTa1l3YnlLQ0pNSFlBRUJ4UFhN?oc=5",
+   "title": "New Zealand Introduces New Online System For Graduate Work Visa Applications",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzcmNKOWV4SnE0MmZjOWdPbnBDRmNRZXNoS1pqOG1MWEVNeWM4UHQyQlNCUjQyQTYzWHpGN01meGs5aHd2dVo4YkYwenVkbW9UcFlr?oc=5",
    "date": "2026-11-26",
-   "source": "NewsBytes",
+   "source": "شبكة تواصل الإخبارية",
    "label": "New Zealand",
    "snippet": "",
    "lead": "",
@@ -872,7 +918,7 @@
     "Student / Graduate",
     "New Zealand"
    ],
-   "rank": 20,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -894,50 +940,6 @@
    "tags": [
     "Salary threshold",
     "Iceland"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 5,
-   "priority": 50,
-   "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on November 20, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63999",
-   "date": "2026-11-19",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on November 20, 2026 (Friday) . As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
-   "image": null,
-   "why": [
-    "Regulator: RBI",
-    "Large outlay (Rs 10,000 Cr or more)"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 4,
-   "priority": 40,
-   "title": "RBI releases 2026 list of Domestic Systemically Important Banks (D-SIBs)",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64025",
-   "date": "2026-11-23",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "State Bank of India, HDFC Bank, and ICICI Bank continue to be identified as Domestic Systemically Important Banks (D-SIBs) under the same bucketing structure as in the 2025 list of D-SIBs . The additional Common Equity Tier 1 (CET1) requirement for these D-SIBs will be in addition to the capital conservation buffer. The Reserve Bank had issued the Framework for dealing with Domestic Systemically Important Banks (D-SIBs) on July 22, ...",
-   "image": null,
-   "why": [
-    "Rule change",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
    ],
    "rank": 23,
    "must_read": false
