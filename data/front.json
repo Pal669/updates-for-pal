@@ -1,6 +1,6 @@
 {
- "edition": "2026-11-26",
- "built": "2026-11-26 14:22 IST",
+ "edition": "2026-11-27",
+ "built": "2026-11-27 01:21 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25826.0,
-   "change_pct": 0.03,
-   "asof": "26 Nov 14:22 IST"
+   "value": 25819.0,
+   "change_pct": 1.85,
+   "asof": "26 Nov 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 83978.0,
-   "change_pct": 0.05,
-   "asof": "26 Nov 14:07 IST"
+   "value": 83938.0,
+   "change_pct": 1.82,
+   "asof": "26 Nov 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 92.46,
-   "change_pct": -0.38,
-   "asof": "26 Nov 14:22 IST"
+   "value": 92.43,
+   "change_pct": -0.4,
+   "asof": "27 Nov 01:11 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 90.5,
-   "change_pct": -4.34,
-   "asof": "26 Nov 14:12 IST"
+   "value": 91.73,
+   "change_pct": -3.04,
+   "asof": "27 Nov 00:59 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3597.0,
-   "change_pct": 1.73,
-   "asof": "26 Nov 14:12 IST"
+   "value": 3593.0,
+   "change_pct": 1.63,
+   "asof": "27 Nov 00:59 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -54,49 +54,48 @@
  ],
  "features": {
   "startup_file": {
-   "company": "Aakash Educational Services",
-   "tagline": "Test-prep coaching chain owned by BYJU'S parent",
-   "what": "Gurugram-based test-prep brand for engineering and medical entrance exams, owned by BYJU'S parent Think & Learn since its 2021 acquisition.",
+   "company": "Curefoods and Rebel Foods",
+   "tagline": "Cloud-kitchen and restaurant-brand operators",
+   "what": "Curefoods runs brands such as EatFit, Nomad Pizza, Sharief Bhai Biryani, CakeZone, Frozen Bottle and Krispy Kreme (India rights acquired last year), with 500+ kitchens in 70 cities. Rebel Foods runs Faasos, Behrouz Biryani, Oven Story, Sweet Truth and 20+ other brands across 10 countries.",
    "how": [
-    "Coaching fees: Rs 1,956.2 Cr of Rs 2,040.5 Cr operating revenue in FY26 (about 96%, computed).",
-    "Franchisee revenue: Rs 84.4 Cr, up 4% (about 4%, computed)."
+    "Both report 'operating revenue' from operating cloud kitchens and restaurant chains, i.e. selling food under their own brands.",
+    "The article gives no split between delivery, dine-in or other channels."
    ],
-   "watch": "The smaller loss came from one-off accounting gains, not from the business growing: revenue is flat. Ownership is entangled in the BYJU'S group's disputes: Byju Raveendran proposed relinquishing his claimed interest in 17.89 Mn Aakash shares to settle Qatar Holding's arbitration claim of over $235 Mn; lenders (Global TLB lenders via GLAS Trust) are reportedly in advanced talks for a 30% stake valuing Aakash at about $2 Bn.",
-   "sector": "Edtech & Skills",
+   "watch": "Growth is above 20% but both still lose money. Rebel is narrowing losses; Curefoods' loss grew in absolute terms.",
+   "sector": "Commerce & D2C",
    "region": "India",
-   "url": "https://inc42.com/buzz/aakash-trims-fy26-loss-by-16-to-%e2%82%b9186-5-cr-top-line-flat-at-%e2%82%b92040-cr/"
+   "url": "https://economictimes.indiatimes.com/tech/technology/curefoods-revenue-grows-23-yoy-rebel-foods-revenue-up-20/articleshow/134338278.cms"
   },
   "country": {
-   "id": "luxembourg",
-   "name": "Luxembourg",
-   "trend": "Stable",
-   "pr": "Blue Card time counts toward long-term residence: reported PR after 2 years for Blue Card holders versus 5 years for standard work permits. One source reports A2 spoken and B1 listening Luxembourgish for PR; verify on guichet.lu.",
-   "citizenship": "5 years of legal residence, a Luxembourgish language test at B1 spoken and listening, and a 'Living Together' course or exam. A Blue Card holder's fastest total is reported as about 7 years from arrival.",
-   "pro": "Very high salaries and a fund-industry centre closely matched to your career (general knowledge).",
-   "con": "Very small country (about 0.66 million people, general knowledge): this touches your logged size criterion. It was on your 38-country watch list but not yet decided.",
-   "watch": "Blue Card threshold indexation"
+   "id": "iceland",
+   "name": "Iceland",
+   "trend": "Stable (not verified in detail)",
+   "pr": "Permanent residence generally after 4 years of continuous residence; often requires completing an Icelandic language course. An expedited route exists for doctorate holders with 3 years of expert-work permits.",
+   "citizenship": "Reported timeline of about 7 years; needs PR and the official Icelandic language test. Verify with the Directorate of Immigration.",
+   "pro": "High living standards, safety and equality (general knowledge).",
+   "con": "Tiny population (about 0.38 million, general knowledge): touches your size criterion.",
+   "watch": "Any 2026 Aliens Act amendments (not checked)"
   }
  },
  "desks": {
   "Policy": {
-   "total": 393,
-   "new_today": 4,
+   "total": 394,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
-     "score": 8,
-     "priority": 80,
-     "title": "RBI issues Draft Amendment Directions for ‘Preventive Safeguards for Electronic Banking Transactions (EBTs)’",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64026",
-     "date": "2026-11-23",
+     "score": 7,
+     "priority": 70,
+     "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64039",
+     "date": "2026-11-25",
      "source": "RBI",
      "label": "Banking & Rates",
      "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "The Reserve Bank had issued the Amendment Directions dated June 24, 2026 on ‘ Customer Protection in Fraudulent Electronic Banking Transactions ’ which, inter alia, strengthened the existing framework for limiting liability of customers in unauthorised Electronic Banking Transactions (EBTs). While the revised framework primarily addresses customer liability in the event of fraudulent EBTs, a need is felt to strengthen the same from a ...",
+     "lead": "",
      "image": null,
      "why": [
-      "Regulator rulebook change",
-      "Rule change",
+      "New law or act",
       "Regulator: RBI"
      ],
      "tags": [
@@ -105,8 +104,8 @@
     },
     {
      "desk": "Policy",
-     "score": 6,
-     "priority": 60,
+     "score": 5,
+     "priority": 50,
      "title": "Simplification of client on-boarding and rationalisation of risk management framework at KYC Registration Agencies",
      "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/simplification-of-client-on-boarding-and-rationalisation-of-risk-management-framework-at-kyc-registration-agencies_105839.html",
      "date": "2026-11-25",
@@ -125,8 +124,8 @@
     },
     {
      "desk": "Policy",
-     "score": 5,
-     "priority": 50,
+     "score": 4,
+     "priority": 40,
      "title": "Telecom Regulatory Authority of India releases findings of Independent Drive Test conducted across city route of Una, Mandi, Joginder Nagar and highway route of Una to Mandi and Mandi to Una under HP LSA, during the month of September 2026",
      "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341750",
      "date": "2026-11-26",
@@ -166,173 +165,167 @@
   },
   "Startups": {
    "total": 1500,
-   "new_today": 12,
+   "new_today": 0,
    "items": [
     {
      "desk": "Startups",
-     "score": 10,
-     "priority": 71,
-     "title": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering",
-     "url": "https://yourstory.com/2026/11/anthropic-raises-813-billion-from-ipo-with-valuation-of-15-trillion",
-     "date": "2026-11-19",
-     "source": "YourStory",
-     "label": "India · AI & Deeptech",
-     "snippet": "Anthropic's IPO surpasses SpaceX's $75 billion offering. The company reported $16.2 billion in revenue in the first half of 2026, up from $1.16 billion in the same period last year, even as its reported net loss widened.",
-     "lead": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering Anthropic's IPO surpasses SpaceX's $75 billion offering. The company reported $16.2 billion in revenue in the first half of 2026, up from $1.16 billion in the same period last year, even as its reported net loss widened. Team YS 17613 Stories Thursday November 19, 2026 , 2 min Read Artificial intelligence (AI) company Anthropic has raised $81.3 billion through its ...",
-     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imagermlb-1795071459700.jpg",
-     "why": [
-      "IPO & Listing",
-      "Very large figure in headline (about $81,300M: round or valuation)"
-     ],
-     "tags": [
-      "IPO & Listing",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 10,
-     "priority": 71,
-     "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
-     "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
-     "date": "2026-11-19",
-     "source": "TechCrunch",
-     "label": "Global · AI & Deeptech",
-     "snippet": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
-     "lead": "U.K.-based fintech Payhawk announced a $280 million Series C funding round Wednesday, led by Goldman Sachs’ growth equity arm, making it one of Europe’s largest Series C rounds this year, as noted by Sifted . The round values the company at $2 billion, bringing its total funding to more than $500 million to date. Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1414277307.jpg?resize=1200,776",
-     "why": [
-      "Funding",
-      "Large deal (about $280M)",
-      "Valuation, listing or profitability signal",
-      "Also covered by 1 other outlet(s)"
-     ],
-     "tags": [
-      "Funding",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
      "score": 9,
-     "priority": 64,
-     "title": "PhonePe resumes IPO process; targets listing in Feb-March at $12-15B valuation",
-     "url": "https://yourstory.com/2026/11/phonepe-resumes-ipo-process-targets-listing-in-feb-march-12-15b-valuation",
-     "date": "2026-11-25",
-     "source": "YourStory",
-     "label": "India · Other",
-     "snippet": "PhonePe had earlier deferred its public listing plans amid geopolitical uncertainties, weak macroeconomic conditions and heightened volatility in equity markets.",
-     "lead": "PhonePe resumes IPO process; targets listing in Feb-March at $12-15B valuation PhonePe had earlier deferred its public listing plans amid geopolitical uncertainties, weak macroeconomic conditions and heightened volatility in equity markets. Press Trust of India 11302 Stories Wednesday November 25, 2026 , 2 min Read PhonePe has revived its initial public offering (IPO) plans and is targeting a stock market listing in February-March at a ...",
-     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/IPOStock31600x900-1791787437744.jpg",
-     "why": [
-      "IPO & Listing",
-      "Valuation, listing or profitability signal"
-     ],
-     "tags": [
-      "IPO & Listing"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 64,
-     "title": "Layoffs At JioStar, AidenAI Nets $32 Mn & More",
-     "url": "https://inc42.com/buzz/layoffs-at-jiostar-aidenai-nets-32-mn-more/",
+     "priority": 69,
+     "title": "Lok Capital Announces First Close Of Fund V At $130 Mn",
+     "url": "https://inc42.com/buzz/lok-capital-announces-first-close-of-fund-v-at-130-mn/",
      "date": "2026-11-25",
      "source": "Inc42",
      "label": "India · Media, Gaming & Creators",
-     "snippet": "Media giant JioStar is trimming at least 150 jobs, while Google Cloud India confirmed that it slashed around 30 roles last week.",
-     "lead": "JioStar Draws Its Axe: Barely 18 months after cutting over 1,000 roles following the Viacom18-Star India merger, JioStar is initiating a second round of layoffs that will impact roles across marketing, production, studios and operations. Sources suggest that the final number could be higher than 150. The latest layoffs reflect mounting profitability pressures at the media giant. JioStar’s Margin Pressure: The media giant’s financials ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/Social-Daily-Brief-52.png",
+     "snippet": "The investor aims to invest in 10-12 growth-stage companies focused on financial inclusion and climate and sustainability.",
+     "lead": "Lok Capital has raised over $130 Mn in the first close of its Fund V which is targeting a $200-250 Mn corpus The investor aims to invest in 10-12 growth-stage companies focused on financial inclusion and climate and sustainability The International Finance Corporation, European Investment Bank, and FMO have proposed investing in the fund",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/neogeo-funding-social-.jpg",
      "why": [
-      "Shutdown & Layoffs",
-      "Sizeable deal (about $32M)"
+      "Funding",
+      "Large deal (about $130M)"
      ],
      "tags": [
-      "Shutdown & Layoffs",
+      "Funding",
       "Media, Gaming & Creators"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 69,
+     "title": "Why CrowdStrike is spending $44 billion to acquire cloud security platform Zscaler",
+     "url": "https://www.medianama.com/2026/11/223-crowdstrike-acquire-cloud-zscaler/",
+     "date": "2026-11-24",
+     "source": "MediaNama",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Why is CrowdStrike acquiring Zscaler for $43.9 billion, and how does the deal advance its ambitions in AI and cybersecurity?",
+     "lead": "Cybersecurity firm CrowdStrike announced on Monday, November 23, that it had entered into a definitive agreement to acquire cloud security platform Zscaler in an all-stock deal worth $43.9 billion. This exceeds the $32 billion Google agreed to pay for Wiz in March last year and makes it the largest acquisition in the cybersecurity industry to date. In filings with the US Securities and Exchange Commission (SEC), CrowdStrike said the ...",
+     "image": null,
+     "why": [
+      "Acquisition",
+      "Very large figure in headline (about $44,000M: round or valuation)"
+     ],
+     "tags": [
+      "Acquisition",
+      "AI & Deeptech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 69,
+     "title": "Bending Spoons buys Mailchimp for $3.68B",
+     "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+     "date": "2026-11-20",
+     "source": "TechCrunch",
+     "label": "Global · Other",
+     "snippet": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
+     "lead": "Bending Spoons buys Mailchimp for $3.68B Russell Brandom 8:16 AM PST · November 20, 2026 Bending Spoons has bought up another distressed internet company. This time, it’s the email marketing firm Mailchimp, bought for $3.68 billion from the tax-preparation giant Intuit. Intuit acquired the company in 2021 for roughly $12 billion, so it’s taking quite a loss — and, perhaps, Bending Spoons is getting quite a bargain. At the time of the ...",
+     "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150300479.jpg?resize=1200,800",
+     "why": [
+      "Acquisition",
+      "Very large figure in headline (about $3,680M: round or valuation)"
+     ],
+     "tags": [
+      "Acquisition"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 69,
+     "title": "Urban Company Raises ₹2,500 Cr Via QIP, Draws Bids Worth Over ₹15,000 Cr",
+     "url": "https://inc42.com/buzz/urban-company-raises-%e2%82%b92500-cr-via-qip-draws-bids-worth-over-%e2%82%b915000-cr/",
+     "date": "2026-11-20",
+     "source": "Inc42",
+     "label": "India · Commerce & D2C",
+     "snippet": "Urban Company has raised ₹2,500 Cr through a QIP, issue sees over 6X demand from domestic and global institutional investors",
+     "lead": "Urban Company has raised ₹2,500 Cr through a QIP, attracting bids worth over ₹15,000 Cr from more than 60 domestic and global institutional investors. The company plans to deploy ₹600 Cr towards InstaHelp’s service professional ecosystem, alongside investments in technology, marketing, and its Native products business. Shares were allocated at ₹156 apiece, a 3.1% discount to the floor price of ₹161.03, with mutual funds accounting for ...",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/Urban-company-social-1.jpg",
+     "why": [
+      "Funding",
+      "Very large figure in headline (about $1,579M: round or valuation)"
+     ],
+     "tags": [
+      "Funding",
+      "Commerce & D2C"
      ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 28,
+   "new_today": 1,
    "items": [
     {
      "desk": "Immigration",
-     "score": 7,
-     "priority": 54,
-     "title": "Belgium raises 2027 work visa salary thresholds for foreign professionals, including Indians",
-     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU0FmRFFucXlBTG5kWkxBQUlCWkNjdnpzejJKU3Nrbk02ZllXLXAyTy1OV0JDclNkZTM1bHhWT29MOVNuUXVtN0J2Y3BBNXJTT2lUcjBsNnQ4ZmlzdTk3bVBqWGg1enZMNHZnYWlicUJOQjlBdE9FTHB3NV9qUE1tSktVYnQ4NE9UX2h6QjhyU2RoTGJVRUsxTW9aM3JGMUhXa0FuU2s3V2thdFlGb0JDTVBZcHNEUXNjVE5jenoyU1RNLXAxV21NRTFSNUROeHBQZGFIV3FwaUlvVXlocXR6azM2c3BRbDVOaGfSAe8BQVVfeXFMTjhka2p6Z0xxM2s5QmZGTlYyRV9ROXkzSFI5N18zbTRzdkNCOVJicXlSbjUtQ3FQalg3dEJEYnByTmZxUVRoRVVpZmJBY3hBNnMyR190ZXZsVnM2UjFvVUt5RG9MX1I3V0F5Tkk0T3RBek1ubzFDaV91LWRvVEJpcTBzcWVBUWdyMkxaZTVVRl9iYURUOUZhSnpiU0hNTDZxVXZlSWJSNS00TnQwS3RpWmQxZmtsaHJ0cEpRVThUcFd0TEdESk5lblFSNGdSa3UzNnRBZTN2MGV1QjBuY0JNUGg0WGRuLWlNdU92UXJGaXc?oc=5",
-     "date": "2026-11-21",
-     "source": "The Economic Times",
-     "label": "Belgium",
-     "snippet": "Belgium's Wallonia region has announced higher minimum salary requirements for foreign workers applying for work authorisations and Work Permit B from January 1, 2027. The revised thresholds apply to several categories, including highly qualified professionals, management positions, EU Blue Card holders and intra-company transferees. Empl",
+     "score": 6,
+     "priority": 50,
+     "title": "Spain’s far right hasn’t governed since Franco. Immigration fears could change that",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTFRWOV9leVJ1NUx5LWV3T0kxMjVidmV2cEY1UmJnRFBJRmFlWlVPLW9HZUEzZnVEU01PSXlHTTJucGdxN0hLUzZrd2YtaEJxb2RJS1JySXlVNFNYdElMZVo4MXRCeHpTRURxN2ZaVngyQUduUW81YTFDLXloV2QtQ3NEOUdkVGpYd0F4S0VrcExPdlB0RnRLUVNRVERwQjg?oc=5",
+     "date": "2026-11-26",
+     "source": "AP News",
+     "label": "Spain",
+     "snippet": "",
      "lead": "",
-     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1973252,resizemode-75,msid-136049511/nri/work/belgium-raises-2027-work-visa-salary-thresholds-for-foreign-professionals-including-indians.jpg",
+     "image": null,
+     "why": [
+      "Announces a change"
+     ],
+     "tags": [
+      "Spain"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 50,
+     "title": "New Zealand Introduces New Online System For Graduate Work Visa Applications",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzcmNKOWV4SnE0MmZjOWdPbnBDRmNRZXNoS1pqOG1MWEVNeWM4UHQyQlNCUjQyQTYzWHpGN01meGs5aHd2dVo4YkYwenVkbW9UcFlr?oc=5",
+     "date": "2026-11-26",
+     "source": "شبكة تواصل الإخبارية",
+     "label": "New Zealand",
+     "snippet": "",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Announces a change"
+     ],
+     "tags": [
+      "Student / Graduate",
+      "New Zealand"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 6,
+     "priority": 50,
+     "title": "Iceland Revises Means-of-Support Thresholds for Immigration",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUmlaNnNtb3VMeGYxSjhUVldGaFFfOEN2c29BWEtTemE3dUNpMWlRaFM5M0JMX0x3OHVuVWYxaFdoeFlMdzdTbHBUSC1XalRDNlM4ZkxpX1A0bDROT09vSUx1WTFhUnRUak1EVXd5QjFWY2d4QnN4WVNHRHh4S2dMUWpkZF9SZw?oc=5",
+     "date": "2026-11-25",
+     "source": "Erickson Immigration Group",
+     "label": "Iceland",
+     "snippet": "Iceland's Ministry of Justice will revise its draft regulation on financial support requirements for residence and citizenship applications.",
+     "lead": "",
+     "image": "https://eiglaw.com/wp-content/uploads/2023/08/Iceland.png",
      "why": [
       "Salary threshold change",
-      "Announces a change",
-      "Mentions India or Indians"
+      "Announces a change"
      ],
      "tags": [
       "Salary threshold",
-      "Belgium"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 7,
-     "priority": 54,
-     "title": "Japan tightens permanent residency rules with language, integration checks",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWFlDbDgweEJvSEh3UkdRWDFpUjNwdk0zeFhFbW1OcG9qUFI3aFNyVjJ3dUZQTlhtdEREMXF6T1NBMFZZX09jMFBpelUxaXBGckxzbWJSNFI4UVhmUHRTT3ZMZGJXMlQ3OEQyRjg3VjIwN0N5WklRV3dFc2F1UFloMVNyYkZzMUstTjMydDhDejJlZ2dsaTdhLVp3?oc=5",
-     "date": "2026-11-20",
-     "source": "Punch Newspapers",
-     "label": "Japan",
-     "snippet": "Japan permanent residency rules will require B1 Japanese and a test of applicants' grasp of laws and social systems, with five exempt categories.",
-     "lead": "Add us to your Preferred Sources Japan tightens permanent residency rules with language, integration checks News November 20, 2026 9:39 am Japanese flag. Credit: Engoo | website Japan is introducing stricter requirements for foreign nationals seeking permanent residency, including a Japanese language proficiency standard of B1 or higher and an assessment of applicants’ understanding of the country’s laws, rules and social systems. As ...",
-     "image": "https://punchng.com/wp-content/uploads/2026/07/2YV6x0W21XFcAYvPbkO5qG_1785227963.webp",
-     "why": [
-      "Affects permanent residence",
-      "Announces a change"
-     ],
-     "tags": [
-      "PR / Settlement",
-      "Japan"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 7,
-     "priority": 54,
-     "title": "Germany's conservatives launch another bid to tighten citizenship rules",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaVRWbDAzSHRSQWhsdkJuc2tWbkRqOUl2cy1CNzVnNk9RdGd5a1o4bDVXNVQxYkpPcUlzYjg2NDRhTVdSTm93d05oTWU4SERwd05VU0dEeW5JdTVMdTJENXZXVkFxVTJTU0ZtZENIWlFDY0hRSlk4bm1NeXFPN0pZWXpQWmEtWTR6N1ZYMVlZdTd5SGdfSDZ1UldfcGpueXJmU2Vjbld3?oc=5",
-     "date": "2026-11-19",
-     "source": "The Local Germany",
-     "label": "Germany",
-     "snippet": "Germany’s main governing party is pushing changes that would severely limit dual-citizenship and tighten requirements to naturalise. The centre-left Social Democrats are said to be reviewing the plans.",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local Directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden 4 comments Add The Local as a preferred source Germany’s main governing party is pushing changes that would severely limit dual-citizenship and tighten requirements to naturalise. The centre-left Social Democrats are said to be reviewing the plans. ...",
-     "image": null,
-     "why": [
-      "Affects citizenship",
-      "Announces a change"
-     ],
-     "tags": [
-      "Citizenship",
-      "Germany"
+      "Iceland"
      ]
     }
    ]
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 30,
+   "new_today": 0,
    "items": [
     {
      "desk": "Advisory",
-     "score": 11,
-     "priority": 79,
+     "score": 10,
+     "priority": 77,
      "title": "Private credit funds seek distinct status from Sebi under AIF framework",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZHltNWNyM21MYVRCOTNHSjFMQlR0bmlNY2dlRVhyZjFWMTBpbnk1MjZLMUgwUmN2Ri1hZ0hvMTBjdDVnSVpibVBFVlFTQmFsSzBkNi0xMWdFeWhFdWFGVWpsY1hfOEs1cE5GaUdnSUxjUXVyYnMwaDQ2eXJ5eXpqMzFYTHRvOGtqbEh5NW81TkZqcVJMQUw4UjBlUk1mcWVpZVk1cWxySVZPYUtVdHYzWWdvcjJuQ0dZTjJiLUQ3MU92ZXJoOGlscVNmMy0xckNJalFmbtIB2gFBVV95cUxOMFgwbHE4V05HTU5LTUpQM2Y3U2dycU41dHNOUWw1YW12Q2VqY0ZpSkJfTFI1dm5CdDROczBrcVJWb1d0VU85NEk4VUJ6U2hGbUxqSHowU3F1cEdUZElCcEFpd1Q1WmY2Q2pRMFdhNGEtMmRDSjZYbXR5ZlYxWG12NlZtdXlRNXdsWGlZXzE0cHlRcFhkdzFLNDNTZFpEZk9BdE1obUNzZHFxS3pxYnVESzhPSjAwcDZ2MGVjZ2FzeHJxVWZqM0c0TURwYW9pTzBxbVJEY2tkY21EZw?oc=5",
      "date": "2026-11-24",
@@ -353,8 +346,8 @@
     },
     {
      "desk": "Advisory",
-     "score": 10,
-     "priority": 71,
+     "score": 9,
+     "priority": 69,
      "title": "Nasdaq-100 nears bear market as futures plunge 3.2%, Nvidia slides amid Fed rate hike concerns | Hindustan Times",
      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPM0piVVgxdllIOWQwc1lLeDBublR0cnlSYzgxYVIzeWJuUUxYMUQwNnFFa19pQk1EOFU3VkFWdmJVLTJHOFV0dVlUTVZVUG9ndk9SREZlT2k5YzhVaEZFWW1XWU9QaFZEaEkzN2lVdjRHc1o2cDBweElOeTBiTzJYSExKeDZXdVhXQzU3Z21uMGQxV3E0ZGlHQ2Q2cERsYXFhb2RUc2lhMVRUZm5iWkpVT3dSTHZ2REl4MDc4ZWFncXZaakhBbGJsSDIxUFR2WUtEeklsUllyX09PcUVKWl9TWGtOSVlTcmxMTy11dkFtemZmMWFy0gH6AUFVX3lxTFB6MTdSeWhNdUpiWWpPdGgtaGJfU3pBclNvZFlKUUVVMFBSWV9sdXp0UG11NnF0TWNZQklPSkFiRmFaa2p5WXJMamJEdVh6dkhubDl5aGZhTExUazdlRGFTUnZ0eXI1UHZ4LUJlYXZBODhCTC1BVlhsbVkybm1hRmZiT2JfaVd4My0teDRfZDFSUkdqa2w1R3RZZFFYQjNtYUtqUktYTzNLS3F3aDhZTVB3c3Ezend0WngzeXhaUU1IdDNXd3Q1TUdWRDRGOFpaMHZKX3NBZXlXWTNRbElKZzdGWHdEN2VSamQwdERYTUFRVmpNVHBYMlNTOXc?oc=5",
      "date": "2026-11-25",
@@ -374,8 +367,8 @@
     },
     {
      "desk": "Advisory",
-     "score": 10,
-     "priority": 71,
+     "score": 9,
+     "priority": 69,
      "title": "Global gold prices fell 2% amid expectations of a Fed interest rate hike.",
      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSnRSblA3SjJCTTB3UDdfTGZZZ19MSUhNa3NpNkVrSFdZejNDWTdqRjkxUnlVdmVsNUlzc1ZqZ2lfVkxKaDV5dko0R1V4UjdhUDZOMmcwS05vRGJPUEZKaXVpVHhqQXBJbWcwWVl2OGhONmhzc1NGLTVUQlNPdXNTNHc1dlJtMEdPWDJz?oc=5",
      "date": "2026-11-25",
@@ -395,8 +388,8 @@
     },
     {
      "desk": "Advisory",
-     "score": 9,
-     "priority": 64,
+     "score": 8,
+     "priority": 62,
      "title": "US Inflation Hits 3.8% as Fed Prepares December Rate Hike",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0aEN2aXF3SnQ1b20tMTBFSjBUeDctVzBORENWcFBVS3NOWmlCMUVBeG9IQy1fSm5jSkQ4UG1SQ1RBOC1qUUZ4cFUza3FUY2JmaE9aZ0duM3UxQXREckM0WXlCamlxNHR0WFZpdFBud2c?oc=5",
      "date": "2026-11-26",
@@ -418,52 +411,8 @@
  },
  "items": [
   {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 100,
-   "title": "NLMC holds 22nd Board Meeting; Considers fresh asset monetisation and valuation proposals worth approximately ₹1,300 crore",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341730",
-   "date": "2026-11-26",
-   "source": "PIB",
-   "label": "Budget & Fiscal",
-   "snippet": "The National Land Monetization Corporation Limited (NLMC), under the Department of Public Enterprises (DPE), Ministry of Finance, Government of India, held its 22nd Meeting of the Board of Directors y",
-   "lead": "Ministry of Finance NLMC holds 22nd Board Meeting; Considers fresh asset monetisation and valuation proposals worth approximately ₹1,300 crore NLMC considers fresh proposals to further strengthen monetisation pipeline in addition to over ₹9,000 crore in assets monetised in FY2026-27 NLMC to advance monetisation of its own residential property portfolio in New Delhi and Mumbai Posted On: 26 NOV 2026 11:45AM by PIB Delhi The National ...",
-   "image": null,
-   "why": [
-    "Capital and ownership policy",
-    "Ministry of Finance"
-   ],
-   "tags": [
-    "Budget & Fiscal"
-   ],
-   "rank": 1,
-   "must_read": true
-  },
-  {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 100,
-   "title": "RBI to conduct Second Overnight Variable Rate Repo (VRR) auction under LAF on November 26, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64046",
-   "date": "2026-11-26",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a second Variable Rate Repo (VRR) auction on Thursday, November 26, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
-   "image": null,
-   "why": [
-    "Rates and liquidity",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 2,
-   "must_read": true
-  },
-  {
    "desk": "Immigration",
-   "score": 13,
+   "score": 12,
    "priority": 100,
    "title": "Canada updates visa processing times; cuts Indian work permit processing time to 9 weeks, but visitor visa",
    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNVUw3d3VnTEJEclljR095bmVpdzdYaE93LVFkWmZiWngxampna3ZzdTZibkNxU21fQk9OcDdIQnUwOW42RmJfcVIzN0Z6UVgxb0Q4dWlqbzdtV0VQWkdrR2VIck5IN3dSQmZtTlNxeDdHOEsyeXNRVW91N2hqeDJVTm9BemJKc3dTdzk0OUJXbzQxRVQ5RXd5LW9DLUNhTHdGUGJSRlJGeGNIMEFrUk5JVzNDZGRsVjF0Q2NURnNkdTQ5bXpJSlpNOFQzWGpFMXhIRjY1a1BNc2FOMzlERjBRbzNXb1piYmRuOU4zVV9DLTgtRV82VW1ESHpQM1E2S0tiZzRSd2ZUZUJKWVpneldQbXZBYnpXWUnSAZwCQVVfeXFMT3ppeXRSTHJJVll2ZTB0alM5ZWxJbDdTbklRV1pNdUlLMXZNemNYRWVjNktTRUdkdlBCVWU3RnRfc1RwX3doMTBIc2tNNjlPWlNDTVgyRllzZUstcDhaZEwxRk1MZGREdDZ1cEpFWHdqNnpadWtJMUN5MlJwZ1Z4WjB4VFprWGZKUmlxRFl3SURUOVh5czVnZXFLNlBqdkM2VGZNbV9rYVFpRVJUM2VBbUlrRjNxc3QtcWNTUkNjMGh5Vkoxa1JUWEtXQ2V3S2NSbGxPb2pqOXZxLVlNbHh3Rm5INWY2bGhBS1VTUXI3OEVXckY4UDFIdFJUV0RUNUhQck5sZ1MteTh3T1JPY3M5V0pOY2pLM0IzMHhYUlM?oc=5",
@@ -476,41 +425,19 @@
    "why": [
     "Affects work visas",
     "Announces a change",
-    "Major story (13 headlines that day)",
+    "Major story (18 headlines that day)",
     "Mentions India or Indians"
    ],
    "tags": [
     "Work visa",
     "Canada"
    ],
-   "rank": 3,
-   "must_read": true
-  },
-  {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 100,
-   "title": "Half-yearly review of -Significant Indices- under SEBI (Index Providers) Regulations, 2024",
-   "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/half-yearly-review-of-significant-indices-under-sebi-index-providers-regulations-2024_105853.html",
-   "date": "2026-11-25",
-   "source": "SEBI",
-   "label": "Markets & Regulation",
-   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Regulator: SEBI"
-   ],
-   "tags": [
-    "Markets & Regulation"
-   ],
-   "rank": 4,
+   "rank": 1,
    "must_read": true
   },
   {
    "desk": "Startups",
-   "score": 14,
+   "score": 13,
    "priority": 100,
    "title": "PhonePe Revives IPO Plans, Eyes March 2027 Listing At Up To $15 Bn Valuation",
    "url": "https://inc42.com/buzz/phonepe-revives-ipo-plans-eyes-march-2027-listing-at-up-to-15-bn-valuation/",
@@ -529,12 +456,12 @@
     "IPO & Listing",
     "Fintech"
    ],
-   "rank": 5,
+   "rank": 2,
    "must_read": true
   },
   {
    "desk": "Advisory",
-   "score": 14,
+   "score": 13,
    "priority": 100,
    "title": "Fed's monetary policy signals linked to rupee depreciation, higher bond yields, according to RBI...",
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOc2Z5Vi1hSW5pLVhaXy1FVE1PMFN6T3BMcEpkUkdJekd5ZUJKbUZNSlFJSHQta1hTTEJiVVJUdW5uYkhsQzBNVmJQTTFMSVNSbi1UVGFWWkhvY1lfcmNnMk5zZFJfdzN5R0NMcjhPRW9CYi0yV1NzLWpMcHRDREp1X2hlV1VFM0RGaFpPWktEQmhMSGJablJtU0E4LWplT2hnZE0yOXlXX2R1VFg4eEVnX0NQU194WXd1SDVIWUdSWGozYXAzVW16MFVzWnRCU3NXbFpscnVkeDE3SHFxdzZFTmNfRnAyVlg4ZVppaDE1QzhVZ3ZOWEHSAfsBQVVfeXFMUEdsTXgxdHZTRE1mdS1lZk04R2NkWUFxTlRvTHR2N25GbzdMQk44TDRzWWk5TVVCdDdtal9ncE10empHLWlRNTdtel8ydkROMHgzZ3Vld2NBRlJ3TG5ON2p2OVlkUnV6UFhIdVhIRmYtMXlfX0M0RTZONFFzTUltMW1PMHZva0lOZnJPZFZndWh5Z3JTNHVnUlBkWkozbXVheHlsalZlQnA1UHk3N3J1MExucFlNQ3RQcU5ZTHZpdEdMVWJwV2JHNThXOFNSREE0Z2lRYWNlVDhLVFpzRVVtN080aVFxTkdxRGRWcGc3OG9VWV9acEVmeVd3UFE?oc=5",
@@ -553,8 +480,8 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 6,
-   "must_read": false
+   "rank": 3,
+   "must_read": true
   },
   {
    "desk": "Policy",
@@ -576,13 +503,36 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 7,
-   "must_read": false
+   "rank": 4,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 12,
+   "priority": 92,
+   "title": "ElevenLabs in talks to raise funding at $33bn valuation, reports say",
+   "url": "https://sifted.eu/articles/elevenlabs-funding-round-raise-33-bn-latest/",
+   "date": "2026-11-26",
+   "source": "Sifted",
+   "label": "Global · Other",
+   "snippet": "The AI voice startup is reportedly set to kick off fundraising efforts in first quarter of 2027.",
+   "lead": "AI voice startup ElevenLabs is in early talks with investors about a new funding round that could value the company at $33bn — three times the valuation it secured at the beginning of the year.",
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=975,quality=75,fit=cover,format=auto/wp-content/uploads/2026/02/04150650/251222_Eleven-Labs3655-v1-1-e1770217781484.jpg",
+   "why": [
+    "Funding",
+    "Very large figure in headline (about $33,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 5,
+   "must_read": true
   },
   {
    "desk": "Advisory",
-   "score": 13,
-   "priority": 93,
+   "score": 12,
+   "priority": 92,
    "title": "MCX gold plunges ₹4,420/10g, silver sheds nearly ₹8,800/kg as PCE data fuels December Fed rate hike bets",
    "url": "https://www.livemint.com/market/commodities/mcx-gold-plunges-rs-4-500-10g-silver-sheds-nearly-rs-8-800-kg-as-pce-data-fuels-december-fed-rate-hike-fears-11795621934097.html",
    "date": "2026-11-25",
@@ -600,13 +550,13 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 8,
+   "rank": 6,
    "must_read": false
   },
   {
    "desk": "Advisory",
    "score": 12,
-   "priority": 86,
+   "priority": 92,
    "title": "Bond Market Signals Softer RBI Rate Hikes as Crude Retreats and Long-Term Yields Begin to Rally",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGhxY2hzYzJZZEI5ZnBsYlphXy1oN0RXWkVPaTNRN29HUGpNWmRmVXU4YkZ0MVV2dFVmaExMaEVnVE9UTUNJTVh5Sk5MV2ZvaUdqaWpkNzdGYVpkSzdlQWthUlFXRHp3T1ZHcmxlel9xTnlJajZyNjlya2ZPNnlFN0JQc3g2aVlKQ3hxclhWNElmTl94c2xUUEV0MTIxUVpFc0Z5cGc1YUVvTmxjNGZfYm9Oaw?oc=5",
    "date": "2026-11-23",
@@ -624,51 +574,73 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 9,
+   "rank": 7,
    "must_read": false
   },
   {
    "desk": "Policy",
-   "score": 8,
-   "priority": 80,
-   "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on November 27, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64048",
+   "score": 9,
+   "priority": 90,
+   "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on November 27, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64051",
    "date": "2026-11-26",
    "source": "RBI",
    "label": "Banking & Rates",
    "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on November 27, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
+   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Friday, November 27, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
    "image": null,
    "why": [
-    "Regulator: RBI",
-    "Large outlay (Rs 10,000 Cr or more)"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 80,
-   "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64039",
-   "date": "2026-11-25",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "",
-   "image": null,
-   "why": [
-    "New law or act",
+    "Rates and liquidity",
     "Regulator: RBI"
    ],
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 11,
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 9,
+   "priority": 90,
+   "title": "NLMC holds 22nd Board Meeting; Considers fresh asset monetisation and valuation proposals worth approximately ₹1,300 crore",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341730",
+   "date": "2026-11-26",
+   "source": "PIB",
+   "label": "Budget & Fiscal",
+   "snippet": "The National Land Monetization Corporation Limited (NLMC), under the Department of Public Enterprises (DPE), Ministry of Finance, Government of India, held its 22nd Meeting of the Board of Directors y",
+   "lead": "Ministry of Finance NLMC holds 22nd Board Meeting; Considers fresh asset monetisation and valuation proposals worth approximately ₹1,300 crore NLMC considers fresh proposals to further strengthen monetisation pipeline in addition to over ₹9,000 crore in assets monetised in FY2026-27 NLMC to advance monetisation of its own residential property portfolio in New Delhi and Mumbai Posted On: 26 NOV 2026 11:45AM by PIB Delhi The National ...",
+   "image": null,
+   "why": [
+    "Capital and ownership policy",
+    "Ministry of Finance"
+   ],
+   "tags": [
+    "Budget & Fiscal"
+   ],
+   "rank": 9,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 9,
+   "priority": 90,
+   "title": "Half-yearly review of -Significant Indices- under SEBI (Index Providers) Regulations, 2024",
+   "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/half-yearly-review-of-significant-indices-under-sebi-index-providers-regulations-2024_105853.html",
+   "date": "2026-11-25",
+   "source": "SEBI",
+   "label": "Markets & Regulation",
+   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Regulator: SEBI"
+   ],
+   "tags": [
+    "Markets & Regulation"
+   ],
+   "rank": 10,
    "must_read": false
   },
   {
@@ -691,13 +663,36 @@
    "tags": [
     "Banking & Rates"
    ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 8,
+   "priority": 80,
+   "title": "RBI issues Draft Amendment Directions for ‘Preventive Safeguards for Electronic Banking Transactions (EBTs)’",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64026",
+   "date": "2026-11-23",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "The Reserve Bank had issued the Amendment Directions dated June 24, 2026 on ‘ Customer Protection in Fraudulent Electronic Banking Transactions ’ which, inter alia, strengthened the existing framework for limiting liability of customers in unauthorised Electronic Banking Transactions (EBTs). While the revised framework primarily addresses customer liability in the event of fraudulent EBTs, a need is felt to strengthen the same from a ...",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
    "rank": 12,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 11,
-   "priority": 79,
+   "score": 10,
+   "priority": 77,
    "title": "RBI may opt for 25 bps rate hike as oil eases, inflation risks persist: Baroda BNP Paribas MF CIO",
    "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-opt-for-25-bps-rate-hike-as-oil-eases-inflation-risks-persist-baroda-bnp-paribas-mf-cio/articleshow/136162711.cms",
    "date": "2026-11-25",
@@ -720,8 +715,8 @@
   },
   {
    "desk": "Advisory",
-   "score": 11,
-   "priority": 79,
+   "score": 10,
+   "priority": 77,
    "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on November 26, 2026",
    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64043",
    "date": "2026-11-25",
@@ -742,9 +737,31 @@
    "must_read": false
   },
   {
-   "desk": "Immigration",
+   "desk": "Startups",
    "score": 10,
    "priority": 77,
+   "title": "From a small Indian village to a $44 billion deal: The rise of Zscaler founder Jay Chaudhry",
+   "url": "https://economictimes.indiatimes.com/tech/technology/from-small-indian-village-to-44-billion-deal-the-rise-of-zscaler-founder-jay-chaudhry/articleshow/136103683.cms",
+   "date": "2026-11-23",
+   "source": "ET Startups",
+   "label": "India · Other",
+   "snippet": "Chaudhry has founded five technology companies in the US over the past three decades. Four of these companies were acquired by other businesses, with Zscaler now set to become part of CrowdStrike.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-657366,resizemode-75,msid-136103683/tech/technology/from-small-indian-village-to-44-billion-deal-the-rise-of-zscaler-founder-jay-chaudhry.jpg",
+   "why": [
+    "Acquisition",
+    "Very large figure in headline (about $44,000M: round or valuation)"
+   ],
+   "tags": [
+    "Acquisition"
+   ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 75,
    "title": "What UK immigration changes mean for hospitality employers",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWldTX0NjZFlvZ2dqNnU2XzIxVUtaeVZpQnk0TTZCZVk5N0g2YWNfVTRxbi1UR3A2Rng3cEFvUnFCMkZ4UGszQW91NW03V25LTUVNNlZwZEN6c0VpWGdXLTFDYVlsVWxybHhyQlhKYXpacDdVLWtzVXEzZ2kwaHAzei1GS1NfQ1hlWkJyMGQ0ajRlblhta2xBY3NLSnhSSFdTalFDc01STVhTaGxZaTlZRFhfNFU?oc=5",
    "date": "2026-11-25",
@@ -762,13 +779,58 @@
     "Work visa",
     "United Kingdom"
    ],
-   "rank": 15,
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 7,
+   "priority": 70,
+   "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on November 27, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64048",
+   "date": "2026-11-26",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on November 27, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
+   "image": null,
+   "why": [
+    "Regulator: RBI",
+    "Large outlay (Rs 10,000 Cr or more)"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 17,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 10,
-   "priority": 71,
+   "score": 9,
+   "priority": 69,
+   "title": "Capri Global raises $30M in bonds from BlueOrchard Microfinance",
+   "url": "https://yourstory.com/2026/11/capri-global-raises-30-million-in-bonds-from-blueorchard-microfinance",
+   "date": "2026-11-26",
+   "source": "YourStory",
+   "label": "India · Fintech",
+   "snippet": "The fundraise will support Capri Global's MSME lending business and expand access to credit for businesses across India.",
+   "lead": "Capri Global raises $30M in bonds from BlueOrchard Microfinance The fundraise will support Capri Global's MSME lending business and expand access to credit for businesses across India. Team YS 17669 Stories Thursday November 26, 2026 , 2 min Read Capri Global Capital Limited, a retail-focused non-banking financial company (NBFC), has raised $30 million from the BlueOrchard Microfinance Fund, managed by impact investment firm ...",
+   "image": "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Imagexayf-1790744100143.jpg",
+   "why": [
+    "Funding",
+    "Sizeable deal (about $30M)"
+   ],
+   "tags": [
+    "Funding",
+    "Fintech"
+   ],
+   "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 9,
+   "priority": 69,
    "title": "Finnable Nets ₹405 Cr To Scale Digital Lending Business",
    "url": "https://inc42.com/buzz/finnable-nets-%e2%82%b9405-cr-to-scale-digital-lending-business/",
    "date": "2026-11-26",
@@ -785,13 +847,13 @@
     "Funding",
     "Fintech"
    ],
-   "rank": 16,
+   "rank": 19,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 10,
-   "priority": 71,
+   "score": 9,
+   "priority": 69,
    "title": "Finnable raises Rs 405 Cr in Series C to expand multi-product lending",
    "url": "https://yourstory.com/2026/11/finnable-raises-rs-405-crore-in-series-c-to-expand-multi-product-lending",
    "date": "2026-11-26",
@@ -808,81 +870,13 @@
     "Funding",
     "Fintech"
    ],
-   "rank": 17,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 71,
-   "title": "Lok Capital Announces First Close Of Fund V At $130 Mn",
-   "url": "https://inc42.com/buzz/lok-capital-announces-first-close-of-fund-v-at-130-mn/",
-   "date": "2026-11-25",
-   "source": "Inc42",
-   "label": "India · Media, Gaming & Creators",
-   "snippet": "The investor aims to invest in 10-12 growth-stage companies focused on financial inclusion and climate and sustainability.",
-   "lead": "Lok Capital has raised over $130 Mn in the first close of its Fund V which is targeting a $200-250 Mn corpus The investor aims to invest in 10-12 growth-stage companies focused on financial inclusion and climate and sustainability The International Finance Corporation, European Investment Bank, and FMO have proposed investing in the fund",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/neogeo-funding-social-.jpg",
-   "why": [
-    "Funding",
-    "Large deal (about $130M)"
-   ],
-   "tags": [
-    "Funding",
-    "Media, Gaming & Creators"
-   ],
-   "rank": 18,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 71,
-   "title": "Why CrowdStrike is spending $44 billion to acquire cloud security platform Zscaler",
-   "url": "https://www.medianama.com/2026/11/223-crowdstrike-acquire-cloud-zscaler/",
-   "date": "2026-11-24",
-   "source": "MediaNama",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Why is CrowdStrike acquiring Zscaler for $43.9 billion, and how does the deal advance its ambitions in AI and cybersecurity?",
-   "lead": "Cybersecurity firm CrowdStrike announced on Monday, November 23, that it had entered into a definitive agreement to acquire cloud security platform Zscaler in an all-stock deal worth $43.9 billion. This exceeds the $32 billion Google agreed to pay for Wiz in March last year and makes it the largest acquisition in the cybersecurity industry to date. In filings with the US Securities and Exchange Commission (SEC), CrowdStrike said the ...",
-   "image": null,
-   "why": [
-    "Acquisition",
-    "Very large figure in headline (about $44,000M: round or valuation)"
-   ],
-   "tags": [
-    "Acquisition",
-    "AI & Deeptech"
-   ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 71,
-   "title": "From a small Indian village to a $44 billion deal: The rise of Zscaler founder Jay Chaudhry",
-   "url": "https://economictimes.indiatimes.com/tech/technology/from-small-indian-village-to-44-billion-deal-the-rise-of-zscaler-founder-jay-chaudhry/articleshow/136103683.cms",
-   "date": "2026-11-23",
-   "source": "ET Startups",
-   "label": "India · Other",
-   "snippet": "Chaudhry has founded five technology companies in the US over the past three decades. Four of these companies were acquired by other businesses, with Zscaler now set to become part of CrowdStrike.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-657366,resizemode-75,msid-136103683/tech/technology/from-small-indian-village-to-44-billion-deal-the-rise-of-zscaler-founder-jay-chaudhry.jpg",
-   "why": [
-    "Acquisition",
-    "Very large figure in headline (about $44,000M: round or valuation)"
-   ],
-   "tags": [
-    "Acquisition"
-   ],
    "rank": 20,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 8,
-   "priority": 62,
+   "priority": 67,
    "title": "How extreme are the far-right FPÖ's proposals to tighten Austria's citizenship laws?",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdl95LW5INWl3UGt2VjhId20taTRDak1XTkEwbjkydTJsekY2blRQV1dtbTRWN1RtX1oyVFdZNEJFejZEUDJhcnFHSHgyRFJKUHhzNFFFc1h3VXpBSWlRTE45NGcwamw0bzAtY1o4aWJtU1hNLXBaLU4zOUw0TnlSaDBMRUROSm44ZnlXMUpBUmk5M19yN04xcXp3VW9OeGcyVjUyOS1OYkMwRGRHcDMxOHctVmo?oc=5",
    "date": "2026-11-23",
@@ -905,21 +899,23 @@
   {
    "desk": "Immigration",
    "score": 7,
-   "priority": 54,
-   "title": "New Zealand Introduces New Online System For Graduate Work Visa Applications",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzcmNKOWV4SnE0MmZjOWdPbnBDRmNRZXNoS1pqOG1MWEVNeWM4UHQyQlNCUjQyQTYzWHpGN01meGs5aHd2dVo4YkYwenVkbW9UcFlr?oc=5",
-   "date": "2026-11-26",
-   "source": "شبكة تواصل الإخبارية",
-   "label": "New Zealand",
-   "snippet": "",
+   "priority": 58,
+   "title": "Belgium raises 2027 work visa salary thresholds for foreign professionals, including Indians",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU0FmRFFucXlBTG5kWkxBQUlCWkNjdnpzejJKU3Nrbk02ZllXLXAyTy1OV0JDclNkZTM1bHhWT29MOVNuUXVtN0J2Y3BBNXJTT2lUcjBsNnQ4ZmlzdTk3bVBqWGg1enZMNHZnYWlicUJOQjlBdE9FTHB3NV9qUE1tSktVYnQ4NE9UX2h6QjhyU2RoTGJVRUsxTW9aM3JGMUhXa0FuU2s3V2thdFlGb0JDTVBZcHNEUXNjVE5jenoyU1RNLXAxV21NRTFSNUROeHBQZGFIV3FwaUlvVXlocXR6azM2c3BRbDVOaGfSAe8BQVVfeXFMTjhka2p6Z0xxM2s5QmZGTlYyRV9ROXkzSFI5N18zbTRzdkNCOVJicXlSbjUtQ3FQalg3dEJEYnByTmZxUVRoRVVpZmJBY3hBNnMyR190ZXZsVnM2UjFvVUt5RG9MX1I3V0F5Tkk0T3RBek1ubzFDaV91LWRvVEJpcTBzcWVBUWdyMkxaZTVVRl9iYURUOUZhSnpiU0hNTDZxVXZlSWJSNS00TnQwS3RpWmQxZmtsaHJ0cEpRVThUcFd0TEdESk5lblFSNGdSa3UzNnRBZTN2MGV1QjBuY0JNUGg0WGRuLWlNdU92UXJGaXc?oc=5",
+   "date": "2026-11-21",
+   "source": "The Economic Times",
+   "label": "Belgium",
+   "snippet": "Belgium's Wallonia region has announced higher minimum salary requirements for foreign workers applying for work authorisations and Work Permit B from January 1, 2027. The revised thresholds apply to several categories, including highly qualified professionals, management positions, EU Blue Card holders and intra-company transferees. Empl",
    "lead": "",
-   "image": null,
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1973252,resizemode-75,msid-136049511/nri/work/belgium-raises-2027-work-visa-salary-thresholds-for-foreign-professionals-including-indians.jpg",
    "why": [
-    "Announces a change"
+    "Salary threshold change",
+    "Announces a change",
+    "Mentions India or Indians"
    ],
    "tags": [
-    "Student / Graduate",
-    "New Zealand"
+    "Salary threshold",
+    "Belgium"
    ],
    "rank": 22,
    "must_read": false
@@ -927,22 +923,22 @@
   {
    "desk": "Immigration",
    "score": 7,
-   "priority": 54,
-   "title": "Iceland Revises Means-of-Support Thresholds for Immigration",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUmlaNnNtb3VMeGYxSjhUVldGaFFfOEN2c29BWEtTemE3dUNpMWlRaFM5M0JMX0x3OHVuVWYxaFdoeFlMdzdTbHBUSC1XalRDNlM4ZkxpX1A0bDROT09vSUx1WTFhUnRUak1EVXd5QjFWY2d4QnN4WVNHRHh4S2dMUWpkZF9SZw?oc=5",
-   "date": "2026-11-25",
-   "source": "Erickson Immigration Group",
-   "label": "Iceland",
-   "snippet": "Iceland's Ministry of Justice will revise its draft regulation on financial support requirements for residence and citizenship applications.",
-   "lead": "",
-   "image": "https://eiglaw.com/wp-content/uploads/2023/08/Iceland.png",
+   "priority": 58,
+   "title": "Japan tightens permanent residency rules with language, integration checks",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWFlDbDgweEJvSEh3UkdRWDFpUjNwdk0zeFhFbW1OcG9qUFI3aFNyVjJ3dUZQTlhtdEREMXF6T1NBMFZZX09jMFBpelUxaXBGckxzbWJSNFI4UVhmUHRTT3ZMZGJXMlQ3OEQyRjg3VjIwN0N5WklRV3dFc2F1UFloMVNyYkZzMUstTjMydDhDejJlZ2dsaTdhLVp3?oc=5",
+   "date": "2026-11-20",
+   "source": "Punch Newspapers",
+   "label": "Japan",
+   "snippet": "Japan permanent residency rules will require B1 Japanese and a test of applicants' grasp of laws and social systems, with five exempt categories.",
+   "lead": "Add us to your Preferred Sources Japan tightens permanent residency rules with language, integration checks News November 20, 2026 9:39 am Japanese flag. Credit: Engoo | website Japan is introducing stricter requirements for foreign nationals seeking permanent residency, including a Japanese language proficiency standard of B1 or higher and an assessment of applicants’ understanding of the country’s laws, rules and social systems. As ...",
+   "image": "https://punchng.com/wp-content/uploads/2026/07/2YV6x0W21XFcAYvPbkO5qG_1785227963.webp",
    "why": [
-    "Salary threshold change",
+    "Affects permanent residence",
     "Announces a change"
    ],
    "tags": [
-    "Salary threshold",
-    "Iceland"
+    "PR / Settlement",
+    "Japan"
    ],
    "rank": 23,
    "must_read": false
