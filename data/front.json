@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-26",
- "built": "2026-11-26 13:33 IST",
+ "built": "2026-11-26 14:22 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25820.0,
-   "change_pct": 0.0,
-   "asof": "26 Nov 13:33 IST"
+   "value": 25826.0,
+   "change_pct": 0.03,
+   "asof": "26 Nov 14:22 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 84172.0,
-   "change_pct": 0.28,
-   "asof": "26 Nov 13:18 IST"
+   "value": 83978.0,
+   "change_pct": 0.05,
+   "asof": "26 Nov 14:07 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
    "value": 92.46,
-   "change_pct": -0.37,
-   "asof": "26 Nov 13:33 IST"
+   "change_pct": -0.38,
+   "asof": "26 Nov 14:22 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 90.61,
-   "change_pct": -4.23,
-   "asof": "26 Nov 13:22 IST"
+   "value": 90.5,
+   "change_pct": -4.34,
+   "asof": "26 Nov 14:12 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3591.0,
-   "change_pct": 1.56,
-   "asof": "26 Nov 13:23 IST"
+   "value": 3597.0,
+   "change_pct": 1.73,
+   "asof": "26 Nov 14:12 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -166,8 +166,29 @@
   },
   "Startups": {
    "total": 1500,
-   "new_today": 10,
+   "new_today": 12,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 10,
+     "priority": 71,
+     "title": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering",
+     "url": "https://yourstory.com/2026/11/anthropic-raises-813-billion-from-ipo-with-valuation-of-15-trillion",
+     "date": "2026-11-19",
+     "source": "YourStory",
+     "label": "India · AI & Deeptech",
+     "snippet": "Anthropic's IPO surpasses SpaceX's $75 billion offering. The company reported $16.2 billion in revenue in the first half of 2026, up from $1.16 billion in the same period last year, even as its reported net loss widened.",
+     "lead": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering Anthropic's IPO surpasses SpaceX's $75 billion offering. The company reported $16.2 billion in revenue in the first half of 2026, up from $1.16 billion in the same period last year, even as its reported net loss widened. Team YS 17613 Stories Thursday November 19, 2026 , 2 min Read Artificial intelligence (AI) company Anthropic has raised $81.3 billion through its ...",
+     "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imagermlb-1795071459700.jpg",
+     "why": [
+      "IPO & Listing",
+      "Very large figure in headline (about $81,300M: round or valuation)"
+     ],
+     "tags": [
+      "IPO & Listing",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 10,
@@ -231,37 +252,17 @@
       "Shutdown & Layoffs",
       "Media, Gaming & Creators"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 64,
-     "title": "Bending Spoons buys Mailchimp for $3.68B",
-     "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-     "date": "2026-11-20",
-     "source": "TechCrunch",
-     "label": "Global · Other",
-     "snippet": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
-     "lead": "Bending Spoons buys Mailchimp for $3.68B Russell Brandom 8:16 AM PST · November 20, 2026 Bending Spoons has bought up another distressed internet company. This time, it’s the email marketing firm Mailchimp, bought for $3.68 billion from the tax-preparation giant Intuit. Intuit acquired the company in 2021 for roughly $12 billion, so it’s taking quite a loss — and, perhaps, Bending Spoons is getting quite a bargain. At the time of the ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150300479.jpg?resize=1200,800",
-     "why": [
-      "Acquisition",
-      "Very large figure in headline (about $3,680M: round or valuation)"
-     ],
-     "tags": [
-      "Acquisition"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 24,
+   "new_today": 28,
    "items": [
     {
      "desk": "Immigration",
      "score": 7,
-     "priority": 70,
+     "priority": 54,
      "title": "Belgium raises 2027 work visa salary thresholds for foreign professionals, including Indians",
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU0FmRFFucXlBTG5kWkxBQUlCWkNjdnpzejJKU3Nrbk02ZllXLXAyTy1OV0JDclNkZTM1bHhWT29MOVNuUXVtN0J2Y3BBNXJTT2lUcjBsNnQ4ZmlzdTk3bVBqWGg1enZMNHZnYWlicUJOQjlBdE9FTHB3NV9qUE1tSktVYnQ4NE9UX2h6QjhyU2RoTGJVRUsxTW9aM3JGMUhXa0FuU2s3V2thdFlGb0JDTVBZcHNEUXNjVE5jenoyU1RNLXAxV21NRTFSNUROeHBQZGFIV3FwaUlvVXlocXR6azM2c3BRbDVOaGfSAe8BQVVfeXFMTjhka2p6Z0xxM2s5QmZGTlYyRV9ROXkzSFI5N18zbTRzdkNCOVJicXlSbjUtQ3FQalg3dEJEYnByTmZxUVRoRVVpZmJBY3hBNnMyR190ZXZsVnM2UjFvVUt5RG9MX1I3V0F5Tkk0T3RBek1ubzFDaV91LWRvVEJpcTBzcWVBUWdyMkxaZTVVRl9iYURUOUZhSnpiU0hNTDZxVXZlSWJSNS00TnQwS3RpWmQxZmtsaHJ0cEpRVThUcFd0TEdESk5lblFSNGdSa3UzNnRBZTN2MGV1QjBuY0JNUGg0WGRuLWlNdU92UXJGaXc?oc=5",
      "date": "2026-11-21",
@@ -283,7 +284,7 @@
     {
      "desk": "Immigration",
      "score": 7,
-     "priority": 70,
+     "priority": 54,
      "title": "Japan tightens permanent residency rules with language, integration checks",
      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWFlDbDgweEJvSEh3UkdRWDFpUjNwdk0zeFhFbW1OcG9qUFI3aFNyVjJ3dUZQTlhtdEREMXF6T1NBMFZZX09jMFBpelUxaXBGckxzbWJSNFI4UVhmUHRTT3ZMZGJXMlQ3OEQyRjg3VjIwN0N5WklRV3dFc2F1UFloMVNyYkZzMUstTjMydDhDejJlZ2dsaTdhLVp3?oc=5",
      "date": "2026-11-20",
@@ -304,7 +305,7 @@
     {
      "desk": "Immigration",
      "score": 7,
-     "priority": 70,
+     "priority": 54,
      "title": "Germany's conservatives launch another bid to tighten citizenship rules",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaVRWbDAzSHRSQWhsdkJuc2tWbkRqOUl2cy1CNzVnNk9RdGd5a1o4bDVXNVQxYkpPcUlzYjg2NDRhTVdSTm93d05oTWU4SERwd05VU0dEeW5JdTVMdTJENXZXVkFxVTJTU0ZtZENIWlFDY0hRSlk4bm1NeXFPN0pZWXpQWmEtWTR6N1ZYMVlZdTd5SGdfSDZ1UldfcGpueXJmU2Vjbld3?oc=5",
      "date": "2026-11-19",
@@ -462,22 +463,24 @@
   },
   {
    "desk": "Immigration",
-   "score": 10,
+   "score": 13,
    "priority": 100,
-   "title": "Canada invites 6,000 francophones to apply for permanent residence",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQME5aZXY2SUg4b1VyVTNXUzhhMFV5dlQ0cGVkN2xvUzFEVXBxY0swVHgtOG11YzRmNlJ2RFNUcVBsLUVhZ0NIY2lSN2VLZHhvM2QyVnhKbjZlN1hQTklUM19YNFE5T3ZVbUgyb29tVGlWb3kzRWJZZkRRaG4tSnAxc2htd2JjaldhX1poMktNY2p0MG1YSncwVzNfaUZjTWh6UjhSajRuaUxSb1NqcWFz0gG0AUFVX3lxTE9hYnJNZnNoVmFGUURiRGVBV0ZWa01ZdDlKZFZrbXRQd2Q3c053TkhNZ1F6UWZpZHN5TjUxWkR3LTVmRkFVbzhCWTFFYk5xdnQ3bXF4RDdJLXpPekQ2ekR0ZHhOeW5sR0wtc1ltaWJLUDRieWFDb0R4VzZvdEtHMlJIWVIwTWhwcE5PdGRaUjJMOVVWendCc09CQTBjbHp5TjZPWkk1M1hOdkhnUUhQaEEwU3dLTA?oc=5",
+   "title": "Canada updates visa processing times; cuts Indian work permit processing time to 9 weeks, but visitor visa",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNVUw3d3VnTEJEclljR095bmVpdzdYaE93LVFkWmZiWngxampna3ZzdTZibkNxU21fQk9OcDdIQnUwOW42RmJfcVIzN0Z6UVgxb0Q4dWlqbzdtV0VQWkdrR2VIck5IN3dSQmZtTlNxeDdHOEsyeXNRVW91N2hqeDJVTm9BemJKc3dTdzk0OUJXbzQxRVQ5RXd5LW9DLUNhTHdGUGJSRlJGeGNIMEFrUk5JVzNDZGRsVjF0Q2NURnNkdTQ5bXpJSlpNOFQzWGpFMXhIRjY1a1BNc2FOMzlERjBRbzNXb1piYmRuOU4zVV9DLTgtRV82VW1ESHpQM1E2S0tiZzRSd2ZUZUJKWVpneldQbXZBYnpXWUnSAZwCQVVfeXFMT3ppeXRSTHJJVll2ZTB0alM5ZWxJbDdTbklRV1pNdUlLMXZNemNYRWVjNktTRUdkdlBCVWU3RnRfc1RwX3doMTBIc2tNNjlPWlNDTVgyRllzZUstcDhaZEwxRk1MZGREdDZ1cEpFWHdqNnpadWtJMUN5MlJwZ1Z4WjB4VFprWGZKUmlxRFl3SURUOVh5czVnZXFLNlBqdkM2VGZNbV9rYVFpRVJUM2VBbUlrRjNxc3QtcWNTUkNjMGh5Vkoxa1JUWEtXQ2V3S2NSbGxPb2pqOXZxLVlNbHh3Rm5INWY2bGhBS1VTUXI3OEVXckY4UDFIdFJUV0RUNUhQck5sZ1MteTh3T1JPY3M5V0pOY2pLM0IzMHhYUlM?oc=5",
    "date": "2026-11-26",
-   "source": "CIC News",
+   "source": "The Economic Times",
    "label": "Canada",
-   "snippet": "Canada conducted its second Express Entry selection round under the revised Comprehensive Ranking System (CRS) on Nov. 25, issuing 6,000 invitations to apply (ITAs) to candidates with French-language abilities. To be considered in this draw, candidates needed to have: A minimum CRS score of 401; and Created an Express Entry candidate prof",
-   "lead": "Canada conducted its second Express Entry selection round under the revised Comprehensive Ranking System (CRS) on Nov. 25, issuing 6,000 invitations to apply (ITAs) to candidates with French-language abilities. Express Entry applicants residing in Canada may be eligible for a Bridging Open Work Permit (BOWP) while awaiting a decision on their permanent residence application. Those who apply before their current work permit expires may ...",
-   "image": "https://www.cicnews.com/wp-content/uploads/2026/11/Express-Entry-Draw-67.jpg",
+   "snippet": "Canada has revised its temporary residence visa processing estimates, with Indian work permit applicants seeing a one-week reduction in waiting time, according to Immigration, Refugees and Citizenship Canada (IRCC). The recent update also shows changes in study permits, visitor visas and super visas across several countries. Indian applic",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1140522,resizemode-75,msid-136181514/nri/latest-updates/canada-updates-visa-processing-times-cuts-indian-work-permit-processing-time-to-9-weeks-but-visitor-visa-wait-rises.jpg",
    "why": [
-    "Affects permanent residence",
-    "Major story (9 headlines that day)"
+    "Affects work visas",
+    "Announces a change",
+    "Major story (13 headlines that day)",
+    "Mentions India or Indians"
    ],
    "tags": [
-    "PR / Settlement",
+    "Work visa",
     "Canada"
    ],
    "rank": 3,
@@ -554,30 +557,6 @@
    "must_read": false
   },
   {
-   "desk": "Immigration",
-   "score": 10,
-   "priority": 100,
-   "title": "UK student visa: Higher bank balance requirement from November 30; what Indian applicants need to know",
-   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNTFZRWWdSSFowQmJ5SVhXLUhVcVE2MnVGOEpUeVR6UG4yZzVfRHRacFdEU0VxV1FPazFMbEVpbDBlRDNicnpuQnJaS0RZNjRXQUdJekFfYVdpZktDWXRITldkQ0pQM1ZZcHYtLW5jaGRaVWJnQW5qU19VNncySkVSczRjc0pDQ2VtUjA5UW81WkNLLWpuWUduc1puQlU5Vl9FZ3dPYUN6LVJkN3F6cjY3X1ZwNWNMYTRIV0N1QnhaMTI0cDRIaWY5RS1IVG9UYUxnZ0lfb3RTcFZnclY3MG5mSmlOMEctbXQtTlpOWHVLN0hJeTNKYTA5TzFrczAxMUJPT1REVHhGV0hhekxKQ2lpQ1M0NNIBmAJBVV95cUxQUFA0ZkdMTHVTQVh2X0Fvc2ZSYlFMYmF3NWk5UklWZ0h4cFhXYTlFNTBvQ0xaTVMtcEU3MDNjOVRlT3BRU1pDVnk3VGtvNFg1dTZWOTVzZFkyRFB1cy1OVWkyOUh1cmJROFlJT2JocEptS2p3RWc1VXBvOVBRbVY2MUJJUkVYQi1PTFBnNWxKaWdEeXdrUWNSOGlza0VqRjktclY2cmJNWVpFUE1keGNCSExXa3JZYUx2NHVJcFFubTVpRVdESjhaYXJoSGxLRmtxZ2Z0NlM5b09fc2x5RVNSbDB5NFAtRlU4ZFVoenZHVjlhb1RwVnJPMTdNYnRGNFhqZGdNWjNuZ2laWTYyUGNtTXM5al9FSG1v?oc=5",
-   "date": "2026-11-24",
-   "source": "The Times of India",
-   "label": "United Kingdom",
-   "snippet": "Indian students planning to study in the UK in January 2027 will need to arrange more money for their visa applications from November 30. The UK Home Office is increasing the minimum amount international students must show for living expenses.",
-   "lead": "Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
-   "image": "https://static.toiimg.com/thumb/msid-136120643,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-   "why": [
-    "Announces a change",
-    "Major story (14 headlines that day)",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Student / Graduate",
-    "United Kingdom"
-   ],
-   "rank": 7,
-   "must_read": false
-  },
-  {
    "desk": "Policy",
    "score": 10,
    "priority": 100,
@@ -597,7 +576,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 8,
+   "rank": 7,
    "must_read": false
   },
   {
@@ -621,7 +600,7 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 9,
+   "rank": 8,
    "must_read": false
   },
   {
@@ -645,7 +624,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 10,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -667,7 +646,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 11,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -689,7 +668,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 12,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -712,30 +691,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 8,
-   "priority": 80,
-   "title": "How extreme are the far-right FPÖ's proposals to tighten Austria's citizenship laws?",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdl95LW5INWl3UGt2VjhId20taTRDak1XTkEwbjkydTJsekY2blRQV1dtbTRWN1RtX1oyVFdZNEJFejZEUDJhcnFHSHgyRFJKUHhzNFFFc1h3VXpBSWlRTE45NGcwamw0bzAtY1o4aWJtU1hNLXBaLU4zOUw0TnlSaDBMRUROSm44ZnlXMUpBUmk5M19yN04xcXp3VW9OeGcyVjUyOS1OYkMwRGRHcDMxOHctVmo?oc=5",
-   "date": "2026-11-23",
-   "source": "The Local Austria",
-   "label": "Austria",
-   "snippet": "Austria's naturalisation laws are rarely out of the headlines. Today we look at how the far-right Freedom Party (FPÖ), the most popular party in Austria, wants to tighten the laws around citizenship, including proposals for a \"probationary period\".",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden 1 comment Add The Local as a preferred source Austria's naturalisation laws are rarely out of the headlines. Today we look at how the far-right Freedom Party (FPÖ), the most popular party in Austria, wants to tighten the laws around citizenship, including proposals ...",
-   "image": null,
-   "why": [
-    "Affects citizenship",
-    "Announces a change"
-   ],
-   "tags": [
-    "Citizenship",
-    "Austria"
-   ],
-   "rank": 14,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -759,7 +715,7 @@
     "Regulatory",
     "Energy & Power"
    ],
-   "rank": 15,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -781,6 +737,53 @@
    ],
    "tags": [
     "Regulatory"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 77,
+   "title": "What UK immigration changes mean for hospitality employers",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWldTX0NjZFlvZ2dqNnU2XzIxVUtaeVZpQnk0TTZCZVk5N0g2YWNfVTRxbi1UR3A2Rng3cEFvUnFCMkZ4UGszQW91NW03V25LTUVNNlZwZEN6c0VpWGdXLTFDYVlsVWxybHhyQlhKYXpacDdVLWtzVXEzZ2kwaHAzei1GS1NfQ1hlWkJyMGQ0ajRlblhta2xBY3NLSnhSSFdTalFDc01STVhTaGxZaTlZRFhfNFU?oc=5",
+   "date": "2026-11-25",
+   "source": "The Morning Advertiser",
+   "label": "United Kingdom",
+   "snippet": "Proposed UK immigration changes could increase sponsorship costs for hospitality employers, while a planned UK-EU youth scheme may offer new recruitment opportunities.",
+   "lead": "The Government has outlined changes to how overseas workers qualify for permanent settlement in the UK, alongside a new agreement with the EU aimed at making it easier for younger people to live and work across borders. Get the biggest pub trade stories straight to your phone. Listen to our one-minute daily news briefing and receive breaking news, exclusives and sector updates throughout the day. Remember to turn notifications on in ...",
+   "image": "https://www.morningadvertiser.co.uk/resizer/v2/CQ5SW2V5IFAEZLXWKZ3LUC32VA.jpg?auth=472860b3ad5b67c546d3d7746357c7f71b2dbf4ec4e891d7a95c899efa3c3c1e&width=1200&height=630&smart=true",
+   "why": [
+    "Affects work visas",
+    "Announces a change",
+    "Major story (11 headlines that day)"
+   ],
+   "tags": [
+    "Work visa",
+    "United Kingdom"
+   ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 71,
+   "title": "Finnable Nets ₹405 Cr To Scale Digital Lending Business",
+   "url": "https://inc42.com/buzz/finnable-nets-%e2%82%b9405-cr-to-scale-digital-lending-business/",
+   "date": "2026-11-26",
+   "source": "Inc42",
+   "label": "India · Fintech",
+   "snippet": "Finnable has raised ₹405 Cr ($43.8 Mn) in a Series C funding round led by Bharat Value Fund (BVF), which invested ₹150 Cr in the startup",
+   "lead": "Finnable has raised ₹405 Cr ($43.8 Mn) in a Series C funding round led by Bharat Value Fund (BVF), which invested ₹150 Cr in the startup Finnable ill deploy the fresh capital to expand its lending portfolio, strengthen its tech stack and forge new partnerships across the lending ecosystem The round also saw participation from Pratithi Investments and NK Squared, along with existing investors TVS Capital and MEMG Family Office",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/stakcbox-funding-featured-1-1-1-1.jpg",
+   "why": [
+    "Funding",
+    "Sizeable deal (about $43M)"
+   ],
+   "tags": [
+    "Funding",
+    "Fintech"
    ],
    "rank": 16,
    "must_read": false
@@ -877,24 +880,24 @@
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 10,
-   "priority": 71,
-   "title": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering",
-   "url": "https://yourstory.com/2026/11/anthropic-raises-813-billion-from-ipo-with-valuation-of-15-trillion",
-   "date": "2026-11-19",
-   "source": "YourStory",
-   "label": "India · AI & Deeptech",
-   "snippet": "Anthropic's IPO surpasses SpaceX's $75 billion offering. The company reported $16.2 billion in revenue in the first half of 2026, up from $1.16 billion in the same period last year, even as its reported net loss widened.",
-   "lead": "Anthropic raises $81.3B in IPO, surpasses SpaceX's record offering Anthropic's IPO surpasses SpaceX's $75 billion offering. The company reported $16.2 billion in revenue in the first half of 2026, up from $1.16 billion in the same period last year, even as its reported net loss widened. Team YS 17613 Stories Thursday November 19, 2026 , 2 min Read Artificial intelligence (AI) company Anthropic has raised $81.3 billion through its ...",
-   "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imagermlb-1795071459700.jpg",
+   "desk": "Immigration",
+   "score": 8,
+   "priority": 62,
+   "title": "How extreme are the far-right FPÖ's proposals to tighten Austria's citizenship laws?",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdl95LW5INWl3UGt2VjhId20taTRDak1XTkEwbjkydTJsekY2blRQV1dtbTRWN1RtX1oyVFdZNEJFejZEUDJhcnFHSHgyRFJKUHhzNFFFc1h3VXpBSWlRTE45NGcwamw0bzAtY1o4aWJtU1hNLXBaLU4zOUw0TnlSaDBMRUROSm44ZnlXMUpBUmk5M19yN04xcXp3VW9OeGcyVjUyOS1OYkMwRGRHcDMxOHctVmo?oc=5",
+   "date": "2026-11-23",
+   "source": "The Local Austria",
+   "label": "Austria",
+   "snippet": "Austria's naturalisation laws are rarely out of the headlines. Today we look at how the far-right Freedom Party (FPÖ), the most popular party in Austria, wants to tighten the laws around citizenship, including proposals for a \"probationary period\".",
+   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden 1 comment Add The Local as a preferred source Austria's naturalisation laws are rarely out of the headlines. Today we look at how the far-right Freedom Party (FPÖ), the most popular party in Austria, wants to tighten the laws around citizenship, including proposals ...",
+   "image": null,
    "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $81,300M: round or valuation)"
+    "Affects citizenship",
+    "Announces a change"
    ],
    "tags": [
-    "IPO & Listing",
-    "AI & Deeptech"
+    "Citizenship",
+    "Austria"
    ],
    "rank": 21,
    "must_read": false
@@ -902,7 +905,7 @@
   {
    "desk": "Immigration",
    "score": 7,
-   "priority": 70,
+   "priority": 54,
    "title": "New Zealand Introduces New Online System For Graduate Work Visa Applications",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzcmNKOWV4SnE0MmZjOWdPbnBDRmNRZXNoS1pqOG1MWEVNeWM4UHQyQlNCUjQyQTYzWHpGN01meGs5aHd2dVo4YkYwenVkbW9UcFlr?oc=5",
    "date": "2026-11-26",
@@ -924,7 +927,7 @@
   {
    "desk": "Immigration",
    "score": 7,
-   "priority": 70,
+   "priority": 54,
    "title": "Iceland Revises Means-of-Support Thresholds for Immigration",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUmlaNnNtb3VMeGYxSjhUVldGaFFfOEN2c29BWEtTemE3dUNpMWlRaFM5M0JMX0x3OHVuVWYxaFdoeFlMdzdTbHBUSC1XalRDNlM4ZkxpX1A0bDROT09vSUx1WTFhUnRUak1EVXd5QjFWY2d4QnN4WVNHRHh4S2dMUWpkZF9SZw?oc=5",
    "date": "2026-11-25",
