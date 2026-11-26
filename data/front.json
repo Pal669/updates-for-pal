@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-26",
- "built": "2026-11-26 06:11 IST",
+ "built": "2026-11-26 11:01 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25350.0,
-   "change_pct": -1.75,
-   "asof": "25 Nov 15:31 IST"
+   "value": 25936.0,
+   "change_pct": 0.45,
+   "asof": "26 Nov 11:01 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 82436.0,
-   "change_pct": -1.77,
-   "asof": "25 Nov 15:32 IST"
+   "value": 84447.0,
+   "change_pct": 0.61,
+   "asof": "26 Nov 10:46 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 92.81,
-   "change_pct": -0.12,
-   "asof": "26 Nov 04:00 IST"
+   "value": 92.54,
+   "change_pct": -0.28,
+   "asof": "26 Nov 11:01 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 90.64,
-   "change_pct": -0.83,
-   "asof": "26 Nov 05:53 IST"
+   "value": 91.16,
+   "change_pct": -3.65,
+   "asof": "26 Nov 10:51 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3602.0,
-   "change_pct": 1.11,
-   "asof": "26 Nov 06:01 IST"
+   "value": 3627.0,
+   "change_pct": 2.58,
+   "asof": "26 Nov 10:51 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,8 +79,8 @@
  },
  "desks": {
   "Policy": {
-   "total": 384,
-   "new_today": 0,
+   "total": 385,
+   "new_today": 1,
    "items": [
     {
      "desk": "Policy",
@@ -143,7 +143,7 @@
   },
   "Startups": {
    "total": 1500,
-   "new_today": 0,
+   "new_today": 6,
    "items": [
     {
      "desk": "Startups",
@@ -231,8 +231,30 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 14,
+   "new_today": 21,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 7,
+     "priority": 70,
+     "title": "Belgium raises 2027 work visa salary thresholds for foreign professionals, including Indians",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU0FmRFFucXlBTG5kWkxBQUlCWkNjdnpzejJKU3Nrbk02ZllXLXAyTy1OV0JDclNkZTM1bHhWT29MOVNuUXVtN0J2Y3BBNXJTT2lUcjBsNnQ4ZmlzdTk3bVBqWGg1enZMNHZnYWlicUJOQjlBdE9FTHB3NV9qUE1tSktVYnQ4NE9UX2h6QjhyU2RoTGJVRUsxTW9aM3JGMUhXa0FuU2s3V2thdFlGb0JDTVBZcHNEUXNjVE5jenoyU1RNLXAxV21NRTFSNUROeHBQZGFIV3FwaUlvVXlocXR6azM2c3BRbDVOaGfSAe8BQVVfeXFMTjhka2p6Z0xxM2s5QmZGTlYyRV9ROXkzSFI5N18zbTRzdkNCOVJicXlSbjUtQ3FQalg3dEJEYnByTmZxUVRoRVVpZmJBY3hBNnMyR190ZXZsVnM2UjFvVUt5RG9MX1I3V0F5Tkk0T3RBek1ubzFDaV91LWRvVEJpcTBzcWVBUWdyMkxaZTVVRl9iYURUOUZhSnpiU0hNTDZxVXZlSWJSNS00TnQwS3RpWmQxZmtsaHJ0cEpRVThUcFd0TEdESk5lblFSNGdSa3UzNnRBZTN2MGV1QjBuY0JNUGg0WGRuLWlNdU92UXJGaXc?oc=5",
+     "date": "2026-11-21",
+     "source": "The Economic Times",
+     "label": "Belgium",
+     "snippet": "Belgium's Wallonia region has announced higher minimum salary requirements for foreign workers applying for work authorisations and Work Permit B from January 1, 2027. The revised thresholds apply to several categories, including highly qualified professionals, management positions, EU Blue Card holders and intra-company transferees. Empl",
+     "lead": "",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1973252,resizemode-75,msid-136049511/nri/work/belgium-raises-2027-work-visa-salary-thresholds-for-foreign-professionals-including-indians.jpg",
+     "why": [
+      "Salary threshold change",
+      "Announces a change",
+      "Mentions India or Indians"
+     ],
+     "tags": [
+      "Salary threshold",
+      "Belgium"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 7,
@@ -293,26 +315,6 @@
      "tags": [
       "Work visa",
       "Netherlands"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 60,
-     "title": "REVEALED: Switzerland's 2027 work permit quotas for non-EU nationals",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUkJ3NnlQWnJTQzdsNXc4eXR4QnRDMThiNVExZFBsUERTSlF5TWY3a0U2V3J4MDJ5LVkyZGhTb3V0ZXlyZTgtd2NPTWRpVmdrOTNJSnlTYzhNQzFhalYwNjBmLVRwRjU4UWJYM3NUZ3ZBUUFaN29PX3E5cWltYXN0RExGSjlTQTFnOW9INjFqdFphdHpJWFZlakhLekVMUDdk?oc=5",
-     "date": "2026-11-25",
-     "source": "The Local Switzerland",
-     "label": "Switzerland",
-     "snippet": "As it does each November, the Swiss government released the number of work permits it is setting aside for third-country nationals for 2027.",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Local directory Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source As it does each November, the Swiss government released the number of work permits it is setting aside for third-country nationals for 2027. At its meeting on November 25th, the Federal Council decided ...",
-     "image": null,
-     "why": [
-      "Quota or cap change"
-     ],
-     "tags": [
-      "Quota / Caps",
-      "Switzerland"
      ]
     }
    ]
@@ -410,6 +412,28 @@
  },
  "items": [
   {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 100,
+   "title": "RBI to conduct Second Overnight Variable Rate Repo (VRR) auction under LAF on November 26, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64046",
+   "date": "2026-11-26",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a second Variable Rate Repo (VRR) auction on Thursday, November 26, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "image": null,
+   "why": [
+    "Rates and liquidity",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
    "desk": "Immigration",
    "score": 10,
    "priority": 100,
@@ -423,13 +447,13 @@
    "image": "https://www.cicnews.com/wp-content/uploads/2026/11/Express-Entry-Draw-67.jpg",
    "why": [
     "Affects permanent residence",
-    "Major story (8 headlines that day)"
+    "Major story (9 headlines that day)"
    ],
    "tags": [
     "PR / Settlement",
     "Canada"
    ],
-   "rank": 1,
+   "rank": 2,
    "must_read": true
   },
   {
@@ -453,7 +477,7 @@
     "IPO & Listing",
     "Fintech"
    ],
-   "rank": 2,
+   "rank": 3,
    "must_read": true
   },
   {
@@ -477,7 +501,7 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 3,
+   "rank": 4,
    "must_read": true
   },
   {
@@ -501,7 +525,7 @@
     "Student / Graduate",
     "United Kingdom"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -524,8 +548,8 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -547,28 +571,6 @@
    ],
    "tags": [
     "Gold & Silver"
-   ],
-   "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 9,
-   "priority": 90,
-   "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on November 26, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64043",
-   "date": "2026-11-25",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Thursday, November 26, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
-   "image": null,
-   "why": [
-    "Rates and liquidity",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
    ],
    "rank": 7,
    "must_read": false
@@ -855,6 +857,28 @@
    "desk": "Immigration",
    "score": 7,
    "priority": 70,
+   "title": "New Zealand introduces 6-month job-search visa for international graduates",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORXlLMUhFdlVPb0Y1SnVnNTA4dno1QnFuZGZKc0FuRmd4SjJiendvNWZDQmpuQ3N6ZUJqc1l1VXJoZUdXYkxuLWNUY2JIZmpmdXpHb1daeDRHN2I1UHc1LWMwZ1lYaDJSLXdpcnV5UjNzb2lCOS1MVmxaSWxXOEZuWV95TWxKb3NMSDY5aXNDTGd3MXhEWURTS0RmODlkOHFVcjBDR1lUX3RTa1l3YnlLQ0pNSFlBRUJ4UFhN?oc=5",
+   "date": "2026-11-26",
+   "source": "NewsBytes",
+   "label": "New Zealand",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Announces a change"
+   ],
+   "tags": [
+    "Student / Graduate",
+    "New Zealand"
+   ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 7,
+   "priority": 70,
    "title": "Iceland Revises Means-of-Support Thresholds for Immigration",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUmlaNnNtb3VMeGYxSjhUVldGaFFfOEN2c29BWEtTemE3dUNpMWlRaFM5M0JMX0x3OHVuVWYxaFdoeFlMdzdTbHBUSC1XalRDNlM4ZkxpX1A0bDROT09vSUx1WTFhUnRUak1EVXd5QjFWY2d4QnN4WVNHRHh4S2dMUWpkZF9SZw?oc=5",
    "date": "2026-11-25",
@@ -870,30 +894,6 @@
    "tags": [
     "Salary threshold",
     "Iceland"
-   ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 70,
-   "title": "Belgium raises 2027 work visa salary thresholds for foreign professionals, including Indians",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU0FmRFFucXlBTG5kWkxBQUlCWkNjdnpzejJKU3Nrbk02ZllXLXAyTy1OV0JDclNkZTM1bHhWT29MOVNuUXVtN0J2Y3BBNXJTT2lUcjBsNnQ4ZmlzdTk3bVBqWGg1enZMNHZnYWlicUJOQjlBdE9FTHB3NV9qUE1tSktVYnQ4NE9UX2h6QjhyU2RoTGJVRUsxTW9aM3JGMUhXa0FuU2s3V2thdFlGb0JDTVBZcHNEUXNjVE5jenoyU1RNLXAxV21NRTFSNUROeHBQZGFIV3FwaUlvVXlocXR6azM2c3BRbDVOaGfSAe8BQVVfeXFMTjhka2p6Z0xxM2s5QmZGTlYyRV9ROXkzSFI5N18zbTRzdkNCOVJicXlSbjUtQ3FQalg3dEJEYnByTmZxUVRoRVVpZmJBY3hBNnMyR190ZXZsVnM2UjFvVUt5RG9MX1I3V0F5Tkk0T3RBek1ubzFDaV91LWRvVEJpcTBzcWVBUWdyMkxaZTVVRl9iYURUOUZhSnpiU0hNTDZxVXZlSWJSNS00TnQwS3RpWmQxZmtsaHJ0cEpRVThUcFd0TEdESk5lblFSNGdSa3UzNnRBZTN2MGV1QjBuY0JNUGg0WGRuLWlNdU92UXJGaXc?oc=5",
-   "date": "2026-11-21",
-   "source": "The Economic Times",
-   "label": "Belgium",
-   "snippet": "Belgium's Wallonia region has announced higher minimum salary requirements for foreign workers applying for work authorisations and Work Permit B from January 1, 2027. The revised thresholds apply to several categories, including highly qualified professionals, management positions, EU Blue Card holders and intra-company transferees. Empl",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1973252,resizemode-75,msid-136049511/nri/work/belgium-raises-2027-work-visa-salary-thresholds-for-foreign-professionals-including-indians.jpg",
-   "why": [
-    "Salary threshold change",
-    "Announces a change",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Salary threshold",
-    "Belgium"
    ],
    "rank": 21,
    "must_read": false
