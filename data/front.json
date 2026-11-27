@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-27",
- "built": "2026-11-27 10:55 IST",
+ "built": "2026-11-27 13:36 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,37 +12,37 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25748.0,
-   "change_pct": -0.53,
-   "asof": "27 Nov 10:55 IST"
+   "value": 25672.0,
+   "change_pct": -0.82,
+   "asof": "27 Nov 13:36 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 83915.0,
-   "change_pct": -0.49,
-   "asof": "27 Nov 10:40 IST"
+   "value": 83532.0,
+   "change_pct": -0.95,
+   "asof": "27 Nov 13:21 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 92.78,
-   "change_pct": 0.59,
-   "asof": "27 Nov 10:55 IST"
+   "value": 92.86,
+   "change_pct": 0.67,
+   "asof": "27 Nov 13:36 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 92.39,
-   "change_pct": -2.35,
-   "asof": "27 Nov 10:44 IST"
+   "value": 92.57,
+   "change_pct": -2.16,
+   "asof": "27 Nov 13:26 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3665.0,
-   "change_pct": 3.65,
-   "asof": "27 Nov 10:45 IST"
+   "value": 3693.0,
+   "change_pct": 4.45,
+   "asof": "27 Nov 13:26 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -79,8 +79,8 @@
  },
  "desks": {
   "Policy": {
-   "total": 394,
-   "new_today": 0,
+   "total": 395,
+   "new_today": 1,
    "items": [
     {
      "desk": "Policy",
@@ -165,8 +165,29 @@
   },
   "Startups": {
    "total": 1500,
-   "new_today": 5,
+   "new_today": 10,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 69,
+     "title": "Finnable raises Rs 405 Cr in Series C to expand multi-product lending",
+     "url": "https://yourstory.com/2026/11/finnable-raises-rs-405-crore-in-series-c-to-expand-multi-product-lending",
+     "date": "2026-11-26",
+     "source": "YourStory",
+     "label": "India · Fintech",
+     "snippet": "The Bengaluru-based lender has crossed Rs 4,600 crore in assets under management and says it made Rs 51 crore in profit after tax in the first half of FY27.",
+     "lead": "Finnable raises Rs 405 Cr in Series C to expand multi-product lending The Bengaluru-based lender has crossed Rs 4,600 crore in assets under management and says it made Rs 51 crore in profit after tax in the first half of FY27. Team YS 17665 Stories Thursday November 26, 2026 , 2 min Read Fintech company Finnable has raised Rs 405 crore in a Series C round. The new investors are Bharat Value Fund, part of the Pantomath Group, along with ...",
+     "image": "https://images.yourstory.com/cs/2/ebefb4a0b2a011edb86579ca40e04503/CopyofNewPPTTemplates-2025-11-11T101937-1762836588343.jpg",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $43M)"
+     ],
+     "tags": [
+      "Funding",
+      "Fintech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 9,
@@ -228,33 +249,12 @@
      "tags": [
       "Acquisition"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 69,
-     "title": "Urban Company Raises ₹2,500 Cr Via QIP, Draws Bids Worth Over ₹15,000 Cr",
-     "url": "https://inc42.com/buzz/urban-company-raises-%e2%82%b92500-cr-via-qip-draws-bids-worth-over-%e2%82%b915000-cr/",
-     "date": "2026-11-20",
-     "source": "Inc42",
-     "label": "India · Commerce & D2C",
-     "snippet": "Urban Company has raised ₹2,500 Cr through a QIP, issue sees over 6X demand from domestic and global institutional investors",
-     "lead": "Urban Company has raised ₹2,500 Cr through a QIP, attracting bids worth over ₹15,000 Cr from more than 60 domestic and global institutional investors. The company plans to deploy ₹600 Cr towards InstaHelp’s service professional ecosystem, alongside investments in technology, marketing, and its Native products business. Shares were allocated at ₹156 apiece, a 3.1% discount to the floor price of ₹161.03, with mutual funds accounting for ...",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/Urban-company-social-1.jpg",
-     "why": [
-      "Funding",
-      "Very large figure in headline (about $1,579M: round or valuation)"
-     ],
-     "tags": [
-      "Funding",
-      "Commerce & D2C"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 9,
+   "new_today": 16,
    "items": [
     {
      "desk": "Immigration",
@@ -647,6 +647,29 @@
    "must_read": false
   },
   {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 85,
+   "title": "Norwest Sells ₹262 Cr Stake In Amagi Through Block Deal",
+   "url": "https://inc42.com/buzz/norwest-sells-%e2%82%b9262-cr-stake-in-amagi-through-block-deal/",
+   "date": "2026-11-27",
+   "source": "Inc42",
+   "label": "India · Media, Gaming & Creators",
+   "snippet": "Norwest Venture Partners sold a partial stake in Amagi for ₹262 Cr through a block deal, with multiple institutional investors buying shares",
+   "lead": "Norwest Venture Partners sold 47.4 Lakh shares of Amagi at ₹554 apiece via a block deal, translating to a deal worth ₹262.4 Cr. The transaction marks a partial exit for Norwest, which held an 11.76% stake in September, with Aditya Birla Sun Life Mutual Fund and Old Bridge Capital buying the shares. The sale follows Amagi’s Q2 FY27 results, when net profit rose nearly 30-fold to ₹75 Cr and operating revenue grew 27% YoY to ₹476 Cr.",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/Amagi-Return-1.jpg",
+   "why": [
+    "IPO & Listing",
+    "Sizeable deal (about $28M)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Media, Gaming & Creators"
+   ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
    "desk": "Advisory",
    "score": 11,
    "priority": 85,
@@ -666,7 +689,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 11,
+   "rank": 12,
    "must_read": false
   },
   {
@@ -688,7 +711,7 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 12,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -711,7 +734,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 13,
+   "rank": 14,
    "must_read": false
   },
   {
@@ -734,7 +757,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -756,7 +779,30 @@
    "tags": [
     "Acquisition"
    ],
-   "rank": 15,
+   "rank": 16,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 75,
+   "title": "Spain raises age limit to 26 for foreign children of Spanish citizens seeking Residence Permits",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MSUN6N2dlbVp0dEp2UU1IbFFDWlJWSWd6SzNRMGFOS3o5bm1ONUkyTkFNcmVhMTJxeFhnYUIzQmloal96U2FFbE1oaHo5bUU2VURfdnVtLWowSUJiRExqTi1NckNzRC1EV0RfVEEtZDJOZWw4?oc=5",
+   "date": "2026-11-27",
+   "source": "GistReel",
+   "label": "Spain",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Quota or cap change",
+    "Announces a change"
+   ],
+   "tags": [
+    "Quota / Caps",
+    "Spain"
+   ],
+   "rank": 17,
    "must_read": false
   },
   {
@@ -780,7 +826,7 @@
     "Work visa",
     "United Kingdom"
    ],
-   "rank": 16,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -802,7 +848,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 17,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -825,7 +871,7 @@
     "Funding",
     "Fintech"
    ],
-   "rank": 18,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -848,53 +894,30 @@
     "Funding",
     "Fintech"
    ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 9,
-   "priority": 69,
-   "title": "Finnable raises Rs 405 Cr in Series C to expand multi-product lending",
-   "url": "https://yourstory.com/2026/11/finnable-raises-rs-405-crore-in-series-c-to-expand-multi-product-lending",
-   "date": "2026-11-26",
-   "source": "YourStory",
-   "label": "India · Fintech",
-   "snippet": "The Bengaluru-based lender has crossed Rs 4,600 crore in assets under management and says it made Rs 51 crore in profit after tax in the first half of FY27.",
-   "lead": "Finnable raises Rs 405 Cr in Series C to expand multi-product lending The Bengaluru-based lender has crossed Rs 4,600 crore in assets under management and says it made Rs 51 crore in profit after tax in the first half of FY27. Team YS 17665 Stories Thursday November 26, 2026 , 2 min Read Fintech company Finnable has raised Rs 405 crore in a Series C round. The new investors are Bharat Value Fund, part of the Pantomath Group, along with ...",
-   "image": "https://images.yourstory.com/cs/2/ebefb4a0b2a011edb86579ca40e04503/CopyofNewPPTTemplates-2025-11-11T101937-1762836588343.jpg",
-   "why": [
-    "Funding",
-    "Sizeable deal (about $43M)"
-   ],
-   "tags": [
-    "Funding",
-    "Fintech"
-   ],
-   "rank": 20,
+   "rank": 21,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 8,
    "priority": 67,
-   "title": "Spain raises age limit to 26 for foreign children of Spanish citizens seeking Residence Permits",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MSUN6N2dlbVp0dEp2UU1IbFFDWlJWSWd6SzNRMGFOS3o5bm1ONUkyTkFNcmVhMTJxeFhnYUIzQmloal96U2FFbE1oaHo5bUU2VURfdnVtLWowSUJiRExqTi1NckNzRC1EV0RfVEEtZDJOZWw4?oc=5",
+   "title": "New Zealand introduces 6 month graduate Work Visa: Can Indian students apply? Check eligibility",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUThBYXI0TEVKaE10RVZ2bmRBa0d2V1NGdS1CeU5pb1h6UThKUTdGUW52a1doTFdhTXRaM244U3lPNjlDTjhTNmI4bFlQOWprcGFLbWNSeVMyLTdxdEYydjNxVy1hQlYxaHNzYkV4OVE0aW5yRHp6UmZ2Ti02cllfeXp0RFEzb0RGYnlfa3haa1JXLUo0Z29RYTNFUEdheTN4MG02RXBuaG1IS3B2bHZyN0ZEWER0TGJGYi0yMGN6QTg4MnhtamxfZlQ1VUhsTUh0LXU1QVdBVzlMUXNpZkM3Z2c2ZXN3alZjdGVBV1dqNkN6Ny1BeHc?oc=5",
    "date": "2026-11-27",
-   "source": "GistReel",
-   "label": "Spain",
-   "snippet": "",
-   "lead": "",
-   "image": null,
+   "source": "Education Times",
+   "label": "New Zealand",
+   "snippet": "International students who want to work after finishing school now have a new chance in New Zealand.",
+   "lead": "International students who want to work after finishing school now have a new chance in New Zealand. New Zealand has created a six month Short Term Graduate Work Visa that lets eligible international graduates stay and work after they finish their courses. The application window for this visa opened on November 16, 2026. This option is very useful for students who have finished a qualifying course in New Zealand but do not meet the ...",
+   "image": "https://static.toiimg.com/thumb/msid-136212598,width-1280,height-720,imgsize-225178,resizemode-6,y_pad-600/photo.jpg",
    "why": [
-    "Quota or cap change",
-    "Announces a change"
+    "Announces a change",
+    "Mentions India or Indians"
    ],
    "tags": [
-    "Quota / Caps",
-    "Spain"
+    "Student / Graduate",
+    "New Zealand"
    ],
-   "rank": 21,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -916,28 +939,6 @@
    "tags": [
     "Citizenship",
     "Austria"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 58,
-   "title": "New Zealand is suspending two ways to qualify for permanent residence. Who is affected?",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONWFfcnZrczVxWUh5V2tSRk5BQ2pMaGdRdHY1OG1pOEF5STVocThTTTV1V3B6N0YtSnhfUUd5dUx3eWF1TzdIOE5oQnExTjVQMnU4aFVuOHZmU05fb1FWMWxOeFZWeUVfaWg1Ry1MQWcxclMyZnJ5SmdyMXpkNUpzdHN4MWo0bVRITGZIaDhOQUVFSmFsRk1OdENSOGJjWUc3T0hjWWFhZkhMTXhsU0ZqeUpaQlh5QTBUeDNhQ0NnWQ?oc=5",
-   "date": "2026-11-27",
-   "source": "https://awaaz.co.nz/",
-   "label": "New Zealand",
-   "snippet": "The 184-day rule stays in place, while residents relying on an investment or a business have until May 2027.",
-   "lead": "s.setAttribute('style', 'filter: brightness(0) invert(1)'));\" onmouseout=\"this.style.backgroundColor='white'; this.style.color='#333'; this.querySelectorAll('svg').forEach(s => s.removeAttribute('style'));\" > FACEBOOK s.setAttribute('style', 'filter: brightness(0) invert(1)'));\" onmouseout=\"this.style.backgroundColor='white'; this.style.color='#333'; this.querySelectorAll('svg').forEach(s => s.removeAttribute('style'));\" > TWITTER ...",
-   "image": "https://prod-awaaz-mediatech-dam-assets.s3.ap-southeast-2.amazonaws.com/552f8bcd-88bd-43d5-b598-437880e10028-social_preview_ef0be12b-ba13-48ff-a512-bcf8279d1121_1795737885475.jpg",
-   "why": [
-    "Affects permanent residence"
-   ],
-   "tags": [
-    "PR / Settlement",
-    "New Zealand"
    ],
    "rank": 23,
    "must_read": false
