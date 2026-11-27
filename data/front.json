@@ -1,6 +1,6 @@
 {
- "edition": "2026-11-27",
- "built": "2026-11-27 14:31 IST",
+ "edition": "2026-11-28",
+ "built": "2026-11-28 01:11 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,80 +12,100 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25671.0,
-   "change_pct": -0.82,
-   "asof": "27 Nov 14:31 IST"
+   "value": 25884.0,
+   "change_pct": 0.25,
+   "asof": "27 Nov 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 83596.0,
-   "change_pct": -0.87,
-   "asof": "27 Nov 14:16 IST"
+   "value": 84329.0,
+   "change_pct": 0.46,
+   "asof": "27 Nov 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 92.9,
-   "change_pct": 0.72,
-   "asof": "27 Nov 14:31 IST"
+   "value": 92.98,
+   "change_pct": 0.8,
+   "asof": "27 Nov 21:53 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 92.34,
-   "change_pct": -2.4,
-   "asof": "27 Nov 14:21 IST"
+   "value": 90.81,
+   "change_pct": -4.02,
+   "asof": "28 Nov 01:01 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3705.0,
-   "change_pct": 4.8,
-   "asof": "27 Nov 14:21 IST"
+   "value": 3668.0,
+   "change_pct": 3.75,
+   "asof": "28 Nov 01:01 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 4.85,
-   "change_pct": -1.14,
-   "asof": "26 Nov 01:29 IST"
+   "value": 4.93,
+   "change_pct": 1.77,
+   "asof": "28 Nov 00:56 IST"
   }
  ],
  "features": {
   "startup_file": {
-   "company": "Curefoods and Rebel Foods",
-   "tagline": "Cloud-kitchen and restaurant-brand operators",
-   "what": "Curefoods runs brands such as EatFit, Nomad Pizza, Sharief Bhai Biryani, CakeZone, Frozen Bottle and Krispy Kreme (India rights acquired last year), with 500+ kitchens in 70 cities. Rebel Foods runs Faasos, Behrouz Biryani, Oven Story, Sweet Truth and 20+ other brands across 10 countries.",
+   "company": "Angle Health",
+   "tagline": "US health-insurance startup for small businesses (YC winter 2020)",
+   "what": "AI-powered platform that helps small businesses choose and manage 'level-funded' health plans, integrating with payroll and HR systems. Level-funded sits between fully insured (carrier bears all risk, higher and predictable cost) and self-funded (employer bears cost, unpredictable): the business makes predictable payments, is insured against unusually high costs, and may get a share of the surplus back if claims stay low.",
    "how": [
-    "Both report 'operating revenue' from operating cloud kitchens and restaurant chains, i.e. selling food under their own brands.",
-    "The article gives no split between delivery, dine-in or other channels."
+    "The article does not say how Angle itself earns its revenue.",
+    "It says the startup serves 5,000+ businesses and is profitable."
    ],
-   "watch": "Growth is above 20% but both still lose money. Rebel is narrowing losses; Curefoods' loss grew in absolute terms.",
-   "sector": "Commerce & D2C",
-   "region": "India",
-   "url": "https://economictimes.indiatimes.com/tech/technology/curefoods-revenue-grows-23-yoy-rebel-foods-revenue-up-20/articleshow/134338278.cms"
+   "watch": "A profitable, non-'AI agent' company raising a large Series C is unusual per TechCrunch. The tender offer is liquidity for staff, not money into the company.",
+   "sector": "Fintech",
+   "region": "Global",
+   "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/"
   },
   "country": {
-   "id": "iceland",
-   "name": "Iceland",
-   "trend": "Stable (not verified in detail)",
-   "pr": "Permanent residence generally after 4 years of continuous residence; often requires completing an Icelandic language course. An expedited route exists for doctorate holders with 3 years of expert-work permits.",
-   "citizenship": "Reported timeline of about 7 years; needs PR and the official Icelandic language test. Verify with the Directorate of Immigration.",
-   "pro": "High living standards, safety and equality (general knowledge).",
-   "con": "Tiny population (about 0.38 million, general knowledge): touches your size criterion.",
-   "watch": "Any 2026 Aliens Act amendments (not checked)"
+   "id": "finland",
+   "name": "Finland",
+   "trend": "Tightening",
+   "pr": "Since 8 January 2026 you need 6 years of continuous residence (previously 4), satisfactory Finnish or Swedish, and 2 years of work experience in Finland. 4-year alternatives exist, including an EUR 40,000 taxable-income pathway and a Finnish higher-education route. Not applied to applications filed before 8 January 2026.",
+   "citizenship": "8 years of residence since 1 October 2024, plus language requirements.",
+   "pro": "High quality of life, education and safety (general knowledge).",
+   "con": "Tightening at every stage: PR 4 to 6 years, citizenship 8 years, language proficiency required.",
+   "watch": "Implementation of the 2026 rules"
   }
  },
  "desks": {
   "Policy": {
-   "total": 395,
-   "new_today": 1,
+   "total": 404,
+   "new_today": 0,
    "items": [
     {
      "desk": "Policy",
-     "score": 7,
-     "priority": 70,
+     "score": 6,
+     "priority": 60,
+     "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on November 27, 2026",
+     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64048",
+     "date": "2026-11-26",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Press Releases - Reserve Bank of India",
+     "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on November 27, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
+     "image": null,
+     "why": [
+      "Regulator: RBI",
+      "Large outlay (Rs 10,000 Cr or more)"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
+    {
+     "desk": "Policy",
+     "score": 6,
+     "priority": 60,
      "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64039",
      "date": "2026-11-25",
@@ -104,57 +124,36 @@
     },
     {
      "desk": "Policy",
-     "score": 5,
-     "priority": 50,
-     "title": "Simplification of client on-boarding and rationalisation of risk management framework at KYC Registration Agencies",
-     "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/simplification-of-client-on-boarding-and-rationalisation-of-risk-management-framework-at-kyc-registration-agencies_105839.html",
-     "date": "2026-11-25",
-     "source": "SEBI",
-     "label": "Markets & Regulation",
-     "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+     "score": 4,
+     "priority": 40,
+     "title": "Reserve Bank of India (White Label ATM Operators) Directions, 2026",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13762&Mode=0",
+     "date": "2026-11-27",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Notifications - Reserve Bank of India",
      "lead": "",
      "image": null,
      "why": [
-      "Touches financial markets",
-      "Regulator: SEBI"
+      "Regulator: RBI"
      ],
      "tags": [
-      "Markets & Regulation"
+      "Banking & Rates"
      ]
     },
     {
      "desk": "Policy",
      "score": 4,
      "priority": 40,
-     "title": "Telecom Regulatory Authority of India releases findings of Independent Drive Test conducted across city route of Una, Mandi, Joginder Nagar and highway route of Una to Mandi and Mandi to Una under HP LSA, during the month of September 2026",
-     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341750",
-     "date": "2026-11-26",
-     "source": "PIB",
-     "label": "Infrastructure & Transport",
-     "snippet": "The Telecom Regulatory Authority of India (TRAI) has released findings of Independent Drive Test (IDT) conducted across city route of Una, Mandi, Joginder Nagar and highway route of Una to Mandi and M",
-     "lead": "Ministry of Communications Telecom Regulatory Authority of India releases findings of Independent Drive Test conducted across city route of Una, Mandi, Joginder Nagar and highway route of Una to Mandi and Mandi to Una under HP LSA, during the month of September 2026 Posted On: 26 NOV 2026 12:26PM by PIB Delhi The Telecom Regulatory Authority of India (TRAI) has released findings of Independent Drive Test (IDT) conducted across city ...",
-     "image": null,
-     "why": [
-      "Rule change"
-     ],
-     "tags": [
-      "Infrastructure & Transport"
-     ]
-    },
-    {
-     "desk": "Policy",
-     "score": 4,
-     "priority": 40,
-     "title": "RBI releases 2026 list of Domestic Systemically Important Banks (D-SIBs)",
-     "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64025",
-     "date": "2026-11-23",
+     "title": "Reserve Bank of India (Cash Withdrawal Transactions through Automated Teller Machines and Point of Sale Terminals) Directions, 2026",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13761&Mode=0",
+     "date": "2026-11-27",
      "source": "RBI",
      "label": "Banking & Rates",
-     "snippet": "Press Releases - Reserve Bank of India",
-     "lead": "State Bank of India, HDFC Bank, and ICICI Bank continue to be identified as Domestic Systemically Important Banks (D-SIBs) under the same bucketing structure as in the 2025 list of D-SIBs . The additional Common Equity Tier 1 (CET1) requirement for these D-SIBs will be in addition to the capital conservation buffer. The Reserve Bank had issued the Framework for dealing with Domestic Systemically Important Banks (D-SIBs) on July 22, ...",
+     "snippet": "Notifications - Reserve Bank of India",
+     "lead": "",
      "image": null,
      "why": [
-      "Rule change",
       "Regulator: RBI"
      ],
      "tags": [
@@ -165,12 +164,73 @@
   },
   "Startups": {
    "total": 1500,
-   "new_today": 10,
+   "new_today": 0,
    "items": [
     {
      "desk": "Startups",
-     "score": 9,
-     "priority": 69,
+     "score": 8,
+     "priority": 57,
+     "title": "FirstCry Halves Stake Sale To ₹150 Cr In Swara Baby IPO",
+     "url": "https://inc42.com/buzz/firstcry-halves-stake-sale-to-%e2%82%b9150-cr-in-swara-baby-ipo/",
+     "date": "2026-11-27",
+     "source": "Inc42",
+     "label": "India · Other",
+     "snippet": "FirstCry initially acquired a stake in Swara Baby Products in 2020 and shored up its stake to 76.6% over the years",
+     "lead": "FirstCry parent Brainbees Solutions has halved its proposed stake sale in Swara Baby Products to ₹150 Cr as the diaper maker trims its IPO size to ₹800 Cr from ₹1,000 Cr. The revised IPO structure reduces the OFS component to ₹300 Cr, while retaining the ₹500 Cr fresh issue. Swara Baby's IPO will open on December 2, with a price band of ₹105–111 per share.",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2022/11/paytm-delhivery-stocks-BSE-social.png",
+     "why": [
+      "IPO & Listing"
+     ],
+     "tags": [
+      "IPO & Listing"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 8,
+     "priority": 57,
+     "title": "Capri Global raises $30M in bonds from BlueOrchard Microfinance",
+     "url": "https://yourstory.com/2026/11/capri-global-raises-30-million-in-bonds-from-blueorchard-microfinance",
+     "date": "2026-11-26",
+     "source": "YourStory",
+     "label": "India · Fintech",
+     "snippet": "The fundraise will support Capri Global's MSME lending business and expand access to credit for businesses across India.",
+     "lead": "Capri Global raises $30M in bonds from BlueOrchard Microfinance The fundraise will support Capri Global's MSME lending business and expand access to credit for businesses across India. Team YS 17669 Stories Thursday November 26, 2026 , 2 min Read Capri Global Capital Limited, a retail-focused non-banking financial company (NBFC), has raised $30 million from the BlueOrchard Microfinance Fund, managed by impact investment firm ...",
+     "image": "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Imagexayf-1790744100143.jpg",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $30M)"
+     ],
+     "tags": [
+      "Funding",
+      "Fintech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 8,
+     "priority": 57,
+     "title": "Finnable Nets ₹405 Cr To Scale Digital Lending Business",
+     "url": "https://inc42.com/buzz/finnable-nets-%e2%82%b9405-cr-to-scale-digital-lending-business/",
+     "date": "2026-11-26",
+     "source": "Inc42",
+     "label": "India · Fintech",
+     "snippet": "Finnable has raised ₹405 Cr ($43.8 Mn) in a Series C funding round led by Bharat Value Fund (BVF), which invested ₹150 Cr in the startup",
+     "lead": "Finnable has raised ₹405 Cr ($43.8 Mn) in a Series C funding round led by Bharat Value Fund (BVF), which invested ₹150 Cr in the startup Finnable ill deploy the fresh capital to expand its lending portfolio, strengthen its tech stack and forge new partnerships across the lending ecosystem The round also saw participation from Pratithi Investments and NK Squared, along with existing investors TVS Capital and MEMG Family Office",
+     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/stakcbox-funding-featured-1-1-1-1.jpg",
+     "why": [
+      "Funding",
+      "Sizeable deal (about $43M)"
+     ],
+     "tags": [
+      "Funding",
+      "Fintech"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 8,
+     "priority": 57,
      "title": "Finnable raises Rs 405 Cr in Series C to expand multi-product lending",
      "url": "https://yourstory.com/2026/11/finnable-raises-rs-405-crore-in-series-c-to-expand-multi-product-lending",
      "date": "2026-11-26",
@@ -187,99 +247,59 @@
       "Funding",
       "Fintech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 69,
-     "title": "Lok Capital Announces First Close Of Fund V At $130 Mn",
-     "url": "https://inc42.com/buzz/lok-capital-announces-first-close-of-fund-v-at-130-mn/",
-     "date": "2026-11-25",
-     "source": "Inc42",
-     "label": "India · Media, Gaming & Creators",
-     "snippet": "The investor aims to invest in 10-12 growth-stage companies focused on financial inclusion and climate and sustainability.",
-     "lead": "Lok Capital has raised over $130 Mn in the first close of its Fund V which is targeting a $200-250 Mn corpus The investor aims to invest in 10-12 growth-stage companies focused on financial inclusion and climate and sustainability The International Finance Corporation, European Investment Bank, and FMO have proposed investing in the fund",
-     "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/neogeo-funding-social-.jpg",
-     "why": [
-      "Funding",
-      "Large deal (about $130M)"
-     ],
-     "tags": [
-      "Funding",
-      "Media, Gaming & Creators"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 69,
-     "title": "Why CrowdStrike is spending $44 billion to acquire cloud security platform Zscaler",
-     "url": "https://www.medianama.com/2026/11/223-crowdstrike-acquire-cloud-zscaler/",
-     "date": "2026-11-24",
-     "source": "MediaNama",
-     "label": "Global · AI & Deeptech",
-     "snippet": "Why is CrowdStrike acquiring Zscaler for $43.9 billion, and how does the deal advance its ambitions in AI and cybersecurity?",
-     "lead": "Cybersecurity firm CrowdStrike announced on Monday, November 23, that it had entered into a definitive agreement to acquire cloud security platform Zscaler in an all-stock deal worth $43.9 billion. This exceeds the $32 billion Google agreed to pay for Wiz in March last year and makes it the largest acquisition in the cybersecurity industry to date. In filings with the US Securities and Exchange Commission (SEC), CrowdStrike said the ...",
-     "image": null,
-     "why": [
-      "Acquisition",
-      "Very large figure in headline (about $44,000M: round or valuation)"
-     ],
-     "tags": [
-      "Acquisition",
-      "AI & Deeptech"
-     ]
-    },
-    {
-     "desk": "Startups",
-     "score": 9,
-     "priority": 69,
-     "title": "Bending Spoons buys Mailchimp for $3.68B",
-     "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-     "date": "2026-11-20",
-     "source": "TechCrunch",
-     "label": "Global · Other",
-     "snippet": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
-     "lead": "Bending Spoons buys Mailchimp for $3.68B Russell Brandom 8:16 AM PST · November 20, 2026 Bending Spoons has bought up another distressed internet company. This time, it’s the email marketing firm Mailchimp, bought for $3.68 billion from the tax-preparation giant Intuit. Intuit acquired the company in 2021 for roughly $12 billion, so it’s taking quite a loss — and, perhaps, Bending Spoons is getting quite a bargain. At the time of the ...",
-     "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150300479.jpg?resize=1200,800",
-     "why": [
-      "Acquisition",
-      "Very large figure in headline (about $3,680M: round or valuation)"
-     ],
-     "tags": [
-      "Acquisition"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 19,
+   "new_today": 0,
    "items": [
     {
      "desk": "Immigration",
      "score": 7,
-     "priority": 58,
-     "title": "What are Norway's current waiting times for residence permits and citizenship?",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNenJVck9ldi1ocDg3Ti1mX0dMVTRmdF9OWGZGeUc5TUwxeW1rdUMtcU1wcXN4MXAwUl8wcjdWR3k3b20tV3pYeTh0M3owYlVZRnJCV1FGTG1tS2tnR25ocGUxNHhhUk4wVzRDS2ZvVmdBbEpCazRRalhXZ1kwb1RUbnZEZ1d6WThmbU5GM1VUX0ticVNTODNjU1FxV25zSldoNGk4d0dZUWg3ZHMyNFE?oc=5",
-     "date": "2026-11-26",
-     "source": "The Local Norway",
-     "label": "Norway",
-     "snippet": "Are you waiting for an answer on a permit to move to Norway or regularise your stay? New figures will give you an idea of how much longer you can expect to wait.",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Are you waiting for an answer on a permit to move to Norway or regularise your stay? New figures will give you an idea of how much longer you can expect to wait. The Norwegian Directorate of Immigration (UDI) ...",
-     "image": null,
+     "priority": 64,
+     "title": "Switzerland: Unchanged Quotas in 2027",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMVF1elQxckk0bHo2UjgxTzhTZUx0SW5hTE1ONEt0azVuZUpUZ2N6WEFMTDE3ajFLUHBadXVJeXZ6dFpiZXlCXzBVRnl3MEc3ZmpYZ3ROVHhKSTcwY3hMQXQxOFFkNmxyRHp2M1g4RjNqN3ROU1NGUGI0UEd2T3c3Uw?oc=5",
+     "date": "2026-11-27",
+     "source": "Fragomen",
+     "label": "Switzerland",
+     "snippet": "In 2027, Switzerland will retain the same work permit quotas for European Union (EU)/European Free Trade Association (EFTA) nationals on assignment, UK nationals, and non-EU/EFTA nationals as in 2026, 2025 and 2024. Quota figures will be as follows:    \n\nEU/ EFTA nationals on assignment: 3,000 short-term L permits and 500 long-term B perm",
+     "lead": "In 2027, Switzerland will retain the same work permit quotas for European Union (EU)/European Free Trade Association (EFTA) nationals on assignment, UK nationals, and non-EU/EFTA nationals as in 2026, 2025 and 2024. Quota figures will be as follows: Despite the recent trend of these specific quota spots not being fully exhausted, employers are nonetheless advised to submit work permit applications early to avoid rejections due to the ...",
+     "image": "https://www.fragomen.com/a/web/6neDND2DvH5cq9pLmAp2Ht/9PCium/open-graph-main-2025.jpg",
      "why": [
-      "Affects citizenship"
+      "Quota or cap change",
+      "Announces a change"
      ],
      "tags": [
-      "Citizenship",
-      "Norway"
+      "Quota / Caps",
+      "Switzerland"
      ]
     },
     {
      "desk": "Immigration",
      "score": 7,
-     "priority": 58,
+     "priority": 64,
+     "title": "How Can Indians Get a Work Visa for France in 2026",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGQxQ3ZwUktvNWZxWXVtRW9PcTlWencxXzQ5X3ZoTWpXVzV2WXF6VXdJdzZyaDJwNWc3TldITGJxclZ3dzZkRWlLZVlHQTg3SHFsNzZVQk9NWkJfejNqSDBtMFdtYk5jdzFpS3NZRjF5SExxVGk1UzEyMko1WlpUaDdpczV6RnYxcFhfa3o0UQ?oc=5",
+     "date": "2026-11-27",
+     "source": "openPR.com",
+     "label": "France",
+     "snippet": "",
+     "lead": "",
+     "image": null,
+     "why": [
+      "Affects work visas",
+      "Mentions India or Indians"
+     ],
+     "tags": [
+      "Work visa",
+      "France"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 7,
+     "priority": 64,
      "title": "Belgium raises 2027 work visa salary thresholds for foreign professionals, including Indians",
      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU0FmRFFucXlBTG5kWkxBQUlCWkNjdnpzejJKU3Nrbk02ZllXLXAyTy1OV0JDclNkZTM1bHhWT29MOVNuUXVtN0J2Y3BBNXJTT2lUcjBsNnQ4ZmlzdTk3bVBqWGg1enZMNHZnYWlicUJOQjlBdE9FTHB3NV9qUE1tSktVYnQ4NE9UX2h6QjhyU2RoTGJVRUsxTW9aM3JGMUhXa0FuU2s3V2thdFlGb0JDTVBZcHNEUXNjVE5jenoyU1RNLXAxV21NRTFSNUROeHBQZGFIV3FwaUlvVXlocXR6azM2c3BRbDVOaGfSAe8BQVVfeXFMTjhka2p6Z0xxM2s5QmZGTlYyRV9ROXkzSFI5N18zbTRzdkNCOVJicXlSbjUtQ3FQalg3dEJEYnByTmZxUVRoRVVpZmJBY3hBNnMyR190ZXZsVnM2UjFvVUt5RG9MX1I3V0F5Tkk0T3RBek1ubzFDaV91LWRvVEJpcTBzcWVBUWdyMkxaZTVVRl9iYURUOUZhSnpiU0hNTDZxVXZlSWJSNS00TnQwS3RpWmQxZmtsaHJ0cEpRVThUcFd0TEdESk5lblFSNGdSa3UzNnRBZTN2MGV1QjBuY0JNUGg0WGRuLWlNdU92UXJGaXc?oc=5",
      "date": "2026-11-21",
@@ -300,77 +320,34 @@
     },
     {
      "desk": "Immigration",
-     "score": 7,
-     "priority": 58,
-     "title": "Japan tightens permanent residency rules with language, integration checks",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWFlDbDgweEJvSEh3UkdRWDFpUjNwdk0zeFhFbW1OcG9qUFI3aFNyVjJ3dUZQTlhtdEREMXF6T1NBMFZZX09jMFBpelUxaXBGckxzbWJSNFI4UVhmUHRTT3ZMZGJXMlQ3OEQyRjg3VjIwN0N5WklRV3dFc2F1UFloMVNyYkZzMUstTjMydDhDejJlZ2dsaTdhLVp3?oc=5",
-     "date": "2026-11-20",
-     "source": "Punch Newspapers",
-     "label": "Japan",
-     "snippet": "Japan permanent residency rules will require B1 Japanese and a test of applicants' grasp of laws and social systems, with five exempt categories.",
-     "lead": "Add us to your Preferred Sources Japan tightens permanent residency rules with language, integration checks News November 20, 2026 9:39 am Japanese flag. Credit: Engoo | website Japan is introducing stricter requirements for foreign nationals seeking permanent residency, including a Japanese language proficiency standard of B1 or higher and an assessment of applicants’ understanding of the country’s laws, rules and social systems. As ...",
-     "image": "https://punchng.com/wp-content/uploads/2026/07/2YV6x0W21XFcAYvPbkO5qG_1785227963.webp",
+     "score": 6,
+     "priority": 55,
+     "title": "What are Norway's current waiting times for residence permits and citizenship?",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNenJVck9ldi1ocDg3Ti1mX0dMVTRmdF9OWGZGeUc5TUwxeW1rdUMtcU1wcXN4MXAwUl8wcjdWR3k3b20tV3pYeTh0M3owYlVZRnJCV1FGTG1tS2tnR25ocGUxNHhhUk4wVzRDS2ZvVmdBbEpCazRRalhXZ1kwb1RUbnZEZ1d6WThmbU5GM1VUX0ticVNTODNjU1FxV25zSldoNGk4d0dZUWg3ZHMyNFE?oc=5",
+     "date": "2026-11-26",
+     "source": "The Local Norway",
+     "label": "Norway",
+     "snippet": "Are you waiting for an answer on a permit to move to Norway or regularise your stay? New figures will give you an idea of how much longer you can expect to wait.",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Are you waiting for an answer on a permit to move to Norway or regularise your stay? New figures will give you an idea of how much longer you can expect to wait. The Norwegian Directorate of Immigration (UDI) ...",
+     "image": null,
      "why": [
-      "Affects permanent residence",
-      "Announces a change"
+      "Affects citizenship"
      ],
      "tags": [
-      "PR / Settlement",
-      "Japan"
+      "Citizenship",
+      "Norway"
      ]
     }
    ]
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 15,
+   "new_today": 0,
    "items": [
     {
      "desk": "Advisory",
      "score": 10,
-     "priority": 77,
-     "title": "West Asia conflict has generated a relatively stronger oil price shock, larger rupee depreciation, surge in price of gold: RBI Study",
-     "url": "https://www.thehindubusinessline.com/money-and-banking/west-asia-conflicthas-generated-a-relatively-stronger-oil-price-shock-larger-rupee-depreciation-surgein-price-of-gold-rbi-study/article71746541.ece",
-     "date": "2026-11-26",
-     "source": "BusinessLine",
-     "label": "Gold & Silver",
-     "snippet": "RBI study shows West Asia conflict triggers stronger oil price shocks, rupee depreciation, and surging gold prices, broadening imported inflation versus the Russia-Ukraine episode.",
-     "lead": "' blCenterIconDiv.innerHTML = spanSvg blLoaderDiv.appendChild(blCenterLoadDiv) blLoaderDiv.appendChild(blCenterIconDiv) divInner.appendChild(blLoaderDiv) div.appendChild(divInner) var bodyIntravel = setInterval(() => { if(window.document.body) { clearInterval(bodyIntravel) window.document.body.insertBefore(div, window.document.body.firstChild) } }, 100) function addStyle(styles) { var css = document.createElement('style'); css.type = ...",
-     "image": "https://bl-i.thgim.com/public/incoming/jtkke2/article71746718.ece/alternates/LANDSCAPE_1200/IMG_PO01_Gold_silver_oil_2_1_HAFH12H0.jpg",
-     "why": [
-      "Regulator: SEBI or RBI",
-      "Precious metals",
-      "Sharp market move"
-     ],
-     "tags": [
-      "Gold & Silver"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 10,
-     "priority": 77,
-     "title": "Opening multiple demat or mutual fund accounts? SEBI simplifies KYC norms: 8 key changes for investors from 24 December",
-     "url": "https://www.livemint.com/money/personal-finance/opening-multiple-demat-or-mutual-fund-accounts-sebi-simplifies-kyc-norms-8-key-changes-for-investors-from-24-december-11795659284549.html",
-     "date": "2026-11-26",
-     "source": "Mint",
-     "label": "Mutual Funds",
-     "snippet": "SEBI has announced eight changes to simplify the KYC process for investors opening demat, trading and mutual fund accounts with multiple intermediaries. The new rules will reduce paperwork and avoid repeated verification. Here's what changes from 24 December.",
-     "lead": "Opening demat or mutual fund accounts? SEBI simplifies KYC norms; 8 key changes for investors from 24 December. (AI-generated image for representational purposes only) AI Quick Read Opening a demat, trading or mutual fund account could become simpler as the Securities and Exchange Board of India ( SEBI ) has announced eight changes to the Know Your Customer (KYC) process. The changes will reduce repeated documentation, make KYC records ...",
-     "image": null,
-     "why": [
-      "Regulator: SEBI or RBI",
-      "Rule or framework change",
-      "Also covered by 1 other outlet(s)"
-     ],
-     "tags": [
-      "Mutual Funds"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 10,
-     "priority": 77,
+     "priority": 83,
      "title": "Private credit funds seek distinct status from Sebi under AIF framework",
      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZHltNWNyM21MYVRCOTNHSjFMQlR0bmlNY2dlRVhyZjFWMTBpbnk1MjZLMUgwUmN2Ri1hZ0hvMTBjdDVnSVpibVBFVlFTQmFsSzBkNi0xMWdFeWhFdWFGVWpsY1hfOEs1cE5GaUdnSUxjUXVyYnMwaDQ2eXJ5eXpqMzFYTHRvOGtqbEh5NW81TkZqcVJMQUw4UjBlUk1mcWVpZVk1cWxySVZPYUtVdHYzWWdvcjJuQ0dZTjJiLUQ3MU92ZXJoOGlscVNmMy0xckNJalFmbtIB2gFBVV95cUxOMFgwbHE4V05HTU5LTUpQM2Y3U2dycU41dHNOUWw1YW12Q2VqY0ZpSkJfTFI1dm5CdDROczBrcVJWb1d0VU85NEk4VUJ6U2hGbUxqSHowU3F1cEdUZElCcEFpd1Q1WmY2Q2pRMFdhNGEtMmRDSjZYbXR5ZlYxWG12NlZtdXlRNXdsWGlZXzE0cHlRcFhkdzFLNDNTZFpEZk9BdE1obUNzZHFxS3pxYnVESzhPSjAwcDZ2MGVjZ2FzeHJxVWZqM0c0TURwYW9pTzBxbVJEY2tkY21EZw?oc=5",
      "date": "2026-11-24",
@@ -392,7 +369,49 @@
     {
      "desk": "Advisory",
      "score": 9,
-     "priority": 69,
+     "priority": 75,
+     "title": "West Asia conflict has generated a relatively stronger oil price shock, larger rupee depreciation, surge in price of gold: RBI Study",
+     "url": "https://www.thehindubusinessline.com/money-and-banking/west-asia-conflicthas-generated-a-relatively-stronger-oil-price-shock-larger-rupee-depreciation-surgein-price-of-gold-rbi-study/article71746541.ece",
+     "date": "2026-11-26",
+     "source": "BusinessLine",
+     "label": "Gold & Silver",
+     "snippet": "RBI study shows West Asia conflict triggers stronger oil price shocks, rupee depreciation, and surging gold prices, broadening imported inflation versus the Russia-Ukraine episode.",
+     "lead": "' blCenterIconDiv.innerHTML = spanSvg blLoaderDiv.appendChild(blCenterLoadDiv) blLoaderDiv.appendChild(blCenterIconDiv) divInner.appendChild(blLoaderDiv) div.appendChild(divInner) var bodyIntravel = setInterval(() => { if(window.document.body) { clearInterval(bodyIntravel) window.document.body.insertBefore(div, window.document.body.firstChild) } }, 100) function addStyle(styles) { var css = document.createElement('style'); css.type = ...",
+     "image": "https://bl-i.thgim.com/public/incoming/jtkke2/article71746718.ece/alternates/LANDSCAPE_1200/IMG_PO01_Gold_silver_oil_2_1_HAFH12H0.jpg",
+     "why": [
+      "Regulator: SEBI or RBI",
+      "Precious metals",
+      "Sharp market move"
+     ],
+     "tags": [
+      "Gold & Silver"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 9,
+     "priority": 75,
+     "title": "Opening multiple demat or mutual fund accounts? SEBI simplifies KYC norms: 8 key changes for investors from 24 December",
+     "url": "https://www.livemint.com/money/personal-finance/opening-multiple-demat-or-mutual-fund-accounts-sebi-simplifies-kyc-norms-8-key-changes-for-investors-from-24-december-11795659284549.html",
+     "date": "2026-11-26",
+     "source": "Mint",
+     "label": "Mutual Funds",
+     "snippet": "SEBI has announced eight changes to simplify the KYC process for investors opening demat, trading and mutual fund accounts with multiple intermediaries. The new rules will reduce paperwork and avoid repeated verification. Here's what changes from 24 December.",
+     "lead": "Opening demat or mutual fund accounts? SEBI simplifies KYC norms; 8 key changes for investors from 24 December. (AI-generated image for representational purposes only) AI Quick Read Opening a demat, trading or mutual fund account could become simpler as the Securities and Exchange Board of India ( SEBI ) has announced eight changes to the Know Your Customer (KYC) process. The changes will reduce repeated documentation, make KYC records ...",
+     "image": null,
+     "why": [
+      "Regulator: SEBI or RBI",
+      "Rule or framework change",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "Mutual Funds"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 8,
+     "priority": 67,
      "title": "First Trust’s Fed Forecast: Interest Rate Hikes in 2027 May Fall Short of Expectations",
      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQWE5WVFFYXJEOUU1S3hUSDJwYzR3b2ZQdjlmdkx2Z0VKaWludF9NanZnVjkyNFdjVVdhN1pwMWZoX1RaOWQtRXRNWUNVbEsyX3NnQmV1OXJTYkduemNFYTFHZ0drOG04RXlCckJPZDNseURwNG1icjJsbTNqMmRkbnh0WDUyMHFXSE5EcTllMmdEZXdIRHRuaTVRazZQajhjczBHQ093amRMRFhtVEl1TXNMM1lSTDg?oc=5",
      "date": "2026-11-27",
@@ -414,8 +433,78 @@
  },
  "items": [
   {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 100,
+   "title": "Reserve Bank of India (Payment Banks - Know Your Customer) Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13768&Mode=0",
+   "date": "2026-11-27",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Notifications - Reserve Bank of India",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 1,
+   "must_read": true
+  },
+  {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 100,
+   "title": "RBI Issues Amendment Directions on ‘Suspected Money Mule Accounts to Prevent Cyber-enabled Financial Frauds’",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64062",
+   "date": "2026-11-27",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "The Reserve Bank had issued the draft Reserve Bank of India (Know Your Customer) Amendment Directions, 2026 on September 11, 2026, for seeking feedback from stakeholders. The draft Amendment Directions proposed a Standard Operating Procedure (SOP) laying down a uniform, time-bound procedure for banks to suo moto place temporary debit holds on amounts or accounts suspected to be linked to money mule activity and cyber-enabled financial ...",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Rule change",
+    "Regulator: RBI"
+   ],
+   "tags": [
+    "Banking & Rates"
+   ],
+   "rank": 2,
+   "must_read": true
+  },
+  {
+   "desk": "Startups",
+   "score": 14,
+   "priority": 100,
+   "title": "Haleon In Talks To Acquire Controlling Stake In HealthKart At $1.4 Bn Valuation: Report",
+   "url": "https://inc42.com/buzz/haleon-in-talks-to-acquire-controlling-stake-in-healthkart-at-1-4-bn-valuation-report/",
+   "date": "2026-11-27",
+   "source": "Inc42",
+   "label": "India · Health & Wellness",
+   "snippet": "Haleon is reportedly in talks to acquire a controlling stake in HealthKart at a $1.4 Bn valuation, as the nutrition startup weighs an IPO.",
+   "lead": "UK-based consumer healthcare major Haleon is reportedly in early talks to acquire a controlling stake in HealthKart at a valuation of $1.2 Bn to $1.4 Bn A deal would give Haleon control of nutrition brands including MuscleBlaze, HK Vitals, and Gritzo, alongside HealthKart’s online marketplace and offline retail network HealthKart is also exploring an IPO through a dual-track process. A complete sale is under consideration, with the ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2024/04/healthkart.png",
+   "why": [
+    "Acquisition",
+    "Very large figure in headline (about $1,400M: round or valuation)",
+    "Valuation, listing or profitability signal"
+   ],
+   "tags": [
+    "Acquisition",
+    "Health & Wellness"
+   ],
+   "rank": 3,
+   "must_read": true
+  },
+  {
    "desk": "Immigration",
-   "score": 12,
+   "score": 11,
    "priority": 100,
    "title": "Canada updates visa processing times; cuts Indian work permit processing time to 9 weeks, but visitor visa",
    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNVUw3d3VnTEJEclljR095bmVpdzdYaE93LVFkWmZiWngxampna3ZzdTZibkNxU21fQk9OcDdIQnUwOW42RmJfcVIzN0Z6UVgxb0Q4dWlqbzdtV0VQWkdrR2VIck5IN3dSQmZtTlNxeDdHOEsyeXNRVW91N2hqeDJVTm9BemJKc3dTdzk0OUJXbzQxRVQ5RXd5LW9DLUNhTHdGUGJSRlJGeGNIMEFrUk5JVzNDZGRsVjF0Q2NURnNkdTQ5bXpJSlpNOFQzWGpFMXhIRjY1a1BNc2FOMzlERjBRbzNXb1piYmRuOU4zVV9DLTgtRV82VW1ESHpQM1E2S0tiZzRSd2ZUZUJKWVpneldQbXZBYnpXWUnSAZwCQVVfeXFMT3ppeXRSTHJJVll2ZTB0alM5ZWxJbDdTbklRV1pNdUlLMXZNemNYRWVjNktTRUdkdlBCVWU3RnRfc1RwX3doMTBIc2tNNjlPWlNDTVgyRllzZUstcDhaZEwxRk1MZGREdDZ1cEpFWHdqNnpadWtJMUN5MlJwZ1Z4WjB4VFprWGZKUmlxRFl3SURUOVh5czVnZXFLNlBqdkM2VGZNbV9rYVFpRVJUM2VBbUlrRjNxc3QtcWNTUkNjMGh5Vkoxa1JUWEtXQ2V3S2NSbGxPb2pqOXZxLVlNbHh3Rm5INWY2bGhBS1VTUXI3OEVXckY4UDFIdFJUV0RUNUhQck5sZ1MteTh3T1JPY3M5V0pOY2pLM0IzMHhYUlM?oc=5",
@@ -435,36 +524,12 @@
     "Work visa",
     "Canada"
    ],
-   "rank": 1,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 13,
-   "priority": 100,
-   "title": "PhonePe Revives IPO Plans, Eyes March 2027 Listing At Up To $15 Bn Valuation",
-   "url": "https://inc42.com/buzz/phonepe-revives-ipo-plans-eyes-march-2027-listing-at-up-to-15-bn-valuation/",
-   "date": "2026-11-25",
-   "source": "Inc42",
-   "label": "India · Fintech",
-   "snippet": "PhonePe has restarted talks with investment bankers for a March 2027 listing, targeting a $12 Bn to $15 Bn valuation and an IPO of up to ₹12,000 Cr.",
-   "lead": "The Bengaluru-based company plans to file updated IPO papers by December-end for an offer for sale of up to ₹12,000 Cr ($1.3 Bn). Notably, PhonePe was valued at $14.5 Bn during General Atlantic’s $600 Mn secondary investment in 2025. Sources said PhonePe expects greater clarity by December-end on two regulatory issues affecting the company’s business – the merchant discount rate (MDR) framework for UPI transactions and the 30% ...",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/phonepe-outage-social-.png",
-   "why": [
-    "IPO & Listing",
-    "Very large figure in headline (about $15,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Fintech"
-   ],
-   "rank": 2,
+   "rank": 4,
    "must_read": true
   },
   {
    "desk": "Advisory",
-   "score": 13,
+   "score": 12,
    "priority": 100,
    "title": "Fed's monetary policy signals linked to rupee depreciation, higher bond yields, according to RBI...",
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOc2Z5Vi1hSW5pLVhaXy1FVE1PMFN6T3BMcEpkUkdJekd5ZUJKbUZNSlFJSHQta1hTTEJiVVJUdW5uYkhsQzBNVmJQTTFMSVNSbi1UVGFWWkhvY1lfcmNnMk5zZFJfdzN5R0NMcjhPRW9CYi0yV1NzLWpMcHRDREp1X2hlV1VFM0RGaFpPWktEQmhMSGJablJtU0E4LWplT2hnZE0yOXlXX2R1VFg4eEVnX0NQU194WXd1SDVIWUdSWGozYXAzVW16MFVzWnRCU3NXbFpscnVkeDE3SHFxdzZFTmNfRnAyVlg4ZVppaDE1QzhVZ3ZOWEHSAfsBQVVfeXFMUEdsTXgxdHZTRE1mdS1lZk04R2NkWUFxTlRvTHR2N25GbzdMQk44TDRzWWk5TVVCdDdtal9ncE10empHLWlRNTdtel8ydkROMHgzZ3Vld2NBRlJ3TG5ON2p2OVlkUnV6UFhIdVhIRmYtMXlfX0M0RTZONFFzTUltMW1PMHZva0lOZnJPZFZndWh5Z3JTNHVnUlBkWkozbXVheHlsalZlQnA1UHk3N3J1MExucFlNQ3RQcU5ZTHZpdEdMVWJwV2JHNThXOFNSREE0Z2lRYWNlVDhLVFpzRVVtN080aVFxTkdxRGRWcGc3OG9VWV9acEVmeVd3UFE?oc=5",
@@ -483,58 +548,36 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 3,
-   "must_read": true
-  },
-  {
-   "desk": "Policy",
-   "score": 10,
-   "priority": 100,
-   "title": "Reserve Bank issues Foreign Exchange Management (Export and Import of Goods and Services) (Second Amendment) Regulations, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64009",
-   "date": "2026-11-20",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "The Foreign Exchange Management (Export of Goods and Services) Regulations, 2015 were superseded by the Foreign Exchange Management (Export and Import of Goods and Services) Regulations, 2026, which were issued on January 13, 2026 , and became effective from October 01, 2026. The new regulations are principle based; intended to promote ease of doing business, especially for small exporters and importers; and empower Authorised Dealers ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 4,
-   "must_read": true
-  },
-  {
-   "desk": "Startups",
-   "score": 12,
-   "priority": 92,
-   "title": "ElevenLabs in talks to raise funding at $33bn valuation, reports say",
-   "url": "https://sifted.eu/articles/elevenlabs-funding-round-raise-33-bn-latest/",
-   "date": "2026-11-26",
-   "source": "Sifted",
-   "label": "Global · Other",
-   "snippet": "The AI voice startup is reportedly set to kick off fundraising efforts in first quarter of 2027.",
-   "lead": "AI voice startup ElevenLabs is in early talks with investors about a new funding round that could value the company at $33bn — three times the valuation it secured at the beginning of the year.",
-   "image": "https://images.sifted.eu/cdn-cgi/image/width=975,quality=75,fit=cover,format=auto/wp-content/uploads/2026/02/04150650/251222_Eleven-Labs3655-v1-1-e1770217781484.jpg",
-   "why": [
-    "Funding",
-    "Very large figure in headline (about $33,000M: round or valuation)",
-    "Valuation, listing or profitability signal"
-   ],
-   "tags": [
-    "Funding"
-   ],
    "rank": 5,
    "must_read": true
   },
   {
    "desk": "Advisory",
    "score": 12,
+   "priority": 100,
+   "title": "Bond Market Signals Softer RBI Rate Hikes as Crude Retreats and Long-Term Yields Begin to Rally",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGhxY2hzYzJZZEI5ZnBsYlphXy1oN0RXWkVPaTNRN29HUGpNWmRmVXU4YkZ0MVV2dFVmaExMaEVnVE9UTUNJTVh5Sk5MV2ZvaUdqaWpkNzdGYVpkSzdlQWthUlFXRHp3T1ZHcmxlel9xTnlJajZyNjlya2ZPNnlFN0JQc3g2aVlKQ3hxclhWNElmTl94c2xUUEV0MTIxUVpFc0Z5cGc1YUVvTmxjNGZfYm9Oaw?oc=5",
+   "date": "2026-11-23",
+   "source": "Kotak Neo",
+   "label": "Debt & Bonds",
+   "snippet": "Bond yields ease as crude oil prices retreat, prompting markets to reassess RBI rate hikes, inflation risks and demand for longer-dated government bonds.",
+   "lead": "",
+   "image": "https://www.kotakneo.com/uploads/bond_market_signals_softer_rbi_rate_hikes_14d333fdf4.webp",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Global macro driver",
+    "Sharp market move"
+   ],
+   "tags": [
+    "Debt & Bonds"
+   ],
+   "rank": 6,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
    "priority": 92,
    "title": "MCX gold plunges ₹4,420/10g, silver sheds nearly ₹8,800/kg as PCE data fuels December Fed rate hike bets",
    "url": "https://www.livemint.com/market/commodities/mcx-gold-plunges-rs-4-500-10g-silver-sheds-nearly-rs-8-800-kg-as-pce-data-fuels-december-fed-rate-hike-fears-11795621934097.html",
@@ -553,51 +596,29 @@
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 6,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 12,
-   "priority": 92,
-   "title": "Bond Market Signals Softer RBI Rate Hikes as Crude Retreats and Long-Term Yields Begin to Rally",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGhxY2hzYzJZZEI5ZnBsYlphXy1oN0RXWkVPaTNRN29HUGpNWmRmVXU4YkZ0MVV2dFVmaExMaEVnVE9UTUNJTVh5Sk5MV2ZvaUdqaWpkNzdGYVpkSzdlQWthUlFXRHp3T1ZHcmxlel9xTnlJajZyNjlya2ZPNnlFN0JQc3g2aVlKQ3hxclhWNElmTl94c2xUUEV0MTIxUVpFc0Z5cGc1YUVvTmxjNGZfYm9Oaw?oc=5",
-   "date": "2026-11-23",
-   "source": "Kotak Neo",
-   "label": "Debt & Bonds",
-   "snippet": "Bond yields ease as crude oil prices retreat, prompting markets to reassess RBI rate hikes, inflation risks and demand for longer-dated government bonds.",
-   "lead": "",
-   "image": "https://www.kotakneo.com/uploads/bond_market_signals_softer_rbi_rate_hikes_14d333fdf4.webp",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Global macro driver",
-    "Sharp market move"
-   ],
-   "tags": [
-    "Debt & Bonds"
-   ],
    "rank": 7,
    "must_read": false
   },
   {
-   "desk": "Policy",
-   "score": 9,
-   "priority": 90,
-   "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on November 27, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64051",
-   "date": "2026-11-26",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Friday, November 27, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "desk": "Immigration",
+   "score": 10,
+   "priority": 91,
+   "title": "Spain raises age limit to 26 for foreign children of Spanish citizens seeking Residence Permits",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MSUN6N2dlbVp0dEp2UU1IbFFDWlJWSWd6SzNRMGFOS3o5bm1ONUkyTkFNcmVhMTJxeFhnYUIzQmloal96U2FFbE1oaHo5bUU2VURfdnVtLWowSUJiRExqTi1NckNzRC1EV0RfVEEtZDJOZWw4?oc=5",
+   "date": "2026-11-27",
+   "source": "GistReel",
+   "label": "Spain",
+   "snippet": "",
+   "lead": "",
    "image": null,
    "why": [
-    "Rates and liquidity",
-    "Regulator: RBI"
+    "Quota or cap change",
+    "Announces a change",
+    "Major story (8 headlines that day)"
    ],
    "tags": [
-    "Banking & Rates"
+    "Quota / Caps",
+    "Spain"
    ],
    "rank": 8,
    "must_read": false
@@ -606,73 +627,52 @@
    "desk": "Policy",
    "score": 9,
    "priority": 90,
-   "title": "NLMC holds 22nd Board Meeting; Considers fresh asset monetisation and valuation proposals worth approximately ₹1,300 crore",
-   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341730",
-   "date": "2026-11-26",
-   "source": "PIB",
-   "label": "Budget & Fiscal",
-   "snippet": "The National Land Monetization Corporation Limited (NLMC), under the Department of Public Enterprises (DPE), Ministry of Finance, Government of India, held its 22nd Meeting of the Board of Directors y",
-   "lead": "Ministry of Finance NLMC holds 22nd Board Meeting; Considers fresh asset monetisation and valuation proposals worth approximately ₹1,300 crore NLMC considers fresh proposals to further strengthen monetisation pipeline in addition to over ₹9,000 crore in assets monetised in FY2026-27 NLMC to advance monetisation of its own residential property portfolio in New Delhi and Mumbai Posted On: 26 NOV 2026 11:45AM by PIB Delhi The National ...",
+   "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on November 30, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64061",
+   "date": "2026-11-27",
+   "source": "RBI",
+   "label": "Banking & Rates",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Monday, November 30, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
    "image": null,
    "why": [
-    "Capital and ownership policy",
-    "Ministry of Finance"
+    "Rates and liquidity",
+    "Regulator: RBI"
    ],
    "tags": [
-    "Budget & Fiscal"
+    "Banking & Rates"
    ],
    "rank": 9,
    "must_read": false
   },
   {
-   "desk": "Policy",
-   "score": 9,
-   "priority": 90,
-   "title": "Half-yearly review of -Significant Indices- under SEBI (Index Providers) Regulations, 2024",
-   "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/half-yearly-review-of-significant-indices-under-sebi-index-providers-regulations-2024_105853.html",
+   "desk": "Startups",
+   "score": 12,
+   "priority": 86,
+   "title": "PhonePe Revives IPO Plans, Eyes March 2027 Listing At Up To $15 Bn Valuation",
+   "url": "https://inc42.com/buzz/phonepe-revives-ipo-plans-eyes-march-2027-listing-at-up-to-15-bn-valuation/",
    "date": "2026-11-25",
-   "source": "SEBI",
-   "label": "Markets & Regulation",
-   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
-   "lead": "",
-   "image": null,
+   "source": "Inc42",
+   "label": "India · Fintech",
+   "snippet": "PhonePe has restarted talks with investment bankers for a March 2027 listing, targeting a $12 Bn to $15 Bn valuation and an IPO of up to ₹12,000 Cr.",
+   "lead": "The Bengaluru-based company plans to file updated IPO papers by December-end for an offer for sale of up to ₹12,000 Cr ($1.3 Bn). Notably, PhonePe was valued at $14.5 Bn during General Atlantic’s $600 Mn secondary investment in 2025. Sources said PhonePe expects greater clarity by December-end on two regulatory issues affecting the company’s business – the merchant discount rate (MDR) framework for UPI transactions and the 30% ...",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/09/phonepe-outage-social-.png",
    "why": [
-    "Regulator rulebook change",
-    "Regulator: SEBI"
+    "IPO & Listing",
+    "Very large figure in headline (about $15,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Markets & Regulation"
+    "IPO & Listing",
+    "Fintech"
    ],
    "rank": 10,
    "must_read": false
   },
   {
-   "desk": "Startups",
-   "score": 11,
-   "priority": 85,
-   "title": "Norwest Sells ₹262 Cr Stake In Amagi Through Block Deal",
-   "url": "https://inc42.com/buzz/norwest-sells-%e2%82%b9262-cr-stake-in-amagi-through-block-deal/",
-   "date": "2026-11-27",
-   "source": "Inc42",
-   "label": "India · Media, Gaming & Creators",
-   "snippet": "Norwest Venture Partners sold a partial stake in Amagi for ₹262 Cr through a block deal, with multiple institutional investors buying shares",
-   "lead": "Norwest Venture Partners sold 47.4 Lakh shares of Amagi at ₹554 apiece via a block deal, translating to a deal worth ₹262.4 Cr. The transaction marks a partial exit for Norwest, which held an 11.76% stake in September, with Aditya Birla Sun Life Mutual Fund and Old Bridge Capital buying the shares. The sale follows Amagi’s Q2 FY27 results, when net profit rose nearly 30-fold to ₹75 Cr and operating revenue grew 27% YoY to ₹476 Cr.",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/Amagi-Return-1.jpg",
-   "why": [
-    "IPO & Listing",
-    "Sizeable deal (about $28M)"
-   ],
-   "tags": [
-    "IPO & Listing",
-    "Media, Gaming & Creators"
-   ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
    "desk": "Advisory",
-   "score": 11,
-   "priority": 85,
+   "score": 10,
+   "priority": 83,
    "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on November 27, 2026",
    "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64051",
    "date": "2026-11-26",
@@ -689,13 +689,13 @@
    "tags": [
     "Regulatory"
    ],
-   "rank": 12,
+   "rank": 11,
    "must_read": false
   },
   {
    "desk": "Advisory",
-   "score": 11,
-   "priority": 85,
+   "score": 10,
+   "priority": 83,
    "title": "Half-yearly review of -Significant Indices- under SEBI (Index Providers) Regulations, 2024",
    "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/half-yearly-review-of-significant-indices-under-sebi-index-providers-regulations-2024_105853.html",
    "date": "2026-11-25",
@@ -711,6 +711,30 @@
    "tags": [
     "Regulatory"
    ],
+   "rank": 12,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 9,
+   "priority": 82,
+   "title": "UK student visa: Higher bank balance requirement from November 30; what Indian applicants need to know",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNTFZRWWdSSFowQmJ5SVhXLUhVcVE2MnVGOEpUeVR6UG4yZzVfRHRacFdEU0VxV1FPazFMbEVpbDBlRDNicnpuQnJaS0RZNjRXQUdJekFfYVdpZktDWXRITldkQ0pQM1ZZcHYtLW5jaGRaVWJnQW5qU19VNncySkVSczRjc0pDQ2VtUjA5UW81WkNLLWpuWUduc1puQlU5Vl9FZ3dPYUN6LVJkN3F6cjY3X1ZwNWNMYTRIV0N1QnhaMTI0cDRIaWY5RS1IVG9UYUxnZ0lfb3RTcFZnclY3MG5mSmlOMEctbXQtTlpOWHVLN0hJeTNKYTA5TzFrczAxMUJPT1REVHhGV0hhekxKQ2lpQ1M0NNIBmAJBVV95cUxQUFA0ZkdMTHVTQVh2X0Fvc2ZSYlFMYmF3NWk5UklWZ0h4cFhXYTlFNTBvQ0xaTVMtcEU3MDNjOVRlT3BRU1pDVnk3VGtvNFg1dTZWOTVzZFkyRFB1cy1OVWkyOUh1cmJROFlJT2JocEptS2p3RWc1VXBvOVBRbVY2MUJJUkVYQi1PTFBnNWxKaWdEeXdrUWNSOGlza0VqRjktclY2cmJNWVpFUE1keGNCSExXa3JZYUx2NHVJcFFubTVpRVdESjhaYXJoSGxLRmtxZ2Z0NlM5b09fc2x5RVNSbDB5NFAtRlU4ZFVoenZHVjlhb1RwVnJPMTdNYnRGNFhqZGdNWjNuZ2laWTYyUGNtTXM5al9FSG1v?oc=5",
+   "date": "2026-11-24",
+   "source": "The Times of India",
+   "label": "United Kingdom",
+   "snippet": "Indian students planning to study in the UK in January 2027 will need to arrange more money for their visa applications from November 30. The UK Home Office is increasing the minimum amount international students must show for living expenses.",
+   "lead": "Our Privacy Policy has been revised. Please review updated ';P+=' Privacy Policy Here ';P+='",
+   "image": "https://static.toiimg.com/thumb/msid-136120643,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "why": [
+    "Announces a change",
+    "Major story (14 headlines that day)",
+    "Mentions India or Indians"
+   ],
+   "tags": [
+    "Student / Graduate",
+    "United Kingdom"
+   ],
    "rank": 13,
    "must_read": false
   },
@@ -718,13 +742,57 @@
    "desk": "Policy",
    "score": 8,
    "priority": 80,
-   "title": "Reserve Bank of India (Commercial Banks - Securitisation Transactions) Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13753&Mode=0",
+   "title": "NLMC holds 22nd Board Meeting; Considers fresh asset monetisation and valuation proposals worth approximately ₹1,300 crore",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2341730",
+   "date": "2026-11-26",
+   "source": "PIB",
+   "label": "Budget & Fiscal",
+   "snippet": "The National Land Monetization Corporation Limited (NLMC), under the Department of Public Enterprises (DPE), Ministry of Finance, Government of India, held its 22nd Meeting of the Board of Directors y",
+   "lead": "Ministry of Finance NLMC holds 22nd Board Meeting; Considers fresh asset monetisation and valuation proposals worth approximately ₹1,300 crore NLMC considers fresh proposals to further strengthen monetisation pipeline in addition to over ₹9,000 crore in assets monetised in FY2026-27 NLMC to advance monetisation of its own residential property portfolio in New Delhi and Mumbai Posted On: 26 NOV 2026 11:45AM by PIB Delhi The National ...",
+   "image": null,
+   "why": [
+    "Capital and ownership policy",
+    "Ministry of Finance"
+   ],
+   "tags": [
+    "Budget & Fiscal"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 8,
+   "priority": 80,
+   "title": "Half-yearly review of -Significant Indices- under SEBI (Index Providers) Regulations, 2024",
+   "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/half-yearly-review-of-significant-indices-under-sebi-index-providers-regulations-2024_105853.html",
+   "date": "2026-11-25",
+   "source": "SEBI",
+   "label": "Markets & Regulation",
+   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator rulebook change",
+    "Regulator: SEBI"
+   ],
+   "tags": [
+    "Markets & Regulation"
+   ],
+   "rank": 15,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 8,
+   "priority": 80,
+   "title": "Reserve Bank of India (Securitisation Transactions) Amendment Directions, 2026: issued for 2 bank categories",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13754&Mode=0",
    "date": "2026-11-23",
    "source": "RBI",
    "label": "Banking & Rates",
    "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Commercial Banks - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (Commercial Banks - Securitisation Transactions) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by the section 21 and 35A of the Banking Regulation Act, 1949, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby issues ...",
+   "lead": "Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by the section 21 and 35A of the Banking Regulation Act, 1949, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby ...",
    "image": null,
    "why": [
     "Regulator rulebook change",
@@ -734,7 +802,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 14,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -757,35 +825,36 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 15,
+   "rank": 17,
    "must_read": false
   },
   {
    "desk": "Startups",
-   "score": 10,
-   "priority": 77,
-   "title": "From a small Indian village to a $44 billion deal: The rise of Zscaler founder Jay Chaudhry",
-   "url": "https://economictimes.indiatimes.com/tech/technology/from-small-indian-village-to-44-billion-deal-the-rise-of-zscaler-founder-jay-chaudhry/articleshow/136103683.cms",
-   "date": "2026-11-23",
-   "source": "ET Startups",
-   "label": "India · Other",
-   "snippet": "Chaudhry has founded five technology companies in the US over the past three decades. Four of these companies were acquired by other businesses, with Zscaler now set to become part of CrowdStrike.",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-657366,resizemode-75,msid-136103683/tech/technology/from-small-indian-village-to-44-billion-deal-the-rise-of-zscaler-founder-jay-chaudhry.jpg",
+   "score": 11,
+   "priority": 79,
+   "title": "ElevenLabs in talks to raise funding at $33bn valuation, reports say",
+   "url": "https://sifted.eu/articles/elevenlabs-funding-round-raise-33-bn-latest/",
+   "date": "2026-11-26",
+   "source": "Sifted",
+   "label": "Global · Other",
+   "snippet": "The AI voice startup is reportedly set to kick off fundraising efforts in first quarter of 2027.",
+   "lead": "AI voice startup ElevenLabs is in early talks with investors about a new funding round that could value the company at $33bn — three times the valuation it secured at the beginning of the year.",
+   "image": "https://images.sifted.eu/cdn-cgi/image/width=975,quality=75,fit=cover,format=auto/wp-content/uploads/2026/02/04150650/251222_Eleven-Labs3655-v1-1-e1770217781484.jpg",
    "why": [
-    "Acquisition",
-    "Very large figure in headline (about $44,000M: round or valuation)"
+    "Funding",
+    "Very large figure in headline (about $33,000M: round or valuation)",
+    "Valuation, listing or profitability signal"
    ],
    "tags": [
-    "Acquisition"
+    "Funding"
    ],
-   "rank": 16,
+   "rank": 18,
    "must_read": false
   },
   {
    "desk": "Immigration",
-   "score": 9,
-   "priority": 75,
+   "score": 8,
+   "priority": 73,
    "title": "New Zealand introduces 6 month graduate Work Visa: Can Indian students apply? Check eligibility",
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUThBYXI0TEVKaE10RVZ2bmRBa0d2V1NGdS1CeU5pb1h6UThKUTdGUW52a1doTFdhTXRaM244U3lPNjlDTjhTNmI4bFlQOWprcGFLbWNSeVMyLTdxdEYydjNxVy1hQlYxaHNzYkV4OVE0aW5yRHp6UmZ2Ti02cllfeXp0RFEzb0RGYnlfa3haa1JXLUo0Z29RYTNFUEdheTN4MG02RXBuaG1IS3B2bHZyN0ZEWER0TGJGYi0yMGN6QTg4MnhtamxfZlQ1VUhsTUh0LXU1QVdBVzlMUXNpZkM3Z2c2ZXN3alZjdGVBV1dqNkN6Ny1BeHc?oc=5",
    "date": "2026-11-27",
@@ -802,128 +871,13 @@
     "Student / Graduate",
     "New Zealand"
    ],
-   "rank": 17,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 9,
-   "priority": 75,
-   "title": "Spain raises age limit to 26 for foreign children of Spanish citizens seeking Residence Permits",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MSUN6N2dlbVp0dEp2UU1IbFFDWlJWSWd6SzNRMGFOS3o5bm1ONUkyTkFNcmVhMTJxeFhnYUIzQmloal96U2FFbE1oaHo5bUU2VURfdnVtLWowSUJiRExqTi1NckNzRC1EV0RfVEEtZDJOZWw4?oc=5",
-   "date": "2026-11-27",
-   "source": "GistReel",
-   "label": "Spain",
-   "snippet": "",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Quota or cap change",
-    "Announces a change"
-   ],
-   "tags": [
-    "Quota / Caps",
-    "Spain"
-   ],
-   "rank": 18,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 9,
-   "priority": 75,
-   "title": "What UK immigration changes mean for hospitality employers",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWldTX0NjZFlvZ2dqNnU2XzIxVUtaeVZpQnk0TTZCZVk5N0g2YWNfVTRxbi1UR3A2Rng3cEFvUnFCMkZ4UGszQW91NW03V25LTUVNNlZwZEN6c0VpWGdXLTFDYVlsVWxybHhyQlhKYXpacDdVLWtzVXEzZ2kwaHAzei1GS1NfQ1hlWkJyMGQ0ajRlblhta2xBY3NLSnhSSFdTalFDc01STVhTaGxZaTlZRFhfNFU?oc=5",
-   "date": "2026-11-25",
-   "source": "The Morning Advertiser",
-   "label": "United Kingdom",
-   "snippet": "Proposed UK immigration changes could increase sponsorship costs for hospitality employers, while a planned UK-EU youth scheme may offer new recruitment opportunities.",
-   "lead": "The Government has outlined changes to how overseas workers qualify for permanent settlement in the UK, alongside a new agreement with the EU aimed at making it easier for younger people to live and work across borders. Get the biggest pub trade stories straight to your phone. Listen to our one-minute daily news briefing and receive breaking news, exclusives and sector updates throughout the day. Remember to turn notifications on in ...",
-   "image": "https://www.morningadvertiser.co.uk/resizer/v2/CQ5SW2V5IFAEZLXWKZ3LUC32VA.jpg?auth=472860b3ad5b67c546d3d7746357c7f71b2dbf4ec4e891d7a95c899efa3c3c1e&width=1200&height=630&smart=true",
-   "why": [
-    "Affects work visas",
-    "Announces a change",
-    "Major story (12 headlines that day)"
-   ],
-   "tags": [
-    "Work visa",
-    "United Kingdom"
-   ],
    "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 7,
-   "priority": 70,
-   "title": "Underwriting Auction for sale of Government Securities for ₹33,000 crore on November 27, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64048",
-   "date": "2026-11-26",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on November 27, 2026 (Friday). As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Commitment (MUC) and the minimum bidding commitment under Additional Competitive Underwriting (ACU) auction, applicable to each Primary Dealer (PD), are as under: ...",
-   "image": null,
-   "why": [
-    "Regulator: RBI",
-    "Large outlay (Rs 10,000 Cr or more)"
-   ],
-   "tags": [
-    "Banking & Rates"
-   ],
-   "rank": 20,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 9,
-   "priority": 69,
-   "title": "Capri Global raises $30M in bonds from BlueOrchard Microfinance",
-   "url": "https://yourstory.com/2026/11/capri-global-raises-30-million-in-bonds-from-blueorchard-microfinance",
-   "date": "2026-11-26",
-   "source": "YourStory",
-   "label": "India · Fintech",
-   "snippet": "The fundraise will support Capri Global's MSME lending business and expand access to credit for businesses across India.",
-   "lead": "Capri Global raises $30M in bonds from BlueOrchard Microfinance The fundraise will support Capri Global's MSME lending business and expand access to credit for businesses across India. Team YS 17669 Stories Thursday November 26, 2026 , 2 min Read Capri Global Capital Limited, a retail-focused non-banking financial company (NBFC), has raised $30 million from the BlueOrchard Microfinance Fund, managed by impact investment firm ...",
-   "image": "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Imagexayf-1790744100143.jpg",
-   "why": [
-    "Funding",
-    "Sizeable deal (about $30M)"
-   ],
-   "tags": [
-    "Funding",
-    "Fintech"
-   ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 9,
-   "priority": 69,
-   "title": "Finnable Nets ₹405 Cr To Scale Digital Lending Business",
-   "url": "https://inc42.com/buzz/finnable-nets-%e2%82%b9405-cr-to-scale-digital-lending-business/",
-   "date": "2026-11-26",
-   "source": "Inc42",
-   "label": "India · Fintech",
-   "snippet": "Finnable has raised ₹405 Cr ($43.8 Mn) in a Series C funding round led by Bharat Value Fund (BVF), which invested ₹150 Cr in the startup",
-   "lead": "Finnable has raised ₹405 Cr ($43.8 Mn) in a Series C funding round led by Bharat Value Fund (BVF), which invested ₹150 Cr in the startup Finnable ill deploy the fresh capital to expand its lending portfolio, strengthen its tech stack and forge new partnerships across the lending ecosystem The round also saw participation from Pratithi Investments and NK Squared, along with existing investors TVS Capital and MEMG Family Office",
-   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/stakcbox-funding-featured-1-1-1-1.jpg",
-   "why": [
-    "Funding",
-    "Sizeable deal (about $43M)"
-   ],
-   "tags": [
-    "Funding",
-    "Fintech"
-   ],
-   "rank": 22,
    "must_read": false
   },
   {
    "desk": "Immigration",
    "score": 8,
-   "priority": 67,
+   "priority": 73,
    "title": "How extreme are the far-right FPÖ's proposals to tighten Austria's citizenship laws?",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdl95LW5INWl3UGt2VjhId20taTRDak1XTkEwbjkydTJsekY2blRQV1dtbTRWN1RtX1oyVFdZNEJFejZEUDJhcnFHSHgyRFJKUHhzNFFFc1h3VXpBSWlRTE45NGcwamw0bzAtY1o4aWJtU1hNLXBaLU4zOUw0TnlSaDBMRUROSm44ZnlXMUpBUmk5M19yN04xcXp3VW9OeGcyVjUyOS1OYkMwRGRHcDMxOHctVmo?oc=5",
    "date": "2026-11-23",
@@ -939,6 +893,74 @@
    "tags": [
     "Citizenship",
     "Austria"
+   ],
+   "rank": 20,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 71,
+   "title": "Norwest Sells ₹262 Cr Stake In Amagi Through Block Deal",
+   "url": "https://inc42.com/buzz/norwest-sells-%e2%82%b9262-cr-stake-in-amagi-through-block-deal/",
+   "date": "2026-11-27",
+   "source": "Inc42",
+   "label": "India · Media, Gaming & Creators",
+   "snippet": "Norwest Venture Partners sold a partial stake in Amagi for ₹262 Cr through a block deal, with multiple institutional investors buying shares",
+   "lead": "Norwest Venture Partners sold 47.4 Lakh shares of Amagi at ₹554 apiece via a block deal, translating to a deal worth ₹262.4 Cr. The transaction marks a partial exit for Norwest, which held an 11.76% stake in September, with Aditya Birla Sun Life Mutual Fund and Old Bridge Capital buying the shares. The sale follows Amagi’s Q2 FY27 results, when net profit rose nearly 30-fold to ₹75 Cr and operating revenue grew 27% YoY to ₹476 Cr.",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/Amagi-Return-1.jpg",
+   "why": [
+    "IPO & Listing",
+    "Sizeable deal (about $28M)"
+   ],
+   "tags": [
+    "IPO & Listing",
+    "Media, Gaming & Creators"
+   ],
+   "rank": 21,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 10,
+   "priority": 71,
+   "title": "From a small Indian village to a $44 billion deal: The rise of Zscaler founder Jay Chaudhry",
+   "url": "https://economictimes.indiatimes.com/tech/technology/from-small-indian-village-to-44-billion-deal-the-rise-of-zscaler-founder-jay-chaudhry/articleshow/136103683.cms",
+   "date": "2026-11-23",
+   "source": "ET Startups",
+   "label": "India · Other",
+   "snippet": "Chaudhry has founded five technology companies in the US over the past three decades. Four of these companies were acquired by other businesses, with Zscaler now set to become part of CrowdStrike.",
+   "lead": "",
+   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-657366,resizemode-75,msid-136103683/tech/technology/from-small-indian-village-to-44-billion-deal-the-rise-of-zscaler-founder-jay-chaudhry.jpg",
+   "why": [
+    "Acquisition",
+    "Very large figure in headline (about $44,000M: round or valuation)"
+   ],
+   "tags": [
+    "Acquisition"
+   ],
+   "rank": 22,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 9,
+   "priority": 64,
+   "title": "Why CrowdStrike is spending $44 billion to acquire cloud security platform Zscaler",
+   "url": "https://www.medianama.com/2026/11/223-crowdstrike-acquire-cloud-zscaler/",
+   "date": "2026-11-24",
+   "source": "MediaNama",
+   "label": "Global · AI & Deeptech",
+   "snippet": "Why is CrowdStrike acquiring Zscaler for $43.9 billion, and how does the deal advance its ambitions in AI and cybersecurity?",
+   "lead": "Cybersecurity firm CrowdStrike announced on Monday, November 23, that it had entered into a definitive agreement to acquire cloud security platform Zscaler in an all-stock deal worth $43.9 billion. This exceeds the $32 billion Google agreed to pay for Wiz in March last year and makes it the largest acquisition in the cybersecurity industry to date. In filings with the US Securities and Exchange Commission (SEC), CrowdStrike said the ...",
+   "image": null,
+   "why": [
+    "Acquisition",
+    "Very large figure in headline (about $44,000M: round or valuation)"
+   ],
+   "tags": [
+    "Acquisition",
+    "AI & Deeptech"
    ],
    "rank": 23,
    "must_read": false
