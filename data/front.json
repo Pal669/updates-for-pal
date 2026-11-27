@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-27",
- "built": "2026-11-27 01:21 IST",
+ "built": "2026-11-27 06:19 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -26,23 +26,23 @@
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 92.43,
-   "change_pct": -0.4,
-   "asof": "27 Nov 01:11 IST"
+   "value": 92.24,
+   "change_pct": -0.61,
+   "asof": "27 Nov 04:02 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 91.73,
-   "change_pct": -3.04,
-   "asof": "27 Nov 00:59 IST"
+   "value": 91.96,
+   "change_pct": -2.8,
+   "asof": "27 Nov 06:08 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3593.0,
+   "value": 3594.0,
    "change_pct": 1.63,
-   "asof": "27 Nov 00:59 IST"
+   "asof": "27 Nov 06:09 IST"
   },
   {
    "name": "US 10Y yield %",
@@ -254,74 +254,119 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 1,
+   "new_today": 7,
    "items": [
     {
      "desk": "Immigration",
-     "score": 6,
-     "priority": 50,
-     "title": "Spain’s far right hasn’t governed since Franco. Immigration fears could change that",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTFRWOV9leVJ1NUx5LWV3T0kxMjVidmV2cEY1UmJnRFBJRmFlWlVPLW9HZUEzZnVEU01PSXlHTTJucGdxN0hLUzZrd2YtaEJxb2RJS1JySXlVNFNYdElMZVo4MXRCeHpTRURxN2ZaVngyQUduUW81YTFDLXloV2QtQ3NEOUdkVGpYd0F4S0VrcExPdlB0RnRLUVNRVERwQjg?oc=5",
+     "score": 7,
+     "priority": 58,
+     "title": "What are Norway's current waiting times for residence permits and citizenship?",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNenJVck9ldi1ocDg3Ti1mX0dMVTRmdF9OWGZGeUc5TUwxeW1rdUMtcU1wcXN4MXAwUl8wcjdWR3k3b20tV3pYeTh0M3owYlVZRnJCV1FGTG1tS2tnR25ocGUxNHhhUk4wVzRDS2ZvVmdBbEpCazRRalhXZ1kwb1RUbnZEZ1d6WThmbU5GM1VUX0ticVNTODNjU1FxV25zSldoNGk4d0dZUWg3ZHMyNFE?oc=5",
      "date": "2026-11-26",
-     "source": "AP News",
-     "label": "Spain",
-     "snippet": "",
-     "lead": "",
+     "source": "The Local Norway",
+     "label": "Norway",
+     "snippet": "Are you waiting for an answer on a permit to move to Norway or regularise your stay? New figures will give you an idea of how much longer you can expect to wait.",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Are you waiting for an answer on a permit to move to Norway or regularise your stay? New figures will give you an idea of how much longer you can expect to wait. The Norwegian Directorate of Immigration (UDI) ...",
      "image": null,
      "why": [
-      "Announces a change"
+      "Affects citizenship"
      ],
      "tags": [
-      "Spain"
+      "Citizenship",
+      "Norway"
      ]
     },
     {
      "desk": "Immigration",
-     "score": 6,
-     "priority": 50,
-     "title": "New Zealand Introduces New Online System For Graduate Work Visa Applications",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzcmNKOWV4SnE0MmZjOWdPbnBDRmNRZXNoS1pqOG1MWEVNeWM4UHQyQlNCUjQyQTYzWHpGN01meGs5aHd2dVo4YkYwenVkbW9UcFlr?oc=5",
-     "date": "2026-11-26",
-     "source": "شبكة تواصل الإخبارية",
-     "label": "New Zealand",
-     "snippet": "",
+     "score": 7,
+     "priority": 58,
+     "title": "Belgium raises 2027 work visa salary thresholds for foreign professionals, including Indians",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU0FmRFFucXlBTG5kWkxBQUlCWkNjdnpzejJKU3Nrbk02ZllXLXAyTy1OV0JDclNkZTM1bHhWT29MOVNuUXVtN0J2Y3BBNXJTT2lUcjBsNnQ4ZmlzdTk3bVBqWGg1enZMNHZnYWlicUJOQjlBdE9FTHB3NV9qUE1tSktVYnQ4NE9UX2h6QjhyU2RoTGJVRUsxTW9aM3JGMUhXa0FuU2s3V2thdFlGb0JDTVBZcHNEUXNjVE5jenoyU1RNLXAxV21NRTFSNUROeHBQZGFIV3FwaUlvVXlocXR6azM2c3BRbDVOaGfSAe8BQVVfeXFMTjhka2p6Z0xxM2s5QmZGTlYyRV9ROXkzSFI5N18zbTRzdkNCOVJicXlSbjUtQ3FQalg3dEJEYnByTmZxUVRoRVVpZmJBY3hBNnMyR190ZXZsVnM2UjFvVUt5RG9MX1I3V0F5Tkk0T3RBek1ubzFDaV91LWRvVEJpcTBzcWVBUWdyMkxaZTVVRl9iYURUOUZhSnpiU0hNTDZxVXZlSWJSNS00TnQwS3RpWmQxZmtsaHJ0cEpRVThUcFd0TEdESk5lblFSNGdSa3UzNnRBZTN2MGV1QjBuY0JNUGg0WGRuLWlNdU92UXJGaXc?oc=5",
+     "date": "2026-11-21",
+     "source": "The Economic Times",
+     "label": "Belgium",
+     "snippet": "Belgium's Wallonia region has announced higher minimum salary requirements for foreign workers applying for work authorisations and Work Permit B from January 1, 2027. The revised thresholds apply to several categories, including highly qualified professionals, management positions, EU Blue Card holders and intra-company transferees. Empl",
      "lead": "",
-     "image": null,
-     "why": [
-      "Announces a change"
-     ],
-     "tags": [
-      "Student / Graduate",
-      "New Zealand"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 50,
-     "title": "Iceland Revises Means-of-Support Thresholds for Immigration",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUmlaNnNtb3VMeGYxSjhUVldGaFFfOEN2c29BWEtTemE3dUNpMWlRaFM5M0JMX0x3OHVuVWYxaFdoeFlMdzdTbHBUSC1XalRDNlM4ZkxpX1A0bDROT09vSUx1WTFhUnRUak1EVXd5QjFWY2d4QnN4WVNHRHh4S2dMUWpkZF9SZw?oc=5",
-     "date": "2026-11-25",
-     "source": "Erickson Immigration Group",
-     "label": "Iceland",
-     "snippet": "Iceland's Ministry of Justice will revise its draft regulation on financial support requirements for residence and citizenship applications.",
-     "lead": "",
-     "image": "https://eiglaw.com/wp-content/uploads/2023/08/Iceland.png",
+     "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1973252,resizemode-75,msid-136049511/nri/work/belgium-raises-2027-work-visa-salary-thresholds-for-foreign-professionals-including-indians.jpg",
      "why": [
       "Salary threshold change",
-      "Announces a change"
+      "Announces a change",
+      "Mentions India or Indians"
      ],
      "tags": [
       "Salary threshold",
-      "Iceland"
+      "Belgium"
+     ]
+    },
+    {
+     "desk": "Immigration",
+     "score": 7,
+     "priority": 58,
+     "title": "Japan tightens permanent residency rules with language, integration checks",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWFlDbDgweEJvSEh3UkdRWDFpUjNwdk0zeFhFbW1OcG9qUFI3aFNyVjJ3dUZQTlhtdEREMXF6T1NBMFZZX09jMFBpelUxaXBGckxzbWJSNFI4UVhmUHRTT3ZMZGJXMlQ3OEQyRjg3VjIwN0N5WklRV3dFc2F1UFloMVNyYkZzMUstTjMydDhDejJlZ2dsaTdhLVp3?oc=5",
+     "date": "2026-11-20",
+     "source": "Punch Newspapers",
+     "label": "Japan",
+     "snippet": "Japan permanent residency rules will require B1 Japanese and a test of applicants' grasp of laws and social systems, with five exempt categories.",
+     "lead": "Add us to your Preferred Sources Japan tightens permanent residency rules with language, integration checks News November 20, 2026 9:39 am Japanese flag. Credit: Engoo | website Japan is introducing stricter requirements for foreign nationals seeking permanent residency, including a Japanese language proficiency standard of B1 or higher and an assessment of applicants’ understanding of the country’s laws, rules and social systems. As ...",
+     "image": "https://punchng.com/wp-content/uploads/2026/07/2YV6x0W21XFcAYvPbkO5qG_1785227963.webp",
+     "why": [
+      "Affects permanent residence",
+      "Announces a change"
+     ],
+     "tags": [
+      "PR / Settlement",
+      "Japan"
      ]
     }
    ]
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 0,
+   "new_today": 15,
    "items": [
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 77,
+     "title": "West Asia conflict has generated a relatively stronger oil price shock, larger rupee depreciation, surge in price of gold: RBI Study",
+     "url": "https://www.thehindubusinessline.com/money-and-banking/west-asia-conflicthas-generated-a-relatively-stronger-oil-price-shock-larger-rupee-depreciation-surgein-price-of-gold-rbi-study/article71746541.ece",
+     "date": "2026-11-26",
+     "source": "BusinessLine",
+     "label": "Gold & Silver",
+     "snippet": "RBI study shows West Asia conflict triggers stronger oil price shocks, rupee depreciation, and surging gold prices, broadening imported inflation versus the Russia-Ukraine episode.",
+     "lead": "' blCenterIconDiv.innerHTML = spanSvg blLoaderDiv.appendChild(blCenterLoadDiv) blLoaderDiv.appendChild(blCenterIconDiv) divInner.appendChild(blLoaderDiv) div.appendChild(divInner) var bodyIntravel = setInterval(() => { if(window.document.body) { clearInterval(bodyIntravel) window.document.body.insertBefore(div, window.document.body.firstChild) } }, 100) function addStyle(styles) { var css = document.createElement('style'); css.type = ...",
+     "image": "https://bl-i.thgim.com/public/incoming/jtkke2/article71746718.ece/alternates/LANDSCAPE_1200/IMG_PO01_Gold_silver_oil_2_1_HAFH12H0.jpg",
+     "why": [
+      "Regulator: SEBI or RBI",
+      "Precious metals",
+      "Sharp market move"
+     ],
+     "tags": [
+      "Gold & Silver"
+     ]
+    },
+    {
+     "desk": "Advisory",
+     "score": 10,
+     "priority": 77,
+     "title": "Opening multiple demat or mutual fund accounts? SEBI simplifies KYC norms: 8 key changes for investors from 24 December",
+     "url": "https://www.livemint.com/money/personal-finance/opening-multiple-demat-or-mutual-fund-accounts-sebi-simplifies-kyc-norms-8-key-changes-for-investors-from-24-december-11795659284549.html",
+     "date": "2026-11-26",
+     "source": "Mint",
+     "label": "Mutual Funds",
+     "snippet": "SEBI has announced eight changes to simplify the KYC process for investors opening demat, trading and mutual fund accounts with multiple intermediaries. The new rules will reduce paperwork and avoid repeated verification. Here's what changes from 24 December.",
+     "lead": "Opening demat or mutual fund accounts? SEBI simplifies KYC norms; 8 key changes for investors from 24 December. (AI-generated image for representational purposes only) AI Quick Read Opening a demat, trading or mutual fund account could become simpler as the Securities and Exchange Board of India ( SEBI ) has announced eight changes to the Know Your Customer (KYC) process. The changes will reduce repeated documentation, make KYC records ...",
+     "image": null,
+     "why": [
+      "Regulator: SEBI or RBI",
+      "Rule or framework change",
+      "Also covered by 1 other outlet(s)"
+     ],
+     "tags": [
+      "Mutual Funds"
+     ]
+    },
     {
      "desk": "Advisory",
      "score": 10,
@@ -348,56 +393,14 @@
      "desk": "Advisory",
      "score": 9,
      "priority": 69,
-     "title": "Nasdaq-100 nears bear market as futures plunge 3.2%, Nvidia slides amid Fed rate hike concerns | Hindustan Times",
-     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPM0piVVgxdllIOWQwc1lLeDBublR0cnlSYzgxYVIzeWJuUUxYMUQwNnFFa19pQk1EOFU3VkFWdmJVLTJHOFV0dVlUTVZVUG9ndk9SREZlT2k5YzhVaEZFWW1XWU9QaFZEaEkzN2lVdjRHc1o2cDBweElOeTBiTzJYSExKeDZXdVhXQzU3Z21uMGQxV3E0ZGlHQ2Q2cERsYXFhb2RUc2lhMVRUZm5iWkpVT3dSTHZ2REl4MDc4ZWFncXZaakhBbGJsSDIxUFR2WUtEeklsUllyX09PcUVKWl9TWGtOSVlTcmxMTy11dkFtemZmMWFy0gH6AUFVX3lxTFB6MTdSeWhNdUpiWWpPdGgtaGJfU3pBclNvZFlKUUVVMFBSWV9sdXp0UG11NnF0TWNZQklPSkFiRmFaa2p5WXJMamJEdVh6dkhubDl5aGZhTExUazdlRGFTUnZ0eXI1UHZ4LUJlYXZBODhCTC1BVlhsbVkybm1hRmZiT2JfaVd4My0teDRfZDFSUkdqa2w1R3RZZFFYQjNtYUtqUktYTzNLS3F3aDhZTVB3c3Ezend0WngzeXhaUU1IdDNXd3Q1TUdWRDRGOFpaMHZKX3NBZXlXWTNRbElKZzdGWHdEN2VSamQwdERYTUFRVmpNVHBYMlNTOXc?oc=5",
-     "date": "2026-11-25",
-     "source": "Hindustan Times",
+     "title": "First Trust’s Fed Forecast: Interest Rate Hikes in 2027 May Fall Short of Expectations",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQWE5WVFFYXJEOUU1S3hUSDJwYzR3b2ZQdjlmdkx2Z0VKaWludF9NanZnVjkyNFdjVVdhN1pwMWZoX1RaOWQtRXRNWUNVbEsyX3NnQmV1OXJTYkduemNFYTFHZ0drOG04RXlCckJPZDNseURwNG1icjJsbTNqMmRkbnh0WDUyMHFXSE5EcTllMmdEZXdIRHRuaTVRazZQajhjczBHQ093amRMRFhtVEl1TXNMM1lSTDg?oc=5",
+     "date": "2026-11-27",
+     "source": "Bitcoin Sistemi",
      "label": "Global",
-     "snippet": "Nasdaq-100 futures plunge 3.2% as Nvidia and AI stocks slide, while Fed rate hike concerns and inflation worries weigh on Wall Street.",
-     "lead": "Durva More is a Senior Content Producer at Hindustan Times, where she covers finance, and global news. She brings experience across digital and television journalism, with a strong focus on breaking news, business reporting, and international affairs. Before joining Hindustan Times, Durva worked as an International News Writer at The Economic Times, covering a diverse range of subjects including global politics, business, sports, ...",
-     "image": null,
-     "why": [
-      "Interest-rate decision",
-      "Global macro driver",
-      "Sharp market move"
-     ],
-     "tags": [
-      "Global"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 9,
-     "priority": 69,
-     "title": "Global gold prices fell 2% amid expectations of a Fed interest rate hike.",
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSnRSblA3SjJCTTB3UDdfTGZZZ19MSUhNa3NpNkVrSFdZejNDWTdqRjkxUnlVdmVsNUlzc1ZqZ2lfVkxKaDV5dko0R1V4UjdhUDZOMmcwS05vRGJPUEZKaXVpVHhqQXBJbWcwWVl2OGhONmhzc1NGLTVUQlNPdXNTNHc1dlJtMEdPWDJz?oc=5",
-     "date": "2026-11-25",
-     "source": "Vietnam.vn",
-     "label": "Gold & Silver",
-     "snippet": "Spot gold prices fell 2% to $3,558.25 per ounce at 2:11 p.m. Eastern Time on November 24, after touching a low of $3,552.46 per ounce earlier in the session.",
-     "lead": "English Login Global gold prices fell 2% amid expectations of a Fed interest rate hike. Spot gold prices fell 2% to $3,558.25 per ounce at 2:11 p.m. Eastern Time on November 24, after touching a low of $3,552.46 per ounce earlier in the session. 0 Global gold prices fell by more than 2% on November 24th, due to signals indicating a hawkish stance from US Federal Reserve officials and a high likelihood of an interest rate hike in ...",
-     "image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/09/1794190851956_vna-potal-gia-vang-tiep-tuc-lap-dinh-moi-8491548-jpg.webp",
-     "why": [
-      "Interest-rate decision",
-      "Precious metals",
-      "Global macro driver"
-     ],
-     "tags": [
-      "Gold & Silver"
-     ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 8,
-     "priority": 62,
-     "title": "US Inflation Hits 3.8% as Fed Prepares December Rate Hike",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0aEN2aXF3SnQ1b20tMTBFSjBUeDctVzBORENWcFBVS3NOWmlCMUVBeG9IQy1fSm5jSkQ4UG1SQ1RBOC1qUUZ4cFUza3FUY2JmaE9aZ0duM3UxQXREckM0WXlCamlxNHR0WFZpdFBud2c?oc=5",
-     "date": "2026-11-26",
-     "source": "Demokratis.co.id",
-     "label": "Global",
-     "snippet": "US inflation accelerated to 3.8% in October, while core PCE reached 3.3%, strengthening expectations of a Federal Reserve rate hike in December.",
-     "lead": "Home Economy US Inflation Hits 3.8% as Fed Prepares December Rate Hike US Inflation Hits 3.8% as Fed Prepares December Rate Hike Oliver Bennett Published Nov 26, 2026 - 03:50 9 Reads Last Update Nov 26, 2026 - 03:50 Share WhatsApp Smallest Font Largest Font Rising consumer prices have intensified pressure on the Federal Reserve to tighten monetary policy, after US inflation accelerated to 3.8% in October. The Commerce Department ...",
-     "image": "https://cdn.demokratis.co.id/media/images/2026/11/cx1iEIJbrz.jpeg?location=1&width=1200&height=674&quality=80&watermark=1",
+     "snippet": "Prominent economists have released statements regarding the Federal Reserve's potential interest rate changes next month and in 2027.",
+     "lead": "Prominent economists have released statements regarding the Federal Reserve's potential interest rate changes next month and in 2027. Summary Show Hide First Trust economists said markets expect the Fed to raise rates more than necessary by 2027, as inflation could move... First Trust economists said markets expect the Fed to raise rates more than necessary by 2027, as inflation could move toward 2 percent next year without further ...",
+     "image": "https://www.bitcoinsistemi.com/wp-content/uploads/2025/01/FED-Faiz-2-.png",
      "why": [
       "Interest-rate decision",
       "Global macro driver"
@@ -425,7 +428,7 @@
    "why": [
     "Affects work visas",
     "Announces a change",
-    "Major story (18 headlines that day)",
+    "Major story (19 headlines that day)",
     "Mentions India or Indians"
    ],
    "tags": [
@@ -644,6 +647,51 @@
    "must_read": false
   },
   {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 85,
+   "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on November 27, 2026",
+   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64051",
+   "date": "2026-11-26",
+   "source": "RBI",
+   "label": "Regulatory",
+   "snippet": "Press Releases - Reserve Bank of India",
+   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Friday, November 27, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
+   "image": null,
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Official notice",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 11,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 85,
+   "title": "Half-yearly review of -Significant Indices- under SEBI (Index Providers) Regulations, 2024",
+   "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/half-yearly-review-of-significant-indices-under-sebi-index-providers-regulations-2024_105853.html",
+   "date": "2026-11-25",
+   "source": "SEBI",
+   "label": "Regulatory",
+   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Official notice"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 12,
+   "must_read": false
+  },
+  {
    "desk": "Policy",
    "score": 8,
    "priority": 80,
@@ -663,7 +711,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 11,
+   "rank": 13,
    "must_read": false
   },
   {
@@ -685,53 +733,6 @@
    ],
    "tags": [
     "Banking & Rates"
-   ],
-   "rank": 12,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 77,
-   "title": "RBI may opt for 25 bps rate hike as oil eases, inflation risks persist: Baroda BNP Paribas MF CIO",
-   "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-opt-for-25-bps-rate-hike-as-oil-eases-inflation-risks-persist-baroda-bnp-paribas-mf-cio/articleshow/136162711.cms",
-   "date": "2026-11-25",
-   "source": "Economic Times",
-   "label": "Regulatory",
-   "snippet": "The Reserve Bank of India is projected to implement a 0.25 percent interest rate hike in December. While decreasing crude oil prices could alleviate some inflation worries, many senior executives advocate for a measured strategy due to the prevailing economic climate. Nevertheless, concerns regarding food inflation and supply chain issues",
-   "lead": "Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price Top Trending Stocks: SBI Share Price , Axis Bank Share Price , HDFC Bank Share Price , Infosys Share Price , Wipro Share Price , NTPC Share Price The fall is new, the pattern is 11 years old: Making sense of gold's crash",
-   "image": "https://img.etimg.com/thumb/msid-136162838,width-1200,height-900,imgsize-113464,overlay-etmarkets/articleshow.jpg",
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Interest-rate decision",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Regulatory",
-    "Energy & Power"
-   ],
-   "rank": 13,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 77,
-   "title": "RBI to conduct Overnight Variable Rate Repo (VRR) auction under LAF on November 26, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64043",
-   "date": "2026-11-25",
-   "source": "RBI",
-   "label": "Regulatory",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Thursday, November 26, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Official notice",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Regulatory"
    ],
    "rank": 14,
    "must_read": false
@@ -773,7 +774,7 @@
    "why": [
     "Affects work visas",
     "Announces a change",
-    "Major story (11 headlines that day)"
+    "Major story (12 headlines that day)"
    ],
    "tags": [
     "Work visa",
@@ -877,6 +878,29 @@
    "desk": "Immigration",
    "score": 8,
    "priority": 67,
+   "title": "Spain raises age limit to 26 for foreign children of Spanish citizens seeking Residence Permits",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MSUN6N2dlbVp0dEp2UU1IbFFDWlJWSWd6SzNRMGFOS3o5bm1ONUkyTkFNcmVhMTJxeFhnYUIzQmloal96U2FFbE1oaHo5bUU2VURfdnVtLWowSUJiRExqTi1NckNzRC1EV0RfVEEtZDJOZWw4?oc=5",
+   "date": "2026-11-27",
+   "source": "GistReel",
+   "label": "Spain",
+   "snippet": "",
+   "lead": "",
+   "image": null,
+   "why": [
+    "Quota or cap change",
+    "Announces a change"
+   ],
+   "tags": [
+    "Quota / Caps",
+    "Spain"
+   ],
+   "rank": 21,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 8,
+   "priority": 67,
    "title": "How extreme are the far-right FPÖ's proposals to tighten Austria's citizenship laws?",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdl95LW5INWl3UGt2VjhId20taTRDak1XTkEwbjkydTJsekY2blRQV1dtbTRWN1RtX1oyVFdZNEJFejZEUDJhcnFHSHgyRFJKUHhzNFFFc1h3VXpBSWlRTE45NGcwamw0bzAtY1o4aWJtU1hNLXBaLU4zOUw0TnlSaDBMRUROSm44ZnlXMUpBUmk5M19yN04xcXp3VW9OeGcyVjUyOS1OYkMwRGRHcDMxOHctVmo?oc=5",
    "date": "2026-11-23",
@@ -893,30 +917,6 @@
     "Citizenship",
     "Austria"
    ],
-   "rank": 21,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 7,
-   "priority": 58,
-   "title": "Belgium raises 2027 work visa salary thresholds for foreign professionals, including Indians",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPU0FmRFFucXlBTG5kWkxBQUlCWkNjdnpzejJKU3Nrbk02ZllXLXAyTy1OV0JDclNkZTM1bHhWT29MOVNuUXVtN0J2Y3BBNXJTT2lUcjBsNnQ4ZmlzdTk3bVBqWGg1enZMNHZnYWlicUJOQjlBdE9FTHB3NV9qUE1tSktVYnQ4NE9UX2h6QjhyU2RoTGJVRUsxTW9aM3JGMUhXa0FuU2s3V2thdFlGb0JDTVBZcHNEUXNjVE5jenoyU1RNLXAxV21NRTFSNUROeHBQZGFIV3FwaUlvVXlocXR6azM2c3BRbDVOaGfSAe8BQVVfeXFMTjhka2p6Z0xxM2s5QmZGTlYyRV9ROXkzSFI5N18zbTRzdkNCOVJicXlSbjUtQ3FQalg3dEJEYnByTmZxUVRoRVVpZmJBY3hBNnMyR190ZXZsVnM2UjFvVUt5RG9MX1I3V0F5Tkk0T3RBek1ubzFDaV91LWRvVEJpcTBzcWVBUWdyMkxaZTVVRl9iYURUOUZhSnpiU0hNTDZxVXZlSWJSNS00TnQwS3RpWmQxZmtsaHJ0cEpRVThUcFd0TEdESk5lblFSNGdSa3UzNnRBZTN2MGV1QjBuY0JNUGg0WGRuLWlNdU92UXJGaXc?oc=5",
-   "date": "2026-11-21",
-   "source": "The Economic Times",
-   "label": "Belgium",
-   "snippet": "Belgium's Wallonia region has announced higher minimum salary requirements for foreign workers applying for work authorisations and Work Permit B from January 1, 2027. The revised thresholds apply to several categories, including highly qualified professionals, management positions, EU Blue Card holders and intra-company transferees. Empl",
-   "lead": "",
-   "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1973252,resizemode-75,msid-136049511/nri/work/belgium-raises-2027-work-visa-salary-thresholds-for-foreign-professionals-including-indians.jpg",
-   "why": [
-    "Salary threshold change",
-    "Announces a change",
-    "Mentions India or Indians"
-   ],
-   "tags": [
-    "Salary threshold",
-    "Belgium"
-   ],
    "rank": 22,
    "must_read": false
   },
@@ -924,21 +924,20 @@
    "desk": "Immigration",
    "score": 7,
    "priority": 58,
-   "title": "Japan tightens permanent residency rules with language, integration checks",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWFlDbDgweEJvSEh3UkdRWDFpUjNwdk0zeFhFbW1OcG9qUFI3aFNyVjJ3dUZQTlhtdEREMXF6T1NBMFZZX09jMFBpelUxaXBGckxzbWJSNFI4UVhmUHRTT3ZMZGJXMlQ3OEQyRjg3VjIwN0N5WklRV3dFc2F1UFloMVNyYkZzMUstTjMydDhDejJlZ2dsaTdhLVp3?oc=5",
-   "date": "2026-11-20",
-   "source": "Punch Newspapers",
-   "label": "Japan",
-   "snippet": "Japan permanent residency rules will require B1 Japanese and a test of applicants' grasp of laws and social systems, with five exempt categories.",
-   "lead": "Add us to your Preferred Sources Japan tightens permanent residency rules with language, integration checks News November 20, 2026 9:39 am Japanese flag. Credit: Engoo | website Japan is introducing stricter requirements for foreign nationals seeking permanent residency, including a Japanese language proficiency standard of B1 or higher and an assessment of applicants’ understanding of the country’s laws, rules and social systems. As ...",
-   "image": "https://punchng.com/wp-content/uploads/2026/07/2YV6x0W21XFcAYvPbkO5qG_1785227963.webp",
+   "title": "New Zealand is suspending two ways to qualify for permanent residence. Who is affected?",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONWFfcnZrczVxWUh5V2tSRk5BQ2pMaGdRdHY1OG1pOEF5STVocThTTTV1V3B6N0YtSnhfUUd5dUx3eWF1TzdIOE5oQnExTjVQMnU4aFVuOHZmU05fb1FWMWxOeFZWeUVfaWg1Ry1MQWcxclMyZnJ5SmdyMXpkNUpzdHN4MWo0bVRITGZIaDhOQUVFSmFsRk1OdENSOGJjWUc3T0hjWWFhZkhMTXhsU0ZqeUpaQlh5QTBUeDNhQ0NnWQ?oc=5",
+   "date": "2026-11-27",
+   "source": "https://awaaz.co.nz/",
+   "label": "New Zealand",
+   "snippet": "The 184-day rule stays in place, while residents relying on an investment or a business have until May 2027.",
+   "lead": "s.setAttribute('style', 'filter: brightness(0) invert(1)'));\" onmouseout=\"this.style.backgroundColor='white'; this.style.color='#333'; this.querySelectorAll('svg').forEach(s => s.removeAttribute('style'));\" > FACEBOOK s.setAttribute('style', 'filter: brightness(0) invert(1)'));\" onmouseout=\"this.style.backgroundColor='white'; this.style.color='#333'; this.querySelectorAll('svg').forEach(s => s.removeAttribute('style'));\" > TWITTER ...",
+   "image": "https://prod-awaaz-mediatech-dam-assets.s3.ap-southeast-2.amazonaws.com/552f8bcd-88bd-43d5-b598-437880e10028-social_preview_ef0be12b-ba13-48ff-a512-bcf8279d1121_1795737885475.jpg",
    "why": [
-    "Affects permanent residence",
-    "Announces a change"
+    "Affects permanent residence"
    ],
    "tags": [
     "PR / Settlement",
-    "Japan"
+    "New Zealand"
    ],
    "rank": 23,
    "must_read": false
