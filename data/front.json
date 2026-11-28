@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-28",
- "built": "2026-11-28 13:54 IST",
+ "built": "2026-11-28 23:58 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -79,9 +79,30 @@
  },
  "desks": {
   "Policy": {
-   "total": 410,
-   "new_today": 0,
+   "total": 414,
+   "new_today": 4,
    "items": [
+    {
+     "desk": "Policy",
+     "score": 8,
+     "priority": 62,
+     "title": "Reserve Bank of India (Securitisation Transactions) Amendment Directions, 2026: issued for 2 bank categories",
+     "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13754&Mode=0",
+     "date": "2026-11-23",
+     "source": "RBI",
+     "label": "Banking & Rates",
+     "snippet": "Notifications - Reserve Bank of India",
+     "lead": "Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by the section 21 and 35A of the Banking Regulation Act, 1949, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby ...",
+     "image": null,
+     "why": [
+      "Regulator rulebook change",
+      "Rule change",
+      "Regulator: RBI"
+     ],
+     "tags": [
+      "Banking & Rates"
+     ]
+    },
     {
      "desk": "Policy",
      "score": 8,
@@ -142,31 +163,12 @@
      "tags": [
       "Banking & Rates"
      ]
-    },
-    {
-     "desk": "Policy",
-     "score": 4,
-     "priority": 31,
-     "title": "FPI Participation in Exchange Traded Commodity Derivatives (ETCDs)",
-     "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/fpi-participation-in-exchange-traded-commodity-derivatives-etcds-_105989.html",
-     "date": "2026-11-27",
-     "source": "SEBI",
-     "label": "Markets & Regulation",
-     "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
-     "lead": "",
-     "image": null,
-     "why": [
-      "Regulator: SEBI"
-     ],
-     "tags": [
-      "Markets & Regulation"
-     ]
     }
    ]
   },
   "Startups": {
    "total": 1500,
-   "new_today": 3,
+   "new_today": 7,
    "items": [
     {
      "desk": "Startups",
@@ -186,6 +188,26 @@
      ],
      "tags": [
       "Acquisition"
+     ]
+    },
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 64,
+     "title": "Delhivery initiates arbitration against former shareholders of Ecom Express over Rs 51.88 Cr claims",
+     "url": "https://yourstory.com/2026/11/delhivery-takes-ecom-express-sellers-to-arbitration-over-rs-5188-cr-claims",
+     "date": "2026-11-28",
+     "source": "YourStory",
+     "label": "India · Logistics & Supply Chain",
+     "snippet": "The logistics company alleges it identified certain losses after acquiring Ecom Express in July 2025 and has sought indemnification from the sellers British International Investment PLC, Warburg Pincus affiliate Eaglebay Investment Ltd, and PG Esmeralda Pte Ltd.",
+     "lead": "Delhivery initiates arbitration against former shareholders of Ecom Express over Rs 51.88 Cr claims The logistics company alleges it identified certain losses after acquiring Ecom Express in July 2025 and has sought indemnification from the sellers British International Investment PLC, Warburg Pincus affiliate Eaglebay Investment Ltd, and PG Esmeralda Pte Ltd. Team YS 17676 Stories Saturday November 28, 2026 , 2 min Read Delhivery has ...",
+     "image": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Screenshot2025-05-16at6-1747399418349.png",
+     "why": [
+      "Acquisition"
+     ],
+     "tags": [
+      "Acquisition",
+      "Logistics & Supply Chain"
      ]
     },
     {
@@ -227,33 +249,12 @@
      "tags": [
       "IPO & Listing"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 8,
-     "priority": 57,
-     "title": "Capri Global raises $30M in bonds from BlueOrchard Microfinance",
-     "url": "https://yourstory.com/2026/11/capri-global-raises-30-million-in-bonds-from-blueorchard-microfinance",
-     "date": "2026-11-26",
-     "source": "YourStory",
-     "label": "India · Fintech",
-     "snippet": "The fundraise will support Capri Global's MSME lending business and expand access to credit for businesses across India.",
-     "lead": "Capri Global raises $30M in bonds from BlueOrchard Microfinance The fundraise will support Capri Global's MSME lending business and expand access to credit for businesses across India. Team YS 17669 Stories Thursday November 26, 2026 , 2 min Read Capri Global Capital Limited, a retail-focused non-banking financial company (NBFC), has raised $30 million from the BlueOrchard Microfinance Fund, managed by impact investment firm ...",
-     "image": "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Imagexayf-1790744100143.jpg",
-     "why": [
-      "Funding",
-      "Sizeable deal (about $30M)"
-     ],
-     "tags": [
-      "Funding",
-      "Fintech"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 17,
+   "new_today": 23,
    "items": [
     {
      "desk": "Immigration",
@@ -280,7 +281,7 @@
      "desk": "Immigration",
      "score": 7,
      "priority": 64,
-     "title": "French citizenship and foreign pensions: prefectures have new guidance",
+     "title": "French citizenship and foreign pensions: prefectures given new guidance",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWUNLcE5QeVBjQjlTWEY3Z0hXOXE3bEdiQUg1ekl3amZ3dkE4TVNFVlU3NEZsN2lvMGhOT3FTWEdialM3Q0o1RGNNTlVSdmJaSE5oVms5S2ZDSmR6TnlZSlRZN3NtWk5qeXRCR2ppXzhnSU9yZWRrZ01ONmRvQ3EtR0J4Sm0tMUVOUnE1dUp5c1dSMW5ra2dxUWpENVktbExzVThZbVA0My0yUVFwSEZrV2YxeG1GZ1VvQzI1dUNtbzVZeVVF?oc=5",
      "date": "2026-11-28",
      "source": "connexionfrance",
@@ -747,6 +748,28 @@
    "desk": "Policy",
    "score": 10,
    "priority": 77,
+   "title": "DGGI Patna Zonal Unit unearths GST refund fraud exceeding ₹88 crore in tobacco sector; Cigarettes valued at over ₹150 crore placed under prohibition",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2343025",
+   "date": "2026-11-28",
+   "source": "PIB",
+   "label": "Tax, Duties & Trade",
+   "snippet": "Continuing its sustained efforts to curb tax evasion in the tobacco sector, the Patna Zonal Unit of Directorate General of GST Intelligence (DGGI) has unearthed a syndicate engaged in fraudulent avail",
+   "lead": "Ministry of Finance DGGI Patna Zonal Unit unearths GST refund fraud exceeding ₹88 crore in tobacco sector; Cigarettes valued at over ₹150 crore placed under prohibition Posted On: 28 NOV 2026 3:36PM by PIB Delhi Continuing its sustained efforts to curb tax evasion in the tobacco sector, the Patna Zonal Unit of Directorate General of GST Intelligence (DGGI) has unearthed a syndicate engaged in fraudulent availment of GST refunds. ...",
+   "image": null,
+   "why": [
+    "GST change",
+    "Ministry of Finance"
+   ],
+   "tags": [
+    "Tax, Duties & Trade"
+   ],
+   "rank": 14,
+   "must_read": false
+  },
+  {
+   "desk": "Policy",
+   "score": 10,
+   "priority": 77,
    "title": "Reserve Bank of India (Commercial Banks - Know Your Customer) Second Amendment Directions, 2026",
    "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13763&Mode=0",
    "date": "2026-11-27",
@@ -763,7 +786,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 14,
+   "rank": 15,
    "must_read": false
   },
   {
@@ -786,7 +809,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 15,
+   "rank": 16,
    "must_read": false
   },
   {
@@ -809,7 +832,7 @@
     "Salary threshold",
     "Germany"
    ],
-   "rank": 16,
+   "rank": 17,
    "must_read": false
   },
   {
@@ -832,7 +855,7 @@
     "Student / Graduate",
     "New Zealand"
    ],
-   "rank": 17,
+   "rank": 18,
    "must_read": false
   },
   {
@@ -855,7 +878,7 @@
     "Financials",
     "Health & Wellness"
    ],
-   "rank": 18,
+   "rank": 19,
    "must_read": false
   },
   {
@@ -878,7 +901,7 @@
     "IPO & Listing",
     "Media, Gaming & Creators"
    ],
-   "rank": 19,
+   "rank": 20,
    "must_read": false
   },
   {
@@ -900,7 +923,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 20,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -922,7 +945,7 @@
    "tags": [
     "Budget & Fiscal"
    ],
-   "rank": 21,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -943,29 +966,6 @@
    ],
    "tags": [
     "Markets & Regulation"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Policy",
-   "score": 8,
-   "priority": 62,
-   "title": "Reserve Bank of India (Securitisation Transactions) Amendment Directions, 2026: issued for 2 bank categories",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13754&Mode=0",
-   "date": "2026-11-23",
-   "source": "RBI",
-   "label": "Banking & Rates",
-   "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by the section 21 and 35A of the Banking Regulation Act, 1949, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby ...",
-   "image": null,
-   "why": [
-    "Regulator rulebook change",
-    "Rule change",
-    "Regulator: RBI"
-   ],
-   "tags": [
-    "Banking & Rates"
    ],
    "rank": 23,
    "must_read": false
