@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-28",
- "built": "2026-11-28 05:46 IST",
+ "built": "2026-11-28 10:31 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -12,36 +12,36 @@
   {
    "name": "Nifty 50",
    "dp": 0,
-   "value": 25884.0,
-   "change_pct": 0.25,
+   "value": 25607.0,
+   "change_pct": -1.07,
    "asof": "27 Nov 15:31 IST"
   },
   {
    "name": "Sensex",
    "dp": 0,
-   "value": 84329.0,
-   "change_pct": 0.46,
+   "value": 83339.0,
+   "change_pct": -1.17,
    "asof": "27 Nov 15:32 IST"
   },
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 92.45,
-   "change_pct": 0.23,
-   "asof": "28 Nov 03:39 IST"
+   "value": 92.99,
+   "change_pct": 0.58,
+   "asof": "28 Nov 09:00 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 90.84,
-   "change_pct": -3.98,
+   "value": 95.44,
+   "change_pct": 0.88,
    "asof": "28 Nov 01:14 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
-   "value": 3668.0,
-   "change_pct": 3.75,
+   "value": 3640.0,
+   "change_pct": 2.94,
    "asof": "28 Nov 01:14 IST"
   },
   {
@@ -79,7 +79,7 @@
  },
  "desks": {
   "Policy": {
-   "total": 405,
+   "total": 406,
    "new_today": 0,
    "items": [
     {
@@ -164,8 +164,29 @@
   },
   "Startups": {
    "total": 1500,
-   "new_today": 0,
+   "new_today": 2,
    "items": [
+    {
+     "desk": "Startups",
+     "score": 9,
+     "priority": 64,
+     "title": "Why CrowdStrike is spending $44 billion to acquire cloud security platform Zscaler",
+     "url": "https://www.medianama.com/2026/11/223-crowdstrike-acquire-cloud-zscaler/",
+     "date": "2026-11-24",
+     "source": "MediaNama",
+     "label": "Global · AI & Deeptech",
+     "snippet": "Why is CrowdStrike acquiring Zscaler for $43.9 billion, and how does the deal advance its ambitions in AI and cybersecurity?",
+     "lead": "Cybersecurity firm CrowdStrike announced on Monday, November 23, that it had entered into a definitive agreement to acquire cloud security platform Zscaler in an all-stock deal worth $43.9 billion. This exceeds the $32 billion Google agreed to pay for Wiz in March last year and makes it the largest acquisition in the cybersecurity industry to date. In filings with the US Securities and Exchange Commission (SEC), CrowdStrike said the ...",
+     "image": null,
+     "why": [
+      "Acquisition",
+      "Very large figure in headline (about $44,000M: round or valuation)"
+     ],
+     "tags": [
+      "Acquisition",
+      "AI & Deeptech"
+     ]
+    },
     {
      "desk": "Startups",
      "score": 8,
@@ -226,34 +247,34 @@
       "Funding",
       "Fintech"
      ]
-    },
-    {
-     "desk": "Startups",
-     "score": 8,
-     "priority": 57,
-     "title": "Finnable raises Rs 405 Cr in Series C to expand multi-product lending",
-     "url": "https://yourstory.com/2026/11/finnable-raises-rs-405-crore-in-series-c-to-expand-multi-product-lending",
-     "date": "2026-11-26",
-     "source": "YourStory",
-     "label": "India · Fintech",
-     "snippet": "The Bengaluru-based lender has crossed Rs 4,600 crore in assets under management and says it made Rs 51 crore in profit after tax in the first half of FY27.",
-     "lead": "Finnable raises Rs 405 Cr in Series C to expand multi-product lending The Bengaluru-based lender has crossed Rs 4,600 crore in assets under management and says it made Rs 51 crore in profit after tax in the first half of FY27. Team YS 17665 Stories Thursday November 26, 2026 , 2 min Read Fintech company Finnable has raised Rs 405 crore in a Series C round. The new investors are Bharat Value Fund, part of the Pantomath Group, along with ...",
-     "image": "https://images.yourstory.com/cs/2/ebefb4a0b2a011edb86579ca40e04503/CopyofNewPPTTemplates-2025-11-11T101937-1762836588343.jpg",
-     "why": [
-      "Funding",
-      "Sizeable deal (about $43M)"
-     ],
-     "tags": [
-      "Funding",
-      "Fintech"
-     ]
     }
    ]
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 4,
+   "new_today": 10,
    "items": [
+    {
+     "desk": "Immigration",
+     "score": 8,
+     "priority": 73,
+     "title": "How extreme are the far-right FPÖ's proposals to tighten Austria's citizenship laws?",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdl95LW5INWl3UGt2VjhId20taTRDak1XTkEwbjkydTJsekY2blRQV1dtbTRWN1RtX1oyVFdZNEJFejZEUDJhcnFHSHgyRFJKUHhzNFFFc1h3VXpBSWlRTE45NGcwamw0bzAtY1o4aWJtU1hNLXBaLU4zOUw0TnlSaDBMRUROSm44ZnlXMUpBUmk5M19yN04xcXp3VW9OeGcyVjUyOS1OYkMwRGRHcDMxOHctVmo?oc=5",
+     "date": "2026-11-23",
+     "source": "The Local Austria",
+     "label": "Austria",
+     "snippet": "Austria's naturalisation laws are rarely out of the headlines. Today we look at how the far-right Freedom Party (FPÖ), the most popular party in Austria, wants to tighten the laws around citizenship, including proposals for a \"probationary period\".",
+     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden 1 comment Add The Local as a preferred source Austria's naturalisation laws are rarely out of the headlines. Today we look at how the far-right Freedom Party (FPÖ), the most popular party in Austria, wants to tighten the laws around citizenship, including proposals ...",
+     "image": null,
+     "why": [
+      "Affects citizenship",
+      "Announces a change"
+     ],
+     "tags": [
+      "Citizenship",
+      "Austria"
+     ]
+    },
     {
      "desk": "Immigration",
      "score": 7,
@@ -316,26 +337,6 @@
      "tags": [
       "Salary threshold",
       "Belgium"
-     ]
-    },
-    {
-     "desk": "Immigration",
-     "score": 6,
-     "priority": 55,
-     "title": "What are Norway's current waiting times for residence permits and citizenship?",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNenJVck9ldi1ocDg3Ti1mX0dMVTRmdF9OWGZGeUc5TUwxeW1rdUMtcU1wcXN4MXAwUl8wcjdWR3k3b20tV3pYeTh0M3owYlVZRnJCV1FGTG1tS2tnR25ocGUxNHhhUk4wVzRDS2ZvVmdBbEpCazRRalhXZ1kwb1RUbnZEZ1d6WThmbU5GM1VUX0ticVNTODNjU1FxV25zSldoNGk4d0dZUWg3ZHMyNFE?oc=5",
-     "date": "2026-11-26",
-     "source": "The Local Norway",
-     "label": "Norway",
-     "snippet": "Are you waiting for an answer on a permit to move to Norway or regularise your stay? New figures will give you an idea of how much longer you can expect to wait.",
-     "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden Add a comment Add The Local as a preferred source Are you waiting for an answer on a permit to move to Norway or regularise your stay? New figures will give you an idea of how much longer you can expect to wait. The Norwegian Directorate of Immigration (UDI) ...",
-     "image": null,
-     "why": [
-      "Affects citizenship"
-     ],
-     "tags": [
-      "Citizenship",
-      "Norway"
      ]
     }
    ]
@@ -437,8 +438,8 @@
    "desk": "Policy",
    "score": 10,
    "priority": 100,
-   "title": "Reserve Bank of India (Know Your Customer) Second Amendment Directions, 2026: issued for 4 bank categories",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13766&Mode=0",
+   "title": "Reserve Bank of India (Know Your Customer) Second Amendment Directions, 2026: issued for 3 bank categories",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13765&Mode=0",
    "date": "2026-11-27",
    "source": "RBI",
    "label": "Banking & Rates",
@@ -836,6 +837,28 @@
    "desk": "Startups",
    "score": 11,
    "priority": 79,
+   "title": "From Finnable To M — Indian Startups Raised About $147 Mn This Week",
+   "url": "https://inc42.com/buzz/from-finnable-to-m-indian-startups-raised-about-147-mn-this-week/",
+   "date": "2026-11-28",
+   "source": "Inc42",
+   "label": "India · Other",
+   "snippet": "Indian startups managed to raise a mere $146.7 Mn between November 23 and November 27, down 49.3% from $291.3 Mn raised last week.",
+   "lead": "Indian startups managed to raise a mere $146.7 Mn between November 23 and November 27, down 49.3% from $291.3 Mn raised in the previous week AI topped the sectoral funding charts, with five startups cumulatively raising over $64 Mn this week Fintech was the second-most funded sector this week as two startups raised $53.8 Mn. Finnable’s $43.8 Mn round accounted for nearly 81% of the sector’s total haul",
+   "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/11/galore-social-social-.png",
+   "why": [
+    "Funding",
+    "Large deal (about $147M)"
+   ],
+   "tags": [
+    "Funding"
+   ],
+   "rank": 18,
+   "must_read": false
+  },
+  {
+   "desk": "Startups",
+   "score": 11,
+   "priority": 79,
    "title": "ElevenLabs in talks to raise funding at $33bn valuation, reports say",
    "url": "https://sifted.eu/articles/elevenlabs-funding-round-raise-33-bn-latest/",
    "date": "2026-11-26",
@@ -852,7 +875,30 @@
    "tags": [
     "Funding"
    ],
-   "rank": 18,
+   "rank": 19,
+   "must_read": false
+  },
+  {
+   "desk": "Immigration",
+   "score": 8,
+   "priority": 73,
+   "title": "Blue Card Salary Threshold Germany: How to Price a 2026 Offer Without Surprises",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdjd4RGV1LTUwdU9pZzRLaGREQnN4bGV5eTlBRGZ6YzJTa0VVVkdUa2NlSkk3eE9GaGxPZWJ5MkZaTU9faUstTi1OU0dYVDRDbGFkQzlSeGR6TjRBR1FURGh0dVE2Wmd2T21aeUFlVXhIZFpLYnNWZW9DT2ljQUlvbFg3MlBJei1JN1pyekE3NmFfLXZlMnN3?oc=5",
+   "date": "2026-11-28",
+   "source": "Global Advisory Experts",
+   "label": "Germany",
+   "snippet": "Blue Card salary threshold Germany 2026: the two figures, who gets the lower one, how much headroom to build in and how to price an offer.",
+   "lead": "The Blue Card salary threshold Germany applies in 2026 is really two numbers, and which one your candidate faces decides whether an offer works for the person, the budget and the immigration authority. Get the number wrong and you find out late, usually after the candidate has resigned from their current job. Get it right and the threshold becomes a simple input to your compensation model, like a pay band or a tax rate. This guide is ...",
+   "image": "https://globaladvisoryexperts.com/_ipx/f_jpeg&w_1200&b_ffffff&flatten_true/https://cdn.globallawexperts.com/news/1f43bf61-f871-4f66-be65-bbf840ab2e8b.jpg",
+   "why": [
+    "Salary threshold change",
+    "Announces a change"
+   ],
+   "tags": [
+    "Salary threshold",
+    "Germany"
+   ],
+   "rank": 20,
    "must_read": false
   },
   {
@@ -875,30 +921,7 @@
     "Student / Graduate",
     "New Zealand"
    ],
-   "rank": 19,
-   "must_read": false
-  },
-  {
-   "desk": "Immigration",
-   "score": 8,
-   "priority": 73,
-   "title": "How extreme are the far-right FPÖ's proposals to tighten Austria's citizenship laws?",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdl95LW5INWl3UGt2VjhId20taTRDak1XTkEwbjkydTJsekY2blRQV1dtbTRWN1RtX1oyVFdZNEJFejZEUDJhcnFHSHgyRFJKUHhzNFFFc1h3VXpBSWlRTE45NGcwamw0bzAtY1o4aWJtU1hNLXBaLU4zOUw0TnlSaDBMRUROSm44ZnlXMUpBUmk5M19yN04xcXp3VW9OeGcyVjUyOS1OYkMwRGRHcDMxOHctVmo?oc=5",
-   "date": "2026-11-23",
-   "source": "The Local Austria",
-   "label": "Austria",
-   "snippet": "Austria's naturalisation laws are rarely out of the headlines. Today we look at how the far-right Freedom Party (FPÖ), the most popular party in Austria, wants to tighten the laws around citizenship, including proposals for a \"probationary period\".",
-   "lead": "About Us Contact Us News Archive Search articles All topics Advertise with us Post a job ad Get The Local App The Local Europe AB Västmannagatan 43 113 25 Stockholm Sweden 1 comment Add The Local as a preferred source Austria's naturalisation laws are rarely out of the headlines. Today we look at how the far-right Freedom Party (FPÖ), the most popular party in Austria, wants to tighten the laws around citizenship, including proposals ...",
-   "image": null,
-   "why": [
-    "Affects citizenship",
-    "Announces a change"
-   ],
-   "tags": [
-    "Citizenship",
-    "Austria"
-   ],
-   "rank": 20,
+   "rank": 21,
    "must_read": false
   },
   {
@@ -921,7 +944,7 @@
     "IPO & Listing",
     "Media, Gaming & Creators"
    ],
-   "rank": 21,
+   "rank": 22,
    "must_read": false
   },
   {
@@ -942,29 +965,6 @@
    ],
    "tags": [
     "Acquisition"
-   ],
-   "rank": 22,
-   "must_read": false
-  },
-  {
-   "desk": "Startups",
-   "score": 9,
-   "priority": 64,
-   "title": "Why CrowdStrike is spending $44 billion to acquire cloud security platform Zscaler",
-   "url": "https://www.medianama.com/2026/11/223-crowdstrike-acquire-cloud-zscaler/",
-   "date": "2026-11-24",
-   "source": "MediaNama",
-   "label": "Global · AI & Deeptech",
-   "snippet": "Why is CrowdStrike acquiring Zscaler for $43.9 billion, and how does the deal advance its ambitions in AI and cybersecurity?",
-   "lead": "Cybersecurity firm CrowdStrike announced on Monday, November 23, that it had entered into a definitive agreement to acquire cloud security platform Zscaler in an all-stock deal worth $43.9 billion. This exceeds the $32 billion Google agreed to pay for Wiz in March last year and makes it the largest acquisition in the cybersecurity industry to date. In filings with the US Securities and Exchange Commission (SEC), CrowdStrike said the ...",
-   "image": null,
-   "why": [
-    "Acquisition",
-    "Very large figure in headline (about $44,000M: round or valuation)"
-   ],
-   "tags": [
-    "Acquisition",
-    "AI & Deeptech"
    ],
    "rank": 23,
    "must_read": false
