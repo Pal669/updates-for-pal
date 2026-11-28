@@ -1,6 +1,6 @@
 {
  "edition": "2026-11-28",
- "built": "2026-11-28 01:11 IST",
+ "built": "2026-11-28 05:46 IST",
  "count": 23,
  "by_desk": {
   "Policy": 7,
@@ -26,30 +26,30 @@
   {
    "name": "USD/INR",
    "dp": 2,
-   "value": 92.98,
-   "change_pct": 0.8,
-   "asof": "27 Nov 21:53 IST"
+   "value": 92.45,
+   "change_pct": 0.23,
+   "asof": "28 Nov 03:39 IST"
   },
   {
    "name": "Brent (USD)",
    "dp": 2,
-   "value": 90.81,
-   "change_pct": -4.02,
-   "asof": "28 Nov 01:01 IST"
+   "value": 90.84,
+   "change_pct": -3.98,
+   "asof": "28 Nov 01:14 IST"
   },
   {
    "name": "Gold (USD/oz)",
    "dp": 0,
    "value": 3668.0,
    "change_pct": 3.75,
-   "asof": "28 Nov 01:01 IST"
+   "asof": "28 Nov 01:14 IST"
   },
   {
    "name": "US 10Y yield %",
    "dp": 2,
-   "value": 4.93,
-   "change_pct": 1.77,
-   "asof": "28 Nov 00:56 IST"
+   "value": 4.94,
+   "change_pct": 1.82,
+   "asof": "28 Nov 01:29 IST"
   }
  ],
  "features": {
@@ -79,7 +79,7 @@
  },
  "desks": {
   "Policy": {
-   "total": 404,
+   "total": 405,
    "new_today": 0,
    "items": [
     {
@@ -252,7 +252,7 @@
   },
   "Immigration": {
    "total": 1500,
-   "new_today": 0,
+   "new_today": 4,
    "items": [
     {
      "desk": "Immigration",
@@ -284,9 +284,9 @@
      "date": "2026-11-27",
      "source": "openPR.com",
      "label": "France",
-     "snippet": "",
-     "lead": "",
-     "image": null,
+     "snippet": "A France work visa for Indians starts with a job offer Without one there s no application to make The French employer applies for work authorisation first Only then can you apply for your long stay visa That order surprises ...",
+     "lead": "01-12-2026 | Business, Economy, Finances, B … Irish Expert Irish Expert Supports Individuals and Families with Trusted Global Residency and … Irish Expert, a growing name in global immigration consultancy, continues to support individuals, families, entrepreneurs, and investors in achieving their international relocation goals through reliable residency, PR, citizenship, and investment-based migration services. As global mobility ...",
+     "image": "https://cdn.open-pr.com/L/b/Lb27716670_g.jpg",
      "why": [
       "Affects work visas",
       "Mentions India or Indians"
@@ -342,8 +342,30 @@
   },
   "Advisory": {
    "total": 3000,
-   "new_today": 0,
+   "new_today": 19,
    "items": [
+    {
+     "desk": "Advisory",
+     "score": 11,
+     "priority": 92,
+     "title": "MCX gold plunges ₹4,420/10g, silver sheds nearly ₹8,800/kg as PCE data fuels December Fed rate hike bets",
+     "url": "https://www.livemint.com/market/commodities/mcx-gold-plunges-rs-4-500-10g-silver-sheds-nearly-rs-8-800-kg-as-pce-data-fuels-december-fed-rate-hike-fears-11795621934097.html",
+     "date": "2026-11-25",
+     "source": "Mint",
+     "label": "Gold & Silver",
+     "snippet": "Gold and silver extended their sharp declines as hotter-than-target US inflation strengthened expectations of Federal Reserve rate hikes and lifted the dollar. MCX gold fell 3.6% to  ₹1,17,906 per 10 grams, while silver dropped  ₹8,800 to  ₹1,36,712 per kg.",
+     "lead": "MCX gold plunges ₹4,500/10g, silver sheds nearly ₹8,500/kg as PCE data fuels December Fed rate hike fears ( AI generated image ) AI Quick Read The sell-off in precious metals, gold and silver, accelerated in Wednesday's trade as the latest PCE inflation data reinforced expectations of US Federal Reserve rate hikes in December, making non-yielding assets such as precious metals less attractive to investors. In addition, a sharp rally in ...",
+     "image": null,
+     "why": [
+      "Interest-rate decision",
+      "Precious metals",
+      "Global macro driver",
+      "Sharp market move"
+     ],
+     "tags": [
+      "Gold & Silver"
+     ]
+    },
     {
      "desk": "Advisory",
      "score": 10,
@@ -370,21 +392,20 @@
      "desk": "Advisory",
      "score": 9,
      "priority": 75,
-     "title": "West Asia conflict has generated a relatively stronger oil price shock, larger rupee depreciation, surge in price of gold: RBI Study",
-     "url": "https://www.thehindubusinessline.com/money-and-banking/west-asia-conflicthas-generated-a-relatively-stronger-oil-price-shock-larger-rupee-depreciation-surgein-price-of-gold-rbi-study/article71746541.ece",
-     "date": "2026-11-26",
-     "source": "BusinessLine",
-     "label": "Gold & Silver",
-     "snippet": "RBI study shows West Asia conflict triggers stronger oil price shocks, rupee depreciation, and surging gold prices, broadening imported inflation versus the Russia-Ukraine episode.",
-     "lead": "' blCenterIconDiv.innerHTML = spanSvg blLoaderDiv.appendChild(blCenterLoadDiv) blLoaderDiv.appendChild(blCenterIconDiv) divInner.appendChild(blLoaderDiv) div.appendChild(divInner) var bodyIntravel = setInterval(() => { if(window.document.body) { clearInterval(bodyIntravel) window.document.body.insertBefore(div, window.document.body.firstChild) } }, 100) function addStyle(styles) { var css = document.createElement('style'); css.type = ...",
-     "image": "https://bl-i.thgim.com/public/incoming/jtkke2/article71746718.ece/alternates/LANDSCAPE_1200/IMG_PO01_Gold_silver_oil_2_1_HAFH12H0.jpg",
+     "title": "Sebi Plans Faster FPI Registration In 5 Days, REIT And InvIT Listings In 3 Days",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQkFocEZSM0U5MXJ6c1oxYmVIT0twSVNjQ2RXdzQ4d3YxaW9TUzUyZTR3SkFfdERKcFcwMTc4anJYdXhPZEFfdkhQSTU3eGN5anVFNGl2SkN1Q2REdmRwMDRtcEx2LXUxWVFjRnBTV2w2dTlCSjFpTFVJeklhaWNiYXZOckFPamViV29Ca3pFTG1SZE5LenBrS0hONFJ6cFZnaWs2TTNOSF9TbmpSbDBaSE00ZEVXWHZ0NEpFTEE5WQ?oc=5",
+     "date": "2026-11-28",
+     "source": "BW Businessworld",
+     "label": "REITs & InvITs",
+     "snippet": "",
+     "lead": "",
+     "image": null,
      "why": [
-      "Regulator: SEBI or RBI",
-      "Precious metals",
-      "Sharp market move"
+      "REIT / InvIT news",
+      "Regulator: SEBI or RBI"
      ],
      "tags": [
-      "Gold & Silver"
+      "REITs & InvITs"
      ]
     },
     {
@@ -407,26 +428,6 @@
      "tags": [
       "Mutual Funds"
      ]
-    },
-    {
-     "desk": "Advisory",
-     "score": 8,
-     "priority": 67,
-     "title": "First Trust’s Fed Forecast: Interest Rate Hikes in 2027 May Fall Short of Expectations",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQWE5WVFFYXJEOUU1S3hUSDJwYzR3b2ZQdjlmdkx2Z0VKaWludF9NanZnVjkyNFdjVVdhN1pwMWZoX1RaOWQtRXRNWUNVbEsyX3NnQmV1OXJTYkduemNFYTFHZ0drOG04RXlCckJPZDNseURwNG1icjJsbTNqMmRkbnh0WDUyMHFXSE5EcTllMmdEZXdIRHRuaTVRazZQajhjczBHQ093amRMRFhtVEl1TXNMM1lSTDg?oc=5",
-     "date": "2026-11-27",
-     "source": "Bitcoin Sistemi",
-     "label": "Global",
-     "snippet": "Prominent economists have released statements regarding the Federal Reserve's potential interest rate changes next month and in 2027.",
-     "lead": "Prominent economists have released statements regarding the Federal Reserve's potential interest rate changes next month and in 2027. Summary Show Hide First Trust economists said markets expect the Fed to raise rates more than necessary by 2027, as inflation could move... First Trust economists said markets expect the Fed to raise rates more than necessary by 2027, as inflation could move toward 2 percent next year without further ...",
-     "image": "https://www.bitcoinsistemi.com/wp-content/uploads/2025/01/FED-Faiz-2-.png",
-     "why": [
-      "Interest-rate decision",
-      "Global macro driver"
-     ],
-     "tags": [
-      "Global"
-     ]
     }
    ]
   }
@@ -436,8 +437,8 @@
    "desk": "Policy",
    "score": 10,
    "priority": 100,
-   "title": "Reserve Bank of India (Payment Banks - Know Your Customer) Amendment Directions, 2026",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13768&Mode=0",
+   "title": "Reserve Bank of India (Know Your Customer) Second Amendment Directions, 2026: issued for 4 bank categories",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13766&Mode=0",
    "date": "2026-11-27",
    "source": "RBI",
    "label": "Banking & Rates",
@@ -503,6 +504,30 @@
    "must_read": true
   },
   {
+   "desk": "Advisory",
+   "score": 12,
+   "priority": 100,
+   "title": "Nomura raises December RBI rate hike call to 50 bps, BoB sticks to 25 bps",
+   "url": "https://www.business-standard.com/finance/news/nomura-raises-december-rbi-rate-hike-call-to-50-bps-bob-sticks-to-25-bps-126112700852_1.html",
+   "date": "2026-11-27",
+   "source": "Business Standard",
+   "label": "Regulatory",
+   "snippet": "Nomura cites a sharper-than-expected rise in food prices for its revised rate hike forecast, while Bank of Baroda expects a smaller increase amid easing geopolitical tensions",
+   "lead": "Don't miss the most important news and views of the day. Get them on our Telegram channel",
+   "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-03/30/thumb/fitandfill/1200X628/1743334211-4253.jpg",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "New product or fund",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "Regulatory"
+   ],
+   "rank": 4,
+   "must_read": true
+  },
+  {
    "desk": "Immigration",
    "score": 11,
    "priority": 100,
@@ -524,7 +549,7 @@
     "Work visa",
     "Canada"
    ],
-   "rank": 4,
+   "rank": 5,
    "must_read": true
   },
   {
@@ -548,8 +573,8 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 5,
-   "must_read": true
+   "rank": 6,
+   "must_read": false
   },
   {
    "desk": "Advisory",
@@ -572,31 +597,55 @@
    "tags": [
     "Debt & Bonds"
    ],
-   "rank": 6,
+   "rank": 7,
    "must_read": false
   },
   {
    "desk": "Advisory",
    "score": 11,
    "priority": 92,
-   "title": "MCX gold plunges ₹4,420/10g, silver sheds nearly ₹8,800/kg as PCE data fuels December Fed rate hike bets",
-   "url": "https://www.livemint.com/market/commodities/mcx-gold-plunges-rs-4-500-10g-silver-sheds-nearly-rs-8-800-kg-as-pce-data-fuels-december-fed-rate-hike-fears-11795621934097.html",
-   "date": "2026-11-25",
+   "title": "RBI restores 90% daily CRR requirement for banks as liquidity tightens",
+   "url": "https://www.business-standard.com/finance/news/rbi-cuts-crr-maintenance-requirement-for-banks-back-to-90-from-dec-1-126112700971_1.html",
+   "date": "2026-11-27",
+   "source": "Business Standard",
+   "label": "Regulatory",
+   "snippet": "Rupee bond weakens, less than half of notified amount accepted at weekly bond auction",
+   "lead": "The rupee fell for the second day to settle at 92.99 per dollar against its previous close of 92.44 per dollar. In November so far, the rupee has appreciated over 2 per cent against the dollar. Don't miss the most important news and views of the day. Get them on our Telegram channel",
+   "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-11/04/thumb/fitandfill/1200X628/1793780659-2742.JPG",
+   "why": [
+    "Regulator: SEBI or RBI",
+    "Interest-rate decision",
+    "Also covered by 1 other outlet(s)"
+   ],
+   "tags": [
+    "Regulatory",
+    "Banks & Financials"
+   ],
+   "rank": 8,
+   "must_read": false
+  },
+  {
+   "desk": "Advisory",
+   "score": 11,
+   "priority": 92,
+   "title": "Gold price forecast: Fed rate hike in December may limit recovery to ₹1.30 lakh per 10 grams by 2026-end, says expert",
+   "url": "https://www.livemint.com/money/personal-finance/gold-price-forecast-fed-rate-hike-in-december-may-limit-recovery-to-1-30-lakh-per-10-grams-by-2026-end-says-expert-11795762496058.html",
+   "date": "2026-11-27",
    "source": "Mint",
    "label": "Gold & Silver",
-   "snippet": "Gold and silver extended their sharp declines as hotter-than-target US inflation strengthened expectations of Federal Reserve rate hikes and lifted the dollar. MCX gold fell 3.6% to  ₹1,17,906 per 10 grams, while silver dropped  ₹8,800 to  ₹1,36,712 per kg.",
-   "lead": "MCX gold plunges ₹4,500/10g, silver sheds nearly ₹8,500/kg as PCE data fuels December Fed rate hike fears ( AI generated image ) AI Quick Read The sell-off in precious metals, gold and silver, accelerated in Wednesday's trade as the latest PCE inflation data reinforced expectations of US Federal Reserve rate hikes in December, making non-yielding assets such as precious metals less attractive to investors. In addition, a sharp rally in ...",
+   "snippet": "Gold prices have recovered from recent lows, but an expected US Fed rate hike in December could limit further gains. An expert expects domestic gold prices to reach  ₹1.30 lakh per 10 grams by December-end 2026. Should investors buy now or wait for a correction?",
+   "lead": "Gold price forecast: Fed rate hike in December may limit recovery to ₹1.30 lakh per 10 grams by 2026-end, says expert. (AI-generated image for representational purposes only) AI Quick Read Gold prices are closely linked to US Federal Reserve interest rate decisions. The Fed's next Federal Open Market Committee (FOMC) meeting is scheduled for 8-9 December 2026, with the interest rate decision expected on 9 December. The Fed last raised ...",
    "image": null,
    "why": [
     "Interest-rate decision",
     "Precious metals",
     "Global macro driver",
-    "Sharp market move"
+    "Also covered by 1 other outlet(s)"
    ],
    "tags": [
     "Gold & Silver"
    ],
-   "rank": 7,
+   "rank": 9,
    "must_read": false
   },
   {
@@ -614,13 +663,13 @@
    "why": [
     "Quota or cap change",
     "Announces a change",
-    "Major story (8 headlines that day)"
+    "Major story (10 headlines that day)"
    ],
    "tags": [
     "Quota / Caps",
     "Spain"
    ],
-   "rank": 8,
+   "rank": 10,
    "must_read": false
   },
   {
@@ -642,7 +691,7 @@
    "tags": [
     "Banking & Rates"
    ],
-   "rank": 9,
+   "rank": 11,
    "must_read": false
   },
   {
@@ -665,51 +714,6 @@
    "tags": [
     "IPO & Listing",
     "Fintech"
-   ],
-   "rank": 10,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "RBI to conduct 3-day Variable Rate Repo (VRR) auction under LAF on November 27, 2026",
-   "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64051",
-   "date": "2026-11-26",
-   "source": "RBI",
-   "label": "Regulatory",
-   "snippet": "Press Releases - Reserve Bank of India",
-   "lead": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Friday, November 27, 2026, as under: 2. The operational guidelines for the auction will be same as given in Reserve Bank’s Press Release 2021-2022/1572 dated January 20, 2022 .",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Official notice",
-    "Also covered by 1 other outlet(s)"
-   ],
-   "tags": [
-    "Regulatory"
-   ],
-   "rank": 11,
-   "must_read": false
-  },
-  {
-   "desk": "Advisory",
-   "score": 10,
-   "priority": 83,
-   "title": "Half-yearly review of -Significant Indices- under SEBI (Index Providers) Regulations, 2024",
-   "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/half-yearly-review-of-significant-indices-under-sebi-index-providers-regulations-2024_105853.html",
-   "date": "2026-11-25",
-   "source": "SEBI",
-   "label": "Regulatory",
-   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the securities market and for matters connected therewith or incidental thereto",
-   "lead": "",
-   "image": null,
-   "why": [
-    "Regulator: SEBI or RBI",
-    "Official notice"
-   ],
-   "tags": [
-    "Regulatory"
    ],
    "rank": 12,
    "must_read": false
@@ -786,13 +790,13 @@
    "desk": "Policy",
    "score": 8,
    "priority": 80,
-   "title": "Reserve Bank of India (Securitisation Transactions) Amendment Directions, 2026: issued for 2 bank categories",
-   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13754&Mode=0",
+   "title": "Reserve Bank of India (Commercial Banks - Securitisation Transactions) Amendment Directions, 2026",
+   "url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13753&Mode=0",
    "date": "2026-11-23",
    "source": "RBI",
    "label": "Banking & Rates",
    "snippet": "Notifications - Reserve Bank of India",
-   "lead": "Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (Small Finance Banks - Securitisation Transactions) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by the section 21 and 35A of the Banking Regulation Act, 1949, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby ...",
+   "lead": "Reserve Bank of India (Commercial Banks - Securitisation Transactions) Amendment Directions, 2026 Please refer to Reserve Bank of India (Commercial Banks - Securitisation Transactions) Directions, 2025 . 2. On a review, and in exercise of the powers conferred by the section 21 and 35A of the Banking Regulation Act, 1949, the Reserve Bank being satisfied that it is necessary and expedient in the public interest so to do, hereby issues ...",
    "image": null,
    "why": [
     "Regulator rulebook change",
